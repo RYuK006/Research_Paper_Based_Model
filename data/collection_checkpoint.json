@@ -10,9 +10,29 @@
     "completed": false
   },
   "openalex": {
-    "cursor": "*",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022,
+      2021,
+      2020,
+      2019,
+      2018,
+      2017,
+      2016,
+      2015,
+      2014,
+      2013,
+      2012,
+      2011,
+      2010
+    ],
+    "current_year_idx": 0,
+    "current_page": 3,
     "completed": false
   },
-  "total_collected_in_session": 100,
-  "last_updated": "2026-11-09T11:29:57.413362+00:00"
+  "total_collected_in_session": 195,
+  "last_updated": "2026-11-09T12:20:51.462750+00:00"
 }
