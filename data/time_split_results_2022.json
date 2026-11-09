@@ -1,0 +1,414 @@
+{
+  "cutoff_year": 2022,
+  "pre_cutoff_papers": 13538,
+  "post_cutoff_papers": 8440,
+  "tested_k_values": [
+    10,
+    25,
+    50
+  ],
+  "pool_size": 5347,
+  "comparisons_by_k": [
+    {
+      "k": 10,
+      "model_hits": 5,
+      "model_rate": 50.0,
+      "random_hits": 1,
+      "random_rate": 5.31,
+      "frequency_hits": 3,
+      "frequency_rate": 30.0,
+      "similarity_hits": 0,
+      "similarity_rate": 0.0,
+      "lift_over_random": 9.42,
+      "lift_over_frequency": 1.67,
+      "lift_over_similarity": 1.0,
+      "model_ci_95": [
+        23.66,
+        76.34
+      ],
+      "random_ci_95": [
+        1.79,
+        40.41
+      ],
+      "frequency_ci_95": [
+        10.78,
+        60.32
+      ],
+      "similarity_ci_95": [
+        0.0,
+        27.75
+      ],
+      "paired_diff_ci_95": [
+        -10.0,
+        60.0
+      ]
+    },
+    {
+      "k": 25,
+      "model_hits": 12,
+      "model_rate": 48.0,
+      "random_hits": 1,
+      "random_rate": 5.34,
+      "frequency_hits": 10,
+      "frequency_rate": 40.0,
+      "similarity_hits": 1,
+      "similarity_rate": 4.0,
+      "lift_over_random": 9.0,
+      "lift_over_frequency": 1.2,
+      "lift_over_similarity": 12.0,
+      "model_ci_95": [
+        30.03,
+        66.5
+      ],
+      "random_ci_95": [
+        0.71,
+        19.54
+      ],
+      "frequency_ci_95": [
+        23.4,
+        59.26
+      ],
+      "similarity_ci_95": [
+        0.71,
+        19.54
+      ],
+      "paired_diff_ci_95": [
+        -20.0,
+        36.0
+      ]
+    },
+    {
+      "k": 50,
+      "model_hits": 25,
+      "model_rate": 50.0,
+      "random_hits": 3,
+      "random_rate": 5.35,
+      "frequency_hits": 19,
+      "frequency_rate": 38.0,
+      "similarity_hits": 1,
+      "similarity_rate": 2.0,
+      "lift_over_random": 9.34,
+      "lift_over_frequency": 1.32,
+      "lift_over_similarity": 25.0,
+      "model_ci_95": [
+        36.64,
+        63.36
+      ],
+      "random_ci_95": [
+        2.06,
+        16.22
+      ],
+      "frequency_ci_95": [
+        25.86,
+        51.85
+      ],
+      "similarity_ci_95": [
+        0.35,
+        10.5
+      ],
+      "paired_diff_ci_95": [
+        -10.0,
+        34.0
+      ]
+    }
+  ],
+  "bootstrap_iterations": 1000,
+  "verified_discoveries": [
+    {
+      "element_pair": [
+        "As",
+        "S"
+      ],
+      "paper_id": "arxiv:2601.22051",
+      "title": "Magnetic texture modulated superconductivity in superconductor/ferromagnet shells of semiconductor nanowires",
+      "year": 2026,
+      "doi": null,
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "B",
+        "Se"
+      ],
+      "paper_id": "arxiv:2606.21251",
+      "title": "AI-accelerated metallized $\u03c3$-bonding screening for superconductor discovery",
+      "year": 2026,
+      "doi": null,
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "B",
+        "Te"
+      ],
+      "paper_id": "arxiv:2503.11502",
+      "title": "Complex Magnetic Ordering in Candidate Topological Superconductors",
+      "year": 2025,
+      "doi": null,
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "Se",
+        "Si"
+      ],
+      "paper_id": "arxiv:2511.00909",
+      "title": "Field-Tunable Anisotropic Fulde-Ferrell Phase in NbSe$_2$/CrSiTe$_3$ Heterostructures",
+      "year": 2025,
+      "doi": null,
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "In",
+        "Sr"
+      ],
+      "paper_id": "arxiv:2307.15629",
+      "title": "Pressure-induced Superconductivity in Zintl Topological Insulator SrIn2As2",
+      "year": 2023,
+      "doi": "10.1103/physrevb.108.224510",
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "Nb",
+        "P"
+      ],
+      "paper_id": "arxiv:2510.08110",
+      "title": "Unveiling Intrinsic Triplet Superconductivity in Noncentrosymmetric NbRe through Inverse Spin-Valve Effects",
+      "year": 2025,
+      "doi": null,
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "Ca",
+        "N"
+      ],
+      "paper_id": "arxiv:2409.18441",
+      "title": "Machine-learning Guided Search for Phonon-mediated Superconductivity in Boron and Carbon Compounds",
+      "year": 2024,
+      "doi": "10.1038/s41524-026-01962-w",
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "Ni",
+        "Ru"
+      ],
+      "paper_id": "arxiv:2405.20922",
+      "title": "Demonstration of 0-pi transition in Josephson junctions containing unbalanced synthetic antiferromagnets",
+      "year": 2024,
+      "doi": "10.1063/5.0215364",
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "K",
+        "Nb"
+      ],
+      "paper_id": "arxiv:2408.06178",
+      "title": "Time-reversal symmetry-breaking phenomena in transport study of kagome superconductivity",
+      "year": 2024,
+      "doi": "10.7498/aps.73.20240917",
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "Al",
+        "F"
+      ],
+      "paper_id": "openalex:W7133242668",
+      "title": "Preparation and evaluation of alexandrite, forsterite, and topaz substrates for the epitaxial growth of rutile oxides",
+      "year": 2026,
+      "doi": "10.1063/5.0312234",
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "H",
+        "Rh"
+      ],
+      "paper_id": "arxiv:2411.15683",
+      "title": "First-Principles Study of High-Temperature Superconductivity in X2MH6 Compounds under 20 GPa",
+      "year": 2024,
+      "doi": null,
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "Sb",
+        "Y"
+      ],
+      "paper_id": "arxiv:2512.19901",
+      "title": "Metastability and high-Tc superconductivity in A15-type ternary hydride YSbH6 at moderate pressure",
+      "year": 2025,
+      "doi": null,
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "C",
+        "Te"
+      ],
+      "paper_id": "arxiv:2503.11502",
+      "title": "Complex Magnetic Ordering in Candidate Topological Superconductors",
+      "year": 2025,
+      "doi": null,
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "Al",
+        "Ca"
+      ],
+      "paper_id": "arxiv:2305.09541",
+      "title": "Phase diagram and superconductivity of Calcium Alanates under pressure",
+      "year": 2023,
+      "doi": "10.1088/1361-648x/acea4c",
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "Ir",
+        "Sb"
+      ],
+      "paper_id": "arxiv:2402.06796",
+      "title": "Ir-Sb Binary System: Unveiling Nodeless Unconventional Superconductivity Proximate to Honeycomb-Vacancy Ordering",
+      "year": 2024,
+      "doi": null,
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "P",
+        "Y"
+      ],
+      "paper_id": "arxiv:2607.00769",
+      "title": "Universal logic circuit for gate-controlled superconductor-based switches operating at liquid-helium temperatures",
+      "year": 2026,
+      "doi": null,
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "Ir",
+        "Pd"
+      ],
+      "paper_id": "arxiv:2508.00342",
+      "title": "Uniform electronic states and $s$-wave superconductivity in a strongly disordered high-entropy compound (RuRhPdIr)$_{0.6}$Pt$_{0.4}$Sb",
+      "year": 2025,
+      "doi": "10.1103/b4nw-c4zy",
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "Ir",
+        "N"
+      ],
+      "paper_id": "arxiv:2609.18113",
+      "title": "Nitrogen based electride superconductor Nb5Ir3N under pressure: multifunctional physical properties from DFT based first-principles investigation",
+      "year": 2026,
+      "doi": null,
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "In",
+        "Y"
+      ],
+      "paper_id": "arxiv:2411.11674",
+      "title": "Novel Superconducting Ternary Hydrides under High Pressure",
+      "year": 2024,
+      "doi": null,
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "As",
+        "Mg"
+      ],
+      "paper_id": "arxiv:2309.12615",
+      "title": "Decoding 122-Type Iron-Based Superconductors: A Comprehensive Simulation of Phase Diagrams and Transition Temperatures",
+      "year": 2023,
+      "doi": null,
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "B",
+        "Ge"
+      ],
+      "paper_id": "arxiv:2404.02748",
+      "title": "Tuning superconductivity in nanosecond laser annealed boron doped $Si_{1-x}Ge_{x}$ epilayers",
+      "year": 2024,
+      "doi": null,
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "Al",
+        "Pb"
+      ],
+      "paper_id": "arxiv:2305.07263",
+      "title": "Strong-coupling Behaviour of Critical Temperature of Pb/Ag, Pb/Cu and Pb/Al Nanocomposites Explained by Proximity Eliashberg Theory",
+      "year": 2023,
+      "doi": null,
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "Ca",
+        "Ta"
+      ],
+      "paper_id": "arxiv:2507.01392",
+      "title": "Two-Dimensional Superconductivity at the CaZrO3/KTaO3 (001) Heterointerfaces",
+      "year": 2025,
+      "doi": null,
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "N",
+        "Te"
+      ],
+      "paper_id": "arxiv:2510.05227",
+      "title": "TeMFpy: a Python library for converting fermionic mean-field states into tensor networks",
+      "year": 2025,
+      "doi": null,
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "Ce",
+        "K"
+      ],
+      "paper_id": "arxiv:2311.09588",
+      "title": "Orientation-dependent superconductivity and electronic structure of the rare-earth metal/KTaO3 interfaces",
+      "year": 2023,
+      "doi": "10.1088/1361-648x/add2bf",
+      "is_superconductivity_paper": true
+    }
+  ],
+  "statistical_signal_detected": false,
+  "mean_rank": 482.3,
+  "roc_auc": 0.9329,
+  "random_baseline_valid": true,
+  "auc_model": 0.9329,
+  "auc_frequency": 0.923,
+  "auc_similarity": 0.3917,
+  "auc_random": 0.5,
+  "mean_rank_model": 482.3,
+  "mean_rank_frequency": 532.4,
+  "mean_rank_similarity": 3222.3,
+  "mean_rank_random": 2674.0,
+  "paired_auc_diff_ci_95": [
+    0.002,
+    0.0183
+  ],
+  "pre_rate_per_year": 288.0,
+  "post_rate_per_year": 2110.0,
+  "temporal_rate_ratio": 7.33,
+  "temporal_imbalance_warning": true,
+  "evaluated_at": "2026-11-09T14:29:56.237389+00:00"
+}
