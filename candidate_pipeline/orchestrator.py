@@ -106,7 +106,12 @@ class CandidatePipelineOrchestrator:
         untried_gaps.sort(key=lambda g: (-g["discovery_score"], g["element_1"], g["element_2"]))
         return untried_gaps[:top_n]
 
-    def run_pipeline(self, max_candidates: int = 5) -> Dict[str, Any]:
+    def run_pipeline(
+        self,
+        max_candidates: int = 5,
+        output_json: Optional[str] = None,
+        output_md: Optional[str] = None,
+    ) -> Dict[str, Any]:
         """Runs the complete candidate generation, novelty check, verification, and protocol pipeline."""
         logger.info("Step 1: Extracting untried element combinations across structural prototypes...")
         untried_gaps = self.extract_prototype_gaps(top_n=max_candidates * 4)
@@ -155,13 +160,20 @@ class CandidatePipelineOrchestrator:
                 })
 
         # Save structured JSON
-        json_path = self.output_dir / "candidates.json"
+        json_path = Path(output_json) if output_json else self.output_dir / "candidates.json"
+        json_path.parent.mkdir(parents=True, exist_ok=True)
         with open(json_path, "w", encoding="utf-8") as f:
             json.dump(pipeline_output, f, indent=2)
         logger.info(f"Saved structured candidates JSON to {json_path}")
 
         # Generate publication-grade Markdown report
-        md_path = Path("CANDIDATE_MATERIALS.md")
+        if output_md:
+            md_path = Path(output_md)
+        elif self.output_dir == Path("data") or self.output_dir == Path("."):
+            md_path = Path("CANDIDATE_MATERIALS.md")
+        else:
+            md_path = self.output_dir / "CANDIDATE_MATERIALS.md"
+        md_path.parent.mkdir(parents=True, exist_ok=True)
         self._write_markdown_report(md_path, pipeline_output)
         logger.info(f"Saved candidate materials catalog to {md_path}")
 
