@@ -27,6 +27,7 @@ class ExperimentalProtocol:
     synthesis_conditions: Dict[str, Any]  # Pressure, temperature, duration, atmosphere
     characterization_plan: List[str]
     safety_notes: List[str]
+    template_status: str = "UNVALIDATED HEURISTIC TEMPLATE (NOT EXPERIMENTALLY CERTIFIED)"
 
     def to_dict(self) -> Dict[str, Any]:
         return asdict(self)
@@ -34,6 +35,10 @@ class ExperimentalProtocol:
     def to_markdown(self) -> str:
         lines = [
             f"### Protocol for Candidate {self.candidate_id}: `{self.formula}`",
+            "> [!WARNING]",
+            "> **UNVALIDATED HEURISTIC TEMPLATE**: This synthesis recipe is an uncalibrated heuristic template derived from structural archetypes. It has NOT been experimentally validated in a wet lab and must be verified before execution.",
+            "",
+            f"- **Protocol Status**: `{self.template_status}`",
             f"- **Target Structural Family**: {self.target_family}",
             f"- **Recommended Method**: **{self.recommended_synthesis_method}**",
             "",
