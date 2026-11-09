@@ -8,11 +8,11 @@
 
 | ID | Formula | Prototype | Novelty Status | Thermodynamic Stability ($E_{\text{above\_hull}}$) | $T_c$ Status | Synthesis Recipe |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **CAND_001** | `(Ce0.85Sr0.15)H10` | LaH10 (Fm-3m (#225)) | **KNOWN** | NOT COMPUTED (No ambient MP phase diagram ent... | `NOT COMPUTED` | *Unvalidated Template* |
-| **CAND_002** | `(Pr0.85Sr0.15)H10` | LaH10 (Fm-3m (#225)) | **KNOWN** | NOT COMPUTED (No ambient MP phase diagram ent... | `NOT COMPUTED` | *Unvalidated Template* |
-| **CAND_003** | `(Gd0.85Sr0.15)H10` | LaH10 (Fm-3m (#225)) | **KNOWN** | NOT COMPUTED (No ambient MP phase diagram ent... | `NOT COMPUTED` | *Unvalidated Template* |
-| **CAND_004** | `(Lu0.85Sr0.15)H10` | LaH10 (Fm-3m (#225)) | **KNOWN** | NOT COMPUTED (No ambient MP phase diagram ent... | `NOT COMPUTED` | *Unvalidated Template* |
-| **CAND_005** | `(Sm0.85Sr0.15)H10` | LaH10 (Fm-3m (#225)) | **KNOWN** | NOT COMPUTED (No ambient MP phase diagram ent... | `NOT COMPUTED` | *Unvalidated Template* |
+| **CAND_001** | `(Ce0.85Sr0.15)H10` | LaH10 (Fm-3m (#225)) | **NO_HITS_FOUND** | NOT COMPUTED (No ambient MP phase diagram ent... | `NOT COMPUTED` | *Unvalidated Template* |
+| **CAND_002** | `(Pr0.85Sr0.15)H10` | LaH10 (Fm-3m (#225)) | **NO_HITS_FOUND** | NOT COMPUTED (No ambient MP phase diagram ent... | `NOT COMPUTED` | *Unvalidated Template* |
+| **CAND_003** | `(Gd0.85Sr0.15)H10` | LaH10 (Fm-3m (#225)) | **NO_HITS_FOUND** | NOT COMPUTED (No ambient MP phase diagram ent... | `NOT COMPUTED` | *Unvalidated Template* |
+| **CAND_004** | `(Lu0.85Sr0.15)H10` | LaH10 (Fm-3m (#225)) | **NO_HITS_FOUND** | NOT COMPUTED (No ambient MP phase diagram ent... | `NOT COMPUTED` | *Unvalidated Template* |
+| **CAND_005** | `(Sm0.85Sr0.15)H10` | LaH10 (Fm-3m (#225)) | **NO_HITS_FOUND** | NOT COMPUTED (No ambient MP phase diagram ent... | `NOT COMPUTED` | *Unvalidated Template* |
 
 ---
 
@@ -24,13 +24,10 @@
 - **Constituent Elements**: Ce, H, Sr
 
 #### 1. Novelty Assessment (Multi-Source Check)
-- **Status**: `KNOWN`
-- **Summary**: KNOWN: Established superconductor in literature (e.g., 'Superconducting Bi-Sr-Ca-Cu-O Thick Films by the Sol-Gel Method', 1988)
+- **Status**: `NO_HITS_FOUND`
+- **Summary**: no hits found in: OpenAlex API, Materials Project, Local Superconductivity Corpus, SuperCon Reference
 - **Sources Searched**: OpenAlex API, Materials Project, Local Superconductivity Corpus, SuperCon Reference
-- **Traceable Evidence**:
-  - [OpenAlex API] *"Superconducting Bi-Sr-Ca-Cu-O Thick Films by the Sol-Gel Method"* (1988) -> `https://doi.org/10.1143/jjap.27.l1880`
-  - [OpenAlex API] *"Transport and anisotropy in single-crystalline SrFe2As2 and A0.6K0.4Fe2As2 ( A=Sr , Ba) superconductors"* (2008) -> `https://doi.org/10.1103/physrevb.78.224512`
-  - [OpenAlex API] *"Specific heat and μ SR study on the noncentrosymmetric superconductor LaRhSi 3"* (2011) -> `https://doi.org/10.1103/physrevb.83.064522`
+- **Traceable Evidence**: None (Zero matching records found)
 
 #### 2. Thermodynamic & Physical Stability
 - **Convex Hull Status**: **NOT COMPUTED (No ambient MP phase diagram entry for chemsys; requires high-pressure DFT relaxation)**
@@ -69,13 +66,10 @@
 - **Constituent Elements**: H, Pr, Sr
 
 #### 1. Novelty Assessment (Multi-Source Check)
-- **Status**: `KNOWN`
-- **Summary**: KNOWN: Established superconductor in literature (e.g., 'Antiferroquadrupolar Ordering in a Pr-Based Superconductor PrIr2Zn20', 2011)
+- **Status**: `NO_HITS_FOUND`
+- **Summary**: no hits found in: OpenAlex API, Materials Project, Local Superconductivity Corpus, SuperCon Reference
 - **Sources Searched**: OpenAlex API, Materials Project, Local Superconductivity Corpus, SuperCon Reference
-- **Traceable Evidence**:
-  - [OpenAlex API] *"Antiferroquadrupolar Ordering in a Pr-Based Superconductor PrIr2Zn20"* (2011) -> `https://doi.org/10.1103/physrevlett.106.177001`
-  - [OpenAlex API] *"Linear-in-temperature resistivity for optimally superconducting (Nd,Sr)NiO2"* (2023) -> `https://doi.org/10.1038/s41586-023-06129-x`
-  - [OpenAlex API] *"Transport and anisotropy in single-crystalline SrFe2As2 and A0.6K0.4Fe2As2 ( A=Sr , Ba) superconductors"* (2008) -> `https://doi.org/10.1103/physrevb.78.224512`
+- **Traceable Evidence**: None (Zero matching records found)
 
 #### 2. Thermodynamic & Physical Stability
 - **Convex Hull Status**: **NOT COMPUTED (No ambient MP phase diagram entry for chemsys; requires high-pressure DFT relaxation)**
@@ -114,13 +108,10 @@
 - **Constituent Elements**: Gd, H, Sr
 
 #### 1. Novelty Assessment (Multi-Source Check)
-- **Status**: `KNOWN`
-- **Summary**: KNOWN: Established superconductor in literature (e.g., 'Antiferromagnetic ordering of Ru and Gd in superconducting RuSr2GdCu2O8', 2000)
+- **Status**: `NO_HITS_FOUND`
+- **Summary**: no hits found in: OpenAlex API, Materials Project, Local Superconductivity Corpus, SuperCon Reference
 - **Sources Searched**: OpenAlex API, Materials Project, Local Superconductivity Corpus, SuperCon Reference
-- **Traceable Evidence**:
-  - [OpenAlex API] *"Antiferromagnetic ordering of Ru and Gd in superconducting RuSr2GdCu2O8"* (2000) -> `https://doi.org/10.1103/physrevb.61.r14964`
-  - [OpenAlex API] *"Investigation of some physical properties of Gd added Bi-2223 superconductors"* (2010) -> `https://doi.org/10.1016/j.jallcom.2010.08.105`
-  - [OpenAlex API] *"The Effect of Gd Concentration on the Physical and Magnetic Properties of Bi1.7Pb0.3-xGdxSr2Ca3Cu4O12+y Superconductors"* (2005) -> `https://doi.org/10.1007/s10909-005-6015-4`
+- **Traceable Evidence**: None (Zero matching records found)
 
 #### 2. Thermodynamic & Physical Stability
 - **Convex Hull Status**: **NOT COMPUTED (No ambient MP phase diagram entry for chemsys; requires high-pressure DFT relaxation)**
@@ -159,13 +150,10 @@
 - **Constituent Elements**: H, Lu, Sr
 
 #### 1. Novelty Assessment (Multi-Source Check)
-- **Status**: `KNOWN`
-- **Summary**: KNOWN: Established superconductor in literature (e.g., 'Transport and anisotropy in single-crystalline SrFe2As2 and A0.6K0.4Fe2As2 ( A=Sr , Ba) superconductors', 2008)
+- **Status**: `NO_HITS_FOUND`
+- **Summary**: no hits found in: OpenAlex API, Materials Project, Local Superconductivity Corpus, SuperCon Reference
 - **Sources Searched**: OpenAlex API, Materials Project, Local Superconductivity Corpus, SuperCon Reference
-- **Traceable Evidence**:
-  - [OpenAlex API] *"Transport and anisotropy in single-crystalline SrFe2As2 and A0.6K0.4Fe2As2 ( A=Sr , Ba) superconductors"* (2008) -> `https://doi.org/10.1103/physrevb.78.224512`
-  - [OpenAlex API] *"Superconducting properties and μ SR study of the noncentrosymmetric superconductor Nb 0.5 Os 0.5"* (2017) -> `https://doi.org/10.1088/1361-648x/aaa376`
-  - [OpenAlex API] *"Striped superconductors: how spin, charge and superconducting orders intertwine in the cuprates"* (2009) -> `https://doi.org/10.1088/1367-2630/11/11/115004`
+- **Traceable Evidence**: None (Zero matching records found)
 
 #### 2. Thermodynamic & Physical Stability
 - **Convex Hull Status**: **NOT COMPUTED (No ambient MP phase diagram entry for chemsys; requires high-pressure DFT relaxation)**
@@ -204,13 +192,10 @@
 - **Constituent Elements**: H, Sm, Sr
 
 #### 1. Novelty Assessment (Multi-Source Check)
-- **Status**: `KNOWN`
-- **Summary**: KNOWN: Established superconductor in literature (e.g., 'Transport and anisotropy in single-crystalline SrFe2As2 and A0.6K0.4Fe2As2 ( A=Sr , Ba) superconductors', 2008)
+- **Status**: `NO_HITS_FOUND`
+- **Summary**: no hits found in: OpenAlex API, Materials Project, Local Superconductivity Corpus, SuperCon Reference
 - **Sources Searched**: OpenAlex API, Materials Project, Local Superconductivity Corpus, SuperCon Reference
-- **Traceable Evidence**:
-  - [OpenAlex API] *"Transport and anisotropy in single-crystalline SrFe2As2 and A0.6K0.4Fe2As2 ( A=Sr , Ba) superconductors"* (2008) -> `https://doi.org/10.1103/physrevb.78.224512`
-  - [OpenAlex API] *"Higgs Mode in Superconductors"* (2019) -> `https://doi.org/10.1146/annurev-conmatphys-031119-050813`
-  - [OpenAlex API] *"The crystal structure and superconductivity of new superconducting phase TlSr2Ca0.5Sm0.5Cu2O6.75"* (1989) -> `https://doi.org/10.1016/0038-1098(89)90369-4`
+- **Traceable Evidence**: None (Zero matching records found)
 
 #### 2. Thermodynamic & Physical Stability
 - **Convex Hull Status**: **NOT COMPUTED (No ambient MP phase diagram entry for chemsys; requires high-pressure DFT relaxation)**
