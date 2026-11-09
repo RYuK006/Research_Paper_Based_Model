@@ -1,7 +1,7 @@
 [project]
 name = "research-paper-collector"
-version = "0.1.0"
-description = "High-performance bulk research paper collection and metadata harvesting pipeline for arXiv, OpenAlex, and Semantic Scholar"
+version = "0.2.0"
+description = "High-performance bulk research paper collection, parsing (LaTeX & PDF with equations and tables), and metadata harvesting pipeline for arXiv, OpenAlex, and Semantic Scholar"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
@@ -12,6 +12,8 @@ dependencies = [
     "google-api-python-client>=2.100.0",
     "google-auth-httplib2>=0.2.0",
     "google-auth-oauthlib>=1.2.0",
+    "pymupdf>=2.1",
+    "pymupdf4llm>=2.1",
 ]
 
 [build-system]
