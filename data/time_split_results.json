@@ -1,0 +1,34 @@
+{
+  "cutoff_year": 2021,
+  "pre_cutoff_papers": 9115,
+  "post_cutoff_papers": 885,
+  "k_tested": 50,
+  "model_hit_rate": 8.0,
+  "frequency_baseline_hit_rate": 0.0,
+  "random_baseline_hit_rate": 2.0,
+  "lift_over_random": 4.0,
+  "lift_over_frequency": 8.0,
+  "statistical_signal_detected": true,
+  "verified_future_discoveries": [
+    {
+      "element_pair": "In-Os",
+      "post_papers_count": 1,
+      "sample_paper": "Novel spectrophotometric method for the determination of paclitaxel through complex formation with osmium (2025)"
+    },
+    {
+      "element_pair": "As-Cl",
+      "post_papers_count": 1,
+      "sample_paper": "CRYSTAL STRUCTURE OF AgGa2Te3I COMPOUND (2022)"
+    },
+    {
+      "element_pair": "Au-P",
+      "post_papers_count": 1,
+      "sample_paper": "Identification of an Au(I) N-Heterocyclic Carbene Compound as a Bactericidal Agent Against Pseudomonas aeruginosa (2022)"
+    },
+    {
+      "element_pair": "As-Br",
+      "post_papers_count": 1,
+      "sample_paper": "CRYSTAL STRUCTURE OF AgGa2Te3I COMPOUND (2022)"
+    }
+  ]
+}
