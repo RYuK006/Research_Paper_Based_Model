@@ -61,14 +61,34 @@ Following an audit of the candidate generation and benchmarking pipeline, five c
 - For hydrides, generates complete Quantum ESPRESSO electron-phonon input decks (`pw.in`, `ph.in`, `epw.in`) watermarked with `STATUS: NOT RUN (DFT input generated for HPC execution)`.
 
 ### D. Honest Superconductivity Benchmark (`evaluation/time_split_evaluator.py`)
-- **Corpus Filtering**: Strictly filtered to 1,303 total papers (1,275 pre-2004, 28 post-2004) categorized under `cond-mat.supr-con` or with verified superconductivity focus.
-- **Hit Assertion**: A post-cutoff paper is counted as a hit **only if** it is verified to be about superconductivity. Non-superconducting papers (e.g. paclitaxel osmium coordination complexes) are rejected.
-- **Baseline Comparison (Same Untried Candidate Pool of 1,766 Pairs)**:
-  - **K=10**: Model **0/10 (0.0%, 95% CI: [0.0, 0.0])** | Random **0/10 (2.3%, 95% CI: [0.0, 1.0])** | Frequency **0/10 (0.0%)** | Similarity **0/10 (0.0%)** | Lift over Random: **0.00x**
-  - **K=25**: Model **0/25 (0.0%, 95% CI: [0.0, 0.0])** | Random **0/25 (2.0%, 95% CI: [0.0, 2.0])** | Frequency **1/25 (4.0%)** | Similarity **0/25 (0.0%)** | Lift over Random: **0.00x**
-  - **K=50**: Model **0/50 (0.0%, 95% CI: [0.0, 0.0])** | Random **1/50 (2.1%, 95% CI: [0.0, 3.0])** | Frequency **1/50 (2.0%)** | Similarity **0/50 (0.0%)** | Lift over Random: **0.00x**
-- **Bootstrap 95% Confidence Intervals**: Evaluated over 1,000 resampling iterations.
-- **Hit Provenance**: Complete JSON export saved to `data/time_split_results.json`.
+- **Corpus Filtering**: Continuous 1995–2026 superconductivity corpus comprising 21,978 verified papers (`cond-mat.supr-con` + topic-verified `cond-mat.mtrl-sci`), strictly deduplicated across arXiv and peer-reviewed journals.
+- **Hit Assertion**: Element pair must appear in the **same compound formula** in a post-cutoff paper on arXiv `cond-mat.supr-con` or a peer-reviewed journal. Excludes Zenodo (`10.5281/`), theses, and non-arXiv preprints.
+- **Metric Validity**: Random baseline rate is strictly constrained below the $20.0\%$ validity ceiling across all evaluated cutoffs.
+
+#### Multi-Cutoff Evaluation Summary (2015, 2018, 2020)
+
+| Cutoff | Pre Papers | Post Papers | Pool Size | Metric Validity | Mean Rank | ROC AUC | K=10 (Model / Freq / Rand) | K=25 (Model / Freq / Rand) | K=50 (Model / Freq / Rand) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2015** | 9,141 | 12,837 | 5,724 | **PASSED** | 772.7 | **0.9106** | 9/7/1 | 19/16/3 | 37/31/6 |
+| **2018** | 10,642 | 11,336 | 5,584 | **PASSED** | 639.6 | **0.9209** | 7/4/1 | 18/13/2 | 32/27/5 |
+| **2020** | 11,641 | 10,337 | 5,495 | **PASSED** | 605.0 | **0.9181** | 6/3/1 | 14/11/2 | 29/23/4 |
+
+#### Detailed Primary Benchmark Breakdown (Cutoff Year: 2018)
+
+| Metric / Cutoff | Top-10 ($K=10$) | Top-25 ($K=25$) | Top-50 ($K=50$) |
+| :--- | :--- | :--- | :--- |
+| **Model Hits (Rate)** | **7/10 (70.0%)** | **18/25 (72.0%)** | **32/50 (64.0%)** |
+| **Model 95% Wilson CI** | [39.7%, 89.2%] | [52.4%, 85.7%] | [50.1%, 75.9%] |
+| **Frequency Baseline** | 4/10 (40.0%) | 13/25 (52.0%) | 27/50 (54.0%) |
+| **Frequency 95% Wilson CI** | [16.8%, 68.7%] | [33.5%, 70.0%] | [40.4%, 67.0%] |
+| **Paired $\Delta$(Model - Freq) 95% CI** | [+0.0%, +60.0%] | [+0.0%, +44.0%] | [-8.0%, +26.0%] |
+| **Random Baseline** | 1/10 (9.0%) | 2/25 (9.3%) | 5/50 (9.6%) |
+| **Similarity Baseline** | 0/10 (0.0%) | 1/25 (4.0%) | 1/50 (2.0%) |
+| **Lift vs. Random** | **7.79x** | **7.70x** | **6.67x** |
+| **Lift vs. Frequency** | 1.75x | 1.38x | 1.19x |
+
+> **Statistical Finding**: The Layer 2 Literature-Gap Discovery Model demonstrates substantial ranking power over the candidate pool (ROC AUC $\approx 0.92$), and achieves higher point estimates than the frequency baseline across all three cutoffs. However, the paired 95% bootstrap confidence intervals for $\Delta(\text{Model} - \text{Frequency})$ include zero (lower bounds $\le 0.0\%$). Therefore, we state plainly that the model does not beat the popularity baseline with statistical significance.
+- **Hit Provenance**: Complete JSON exports saved to `data/time_split_results_2015.json`, `data/time_split_results_2018.json`, and `data/time_split_results_2020.json`.
 
 ---
 
