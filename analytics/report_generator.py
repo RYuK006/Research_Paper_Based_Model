@@ -65,12 +65,15 @@ class ReportGenerator:
         compound_counter: Counter[str] = collections.Counter()
         citation_list: List[Tuple[str, str, int, str]] = []  # (title, source, citations, doi/url)
 
-        with sqlite3.connect(str(self.storage.db_path)) as conn:
+        conn = sqlite3.connect(str(self.storage.db_path))
+        try:
             cursor = conn.cursor()
             cursor.execute(
                 "SELECT id, title, abstract, year, citation_count, source, doi, open_access_pdf_url FROM papers"
             )
             rows = cursor.fetchall()
+        finally:
+            conn.close()
 
         for row in rows:
             p_id, title, abstract, year, citations, source, doi, oa_url = row
