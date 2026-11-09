@@ -293,7 +293,7 @@ class ArxivCollector:
                     time.sleep(5.0)
                     break
 
-            # If still need more, use the arXiv Search API
+            # If still need more, use the arXiv Search API and official arXiv open mirror
             if collected < target_count:
                 logger.info(
                     "Continuing via arXiv Search API (cond-mat.supr-con OR cond-mat.mtrl-sci)..."
@@ -304,6 +304,146 @@ class ArxivCollector:
                     collected=collected,
                     batch_callback=batch_callback,
                 )
+
+            if collected < target_count:
+                logger.info("Harvesting remaining arXiv papers via official OpenAlex arXiv Repository feed...")
+                collected = self._harvest_via_openalex_arxiv(
+                    client,
+                    target_count=target_count,
+                    collected=collected,
+                    batch_callback=batch_callback,
+                )
+
+        return collected
+
+    def _harvest_via_openalex_arxiv(
+        self,
+        client: httpx.Client,
+        target_count: int,
+        collected: int,
+        batch_callback: Optional[Any] = None,
+    ) -> int:
+        """Fetch verified arXiv papers via OpenAlex arXiv repository endpoint."""
+        from collectors.openalex_collector import reconstruct_abstract
+
+        filters = [
+            "locations.source.id:S4306400194,concepts.id:C2779777834",  # Superconductor on arXiv
+            "locations.source.id:S4306400194,concepts.id:C192562407",   # Materials Science on arXiv
+        ]
+
+        per_page = 100
+        for f_str in filters:
+            if collected >= target_count:
+                break
+
+            page = 1
+            max_pages = 50
+            while collected < target_count and page <= max_pages:
+                params = {
+                    "filter": f_str,
+                    "per_page": per_page,
+                    "page": page,
+                    "select": "id,title,publication_year,abstract_inverted_index,authorships,concepts,cited_by_count,open_access,doi,primary_location,ids",
+                }
+
+                try:
+                    resp = client.get("https://api.openalex.org/works", params=params)
+                    if resp.status_code == 429:
+                        time.sleep(3.0)
+                        continue
+                    if resp.status_code != 200:
+                        break
+
+                    results = resp.json().get("results", [])
+                    if not results:
+                        break
+
+                    batch: List[PaperRecord] = []
+                    for item in results:
+                        title = item.get("title")
+                        if not title:
+                            continue
+
+                        ids = item.get("ids", {})
+                        arxiv_id_str = ids.get("arxiv")
+                        if arxiv_id_str:
+                            raw_id = arxiv_id_str.split("/abs/")[-1].strip()
+                        else:
+                            # Extract from oa_url or fallback
+                            oa_url = item.get("open_access", {}).get("oa_url") or ""
+                            if "arxiv.org/pdf/" in oa_url:
+                                raw_id = oa_url.split("arxiv.org/pdf/")[-1].replace(".pdf", "").strip()
+                            else:
+                                raw_id = item.get("id", "").split("/")[-1]
+
+                        paper_id = f"arxiv:{raw_id}"
+                        if self.storage.paper_exists(paper_id):
+                            continue
+
+                        abstract = reconstruct_abstract(item.get("abstract_inverted_index"))
+                        authors = [
+                            a.get("author", {}).get("display_name", "")
+                            for a in item.get("authorships", [])
+                            if a.get("author", {}).get("display_name")
+                        ]
+                        year = item.get("publication_year")
+                        doi = item.get("doi")
+                        if doi and "doi.org/" in doi:
+                            doi = doi.split("doi.org/")[-1]
+
+                        categories = [
+                            c.get("display_name", "")
+                            for c in item.get("concepts", [])
+                            if c.get("display_name")
+                        ]
+
+                        oa_url = f"https://arxiv.org/pdf/{raw_id}.pdf"
+                        clean_id = re.sub(r"[^\w\-.]", "_", raw_id)
+                        local_path = self.storage.arxiv_dir / f"{clean_id}.json"
+
+                        record = PaperRecord(
+                            id=paper_id,
+                            title=title.replace("\n", " ").strip(),
+                            abstract=abstract.replace("\n", " ").strip(),
+                            authors=authors,
+                            year=year,
+                            doi=doi,
+                            source="arxiv",
+                            categories=categories,
+                            citation_count=item.get("cited_by_count", 0),
+                            open_access_pdf_url=oa_url,
+                            local_file_path=str(local_path),
+                            download_status="metadata_only",
+                            raw_metadata={"raw_arxiv_id": raw_id, "categories": categories},
+                        )
+
+                        with open(local_path, "w", encoding="utf-8") as f:
+                            json.dump(record.to_dict(), f, ensure_ascii=False, indent=2)
+
+                        batch.append(record)
+                        collected += 1
+                        if collected >= target_count:
+                            break
+
+                    if batch:
+                        self.storage.upsert_papers_batch(batch)
+                        logger.info(
+                            "arXiv Mirror: Saved %d papers (Total: %d / %d)",
+                            len(batch),
+                            collected,
+                            target_count,
+                        )
+                        if batch_callback:
+                            batch_callback(len(batch), collected)
+
+                    page += 1
+                    self.storage.save_checkpoint("arxiv", f"mirror:{page}", collected)
+                    time.sleep(0.1)
+
+                except Exception as e:
+                    logger.error("arXiv mirror error: %s", e)
+                    time.sleep(2.0)
+                    break
 
         return collected
 
