@@ -1,0 +1,36 @@
+{
+  "id": "s2:doi:10.1158/1538-7445.am2025-6994",
+  "title": "Abstract 6994: Reversal of cancer gene expression for novel compound discovery in diffuse midline glioma",
+  "abstract": "Abstract                                   Background:                   Diffuse midline glioma (DMG) H3K27-altered is an aggressive incurable brainstem tumor that targets very young children. Median survival rate of patients is 9 months with 5-year survival rates of less than 1%. Complete resection is not possible due to the tumor location close to vital areas of the brain, and chemotherapy and radiotherapy are only symptomatic treatments used for palliative care. Through the reversal of cancer gene expression, we previously identified mycophenolate mofetil as a repurposed candidate for DMG; however, the clinical applicability of this candidate is limited due to its poor brain penetration. This study aims to identify new potent agents that can cross blood-brain barriers through the screening of a large compound library and lead optimization.                                                   Method:                   For the screening we used our custom pipeline Gene expression Prediction from chemical Structure (GPS) that allows us to predict gene expression profiles of millions of compounds from chemical structures. With the predicted profiles, we scored compounds based on their reversal of disease gene expression. By screening the Enamine CNS library, we identified novel compounds with the ability to reverse the DMG gene signature we previously identified. Compounds were validated in DMG cell lines using MTS assays. Top hits were then selected for PK studies and maximum tolerated dose studies. To optimize our lead compounds, we ran MolSearch, a multi-objective optimization AI pipeline. We evaluated the final lead in a panel of patient-derived DMG cell lines as well as conducted PK and toxicity studies.                                                   Results:                   We selected 30 compounds with the lowest reversal score for validation. Out of the 30 compounds selected, 19 had favorable ADME properties such as rule-of-5 compliance, solubility, potential toxicity, synthetic accessibility and predicted metabolic stability. Out of the 19 compounds, 7 showed reduction in cell viability in DMG cell lines. We chose the compound with the lowest IC50 as our lead. PK studies showed acceptable blood barrier penetration but significant clearance of the drug in plasma. To improve these properties, we ran our lead optimalization pipeline MolSearch to generate potential compounds that will retain reversal ability and ADME properties of the lead compound while improving metabolic stability. We are currently evaluating these new                                                   analogs.                   Together, we have demonstrated that reversal of cancer gene expression could lead to the discovery of novel therapeutic in DMG.                                                   Citation Format:                   Dmitry Leshchiner, Savneet Kaur, Eita Uchida, Kentaro Mineji, Yasuhide Makino, Katerina Petrosky, Bilal Aleiwi, Edmund Ellsworth, Rintaro Hashizume, Bin Chen. Reversal of cancer gene expression for novel compound discovery in diffuse midline glioma [abstract]. In: Proceedings of the American Association for Cancer Research Annual Meeting 2025; Part 1 (Regular Abstracts); 2025 Apr 25-30; Chicago, IL. Philadelphia (PA): AACR; Cancer Res 2025;85(8_Suppl_1):Abstract nr 6994.",
+  "authors": [
+    "Dmitry Leshchiner",
+    "Savneet Kaur",
+    "Eita Uchida",
+    "Kentaro Mineji",
+    "Yasuhide Makino",
+    "Katerina Petrosky",
+    "Bilal Aleiwi",
+    "Edmund Ellsworth",
+    "Rintaro Hashizume",
+    "Bin Chen"
+  ],
+  "year": 2025,
+  "doi": "10.1158/1538-7445.am2025-6994",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://aacrjournals.org/cancerres/article/85/8_Supplement_1/6994/759439/Abstract-6994-Reversal-of-cancer-gene-expression",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1158_1538-7445.am2025-6994.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:58.193891+00:00",
+  "raw_metadata": {
+    "doi": "10.1158/1538-7445.am2025-6994",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

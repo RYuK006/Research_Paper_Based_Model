@@ -1,0 +1,28 @@
+{
+  "id": "s2:doi:10.1063/1.352341",
+  "title": "A novel approach to a transport model for ultra-small-scale compound semiconductor devices",
+  "abstract": "The concepts of the previously developed macrokinetic distribution function and the ensemble average are used to develop a transport model that can account for effects of intervalley transfer, anisotropic scattering, and nonequilibrium dynamics of electrons in compound semiconductors. The developed transport model is rather simple and can be used for modeling of ultra-small-scale transport behavior of electrons in compound semiconductor devices. The developed model is applied to various multivalley semiconductor models. The study shows that the energy-dependent macroscopic effective mass of electrons in nonparabolic bandstructure, that is usually assumed for modeling of devices, is inadequate in situations where strong anisotropic scattering is involved and velocity overshoot is pronounced. It is found that the momentum dependence of the macroscopic effective mass is also significant during the interval of pronounced velocity overshoot.",
+  "authors": [
+    "Ming-C. Cheng",
+    "Lin Huang"
+  ],
+  "year": 1992,
+  "doi": "10.1063/1.352341",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 9,
+  "open_access_pdf_url": "https://pubs.aip.org/aip/jap/article-pdf/72/8/3539/18653109/3539_1_online.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1063_1.352341.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:36.336876+00:00",
+  "raw_metadata": {
+    "doi": "10.1063/1.352341",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

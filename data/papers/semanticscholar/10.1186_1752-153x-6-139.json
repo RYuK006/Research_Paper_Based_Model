@@ -1,0 +1,37 @@
+{
+  "id": "s2:doi:10.1186/1752-153x-6-139",
+  "title": "Development and experimental test of support vector machines virtual screening method for searching Src inhibitors from large compound libraries",
+  "abstract": "Abstract                        Background             Src plays various roles in tumour progression, invasion, metastasis, angiogenesis and survival. It is one of the multiple targets of multi-target kinase inhibitors in clinical uses and trials for the treatment of leukemia and other cancers. These successes and appearances of drug resistance in some patients have raised significant interest and efforts in discovering new Src inhibitors. Various in-silico methods have been used in some of these efforts. It is desirable to explore additional in-silico methods, particularly those capable of searching large compound libraries at high yields and reduced false-hit rates.                                   Results             We evaluated support vector machines (SVM) as virtual screening tools for searching Src inhibitors from large compound libraries. SVM trained and tested by 1,703 inhibitors and 63,318 putative non-inhibitors correctly identified 93.53%~ 95.01% inhibitors and 99.81%~ 99.90% non-inhibitors in 5-fold cross validation studies. SVM trained by 1,703 inhibitors reported before 2011 and 63,318 putative non-inhibitors correctly identified 70.45% of the 44 inhibitors reported since 2011, and predicted as inhibitors 44,843 (0.33%) of 13.56M PubChem, 1,496 (0.89%) of 168 K MDDR, and 719 (7.73%) of 9,305 MDDR compounds similar to the known inhibitors.                                   Conclusions             SVM showed comparable yield and reduced false hit rates in searching large compound libraries compared to the similarity-based and other machine-learning VS methods developed from the same set of training compounds and molecular descriptors. We tested three virtual hits of the same novel scaffold from in-house chemical libraries not reported as Src inhibitor, one of which showed moderate activity. SVM may be potentially explored for searching Src inhibitors from large compound libraries at low false-hit rates.",
+  "authors": [
+    "Bucong Han",
+    "Xiaohua Ma",
+    "Ruiying Zhao",
+    "Jingxian Zhang",
+    "Xiaona Wei",
+    "Xianghui Liu",
+    "Xin Liu",
+    "Cunlong Zhang",
+    "Chunyan Tan",
+    "Yuyang Jiang",
+    "Yuzong Chen"
+  ],
+  "year": 2012,
+  "doi": "10.1186/1752-153x-6-139",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 7,
+  "open_access_pdf_url": "http://link.springer.com/content/pdf/10.1186/1752-153X-6-139.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1186_1752-153x-6-139.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:58.231654+00:00",
+  "raw_metadata": {
+    "doi": "10.1186/1752-153x-6-139",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

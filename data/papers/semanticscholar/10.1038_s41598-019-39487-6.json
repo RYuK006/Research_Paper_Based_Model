@@ -1,0 +1,39 @@
+{
+  "id": "s2:doi:10.1038/s41598-019-39487-6",
+  "title": "A novel benzamine lead compound of histone deacetylase inhibitor ZINC24469384 can suppresses HepG2 cells proliferation by upregulating NR1H4",
+  "abstract": "AbstractHistone deacetylases (HDACs) can enzymatically transferred acetyl functional group from protein or lysine residues of histone, so they can regulate the expression of lots of genes. Now HDACs are used as drug targets and many HDAC inhibitors (HDACis) were approved for cancer therapy or in clinical trials. However, the physiological mechanisms and regulatory processes of HDACi anti-cancer effects are largely unexplored and uncompleted. Here we use the virtual screening workflow obtained 25 hit compounds and ZINC24469384 can significantly inhibit HDAC activity while arrest cell cycle at G1/S phase and significantly induced HepG2 cell apoptosis, time-course RNA-seq demonstrate that HepG2 cells transcriptionally respond to ZINC24469384. Pathway analysis of DEGs and DASGs reveal that NR1H4 may play an important role in ZINC24469384-induced anti-proliferation effect and is dramatically alleviated by down-regulating the SOCS2 expression and promoting STAT3 phosphorylation in knockdown NR1H4 HepG2 cells. Analysis based on TCGA database indicated that NR1H4 and SOCS2 were downregulated in liver cancer, this suggest NR1H4 and SOCS2 may play an important role in tumorigenesis. These results indicated that ZINC24469384 is a novel benzamine lead compound of HDACi and provides a novel mechanism for HDACi to inhibit cancer.",
+  "authors": [
+    "Qiuhang Song",
+    "Mingyue Li",
+    "Cong Fan",
+    "Yucui Liu",
+    "Lihua Zheng",
+    "Yongli Bao",
+    "Luguo Sun",
+    "Chunlei Yu",
+    "Zhenbo Song",
+    "Ying Sun",
+    "Guannan Wang",
+    "Yanxin Huang",
+    "Yuxin Li"
+  ],
+  "year": 2019,
+  "doi": "10.1038/s41598-019-39487-6",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 9,
+  "open_access_pdf_url": "https://www.nature.com/articles/s41598-019-39487-6.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1038_s41598-019-39487-6.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:15.632887+00:00",
+  "raw_metadata": {
+    "doi": "10.1038/s41598-019-39487-6",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

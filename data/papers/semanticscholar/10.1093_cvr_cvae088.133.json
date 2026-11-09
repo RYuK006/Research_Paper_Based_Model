@@ -1,0 +1,33 @@
+{
+  "id": "s2:doi:10.1093/cvr/cvae088.133",
+  "title": "Novel ex-vivo calcification model for human aortic valves reveals patient-specific effect of compound",
+  "abstract": "Abstract                                   Funding Acknowledgements                   Type of funding sources: Public grant(s) – National budget only. Main funding source(s): Dekker grant                                                   Background                   Aortic stenosis (AS) is a narrowing of the aortic valve opening due to calcification and valve thickening. There are currently no pharmacological treatments for AS, and surgical interventions are the only therapies. To understand the molecular mechanisms underlying AS and test new pharmacological agents, advanced calcification models are required. These models need to closely approach native tissue response to stimuli by maintaining the valvular interstitial cells within their native environment. We have recently developed an ex vivo culture model that fulfills this requirement and allows the induction of calcification in slices of human aortic valves.                                                   Purpose                   Our goal is to evaluate the applicability of our ex-vivo calcification model as a pre-clinical test system for potential therapies.                                                   Methods                   Diseased aortic valves were dissected, embedded in agarose, then cut into 300-500 um slices using a vibratome. The use of multiple slices from a single patient ensured proper internal controls. To induce calcification, slices were cultured with 3mM phosphate(n=12), and control slices without phosphate (n=11). To investigate molecular modulation of induced calcification, dexamethasone was added to phosphate cultures(n=9). The slices were assessed for calcification using Alizarin Red staining. ImageJ was used to quantify the percentage of alizarin red-positive area. The average thickness was determined using 3DHISTECH software.                                                   Results                   In the presence of phosphate, a significant increase in the calcification percentage was observed in cultured valve slices compared with cultures without phosphate (p&amp;lt;0.05). Interestingly, within the phosphate-treated group, two sub-groups could be distinguished, one sub-group exhibiting extensive calcification, while the other showed virtually no sign of calcification. Paired comparisons revealed strong effect of dexamethasone depending on the extent of calcification-inducing capability of phosphate in each patient-sample. More precisely, dexamethasone exhibited potent inhibitory effect on calcification in valvular slices from patients where calcification was stimulated in the presence of phosphate. Conversely, dexamethasone exhibited a stimulatory effect on calcification in slices that did not show a stimulation of calcification in the presence of phosphate. This differential effect was strongly correlated with valve thickness.(r=-0.884,p&amp;lt; 0.01).                                                   Conclusions                   Our novel ex-vivo calcification model for human aortic valves revealed potential presence of patient-specific effects of pharmacological agents. Dexamethasone can have both stimulatory and inhibitory effects on calcification levels, influenced by phosphate response and valve thickness. As thickness might be indicative of the disease stage, this correlation suggests that the direction of compound’s effect might depend on disease stage. Hence, proper understanding of potential opposite effects of compounds is crucial in developing novel therapies.",
+  "authors": [
+    "M El Ouraoui",
+    "H W Wu",
+    "M Palmen",
+    "J Hjortnaes",
+    "J W Jukema",
+    "N Ajmone Marsan",
+    "B P T Kruithof"
+  ],
+  "year": 2024,
+  "doi": "10.1093/cvr/cvae088.133",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 1,
+  "open_access_pdf_url": "https://academic.oup.com/cardiovascres/article-pdf/120/Supplement_1/cvae088.133/57953932/cvae088.133.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1093_cvr_cvae088.133.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:53.796047+00:00",
+  "raw_metadata": {
+    "doi": "10.1093/cvr/cvae088.133",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

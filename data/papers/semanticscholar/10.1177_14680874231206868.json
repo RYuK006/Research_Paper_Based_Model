@@ -1,0 +1,29 @@
+{
+  "id": "s2:doi:10.1177/14680874231206868",
+  "title": "Optimization of direct injection mixture formation for dual-fuel low speed marine engine using novel compound electric gas injection devices",
+  "abstract": "For two-stroke low speed marine engines, using a natural gas-diesel dual-fuel mode can effectively reduce emissions such as NO                     X                     , SO                     X                     , and CO                     2                     , making it an important approach to promote the low-carbon and environmentally friendly development of the shipping industry. To address the issues of abnormal combustion and gas leakage faced by low-pressure gas direct injection, a novel compound electric gas injection device is proposed, which is designed with a coaxial arrangement of a moving coil actuator and a moving iron actuator. Based on this new device, a three-dimensional computational fluid dynamics (CFD) model of the low speed marine engine operating process is established to simulate the distribution characteristics of the in-cylinder flow field under 16 different scenarios, including different injection side-slip angles and lower deflection angles, and to clarify the impact of these factors on the formation, diffusion, and evolution of the mixture. Based on this, an evaluation system was established from two dimensions: mixture uniformity and gas leakage rate. An improved multi-attribute decision-making TOPSIS algorithm based on the entropy weight method was used to define the attribute importance using information entropy, and to construct an optimization evaluation model for the spatial arrangement of the injection device. The optimal arrangement angle was calculated, in which a side-slip angle was 20° and a lower deflection angle was 10°. This method avoids the problem of unreasonable decisions caused by subjective factors such as designer preferences and experience, effectively improving the in-cylinder mixture uniformity and reducing gas leakage rate.",
+  "authors": [
+    "Xinyu Fan",
+    "Quanshui Huang",
+    "Hongyan Pang"
+  ],
+  "year": 2023,
+  "doi": "10.1177/14680874231206868",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 2,
+  "open_access_pdf_url": "https://journals.sagepub.com/doi/pdf/10.1177/14680874231206868",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1177_14680874231206868.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:01.883104+00:00",
+  "raw_metadata": {
+    "doi": "10.1177/14680874231206868",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

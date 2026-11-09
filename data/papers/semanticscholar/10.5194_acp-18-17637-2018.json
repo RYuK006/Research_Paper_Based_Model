@@ -1,0 +1,29 @@
+{
+  "id": "s2:doi:10.5194/acp-18-17637-2018",
+  "title": "Comprehensive organic emission profiles for gasoline, diesel, and gas-turbine engines including intermediate and semi-volatile organic compound emissions",
+  "abstract": "Emissions from mobile sources are important contributors to both primary and secondary organic aerosols (POA and SOA) in urban environments. We compiled recently published data to create comprehensive model-ready organic emission profiles for on- and off-road gasoline, gas-turbine, and diesel engines. The profiles span the entire volatility range, including volatile organic compounds (VOCs, effective saturation concentration C*=107–10                     11                      µg m                     −3                     ), intermediate-volatile organic compounds (IVOCs, C*=103–10                     6                      µg m                     −3                     ), semi-volatile organic compounds (SVOCs, C*=1–10                     2                      µg m                     −3                     ), low-volatile organic compounds (LVOCs, C*≤0.1 µg m                     −3                     ) and non-volatile organic compounds (NVOCs). Although our profiles are comprehensive, this paper focuses on the IVOC and SVOC fractions to improve predictions of SOA formation. Organic emissions from all three source categories feature tri-modal volatility distributions (“by-product” mode, “fuel” mode, and “lubricant oil” mode). Despite wide variations in emission factors for total organics, the mass fractions of IVOCs and SVOCs are relatively consistent across sources using the same fuel type, for example, contributing 4.5 % (2.4 %–9.6 % as 10th to 90th percentiles) and 1.1 % (0.4 %–3.6 %) for a diverse fleet of light duty gasoline vehicles tested over the cold-start unified cycle, respectively. This consistency indicates that a limited number of profiles are needed to construct emissions inventories. We define five distinct profiles: (i) cold-start and off-road gasoline, (ii) hot-operation gasoline, (iii) gas-turbine, (iv) traditional diesel and (v) diesel-particulate-filter equipped diesel. These profiles are designed to be directly implemented into chemical transport models and inventories. We compare emissions to unburned fuel; gasoline and gas-turbine emissions are enriched in IVOCs relative to unburned fuel. The new profiles predict that IVOCs and SVOC vapour will contribute significantly to SOA production. We compare our new profiles to traditional source profiles and various scaling approaches used previously to estimate IVOC emissions. These comparisons reveal large errors in these different approaches, ranging from failure to account for IVOC emissions (traditional source profiles) to assuming source-invariant scaling ratios (most IVOC scaling approaches).",
+  "authors": [
+    "Quanyang Lu",
+    "Yunliang Zhao",
+    "Allen L. Robinson"
+  ],
+  "year": 2018,
+  "doi": "10.5194/acp-18-17637-2018",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 133,
+  "open_access_pdf_url": "https://acp.copernicus.org/articles/18/17637/2018/acp-18-17637-2018.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.5194_acp-18-17637-2018.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:08.293623+00:00",
+  "raw_metadata": {
+    "doi": "10.5194/acp-18-17637-2018",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "s2:doi:10.1002/qua.20849",
+  "title": "Thinking inside the box: Novel linear scaling algorithm for Coulomb potential evaluation",
+  "abstract": "AbstractBeginning with the Poisson equation, and expanding the electronic potential in terms of sine functions, the natural orbitals for describing the particle‐in‐a‐box problem, we find that simple analytic forms can be found for the evaluation of the Coulomb energy for both the interacting and non‐interacting system of N‐electrons in a box. This method is reminiscent of fast‐Fourier transform and scales linearly. To improve the usefulness of this result, we generalize the idea by considering a molecular system, embedded in a box, within which we determine the electrostatic potential, in the same manner as that described for our model systems. Within this general formalism, we consider both periodic and aperiodic recipes with specific application to systems described using Gaussian orbitals; although in principle the method is seen to be completely general. © 2005 Wiley Periodicals, Inc. Int J Quantum Chem, 2006",
+  "authors": [
+    "David C. Thompson",
+    "Paul W. Ayers"
+  ],
+  "year": 2005,
+  "doi": "10.1002/qua.20849",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 7,
+  "open_access_pdf_url": "http://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fqua.20849",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1002_qua.20849.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:23.262448+00:00",
+  "raw_metadata": {
+    "doi": "10.1002/qua.20849",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

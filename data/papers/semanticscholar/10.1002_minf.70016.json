@@ -1,0 +1,27 @@
+{
+  "id": "s2:doi:10.1002/minf.70016",
+  "title": "Transformer Learning in Sequence‐Based Drug Design Depends on Compound Memorization and Similarity of Sequence‐Compound Pairs",
+  "abstract": "Chemical language models (CLMs), particularly encoder‐decoder transformers, have advanced generative molecular design. Transformer CLMs are able to learn a variety of molecular mappings for compound design that can be conditioned using context‐dependent rules. However, their black‐box nature complicates the interpretation of predictions. Current analysis methods mostly focus on attention weights of token relationships or attention flow in encoder and decoder modules and cannot explain predictions at the molecular level. Sequence‐based compound design was used as a model system to investigate transformer learning characteristics through systematic control calculations involving modifications of protein sequences and sequence‐compound pairs. The analysis revealed that compound reproducibility depended on similarity relationships between training and test data and on compound memorization, while specific sequence information was not learned. These findings indicate that predictions of transformer CLMs are driven by memorization effects and statistical correlations rather than by learning specific chemical or biological information. Understanding this learning behavior aids in avoiding over‐interpretation of model outputs and informs the appropriate application of transformer‐based CLMs in molecular design.",
+  "authors": [
+    "Jürgen Bajorath"
+  ],
+  "year": 2026,
+  "doi": "10.1002/minf.70016",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 1,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/minf.70016",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1002_minf.70016.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:16.816005+00:00",
+  "raw_metadata": {
+    "doi": "10.1002/minf.70016",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "s2:doi:10.21580/wjc.v7i1.22315",
+  "title": "Modelling of QSAR Equations for Styryl Quinolone Compound Derivatives as HIV-1 Inhibitors",
+  "abstract": "HIV-1 (Human Immunodeficiency Virus) inhibitor compounds have been designed using a QSAR analysis approach for 33 styryl quinolone derivative compounds, with descriptors calculated using semi-empirical methods. This research aims to determine the best semi-empirical method and to obtain the best QSAR equation by comparing the Principal Component Regression method with Multiple Linear Regression, as well as modifying the structure of new styryl quinolone derivative compounds to achieve higher predicted theoretical HIV-1 integrase protein inhibitor activity. The analysis results showed that the semi-empirical MINDO3 method was the best. The QSAR MINDO3 equation with Principal Component Regression is as follows: :  pIC50 = 5.046 + 0.515 VL1 with n = 33, r = 0.611, r2 = 0.374, SD = 0.677, Fcount/Ftable = 4.45, PRESS = 20.554, Sig = &lt;0.01.  Meanwhile, with Multiple Linear Regression, the equation is as follows: pIC50 = -11.252 + 88.481 (qC3) + 26.667 (qC4) + 9.156 (qC5) – 1.443 (qC7) + 4.284 (qC8)-0.03 (Surface Area Approx) + 0.033 (Grid) - 0.195 (logP) – 0.007 (Mr) – 2.166 (HOMO) with n = 33; r = 0.870; r2 = 0.758; SD =0.500; Fcount/Ftable =2.995; PRESS =5.505; Sig. &lt;0.01. The design of the new compound was carried out based on the best QSAR equation, namely Multiple Linear Regression. We obtained 10 structural modifications from the equation above with the best theoretical pIC50 values from the reference ligand.",
+  "authors": [
+    "Irvan Maulana Firdaus",
+    "Mutista Hafshah",
+    "Ahmad Faqih Amin",
+    "Daffa Faiq Aji Satriya"
+  ],
+  "year": 2024,
+  "doi": "10.21580/wjc.v7i1.22315",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://journal.walisongo.ac.id/index.php/wjc/article/download/22315/5728",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.21580_wjc.v7i1.22315.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:00.246042+00:00",
+  "raw_metadata": {
+    "doi": "10.21580/wjc.v7i1.22315",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

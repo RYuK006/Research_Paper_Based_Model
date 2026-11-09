@@ -1,0 +1,29 @@
+{
+  "id": "s2:doi:10.1007/s10967-026-10717-2",
+  "title": "Uranium chemical compound classification using sub-images and statistical machine learning for nuclear forensics",
+  "abstract": "Abstract                   Uranium particle analysis from Scanning Electron Microscope (SEM) imagery is a crucial tool in nuclear forensics. The particle morphology lexicon proposed by Tamasi et al. in J Radioanal Nucl Chem 307, 1611–1619 (2016) follows a standardized, manual identification process to identify particle morphology features. The present work seeks to mirror this methodology using computer feature selection from the scikit-image Python library rather than human classification. Using a random forest classifier, a 56% overall uranium true positive classification accuracy (a 39.6% balanced classification accuracy) was achieved on a test set outperforming a naïve (chance) model by 48%. The methodology introduced splits a particle image into sub-images to predict the chemical compound present in the sub-image. These sub-images use a majority rules voting mechanism to classify the chemical compound and calcination temperature of the original whole particle. Images analyzed in this dataset were from particles of pure compounds but the introduced methodology opens the door for future work on aggregate compound particle analysis. The dataset utilized contained 1906 SEM images: 830 Secondary Electron Imaging (SEI) and Low-Energy Electron Imaging (LEI) images and 1076 Large-Angle Backscattered Electron Imaging (LABE) images. Each image was one of 13 uranium chemical classifications, where image quantities were unbalanced. When examining image types, initial data seems to indicate that LABE images outperformed SEI/LEI images in machine learning applications.",
+  "authors": [
+    "Lee C. Lambert",
+    "Brett J. Borghetti",
+    "Abigail A. Bickley"
+  ],
+  "year": 2026,
+  "doi": "10.1007/s10967-026-10717-2",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://link.springer.com/content/pdf/10.1007/s10967-026-10717-2.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1007_s10967-026-10717-2.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:08.270550+00:00",
+  "raw_metadata": {
+    "doi": "10.1007/s10967-026-10717-2",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

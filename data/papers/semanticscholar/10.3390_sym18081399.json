@@ -1,0 +1,29 @@
+{
+  "id": "s2:doi:10.3390/sym18081399",
+  "title": "Attribute Control Charts for the Compound Weibull and Compound Exponential–Gamma Distribution Under Truncated Life Tests",
+  "abstract": "This study presents the development of an attribute control chart for monitoring the number of failures in a truncated life test under a single sampling plan, where the product lifetime follows either the Compound Weibull (CW) distribution or its special case, the Compound Exponential–Gamma (CEG) distribution. The control chart constants were determined for various parameter settings through an iterative design procedure. Specifically, the chart parameters were obtained for different quality levels and specified in-control Average Run Length (ARL0) values. Furthermore, the performance of the proposed control charts was evaluated in terms of the out-of-control Average Run Length (ARL1), Standard Deviation of Run Length (SDRL), Expected Average Run Length (EARL), and Extra Quadratic Loss (EQL) under various process shift levels. Numerical tables were provided for different combinations of the shape parameters, sample sizes, target ARL0 values, and shift parameters. Finally, a simulation study was conducted to demonstrate the effectiveness of the proposed control charts in monitoring defective items. Overall, the results demonstrate that the proposed attribute control chart is applicable to processes in which product lifetimes follow the CW and CEG distributions and provides an effective tool for monitoring process shifts. The study demonstrates how the np chart’s performance is affected under different scenarios regarding CW and CEG distributions. It was observed that the chart exhibits high performance by enabling early detection during significant process shifts. In cases of minor process changes, the chart was found to be sensitive under the CW distribution assumption.",
+  "authors": [
+    "Ayten Yiğiter",
+    "Nazan Danacıoğlu",
+    "Canan Hamurkaroğlu"
+  ],
+  "year": 2026,
+  "doi": "10.3390/sym18081399",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 1,
+  "open_access_pdf_url": "https://www.mdpi.com/2073-8994/18/8/1399/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.3390_sym18081399.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:08.354511+00:00",
+  "raw_metadata": {
+    "doi": "10.3390/sym18081399",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

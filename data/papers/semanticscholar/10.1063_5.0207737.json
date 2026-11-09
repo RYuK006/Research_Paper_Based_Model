@@ -1,0 +1,31 @@
+{
+  "id": "s2:doi:10.1063/5.0207737",
+  "title": "Hydrodynamics of surface standing-and-walking behavior via a novel pectoral fin compound motion in dolphins",
+  "abstract": "To break the spatial motion barrier for underwater robots, this paper chooses the dolphin as a bionic object and tries a method to realize its surface standing-and-walking (SAW) behavior. A three-dimensional virtual dolphin containing the body, caudal fin, and symmetric pectoral fins, as well as a novel kinematic model of the pectoral fins and a water surface SAW performance model containing the indicators of walking height, walking speed, and walking efficiency are established. The transition process from underwater standing-and-swimming (SAS) to surface SAW is numerically investigated, and the transition mechanism as well as the transient evolution of the flow field around the dolphin are revealed. The results show that the novel pectoral fin movement mode can help the dolphin successfully realize the transition from underwater SAS to surface SAW. In addition, the clever utilization of upstroke resistance improves the efficiency of the dolphin's SAW significantly, with a maximum walking efficiency of 74.23%, a maximum walking speed of 0.243 m/s, and a maximum walking height of 0.227 m. The optimal kinematic parameters of the dolphin could also be selected based on different SAW targets. The findings explore a new way for the development of cross-media bionic underwater robots that can achieve SAW behavior.",
+  "authors": [
+    "Ming Lei",
+    "Qingyuan Gai",
+    "Han Yan",
+    "Zhihan Li",
+    "Dan Xia"
+  ],
+  "year": 2024,
+  "doi": "10.1063/5.0207737",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 3,
+  "open_access_pdf_url": "https://pubs.aip.org/aip/pof/article-pdf/doi/10.1063/5.0207737/19950355/051906_1_5.0207737.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1063_5.0207737.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:17.272591+00:00",
+  "raw_metadata": {
+    "doi": "10.1063/5.0207737",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "s2:doi:10.1158/1535-7163.targ-15-b126",
+  "title": "Abstract B126: Targeted inhibition of eIF4E-mediated translation by the novel small molecule anti-cancer compound, briciclib (ON 013105)",
+  "abstract": "Abstract                Introduction: The eukaryotic translation initiation factor 4E (eIF4E) is a key regulator of translation of mRNA that encode proteins involved in cell differentiation, proliferation, survival, invasion and migration. Its expression and activity are frequently elevated in cancer and have been shown to correlate with poor prognosis. Hence, eIF4E is a potential target for the development of novel anti-cancer therapeutics. Briciclib belongs to the Benzylstyryl sulfone family of small molecules and is currently being evaluated in a Phase 1 clinical trial (NCT02168725) in advanced solid tumors. Previous in vitro studies (Prasad et al, 2013) in Mantle Cell Lymphoma (MCL) have shown that the mechanism of action for briciclib (ON 013105) involves binding to eIF4E and inhibition of its translational targets. The current study expands on these findings by evaluating the effect of briciclib on eIF4E activity in additional cell lines and through further characterization of the molecular interaction with eIF4E.                Methods and Results: Granta 519, Jurkat T, FaDu and MCF-7 cells were treated with 1μM of briciclib, ON 013100 (orally bioavailable analog of briciclib) and ON 013101 (an inert analog used as a control) for 24 hrs and analyzed for expression of eIF4E translational target molecules. Significant inhibition of cyclin D1 was observed in Granta 519 and FaDu cells with both briciclib and ON 013100. c-Myc and MCl-1 expression were reduced in all cell lines tested. Expression of the cap-dependent protein, vimentin, was inhibited but only in hematologic cell lines, Granta 519 and Jurkat T. Notably, briciclib and ON 013100 treatment disrupted eIF4E localization, increasing the amount of nuclear eIF4E. These cellular studies led us to further evaluate the precise molecular mechanism of action leading to eIF4E disruption. To this end, briciclib was incubated with recombinant eIF4E and direct binding was analyzed through Nuclear Magnetic Resonance (NMR) analysis. These experiments indicated a direct interaction between eIF4E and briciclib. We are currently extending our biochemical analysis to evaluate the effect of briciclib on the affinity of eIF4E with the m7GTP – mRNA cap.                Conclusions: Our studies provide additional evidence that briciclib binds eiF4E to disrupt its functionality as a translation factor. These studies and others suggest a unique mechanism of action through a novel cancer target and support testing of briciclib in tumors where elevated oncogenic protein expression is driven by eIF4E.                Citation Format: Anil Prasad, Rutuja P. Kulkarni, Evangelos Papadopoulos, Amanda M. Gillum, Benjamin S. Hoffman. Targeted inhibition of eIF4E-mediated translation by the novel small molecule anti-cancer compound, briciclib (ON 013105). [abstract]. In: Proceedings of the AACR-NCI-EORTC International Conference: Molecular Targets and Cancer Therapeutics; 2015 Nov 5-9; Boston, MA. Philadelphia (PA): AACR; Mol Cancer Ther 2015;14(12 Suppl 2):Abstract nr B126.",
+  "authors": [
+    "Anil Prasad",
+    "Rutuja P. Kulkarni",
+    "Evangelos Papadopoulos",
+    "Amanda M. Gillum",
+    "Benjamin S. Hoffman"
+  ],
+  "year": 2015,
+  "doi": "10.1158/1535-7163.targ-15-b126",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://aacrjournals.org/mct/article/14/12_Supplement_2/B126/232923/Abstract-B126-Targeted-inhibition-of-eIF4E",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1158_1535-7163.targ-15-b126.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:50.184517+00:00",
+  "raw_metadata": {
+    "doi": "10.1158/1535-7163.targ-15-b126",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

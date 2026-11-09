@@ -1,0 +1,28 @@
+{
+  "id": "s2:doi:10.18196/jrc.v5i2.21127",
+  "title": "Soft Actuator Based on a Novel Variable Stiffness Compound Extensor Bending-Pneumatic Artificial Muscle (CEB-PAM): Design and Mathematical Model",
+  "abstract": "Soft robots have gained prominence in various fields in recent years, particularly in medical applications such as rehabilitation, due to their numerous advantages. The primary building blocks of a soft robot are often pneumatic artificial muscles (PAM). The Extensor PAM (EPAM), including Extensor Bending PAM (EB-PAM), is characterized by its low stiffness, and because stiffness is important in many robotic applications, for example, in rehabilitation, the degree of disability varies from one person to another, such as spasticity, weakness, and contracture. Therefore, it was necessary to provide an actuator with variable stiffness whose stiffness can be controlled to provide the appropriate need for each person, this study presents a new design for the EB-PAM that combines the EB-PAM and contractor PAM (CPAM), It has higher stiffness than traditional EPAM, A stiffness of over 850 N/m was achieved, whereas EB-PAM only reached a stiffness of less than 450 N/m, it is also possible to change its stiffness at a specific bending angle. It is also possible to obtain fixed stiffness at different angles.  A mathematical model was developed to calculate the output force of the new muscle by calculating its size and the pressure applied to it and comparing the model with experimental results. The mathematical model was enhanced by calculating the wasted energy consumed by the actuator before the bladder begins to expand, and also by calculating the thickness of the bladder and the sleeve. To make the muscle lighter, cheaper, and work under low pressures, balloons were used in manufacturing, offering practical advantages for soft robotic applications.",
+  "authors": [
+    "Wafaa Al-Mayahi",
+    "Hassanin Al-Fahaam"
+  ],
+  "year": 2024,
+  "doi": "10.18196/jrc.v5i2.21127",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 2,
+  "open_access_pdf_url": "https://journal.umy.ac.id/index.php/jrc/article/download/21127/8974",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.18196_jrc.v5i2.21127.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:56.364080+00:00",
+  "raw_metadata": {
+    "doi": "10.18196/jrc.v5i2.21127",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

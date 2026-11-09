@@ -1,0 +1,32 @@
+{
+  "id": "s2:doi:10.2166/hydro.2019.037",
+  "title": "Determination of compound channel apparent shear stress: application of novel data mining models",
+  "abstract": "AbstractMomentum exchange in the mixing region between the floodplain and the main channel is an essential hydraulic process, particularly for the estimation of discharge. The current study investigated various data mining models to estimate apparent shear stress in a symmetric compound channel with smooth and rough floodplains. The applied predictive models include random forest (RF), random tree (RT), reduced error pruning tree (REPT), M5P, and the distinguished hybrid bagging-M5P model. The models are constructed based on several correlated physical channel characteristic variables to predict the apparent shear stress. A sensitivity analysis is applied to select the best function tuning parameters for each model. Results showed that input with six variables exhibited the best prediction results for RF model while input with four variables produced the best performance for other models. Based on the optimised input variables for each model, the efficiency of five predictive models discussed here was evaluated. It was found that the M5P and hybrid bagging-M5P models with the coefficient of determination (R2) equal to 0.905 and 0.92, respectively, in the testing stage are superior in estimating apparent shear stress in compound channels than other RF, RT and REPT models.",
+  "authors": [
+    "Zohreh Sheikh Khozani",
+    "Khabat Khosravi",
+    "Binh Thai Pham",
+    "Bjørn Kløve",
+    "Wan Hanna Melini Wan Mohtar",
+    "Zaher Mundher Yaseen"
+  ],
+  "year": 2019,
+  "doi": "10.2166/hydro.2019.037",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 74,
+  "open_access_pdf_url": "http://iwaponline.com/jh/article-pdf/21/5/798/602624/jh0210798.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.2166_hydro.2019.037.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:53.791476+00:00",
+  "raw_metadata": {
+    "doi": "10.2166/hydro.2019.037",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

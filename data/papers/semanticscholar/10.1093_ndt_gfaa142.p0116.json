@@ -1,0 +1,32 @@
+{
+  "id": "s2:doi:10.1093/ndt/gfaa142.p0116",
+  "title": "P0116DISCOVERY OF A NOVEL ANTIMICROBIAL COMPOUND AGAINST PSEUDOMONAS AERUGINOSA FROM URINE OF KTX PATIENTS",
+  "abstract": "Abstract                                   Background and Aims                   The urinary microbiome harbors a great repertoire of bacteria, which possess an immense potential for the biosynthesis of different biochemical products such as polyketide synthases. Traditionally such compounds have been utilized as pharmaceutical drugs, for example as antibiotics or cytostatic substances or agrochemical agents. While examining the urinary microbiome of KTX-patients during AKI and concomitant antibiotic treatment a remarkable decrease of Candidatus solibacter usitatus in one patient attracted our attention. Surprised about detecting a putative close relative of a bacterium, which originally has been found in Australian soil in our patient’s urine, we examined the genome and protein coding regions of Candidatus solibacter usitatus. Thereby we identified a biosynthetic pathway, which allowed us to clone and produce an up-to-now unknown polyketide type 1 synthase, which we named Dananase.                                                   Method                   The dananase gene was synthesized, cloned into the pEX-A258 for replication and inserted into the p-TOPO-entry-D gateway vector following PCR amplification. The resultant insert was shifted into the pEXP1- DEST gateway vector. E. coli transformants were selected for dananase expression. BAP1-E. coli was transformed with the dananase-pEXP1- DEST expression plasmid and grown in liquid culture under induction with IPTG. The supernatant was filtered and utilized for antimicrobial activity testing against Pseudomonas aeruginosa. Metabolome analysis of BAP1- pEXP1-DEST-dananase following induction with IPDG was performed and compared to LB-media alone and supernatants of dummy plasmid transformed BAP1-E. coli. In addition, the molecular structure of dananase product was determined using trans-AT polyketide synthase predictor web application genome mining tool.                                                   Results                   The 1646 amino acid long polyketide synthase type 1 named dananase was cloned into pEXP1 expression vector and expressed in BAP1. The supernatant contained specific antimicrobial activity against clinical isolates of Pseudomonas aeruginosa. This highly active compound could be further purified by HPLC but not yet identified in its structure. In silico prediction analysis suggested a polyketide as follows CC(C(O)*)C=CC(CC(NC([K])C(CC(O)=O)=O)=O)=O. Mass spectrometric analysis revealed several Dananase-specific peaks representing most likely its product in the supernatant.                                                   Conclusion                   The dananase gene of Candidatus solibacter usitatus consists of 4941bp and encodes a polymodular polyketide synthase type-1, its product successfully inhibits growth of Pseudomonas aeruginosa in vitro.",
+  "authors": [
+    "Daniela Knafl",
+    "Goran Mitulovic",
+    "Peter Pichler",
+    "Thomas Reiter",
+    "Ludwig Wagner",
+    "Wolfgang Winnicki"
+  ],
+  "year": 2020,
+  "doi": "10.1093/ndt/gfaa142.p0116",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "http://academic.oup.com/ndt/article-pdf/35/Supplement_3/gfaa142.P0116/33358608/gfaa142.p0116.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1093_ndt_gfaa142.p0116.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:39.897311+00:00",
+  "raw_metadata": {
+    "doi": "10.1093/ndt/gfaa142.p0116",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

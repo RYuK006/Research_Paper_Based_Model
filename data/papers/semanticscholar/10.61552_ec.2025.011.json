@@ -1,0 +1,29 @@
+{
+  "id": "s2:doi:10.61552/ec.2025.011",
+  "title": "Two Novel Models for Predicting the Transmittance of Dielectric Crossed Compound Parabolic Concentrator (dCCPC) Under Various Sky Conditions",
+  "abstract": "The dielectric crossed compound parabolic concentrator (dCCPC) exhibits significant potential for solar energy harvesting in photovoltaic applications and daylighting optimization in architectural design. Transmittance is a fundamental property that assesses the optical performance of dCCPC, which has been determined by ray-tracing simulation traditionally. However, this approach is computationally intensive and constrained by the sky models implemented in optical simulation tools. This study employed both multiple nonlinear regression (MNLR) and artificial neural network (ANN) models to predict dCCPC transmittance under all sky conditions including clear, intermediate and overcast skies. The high agreement of predicting results revealed the feasibility and accuracy of both methods, which achieved a coefficient of determination (R²) exceeding 0.93 and a mean square error (MSE) below 0.3%. Both methods offer the advantages of simplicity, speed, and accuracy for determining dCCPC's optical performance, while the choice between them should be based on specific practical requirements.",
+  "authors": [
+    "Meng Tian",
+    "Li Zhang",
+    "Yuehong Su"
+  ],
+  "year": 2025,
+  "doi": "10.61552/ec.2025.011",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 1,
+  "open_access_pdf_url": "https://caravelpress.com/journals/ec/articles/2025.011/ec.2025.011.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.61552_ec.2025.011.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:36.185550+00:00",
+  "raw_metadata": {
+    "doi": "10.61552/ec.2025.011",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

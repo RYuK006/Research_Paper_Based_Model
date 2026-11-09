@@ -1,0 +1,28 @@
+{
+  "id": "s2:doi:10.53879/id.59.11.13160",
+  "title": "MOLECULAR DOCKING STUDY OF COMPOUND ISOLATED FROM COCCINIA GRANDIS (L.) VOIGT",
+  "abstract": "Compound (9Z, 12Z)-octadeca-9, 12-dienoic acid (CGHY 02) was isolated from Coccinia grandis (L.) Voigt n-butanol extract by column chromatography. A molecular docking study against human pancreatic alpha-amylase enzyme (PDB: 3OLE) yielded a good docking score of -112.37 Kcal mol-1, indicating a high affinity of the compound to the receptor via hydrogen bonds, electrostatic interactions and hydrophobic interactions. The hydrogen bond was observed between the hydroxyl group of the compound and glutamine 8, whereas the carbonyl group and C5-C9 chain of the compound revealed steric interactions with glutamine 8 and aspartate 402, respectively. In vitro alpha-amylase inhibition of (CGHY 02) demonstrated remarkable inhibition (68.47 %) at low concentration (100 µL mL-1) compared to standard acarbose. Moreover, in silico ADME analysis of the compound exhibited 92.282 % gastrointestinal absorption, skin permeability, activity as a substrate for CYP2D6 and CYP3A4 enzymes resulting in better metabolism and 1.936 (logn ml min-1 kg-1) of total clearance of the compound. In silico toxicity predicted carcinogenicity, mutagenicity via PreADMET online server and hepatotoxicity and skin irritations via pkCSM online platforms. Antidiabetic potential of (CGHY 02) is attributed through inhibition of human pancreatic alpha amylase enzyme.",
+  "authors": [
+    "Yasmin H. Momin",
+    "Veerendra C. Yeligar"
+  ],
+  "year": 2022,
+  "doi": "10.53879/id.59.11.13160",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 4,
+  "open_access_pdf_url": "https://www.indiandrugsonline.org//download/November_2022_59_11_15-20.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.53879_id.59.11.13160.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:09.840448+00:00",
+  "raw_metadata": {
+    "doi": "10.53879/id.59.11.13160",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "s2:doi:10.1111/rssb.12176",
+  "title": "Compound Random Measures and their Use in Bayesian Non-Parametrics",
+  "abstract": "Summary                   A new class of dependent random measures which we call compound random measures is proposed and the use of normalized versions of these random measures as priors in Bayesian non-parametric mixture models is considered. Their tractability allows the properties of both compound random measures and normalized compound random measures to be derived. In particular, we show how compound random measures can be constructed with gamma, σ-stable and generalized gamma process marginals. We also derive several forms of the Laplace exponent and characterize dependence through both the Lévy copula and the correlation function. An augmented Pólya urn scheme sampler and a slice sampler are described for posterior inference when a normalized compound random measure is used as the mixing measure in a non-parametric mixture model and a data example is discussed.",
+  "authors": [
+    "Jim E. Griffin",
+    "Fabrizio Leisen"
+  ],
+  "year": 2016,
+  "doi": "10.1111/rssb.12176",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 45,
+  "open_access_pdf_url": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Frssb.12176",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1111_rssb.12176.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:23.162154+00:00",
+  "raw_metadata": {
+    "doi": "10.1111/rssb.12176",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

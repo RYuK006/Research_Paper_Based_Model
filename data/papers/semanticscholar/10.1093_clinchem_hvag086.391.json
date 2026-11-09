@@ -1,0 +1,28 @@
+{
+  "id": "s2:doi:10.1093/clinchem/hvag086.391",
+  "title": "B-067 Synthesis of Novel Rhodamine Derivatives and Their application in Bioimaging",
+  "abstract": "Abstract                                        Background                     Fluorescence imaging is a powerful technique for visualizing biological events with high temporal and spatial resolution. Fluorescent probes with long wavelength emission are particularly advantageous for bioimaging applications due to reduced background interference, improved signal to noise ratio, and enhanced cellular imaging contrast. Fluorophore probes are invaluable for monitoring gene expression, protein localization, and molecular interactions in complex cellular environments.                     Rhodamine derivatives, a class of xanthene dyes, exhibit remarkable structural diversity that enables tunable optical properties. They are accessible through straightforward synthetic routes and demonstrate high chemical stability and favorable water solubility. Owing to their strong absorption, high fluorescence intensity, and photostability, rhodamine-based compounds have attracted considerable attention in chemosensing, biomedical diagnostics, pharmaceutical analysis, and fluorescence imaging.                                                           Methods                     Novel rhodamine derivatives were synthesized through multistep reactions using commercially available starting materials. Reactions were conducted under controlled conditions and monitored by thin-layer chromatography (TLC) and UV–Vis absorption spectroscopy. Crude products were purified by recrystallization to obtain target compounds in high purity.                     Structural characterization was performed using 1H/13C NMR spectroscopy, Fourier-transform infrared (FTIR) spectroscopy, UV–Vis absorption spectroscopy, and fluorescence emission spectroscopy.                     The cytotoxicity of the synthesized rhodamine derivatives was evaluated using MTT assay on HeLa and MCF-7 cells to assess their biocompatibility. Cells were then incubated with the fluorescent probes at different concentration (5-20µg/L) and time intervals to determine the level of cellular uptake behavior.                     Fluorescence bioimaging studies were performed using confocal laser scanning microscopy. Bright intracellular fluorescence signals were observed in both HeLa and MCF-7 cells, indicating efficient cell membrane permeability. Co-staining experiments with commercial organelle specific dye (Rhodamine 6G) were carried out to determine subcellular localization.                                                           Results                     The synthesized rhodamine derivatives exhibited strong visible-light absorption with maxima (?abs) at 525–555 nm and intense fluorescence emission (?em) at 565–610 nm. Extinction coefficients ranged from 1.1 × 10^4 to 1.24 × 10^5 M¹cm¹.                     Several derivatives demonstrated bathochromic shifts of up to 40 nm and enhanced fluorescence intensity compared to the parent rhodamine dye. MTT assay results indicated high biocompatibility, with 85–95% cell viability at imaging relevant concentrations. Confocal fluorescence microscopy confirmed efficient cellular uptake and bright intracellular fluorescence, enabling high contrast visualization of both of HeLa and MCF-7 breast cancer cells in vitro.                                                           Conclusion                     The novel rhodamine derivatives exhibit favorable spectroscopic properties, low cytotoxicity, and effective in vitro bioimaging capability. Their improved optical performance relative to Rhodamine 6G suggests potential applications in molecular diagnostics and early stage cancer imaging.",
+  "authors": [
+    "Zahraa Ali",
+    "Mekki Bayachou"
+  ],
+  "year": 2026,
+  "doi": "10.1093/clinchem/hvag086.391",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://academic.oup.com/clinchem/article-pdf/72/Supplement_1/hvag086.391/71529380/hvag086.391.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1093_clinchem_hvag086.391.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:23.312860+00:00",
+  "raw_metadata": {
+    "doi": "10.1093/clinchem/hvag086.391",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "s2:doi:10.3390/sym14030493",
+  "title": "A Novel Compound-Coupled Hyperchaotic Map for Image Encryption",
+  "abstract": "Considering a nonlinear dynamic oscillator, a high Lyapunov exponent indicates a high degree of randomness useful in many applications, including cryptography. Most existing oscillators yield very low Lyapunov exponents. The proposed work presents a general strategy to derive an n-D hyperchaotic map with a high Lyapunov exponent. A 2D case study was analyzed using some well-known nonlinear dynamic metrics including phase portraits, bifurcation diagrams, finite time Lyapunov exponents, and dimension. These metrics indicated that the state of the novel map was more scattered in the phase plane than in the case of some traditional maps. Consequently, the novel map could produce output sequences with a high degree of randomness. Another important observation was that the first and second Lyapunov exponents of the proposed 2D map were both positive for the whole parameter space. Consequently, the attractors of the map could be classified as hyperchaotic attractors. Finally, these hyperchaotic sequences were exploited for image encryption/decryption. Various validation metrics were exploited to illustrate the security of the presented methodology against cryptanalysts. Comparative analysis indicated the superiority of the proposed encryption/decryption protocol over some recent state-of-the-art methods.",
+  "authors": [
+    "Christophe Magloire Lessouga Etoundi",
+    "Jean De Dieu Nkapkop",
+    "Nestor Tsafack",
+    "Joseph Mvogo Ngono",
+    "Pierre Ele",
+    "Marcin Wozniak",
+    "Jana Shafi",
+    "Muhammad Fazal Ijaz"
+  ],
+  "year": 2022,
+  "doi": "10.3390/sym14030493",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 24,
+  "open_access_pdf_url": "https://www.mdpi.com/2073-8994/14/3/493/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.3390_sym14030493.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:02.027621+00:00",
+  "raw_metadata": {
+    "doi": "10.3390/sym14030493",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

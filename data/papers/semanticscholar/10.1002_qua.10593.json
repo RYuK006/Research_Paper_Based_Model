@@ -1,0 +1,27 @@
+{
+  "id": "s2:doi:10.1002/qua.10593",
+  "title": "A novel method for generating approximate wavefunctions",
+  "abstract": "AbstractMolecular Hamiltonians are constituted by momentum operators (e.g., kinetic energy and interaction with electromagnetic radiation), local potential operators (e.g., electron–electron coulomb, electron–nucleus, and electron–external field interactions), and spin operators. In general, the effect of transformations that generate states from a reference state is to destroy this form. Here it is shown how one can generate all pure states by the action of a commutative semigroup of transformations that are diagonal in the space–spin coordinate representation that do not destroy this form and thus maintain the physical interpretability of effective Hamiltonians. Using such transformations, we formulate an approximation theory that has physical interpretation at all orders. © 2003 Wiley Periodicals, Inc. Int J Quantum Chem, 2003",
+  "authors": [
+    "B. Weiner"
+  ],
+  "year": 2003,
+  "doi": "10.1002/qua.10593",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fqua.10593",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1002_qua.10593.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:03.581891+00:00",
+  "raw_metadata": {
+    "doi": "10.1002/qua.10593",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

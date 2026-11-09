@@ -1,0 +1,30 @@
+{
+  "id": "s2:doi:10.1002/chem.200701896",
+  "title": "Novel Probes Showing Specific Fluorescence Enhancement on Binding to a Hexahistidine Tag",
+  "abstract": "AbstractThe introduction of hexahistidine (His tag) is widely used as a tool for affinity purification of recombinant proteins, since the His tag binds selectively to nickel–nitrilotriacetic acid (Ni2+–NTA) complex. To develop efficient “turn‐on” fluorescent probes for His‐tagged proteins, we adopted a fluorophore displacement strategy, that is, we designed probes in which a hydroxycoumarin fluorophore is joined via a linker to a metal–NTA moiety, with which it forms a weak intramolecular complex, thereby quenching the fluorescence. In the presence of a His tag, with which the metal–NTA moiety binds strongly, the fluorophore is displaced, which results in a dramatic enhancement of fluorescence. We synthesized a series of hydroxycoumarins that were modified by various linkers with NTA (NTAC ligands), and investigated the chemical and photophysical properties of the free ligands and their metal complexes. From the viewpoint of fluorescence quenching, Ni2+ and Co2+ were the best metals. Fluorescence spectroscopy revealed a 1:1 binding stoichiometry for the Ni2+ and Co2+ complexes of NTACs in pH 7.4 aqueous buffer. As anticipated, these complexes showed weak intrinsic fluorescence, but addition of a His‐tagged peptide (H‐(His)6‐Tyr‐NH2; Tyr was included to allow convenient concentration measurement) in pH 7.4 aqueous buffer resulted in up to a 22‐fold increase in the fluorescence quantum yield. We found that the Co2+ complexes showed superior properties. No fluorescence enhancement was seen in the presence of angiotensin I, which contains two nonadjacent histidine residues; this suggests that the probes are selective for the polyhistidine peptide.",
+  "authors": [
+    "Mie Kamoto",
+    "Naoki Umezawa",
+    "Nobuki Kato",
+    "Tsunehiko Higuchi"
+  ],
+  "year": 2008,
+  "doi": "10.1002/chem.200701896",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 28,
+  "open_access_pdf_url": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fchem.200701896",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1002_chem.200701896.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:21.706428+00:00",
+  "raw_metadata": {
+    "doi": "10.1002/chem.200701896",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

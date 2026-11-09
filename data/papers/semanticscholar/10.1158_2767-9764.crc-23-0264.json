@@ -1,0 +1,36 @@
+{
+  "id": "s2:doi:10.1158/2767-9764.crc-23-0264",
+  "title": "FPFT-2216, a Novel Anti-lymphoma Compound, Induces Simultaneous Degradation of IKZF1/3 and CK1α to Activate p53 and Inhibit NFκB Signaling",
+  "abstract": "Abstract                                                             Reducing casein kinase 1α (CK1α) expression inhibits the growth of multiple cancer cell lines, making it a potential therapeutic target for cancer. Herein, we evaluated the antitumor activity of FPFT-2216—a novel low molecular weight compound—in lymphoid tumors and elucidated its molecular mechanism of action. In addition, we determined whether targeting CK1α with FPFT-2216 is useful for treating hematopoietic malignancies. FPFT-2216 strongly degraded CK1α and IKAROS family zinc finger 1/3 (IKZF1/3) via proteasomal degradation. FPFT-2216 exhibited stronger inhibitory effects on human lymphoma cell proliferation than known thalidomide derivatives and induced upregulation of p53 and its transcriptional targets, namely, p21 and MDM2. Combining FPFT-2216 with an MDM2 inhibitor exhibited synergistic antiproliferative activity and induced rapid tumor regression in immunodeficient mice subcutaneously transplanted with a human lymphoma cell line. Nearly all tumors in mice disappeared after 10 days; this was continuously observed in 5 of 7 mice up to 24 days after the final FPFT-2216 administration. FPFT-2216 also enhanced the antitumor activity of rituximab and showed antitumor activity in a patient-derived diffuse large B-cell lymphoma xenograft model. Furthermore, FPFT-2216 decreased the activity of the CARD11/BCL10/MALT1 (CBM) complex and inhibited IκBα and NFκB phosphorylation. These effects were mediated through CK1α degradation and were stronger than those of known IKZF1/3 degraders. In conclusion, FPFT-2216 inhibits tumor growth by activating the p53 signaling pathway and inhibiting the CBM complex/NFκB pathway via CK1α degradation. Therefore, FPFT-2216 may represent an effective therapeutic agent for hematopoietic malignancies, such as lymphoma.                                                           Significance:                     We found potential vulnerability to CK1α degradation in certain lymphoma cells refractory to IKZF1/3 degraders. Targeting CK1α with FPFT-2216 could inhibit the growth of these cells by activating p53 signaling. Our study demonstrates the potential therapeutic application of CK1α degraders, such as FPFT-2216, for treating lymphoma.",
+  "authors": [
+    "Daiki Kanaoka",
+    "Mitsuo Yamada",
+    "Hironori Yokoyama",
+    "Satoko Nishino",
+    "Naoshi Kunimura",
+    "Hiroshi Satoyoshi",
+    "Shota Wakabayashi",
+    "Kazunori Urabe",
+    "Takafumi Ishii",
+    "Masato Nakanishi"
+  ],
+  "year": 2024,
+  "doi": "10.1158/2767-9764.crc-23-0264",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 7,
+  "open_access_pdf_url": "https://aacrjournals.org/cancerrescommun/article-pdf/doi/10.1158/2767-9764.CRC-23-0264/3407525/crc-23-0264.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1158_2767-9764.crc-23-0264.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:21.627853+00:00",
+  "raw_metadata": {
+    "doi": "10.1158/2767-9764.crc-23-0264",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

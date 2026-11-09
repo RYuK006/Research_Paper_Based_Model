@@ -1,0 +1,34 @@
+{
+  "id": "s2:doi:10.1161/circ.124.suppl_21.a9943",
+  "title": "Abstract 9943: Prevention and Reversal of Hypertrophy Through a Novel Drug-Like Compound That Inhibits Local Calcium Oscillations in a Pmca4/calcineurin Microdomain",
+  "abstract": "In pathological hypertrophy, the calcium/calmodulin dependent phosphatase calcineurin has been shown to transmit upstream calcium signals through dephosphorylation of the transcription factor NFAT which subsequently translocates to the nucleus and initiates a hypertrophic gene programme. We have previously shown that plasma membrane calcium ATPase isoform 4 (PMCA4) binds to calcineurin when overexpressed in HEK293 cells. We here investigated whether targeting PMCA4 by genetic or pharmacological strategies provides novel opportunities for the reduction of cardiac hypertrophy through modulation of calcineurin. Germline PMCA4 ablation resulted in the attenuation of pathological hypertrophy in response to pressure overload (Heart weight /tibia length ratio after transverse aortic constriction (TAC), PMCA4-/-: 6.74 ± 0.33 mg/mm vs WT: 8.34 ± 0.88 mg/mm, P10). Mechanistically, PMCA4 ablation led to a significant reduction in calcineurin at the sarcolemma as shown by Western blot and electron microscopy. We then developed a specific pharmacological inhibitor of PMCA4, which had not previously been available. Using a modified colorimetric ATPase assay we screened a library of medically optimized drug-like molecules and identified AP2 which has an IC50 of 150 nM for PMCA4. Injection of AP2 in mice (5 mg/kg body weight/day ip) significantly reduced cardiac hypertrophy following TAC for 2 weeks by 50% (n=10 each group, p&lt;0.01). Moreover, AP2 reversed pre-established TAC-induced hypertrophy (HW/TL (mg/mm): sham, 5.7+0.3, TAC+vehicle, 9.1+0.7, TAC+AP2, 7.6+0.6, n=4-6 each group, P&lt;0.05). Using a novel fluorescent Ca2+ sensor (GCaMP2) attached to the N-terminus of PMCA4 we found that AP2 reduced calcium oscillations in the microdomain around PMCA4 by 45% leading to reduced calcineurin activation. Furthermore, AP2 inhibited the NFAT pathway as shown by expression of the bona fide calcineurin target RCAN 1.4 and NFAT phosphorylation levels. Overall, our results demonstrated that specific inhibition of PMCA4 prevents and reverses pressure-overload hypertrophy, likely through regulation of local calcium oscillations around calcineurin making the plasma membrane calcium pump a potential target for the treatment of cardiac hypertrophy.",
+  "authors": [
+    "Tamer M Mohamed",
+    "Delvac Oceandy",
+    "Riham Abou-Leisa",
+    "Min Zi",
+    "Sukhpal prehar",
+    "Florence Baudoin-Stanley",
+    "Elizabeth J Cartwright",
+    "Ludwig Neyses"
+  ],
+  "year": 2011,
+  "doi": "10.1161/circ.124.suppl_21.a9943",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": null,
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1161_circ.124.suppl_21.a9943.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:21.792400+00:00",
+  "raw_metadata": {
+    "doi": "10.1161/circ.124.suppl_21.a9943",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

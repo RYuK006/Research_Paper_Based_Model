@@ -1,0 +1,27 @@
+{
+  "id": "s2:doi:10.33435/tcandtc.1553143",
+  "title": "Investigation of the Effect of Vanillin-Based Compound Derivatives Against Breast Cancer by Molecular Docking Method and Computational Chemistry, ADMET Analysis",
+  "abstract": "In this study, 15 vanillin-derived compounds were downloaded from the ZINC15 database in mol2 format. A molecular docking study was performed using the Igemdock program with PDB ID: 6QXG protein using the Igemdock program. As a result of these processes, the five lowest energy compounds were identified. Accordingly, the best binding molecules are 13, 12, 14, 3 and 10, respectively. Molecular docking was performed with five selected molecules, and Autodock Vina embedded Chimera 1.17.3 programs.  The interactions of the molecules with the protein were analysed. ADME studies were also performed. According to the in silico results, this molecule seems promising in terms of its potential to be turned into a drug in the future. However, more detailed in vivo and in vitro studies with these molecules are needed. As a result of these processes, some quantum chemical properties of the lowest energy molecule were analysed with the help of the Entos-Envision web server.",
+  "authors": [
+    "Özlem İşcan"
+  ],
+  "year": 2025,
+  "doi": "10.33435/tcandtc.1553143",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 1,
+  "open_access_pdf_url": null,
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.33435_tcandtc.1553143.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:36.132339+00:00",
+  "raw_metadata": {
+    "doi": "10.33435/tcandtc.1553143",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

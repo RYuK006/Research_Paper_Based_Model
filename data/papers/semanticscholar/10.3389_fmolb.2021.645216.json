@@ -1,0 +1,31 @@
+{
+  "id": "s2:doi:10.3389/fmolb.2021.645216",
+  "title": "Structure-Based Virtual Screening to Identify Novel Potential Compound as an Alternative to Remdesivir to Overcome the RdRp Protein Mutations in SARS-CoV-2",
+  "abstract": "The number of confirmed COVID-19 cases is rapidly increasing with no direct treatment for the disease. Few repurposed drugs, such as Remdesivir, Chloroquine, Hydroxychloroquine, Lopinavir, and Ritonavir, are being tested against SARS-CoV-2. Remdesivir is the drug of choice for Ebola virus disease and has been authorized for emergency use. This drug acts against SARS-CoV-2 by inhibiting the RNA-dependent-RNA-polymerase (RdRp) of SARS-CoV-2. RdRp of viruses is prone to mutations that confer drug resistance. A recent study by Pachetti et al. in 2020 identified the P323L mutation in the RdRp protein of SARS-CoV-2. In this study, we aimed to determine the potency of lead compounds similar to Remdesivir, which can be used as an alternative when variants of SARS-CoV-2 develop resistance due to RdRp mutations. The initial screening yielded 704 compounds that were 90% similar to the control drug, Remdesivir. On further evaluation through drugability and antiviral inhibition percentage analyses, we shortlisted 32 and seven compounds, respectively. These seven compounds were further analyzed for their molecular interactions, which revealed that all seven compounds interacted with RdRp with higher affinity than Remdesivir under native conditions. However, three compounds failed to interact with the mutant protein with higher affinity than Remdesivir. Dynamic cross-correlation matrix (DCCM) and vector field collective motions analyses were performed to identify the precise movements of docked complexes' residues. Furthermore, the compound SCHEMBL20144212 showed a high affinity for native and mutant proteins and might provide an alternative against SARS-CoV-2 variants that might confer resistance to Remdesivir. Further validations by in vitro and in vivo studies are needed to confirm the efficacy of our lead compounds for their inhibition against SARS-CoV-2.",
+  "authors": [
+    "Thirumal Kumar D",
+    "Nishaat Shaikh",
+    "Udhaya Kumar S",
+    "George Priya Doss C",
+    "Hatem Zayed"
+  ],
+  "year": 2021,
+  "doi": "10.3389/fmolb.2021.645216",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 24,
+  "open_access_pdf_url": "https://www.frontiersin.org/articles/10.3389/fmolb.2021.645216/full",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.3389_fmolb.2021.645216.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:09.762049+00:00",
+  "raw_metadata": {
+    "doi": "10.3389/fmolb.2021.645216",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

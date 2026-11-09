@@ -1,0 +1,32 @@
+{
+  "id": "s2:doi:10.3390/en16186444",
+  "title": "Energy Analysis of a Novel Turbo-Compound System for Mild Hybridization of a Gasoline Engine",
+  "abstract": "Efficient and low-polluting mobility is a major demand in all countries. Hybrid electric vehicles have already shown to be suitable to respond to this need, being a reliable alternative to conventional cars, at least in urban environments. Nevertheless, such vehicles present a yet unexplored potential. In this paper, we will investigate how the powertrain efficiency may possibly benefit, in an integrated drivetrain for a hybrid electric vehicle, based on a turbocharged gasoline engine, of an innovative supercharging system. The compressor and turbine will be mechanically decoupled so as to independently optimize their operation, avoiding turbo lag and maximizing energy recovery by completely eliminating the waste-gate valve. This, in turns, requires changing the turbine so as to have a flattest possible efficiency/load curve. Therefore, an ad-hoc designed turbine will be implemented in the decoupled configuration, to be used to drive an electrical generator and produce electrical energy for charging the battery. This study presents a preliminary assessment of the potential of a turbo-compounded system for a 1L turbocharged gasoline engine for a small city car. To this aim, a one-dimensional dynamic model of the engine has been built in GT-Suite and has been calibrated and validated by means of experimental data obtained on a dynamometer, both in steady state and dynamic conditions. In particular, the model has been calibrated by means of experimental data obtained in stationary conditions and its robustness has then been verified through experimental data obtained under transient conditions. The model also includes data retrieved from the characterization of the existing turbine and compressor, while a new performance map for the turbine has been designed to better exploit the potential of the components’ decoupling. Results include the estimation of energy recovery potential of such a solution. Under the implementation of a straightforward control strategy, which runs both compressor and turbine at the same speed, the system is able to achieve a 60.57% increase in energy recovered from the exhaust gasses in the turbine. Afterwards, an attempt was made to limit the minimum turbine speed to 45000 rpm and simultaneously decrease the instantaneous speed by 3000 rpm compared to the compressor, attaining a further increase of 1.7% in the energy recovered by the turbine.",
+  "authors": [
+    "Simone Lombardi",
+    "Federico Ricci",
+    "Roberto Martinelli",
+    "Laura Tribioli",
+    "Carlo Nazareno Grimaldi",
+    "Gino Bella"
+  ],
+  "year": 2023,
+  "doi": "10.3390/en16186444",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 7,
+  "open_access_pdf_url": "https://www.mdpi.com/1996-1073/16/18/6444/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.3390_en16186444.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:42.952070+00:00",
+  "raw_metadata": {
+    "doi": "10.3390/en16186444",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

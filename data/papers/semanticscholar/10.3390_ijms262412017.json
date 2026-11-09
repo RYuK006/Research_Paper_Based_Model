@@ -1,0 +1,31 @@
+{
+  "id": "s2:doi:10.3390/ijms262412017",
+  "title": "Designing Novel Compound Candidates Against SARS-CoV-2 Using Generative Deep Neural Networks and Cheminformatics",
+  "abstract": "The COVID-19 outbreak has had a tremendous socioeconomic impact around the world, and although there are currently some drugs that have been granted authorization by the U.S. FDA for the treatment of COVID-19, there are still some restrictions on their use. As a result, it is still necessary to urgently carry out related drug development research. Deep generative models and cheminformatics were used in this study to design and screen novel candidates for potential anti-SARS-CoV-2 small molecule compounds. In this study, the small molecule structure of Molnupiravir which has been authorized by the U.S. FDA for emergency use was used to be a model in a similarity search based on the BIOVIA Available Chemicals Directory (BIOVIA ACD) database using the BIOVIA Discovery Studio (DS) software (version 2022). There were 61,480 similar structures of Molnupiravir, which were used as training dataset for the deep generative model, and then the reinforcement learning model was used to generate 6000 small molecule structures. To further confirm whether those molecule structures potentially possess the ability of anti-SARS-CoV-2, cheminformatics techniques were used to assess 38 small molecule compounds with potential anti-SARS-CoV-2 activity. The suitability of 38 small molecule structures was calculated using ADMET analysis. Finally, one compound structure, Molecule_36, passed ADMET and was unpatented. This study demonstrates that Molecule_36 may have better potential than Molnupiravir does in affinity with SARS-CoV-2 RdRp and ADMET. We provide a combination of generative deep neural networks and cheminformatics for developing new anti-SARS-CoV-2 compounds. However, additional chemical refinement and experimental validation will be required to determine its stability, mechanism of action, and antiviral efficacy.",
+  "authors": [
+    "Shang-Yang Li",
+    "Chin-Mao Hung",
+    "Hsin-Yi Hung",
+    "Chih-Wei Lai",
+    "Meng-Chang Lee"
+  ],
+  "year": 2025,
+  "doi": "10.3390/ijms262412017",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 2,
+  "open_access_pdf_url": "https://www.mdpi.com/1422-0067/26/24/12017/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.3390_ijms262412017.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:17.222459+00:00",
+  "raw_metadata": {
+    "doi": "10.3390/ijms262412017",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

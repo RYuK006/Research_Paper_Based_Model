@@ -1,0 +1,28 @@
+{
+  "id": "s2:doi:10.1093/clinchem/hvad097.208",
+  "title": "A-233 Novel Microfluidic System for Antimicrobial Susceptibility Testing",
+  "abstract": "Abstract                                   Background                   Aiming to enhance antibiotic susceptibility testing (AST), BacterOMIC combines microdilution AST with cutting-edge microfluidics to quantitatively evaluate all clinically relevant antibiotics on a single disposable panel. In this study, we evaluated the performance of BacterOMIC in determining minimum inhibitory concentrations (MICs) of selected agents against Gram-positive and Gram-negative bacteria and in detecting the presence of extended spectrum beta-lactamase (ESBL) produced by Enterobacterales.                                                   Methods                   Using the BacterOMIC UNI Panel, we characterized bacterial strains collected from Polish hospitals in 2020–2022. We inoculated the BacterOMIC panels with bacterial suspensions in cation-adjusted Mueller-Hinton broth at a density of 5*10^5 CFU/mL. The panels then incubated in an analyzer for 16 h, and results were automatically calculated via built-in analytical software. For comparison, we obtained reference MIC data from laboratories contracted for determining strain MIC values via microdilution. We calculated the essential agreement (EA%) and bias according to ISO20776.We also qualitatively assessed several antibiotics via our panel. Categorical agreement (CA%) and discrepancies were determined for these antibiotics according to ISO20776.To assess ESBL detection, we compared BacterOMIC results with data obtained in our internal laboratory using the MIC Test Strip ESBL (Liofilchem).                                                   Results                   With the BacterOMIC system, CA% values exceeded 90% for amoxicillin, benzylpenicillin, ceftazidime/avibactam, ciprofloxacin, erythromycin, gentamicin, meropenem, moxifloxacin, tedizolid, and vancomycin. EA% values exceeded 90% for the following antimicrobials, with a bias of less than 30%.                   By comparing with our reference method, we found that BacterOMIC detected ESBL with a specificity of 92% (confidence interval [CI] 95%; 81%–98%) and sensitivity of 97% (CI 95%; 84%–99%).                                                   Conclusions                   Our data demonstrate that BacterOMIC provides reliable MIC and ESBL results for assessing the drug susceptibility of Gram-positive and Gram-negative bacteria against 25 agents in a single panel. Thus, the BacterOMIC system provides a valuable tool for automated AST systems.",
+  "authors": [
+    "S Bajer-Borstyn",
+    "G Zurawska"
+  ],
+  "year": 2023,
+  "doi": "10.1093/clinchem/hvad097.208",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://academic.oup.com/clinchem/article-pdf/69/Supplement_1/hvad097.208/51777539/hvad097.208.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1093_clinchem_hvad097.208.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:13.539159+00:00",
+  "raw_metadata": {
+    "doi": "10.1093/clinchem/hvad097.208",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

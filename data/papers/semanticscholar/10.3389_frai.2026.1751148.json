@@ -1,0 +1,34 @@
+{
+  "id": "s2:doi:10.3389/frai.2026.1751148",
+  "title": "CompoundDenseNet: a novel approach for accurate recognition of Bangla handwritten compound characters",
+  "abstract": "Bangla, one of the most widely spoken languages in the world, presents major challenges in handwritten character recognition because of its complex compound characters with intricate shapes, diverse writing styles, and structural similarities. These features make Bangla a representative example of complex scripts that remain difficult for conventional Optical Character Recognition (OCR) systems. This study focuses on improving the recognition of Bangla handwritten compound characters using a modified DenseNet architecture named CompoundDenseNet. The architecture enhances feature extraction and reuse to better capture the visual variations and fine structural details that existing models often struggle to handle. Its performance was evaluated on three benchmark datasets, BanglaLekha Isolated, Ekush, and CMATERdb, achieving recognition accuracies of 98.5%, 98%, and 96.2% respectively, surpassing previously reported methods. Misclassification analysis using a confusion matrix revealed that the Adam optimizer produced the most stable and accurate results with faster convergence compared to other optimizers tested. While the results demonstrate significant progress, the study also highlights the need for larger and more diverse datasets. Overall, CompoundDenseNet contributes to advancing Bangla handwritten compound character recognition and has the potential to enhance real-world applications such as education, legal documentation, and digital accessibility in Bangla language technologies.",
+  "authors": [
+    "Nazia Alfaz",
+    "Talha Bin Sarwar",
+    "Fahmid Al Farid",
+    "Md Saef Ullah Miah",
+    "Sadia Afrin",
+    "Shakila Rahman",
+    "Jia Uddin",
+    "Hezerul bin Abdul Karim"
+  ],
+  "year": 2026,
+  "doi": "10.3389/frai.2026.1751148",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://www.frontiersin.org/articles/10.3389/frai.2026.1751148/full",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.3389_frai.2026.1751148.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:06.947848+00:00",
+  "raw_metadata": {
+    "doi": "10.3389/frai.2026.1751148",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

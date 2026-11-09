@@ -1,0 +1,29 @@
+{
+  "id": "s2:doi:10.5194/gmd-14-2747-2021",
+  "title": "Combining homogeneous and heterogeneous chemistry to model inorganic compound concentrations in indoor environments: the H                     <sup>2</sup>                     I model (v1.0)",
+  "abstract": "Homogeneous reactivity has been extensively studied in recent years through outdoor air-quality simulations. However, indoor atmospheres are known to be largely influenced by another type of chemistry, which is their reactivity with surfaces. Despite progress in the understanding of heterogeneous reactions, such reactions remain barely integrated into numerical models. In this paper, a room-scale, indoor air-quality (IAQ) model is developed to represent both heterogeneous and homogeneous chemistry. Thanks to the introduction of sorbed species, deposition and surface reactivity are treated as two separate processes, and desorption reactions are incorporated. The simulated concentrations of inorganic species are compared with experimental measurements acquired in a real room, thus allowing calibration of the model's undetermined parameters. For the duration of the experiments, the influence of the simulation's initial conditions is strong. The model succeeds in simulating the four inorganic species concentrations that were measured, namely NO, NO                     2                     , HONO and O                     3                     . Each parameter is then varied to estimate its sensitivity and to identify the most prevailing processes. The air-mixing velocity and the building filtration factor are uncertain parameters that appear to have a strong influence on deposition and on the control of transport from outdoors, respectively. As expected, NO                     2                     surface hydrolysis plays a key role in the production of secondary species. The secondary production of NO by the reaction of sorbed HONO with sorbed HNO                     3                     stands as an essential component to integrate into IAQ models.",
+  "authors": [
+    "Eve-Agnès Fiorentino",
+    "Henri Wortham",
+    "Karine Sartelet"
+  ],
+  "year": 2021,
+  "doi": "10.5194/gmd-14-2747-2021",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 8,
+  "open_access_pdf_url": "https://gmd.copernicus.org/articles/14/2747/2021/gmd-14-2747-2021.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.5194_gmd-14-2747-2021.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:00.181159+00:00",
+  "raw_metadata": {
+    "doi": "10.5194/gmd-14-2747-2021",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

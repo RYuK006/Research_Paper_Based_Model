@@ -1,0 +1,29 @@
+{
+  "id": "s2:doi:10.1088/1757-899x/631/2/022041",
+  "title": "A Novel Robust Adaptive Intelligent and Compound Control of an Adaptive Neural Network, SMC, FLC and PI for Robot Manipulators",
+  "abstract": "Abstract                In this paper, a new compound control scheme is proposed for robot manipulators (RMs) based on radial basis function neural network (RBFNNs), sliding mode control (SMC), fuzzy logic control (FLC) and proportional–integral (PI) controller. In this control scheme, the filtered tracking error is the input of the RBFNNs update laws, SMC, FLC and PI controller. The RBFNNs uses three-layer to approximate uncertain nonlinear manipulator dynamics. A robust sliding function is selected as a second controller to guarantee the stability and robustness under various environments. The FLC as the third controller completely removes the chattering signal caused by the sign function in the SMC. By using additional PI controllers, the goal of RMs tuning is to minimize tracking performance and overshoot can be realized. Simulation results highlight performance of the controller to compensate the approximate errors and its simpleness in the adaptive parameter tuning process. To be concluded, the controller is suitable for robust adaptive intelligent control and can be used as supplementary of traditional neural network (NN) controllers.",
+  "authors": [
+    "Duc Ha Vu",
+    "Shoudao Huang",
+    "Thi Diep Tran"
+  ],
+  "year": 2019,
+  "doi": "10.1088/1757-899x/631/2/022041",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1088/1757-899X/631/2/022041/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1088_1757-899x_631_2_022041.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:06.046656+00:00",
+  "raw_metadata": {
+    "doi": "10.1088/1757-899x/631/2/022041",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

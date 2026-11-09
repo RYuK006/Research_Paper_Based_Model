@@ -1,0 +1,29 @@
+{
+  "id": "s2:doi:10.3390/math9212778",
+  "title": "A Novel Plain-Text Related Image Encryption Algorithm Based on LB Compound Chaotic Map",
+  "abstract": "Chaos systems have been widely used in image encryption algorithms. In this article, we introduce an LB (Logistic-Baker) compound chaotic map that can greatly improve the complexity of original Logistic map and Baker map, as well as the generated sequences have pseudo-randomness. Furthermore, based on the LB compound chaotic map, an image encryption algorithm is proposed. To resist the differential attack, and enhance the sensitivity of plain-text, the parameters of this algorithm are plain-text related. In this algorithm, the compound chaotic function is influenced by the plain-text image; thus, the specific form of this chaotic map, and its dynamics will be different when encrypting different images. Numerical experiment results indicate that the effect of this novel plain-text related image encryption scheme is excellent, as well as can be competitive with other corresponding algorithms.",
+  "authors": [
+    "Shijie Zhang",
+    "Lingfeng Liu",
+    "Hongyue Xiang"
+  ],
+  "year": 2021,
+  "doi": "10.3390/math9212778",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 13,
+  "open_access_pdf_url": "https://www.mdpi.com/2227-7390/9/21/2778/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.3390_math9212778.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:38.436418+00:00",
+  "raw_metadata": {
+    "doi": "10.3390/math9212778",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "s2:doi:10.1088/1361-6439/27/1/015024",
+  "title": "Modeling the performance limits of novel microcantilever heaters for volatile organic compound detection",
+  "abstract": "Abstract                   We present a theoretical model estimating the performance limits of novel AlGaN/GaN heterostructure based microcantilever heater sensors to perform advanced volatile organic compound (VOC) detection and mixture analysis. Operating without any specific surface functionalization or treatment; these devices utilize the strong surface polarization of AlGaN as well as the unique device geometries, to perform selective detection of analytes based on their latent heat of evaporation and molecular dipole moment over a wide concentration range. The presented model incorporates heat transfer, Joule heating, thermal expansion and evaporative heat loss mechanisms, to predict device behaviors such as temperature profiles and sensing performance limits under various steady-state and transient test conditions. In addition, the versatility of the proposed model enables us to successfully predict the capability of the device to perform mixture analysis, and provides guidelines to further optimize the device properties to achieve a limit of detection in sub-ppm concentration.",
+  "authors": [
+    "Ifat Jahangir",
+    "Goutam Koley"
+  ],
+  "year": 2016,
+  "doi": "10.1088/1361-6439/27/1/015024",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 4,
+  "open_access_pdf_url": "http://stacks.iop.org/0960-1317/27/i=1/a=015024/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1088_1361-6439_27_1_015024.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:41.365891+00:00",
+  "raw_metadata": {
+    "doi": "10.1088/1361-6439/27/1/015024",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "s2:doi:10.1142/s0219720018500269",
+  "title": "A novel graph kernel on chemical compound classification",
+  "abstract": "Considering the classification of compounds as a nonlinear problem, the use of kernel methods is a good choice. Graph kernels provide a nice framework combining machine learning methods with graph theory, whereas the essence of graph kernels is to compare the substructures of two graphs, how to extract the substructures is a question. In this paper, we propose a novel graph kernel based on matrix named the local block kernel, which can compare the similarity of partial substructures that contain any number of vertexes. The paper finally tests the efficacy of this novel graph kernel in comparison with a number of published mainstream methods and results with two datasets: NCI1 and NCI109 for the convenience of comparison.",
+  "authors": [
+    "Qiangrong Jiang",
+    "Jiajia Ma"
+  ],
+  "year": 2018,
+  "doi": "10.1142/s0219720018500269",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 1,
+  "open_access_pdf_url": "https://www.worldscientific.com/doi/pdf/10.1142/S0219720018500269",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1142_s0219720018500269.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:37.297159+00:00",
+  "raw_metadata": {
+    "doi": "10.1142/s0219720018500269",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

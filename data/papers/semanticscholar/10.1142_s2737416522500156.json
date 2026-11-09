@@ -1,0 +1,31 @@
+{
+  "id": "s2:doi:10.1142/s2737416522500156",
+  "title": "Blockage of the Monoamine Oxidase by a Natural Compound to Overcome Parkinson’s Disease via Computational Biology",
+  "abstract": "The dopamine (DA) metabolism changes are significant in Parkinson’s disease (PD). Levels of monoamine oxidases (MAOs) play a critical role in DA metabolism and oxidative damage. Increased levels of the MAO-B enzyme in the elderly raise oxidative damage and enhance neurodegenerative processes. Inhibiting MAO-B as an attractive target would be the best method for treating and understanding Parkinson’s disease. This study aimed to recognize a suitable inhibitor for the MAO-B enzyme using computational biology and compared it with Safinamide as a positive control. We used various computational biology techniques such as binding free energy, virtual screening, molecular dynamics (MD), and docking considerations to achieve the goal. To obtain a potent inhibitor, 41,852 compounds were taken from the Zinc database. After preparing compounds and the MAO-B enzyme, screening was performed using AutoDock Vina software. After screening, a potent natural inhibitor (ZINC00261335) was picked, and then, subsequent MD simulations for both ZINC00261335 and Safinamide were conducted via GROMACS software. The stability of the MAO-B_ZINC00261335 complex was excellent during the simulation, and the results of MM-PBSA analysis explicated that ZINC00261335 with ([Formula: see text]118.353[Formula: see text]kJ[Formula: see text]mol[Formula: see text]) is more potent than Safinamide ([Formula: see text]89.305[Formula: see text]kJ[Formula: see text]mol[Formula: see text]). Ultimately, the ADME study (lipophilicity, drug similarity and pharmacokinetic parameters) for ZINC00261335 was revealed, which is acceptable for human use. This study indicates that ZINC00261335 is a suitable MAO-B inhibitor and a great candidate for more laboratory studies.",
+  "authors": [
+    "Mahsa Sherafatizangeneh",
+    "Chiako Farshadfar",
+    "Nooshin Mojahed",
+    "Akbar Noorbakhsh",
+    "Noeman Ardalan"
+  ],
+  "year": 2022,
+  "doi": "10.1142/s2737416522500156",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 9,
+  "open_access_pdf_url": "https://www.worldscientific.com/doi/pdf/10.1142/S2737416522500156",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1142_s2737416522500156.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:21.834654+00:00",
+  "raw_metadata": {
+    "doi": "10.1142/s2737416522500156",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

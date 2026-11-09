@@ -1,0 +1,28 @@
+{
+  "id": "s2:doi:10.1177/10241221261449713",
+  "title": "Simulation-driven optimization of pentacene based organic thin-film transistors (OTFTs) for next-generation flexible electronics: A novel ditch layer architecture approach",
+  "abstract": "This study presents a rigorous simulation-based investigation of pentacene-based organic thin-film transistors (OTFTs) employing innovative ditch layer architectures with strategically engineered p+ doped regions embedded within the dielectric structure, demonstrating substantial performance superiority over conventional configurations. Systematic analysis of bottom-gate, bottom-contact (BGBC) architectures across horizontal, vertical, and omnidirectional doping geometries reveals exceptional scalability for channel lengths spanning 50 nm to 1                                                                      μ                                                                 m. Precision-controlled thickness optimization at 60 and 50 nm effectively addresses critical fabrication challenges—dewetting mitigation, strain engineering, and stress management—while achieving subthreshold swing values of 36.33–42.14 mV/dec, constituting an 81% improvement over non-optimized structures (192.65 mV/dec). The proposed architecture augments charge transport efficiency by 23% and achieves exceptional                                                                                                I                                                        O                             N                                                                                                                     /                                                                                                I                                                        O                             F                             F                                                                                                                     ratios of                                                                     3.57                         ×                                                    0                           12                                                                                          , representing four-to-six orders of magnitude enhancement over conventional organic transistors. Comprehensive Silvaco ATLAS simulations demonstrate that optimized bottom-gate top-contact structures deliver 3.65                                                                     ×                                                                 superior drain current density while BGBC configurations reduce off-state leakage by 36%. Comparative benchmarking establishes                                                                                                I                                                        O                             N                                                                                                                     /                                                                                                I                                                        O                             F                             F                                                                                                                     enhancement factors of 57                                                                     ×                                                                 , 41                                                                     ×                                                                 , 37                                                                     ×                                                                 , and 25                                                                     ×                                                                 versus carbon nanotube FETs, FinFETs, gate-all-around FETs, and negative capacitance FETs, respectively. The optimized device maintains physically realistic pentacene mobility approaching                                                                     ∼                                                                 2 cm                                                                                                                           2                                                                                          /V                                                                     ⋅                                                                 s while achieving 54% energy reduction and 69% static noise margin enhancement, advancing ambient-fabricable flexible organic electronics.",
+  "authors": [
+    "Surbhi Bharti",
+    "Ashwni Kumar"
+  ],
+  "year": 2026,
+  "doi": "10.1177/10241221261449713",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 2,
+  "open_access_pdf_url": "https://journals.sagepub.com/doi/pdf/10.1177/10241221261449713",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1177_10241221261449713.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:18.874419+00:00",
+  "raw_metadata": {
+    "doi": "10.1177/10241221261449713",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

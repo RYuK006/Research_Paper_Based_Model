@@ -1,0 +1,31 @@
+{
+  "id": "s2:doi:10.3390/min15080862",
+  "title": "Enhancement on KCl Flotation at Low Temperature by a Novel Amine-Alcohol Compound Collector: Experiment and Molecular Dynamic Simulation",
+  "abstract": "To address the challenges of low KCl recovery and high collector consumption during flotation at low temperature, a novel approach with utilizing a compound collector consisting of octadecylamine hydrochloride (ODA) and alcohols (butanol, octanol, and dodecanol) to enhance low-temperature KCl flotation recovery was proposed in this study. The flotation performance and underlying mechanisms of this novel amine–alcohol compound collector were investigated through combination of micro-flotation tests, contact angle measurements, and molecular dynamics simulations. The results revealed that KCl flotation recovery decreased with declining temperature using single ODA as the collector, and the maximum KCl flotation recovery was approximately 40% with an ODA concentration of 1 × 10−5 mol/L at the temperature of 0 °C. Moreover, amine–alcohol compound collector shows different KCl flotation recovery; among them, dodecanol (DOD) presents the best performance at 25 °C with an ODA concentration of 3 × 10−6 mol/L. The KCl flotation recovery initially increased and then gradually decreased with increasing the DOD concentration, and 90% KCl recovery was achieved with a DOD concentration of 1.5 × 10−5 mol/L (DOD:ODA = 5:1 in mole) under 25 °C. Furthermore, this compound collector exhibited high selectivity for KCl/NaCl flotation. Mechanism studies indicated that the trend in contact angle changes on the KCl crystal surface closely mirrored the trend in flotation recovery. Molecular dynamics simulations demonstrated that at 0 °C, the presence of DOD resulted in a higher diffusion coefficient for ODA molecules compared to the system without DOD. Additionally, the water molecules in System 3 exhibited a lower diffusion coefficient and a greater number of hydrogen bonds. This novel compound collector offers a potential solution for improving KCl recovery and reducing ODA consumption during low-temperature flotation. It holds significant theoretical and practical implications for advancing low-temperature KCl flotation technology.",
+  "authors": [
+    "Bo Wang",
+    "Jintai Tian",
+    "Biao Fan",
+    "Xin Wang",
+    "Enze Li"
+  ],
+  "year": 2025,
+  "doi": "10.3390/min15080862",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 1,
+  "open_access_pdf_url": "https://www.mdpi.com/2075-163X/15/8/862/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.3390_min15080862.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:53.798058+00:00",
+  "raw_metadata": {
+    "doi": "10.3390/min15080862",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

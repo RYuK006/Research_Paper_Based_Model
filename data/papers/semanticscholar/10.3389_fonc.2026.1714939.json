@@ -1,0 +1,38 @@
+{
+  "id": "s2:doi:10.3389/fonc.2026.1714939",
+  "title": "An exploration of GuaLouQuMaiWan related novel prognostic model and search for potential compound pachymic acid in bladder cancer",
+  "abstract": "Objective                     Bladder cancer (BC) is a highly prevalent malignant tumor. The traditional Chinese medicine formula Guo Lou Qu Mai Wan (GLQMW), when used in conjunction with chemotherapy, has been shown to reduce adverse reactions and prolong survival time, although its specific mechanisms remain unclear. This study aims to investigate whether GLQMW exerts its therapeutic effects on bladder cancer by modulating the tumor immune microenvironment.                                                           Methods                     To elucidate the molecular mechanisms of GLQMW, we employed bioinformatics analysis, systems pharmacology, and molecular docking to explore the prognostic value of GLQMW-related target genes for BC and to establish a prognostic prediction model. We analyzed the relationship between GLQMW-related target genes and immune cell infiltration, as well as the compositional differences of immune cell subpopulations across different risk groups. Molecular docking was used to screen for pachymic acid (PA) as the main anticancer active compound, and CCK8 and western blot were used to determine the target of PA as the active compound.                                                           Result                                            In our immune infiltration analysis, the expression levels of five genes (MAPK12, MAN1B1, EGFR, FABP6, and ZAP70) were found to be associated with immune cells. Moreover, a higher presence of naïve B cells, plasma cells, CD8+ T cells, and Tregs was observed in the low-risk group, indicating that GLQMW can significantly impact the immune microenvironment by targeting these five model genes, thereby exerting therapeutic effects. In the single-cell data analysis, our results demonstrated that the percentage of CD8 T+ cells and plasma cells in tumor tissue was significantly lower than that in adjacent non-tumor tissue. In addition, through drug similarity analysis and molecular docking, we identified PA as a potential anti-tumor compound. Furthermore, PA was validated                       in vitro                       to upregulate FABP6 and downregulate EGFR expression and suppress the bladder cancer progression                       in vivo                       .                                                                                Conclusions                     PA, the active ingredient of GLQMW, can inhibit BC by inhibiting EGFR and upregulating FABP6.",
+  "authors": [
+    "Qiliang Teng",
+    "Shumin Cheng",
+    "Jia Chen",
+    "Hongya Zhu",
+    "Kai Hu",
+    "Lingling Sun",
+    "Jin Zhao",
+    "Zhenbo Yuan",
+    "Wenjing Wang",
+    "Li Zhang",
+    "Taoli Liu",
+    "Jiahao Feng"
+  ],
+  "year": 2026,
+  "doi": "10.3389/fonc.2026.1714939",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://www.frontiersin.org/articles/10.3389/fonc.2026.1714939/full",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.3389_fonc.2026.1714939.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:17.268565+00:00",
+  "raw_metadata": {
+    "doi": "10.3389/fonc.2026.1714939",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

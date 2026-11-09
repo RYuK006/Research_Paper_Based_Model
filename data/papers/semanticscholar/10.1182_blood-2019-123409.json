@@ -1,0 +1,34 @@
+{
+  "id": "s2:doi:10.1182/blood-2019-123409",
+  "title": "Droplet Digital PCR Phasing (DROP-PHASE): A Novel Method for Straightforward Detection of BCR-ABL1 Compound Mutations in Tyrosine Kinase Inhibitors Resistant Chronic Myeloid Leukemia (CML) and Acute Lymphoblastic Leukemia (ALL)",
+  "abstract": "Chronic myeloid leukemia (CML) and acute lymphoblastic leukemia (ALL) are, respectively, a myeloproliferative and a lymphoproliferative neoplasm that can be characterized by the chimeric fusion oncogene BCR-ABL1. Tyrosine Kinase Inhibitors (TKI) are the standard therapy for patients with CML/ALL. However, mutations of the BCR-ABL1 kinase domain constitute a major cause of treatment failure in CML and ALL receiving TKI therapy. While 2nd and 3rd generation TKI have proven their efficacy against mutated BCR-ABL1-mediated clonal expansion, the presence of compound mutations can produce high level of resistance to these TKIs. Even the last addition to the TKI armamentarium, ponatinib, remains ineffective against some BCR-ABL1 compound mutations (Zabriskie, M.S., et al., BCR-ABL1 Compound Mutations Combining Key Kinase Domain Positions Confer Clinical Resistance to Ponatinib in Ph Chromosome-Positive Leukemia. Cancer Cell, 2014. 26(3):p.428-442). Therefore, the distinction between compound (different mutations present on 1 unique malignant clone) and polyclonal mutations (different mutations present on 2 or more different clones) is of great clinical importance in order to select the most suitable treatment and to estimate outcomes.                The objective of this study is to determine in a straightforward way whether BCR-ABL1 mutations discovered by Next Generation Sequencing are compound mutations or polyclonal mutations.                A simple proof-of-concept experiment was first performed by using 3 synthetic oligonucleotides (gBlocks, IDT) mimicking the presence of compound mutations versus polyclonal mutations in resistant leukemia cells. The first oligo harbored the M237I mutation, the second oligo mutations E255K, E279K, V299L, T315I, F359V, A380S, H396R, S417Y, F459K and F486S and the third one contained all the mutations. Dual-color probes assays have been set up to target specifically 2 different mutations. Mixtures of 2 oligonucleotides harboring 1 mutation each versus 1 oligonucleotide harboring 2 mutations have been compared by performing duplex droplet digital PCR (ddPCR) reactions on the Bio-Rad ddPCR QX200 System. Linkage detection is based on the observation that the presence of 2 targets on the same DNA molecule increases the number of double-positive droplets relative to the number expected due to chance. Automatic linkage evaluation was made by the QuantaSoft Software and mathematical calculations refer to (Regan, J.F., et al., A rapid molecular approach for chromosomal phasing. PLoS One, 2015. 10(3): p. e0118270).                The first experiment successfully validated the detection of mutations residing on two different oligonucleotides (polyclonal mutations) versus mutations on the same molecule (compound mutations). When performing serial dilutions of 2 oligonucleotides containing different mutations, a sensitivity of 10%:90% was achieved with a good linearity (r2=0.97). Mixing experiment also showed that ddPCR phasing could distinguish between a mixture of compound and polyclonal mutations versus and the sole presence of polyclonal mutations at the same sensitivity and linearity levels. Moreover, no influence of the genomic distance between mutations (from position 255 to position 562) was observed. The strategy was further applied to 20 clinical samples from CML/ALL patients characterized by multiple resistance mutations.                Drop-phase is a rapid (&lt; 4 hours), scalable (100 samples), technically easy to perform and cost-effective method. This strategy will help to identify compound mutations in patients with TKI-resistant CML/ALL and allow to modulate the patient's drug strategy and to prevent progression and therapeutic failure.                                   Disclosures                   Vannuffel: Incyte: Consultancy. Soverini:Incyte: Consultancy.",
+  "authors": [
+    "Pascal Vannuffel",
+    "Luana Bavaro",
+    "Friedel Nollet",
+    "Asena Aynaci",
+    "Margherita Martelli",
+    "Helena Devos",
+    "Céline De Rop",
+    "Simona Soverini"
+  ],
+  "year": 2019,
+  "doi": "10.1182/blood-2019-123409",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 5,
+  "open_access_pdf_url": "https://ashpublications.org/blood/article/134/Supplement_1/4660/428718/Droplet-Digital-PCR-Phasing-DROPPHASE-A-Novel",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1182_blood-2019-123409.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:20.216122+00:00",
+  "raw_metadata": {
+    "doi": "10.1182/blood-2019-123409",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

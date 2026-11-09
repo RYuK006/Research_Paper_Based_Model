@@ -1,0 +1,28 @@
+{
+  "id": "s2:doi:10.3390/molecules31091420",
+  "title": "Probing DFT Functionals in the Analysis of Enthalpy and Gibbs Free Energy: A Case Study of a Heptakis(2,6-di-O-methyl)-β-cyclodextrin Complex with a Novel Fluorinated Compound",
+  "abstract": "In this study, we evaluated various density functional theory (DFT) methods to obtain thermodynamic parameters, such as enthalpy and Gibbs free energy, and compared them with experimental values obtained from conductometric analysis. As a model system, we chose the heptakis(2,6-di-O-methyl)-β-cyclodextrin (DIMEB) complex with the recently synthesized fluorinated compound, butane-1,4-diyl bis(2,2,2-trifluoroethane-1-sulfonate) (BFS). The analysis was carried out in the temperature range of 293.15–313.15 K. A conformational search was performed to identify the most stable complexes. The final stage of optimization was conducted at the ωB97X-D4/6-31G(d,p) level of theory in the presence of water, modeled using the conductor-like polarizable continuum model (CPCM). The thermodynamic analysis indicates that almost all theoretical methods overestimate the enthalpy and Gibbs free energy. This also applies to Minnesota functionals, which are commonly recommended for thermochemistry studies. The best agreement with experimental results was obtained for the composite methods r2SCAN-3c and PBEh-3c, with the coefficient of determination (R2 = 0.9972) indicating excellent correlation between r2SCAN-3c and experiment.",
+  "authors": [
+    "Marta Hoelm",
+    "Zdzisław Kinart"
+  ],
+  "year": 2026,
+  "doi": "10.3390/molecules31091420",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 2,
+  "open_access_pdf_url": "https://www.mdpi.com/1420-3049/31/9/1420/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.3390_molecules31091420.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:46.968551+00:00",
+  "raw_metadata": {
+    "doi": "10.3390/molecules31091420",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

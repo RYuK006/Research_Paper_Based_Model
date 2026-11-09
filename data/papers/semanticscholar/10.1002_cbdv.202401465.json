@@ -1,0 +1,29 @@
+{
+  "id": "s2:doi:10.1002/cbdv.202401465",
+  "title": "Structure‐Guided Identification of Novel Aromatase Inhibitors Targeting Breast Carcinoma",
+  "abstract": "AbstractAromatase inhibitors play a critical therapeutic role in treating ER+ breast cancer, especially in postmenopausal women. However, their efficacy is often limited by resistance and severe side effects. Identifying new compounds that can disrupt aromatase enzyme function is essential. In this study, structural anomalies in the aromatase enzyme were corrected through energy minimization, and the structure was validated via Ramachandran plot. We screened 170,269 natural compounds from the ASINEX Biodesign library using high‐throughput screening algorithms to target the aromatase enzyme. Molecular docking identified three compounds: BDD30170158, BDE33872639, and BDE30177677, all showing stable binding interactions with the aromatase enzyme. Molecular dynamics simulations over 100 ns confirmed the conformational stability of these compounds. Although all three compounds exhibited the desired pharmacokinetic and drug metabolism properties, only one compound (BDE33872639) was identified as a non‐blocker, demonstrating a reduced risk of adverse cardiac effects. This compound exhibits significant potential as a novel aromatase inhibitor, warranting further experimental research to develop it as a therapeutic option for ER+ breast cancer.",
+  "authors": [
+    "Priyanka Yadav",
+    "Manish Kumar Tripathi",
+    "Manoj Kumar Yadav"
+  ],
+  "year": 2024,
+  "doi": "10.1002/cbdv.202401465",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 1,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/cbdv.202401465",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1002_cbdv.202401465.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:07.099545+00:00",
+  "raw_metadata": {
+    "doi": "10.1002/cbdv.202401465",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

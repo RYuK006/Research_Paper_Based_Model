@@ -1,0 +1,31 @@
+{
+  "id": "s2:doi:10.1002/chem.201204048",
+  "title": "Tuning the Photoisomerization of a N^C‐Chelate Organoboron Compound with a MetalAcetylide Unit",
+  "abstract": "AbstractTo examine the impact of metal moieties that have different triplet energies on the photoisomerization of B(ppy)Mes2 compounds (ppy=2‐phenyl pyridine, Mes=mesityl), three metal‐functionalized B(ppy)Mes2 compounds, Re‐B, Au‐B, and Pt‐B, have been synthesized and fully characterized. The metal moieties in these three compounds are Re(CO)3(tert‐Bu2bpy)(CC), Au(PPh3)(CC), and trans‐Pt(PPh3)2(CC)2, respectively, which are connected to the ppy chelate through the alkyne linker. Our investigation has established that the ReI unit completely quenches the photoisomerization of the boron unit because of a low‐lying intraligand charge transfer/MLCT triplet state. The AuI unit, albeit with a triplet energy that is much higher than that of B(ppy)Mes2, upon conjugation with the ppy chelate unit, substantially increases the contribution of the π→π* transition, localized on the conjugated chelate backbone in the lowest triplet state, thereby leading to a decrease in the photoisomerization quantum efficiency (QE) of the boron chromophore when excited at 365 nm. At higher excitation energies, the photoisomerization QE of Au‐B is comparable to that of the silyl–alkyne‐functionalized B(ppy)Mes2 (TIPS‐B), which was attributable to a triplet‐state‐sensitization effect by the AuI unit. The PtII unit links two B(ppy)Mes2 together in Pt‐B, thereby extending the π‐conjugation through both chelate backbones and leading to a very low QE of the photoisomerization. In addition, only one boron unit in Pt‐B undergoes photoisomerization. The isomerization of the second boron unit is quenched by an intramolecular energy transfer of the excitation energy to the low‐energy absorption band of the isomerized boron unit. TD‐DFT computations and spectroscopic studies of the three metal‐containing boron compounds confirm that the photoisomerization of the B(ppy)Mes2 chromophore proceeds through a triplet photoactive state and that metal units with suitable triplet energies can be used to tune this system.",
+  "authors": [
+    "Nan Wang",
+    "Soo‐Byung Ko",
+    "Jia‐Sheng Lu",
+    "Leanne D. Chen",
+    "Suning Wang"
+  ],
+  "year": 2013,
+  "doi": "10.1002/chem.201204048",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 37,
+  "open_access_pdf_url": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fchem.201204048",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1002_chem.201204048.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:46.926578+00:00",
+  "raw_metadata": {
+    "doi": "10.1002/chem.201204048",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

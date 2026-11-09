@@ -1,0 +1,29 @@
+{
+  "id": "s2:doi:10.1038/s42004-025-01437-x",
+  "title": "Molecular optimization using a conditional transformer for reaction-aware compound exploration with reinforcement learning",
+  "abstract": "Abstract                   Designing molecules with desirable properties is a critical endeavor in drug discovery. Because of recent advances in deep learning, molecular generative models have been developed. However, the existing compound exploration models often disregard the important issue of ensuring the feasibility of organic synthesis. To address this issue, we propose TRACER, which is a framework that integrates the optimization of molecular property optimization with synthetic pathway generation. The model can predict the product derived from a given reactant via a conditional transformer under the constraints of a reaction type. The molecular optimization results of an activity prediction model targeting DRD2, AKT1, and CXCR4 revealed that TRACER effectively generated compounds with high scores. The transformer model, which recognizes the entire structures, captures the complexity of the organic synthesis and enables its navigation in a vast chemical space while considering real-world reactivity constraints.",
+  "authors": [
+    "Shogo Nakamura",
+    "Nobuaki Yasuo",
+    "Masakazu Sekijima"
+  ],
+  "year": 2025,
+  "doi": "10.1038/s42004-025-01437-x",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 18,
+  "open_access_pdf_url": "https://www.nature.com/articles/s42004-025-01437-x.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1038_s42004-025-01437-x.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:13.594526+00:00",
+  "raw_metadata": {
+    "doi": "10.1038/s42004-025-01437-x",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

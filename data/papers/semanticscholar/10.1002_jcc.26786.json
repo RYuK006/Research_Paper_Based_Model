@@ -1,0 +1,32 @@
+{
+  "id": "s2:doi:10.1002/jcc.26786",
+  "title": "Picture‐word order compound protein interaction: Predicting compound‐protein interaction using structural images of compounds",
+  "abstract": "AbstractIdentifying potential associations between proteins and compounds is significant and challenging in the drug discovery process. Existing deep‐learning‐based methods tend to treat compounds and proteins as sequences or graphs. Inspired by the rapid development of computer vision technology, we argue that more abundant characterizations can be extracted from the images of compounds than from their sequences or graphs. Therefore, we propose an interaction model named picture‐word order compound protein interaction (PWO‐CPI) which learns the representation from structural images of compounds and protein sequences by using convolutional neural network (CNN). The experiments show that PWO‐CPI outperforms state‐of‐the‐art CPI prediction models. We also perform drug–drug interaction (DDI) experiments to validate the strong potential of structural formula images of molecular structures as molecular features. In addition, with the aid of generative adversarial networks, the visualization of image features demonstrates PWO‐CPI can learn compound structural features implicitly and automatically.",
+  "authors": [
+    "Ying Qian",
+    "Xuelian Li",
+    "Jian Wu",
+    "Aimin Zhou",
+    "Zhijian Xu",
+    "Qian Zhang"
+  ],
+  "year": 2021,
+  "doi": "10.1002/jcc.26786",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 13,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/jcc.26786",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1002_jcc.26786.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:40.007596+00:00",
+  "raw_metadata": {
+    "doi": "10.1002/jcc.26786",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

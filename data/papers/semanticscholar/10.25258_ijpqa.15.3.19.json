@@ -1,0 +1,30 @@
+{
+  "id": "s2:doi:10.25258/ijpqa.15.3.19",
+  "title": "In-silico ADME Evaluation and Molecular Docking of a Novel Compound’ 2-(4-Allylpiperazin-1-Yl)-1-(1-(4-Nitrophenyl)-1h-Tetrazol-5-Yl) Ethanone’ as Potential Antimicrobial Agents.",
+  "abstract": "Molecular docking serves as a pivotal tool in comprehending drug-receptor interactions within modern-day drug design. In a previous report, new compounds 2-(4-allylpiperazin-1-yl)-1-(1-aryl-1H-tetrazol-5-yl) etalons were analyzed. Among these compounds, ‘2-(4-allylpiperazin-1-yl)-1-(1-(4-nitrophenyl)-1H-tetrazol-5-yl)ethanone’ was singled for molecular docking as it shows dual antibacterial and antifungal studies. Docking investigations revealed promising binding affinity of the compound towards Escherichia coli (1KZN), exhibiting significant antibacterial activity of docking grade -5.53 Kcal/mol, indicative of a fortified binding interaction. Conversely, the compound exhibited weaker binding affinity towards Candida albicans (1AI9) with a docking grade of -0.72 Kcal/mol. Negative binding energy signifies a robust alignment between the ligand and target protein, suggesting potential therapeutic efficacy against microbial activity. Moreover, in-silico ADMET calculations were conducted, and the synthesized compound confirms the drug-likeness within the defined parameters: molecular weight between 150 to 500 g/mol, TPSA polarity between 20 to 130 Å2 , lipophilicity ranging between -0.7 to +5.0 Log S not exceeding 6, flexibility not exceeding 9, and saturation not inferior to 0.25. The compound demonstrated compliance with these criteria, suggesting favorable in-vivo drug absorption and permeation characteristics.",
+  "authors": [
+    "Zoya . Zaidi",
+    "Mohammad Asim Khan",
+    "G. . Sundararajan",
+    "Gunjan . Sharma"
+  ],
+  "year": 2024,
+  "doi": "10.25258/ijpqa.15.3.19",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": null,
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.25258_ijpqa.15.3.19.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:11.594077+00:00",
+  "raw_metadata": {
+    "doi": "10.25258/ijpqa.15.3.19",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

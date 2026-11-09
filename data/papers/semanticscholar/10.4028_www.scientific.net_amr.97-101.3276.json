@@ -1,0 +1,27 @@
+{
+  "id": "s2:doi:10.4028/www.scientific.net/amr.97-101.3276",
+  "title": "The Novel Compound Evolutionary Optimization Algorithm with Hybrid Discrete Variables and its Application to Mechanical Optimization",
+  "abstract": "To overcome the problem of low convergence speed and sensitivity to local convergence with the traditional Artificial Fish-swarm Algorithm (AFSA) to handle complex functions, a novel compound evolutionary algorithm, called AFS-EMPCEOA, was introduced which is combined Artificial Fish-swarm Algorithm with the Elite Multi-parent Crossover Evolutionary Optimization Algorithm (EMPCEOA) that is GuoTao Algorithm improved by  elite multi-parent crossover method. AFSEMPCEOA algorithm program with hybrid discrete variables was also developed. The computing example of mechanical optimization design shows that this algorithm has no special requirements on the characteristics of optimal designing problems, which has a fairly good universal adaptability and a reliable operation of program with a strong ability of overall convergence and high efficiency.",
+  "authors": [
+    "You Xin Luo"
+  ],
+  "year": 2010,
+  "doi": "10.4028/www.scientific.net/amr.97-101.3276",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 4,
+  "open_access_pdf_url": "https://www.scientific.net/AMR.97-101.3276.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.4028_www.scientific.net_amr.97-101.3276.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:36.091055+00:00",
+  "raw_metadata": {
+    "doi": "10.4028/www.scientific.net/amr.97-101.3276",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

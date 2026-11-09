@@ -1,0 +1,29 @@
+{
+  "id": "s2:doi:10.5334/jopd.93",
+  "title": "A Dataset of 108 Novel Noun-Noun Compound Words with Active and Passive Interpretation",
+  "abstract": "We created a dataset of 205 English novel noun-noun compounds (NNCs, e.g., “doctor charity”) by combining nouns with higher and lower agentivity (i.e., the probability of being an agent in a sentence). We collected active and passive interpretations of NNCs from a group of 58 English native speakers. We then measured interpretation time differences between NNCs with active and passive interpretations (i.e., 108 NNCs), using data obtained from a group of 68 English native speakers. Data were collected online using crowdsourcing platforms (SONA and Prolific). The datasets are available at osf.io/gvc2w/ and can be used to address questions about semantic and syntactic composition.",
+  "authors": [
+    "Phoebe Chen",
+    "David Poeppel",
+    "Arianna Zuanazzi"
+  ],
+  "year": 2023,
+  "doi": "10.5334/jopd.93",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 1,
+  "open_access_pdf_url": "https://account.openpsychologydata.metajnl.com/index.php/up-j-jopd/article/download/93/163",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.5334_jopd.93.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:36.266296+00:00",
+  "raw_metadata": {
+    "doi": "10.5334/jopd.93",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

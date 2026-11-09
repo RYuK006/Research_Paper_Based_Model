@@ -1,0 +1,29 @@
+{
+  "id": "s2:doi:10.1088/1757-899x/637/1/012003",
+  "title": "A Novel Robust Adaptive and Compound Control of an Adaptive Neural Network, SMC and PI for Manipulators",
+  "abstract": "Abstract                In this paper, a new compound control scheme is proposed for manipulator based on radial basis function neural network (RBFNNs), sliding mode controller (SMC) and proportional–integral (PI) controller. In this control scheme, the filtered tracking error is the input of the RBFNNs update laws, SMC, and PI controller. The RBFNNs uses three-layer to approximate uncertain nonlinear manipulator dynamics. A robust sliding function is selected as a second controller to guarantee the stability and robustness under various environments. By using additional PI controllers, the goal of manipulator tuning is to minimize chattering signal, tracking performance, and overshoot can be realized. Simulation results highlight performance of the controller to compensate the approximate errors and its simpleness in the adaptive parameter tuning process. To be concluded, the controller is suitable for robust adaptive control and can be used as supplementary of traditional neural network (NN) controllers.",
+  "authors": [
+    "Duc Ha Vu",
+    "Shoudao Huang",
+    "Thi Diep Tran"
+  ],
+  "year": 2019,
+  "doi": "10.1088/1757-899x/637/1/012003",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1088/1757-899X/637/1/012003/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1088_1757-899x_637_1_012003.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:57.845175+00:00",
+  "raw_metadata": {
+    "doi": "10.1088/1757-899x/637/1/012003",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "s2:doi:10.1007/s00216-020-03019-3",
+  "title": "Adduct annotation in liquid chromatography/high-resolution mass spectrometry to enhance compound identification",
+  "abstract": "Abstract                                        Annotation and interpretation of full scan electrospray mass spectra of metabolites is complicated by the presence of a wide variety of ions. Not only protonated, deprotonated, and neutral loss ions but also sodium, potassium, and ammonium adducts as well as oligomers are frequently observed. This diversity challenges automatic annotation and is often poorly addressed by current annotation tools. In many cases, annotation is integrated in metabolomics workflows and is based on specific chromatographic peak-picking tools. We introduce mzAdan, a nonchromatography-based multipurpose standalone application that was developed for the annotation and exploration of convolved high-resolution ESI-MS spectra. The tool annotates single or multiple accurate mass spectra using a customizable adduct annotation list and outputs a list of [M+H]                     +                     candidates. MzAdan was first tested with a collection of 408 analytes acquired with flow injection analysis. This resulted in 402 correct [M+H]                     +                     identifications and, with combinations of sodium, ammonium, and potassium adducts and water and ammonia losses within a tolerance of 10 mmu, explained close to 50% of the total ion current. False positives were monitored with mass accuracy and bias as well as chromatographic behavior which led to the identification of adducts with calcium instead of the expected potassium. MzAdan was then integrated in a workflow with XCMS for the untargeted LC-MS data analysis of a 52 metabolite standard mix and a human urine sample. The results were benchmarked against three other annotation tools, CAMERA, findMAIN, and CliqueMS: findMAIN and mzAdan consistently produced higher numbers of [M+H]                     +                     candidates compared with CliqueMS and CAMERA, especially with co-eluting metabolites. Detection of low-intensity ions and correct grouping were found to be essential for annotation performance.",
+  "authors": [
+    "Thomas Stricker",
+    "Ron Bonner",
+    "Frédérique Lisacek",
+    "Gérard Hopfgartner"
+  ],
+  "year": 2020,
+  "doi": "10.1007/s00216-020-03019-3",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 34,
+  "open_access_pdf_url": "http://link.springer.com/content/pdf/10.1007/s00216-020-03019-3.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1007_s00216-020-03019-3.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:04.832232+00:00",
+  "raw_metadata": {
+    "doi": "10.1007/s00216-020-03019-3",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

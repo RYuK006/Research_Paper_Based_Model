@@ -1,0 +1,30 @@
+{
+  "id": "s2:doi:10.3389/fphar.2024.1395014",
+  "title": "Exploring novel natural compound-based therapies for Duchenne muscular dystrophy management: insights from network pharmacology, QSAR modeling, molecular dynamics, and free energy calculations",
+  "abstract": "Muscular dystrophies encompass a heterogeneous group of rare neuromuscular diseases characterized by progressive muscle degeneration and weakness. Among these, Duchenne muscular dystrophy (DMD) stands out as one of the most severe forms. The present study employs an integrative approach combining network pharmacology, quantitative structure-activity relationship (QSAR) modeling, molecular dynamics (MD) simulations, and free energy calculations to identify potential therapeutic targets and natural compounds for DMD. Upon analyzing the GSE38417 dataset, it was found that individuals with DMD exhibited 290 upregulated differentially expressed genes (DEGs) compared to healthy controls. By utilizing gene ontology (GO) and protein-protein interaction (PPI) network analysis, this study provides insights into the functional roles of the identified DEGs, identifying ten hub genes that play a critical role in the pathology of DMD. These key genes include DMD, TTN, PLEC, DTNA, PKP2, SLC24A, FBXO32, SNTA1, SMAD3, and NOS1. Furthermore, through the use of ligand-based pharmacophore modeling and virtual screening, three natural compounds were identified as potential inhibitors. Among these, compounds 3874518 and 12314417 have demonstrated significant promise as an inhibitor of the SMAD3 protein, a crucial factor in the fibrotic and inflammatory mechanisms associated with DMD. The therapeutic potential of the compounds was further supported by molecular dynamics simulation and Molecular Mechanics/Generalized Born Surface Area (MM/GBSA) analysis. These findings suggest that the compounds are viable candidates for experimental validation against DMD.",
+  "authors": [
+    "Mohd Saeed",
+    "Ashanul Haque",
+    "Ambreen Shoaib",
+    "Syed Mohd Danish Rizvi"
+  ],
+  "year": 2024,
+  "doi": "10.3389/fphar.2024.1395014",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 6,
+  "open_access_pdf_url": "https://www.frontiersin.org/articles/10.3389/fphar.2024.1395014/full",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.3389_fphar.2024.1395014.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:15.574302+00:00",
+  "raw_metadata": {
+    "doi": "10.3389/fphar.2024.1395014",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "s2:doi:10.1093/neuonc/noaf201.0716",
+  "title": "DDDR-79. A novel, pooled, high-throughput screening of a CNS penetrant compound library identifies potential biomarker-driven therapeutics for glioblastoma",
+  "abstract": "Abstract                   Identifying drug sensitivities that will translate to clinical practice for patients with glioblastoma (GBM) necessitates the use of a variety of cell models that recapitulate the heterogeneity of the disease. Screening of large drug libraries against numerous models is challenging due to both cost and complexity. We utilized a barcode-labeled, pooled system (CARPOOL) of a 23-member set of genomically characterized glioma spheroid cell (GSC) models to evaluate the in vitro response of a library of 728 brain-penetrant compounds. Responses were validated using individual, representative GSCs. The library included 164 drugs associated with oncologic applications, and almost two-thirds of the compounds have been or are currently in clinical development. A total of 450 (61.8%) showed response in at least a subset of models, with only 8 (1.8%) demonstrating broad vs. selective/differential response. Of the drugs previously unknown in oncology, 299 (53%) exhibited differential responses across the GSCs. Clustering compounds based on response across GSCs closely grouped those with shared mechanisms of action. Interestingly, potential, often novel, off-target responses were identified, including TIC10 (ONC201, dordaviprone) clustering with microtubule inhibitors, and an NPY1R inhibitor clustering with an MDM2-p53 inhibitor. Further genomic analyses identified specific associations with response, both previously known and novel, including RB1 mutation and alterations in response to CDK4/6 inhibitors. Interrogation of reverse phase protein array (RPPA) data from the GSCs identified associations between drug response and protein levels, such as Cyclin E1 levels with CDK4/6 response, and phosphorylated c-Raf with histone deacetylase inhibitor response. Furthermore, select compounds were tested in combination with radiotherapy to identify potential radiosensitizers that could enhance therapeutic synergy. Our study presents a novel approach for advancing drug discovery for rapid preclinical evaluation and identifies not only responding subsets but also potential selective, molecular biomarkers for downstream incorporation into clinical trials.",
+  "authors": [
+    "Yingwen Ding",
+    "Graysen McManus",
+    "Ze-Yan Zhang",
+    "Ravesanker Ezhilarasan",
+    "Melanie Graciani",
+    "Ananya Jambhale",
+    "Aram Modrek",
+    "Jerome Karp",
+    "Erik P Sulman"
+  ],
+  "year": 2025,
+  "doi": "10.1093/neuonc/noaf201.0716",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://academic.oup.com/neuro-oncology/article-pdf/27/Supplement_5/v181/65255185/noaf201.0716.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1093_neuonc_noaf201.0716.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:09.784068+00:00",
+  "raw_metadata": {
+    "doi": "10.1093/neuonc/noaf201.0716",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

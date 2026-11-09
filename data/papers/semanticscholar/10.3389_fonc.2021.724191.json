@@ -1,0 +1,32 @@
+{
+  "id": "s2:doi:10.3389/fonc.2021.724191",
+  "title": "Overall Survival Prediction for Gliomas Using a Novel Compound Approach",
+  "abstract": "As a highly malignant tumor, the incidence and mortality of glioma are not optimistic. Predicting the survival time of patients with glioma by extracting the feature information from gliomas is beneficial for doctors to develop more targeted treatments. Magnetic resonance imaging (MRI) is a way to quickly and clearly capture the details of brain tissue. However, manually segmenting brain tumors from MRI will cost doctors a lot of energy, and doctors can only vaguely estimate the survival time of glioma patients, which are not conducive to the formulation of treatment plans. Therefore, automatically segmenting brain tumors and accurately predicting survival time has important significance. In this article, we first propose the NLSE-VNet model, which integrates the Non-Local module and the Squeeze-and-Excitation module into V-Net to segment three brain tumor sub-regions in multimodal MRI. Then extract the intensity, texture, wavelet, shape and other radiological features from the tumor area, and use the CNN network to extract the deep features. The factor analysis method is used to reduce the dimensionality of features, and finally the dimensionality-reduced features and clinical features such as age and tumor grade are combined into the random forest regression model to predict survival. We evaluate the effect on the BraTS 2019 and BraTS 2020 datasets. The average Dice of brain tumor segmentation tasks up to 79% and the average RMSE of the survival predictive task is as low as 311.5. The results indicate that the method in this paper has great advantages in segmentation and survival prediction of gliomas.",
+  "authors": [
+    "He Huang",
+    "Wenbo Zhang",
+    "Ying Fang",
+    "Jialing Hong",
+    "Shuaixi Su",
+    "Xiaobo Lai"
+  ],
+  "year": 2021,
+  "doi": "10.3389/fonc.2021.724191",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 26,
+  "open_access_pdf_url": "https://www.frontiersin.org/articles/10.3389/fonc.2021.724191/full",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.3389_fonc.2021.724191.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:37.357017+00:00",
+  "raw_metadata": {
+    "doi": "10.3389/fonc.2021.724191",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

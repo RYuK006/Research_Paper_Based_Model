@@ -1,0 +1,28 @@
+{
+  "id": "s2:doi:10.1002/jcc.20681",
+  "title": "Ultrafast shape recognition to search compound databases for similar molecular shapes",
+  "abstract": "AbstractFinding a set of molecules, which closely resemble a given lead molecule, from a database containing potentially billions of chemical structures is an important but daunting problem. Similar molecular shapes are particularly important, given that in biology small organic molecules frequently act by binding into a defined and complex site on a macromolecule. Here, we present a new method for molecular shape comparison, named ultrafast shape recognition (USR), capable of screening billions of compounds for similar shapes using a single computer and without the need of aligning the molecules before testing for similarity. Despite its extremely fast comparison rate, USR will be shown to be highly accurate at describing, and hence comparing, molecular shapes. © 2007 Wiley Periodicals, Inc. J Comput Chem, 2007",
+  "authors": [
+    "Pedro J. Ballester",
+    "W. Graham Richards"
+  ],
+  "year": 2007,
+  "doi": "10.1002/jcc.20681",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 293,
+  "open_access_pdf_url": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fjcc.20681",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1002_jcc.20681.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:50.257413+00:00",
+  "raw_metadata": {
+    "doi": "10.1002/jcc.20681",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

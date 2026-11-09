@@ -1,0 +1,27 @@
+{
+  "id": "s2:doi:10.1002/qua.24375",
+  "title": "First principles view on chemical compound space: Gaining rigorous atomistic control of molecular properties",
+  "abstract": "AbstractA well‐defined notion of chemical compound space (CCS) is essential for gaining rigorous control of properties through variation of elemental composition and atomic configurations. Here, we give an introduction to an atomistic first principles perspective on CCS. First, CCS is discussed in terms of variational nuclear charges in the context of conceptual density functional and molecular grand‐canonical ensemble theory. Thereafter, we revisit the notion of compound pairs, related to each other via “alchemical” interpolations involving fractional nuclear charges in the electronic Hamiltonian. We address Taylor expansions in CCS, property nonlinearity, improved predictions using reference compound pairs, and the ounce‐of‐gold prize challenge to linearize CCS. Finally, we turn to machine learning of analytical structure property relationships in CCS. These relationships correspond to inferred, rather than derived through variational principle, solutions of the electronic Schrödinger equation. © 2013 Wiley Periodicals, Inc.",
+  "authors": [
+    "O. Anatole von Lilienfeld"
+  ],
+  "year": 2013,
+  "doi": "10.1002/qua.24375",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 122,
+  "open_access_pdf_url": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fqua.24375",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1002_qua.24375.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:55.352137+00:00",
+  "raw_metadata": {
+    "doi": "10.1002/qua.24375",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "s2:doi:10.11591/eei.v14i2.8293",
+  "title": "Fuzzy logic: a novel approach to compound noun extraction",
+  "abstract": "Compound noun extraction from textual documents presents a unique challenge due to the inherent complexity and variability in linguistic structures. Traditional approaches often struggle to accurately capture the nuanced semantics of compound nouns, primarily due to their rigid reliance on exact matches. In response, this research underscores the pivotal role of fuzzy logic in addressing the challenges associated with ambiguity and imprecision within compound noun extraction. Leveraging the inherent flexibility of fuzzy logic, we propose a novel approach that surpasses the limitations of traditional methods. Our method embraces the adaptability of fuzzy logic, providing a powerful and context-aware solution for compound noun extraction. Empirical evaluation demonstrates superior performance, with a macro precision of 0.572, recall of 0.607, and F-measure of 0.589, compared to traditional approaches. By incorporating fuzzy logic, our approach excels in handling variations and uncertainties present in natural language, ultimately offering a more accurate and nuanced representation of compound nouns within textual documents. This research not only advances the field of compound noun extraction but also underscores the efficacy of fuzzy logic in overcoming challenges associated with linguistic intricacies in information extraction tasks.",
+  "authors": [
+    "Latifa Rassam",
+    "Ahmed Zellou"
+  ],
+  "year": 2025,
+  "doi": "10.11591/eei.v14i2.8293",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 1,
+  "open_access_pdf_url": "https://beei.org/index.php/EEI/article/viewFile/8293/4160",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.11591_eei.v14i2.8293.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:36.078359+00:00",
+  "raw_metadata": {
+    "doi": "10.11591/eei.v14i2.8293",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "s2:doi:10.1088/1361-6501/ad49bb",
+  "title": "A novel decoupling method of compound faults with incomplete dataset of rotating machinery",
+  "abstract": "Abstract                The occurrence of fault in rotating machinery is random and complex, and the diagnosis of the compound faults has been a challenge in industrial production. Accurate diagnosis of the compound faults can be of significant help to practical maintenance and management. However, most existing intelligent diagnostic methods typically require abundant data for training, which is often difficult to collect for compound faults. In this paper, a novel method called impact feature-based decoupling capsule network (IFDCN) is proposed for diagnosing compound faults with incomplete datasets. In this model, an improved Laplace wavelet kernel capsule neural network is proposed to extract and enhance the impact features of vibration signal. A decoupling classifier is designed to decouple the compound faults in the diagnostic process so as to identify the sub-faults contained in the compound faults. In using this proposed model for incomplete datasets, the compound fault data is not trained and is not labeled. Through training on single-fault data, the proposed model is capable of classifying and decoupling the fault types. The feature extraction capability of the network is visualized by heat maps, and the physical significance of feature extraction is explained by deep learning network. The effectiveness of IFDCN is verified through different experimental of gear and bearing and the experiment results indicate that the proposed model has higher identifying precision and can accurately decouple the compound faults without compound fault samples.",
+  "authors": [
+    "Aijun Hu",
+    "Bowen Yang",
+    "Lei Xing",
+    "Tianxiao Yu",
+    "Ling Xiang"
+  ],
+  "year": 2024,
+  "doi": "10.1088/1361-6501/ad49bb",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 3,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1088/1361-6501/ad49bb/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1088_1361-6501_ad49bb.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:05.919927+00:00",
+  "raw_metadata": {
+    "doi": "10.1088/1361-6501/ad49bb",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

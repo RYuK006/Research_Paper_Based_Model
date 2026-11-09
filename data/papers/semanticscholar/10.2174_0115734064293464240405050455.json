@@ -1,0 +1,33 @@
+{
+  "id": "s2:doi:10.2174/0115734064293464240405050455",
+  "title": "Computational Chemistry: Prediction of Compound Accessibility of Targeted Synthesized Compounds",
+  "abstract": "Introduction:                     In the present work, a series of novel pyridine carboxamides 3(a-h) were synthesized and screened with antibacterial activity. This research explores the application of Density Functional Theory (DFT) in studying biological systems at the quantum mechanical level, particularly in the context of drug design. DFT offers a streamlined approach to quantum mechanical calculations, making it indispensable in various scientific fields, and for its exceptional accuracy, reduced computational time, and cost-effectiveness has become a pivotal tool in computational chemistry. This research work highlights the integration of DFT studies with POM analyses, which effectively identify pharmacophoric sites. Moreover, the research incorporates in silico pharmacokinetics analyses to assess the pharmacokinetic properties of synthesized compounds. The paper focused on a series of compounds previously reported, aiming to provide a comprehensive understanding of their electronic structure, pharmacophoric features, and potential as drug candidates. This study not only contributes to the evolving field of computational chemistry but also holds implications for advancing drug design processes by combining theoretical insights with practical analyses.                                                           Methods:                     The compounds 3(a-h) were subjected to Density Functional Theory (DFT) computations using the B3LYP/6-31G(d) basis set to get optimized geometric structures. GaussViewis used to display the contributions of the highest occupied molecular orbital (HOMO) and lowest unoccupied molecular orbital (LUMO). The determination of energy gaps was conducted using Gaussian 09W. The pharmacokinetic profiles were evaluated using existing techniques such as Osiris, Petra, and Molinspiration, as well as a novel platform called POM Analyse.                                                           Results:                     The computational studies DFT, POM and in silico pharmacokinetics studies revealed that the studied compounds are biologically active, non-toxic, non-carcinogenic in nature and may be utilized as drug candidates.                                                           Conclusion:                     Density functional theory (DFT) investigations emphasize the exceptional stability of complex 3d, which possesses the biggest energy gap and the lowest softness. In contrast, compound 3h demonstrates poorer stability among the tested compounds, characterized by the lowest energy gap and the highest softness values. These findings are further substantiated by absolute energy calculations. The negligible energy difference in compound 3h indicates an increased transfer of electric charge within the molecule, which is associated with its enhanced biological effectiveness. The drug-likeness of the compounds is confirmed by POM and in silico pharmacokinetics investigations, with compound 3h being identified as the most biologically active among the investigated compounds.",
+  "authors": [
+    "Visagamoorthy Babu",
+    "Sumeer Ahmed",
+    "Aziz Kalilur Rahiman",
+    "Sarkar M. A. Kawsar",
+    "Malika Berredjem",
+    "Ajmal Rashid Bhat",
+    "Kottur Anver Basha"
+  ],
+  "year": 2025,
+  "doi": "10.2174/0115734064293464240405050455",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 17,
+  "open_access_pdf_url": "https://www.eurekaselect.com/article/download?doi=10.2174/0115734064293464240405050455",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.2174_0115734064293464240405050455.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:38.343937+00:00",
+  "raw_metadata": {
+    "doi": "10.2174/0115734064293464240405050455",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

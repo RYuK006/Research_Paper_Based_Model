@@ -1,0 +1,32 @@
+{
+  "id": "s2:doi:10.1002/cbdv.202502739",
+  "title": "Schiff Base Compound of (                     <i>E</i>                     )‐1‐(((4‐chloro‐2‐hydroxyphenyl)imino)methyl)naphthalen‐2‐ol as CDK2 Inhibitory Agent: Structural Characterization, Density Functional Theory Computational, and In Silico studies",
+  "abstract": "ABSTRACT                                        Compound (                     E                     )‐1‐(((4‐chloro‐2‐hydroxyphenyl)imino)methyl)naphthalen‐2‐ol (                     HNC                     ) was prepared by the reaction between 2‐hydroxynaphthyl‐1‐carboxaldehyde and 2‐amino‐5‐chlorophenol in an equimolar ratio and obtained in moderate yield.                     HNC                     was characterized using physicochemical and various spectroscopic techniques. The slow evaporation of a hot methanolic solution of                     HNC                     resulted in the formation of the zwitterionic ketoenamine form of                     HNC                     , and denoted as                     HNC′                     . Structurally,                     HNC′                     comprises one naphthoxide ring bridged with one chlorophenol ring by the azomethine group, and the torsion angle between the naphthoxide and the chlorophenol ring is 11.78°, speculating a nonplanar geometry. The density functional theory (DFT) at M06‐2X/def2‐TZVP level of theory described the facile enolimine‐ketoenamine tautomerism and the highest occupied molecular orbital‐lowest unoccupied molecular orbital gap of 5.757 eV for HNC, consistent with a moderately reactive scaffold. The inhibitory potential of                     HNC                     against cyclin‐dependent kinases 2 (CDK2) was evaluated using molecular docking, molecular dynamics simulations, and molecular mechanics generalized Born surface area (MM‐GBSA) free energy calculations. Docking results showed that                     HNC                     achieved a binding score of ‐8.75 kcal/mol, slightly lower than the reference inhibitor Roscovitine (RVT), which scored ‐9.41 kcal/mol. MM‐GBSA calculations yielded ΔG                     total                     values of ‐40.95 kcal/mol for                     HNC                     and ‐41.14 kcal/mol for RVT, suggesting comparable binding affinities. Generally, our findings pose                     HNC                     as a credible CDK2 inhibitor and tractable starting point for optimization toward selective antiproliferative agents.",
+  "authors": [
+    "Segun D. Oladipo",
+    "Robert C. Luckay",
+    "Abosede A. Badeji",
+    "Vincent A. Obakachi",
+    "Krishna K. Govender",
+    "Adejoke D. Osinubi"
+  ],
+  "year": 2025,
+  "doi": "10.1002/cbdv.202502739",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 2,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/cbdv.202502739",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1002_cbdv.202502739.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:18.907153+00:00",
+  "raw_metadata": {
+    "doi": "10.1002/cbdv.202502739",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

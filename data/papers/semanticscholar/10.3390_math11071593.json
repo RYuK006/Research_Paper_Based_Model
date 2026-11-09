@@ -1,0 +1,31 @@
+{
+  "id": "s2:doi:10.3390/math11071593",
+  "title": "Bayesian and Non-Bayesian Risk Analysis and Assessment under Left-Skewed Insurance Data and a Novel Compound Reciprocal Rayleigh Extension",
+  "abstract": "Continuous probability distributions can handle and express different data within the modeling process. Continuous probability distributions can be used in the disclosure and evaluation of risks through a set of well-known basic risk indicators. In this work, a new compound continuous probability extension of the reciprocal Rayleigh distribution is introduced for data modeling and risk analysis. Some of its properties including are derived. The estimation of the parameters is carried out via different techniques. Bayesian estimations are computed under gamma and normal prior. The performance and assessment of all techniques are studied and assessed through Monte Carlo experiments of simulations and two real-life datasets for applications. Two applications to real datasets are provided for comparing the new model with other competitive models and to illustrate the importance of the proposed model via the maximum likelihood technique. Numerical analysis for expected value, variance, skewness, and kurtosis are given. Five key risk indicators are defined and analyzed under Bayesian and non-Bayesian estimation. An extensive analytical study that investigated the capacity to reveal actuarial hazards used a wide range of well-known models to examine actuarial disclosure models. Using actuarial data, actuarial hazards were evaluated and rated.",
+  "authors": [
+    "Mohamed Ibrahim",
+    "Walid Emam",
+    "Yusra Tashkandy",
+    "M. Masoom Ali",
+    "Haitham M. Yousof"
+  ],
+  "year": 2023,
+  "doi": "10.3390/math11071593",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 13,
+  "open_access_pdf_url": "https://www.mdpi.com/2227-7390/11/7/1593/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.3390_math11071593.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:50.204519+00:00",
+  "raw_metadata": {
+    "doi": "10.3390/math11071593",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

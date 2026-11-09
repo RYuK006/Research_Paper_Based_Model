@@ -1,0 +1,28 @@
+{
+  "id": "s2:doi:10.12688/f1000research.3713.1",
+  "title": "Compound data sets and software tools for chemoinformatics and medicinal chemistry applications: update and data transfer",
+  "abstract": "In 2012, we reported 30 compound data sets and/or programs developed in our laboratory in a data article and made them freely available to the scientific community to support chemoinformatics and computational medicinal chemistry applications. These data sets and computational tools were provided for download from our website. Since publication of this data article, we have generated 13 new data sets with which we further extend our collection of publicly available data and tools. Due to changes in web servers and website architectures, data accessibility has recently been limited at times. Therefore, we have also transferred our data sets and tools to a public repository to ensure full and stable accessibility. To aid in data selection, we have classified the data sets according to scientific subject areas. Herein, we describe new data sets, introduce the data organization scheme, summarize the database content and provide detailed access information in ZENODO (doi:                     10.5281/zenodo.8451                     and                     doi:10.5281/zenodo.8455                     ).",
+  "authors": [
+    "Ye Hu",
+    "Jürgen Bajorath"
+  ],
+  "year": 2014,
+  "doi": "10.12688/f1000research.3713.1",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 4,
+  "open_access_pdf_url": "https://f1000research.com/articles/3-69/v1/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.12688_f1000research.3713.1.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:37.320231+00:00",
+  "raw_metadata": {
+    "doi": "10.12688/f1000research.3713.1",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

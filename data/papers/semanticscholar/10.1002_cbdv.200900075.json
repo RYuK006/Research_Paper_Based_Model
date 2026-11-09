@@ -1,0 +1,30 @@
+{
+  "id": "s2:doi:10.1002/cbdv.200900075",
+  "title": "Large‐Scale Evaluation of log <i>P</i> Predictors: Local Corrections May Compensate Insufficient Accuracy and Need of Experimentally Testing Every Other Compound",
+  "abstract": "AbstractA large variety of log P calculation methods failed to produce sufficient accuracy in log P prediction for two in‐house datasets of more than 96000 compounds contrary to their significantly better performances on public datasets. The minimum Root Mean Squared Error (RMSE) of 1.02 and 0.65 were calculated for the Pfizer and Nycomed datasets, respectively, in the ‘out‐of‐box’ implementation. Importantly, the use of local corrections (LC) implemented in the ALOGPS program based on experimental in‐house log P data significantly reduced the RMSE to 0.59 and 0.48 for the Pfizer and Nycomed datasets, respectively, instantly without retraining the model. Moreover, more than 60% of molecules predicted with the highest confidence in each set had a mean absolute error (MAE) less than 0.33 log units that is only ca. 10% higher than the estimated variation in experimental log P measurements for the Pfizer dataset. Therefore, following this retrospective analysis, we suggest that the use of the predicted log P values with high confidence may eliminate the need of experimentally testing every other compound. This strategy could reduce the cost of measurements for pharmaceutical companies by a factor of 2, increase the confidence in prediction at the analog design stage of drug discovery programs, and could be extended to other ADMET properties.",
+  "authors": [
+    "Igor V. Tetko",
+    "Gennadiy I. Poda",
+    "Claude Ostermann",
+    "Raimund Mannhold"
+  ],
+  "year": 2009,
+  "doi": "10.1002/cbdv.200900075",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 41,
+  "open_access_pdf_url": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fcbdv.200900075",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1002_cbdv.200900075.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:55.448237+00:00",
+  "raw_metadata": {
+    "doi": "10.1002/cbdv.200900075",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

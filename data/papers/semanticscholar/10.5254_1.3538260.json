@@ -1,0 +1,29 @@
+{
+  "id": "s2:doi:10.5254/1.3538260",
+  "title": "Tandem Mass Spectrometry (MS/MS) for Analysis of Organic Additives in an Uncured Rubber Compound",
+  "abstract": "Abstract         In this study, we examined the feasibility of obtaining MS/MS data for organic additives in an uncured rubber compound using several different ionization methods. EI-MS/MS worked well for those additives that gave intense molecular ions (M+·) via this mode of ionization. CI-MS/MS also worked quite well for most additives; the CI MH+ ion currents were generally quite intense and stable over a long period of time. Although fragmentation patterns for MH+ ions are different from those obtained from M+· ions, the fragments are still good diagnostic tools for identifying the original molecule. On the other hand, the FI- and FD-MS/MS analyses of these rubber samples were generally not very satisfactory. This was due to the fact that FI/FD ion currents were too weak and unstable to give daughter-ion spectra with good S/N. It may be concluded that the best way to detect and identify typical organic additives in a compounded rubber is to use a combination of EI- and CI-MS/MS. In this study, intact accelerators were successfully analyzed by MS/MS. The two accelerators in this particular rubber (OBTS and DPG) could be confirmed quite readily by daughter-ion analysis of their intense MH+ ions (CI-MS/MS). Daughter-ion analyses of M+· obtained by either EI, FI or FD modes were not very successful, however. In EI, the difficulty is that molecular ions are quite weak (or even absent) for typical rubber curatives. In FI and FD, on the other hand, a very large proportion of the ion current for accelerators resides in the molecular ion. The difficulty here is that the total ion current produced by FI or FD is rather low. The MS/MS approach has proven to be very useful for direct analysis of organic additives in rubber compounds. The principal advantage in using MS/MS is that more information is available from mixtures than can be obtained by direct analysis using conventional mass spectral methods. The MS/MS technique is also rapid experimentally compared to other techniques for mixture analysis such as GC/MS, LC/MS, or high resolution (AC-MS). Finally, since MS/MS involves two stages of mass analysis, it leads to a great reduction in the chemical noise associated with single-stage mass spectrometry. This leads to the facile confirmation of the presence (or absence) of specific components in a complex mixture.",
+  "authors": [
+    "R. P. Lattimer",
+    "H. Muenster",
+    "H. Budzikiewicz"
+  ],
+  "year": 1990,
+  "doi": "10.5254/1.3538260",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 8,
+  "open_access_pdf_url": "http://meridian.allenpress.com/rct/article-pdf/63/2/298/1945178/1_3538260.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.5254_1.3538260.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:48.506275+00:00",
+  "raw_metadata": {
+    "doi": "10.5254/1.3538260",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

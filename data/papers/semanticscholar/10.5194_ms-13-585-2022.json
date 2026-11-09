@@ -1,0 +1,29 @@
+{
+  "id": "s2:doi:10.5194/ms-13-585-2022",
+  "title": "A novel compound topological invariant for  isomorphism detection of planar kinematic chains",
+  "abstract": "The isomorphism identification of the kinematic chain (KC) based on graph theory definition has no advantage in efficiency, especially when the number of links in the KCs is large. The topological characteristic constants for isomorphism identification, such as the power value sequence (PVS), least distance matrix sequence (LDMS), and loop number (LN), are proposed. The fourth PVS, the LDMS, and the LN are compared and arranged in descending order, to form a strong complementary chain, which can identify KCs of at least 15 links with 4 degrees of freedom (DOF). The method is applied to the complete atlas of the following: 8-link 1 DOF, 9-link 2 DOF, 10-link 1 DOF, 12-link 1 DOF, 13-link 2 DOF, and 15-link 4 DOF planar single-joint KCs, 6-link 1 DOF and 7-link 1 DOF planetary gear trains, 8-link 1 DOF planar multiple joint KCs, and contracted graphs with up to six independent loops. All results are in agreement with the reported ones in the literature. Thus, the proposed method possesses good versatility and has been verified as being reliable and efficient.",
+  "authors": [
+    "Yingxian Wang",
+    "Rongjiang Cui",
+    "Jinxi Chen"
+  ],
+  "year": 2022,
+  "doi": "10.5194/ms-13-585-2022",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 2,
+  "open_access_pdf_url": "https://ms.copernicus.org/articles/13/585/2022/ms-13-585-2022.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.5194_ms-13-585-2022.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:42:34.408791+00:00",
+  "raw_metadata": {
+    "doi": "10.5194/ms-13-585-2022",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "s2:doi:10.1002/pmic.201000717",
+  "title": "SAHA Capture Compound – A novel tool for the profiling of histone deacetylases and the identification of additional vorinostat binders",
+  "abstract": "AbstractSuberoylanilide hydroxamic acid (SAHA) is a potent histone deacetylase (HDAC) inhibitor. Inhibitors of HDACs are used in cancer therapy based on the role HDACs play in transcription by regulating chromatin compaction and non‐histone proteins such as transcription factors. Profiling of HDAC expression is of interest in the functional proteomics analysis of cancer. Also, non‐HDAC proteins may interact with HDAC inhibitor drugs and contribute to the drug mode of action. We here present a tool for the unbiased chemical proteomic profiling of proteins that specifically interact with SAHA. We designed and synthesized a trifunctional Capture Compound containing SAHA as selectivity and identified HDACs1, 2, 3 and 6, known and predicted HDAC interactors from human‐derived HepG2 cell lysate, as well as a set of new potential non‐HDAC targets of SAHA. One of these non‐HDAC targets, isochorismatase domain‐containing protein 2 (ISOC2) is putative hydrolase associated with the negative regulation of the tumor‐suppressor p16(INK4a). We demonstrated the direct and dose‐dependent interaction of SAHA to the purified recombinant ISOC2 protein. Using SAHA Capture Compound mass spectrometry, we thus identified potential new SAHA target proteins in an entirely unbiased chemical proteomics approach.",
+  "authors": [
+    "Jenny J. Fischer",
+    "Simon Michaelis",
+    "Anna K. Schrey",
+    "Anne Diehl",
+    "Olivia Y. Graebner",
+    "Jan Ungewiss",
+    "Sabine Horzowski",
+    "Mirko Glinski",
+    "Friedrich Kroll",
+    "Mathias Dreger",
+    "Hubert Koester"
+  ],
+  "year": 2011,
+  "doi": "10.1002/pmic.201000717",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 19,
+  "open_access_pdf_url": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fpmic.201000717",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1002_pmic.201000717.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:21.686393+00:00",
+  "raw_metadata": {
+    "doi": "10.1002/pmic.201000717",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "s2:doi:10.1039/d4md00128a",
+  "title": "Systematic generation and analysis of counterfactuals for compound activity predictions using multi-task models",
+  "abstract": "For a kinase inhibitor correctly predicted with a multi-task machine learning model (shown on an orange background), counterfactuals with small chemical changes (shown in red) were generated that were predicted to be active against other kinases.",
+  "authors": [
+    "Alec Lamens",
+    "Jürgen Bajorath"
+  ],
+  "year": 2024,
+  "doi": "10.1039/d4md00128a",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 5,
+  "open_access_pdf_url": "http://pubs.rsc.org/en/content/articlepdf/2024/MD/D4MD00128A",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1039_d4md00128a.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:39.952393+00:00",
+  "raw_metadata": {
+    "doi": "10.1039/d4md00128a",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

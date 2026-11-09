@@ -1,0 +1,30 @@
+{
+  "id": "s2:doi:10.3906/kim-2003-6",
+  "title": "Artificial intelligence–based models for the qualitative and quantitative prediction of a phytochemical compound using HPLC method",
+  "abstract": "Isoquercitrin is a flavonoid chemical compound that can be extracted from different plant species such as Mangifera indica (mango), Rheum nobile, Annona squamosal, Camellia sinensis (tea), and coriander (Coriandrum sativum L.). It possesses various biological activities such as the prevention of thromboembolism and has anticancer, antiinflammatory, and antifatigue activities. Therefore, there is a critical need to elucidate and predict the qualitative and quantitative properties of this phytochemical compound using the high performance liquid chromatography (HPLC) technique. In this paper, three different nonlinear models including artificial neural network (ANN), adaptive neuro-fuzzy inference system (ANFIS), and support vector machine (SVM),in addition to a classical linear model [multilinear regression analysis (MLR)], were used for the prediction of the retention time (tR) and peak area (PA) for isoquercitrin using HPLC. The simulation uses concentration of the standard, composition of the mobile phases (MP-A and MP-B), and pH as the corresponding input variables. The performance efficiency of the models was evaluated using relative mean square error (RMSE), mean square error (MSE), determination coefficient (DC), and correlation coefficient (CC). The obtained results demonstrated that all four models are capable of predicting the qualitative and quantitative properties of the bioactive compound. A predictive comparison of the models showed that M3 had the highest prediction accuracy among the three models. Further evaluation of the results showed that ANFIS–M3 outperformed the other models and serves as the best model for the prediction of PA. On the other hand, ANN–M3proved its merit and emerged as the best model for tR simulation. The overall predictive accuracy of the best models showed them to be reliable tools for both qualitative and quantitative determination.",
+  "authors": [
+    "Abdullahi Garba USMAN",
+    "Selin IŞIK",
+    "Sani Isah ABBA",
+    "Filiz MERİÇLİ"
+  ],
+  "year": 2020,
+  "doi": "10.3906/kim-2003-6",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 43,
+  "open_access_pdf_url": null,
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.3906_kim-2003-6.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:00.221782+00:00",
+  "raw_metadata": {
+    "doi": "10.3906/kim-2003-6",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

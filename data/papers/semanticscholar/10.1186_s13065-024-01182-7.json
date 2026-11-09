@@ -1,0 +1,27 @@
+{
+  "id": "s2:doi:10.1186/s13065-024-01182-7",
+  "title": "In silico identification of phytochemical inhibitors for multidrug-resistant tuberculosis based on novel pharmacophore generation and molecular dynamics simulation studies",
+  "abstract": "Abstract                 Background                 Multidrug-resistant tuberculosis (particularly resistant to pyrazinoic acid) is a life-threatening chronic pulmonary disease. Running a marketed regime specifically targets the ribosomal protein subunit-1 (RpsA) and stops trans-translation in the non-mutant bacterium, responsible for the lysis of bacterial cells. However, in the strains of mutant bacteria, this regime has failed in curing TB and killing pathogens, which may only because of the ala438 deletion, which inhibit the binding of pyrazinoic acid to the RpsA active site. Therefore, such cases of tuberculosis need an immediate and effective regime.                                Objective                 This study has tried to determine and design such chemotypes that are able to bind to the mutant RpsA protein.                                Methods                 For these purposes, two phytochemical databases, i.e., NPASS and SANCDB, were virtually screened by a pharmacophore model using an online virtual screening server Pharmit.                                Results                 The model of pharmacophore was developed using the potential inhibitor (zr115) for the mutant of RpsA. Pharmacophore-based virtual screening results into 154 hits from the NPASS database, and 22 hits from the SANCDB database. All the predicted hits were docked in the binding pocket of the mutant RpsA protein. Top-ranked five and two compounds were selected from the NPASS and SANCDB databases respectively. On the basis of binding energies and binding affinities of the compounds, three compounds were selected from the NPASS database and one from the SANCDB database. All compounds were found to be non-toxic and highly active against the mutant pathogen. To further validate the docking results and check the stability of hits, molecular dynamic simulation of three compounds were performed. The MD simulation results showed that all these finally selected compounds have stronger binding interactions, lesser deviation or fluctuations, with greater compactness compared to the reference compound.                                Conclusion                 These findings indicate that these compounds could be effective inhibitors for mutant RpsA.",
+  "authors": [
+    "Bader S. Alotaibi"
+  ],
+  "year": 2024,
+  "doi": "10.1186/s13065-024-01182-7",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 12,
+  "open_access_pdf_url": "https://link.springer.com/content/pdf/10.1186/s13065-024-01182-7.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1186_s13065-024-01182-7.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:03.547259+00:00",
+  "raw_metadata": {
+    "doi": "10.1186/s13065-024-01182-7",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

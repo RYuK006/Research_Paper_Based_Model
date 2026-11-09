@@ -1,0 +1,28 @@
+{
+  "id": "s2:doi:10.5254/1.3538374",
+  "title": "Injection Molding of Rubber Compound with Rheology Affected by Vulcanization: Part II. Modeling and Experiment",
+  "abstract": "Abstract         Experimental and theoretical results are reported on the effect of vulcanization on viscosity and yield stress during cavity filling with an SBR compound. Rheological and vulcanization models were utilized in simulation of the cavity filling process. Numerical schemes was based on the hybrid approach of control volume finite-element and finite-difference techniques. The pressure profiles at various locations along the flow path in the mold during cavity filling were obtained by conducting the experiments at various mold and inlet temperatures and mold injection speeds. It was found that the predicted pressure profiles followed the trend determined in the experiments. Comparing two versions of the modified Cross viscosity models — with and without the effect of cure on viscosity — it appears that use of a viscosity model which accounts for the cure-effect improves the accuracy, and thus the usefulness, of the cavity pressure prediction models. Evolution of the state-of-cure in the postfilling process are predicted and compared with the state-of-cure in moldings. The predicted results on the development of the state-of-cure during the postfilling stage show good agreement with the experimental data. The rubber compound exhibits yield behavior during cavity filling at very low injection speeds. The modified Cross model was further extended to include the yield stress and was implemented in the simulation program. In the case of low injection speed, the results showed a significant improvement in the prediction of cavity pressure, compared with the earlier reported predictions.",
+  "authors": [
+    "M. Wan",
+    "A. I. Isayev"
+  ],
+  "year": 1996,
+  "doi": "10.5254/1.3538374",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 5,
+  "open_access_pdf_url": "http://meridian.allenpress.com/rct/article-pdf/69/2/294/1944953/1_3538374.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.5254_1.3538374.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:42.853146+00:00",
+  "raw_metadata": {
+    "doi": "10.5254/1.3538374",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

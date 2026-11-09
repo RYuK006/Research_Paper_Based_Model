@@ -1,0 +1,33 @@
+{
+  "id": "s2:doi:10.1182/blood-2019-130910",
+  "title": "A High-Throughput Drug Screen Reveals a Novel Compound Class That Significantly Depletes IRF4 Expression in Multiple Myeloma",
+  "abstract": "Introduction                Multiple myeloma (MM) is an incurable hematological malignancy characterized by the clonal expansion of malignant plasma cells (PCs) within the bone marrow. MM is genetically heterogeneous with aberrations including hyperdiploidy and chromosomal translocations commonly involving the immunoglobulin heavy chain (IgH) region. Many transcription factors can revoke their normal processes and act as oncogenes when they are brought under the control of IgH regulatory regions by a chromosomal translocation. Interferon Regulatory Factor 4 (IRF4) is a transcription factor which controls plasma cell differentiation and possesses many regulatory roles including interferon response, immune cell response, cell proliferation, apoptosis, and metabolism. IRF4 has proven to be a genetic vulnerability in MM as silencing studies in a large panel of MM cell lines with various genetic etiologies have demonstrated IRF4 expression is essential for MM cell survival. Standard of care treatments that indirectly suppress IRF4 including Proteasome inhibitors and Cereblon modulators have provided the greatest clinical outcomes for patients. However, like many other transcription factors, IRF4 has been notoriously difficult to target due to the protein's lack of amenable binding pockets favored for small molecule inhibitor development. Thus, identifying novel mechanisms and compounds to target IRF4 (directly or indirectly) can provide significant clinical impacts for MM patients.                Methods                To discover compounds capable of depleting IRF4 levels, we performed a high-throughput drug screen utilizing the Selleckchem Drug Repurposing Library on a widely accepted IRF4-dependent cell line. This library consists of over 2,000 diverse compounds that have well validated mechanisms of actions and have additionally passed clinical phase 1 safety trials for accelerated translational use. MM.1S cells were treated for 48 hours in duplicate (n = 2) with 10 μM compound. Following treatment, the cells were fixed, permeabilized, and stained for viability and IRF4 levels. IRF4 expression and viability was acquired by using flow cytometry, with high dose lenalidomide and shRNA for IRF4 as positive controls. Compounds that reduced IRF4 levels and cell viability across both experimental runs were ranked and selected with a cutoff of 40% as promising candidate compounds for further validation.                Results                Our drug screen results revealed 20 compounds (undisclosed) which met our cutoff of a decrease of IRF4 levels by 40% or greater. Ten hits were selected as having greater or equal to IRF4 depleting properties of lenalidomide and moved forward to be validated by western blot. Six drugs were shown to deplete IRF4 by western blot in MM.1S and KMS-18 cells at 10 μM doses. Interestingly, 4 out of the 10 hits all belong to same compound class that selectively bind to the same target receptor (undisclosed). Additional experiments confirmed these class of compounds deplete IRF4 levels in a dose dependent manner (EC50 = 1 μM). A time course revealed that IRF4 levels decrease shortly after the binding of these drugs to their widely reported target receptor, suggesting this is a selective drug/target receptor-mediated mechanism directly altering levels of IRF4. In vitro studies demonstrated the ability to both halt cell growth and decrease the viability of a panel of 8 MM cell lines, with IC50's ranging from 1.6 - 8.5 μM. Synergy studies with Lenolidomide and Bortezomib are underway to determine any synergistic combinations with standard of care therapies. In vivo studies and RNA-sequencing are also currently underway to determine the impact of these compounds on MM tumor growth and overall survival, as well as better define the mechanism of action driving this novel class of IRF4 targeting compounds.                Conclusions                Despite knowledge that IRF4 is a biologically potent target in MM there have been no extensive studies highlighting drugs capable of targeting this transcription factor and its oncogenic signaling network. This screen has revealed novel compounds, some of which are clinically used, that are capable of depleting a highly dependent gene in MM. Notably, these compounds are able to deplete IRF4 in a novel mechanism which is capable of affecting survival of MM cell lines that represent the heterogeneity of myeloma, and thus holds potential for significant clinical impact.                                   Disclosures                   Ghobrial: Amgen: Consultancy; Janssen: Consultancy; Celgene: Consultancy; Takeda: Consultancy; Sanofi: Consultancy; BMS: Consultancy.",
+  "authors": [
+    "Elizabeth D. Lightbody",
+    "Mairead Reidy",
+    "Michael P. Agius",
+    "Salma El-Behaedi",
+    "Romanos Sklavenitis-Pistofidis",
+    "Salomon Manier",
+    "Irene M. Ghobrial"
+  ],
+  "year": 2019,
+  "doi": "10.1182/blood-2019-130910",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 2,
+  "open_access_pdf_url": "https://ashpublications.org/blood/article/134/Supplement_1/5545/425407/A-HighThroughput-Drug-Screen-Reveals-a-Novel",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1182_blood-2019-130910.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:01.976850+00:00",
+  "raw_metadata": {
+    "doi": "10.1182/blood-2019-130910",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

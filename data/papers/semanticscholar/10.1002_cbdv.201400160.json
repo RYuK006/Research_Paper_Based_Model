@@ -1,0 +1,29 @@
+{
+  "id": "s2:doi:10.1002/cbdv.201400160",
+  "title": "‘Yeast Mail’: A Novel <i>Saccharomyces</i> Application (NSA) to Encrypt Messages",
+  "abstract": "AbstractThe universal genetic code is used by all life forms to encode biological information. It can also be used to encrypt semantic messages and convey them within organisms without anyone but the sender and recipient knowing, i.e., as a means of steganography. Several theoretical, but comparatively few experimental, approaches have been dedicated to this subject, so far. Here, we describe an experimental system to stably integrate encrypted messages within the yeast genome using a polymerase chain reaction (PCR)‐based, one‐step homologous recombination system. Thus, DNA sequences encoding alphabetical and/or numerical information will be inherited by yeast propagation and can be sent in the form of dried yeast. Moreover, due to the availability of triple shuttle vectors, Saccharomyces cerevisiae can also be used as an intermediate construction device for transfer of information to either Drosophila or mammalian cells as steganographic containers. Besides its classical use in alcoholic fermentation and its modern use for heterologous gene expression, we here show that baker's yeast can thus be employed in a novel Saccharomyces application (NSA) as a simple steganographic container to hide and convey messages.",
+  "authors": [
+    "Helmut Rosemeyer",
+    "Achim Paululat",
+    "Jürgen J. Heinisch"
+  ],
+  "year": 2014,
+  "doi": "10.1002/cbdv.201400160",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 1,
+  "open_access_pdf_url": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fcbdv.201400160",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1002_cbdv.201400160.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:15.544130+00:00",
+  "raw_metadata": {
+    "doi": "10.1002/cbdv.201400160",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "s2:doi:10.2174/1386207324666210219102728",
+  "title": "DL-SMILES#: A Novel Encoding Scheme for Predicting Compound Protein Affinity Using Deep Learning",
+  "abstract": "Introduction: Drug repositioning aims to screen drugs and therapeutic goals from approved drugs and abandoned compounds that have been identified as safe. This trend is changing the landscape of drug development and creating a model of drug repositioning for new drug development. In the recent decade, machine learning methods have been applied to predict the binding affinity of compound proteins, while deep learning is recently becoming prominent and achieving significant performances. Among the models, the way of representing the compounds is usually simple, which is the molecular fingerprints, i.e., a single SMILES string.   Methods: In this study, we improve previous work by proposing a novel representing manner, named SMILES#, to recode the SMILES string. This approach takes into account the properties of compounds and achieves superior performance. After that, we propose a deep learning model that combines recurrent neural networks with a convolutional neural network with an attention mechanism, using unlabeled data and labeled data to jointly encode molecules and predict binding affinity.   Results: Experimental results show that SMILES# with compound properties can effectively improve the accuracy of the model and reduce the RMS error on most data sets.   Conclusion: We used the method to verify the related and unrelated compounds with the same target, and the experimental results show the effectiveness of the method.",
+  "authors": [
+    "Shudong Wang",
+    "Jiali Liu",
+    "Mao Ding",
+    "Yijun Gao",
+    "Dayan Liu",
+    "Qingyu Tian",
+    "Jinfu Zhu"
+  ],
+  "year": 2022,
+  "doi": "10.2174/1386207324666210219102728",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 3,
+  "open_access_pdf_url": "https://www.eurekaselect.com/article/download/191587",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.2174_1386207324666210219102728.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:04.806658+00:00",
+  "raw_metadata": {
+    "doi": "10.2174/1386207324666210219102728",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

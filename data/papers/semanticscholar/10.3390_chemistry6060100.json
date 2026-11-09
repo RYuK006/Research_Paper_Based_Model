@@ -1,0 +1,29 @@
+{
+  "id": "s2:doi:10.3390/chemistry6060100",
+  "title": "A Novel Galantamine–Curcumin Hybrid Inhibits Butyrylcholinesterase: A Molecular Dynamics Study",
+  "abstract": "Cholinesterases are enzymes that break down the neurotransmitter acetylcholine in the nervous system. The two main types are acetylcholinesterase (AChE) and butyrylcholinesterase (BChE). AChE inhibitors are used to treat Alzheimer’s disease by increasing acetylcholine levels. BChE activity increases in later stages of Alzheimer’s, suggesting it might contribute to the disease. In previous experiments, it was found that a newly designed hybrid of galantamine (GAL) and curcumin (CCN) (compound 4b) decreases the activity of BChE in murine brain homogenates. Here, we explore this observation using molecular dynamics simulations. GAL and CCN were also studied for comparison. The structures of the complexes between the BChE and the ligands were predicted by molecular docking. Then, molecular dynamics simulations were performed to evaluate the stability of the complexes and the interactions between the ligands and the enzyme over a simulated time of 1 μs. All three ligands formed stable complexes with BChE. Compound 4b formed more hydrogen bonds and other interactions with BChE compared to GAL and CCN, suggesting a stronger binding affinity. The stronger binding of 4b to BChE might explain its superior anti-BChE activity observed in previous experiments.",
+  "authors": [
+    "Evdokiya Salamanova",
+    "Mariyana Atanasova",
+    "Irini Doytchinova"
+  ],
+  "year": 2024,
+  "doi": "10.3390/chemistry6060100",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 3,
+  "open_access_pdf_url": "https://www.mdpi.com/2624-8549/6/6/100/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.3390_chemistry6060100.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:09.888226+00:00",
+  "raw_metadata": {
+    "doi": "10.3390/chemistry6060100",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

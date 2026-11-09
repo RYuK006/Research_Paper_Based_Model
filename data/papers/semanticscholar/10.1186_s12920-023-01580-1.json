@@ -1,0 +1,34 @@
+{
+  "id": "s2:doi:10.1186/s12920-023-01580-1",
+  "title": "Identification of a novel compound heterozygous mutation and a homozygous mutation of SLURP1 in Chinese families with Mal de Meleda",
+  "abstract": "Abstract                 Background                 Mal de Meleda is an autosomal recessive palmoplantar keratoderma, with SLURP1 identified as the pathogenic gene responsible. Although over 20 mutations in SLURP1 have been reported, only the mutation c.256G &gt; A (p.G87R) has been detected in Chinese patients. Here, we report a novel heterozygous SLURP1 mutation in a Chinese family.                                Methods                 We assessed the clinical manifestations of two Chinese patients with Mal de Meleda and collected specimens from the patients and other family members for whole-exome and Sanger sequencing. We used algorithms (MutationTaster, SIFT, PolyPhen-2, PROVEAN, PANTHER, FATHMM, mCSM, SDM and DUET) to predict the pathogenetic potential of the mutation detected. We also employed AlphaFold2 and PyMOL for protein structure analysis.                                Results                 Both patients displayed the typical manifestation of palmoplantar keratoderma. In Proband 1, we detected a novel compound heterozygous mutation (c.243C &gt; A and c.256G &gt; A) in exon 3 of SLURP1. Proband 2 was an adult female born to a consanguineous family and carried a homozygous mutation (c.211C &gt; T). Algorithms indicated both mutations to be probably disease causing. We used AlphaFold2 to predict the protein structure of these mutations and found that they cause instability, as shown by PyMOL.                                Conclusions                 Our study identified a novel compound heterozygous mutation (c.243C &gt; A and c.256G &gt; A) in a Chinese patient with Mal de Meleda that has the potential to cause instability in protein structure. Moreover, this study expands on the existing knowledge of SLURP1 mutations and contributes to knowledge of Mal de Meleda.",
+  "authors": [
+    "Tian Wang",
+    "Zhuangli Tang",
+    "Tong Xiao",
+    "Junru Ren",
+    "Shuyao He",
+    "Yan Liu",
+    "Shengxiang Xiao",
+    "Xiaopeng Wang"
+  ],
+  "year": 2023,
+  "doi": "10.1186/s12920-023-01580-1",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 1,
+  "open_access_pdf_url": "https://link.springer.com/content/pdf/10.1186/s12920-023-01580-1.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1186_s12920-023-01580-1.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:09.859605+00:00",
+  "raw_metadata": {
+    "doi": "10.1186/s12920-023-01580-1",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

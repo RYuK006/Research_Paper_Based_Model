@@ -1,0 +1,28 @@
+{
+  "id": "s2:doi:10.2174/0129496616498683260910203520",
+  "title": "AI-guided Designing of SARS-CoV-2 Main Protease (M                     <sup>pro</sup>                     ) Inhibitors: An Approach for Novel Antiviral Compound Discovery",
+  "abstract": "Introduction:                     Main protease (Mpro) enzyme of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) cleaves polyprotein pp1a and pp1ab at 11 sites, producing essential proteins of viral machinery, and possesses a conserved Cys145-His41 catalytic dyad. While different mutated strains of this virus are being identified, the catalytic residues of the Mpro enzyme remain conserved in most coronaviruses. Also, no homologue of this enzyme is available in humans, thus demonstrating its potential as an effective drug target. Several inhibitors targeting the Mpro enzyme of the SARS-CoV-2 virus have been identified, but very few have reached the market, and side effects remain a major concern.                                                           Methodology:                     The present study deals with a novel Mpro inhibitor generated using an AI-based approach, its Density Functional Theory (DFT) analysis to study quantum properties, followed by molecular docking and dynamics simulation with the Mpro enzyme to analyze its binding and inhibition potential against Mpro.                                                           Results:                     The generated inhibitor molecule 6-(2-anilinoethoxy)-3,4-dihydroquinolin-2(1H)-one, named as Mpro_inhi_1, is a 282.34 Da compound. It follows Lipinski’s rule of five without any violation and has significant bioavailability. The DFT analysis of the molecule revealed HOMO-LUMO energies indicating effective chemical reactivity, stability, chemical potential, softness, hardness, and electrophilicity. Further molecular docking and dynamics simulation displayed stable interactions with the subpockets S1 and S2 of the Mpro enzyme.                                                           Discussion:                     The Mpro_inhi_1 molecule interacts with the catalytic dyad of the Mpro enzyme and conveys major conformational changes in the enzyme architecture, directing it towards an inactive form.                                                           Conclusion:                     Thus, Mpro_inhi_1 binding inhibits the Mpro enzyme of SARS-CoV-2 and prevents viral replication. Therefore, further research in this regard can provide a potent inhibitor of SARS-CoV-2 Mpro, leading to the development of effective strategies for the treatment of COVID-19.",
+  "authors": [
+    "Anand Kumar Pandey",
+    "Soumya Rathore"
+  ],
+  "year": 2026,
+  "doi": "10.2174/0129496616498683260910203520",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://www.eurekaselect.com/article/download?doi=10.2174/0129496616498683260910203520",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.2174_0129496616498683260910203520.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:37.476544+00:00",
+  "raw_metadata": {
+    "doi": "10.2174/0129496616498683260910203520",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

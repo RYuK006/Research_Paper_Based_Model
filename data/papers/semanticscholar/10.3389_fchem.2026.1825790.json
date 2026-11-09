@@ -1,0 +1,30 @@
+{
+  "id": "s2:doi:10.3389/fchem.2026.1825790",
+  "title": "Design, synthesis, and biological evaluation of derivatives from p-toluic hydrazide: lead compound C17 exhibits membrane-disrupting and anti-biofilm activities against Staphylococcus aureus and other gram-positive bacteria",
+  "abstract": "Introduction                     Bacterial drug resistance and biofilm-associated infections pose major therapeutic challenges. Schiff base derivatives have attracted attention as potential antimicrobial agents. This study aimed to design and synthesize a series of Schiff base derivatives from p-toluic hydrazide and evaluate their antibacterial, anti-biofilm, and anti-inflammatory properties.                                                           Methods                                            Eighteen Schiff base derivatives were synthesized from p-toluic hydrazide. Antibacterial activity was screened against a panel of Gram-positive bacteria, including                       Staphylococcus aureus                       ATCC 29213, methicillin-resistant                       S. aureus                       (MRSA) ATCC 43300, Bacillus subtilis, Bacillus cereus, Listeria monocytogenes, and Enterococcus faecalis, by determining minimum inhibitory concentrations (MICs). The most active compound,                       C17                       , was further evaluated for hemolytic activity (against red blood cells), cytotoxicity (VERO cells), and mechanistic effects (membrane depolarization, membrane permeability, reactive oxygen species accumulation, protein leakage). Biofilm inhibition and eradication assays, anti-inflammatory activity (LPS-induced IL-6 and TNF-α production in RAW 264.7 macrophages), and pharmacokinetic properties (plasma protein binding, lipophilicity logD7.4, metabolic stability in liver microsomes) were also assessed.                                                                                Results                                            Compound                       C17                       exhibited potent activity against multiple Gram-positive bacteria with MIC values of 16–32 μg/mL. It showed no hemolysis up to 256 μg/mL and no significant cytotoxicity in VERO cells, indicating good biocompatibility. Mechanistically,                       C17                       induced membrane depolarization, increased membrane permeability, promoted ROS accumulation, and caused protein leakage, confirming membrane disruption as its primary bactericidal action.                       C17                       significantly inhibited                       S. aureus                       biofilm formation (92% inhibition at 8× MIC) and eradicated preformed biofilms (69% eradication at 8× MIC). Furthermore,                       C17                       suppressed LPS-induced production of IL-6 and TNF-α in RAW 264.7 macrophages, demonstrating anti-inflammatory activity. Pharmacokinetic profiling revealed high plasma protein binding (89.3%), moderate lipophilicity (logD7.4 = 3.14), and acceptable metabolic stability (T                       1                       /                       2                       = 52.98 min in liver microsomes).                                                                                Discussion                                            Collectively,                       C17                       is a promising lead candidate for treating biofilm-associated and drug-resistant Gram-positive bacterial infections. Its multi-faceted action—direct membrane disruption, biofilm inhibition/eradication, and anti-inflammatory effects–combined with favorable biocompatibility and acceptable pharmacokinetics, warrants further development and in-depth investigation.",
+  "authors": [
+    "Yaguang Liu",
+    "Lianzhi Hu",
+    "Binbin Liu",
+    "Zheng Qu"
+  ],
+  "year": 2026,
+  "doi": "10.3389/fchem.2026.1825790",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://www.frontiersin.org/articles/10.3389/fchem.2026.1825790/full",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.3389_fchem.2026.1825790.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:20.145543+00:00",
+  "raw_metadata": {
+    "doi": "10.3389/fchem.2026.1825790",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

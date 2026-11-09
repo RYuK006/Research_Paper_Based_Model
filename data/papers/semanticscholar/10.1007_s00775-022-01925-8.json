@@ -1,0 +1,29 @@
+{
+  "id": "s2:doi:10.1007/s00775-022-01925-8",
+  "title": "Computational analysis of the tryptophan cation radical energetics in peroxidase Compound I",
+  "abstract": "AbstractThree well-characterized heme peroxidases (cytochrome c peroxidase = CCP, ascorbate peroxidase = APX, and Leishmania major peroxidase = LMP) all have a Trp residue tucked under the heme stacked against the proximal His heme ligand. The reaction of peroxidases with H2O2 to give Compound I results in the oxidation of this Trp to a cationic radical in CCP and LMP but not in APX. Considerable experimental data indicate that the local electrostatic environment controls whether this Trp or the porphyrin is oxidized in Compound I. Attempts have been made to place the differences between these peroxidases on a quantitative basis using computational methods. These efforts have been somewhat limited by the approximations required owing to the computational cost of using fully solvated atomistic models with well-developed forcefields. This now has changed with available GPU computing power and the associated development of software. Here we employ thermodynamic integration and multistate Bennett acceptance ratio methods to help fine-tune our understanding on the energetic differences in Trp radical stabilization in all three peroxidases. These results indicate that the local solvent structure near the redox active Trp plays a significant role in stabilization of the cationic Trp radical.                 Graphical abstract",
+  "authors": [
+    "Thomas L. Poulos",
+    "Jenny S. Kim",
+    "Vidhi C. Murarka"
+  ],
+  "year": 2022,
+  "doi": "10.1007/s00775-022-01925-8",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 1,
+  "open_access_pdf_url": "https://link.springer.com/content/pdf/10.1007/s00775-022-01925-8.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1007_s00775-022-01925-8.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:20.083988+00:00",
+  "raw_metadata": {
+    "doi": "10.1007/s00775-022-01925-8",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

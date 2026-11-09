@@ -1,0 +1,38 @@
+{
+  "id": "s2:doi:10.1038/s41598-017-04449-3",
+  "title": "A screen for novel hepatitis C virus RdRp inhibitor identifies a broad-spectrum antiviral compound",
+  "abstract": "AbstractHepatitis C virus (HCV) is a global pathogen and infects more than 185 million individuals worldwide. Although recent development of direct acting antivirals (DAA) has shown promise in HCV therapy, there is an urgent need for the development of more affordable treatment options. We initiated this study to identify novel inhibitors of HCV through screening of compounds from the National Cancer Institute (NCI) diversity dataset. Using cell-based assays, we identified NSC-320218 as a potent inhibitor against HCV with an EC50 of 2.5 μM and CC50 of 75 μM. The compound inhibited RNA dependent RNA polymerase (RdRp) activity of all six major HCV genotypes indicating a pan-genotypic effect. Limited structure-function analysis suggested that the entire molecule is necessary for the observed antiviral activity. However, the compound failed to inhibit HCV NS5B activity in vitro, suggesting that it may not be directly acting on the NS5B protein but could be interacting with a host protein. Importantly, the antiviral compound also inhibited dengue virus and hepatitis E virus replication in hepatocytes. Thus, our study has identified a broad-spectrum antiviral therapeutic agent against multiple viral infections.",
+  "authors": [
+    "Abhilasha Madhvi",
+    "Smita Hingane",
+    "Rajpal Srivastav",
+    "Nishant Joshi",
+    "Chandru Subramani",
+    "Rajagopalan Muthumohan",
+    "Renu Khasa",
+    "Shweta Varshney",
+    "Manjula Kalia",
+    "Sudhanshu Vrati",
+    "Milan Surjit",
+    "C. T. Ranjith-Kumar"
+  ],
+  "year": 2017,
+  "doi": "10.1038/s41598-017-04449-3",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 24,
+  "open_access_pdf_url": "https://www.nature.com/articles/s41598-017-04449-3.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1038_s41598-017-04449-3.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:05.757043+00:00",
+  "raw_metadata": {
+    "doi": "10.1038/s41598-017-04449-3",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "s2:doi:10.3233/jae-220185",
+  "title": "Loss analysis of a novel compound electromagnetic linear actuator under different operating modes and working conditions",
+  "abstract": "As an important actuator component, the electromagnetic linear actuator has a significant impact on the performance of fully flexible variable valve trains. Aiming at the shortcomings of the conventional moving coil electromagnetic linear actuator (MCELA) with low force density and insufficient end-passive self-holding ability, a novel compound electromagnetic linear actuator (CELA) integrating the advantages of MCELA and the moving iron electromagnetic linear actuator (MIELA) was proposed in this work. The CELA has two operating modes, including single drive mode and cooperative drive mode, and its loss variation is different from that of the single MCELA or MIELA. Firstly, the current and displacement curves under different operating modes were obtained through experiments, which were then used as the excitation source to quantitatively analyze the copper and iron losses under different working conditions by means of 3D finite element simulation. The loss distribution and ratio of CELA under typical operating conditions were discussed in detail. The effects of stroke and valve opening duration on CELA losses were analyzed. The results show that there are significant differences in the loss variation rules between the two operating modes, the losses increase as the working stroke increases in single drive mode. In the cooperative drive mode, the losses are much greater than in the single drive mode, with the losses decreasing in the initial stage and then increasing as the stroke increases. None of the valve opening durations had a significant effect on losses. This study provides a reference for loss studies of other novel electromagnetic linear actuators.",
+  "authors": [
+    "Xinyu Fan",
+    "Chengzhi Xie",
+    "Zhibing Zhu",
+    "Yang Li"
+  ],
+  "year": 2023,
+  "doi": "10.3233/jae-220185",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 3,
+  "open_access_pdf_url": "https://journals.sagepub.com/doi/pdf/10.3233/JAE-220185",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.3233_jae-220185.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:05.777342+00:00",
+  "raw_metadata": {
+    "doi": "10.3233/jae-220185",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

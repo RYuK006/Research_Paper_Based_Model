@@ -1,0 +1,31 @@
+{
+  "id": "s2:doi:10.1182/blood.v122.21.62.62",
+  "title": "Germline Exome Sequencing From MLL-Negative Infant AML Patients Reveals Compound Heterozygosity For Novel, Non-Synonymous Alleles Of MLL3: A Report From The Children’s Oncology Group (COG)",
+  "abstract": "Abstract                                   Introduction                   Mixed Lineage Leukemia-negative (MLL-) infant leukemia (IL) is an extremely rare, sporadic, and often fatal form of leukemia in children less than one year of age with overall survival &lt;50%. Approximately two-thirds of these cases possess a translocation in the MLL gene. The incidence rate of IL is increasing (Linabery, Cancer 2008) in the US, but cannot be solely attributed to somatic mutations (Andersson A, Cancer Res 2012) or environmental exposures (Ross, Epidemiol Rev 1994). Maternal prenatal exposure to topoisomerase II inhibitors has been associated with infant AML onset in a model similar to therapy-related AML (Spector, Cancer Epidemiol Biomarkers Prev 2006). While there has been extensive research on the impact of MLL-rearrangements, very little work on the genetics of MLL- IL has been reported. Given the absence of chromosomal rearrangements or somatic mutations, we hypothesized that the onset of MLL- IL requires heritable or de novo deleterious germline variants, which would mitigate the requirement for acquired genetic lesions and allow early leukemic transformation.                                                   Methods                   We completed germline exome sequencing of 13 pairs of Caucasian mothers and their infants with MLL- AML collected from the COG “Epidemiology of Infant Leukemia” study and 25 Caucasian children without cancer. Our cohort consisted of six boys and seven girls with an average age at diagnosis of 5.3 months (range 1.6-11.4). Average maternal age was 33.4 years (range 25.4-41.8). DNA was collected from buccal cells either via mouthwash (mothers) or cytobrush (infants). Sequencing was performed at Washington University on the Illumina HiSeq 2000 platform and analyzed using our laboratory’s published and validated bioinformatic pipeline (Ramos, BMC Genomics, 2012). We focused on sequence variants within 655 AML-associated genes (defined by COSMIC) that were novel (not in dbSNP, 1000 Genomes or the Exome Variant Server), non-synonymous and predicted to be damaging according to six prediction algorithms in the Annovar software package. We prioritized genes with a compound heterozygous genotype.                                                   Results                   Compared to their mothers and unaffected controls, infants with AML demonstrated a 2.7 and 7.9-fold excess, respectively, of novel, non-synonymous and predicted deleterious germline variants in 655 genes associated with somatic mutation in AML. Per exome within these candidate genes, this correlated to an average of 121 variants (range 31-124) for AML infants, 31 (range 0-41) for mothers and 11 (range 6-14) for unaffected controls. Hypergeometric analysis confirmed that this enrichment was significant (P = 2.7 e-41) compared to 100,000 randomly chosen sets of 655 genes from within the same exomes. There was no correlation between gene size and the number of variants identified (r2 = 0.15). To further prioritize genes that may be relevant to infant AML, we looked for any gene with a compound heterozygous genotype. Interestingly, every infant AML patient only possessed two compound heterozygotes: ANKRD36 and MLL3. ANKRD36 was not in our candidate gene list and a connection to leukemia is unclear, but MLL3 has an established history in cancer biology.                                                   Discussion                   MLL3, a homolog of MLL, is a H3K4 histone methyltransferase and dimerizes with p53 as a tumor suppressor (Lee J, PNAS 2009). Mll3 knockout mice develop urogenital tumors, and somatic mutation has been linked to carcinoma of the stomach, gallbladder, bladder and liver in humans. More recently, a germline frameshift in MLL3 was identified in a pedigree with adult-onset AML and colorectal cancer (Li WD, Blood 2013). Our results provide evidence for a germline mechanism of developmental disruption of essential epigenetic regulatory mechanisms in infant AML, secondary to MLL3 dysfunction, that may be analogous to the consequences of MLL-rearrangement observed in the majority of IL cases and MLL+ therapy-related AML. These results also suggest that a combination of inherited variation from each parent is necessary to create a genetic background amenable to leukemic transformation, and are compatible with an influence from environmental exposures and the in utero establishment of leukemic clones in IL. Functional studies to determine if MLL3 dysfunction alone is sufficient for early onset AML or requires additive cooperativity with other congenital or acquired genetic lesions or specific exposures (e.g. topoisomerase II inhibitors) are necessary.                                                   Disclosures:                   No relevant conflicts of interest to declare.",
+  "authors": [
+    "Mark C. Valentine",
+    "Amy M. Linabery",
+    "Logan G. Spector",
+    "Julie A Ross",
+    "Todd E Druley"
+  ],
+  "year": 2013,
+  "doi": "10.1182/blood.v122.21.62.62",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://ashpublications.org/blood/article/122/21/62/94203/Germline-Exome-Sequencing-From-MLLNegative-Infant",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1182_blood.v122.21.62.62.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:09.806084+00:00",
+  "raw_metadata": {
+    "doi": "10.1182/blood.v122.21.62.62",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

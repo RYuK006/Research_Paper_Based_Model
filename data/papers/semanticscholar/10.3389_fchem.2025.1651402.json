@@ -1,0 +1,28 @@
+{
+  "id": "s2:doi:10.3389/fchem.2025.1651402",
+  "title": "Discovery of compound 1105486 as a selective inhibitor of B4GALT1: potential for pancreatic cancer therapy",
+  "abstract": "Targeting aberrant β-1,4-galactosyltransferase 1 (B4GALT1) activity represents an unexplored therapeutic avenue for pancreatic ductal adenocarcinoma (PDAC). Guided by a concise active-learning structure-based workflow, we rapidly triaged 22.6 million compounds and singled out 1105486 for experimental characterization. In PANC-1 cells, the molecule suppressed proliferation with an IC                     50                     of 19.8 ± 1.3 µM, while hTERT-HPNE epithelial cells retained &amp;gt;95% viability at concentrations up to 80 μM, indicating an encouraging initial safety window. Mechanistically, 1105486 engages the UDP-galactose pocket through stable hydrogen bonds to ARG187 and GLU313, a binding mode corroborated by 1 µs molecular-dynamics simulations and MM/GBSA energetics. Unlike previously reported glycosyltransferase inhibitors, which often lack selectivity and may affect multiple family members, 1105486 specifically targets B4GALT1 with high selectivity, occupying its unique catalytic pocket. To our knowledge, 1105486 constitutes the first reported small-molecule inhibitor of B4GALT1 and establishes a tractable chemical scaffold for optimization toward sub-micromolar potency and                     in vivo                     evaluation. The compound’s selective cytotoxic profile, promising physicochemical properties, and the potential for further development highlight its                     in vivo                     efficacy and its role as a lead candidate for the next-generation of glycosylation-directed therapeutics for PDAC.",
+  "authors": [
+    "Xu Yunyun",
+    "Mou Yiping"
+  ],
+  "year": 2025,
+  "doi": "10.3389/fchem.2025.1651402",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 2,
+  "open_access_pdf_url": "https://www.frontiersin.org/articles/10.3389/fchem.2025.1651402/full",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.3389_fchem.2025.1651402.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:39.967035+00:00",
+  "raw_metadata": {
+    "doi": "10.3389/fchem.2025.1651402",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

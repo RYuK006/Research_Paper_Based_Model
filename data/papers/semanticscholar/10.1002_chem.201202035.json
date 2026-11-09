@@ -1,0 +1,29 @@
+{
+  "id": "s2:doi:10.1002/chem.201202035",
+  "title": "Simulations of Guest Transport in Clathrates of Dianin’s Compound and Hydroquinone",
+  "abstract": "AbstractClathrates have been proposed for use in a variety of applications including gas storage, mixture separation and catalysis due to the potential for controlled guest diffusion through their porous lattices. Here molecular dynamics simulations are employed to study guest transport in clathrates of hydroquinone (HQ) and Dianin’s compound (DC). Systems investigated were HQ with methanol and acetonitrile, and DC with methanol and ethanol. Simulations were set up with one guest in the pore, two guests in the pore and one vacancy in the pore and a filled pore, and free‐energy barriers for movement between cavities of the pore were estimated for all cases. Comparison between these simulations indicates that guest transport most likely proceeds by molecules moving from full to empty cavities consecutively, one by one, rather than in a concerted manner. Thus, the presence of empty cavities is very important for guest transport, which becomes more energetically demanding in fully loaded systems. Flexibility of the host can assist guest transport. In the studied DC clathrates transport occurs via an intermediate conformation in which the hydroxyl group of the alcohol guest molecule participates in the hydrogen‐bonded ring of the host. We also address the issue of the number of methanol guest molecules that DC accommodates, for which conflicting information exists. We found that this is likely to be temperature dependent and suggest that under some conditions the system is most likely non‐stoichiometric.",
+  "authors": [
+    "Alexandra Nemkevich",
+    "Mark A. Spackman",
+    "Ben Corry"
+  ],
+  "year": 2013,
+  "doi": "10.1002/chem.201202035",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 17,
+  "open_access_pdf_url": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fchem.201202035",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1002_chem.201202035.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:37.442313+00:00",
+  "raw_metadata": {
+    "doi": "10.1002/chem.201202035",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

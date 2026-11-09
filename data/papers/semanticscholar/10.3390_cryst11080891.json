@@ -1,0 +1,31 @@
+{
+  "id": "s2:doi:10.3390/cryst11080891",
+  "title": "Crystal Structure Prediction of the Novel Cr2SiN4 Compound via Global Optimization, Data Mining, and the PCAE Method",
+  "abstract": "A number of studies have indicated that the implementation of Si in CrN can significantly improve its performance as a protective coating. As has been shown, the Cr-Si-N coating is comprised of two phases, where nanocrystalline CrN is embedded in a Si3N4 amorphous matrix. However, these earlier experimental studies reported only Cr-Si-N in thin films. Here, we present the first investigation of possible bulk Cr-Si-N phases of composition Cr2SiN4. To identify the possible modifications, we performed global explorations of the energy landscape combined with data mining and the Primitive Cell approach for Atom Exchange (PCAE) method. After ab initio structural refinement, several promising low energy structure candidates were confirmed on both the GGA-PBE and the LDA-PZ levels of calculation. Global optimization yielded six energetically favorable structures and five modifications possible to be observed in extreme conditions. Data mining based searches produced nine candidates selected as the most relevant ones, with one of them representing the global minimum in the Cr2SiN4. Additionally, employing the Primitive Cell approach for Atom Exchange (PCAE) method, we found three more promising candidates in this system, two of which are monoclinic structures, which is in good agreement with results from the closely related Si3N4 system, where some novel monoclinic phases have been predicted in the past.",
+  "authors": [
+    "Tamara Škundrić",
+    "Dejan Zagorac",
+    "Johann Schön",
+    "Milan Pejić",
+    "Branko Matović"
+  ],
+  "year": 2021,
+  "doi": "10.3390/cryst11080891",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 22,
+  "open_access_pdf_url": "https://www.mdpi.com/2073-4352/11/8/891/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.3390_cryst11080891.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:38.422151+00:00",
+  "raw_metadata": {
+    "doi": "10.3390/cryst11080891",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

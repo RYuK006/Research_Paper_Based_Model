@@ -1,0 +1,31 @@
+{
+  "id": "s2:doi:10.2174/1871520621666210126090632",
+  "title": "Molecular Evidence of Compound Kushen Injection Against Lung Cancer: A Network Pharmacology-Based Investigation from Western Medicine to Traditional Medicine",
+  "abstract": "Background: Compound Kushen Injection (CKI) is used clinically for relieving cancer pain and treating various solid tumors, particularly lung cancer. However, the underlying mechanisms of CKI in lung cancer remain to be further elucidated.   Objective: This study aimed to obtain evidence regarding the potential efficacy of the active compounds and therapeutic targets of CKI at a molecular level by using Network Pharmacology (NP), which is an emerging technique for dealing with complex systems, such as those of herbal medicine.   Methods: The chemical and predicted target information of CKI was obtained from databases and computational prediction, respectively; lung-cancer drugs and their corresponding targets were retrieved from Drugbank and Drugcentral. The online tool, STRING, was used to gather target–pathway interactions for establishing a target–(pathway)–target network to identify the target group that was most relevant to cancer. Based on this module, a protein-protein interaction network was established for identifying the potential therapeutic targets and the potential active ingredients.   Results:  CKI might affect lung cancer drug targets or their neighbor nodes to trigger anti-cancer effects. The compounds that were predicted to bind to the potential therapeutic targets were recommended as potential active ingredients of CKI, which included naringenin from Baituling, and kurarinone and isoxanthohumol from Kushen.   Conclusion: This NP-based study might provide insights into understanding CKI from the perspective of modern science with reference to approved Western medicine for lung cancer. Moreover, network-based methods could also be further used with distinct advantages in dealing with complex information and systems of medicine.",
+  "authors": [
+    "Sixian Liang",
+    "Yin Li",
+    "Xiangguo Zhang",
+    "Yugan Guo",
+    "Suming Pan"
+  ],
+  "year": 2021,
+  "doi": "10.2174/1871520621666210126090632",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 4,
+  "open_access_pdf_url": "https://eurekaselect.com/article/download/190702",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.2174_1871520621666210126090632.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:07.237754+00:00",
+  "raw_metadata": {
+    "doi": "10.2174/1871520621666210126090632",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

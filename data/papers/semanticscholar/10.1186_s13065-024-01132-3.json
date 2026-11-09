@@ -1,0 +1,27 @@
+{
+  "id": "s2:doi:10.1186/s13065-024-01132-3",
+  "title": "An immunoinformatics and structural vaccinology approach to design a novel and potent multi-epitope base vaccine targeting Zika virus",
+  "abstract": "AbstractZika virus is an infectious virus, that belongs to Flaviviridae family, which is transferred to humans through mosquito vectors and severely threatens human health; but, apart from available resources, no effective and secure vaccine is present against Zika virus, to prevent such infections. In current study, we employed structural vaccinology approach to design an epitope-based vaccine against Zika virus, which is biocompatible, and secure and might trigger an adaptive and innate immune response by using computational approaches. We first retrieved the protein sequence from National Center for Biotechnology Information (NCBI) database and carried out for BLAST P. After BLAST P, predicted protein sequences were shortlisted and checked for allergic features and antigenic properties. Final sequence of Zika virus, with accession number (APO40588.1) was selected based on high antigenic score and non-allergenicity. Final protein sequence used various computational approaches including antigenicity testing, toxicity evaluation, allergenicity, and conservancy assessment to identify superior B-cell and T-cell epitopes. Two B-cell epitopes, five MHC-six MHC-II epitopes and I were used to construct an immunogenic multi-epitope-based vaccine by using suitable linkers. A 50S ribosomal protein was added at N terminal to improve the immunogenicity of vaccine. In molecular docking, strong interactions were presented between constructed vaccine and Toll-like receptor 9 (− 1100.6 kcal/mol), suggesting their possible relevance in the immunological response to vaccine. The molecular dynamics simulations ensure the dynamic and structural stability of constructed vaccine. The results of C-immune simulation revealed that constructed vaccine activate B and T lymphocytes which induce high level of antibodies and cytokines to combat Zika infection. The constructed vaccine is an effective biomarker with non-sensitization, nontoxicity; nonallergic, good immunogenicity, and antigenicity, however, experimental assays are required to verify the results of present study.",
+  "authors": [
+    "Mohammed Ageeli Hakami"
+  ],
+  "year": 2024,
+  "doi": "10.1186/s13065-024-01132-3",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 11,
+  "open_access_pdf_url": "https://link.springer.com/content/pdf/10.1186/s13065-024-01132-3.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1186_s13065-024-01132-3.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:02.173073+00:00",
+  "raw_metadata": {
+    "doi": "10.1186/s13065-024-01132-3",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

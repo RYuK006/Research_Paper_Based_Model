@@ -1,0 +1,28 @@
+{
+  "id": "s2:doi:10.3390/electronics12204251",
+  "title": "Reassembling Fragmented Entity Names: A Novel Model for Chinese Compound Noun Processing",
+  "abstract": "In the process of classifying intelligent assets, we encountered challenges with a limited dataset dominated by complex compound noun phrases. Training classifiers directly on this dataset posed risks of overfitting and potential misinterpretations due to inherent ambiguities in these phrases. Recognizing the gap in the current literature for tailored methods addressing this challenge, this paper introduces a refined approach for the accurate extraction of entity names from such structures. We leveraged the Chinese pre-trained BERT model combined with an attention mechanism, ensuring precise interpretation of each token’s significance. This was followed by employing both a multi-layer perceptron (MLP) and an LSTM-based Sequence Parsing Model, tailored for sequence annotation and rule-based parsing. With the aid of a rule-driven decoder, we reconstructed comprehensive entity names. Our approach adeptly extracts structurally coherent entity names from fragmented compound noun phrases. Experiments on a manually annotated dataset of compound noun phrases demonstrate that our model consistently outperforms rival methodologies. These results compellingly validate our method’s superiority in extracting entity names from compound noun phrases.",
+  "authors": [
+    "Yuze Pan",
+    "Xiaofeng Fu"
+  ],
+  "year": 2023,
+  "doi": "10.3390/electronics12204251",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://www.mdpi.com/2079-9292/12/20/4251/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.3390_electronics12204251.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:36.320773+00:00",
+  "raw_metadata": {
+    "doi": "10.3390/electronics12204251",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

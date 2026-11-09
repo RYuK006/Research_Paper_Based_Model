@@ -1,0 +1,34 @@
+{
+  "id": "s2:doi:10.1128/aem.00586-07",
+  "title": "Novel Whole-Cell Antibiotic Biosensors for Compound Discovery",
+  "abstract": "ABSTRACT                        Cells containing reporters which are specifically induced via selected promoters are used in pharmaceutical drug discovery and in environmental biology. They are used in screening for novel drug candidates and in the detection of bioactive compounds in environmental samples. In this study, we generated and validated a set of five             Bacillus subtilis             promoters fused to the firefly luciferase reporter gene suitable for cell-based screening, enabling the as yet most-comprehensive high-throughput diagnosis of antibiotic interference in the major biosynthetic pathways of bacteria: the biosynthesis of DNA by the             yorB             promoter, of RNA by the             yvgS             promoter, of proteins by the             yheI             promoter, of the cell wall by the             ypuA             promoter, and of fatty acids by the             fabHB             promoter. The reporter cells mainly represent novel antibiotic biosensors compatible with high-throughput screening. We validated the strains by developing screens with a set of 14,000 pure natural products, representing a source of highly diverse chemical entities, many of them with antibiotic activity (6% with anti-             Bacillus subtilis             activity of ≤25 μg/ml]). Our screening approach is exemplified by the discovery of classical and novel DNA synthesis and translation inhibitors. For instance, we show that the mechanistically underexplored antibiotic ferrimycin A1 selectively inhibits protein biosynthesis.",
+  "authors": [
+    "Andreas Urban",
+    "Stefan Eckermann",
+    "Beate Fast",
+    "Susanne Metzger",
+    "Matthias Gehling",
+    "Karl Ziegelbauer",
+    "Helga Rübsamen-Waigmann",
+    "Christoph Freiberg"
+  ],
+  "year": 2007,
+  "doi": "10.1128/aem.00586-07",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 123,
+  "open_access_pdf_url": "https://journals.asm.org/doi/pdf/10.1128/AEM.00586-07",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1128_aem.00586-07.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:56.331775+00:00",
+  "raw_metadata": {
+    "doi": "10.1128/aem.00586-07",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

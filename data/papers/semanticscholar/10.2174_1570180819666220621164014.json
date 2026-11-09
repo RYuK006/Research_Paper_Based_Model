@@ -1,0 +1,29 @@
+{
+  "id": "s2:doi:10.2174/1570180819666220621164014",
+  "title": "Fluoropropanoic Acid Compound Revealed as Novel Macrophage Migration Inhibitory Factor (MIF) Inhibitor through Virtual Screening and Molecular Dynamics (MD) Simulation",
+  "abstract": "Introduction: Macrophage Migration Inhibitory Factor (MIF), a cytokine that signals for inflammatory response, has been implicated in multiple inflammatory disorders, including RA. Inhibition of MIF activity by anti-MIF inhibitors can lead to improved prognosis and increased quality of life. Development of a medically viable MIF inhibitor has been pursued without success, and no inhibitor that binds to MIF active site has been approved as a drug. Current treatments of Rheumatoid Arthritis (RA), an inflammatory disorder driven by an autoimmune response, target pain management and control of progression, but the risk of toxicity and increased side effects lead to limited success.   Methods: Our goal was to search for drug-like lead compounds that bind more potently to MIF active sites than current inhibitors. We selected ten classes of chemical compounds that have previously shown in vitro MIF inhibitory activity and screened ~47,000 compounds belonging to these classes through virtual docking, alongside ~900,000 compounds from ZINC and TCM (Traditional Chinese Medicine) databases. The ligands with the higher energy of binding than current inhibitors were analyzed for ADMET profiles and drug-likeness properties.   Results: In total, 75 ligands showed binding energies higher than the threshold of -7.5 kcal/mol, and 5 lead compounds were identified with suitable pharmacokinetic profiles and drug-like characteristics. Among them, molecular dynamics simulation showed a stable ligand-protein complex for 3-[3-fluoro-4- (trifluoromethyl)phenyl] propanoic acid.   Conclusion: With the identification of this lead compound, new opportunities can be sought in the pursuit of a novel treatment for Rheumatoid Arthritis.",
+  "authors": [
+    "Rafeed Rahman Turjya",
+    "Md. Abdullah-Al-Kamran Khan",
+    "Abul Bashar Mir Md. Khademul Islam"
+  ],
+  "year": 2024,
+  "doi": "10.2174/1570180819666220621164014",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 1,
+  "open_access_pdf_url": "https://www.eurekaselect.com/article/download?doi=10.2174/1570180819666220621164014",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.2174_1570180819666220621164014.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:03.445441+00:00",
+  "raw_metadata": {
+    "doi": "10.2174/1570180819666220621164014",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

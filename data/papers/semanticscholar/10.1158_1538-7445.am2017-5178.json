@@ -1,0 +1,30 @@
+{
+  "id": "s2:doi:10.1158/1538-7445.am2017-5178",
+  "title": "Abstract 5178: CB002, a novel p53 pathway-restoring compound that induces apoptosis through the pro-apototic protein NOXA",
+  "abstract": "Abstract                P53 is a transcription factor that becomes stimulated upon genotoxic and cellular stress signals ultimately leading to the transcriptional activation of genes involved in processes such as DNA repair, cell cycle arrest, and apoptosis etc. TP53 is the most commonly mutated tumor suppressor and this is associated with cancer initiation, cancer progression and therapy resistance. P53-targeted therapy has proven to be challenging because direct functional restoration of p53 as a transcription factor has been difficult to achieve. We haven taken a different approach by investigating small molecules that functionally restore the p53-signaling pathway instead of direct p53 targeting. To date there is no approved drug that restores the p53 pathway in cancer cells with mutant p53. Therefore, we performed a high-throughput screen to identify such molecules. We identified a family of small molecules, CB002 and its structural analogs, as candidates for restoration of the p53 pathway in p53-null and mutant p53-expressing cancer cells. CB002 was specific in causing apoptosis in colorectal cancer cells and not in normal human fibroblasts cells as indicated by a Sub-G1 assay. Utilizing the xCELLigence RTCA DP system and CIM-Plate we show that CB002 treatment decreases the ability of colorectal cancer cells to migrate. The ability of CB002 to restore the p53 pathway was validated by studying the activation of p53 target genes p21, DR5, and NOXA in various cancer cell lines and expression of well-established apoptotic markers. Stable knockdown of NOXA completely abrogated the expression of cleaved PARP and reduced Sub-G1 cells, implicating the relevance of NOXA as a key mediator of cell death induction by CB002. We are currently exploring the mechanism by which NOXA induces apoptosis, as preliminary results suggest that degradation of Mcl-1 is not required for CB002 mediated cell death. In addition, we are evaluating the ability of CB002 structural analogs in decreasing the stability of mutant p53 using a larger panel of p53 mutants, as CB002 appears to target R175H p53 mutants. Our data supports the continued investigation of CB002 as a p53 pathway-restoring compound that may be further developed as a cancer therapeutic for p53-null tumors as well as tumors with p53 mutations.                Citation Format: Liz J. Hernandez Borrero, Shengliang Zhang, David T. Dicker, Wafik S. El-Deiry. CB002, a novel p53 pathway-restoring compound that induces apoptosis through the pro-apototic protein NOXA [abstract]. In: Proceedings of the American Association for Cancer Research Annual Meeting 2017; 2017 Apr 1-5; Washington, DC. Philadelphia (PA): AACR; Cancer Res 2017;77(13 Suppl):Abstract nr 5178. doi:10.1158/1538-7445.AM2017-5178",
+  "authors": [
+    "Liz J. Hernandez Borrero",
+    "Shengliang Zhang",
+    "David T. Dicker",
+    "Wafik S. El-Deiry"
+  ],
+  "year": 2017,
+  "doi": "10.1158/1538-7445.am2017-5178",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://aacrjournals.org/cancerres/article/77/13_Supplement/5178/620825/Abstract-5178-CB002-a-novel-p53-pathway-restoring",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1158_1538-7445.am2017-5178.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:46.994385+00:00",
+  "raw_metadata": {
+    "doi": "10.1158/1538-7445.am2017-5178",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

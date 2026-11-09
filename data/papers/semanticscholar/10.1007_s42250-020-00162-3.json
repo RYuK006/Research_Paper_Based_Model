@@ -1,0 +1,28 @@
+{
+  "id": "s2:doi:10.1007/s42250-020-00162-3",
+  "title": "In-silico Molecular Docking and ADME/Pharmacokinetic Prediction Studies of Some Novel Carboxamide Derivatives as Anti-tubercular Agents",
+  "abstract": "AbstractMolecular docking simulation of thirty-five (35) molecules ofN-(2-phenoxy)ethyl imidazo[1,2-a]pyridine-3-carboxamide (IPA) withMycobacterium tuberculosistarget (DNA gyrase) was carried out so as to evaluate their theoretical binding affinities. The chemical structure of the molecules was accurately drawn using ChemDraw Ultra software, then optimized at density functional theory (DFT) using Becke’s three-parameter Lee–Yang–Parr hybrid functional (B3LYP/6-311**) basis set in a vacuum of Spartan 14 software. Subsequently, the docking operation was carried out using PyRx virtual screening software. Molecule 35 (M35) with the highest binding affinity of − 7.2 kcal/mol was selected as the lead molecule for structural modification which led to the development of four (4) newly hypothetical molecules D1, D2, D3 and D4. In addition, the D4 molecule with the highest binding affinity value of − 9.4 kcal/mol formed more H-bond interactions signifying better orientation of the ligand in the binding site compared to M35 and isoniazid standard drug. In-silico ADME and drug-likeness prediction of the molecules showed good pharmacokinetic properties having high gastrointestinal absorption, orally bioavailable, and less toxic. The outcome of the present research strengthens the relevance of these compounds as promising lead candidates for the treatment of multidrug-resistant tuberculosis which could help the medicinal chemists and pharmaceutical professionals in further designing and synthesis of more potent drug candidates. Moreover, the research also encouraged the in vivo and in vitro evaluation study for the proposed designed compounds to validate the computational findings.",
+  "authors": [
+    "Mustapha Abdullahi",
+    "Shola Elijah Adeniji"
+  ],
+  "year": 2020,
+  "doi": "10.1007/s42250-020-00162-3",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 89,
+  "open_access_pdf_url": "https://link.springer.com/content/pdf/10.1007/s42250-020-00162-3.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1007_s42250-020-00162-3.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:15.692319+00:00",
+  "raw_metadata": {
+    "doi": "10.1007/s42250-020-00162-3",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "s2:doi:10.3390/molecules31030461",
+  "title": "From Plant to Target: Uncovering a Novel Anti-Inflammatory Compound in Pouzolzia pentandra via Phytochemical, Cellular, and Computational Studies",
+  "abstract": "Phytochemical investigation of the ethyl acetate extract from the aerial parts of Pouzolzia pentandra led to the isolation and identification of fourteen compounds (1–14). These include known compounds such as β-sitosterol (1), bauerenol (2), oleanolic acid (3), 3β-friedelanol (4), kaempferol (5), quercetin (6), 2′,6′-dihydroxy-3′,4′-dimethoxychalcone (7), friedelan-3-one (8), dipterocarpol (9), 3β-hydroxyolean-12-en-28-one 3-p-coumarate (10), daucosterol (11), astilbin (12), 3-methoxy-4-hydroxybenzoic acid (13), and pouzolignan F (14). Among these, compound 14 displayed the most potent inhibitory activity on nitric oxide (NO) production in LPS-stimulated RAW264.7 macrophages, with an IC50 value of 10.54 ± 0.4 µM. Mechanistic studies further revealed that compound 14 significantly suppressed the LPS-induced release of key pro-inflammatory cytokines, tumor necrosis factor-alpha (TNF-α) and interleukin-6 (IL-6). Furthermore, it inhibited the activation of the nuclear factor-kappa B (NF-κB) signaling pathway by preventing the nuclear translocation of its p65 subunit. Molecular docking studies were performed to evaluate the anti-inflammatory potential of compound 14 against cyclooxygenase-2 (COX-2) and phosphodiesterase-4 (PDE4). The compound exhibited binding affinities of −6.138 kcal/mol and −9.361 kcal/mol for COX-2 and PDE4, respectively. Subsequent molecular dynamics (MD) simulations confirmed the formation of a stable complex with the active site of PDE4. Collectively, these integrated in vitro and in silico findings demonstrate that pouzolignan F acts as a multi-target anti-inflammatory agent, likely through the inhibition of inflammatory mediators, cytokines, and the NF-κB pathway.",
+  "authors": [
+    "Do Tien Lam",
+    "Nguyen Anh Hung",
+    "Dao Viet Hung",
+    "Pham Thi Hong Minh",
+    "Hoang Thi Le Thuong",
+    "Vu Thi Thu Le"
+  ],
+  "year": 2026,
+  "doi": "10.3390/molecules31030461",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://www.mdpi.com/1420-3049/31/3/461/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.3390_molecules31030461.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:25.469232+00:00",
+  "raw_metadata": {
+    "doi": "10.3390/molecules31030461",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

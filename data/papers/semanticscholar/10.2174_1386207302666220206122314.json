@@ -1,0 +1,30 @@
+{
+  "id": "s2:doi:10.2174/1386207302666220206122314",
+  "title": "A Multiple Electrospray Interface for Parallel Mass Spectrometric Analyses of Compound Libraries",
+  "abstract": "A parallel spray interface for mass spectrometry is described. This new electrospray interface enables effluent flow streams from an array of HPLC columns to be sampled independently and sequentially on a chromatographic time-scale. Unlike our previously reported parallel LC-MS interface, which incorporated a dual-sheath spray interface accommodating up to four flow streams that are sampled simultaneously, this new interface permits up to four columns to be sampled sequentially by means of a stepping motor and rotating plate assembly. Effluent flow streams from an array of four HPLC columns are connected to a parallel arrangement of electrospray needles co-axial to the mass spectrometer entrance aperture. Within the needle assembly, the individual spray tips are oriented in a circular array, where each needle is situated 90 degrees  relative  to one  another  for four-column  operation.  An eight-column  system is described with needles spaced at 45 degree intervals. In between the needle assembly and the mass spectrometer entrance aperture is a Teflon disk with a through-hole that is mounted to a stepping motor assembly. By precisely controlling the stepping of the motor assembly, it is possible to \"sample\" each of the spray positions multiple times per second. By operating the quadrupole  mass spectrometer  in the single ion monitoring (SIM) mode, it was possible to acquire data at each of the spray positions during the course of the elution of compounds from the HPLC column array while maintaining both good sensitivity and peak shape. Preliminary results suggest this technique will be useful for high throughput combinatorial library analysis and profiling.",
+  "authors": [
+    "T. Wang",
+    "L. Zeng",
+    "J. Cohen",
+    "Daniel B. Kassel"
+  ],
+  "year": 1999,
+  "doi": "10.2174/1386207302666220206122314",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 47,
+  "open_access_pdf_url": "https://www.eurekaselect.com/article/download/200862",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.2174_1386207302666220206122314.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:50.070354+00:00",
+  "raw_metadata": {
+    "doi": "10.2174/1386207302666220206122314",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

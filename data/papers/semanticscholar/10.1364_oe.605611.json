@@ -1,0 +1,28 @@
+{
+  "id": "s2:doi:10.1364/oe.605611",
+  "title": "A novel collaborative measurement method based on compound sensing",
+  "abstract": "This paper focuses on the requirements for three-dimensional measurement of arrayed microhole structures on high-performance devices in aerospace and other fields. Aiming at the problems that existing measurement methods rely entirely on the input of data models, fail to accurately acquire the pose information of measured objects, and thus struggle to achieve high-precision measurement, a collaborative measurement method based on compound sensing is proposed. Through the established compound sensing collaborative measurement model, this method enables visual measurement to provide prior knowledge and guidance for contact measurement. Specifically, the acquired images are processed based on visual principles, and collaborative measurement is performed using the contact sensing mode of the probe to initially obtain geometric parameters such as the position, size, and direction vector of the measured object. On this basis, the probe is guided to conduct precise measurements deep inside the holes, and finally, accurate three-dimensional parameters such as the size and axis of the measured object are obtained. Finally, a five-axis measurement system is built, and measurements are carried out on the arrayed spatial microholes, realizing the three-dimensional model reconstruction of the arrayed spatial microholes. Experimental results show that the standard deviations of diameter and impact accuracy are better than 1.5μm and 2.7μm, respectively, which verify the effectiveness and feasibility of the proposed method.",
+  "authors": [
+    "He Zhang",
+    "Jiubin Tan"
+  ],
+  "year": 2026,
+  "doi": "10.1364/oe.605611",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://opg.optica.org/viewmedia.cfm?URI=oe-34-17-32520&seq=0",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1364_oe.605611.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:36.161449+00:00",
+  "raw_metadata": {
+    "doi": "10.1364/oe.605611",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

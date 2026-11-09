@@ -1,0 +1,29 @@
+{
+  "id": "s2:doi:10.1093/ofid/ofz359.132",
+  "title": "1955. Novel Compound Reverses Vancomycin Resistance in Vancomycin-resistant Enterococci (VRE)",
+  "abstract": "Abstract                                   Background                   Enterococcus causes 14% of all hospital-associated infections (HAIs) according to Centers for Disease Control and Prevention (CDC) data. 35.5% of these HAIs are caused by Vancomycin-resistant Enterococci (VRE) including highly fatal bacteremia, surgical site infections, and urinary tract infections. We present a novel synthetic compound, HSD 03-21 that could make VRE completely susceptible to vancomycin in-vitro.                                                   Methods                   HSD 03-21 was synthesized de novo from a hydroxybenzylidene – indolinone backbone in our laboratory. The minimum inhibitory concentration (MIC) of HSD 03-21 and vancomycin against VRE were determined according to clinical laboratory standards institute (CLSI) guidelines. The standard checkerboard assay was used to determine vancomycin-HSD 03-21 interactions against VRE. Briefly, HSD 03-21 and vancomycin at 10 mg/mL were prepared and diluted serially along the ordinate and abscissa of 96-well microtiter plates, respectively. Bacteria was standardized using the 0.5 McFarland standard, diluted (1:100), aliquoted into respective wells and incubated at 37oC for 18–20 hours. All assays were run in triplicates. The fractional inhibitory concentration (FIC) index was calculated for each combination. The FIC of either agent was calculated as: FIC (vancomycin) = MIC of vancomycin in combination/MIC of vancomycin alone and FIC (HSD 03-21) = MIC of HSD 03-21 in combination/MIC of HSD 03-21 alone. The cumulative FIC index ∑FICI was then calculated as: ∑FIC = FIC(vancomycin) + FIC(HSD 03-21). The calculated ∑FIC indices were interpreted as synergistic if ∑FIC: ≤ 0.5.                                                   Results                   The MIC of vancomycin for VRE faecalis was 256 μg mL−1 while that of HSD 03-21 was 128 μg mL−1. When vancomycin was combined with HSD 03-21 at 8 μg mL−1 (1/16 MIC), there was a reduction in MIC of vancomycin to 0.5 μg mL−1. The combination showed excellent synergy with ∑FIC of 0.06.                                                   Conclusion                   HSD 03-21 reduced the MIC of vancomycin from 256 to 0.5 μg mL−1. This has an immense potential of changing the way we use vancomycin and in the treatment of VRE infections. Translation of this novel compound could save thousands of lives from VRE and the failures and inherent toxicities of current doses of vancomycin.                                                                      Disclosures                   All Authors: No reported Disclosures.",
+  "authors": [
+    "Kenneth Onyedibe",
+    "Neetu Dayal",
+    "Herman Sintim"
+  ],
+  "year": 2019,
+  "doi": "10.1093/ofid/ofz359.132",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "http://academic.oup.com/ofid/article-pdf/6/Supplement_2/S61/30269875/ofz359.132.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1093_ofid_ofz359.132.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:42:34.400777+00:00",
+  "raw_metadata": {
+    "doi": "10.1093/ofid/ofz359.132",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

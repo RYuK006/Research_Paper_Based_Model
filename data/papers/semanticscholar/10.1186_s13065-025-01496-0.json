@@ -1,0 +1,28 @@
+{
+  "id": "s2:doi:10.1186/s13065-025-01496-0",
+  "title": "Crystallographic and DFT study of novel dimethoxybenzene derivatives",
+  "abstract": "Abstract           Dimethoxybenzene derivatives are versatile compounds with significant pharmaceutical applications. This study investigates the synthesis of two dimethoxybenzene derivatives, focusing on their structural, electronic, and intermolecular interaction properties. Crystallographic analysis showed that the compounds crystallize in the monoclinic system, with planar phenyls, stabilizing their structures by hydrogen bonds and intermolecular interactions. Density Functional Theory (DFT) calculations were employed to analyze electronic properties, including HOMO and LUMO energy levels, energy gaps (Eg), and molecular electrostatic potentials (MEPs). The study compared (PBE) DFT functional to hybrid functionals PBE0 and B3LYP. The most time-efficient calculation was PBE; however, the one with the lowest total energy was the hybrid functional B3LYP, as the energies were − 172,318.3710 eV and − 33,332.8726 eV for compounds 1 and 2, respectively. The basis set Def2-TZVP produced the lowest energy but required more computation than 6-311G(d,p). The compounds' energy gaps, hardness, and softness values demonstrated their thermodynamic stability, which is particularly advantageous for pharmaceutical applications. The MEPs revealed compound 2 was more electrophilic and a hydrogen bond donor, while compound 1 was more nucleophilic and a strong hydrogen bond acceptor. The study highlights the significance of dimethoxybenzene derivatives as therapeutic materials, paving the way for further research on their various applications.",
+  "authors": [
+    "Nancy N. Elewa",
+    "Ahmed F. Mabied"
+  ],
+  "year": 2025,
+  "doi": "10.1186/s13065-025-01496-0",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 6,
+  "open_access_pdf_url": "https://link.springer.com/content/pdf/10.1186/s13065-025-01496-0.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1186_s13065-025-01496-0.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:53.908570+00:00",
+  "raw_metadata": {
+    "doi": "10.1186/s13065-025-01496-0",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

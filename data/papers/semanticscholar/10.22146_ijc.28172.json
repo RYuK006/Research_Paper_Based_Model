@@ -1,0 +1,30 @@
+{
+  "id": "s2:doi:10.22146/ijc.28172",
+  "title": "Molecular Docking Analysis of Ginger Active Compound on Transient Receptor Potential Cation Channel Subfamily V Member 1 (TRPV1)",
+  "abstract": "Ginger had been reported to ameliorate painful diabetic neuropathy (PDN) in an animal model. Gingerol and shogaol were active compounds of ginger that potentially act on transient receptor potential cation channel subfamily V member 1 (TRPV1), a key receptor in PDN. This study aims to predict the binding of gingerol and shogaol to TRPV1 using an in silico model. The ligands of the docking study were 3 chemical compounds of each gingerol and shogaol, i.e. 6-shogaol, 8-shogaol, 10-shogaol, 6-gingerol, 8 gingerol and 10-gingerol. Capsaicin, a TRPV1 agonist, was used as a native ligand. The TRPV1 structure was taken from Protein Data Bank (ID 3J9J). The docking analysis was performed using Autodock Vina. The result showed that among the ginger active compounds, 6-shogaol had the strongest binding energy (-7.10 kcal/mol) to TRPV1. The 6-shogaol lacked the potential hydrogen bond to Ile265 of TRPV1 protein, which capsacin had. However, it's binding energy towards TRPV1 was not significantly different compared to capsaicin. Therefore, 6-shogaol had potential to be developed as a treatment for PDN.",
+  "authors": [
+    "Fifteen Aprila Fajrin",
+    "Agung Endro Nugroho",
+    "Rina Susilowati",
+    "Arief Nurrochmad"
+  ],
+  "year": 2018,
+  "doi": "10.22146/ijc.28172",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 8,
+  "open_access_pdf_url": "https://jurnal.ugm.ac.id/ijc/article/viewFile/28172/18332",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.22146_ijc.28172.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:04.713722+00:00",
+  "raw_metadata": {
+    "doi": "10.22146/ijc.28172",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

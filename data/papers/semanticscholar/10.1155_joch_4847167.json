@@ -1,0 +1,29 @@
+{
+  "id": "s2:doi:10.1155/joch/4847167",
+  "title": "Evaluation of the Inhibitory Properties of Novel Compounds Against Acetylcholinesterase Using Computational Methods",
+  "abstract": "Alzheimer’s disease (AD) is a neurodegenerative disorder mainly associated with the level of acetylcholine in the brain tissue cells. The extracellular β‐amyloid protein accumulation in senile plaques is another reason for AD. Inhibiting acetylcholinesterase (AChE) from hydrolyzing acetylcholine and preventing β‐amyloid aggregation are promising strategies for AD drug development. In this study, a novel series of pyridine derivatives (2,6‐dimethyl‐4‐(2‐aminophenyl)‐3,5‐pyridine dicarboximide) was designed and proposed as AChE inhibitors. Molecular dynamics (MD) simulation and molecular docking were conducted to investigate the binding modes and conformational modifications during the interaction of the newly designed compounds with                     Torpedo californica                     AChE (                     Tc                     AChE) main protease. The pharmacokinetic properties and toxicity of the proposed ligands were predicted using the SwissADME and pkCSM web tools. The MD simulations and docking results demonstrated the favorable arrangement of proposed ligands along the gorge of AChE. The parameters of molecular mechanics/generalized Born and surface area (MM/GBSA), root mean square displacement (RMSD), and root mean square fluctuation (RMSF) were also calculated. MM/GBSA findings revealed efficient binding affinity of proposed compounds to the active sites of AChE. Based on MM/GBSA analysis, two of the six designed compounds showed even better binding affinity scores than donepezil (E20), an approved drug in AD treatment. The participation fraction of hydrogen bonding and hydrophobic interactions was dominant in the binding energies. SwissADME revealed that almost all of the proposed ligands have good bioavailability and satisfy Lipinski’s rule of five. The results from the pkCSM analysis showed a favorable pharmacokinetic profile for the compounds.",
+  "authors": [
+    "Mina Jamzad",
+    "Mehregan Fallah-Kalamsari",
+    "Mohsen Amini"
+  ],
+  "year": 2025,
+  "doi": "10.1155/joch/4847167",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 1,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1155/joch/4847167",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1155_joch_4847167.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:20.042109+00:00",
+  "raw_metadata": {
+    "doi": "10.1155/joch/4847167",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

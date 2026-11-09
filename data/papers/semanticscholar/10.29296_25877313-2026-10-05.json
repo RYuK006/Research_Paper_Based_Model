@@ -1,0 +1,27 @@
+{
+  "id": "s2:doi:10.29296/25877313-2026-10-05",
+  "title": "CHEMICAL COMPOUND OF 5-FLUOROURACIL AND DOXORUBICIN: IN SILICO ASSESSMENT OF ACTIVITY AND SAFETY",
+  "abstract": "Introduction. In the early stages of drug development, there is a need to quickly understand how the activity and safety profile of a hybrid com-pound may change compared to the original molecules. Comprehensive in silico analysis of new chemical compounds using the Way2Drug platform is an important step in modern drug development. The aim of this study was to evaluate the activity and safety in silico of a 5-fluoro-1-[1-methyl-(8S-cis)-10-(3-amino-2,3,6-trideoxy-alpha-L-lixohexo-pyranosyl)oxy-7,8,9,10-tetra-hydro-6,8,11-trihydroxy-8-hydroxylacetyl)-1-methoxy-5,12-naphthacenedione]-4 H pyrimidine-2,4-dione. Material and Methods. The subject of the study was a 5-fluoro-1-[1-methyl-(8S-cis)-10-(3-amino-2,3,6-trideoxy-alpha-L-lixohexo-pyranosyl)oxy-7,8,9,10-tetra-hydro-6,8,11-trihydroxy-8-hydroxylacetyl)-1-methoxy-5,12-naphthacenedione]-4 H pyrimidine-2,4-dione. A comprehensive in silico analysis of the new hybrid derivative of doxorubicin and 5-fluorouracil was employed using the Way2Drug web platform, including the PASS Online, ADVER-Pred, and DIGEP-Pred modules. This approach provides a comprehensive assessment of potential pharmacological activities, adverse effects, and molecular targets, followed by a comparison of the hybrid compound profile with the parent structures. Results. The compound demonstrated the retention of the antiproliferative activity characteristic of the parent compounds. An improved safety profile (reduced organ toxicity) was noted: the risk of cardiotoxicity was reduced by more than 1.7 times compared to doxorubicin; the risk of arrhythmia was eliminated. The risk of liver damage was 2 times lower than that of 5-fluorouracil. The risk of nephrotoxicity was noted at a low level. The hybrid com-pound predictably affects key oncogenic pathways: it suppresses the expression of the anti-apoptotic gene BCL2L2 and the glycolysis gene HK2, indi-cating overcoming resistance and disruption of energy metabolism in cancer cells; it activates DNA repair (RRM2B) and cell cycle control (YAP1) genes in normal tissues. The presence of additional anticoagulant properties is also predicted due to the suppression of SERPINE1 and activation of THBD, which could potentially reduce the risk of thrombosis during chemotherapy. Conclusions. The synthesized hybrid compound has an improved therapeutic profile, namely, it potentially retains antitumor efficacy while exhibiting significantly reduced cardiotoxicity and hepatotoxicity compared to the parent compounds. This makes it a promising candidate for further preclinical and clinical studies.",
+  "authors": [
+    "O. Zhukova"
+  ],
+  "year": 2026,
+  "doi": "10.29296/25877313-2026-10-05",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": null,
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.29296_25877313-2026-10-05.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:41.336067+00:00",
+  "raw_metadata": {
+    "doi": "10.29296/25877313-2026-10-05",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

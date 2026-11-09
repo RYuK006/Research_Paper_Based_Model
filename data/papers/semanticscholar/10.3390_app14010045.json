@@ -1,0 +1,29 @@
+{
+  "id": "s2:doi:10.3390/app14010045",
+  "title": "Numerical Investigation on the Buckling Load Capacity of Novel Compound Cross-Sections Used in Crane Construction",
+  "abstract": "Although a crane is exposed to a wide range of loads, there is a growing need for a lighter, more slender design. As a result, double girder cranes are becoming single girder cranes, aiming to make the steel structure as light as possible. The optimization potential of the classic design as a hollow-box girder is approaching its end. In order to meet today’s requirements, a new design was developed, which combines beams with curved panels into a new cross-section to be used as the crane’s main girder. Compound cross-sections pose a challenge for the mechanical engineer as there are usually no comparative data available and designing using numerical methods is complex. For this reason, a scaled model was abstracted for which a load determination will be carried out in 2024. This article deals with the finite element calculations for the design of the test specimen. A global numerical analysis was used to determine the buckling load, and several imperfection patterns were investigated. The results revealed that the buckling loads are similar to each other. This finding may lead to the conclusion that the most damaging imperfection pattern has yet to be found, which supports the need for an accompanying series of tests.",
+  "authors": [
+    "Markus Ladinek",
+    "Georg Klapper",
+    "Robert Lang"
+  ],
+  "year": 2023,
+  "doi": "10.3390/app14010045",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 4,
+  "open_access_pdf_url": "https://www.mdpi.com/2076-3417/14/1/45/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.3390_app14010045.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:38.465251+00:00",
+  "raw_metadata": {
+    "doi": "10.3390/app14010045",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

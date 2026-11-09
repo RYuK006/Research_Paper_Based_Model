@@ -1,0 +1,33 @@
+{
+  "id": "s2:doi:10.3389/fddsv.2023.1326736",
+  "title": "Global proteomics insights for a novel small compound targeting the non-integrin Laminin Receptor in a macrophage cell model",
+  "abstract": "Introduction:Monocytes and macrophages are the first barrier of the innate immune system, which interact with agents causing osteoarthritis or other conditions, leading to the release of proinflammatory mediators that exacerbate inflammation.Methods:The aim of this study was to investigate the proteomic changes in THP-1 monocytes differentiated to macrophages, pre- or -post small compound treatments and in the presence or absence of a proinflammatory stimulus, Lipopolysaccharide (LPS). This study aimed to discover and isolate small compounds that mimic the interaction between Pigment derived growth factor (PEDF) and its 37/67 kDa Laminin receptor (LR) with potential anti-inflammatory activity.Results:Our results suggested that novel compounds targeting the LR-PEDF interface can be useful for modulating anti-inflammatory effects. Several compounds were selected based onin silicodocking at the PEDF/LR interface and examined for their ability to reduce IL-1β expression in a macrophage cell model. Compound C3 showed the highest efficacy in reducing IL-1β expression in the presence of LPS proinflammatory stimulus. Proteomics analysis revealed that C3 treatment altered the global proteomic profile of THP-1 activated macrophages, affecting pathways such as MYC targets, oxidative phosphorylation, and mTORC1 signaling.Discussion:The analysis also highlighted the involvement of key regulators, including RPSA and MYC, and their interactions with other proteins such as ribosome proteins and cell cycle regulators. Furthermore, the downregulated proteome analysis revealed shared and unique pathways affected by the treatments, including processes related to actin cytoskeleton, translation, and the inflammatory response. Protein-protein interaction networks suggested the potential involvement of transcription factors like MYC and the interconnectedness of signaling pathways in mediating such as the effects of the treatments. Overall, these findings provide valuable insights into the potential anti-inflammatory activity and underlying mechanisms of compound C3, emphasizing its relevance for further investigation in the context of inflammatory conditions.",
+  "authors": [
+    "Abigail Haffner",
+    "Manoel Figueiredo Neto",
+    "C. Samuel Umbaugh",
+    "Tiago J. P. Sobreira",
+    "Timothy B. Lescun",
+    "Herman O. Sintim",
+    "Marxa L. Figueiredo"
+  ],
+  "year": 2023,
+  "doi": "10.3389/fddsv.2023.1326736",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 3,
+  "open_access_pdf_url": "https://www.frontiersin.org/articles/10.3389/fddsv.2023.1326736/full",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.3389_fddsv.2023.1326736.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:13.748348+00:00",
+  "raw_metadata": {
+    "doi": "10.3389/fddsv.2023.1326736",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

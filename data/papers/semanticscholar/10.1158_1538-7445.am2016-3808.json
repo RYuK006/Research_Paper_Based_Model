@@ -1,0 +1,29 @@
+{
+  "id": "s2:doi:10.1158/1538-7445.am2016-3808",
+  "title": "Abstract 3808: Novel compound conferring selectivity for cancer cells",
+  "abstract": "Abstract                There is a need to develop novel compounds that can effectively treat a broad range of cancers on their own, or in combination with approved therapies. As personalized medicine is developed, combinatorial approaches will become more common making it crucial to increase the repertoire of available drugs. In the past, drugs often were developed to target a biologically-relevant molecule, but structural limitations, stability and solubility issues, or lack of selectivity have hindered the clinical use of many of these drugs. Our approach was to first find a ‘high-quality’ compound that is selective for cancer cells, then characterize its mechanism of action and identify its target. High throughput screening (HTS) helped to rapidly identify a subset of compounds with selective toxicity toward MCF-7 (breast cancer) cells. Some of these compounds were further tested for their efficacy in HeLa (cervical cancer) cells, and we found one that selectively causes mitotic arrest at 250 nM in comparison to non-cancerous HFF-1 (foreskin fibroblast) cells. At 200 nM, this compound synergizes with drugs known to affect microtubule dynamics and cause mitotic arrest including Nocodazole and Paclitaxel (currently in use as an anti-cancer drug), causing them to be more effective at lower concentrations. Excitingly, this compound also provides a shielding effect for HFF-1 cells treated with Paclitaxel. To learn the mechanism of action for this compound, we performed immunofluorescence microscopy on HeLa and HFF-1 cells treated with a range of concentrations. We found that the mitotic spindle is improperly organized in HeLa cells at 250 nM, but not in HFF-1 cells. Interestingly, microtubules are completely gone in mitotic HeLa cells and are reduced in mitotic HFF-1 cells treated with &amp;gt;500 nM. Given that this compound synergizes with drugs that directly bind to tubulin subunits to modify their dynamics of assembly and disassembly, and differently affects cancerous vs. healthy cells, we hypothesize that it has a unique mechanism of action and may affect microtubule nucleation. We are continuing to characterize the compound, and will identify its molecular target. In addition, we are generating further iterations to explore the Structure-Activity Relationship, and optimize its efficacy. Our in vitro data shows that our approach has the potential to identify novel compounds with the potential for therapeutic use.                Citation Format: Dilan B. Jaunky, Pat Forgione, Alisa Piekny. Novel compound conferring selectivity for cancer cells. [abstract]. In: Proceedings of the 107th Annual Meeting of the American Association for Cancer Research; 2016 Apr 16-20; New Orleans, LA. Philadelphia (PA): AACR; Cancer Res 2016;76(14 Suppl):Abstract nr 3808.",
+  "authors": [
+    "Dilan B. Jaunky",
+    "Pat Forgione",
+    "Alisa Piekny"
+  ],
+  "year": 2016,
+  "doi": "10.1158/1538-7445.am2016-3808",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://aacrjournals.org/cancerres/article/76/14_Supplement/3808/611021/Abstract-3808-Novel-compound-conferring",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1158_1538-7445.am2016-3808.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:42:34.323245+00:00",
+  "raw_metadata": {
+    "doi": "10.1158/1538-7445.am2016-3808",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

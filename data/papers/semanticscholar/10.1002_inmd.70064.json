@@ -1,0 +1,29 @@
+{
+  "id": "s2:doi:10.1002/inmd.70064",
+  "title": "TargetGen‐RNN model discovers novel antibiotic compound targeting drug‐resistant                     <i>Staphylococcus aureus</i>",
+  "abstract": "Abstract                                        The escalating threat of antibacterial resistance demands innovative approaches for the discovery of novel antibiotics. Identifying hit and lead compounds with unique scaffolds during the early phases of drug development remains a significant challenge. Although various generative models have been proposed to create drug‐like molecules, their capacity to design wet‐lab‐validated target‐specific compounds with novel scaffolds has been scarcely validated. Herein, we propose TargetGen‐recurrent neural network (RNN), a state‐of‐the‐art deep generative learning model designed to explore chemical space and generate novel tailor‐made virtual compound libraries for specific biological targets. By leveraging a combination of transfer learning, temperature‐modulated sampling, and stringent chemical validation, TargetGen‐RNN was trained on 5.7 million drug‐like compounds from the ZINC database and fine‐tuned with 82 known                     Staphylococcus aureus                     DHFR inhibitors, yielding 28,708 structurally diverse and chemically viable novel, tailor‐made molecules. Virtual screening, including QSAR analysis, pharmacophore mapping, molecular docking, molecular dynamic simulations, and multi‐criteria decision analysis against the generated tailor‐made compound library, led to the discovery of a potent antibiotic compound (SAK‐2970) with a novel scaffold with high predicted antibiotic activity, binding affinity, and favorable ADMET profiles. SAK‐2970 demonstrated remarkable in vitro bactericidal activity against                     S. aureus                     , strong biofilm inhibition and eradication capabilities, and exceptional efficacy against ciprofloxacin resistant                     S. aureus                     . In a mouse model of drug‐resistant bacteremia, SAK‐2970 significantly reduced bacterial load and improved survival rates with minimal systemic toxicity, underscoring its biocompatibility and therapeutic potential. These findings validate SAK‐2970 as a promising candidate for developing antibiotic treatments targeting resistant bacterial infections and highlight TargetGen‐RNN's powerful capability to generate hit compounds with novel scaffolds, advancing the frontier of antibiotic discovery.",
+  "authors": [
+    "Shakeel Ahmad Khan",
+    "Adnan Shakoor",
+    "Sadia Kanwal"
+  ],
+  "year": 2025,
+  "doi": "10.1002/inmd.70064",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 2,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/inmd.70064",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1002_inmd.70064.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:38.440602+00:00",
+  "raw_metadata": {
+    "doi": "10.1002/inmd.70064",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

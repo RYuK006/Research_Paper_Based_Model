@@ -1,0 +1,31 @@
+{
+  "id": "s2:doi:10.1088/1402-4896/adc210",
+  "title": "A novel analytical approach for compound bridge-type amplifiers considering the external compound loads and cross-coupling effect",
+  "abstract": "Abstract                Multi-degree-of-freedom (DOF) precision positioning stages (PPS) based on displacement amplifiers are commonly designed and used in precision engineering applications. However, the equivalent load and cross-coupling effects in these PPS can adversely impact the kinematic performance of the displacement amplifiers, resulting in a significant reduction in positioning accuracy. To this end, a novel mathematical model has been developed based on the chain-based compliance matrix (CMM) and the beam constraint model, enabling precise calculation of the amplification ratio and input stiffness of the compound bridge-type amplifier (CBTA). Firstly, an analytical model of the CBTA with asymmetric input force characteristics has been developed based on the CMM. A comparison with existing analytical models and finite element analysis (FEA) results demonstrates that the proposed model offers higher computational accuracy than the current models. Then, the structural stiffness and cross-coupling model of the PPS were derived using the beam constraint model. To further validate the effectiveness and scalability of the proposed method, the kinematic model of the XY PPS, based on the CBTA, was investigated. Finally, the correctness of the proposed theoretical model was verified through FEA and experimental validation. Taking into account the effects of load and cross-coupling, the amplification ratio and input stiffness errors of the XY PPS were both found to be less than 9.44% and 9.52%, respectively. Therefore, the proposed analysis model provides a new perspective for the design and application of multi-DOF PPS based on displacement amplifiers.",
+  "authors": [
+    "Linkang Wang",
+    "Zhicheng Song",
+    "Bai Chen",
+    "Jingjing You",
+    "Hongtao Wu"
+  ],
+  "year": 2025,
+  "doi": "10.1088/1402-4896/adc210",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 3,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1088/1402-4896/adc210/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1088_1402-4896_adc210.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:38.324873+00:00",
+  "raw_metadata": {
+    "doi": "10.1088/1402-4896/adc210",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

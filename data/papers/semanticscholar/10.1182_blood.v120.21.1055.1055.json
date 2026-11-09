@@ -1,0 +1,35 @@
+{
+  "id": "s2:doi:10.1182/blood.v120.21.1055.1055",
+  "title": "Targeting Cereblon with the High Affinity Immunomodulatory Compound CC-220: A Novel Therapeutic Agent for B Cell Dyscrasias",
+  "abstract": "Abstract                Abstract 1055                                   Background:                   Cereblon (CRBN) is a component of the E3 ubiquitin ligase complex including CUL4A, DDB1, and ROC-1, and was found to be the molecular binding target of thalidomide (Thalomid®), lenalidomide (Revlimid®), and pomalidomide. CC-220 is a novel immunomodulatory compound developed with increased potency and is currently in development for the treatment of immune conditions. The effect of CC-220 on CRBN binding, ubiquitination, and cell proliferation was profiled.                                                   Methods:                   Binding studies to CRBN were conducted using thalidomide analog-conjugated beads in a competitive assay. Endogenous CRBN from human U266 multiple myeloma (MM) cells was measured by incubating cell extracts with varying concentrations of either CC-220 or pomalidomide as a positive control. Affinity beads coupled to a thalidomide acid analog were incubated with the U266 extracts and, after extensive washing of the beads, the bound proteins were eluted. CRBN binding to the thalidomide-coupled affinity beads was determined by quantitative CRBN immunoblot determination. CRBN ubiquitination was measured in HEK293T cells, which were transfected with an amino-terminal His-biotin-tagged CRBN construct, then preincubated with compounds for one hour followed by treatment with the MG132 proteasome inhibitor (to arrest degradation of ubiquitinated proteins). Cells were lysed and processed to measure CRBN ubiquitination by SDS-PAGE and immunoblot analysis using an anti-ubiquitin antibody. Cell proliferation studies were conducted in lenalidomide-sensitive and -refractory multiple myeloma cells. Lenalidomide-resistant or -sensitive H929 MM cell lines were treated with CC-220 for 5 days, and then cell proliferation and viability were assessed by 7-aminoactinomycin D (7-AAD) staining. T-cell costimulation was measured in purified primary human T cells stimulated using immobilized anti-CD3 antibody in cell culture for 2 days, and cytokine secretion was measured by ELISA. Immunoglobulin M and G (IgG and IgM) production was measured from normal donor peripheral blood mononuclear cells by culturing in the presence of the B cell differentiation factors recombinant human IL-2 (20 U/mL), IL-10 (50 ng/mL), IL-15 (10 ng/mL), His-tagged CD40 Ligand (50 ng/mL), polyHistidine mouse IgG1 antibody (5 μg/mL), and ODN 2006-Human TLR9 ligand (10 μg/mL) for 4 days, followed by IL-2, IL-10, IL-15, and IL-6 (50 ng/mL) for an additional 3 days. IgM and IgG were measured by ELISA.                                                   Results:                   In the competitive CRBN binding studies, preincubation with pomalidomide at a concentration of 3 μM resulted in approximately 50% less CRBN bound to the affinity beads, while CC-220 at a concentration of 0.1 μM resulted in similar CRBN binding. CRBN ubiquitination studies in the transfected HEK293T cells resulted in the following potencies: CC-220 IC50 = 0.19 μM; lenalidomide IC50 = 12.9 μM; and pomalidomide IC50 = 21.6 μM. The IC50 value for inhibition of proliferation by CC-220 shifted from 0.01 μM in the parental H929 cell line and 0.04 μM in the DMSO-treated subclone to 0.51–1.58 μM in the lenalidomide-resistant subclones. A 50% decrease in cell cycle (S-phase) was evident after 24 hours of treatment of H929 cells with CC-220. At 48 hours, CC-220 decreased expression of survivin and retinoblastoma protein (pRB) and increased expression of the cyclin-dependent kinase inhibitor p27. CC-220 costimulated IL-2 production by T cells with an EC50 of approximately 0.29 nM, compared with 10 nM for pomalidomide. CC-220 inhibited IgM and IgG production with an IC50 of 0.35 and 2.1 nM, respectively, compared to 17 nM and 63 nM for pomalidomide.                                                   Conclusions:                   The results indicate that CC-220 binds to CRBN with approximately 30-fold higher affinity than pomalidomide, and inhibits CRBN ubiquitination with approximately 110-fold greater potency than pomalidomide in this system. CC-220 is approximately 34-fold more potent than pomalidomide for costimulating IL-2 production by T cells, and is 30- to 48-fold more potent than pomalidomide for inhibiting immunoglobulin production. In summary, CC-220 is a novel high affinity CRBN ligand with cellular potencies 1 or 2 orders of magnitude greater than that of pomalidomide, and is currently in development for the treatment of immune conditions, including those involving B cell dyscrasias.                                                   Disclosures:                   Schafer: Celgene: Employment, Equity Ownership. Rychak:Celgene: Employment, Equity Ownership. Mendy:Celgene Corp.: Employment, Equity Ownership. Parton:Celgene Corp: Employment, Equity Ownership. Capone:Celgene Corp: Employment, Equity Ownership. Lopez-Girona:Celgene Corp: Employment, Equity Ownership. Daniel:Celgene Corporation: Employment. Chopra:Celgene Corp: Employment, Equity Ownership.",
+  "authors": [
+    "Peter H Schafer",
+    "Emily Rychak",
+    "Derek Mendy",
+    "Anastasia Parton",
+    "Lori Capone",
+    "Antonia Lopez-Girona",
+    "Jilly F Evans",
+    "Tom O Daniel",
+    "Rajesh Chopra"
+  ],
+  "year": 2012,
+  "doi": "10.1182/blood.v120.21.1055.1055",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 1,
+  "open_access_pdf_url": "https://ashpublications.org/blood/article/120/21/1055/89326/Targeting-Cereblon-with-the-High-Affinity",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1182_blood.v120.21.1055.1055.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:06.054343+00:00",
+  "raw_metadata": {
+    "doi": "10.1182/blood.v120.21.1055.1055",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "s2:doi:10.1002/ente.202300835",
+  "title": "A Novel Bilevel Electromechanical Compound Braking Coordinated Control Strategy for Electric Vehicles",
+  "abstract": "Due to the difference of response time and braking type between the motor and the pneumatic braking system, it is still difficult to coordinate the motor braking and the pneumatic braking to ensure the vehicle stability and maximal energy regeneration. To address this challenge, a bilevel electromechanical compound braking coordinated control strategy for electric vehicles is proposed considering general and emergency braking state. First, in general braking state, considering the delay characteristics of the pneumatic braking system, a Lagrange quadratic interpolation prediction algorithm is designed to start the pneumatic braking system in advance. Second, in emergency braking state, a model predictive control method is proposed to optimize the braking torque distribution while controlling the wheel slip ratio in a stable range. In order to obtain the optimal control effect, a modified adaptive cuckoo search algorithm is put forward, in which three adaptive impact factors are added. Finally, the proposed control strategy is verified under three road conditions and compared with the conventional control strategy. The results demonstrate significant improvements under gravel road condition, including a 7% increase in energy recovery efficiency, a 92.1% enhancement in the following effect of pneumatic braking torque, and a 43.5% reduction in wheel fluctuation.",
+  "authors": [
+    "Bingquan Zhao",
+    "Hongcai Li",
+    "Chao Yang",
+    "Weida Wang",
+    "Tonglin Sun",
+    "Ruihu Chen"
+  ],
+  "year": 2024,
+  "doi": "10.1002/ente.202300835",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 4,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/ente.202300835",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1002_ente.202300835.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:11.527915+00:00",
+  "raw_metadata": {
+    "doi": "10.1002/ente.202300835",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

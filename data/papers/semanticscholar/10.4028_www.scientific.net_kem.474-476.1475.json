@@ -1,0 +1,29 @@
+{
+  "id": "s2:doi:10.4028/www.scientific.net/kem.474-476.1475",
+  "title": "A Novel Encryption Scheme for Digital Images Based on Compound Chaos Algorithm",
+  "abstract": "A compound Chaos encryption algorithm for digital images is designed in this paper. Lorenz Chaotic system and Logistics map are linked in cascade to generate Chaos sequences. Then the permutation matrix is constructed to encrypt the digital image. The new algorithm can expand the key space and improve anti-aggressive ability. Matlab7.0 is used for simulation testing of the image encryption. Experimental results show that the algorithm is feasible and it can satisfy the security requirement for image transmission and storage. The compound Chaos algorithm can be also used for color digital image encryption.",
+  "authors": [
+    "Feng Ying Han",
+    "Cong Xu Zhu",
+    "Chang Sheng Liu"
+  ],
+  "year": 2011,
+  "doi": "10.4028/www.scientific.net/kem.474-476.1475",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 1,
+  "open_access_pdf_url": "https://www.scientific.net/KEM.474-476.1475.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.4028_www.scientific.net_kem.474-476.1475.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:36.171010+00:00",
+  "raw_metadata": {
+    "doi": "10.4028/www.scientific.net/kem.474-476.1475",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

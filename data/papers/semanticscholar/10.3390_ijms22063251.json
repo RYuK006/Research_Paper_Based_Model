@@ -1,0 +1,31 @@
+{
+  "id": "s2:doi:10.3390/ijms22063251",
+  "title": "Untargeted In Silico Compound Classification—A Novel Metabolomics Method to Assess the Chemodiversity in Bryophytes",
+  "abstract": "In plant ecology, biochemical analyses of bryophytes and vascular plants are often conducted on dried herbarium specimen as species typically grow in distant and inaccessible locations. Here, we present an automated in silico compound classification framework to annotate metabolites using an untargeted data independent acquisition (DIA)–LC/MS–QToF-sequential windowed acquisition of all theoretical fragment ion mass spectra (SWATH) ecometabolomics analytical method. We perform a comparative investigation of the chemical diversity at the global level and the composition of metabolite families in ten different species of bryophytes using fresh samples collected on-site and dried specimen stored in a herbarium for half a year. Shannon and Pielou’s diversity indices, hierarchical clustering analysis (HCA), sparse partial least squares discriminant analysis (sPLS-DA), distance-based redundancy analysis (dbRDA), ANOVA with post-hoc Tukey honestly significant difference (HSD) test, and the Fisher’s exact test were used to determine differences in the richness and composition of metabolite families, with regard to herbarium conditions, ecological characteristics, and species. We functionally annotated metabolite families to biochemical processes related to the structural integrity of membranes and cell walls (proto-lignin, glycerophospholipids, carbohydrates), chemical defense (polyphenols, steroids), reactive oxygen species (ROS) protection (alkaloids, amino acids, flavonoids), nutrition (nitrogen- and phosphate-containing glycerophospholipids), and photosynthesis. Changes in the composition of metabolite families also explained variance related to ecological functioning like physiological adaptations of bryophytes to dry environments (proteins, peptides, flavonoids, terpenes), light availability (flavonoids, terpenes, carbohydrates), temperature (flavonoids), and biotic interactions (steroids, terpenes). The results from this study allow to construct chemical traits that can be attributed to biogeochemistry, habitat conditions, environmental changes and biotic interactions. Our classification framework accelerates the complex annotation process in metabolomics and can be used to simplify biochemical patterns. We show that compound classification is a powerful tool that allows to explore relationships in both molecular biology by “zooming in” and in ecology by “zooming out”. The insights revealed by our framework allow to construct new research hypotheses and to enable detailed follow-up studies.",
+  "authors": [
+    "Kristian Peters",
+    "Gerd Balcke",
+    "Niklas Kleinenkuhnen",
+    "Hendrik Treutler",
+    "Steffen Neumann"
+  ],
+  "year": 2021,
+  "doi": "10.3390/ijms22063251",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 19,
+  "open_access_pdf_url": "https://www.mdpi.com/1422-0067/22/6/3251/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.3390_ijms22063251.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:53.810996+00:00",
+  "raw_metadata": {
+    "doi": "10.3390/ijms22063251",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

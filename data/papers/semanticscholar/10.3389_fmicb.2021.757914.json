@@ -1,0 +1,34 @@
+{
+  "id": "s2:doi:10.3389/fmicb.2021.757914",
+  "title": "Screening and Identification of a Novel Anti-tuberculosis Compound That Targets Deoxyuridine 5′-Triphosphate Nucleotidohydrolase",
+  "abstract": "Tuberculosis (TB) is still a threat to humans worldwide. The rise of drug-resistant TB strains has escalated the need for developing effective anti-TB agents. Deoxyuridine 5′-triphosphate nucleotidohydrolase (dUTPase) is essential for thymidylate biosynthesis to maintain the DNA integrity. In Mycobacterium tuberculosis, dUTPase provides the sole source for thymidylate biosynthesis, which also has the specific five-residue loop and the binding pockets absent in human dUTPase. Therefore, dUTPase has been regarded as a promising anti-TB drug target. Herein, we used a luminescence-based dUTPase assay to search for the inhibitors target M. tuberculosis dUTPase (Mt-dUTPase) and identified compound F0414 as a potent Mt-dUTPase inhibitor with an IC50 of 0.80 ± 0.09 μM. F0414 exhibited anti-TB activity with low cytotoxicity. Molecular docking model and site-directed mutation experiments revealed that P79 was the key residue in the interaction of Mt-dUTPase and F0414. Moreover, F0414 was shown to have stronger binding with Mt-dUTPase than with Mt-P79A-dUTPase by surface plasmon resonance (SPR) detection. Interestingly, F0414 exhibited insensitivity and weak directly binding on human dUTPase compared with that on Mt-dUTPase. All the results highlight that F0414 is the first compound reported to have anti-TB activity by inhibiting Mt-dUTPase, which indicates the potential application in anti-TB therapy.",
+  "authors": [
+    "Yu Zhang",
+    "Hongjuan Zhang",
+    "Ying Chen",
+    "Luyao Qiao",
+    "Yanxing Han",
+    "Yuan Lin",
+    "Shuyi Si",
+    "Jian-Dong Jiang"
+  ],
+  "year": 2021,
+  "doi": "10.3389/fmicb.2021.757914",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 4,
+  "open_access_pdf_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2021.757914/full",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.3389_fmicb.2021.757914.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:53.773162+00:00",
+  "raw_metadata": {
+    "doi": "10.3389/fmicb.2021.757914",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

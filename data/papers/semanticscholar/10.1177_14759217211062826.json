@@ -1,0 +1,31 @@
+{
+  "id": "s2:doi:10.1177/14759217211062826",
+  "title": "A novel strategy using optimized MOMED and B-spline based envelope-derivative operator for compound fault detection of the rolling bearing",
+  "abstract": "The bearing regularly suffers from compound faults in real-world working conditions. In comparison to the single-fault feature extraction, the compound fault diagnosis is more difficult to achieve. This paper suggests an alternative signal processing strategy using the Multipoint Optimal Minimum Entropy Deconvolution method (MOMED) and B-spline based envelope-derivative operator (EDO) tools. As an upgraded version of the Minimum Entropy Deconvolution tool, the MOMEDA technique has been extensively available for bearing and gear fault detection. However, this approach results in an open problem related to how one can choose an appropriate filter size. Considering this problem, an optimized MOMED based on Salp Swarm Algorithm is proposed. Besides, a novel energy operator method called B-spline based envelope-derivative operator (B-spline EDO) is proposed to detect the corresponding fault characteristics from the two separated mono-component signals produced by the optimized MOMED. The new B-spline EDO method accomplishes higher fault detection performance in a noisy environment. Finally, the experimental results displayed that the novel compound fault detection approach can effectively identify the compound fault characteristics.",
+  "authors": [
+    "Yuanbo Xu",
+    "Yongbo Li",
+    "Youming Wang",
+    "Yu Wei",
+    "Zhaoxing Li"
+  ],
+  "year": 2022,
+  "doi": "10.1177/14759217211062826",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 28,
+  "open_access_pdf_url": "https://journals.sagepub.com/doi/pdf/10.1177/14759217211062826",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1177_14759217211062826.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:24.409387+00:00",
+  "raw_metadata": {
+    "doi": "10.1177/14759217211062826",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

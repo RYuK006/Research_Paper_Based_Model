@@ -1,0 +1,27 @@
+{
+  "id": "s2:doi:10.3390/chemistry8030037",
+  "title": "In Silico Identification of Hit Compound to Counteract A-Series Nerve Agents Poisoning",
+  "abstract": "Organophosphorus (OP) nerve agents inhibit acetylcholinesterase (AChE) and butyrylcholinesterase (BChE) by phosphylating the catalytic serine. Oxime reactivators can restore enzymatic activity by a nucleophilic attack of the oximate anion on the phosphorus center of the enzyme–OP conjugate; however, clinically used oximes show agent- and enzyme-dependent performance and are particularly challenged by A-series compounds. Here, an in silico strategy is presented to identify candidate antidotes for OP poisoning, including A-series agents. Pharmacophore models are generated from benchmark/template oximes. Pharmacophore-based virtual screening is used to retrieve hit-like scaffolds from the available chemical space, after which selected hits are converted into oxime analogs. Template oximes and newly designed oximes are then docked into the active site of AChE or BChE inhibited by specific nerve agents. The predicted reactivation potential is assessed using mechanistically motivated geometric criteria derived from the accepted reactivation hypothesis, including the distance between the oximate oxygen and the phosphyl phosphorus and the attack angle, relative to the catalytic serine Oγ. This workflow enables a controlled, pairwise comparison of new oximes against their corresponding template oximes for each enzyme–agent combination, providing a rational basis for prioritizing candidates for synthesis and experimental validation. Using the described workflow, we identified a hit compound with the potential to act as an antidote against A-series nerve agent A-230 poisoning.",
+  "authors": [
+    "Nikola Maraković"
+  ],
+  "year": 2026,
+  "doi": "10.3390/chemistry8030037",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 1,
+  "open_access_pdf_url": "https://www.mdpi.com/2624-8549/8/3/37/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.3390_chemistry8030037.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:42:34.421581+00:00",
+  "raw_metadata": {
+    "doi": "10.3390/chemistry8030037",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "s2:doi:10.7454/ijmcb.v2i1.1023",
+  "title": "In silico Prediction of Sodium-Glucose Co-Transporter-2 (SGLT2) Inhibition Activity by Allium Fistulosum Compound Based on SkelSpheres Molecular Descriptor",
+  "abstract": "The Sodium-Glucose co-transporter-2 (SGLT2) inhibitor represents a novel agent for the treatment of type 2 diabetes. Drugs of this class function by inhibiting glucose reabsorption in the kidneys, thereby controlling blood glucose levels. It is known that SGLT2 inhibitors activate the AMPK signaling pathway by increasing the expression and activity of AMP-activated protein kinase (AMPK). In vivo tests have demonstrated that ethanolic and aqueous extracts of Welsh onion leaves (Allium fistulosum L) can reduce body weight, liver weight, adipocyte size, and enhance AMP-activated protein kinase (AMPK) expression. In this study, the inhibitory activity (IC50) of compounds within Allium fistulosum against SGLT2 was predicted using the Support Vector Regression (SVR) predictive model and the SkelSpheres descriptor. The results of the predicted IC50 measurements for compounds present in the 70% ethanol extract of Allium fistulosum in silico indicate that 4 tyramine derivatives and 1 decursidate compound exhibit Excellent or Potent inhibitor activity criteria (IC50 &lt; 1 µM). Among these, the four tyramine group compounds are the isomers N-trans-feruloyltyramine and N-cis-feruloyltyramine, as well as the isomers N-trans-feruloyl-3'-methoxytyramine and N-cis-feruloyl-3'-methoxytyramine. The findings of this study suggest that the ability of Allium fistulosum to enhance AMPK expression is possibly achieved through the inhibition of SGLT2.",
+  "authors": [],
+  "year": 2023,
+  "doi": "10.7454/ijmcb.v2i1.1023",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 1,
+  "open_access_pdf_url": "https://scholarhub.ui.ac.id/cgi/viewcontent.cgi?article=1023&context=ijmcb",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.7454_ijmcb.v2i1.1023.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:47.170926+00:00",
+  "raw_metadata": {
+    "doi": "10.7454/ijmcb.v2i1.1023",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

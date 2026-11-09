@@ -1,0 +1,31 @@
+{
+  "id": "s2:doi:10.1002/mrc.2347",
+  "title": "Automated compound verification using 2D‐NMR HSQC data in an open‐access environment",
+  "abstract": "AbstractSince the introduction of NMR prediction software, medicinal chemists have imagined submitting their compounds to corporate compound registration systems that would ultimately display a simplified pass/fail result. We initially implemented such a system based on HPLC and liquid chromatography mass spectrometry (LCMS) data that is embedded within our industry standard sample submission and registration process. By using gradient‐heteronuclear single quantum coherence (HSQC) experiments, we have extended this concept to NMR data through a comparison of experimentally acquired data against predicted 1H and 13C NMR data. Integration of our compound registration system with our analytical instruments now provides our chemists unattended and automated NMR verification for collections of submitted compounds. The benefits achieved from automated processing and interpretation of results produced enhanced confidence in our compound library and released the chemists from the tedium of manipulating large amounts of data. This allows scientists to focus more of their attention to the drug discovery process. Copyright © 2008 John Wiley &amp; Sons, Ltd.",
+  "authors": [
+    "Philip Keyes",
+    "Gonzalo Hernandez",
+    "Giovanni Cianchetta",
+    "James Robinson",
+    "Brent Lefebvre"
+  ],
+  "year": 2008,
+  "doi": "10.1002/mrc.2347",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 14,
+  "open_access_pdf_url": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fmrc.2347",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1002_mrc.2347.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:41.292999+00:00",
+  "raw_metadata": {
+    "doi": "10.1002/mrc.2347",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

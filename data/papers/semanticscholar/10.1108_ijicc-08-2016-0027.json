@@ -1,0 +1,28 @@
+{
+  "id": "s2:doi:10.1108/ijicc-08-2016-0027",
+  "title": "A novel compound data classification method and its application in fault diagnosis of rolling bearings",
+  "abstract": "Purpose The purpose of this paper is to provide a fault diagnosis method for rolling bearings. Rolling bearings are widely used in industrial appliances, and their fault diagnosis is of great importance and has drawn more and more attention. Based on the common failure mechanism of failure modes of rolling bearings, this paper proposes a novel compound data classification method based on the discrete wavelet transform and the support vector machine (SVM) and applies it in the fault diagnosis of rolling bearings.   Design/methodology/approach Vibration signal contains large quantity of information of bearing status and this paper uses various types of wavelet base functions to perform discrete wavelet transform of vibration and denoise. Feature vectors are constructed based on several time-domain indices of the denoised signal. SVM is then used to perform classification and fault diagnosis. Then the optimal wavelet base function is determined based on the diagnosis accuracy.   Findings Experiments of fault diagnosis of rolling bearings are carried out and wavelet functions in several wavelet families were tested. The results show that the SVM classifier with the db4 wavelet base function in the db wavelet family has the best fault diagnosis accuracy.   Originality/value This method provides a practical candidate for the fault diagnosis of rolling bearings in the industrial applications.",
+  "authors": [
+    "Anxin Sun",
+    "Ying Che"
+  ],
+  "year": 2017,
+  "doi": "10.1108/ijicc-08-2016-0027",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 6,
+  "open_access_pdf_url": "https://www.emerald.com/insight/content/doi/10.1108/IJICC-08-2016-0027/full/xml",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1108_ijicc-08-2016-0027.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:45.283146+00:00",
+  "raw_metadata": {
+    "doi": "10.1108/ijicc-08-2016-0027",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

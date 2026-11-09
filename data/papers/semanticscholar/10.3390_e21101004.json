@@ -1,0 +1,29 @@
+{
+  "id": "s2:doi:10.3390/e21101004",
+  "title": "A Novel S-Box Design Algorithm Based on a New Compound Chaotic System",
+  "abstract": "Substitution-boxes (S-Boxes) are important non-linear components in block cryptosystem, which play an important role in the security of cryptosystems. Constructing S-Boxes with a strong cryptographic feature is an important step in designing block cipher systems. In this paper, a novel algorithm for constructing S-Boxes based on a new compound chaotic system is presented. Firstly, the new chaotic system, tent–logistic system, is proposed, which has better chaotic performance and wider chaotic range than the tent and logistic system, and can not only increase the randomness of the chaotic sequences but also expand the key space of cryptosystems. Secondly, a novel linear mapping is employed to construct the initial S-Box. Then, the permutation operation on the initial S-Box is performed by using chaotic sequence generated with the tent–logistic system, which improves the cryptographic features of the S-Box. The idea behind the proposed work is to make supplementary safe S-box. Detail tests for cryptographic strength of the proposed S-Box are performed by using different standard benchmarks. The test results and performance analysis show that our proposed S-Box has very smaller values of linear probability (LP) and differential probability (DP) and a satisfactory average value of nonlinearity compared with other S-Boxes, showing its excellent application potential in block cipher system.",
+  "authors": [
+    "Qing Lu",
+    "Congxu Zhu",
+    "Guojun Wang"
+  ],
+  "year": 2019,
+  "doi": "10.3390/e21101004",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 86,
+  "open_access_pdf_url": "https://www.mdpi.com/1099-4300/21/10/1004/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.3390_e21101004.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:09.679604+00:00",
+  "raw_metadata": {
+    "doi": "10.3390/e21101004",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

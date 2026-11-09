@@ -1,0 +1,29 @@
+{
+  "id": "s2:doi:10.1093/clinchem/hvaf086.609",
+  "title": "B-220 A Novel Urinary Biomarker Panel for Detecting Sarcopenia",
+  "abstract": "Abstract                                   Background                   Sarcopenia, characterized by the progressive loss of muscle mass and strength, significantly increases the risk of mobility impairments, frailty, and injury in aging populations. As a result, seniors face a heightened likelihood of falls, hospitalizations, and reduced independence, severely impacting their quality of life and longevity. Despite its serious implications, sarcopenia remains challenging to diagnose effectively. Current methods, such as dual-energy x-ray absorptiometry (DEXA) and physical performance tests, are often inaccessible due to their cost and specialized nature, limiting the ability to screen and detect sarcopenia in its early stages.                   Early detection of sarcopenia is crucial for implementing preventative measures to slow down or reverse muscle deterioration. However, there is a clear lack of affordable, scalable, and clinically viable diagnostic tools to achieve this. Addressing this gap could significantly improve outcomes for older adults by enabling earlier intervention strategies.                                                   Methods                   Adults aged 50 to 70 years (n=60) underwent physical assessments, including the Short Physical Performance Battery (SPPB), DEXA scans for muscle mass evaluation, and the International Physical Activity Questionnaire (IPAQ). Urine samples were collected in a fasted state, processed, and stored at -80°C until analysis. Metabolomic profiling was performed using liquid chromatography-mass spectrometry (LC-MS) to quantify five key urinary metabolites: glutamate, xanthine, taurine, succinate, and carnitine. These biomarkers were analyzed for correlations with DEXA and physical performance measures. Statistical methods included principal component analysis (PCA) to explore metabolic patterns and receiver operating characteristic (ROC) curve analysis to evaluate the predictive accuracy of individual metabolites and the combined biomarker panel for sarcopenia diagnosis.                                                   Results                   PCA revealed distinct metabolic profiles between sarcopenia and non-sarcopenia individuals, with clear clustering based on activity levels (IPAQ) and sarcopenic status. Individual urinary metabolites exhibited modest predictive power (area under the ROC curve [AUC]: 0.52–0.65), whereas the combined biomarker panel demonstrated significantly improved diagnostic performance. The panel yielded an AUC of 0.91 when compared to DXA-based classifications, indicating excellent discrimination between sarcopenic and non-sarcopenic individuals, and an AUC of 0.89 relative to physical performance metrics. Notably, combining DXA and physical assessments resulted in a slightly lower AUC (0.82), suggesting the urinary biomarker panel may provide more consistent diagnostic accuracy, especially in borderline cases.                                                   Conclusion                   The identified urinary biomarker panel presents a practical, non-invasive, and cost-effective tool for routine sarcopenia screening and ongoing muscle health monitoring in aging populations. By providing strong predictive value comparable to, and in some cases surpassing, established diagnostic methods such as DEXA and physical performance tests, this panel enables earlier detection and supports personalized intervention strategies for muscle-wasting conditions. The robust correlation between the biomarker panel and traditional diagnostic approaches validates its potential to predict sarcopenia, improve patient outcomes, and reduce the healthcare burdens associated with age-related muscle decline. Integration of this tool into standard clinical practice could facilitate proactive sarcopenia management, offering a scalable solution for primary care settings and improving the quality of life for at-risk individuals.",
+  "authors": [
+    "Hirad Feridooni",
+    "Rafaela Andrade",
+    "John Frampton"
+  ],
+  "year": 2025,
+  "doi": "10.1093/clinchem/hvaf086.609",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://academic.oup.com/clinchem/article-pdf/71/Supplement_1/hvaf086.609/64461992/hvaf086.609.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1093_clinchem_hvaf086.609.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:20.279326+00:00",
+  "raw_metadata": {
+    "doi": "10.1093/clinchem/hvaf086.609",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

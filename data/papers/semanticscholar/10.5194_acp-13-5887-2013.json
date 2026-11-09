@@ -1,0 +1,31 @@
+{
+  "id": "s2:doi:10.5194/acp-13-5887-2013",
+  "title": "Estimation of volatile organic compound emissions for Europe using data assimilation",
+  "abstract": "Abstract. The emissions of non-methane volatile organic compounds (VOCs) over western Europe for the year 2005 are estimated via inverse modelling by assimilation of in situ observations of concentration and then subsequently compared to a standard emission inventory. The study focuses on 15 VOC species: five aromatics, six alkanes, two alkenes, one alkyne and one biogenic diene. The inversion relies on a validated fast adjoint of the chemical transport model used to simulate the fate and transport of these VOCs. The assimilated ground-based measurements over Europe are provided by the European Monitoring and Evaluation Programme (EMEP) network. The background emission errors and the prior observational errors are estimated by maximum-likelihood approaches. The positivity assumption on the VOC emission fluxes is pivotal for a successful inversion, and this maximum-likelihood approach consistently accounts for the positivity of the fluxes. For most species, the retrieved emissions lead to a significant reduction of the bias, which underlines the misfit between the standard inventories and the observed concentrations. The results are validated through a forecast test and a cross-validation test. An estimation of the posterior uncertainty is also provided. It is shown that the statistically consistent non-Gaussian approach based on a reliable estimation of the errors offers the best performance. The efficiency in correcting the inventory depends on the lifetime of the VOCs and the accuracy of the boundary conditions. In particular, it is shown that the use of in situ observations using a sparse monitoring network to estimate emissions of isoprene is inadequate because its short chemical lifetime significantly limits the spatial radius of influence of the monitoring data. For species with a longer lifetime (a few days), successful, albeit partial, emission corrections can reach regions hundreds of kilometres away from the stations. Domain-wide corrections of the emission inventories of some VOCs are significant, with underestimations of the order of a factor of 2 for propane, ethane, ethylene and acetylene.",
+  "authors": [
+    "M. R. Koohkan",
+    "M. Bocquet",
+    "Y. Roustan",
+    "Y. Kim",
+    "C. Seigneur"
+  ],
+  "year": 2013,
+  "doi": "10.5194/acp-13-5887-2013",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 27,
+  "open_access_pdf_url": "https://acp.copernicus.org/articles/13/5887/2013/acp-13-5887-2013.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.5194_acp-13-5887-2013.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:50.110998+00:00",
+  "raw_metadata": {
+    "doi": "10.5194/acp-13-5887-2013",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

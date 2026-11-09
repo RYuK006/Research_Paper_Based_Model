@@ -1,0 +1,33 @@
+{
+  "id": "s2:doi:10.1158/1538-7445.am2020-4006",
+  "title": "Abstract 4006: High-Resolution Limited Proteolysis (HR-LIP), a novel approach for target validation and lead compound optimization",
+  "abstract": "Abstract                Background                A central focus of preclinical drug discovery is the thorough characterization of lead compounds. This is a key step that helps ensure that drug candidates are worthy of clinical testing. In addition to phenotypic characterization, quantitative profiling of drug-protein interactions is a major hurdle during preclinical lead optimization. Traditionally, the gold standard technique informing structure-based drug design has been x-ray crystallography, despite the fact that under crystallization conditions protein conformation is frozen and aspects of protein structural transitions are neglected by this approach. More recently, hydrogen-deuterium exchange (HDX) has emerged as an alternative tool to profile ligand-protein interactions. While correlation of HDX-profiles with functional readouts provides valuable insights into structure-activity relations (SAR), the method itself can be laborious with extensive optimization required to generate high quality data. To address some of these shortcomings, we developed a high-throughput approach based on limited proteolysis (LiP) and next-generation quantitative mass spectrometry that enables the dissection of drug-protein interactions at peptide-level resolution.                Methods                To simulate the complex protein mixture obtained from cell lysis, purified recombinant proteins were spiked into a cell lysate background. Next, the mixtures were incubated with the compounds of interest at increasing concentrations. The samples were subjected to limited digestion with proteinase K and subsequently processed to peptides with trypsin for LC-DIA (data independent acquisition)-MS analysis. MS data were analyzed using a DirectDIA-workflow in Spectronaut Pulsar X.                Results                High-Resolution Limited Proteolysis (HR-LiP) was established using calmodulin and its robust interactions with Ca2+ ions and CAMKII peptide as a model system. From here, we expanded the technique to small molecule-protein interactions of established, druggable protein targets spanning several protein classes. Herein we demonstrate that using HR-LiP we are able to identify binding sites of various compound classes on their target proteins including well characterized small molecules such as the BRD4 inhibitor JQ1. HR-LiP data are in good accordance with orthogonal HDX-MS, NMR and X-ray studies.                Conclusions                We demonstrate that HR-LiP can be used to dissect small molecule-protein binding characteristics with a resolution of 5-10 amino acids. Quantitative properties of the binding events are accurately recapitulated in dosage series and can therefore be deployed to rank and compare different compounds and compound classes. The ability to deal with complex backgrounds and unpurified proteins enables its application on difficult-to-purify or unstable proteins, and potentially multi-protein complexes. We envision the application of HR-LiP as a routine approach for target validation and lead optimization in small molecule drug discovery pipelines.                Citation Format: Yuehan Feng, Nigel Beaton, Jagat Adhikari, Roland Bruderer, Ron Tomlinson, Ivan Cornella-Taracido, Lukas Reiter. High-Resolution Limited Proteolysis (HR-LIP), a novel approach for target validation and lead compound optimization [abstract]. In: Proceedings of the Annual Meeting of the American Association for Cancer Research 2020; 2020 Apr 27-28 and Jun 22-24. Philadelphia (PA): AACR; Cancer Res 2020;80(16 Suppl):Abstract nr 4006.",
+  "authors": [
+    "Yuehan Feng",
+    "Nigel Beaton",
+    "Jagat Adhikari",
+    "Roland Bruderer",
+    "Ron Tomlinson",
+    "Ivan Cornella-Taracido",
+    "Lukas Reiter"
+  ],
+  "year": 2020,
+  "doi": "10.1158/1538-7445.am2020-4006",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://aacrjournals.org/cancerres/article/80/16_Supplement/4006/643099/Abstract-4006-High-Resolution-Limited-Proteolysis",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1158_1538-7445.am2020-4006.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:50.196187+00:00",
+  "raw_metadata": {
+    "doi": "10.1158/1538-7445.am2020-4006",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

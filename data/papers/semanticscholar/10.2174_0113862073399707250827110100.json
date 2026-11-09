@@ -1,0 +1,32 @@
+{
+  "id": "s2:doi:10.2174/0113862073399707250827110100",
+  "title": "Exploring the Protective Effect and Potential Mechanism of Acutumidine on Myocardial Ischemia based on “Compound-Target-Pathway” Network",
+  "abstract": "Introduction:                     Menispermi Rhizoma is a traditional Chinese medicine with significant Anti-Myocardial Ischemia (MI) effects. Acutumidine is a major alkaloid component of Menispermi Rhizoma. However, the effectiveness and potential mechanism of acutumidine in treating MI have been rarely studied. This research aims to explore the effect and mechanism of acutumidine on MI.                                                           Methods:                     The function and mechanism of acutumidine in ameliorating MI were investigated via a comprehensive strategy of experimental evaluation, network pharmacology, and molecular docking. Firstly, the oxygen glucose deprivation (OGD) model of H9c2 cardiomyocytes was established to confirm the effects of acutumidine on MI. Then, network pharmacology was used to predict the potential targets and mechanisms of acutumidine in MI. The intersection targets between acutumidine and MI were acquired and used to construct a protein-protein interaction network. GO and KEGG enrichment analyses were performed using the Metascape database to reveal the probable mechanism of acutumidine on MI. Finally, the key potential targets of acutumidine were validated by molecular docking.                                                           results:                     Network pharmacology showed that the protective effect of acutumidine on MI was related to PI3K/AKT, HIF-1, and Ras signaling pathways. Molecular docking studies further showed that MAPK1, ESR1, EGFR, IGF1, and CASP3 are the core targets of acutumidine in treating MI. The cell experiment results showed that acutumidine could protect H9c2 cells against OGD injury by increasing the levels of SOD and GSH, and decreasing the release of LDH, CK and MDA significantly. The apoptosis rate of OGD H9c2 cells were reduced.                                                           Results:                     Cell experiments showed that acutumidine protected H9c2 cells against OGD injury by increasing SOD and GSH levels, decreasing LDH, CK, and MDA levels, and reducing apoptosis rates. Network pharmacology showed that the protective effect of acutumidine on MI was related to PI3K/AKT, HIF-1, and Ras signaling pathways. Molecular docking studies further showed that MAPK1, ESR1, EGFR, IGF1, and CASP3 are the core targets of acutumidine in treating MI.                                                           Discussions:                     All research results suggested that acutumidine could inhibit oxidative stress and cell apoptosis.                                                           Conclusions:                     Acutumidine exhibits significant effects on MI, exerting pharmacological effects through multiple targets and pathways.",
+  "authors": [
+    "Jia Shao",
+    "Rongrong Zheng",
+    "Meng Liu",
+    "Yingying Yu",
+    "Ling Luo",
+    "Jinxia Wei"
+  ],
+  "year": 2026,
+  "doi": "10.2174/0113862073399707250827110100",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 1,
+  "open_access_pdf_url": "https://www.eurekaselect.com/article/download?doi=10.2174/0113862073399707250827110100",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.2174_0113862073399707250827110100.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:07.176563+00:00",
+  "raw_metadata": {
+    "doi": "10.2174/0113862073399707250827110100",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

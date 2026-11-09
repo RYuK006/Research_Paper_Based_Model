@@ -1,0 +1,30 @@
+{
+  "id": "s2:doi:10.2174/0115733947335634241007045749",
+  "title": "Molecular Docking to Predict a Novel Bioactive Compound as an Inhibitor of Beta Catenin in Oral Squamous Cell Carcinoma",
+  "abstract": "Background:                     Efforts aimed at enhancing patient survival have focused on early detection and diagnosis, followed by prompt treatment of potentially malignant disorders, aiming to halt their advancement into oral cancer. Recent research has shed light on the pivotal role of the Wnt/B-catenin signaling pathway in the pathogenesis of potentially malignant oral conditions. This pathway undergoes a progressive activation process across various degrees of epithelial dysplasia, including mild, moderate, and severe dysplasia. Beta-catenin (B-catenin) triggers the activation of genes associated with crucial cellular processes, which include cell growth, viability, differentiation, and migration.                                                           Aims:                     In the present study, we aimed to design a novel drug with 3 bioactive compounds through insilico analysis, assess its efficacy against B-catenin, and develop a new pharmacophore with an emphasis on B-catenin inhibition.                                                           Materials and Methods:                     Based on prior literature, three molecules possessing potent beta-cateninblocking properties were selected, namely rosmarinic acid, zosterin, and stigmasterol. To evaluate their binding affinities, molecular docking studies were conducted using the Lamarckian Genetic Algorithm implemented in AutoDock Tools 1.5.7. Initially, AutoGrid was employed to construct a grid box for docking purposes. The estimated binding poses of each compound were subjected to clustering analysis. The interactions between the compounds and beta-catenin were visualized and explored using PyMOL software.                                                           Results:                     Stigmasterol displayed the most substantial binding energy with a value of -3.86 kcal/mol, followed by rosmarinic acid and zosterin.                                                           Conclusion:                     Bioactive components can be used for beta-catenin pathway blocking. Future research should be carried out to assess these substances in more clinically relevant cancer models.",
+  "authors": [
+    "Neha Kannan",
+    "Karthikeyan Ramalingam",
+    "Pratibha Ramani",
+    "Dilipan E"
+  ],
+  "year": 2025,
+  "doi": "10.2174/0115733947335634241007045749",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 1,
+  "open_access_pdf_url": "https://www.eurekaselect.com/article/download?doi=10.2174/0115733947335634241007045749",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.2174_0115733947335634241007045749.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:45.272705+00:00",
+  "raw_metadata": {
+    "doi": "10.2174/0115733947335634241007045749",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

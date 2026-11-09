@@ -1,0 +1,29 @@
+{
+  "id": "s2:doi:10.1002/jcc.20446",
+  "title": "QM/MM modeling of compound I active species in cytochrome P450, cytochrome C peroxidase, and ascorbate peroxidase",
+  "abstract": "AbstractQM/MM calculations provide a means for predicting the electronic structure of the metal center in metalloproteins. Two heme peroxidases, Cytochrome c Peroxidase (CcP) and Ascorbate Peroxidase (APX), have a structurally very similar active site, yet have active intermediates with very different electronic structures. We review our recent QM/MM calculations on these systems, and present new computational data. Our results are in good agreement with experiment, and suggest that the difference in electronic structure is due to a large number of small differences in structure from one protein to another. We also discuss recent QM/MM calculations on the active species of cytochrome P450, in which a similar sensitivity of the electronic structure to the environment is found. However, this does not appear to explain different catalytic profiles of the different drug‐metabolizing isoforms of this class of enzyme. © 2006 Wiley Periodicals, Inc. J Comput Chem 27: 1352–1362, 2006",
+  "authors": [
+    "Jeremy N. Harvey",
+    "Christine M. Bathelt",
+    "Adrian J. Mulholland"
+  ],
+  "year": 2006,
+  "doi": "10.1002/jcc.20446",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 59,
+  "open_access_pdf_url": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fjcc.20446",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1002_jcc.20446.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:17.129359+00:00",
+  "raw_metadata": {
+    "doi": "10.1002/jcc.20446",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

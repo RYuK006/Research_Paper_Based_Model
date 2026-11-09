@@ -1,0 +1,34 @@
+{
+  "id": "s2:doi:10.3390/drones9050329",
+  "title": "Flight Dynamics Modeling and Verification for a Novel Compound Rotorcraft Considering Rotor/Propeller/Fuselage Aerodynamic Interference",
+  "abstract": "The flight controllability and safety of unmanned compound rotorcraft are closely related to their aerodynamic characteristics. During forward flight, complex aerodynamic interference effects arise among the rotor, propeller, wing, fuselage, and horizontal–vertical tail. These interactions change dramatically with variations in forward speed, which may have a substantial impact on flight performance. This paper investigates aerodynamic interference related to the rotor, propeller, and fuselage of a sample unmanned compound rotorcraft with a novel configuration. On this basis, a flight dynamics model that incorporates the identified aerodynamic interference is formulated. Firstly, an analysis of rotor/propeller/fuselage aerodynamic interference is performed using the momentum source method (MSM). Subsequently, the aerodynamic models for the wing, fuselage, and horizontal–vertical tail are updated by integrating aerodynamic interference factors, leading to the development of a nonlinear flight dynamics model for the sample unmanned compound rotorcraft. Finally, to validate the updated flight dynamics model, numerical simulation results are systematically compared against wind tunnel test results. The results reveal a significant correlation between the numerical simulation data and wind tunnel test results, which indicates that the updated flight dynamics model possesses high accuracy and reliability and can characterize the dynamic characteristics of the sample unmanned compound rotorcraft within the flight speed envelope.",
+  "authors": [
+    "Xinfan Yin",
+    "Bowen Nie",
+    "Chang Wang",
+    "Honglei An",
+    "Shengde Jia",
+    "Hongxu Ma",
+    "Haoxuan Deng",
+    "Long He"
+  ],
+  "year": 2025,
+  "doi": "10.3390/drones9050329",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 4,
+  "open_access_pdf_url": "https://www.mdpi.com/2504-446X/9/5/329/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.3390_drones9050329.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:05.974491+00:00",
+  "raw_metadata": {
+    "doi": "10.3390/drones9050329",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

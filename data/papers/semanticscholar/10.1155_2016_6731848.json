@@ -1,0 +1,30 @@
+{
+  "id": "s2:doi:10.1155/2016/6731848",
+  "title": "Numerical Simulation and Optimization of Enhanced Oil Recovery by the In Situ Generated CO<sub>2</sub>Huff-n-Puff Process with Compound Surfactant",
+  "abstract": "This paper presents the numerical investigation and optimization of the operating parameters of the in situ generated CO2Huff-n-Puff method with compound surfactant on the performance of enhanced oil recovery. First, we conducted experiments of in situ generated CO2and surfactant flooding. Next, we constructed a single-well radial 3D numerical model using a thermal recovery chemical flooding simulator to simulate the process of CO2Huff-n-Puff. The activation energy and reaction enthalpy were calculated based on the reaction kinetics and thermodynamic models. The interpolation parameters were determined through history matching a series of surfactant core flooding results with the simulation model. The effect of compound surfactant on the Huff-n-Puff CO2process was demonstrated via a series of sensitivity studies to quantify the effects of a number of operation parameters including the injection volume and mole concentration of the reagent, the injection rate, the well shut-in time, and the oil withdrawal rate. Based on the daily production rate during the period of Huff-n-Puff, a desirable agreement was shown between the field applications and simulated results.",
+  "authors": [
+    "Yong Tang",
+    "Zhengyuan Su",
+    "Jibo He",
+    "Fulin Yang"
+  ],
+  "year": 2016,
+  "doi": "10.1155/2016/6731848",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 7,
+  "open_access_pdf_url": "http://downloads.hindawi.com/journals/jchem/2016/6731848.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1155_2016_6731848.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:08.329594+00:00",
+  "raw_metadata": {
+    "doi": "10.1155/2016/6731848",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

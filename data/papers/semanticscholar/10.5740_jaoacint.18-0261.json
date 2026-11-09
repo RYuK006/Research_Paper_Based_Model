@@ -1,0 +1,31 @@
+{
+  "id": "s2:doi:10.5740/jaoacint.18-0261",
+  "title": "A Novel Approach of Matching Mass-to-Charge Ratio for Compound Identification in Gas Chromatography–Mass Spectrometry",
+  "abstract": "Abstract                Background: Gas chromatography–mass spectrometry (GC-MS) is one of the mostwidely used analytical techniques for analyzing chemical or biological samples in many fields. One of the most important approaches for the identification of compound in GC-MS is to compare an experimental mass spectrum with a compound recorded in a reference spectral library through a spectrum-matching algorithm. Objective: To develop a novel method to speed up compound identification. Method: In this study, a method based on m/z matching is proposed. Weselected the highest m/z values and m/z values corresponding to the largest peak intensities of a mass spectrum and stepwise modified the matching threshold (MTh) based on the principle of local optimum in the pre-search process. The performance of the approach is evaluated using the mass spectral library maintained by the National Institute of Standards and Technology asa reference library and repetitive mass spectra as query spectra. Results: Compared with two-step spectral library pre-search and “ten peaks,” the method based on m/z matching has higher accuracy, smaller number of remaining (missing) spectra, and shorter computational time. Conclusions: Therefore, the method can effectively speed up compound identification. Highlights: A method based on m/z matching is proposed. The accuracy is higher, the number of remaining spectra is less, and the computational time is shorter.",
+  "authors": [
+    "Chengyi Xie",
+    "Jiancheng Yu",
+    "Song Huang",
+    "Wenqing Gao",
+    "Keqi Tang"
+  ],
+  "year": 2019,
+  "doi": "10.5740/jaoacint.18-0261",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 7,
+  "open_access_pdf_url": "http://academic.oup.com/jaoac/article-pdf/102/2/638/36326025/jaoac0638.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.5740_jaoacint.18-0261.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:45.261241+00:00",
+  "raw_metadata": {
+    "doi": "10.5740/jaoacint.18-0261",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

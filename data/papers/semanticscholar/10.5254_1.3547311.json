@@ -1,0 +1,29 @@
+{
+  "id": "s2:doi:10.5254/1.3547311",
+  "title": "A Digital Computer Program for Compound Optimization",
+  "abstract": "Abstract         In recent years the advent of computers has allowed the analysis of result of far more sophisticated experiments than was possible by manual methods and this has encouraged rubber compounders to investigate the effect on properties of changing many compound variables simultaneously. By using appropriate experimental designs, then fitting property response equations to the data by regression techniques, it is possible to predict the properties of any compound within the experimental range considered. Given a set of response equations describing all the properties of interest in terms of the levels of compound variables, optimization of the compound becomes the problem of “—the determination of the ‘best’ set of factor combinations or design variables consistent with specified constraints”.",
+  "authors": [
+    "R. A. Beaumont",
+    "N. E. Hartmann",
+    "C. M. Chamberlain"
+  ],
+  "year": 1970,
+  "doi": "10.5254/1.3547311",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "http://meridian.allenpress.com/rct/article-pdf/43/5/1100/1940572/1_3547311.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.5254_1.3547311.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:38.361265+00:00",
+  "raw_metadata": {
+    "doi": "10.5254/1.3547311",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

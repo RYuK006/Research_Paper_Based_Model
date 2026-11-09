@@ -1,0 +1,30 @@
+{
+  "id": "s2:doi:10.1002/cjoc.200590947",
+  "title": "DFT Study on the QSAR of Nitroaromatic Compound Toxicity to the Fathead Minnow",
+  "abstract": "AbstractThe DFT‐B3LYP method, with the basis set 6‐311G**, was employed to calculate the molecular geometries and electronic structures of 31 nitroaromatics. EHOMO, ELUMO, QC, QN, QNO2 and μ were selected as quantum chemical descriptors. The acute toxicity (−lg LC50) of these compounds to the fathead minnow along with the six descriptors was used to establish the quantitative structure‐activity relationships (QSARs). Through stepwise multiple linear regression analysis, a model was established as follows: −lg LC50=9.524−39.527ELUMO+16.859EHOMO+15.130Q+4.166QC (n=28, R=0.912, SE=0.361, F=28.468). The model was applied to predict and elucidate the toxicity of nitroaromatics successfully. Furthermore, a metabolic route of nitroaromatics in fathead minnow was proposed.",
+  "authors": [
+    "Yan Xiu‐Fen",
+    "Xiao He‐Ming",
+    "Ju Xue‐Hai",
+    "Gong Xue‐Dong"
+  ],
+  "year": 2005,
+  "doi": "10.1002/cjoc.200590947",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 8,
+  "open_access_pdf_url": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fcjoc.200590947",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1002_cjoc.200590947.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:09.954542+00:00",
+  "raw_metadata": {
+    "doi": "10.1002/cjoc.200590947",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

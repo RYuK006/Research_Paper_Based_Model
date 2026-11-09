@@ -1,0 +1,29 @@
+{
+  "id": "s2:doi:10.22146/ijc.21597",
+  "title": "QUANTITATIVE ELECTRONIC STRUCTURE - ACTIVITY RELATIONSHIP OF ANTIMALARIAL COMPOUND OF ARTEMISININ DERIVATIVES USING PRINCIPAL COMPONENT REGRESSION APPROACH",
+  "abstract": "Analysis of quantitative structure - activity relationship (QSAR) for a series of antimalarial compound artemisinin derivatives has been done using principal component regression. The descriptors for QSAR study were representation of electronic structure i.e. atomic net charges of the artemisinin skeleton calculated by AM1 semi-empirical method. The antimalarial activity of the compound was expressed in log 1/IC50 which is an experimental data. The main purpose of the principal component analysis approach is to transform a large data set of atomic net charges to simplify into a data set which known as latent variables. The best QSAR equation to analyze of log 1/IC50 can be obtained from the regression method as a linear function of several latent variables i.e. x1, x2, x3, x4 and x5. The best QSAR model is expressed in the following equation,    (;;)     Keywords: QSAR, antimalarial, artemisinin, principal component regression",
+  "authors": [
+    "Paul Robert Martin Werfette",
+    "Ria Armunanto",
+    "Iqmal Tahir"
+  ],
+  "year": 2010,
+  "doi": "10.22146/ijc.21597",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "http://10.13.241.244/index.php/ijc/article/viewFile/21597/14302",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.22146_ijc.21597.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:00.120011+00:00",
+  "raw_metadata": {
+    "doi": "10.22146/ijc.21597",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "s2:doi:10.1182/blood-2020-142322",
+  "title": "A Novel Aryl-Guanidinium Based Compound Targets the STAT3 Signalling Pathway, Downregulates MCL-1 Expression and Induces Anti-Myeloma Activity",
+  "abstract": "Multiple myeloma (MM) is a hematological malignancy characterized by the proliferation of malignant plasma cells in the bone marrow microenvironment. Increased understanding of the pathophysiology of MM and advances in therapeutics have led to an increased survival of patients in the past decade. However, despite the effectiveness of the first-line treatments, patients invariably relapse and become drug refractory due to genetic heterogeneity and induction of prosurvival signalling cascades in the bone marrow microenvironment. There is, therefore, a need for novel therapeutics which target key prosurvival signalling pathways in MM.                The Janus kinase (JAK)/Signal transducer and activator of transcription 3 (STAT3) pathway in MM can be both constitutively active due to autonomous mutations or activated by growth and survival factors, such as interleukin-6 (IL-6), secreted by bone marrow stromal cells and other cells within the bone marrow microenvironment. STAT3 is upregulated in MM and increases the expression of genes involved proliferation, angiogenesis and evasion of apoptosis. STAT3 target genes include prosurvival BCL2 family members, such as MCL-1 which is overexpressed in MM, leading to apoptosis resistance and is associated with shorter patient survival. Several studies have shown promise in targeting prosurvival BCL2 family members with BCL2 homology domain 3 (BH3) mimetics in MM.                We have previously described a member of a series of guanidinium based compounds which inhibits BRAF, a serine/threonine kinase component of the RAS/ERK signalling pathway, through a putative type-III allosteric mechanism [Diez-Cecilia et al, (2015) Bioorg. Med. Chem. Lett. 25, 4287-4292]. Here, we describe a new derivative of this series, VP79s, which exhibits cytotoxicity in MM cell lines with IC50 values in the low micromolar range; however, VP79s does not inhibit RAS/ERK signalling suggesting a novel mechanism of action. VP79s was found to induce apoptosis in NCI-H929 and U266B1 MM cell lines in a dose- and time-dependent manner. VP79s was more potent in inducing cell death in a panel of drug sensitive and drug resistant MM cell lines compared to standard and emerging therapeutic agents for MM. VP79s rapidly inhibited both constitutively active and IL-6-induced STAT3 signalling in MM cells. Examination of upstream mediators of STAT3 signalling suggested a mechanism for VP79s inhibition of STAT3 activation via inhibition of JAK2 phosphorylation and downregulation of the IL-6 receptors, CD126 and CD130. Analysis of downstream STAT3 targets demonstrated that treatment with VP79s resulted in a rapid time-dependent decrease in expression of MCL-1.                VP79s was shown to overcome adhesion mediated drug resistance in MM cells in a co-culture model system with bone marrow stromal cells which induces MM cell resistance to treatment with the proteasome inhibitor bortezomib. Combining VP79s with bortezomib synergistically enhanced apoptosis in MM cells compared with single agent treatment. VP79s showed selective cytotoxicity in patient derived MM cells compared to normal donor lymphocytes and reduced the viability of MM patient samples in a dose-responsive manner suggesting its potential as an anti-MM therapeutic.                In conclusion, the novel agent VP79s inhibits the JAK/STAT3 signalling pathway resulting in rapid downregulation of MCL-1 expression and inducing potent anti-MM activity. This mechanism may suggest a novel strategy for targeting MCL-1, an emerging target in MM.                                   Disclosures                   No relevant conflicts of interest to declare.",
+  "authors": [
+    "Rebecca Amet",
+    "Viola Previtali",
+    "Helene Mihigo",
+    "Emily Sheridan",
+    "Sarah Brophy",
+    "Patrick J Hayden",
+    "Paul V Browne",
+    "Isabel Rozas",
+    "Daniela Zisterer",
+    "Tony M McElligott"
+  ],
+  "year": 2020,
+  "doi": "10.1182/blood-2020-142322",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://ashpublications.org/blood/article/136/Supplement%201/35/472842/A-Novel-Aryl-Guanidinium-Based-Compound-Targets",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1182_blood-2020-142322.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:13.777021+00:00",
+  "raw_metadata": {
+    "doi": "10.1182/blood-2020-142322",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

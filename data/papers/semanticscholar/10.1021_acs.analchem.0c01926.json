@@ -1,0 +1,30 @@
+{
+  "id": "s2:doi:10.1021/acs.analchem.0c01926",
+  "title": "Translation of a One-Dimensional to a Comprehensive Two-Dimensional Gas Chromatography Method with Dual-Channel Detection for Volatile Organic Compound Measurement in Forensic Applications",
+  "abstract": "Abstract                   After its introduction in the early 1990s, comprehensive two-dimensional gas chromatography (GC×GC) has evolved from a separation science research tool to the central component of many industries. Despite the maturity of the technique, some fields remain reluctant to its use in routine applications. In the case of forensic science, some constraints are the strict requirements enforced in forensic laboratories and the time and effort that must be invested for intralaboratory method validation. Concerns may also arise about whether information could be lost when transitioning to a new technique. This study reports on a method translation from conventional one-dimensional (1D) GC to GC×GC, ensuring the integrity of data as conversion is made. The GC was retrofitted with a reverse fill/flush (RFF) flow modulator and equipped with dual-channel detection using a quadrupole mass spectrometer (qMS) and a flame ionization detector (FID). The parallel use of two detectors, where qMS was applied for qualitative identification and FID for quantification, allowed higher flows and slightly wider peaks to be exploited for the analysis of a volatile organic compound (VOC) reference mixture relevant to forensic VOC profiling. Peak quality assessment and calibration curves using GC-qMS and GC×GC-qMS/FID document the transfer and adaptation of the original method without a loss in data quality. Furthermore, the preprocessing and the data analysis processing steps, including calibration and peak quality assessment for each of the three data sets, are explained in detail. This information provides benchmark data for routine laboratories that want to implement a GC×GC approach into routine workflows.",
+  "authors": [
+    "Lena M. Dubois",
+    "Stephanie Aczon",
+    "Jean-François Focant",
+    "Katelynn A. Perrault"
+  ],
+  "year": 2020,
+  "doi": "10.1021/acs.analchem.0c01926",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 23,
+  "open_access_pdf_url": "https://pubs.acs.org/doi/pdf/10.1021/acs.analchem.0c01926",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1021_acs.analchem.0c01926.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:55.372054+00:00",
+  "raw_metadata": {
+    "doi": "10.1021/acs.analchem.0c01926",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

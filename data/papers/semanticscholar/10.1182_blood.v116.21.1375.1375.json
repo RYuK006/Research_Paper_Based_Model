@@ -1,0 +1,35 @@
+{
+  "id": "s2:doi:10.1182/blood.v116.21.1375.1375",
+  "title": "Novel X-Linked Inhibitor of Apoptosis (XIAP) Inhibiting Compound as Sensitizer for TRAIL-Mediated Apoptosis In Chronic Lymphocytic Leukemia with Poor Prognosis",
+  "abstract": "Abstract                Abstract 1375                                   Background:                   Since aggressive DNA damaging chemotherapy shows suboptimal efficacy in chronic lymphocytic leukemia (CLL), alternative therapeutic approaches are needed. Moreover, there is an essential need to improve specific therapeutic regimes for “non-fit” patients, which cannot receive myeloablative therapies. Tumor necrosis factor-related apoptosis-inducing ligand (TRAIL) is able to induce tumor-specific apoptosis. However, apoptosis might be inhibited by elevated X-linked inhibitor of apoptosis (XIAP) level, the only cellular protein capable to bind to and effectively inhibit caspases. Use of XIAP-inhibiting compounds might sensitize primary CLL cells towards TRAIL-induced lysis.                                                   Experimental design:                   We compared XIAP protein levels between freshly purified CD5+CD19+ primary CLL cells (n=28) and CD19+ B cells from healthy donors (n=16) by western blotting. In a knockdown approach, specific siRNAs against XIAP were nucleofected to check whether XIAP expression prevents TRAIL-mediated apoptosis in CLL. After proof of concept, we applied the novel small molecule IAP antagonizing compound (IAC), an inhibitor of XIAP, in combination with TRAIL to induce apoptosis in primary CLL cells (n=48). Compound A (CA) was developed based on the crystal structure of four amino acids of SMAC, which enabling SMAC to efficiently bind the BIR3 domain of XIAP. In contrast to the active compound CA, which consists of an amino terminal methyl alanine, the inactive compound CB used in our studies as a negative control has an amino terminal methyl glycine. This specific substitution results in a significant reduction of IAP binding capability of CB as CA has binding affinity to XIAP in the picomolar range and CB is a weak binder with micromolar binding affinity to XIAP.                                                   Results:                   XIAP is significantly higher expressed in primary CLL cells (n=28) compared to healthy B cells (n=16) (P=0.02). Our data obtained by specific knockdown of XIAP via siRNA identified XIAP as the key factor conferring resistance to TRAIL in CLL. Based on these results we used IAC in combination with TRAIL. Combined treatment with both drugs significantly increased apoptosis compared to untreated (P=8.5×10-10), solely IAC (P=4.1×10-12) or TRAIL treated (P=4.8×10-10) CLL cells. As a potent cellular caspase inhibitor, we also examined the involvement of caspases in CA/TRAIL-mediated apoptosis. Not surprisingly, co-application of pan-caspase inhibitor zVAD.fmk inhibited cell death induced by CA/TRAIL underscoring the apoptotic caspase-dependent cytotoxicity of CA/TRAIL treatment in CLL cells. IAC rendered 40 of 48 (83.3%) primary CLL samples susceptible towards TRAIL-mediated apoptosis. Especially cells derived from patients with poor prognosis (ZAP-70+, IGHV unmutated, 17p-) were highly responsive to this drug combination. Furthermore, this study reveals that TRAIL application alone induces apoptosis in poor-prognosis CLL samples (13,8% in ZAP-70+ (n=10) vs. 2,3 in ZAP-70- (n=9); P=0.0008), which correlates with the elevated expression levels of TRAIL-R1 and –R2 on ZAP-70+ CLL cells. To assess whether TRAIL treatment is CLL cell specific, healthy B cells (n=4) were exposed to TRAIL alone or CA(CB)/TRAIL and showed significantly lower susceptibility towards CA/TRAIL administration than CLL cells.                                                   Conclusion:                   XIAP is over-expressed in CLL and displays a suitable target to induce TRAIL-mediated apoptosis. The novel XIAP inhibitor used in our study was able to inhibit XIAP function at a concentration of 0,1μM. CA/TRAIL administration was also shown not to induce apoptosis in healthy donor B cells and might therefore also display an attractive option for “non-fit” CLL patients. Our highly effective XIAP inhibitor CA, in concert with TRAIL, shows potential for treatment of CLL of those cases with poor prognosis and therefore warrants further clinical investigation.                                                   Disclosures:                   No relevant conflicts of interest to declare.",
+  "authors": [
+    "Lukas P. Frenzel",
+    "Michaela Patz",
+    "Christian P. Pallasch",
+    "Reinhild Brinker",
+    "Julia Claasen",
+    "Alexandra Schulz",
+    "Michael Hallek",
+    "Hamid Kashkar",
+    "Clemens-Martin Wendtner"
+  ],
+  "year": 2010,
+  "doi": "10.1182/blood.v116.21.1375.1375",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 2,
+  "open_access_pdf_url": "https://ashpublications.org/blood/article/116/21/1375/64933/Novel-XLinked-Inhibitor-of-Apoptosis-XIAP",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1182_blood.v116.21.1375.1375.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:15.445931+00:00",
+  "raw_metadata": {
+    "doi": "10.1182/blood.v116.21.1375.1375",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

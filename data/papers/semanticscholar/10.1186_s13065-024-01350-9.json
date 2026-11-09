@@ -1,0 +1,29 @@
+{
+  "id": "s2:doi:10.1186/s13065-024-01350-9",
+  "title": "Pharmacophore-based virtual screening, molecular docking, and molecular dynamics investigation for the identification of novel, marine aromatase inhibitors",
+  "abstract": "AbstractBreast cancer remains a leading cause of mortality among women worldwide. Our current research focuses on identifying effective therapeutic agents by targeting the human aromatase enzyme. Aromatase inhibitors (AIs) have been effective in treating postmenopausal breast cancer but face challenges such as drug resistance and long-term side effects like cognitive decline and osteoporosis. Natural products, especially from marine organisms, are emerging as potential sources for new drug candidates due to their structural diversity and pharmacological properties. This study aims to discover marine natural products capable of inhibiting human aromatase by combining ligand-based and structure-based pharmacophore models for virtual screening against the Comprehensive Marine Natural Products Database. From the initial virtual screening of more than 31,000 compounds, 1,385 marine natural products were identified as possible candidates. Following initial molecular docking analysis, only four compounds managed to pass the criteria this research has introduced to confirm strong binding affinity to aromatase. All four compounds yielded acceptable binding affinities, with CMPND 27987 having the highest −10.1 kcal/mol. All four hits were subjected to molecular dynamics, and CMPND 27987 was further confirmed to be the most stable at the protein’s active site, with an MM-GBSA free binding energy of −27.75 kcal/mol. Our in silico studies indicate that CMPND 27987 interacts effectively within the binding site of the human aromatase, maintaining high affinity and stability. Based on these findings, we propose that CMPND 27987 could hold significant potential for further lead optimization and drug development.",
+  "authors": [
+    "Mohamed A. Kotb",
+    "Islam Ahmed Abdelmawgood",
+    "Ibrahim M. Ibrahim"
+  ],
+  "year": 2024,
+  "doi": "10.1186/s13065-024-01350-9",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 16,
+  "open_access_pdf_url": "https://link.springer.com/content/pdf/10.1186/s13065-024-01350-9.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1186_s13065-024-01350-9.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:18.791394+00:00",
+  "raw_metadata": {
+    "doi": "10.1186/s13065-024-01350-9",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

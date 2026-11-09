@@ -1,0 +1,33 @@
+{
+  "id": "s2:doi:10.1158/0008-5472.can-05-0575",
+  "title": "Identification of a Novel Synthetic Thiazolidin Compound Capable of Inducing c-Jun NH2-Terminal Kinase–Dependent Apoptosis in Human Colon Cancer Cells",
+  "abstract": "Abstract                Development of new therapeutic agents for colon cancer is highly desirable. To this end, we screened a chemical library for new anticancer agents and identified a synthetic compound, 5-(2,4-dihydroxybenzylidene)-2-(phenylimino)-1,3-thiazolidin (DBPT), which kills cancer cells more effectively than it kills normal human fibroblasts. The molecular mechanism of the antitumor action of DBPT was further analyzed in three human colorectal cancer cell lines. DBPT effectively inhibited the growth of colorectal cancer cells, independent of p53 and P-glycoprotein status, whereas normal fibroblasts were unaffected at the same IC50. Over time, DLD-1 cancer cells treated with DBPT underwent apoptosis. The general caspase inhibitor benzyloxycarbonyl-valine-alanine-aspartate-fluoromethylketone partially blocked DBPT-induced apoptosis in a dose-dependent manner. DBPT-induced apoptosis, including cytochrome c release and caspase activation, was abrogated when c-Jun NH2-terminal kinase (JNK) activation was blocked with either a specific JNK inhibitor or a dominant-negative JNK1 gene. However, constitutive JNK activation alone did not replicate the effects of DBPT in DLD-1 cells, and excessive JNK activation by adenovirus encoding MKK7 had little influence on DBPT-induced apoptosis. Our results suggested that DBPT induces apoptosis in colorectal cancer cell lines through caspase-dependent and caspase-independent pathways and that JNK activation was crucial for DBPT-induced apoptosis. DBPT and its analogues might be useful as anticancer agents.",
+  "authors": [
+    "Fuminori Teraishi",
+    "Shuhong Wu",
+    "Lidong Zhang",
+    "Wei Guo",
+    "John J. Davis",
+    "Fengqin Dong",
+    "Bingliang Fang"
+  ],
+  "year": 2005,
+  "doi": "10.1158/0008-5472.can-05-0575",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 39,
+  "open_access_pdf_url": "https://aacrjournals.org/cancerres/article-pdf/65/14/6380/2531860/6380-6387.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1158_0008-5472.can-05-0575.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:03.451481+00:00",
+  "raw_metadata": {
+    "doi": "10.1158/0008-5472.can-05-0575",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

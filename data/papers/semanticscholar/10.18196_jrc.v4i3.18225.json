@@ -1,0 +1,28 @@
+{
+  "id": "s2:doi:10.18196/jrc.v4i3.18225",
+  "title": "A Novel Variable Stiffness Compound Extensor-Pneumatic Artificial Muscle (CE-PAM): Design and Mathematical Model",
+  "abstract": "Pneumatic artificial muscles (PAMs) have been exploited in robots utilized in various fields, including industry and medicine, due to their numerous advantages, such as their light weight; smooth, fast responses; and ability to generate significant force when fully extended. The actuator’s stiffness is important in these applications, and extensor PAMs (EPAMs) have a lower stiffness when compared to contractor PAMs (CPAMs). Because of this, this research presents the compound extensor PAM (CE-PAM), which is a novel actuator that has higher stiffness and can alter its stiffness at a fixed length or maintain a fixed stiffness at a variable length. This makes it useful in applications such as surgery robots and wearable robots. The CE-PAM is created by inserting the CPAM into the EPAM. Then, a mathematical model is developed to calculate the output force using several mathematical equations that relate the force, actuator size, and applied pressure to each other. The force is also calculated experimentally, and when comparing the mathematical with the experimental results, the error percentage appears greater than 20%. So the mathematical model is enhanced by calculating the wasted energy consumed by the actuator before the start of the bladder’s expansion, at which the force is zero because the pressure is consumed only for bladder expansion to touch the sleeve. The effect of the bladder’s thickness is calculated to further enhance the model by calculating the volume of air entering the muscle rather than the total muscle volume. To illustrate the effect of thickness on the actuator, experiments are conducted on CPAMs made of the same bladder material but with different thicknesses. A balloon is used in the manufacture of the bladder. Because it is a lightweight, thin material with a low thickness, it requires very low pressure to expand.",
+  "authors": [
+    "Wafaa Al-Mayahi",
+    "Hassanin Al-Fahaam"
+  ],
+  "year": 2023,
+  "doi": "10.18196/jrc.v4i3.18225",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 3,
+  "open_access_pdf_url": "https://journal.umy.ac.id/index.php/jrc/article/viewFile/18225/8398",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.18196_jrc.v4i3.18225.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:45.355682+00:00",
+  "raw_metadata": {
+    "doi": "10.18196/jrc.v4i3.18225",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "s2:doi:10.18860/al.v11i1.18018",
+  "title": "Study Natural Compound of Eleutherine americana as a SaR-CoV-2 Therapeutic Agent : In Silico Approach",
+  "abstract": "Sar-CoV-2 (COVID-19) has rapidly spread globally where it has killed thousands of individuals and infected almost 1,016,395 others. Numerous people have died as a result of what the World Health Organization (WHO) has deemed a top worldwide health issue, which has also had severe detrimental social and economic impacts. Some Eleutherin americana are said to possess antiviral effects. Children's colds and nasal congestion can be treated with eleutherin americana. Naphthalene, anthraquinone, and naphtoquinone are the three main chemical families that have been identified from E. americana. Eleutherol, hongconin, isoeleutherol, and eleutherin were the compounds that were identified from E. Americana. Drug-receptor interactions are simulated using computational techniques toward 14 compounds isolated from E. americana. The docking method has been validated by redocking the N3 molecule as a native ligand to the Mpro of Sar-CoV-2 (PDB ID: 7BQY) as a receptor protein. The smaller the RMSD value 0.651 Å, the better the pose obtained through the docking process. Compound 12 has a more negative binding energy are showed -8.6 kcal mol-1, regarding to hydrogen bond interaction toward Thr26, His41, Leu141, Asn142, Gly143, Ser144, His163. The stability of the association between the ligand and receptor increases with decreasing binding energy value (∆G). On the other hand, Compounds 11 and 2 are depicted -8.2 kcal mol-1 and -8.1 kcal mol-1 respectively which close to N3 -8.3 kcal mol-1. Undergoing hydrogen bond interaction between 11 with Gly143,Thr26, Leu141, Glu166, Ser144, Cys145, His163, and less hydrogen bond interaction 2 toward Arg188 and Asn 142. Those result resembling hydroxy group have the best interaction with 7BQY. According to fulfilled data from three candidates 2, 11, 12, it can be expected that compound with many hydroxy groups are within realm of possibility as antiviral agent for Sar-CoV-2 through inhibit replication of this virus.",
+  "authors": [
+    "Mokhamat Ariefin",
+    "Rizki Rachmad Saputra"
+  ],
+  "year": 2023,
+  "doi": "10.18860/al.v11i1.18018",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://ejournal.uin-malang.ac.id/index.php/Kimia/article/viewFile/18018/10160",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.18860_al.v11i1.18018.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:45.393518+00:00",
+  "raw_metadata": {
+    "doi": "10.18860/al.v11i1.18018",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

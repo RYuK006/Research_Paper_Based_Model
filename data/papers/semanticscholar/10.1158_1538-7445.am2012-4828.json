@@ -1,0 +1,30 @@
+{
+  "id": "s2:doi:10.1158/1538-7445.am2012-4828",
+  "title": "Abstract 4828: A novel small molecule p53-pathway restoring compound suppresses colorectal cancer cells via p73",
+  "abstract": "Abstract                The tumor suppressor p53 regulates gene transcription impacting on cell cycle, cell death, angiogenesis, cell metabolism, or repair processes. Mutant p53 is found in approximately 50% of human cancers where it contributes to tumorigenesis, tumor progression and resistance to therapy. p53 pathway restoration is an outstanding target for cancer therapy because mutant p53 provides a basic difference between normal cells and tumor cells and because two decades ago wild-type p53 was shown to suppress colon cancer cell colony growth despite numerous other genetic alterations. More recently the power of p53 as a tumor suppressor was demonstrated in genetically engineered mouse models. To find novel drugs targeting p53 for cancer therapy, we set up a functional cell-based screening assay for tumor cell death-inducing small molecules that restore p53 pathway dependent transcriptional responses. Using the Chembridge library of 50,000 compounds we identified CB001 that restores p53 pathway signaling and induces cancer but not normal cell death. CB001 strongly induces p53-responsive transcriptional activity in a time- and dose-dependent manner in mutant-p53 containing human cancer cells. p53 target gene expression, including p21 and Puma, was upregulated in mutant-p53 containing cancer cells treated with CB001. Importantly, CB001 was found to induce cell death at low doses with minimal genotoxicity in human colorectal cancer cells with no evident toxicity towards normal cells. We further examined the role of p73, a member of p53 family, in the mechanism of action of CB001 towards p53 pathway restoration. Over-expression of p73 enhanced p53-responsive transcriptional activity induced by CB001, while knock-down of p73 reduced its induction of p53-responsive transcriptional activity in p53-deficient cancer cells. Protein lysate analysis showed that treatment with CB001 resulted in a significant increase in the p73 protein level and the phosphorylation of p73 in mutant-p53 containing cancer cells. Overexpression of p73 sensitized cancer cells to CB001 induced cell death. These results suggest that p53-responsive transcriptional activity and cell death induced by CB001 occur by targeting p73 in tumor suppressor p53-deficient cancer cells. Combination treatments demonstrate that CB001 can synergize with classical cytotoxic chemotherapy including 5-FU and CPT11 to induce cell death in mutant-p53 expressing colorectal cancer cells. Thus, CB001 may be used as a lead compound for the development of new anti-cancer drugs targeting the p53 pathway via a mechanism involving the p53 family member p73. This work was supported by the NCI Developmental Therapeutics Program through NCI Contract N01-CN-43302.                Citation Format: {Authors}. {Abstract title} [abstract]. In: Proceedings of the 103rd Annual Meeting of the American Association for Cancer Research; 2012 Mar 31-Apr 4; Chicago, IL. Philadelphia (PA): AACR; Cancer Res 2012;72(8 Suppl):Abstract nr 4828. doi:1538-7445.AM2012-4828",
+  "authors": [
+    "Shengliang Zhang",
+    "Bo Hong",
+    "Levy Kopelovich",
+    "Wafik S. El-Deiry"
+  ],
+  "year": 2012,
+  "doi": "10.1158/1538-7445.am2012-4828",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://aacrjournals.org/cancerres/article/72/8_Supplement/4828/581829/Abstract-4828-A-novel-small-molecule-p53-pathway",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1158_1538-7445.am2012-4828.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:39.970157+00:00",
+  "raw_metadata": {
+    "doi": "10.1158/1538-7445.am2012-4828",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

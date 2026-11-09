@@ -1,0 +1,29 @@
+{
+  "id": "s2:doi:10.3390/app7050478",
+  "title": "A Novel Technique for Designing High Power Semiconductor Optical Amplifier (SOA)-Based Tunable Fiber Compound-Ring Lasers Using Low Power Optical Components",
+  "abstract": "A simple, stable and inexpensive dual-output port widely tunable semiconductor optical amplifier (SOA)-based fiber compound-ring laser structure is demonstrated. This unique nested ring cavity enables high optical power to split into different branches where amplification and wavelength selection are achieved by using low-power SOAs and a tunable filter. Furthermore, two Sagnac loop mirrors, which are spliced at the two ends of the compound-ring cavity not only serve as variable reflectors but also channel the optical energy back to the same port without using any high optical power combiner. We propose and discuss how the demonstrated fiber compound-ring laser structure can be extended in order to achieve a high power fiber laser source by using low power optical components, such as N × N couplers and (N &gt; 1) number of SOAs. A coherent beam-combining efficiency of over 98% for two parallel nested fiber ring resonators is achieved over the C-band tuning range of 30 nm. Optical signal-to-noise ratio (OSNR) of +45 dB, and optical power fluctuation of less than ±0.02 dB are measured over three hours at room temperature.",
+  "authors": [
+    "Muhammad Ummy",
+    "Simeon Bikorimana",
+    "Roger Dorsinville"
+  ],
+  "year": 2017,
+  "doi": "10.3390/app7050478",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 3,
+  "open_access_pdf_url": "https://www.mdpi.com/2076-3417/7/5/478/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.3390_app7050478.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:42.815074+00:00",
+  "raw_metadata": {
+    "doi": "10.3390/app7050478",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

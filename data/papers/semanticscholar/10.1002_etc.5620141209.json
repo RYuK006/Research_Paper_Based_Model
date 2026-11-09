@@ -1,0 +1,27 @@
+{
+  "id": "s2:doi:10.1002/etc.5620141209",
+  "title": "Quantum chemical approach to estimate physicochemical compound properties: Application to substituted benzenes",
+  "abstract": "Abstract                Estimation models for Henry's law constant (H), water solubility (Sw), vapor pressure (Pv), and octanol/water partition coefficient (Kow) of nonelectrolytes are derived from basic thermodynamic equations. The resultant regression equations require only two molecular descriptors, which are available from chemical structure through semiempirical quantum chemical calculations: free energy of solvation (δGs), and molecular contact surface area (CSA). Results are presented for a set of 17 benzenes with experimental data taken from literature, yielding squared correlation coefficients r2adj (adjusted for degrees of freedom) between 0.83 and 0.95. The discussion includes limitations from currently available continuum solvation models to calculate δGs, aspects of potential error compensation, and the suitability of this approach to understand macroscopic compound properties in terms of calculated quantities that represent distinct types of intermolecular interactions.",
+  "authors": [
+    "Gerrit Schüürmann"
+  ],
+  "year": 1995,
+  "doi": "10.1002/etc.5620141209",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 16,
+  "open_access_pdf_url": "https://academic.oup.com/etc/article-pdf/14/12/2067/60598808/5620141209.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1002_etc.5620141209.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:37.398444+00:00",
+  "raw_metadata": {
+    "doi": "10.1002/etc.5620141209",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

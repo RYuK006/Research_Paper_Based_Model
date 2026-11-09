@@ -1,0 +1,29 @@
+{
+  "id": "s2:doi:10.1007/s00216-025-05768-5",
+  "title": "Single compound data supplementation to enhance transferability of fermentation specific Raman spectroscopy models",
+  "abstract": "Abstract           Raman spectroscopy is a valuable analytical tool for real-time analyte quantification in fermentation processes. Quantification is performed with chemometric models that translate Raman spectra into concentration values, which are typically calibrated with process data from multiple comparable fermentations. However, process-specific models underperform for minor process variation(s) or different operation modes due to the integration of cross-correlations, resulting in low target analyte specificity. Thus, model transferability is poor and labor-intensive (re-)calibration of models is required for related processes. In this work, partial least-squares models for glucose, ethanol, and biomass were calibrated with Saccharomyces cerevisiae batch fermentation data and subsequently transferred to a fed-batch operation. To enhance model transferability without additional process runs, single compound data supplementation was performed. The supplemented models increased overall target analyte specificity and demonstrated sufficient prediction accuracy for the fed-batch process (root-mean-square errors of prediction (RMSEP) of 3.06 mM, 8.65 mM, and 0.99 g/L for glucose, ethanol, and biomass), while maintaining high prediction accuracy for the batch process (RMSEP of 1.71 mM, 4.20 mM, and 0.17 g/L for glucose, ethanol, and biomass). This work showcases that process data in combination with single compound spectra is a fast and efficient strategy to apply Raman spectroscopy for real-time process monitoring across related processes.",
+  "authors": [
+    "Maarten Klaverdijk",
+    "Marcel Ottens",
+    "Marieke E. Klijn"
+  ],
+  "year": 2025,
+  "doi": "10.1007/s00216-025-05768-5",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 9,
+  "open_access_pdf_url": "https://link.springer.com/content/pdf/10.1007/s00216-025-05768-5.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1007_s00216-025-05768-5.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:55.425072+00:00",
+  "raw_metadata": {
+    "doi": "10.1007/s00216-025-05768-5",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "s2:doi:10.1002/cbdv.200900056",
+  "title": "Improving Compound Quality through <i>in vitro</i> and <i>in silico</i> Physicochemical Profiling",
+  "abstract": "AbstractMany compounds entering clinical studies do not survive the numerous hurdles for a good pharmacological lead to a drug on the market. The reasons for attrition have been widely studied which resulted in more early attention to compound quality related to physical chemistry, drug metabolism and pharmacokinetics (DMPK), and toxicology/safety. This paper will briefly review current physicochemical in vitro assays and in silico predictions to support compound and library design through to lead optimization. The most important physicochemical properties include lipophilicity (log P/D), pKa, solubility, and permeability. These drive key ADMET properties such as absorption, cell penetration, access to the brain, volume of distribution, plasma protein binding, metabolism, and toxicity, as well as biopharmaceutical behavior. Much data are now available from medium‐ to high‐throughput physchem and ADMET in vitro assays, either in the public domain (see, e.g., PubChem, PubMed) or in drug companies' in‐house databases. Such data are increasingly being computer‐modelled and used in predictive chemistry. New pipelining technology makes it easier to build and update QSAR models so that such models can use the latest available data to produce robust local and global predictive in silico ADMET models.",
+  "authors": [
+    "Han van de Waterbeemd"
+  ],
+  "year": 2009,
+  "doi": "10.1002/cbdv.200900056",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 46,
+  "open_access_pdf_url": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fcbdv.200900056",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1002_cbdv.200900056.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:37.334551+00:00",
+  "raw_metadata": {
+    "doi": "10.1002/cbdv.200900056",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "s2:doi:10.3389/ffunb.2022.1081179",
+  "title": "Discovery of a gene cluster for the biosynthesis of novel cyclic peptide compound, KK-1, in Curvularia clavata",
+  "abstract": "KK-1, a cyclic depsipeptide with 10 residues produced by a filamentous fungus Curvularia clavata BAUA-2787, is a promising pesticide active compound with high activity against many plant pathogens, especially Botrytis cinerea. As a first step toward the future mass production of KK-1 through synthetic biological approaches, we aimed to identify the genes responsible for the KK-1 biosynthesis. To achieve this, we conducted whole genome sequencing and transcriptome analysis of C. clavata BAUA-2787 to predict the KK-1 biosynthetic gene cluster. We then generated the overexpression and deletion mutants for each cluster gene using our originally developed transformation system for this fungus, and analyzed the KK-1 production and the cluster gene expression levels to confirm their involvement in KK-1 biosynthesis. As a result of these, a region of approximately 71 kb was found, containing 10 open reading frames, which were co-induced during KK-1 production, as a biosynthetic gene cluster. These include kk1B, which encodes nonribosomal peptide synthetase with a domain structure that is consistent with the structural features of KK-1, and kk1F, which encodes a transcription factor. The overexpression of kk1F increased the expression of the entire cluster genes and, consequently, improved KK-1 production, whereas its deletion decreased the expression of the entire cluster genes and almost eliminated KK-1 production, demonstrating that the protein encoded by kk1F regulates the expressions of the other nine cluster genes cooperatively as the pathway-specific transcription factor. Furthermore, the deletion of each cluster gene caused a reduction in KK-1 productivity, indicating that each gene is involved in KK-1 production. The genes kk1A, kk1D, kk1H, and kk1I, which showed a significant decrease in KK-1 productivity due to deletion, were presumed to be directly involved in KK-1 structure formation, including the biosynthesis of the constituent residues. kk1C, kk1E, kk1G, and kk1J, which maintained a certain level of KK-1 productivity despite deletion, were possibly involved in promoting or assisting KK-1 production, such as extracellular transportation and the removal of aberrant units incorporated into the peptide chain.",
+  "authors": [
+    "Shigenari Yamaguchi",
+    "Tomonori Fujioka",
+    "Akira Yoshimi",
+    "Toshitaka Kumagai",
+    "Maiko Umemura",
+    "Keietsu Abe",
+    "Masayuki Machida",
+    "Kiyoshi Kawai"
+  ],
+  "year": 2023,
+  "doi": "10.3389/ffunb.2022.1081179",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 5,
+  "open_access_pdf_url": "https://www.frontiersin.org/articles/10.3389/ffunb.2022.1081179/full",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.3389_ffunb.2022.1081179.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:02.015184+00:00",
+  "raw_metadata": {
+    "doi": "10.3389/ffunb.2022.1081179",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

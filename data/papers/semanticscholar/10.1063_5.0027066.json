@@ -1,0 +1,30 @@
+{
+  "id": "s2:doi:10.1063/5.0027066",
+  "title": "Novel design of hydrodynamic–magnetic compound support for cylinder block–valve plate in axial piston pump",
+  "abstract": "An innovative hydrodynamic–magnetic compound support (HMCS) is proposed for the cylinder block–valve plate pair of the axial piston pump. Compared with the traditional design method, the magnetic structure provides a fixed magnetic torque to balance the residual torque, which causes eccentric wear on the valve plate and keeps the compression coefficient constant. First, the structure and principle of the HMCS are introduced, the magnetic model is established together with relative hydraulic models, and the influence of the permanent magnet length on the magnetic force is obtained. By studying the magnetic moment, the optimal structure of the magnetic pole is determined. Next, the 3D finite element method is used to simulate the magnetic forces under different pole gaps. After that, a reasonable magnetic pole gap and flux density distribution are determined. To obtain the influence mechanism of the HMCS on the cylinder block, the changing law of the track radii of hydraulic forces and average difference in the track radii are analyzed. Finally, the trend of the resultant torque of the cylinder block under multiple working conditions is analyzed. The results show that the HMCS can balance the residual torque acting on the valve plate, which is beneficial in preventing the occurrence of eccentric wear of the valve plate.",
+  "authors": [
+    "Jihai Jiang",
+    "Boran Du",
+    "Jian Zhang",
+    "Geqiang Li"
+  ],
+  "year": 2020,
+  "doi": "10.1063/5.0027066",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 4,
+  "open_access_pdf_url": "https://pubs.aip.org/aip/adv/article-pdf/doi/10.1063/5.0027066/12947601/115221_1_online.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1063_5.0027066.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:47.007213+00:00",
+  "raw_metadata": {
+    "doi": "10.1063/5.0027066",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

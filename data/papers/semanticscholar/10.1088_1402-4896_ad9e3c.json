@@ -1,0 +1,29 @@
+{
+  "id": "s2:doi:10.1088/1402-4896/ad9e3c",
+  "title": "On novel Hexa-compound combination synchronization over nineteen n-dimensional category-B chaotic systems and electronic circuit schematic",
+  "abstract": "Abstract                Synchronization of chaotic models involving multiple drives and responses has numerous practical applications in cryptography and information processing. Existing research on synchronizing multiple chaotic systems is currently limited to twelve components. This study introduces a novel higher-order synchronization method, hexa compound combination, that synchronizes an assembly of nineteen n-dimensional chaotic models. Well-known synchronization methods, such as double compound, triple compound, and quad compound, serve as particular instances of this new strategy. Thus, our research significantly advances the understanding of multi-leveled chaos synchronization. In addition, we also present a non-uniformly conservative system classified into a rare category B, analyze its dynamic properties, and utilize it for achieving the proposed synchronization. Numerical results are provided through graphical representations to illustrate the efficacy of the new synchronization approach by comparing it with other techniques. Furthermore, we emulate the corresponding virtual schematic circuit of the newly designed system to evaluate its real-world applicability and utility.",
+  "authors": [
+    "Dinesh Khattar",
+    "Naokant Deo",
+    "Mukul Sirohi"
+  ],
+  "year": 2024,
+  "doi": "10.1088/1402-4896/ad9e3c",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 2,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1088/1402-4896/ad9e3c/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1088_1402-4896_ad9e3c.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:39.871859+00:00",
+  "raw_metadata": {
+    "doi": "10.1088/1402-4896/ad9e3c",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

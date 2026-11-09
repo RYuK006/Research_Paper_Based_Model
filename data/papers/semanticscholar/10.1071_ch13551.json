@@ -1,0 +1,30 @@
+{
+  "id": "s2:doi:10.1071/ch13551",
+  "title": "PAINS: Relevance to Tool Compound Discovery and Fragment-Based Screening",
+  "abstract": "Pan assay interference compounds (PAINS) are readily discovered in any bioassay and can appear to give selective and optimisable hits. The most common PAINS can be readily recognised by their structure. However, there are compounds that closely resemble PAINS that are not specifically recognised by the PAINS filters. In addition, highly reactive compounds are not encoded for in the PAINS filters because they were excluded from the high-throughput screening (HTS) library used to develop the filters and so were never present to provide indicting data. A compounding complication in the area is that very occasionally a PAINS compound may serve as a viable starting point for progression. Despite such an occasional example, the literature is littered with an overwhelming number of examples of compounds that fail to progress and were probably not optimisable in the first place, nor useful tool compounds. Thus it is with great caution and diligence that compounds possessing a known PAINS core should be progressed through to medicinal chemistry optimisation, if at all, as the chances are very high that the hits will be found to be non-progressable, often after a significant waste of resources.",
+  "authors": [
+    "Jonathan B. Baell",
+    "Lori Ferrins",
+    "Hendrik Falk",
+    "George Nikolakopoulos"
+  ],
+  "year": 2013,
+  "doi": "10.1071/ch13551",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 84,
+  "open_access_pdf_url": "https://connectsci.au/ch/article-pdf/66/12/1483/920710/ch13551.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1071_ch13551.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:42.935682+00:00",
+  "raw_metadata": {
+    "doi": "10.1071/ch13551",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "s2:doi:10.3389/fmolb.2023.1227643",
+  "title": "Unleashing Nature’s potential: a computational approach to discovering novel VEGFR-2 inhibitors from African natural compound using virtual screening, ADMET analysis, molecular dynamics, and MMPBSA calculations",
+  "abstract": "One of the characteristic features of cancer is angiogenesis, the process by which new, aberrant blood vessels are formed from pre-existing blood vessels. The process of angiogenesis begins when VEGF binds to its receptor, the VEGF receptor (VEGFR). The formation of new blood vessels provides nutrients that can promote the growth of cancer cells. When it comes to new blood vessel formation, VEGFR2 is a critical player. Therefore, inhibiting VEGFR2 is an effective way to target angiogenesis in cancer treatment. The aim of our research was to find new VEGFR-2 inhibitors by performing a virtual screening of 13313 from African natural compounds using different in silico techniques. Using molecular docking calculations and ADMET properties, we identified four compounds that exhibited a binding affinity ranging from −11.0 kcal/mol to −11.5 Kcal/mol when bound to VEGFR-2. These four compounds were further analyzed with 100 ns simulations to determine their stability and binding energy using the MM-PBSA method. After comparing the compounds with Regorafenib, a drug approved for anti-angiogenesis treatment, it was found that all the candidates (EANPDB 252, NANPDB 4577, and NANPDB 4580), with the exception of EANPDB 76, could target VEGFR-2 similarly effectively to Regorafenib. Therefore, we recommend three of these agents for anti-angiogenesis treatment because they are likely to deactivate VEGFR-2 and thus inhibit angiogenesis. However, it should be noted that the safety and suitability of these agents for clinical use needs further investigation, as the computer-assisted study did not include in vitro or in vivo experiments.",
+  "authors": [
+    "Soukayna Baammi",
+    "Achraf El Allali",
+    "Rachid Daoud"
+  ],
+  "year": 2023,
+  "doi": "10.3389/fmolb.2023.1227643",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 30,
+  "open_access_pdf_url": "https://www.frontiersin.org/articles/10.3389/fmolb.2023.1227643/full",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.3389_fmolb.2023.1227643.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:56.459841+00:00",
+  "raw_metadata": {
+    "doi": "10.3389/fmolb.2023.1227643",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

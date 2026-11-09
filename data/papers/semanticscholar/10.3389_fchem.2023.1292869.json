@@ -1,0 +1,34 @@
+{
+  "id": "s2:doi:10.3389/fchem.2023.1292869",
+  "title": "GcForest-based compound-protein interaction prediction model and its application in discovering small-molecule drugs targeting CD47",
+  "abstract": "Identifying compound–protein interaction plays a vital role in drug discovery. Artificial intelligence (AI), especially machine learning (ML) and deep learning (DL) algorithms, are playing increasingly important roles in compound-protein interaction (CPI) prediction. However, ML relies on learning from large sample data. And the CPI for specific target often has a small amount of data available. To overcome the dilemma, we propose a virtual screening model, in which word2vec is used as an embedding tool to generate low-dimensional vectors of SMILES of compounds and amino acid sequences of proteins, and the modified multi-grained cascade forest based gcForest is used as the classifier. This proposed method is capable of constructing a model from raw data, adjusting model complexity according to the scale of datasets, especially for small scale datasets, and is robust with few hyper-parameters and without over-fitting. We found that the proposed model is superior to other CPI prediction models and performs well on the constructed challenging dataset. We finally predicted 2 new inhibitors for clusters of differentiation 47(CD47) which has few known inhibitors. The IC50s of enzyme activities of these 2 new small molecular inhibitors targeting CD47-SIRPα interaction are 3.57 and 4.79 μM respectively. These results fully demonstrate the competence of this concise but efficient tool for CPI prediction.",
+  "authors": [
+    "Wenying Shan",
+    "Lvqi Chen",
+    "Hao Xu",
+    "Qinghao Zhong",
+    "Yinqiu Xu",
+    "Hequan Yao",
+    "Kejiang Lin",
+    "Xuanyi Li"
+  ],
+  "year": 2023,
+  "doi": "10.3389/fchem.2023.1292869",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 6,
+  "open_access_pdf_url": "https://www.frontiersin.org/articles/10.3389/fchem.2023.1292869/full",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.3389_fchem.2023.1292869.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:07.199672+00:00",
+  "raw_metadata": {
+    "doi": "10.3389/fchem.2023.1292869",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

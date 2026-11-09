@@ -1,0 +1,33 @@
+{
+  "id": "s2:doi:10.1182/blood-2020-142569",
+  "title": "A Novel BCL2-Driven Compound Mutant Mouse Model for In Vivo Research on BH3 Mimetics",
+  "abstract": "Introduction: Eµ-TCL1-transgenic mouse models are often applied to discover and observe the development and kinetic of chronic lymphocytic leukaemia (CLL), as they develop diseases most similar to human CLL with a very high penetrance. To gain a better understanding on new therapy options and their effect on disease regression it is very important to observe therapy response, overall survival and symptoms during treatment of the disease not only in vitro but also in vivo in a suitable mouse model. However, application of BH3 mimetics like venetoclax is limited in the classical Eµ-TCL1 mouse model, since these mice are resistant towards venetoclax treatment. Therefore, we have generated a novel mouse model with Eµ-TCL1 as back bone and conditional overexpression of BCL2.                Methods and results: We established a new mouse model (TBC) by crossbreeding mice expressing Eµ-TCL1tg/wtwith mice containing a B-cell specific conditional Bcl-2Rosa26/wt; Cd19CreCre/wtoverexpression and compared the disease kinetics to classical Eµ-TCL1 mice and to BC mice. TBC animals exhibit a severe leukocytosis at very early stages of disease development (12 weeks; mean 96.000/µl) in comparison to TC (15.100/µl) and BC (81.900/µl) mice. TBC mice develop CD23low/CD21neg leukemic B cells as they are known from TC mice with CD19+/CD5+ expression. Indeed, these mice show a significantly shortened overall survival of ~300 days (n=43) compared to TC mice (n=106; ~350 days; p&amp;lt;0.001) and BC mice (n=28; ~410 days; p&amp;lt;0.001) with severe clinical symptoms such as splenomegaly and cachexia. Strikingly, in contrast classical TC mice, which are resistant towards venetoclax, isolated B-cells of TBC mice are 10-times more sensitive towards venetoclax in vitro (0,02 µM) and can also be killed by the MCL1 inhibitors in nanomolar ranges, but not by BCL-xl inhibitors (&amp;gt;2µM). Based on our in vitro data, we have treated TBC mice with venetoclax and observed an early and dramatic drop of leukocytes to normal ranges within the first two weeks of treatment. Leukocyte reduction lasted for the whole period of treatment. When investigating the spleens after sacrificing the mice they showed high amounts of dead cells inside the spleens, indicating that venetoclax was also efficient in lymphatic tissues as we know it from human trials.                Conclusions: Autochthonous mouse models on which BH3 mimetics can be tested are rare. In our mouse model apoptosis screening in vitro we can show good results for BH3 mimetics with a high sensitivity already in low dosing. The BCL2-driven TCL1 mouse model enables the investigation of treatment with venetoclax in vivo to gain a better understanding of this frequently on patients applied therapy. Moreover, this model will help us to test other drugs (like MCL1 inhibitors) in combination with venetoclax to identify synergistic drugs in vivo in a timely manner. Furthermore, this model will offer us the opportunity to identify treatment strategies to overcome venetoclax resistance in vivo.                                   Disclosures                   No relevant conflicts of interest to declare.",
+  "authors": [
+    "Ismini Halmer",
+    "Alexandra da Palma Guerreiro",
+    "Laura Beckmann",
+    "Christian Reinhardt",
+    "Hamid Kashkar",
+    "Michael Hallek",
+    "Lukas P. Frenzel"
+  ],
+  "year": 2020,
+  "doi": "10.1182/blood-2020-142569",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://ashpublications.org/blood/article/136/Supplement%201/39/472063/A-Novel-BCL2-Driven-Compound-Mutant-Mouse-Model",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1182_blood-2020-142569.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:53.931951+00:00",
+  "raw_metadata": {
+    "doi": "10.1182/blood-2020-142569",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

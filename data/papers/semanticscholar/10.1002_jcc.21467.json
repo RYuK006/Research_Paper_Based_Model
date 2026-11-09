@@ -1,0 +1,30 @@
+{
+  "id": "s2:doi:10.1002/jcc.21467",
+  "title": "Prediction of interactiveness between small molecules and enzymes by combining gene ontology and compound similarity",
+  "abstract": "AbstractDetermination of whether a small organic molecule interacts with an enzyme can help to understand the molecular and cellular functions of organisms, and the metabolic pathways. In this research, we present a prediction model, by combining compound similarity and enzyme similarity, to predict the interactiveness between small molecules and enzymes. A dataset consisting of 2859 positive couples of small molecule and enzyme and 286,056 negative couples was employed. Compound similarity is a measurement of how similar two small molecules are, proposed by Hattori et al., J Am Chem Soc 2003, 125, 11853 which can be availed athttp://www.genome.jp/ligand‐bin/search_compound, while enzyme similarity was obtained by three ways, they are blast method, using gene ontology items and functional domain composition. Then a new distance between a pair of couples was established and nearest neighbor algorithm (NNA) was employed to predict the interactiveness of enzymes and small molecules. A data distribution strategy was adopted to get a better data balance between the positive samples and the negative samples during training the prediction model, by singling out one‐fourth couples as testing samples and dividing the rest data into seven training datasets—the rest positive samples were added into each training dataset while only the negative samples were divided. In this way, seven NNAs were built. Finally, simple majority voting system was applied to integrate these seven models to predict the testing dataset, which was demonstrated to have better prediction results than using any single prediction model. As a result, the highest overall prediction accuracy achieved 97.30%. © 2009 Wiley Periodicals, Inc. J Comput Chem, 2010",
+  "authors": [
+    "Lei Chen",
+    "Ziliang Qian",
+    "Kaiyan Fen",
+    "Yudong Cai"
+  ],
+  "year": 2009,
+  "doi": "10.1002/jcc.21467",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 13,
+  "open_access_pdf_url": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fjcc.21467",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1002_jcc.21467.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:04.818913+00:00",
+  "raw_metadata": {
+    "doi": "10.1002/jcc.21467",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "s2:doi:10.3389/fncel.2024.1492048",
+  "title": "Transcriptome analyses reveal molecular mechanisms of novel compound heterozygous ACO2 variants causing infantile cerebellar retinal degeneration",
+  "abstract": "Background and purposeInfantile cerebellar retinal degeneration (ICRD) (OMIM #614559) is a rare autosomal recessive inherited disease associated with mutations in the aconitase 2 (ACO2) gene. We report a Chinese girl with novel compound heterozygous variants in ACO2, who presented at 7 months of age with psychomotor retardation, truncal hypotonia, and ophthalmologic abnormalities. This study aims to investigate the potential molecular mechanisms underlying ACO2 deficiency-induced neuropathy.MethodsWhole exome sequencing was performed on family members to screen for potential pathogenic mutations, followed by Sanger sequencing for validation. Mitochondrial aconitase activity and mitochondrial DNA (mtDNA) copy number were measured using an aconitase activity detection kit and quantitative PCR, respectively. Transcriptome expression profiles from patient cells, and cerebellar and retinal organoids retrieved from the GEO database were integrated. Functional enrichment analysis and protein-protein interaction networks were used to identify key molecules, and their expression levels were validated using Western blot analysis.ResultsGenetic testing revealed novel compound heterozygous variations in the proband's ACO2 gene (NM:001098), including c.854A&amp;gt;G (p.Asn285Ser) and c.1183C&amp;gt;T (p.Arg395Cys). Predictive analysis of the tertiary structure of the ACO2 protein suggests that both p.Asn285Ser and p.Arg395Cys affect the binding ability of ACO2 to ligands. The mitochondrial aconitase activity and mtDNA copy number in the proband's leukocytes were significantly reduced. Transcriptomic data analysis identified 80 key candidate genes involved in ACO2-related neuropathy. Among these, LRP8 and ANK3, whose gene expression levels were significantly positively correlated with ACO2, were further validated by Western blot analysis.ConclusionsThis study expands the spectrum of pathogenic ACO2 variants, elucidates the potential molecular mechanisms underlying ACO2-related neuropathy, provides in-depth support for the pathogenicity of ACO2 genetic variations, and offers new insights into the pathogenesis of ICRD.",
+  "authors": [
+    "Wenke Yang",
+    "Shuyue Wang",
+    "Ke Yang",
+    "Yanjun Li",
+    "Zhenglong Guo",
+    "Jianmei Huang",
+    "Jinming Wang",
+    "Shixiu Liao"
+  ],
+  "year": 2024,
+  "doi": "10.3389/fncel.2024.1492048",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 2,
+  "open_access_pdf_url": "https://www.frontiersin.org/articles/10.3389/fncel.2024.1492048/full",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.3389_fncel.2024.1492048.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:56.479980+00:00",
+  "raw_metadata": {
+    "doi": "10.3389/fncel.2024.1492048",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

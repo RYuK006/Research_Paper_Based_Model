@@ -1,0 +1,34 @@
+{
+  "id": "s2:doi:10.1016/j.febslet.2007.06.067",
+  "title": "An apoptosis‐related gene network induced by novel compound‐cRGD in human breast cancer cells",
+  "abstract": "Synthetic peptides with the arginine‐glycine‐aspartate (RGD) motif have been used widely as inhibitors of integrin–ligand interactions to study cell growth, adhesion, migration and differentiation. We designed cyclic‐RGD peptide (Tpa‐RGDWPC‐, cRGD) which could cause cell death in MCF‐7 cell line. In order to understand the mechanism involved in cRGD‐induced apoptosis, we used microarray, real‐time quantitative PCR (Q‐PCR) and bioinformatics to study the effects of cRGD on breast cancer cell line MCF‐7. By time‐series gene expression measurements and our developed software BSIP and GeneNetwork, we reconstructed an apoptosis‐related gene network. In the network, caspase‐9, located at the upstream, activates downstream effector caspases such as caspase‐7, leading to the induction of caspase‐4. Combined our previous proteomics data with newly performed docking simulation, it indicated that the cell death induced by cRGD may be triggered through blocking integrin signaling to the extracellular matrix and activation of caspase pathway. This study provides a molecular explanation of cRGD treatment in breast cancer cells and set forth a constructive far‐reaching impact on breast cancer therapy.",
+  "authors": [
+    "Tsui-Chin Huang",
+    "Hsuan-Cheng Huang",
+    "Chih-Chin Chang",
+    "Hsin-Yi Chang",
+    "Chern-Han Ou",
+    "Chun-Hua Hsu",
+    "Shui-Tein Chen",
+    "Hsueh-Fen Juan"
+  ],
+  "year": 2007,
+  "doi": "10.1016/j.febslet.2007.06.067",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 10,
+  "open_access_pdf_url": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1016%2Fj.febslet.2007.06.067",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1016_j.febslet.2007.06.067.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:21.638651+00:00",
+  "raw_metadata": {
+    "doi": "10.1016/j.febslet.2007.06.067",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

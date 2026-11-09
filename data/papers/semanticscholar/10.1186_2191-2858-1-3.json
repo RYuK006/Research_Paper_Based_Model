@@ -1,0 +1,29 @@
+{
+  "id": "s2:doi:10.1186/2191-2858-1-3",
+  "title": "Analogue-based approaches in anti-cancer compound modelling: the relevance of QSAR models",
+  "abstract": "Abstract                        Background             QSAR is among the most extensively used computational methodology for analogue-based design. The application of various descriptor classes like quantum chemical, molecular mechanics, conceptual density functional theory (DFT)- and docking-based descriptors for predicting anti-cancer activity is well known. Although in vitro assay for anti-cancer activity is available against many different cell lines, most of the computational studies are carried out targeting insufficient number of cell lines. Hence, statistically robust and extensive QSAR studies against 29 different cancer cell lines and its comparative account, has been carried out.                                   Results             The predictive models were built for 266 compounds with experimental data against 29 different cancer cell lines, employing independent and least number of descriptors. Robust statistical analysis shows a high correlation, cross-validation coefficient values, and provides a range of QSAR equations. Comparative performance of each class of descriptors was carried out and the effect of number of descriptors (1-10) on statistical parameters was tested. Charge-based descriptors were found in 20 out of 39 models (approx. 50%), valency-based descriptor in 14 (approx. 36%) and bond order-based descriptor in 11 (approx. 28%) in comparison to other descriptors. The use of conceptual DFT descriptors does not improve the statistical quality of the models in most cases.                                   Conclusion             Analysis is done with various models where the number of descriptors is increased from 1 to 10; it is interesting to note that in most cases 3 descriptor-based models are adequate. The study reveals that quantum chemical descriptors are the most important class of descriptors in modelling these series of compounds followed by electrostatic, constitutional, geometrical, topological and conceptual DFT descriptors. Cell lines in nasopharyngeal (2) cancer average R               2 = 0.90 followed by cell lines in melanoma cancer (4) with average R               2 = 0.81 gave the best statistical values.",
+  "authors": [
+    "Mohammed Hussaini Bohari",
+    "Hemant Kumar Srivastava",
+    "Garikapati Narahari Sastry"
+  ],
+  "year": 2011,
+  "doi": "10.1186/2191-2858-1-3",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 31,
+  "open_access_pdf_url": "https://link.springer.com/content/pdf/10.1186/2191-2858-1-3.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1186_2191-2858-1-3.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:56.281048+00:00",
+  "raw_metadata": {
+    "doi": "10.1186/2191-2858-1-3",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

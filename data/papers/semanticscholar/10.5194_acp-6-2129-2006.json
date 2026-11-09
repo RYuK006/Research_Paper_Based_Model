@@ -1,0 +1,32 @@
+{
+  "id": "s2:doi:10.5194/acp-6-2129-2006",
+  "title": "Impact of climate variability and land use changes on global biogenic volatile organic compound emissions",
+  "abstract": "Abstract. A biogenic emissions scheme has been incorporated in the global dynamic vegetation model ORCHIDEE (Organizing Carbon and Hydrology in Dynamic EcosystEms) in order to calculate global biogenic emissions of isoprene, monoterpenes, methanol, acetone, acetaldehyde, formaldehyde and formic and acetic acids. Important parameters such as the leaf area index are fully determined by the global vegetation model and the influences of light extinction (for isoprene emissions) and leaf age (for isoprene and methanol emissions) are also taken into account. We study the interannual variability of biogenic emissions using the satellite-based climate forcing ISLSCP-II as well as relevant CO2 atmospheric levels, for the 1983–1995 period. Mean global emissions of 460 TgC/yr for isoprene, 117 TgC/yr for monoterpenes, 106 TgC/yr for methanol and 42 TgC/yr for acetone are predicted. The mean global emission of all biogenic compounds is 752±16 TgC/yr with extremes ranging from 717 TgC/yr in 1986 to 778 TgC/yr in 1995, that is a 8.5% increase between both. This variability differs significantly from one region to another and among the regions studied, biogenic emissions anomalies were the most variable in Europe and the least variable in Indonesia (isoprene and monoterpenes) and North America (methanol). Two scenarios of land use changes are considered using the 1983 climate and atmospheric CO2 conditions, to study the sensitivity of biogenic emissions to vegetation alteration, namely tropical deforestation and European afforestation. Global biogenic emissions are highly affected by tropical deforestation, with a 29% decrease in isoprene emission and a 22% increase in methanol emission. Global emissions are not significantly affected by European afforestation, but on a European scale, total biogenic VOCs emissions increase by 54%.",
+  "authors": [
+    "J. Lathière",
+    "D. A. Hauglustaine",
+    "A. D. Friend",
+    "N. De Noblet-Ducoudré",
+    "N. Viovy",
+    "G. A. Folberth"
+  ],
+  "year": 2006,
+  "doi": "10.5194/acp-6-2129-2006",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 281,
+  "open_access_pdf_url": "https://acp.copernicus.org/articles/6/2129/2006/acp-6-2129-2006.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.5194_acp-6-2129-2006.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:13.580667+00:00",
+  "raw_metadata": {
+    "doi": "10.5194/acp-6-2129-2006",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

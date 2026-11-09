@@ -1,0 +1,31 @@
+{
+  "id": "s2:doi:10.1158/1535-7163.mct-05-0029",
+  "title": "Identification of novel targeting peptides for human ovarian cancer cells using “one-bead one-compound” combinatorial libraries",
+  "abstract": "AbstractUsing “one-bead one-compound” combinatorial chemistry technology, we generated random peptide libraries containing millions of 90 μm TentaGel beads, each with its own unique amino acid sequence. A cyclic random 8-mer library was screened with CAOV-3 (a human ovarian adenocarcinoma cell line) and beads with a unique ligand that bind to the cell surface receptors were coated by one or more layers of cells. These positive beads were isolated, stripped, and microsequenced. Several peptide motifs were identified from these screenings, some of which were novel and unique, e.g., cDGX4GX6X7c. Structure-activity relationship studies of this peptide revealed that the l-aspartate residue at position 2, the two glycines at positions 3 and 5, and the two d-cysteines at the amino and COOH terminus are critical for activity. In addition, a hydrophobic residue was preferred at position X4, whereas amino acids at positions X6 and X7 were more variable. Binding of this peptide to a number of different cancer cell lines and normal cells was also determined and we observed that peptides with this motif bound preferentially to three other human ovarian cancer cell lines (ES-2, SKOV-3, and OVCAR-3) as well as a human glioblastoma cancer cell line (A172). Structural analysis of the peptides using high-resolution nuclear magnetic resonance spectroscopy revealed strong conformational similarity among all peptides with cX1GX4GX6X7c motif. Blocking study with a panel of anti-integrin antibodies strongly suggests α3 integrin present on these ovarian adenocarcinoma cells is the target receptor for this peptide.",
+  "authors": [
+    "Olulanu H. Aina",
+    "Jan Marik",
+    "Ruiwu Liu",
+    "Derick H. Lau",
+    "Kit S. Lam"
+  ],
+  "year": 2005,
+  "doi": "10.1158/1535-7163.mct-05-0029",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 71,
+  "open_access_pdf_url": "https://aacrjournals.org/mct/article-pdf/4/5/806/1870382/806-813.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1158_1535-7163.mct-05-0029.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:47.024779+00:00",
+  "raw_metadata": {
+    "doi": "10.1158/1535-7163.mct-05-0029",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

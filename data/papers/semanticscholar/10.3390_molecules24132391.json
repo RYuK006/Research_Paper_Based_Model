@@ -1,0 +1,30 @@
+{
+  "id": "s2:doi:10.3390/molecules24132391",
+  "title": "Identification of Pyrvinium, an Anthelmintic Drug, as a Novel Anti-Adipogenic Compound Based on the Gene Expression Microarray and Connectivity Map",
+  "abstract": "Obesity is a serious health problem, while the current anti-obesity drugs are not very effective. The Connectivity Map (C-Map), an in-silico drug screening approach based on gene expression profiles, has recently been indicated as a promising strategy for drug repositioning. In this study, we performed mRNA expression profile analysis using microarray technology and identified 435 differentially expressed genes (DEG) during adipogenesis in both C3H10T1/2 and 3T3-L1 cells. Then, DEG signature was uploaded into C-Map, and using pattern-matching methods we discovered that pyrvinium, a classical anthelminthic, is a novel anti-adipogenic differentiation agent. Pyrvinium suppressed adipogenic differentiation in a dose-dependent manner, as evidenced by Oil Red O staining and the mRNA levels of adipogenic markers. Furthermore, we identified that the inhibitory effect of pyrvinium was resulted primarily from the early stage of adipogenesis. Molecular studies showed that pyrvinium downregulated the expression of key transcription factors C/EBPa and PPARγ. The mRNA levels of notch target genes Hes1 and Hey1 were obviously reduced after pyrvinium treatment. Taken together, this study identified many differentially expressed genes involved in adipogenesis and demonstrated for the first time that pyrvinium is a novel anti-adipogenic compound for obesity therapy. Meanwhile, we provided a new strategy to explore potential anti-obesity drugs.",
+  "authors": [
+    "Zonggui Wang",
+    "Zhong Dai",
+    "Zhicong Luo",
+    "Changqing Zuo"
+  ],
+  "year": 2019,
+  "doi": "10.3390/molecules24132391",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 15,
+  "open_access_pdf_url": "https://www.mdpi.com/1420-3049/24/13/2391/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.3390_molecules24132391.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:56.399257+00:00",
+  "raw_metadata": {
+    "doi": "10.3390/molecules24132391",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

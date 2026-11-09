@@ -1,0 +1,30 @@
+{
+  "id": "s2:doi:10.1096/fasebj.22.1_supplement.261.2",
+  "title": "A replicase sliding clamp bound to DNA and a novel chemical compound that inhibits DNA replication",
+  "abstract": "Cellular replicases utilize a sliding clamp that holds the replicase to DNA for high processivity. We have solved the structure of the                     E. coli                     β clamp in complex with a peptide of the Pol III replicase and compare it to the structures of β–δ and Pol IV‐β. In overview, all proteins that bind the clamp utilize a common protein binding pocket, although they also bind unique positions on β. Using this information we have devised a high‐throughput assay to screen chemical libraries for small organic chemicals that disrupt interaction between β and Pol III. We have obtained several compounds, some of which inhibit                     E. coli                     cell growth. The clamp binding pocket is conserved and some chemical compounds also inhibit gram positive clamp‐DNA polymerase interactions.                                      We have also solved the structure of β clamp bound to primed DNA. The duplex is highly tilted within the ring. This may facilitate switching of DNA among different polymerases bound to one clamp. Surprisingly, template ssDNA fits into the protein binding pocket of β. In fact, a polymerase peptide competes the ssDNA off of β, implying that ssDNA binding to β serves a “placeholder” function that locks the clamp to the primed site after clamp loading. This interaction is severed upon association of Pol III to β, and this frees the clamp for rapid sliding on dsDNA during fast processive replication.                   (Funded by the NIH).",
+  "authors": [
+    "Mike O'Donnell",
+    "Roxana E Georgescu",
+    "John Kuriyan",
+    "Xiang‐Peng Kong"
+  ],
+  "year": 2008,
+  "doi": "10.1096/fasebj.22.1_supplement.261.2",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": null,
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1096_fasebj.22.1_supplement.261.2.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:02.215605+00:00",
+  "raw_metadata": {
+    "doi": "10.1096/fasebj.22.1_supplement.261.2",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

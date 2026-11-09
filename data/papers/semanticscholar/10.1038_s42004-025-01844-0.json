@@ -1,0 +1,30 @@
+{
+  "id": "s2:doi:10.1038/s42004-025-01844-0",
+  "title": "Generalizable compound protein interaction prediction with a model incorporating protein structure aware and compound property aware language model representations",
+  "abstract": "Abstract                                        Compound–protein interaction (CPI) prediction plays a crucial role in drug discovery by aiding the identification of binding and affinities between small molecules and proteins. Current deep learning models rely heavily on sequence-based representations and suffer from a lack of labeled data, which restricts their accuracy and generalizability. To overcome these challenges, we propose GenSPARC (a model with                     Gen                     eralized                     S                     tructure- and                     P                     roperty-                     A                     ware                     R                     epresentations of protein and chemical language models for                     C                     PI prediction), a deep learning model that leverages structure-aware protein representations derived from AlphaFold2 predictions and FoldSeek’s three-dimensional interaction alphabet. Compound features were extracted using graph convolutional networks and a pretrained chemical language model, thereby ensuring comprehensive multimodal representation. An attention mechanism further enhanced interaction modeling by capturing intricate binding patterns. GenSPARC was validated successfully with multiple CPI benchmark datasets, demonstrating strong generalizability across challenging data splits and competitive results in virtual screening tasks. Therefore, GenSPARC will substantially advance artificial intelligence-driven drug discovery.",
+  "authors": [
+    "Yiming Zhang",
+    "Ryuichiro Ishitani",
+    "Mizuki Takemoto",
+    "Atsuhiro Tomita"
+  ],
+  "year": 2025,
+  "doi": "10.1038/s42004-025-01844-0",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 1,
+  "open_access_pdf_url": "https://www.nature.com/articles/s42004-025-01844-0.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1038_s42004-025-01844-0.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:42:34.182809+00:00",
+  "raw_metadata": {
+    "doi": "10.1038/s42004-025-01844-0",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

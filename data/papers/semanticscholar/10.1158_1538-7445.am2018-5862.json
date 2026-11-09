@@ -1,0 +1,35 @@
+{
+  "id": "s2:doi:10.1158/1538-7445.am2018-5862",
+  "title": "Abstract 5862: 3,5-bis(2,4-difluorobenzylidene)-4-piperidone, a novel compound potently inhibits HNSCC through a DCLK1 mediated mechanism",
+  "abstract": "Abstract                Background: Head and neck squamous cell carcinoma (HNSCC) affects 40,000 patients annually and is associated with &amp;lt;50% 5-year survival despite aggressive therapy. Cancer stem cells (CSC) have been reported to contribute to tumor aggressiveness and therapeutic resistance in several tumor types, including HNSCC. Very little is known about the molecular characterization of CSCs in HNSCC. High expression of Doublecortin-like Kinase 1 (DCLK1), a microtubule associated protein that has been previously reported to mark quiescent CSCs of the colon and pancreas, is correlated with poor prognostic outcomes according to TCGA databases. We hypothesized that DCLK1 expression confers stem cell properties and hence is a target for therapy in HNSCC.                Methods: HNSCC tumor micro array was stained with DCLK1 to evaluate DCLK1 expression in HNSCC compared to normal mucosal tissue. Additionally, HNSCC cells were screened for expression of DCLK1 to assess expression. HN5 and FaDu cells were treated with DiFiD (0-10µM) and analyzed for cell viability in 2-dimensional and 3-dimensional cultures. Expression for markers of apoptosis, stemness, and cell cycle regulation were determined by western blotting. Furthermore, Caspase 3/7 assay and Annexin V/Pi staining were performed to confirm induction of apoptosis. Thermal shift binding assays (CETSA) were performed to confirm DiFiD:DCLK1 interaction. Lastly, HN5 tumor xenograft toxicity studies were performed in Balb c/ nude FOXN1 mice to determine the antitumor efficacy of DiFiD in vivo.                Results: We identified expression of DCLK1 in HNSCC cell lines and patient samples. IHC demonstrated increased expression of DCLK1 in HNSCC compared to normal mucosal tissue. Furthermore, DCLK1 was upregulated in HNSCC cells lines. CETSA assay demonstrated increased thermal stability of DCLK1 following incubation with DiFiD, suggesting DiFiD binds to DCLK1. There was a dose and time dependent reduction in cell viability both in 2-dimensional and 3-dimensional culture models following treatment with DiFiD in both cell lines. DiFiD induced caspase mediated apoptosis following G2/M cell cycle arrest. DiFiD significantly inhibited tumor growth in vivo, as confirmed by reduction in tumor volume and weight. DiFiD also showed little off target toxicity, as mouse weights were not significantly altered following DiFiD treatment.                Conclusions: Taken together, these data demonstrate that DiFiD has potent anti-cancer activity and therefore may serve as a potential novel therapy for the treatment of HNSCC.                Citation Format: David Standing, Jake New, Prasad Dandawate, Dharmalingam Subramaniam, Vusala Snyder, Jonathan Enders, Afreen Sayed, Shrikant Anant, Sufi M. Thomas. 3,5-bis(2,4-difluorobenzylidene)-4-piperidone, a novel compound potently inhibits HNSCC through a DCLK1 mediated mechanism [abstract]. In: Proceedings of the American Association for Cancer Research Annual Meeting 2018; 2018 Apr 14-18; Chicago, IL. Philadelphia (PA): AACR; Cancer Res 2018;78(13 Suppl):Abstract nr 5862.",
+  "authors": [
+    "David Standing",
+    "Jake New",
+    "Prasad Dandawate",
+    "Dharmalingam Subramaniam",
+    "Vusala Snyder",
+    "Jonathan Enders",
+    "Afreen Sayed",
+    "Shrikant Anant",
+    "Sufi M. Thomas"
+  ],
+  "year": 2018,
+  "doi": "10.1158/1538-7445.am2018-5862",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://aacrjournals.org/cancerres/article/78/13_Supplement/5862/630451/Abstract-5862-3-5-bis-2-4-difluorobenzylidene-4",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1158_1538-7445.am2018-5862.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:05.913663+00:00",
+  "raw_metadata": {
+    "doi": "10.1158/1538-7445.am2018-5862",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "s2:doi:10.1142/s2737416526501085",
+  "title": "Comprehensive Molecular Dynamics Simulation and Immunoblotting Analysis of Novel Azole Compound as Potential Inhibitor of TRAF2 and NCK-Interacting Kinase (TNIK) in Colorectal Cancer",
+  "abstract": "Colorectal cancer (CRC) is one of the most prominent cancer-causing mortalities globally, which is primarily influenced by the dysregulation of the Wnt/[Formula: see text]-catenin signaling pathway. TRAF2- and NCK-interacting kinase (TNIK) is a crucial regulator involved in this pathway, functioning by phosphorylating the transcription factor TCF4 to maintain the oncogenic gene expression. In our study, we investigated the effectiveness of synthetic azole derivatives as TNIK inhibitors using in silicoand in vitroanalysis. Among the three evaluated azole derivatives, LC_112060 exhibited the most potent anticancer activity and subsequent mechanistic investigations, including gene and protein expression analyses, molecular docking, molecular dynamics simulations, principal component analysis, free energy landscape (FEL) analysis, and residue interaction network studies. The semi-quantitative RT-PCR and immunoblotting analyses demonstrated the specificity of LC_112060 for TNIK, further downregulating TNIK and TCF mRNA and protein expression, leading to disruption of the [Formula: see text]-catenin/TCF4 transcriptional complex. Computational docking revealed a high binding affinity of LC_112060 for the TNIK ATP-binding pocket, exceeding that of ATP and the reference inhibitor mebendazole. Molecular dynamics simulations corroborated that LC_112060 stabilizes TNIK in fewer, low-energy conformational states, with constrained RMSD and a compact radius of gyration, while residence-time analysis revealed prolonged occupancy of the binding pocket. Principal component analysis, FEL mapping, and elastic network modeling consistently demonstrated that LC_112060 constrains TNIK’s conformational flexibility. These findings collectively underscore LC_112060 as a potent and selective TNIK inhibitor that may negatively affect Wnt/[Formula: see text]-catenin signaling and induce cell death in CRC. Given TNIK’s growing significance across various oncogenic pathways, the compound LC_112060 is a promising lead candidate for subsequent preclinical development in targeted CRC therapy.",
+  "authors": [
+    "Sherlin Rosita Arokiaraj",
+    "Daniel A. Gideon",
+    "R. Jasmine"
+  ],
+  "year": 2026,
+  "doi": "10.1142/s2737416526501085",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://www.worldscientific.com/doi/pdf/10.1142/S2737416526501085",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1142_s2737416526501085.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:42:32.901109+00:00",
+  "raw_metadata": {
+    "doi": "10.1142/s2737416526501085",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "s2:doi:10.26577/ijbch2024v17.i2.10",
+  "title": "Enhanced compound selection using holistic virtual screening for gatifloxacin analogues to overcome dysglycemic effects",
+  "abstract": "Gatifloxacin, a fluoroquinolone-class antibacterial agent, is effective but has been associated with dysglycemic side effects, leading to the withdrawal of its oral formulation. Patients treated with gatifloxacin have shown notable decrease blood glucose level and after four days of treatment there will be increases in blood glucose levels. To mitigate this issue, novel gatifloxacin derivatives were designed and assessed for their efficacy and safety through in silico molecular docking studies. The derivatives aim to prevent dysglycemia by blocking human pancreatic alpha-amylase (PDB ID: 5TD4). These modifications are hypothesized to retain antibacterial effectiveness while minimizing blood glucose fluctuations. Using AutoDock, molecular docking of gatifloxacin and its derivatives with α -amylase (PDB ID: 5TD4) revealed binding energies, with gatifloxacin exhibiting a binding interaction of -7.1 Kcal/mol; meanwhile derivatives i) Gati I = -9.0 Kcal/mol, ii) Gati-II showed -8.2 Kcal/mol; iii) Gati III -8.5 Kcal/mol; iv) Gati IV = -9.3 Kcal/mol; v) Gati V = -8.9 Kcal/mol; vi) Gati VI = -7.6 Kcal/mol; Acarbose = -13.8 Kcal/mol. Unlike gatifloxacin, these derivatives demonstrated stronger binding interactions with 5TD4, potentially reducing dysglycemic risks. This study contributes to design the targeted antibacterial agents that minimize dysglycemia-related complications, thus enhancing clinical outcomes.",
+  "authors": [
+    "P.P. Majalekar",
+    "P.J. Shirote"
+  ],
+  "year": 2024,
+  "doi": "10.26577/ijbch2024v17.i2.10",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://ijbch.kaznu.kz/index.php/kaznu/article/download/876/421",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.26577_ijbch2024v17.i2.10.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:46.833278+00:00",
+  "raw_metadata": {
+    "doi": "10.26577/ijbch2024v17.i2.10",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

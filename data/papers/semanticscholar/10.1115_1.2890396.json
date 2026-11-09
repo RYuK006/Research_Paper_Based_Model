@@ -1,0 +1,29 @@
+{
+  "id": "s2:doi:10.1115/1.2890396",
+  "title": "Application of a Novel Hybrid Intelligent Method to Compound Fault Diagnosis of Locomotive Roller Bearings",
+  "abstract": "To diagnose compound faults of locomotive roller bearings accurately, a novel hybrid intelligent diagnosis method is proposed in this paper. First of all, vibration signals are preprocessed to mine valid fault characteristic information. They are filtered and at the same time, they are decomposed by the empirical mode decomposition method and eight intrinsic mode functions (IMFs) are acquired. The filtered signals and IMFs are further demodulated to obtain their Hilbert envelope spectrums. Second, six feature sets are extracted, and they are time- and frequency-domain statistical features of the raw and preprocessed signals. Then, each feature set is evaluated and a few salient features are selected from it by applying the improved distance evaluation technique. Correspondingly, six salient feature sets are obtained. Finally, the six salient feature sets are, respectively, input into six classifiers based on adaptive neurofuzzy inference system (ANFIS), and genetic algorithm is employed to combine the outputs of the six ANFISs and to attain the final diagnosis result. The diagnosis results of the compound faults of the locomotive roller bearings verify that the proposed hybrid intelligent method may accurately recognize not only a single fault and fault severities but also compound faults.",
+  "authors": [
+    "Yaguo Lei",
+    "Zhengjia He",
+    "Yanyang Zi"
+  ],
+  "year": 2008,
+  "doi": "10.1115/1.2890396",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 41,
+  "open_access_pdf_url": "http://asmedigitalcollection.asme.org/vibrationacoustics/article-pdf/doi/10.1115/1.2890396/5830248/034501_1.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1115_1.2890396.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:37.370735+00:00",
+  "raw_metadata": {
+    "doi": "10.1115/1.2890396",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

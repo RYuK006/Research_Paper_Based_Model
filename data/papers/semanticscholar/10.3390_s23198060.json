@@ -1,0 +1,33 @@
+{
+  "id": "s2:doi:10.3390/s23198060",
+  "title": "A Novel Deep Convolutional Neural Network Combining Global Feature Extraction and Detailed Feature Extraction for Bearing Compound Fault Diagnosis",
+  "abstract": "This study researched the application of a convolutional neural network (CNN) to a bearing compound fault diagnosis. The proposed idea lies in the ability of CNN to automatically extract fault features from complex raw signals. In our approach, to extract more effective features from a raw signal, a novel deep convolutional neural network combining global feature extraction with detailed feature extraction (GDDCNN) is proposed. First, wide and small kernel sizes are separately adopted in shallow and deep convolutional layers to extract global and detailed features. Then, the modified activation layer with a concatenated rectified linear unit (CReLU) is added following the shallow convolution layer to improve the utilization of shallow global features of the network. Finally, to acquire more robust features, another strategy involving the GMP layer is utilized, which replaces the traditional fully connected layer. The performance of the obtained diagnosis was validated on two bearing datasets. The results show that the accuracy of the compound fault diagnosis is over 98%. Compared with three other CNN-based methods, the proposed model demonstrates better stability.",
+  "authors": [
+    "Shuzhen Han",
+    "Pingjuan Niu",
+    "Shijie Luo",
+    "Yitong Li",
+    "Dong Zhen",
+    "Guojin Feng",
+    "Shengke Sun"
+  ],
+  "year": 2023,
+  "doi": "10.3390/s23198060",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 12,
+  "open_access_pdf_url": "https://www.mdpi.com/1424-8220/23/19/8060/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.3390_s23198060.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:56.343823+00:00",
+  "raw_metadata": {
+    "doi": "10.3390/s23198060",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

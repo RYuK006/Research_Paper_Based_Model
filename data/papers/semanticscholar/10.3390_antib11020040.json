@@ -1,0 +1,30 @@
+{
+  "id": "s2:doi:10.3390/antib11020040",
+  "title": "Discovering Novel Small Molecule Compound for Prevention of Monoclonal Antibody Self-Association",
+  "abstract": "Designing an antibody with the desired affinity to the antigen is challenging, often achieved by lengthening the hydrophobic CDRs, which can lead to aggregation and cause major hindrance to the development of successful biopharmaceutical products. Aggregation can cause immunogenicity, viscosity and stability issues affecting both the safety and quality of the product. As the hydrophobic residues on the CDR are required for direct binding to antigens, it is not always possible to substitute these residues for aggregation-reduction purposes. Therefore, discovery of specific excipients to prevent aggregation is highly desirable for formulation development. Here, we used a combination of in silico screening methods to identify aggregation-prone regions on an aggregation-prone therapeutic antibody. The most aggregation-prone region on the antibody was selected to conduct virtual screening of compounds that can bind to such regions and act as an aggregation breaker. The most promising excipient candidate was further studied alongside plain buffer formulations and formulations with trehalose using coarse-grained molecular dynamics (CGMD) simulations with MARTINI force field. Mean interaction value between two antibody molecules in each formulation was calculated based on 1024 replicates of 512 ns of such CGMD simulations. Corresponding formulations with an excipient:antibody ratio of 1:5 were compared experimentally by measuring the diffusion interaction parameter kD and accelerated stability studies. Although the compound with the highest affinity score did not show any additional protective effects compared with trehalose, this study proved using a combination of in silico tools can aid excipient design and formulation development.",
+  "authors": [
+    "Lok Hin Lui",
+    "Christopher F. van der Walle",
+    "Steve Brocchini",
+    "Ajoy Velayudhan"
+  ],
+  "year": 2022,
+  "doi": "10.3390/antib11020040",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 10,
+  "open_access_pdf_url": "https://www.mdpi.com/2073-4468/11/2/40/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.3390_antib11020040.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:42.877735+00:00",
+  "raw_metadata": {
+    "doi": "10.3390/antib11020040",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

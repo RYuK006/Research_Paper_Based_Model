@@ -1,0 +1,31 @@
+{
+  "id": "s2:doi:10.1186/s13065-024-01150-1",
+  "title": "In silico evaluation of a new compound incorporating 4(3H)-quinazolinone and sulfonamide as a potential inhibitor of a human carbonic anhydrase",
+  "abstract": "AbstractThe present study investigates the potential of a new compound containing sulfonamide and 4(3H)-quinazolinone to inhibit the hCA-IIX enzyme using in silico methods. Density functional theory-based calculations of electronic properties have been addressed through the analysis of frontier molecular orbitals, molecule electrostatic potential, and IR and UV–vis spectroscopy data. A molecular electrostatic potential analysis predicts that the target protein will be most inhibited by the sulfonamide groups since it has the highest potential spots for electrophile and nucleophile attack. The investigated compound exhibited good ADMET properties and satisfied the Lipinski rule of drug likeness. The hCA-IIX protein binding affinity with the proposed compound was determined by molecular docking analysis, which revealed a stable conformation with more negative binding energy (−12.19 kcal/mol) than the standard AZA drug (−7.36 kcal/mol). Moreover, a molecular dynamics study confirmed the docking results through trajectory analysis. The RMSD and RMSF both showed convergence and no significant fluctuations during the simulation time, which revealed a stable interaction within the active domain of the target protein. According to these findings, the proposed compound has a good pharmacological nature and could potentially be an efficient drug against hCAIX enzymes.",
+  "authors": [
+    "Ahmed M. Alkaoud",
+    "Abbas I. Alakhras",
+    "Moez A. Ibrahim",
+    "S. K. Alghamdi",
+    "Rageh K. Hussein"
+  ],
+  "year": 2024,
+  "doi": "10.1186/s13065-024-01150-1",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 5,
+  "open_access_pdf_url": "https://link.springer.com/content/pdf/10.1186/s13065-024-01150-1.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1186_s13065-024-01150-1.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:09.658652+00:00",
+  "raw_metadata": {
+    "doi": "10.1186/s13065-024-01150-1",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

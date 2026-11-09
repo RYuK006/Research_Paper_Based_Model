@@ -1,0 +1,32 @@
+{
+  "id": "s2:doi:10.1002/alz.081572",
+  "title": "A novel 3D imaging method to establish baseline amyloid‐beta plaque load and analyze compound efficacy in pre‐clinical Alzheimer’s disease animal models",
+  "abstract": "AbstractBackgroundAmyloid‐beta (Aß) plaque deposition in the brain represents a significant hallmark of Alzheimer’s Disease (AD). Standard laboratory approaches assessing Aß lack the ability to pair high‐throughput whole‐organ imaging with region‐specific quantitation, and often require tissue homogenization. To analyze changes in Aß spatiotemporally, we developed a novel Serial Two‐Photon Plus (STP2) pipeline to quantify plaque progression and depression as a function of brain region, resulting in indexed brain sections for secondary analysis using MALDI HiPLEX‐IHC with imaging mass spectrometry (IMS).MethodPlaques in the well characterized 5XFAD mouse model of AD were labeled with Methoxy‐X04, an Aß plaque‐specific compound, prior to transcardial perfusion and whole‐brain excision. The STP2 platform uses a TissueCyte system to produce high‐resolution multi‐channel datasets, yielding 3D models of each brain. The Allen Mouse Brain Common Coordinate Framework (CCFv3) was registered to each brain, and our automated pipeline quantified plaque load and density per brain region. Select resulting sections were analyzed using AmberGen MALDI HiPLEX‐IHC and Bruker Daltonics IMS for Aß42, pTau, GFAP, GLUT1, MBP, NeuN, NF‐L, PVALB, SNCA and SYN‐I.ResultQuantifying baseload plaque distribution in the 5XFAD model at 2, 3, 4, and 6‐months revealed significant changes in density of Aß plaques both spatially and temporally. STP2 imaging, combined with CCFv3 mapping and secondary proteomic analysis allows for targeted evaluation of compound treatment on the Aß plaques.ConclusionThe STP2 pipeline produces translational high‐throughput pre‐clinical AD data with enhanced sensitivity and precision, with resulting sections remaining in‐tact for further secondary analysis of spatial proteomics and pharmacodynamics in the brain.",
+  "authors": [
+    "Gianna Ferron",
+    "Stefan T Linehan",
+    "Tim Ragan",
+    "Kevin J Elk",
+    "Dylan Garceau",
+    "Michael Sasner"
+  ],
+  "year": 2023,
+  "doi": "10.1002/alz.081572",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://alz-journals.onlinelibrary.wiley.com/doi/pdf/10.1002/alz.081572",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1002_alz.081572.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:17.077124+00:00",
+  "raw_metadata": {
+    "doi": "10.1002/alz.081572",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

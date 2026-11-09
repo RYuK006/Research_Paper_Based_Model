@@ -1,0 +1,30 @@
+{
+  "id": "s2:doi:10.2174/138620730102220119153250",
+  "title": "New developments in automated PrepLCMS extends the robustness and utility of the method for compound library analysis and purification",
+  "abstract": "New developments in the high throughput purification of combinatorial libraries by automated preparative LC-MS is presented. To facilitate high speed purifications at the multimilligram level, short columns operated at ultra high flow rates were incorporated. In order to match the linear velocity of the short analytical columns for high speed separations (operated at 4.0 mL/min), it was required to operate the preparative columns at flow rates in excess of 70 mL/min. For chromatographically well-behaved compounds, analytical LC-MS analyses and preparative LC-MS analyses could be achieved in as little as 5 min. For compounds exhibiting poor chromatographic peak shapes and/or for compound mixtures requiring higher resolution separations, slightly longer preparative LC-MS analysis times were required (8-10 min/sample). &lt;p&gt; Fraction collection is based on mass-triggering (as opposed to UV triggering) is an exquisitely sesitive and selective technique for purifying combinatorial libraries. However, because of its inherent  selectively ( i.e; only the predicted synthetic product is isolated), synthetic by-products or other explainable reaction products are ignoredduring the purification process. In some instances especially if the structure of these synthetic by- products is known ( or can be elucidated readily), these compounds might and should be isolated for biological testing as well, PreplCMS purifications in our laboratory have been achieved using  Applescripting  as a way to permit communication between the mass spectrometer and the fraction collector. This Applescript was modified to permit  the input of up to four unique  ( +/  or same )  masses in the data acquisition software to permit purification of up to four compounds from a single run. This was demonstrated for a combinatorial library synthesized  in a microtiter plate and purified directly into a fraction collector containing four deep-well microtiter plates, making  these purified microtiter plates amenable to direct biological screening.",
+  "authors": [
+    "L. Zeng",
+    "X . Wang",
+    "T. Wang",
+    "D. B. Kassel"
+  ],
+  "year": 1998,
+  "doi": "10.2174/138620730102220119153250",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 28,
+  "open_access_pdf_url": "https://www.eurekaselect.com/article/download/200379",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.2174_138620730102220119153250.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:04.719573+00:00",
+  "raw_metadata": {
+    "doi": "10.2174/138620730102220119153250",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

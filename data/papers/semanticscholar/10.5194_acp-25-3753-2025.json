@@ -1,0 +1,35 @@
+{
+  "id": "s2:doi:10.5194/acp-25-3753-2025",
+  "title": "Mechanistic insights into chloroacetic acid production from atmospheric multiphase volatile organic compound–chlorine chemistry",
+  "abstract": "Chlorine-containing oxygenated volatile organic compounds (Cl-OVOCs) are indicators of atmospheric chlorine chemistry involving volatile organic compounds (VOCs). However, their formation mechanisms are insufficiently understood. Herein, a strong diel pattern of chloroacetic acid (C                     2                     H                     3                     O                     2                     Cl) was observed with daytime peaks at 19 and 13 ppt (1 h averages) in 2020 and 2021, respectively, at a coastal site in southern China. Ethene was previously proposed as the primary precursor responsible for daytime C                     2                     H                     3                     O                     2                     Cl levels, but a photochemical box model based on Master Chemical Mechanism (MCM) simulations indicates that ethene accounts for less than 1 %. Quantum chemical calculations suggest that other alkenes also can act as chloroacetic acid precursors. Using an updated gas-phase VOC–Cl chemistry model, we find that isoprene, the most abundant VOC at the sampling site, along with its oxidation products, accounts for 7 % of the observed C                     2                     H                     3                     O                     2                     Cl. Moreover, the simulation with the updated MCM produces appreciable levels of other Cl-OVOCs, especially chloroacetaldehyde, a precursor of C                     2                     H                     3                     O                     2                     Cl. We proposed the multiphase reaction of Cl-OVOCs to reconcile the overestimation of Cl-OVOCs and the underestimation of C                     2                     H                     3                     O                     2                     Cl in our gas-phase model. The estimated reactive uptake coefficients for various Cl-OVOCs range from 3.63×10-5 to 2.34×10-2, based on quantum chemical calculations and linear relationship modelling. The box model simulation with multiphase chemistry shows that the heterogeneous conversion of chloroacetaldehyde to C                     2                     H                     3                     O                     2                     Cl can contribute 24 %–48 % of the observed levels. Our study thus proposes a formation mechanism of gaseous C                     2                     H                     3                     O                     2                     Cl and highlights the potential importance of multiphase processes in atmospheric organic acid formation.",
+  "authors": [
+    "Mingxue Li",
+    "Men Xia",
+    "Chunshui Lin",
+    "Yifan Jiang",
+    "Weihang Sun",
+    "Yurun Wang",
+    "Yingnan Zhang",
+    "Maoxia He",
+    "Tao Wang"
+  ],
+  "year": 2025,
+  "doi": "10.5194/acp-25-3753-2025",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 6,
+  "open_access_pdf_url": "https://acp.copernicus.org/articles/25/3753/2025/acp-25-3753-2025.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.5194_acp-25-3753-2025.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:08.410632+00:00",
+  "raw_metadata": {
+    "doi": "10.5194/acp-25-3753-2025",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

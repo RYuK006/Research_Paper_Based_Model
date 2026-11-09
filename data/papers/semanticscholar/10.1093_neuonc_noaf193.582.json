@@ -1,0 +1,34 @@
+{
+  "id": "s2:doi:10.1093/neuonc/noaf193.582",
+  "title": "P18.18.B A NOVEL, POOLED, HIGH-THROUGHPUT SCREENING OF A CNS PENETRANT COMPOUND LIBRARY IDENTIFIES POTENTIAL BIOMARKER-DRIVEN THERAPEUTICS FOR GLIOBLASTOMA",
+  "abstract": "Abstract                                   BACKGROUND                   Identifying drug sensitivities that will translate to clinical practice for patients with glioblastoma (GBM) necessitates the use of a variety of cell models that recapitulate the heterogeneity of the disease. Screening of large drug libraries against large numbers of models is challenging due to both cost and complexity.                                                   MATERIAL AND METHODS                   We utilized a barcode-labeled, pooled system (CARPOOL) of a 23-member set of glioma spheroid cell (GSC) models that have undergone prior genomic characterization to evaluate the in vitro response of a library of 728 brain-penetrant compounds. Responses were validated using individual, representative GSCs. The library included 164 drugs associated with oncologic applications and almost two-thirds of the compounds had or are currently in clinical development.                                                   RESULTS                   A total of 450 (61.8%) showed response in at least a subset of models with only 8 (1.8%) demonstrating broad vs. selective/differential response. Of the drugs previously unknown in oncology, 299 (53%) demonstrated differential response across the GSCs. Clustering of compounds based on response across GSCs classified drugs of known mechanism of action closely. Interestingly, potential, often novel, off-target responses were identified. These include TIC10 (ONC201, dordaviprone) clustering with microtubule inhibitors or a previously described inhibitor of NPY1R clustering with an MDM2-p53 inhibitor. Analyses of the genomic alternations of the GSC panel identified specific associations with response, both previously known and novel, such as RB1 mutation and response to CDK4/6 inhibitors alterations. Further interrogation of reverse phase protein array (RPPA) data from the GSCs identified associations between drug response and protein levels, including Cyclin E1 levels and CDK4/6 response as well as phosphorylated c-Raf and histone deacetylase inhibitor response.                                                   CONCLUSION                   Our study presents a novel approach for advancing drug discovery for rapid preclinical evaluation and identifies not only responding subsets but potential selective, molecular biomarkers for downstream incorporation into clinical trials.",
+  "authors": [
+    "E P Sulman",
+    "Z Zhang",
+    "Y Ding",
+    "R Ezhilarasan",
+    "M Graciani",
+    "G McManus",
+    "A Modrek",
+    "J Karp"
+  ],
+  "year": 2025,
+  "doi": "10.1093/neuonc/noaf193.582",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://academic.oup.com/neuro-oncology/article-pdf/27/Supplement_3/iii172/64483083/noaf193.582.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1093_neuonc_noaf193.582.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:04.847967+00:00",
+  "raw_metadata": {
+    "doi": "10.1093/neuonc/noaf193.582",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

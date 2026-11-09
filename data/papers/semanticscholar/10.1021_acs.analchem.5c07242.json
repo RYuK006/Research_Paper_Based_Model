@@ -1,0 +1,30 @@
+{
+  "id": "s2:doi:10.1021/acs.analchem.5c07242",
+  "title": "Analytical Challenges and Strategies for Compound Identification Using Gas Chromatography–Ion Mobility Spectrometry",
+  "abstract": "Abstract                   Gas chromatography–ion mobility spectrometry (GC-IMS) is applied for the classification of complex samples using multivariate analysis of volatile organic compounds (VOCs) extracted from the matrix. However, feature identification remains one of its greatest challenges due to feature overlapping, variability of retention index (RI), and limited availability of drift time (DT) values of ions in libraries. Although combined annotation-and-confirmation approaches have been reported in the literature, no systematic and quantitative evaluation of their implementation in GC-IMS has been provided to date. This study addresses that gap by providing practical guidelines and a critical, evidence-based discussion of the challenges and strategies for VOCs identification in GC-IMS. Two approaches were evaluated. First, the use of a commercial library was examined, considering the influence of the employed RI and DT search margins on identification results, and highlighting the limitations of using RI values alone, as well as the decisive role of DT values. Second, the use of analytical standards as a validation tool, demonstrating their essential role in resolving ambiguities caused by feature overlapping and competitive ionization of different VOCs in the ionization chamber, as well as in confirming VOCs not identified with the library due to missing DT values. In addition, a simplified workflow to achieve a reproducible identification of GC-IMS features is provided. A mixture of 45 standards and a virgin olive oil sample were used as model systems, demonstrating that the combined approach with library search and standard analysis yields more reliable identifications.",
+  "authors": [
+    "Andrés Martín-Gómez",
+    "María José Cardador",
+    "Laura Pérez-González",
+    "Lourdes Arce"
+  ],
+  "year": 2026,
+  "doi": "10.1021/acs.analchem.5c07242",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 1,
+  "open_access_pdf_url": "https://pubs.acs.org/doi/pdf/10.1021/acs.analchem.5c07242",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1021_acs.analchem.5c07242.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:15.311414+00:00",
+  "raw_metadata": {
+    "doi": "10.1021/acs.analchem.5c07242",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

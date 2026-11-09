@@ -1,0 +1,28 @@
+{
+  "id": "s2:doi:10.3389/fmicb.2026.1813201",
+  "title": "Identification of a novel natural compound inhibitor targeting AmpC β-lactamase to combat multidrug-resistant Pseudomonas aeruginosa",
+  "abstract": "Introduction                     Antimicrobial resistance (AMR) remains one of the most urgent threats to global public health, driven by the rising prevalence of multidrug-resistant (MDR) pathogens such as Pseudomonas aeruginosa. A key mediator of resistance in this organism is AmpC β-lactamase, an enzyme that confers bacterial survival by hydrolysing β-lactam antibiotics before they can exert their effect.                                                           Methods                     We screened 374 compounds from the ChemDiv chemical library for novel inhibitors that target this enzyme, with a bias toward natural-compound-derived scaffolds as an alternative to existing resistance-countering strategies. Pharmacokinetic profiling was performed using SwissADME. Molecular dynamics (MD) simulations were carried out to further characterize the stability of the protein-ligand complex. Additionally, free energy perturbation (FEP) calculations were performed to quantitatively verify the binding affinity towards AmpC β-lactamase.                                                           Results                     Among the screened compounds, compound N094-0017 emerged as the top candidate. It showed good affinity for the AmpC active site and formed stable hydrogen bonds, with a binding energy of −5.6 kcal/mol. SwissADME-based pharmacokinetic profiling suggested desirable drug-like and favourable oral bioavailability profiles. MD simulations were conducted to further characterize the stability of the protein-ligand complex, and the RMSD, RMSF, and SASA profiles were consistent, confirming stable retention of the ligand within the active site throughout the simulation period. Moreover, FEP calculations showed a binding free energy of ∼40 kJ/mol for N094-0017 toward AmpC β-lactamase.                                                           Discussion                     In conclusion, these data suggest N094-0017 as a promising candidate for an AmpC β-lactamase inhibitor, and natural compounds present a promising strategy for addressing the growing challenge of AMR.",
+  "authors": [
+    "Santhosh Mudipalli Elavarasu",
+    "Sasikumar K"
+  ],
+  "year": 2026,
+  "doi": "10.3389/fmicb.2026.1813201",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1813201/full",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.3389_fmicb.2026.1813201.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:37.379029+00:00",
+  "raw_metadata": {
+    "doi": "10.3389/fmicb.2026.1813201",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

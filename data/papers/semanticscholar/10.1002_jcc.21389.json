@@ -1,0 +1,29 @@
+{
+  "id": "s2:doi:10.1002/jcc.21389",
+  "title": "A compound QM/MM procedure: Comparative performance on a pyruvate formate‐lyase model system",
+  "abstract": "AbstractWe present an ONIOM(G3:MM) method as an example of a technique capable of producing chemical accuracy in the quantum mechanical (QM) treatment with a molecular mechanical description context. By applying the method to small model systems, in which we are also able to calculate the pure QM G3‐type results, it is possible to establish the reliability of the method as it applies to evaluating reaction mechanisms. By choosing small model systems that are relevant to the substrate mechanism of pyruvate formate‐lyase, we are also able to discuss the inhibitory effect of oxamate and the relevance of an alternative H‐abstraction mechanism in that context. © 2009 Wiley Periodicals, Inc. J Comput Chem, 2010",
+  "authors": [
+    "Karmen Condic‐Jurkic",
+    "Hendrik Zipse",
+    "David M. Smith"
+  ],
+  "year": 2009,
+  "doi": "10.1002/jcc.21389",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 6,
+  "open_access_pdf_url": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fjcc.21389",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1002_jcc.21389.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:04.585658+00:00",
+  "raw_metadata": {
+    "doi": "10.1002/jcc.21389",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

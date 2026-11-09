@@ -1,0 +1,30 @@
+{
+  "id": "s2:doi:10.1609/aaai.v37i4.25650",
+  "title": "Fine-Grained Position Helps Memorizing More, a Novel Music Compound Transformer Model with Feature Interaction Fusion",
+  "abstract": "Due to the particularity of the simultaneous occurrence of multiple events in music sequences, compound Transformer is proposed to deal with the challenge of long sequences. However, there are two deficiencies in the compound Transformer. First, since the order of events is more important for music than natural language, the information provided by the original absolute position embedding is not precise enough. Second, there is an important correlation between the tokens in the compound word, which is ignored by the current compound Transformer. Therefore, in this work, we propose an improved compound Transformer model for music understanding. Specifically, we propose an attribute embedding fusion module  and a novel position encoding scheme with absolute-relative consideration. In the attribute embedding fusion module, different attributes are fused through feature permutation by using a multi-head self-attention mechanism in order to capture rich interactions between attributes. In the novel position encoding scheme, we propose RoAR position encoding, which realizes rotational absolute position encoding, relative position encoding, and absolute-relative position interactive encoding, providing clear and rich orders for musical events.  Empirical study on four typical music understanding tasks shows that our attribute fusion approach and RoAR position encoding brings large performance gains. In addition, we further investigate the impact of masked language modeling and casual language modeling  pre-training on music understanding.",
+  "authors": [
+    "Zuchao Li",
+    "Ruhan Gong",
+    "Yineng Chen",
+    "Kehua Su"
+  ],
+  "year": 2023,
+  "doi": "10.1609/aaai.v37i4.25650",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 7,
+  "open_access_pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/25650/25422",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1609_aaai.v37i4.25650.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:48.531911+00:00",
+  "raw_metadata": {
+    "doi": "10.1609/aaai.v37i4.25650",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

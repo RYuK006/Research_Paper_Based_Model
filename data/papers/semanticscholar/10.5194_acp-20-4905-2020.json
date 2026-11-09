@@ -1,0 +1,31 @@
+{
+  "id": "s2:doi:10.5194/acp-20-4905-2020",
+  "title": "Modeling organic aerosol over Europe in summer conditions with the VBS-GECKO parameterization: sensitivity to secondary organic compound properties and IVOC (intermediate-volatility organic compound) emissions",
+  "abstract": "The VBS-GECKO (volatility basis set – Generator for Explicit Chemistry and Kinetics of Organics in the Atmosphere) parameterization for secondary organic aerosol (SOA) formation was integrated into the chemistry-transport model CHIMERE. Concentrations of organic aerosol (OA) and SOA were simulated over Europe for the July–August 2013 period. Simulated concentrations with VBS-GECKO were compared to results obtained with the former H                     2                     O parameterization implemented in CHIMERE and to observations from EMEP, ACTRIS and other observations available in the EBAS database. The model configuration using the VBS-GECKO parameterization slightly improves the performances compared to the model configuration using the former H                     2                     O parameterization. The VBS-GECKO model configuration performs well for stations showing a large SOA concentration from biogenic sources, especially in northern Europe, but underestimates OA concentrations over stations close to urban areas. Simulated OA was found to be mainly secondary (∼85 %) and from terpene oxidation. Simulations show negligible contribution of the oxidation of mono-aromatic compounds to SOA production. Tests performed to examine the sensitivity of simulated OA concentrations to hydro-solubility, volatility, aging rates and NO                                            x                                          regime have shown that the VBS-GECKO parameterization provides consistent results, with a weak sensitivity to changes in the parameters provided by the gas-phase mechanism included in CHIMERE (e.g., HO                                            x                                          or NO                                            x                                          concentrations). Different scenarios considering intermediate-volatility organic compound (IVOC) emissions were tested to examine the contribution of IVOC oxidation to SOA production. At the continental scale, these simulations show a weak sensitivity of OA concentrations to IVOC emission variations. At the local scale, accounting for IVOC emissions was found to lead to a substantial increase in OA concentrations in the plume from urban areas. This additional OA source remains too small to explain the gap between simulated and measured values at stations where anthropogenic sources are dominant.",
+  "authors": [
+    "Victor Lannuque",
+    "Florian Couvidat",
+    "Marie Camredon",
+    "Bernard Aumont",
+    "Bertrand Bessagnet"
+  ],
+  "year": 2020,
+  "doi": "10.5194/acp-20-4905-2020",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 14,
+  "open_access_pdf_url": "https://acp.copernicus.org/articles/20/4905/2020/acp-20-4905-2020.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.5194_acp-20-4905-2020.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:37.336905+00:00",
+  "raw_metadata": {
+    "doi": "10.5194/acp-20-4905-2020",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

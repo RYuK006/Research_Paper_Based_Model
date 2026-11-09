@@ -1,0 +1,25 @@
+{
+  "id": "s2:doi:10.33263/briac115.1299313004",
+  "title": "Combinatorial Design to Decipher Novel Lead Molecule against Mycobacterium tuberculosis",
+  "abstract": "Aspartate-semialdehyde dehydrogenase (ASADH) of DAP/lysine pathway plays a crucial role in sustainable growth and pathogenicity of Mycobacterium tuberculosis (Mtb) via reductive dephosphorylation of the β-aspartyl phosphate (AP). Inhibition of ASADH through different lead molecules has been gaining high impetus due to its indispensable role in the pathogen’s survival. In the present study, we aimed to decipher the novel lead molecule against Mtb. The AP, a substrate of the DAP/lysine pathway, was used as a template to design new lead molecules to advance the understanding of the molecular inhibition mechanism of Mtb-ASADH. Monodentate and bidentate groups at three different substitution sites of AP were considered to generate a virtual library of new molecules using the combinatorial approach of the LeadGrow module of the VLifeMDS package. These substrate analogs were sifted through ADRXWS drug-likeness descriptors of the module above. Multi-scoring docking was achieved using Biopredicta, Molecular Virtual Docker, and AutoDock Tools. The adopted combinatorial approach yielded 6000 new molecules that reduced to 4979 plausible hits after lead-like filtration. The post-analysis of ADMET and molecular docking exhibited two pro-lead molecules, namely AP0600 and AP0639. The study delineates the substantial understanding of the Mtb-ASADH inhibition mechanism that would undoubtedly accelerate the pace of antitubercular design, thereby gaining more in-depth knowledge to eradicate tuberculosis across the globe.",
+  "authors": [],
+  "year": 2021,
+  "doi": "10.33263/briac115.1299313004",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 7,
+  "open_access_pdf_url": "https://biointerfaceresearch.com/wp-content/uploads/2021/02/20695837115.1299313004.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.33263_briac115.1299313004.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:20.267870+00:00",
+  "raw_metadata": {
+    "doi": "10.33263/briac115.1299313004",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

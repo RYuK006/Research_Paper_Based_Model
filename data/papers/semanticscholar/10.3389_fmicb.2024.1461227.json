@@ -1,0 +1,37 @@
+{
+  "id": "s2:doi:10.3389/fmicb.2024.1461227",
+  "title": "Identification of IspD as a novel target for tuberculosis treatment using compound M6",
+  "abstract": "IntroductionTuberculosis (TB) is a serious infectious disease that endangers human health, and TB becomes more difficult in eradiation due to its multidrug resistance (MDR). The objective of this research was to identify novel targets for treating TB.MethodsA 2-fold serial dilution method was used to determine minimal inhibitory concentrations (MIC) of compound M6 against Mycobacterium smegmatis (M. smegmatis). Compound M6 was subjected to reverse molecular docking with seven Mycobacterium tuberculosis proteins, and the best binding protein with the highest LibDock score was evaluated. The target protein with the highest score was purified through prokaryotic expression. Isolated target proteins were investigated for the enzyme activities and for the kinetic effect of compound M6 by absorbance detection. Subsequently, the CRISPR/Cas9 technology was employed to inhibit target gene expression for detecting MIC changes. Finally, potential targets were evaluated for the effect of the compound M6 in bacteria.ResultsThe MIC values of compound M6 against M. smegmatis were 32 μg/mL. The results from reverse molecular docking show that IspD has the highest LibDock score of 142.50, followed by Rv0674, IspF, and Dxr, with docking scores of 110.762, 71.6955, and 57.7446, respectively. IspD is a key enzyme in the 2-C-methyl-D-erythritol 4-phosphate pathway of MTB. The aKi and Ki values of M6 for the substrate MEP are 609.58 μM and 81.33 μM. For CTP, the aKi and Ki values are 657.89 μM and 40.07 μM. With tetracycline inducing CRISPR/Cas9 to suppress the expression of IspD, the MIC value of M6 against IspD went down significantly from 32 μg/mL to 4 μg/mL.ConclusionIspD is a novel target of the compound M6 for treating TB.",
+  "authors": [
+    "Lijun Dong",
+    "Hui Qi",
+    "Yue Zhu",
+    "Yuma Yang",
+    "Yue Zhao",
+    "Sihan Zhang",
+    "Yongqiang Su",
+    "Taiyun Yue",
+    "Xiancai Du",
+    "Hetian Lei",
+    "Yanhui Yang"
+  ],
+  "year": 2024,
+  "doi": "10.3389/fmicb.2024.1461227",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2024.1461227/full",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.3389_fmicb.2024.1461227.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:17.306494+00:00",
+  "raw_metadata": {
+    "doi": "10.3389/fmicb.2024.1461227",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

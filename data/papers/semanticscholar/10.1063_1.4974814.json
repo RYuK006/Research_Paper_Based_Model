@@ -1,0 +1,31 @@
+{
+  "id": "s2:doi:10.1063/1.4974814",
+  "title": "Design of a novel 5-DOF flexure-based compound alignment stage for Roll-to-Roll Printed Electronics",
+  "abstract": "Alignment stage is a pivotal component for Roll-to-Roll Printed Electronic (R2RPE), especially for Roll-to-Roll inkjet printing. This paper presents the design, modeling, and testing of a new flexure-based compound alignment stage for R2RPE. In this design, the alignment stage has 5-DOF (Degree of Freedom) motions for compensating the alignment errors and only the rotation motion about the y-axis is redundant. The stage is constructed in series by four key parts and adopts a compounded flexure structure to achieve a great performance. Each part is driven by a piezoelectric actuator or voice coil motor actuator to obtain one or two DOF motion. In order to enlarge the travel range of the alignment stage, a Scott-Russell mechanism and a lever mechanism are arranged in series for forming a two-grade displacement amplifier to overcome the small displacement of the actuator. Based on the pseudo-rigid-body simplification method, alignment models are developed. Kinematic and static analyses are conducted to evaluate the performance of the stage in terms of travel range and input stiffness. Finite element simulation is carried out to examine the mechanical performance and the theoretical models. A prototype is fabricated and experiments are conducted. Results show that the proposed alignment stage possesses an error compensation workspace of 148.11μm×149.73μm×813.61μm×1.558mrad×3.501mrad with output coupling errors of 0.693% and 0.637% between the x- and y-axis, which meets the requirements of Roll-to-Roll inkjet printing.",
+  "authors": [
+    "Weihai Chen",
+    "Shang Yang",
+    "Jingmeng Liu",
+    "Wenjie Chen",
+    "Yan Jin"
+  ],
+  "year": 2017,
+  "doi": "10.1063/1.4974814",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 8,
+  "open_access_pdf_url": "https://pubs.aip.org/aip/rsi/article-pdf/doi/10.1063/1.4974814/13576055/025002_1_online.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1063_1.4974814.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:56.429464+00:00",
+  "raw_metadata": {
+    "doi": "10.1063/1.4974814",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

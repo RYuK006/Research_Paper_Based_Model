@@ -1,0 +1,31 @@
+{
+  "id": "s2:doi:10.1158/1538-7445.am10-3702",
+  "title": "Abstract 3702: Novel nanoparticle-delivered compound, Imipramine Blue, halts glioma invasion by affecting actin dynamics",
+  "abstract": "Abstract                Statement of Purpose: Due to their invasive nature, malignant gliomas are difficult neoplasms to treat leading to poor prognosis. Invasive gliomas therefore elude current treatment involving chemotherapy, surgical resection and radiation. Additionally, anti-angiogenic therapy often enhances invasion and current ‘anti-invasive’ agents fail clinically. Here, we identify a new anti-invasive compound and target it therapeutically to invasive brain tumors.                Methods: Twenty-four small molecule compounds designed to have novel anti-tumor effects via NADPH oxidase inhibition were screened for anti-invasive properties against the rat glioma model RT2 using modified Boyden chamber assay. One compound, Imipramine Blue(IB), was identified to be anti-invasive but not cytotoxic. IB was encapsulated using liposomes (Nano-IB) to improve its pharmacokinetics and increase its preferential accumulation in brain tumors. Rats inoculated with RT2 invasive glioma were treated with either saline or nano-IB (3mg/kg total) on day 4 and 7 after orthotopic tumor inoculation, and sacrificed via intracardial perfusion on day 11. One set of animals was prepared for histological examination and another for and RNA (n=3 per group) and protein (n=3 per group) harvest. Microarray analysis was performed using the Affymetrix 230 2.0 system at Morehouse School of Medicine (Atlanta, GA) and analyzed using Genespring and Ingenuity Pathway Analysis (IPA). Confirmatory quantitative rt-PCR and Western blotting were performed for genes of interest.                Results: When delivered in vivo, Nano-IB halted invasion as determined by analyzing tumor borders on day 11 by imaging analysis. Microarray analysis indicated greater than 2-fold change in approximately 60 genes including, a subset of genes involved in the regulation of actin polymerization: scinderin, profilin-1, calgranulin, α-actin, and rhoGTPase inhibitor A. Confirmatory rt-PCR using pooled RNA samples and western blotting confirmed the differences seen in microarray. Using IPA, several upstream candidate target molecules were identified which may be acting to cause the downstream effects including PI3K, PKC, and MAPK/ERK. Further, using IB in vitro showed dramatic effects on the actin cytoskeleton in the RT2 cells.                Conclusions: Imipramine Blue, a novel small molecule therapeutic, effectively halts invasion of the RT2 astrocytoma cell line in vitro and in vivo as evidenced by Boyden chamber assay and histological examination brain inoculated with invasive RT-2 tumors. Furthermore, the drug is acting via alteration of the actin cytoskeleton as shown in vitro by cytological examination and in vivo through microarray and western blotting analysis. However, due to number of genes that are affected upon treatment the drug is not directly acting on actin filaments in the cell but rather on an upstream regulator of actin polymerization regulating molecules.                Citation Format: {Authors}. {Abstract title} [abstract]. In: Proceedings of the 101st Annual Meeting of the American Association for Cancer Research; 2010 Apr 17-21; Washington, DC. Philadelphia (PA): AACR; Cancer Res 2010;70(8 Suppl):Abstract nr 3702.",
+  "authors": [
+    "Jennifer M. Munson",
+    "Michael Bonner",
+    "Lohitash Karumbaiah",
+    "Jack Arbiser",
+    "Ravi Bellamkonda"
+  ],
+  "year": 2010,
+  "doi": "10.1158/1538-7445.am10-3702",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://aacrjournals.org/cancerres/article/70/8_Supplement/3702/564333/Abstract-3702-Novel-nanoparticle-delivered",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1158_1538-7445.am10-3702.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:40.016168+00:00",
+  "raw_metadata": {
+    "doi": "10.1158/1538-7445.am10-3702",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

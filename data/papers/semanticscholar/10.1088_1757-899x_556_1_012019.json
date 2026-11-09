@@ -1,0 +1,32 @@
+{
+  "id": "s2:doi:10.1088/1757-899x/556/1/012019",
+  "title": "Optical design and experiment evaluation of a novel asymmetric compound parabolic concentrator (ACPC) integration with PV for building south wall application",
+  "abstract": "AbstractCompound parabolic concentrator (CPC) as a typical low-concentration-ratio concentrator is an interesting topic for it can work as the static concentrator without any additional tracking systems or seasonal adjustments, which shows a promising concept of introducing the concentrating PV technology for building application. Therefore, based on the compound parabolic curves, a novel asymmetric compound parabolic concentrator (ACPC) is proposed in this paper for building south wall integration. The optical model of the ACPC is built by the software Lighttools to study its optical performance, and the structure parameters of it are optimized through the optical simulation. Then the prototype of the ACPC integrated with the PV cell as the ACpC-PV module is manufactured and assembled. The indoor experiments by the solar simulator (Oriel Sol3A Model 90943A) from the Newport Corporation at the dark environment with the temperature of 25 °C are conducted to study the electrical performance of the ACPC-PV module. The simulation and experiment results show that the acceptance range of the ACPC with the geometric concentration ratio of 2.4X can be 65° with high optical efficiency. A good agreement is observed between the simulation and experiment results despite the deviation of around 13% which is inevitable due to all kinds of errors, such as manufacturing errors, mismatch losses, series resistance losses, etc.",
+  "authors": [
+    "Q Xuan",
+    "G Li",
+    "G Pei",
+    "Y Lu",
+    "Y Su",
+    "J Ji"
+  ],
+  "year": 2019,
+  "doi": "10.1088/1757-899x/556/1/012019",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 2,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1088/1757-899X/556/1/012019/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1088_1757-899x_556_1_012019.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:15.660215+00:00",
+  "raw_metadata": {
+    "doi": "10.1088/1757-899x/556/1/012019",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "s2:doi:10.46793/match.98-1.22826",
+  "title": "Context-Guided Tree Similarity for Compound-Derived Structural Comparison of Rare-Earth Elements",
+  "abstract": "Quantifying structural similarity among chemical elements is important for understanding compositional relationships in chemical systems. In this work, we introduce a compound-derived growth-tree representation that characterizes each element through its compositional expansion patterns across reported compounds. Based on this representation, we propose a Context-Guided Tree Similarity (CGTS) measure, which evaluates similarity by aggregating local overlaps under shared compositional contexts rather than relying solely on global comparisons. Applying this framework to rare-earth elements, we obtain a distinctly non-uniform similarity structure, with high similarity concentrated among heavy rare-earth elements such as Tb, Dy, Ho, Er, Tm, and Lu. Analysis of top-ranked pairs reveals strong consistency in local expansion behavior within shared chemical environments. These results suggest that compound-derived structural similarity provides a meaningful basis for analyzing relationships among chemical elements from a compositional perspective. The identified similarity patterns are consistent with known chemical affinities within the rare-earth series, indicating that the proposed framework captures structurally relevant chemical behavior. The approach therefore provides a compound-derived descriptor for comparing elemental similarity in chemical systems.",
+  "authors": [
+    "Guoyong Mao",
+    "Xingrui Wei",
+    "Junwen Wang"
+  ],
+  "year": 2026,
+  "doi": "10.46793/match.98-1.22826",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": null,
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.46793_match.98-1.22826.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:55.214304+00:00",
+  "raw_metadata": {
+    "doi": "10.46793/match.98-1.22826",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

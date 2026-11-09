@@ -1,0 +1,29 @@
+{
+  "id": "s2:doi:10.4028/www.scientific.net/amm.626.44",
+  "title": "A Novel Compression Technique for Compound Images Using Parallel Lempel-Ziv-Welch Algorithm",
+  "abstract": "Compound image is a combination of natural images, text, and graphics.This paper presents a compression technique for improving coding efficiency. The algorithm first decomposes the compound images by using 3 level biorthogonal wavelet transform and then the transformed image was further compressed by Parallel dictionary based LZW algorithm called PDLZW.In PDLZW algorithm instead of using a unique fixed word width dictionary a hierarchical variable word width dictionary set containing several dictionaries of small address space and increases the word widths used for compression and decompression algorithms. The experimental results show that the PSNR value is increased and the Mean Square error value was improved.",
+  "authors": [
+    "G.R. Gnana King",
+    "C. Christopher Seldev",
+    "N. Albert Singh"
+  ],
+  "year": 2014,
+  "doi": "10.4028/www.scientific.net/amm.626.44",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 3,
+  "open_access_pdf_url": "https://www.scientific.net/AMM.626.44.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.4028_www.scientific.net_amm.626.44.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:36.339299+00:00",
+  "raw_metadata": {
+    "doi": "10.4028/www.scientific.net/amm.626.44",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

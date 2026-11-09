@@ -1,0 +1,32 @@
+{
+  "id": "s2:doi:10.1002/cmdc.200600263",
+  "title": "The Novel Antimalarial Compound Dioncophylline C Forms a Complex with Heme in Solution",
+  "abstract": "AbstractA structural model of the complex formed between the novel antimalarial compound dioncophylline C (DioC) and its presumed target ferriprotoporphyrin IX heme (FPIX) is presented. The complex structure was calculated with molecular dynamics (MD) simulations using intermolecular distance restraints between DioC and the iron center in FPIX, determined from NMR paramagnetic relaxation. Besides the spin state of the iron and longitudinal relaxation rates of hydrogen nuclei in DioC, the effective correlation time of paramagnetic relaxation was determined from NMR measurements at three different magnetic field strengths. The derived structural model shows high similarity to complexes formed by FPIX and antimalarials of the quinoline family (chloroquine, quinine, quinidine, and amodiaquine). The conformation of DioC is sterically stabilized by a water molecule coordinated to iron in FPIX. This structural feature may provide an important hint at possibilities for a further optimization of novel naphthylisoquinoline alkaloid (NIQ) antimalarial drugs.",
+  "authors": [
+    "Kai F. Schwedhelm",
+    "Martin Horstmann",
+    "Johan H. Faber",
+    "Yana Reichert",
+    "Gerhard Bringmann",
+    "Cornelius Faber"
+  ],
+  "year": 2007,
+  "doi": "10.1002/cmdc.200600263",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 20,
+  "open_access_pdf_url": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fcmdc.200600263",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1002_cmdc.200600263.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:47.073768+00:00",
+  "raw_metadata": {
+    "doi": "10.1002/cmdc.200600263",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

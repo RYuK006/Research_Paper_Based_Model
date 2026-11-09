@@ -1,0 +1,28 @@
+{
+  "id": "s2:doi:10.1093/clinchem/hvae106.101",
+  "title": "A-102 Clinical Evaluation of Novel Markers in Brain Injury",
+  "abstract": "Abstract                                   Background                   Traumatic brain injury (TBI) is a significant health concern affecting individuals of all ages, demanding precise diagnostic methodologies to guide effective clinical management. According to the 2010 definition, a TBI results from an external force causing an alteration in brain function or other evidence of brain pathology. Current diagnostic tools, i.e. CT scans and the Glasgow Coma Scale (GCS), are inefficient because they are time and labor intensive. The need for rapid diagnostic tools is underscored by the drawbacks of existing methods, such as CT scans, which are expensive, expose patients to large amounts of radiation, and lead to delayed treatment. Recent advances in TBI diagnosis involve novel biomarkers, such as Glial Fibrillary Acidic Protein (GFAP) and Ubiquitin C-Terminal Hydrolase L1 (UCH-L1), which have shown promise in revolutionizing the assessment of head traumas. GFAP, a glial-specific protein, is elevated in circulation after a TBI, distinguishing it from multi-trauma patients without brain injuries. UCH-L1, found in neurons, is significantly elevated in TBI patients compared to uninjured controls. A 2021 study further supports the clinical effectiveness of these biomarkers, demonstrating their capacity to exclude CT-positive injury in acute TBI cases. The primary aim of this study is to explore the clinical utility of the Abbott Alinity TBI assay, specifically biomarkers GFAP and UCH-L1, in emergency department patients with a history of head trauma.                                                   Methods                   A retrospective study involving 238 emergency department patients with a history of head trauma and noncontrast CT scans was conducted using the Abbott Alinity TBI assay. Serum samples were collected, and biomarker values were established and compared to CT scan results. The study was comprised of 94 females and 144 males spanning various age groups. The GFAP and UCH-L1 cutoffs used were FDA approved, at 35.0 ng/L and 400.0 ng/L, respectively. If either marker was above the cutoff the patient ruled at risk for TBI.                                                   Results                   Results demonstrated the assay correctly identified all CT-positive cases (100% sensitivity), placing them in the rule-in group, while identifying 44 patients with a 0 chance of TBI. The negative predictive value for the TBI overall was 100% (95% CI: 91.96%-100%). The GFAP assay alone identified 30/31 positive CT scans, reporting a 98.77% (95% CI: 92.03%-99.82%) negative predictive value. The UCH-L1 assay reported 26/31 positive CT scans with a negative predictive value of 94.68% (95% CI: 88.71-97.58%). Analyzing the data revealed the TBI assay would have reduced CT scans by 18.5%.                                                   Conclusions                   The results of this study did show a potential reduction in the number of patients sent to CT making it a valuable tool for triaging patients presenting with head trauma; however, the complexity of neurological problems may lead to increased false positives, reducing assay specificity. Despite this limitation, this study concludes that the GFAP and UCH-L1 markers could be used to triage patients into CT rule-out and rule-in groups, thereby streamlining clinical management. In conclusion, this assay, incorporating GFAP and UCH-L1 biomarkers, presents as a promising diagnostic tool for emergency departments.",
+  "authors": [
+    "E Ryan",
+    "A E Young"
+  ],
+  "year": 2024,
+  "doi": "10.1093/clinchem/hvae106.101",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://academic.oup.com/clinchem/article-pdf/70/Supplement_1/hvae106.101/59189796/hvae106.101.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1093_clinchem_hvae106.101.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:17.225785+00:00",
+  "raw_metadata": {
+    "doi": "10.1093/clinchem/hvae106.101",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

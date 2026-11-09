@@ -1,0 +1,29 @@
+{
+  "id": "s2:doi:10.1155/2023/2558415",
+  "title": "Development of Novel Herbal Compound Formulations Targeting Neuroinflammation: Network Pharmacology, Molecular Docking, and Experimental Verification",
+  "abstract": "Neuroinflammation plays an important role in the onset and progression of neurodegenerative diseases. The multicomponent and multitarget approach may provide a practical strategy to address the complex pathological mechanisms of neuroinflammation. This study aimed to develop synergistic herbal compound formulas to attenuate neuroinflammation using integrated network pharmacology, molecular docking, and experimental bioassays. Eight phytochemicals with anti‐neuroinflammatory potential were selected in the present study. A compound‐gene target‐signaling pathway network was constructed to illustrate the mechanisms of action of each phytochemical and the interactions among them at the molecular level. Molecular docking was performed to verify the binding affinity of each phytochemical and its key gene targets. An experimental study was conducted to identify synergistic interactions among the eight phytochemicals, and the associated molecular mechanisms were examined by immunoblotting based on the findings from the network pharmacology analysis. Two paired combinations, andrographolide and 6‐shogaol (AN‐SG) (IC50 = 2.85 μg/mL), and baicalein‐6‐shogaol (BA‐SG) (IC50 = 3.28 μg/mL), were found to synergistically (combination index &lt;1) inhibit the lipopolysaccharides (LPS)‐induced nitric oxide production in microglia N11 cells. Network pharmacology analysis suggested that MAPK14, MAPK8, and NOS3 were the top three relevant gene targets for the three phytochemicals, and molecular docking demonstrated strong binding affinities of the phytochemicals to their coded proteins. Immunoblotting suggested that the AN‐SG and BA‐SG both showed prominent effects in inhibiting inducible nitric oxide synthase (iNOS) (p &lt; 0.01 and p &lt; 0.05, respectively) and MAPKp‐p38 (both p &lt; 0.05) compared with those induced by the LPS stimulation only. The AN‐SG combination exhibited greater inhibitions of the protein expressions of iNOS (p &lt; 0.05  vs. individual components), which may partly explain the mechanisms of the synergy observed. This study established a practical approach to developing novel herbal‐compound formulations using integrated network pharmacology analysis, molecular docking, and experimental bioassays. The study provides a scientific basis and new insight into the two synergistic combinations against neuroinflammation.",
+  "authors": [
+    "Yang Liu",
+    "Dennis Chang",
+    "Xian Zhou"
+  ],
+  "year": 2023,
+  "doi": "10.1155/2023/2558415",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 11,
+  "open_access_pdf_url": "http://downloads.hindawi.com/journals/ecam/2023/2558415.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1155_2023_2558415.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:05.871096+00:00",
+  "raw_metadata": {
+    "doi": "10.1155/2023/2558415",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

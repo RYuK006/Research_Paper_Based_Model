@@ -1,0 +1,30 @@
+{
+  "id": "s2:doi:10.1002/cbdv.202401668",
+  "title": "Novel Dipeptide Inhibitors of PfPNP: In‐Silico Identification of Promising New Antimalarials",
+  "abstract": "AbstractMalaria, an infectious disease caused by Plasmodium falciparum, is becoming increasingly difficult to treat due to the emergence of drug‐resistant strains. Recent studies have proposed purine nucleoside phosphorylase from P. falciparum (PfPNP) as a potential target for malaria treatment. In the present study, we designed a virtual library of 400 dipeptides to discover novel anti‐malarial peptide inhibitors. A structure‐based molecular docking method was employed to virtually screen the designed library against the wild‐type structure of PfPNP (PDB: 5ZNC). The best four (Phe‐Arg, Arg‐His, Trp‐Arg and Tyr‐Arg) dipeptides, which were then investigated for their binding potential against PfPNP using Molecular Dynamics simulation studies. Parameters such as RMSD, RMSF, Rg, and SASA were analyzed to understand the structural changes, energetics, and overall behavior of PfPNP‐dipeptide complexes. The PfPNP demonstrated significant stability upon binding with each of the identified dipeptides with ΔG of over −168 kcal/mol. Additionally, DFT and ADME predictions indicated that the electronic structure, energetics, and pharmacokinetic properties of Phe‐Arg, Arg‐His, Trp‐Arg and Tyr‐Arg were favourable for drug development. Our comprehensive computational investigation has identified these four dipeptides as promising candidates. These designed and selected dipeptides may further be modified using peptidomimetic and medicinal chemistry tools to develop a novel class of promising antimalarials.",
+  "authors": [
+    "Kanika Devi",
+    "Anshuman Chandra",
+    "Susmita Chaudhuri",
+    "Vijay Kumar Goel"
+  ],
+  "year": 2024,
+  "doi": "10.1002/cbdv.202401668",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 4,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/cbdv.202401668",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1002_cbdv.202401668.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:15.535725+00:00",
+  "raw_metadata": {
+    "doi": "10.1002/cbdv.202401668",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

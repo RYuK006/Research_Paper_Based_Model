@@ -1,0 +1,27 @@
+{
+  "id": "s2:doi:10.47836/mjms.20.1.11",
+  "title": "Probability Approximation for Compound Binomial and Compound Poisson Collective Risk Models",
+  "abstract": "The collective risk model holds significant importance in decision-making and risk management contexts. It primarily focuses on the aggregation of random sums of random variables. In this work, we investigate the approximation of both compound binomial and compound Poisson collective risk models, where the number of claims follows binomial and Poisson distributions, respectively. Using the characteristic function as the primary analytical tool, we derive refined error bounds. Our results are established under the assumption of finite (2+δ) -th moment, where 0&lt;δ≤1 . Furthermore, we improve existing error bounds, particularly in regimes where the model parameters are sufficiently large.",
+  "authors": [
+    "S. Jongpreechaharn"
+  ],
+  "year": 2026,
+  "doi": "10.47836/mjms.20.1.11",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 1,
+  "open_access_pdf_url": null,
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.47836_mjms.20.1.11.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:02.007912+00:00",
+  "raw_metadata": {
+    "doi": "10.47836/mjms.20.1.11",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

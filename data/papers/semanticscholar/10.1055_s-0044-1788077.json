@@ -1,0 +1,34 @@
+{
+  "id": "s2:doi:10.1055/s-0044-1788077",
+  "title": "Discovery of a Novel Benzimidazole Necroptosis Inhibitor from an In-House Compound Library",
+  "abstract": "AbstractNecroptosis, a caspase-independent regulated cell death, is primarily mediated by the serine/threonine kinases RIPK1 and RIPK3, and the mixed lineage kinase domain-like protein (MLKL). Targeting necroptosis is a validated therapeutic strategy for various diseases. We screened compound 1, a novel benzimidazole-based necroptosis inhibitor, from our in-house compound library. We assessed its inhibitory roles and mechanisms in blocking HT-29 cell necroptosis. HT-29 cells were treated with pan caspase inhibitor Z-VAD-FMK + Smac mimetic (TSZ), or Z-VAD-FMK + cycloheximide (TCZ), then with tumor necrosis factor α (TNFα) to induce necroptosis in vitro. Prior to stimulation, cells were exposed to compound 1. GSK'843 served as a control drug. HT-29 cells were treated with TNFα + Smac mimetic (TS) or TNFα + cycloheximide (TC) to induce apoptosis in vitro. Cell viability, cell death, and necroptotic cells were evaluated by luminescence-based CellTiter-Lumi assay or flow cytometry. Western blots, immunoprecipitation, and KINOMEscan technology were used to assess RIPK1, RIPK3, and MLKL's involvement in compound 1's mechanisms. Compound 1's roles in mouse TNFα induced systemic inflammatory response syndrome (SIRS) in mice were also investigated by assessing body temperature, mouse survival rate, and interleukin (IL)-β and IL-6 levels in respective tissues. We found that necroptosis triggered by TSZ or TCZ was effectively mitigated by compound 1, showing a dose-responsive inhibition, and it could protect mice from TNF-induced SIRS. The mechanism study showed that compound 1 could interact with RIPK1, inhibiting RIPK1 phosphorylation activation to block necrosome formation in necroptotic cells. In summary, compound 1 is a promising lead compound for developing treatments targeting diseases associated with necroptosis.",
+  "authors": [
+    "Yu Zou",
+    "Yue Chai",
+    "Hongming Shao",
+    "Shuyu Wang",
+    "Ruilin Hou",
+    "Runhui Liu",
+    "Linjing Zhao",
+    "Chunlin Zhuang"
+  ],
+  "year": 2024,
+  "doi": "10.1055/s-0044-1788077",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 1,
+  "open_access_pdf_url": "http://www.thieme-connect.de/products/ejournals/pdf/10.1055/s-0044-1788077.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1055_s-0044-1788077.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:24.372475+00:00",
+  "raw_metadata": {
+    "doi": "10.1055/s-0044-1788077",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

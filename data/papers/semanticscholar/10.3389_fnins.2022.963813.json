@@ -1,0 +1,38 @@
+{
+  "id": "s2:doi:10.3389/fnins.2022.963813",
+  "title": "Novel compound heterozygous mutation in STAMBP causes a neurodevelopmental disorder by disrupting cortical proliferation",
+  "abstract": "BackgroundMutations in the STAMBP gene, which encodes a deubiquitinating isopeptidase called STAM-binding protein, are related to global developmental delay, microcephaly, and capillary malformation. Owing to the limited number of reported cases, the functional and phenotypic characteristics of STAMBP variants require further elucidation.Materials and methodsWhole exome sequencing was performed on a patient presenting with a neurodevelopmental disorder. Novel compound heterozygous mutations in STAMBP [c.843_844del (p.C282Wfs*11) and c.920G &amp;gt; A (p.G307E)] were identified and validated using Sanger sequencing. A 3D human cortical organoid model was used to investigate the function of STAMBP and the pathogenicity of the novel mutation (c.920G &amp;gt; A, p.G307E).ResultsThe patient was presented with global developmental delay, autism spectrum disorder, microcephaly, epilepsy, and dysmorphic facial features but without apparent capillary malformation on the skin and organs. Cortical organoids with STAMBP knockout (KO) showed significantly lower proliferation of neural stem cells (NSCs), leading to smaller organoids that are characteristic of microcephaly. Furthermore, STAMBP disruption did not affect apoptosis in early cortical organoids. After re-expressing wild-type STAMBP, STAMBPG307E, and STAMBPT313I (a known pathogenic mutation) within STAMBP KO organoids, only STAMBPWT rescued the impaired proliferation of STAMBP deficient organoids, but not STAMBPG307E and STAMBPT313I.ConclusionOur findings demonstrate that the clinical phenotype of STAMBP mutations is highly variable, and patients with different STAMBP mutations show differences in the severity of symptoms. The STAMBP missense mutation identified here is a novel pathogenic mutation that impairs the proliferation of NSCs in human brain development.",
+  "authors": [
+    "Meixin Hu",
+    "Huiping Li",
+    "Zhuxi Huang",
+    "Dongyun Li",
+    "Ying Xu",
+    "Qiong Xu",
+    "Bo Chen",
+    "Yi Wang",
+    "Jingxin Deng",
+    "Ming Zhu",
+    "Weijun Feng",
+    "Xiu Xu"
+  ],
+  "year": 2022,
+  "doi": "10.3389/fnins.2022.963813",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 8,
+  "open_access_pdf_url": "https://www.frontiersin.org/articles/10.3389/fnins.2022.963813/full",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.3389_fnins.2022.963813.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:20.227300+00:00",
+  "raw_metadata": {
+    "doi": "10.3389/fnins.2022.963813",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

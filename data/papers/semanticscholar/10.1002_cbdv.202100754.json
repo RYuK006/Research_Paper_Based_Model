@@ -1,0 +1,29 @@
+{
+  "id": "s2:doi:10.1002/cbdv.202100754",
+  "title": "Novel Hydrazone Derivatives of 3‐Bromopyruvate: Synthesis, Evaluation of the Cytotoxic Effects, Molecular Docking and ADME Studies",
+  "abstract": "AbstractA series of 3‐bromopyruvate (3‐BP) derivatives were synthesized to develop new potent anticancer agents. The chemical structures of the compounds were characterized using FT‐IR, 1H‐, 13C‐NMR spectroscopy, and elemental analysis (CHN). Their cytotoxic activities were investigated against four cancer cell lines, including colon (SW1116), breast (MDA‐MB‐231), lung (A549), and liver (HepG2) cancer cell lines. Among the synthesized compounds, 3b showed promising cytotoxic activity compared to 3‐BP, with IC50 values of 16.3 μM, 19.1 μM, 27.8 μM, and 14.5 μM against A549, MDA‐MB‐231, SW1116 and, HepG2 cell lines, respectively. Furthermore, the effect of these compounds on MCF‐10A (a normal breast cell lines) was investigated to determine their selectivity between tumorigenic and non‐tumorigenic cells. Since the 3‐BP inhibits hexokinase II (HK II), molecular docking of 3‐BP derivatives was carried out using AutoDock 4.2. The binding energies of these derivatives were greater than 3‐BP, indicating that they had a higher affinity for HK II. For validation of docking, a 40 ns MD simulation was performed. SwissADME was used to predict pharmacokinetics, drug‐likeness, and ADME parameters of the screened compounds. The results demonstrated that these derivatives are suitable candidates for developing orally potent HK II inhibitors.",
+  "authors": [
+    "Farzaneh Beygi",
+    "Azar Mostoufi",
+    "Ayyub Mojaddami"
+  ],
+  "year": 2022,
+  "doi": "10.1002/cbdv.202100754",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 10,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/cbdv.202100754",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1002_cbdv.202100754.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:21.759957+00:00",
+  "raw_metadata": {
+    "doi": "10.1002/cbdv.202100754",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

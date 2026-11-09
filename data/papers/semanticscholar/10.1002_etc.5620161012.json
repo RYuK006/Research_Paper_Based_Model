@@ -1,0 +1,29 @@
+{
+  "id": "s2:doi:10.1002/etc.5620161012",
+  "title": "Error propagation in fugacity level-III models in the case of uncertain physicochemical compound properties",
+  "abstract": "Abstract                For a level-III fugacity model to predict the steady-state environmental distribution of chemicals on a regional scale, the effect of erroneous physicochemical input data on the model output was studied using Monte Carlo simulations. Uncertainty analyses were performed for the octanol/water partition coefficient and Henry's law constant with assumed standard errors of 0.5 and 0.1 log units according to corresponding Gauss distributions, using phenol, pentachlorophenol, ethanol, acetone, and anthracene as model compounds. The results showed considerable variations of factors up to 2.5 for the predicted relative distributions among the major compartments. The output variations were greater for compounds with more than one sink. The results demonstrate the need for addressing error propagation in multimedia models in a systematic way.",
+  "authors": [
+    "Ralph Kühne",
+    "Cornelia Breitkopf",
+    "Gerrit Schüürmann"
+  ],
+  "year": 1997,
+  "doi": "10.1002/etc.5620161012",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 9,
+  "open_access_pdf_url": "https://academic.oup.com/etc/article-pdf/16/10/2067/60144055/5620161012.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1002_etc.5620161012.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:48.504080+00:00",
+  "raw_metadata": {
+    "doi": "10.1002/etc.5620161012",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

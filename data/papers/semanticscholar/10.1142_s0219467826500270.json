@@ -1,0 +1,29 @@
+{
+  "id": "s2:doi:10.1142/s0219467826500270",
+  "title": "Novel Computation-Efficient Single-Image Super-Resolution Based on Hierarchical Dirichlet Process Using Compound Poisson Process",
+  "abstract": "This research presents a Bayesian nonparametric (BNP) clustering method for estimating filter-bank coefficients of discrete wavelet transform (DWT) for high-performance single-image super-resolution (SISR). The statistical model works on the idea of an “infinite mixture model” that operates using a Markov chain without a predefined number of states. Using the hierarchical dirichlet process (HDP) that uses blocked Gibbs Sampling to obtain the desired final values, the model extracts statistical dependencies between coarse and finer scales. Also, it defines a compound Poisson process (CPP) to model the DWT coefficients within a specific scale, granting the ability to perfectly predict, model, and remove the Poisson noise of the image at the same during the process. Thus, the proposed unsupervised HDP–CPP model observes and exploits statistical inter-scale and intra-scale dependencies of image sub-bands. Despite deep neural network-based SISR methods that require training of millions of weights in some cases, this approach provides a flexible and versatile platform with much less complexity and the ability to model the correlation of distant pixels. This method has excellent upscaling and denoising capabilities, and outperforms state-of-the-art methods with noticeably sharper images using a very small image-bank of less than 30 high-resolution and low-resolution images.",
+  "authors": [
+    "Abdol Vahab Khalili Sadaghiani",
+    "Hamid Sargolzaei",
+    "Behjat Forouzandeh"
+  ],
+  "year": 2024,
+  "doi": "10.1142/s0219467826500270",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 1,
+  "open_access_pdf_url": "https://www.worldscientific.com/doi/pdf/10.1142/S0219467826500270",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1142_s0219467826500270.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:53.786158+00:00",
+  "raw_metadata": {
+    "doi": "10.1142/s0219467826500270",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

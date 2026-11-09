@@ -1,0 +1,29 @@
+{
+  "id": "s2:doi:10.1063/5.0112856",
+  "title": "Transition state search and geometry relaxation throughout chemical compound space with quantum machine learning",
+  "abstract": "We use energies and forces predicted within response operator based quantum machine learning (OQML) to perform geometry optimization and transition state search calculations with legacy optimizers but without the need for subsequent re-optimization with quantum chemistry methods. For randomly sampled initial coordinates of small organic query molecules, we report systematic improvement of equilibrium and transition state geometry output as training set sizes increase. Out-of-sample SN2 reactant complexes and transition state geometries have been predicted using the LBFGS and the QST2 algorithms with an root-mean-square deviation (RMSD) of 0.16 and 0.4 Å—after training on up to 200 reactant complex relaxations and transition state search trajectories from the QMrxn20 dataset, respectively. For geometry optimizations, we have also considered relaxation paths up to 5’595 constitutional isomers with sum formula C7H10O2 from the QM9-database. Using the resulting OQML models with an LBFGS optimizer reproduces the minimum geometry with an RMSD of 0.14 Å, only using ∼6000 training points obtained from normal mode sampling along the optimization paths of the training compounds without the need for active learning. For converged equilibrium and transition state geometries, subsequent vibrational normal mode frequency analysis indicates deviation from MP2 reference results by on average 14 and 26 cm−1, respectively. While the numerical cost for OQML predictions is negligible in comparison to density functional theory or MP2, the number of steps until convergence is typically larger in either case. The success rate for reaching convergence, however, improves systematically with training set size, underscoring OQML’s potential for universal applicability.",
+  "authors": [
+    "Stefan Heinen",
+    "Guido Falk von Rudorff",
+    "O. Anatole von Lilienfeld"
+  ],
+  "year": 2022,
+  "doi": "10.1063/5.0112856",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 18,
+  "open_access_pdf_url": "https://pubs.aip.org/aip/jcp/article-pdf/doi/10.1063/5.0112856/16554749/221102_1_online.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1063_5.0112856.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:21.799026+00:00",
+  "raw_metadata": {
+    "doi": "10.1063/5.0112856",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "s2:doi:10.24843/mu.2025.v14.i2.p05",
+  "title": "IN SILICO SCREENING OF PHYTOCHEMICAL COMPOUND AS NOVEL NOX1 INHIBITOR VIA INHIBITING P47PHOX-P22PHOX COMPLEX",
+  "abstract": "The world’s elderly population is increasing. Thus, in the future, degenerative diseases incidence will increase. Therefore, the development of anti-aging agent is required. NADPH oxidase (NOX), especially NOX1, has important roles in aging and degenerative diseases. NOX1 activation required interaction between p47phox and p22phox subunit. Based on that mechanism, compound that has ability to inhibit p47phox-p22phox complex development could become an anti-aging agent.\r The aim of this study is to find novel NOX1 inhibitors candidate from phytochemical database that work via inhibiting p47phox-p22phox complex development. Machine learning-based screening and molecular docking were used in this study. We screened phytochemicals from the PhytoHub database using machine-learning model with random forest method. The active compounds based on machine-learning-based screening were chosen as ligands for molecular docking.\r We found 7 compounds that could be NOX 1 inhibitor candidates from the machine-learning-based screening. Through blind molecular docking, we found that 6 of the 7 compounds were able to bind with the SH3 domain of p47phox. Those 6 compounds are 8,5'-Diferulic acid, Jaceosidin, Malvidin, Peonidin, Petunidin, and Tryptamine. Jaceosidin and petunidin are able to bind with both SH3B domain and polybasic region of p47phox. The conformation changes of both domains are required for p47phox activation. Inhibited p47phox could not bind p22phox.\r Thus, jaceosidin and petunidin might work as NOX1 inhibitor via inhibiting p47phox-p22phox complex development.",
+  "authors": [
+    "Ngakan Putu Krishna Mahayana",
+    "Ni Nyoman Ayu Dewi",
+    "I Made Winarsa Ruma",
+    "Desak Made Wihandani"
+  ],
+  "year": 2025,
+  "doi": "10.24843/mu.2025.v14.i2.p05",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://ojs.unud.ac.id/index.php/eum/article/download/109959/58630",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.24843_mu.2025.v14.i2.p05.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:42.928162+00:00",
+  "raw_metadata": {
+    "doi": "10.24843/mu.2025.v14.i2.p05",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

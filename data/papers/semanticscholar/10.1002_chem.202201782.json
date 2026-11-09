@@ -1,0 +1,32 @@
+{
+  "id": "s2:doi:10.1002/chem.202201782",
+  "title": "Thermally Activated Delayed Fluorescence of a Dinuclear Platinum(II) Compound: Mechanism and Roles of an Upper Triplet State",
+  "abstract": "AbstractA dinuclear Pt(II) compound was reported to exhibit thermally activated delayed fluorescence (TADF); however, the luminescence mechanism remains elusive. To reveal relevant excited‐state properties and luminescence mechanism of this Pt(II) compound, both density function theory (DFT) and time‐dependent DFT (TD‐DFT) calculations were carried out in this work. In terms of the results, the S1 and T2 states show mixed intraligand charge transfer (ILCT)/metal‐to‐ligand CT (MLCT) characters while the T1 state exhibits mixed ILCT/ligand‐to‐metal CT (LMCT) characters. Mechanistically, a four‐state (S0, S1, T1, and T2) model is proposed to rationalize the TADF behavior. The reverse intersystem crossing (rISC) process from the initial T1 to final S1 states involves two up‐conversion channels (direct T1→S1 and T2‐mediated T1→T2→S1 pathways) and both play crucial roles in TADF. At 300 K, these two channels are much faster than the T1 phosphorescence emission enabling TADF. However, at 80 K, these rISC rates are reduced by several orders of magnitude and become very small, which blocks the TADF emission; instead, only the phosphorescence is observed. These findings rationalize the experimental observation and could provide useful guidance to rational design of organometallic materials with superior TADF performances.",
+  "authors": [
+    "Xiu‐Fang Song",
+    "Ling‐Ya Peng",
+    "Wen‐Kai Chen",
+    "Yuan‐Jun Gao",
+    "Wei‐Hai Fang",
+    "Ganglong Cui"
+  ],
+  "year": 2022,
+  "doi": "10.1002/chem.202201782",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 12,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/chem.202201782",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1002_chem.202201782.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:08.413355+00:00",
+  "raw_metadata": {
+    "doi": "10.1002/chem.202201782",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

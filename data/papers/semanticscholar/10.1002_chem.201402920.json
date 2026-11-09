@@ -1,0 +1,28 @@
+{
+  "id": "s2:doi:10.1002/chem.201402920",
+  "title": "Directly Decoupled Diffusion‐Ordered NMR Spectroscopy for the Analysis of Compound Mixtures",
+  "abstract": "AbstractFor the analysis of compound mixtures by NMR spectroscopy, it is important to assign the different peaks to the individual constituents. Diffusion‐ordered spectroscopy (DOSY) is often used for the separation of signals based on their self‐diffusion coefficient. However, this method often fails in the case of signal overlap, which is a particular problem for 1H‐detected DOSY spectra. Herein, an approach that allows the acquisition of homonuclear broadband‐decoupled DOSY spectra without the introduction of an additional decoupling dimension, by instant decoupling during acquisition, is presented. It was demonstrated on a mixture of six alcohols, and the investigation of the binding of a dodecapeptide to membrane mimetics.",
+  "authors": [
+    "Simon Glanzer",
+    "Klaus Zangger"
+  ],
+  "year": 2014,
+  "doi": "10.1002/chem.201402920",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 48,
+  "open_access_pdf_url": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fchem.201402920",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1002_chem.201402920.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:36.287454+00:00",
+  "raw_metadata": {
+    "doi": "10.1002/chem.201402920",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "s2:doi:10.1093/ajrccm/aamag162.2597",
+  "title": "B77-20 Novel Compound, Acf-02, Rescue Ros-mediated Inhibition of PHD2 and Hif-1α Activation in Idiopathic Pulmonary Fibrosis",
+  "abstract": "Abstract                   Idiopathic pulmonary fibrosis (IPF) is a progressive and fatal lung disorder in which persistent fibroblast activation leads to excessive extracellular matrix deposition and impaired respiratory function. Current approved therapies, including nintedanib and pirfenidone, only slow disease progression, emphasizing the urgent need for novel therapeutic strategies that more effectively target the underlying mechanisms driving fibrosis. We uncover a critical normoxic pathway in which TGF-β1 promotes aberrant stabilization of hypoxia-inducible factor-1α (HIF-1α) through oxidative stress. TGF-β1 induces NOX4 expression and activates NOX2, resulting in excessive production of reactive oxygen species (ROS). These ROS oxidize the ferrous iron cofactor of prolyl hydroxylase domain protein 2 (PHD2), impairing its ability to hydroxylate HIF-1α and triggering its accumulation even under normal oxygen conditions—a phenomenon we define as “oxidative hypoxia.” Activated HIF-1α further enhances NOX expression, creating a self-sustaining NOX-ROS-HIF-1α feedback loop that accelerates fibrogenesis. To therapeutically disrupt this pathological cycle, we developed ACF-02, a novel PHD2-binding small molecule that preserves PHD2’s enzymatic function by preventing ROS-mediated oxidation of its iron center. ACF-02 restores appropriate HIF-1α turnover, suppresses hypoxia-related transcriptional programs, and breaks the oxidative feed-forward loop that drives fibroblast activation. In TGF-β1-treated primary fibroblasts, ACF-02 markedly reduces α-SMA, collagen I, and other profibrotic markers compared with nintedanib. In vivo, ACF-02 demonstrates potent antifibrotic activity in the bleomycin-induced lung fibrosis model. Treatment significantly decreases collagen accumulation, improves lung architecture and compliance, and shows superior efficacy over nintedanib across multiple histological and biochemical metrics. No notable systemic toxicity was observed. Together, these results establish oxidative hypoxia as a central driver of normoxic fibrosis and validate PHD2 redox protection as a promising therapeutic strategy. ACF-02 emerges as a first-in-class disease-modifying candidate capable of effectively reversing ROS-driven HIF-1α signaling in IPF.                   This abstract is funded by: y the Ministry of Education (MOE) (grant nos. RS-2023-00238741, RS-2023-00270936, and RS-2024- 624 00352590), and by the Regional Innovation System &amp; Education (RISE) program through the Jeju RISE Center, funded by the MOE and the Jeju Special Self-Governing Province, Republic of Korea (2025-RISE-17-001).",
+  "authors": [
+    "M Cho",
+    "J Choi",
+    "S Kim"
+  ],
+  "year": 2026,
+  "doi": "10.1093/ajrccm/aamag162.2597",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://academic.oup.com/ajrccm/article-pdf/212/Supplement_1/aamag162.2597/68308917/aamag162.2597.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1093_ajrccm_aamag162.2597.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:48.480760+00:00",
+  "raw_metadata": {
+    "doi": "10.1093/ajrccm/aamag162.2597",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "s2:doi:10.26740/ujc.v12n2.p73-82",
+  "title": "Identification and Prediction of Fresh Gasoline Locations and Branding Using Newly Targeted Compound Chromatograms with Chemometrics and Machine Learning",
+  "abstract": "The detection and use of gasoline at scenes of crimes such as arson is of high interest in forensic investigations. In this work, gas chromatography-mass spectrometry (GC-MS) was used to analyse the gasoline samples and chemometrics namely principal component analysis (PCA), discriminant analysis (DA), and classification and regression tree (CART) machine learning were applied to identify and discriminate the gasoline brands and locations of origin. This study includes three popular gasoline brands collected from stations in eight different Malaysian states, including one oil refinery. The PCA result of 73.6% variation of the first and second principal components for the new targeted compounds chromatogram (TCC) and DA using the discriminant-analysis method correctly classified 94.3% of training samples for location-of-origin and 71.7% of training samples for brand. A novel two-C&amp;R-trees (CART) machine-learning model is also developed and effectively applied to 100 unidentified gasoline samples, with a mean absolute error of 1.1% (location) and 0.4% (brand). The obtained results demonstrate this methodology’s potential to help resolve criminal investigations.",
+  "authors": [
+    "Aidil Fahmi Shadan",
+    "Hafizan Juahir"
+  ],
+  "year": 2023,
+  "doi": "10.26740/ujc.v12n2.p73-82",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://ejournal.unesa.ac.id/index.php/unesa-journal-of-chemistry/article/download/54073/45175",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.26740_ujc.v12n2.p73-82.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:50.075313+00:00",
+  "raw_metadata": {
+    "doi": "10.26740/ujc.v12n2.p73-82",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "s2:doi:10.2174/1386207321666180102120641",
+  "title": "Hadoop-MCC: Efficient Multiple Compound Comparison Algorithm Using Hadoop",
+  "abstract": "Aim and Objective:  In the past decade, the drug design technologies have been improved enormously. The computer-aided drug design (CADD) has played an important role in analysis and prediction in drug development, which makes the procedure more economical and efficient. However, computation with big data, such as ZINC containing more than 60 million compounds data and GDB-13 with more than 930 million small molecules, is a noticeable issue of time-consuming problem. Therefore, we propose a novel heterogeneous high performance computing method, named as Hadoop-MCC, integrating Hadoop and GPU, to copy with big chemical structure data efficiently.   Materials and Methods:  Hadoop-MCC gains the high availability and fault tolerance from Hadoop, as Hadoop is used to scatter input data to GPU devices and gather the results from GPU devices. Hadoop framework adopts mapper/reducer computation model. In the proposed method, mappers response for fetching SMILES data segments and perform LINGO method on GPU, then reducers collect all comparison results produced by mappers. Due to the high availability of Hadoop, all of LINGO computational jobs on mappers can be completed, even if some of the mappers encounter problems.   Results:  A comparison of LINGO is performed on each the GPU device in parallel. According to the experimental results, the proposed method on multiple GPU devices can achieve better computational performance than the CUDA-MCC on a single GPU device.   Conclusion:  Hadoop-MCC is able to achieve scalability, high availability, and fault tolerance granted by Hadoop, and high performance as well by integrating computational power of both of Hadoop and GPU. It has been shown that using the heterogeneous architecture as Hadoop-MCC effectively can enhance better computational performance than on a single GPU device.",
+  "authors": [
+    "Guan-Jie Hua",
+    "Che-Lun Hung",
+    "Chuan Yi Tang"
+  ],
+  "year": 2018,
+  "doi": "10.2174/1386207321666180102120641",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://eurekaselect.com/article/download/158773",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.2174_1386207321666180102120641.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:42.987321+00:00",
+  "raw_metadata": {
+    "doi": "10.2174/1386207321666180102120641",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

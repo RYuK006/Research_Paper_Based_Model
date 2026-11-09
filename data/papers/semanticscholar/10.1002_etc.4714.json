@@ -1,0 +1,29 @@
+{
+  "id": "s2:doi:10.1002/etc.4714",
+  "title": "In Situ Investigation of Performance Reference Compound-Based Estimates of PCB Equilibrated Passive Sampler Concentrations and Cfree in the Marine Water Column",
+  "abstract": "Abstract                Low-density polyethylene sheets are used as passive samplers for aquatic environmental monitoring to measure the freely dissolved concentration (Cfree) of hydrophobic organic contaminants (HOCs). Freely dissolved HOCs in water will partition into the polyethylene until a thermodynamic equilibrium is achieved; that is, the HOC's activity in the passive sampler is the same as its activity in the surrounding environment. One way to evaluate the equilibrium status or estimate the uptake kinetics is by using performance reference compounds (PRCs). A fractional equilibrium (feq) can be determined for target HOCs, under the assumption that PRC desorption from the passive sampler occurs at the same rate as for the unlabeled target HOCs. However, few investigations have evaluated how effectively and accurately PRCs estimate target contaminant Cfree under in situ conditions. In the present study, polyethylene passive samplers were preloaded with 6 13C-labeled polychlorinated biphenyls (PCBs) as PRCs; deployed in New Bedford Harbor, Massachusetts, USA; and collected after 30-, 56-, 99-, and 129-d deployments. Using this unique temporal sampling design, PRC results from each deployment were fit to a diffusion model to estimate the Cfree of 27 PCB congeners and compare the results between the different deployment times. Smaller PCBs had variable concentrations over the 4 deployments, whereas mid–molecular weight PCBs had consistent Cfree measurements for all deployments (relative standard deviation &amp;lt;20%). High–molecular weight PCBs had the largest Cfree estimates after 30 d; these estimates and their standard deviations decreased with longer deployment times. These findings suggest that when targeting PCBs with more than 6 chlorines or contaminants with a log octanol–water partition coefficient ≥6.5, a deployment time longer than 30 d may be prudent. Environ Toxicol Chem 2020;39:1165–1173. © 2020 SETAC",
+  "authors": [
+    "Abigail S. Joyce",
+    "Loretta A. Fernandez",
+    "Robert M. Burgess"
+  ],
+  "year": 2020,
+  "doi": "10.1002/etc.4714",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 10,
+  "open_access_pdf_url": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fetc.4714",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1002_etc.4714.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:46:08.376200+00:00",
+  "raw_metadata": {
+    "doi": "10.1002/etc.4714",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

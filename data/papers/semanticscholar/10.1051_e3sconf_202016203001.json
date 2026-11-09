@@ -1,0 +1,31 @@
+{
+  "id": "s2:doi:10.1051/e3sconf/202016203001",
+  "title": "Novel Design of Speed-increasing Compound Coupled Hydromechanical Transmission on Tidal Current Turbine for Power Generation",
+  "abstract": "A key topic discussed in the energy industry has long been how to steadily convert tidal energy into mechanical energy and then electrical power. Gear transmissions are widely used in mechanical systems for electrical power production, converting low-speed input rotation into high-speed output rotation to drive a generator rotor. However, to achieve a large speed ratio and stepless speed change, gear transmissions must be accompanied by complex structures and high-precision manufacturing technology. The application of gear transmissions in tidal energy power generation must therefore come at a high cost. A large speed ratio and stepless speed-changing capability are precisely the two essential elements of the mechanical system for tidal energy power generation. In this paper, a new type of speed-increasing CCHMT has been proposed that is capable of achieving large transmission ratio speed change between the blade rotor input and the generator rotor output. It is also capable of changing the input speed steplessly into a stable output speed suitable for power generation and for high-quality electric power production. To verify the feasibility of using a speed-increasing CCHMT in tidal energy, a simulation model has been established for the wave power at the input end. With the assistance of a volumetric speed-control system and hydraulic accumulator, the speed-increasing CCHMT can stably transmit disordered input speed. Simulation results show that the output rotational speed gained a stable amplification ratio within 20 and 30. The mean square error of the rotational speed was controlled to within 29 and the output speed is limited within 85% to 115% of the average output speed, thus ensuring the quality of power generation.",
+  "authors": [
+    "Xiaohan Dong",
+    "Zhao Wang",
+    "Pengfei Shen",
+    "Yurun Song",
+    "Jin Yu"
+  ],
+  "year": 2020,
+  "doi": "10.1051/e3sconf/202016203001",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 1,
+  "open_access_pdf_url": "https://www.e3s-conferences.org/10.1051/e3sconf/202016203001/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.1051_e3sconf_202016203001.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:53.733829+00:00",
+  "raw_metadata": {
+    "doi": "10.1051/e3sconf/202016203001",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}

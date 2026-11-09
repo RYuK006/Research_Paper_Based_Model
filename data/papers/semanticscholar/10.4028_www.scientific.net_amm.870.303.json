@@ -1,0 +1,29 @@
+{
+  "id": "s2:doi:10.4028/www.scientific.net/amm.870.303",
+  "title": "Design of a Novel Compound Eye System",
+  "abstract": "Much progress has been made in the field of digital imaging technology with the widespread use of CMOS and CCD devices and the high computing power of IC chips. However, there still are many technological problems to overcome to achieve lightweight and affordable high density 3D lossless imaging for both industrial and scientific applications. This paper will focus on the latest development of freeform optical technology and powerful image analysis techniques to develop a compound eye camera system so as to extract the 3D relative position coordinates of the sub-object in the field of view, and to compensate the shadow effect in the images caused by the non-uniform illumination to obtain high quality lossless images. Such a novel compound eye system will find applications in delivering 3D image of digital camera, increasing capability of scientific profiling measuring instrument, and lowering cost and enhancing resolution of wide-field, video-rate, gigapixel cameras such as the AWARE designed by Duke University.The main objective of this paper is to design a novel compound eye system from high definition 3D lossless digital imaging technology to achieve the realistic three-dimensional positional information of the object in both near and far fields. In the imaging process, the ultimate imaging quality is affected and limited by the resolution of the detector, the field of view, wavefront aberration, resolution of the optical imaging system and the ambient light.The novel compound eye imaging system includes two modules: one is the optical imaging module with compound eye optical elements with other secondary optical lenses, while the other one is the image analysis module. By combining the above optical hardware with the image analysis software, the relative position information of the sub-objects in the picture and the lighting condition of the environment can be deduced accurately.",
+  "authors": [
+    "Li Hua Li",
+    "C.Y. Chan",
+    "W.B. Lee"
+  ],
+  "year": 2017,
+  "doi": "10.4028/www.scientific.net/amm.870.303",
+  "source": "semanticscholar",
+  "categories": [
+    "Chemistry",
+    "Materials Science"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://www.scientific.net/AMM.870.303.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\semanticscholar\\10.4028_www.scientific.net_amm.870.303.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:42:34.215993+00:00",
+  "raw_metadata": {
+    "doi": "10.4028/www.scientific.net/amm.870.303",
+    "crossref_subject": [
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+}
