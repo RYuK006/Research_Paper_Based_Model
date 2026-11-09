@@ -435,8 +435,24 @@
     }
   ],
   "statistical_signal_detected": false,
-  "mean_rank": 605.0,
+  "mean_rank": 631.0,
   "roc_auc": 0.9181,
   "random_baseline_valid": true,
-  "evaluated_at": "2026-11-09T13:47:15.232108+00:00"
+  "auc_model": 0.9181,
+  "auc_frequency": 0.9086,
+  "auc_similarity": 0.3834,
+  "auc_random": 0.5,
+  "mean_rank_model": 631.0,
+  "mean_rank_frequency": 679.2,
+  "mean_rank_similarity": 3338.4,
+  "mean_rank_random": 2748.0,
+  "paired_auc_diff_ci_95": [
+    0.0028,
+    0.0163
+  ],
+  "pre_rate_per_year": 258.7,
+  "post_rate_per_year": 1722.8,
+  "temporal_rate_ratio": 6.66,
+  "temporal_imbalance_warning": true,
+  "evaluated_at": "2026-11-09T14:29:50.006451+00:00"
 }
