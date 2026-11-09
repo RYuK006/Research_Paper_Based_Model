@@ -95,3 +95,4 @@ def inspect_database(db_path: str = "data/papers.db"):
 
 if __name__ == "__main__":
     inspect_database()
+
