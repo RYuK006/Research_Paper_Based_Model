@@ -123,6 +123,10 @@ class BaselineComparison:
     lift_over_random: float
     lift_over_frequency: float
     lift_over_similarity: float
+    model_ci_95: List[float] = field(default_factory=lambda: [0.0, 0.0])
+    random_ci_95: List[float] = field(default_factory=lambda: [0.0, 0.0])
+    frequency_ci_95: List[float] = field(default_factory=lambda: [0.0, 0.0])
+    similarity_ci_95: List[float] = field(default_factory=lambda: [0.0, 0.0])
 
     def to_dict(self) -> Dict[str, Any]:
         return asdict(self)
@@ -456,6 +460,40 @@ class TimeSplitEvaluator:
             avg_rand_hits = float(np.mean(rand_hit_counts))
             rand_rate = round((avg_rand_hits / actual_k) * 100.0, 2)
 
+            rand_ci = [
+                round(float(np.percentile(rand_hit_counts, 2.5)), 2),
+                round(float(np.percentile(rand_hit_counts, 97.5)), 2),
+            ]
+
+            # Model, Frequency, and Similarity Bootstrap 95% CIs
+            post_list = list(post_actual_pairs)
+            if post_list:
+                model_boot_hits = []
+                freq_boot_hits = []
+                sim_boot_hits = []
+                for _ in range(self.bootstrap_trials):
+                    resampled_post = set(self._rng.choices(post_list, k=len(post_list)))
+                    model_boot_hits.append(sum(1 for p in top_model if p in resampled_post))
+                    freq_boot_hits.append(sum(1 for p in top_freq if p in resampled_post))
+                    sim_boot_hits.append(sum(1 for p in top_sim if p in resampled_post))
+
+                model_ci = [
+                    round(float(np.percentile(model_boot_hits, 2.5)), 2),
+                    round(float(np.percentile(model_boot_hits, 97.5)), 2),
+                ]
+                freq_ci = [
+                    round(float(np.percentile(freq_boot_hits, 2.5)), 2),
+                    round(float(np.percentile(freq_boot_hits, 97.5)), 2),
+                ]
+                sim_ci = [
+                    round(float(np.percentile(sim_boot_hits, 2.5)), 2),
+                    round(float(np.percentile(sim_boot_hits, 97.5)), 2),
+                ]
+            else:
+                model_ci = [0.0, 0.0]
+                freq_ci = [0.0, 0.0]
+                sim_ci = [0.0, 0.0]
+
             lift_rand = round(model_rate / rand_rate, 2) if rand_rate > 0 else 1.0
             lift_freq = round(model_rate / freq_rate, 2) if freq_rate > 0 else (1.0 if model_rate == 0 else 1000.0)
             lift_sim = round(model_rate / sim_rate, 2) if sim_rate > 0 else (1.0 if model_rate == 0 else 1000.0)
@@ -473,6 +511,10 @@ class TimeSplitEvaluator:
                 lift_over_random=lift_rand,
                 lift_over_frequency=lift_freq,
                 lift_over_similarity=lift_sim,
+                model_ci_95=model_ci,
+                random_ci_95=rand_ci,
+                frequency_ci_95=freq_ci,
+                similarity_ci_95=sim_ci,
             ))
 
         signal_detected = any(c.model_hits > c.random_hits for c in comparisons)
@@ -489,14 +531,16 @@ class TimeSplitEvaluator:
             statistical_signal_detected=signal_detected,
         )
 
-    def save_report_json(self, report: EvaluationReport, output_path: str = "data/time_split_results.json") -> None:
+    def save_report_json(self, report: EvaluationReport, output_path: Optional[str] = None) -> None:
         """Saves evaluation report to JSON with hit provenance."""
+        if output_path is None:
+            return
         path = Path(output_path)
         path.parent.mkdir(parents=True, exist_ok=True)
         path.write_text(json.dumps(report.to_dict(), indent=2), encoding="utf-8")
         logger.info(f"Evaluation JSON saved to {path}")
 
-    def generate_markdown_report(self, report: EvaluationReport, output_path: str = "TIME_SPLIT_EVALUATION.md") -> str:
+    def generate_markdown_report(self, report: EvaluationReport, output_path: Optional[str] = None) -> str:
         """Generates comprehensive markdown evaluation report."""
         lines = [
             "# 📈 Empirical Time-Split Scientific Discovery Benchmark",
@@ -516,14 +560,18 @@ class TimeSplitEvaluator:
             "",
             "## 2. Multi-Baseline Comparison Across K",
             "",
-            "| Evaluation Top-K | Model Hits (Raw Counts / %) | Random Baseline (Raw Counts / %) | Element Frequency Baseline (Raw Counts / %) | Element Similarity Baseline (Raw Counts / %) | Lift over Random | Lift over Frequency |",
+            "| Evaluation Top-K | Model Hits (Raw Counts / % [95% CI]) | Random Baseline (Raw Counts / % [95% CI]) | Element Frequency Baseline (Raw Counts / % [95% CI]) | Element Similarity Baseline (Raw Counts / % [95% CI]) | Lift over Random | Lift over Frequency |",
             "| :--- | :--- | :--- | :--- | :--- | :--- | :--- |",
         ]
 
         for c in report.comparisons_by_k:
+            m_ci = f"[{c.model_ci_95[0]:.1f}, {c.model_ci_95[1]:.1f}]"
+            r_ci = f"[{c.random_ci_95[0]:.1f}, {c.random_ci_95[1]:.1f}]"
+            f_ci = f"[{c.frequency_ci_95[0]:.1f}, {c.frequency_ci_95[1]:.1f}]"
+            s_ci = f"[{c.similarity_ci_95[0]:.1f}, {c.similarity_ci_95[1]:.1f}]"
             lines.append(
-                f"| **K = {c.k}** | **{c.model_hits}/{c.k} ({c.model_rate:.1f}%)** | {c.random_hits}/{c.k} ({c.random_rate:.1f}%) | "
-                f"{c.frequency_hits}/{c.k} ({c.frequency_rate:.1f}%) | {c.similarity_hits}/{c.k} ({c.similarity_rate:.1f}%) | "
+                f"| **K = {c.k}** | **{c.model_hits}/{c.k} ({c.model_rate:.1f}% {m_ci})** | {c.random_hits}/{c.k} ({c.random_rate:.1f}% {r_ci}) | "
+                f"{c.frequency_hits}/{c.k} ({c.frequency_rate:.1f}% {f_ci}) | {c.similarity_hits}/{c.k} ({c.similarity_rate:.1f}% {s_ci}) | "
                 f"**{c.lift_over_random:.2f}x** | **{c.lift_over_frequency:.1f}x** |"
             )
 
@@ -564,7 +612,11 @@ class TimeSplitEvaluator:
         ])
 
         content = "\n".join(lines)
-        Path(output_path).write_text(content, encoding="utf-8")
+        if output_path is not None:
+            path = Path(output_path)
+            path.parent.mkdir(parents=True, exist_ok=True)
+            path.write_text(content, encoding="utf-8")
+            logger.info(f"Evaluation Markdown report saved to {path}")
         return content
 
 
@@ -585,15 +637,28 @@ def main() -> None:
     evaluator.save_report_json(report, output_path=args.output_json)
     evaluator.generate_markdown_report(report, output_path=args.output_md)
 
-    print("\n" + "=" * 60)
+    print("\n" + "=" * 80)
     print("TIME-SPLIT DISCOVERY EVALUATION COMPLETE")
-    print("=" * 60)
-    print(f"Pre-Cutoff Papers:  {report.pre_cutoff_papers}")
-    print(f"Post-Cutoff Papers: {report.post_cutoff_papers}")
-    print(f"Untried Pool Size:  {report.pool_size}")
+    print("=" * 80)
+    print(f"Cutoff Year:        {report.cutoff_year}")
+    print(f"Pre-Cutoff Papers:  {report.pre_cutoff_papers:,}")
+    print(f"Post-Cutoff Papers: {report.post_cutoff_papers:,}")
+    print(f"Untried Pool Size:  {report.pool_size:,}")
+    print(f"Bootstrap Trials:   {report.bootstrap_iterations:,}")
+    print("-" * 80)
+    print("RAW METRICS ACROSS K:")
     for c in report.comparisons_by_k:
-        print(f"K={c.k:2d}: Model={c.model_hits}/{c.k} ({c.model_rate:.1f}%), Rand={c.random_hits}/{c.k} ({c.random_rate:.1f}%), Freq={c.frequency_hits}/{c.k} ({c.frequency_rate:.1f}%)")
-    print("=" * 60 + "\n")
+        print(
+            f"K={c.k:2d}: Model={c.model_hits}/{c.k} ({c.model_rate:.1f}%, 95% CI: [{c.model_ci_95[0]:.2f}, {c.model_ci_95[1]:.2f}]) | "
+            f"Rand={c.random_hits}/{c.k} ({c.random_rate:.1f}%, 95% CI: [{c.random_ci_95[0]:.2f}, {c.random_ci_95[1]:.2f}]) | "
+            f"Freq={c.frequency_hits}/{c.k} ({c.frequency_rate:.1f}%, 95% CI: [{c.frequency_ci_95[0]:.2f}, {c.frequency_ci_95[1]:.2f}]) | "
+            f"Sim={c.similarity_hits}/{c.k} ({c.similarity_rate:.1f}%, 95% CI: [{c.similarity_ci_95[0]:.2f}, {c.similarity_ci_95[1]:.2f}])"
+        )
+    print("-" * 80)
+    print(f"Verified Post-Cutoff Discoveries Found ({len(report.verified_discoveries)}):")
+    for d in report.verified_discoveries:
+        print(f"  - [{d.element_pair[0]}-{d.element_pair[1]}] '{d.title}' ({d.year}, DOI: {d.doi or d.paper_id})")
+    print("=" * 80 + "\n")
 
 
 if __name__ == "__main__":
