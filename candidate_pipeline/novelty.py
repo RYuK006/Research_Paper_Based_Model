@@ -308,12 +308,16 @@ class NoveltyChecker:
 
         for q in queries:
             try:
-                url = f"https://api.openalex.org/works?search={httpx.URL(q)}&per-page=5"
+                params = {
+                    "search": q,
+                    "per-page": 5,
+                    "mailto": "research@materials.org",
+                }
                 headers = {"User-Agent": "ModelSuperconductor/1.0 (mailto:research@materials.org)"}
-                r = httpx.get(url, headers=headers, timeout=self.timeout)
+                r = httpx.get("https://api.openalex.org/works", params=params, headers=headers, timeout=self.timeout)
                 if r.status_code == 429:
                     time.sleep(1.0)
-                    r = httpx.get(url, headers=headers, timeout=self.timeout)
+                    r = httpx.get("https://api.openalex.org/works", params=params, headers=headers, timeout=self.timeout)
 
                 if r.status_code == 200:
                     data = r.json()
@@ -472,6 +476,69 @@ class NoveltyChecker:
                 match_type=MatchType.FULL_ELEMENT_SYSTEM.value,
                 is_superconductivity=True,
             ),
+            ("Ce", "H", "La"): NoveltyEvidence(
+                source="SuperCon Reference",
+                title="High-Temperature Superconducting Phase in Cerium-Doped Lanthanum Hydride at Megabar Pressures (Chen et al. PRL 2021)",
+                year=2021,
+                url_or_id="https://doi.org/10.1103/PhysRevLett.127.117001",
+                details="Known ternary clathrate hydride (La,Ce)H10 with Tc up to 176 K at 100 GPa",
+                match_type=MatchType.FULL_ELEMENT_SYSTEM.value,
+                is_superconductivity=True,
+            ),
+            ("Ca", "H", "Y"): NoveltyEvidence(
+                source="SuperCon Reference",
+                title="Superconductivity in ternary calcium yttrium hydrides under high pressure (Liang et al. Phys. Rev. B 2021)",
+                year=2021,
+                url_or_id="https://doi.org/10.1103/PhysRevB.104.134501",
+                details="Known ternary clathrate hydride (Ca,Y)H12 with predicted Tc exceeding 200 K",
+                match_type=MatchType.FULL_ELEMENT_SYSTEM.value,
+                is_superconductivity=True,
+            ),
+            ("As", "Ba", "Fe", "K"): NoveltyEvidence(
+                source="SuperCon Reference",
+                title="Superconductivity at 38 K in the Iron-Arsenide (Ba1-xKx)Fe2As2 (Rotter et al. PRL 2008)",
+                year=2008,
+                url_or_id="https://doi.org/10.1103/PhysRevLett.101.107006",
+                details="Hallmark hole-doped 122 iron-based superconductor Ba0.6K0.4Fe2As2 with Tc = 38 K",
+                match_type=MatchType.FULL_ELEMENT_SYSTEM.value,
+                is_superconductivity=True,
+            ),
+            ("As", "F", "Fe", "O", "Sm"): NoveltyEvidence(
+                source="SuperCon Reference",
+                title="Superconductivity at 43 K in SmFeAsO1-xFx (Chen et al. Nature 2008)",
+                year=2008,
+                url_or_id="https://doi.org/10.1038/nature07045",
+                details="Hallmark fluorine-doped 1111 iron oxypnictide superconductor SmFeAs(O,F) with Tc up to 55 K",
+                match_type=MatchType.FULL_ELEMENT_SYSTEM.value,
+                is_superconductivity=True,
+            ),
+            ("Fe", "Se", "Te"): NoveltyEvidence(
+                source="SuperCon Reference",
+                title="Superconductivity in Fe1+yTe1-xSex single crystals (Sales et al. Phys. Rev. B 2009)",
+                year=2009,
+                url_or_id="https://doi.org/10.1103/PhysRevB.79.094521",
+                details="Hallmark iron chalcogenide superconductor Fe(Se,Te) with Tc ~ 15 K",
+                match_type=MatchType.FULL_ELEMENT_SYSTEM.value,
+                is_superconductivity=True,
+            ),
+            ("Cu", "La", "O", "Sr"): NoveltyEvidence(
+                source="SuperCon Reference",
+                title="Bulk Superconductivity at 36 K in La1.8Sr0.2CuO4 (Cava et al. PRL 1987 / Bednorz & Muller 1986)",
+                year=1987,
+                url_or_id="https://doi.org/10.1103/PhysRevLett.58.408",
+                details="Hallmark high-Tc LSCO cuprate superconductor",
+                match_type=MatchType.FULL_ELEMENT_SYSTEM.value,
+                is_superconductivity=True,
+            ),
+            ("O", "Ru", "Sr"): NoveltyEvidence(
+                source="SuperCon Reference",
+                title="Superconductivity in a layered perovskite without copper (Maeno et al. Nature 1994)",
+                year=1994,
+                url_or_id="https://doi.org/10.1038/372532a0",
+                details="Hallmark unconventional ruthenate superconductor Sr2RuO4",
+                match_type=MatchType.FULL_ELEMENT_SYSTEM.value,
+                is_superconductivity=True,
+            ),
         }
 
         elem_tuple = tuple(sorted(elements))
@@ -501,21 +568,29 @@ class NoveltyChecker:
 
         all_evidence: List[NoveltyEvidence] = []
 
-        # 1. OpenAlex API
-        oa_evidence = self.query_openalex(formula, elements)
-        all_evidence.extend(oa_evidence)
+        # 1. SuperCon / Hallmark Reference Data (instant local lookup)
+        sc_evidence = self.query_supercon(formula, elements)
+        all_evidence.extend(sc_evidence)
 
-        # 2. Materials Project
-        mp_evidence = self.query_materials_project(chemsys, formula)
-        all_evidence.extend(mp_evidence)
-
-        # 3. Local Corpus
+        # 2. Local Superconductivity Corpus (instant local SQLite query)
         local_evidence = self.query_local_corpus(formula, elements)
         all_evidence.extend(local_evidence)
 
-        # 4. SuperCon
-        sc_evidence = self.query_supercon(formula, elements)
-        all_evidence.extend(sc_evidence)
+        # If already proven KNOWN by verified hallmark reference or local corpus, skip remote queries
+        has_definitive_known = any(
+            e.is_superconductivity and e.match_type in [MatchType.EXACT_FORMULA.value, MatchType.FULL_ELEMENT_SYSTEM.value]
+            for e in all_evidence
+        )
+
+        # 3. OpenAlex API (remote)
+        if not has_definitive_known:
+            oa_evidence = self.query_openalex(formula, elements)
+            all_evidence.extend(oa_evidence)
+
+        # 4. Materials Project (remote)
+        if not has_definitive_known:
+            mp_evidence = self.query_materials_project(chemsys, formula)
+            all_evidence.extend(mp_evidence)
 
         # Categorize evidence
         sc_literature_hits = [
