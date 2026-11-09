@@ -3,7 +3,7 @@
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Database: SQLite](https://img.shields.io/badge/Database-SQLite-lightgrey.svg)](https://www.sqlite.org/)
-[![Storage: Google Drive](https://img.shields.io/badge/Storage-Google%20Drive-blue.svg)](https://drive.google.com/drive/folders/1kYS059jeKZsFENUvd7ClgeIBlwAJibdL?usp=sharing)
+[![Storage: Google Drive](https://img.shields.io/badge/Storage-Google%20Drive-blue.svg)](https://drive.google.com/drive/folders/1J9aIr3WhsgWTKj3wCvGUUNSG8k9bLALk?usp=sharing)
 
 A resilient, high-throughput bulk collection pipeline and analytical dataset of **10,000 scientific research papers** across **arXiv**, **OpenAlex**, and **Semantic Scholar** / Open Academic Graph, centered on **chemistry, elements, novel compounds, materials science, and superconductivity**.
 
@@ -38,7 +38,7 @@ flowchart TD
     subgraph Storage["Output & Storage Layout"]
         LOCAL_PAPERS["data/papers/<br/>PDFs & Raw Payload Files"]
         LOCAL_META["data/manifests/papers_manifest.jsonl<br/>data/papers.db (SQLite)"]
-        GDRIVE["drive_sync/gdrive_uploader.py<br/>Sync to Google Drive<br/>Folder: 1kYS059jeKZsFENUvd7ClgeIBlwAJibdL"]
+        GDRIVE["drive_sync/gdrive_uploader.py<br/>Sync to Google Drive<br/>Folder: 1J9aIr3WhsgWTKj3wCvGUUNSG8k9bLALk"]
     end
 
     subgraph Analytics["Reporting & Analytics"]
@@ -147,7 +147,7 @@ This generates:
 - `data/analysis_summary.json`: Machine-readable summary statistics.
 
 ### 4. Sync to Google Drive
-Transfer collected papers and manifests to the designated Google Drive folder (`1kYS059jeKZsFENUvd7ClgeIBlwAJibdL`):
+Transfer collected papers and manifests to the designated Google Drive folder (`1J9aIr3WhsgWTKj3wCvGUUNSG8k9bLALk`):
 ```powershell
 # Perform dry-run check
 python -m drive_sync.gdrive_uploader --dry-run
@@ -193,6 +193,8 @@ table_count: 5
 ### 6. Layer 3: Ultra-High Parameter (70B / 405B) AirLLM Fine-Tuning & Colab Notebook
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RYuK006/Research_Paper_Based_Model/blob/main/notebooks/AirLLM_Research_Paper_FineTuning.ipynb)
+[![User Colab Runtime](https://img.shields.io/badge/Colab-Interactive%20Notebook-orange?logo=googlecolab)](https://colab.research.google.com/drive/134vUhZt_ha4numIRRXpSg6xrdBpufxQF?usp=sharing)
+[![Google Drive Storage](https://img.shields.io/badge/Google%20Drive-Folder%201J9aIr3WhsgWTKj3wCvGUUNSG8k9bLALk-blue?logo=googledrive)](https://drive.google.com/drive/folders/1J9aIr3WhsgWTKj3wCvGUUNSG8k9bLALk?usp=sharing)
 
 Fine-tuning in the 3-Layer literature integration system teaches scientific vocabulary, behavior, and hypothesis proposal rather than memorizing static facts. Using **AirLLM's layer-streaming architecture**, models with the highest parameter counts in existence can be trained on a single consumer GPU (like a free Google Colab T4 16GB or L4 24GB):
 
