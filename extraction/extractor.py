@@ -128,7 +128,7 @@ class StructuredExtractor:
 
     def extract_tc(self, text: str) -> Optional[float]:
         """Extracts superconducting critical temperature in Kelvin."""
-        match = re.search(r"T_?[cC]\s*(?:=|of|around|up to|~|at)?\s*([0-9]+(?:\.[0-9]+)?)\s*K\b", text, re.IGNORECASE)
+        match = re.search(r"T_?[cC][^0-9\n]{0,25}?([0-9]+(?:\.[0-9]+)?)\s*K\b", text, re.IGNORECASE)
         if match:
             try:
                 val = float(match.group(1))
