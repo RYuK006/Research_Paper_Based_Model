@@ -64,14 +64,21 @@ Following an audit of the candidate generation and benchmarking pipeline, five c
 - **Corpus Filtering**: Continuous 1995–2026 superconductivity corpus comprising 21,978 verified papers (`cond-mat.supr-con` + topic-verified `cond-mat.mtrl-sci`), strictly deduplicated across arXiv and peer-reviewed journals.
 - **Hit Assertion**: Element pair must appear in the **same compound formula** in a post-cutoff paper on arXiv `cond-mat.supr-con` or a peer-reviewed journal. Excludes Zenodo (`10.5281/`), theses, and non-arXiv preprints.
 - **Metric Validity**: Random baseline rate is strictly constrained below the $20.0\%$ validity ceiling across all evaluated cutoffs.
+- **Protocol Specification**: Frozen in `config/benchmark_protocol.json` (Canonical SHA-256: `f287fdd98c73b58660e1571f3c4e12d1baddbdf9c0ccba62fe9b1cd7a747ff80`).
+- **Zero Temporal Leakage**: Evaluated candidate pools, formula extractions, and co-occurrence graphs are strictly isolated to pre-cutoff papers. (Verified identical under physical deletion of post-cutoff papers).
 
-#### Multi-Cutoff Evaluation Summary (2015, 2018, 2020)
+> [!WARNING]
+> **TEMPORAL VOLUME IMBALANCE ALERT**: Across all historical cutoffs (2012–2022), the post-cutoff publication rate exceeds the pre-cutoff rate by **2.41x to 4.36x** (exceeding the 2.0x threshold). Disproportionately accelerated post-cutoff literature volume expands confirmation opportunities for all methods.
 
-| Cutoff | Pre Papers | Post Papers | Pool Size | Metric Validity | Mean Rank | ROC AUC | K=10 (Model / Freq / Rand) | K=25 (Model / Freq / Rand) | K=50 (Model / Freq / Rand) |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2015** | 9,141 | 12,837 | 5,724 | **PASSED** | 772.7 | **0.9106** | 9/7/1 | 19/16/3 | 37/31/6 |
-| **2018** | 10,642 | 11,336 | 5,584 | **PASSED** | 639.6 | **0.9209** | 7/4/1 | 18/13/2 | 32/27/5 |
-| **2020** | 11,641 | 10,337 | 5,495 | **PASSED** | 605.0 | **0.9181** | 6/3/1 | 14/11/2 | 29/23/4 |
+#### Multi-Cutoff Evaluation Summary Across Frozen Protocol (2012, 2015, 2018, 2020, 2022)
+
+| Cutoff | Pre Papers | Post Papers | Rate Ratio | Pool Size | Metric Validity | Model AUC | Freq AUC | Paired $\Delta$AUC (95% CI) | Model Mean Rank | Freq Mean Rank | Top-25 (M / F / R) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2012** | 7,642 | 14,336 | **4.96x** | 5,865 | **PASSED** | **0.8975** | 0.9056 | `[-0.0153, -0.0012]` | 920.3 | 879.1 | 22 / 19 / 3 |
+| **2015** | 9,141 | 12,837 | **5.11x** | 5,724 | **PASSED** | **0.9106** | 0.9053 | `[-0.0012, +0.0115]` | 783.8 | 810.7 | 19 / 16 / 3 |
+| **2018** | 10,642 | 11,336 | **5.73x** | 5,584 | **PASSED** | **0.9209** | 0.9086 | `[+0.0064, +0.0184]` | 661.3 | 724.0 | 18 / 13 / 2 |
+| **2020** | 11,641 | 10,337 | **6.66x** | 5,495 | **PASSED** | **0.9181** | 0.9086 | `[+0.0028, +0.0163]` | 631.0 | 679.2 | 14 / 11 / 2 |
+| **2022** | 13,538 | 8,440 | **7.33x** | 5,347 | **PASSED** | **0.9329** | 0.9230 | `[+0.0020, +0.0183]` | 482.3 | 532.4 | 12 / 10 / 1 |
 
 #### Detailed Primary Benchmark Breakdown (Cutoff Year: 2018)
 
@@ -87,8 +94,12 @@ Following an audit of the candidate generation and benchmarking pipeline, five c
 | **Lift vs. Random** | **7.79x** | **7.70x** | **6.67x** |
 | **Lift vs. Frequency** | 1.75x | 1.38x | 1.19x |
 
-> **Statistical Finding**: The Layer 2 Literature-Gap Discovery Model demonstrates substantial ranking power over the candidate pool (ROC AUC $\approx 0.92$), and achieves higher point estimates than the frequency baseline across all three cutoffs. However, the paired 95% bootstrap confidence intervals for $\Delta(\text{Model} - \text{Frequency})$ include zero (lower bounds $\le 0.0\%$). Therefore, we state plainly that the model does not beat the popularity baseline with statistical significance.
-- **Hit Provenance**: Complete JSON exports saved to `data/time_split_results_2015.json`, `data/time_split_results_2018.json`, and `data/time_split_results_2020.json`.
+> **Statistical Finding Across All Cutoffs**: Across five historical cutoffs evaluated under the frozen protocol:
+> 1. **Cutoff 2012**: Frequency baseline exceeds the model (Frequency AUC `0.9056` vs Model AUC `0.8975`; Paired $\Delta\text{AUC}$ 95% CI: `[-0.0153, -0.0012]`).
+> 2. **Cutoff 2015**: Model and Frequency are tied within uncertainty (Model AUC `0.9106` vs Frequency AUC `0.9053`; Paired $\Delta\text{AUC}$ 95% CI: `[-0.0012, +0.0115]`, crossing zero).
+> 3. **Cutoffs 2018, 2020, 2022**: The Model achieves modestly higher full-pool ROC AUC (0.918–0.933 vs 0.908–0.923 for Frequency; Paired $\Delta\text{AUC}$ 95% CIs: `[+0.0064, +0.0184]`, `[+0.0028, +0.0163]`, `[+0.0020, +0.0183]`). However, for top-K precision (K=10, 25, 50), the paired bootstrap confidence intervals on $\Delta(\text{Model} - \text{Frequency})$ consistently cross zero.
+> **Honest Conclusion**: We state plainly that while the literature-gap model exhibits strong global ranking ability over random pairs (AUC $\approx 0.90-0.93$), it does not beat the simple frequency/popularity baseline with statistical significance in top candidate yields.
+- **Hit Provenance**: Complete JSON exports saved to `data/time_split_results_2012.json`, `data/time_split_results_2015.json`, `data/time_split_results_2018.json`, `data/time_split_results_2020.json`, and `data/time_split_results_2022.json`.
 
 ---
 
