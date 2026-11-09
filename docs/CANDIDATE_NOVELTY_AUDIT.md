@@ -169,3 +169,4 @@ The system enforces the following assertions in `tests/test_novelty.py`:
 2. `test_single_element_or_partial_never_produces_known`: $(Ce_{0.85}Sr_{0.15})H_{10} \rightarrow \text{NO\_HITS\_FOUND}$.
 3. `test_positive_controls_hallmark_superconductors_and_fn_rate`: All 10 hallmark controls across hydrides, pnictides, oxypnictides, chalcogenides, cuprates, and ruthenates evaluate to `KNOWN` with False Negative Rate $\text{FNR} = 0.0\%$.
 4. `test_forbidden_word_novel_never_emitted`: Guaranteed invariant: the word `"novel"` is never emitted in output fields.
+
