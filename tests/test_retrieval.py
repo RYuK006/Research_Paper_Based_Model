@@ -169,7 +169,7 @@ Synchrotron X-ray diffraction confirms the clathrate structure with space group 
         self.assertEqual(res["sources_used"], 1)
         self.assertIn("Somayazulu et al.", res["citations"][0]["citation"])
         self.assertIn("250 K", res["prompt"])
-        self.assertIn("Strictly", res["prompt"], "Grounding instructions must be present")
+        self.assertIn("strictly", res["prompt"].lower(), "Grounding instructions must be present")
 
 
 if __name__ == "__main__":
