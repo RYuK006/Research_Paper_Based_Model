@@ -95,7 +95,7 @@ class ProtocolDesigner:
                 "Rhenium or tungsten gasket pre-indented to 25-35 $\\mu$m thickness with 100 $\\mu$m sample chamber.",
             ]
             conditions = {
-                "pressure": f"{candidate.predicted_pressure_gpa} GPa (monitored via diamond anvil Raman / ruby fluorescence)",
+                "pressure": f"{candidate.predicted_pressure_gpa or 'Target megabar'} GPa (monitored via diamond anvil Raman / ruby fluorescence)",
                 "temperature": "1800 - 2200 K (double-sided pulsed Nd:YAG laser heating at $\\lambda=1064$ nm)",
                 "duration": "10 - 20 minutes laser annealing to induce cage phase nucleation",
                 "atmosphere": "Cryogenic or pressurized hydrogen environment inside sealed DAC",
@@ -103,7 +103,7 @@ class ProtocolDesigner:
             charact = [
                 f"In-situ Synchrotron Powder X-ray Diffraction ($\\lambda=0.434$ Å) to confirm {candidate.space_group} clathrate lattice formation.",
                 "Four-probe electrical resistance using sputtered Pt/Ti microelectrodes deposited on diamond culet.",
-                f"Measure resistance transition: verify zero-resistance state in predicted Tc window ({candidate.predicted_tc_range[0]} - {candidate.predicted_tc_range[1]} K).",
+                "Measure resistance transition: verify zero-resistance state and critical transition down to 2 K.",
                 "Magnetic susceptibility / AC susceptibility to confirm Meissner diamagnetic shielding.",
             ]
             safety = [
@@ -140,7 +140,7 @@ class ProtocolDesigner:
                 "Self-flux medium (e.g. excess FeAs or Sn flux) inside evacuated quartz/alumina ampoule.",
             ]
             conditions = {
-                "pressure": f"{candidate.predicted_pressure_gpa} GPa (or sealed evacuated tube)",
+                "pressure": f"{candidate.predicted_pressure_gpa or 'Ambient (0 GPa)'} (or sealed evacuated tube)",
                 "temperature": "1150 °C for 24h, followed by slow cooling at 2-4 °C/hour down to 750 °C",
                 "duration": "7 to 10 days crystal growth cycle",
                 "atmosphere": "High vacuum ($< 10^{-4}$ mbar) sealed in silica ampoule with Ta foil getter",
