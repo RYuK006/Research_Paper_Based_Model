@@ -1,137 +1,59 @@
 {
   "cutoff_year": 2004,
-  "pre_cutoff_papers": 1362,
-  "post_cutoff_papers": 35,
+  "pre_cutoff_papers": 1275,
+  "post_cutoff_papers": 28,
   "tested_k_values": [
     10,
     25,
     50
   ],
-  "pool_size": 1660,
+  "pool_size": 1766,
   "comparisons_by_k": [
     {
       "k": 10,
-      "model_hits": 1,
-      "model_rate": 10.0,
+      "model_hits": 0,
+      "model_rate": 0.0,
       "random_hits": 0,
-      "random_rate": 2.54,
+      "random_rate": 2.33,
       "frequency_hits": 0,
       "frequency_rate": 0.0,
       "similarity_hits": 0,
       "similarity_rate": 0.0,
-      "lift_over_random": 3.94,
-      "lift_over_frequency": 1000.0,
-      "lift_over_similarity": 1000.0
+      "lift_over_random": 0.0,
+      "lift_over_frequency": 1.0,
+      "lift_over_similarity": 1.0
     },
     {
       "k": 25,
-      "model_hits": 2,
-      "model_rate": 8.0,
+      "model_hits": 0,
+      "model_rate": 0.0,
       "random_hits": 1,
-      "random_rate": 2.41,
-      "frequency_hits": 2,
-      "frequency_rate": 8.0,
+      "random_rate": 2.16,
+      "frequency_hits": 1,
+      "frequency_rate": 4.0,
       "similarity_hits": 0,
       "similarity_rate": 0.0,
-      "lift_over_random": 3.32,
-      "lift_over_frequency": 1.0,
-      "lift_over_similarity": 800.0
+      "lift_over_random": 0.0,
+      "lift_over_frequency": 0.0,
+      "lift_over_similarity": 1.0
     },
     {
       "k": 50,
-      "model_hits": 7,
-      "model_rate": 14.0,
+      "model_hits": 0,
+      "model_rate": 0.0,
       "random_hits": 1,
-      "random_rate": 2.47,
-      "frequency_hits": 2,
-      "frequency_rate": 4.0,
-      "similarity_hits": 1,
-      "similarity_rate": 2.0,
-      "lift_over_random": 5.67,
-      "lift_over_frequency": 3.5,
-      "lift_over_similarity": 7.0
+      "random_rate": 1.97,
+      "frequency_hits": 1,
+      "frequency_rate": 2.0,
+      "similarity_hits": 0,
+      "similarity_rate": 0.0,
+      "lift_over_random": 0.0,
+      "lift_over_frequency": 0.0,
+      "lift_over_similarity": 1.0
     }
   ],
   "bootstrap_iterations": 1000,
-  "verified_discoveries": [
-    {
-      "element_pair": [
-        "K",
-        "Ti"
-      ],
-      "paper_id": "s2:doi:10.1246/cl.2011.1238",
-      "title": "Ammonolysis of HTiNbO5\u2013<i>n</i>-Propylamine Intercalation Compound",
-      "year": 2011,
-      "doi": "10.1246/cl.2011.1238",
-      "is_superconductivity_paper": true
-    },
-    {
-      "element_pair": [
-        "K",
-        "Li"
-      ],
-      "paper_id": "openalex:W1980936552",
-      "title": "Superconductivity at 55 K in Iron-Based F-Doped Layered Quaternary Compound Sm[O 1- x F x ] FeAs",
-      "year": 2008,
-      "doi": "10.1088/0256-307x/25/6/080",
-      "is_superconductivity_paper": true
-    },
-    {
-      "element_pair": [
-        "C",
-        "N"
-      ],
-      "paper_id": "s2:doi:10.1246/cl.2011.1238",
-      "title": "Ammonolysis of HTiNbO5\u2013<i>n</i>-Propylamine Intercalation Compound",
-      "year": 2011,
-      "doi": "10.1246/cl.2011.1238",
-      "is_superconductivity_paper": true
-    },
-    {
-      "element_pair": [
-        "O",
-        "P"
-      ],
-      "paper_id": "openalex:W1659501886",
-      "title": "Superconductivity in the PbO-type structure \u03b1-FeSe",
-      "year": 2008,
-      "doi": "10.1073/pnas.0807325105",
-      "is_superconductivity_paper": true
-    },
-    {
-      "element_pair": [
-        "H",
-        "P"
-      ],
-      "paper_id": "openalex:W1659501886",
-      "title": "Superconductivity in the PbO-type structure \u03b1-FeSe",
-      "year": 2008,
-      "doi": "10.1073/pnas.0807325105",
-      "is_superconductivity_paper": true
-    },
-    {
-      "element_pair": [
-        "H",
-        "Ni"
-      ],
-      "paper_id": "openalex:W1659501886",
-      "title": "Superconductivity in the PbO-type structure \u03b1-FeSe",
-      "year": 2008,
-      "doi": "10.1073/pnas.0807325105",
-      "is_superconductivity_paper": true
-    },
-    {
-      "element_pair": [
-        "Lu",
-        "O"
-      ],
-      "paper_id": "openalex:W1980936552",
-      "title": "Superconductivity at 55 K in Iron-Based F-Doped Layered Quaternary Compound Sm[O 1- x F x ] FeAs",
-      "year": 2008,
-      "doi": "10.1088/0256-307x/25/6/080",
-      "is_superconductivity_paper": true
-    }
-  ],
-  "statistical_signal_detected": true,
-  "evaluated_at": "2026-11-09T09:37:58.301346+00:00"
+  "verified_discoveries": [],
+  "statistical_signal_detected": false,
+  "evaluated_at": "2026-11-09T10:06:24.655132+00:00"
 }
