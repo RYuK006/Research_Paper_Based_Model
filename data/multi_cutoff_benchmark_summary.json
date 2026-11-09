@@ -1,11 +1,156 @@
 {
+  "2012": {
+    "pre_cutoff": 7642,
+    "post_cutoff": 14336,
+    "pre_rate_per_year": 206.5,
+    "post_rate_per_year": 1024.0,
+    "temporal_rate_ratio": 4.96,
+    "temporal_imbalance_warning": true,
+    "pool_size": 5865,
+    "random_baseline_valid": true,
+    "mean_rank": 920.3,
+    "roc_auc": 0.8975,
+    "auc_model": 0.8975,
+    "auc_frequency": 0.9056,
+    "auc_similarity": 0.3755,
+    "auc_random": 0.5,
+    "mean_rank_model": 920.3,
+    "mean_rank_frequency": 879.1,
+    "mean_rank_similarity": 3563.2,
+    "mean_rank_random": 2933.0,
+    "paired_auc_diff_ci_95": [
+      -0.0153,
+      -0.0012
+    ],
+    "comparisons": [
+      {
+        "k": 10,
+        "model_hits": 9,
+        "model_rate": 90.0,
+        "random_hits": 1,
+        "random_rate": 13.63,
+        "frequency_hits": 10,
+        "frequency_rate": 100.0,
+        "similarity_hits": 0,
+        "similarity_rate": 0.0,
+        "lift_over_random": 6.6,
+        "lift_over_frequency": 0.9,
+        "lift_over_similarity": 1.0,
+        "model_ci_95": [
+          59.59,
+          98.21
+        ],
+        "random_ci_95": [
+          1.79,
+          40.41
+        ],
+        "frequency_ci_95": [
+          72.25,
+          100.0
+        ],
+        "similarity_ci_95": [
+          0.0,
+          27.75
+        ],
+        "paired_diff_ci_95": [
+          -30.0,
+          0.0
+        ]
+      },
+      {
+        "k": 25,
+        "model_hits": 22,
+        "model_rate": 88.0,
+        "random_hits": 3,
+        "random_rate": 13.6,
+        "frequency_hits": 19,
+        "frequency_rate": 76.0,
+        "similarity_hits": 1,
+        "similarity_rate": 4.0,
+        "lift_over_random": 6.47,
+        "lift_over_frequency": 1.16,
+        "lift_over_similarity": 22.0,
+        "model_ci_95": [
+          70.04,
+          95.83
+        ],
+        "random_ci_95": [
+          4.17,
+          29.96
+        ],
+        "frequency_ci_95": [
+          56.57,
+          88.5
+        ],
+        "similarity_ci_95": [
+          0.71,
+          19.54
+        ],
+        "paired_diff_ci_95": [
+          -8.0,
+          32.0
+        ]
+      },
+      {
+        "k": 50,
+        "model_hits": 42,
+        "model_rate": 84.0,
+        "random_hits": 7,
+        "random_rate": 13.74,
+        "frequency_hits": 36,
+        "frequency_rate": 72.0,
+        "similarity_hits": 1,
+        "similarity_rate": 2.0,
+        "lift_over_random": 6.11,
+        "lift_over_frequency": 1.17,
+        "lift_over_similarity": 42.0,
+        "model_ci_95": [
+          71.49,
+          91.66
+        ],
+        "random_ci_95": [
+          6.95,
+          26.19
+        ],
+        "frequency_ci_95": [
+          58.33,
+          82.53
+        ],
+        "similarity_ci_95": [
+          0.35,
+          10.5
+        ],
+        "paired_diff_ci_95": [
+          -4.0,
+          28.0
+        ]
+      }
+    ],
+    "discoveries_count": 42
+  },
   "2015": {
     "pre_cutoff": 9141,
     "post_cutoff": 12837,
+    "pre_rate_per_year": 228.5,
+    "post_rate_per_year": 1167.0,
+    "temporal_rate_ratio": 5.11,
+    "temporal_imbalance_warning": true,
     "pool_size": 5724,
     "random_baseline_valid": true,
-    "mean_rank": 772.7,
+    "mean_rank": 783.8,
     "roc_auc": 0.9106,
+    "auc_model": 0.9106,
+    "auc_frequency": 0.9053,
+    "auc_similarity": 0.384,
+    "auc_random": 0.5,
+    "mean_rank_model": 783.8,
+    "mean_rank_frequency": 810.7,
+    "mean_rank_similarity": 3449.9,
+    "mean_rank_random": 2862.5,
+    "paired_auc_diff_ci_95": [
+      -0.0012,
+      0.0115
+    ],
     "comparisons": [
       {
         "k": 10,
@@ -115,10 +260,26 @@
   "2018": {
     "pre_cutoff": 10642,
     "post_cutoff": 11336,
+    "pre_rate_per_year": 247.5,
+    "post_rate_per_year": 1417.0,
+    "temporal_rate_ratio": 5.73,
+    "temporal_imbalance_warning": true,
     "pool_size": 5584,
     "random_baseline_valid": true,
-    "mean_rank": 639.6,
+    "mean_rank": 661.3,
     "roc_auc": 0.9209,
+    "auc_model": 0.9209,
+    "auc_frequency": 0.9086,
+    "auc_similarity": 0.3791,
+    "auc_random": 0.5,
+    "mean_rank_model": 661.3,
+    "mean_rank_frequency": 724.0,
+    "mean_rank_similarity": 3404.8,
+    "mean_rank_random": 2792.5,
+    "paired_auc_diff_ci_95": [
+      0.0064,
+      0.0184
+    ],
     "comparisons": [
       {
         "k": 10,
@@ -228,10 +389,26 @@
   "2020": {
     "pre_cutoff": 11641,
     "post_cutoff": 10337,
+    "pre_rate_per_year": 258.7,
+    "post_rate_per_year": 1722.8,
+    "temporal_rate_ratio": 6.66,
+    "temporal_imbalance_warning": true,
     "pool_size": 5495,
     "random_baseline_valid": true,
-    "mean_rank": 605.0,
+    "mean_rank": 631.0,
     "roc_auc": 0.9181,
+    "auc_model": 0.9181,
+    "auc_frequency": 0.9086,
+    "auc_similarity": 0.3834,
+    "auc_random": 0.5,
+    "mean_rank_model": 631.0,
+    "mean_rank_frequency": 679.2,
+    "mean_rank_similarity": 3338.4,
+    "mean_rank_random": 2748.0,
+    "paired_auc_diff_ci_95": [
+      0.0028,
+      0.0163
+    ],
     "comparisons": [
       {
         "k": 10,
@@ -337,5 +514,134 @@
       }
     ],
     "discoveries_count": 29
+  },
+  "2022": {
+    "pre_cutoff": 13538,
+    "post_cutoff": 8440,
+    "pre_rate_per_year": 288.0,
+    "post_rate_per_year": 2110.0,
+    "temporal_rate_ratio": 7.33,
+    "temporal_imbalance_warning": true,
+    "pool_size": 5347,
+    "random_baseline_valid": true,
+    "mean_rank": 482.3,
+    "roc_auc": 0.9329,
+    "auc_model": 0.9329,
+    "auc_frequency": 0.923,
+    "auc_similarity": 0.3917,
+    "auc_random": 0.5,
+    "mean_rank_model": 482.3,
+    "mean_rank_frequency": 532.4,
+    "mean_rank_similarity": 3222.3,
+    "mean_rank_random": 2674.0,
+    "paired_auc_diff_ci_95": [
+      0.002,
+      0.0183
+    ],
+    "comparisons": [
+      {
+        "k": 10,
+        "model_hits": 5,
+        "model_rate": 50.0,
+        "random_hits": 1,
+        "random_rate": 5.31,
+        "frequency_hits": 3,
+        "frequency_rate": 30.0,
+        "similarity_hits": 0,
+        "similarity_rate": 0.0,
+        "lift_over_random": 9.42,
+        "lift_over_frequency": 1.67,
+        "lift_over_similarity": 1.0,
+        "model_ci_95": [
+          23.66,
+          76.34
+        ],
+        "random_ci_95": [
+          1.79,
+          40.41
+        ],
+        "frequency_ci_95": [
+          10.78,
+          60.32
+        ],
+        "similarity_ci_95": [
+          0.0,
+          27.75
+        ],
+        "paired_diff_ci_95": [
+          -10.0,
+          60.0
+        ]
+      },
+      {
+        "k": 25,
+        "model_hits": 12,
+        "model_rate": 48.0,
+        "random_hits": 1,
+        "random_rate": 5.34,
+        "frequency_hits": 10,
+        "frequency_rate": 40.0,
+        "similarity_hits": 1,
+        "similarity_rate": 4.0,
+        "lift_over_random": 9.0,
+        "lift_over_frequency": 1.2,
+        "lift_over_similarity": 12.0,
+        "model_ci_95": [
+          30.03,
+          66.5
+        ],
+        "random_ci_95": [
+          0.71,
+          19.54
+        ],
+        "frequency_ci_95": [
+          23.4,
+          59.26
+        ],
+        "similarity_ci_95": [
+          0.71,
+          19.54
+        ],
+        "paired_diff_ci_95": [
+          -20.0,
+          36.0
+        ]
+      },
+      {
+        "k": 50,
+        "model_hits": 25,
+        "model_rate": 50.0,
+        "random_hits": 3,
+        "random_rate": 5.35,
+        "frequency_hits": 19,
+        "frequency_rate": 38.0,
+        "similarity_hits": 1,
+        "similarity_rate": 2.0,
+        "lift_over_random": 9.34,
+        "lift_over_frequency": 1.32,
+        "lift_over_similarity": 25.0,
+        "model_ci_95": [
+          36.64,
+          63.36
+        ],
+        "random_ci_95": [
+          2.06,
+          16.22
+        ],
+        "frequency_ci_95": [
+          25.86,
+          51.85
+        ],
+        "similarity_ci_95": [
+          0.35,
+          10.5
+        ],
+        "paired_diff_ci_95": [
+          -10.0,
+          34.0
+        ]
+      }
+    ],
+    "discoveries_count": 25
   }
 }
