@@ -1,0 +1,334 @@
+[
+  {
+    "candidate": {
+      "candidate_id": "CAND_001",
+      "formula": "(O0.85As0.15)H10",
+      "elements": [
+        "As",
+        "H",
+        "O"
+      ],
+      "stoichiometry": {
+        "O": 0.85,
+        "As": 0.15,
+        "H": 10.0
+      },
+      "target_family": "Clathrate hydride",
+      "space_group": "Fm-3m (#225)",
+      "lattice_system": "Cubic",
+      "predicted_tc_range": [
+        245.0,
+        280.0
+      ],
+      "predicted_pressure_gpa": 159.8,
+      "gap_origin": "Untried element pair O-As from literature co-occurrence analysis",
+      "discovery_score": 3675.0
+    },
+    "verification": {
+      "candidate_id": "CAND_001",
+      "formula": "(O0.85As0.15)H10",
+      "plausibility_status": "HIGHLY_PROMISING",
+      "stability_score": 0.95,
+      "goldschmidt_tolerance": null,
+      "electronegativity_diff": 1.26,
+      "chemical_precompression_index": 0.89,
+      "verification_notes": [
+        "Favorable polar-covalent / metallic hybridization for electronic transport.",
+        "High precompression index (0.89): Dopant cations induce steric pressure, stabilizing H-clathrate cage at reduced external pressure."
+      ]
+    },
+    "protocol": {
+      "candidate_id": "CAND_001",
+      "formula": "(O0.85As0.15)H10",
+      "target_family": "Clathrate hydride",
+      "recommended_synthesis_method": "Laser-heated diamond anvil cell (LH-DAC)",
+      "starting_precursors": [
+        "High-purity (As, O) metal foil or powder (purity $\\ge 99.99\\%$), stoichiometrically weighed.",
+        "Ammonia borane (NH3BH3) or pure molecular H2 gas loading as clean hydrogen donor.",
+        "Rhenium or tungsten gasket pre-indented to 25-35 $\\mu$m thickness with 100 $\\mu$m sample chamber."
+      ],
+      "synthesis_conditions": {
+        "pressure": "159.8 GPa (monitored via diamond anvil Raman / ruby fluorescence)",
+        "temperature": "1800 - 2200 K (double-sided pulsed Nd:YAG laser heating at $\\lambda=1064$ nm)",
+        "duration": "10 - 20 minutes laser annealing to induce cage phase nucleation",
+        "atmosphere": "Cryogenic or pressurized hydrogen environment inside sealed DAC"
+      },
+      "characterization_plan": [
+        "In-situ Synchrotron Powder X-ray Diffraction ($\\lambda=0.434$ \u00c5) to confirm Fm-3m (#225) clathrate lattice formation.",
+        "Four-probe electrical resistance using sputtered Pt/Ti microelectrodes deposited on diamond culet.",
+        "Measure resistance transition: verify zero-resistance state in predicted Tc window (245.0 - 280.0 K).",
+        "Magnetic susceptibility / AC susceptibility to confirm Meissner diamagnetic shielding."
+      ],
+      "safety_notes": [
+        "Extreme pressure risk: Diamond anvil culet cleavage during laser pulsing; operate behind blast shielding.",
+        "Pressurized hydrogen embrittlement: Inspect gasket seal integrity prior to heating."
+      ]
+    }
+  },
+  {
+    "candidate": {
+      "candidate_id": "CAND_002",
+      "formula": "(C0.85Cu0.15)H10",
+      "elements": [
+        "C",
+        "Cu",
+        "H"
+      ],
+      "stoichiometry": {
+        "C": 0.85,
+        "Cu": 0.15,
+        "H": 10.0
+      },
+      "target_family": "Clathrate hydride",
+      "space_group": "Fm-3m (#225)",
+      "lattice_system": "Cubic",
+      "predicted_tc_range": [
+        245.0,
+        280.0
+      ],
+      "predicted_pressure_gpa": 159.8,
+      "gap_origin": "Untried element pair C-Cu from literature co-occurrence analysis",
+      "discovery_score": 2761.0
+    },
+    "verification": {
+      "candidate_id": "CAND_002",
+      "formula": "(C0.85Cu0.15)H10",
+      "plausibility_status": "VIABLE",
+      "stability_score": 0.7,
+      "goldschmidt_tolerance": null,
+      "electronegativity_diff": 0.65,
+      "chemical_precompression_index": 0.815,
+      "verification_notes": [
+        "Favorable polar-covalent / metallic hybridization for electronic transport.",
+        "Moderate precompression index (0.81)."
+      ]
+    },
+    "protocol": {
+      "candidate_id": "CAND_002",
+      "formula": "(C0.85Cu0.15)H10",
+      "target_family": "Clathrate hydride",
+      "recommended_synthesis_method": "Laser-heated diamond anvil cell (LH-DAC)",
+      "starting_precursors": [
+        "High-purity (C, Cu) metal foil or powder (purity $\\ge 99.99\\%$), stoichiometrically weighed.",
+        "Ammonia borane (NH3BH3) or pure molecular H2 gas loading as clean hydrogen donor.",
+        "Rhenium or tungsten gasket pre-indented to 25-35 $\\mu$m thickness with 100 $\\mu$m sample chamber."
+      ],
+      "synthesis_conditions": {
+        "pressure": "159.8 GPa (monitored via diamond anvil Raman / ruby fluorescence)",
+        "temperature": "1800 - 2200 K (double-sided pulsed Nd:YAG laser heating at $\\lambda=1064$ nm)",
+        "duration": "10 - 20 minutes laser annealing to induce cage phase nucleation",
+        "atmosphere": "Cryogenic or pressurized hydrogen environment inside sealed DAC"
+      },
+      "characterization_plan": [
+        "In-situ Synchrotron Powder X-ray Diffraction ($\\lambda=0.434$ \u00c5) to confirm Fm-3m (#225) clathrate lattice formation.",
+        "Four-probe electrical resistance using sputtered Pt/Ti microelectrodes deposited on diamond culet.",
+        "Measure resistance transition: verify zero-resistance state in predicted Tc window (245.0 - 280.0 K).",
+        "Magnetic susceptibility / AC susceptibility to confirm Meissner diamagnetic shielding."
+      ],
+      "safety_notes": [
+        "Extreme pressure risk: Diamond anvil culet cleavage during laser pulsing; operate behind blast shielding.",
+        "Pressurized hydrogen embrittlement: Inspect gasket seal integrity prior to heating."
+      ]
+    }
+  },
+  {
+    "candidate": {
+      "candidate_id": "CAND_003",
+      "formula": "(B0.85V0.15)H10",
+      "elements": [
+        "B",
+        "H",
+        "V"
+      ],
+      "stoichiometry": {
+        "B": 0.85,
+        "V": 0.15,
+        "H": 10.0
+      },
+      "target_family": "Clathrate hydride",
+      "space_group": "Fm-3m (#225)",
+      "lattice_system": "Cubic",
+      "predicted_tc_range": [
+        245.0,
+        280.0
+      ],
+      "predicted_pressure_gpa": 159.8,
+      "gap_origin": "Untried element pair B-V from literature co-occurrence analysis",
+      "discovery_score": 2236.0
+    },
+    "verification": {
+      "candidate_id": "CAND_003",
+      "formula": "(B0.85V0.15)H10",
+      "plausibility_status": "VIABLE",
+      "stability_score": 0.7,
+      "goldschmidt_tolerance": null,
+      "electronegativity_diff": 0.57,
+      "chemical_precompression_index": 0.5,
+      "verification_notes": [
+        "Favorable polar-covalent / metallic hybridization for electronic transport.",
+        "Moderate precompression index (0.50)."
+      ]
+    },
+    "protocol": {
+      "candidate_id": "CAND_003",
+      "formula": "(B0.85V0.15)H10",
+      "target_family": "Clathrate hydride",
+      "recommended_synthesis_method": "Laser-heated diamond anvil cell (LH-DAC)",
+      "starting_precursors": [
+        "High-purity (B, V) metal foil or powder (purity $\\ge 99.99\\%$), stoichiometrically weighed.",
+        "Ammonia borane (NH3BH3) or pure molecular H2 gas loading as clean hydrogen donor.",
+        "Rhenium or tungsten gasket pre-indented to 25-35 $\\mu$m thickness with 100 $\\mu$m sample chamber."
+      ],
+      "synthesis_conditions": {
+        "pressure": "159.8 GPa (monitored via diamond anvil Raman / ruby fluorescence)",
+        "temperature": "1800 - 2200 K (double-sided pulsed Nd:YAG laser heating at $\\lambda=1064$ nm)",
+        "duration": "10 - 20 minutes laser annealing to induce cage phase nucleation",
+        "atmosphere": "Cryogenic or pressurized hydrogen environment inside sealed DAC"
+      },
+      "characterization_plan": [
+        "In-situ Synchrotron Powder X-ray Diffraction ($\\lambda=0.434$ \u00c5) to confirm Fm-3m (#225) clathrate lattice formation.",
+        "Four-probe electrical resistance using sputtered Pt/Ti microelectrodes deposited on diamond culet.",
+        "Measure resistance transition: verify zero-resistance state in predicted Tc window (245.0 - 280.0 K).",
+        "Magnetic susceptibility / AC susceptibility to confirm Meissner diamagnetic shielding."
+      ],
+      "safety_notes": [
+        "Extreme pressure risk: Diamond anvil culet cleavage during laser pulsing; operate behind blast shielding.",
+        "Pressurized hydrogen embrittlement: Inspect gasket seal integrity prior to heating."
+      ]
+    }
+  },
+  {
+    "candidate": {
+      "candidate_id": "CAND_004",
+      "formula": "(C0.85Cs0.15)Ba2Cu3O7",
+      "elements": [
+        "Ba",
+        "C",
+        "Cs",
+        "Cu",
+        "O"
+      ],
+      "stoichiometry": {
+        "C": 0.85,
+        "Cs": 0.15,
+        "Ba": 2.0,
+        "Cu": 3.0,
+        "O": 7.0
+      },
+      "target_family": "Perovskite oxide",
+      "space_group": "Pmmm (#47)",
+      "lattice_system": "Orthorhombic",
+      "predicted_tc_range": [
+        88.0,
+        113.0
+      ],
+      "predicted_pressure_gpa": 0.0,
+      "gap_origin": "Untried element pair C-Cs from literature co-occurrence analysis",
+      "discovery_score": 2214.0
+    },
+    "verification": {
+      "candidate_id": "CAND_004",
+      "formula": "(C0.85Cs0.15)Ba2Cu3O7",
+      "plausibility_status": "VIABLE",
+      "stability_score": 0.75,
+      "goldschmidt_tolerance": 0.9362,
+      "electronegativity_diff": 2.65,
+      "chemical_precompression_index": 1.0,
+      "verification_notes": [
+        "High electronegativity delta (2.65); potential ionic insulating tendency.",
+        "Goldschmidt tolerance factor t=0.936 within optimal cubic/orthorhombic perovskite stability window."
+      ]
+    },
+    "protocol": {
+      "candidate_id": "CAND_004",
+      "formula": "(C0.85Cs0.15)Ba2Cu3O7",
+      "target_family": "Perovskite oxide",
+      "recommended_synthesis_method": "Pulsed Laser Deposition (PLD) & Solid-State Reaction",
+      "starting_precursors": [
+        "Stoichiometric oxides/carbonates of Ba, C, Cs, Cu, O (e.g. BaCO3, CuO, Y2O3).",
+        "Single-crystal substrate: SrTiO3 (001) or LaAlO3 (001) for epitaxial film growth."
+      ],
+      "synthesis_conditions": {
+        "pressure": "0.2 - 0.4 mbar dynamic O2 partial pressure during ablation; 1 atm post-anneal",
+        "temperature": "780 - 820 \u00b0C deposition; 450 \u00b0C for 10 hours oxygenation anneal",
+        "duration": "45 minutes ablation at 2-5 Hz KrF excimer laser ($\\lambda=248$ nm)",
+        "atmosphere": "Pure oxygen (O2) environment to eliminate oxygen vacancies"
+      },
+      "characterization_plan": [
+        "High-resolution XRD $\\theta-2\\theta$ scans to verify c-axis epitaxial orientation and space group Pmmm (#47).",
+        "Four-point probe electrical resistivity from 300 K down to 4.2 K in cryostat.",
+        "SQUID vibrating sample magnetometry (VSM) to quantify superconducting volume fraction."
+      ],
+      "safety_notes": [
+        "UV Excimer Laser radiation hazard: Class 4 laser safety goggles required during PLD ablation.",
+        "Fine oxide/carbonate particulate inhalation risk during stoichiometric powder grinding."
+      ]
+    }
+  },
+  {
+    "candidate": {
+      "candidate_id": "CAND_005",
+      "formula": "(F0.85In0.15)H10",
+      "elements": [
+        "F",
+        "H",
+        "In"
+      ],
+      "stoichiometry": {
+        "F": 0.85,
+        "In": 0.15,
+        "H": 10.0
+      },
+      "target_family": "Clathrate hydride",
+      "space_group": "Fm-3m (#225)",
+      "lattice_system": "Cubic",
+      "predicted_tc_range": [
+        245.0,
+        280.0
+      ],
+      "predicted_pressure_gpa": 159.8,
+      "gap_origin": "Untried element pair F-In from literature co-occurrence analysis",
+      "discovery_score": 2171.0
+    },
+    "verification": {
+      "candidate_id": "CAND_005",
+      "formula": "(F0.85In0.15)H10",
+      "plausibility_status": "HIGHLY_PROMISING",
+      "stability_score": 0.95,
+      "goldschmidt_tolerance": null,
+      "electronegativity_diff": 2.2,
+      "chemical_precompression_index": 0.965,
+      "verification_notes": [
+        "Favorable polar-covalent / metallic hybridization for electronic transport.",
+        "High precompression index (0.96): Dopant cations induce steric pressure, stabilizing H-clathrate cage at reduced external pressure."
+      ]
+    },
+    "protocol": {
+      "candidate_id": "CAND_005",
+      "formula": "(F0.85In0.15)H10",
+      "target_family": "Clathrate hydride",
+      "recommended_synthesis_method": "Laser-heated diamond anvil cell (LH-DAC)",
+      "starting_precursors": [
+        "High-purity (F, In) metal foil or powder (purity $\\ge 99.99\\%$), stoichiometrically weighed.",
+        "Ammonia borane (NH3BH3) or pure molecular H2 gas loading as clean hydrogen donor.",
+        "Rhenium or tungsten gasket pre-indented to 25-35 $\\mu$m thickness with 100 $\\mu$m sample chamber."
+      ],
+      "synthesis_conditions": {
+        "pressure": "159.8 GPa (monitored via diamond anvil Raman / ruby fluorescence)",
+        "temperature": "1800 - 2200 K (double-sided pulsed Nd:YAG laser heating at $\\lambda=1064$ nm)",
+        "duration": "10 - 20 minutes laser annealing to induce cage phase nucleation",
+        "atmosphere": "Cryogenic or pressurized hydrogen environment inside sealed DAC"
+      },
+      "characterization_plan": [
+        "In-situ Synchrotron Powder X-ray Diffraction ($\\lambda=0.434$ \u00c5) to confirm Fm-3m (#225) clathrate lattice formation.",
+        "Four-probe electrical resistance using sputtered Pt/Ti microelectrodes deposited on diamond culet.",
+        "Measure resistance transition: verify zero-resistance state in predicted Tc window (245.0 - 280.0 K).",
+        "Magnetic susceptibility / AC susceptibility to confirm Meissner diamagnetic shielding."
+      ],
+      "safety_notes": [
+        "Extreme pressure risk: Diamond anvil culet cleavage during laser pulsing; operate behind blast shielding.",
+        "Pressurized hydrogen embrittlement: Inspect gasket seal integrity prior to heating."
+      ]
+    }
+  }
+]
