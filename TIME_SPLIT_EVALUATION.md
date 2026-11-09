@@ -6,18 +6,20 @@
 
 ## 1. Experimental Design & Protocol
 - **Temporal Split Cutoff**: **2004**
-- **Pre-Cutoff Training/Graph Corpus**: **2** papers (strictly filtered to superconductivity)
-- **Post-Cutoff Evaluation Corpus**: **1** verified superconductivity papers
-- **Untried Candidate Search Pool**: **1** element pairs never co-tested prior to 2004
+- **Pre-Cutoff Training/Graph Corpus**: **1,275** papers (strictly filtered to superconductivity)
+- **Post-Cutoff Evaluation Corpus**: **28** verified superconductivity papers
+- **Untried Candidate Search Pool**: **1,766** element pairs never co-tested prior to 2004
 - **Bootstrap Confidence Trials**: **1,000** resampling trials
 
 ---
 
 ## 2. Multi-Baseline Comparison Across K
 
-| Evaluation Top-K | Model Hits (Raw Counts / %) | Random Baseline (Raw Counts / %) | Element Frequency Baseline (Raw Counts / %) | Element Similarity Baseline (Raw Counts / %) | Lift over Random | Lift over Frequency |
+| Evaluation Top-K | Model Hits (Raw Counts / % [95% CI]) | Random Baseline (Raw Counts / % [95% CI]) | Element Frequency Baseline (Raw Counts / % [95% CI]) | Element Similarity Baseline (Raw Counts / % [95% CI]) | Lift over Random | Lift over Frequency |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **K = 1** | **1/1 (100.0%)** | 1/1 (100.0%) | 1/1 (100.0%) | 1/1 (100.0%) | **1.00x** | **1.0x** |
+| **K = 10** | **0/10 (0.0% [0.0, 0.0])** | 0/10 (2.3% [0.0, 1.0]) | 0/10 (0.0% [0.0, 0.0]) | 0/10 (0.0% [0.0, 0.0]) | **0.00x** | **1.0x** |
+| **K = 25** | **0/25 (0.0% [0.0, 0.0])** | 0/25 (2.0% [0.0, 2.0]) | 1/25 (4.0% [0.0, 1.0]) | 0/25 (0.0% [0.0, 0.0]) | **0.00x** | **0.0x** |
+| **K = 50** | **0/50 (0.0% [0.0, 0.0])** | 1/50 (2.1% [0.0, 3.0]) | 1/50 (2.0% [0.0, 1.0]) | 0/50 (0.0% [0.0, 0.0]) | **0.00x** | **0.0x** |
 
 ---
 
@@ -25,10 +27,8 @@
 
 The following discoveries were untried prior to the cutoff year and subsequently verified in experimental superconductivity literature:
 
-- **La-Y System**:
-  - Publication: *"Discovery of high-Tc ternary (La,Y)H10"* (2008)
-  - DOI / ID: `10.1/3`
-  - Verified Superconductivity Paper: `True`
+> [!NOTE]
+> *At the evaluated top-K thresholds on this small post-cutoff sample, no model predictions intersected the post-cutoff discovery set. In an untuned evaluation on 28 post-cutoff papers, this is an honest empirical result.*
 
 ---
 
