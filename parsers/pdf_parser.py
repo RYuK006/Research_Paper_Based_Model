@@ -7,7 +7,7 @@ import re
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 
-import fitz  # PyMuPDF
+import pymupdf
 import pymupdf4llm
 
 from parsers.models import ParsedDocument
@@ -26,6 +26,7 @@ class PDFParser:
         """Identify LaTeX math expressions and Markdown tables from extracted document text."""
         equations: List[str] = []
         tables: List[str] = []
+        seen_eqs = set()
 
         # Find display equations: $$ ... $$, \[ ... \], or lines with formulas
         eq_patterns = [
@@ -36,11 +37,13 @@ class PDFParser:
         for pat in eq_patterns:
             for m in re.finditer(pat, md_text, re.DOTALL):
                 eq = m.group(1).strip()
-                if eq and len(eq) > 3:
+                normalized = re.sub(r"\s+", " ", eq)
+                if eq and len(eq) > 3 and normalized not in seen_eqs:
                     equations.append(eq)
+                    seen_eqs.add(normalized)
 
         # Find Markdown tables: lines with | --- |
-        table_pattern = r"((?:\|[^\n]+\|\n)+)"
+        table_pattern = r"((?:[ \t]*\|[^\n]+\|\n?)+)"
         for m in re.finditer(table_pattern, md_text):
             tbl = m.group(1).strip()
             if "---" in tbl:
