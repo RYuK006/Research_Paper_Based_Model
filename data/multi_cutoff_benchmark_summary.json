@@ -1,0 +1,296 @@
+{
+  "2015": {
+    "pre_cutoff": 1301,
+    "post_cutoff": 9751,
+    "pool_size": 2457,
+    "comparisons": [
+      {
+        "k": 10,
+        "model_hits": 10,
+        "model_rate": 100.0,
+        "random_hits": 6,
+        "random_rate": 58.66,
+        "frequency_hits": 10,
+        "frequency_rate": 100.0,
+        "similarity_hits": 4,
+        "similarity_rate": 40.0,
+        "lift_over_random": 1.7,
+        "lift_over_frequency": 1.0,
+        "lift_over_similarity": 2.5,
+        "model_ci_95": [
+          3.0,
+          9.0
+        ],
+        "random_ci_95": [
+          3.0,
+          9.0
+        ],
+        "frequency_ci_95": [
+          3.0,
+          9.0
+        ],
+        "similarity_ci_95": [
+          1.0,
+          4.0
+        ]
+      },
+      {
+        "k": 25,
+        "model_hits": 25,
+        "model_rate": 100.0,
+        "random_hits": 15,
+        "random_rate": 58.68,
+        "frequency_hits": 25,
+        "frequency_rate": 100.0,
+        "similarity_hits": 7,
+        "similarity_rate": 28.0,
+        "lift_over_random": 1.7,
+        "lift_over_frequency": 1.0,
+        "lift_over_similarity": 3.57,
+        "model_ci_95": [
+          11.0,
+          20.0
+        ],
+        "random_ci_95": [
+          10.0,
+          20.0
+        ],
+        "frequency_ci_95": [
+          11.0,
+          20.0
+        ],
+        "similarity_ci_95": [
+          2.0,
+          7.0
+        ]
+      },
+      {
+        "k": 50,
+        "model_hits": 49,
+        "model_rate": 98.0,
+        "random_hits": 29,
+        "random_rate": 58.14,
+        "frequency_hits": 46,
+        "frequency_rate": 92.0,
+        "similarity_hits": 20,
+        "similarity_rate": 40.0,
+        "lift_over_random": 1.69,
+        "lift_over_frequency": 1.07,
+        "lift_over_similarity": 2.45,
+        "model_ci_95": [
+          24.0,
+          37.0
+        ],
+        "random_ci_95": [
+          22.0,
+          35.0
+        ],
+        "frequency_ci_95": [
+          23.0,
+          35.0
+        ],
+        "similarity_ci_95": [
+          8.0,
+          17.0
+        ]
+      }
+    ],
+    "discoveries_count": 49
+  },
+  "2018": {
+    "pre_cutoff": 1301,
+    "post_cutoff": 9751,
+    "pool_size": 2457,
+    "comparisons": [
+      {
+        "k": 10,
+        "model_hits": 10,
+        "model_rate": 100.0,
+        "random_hits": 6,
+        "random_rate": 58.66,
+        "frequency_hits": 10,
+        "frequency_rate": 100.0,
+        "similarity_hits": 4,
+        "similarity_rate": 40.0,
+        "lift_over_random": 1.7,
+        "lift_over_frequency": 1.0,
+        "lift_over_similarity": 2.5,
+        "model_ci_95": [
+          3.0,
+          9.0
+        ],
+        "random_ci_95": [
+          3.0,
+          9.0
+        ],
+        "frequency_ci_95": [
+          3.0,
+          9.0
+        ],
+        "similarity_ci_95": [
+          1.0,
+          4.0
+        ]
+      },
+      {
+        "k": 25,
+        "model_hits": 25,
+        "model_rate": 100.0,
+        "random_hits": 15,
+        "random_rate": 58.68,
+        "frequency_hits": 25,
+        "frequency_rate": 100.0,
+        "similarity_hits": 7,
+        "similarity_rate": 28.0,
+        "lift_over_random": 1.7,
+        "lift_over_frequency": 1.0,
+        "lift_over_similarity": 3.57,
+        "model_ci_95": [
+          11.0,
+          20.0
+        ],
+        "random_ci_95": [
+          10.0,
+          20.0
+        ],
+        "frequency_ci_95": [
+          11.0,
+          20.0
+        ],
+        "similarity_ci_95": [
+          2.0,
+          7.0
+        ]
+      },
+      {
+        "k": 50,
+        "model_hits": 49,
+        "model_rate": 98.0,
+        "random_hits": 29,
+        "random_rate": 58.14,
+        "frequency_hits": 46,
+        "frequency_rate": 92.0,
+        "similarity_hits": 20,
+        "similarity_rate": 40.0,
+        "lift_over_random": 1.69,
+        "lift_over_frequency": 1.07,
+        "lift_over_similarity": 2.45,
+        "model_ci_95": [
+          24.0,
+          37.0
+        ],
+        "random_ci_95": [
+          22.0,
+          35.0
+        ],
+        "frequency_ci_95": [
+          23.0,
+          35.0
+        ],
+        "similarity_ci_95": [
+          8.0,
+          17.0
+        ]
+      }
+    ],
+    "discoveries_count": 49
+  },
+  "2020": {
+    "pre_cutoff": 1302,
+    "post_cutoff": 9750,
+    "pool_size": 2456,
+    "comparisons": [
+      {
+        "k": 10,
+        "model_hits": 10,
+        "model_rate": 100.0,
+        "random_hits": 6,
+        "random_rate": 58.24,
+        "frequency_hits": 10,
+        "frequency_rate": 100.0,
+        "similarity_hits": 4,
+        "similarity_rate": 40.0,
+        "lift_over_random": 1.72,
+        "lift_over_frequency": 1.0,
+        "lift_over_similarity": 2.5,
+        "model_ci_95": [
+          3.0,
+          9.0
+        ],
+        "random_ci_95": [
+          3.0,
+          9.0
+        ],
+        "frequency_ci_95": [
+          3.0,
+          9.0
+        ],
+        "similarity_ci_95": [
+          1.0,
+          4.0
+        ]
+      },
+      {
+        "k": 25,
+        "model_hits": 25,
+        "model_rate": 100.0,
+        "random_hits": 15,
+        "random_rate": 58.5,
+        "frequency_hits": 25,
+        "frequency_rate": 100.0,
+        "similarity_hits": 7,
+        "similarity_rate": 28.0,
+        "lift_over_random": 1.71,
+        "lift_over_frequency": 1.0,
+        "lift_over_similarity": 3.57,
+        "model_ci_95": [
+          11.0,
+          20.0
+        ],
+        "random_ci_95": [
+          10.0,
+          19.0
+        ],
+        "frequency_ci_95": [
+          11.0,
+          20.0
+        ],
+        "similarity_ci_95": [
+          2.0,
+          7.0
+        ]
+      },
+      {
+        "k": 50,
+        "model_hits": 49,
+        "model_rate": 98.0,
+        "random_hits": 29,
+        "random_rate": 58.5,
+        "frequency_hits": 46,
+        "frequency_rate": 92.0,
+        "similarity_hits": 20,
+        "similarity_rate": 40.0,
+        "lift_over_random": 1.68,
+        "lift_over_frequency": 1.07,
+        "lift_over_similarity": 2.45,
+        "model_ci_95": [
+          24.0,
+          37.0
+        ],
+        "random_ci_95": [
+          22.0,
+          36.0
+        ],
+        "frequency_ci_95": [
+          23.0,
+          35.0
+        ],
+        "similarity_ci_95": [
+          8.0,
+          17.0
+        ]
+      }
+    ],
+    "discoveries_count": 49
+  }
+}
