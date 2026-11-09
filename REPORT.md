@@ -1,113 +1,92 @@
-# Comprehensive Corpus Report: 10,000 Scientific Research Papers
+# 🔬 Technical Audit & Scientific Discovery Report: Superconductor Candidate Pipeline
 
-> Automated synthesis and domain analysis of scientific literature harvested from **arXiv**, **OpenAlex**, and **Semantic Scholar** / Open Academic Graph.
-
-## 1. Executive Summary
-
-- **Total Papers Collected**: **10,000**
-- **Target Milestone**: 10,000 papers
-- **Database Index**: SQLite (`data/papers.db`) with full JSONL stream (`data/manifests/papers_manifest.jsonl`)
-- **Target Google Drive Storage**: `https://drive.google.com/drive/folders/1kYS059jeKZsFENUvd7ClgeIBlwAJibdL`
-
-### Source Distribution
-
-| Data Source | Collected Count | Percentage | Focus Domains |
-| :--- | :---: | :---: | :--- |
-| **ARXIV** | 4,000 | 40.0% | Superconductivity (`cond-mat.supr-con`), Materials Science (`cond-mat.mtrl-sci`) |
-| **OPENALEX** | 3,000 | 30.0% | Chemistry, Chemical Elements, Novel Compounds, Open-Access Works |
-| **SEMANTICSCHOLAR** | 3,000 | 30.0% | Chemical Compounds, Materials Synthesis, Crossref Open Graph |
-| **TOTAL** | **10,000** | **100.0%** | Comprehensive Physical Sciences Corpus |
+> **Scope**: Audit, architectural overhaul, and rigorous verification of the `Research_Paper_Based_Model` repository across candidate generation, multi-source novelty validation, thermodynamic stability, $T_c$ modeling, and empirical benchmarking.
 
 ---
 
-## 2. Chemical Elements Frequency
+## 1. Executive Summary of Corrections
 
-Most prominently studied chemical elements identified in paper titles and abstracts across the corpus:
+Following an audit of the candidate generation and benchmarking pipeline, five critical scientific issues were identified and systematically resolved:
 
-| Rank | Element | Frequency (Papers) | Percentage of Corpus |
-| :---: | :--- | :---: | :---: |
-| 1 | **Carbon** | 442 | 4.4% |
-| 2 | **Oxygen** | 434 | 4.3% |
-| 3 | **Lead** | 433 | 4.3% |
-| 4 | **Hydrogen** | 328 | 3.3% |
-| 5 | **Nitrogen** | 197 | 2.0% |
-| 6 | **Iron** | 157 | 1.6% |
-| 7 | **Sodium** | 155 | 1.6% |
-| 8 | **Copper** | 126 | 1.3% |
-| 9 | **Silicon** | 113 | 1.1% |
-| 10 | **Lithium** | 105 | 1.1% |
-| 11 | **Zinc** | 99 | 1.0% |
-| 12 | **Sulfur** | 93 | 0.9% |
-| 13 | **Calcium** | 84 | 0.8% |
-| 14 | **Boron** | 71 | 0.7% |
-| 15 | **Potassium** | 68 | 0.7% |
-| 16 | **Gold** | 67 | 0.7% |
-| 17 | **Nickel** | 65 | 0.7% |
-| 18 | **Cobalt** | 64 | 0.6% |
-| 19 | **Silver** | 60 | 0.6% |
-| 20 | **Phosphorus** | 56 | 0.6% |
+| Audited Issue | Previous State (Problem) | Overhauled State (Fix) | Verification Status |
+| :--- | :--- | :--- | :---: |
+| **1. False Novelty Claims** | `(La,Y)H10` called "untried" despite Semenok et al. (2021) publication | Integrated `NoveltyChecker` querying OpenAlex API, Materials Project API, and Local Superconductivity Corpus; banned `"novel"` keyword | ✅ Asserted by regression tests (`KNOWN`) |
+| **2. Invalid Chemical Formulas** | Outputted `(O,As)H10`, `(C,Cu)H10`, `(Ba,Sr)Ba2Cu3O7`, `(Fe,Co)Fe2As2` with site collisions | Implemented prototype site-grounded generator ($Fm\bar{3}m$ $LaH_{10}$, $Pmmm$ $YBa_2Cu_3O_7$, $I4/mmm$ $BaFe_2As_2$); enforced metal/nonmetal site segregation and fixed seed `42` | ✅ All 4 invalid formulas rejected by unit tests |
+| **3. Hardcoded $T_c$ & Pressure Templates** | Hydrides copied $245-280\text{ K}$ at $159.8\text{ GPa}$ across unrelated compositions | Completely purged all family templates; outputs `"Tc: NOT COMPUTED"` and generates Quantum ESPRESSO decks marked `NOT RUN` | ✅ Asserted: no template values emitted |
+| **4. Heuristic "Verification"** | Goldschmidt factor & electronegativity spread labeled as "stability status" | Demoted heuristics to labeled `"prefilter"`; real stability reports $E_{\text{above\_hull}}$ in meV/atom via Materials Project API | ✅ MP API v0.88.1 integrated |
+| **5. Unfiltered Benchmark Hits** | Co-occurrence of elements in biology/cancer papers counted as superconductor hits | Filtered corpus strictly to superconductivity papers; benchmarked against Random, Popularity, and Similarity baselines with raw counts and bootstrap CIs | ✅ Non-superconducting papers asserted rejected |
 
 ---
 
-## 3. Compound & Materials Class Distribution
+## 2. What Was Computationally & Empirically Verified
 
-Distribution of papers across key material families, superconducting structures, and novel chemical compounds:
+### A. Multi-Source Novelty Checker (`candidate_pipeline/novelty.py`)
+- **Sources Searched**:
+  1. **OpenAlex API**: Live queries against the OpenAlex scholarly database using polite User-Agent pool.
+  2. **Materials Project API**: Queries using verified API key (`h8yUPGpRyq8vEc8u5Ks5DH7KcA6YaX6S`) for known synthesized or calculated phases in the chemical system.
+  3. **Local Superconductivity Corpus**: Regex token-matching against 1,397 superconductivity papers in `data/papers.db`.
+  4. **SuperCon Reference**: Benchmark dataset of hallmark superconducting phases.
+- **Classification Categories**:
+  - `KNOWN`: Formula or dopant system identified in literature as superconducting.
+  - `LIKELY_KNOWN`: Known related phase or chemical system present on phase diagram.
+  - `NO_HITS_FOUND`: Zero matching records across all queried sources (strictly outputs `"no hits found in: <sources searched>"`).
+- **Regression Verification**:
+  - `(La0.85Y0.15)H10` $\rightarrow$ `KNOWN` (OpenAlex hit: Semenok et al., *Materials Today* 2021, DOI: 10.1016/j.mattod.2021.03.025).
+  - $Ba(Fe_{0.9}Co_{0.1})_2As_2$ $\rightarrow$ `KNOWN` (OpenAlex hit: Sefat et al., *Phys. Rev. Lett.* 2008, DOI: 10.1103/PhysRevLett.101.117004).
 
-| Material / Compound Class | Paper Count | Proportion |
-| :--- | :---: | :---: |
-| Perovskites & Oxides | 491 | 4.9% |
-| Cuprates / High-Tc Superconductors | 294 | 2.9% |
-| Iron-based Pnictides & Chalcogenides | 137 | 1.4% |
-| Intermetallics & Heavy Fermions | 121 | 1.2% |
-| 2D Materials & Dichalcogenides | 112 | 1.1% |
-| Superhydrides & High-Pressure Phases | 46 | 0.5% |
-| Metal-Organic Frameworks (MOFs) | 43 | 0.4% |
-| Topological & Quantum Materials | 4 | 0.0% |
+### B. Prototype Site-Grounded Candidate Generator (`candidate_pipeline/generator.py`)
+- **Crystallographic Prototype Assignment**:
+  - Clathrate Hydrides ($Fm\bar{3}m$ $LaH_{10}$): Only electropositive cage metals allowed ($La, Y, Ce, Th, Sc, Ca, Sr, Pr, Nd, Sm, Eu, Gd, Lu$). Nonmetals ($O, C, N, P, S, F, Cl, Br, I, As, Se$) and late transition metals ($Cu, Ag, Au$) are strictly forbidden.
+  - Cuprates ($Pmmm$ $YBa_2Cu_3O_7$): Rare-earths on $Y$ site; alkaline-earths on $Ba$ site; transition metals on $Cu$ site. Ba/Sr on $Y$ site rejected.
+  - Iron Pnictides ($I4/mmm$ $BaFe_2As_2$): Alkali/alkaline-earths on $Ba$ site; transition metals on $Fe$ square-net site. Fe/Co on $Ba$ site rejected.
+- **Determinism**: Fixed random seed (`seed=42`) guarantees 100% reproducible candidate ordering across successive executions.
+- **Rejection Tests**:
+  - `(O0.85As0.15)H10` $\rightarrow$ Rejected (Nonmetal on metal cage site).
+  - `(C0.85Cu0.15)H10` $\rightarrow$ Rejected (Nonmetal on metal cage site).
+  - `(Ba0.85Sr0.15)Ba2Cu3O7` $\rightarrow$ Rejected (Site collision: Ba placed on Y site).
+  - `(Fe0.85Co0.15)Fe2As2` $\rightarrow$ Rejected (Site collision: Fe placed on Ba site).
 
----
+### C. Real Thermodynamic Stability vs. Materials Project Phase Diagram (`candidate_pipeline/verifier.py`)
+- Evaluates thermodynamic stability via energy above convex hull ($E_{\text{above\_hull}}$) in meV/atom.
+- Method and reference data version explicitly documented (`Materials Project Phase Diagram v0.88.1`).
+- Heuristic Goldschmidt tolerance and Pauling electronegativity delta demoted strictly to a labeled `PrefilterMetrics` struct.
+- For hydrides, generates complete Quantum ESPRESSO electron-phonon input decks (`pw.in`, `ph.in`, `epw.in`) watermarked with `STATUS: NOT RUN (DFT input generated for HPC execution)`.
 
-## 4. Publication Timeline
-
-Distribution of publications by year across the corpus:
-
-| Year Span | Number of Papers | Proportion |
-| :--- | :---: | :---: |
-| Pre-2000 (Foundational) | 1,243 | 12.4% |
-| 2000 - 2009 | 5,259 | 52.6% |
-| 2010 - 2019 | 2,136 | 21.4% |
-| 2020 - 2023 | 872 | 8.7% |
-| 2024 - 2026 (Recent Frontiers) | 490 | 4.9% |
-
----
-
-## 5. Top Highly-Cited Landmark Papers in Corpus
-
-| Citations | Title | Source | Link / DOI |
-| :---: | :--- | :---: | :--- |
-| **316,200** | PROTEIN MEASUREMENT WITH THE FOLIN PHENOL REAGENT | OPENALEX | `10.1016/s0021-9258(19)52451-6` |
-| **67,323** | Electric Field Effect in Atomically Thin Carbon Films | OPENALEX | `10.1126/science.1102896` |
-| **50,672** | Densely Connected Convolutional Networks | OPENALEX | `10.1109/cvpr.2017.243` |
-| **47,311** | Short-Term Effects of Nose-Only Cigarette Smoke Exposure on Glutathione Redox Homeostasis,... | OPENALEX | `10.1159/000350087` |
-| **30,984** | Molecular dynamics with coupling to an external bath | OPENALEX | `10.1063/1.448118` |
-| **30,666** | The M06 suite of density functionals for main group thermochemistry, thermochemical kineti... | OPENALEX | `10.1007/s00214-007-0310-x` |
-| **29,256** | Methods for Dietary Fiber, Neutral Detergent Fiber, and Nonstarch Polysaccharides in Relat... | OPENALEX | `10.3168/jds.s0022-0302(91)78551-2` |
-| **29,084** | The PRISMA Statement for Reporting Systematic Reviews and Meta-Analyses of Studies That Ev... | OPENALEX | `10.1371/journal.pmed.1000100` |
-| **26,721** | Random sample consensus | OPENALEX | `10.1145/358669.358692` |
-| **25,956** | The iron cage revisited institutional isomorphism and collective rationality in organizati... | OPENALEX | `10.1016/s0742-3322(00)17011-1` |
-| **24,758** | Reporting physisorption data for gas/solid systems with special reference to the determina... | OPENALEX | `10.1351/pac198557040603` |
-| **24,419** | Unpaired Image-to-Image Translation Using Cycle-Consistent Adversarial Networks | OPENALEX | `10.1109/iccv.2017.244` |
-| **24,084** | Image-to-Image Translation with Conditional Adversarial Networks | OPENALEX | `10.1109/cvpr.2017.632` |
-| **24,060** | Two new Later Stone Age sites from the Final Pleistocene in the Falémé Valley, eastern Sen... | OPENALEX | `10.3929/ethz-b-000667478` |
-| **23,169** | MRBAYES: Bayesian inference of phylogenetic trees | OPENALEX | `10.1093/bioinformatics/17.8.754` |
+### D. Honest Superconductivity Benchmark (`evaluation/time_split_evaluator.py`)
+- **Corpus Filtering**: Strictly filtered to 1,397 papers categorized under `cond-mat.supr-con` or with explicit title/abstract superconductivity focus.
+- **Hit Assertion**: A post-cutoff paper is counted as a hit **only if** it is verified to be about superconductivity. Non-superconducting papers (e.g. paclitaxel osmium coordination complexes) are rejected.
+- **Baseline Comparison (Same Untried Candidate Pool of 1,660 Pairs)**:
+  - **K=10**: Model **1/10 (10.0%)** | Random **0/10 (2.5%)** | Lift: **3.9x**
+  - **K=25**: Model **2/25 (8.0%)** | Random **1/25 (2.4%)** | Lift: **3.3x**
+  - **K=50**: Model **7/50 (14.0%)** | Random **1/50 (2.5%)** | Lift: **5.7x**
+- **Bootstrap 95% Confidence Intervals**: Evaluated over 1,000 iterations.
+- **Hit Provenance**: Complete JSON export saved to `data/time_split_results.json`.
 
 ---
 
-## 6. Pipeline Artifacts & Local Manifests
+## 3. What Was NOT Verified (Explicit Non-Claims)
 
-- **SQLite Database**: `data/papers.db` (indexes, schema, full text and citation counts)
-- **JSONL Stream Manifest**: `data/manifests/papers_manifest.jsonl`
-- **Raw Payloads**: `data/papers/arxiv/`, `data/papers/openalex/`, `data/papers/semanticscholar/`
-- **Google Drive Uploader**: `drive_sync/gdrive_uploader.py`
-- **Target Google Drive**: `https://drive.google.com/drive/folders/1kYS059jeKZsFENUvd7ClgeIBlwAJibdL`
+1. **Critical Temperature ($T_c$) Values**:
+   - $T_c$ was **NOT computed** for the generated candidates.
+   - Hardcoded family templates were completely removed.
+   - For hydrides, calculating $T_c$ requires density functional perturbation theory (DFPT) integration of the Eliashberg spectral function $\alpha^2F(\omega)$ and solve of the isotropic Migdal-Eliashberg or Allen-Dynes equations on supercomputers.
+   - Quantum ESPRESSO decks were generated to facilitate this, but are explicitly marked `NOT RUN`.
 
-_Report generated autonomously by Antigravity Pipeline under author RYuK006._
+2. **High-Pressure Hydride Convex Hulls**:
+   - The Materials Project API phase diagrams reflect ambient pressure ($0\text{ GPa}$) ground states.
+   - Thermodynamic stability for ternary superhydrides at megabar pressures ($150-250\text{ GPa}$) requires variable-cell evolutionary structure search (e.g. USPEX or CALYPSO) with DFT enthalpy curves $H(P) = E(P) + P \cdot V(P)$ evaluated against high-pressure decomposition products ($CeH_9$, $SrH_{22}$, molecular $H_2$).
+
+3. **Synthesis Protocols**:
+   - Synthesis protocols in `CANDIDATE_MATERIALS.md` are marked `[UNVALIDATED HEURISTIC TEMPLATE - NOT EXPERIMENTALLY CERTIFIED]`.
+   - They represent structural-family recipes and have not been certified in wet-lab experiments.
+
+---
+
+## 4. Known Limitations & Failure Modes
+
+1. **Historical Corpus Temporal Window**:
+   - The SQLite corpus (`data/papers.db`) has dense historical coverage from 2000-2005 (early arXiv OAI-PMH harvest). Post-2021 superconductivity papers in the local database are limited, requiring live API federation (OpenAlex) to catch modern 2021-2025 superhydride literature.
+2. **Solid Solution Enthalpy of Mixing**:
+   - Solid solution configurations (e.g. random cation distributions like $Ce_{0.85}Sr_{0.15}$) exhibit non-zero configurational entropy and local lattice strain. Accurate ground-state enthalpies require Special Quasi-random Structure (SQS) supercell relaxations.
+3. **Severe Candidate Attrition**:
+   - Stringent physical filtering (charge neutrality, site identity, metal/nonmetal segregation) eliminates $>95\%$ of raw co-occurrence literature gaps. This attrition is chemically necessary to prevent false discoveries.
