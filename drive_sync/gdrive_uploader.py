@@ -13,7 +13,7 @@ from typing import Dict, List, Optional
 
 logger = logging.getLogger("gdrive_uploader")
 
-DEFAULT_DRIVE_FOLDER_ID = "1kYS059jeKZsFENUvd7ClgeIBlwAJibdL"
+DEFAULT_DRIVE_FOLDER_ID = "1J9aIr3WhsgWTKj3wCvGUUNSG8k9bLALk"
 SCOPES = ["https://www.googleapis.com/auth/drive.file", "https://www.googleapis.com/auth/drive"]
 
 
