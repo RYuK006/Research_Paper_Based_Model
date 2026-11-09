@@ -69,7 +69,7 @@ class TestParsers(unittest.TestCase):
         md, equations, tables, sections = parser.parse_tex_to_markdown(raw_tex)
 
         self.assertEqual(len(equations), 1)
-        self.assertIn("c_{i\sigma}^\dagger", equations[0])
+        self.assertIn(r"c_{i\sigma}^\dagger", equations[0])
 
         self.assertEqual(len(tables), 1)
         self.assertIn("YBa2Cu3O7", tables[0])
