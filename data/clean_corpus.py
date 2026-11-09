@@ -173,3 +173,4 @@ def clean_and_deduplicate(db_path: str = "data/papers.db") -> Tuple[Dict[str, in
 
 if __name__ == "__main__":
     clean_and_deduplicate()
+
