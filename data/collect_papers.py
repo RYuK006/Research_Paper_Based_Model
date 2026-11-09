@@ -250,7 +250,9 @@ class ResumablePaperCollector:
                 "completed": False,
             },
             "openalex": {
-                "cursor": "*",
+                "years": list(range(2026, 2009, -1)),
+                "current_year_idx": 0,
+                "current_page": 1,
                 "completed": False,
             },
             "total_collected_in_session": 0,
@@ -496,25 +498,33 @@ class ResumablePaperCollector:
         target_count: int,
         checkpoint: Dict[str, Any],
         per_page: int = 100,
+        max_pages_per_year: int = 40,
     ) -> int:
-        """Harvest papers from OpenAlex with cursor paging and polite pool, prioritizing 2010-2026."""
-        oa_state = checkpoint.get("openalex", {})
-        cursor = oa_state.get("cursor", "*")
+        """Harvest papers from OpenAlex with year-bracket page pagination, prioritizing 2010-2026."""
+        oa_state = checkpoint.setdefault("openalex", {})
+        years = oa_state.setdefault("years", list(range(2026, 2009, -1)))
+        year_idx = oa_state.get("current_year_idx", 0)
+        current_page = oa_state.get("current_page", 1)
         collected = 0
+
+        api_key = os.environ.get("OPENALEX_API_KEY")
 
         # Query prioritizing superconductivity, condensed matter, and inorganic/materials chemistry (2010-2026)
         query = "superconductivity OR 'condensed matter' OR 'inorganic chemistry' OR 'materials chemistry'"
 
-        while cursor and not self.interrupted:
-            logger.info(f"[OpenAlex] Fetching works with cursor: {cursor[:15]}...")
+        while year_idx < len(years) and not self.interrupted:
+            year = years[year_idx]
+            logger.info(f"[OpenAlex] Querying year {year}, page {current_page}/{max_pages_per_year}...")
 
             params = {
                 "search": query,
-                "filter": "publication_year:2010-2026,has_abstract:true",
+                "filter": f"publication_year:{year},has_abstract:true",
                 "per-page": per_page,
-                "cursor": cursor,
+                "page": current_page,
                 "mailto": self.email,
             }
+            if api_key:
+                params["api_key"] = api_key
 
             try:
                 r = self.client.get(OPENALEX_API_URL, params=params)
@@ -523,18 +533,26 @@ class ResumablePaperCollector:
                     time.sleep(5.0)
                     continue
                 elif r.status_code != 200:
-                    logger.warning(f"[OpenAlex] HTTP {r.status_code}. Pausing 3s...")
+                    logger.warning(f"[OpenAlex] HTTP {r.status_code} on year {year} page {current_page}. Moving to next year...")
+                    year_idx += 1
+                    current_page = 1
+                    oa_state["current_year_idx"] = year_idx
+                    oa_state["current_page"] = current_page
+                    self.save_checkpoint(checkpoint)
                     time.sleep(3.0)
                     continue
 
                 data = r.json()
                 results = data.get("results", [])
-                next_cursor = data.get("meta", {}).get("next_cursor")
 
-                if not results or not next_cursor or next_cursor == cursor:
-                    logger.info("[OpenAlex] Reached end of cursor pagination.")
-                    oa_state["completed"] = True
-                    break
+                if not results:
+                    logger.info(f"[OpenAlex] No more results for year {year}. Moving to next year.")
+                    year_idx += 1
+                    current_page = 1
+                    oa_state["current_year_idx"] = year_idx
+                    oa_state["current_page"] = current_page
+                    self.save_checkpoint(checkpoint)
+                    continue
 
                 records = [self.parse_openalex_item(item) for item in results]
                 records = [rec for rec in records if rec is not None]
@@ -554,10 +572,15 @@ class ResumablePaperCollector:
                     inserted = self.db.insert_batch(unique_records)
                     collected += inserted
                     checkpoint["total_collected_in_session"] = checkpoint.get("total_collected_in_session", 0) + inserted
-                    logger.info(f"[OpenAlex] Saved {inserted} new papers (Total in DB: {self.db.get_total_count():,}).")
+                    logger.info(f"[OpenAlex] Saved {inserted} new papers for year {year} (Total in DB: {self.db.get_total_count():,}).")
 
-                cursor = next_cursor
-                oa_state["cursor"] = cursor
+                current_page += 1
+                if current_page > max_pages_per_year:
+                    year_idx += 1
+                    current_page = 1
+
+                oa_state["current_year_idx"] = year_idx
+                oa_state["current_page"] = current_page
                 self.save_checkpoint(checkpoint)
 
                 if collected >= target_count:
@@ -567,8 +590,13 @@ class ResumablePaperCollector:
                 time.sleep(self.openalex_rate_limit)
 
             except Exception as e:
-                logger.error(f"[OpenAlex] Request error: {e}")
-                time.sleep(5.0)
+                logger.error(f"[OpenAlex] Request error on year {year}: {e}")
+                time.sleep(4.0)
+
+        if year_idx >= len(years):
+            oa_state["completed"] = True
+            self.save_checkpoint(checkpoint)
+            logger.info("[OpenAlex] Completed all target years (2010-2026).")
 
         return collected
 
