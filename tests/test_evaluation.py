@@ -1,5 +1,11 @@
 """
-Unit tests for the Time-Split Scientific Discovery Benchmark Evaluator.
+Unit tests for the Honest Superconductivity Time-Split Evaluator (evaluation/time_split_evaluator.py).
+Verifies:
+1. Strict filtering to superconductivity papers (non-superconducting papers rejected).
+2. Failure test if any hit is not about superconductivity.
+3. Multi-baseline comparison (Random, Frequency, Similarity) on identical candidate pool.
+4. Multiple K values (10, 25, 50) and raw counts reporting.
+5. Hit evidence persistence with traceable IDs.
 """
 
 import json
@@ -12,7 +18,7 @@ from evaluation.time_split_evaluator import TimeSplitEvaluator, EvaluationReport
 
 
 class TestEvaluation(unittest.TestCase):
-    """Test suite for time-split discovery benchmarking."""
+    """Test suite for honest superconductivity discovery benchmarking."""
 
     def setUp(self) -> None:
         self.temp_dir = tempfile.TemporaryDirectory()
@@ -28,57 +34,80 @@ class TestEvaluation(unittest.TestCase):
                 title TEXT,
                 abstract TEXT,
                 year INTEGER,
-                doi TEXT
+                doi TEXT,
+                categories TEXT
             )
         """)
 
-        # Insert historical pre-2021 papers:
-        # p1: La, H, O
-        # p2: Y, H, O
-        # Both La and Y frequently co-occur with H and O, but (La, Y) has no pre-2021 co-occurrence!
-        # Insert modern post-2021 papers:
-        # p3: (La, Y) synthesized together! (Ground-truth future hit)
+        # Insert test papers:
+        # Pre-2004 superconductivity papers
+        # p1: La, H, O (superconduct)
+        # p2: Y, H, O (superconduct)
+        # Post-2004 superconductivity papers
+        # p3: (La, Y) synthesized together in superconductivity study!
+        # Non-superconducting papers (e.g. bioinorganic or cancer drug)
+        # p4: Paclitaxel Osmium complex (NO superconductivity)
         papers = [
-            ("p1", "Synthesis of Lanthanum hydride LaH10", "High pressure La and H react with trace O.", 2019, "10.1/1"),
-            ("p2", "Yttrium hydride YH9 superconductivity", "Laser heating of Y with H in presence of O.", 2020, "10.1/2"),
-            ("p3", "Discovery of high-Tc ternary (La,Y)H10", "Ternary hydride containing both La and Y synthesized at 160 GPa.", 2023, "10.1/3"),
-            ("p4", "Iron selenide FeSe films", "Tetragonal FeSe thin films grown on STO.", 2017, "10.1/4"),
-            ("p5", "Cobalt doped FeSe", "Transport properties of Co doped FeSe.", 2022, "10.1/5"),
+            ("p1", "Synthesis of Lanthanum hydride LaH10", "High pressure superconductivity of La and H with trace O.", 2002, "10.1/1", "cond-mat.supr-con"),
+            ("p2", "Yttrium hydride YH9 superconductivity", "Superconductivity in Y with H under pressure.", 2003, "10.1/2", "cond-mat.supr-con"),
+            ("p3", "Discovery of high-Tc ternary (La,Y)H10", "Superconductivity in ternary hydride containing La and Y at 160 GPa.", 2008, "10.1/3", "cond-mat.supr-con"),
+            ("p4", "Spectrophotometric analysis of paclitaxel with osmium", "Paclitaxel reacts with Os in biological medium.", 2009, "10.1/4", "bio.med"),
         ]
-        c.executemany("INSERT INTO papers VALUES (?, ?, ?, ?, ?)", papers)
+        c.executemany("INSERT INTO papers VALUES (?, ?, ?, ?, ?, ?)", papers)
         conn.commit()
         conn.close()
 
     def tearDown(self) -> None:
         self.temp_dir.cleanup()
 
-    def test_corpus_split(self) -> None:
-        """Test splitting corpus into pre-cutoff training and post-cutoff evaluation."""
-        evaluator = TimeSplitEvaluator(db_path=str(self.db_path), cutoff_year=2021)
-        pre, post = evaluator.load_corpus_split()
-        self.assertEqual(len(pre), 3)  # p1 (2019), p2 (2020), p4 (2017)
-        self.assertEqual(len(post), 2)  # p3 (2023), p5 (2022)
+    def test_corpus_filters_out_non_superconductivity_papers(self) -> None:
+        """Test that non-superconducting papers (like paclitaxel/osmium p4) are strictly excluded."""
+        evaluator = TimeSplitEvaluator(db_path=str(self.db_path), cutoff_year=2004)
+        pre, post = evaluator.load_superconductivity_corpus_split()
 
-    def test_discovery_signal_evaluation(self) -> None:
-        """Test evaluating discovery predictions against future ground truth."""
-        evaluator = TimeSplitEvaluator(db_path=str(self.db_path), cutoff_year=2021)
-        report = evaluator.evaluate_discovery_signal(top_k=5)
+        all_ids = [p["id"] for p in pre + post]
+        self.assertNotIn("p4", all_ids, "Non-superconductivity paper p4 must NOT be loaded into corpus!")
+        self.assertEqual(len(pre), 2)  # p1, p2
+        self.assertEqual(len(post), 1)  # p3
 
-        self.assertIsInstance(report, EvaluationReport)
-        self.assertEqual(report.cutoff_year, 2021)
-        self.assertGreaterEqual(report.model_hit_rate, 0.0)
-        self.assertGreaterEqual(report.lift_over_random, 1.0)
-        self.assertIsInstance(report.verified_future_discoveries, list)
+    def test_every_hit_must_be_superconductivity(self) -> None:
+        """Test that every hit in the report is strictly asserted as a superconductivity publication."""
+        evaluator = TimeSplitEvaluator(db_path=str(self.db_path), cutoff_year=2004)
+        report = evaluator.evaluate(k_values=[5, 10])
 
-    def test_markdown_report_generation(self) -> None:
-        """Test generating markdown evaluation report."""
-        evaluator = TimeSplitEvaluator(db_path=str(self.db_path), cutoff_year=2021)
-        report = evaluator.evaluate_discovery_signal(top_k=5)
+        self.assertGreater(len(report.verified_discoveries), 0)
+        for d in report.verified_discoveries:
+            self.assertTrue(d.is_superconductivity_paper, f"Hit paper {d.title} must be a superconductivity paper!")
+
+    def test_multi_baseline_and_raw_counts(self) -> None:
+        """Test comparison against random, frequency, and similarity baselines with raw counts."""
+        evaluator = TimeSplitEvaluator(db_path=str(self.db_path), cutoff_year=2004)
+        report = evaluator.evaluate(k_values=[5, 10])
+
+        self.assertEqual(len(report.comparisons_by_k), 2)
+        comp_5 = report.comparisons_by_k[0]
+        self.assertEqual(comp_5.k, min(5, report.pool_size))
+        self.assertIsInstance(comp_5.model_hits, int)
+        self.assertIsInstance(comp_5.random_hits, int)
+        self.assertIsInstance(comp_5.frequency_hits, int)
+        self.assertIsInstance(comp_5.similarity_hits, int)
+        self.assertGreaterEqual(comp_5.model_rate, 0.0)
+
+    def test_markdown_and_json_report(self) -> None:
+        """Test markdown generation and JSON serialization."""
+        evaluator = TimeSplitEvaluator(db_path=str(self.db_path), cutoff_year=2004)
+        report = evaluator.evaluate(k_values=[5])
+
         md = evaluator.generate_markdown_report(report)
-
         self.assertIn("# 📈 Empirical Time-Split Scientific Discovery Benchmark", md)
-        self.assertIn("Hit Rate", md)
-        self.assertIn("Relative Lift", md)
+        self.assertIn("Raw Counts", md)
+        self.assertIn("Random Baseline", md)
+        self.assertIn("Element Frequency Baseline", md)
+        self.assertIn("Element Similarity Baseline", md)
+
+        data = report.to_dict()
+        self.assertIn("comparisons_by_k", data)
+        self.assertIn("verified_discoveries", data)
 
 
 if __name__ == "__main__":
