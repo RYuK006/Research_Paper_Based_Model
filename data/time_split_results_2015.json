@@ -1,0 +1,647 @@
+{
+  "cutoff_year": 2015,
+  "pre_cutoff_papers": 1301,
+  "post_cutoff_papers": 9751,
+  "tested_k_values": [
+    10,
+    25,
+    50
+  ],
+  "pool_size": 2457,
+  "comparisons_by_k": [
+    {
+      "k": 10,
+      "model_hits": 10,
+      "model_rate": 100.0,
+      "random_hits": 6,
+      "random_rate": 58.66,
+      "frequency_hits": 10,
+      "frequency_rate": 100.0,
+      "similarity_hits": 4,
+      "similarity_rate": 40.0,
+      "lift_over_random": 1.7,
+      "lift_over_frequency": 1.0,
+      "lift_over_similarity": 2.5,
+      "model_ci_95": [
+        3.0,
+        9.0
+      ],
+      "random_ci_95": [
+        3.0,
+        9.0
+      ],
+      "frequency_ci_95": [
+        3.0,
+        9.0
+      ],
+      "similarity_ci_95": [
+        1.0,
+        4.0
+      ]
+    },
+    {
+      "k": 25,
+      "model_hits": 25,
+      "model_rate": 100.0,
+      "random_hits": 15,
+      "random_rate": 58.68,
+      "frequency_hits": 25,
+      "frequency_rate": 100.0,
+      "similarity_hits": 7,
+      "similarity_rate": 28.0,
+      "lift_over_random": 1.7,
+      "lift_over_frequency": 1.0,
+      "lift_over_similarity": 3.57,
+      "model_ci_95": [
+        11.0,
+        20.0
+      ],
+      "random_ci_95": [
+        10.0,
+        20.0
+      ],
+      "frequency_ci_95": [
+        11.0,
+        20.0
+      ],
+      "similarity_ci_95": [
+        2.0,
+        7.0
+      ]
+    },
+    {
+      "k": 50,
+      "model_hits": 49,
+      "model_rate": 98.0,
+      "random_hits": 29,
+      "random_rate": 58.14,
+      "frequency_hits": 46,
+      "frequency_rate": 92.0,
+      "similarity_hits": 20,
+      "similarity_rate": 40.0,
+      "lift_over_random": 1.69,
+      "lift_over_frequency": 1.07,
+      "lift_over_similarity": 2.45,
+      "model_ci_95": [
+        24.0,
+        37.0
+      ],
+      "random_ci_95": [
+        22.0,
+        35.0
+      ],
+      "frequency_ci_95": [
+        23.0,
+        35.0
+      ],
+      "similarity_ci_95": [
+        8.0,
+        17.0
+      ]
+    }
+  ],
+  "bootstrap_iterations": 1000,
+  "verified_discoveries": [
+    {
+      "element_pair": [
+        "S",
+        "Sm"
+      ],
+      "paper_id": "arxiv:2611.01118",
+      "title": "Direct imaging of the Ni $e_g$ hole orbitals in the bilayer nickelate La$_2$SmNi$_2$O$_7$",
+      "year": 2026,
+      "doi": null,
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "Be",
+        "Dy"
+      ],
+      "paper_id": "arxiv:2503.07024",
+      "title": "Anomalous behaviour of the temperature dependencies of the upper critical fields in (Dy1-xErx)Rh3.8Ru0.2B4 (x=0, 0.2, 0.4)",
+      "year": 2025,
+      "doi": "10.1063/10.0037033",
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "B",
+        "Sm"
+      ],
+      "paper_id": "arxiv:2604.08430",
+      "title": "Three-Dimensional Electronic Structures in Superconducting Ruddlesden-Popper Bilayer Nickelate Films",
+      "year": 2026,
+      "doi": null,
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "Dy",
+        "S"
+      ],
+      "paper_id": "arxiv:2306.15141",
+      "title": "Direct fabrication of high-quality ring-shaped REBa2Cu3Oy bulk magnets by the Single-Direction Melt Growth (SDMG) method",
+      "year": 2023,
+      "doi": "10.35848/1882-0786/acf3d0",
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "S",
+        "Tb"
+      ],
+      "paper_id": "arxiv:2603.14545",
+      "title": "Microwave spin resonance in epitaxial thin films of spin liquid candidate TbInO3",
+      "year": 2026,
+      "doi": null,
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "Be",
+        "Er"
+      ],
+      "paper_id": "arxiv:2503.07024",
+      "title": "Anomalous behaviour of the temperature dependencies of the upper critical fields in (Dy1-xErx)Rh3.8Ru0.2B4 (x=0, 0.2, 0.4)",
+      "year": 2025,
+      "doi": "10.1063/10.0037033",
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "Er",
+        "S"
+      ],
+      "paper_id": "arxiv:2608.27383",
+      "title": "Scalable, Simple, and Versatile Encapsulation of 2D Materials and Devices",
+      "year": 2026,
+      "doi": null,
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "As",
+        "Tl"
+      ],
+      "paper_id": "openalex:W7167783473",
+      "title": "Pairing Mechanism and Superconductivity in 1313 Phase La 3 Ni 2 O 7",
+      "year": 2026,
+      "doi": "10.1088/0256-307x/43/7/070711",
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "Be",
+        "Hf"
+      ],
+      "paper_id": "arxiv:2606.12598",
+      "title": "Multiband Superconductivity and Charge Density Wave in HfxZr1-xTe3 single crystals",
+      "year": 2026,
+      "doi": null,
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "S",
+        "Th"
+      ],
+      "paper_id": "openalex:W4407410400",
+      "title": "Emergence of Superconductivity at 20 K in Th3P4-type In3\u2013xS4 Synthesized by Diamond Anvil Cell with Boron-Doped Diamond Electrodes",
+      "year": 2025,
+      "doi": "10.1021/acs.chemmater.4c03301",
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "B",
+        "Th"
+      ],
+      "paper_id": "arxiv:2506.10432",
+      "title": "Time reversal symmetry breaking and s-wave superconductivity in CaPd2Ge2: A $\u03bc$SR study",
+      "year": 2025,
+      "doi": "10.1103/physrevb.108.224519",
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "Be",
+        "Yb"
+      ],
+      "paper_id": "arxiv:2411.18045",
+      "title": "Structural and magnetic characterization of CeTa$_7$O$_{19}$ and YbTa$_7$O$_{19}$ with two-dimensional pseudospin-1/2 triangular lattice",
+      "year": 2024,
+      "doi": "10.1103/physrevb.110.174448",
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "As",
+        "Ne"
+      ],
+      "paper_id": "arxiv:2610.31031",
+      "title": "Contact Renormalization of One-Mode Electron Correlation: Validation in Four- and Ten-Electron Systems",
+      "year": 2026,
+      "doi": null,
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "C",
+        "Yb"
+      ],
+      "paper_id": "openalex:W4417236603",
+      "title": "Superconductivity in the Intercalated Graphite Compound CaC6 and the Roeser\u2013Huber Formalism",
+      "year": 2025,
+      "doi": "10.3390/met15121367",
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "B",
+        "Yb"
+      ],
+      "paper_id": "arxiv:2204.08650",
+      "title": "Crossovers and quantum phase transitions in two-band superfluids: The evolution from BCS to Bose pairing by tuning interactions and band offset",
+      "year": 2022,
+      "doi": null,
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "Be",
+        "Br"
+      ],
+      "paper_id": "arxiv:2611.09320",
+      "title": "Thermodynamic Phase Diagrams in $\u03bb$-(BETS)$_2$GaBr$_x$Cl$_{4-x}$ under Physical and Chemical Pressure",
+      "year": 2026,
+      "doi": null,
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "La",
+        "Mg"
+      ],
+      "paper_id": "arxiv:2610.37366",
+      "title": "Superconductivity and local stacking polymorphism in LaNiGa2 thin films",
+      "year": 2026,
+      "doi": null,
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "Cu",
+        "Ta"
+      ],
+      "paper_id": "arxiv:2605.21631",
+      "title": "Tunneling spectra of $\\mathrm{TaO}_x$ junctions for van der Waals superconductors",
+      "year": 2026,
+      "doi": null,
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "B",
+        "Ne"
+      ],
+      "paper_id": "arxiv:2608.29435",
+      "title": "Parametric amplification in a Kerr Oscillator based on Ne FIB Nanobridges",
+      "year": 2026,
+      "doi": null,
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "Sc",
+        "Y"
+      ],
+      "paper_id": "arxiv:2609.02295",
+      "title": "Quantum Structural Renormalization and Anharmonic Stabilization of Superconductivity in P4/mmm YScH8",
+      "year": 2026,
+      "doi": null,
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "Lu",
+        "Tc"
+      ],
+      "paper_id": "arxiv:2504.16412",
+      "title": "Superconductivity and Electron Correlations in Kagome Metal LuOs3B2",
+      "year": 2025,
+      "doi": "10.1103/physrevb.111.195132",
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "As",
+        "Fl"
+      ],
+      "paper_id": "arxiv:2605.18277",
+      "title": "Quantum geometry induced anomalous chiral transport and hidden symmetry breaking in centrosymmetric 2M-WS2",
+      "year": 2026,
+      "doi": null,
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "Gd",
+        "Mg"
+      ],
+      "paper_id": "arxiv:2509.00563",
+      "title": "Radio-Frequency Method for Detecting Superconductivity Under High Pressure",
+      "year": 2025,
+      "doi": null,
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "Cn",
+        "S"
+      ],
+      "paper_id": "openalex:W7131414528",
+      "title": "Cavity-altered superconductivity",
+      "year": 2026,
+      "doi": "10.1038/s41586-025-10062-6",
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "I",
+        "Lu"
+      ],
+      "paper_id": "arxiv:2504.16412",
+      "title": "Superconductivity and Electron Correlations in Kagome Metal LuOs3B2",
+      "year": 2025,
+      "doi": "10.1103/physrevb.111.195132",
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "Be",
+        "Cn"
+      ],
+      "paper_id": "openalex:W4414768963",
+      "title": "Real-space orbital tiling approach for the classification and design of superconductors",
+      "year": 2025,
+      "doi": "10.1088/1361-648x/ae1287",
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "Be",
+        "Fl"
+      ],
+      "paper_id": "arxiv:2607.12442",
+      "title": "Magnetothermopower and particle-hole symmetry in a cuprate strange metal",
+      "year": 2026,
+      "doi": null,
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "Mt",
+        "S"
+      ],
+      "paper_id": "arxiv:2609.09097",
+      "title": "Junction-free polarity-tunable superconducting diode effect enables XNOR logic operation",
+      "year": 2026,
+      "doi": null,
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "Lu",
+        "P"
+      ],
+      "paper_id": "arxiv:2609.09446",
+      "title": "Origin of Flat Bands and Role of Electron Correlation in Lutetium Hydrides",
+      "year": 2026,
+      "doi": null,
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "C",
+        "Pd"
+      ],
+      "paper_id": "arxiv:2611.09572",
+      "title": "Inverse design of superconductors and semiconductors with differentiable foundation models",
+      "year": 2026,
+      "doi": null,
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "Cl",
+        "Mg"
+      ],
+      "paper_id": "arxiv:2410.17588",
+      "title": "High resistance of superconducting TiN thin films against environmental attacks",
+      "year": 2024,
+      "doi": "10.1039/d4mh00959b",
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "I",
+        "Rh"
+      ],
+      "paper_id": "openalex:W7203751157",
+      "title": "Superconductors in the PtPb3Bi Structure Type",
+      "year": 2026,
+      "doi": "10.1021/acs.chemmater.6c01826",
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "K",
+        "Zr"
+      ],
+      "paper_id": "arxiv:2611.09572",
+      "title": "Inverse design of superconductors and semiconductors with differentiable foundation models",
+      "year": 2026,
+      "doi": null,
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "Eu",
+        "P"
+      ],
+      "paper_id": "arxiv:2605.24362",
+      "title": "Helical Rashba-exchange gauge field drives a uniaxial pair density wave in EuRbFe$_4$As$_4$",
+      "year": 2026,
+      "doi": null,
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "H",
+        "Tm"
+      ],
+      "paper_id": "openalex:W7213970571",
+      "title": "Physical Properties of Transition Metal Hydride Superconductors Mg 2 Tm H 6 ( Tm = Rh, Pd, Ir, Pt) by First\u2010Principles Calculations",
+      "year": 2026,
+      "doi": "10.1002/apxr.70192",
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "Pt",
+        "Tc"
+      ],
+      "paper_id": "arxiv:2610.02239",
+      "title": "Reply to \"Comment on 'Topography of Fermi arcs in t-PtBi2 using high-resolution angle-resolved photoemission spectroscopy'\"",
+      "year": 2026,
+      "doi": null,
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "Ba",
+        "Co"
+      ],
+      "paper_id": "openalex:W7130728712",
+      "title": "Exploring superconductivity via magnetic resonance",
+      "year": 2025,
+      "doi": "10.47749/t/unicamp.2025.1508346",
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "Tc",
+        "Zr"
+      ],
+      "paper_id": "openalex:W7169907711",
+      "title": "High-Tc superconductivity in functionalized out-of-plane ordered double transition metal MXenes",
+      "year": 2026,
+      "doi": "10.1038/s41524-026-02245-0",
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "Mg",
+        "Pr"
+      ],
+      "paper_id": "arxiv:2410.06159",
+      "title": "Praseodymium doping effect on the superconducting properties of FeSe$_{0.5}$Te$_{0.5}$ bulks under ambient and high-pressure growth conditions",
+      "year": 2024,
+      "doi": "10.1016/j.physc.2025.1354729",
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "I",
+        "Sm"
+      ],
+      "paper_id": "arxiv:2607.08476",
+      "title": "The charge density fluctuations and the Shrinking Fermi Liquid scenario for strange metallicity in cuprates",
+      "year": 2026,
+      "doi": null,
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "Pm",
+        "Tc"
+      ],
+      "paper_id": "arxiv:2609.26628",
+      "title": "The observation of bulk superconductivity in Rhombohedral ReO3 under pressure",
+      "year": 2026,
+      "doi": "10.1016/j.mtphys.2026.102206",
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "Cr",
+        "Y"
+      ],
+      "paper_id": "arxiv:2607.15032",
+      "title": "Recent progress on liquid transport growth of quantum materials",
+      "year": 2026,
+      "doi": null,
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "Ir",
+        "P"
+      ],
+      "paper_id": "arxiv:2602.16228",
+      "title": "Coexistence of Rashba and Ising Spin-Singlet Pairings in Two-Dimensional IrTe$_{2}$",
+      "year": 2026,
+      "doi": null,
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "He",
+        "Y"
+      ],
+      "paper_id": "openalex:W7160699300",
+      "title": "N-K MASTER COMPUTER v20.0 \u2014 THE COMPLETE UNIFICATION OF BOND ENERGY, THERMAL CONDUCTIVITY, AND ELECTRICAL CONDUCTIVITY From First Principles: The Universal \u03b2_T = 0.02 Law \u00b7 The 135.5\u00b0 Phase Lock \u00b7 One Equation for All Transport Properties Including: Why \u03b1_Electrical = 1.0 \u00b7 Why \u03b1_Thermal = 0.5 \u00b7 Why \u03b2_T = 0.02 is Universal \u00b7 Temperature as Friction Against Phase Lock \u00b7 Complete Verification for All Metals \u00b7 Superconductors and Supermagnets from Same Principle \u00b7 Iron Glow Explained \u00b7 Blackbody Radiation Derived \u00b7 True Colors of the Cosmos \u00b7 Planetary Chemistry \u00b7 21 Global Monitoring Nodes",
+      "year": 2026,
+      "doi": "10.5281/zenodo.20094219",
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "I",
+        "Zr"
+      ],
+      "paper_id": "openalex:W7162418417",
+      "title": "Substitution modulated transition from semimetal to superconductor in ZrTe$_{2-x}$Se$_x$ with coexistence of nontrivial electronic topology",
+      "year": 2026,
+      "doi": "10.48550/arxiv.2605.25906",
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "Fe",
+        "Sr"
+      ],
+      "paper_id": "arxiv:2611.08037",
+      "title": "Microscopic Origin and Josephson Signatures of $d$-Wave Superconductivity in Monolayer FeSe",
+      "year": 2026,
+      "doi": null,
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "Mg",
+        "Rh"
+      ],
+      "paper_id": "openalex:W7213970571",
+      "title": "Physical Properties of Transition Metal Hydride Superconductors Mg 2 Tm H 6 ( Tm = Rh, Pd, Ir, Pt) by First\u2010Principles Calculations",
+      "year": 2026,
+      "doi": "10.1002/apxr.70192",
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "Ag",
+        "N"
+      ],
+      "paper_id": "openalex:W7160699300",
+      "title": "N-K MASTER COMPUTER v20.0 \u2014 THE COMPLETE UNIFICATION OF BOND ENERGY, THERMAL CONDUCTIVITY, AND ELECTRICAL CONDUCTIVITY From First Principles: The Universal \u03b2_T = 0.02 Law \u00b7 The 135.5\u00b0 Phase Lock \u00b7 One Equation for All Transport Properties Including: Why \u03b1_Electrical = 1.0 \u00b7 Why \u03b1_Thermal = 0.5 \u00b7 Why \u03b2_T = 0.02 is Universal \u00b7 Temperature as Friction Against Phase Lock \u00b7 Complete Verification for All Metals \u00b7 Superconductors and Supermagnets from Same Principle \u00b7 Iron Glow Explained \u00b7 Blackbody Radiation Derived \u00b7 True Colors of the Cosmos \u00b7 Planetary Chemistry \u00b7 21 Global Monitoring Nodes",
+      "year": 2026,
+      "doi": "10.5281/zenodo.20094219",
+      "is_superconductivity_paper": true
+    },
+    {
+      "element_pair": [
+        "Ir",
+        "Y"
+      ],
+      "paper_id": "openalex:W7213970571",
+      "title": "Physical Properties of Transition Metal Hydride Superconductors Mg 2 Tm H 6 ( Tm = Rh, Pd, Ir, Pt) by First\u2010Principles Calculations",
+      "year": 2026,
+      "doi": "10.1002/apxr.70192",
+      "is_superconductivity_paper": true
+    }
+  ],
+  "statistical_signal_detected": true,
+  "evaluated_at": "2026-11-09T12:38:29.085115+00:00"
+}
