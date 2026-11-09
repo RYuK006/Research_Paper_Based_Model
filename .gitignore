@@ -25,6 +25,8 @@ wheels/
 *.egg
 
 # Data binary files (PDFs and heavy payloads staged for Drive sync)
+data/papers.db
+*.db
 data/papers/**/*.pdf
 data/papers/**/*.tar.gz
 data/papers/**/*.zip
