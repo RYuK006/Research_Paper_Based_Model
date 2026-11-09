@@ -1,0 +1,50 @@
+{
+  "model_id": "meta-llama/Llama-3.3-70B-Instruct",
+  "epochs": 1,
+  "train_samples": 10,
+  "eval_samples": 5,
+  "history": [
+    {
+      "epoch": 1,
+      "loss": 2.0281792881725416,
+      "steps": 10,
+      "eval": {
+        "eval_loss": 1.82,
+        "samples_evaluated": 5,
+        "discovery_benchmarks": [
+          {
+            "paper_id": "openalex:W4281790889",
+            "publication_year": 2022,
+            "task": "extraction",
+            "validation_status": "consistent_with_historical_evidence"
+          },
+          {
+            "paper_id": "openalex:W4281790889",
+            "publication_year": 2022,
+            "task": "hypothesis_proposal",
+            "validation_status": "consistent_with_historical_evidence"
+          },
+          {
+            "paper_id": "openalex:W4220694746",
+            "publication_year": 2022,
+            "task": "extraction",
+            "validation_status": "consistent_with_historical_evidence"
+          },
+          {
+            "paper_id": "openalex:W4220694746",
+            "publication_year": 2022,
+            "task": "hypothesis_proposal",
+            "validation_status": "consistent_with_historical_evidence"
+          },
+          {
+            "paper_id": "s2:doi:10.1039/d1qo01848e",
+            "publication_year": 2022,
+            "task": "extraction",
+            "validation_status": "consistent_with_historical_evidence"
+          }
+        ]
+      }
+    }
+  ],
+  "status": "COMPLETED"
+}
