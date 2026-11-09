@@ -46,7 +46,7 @@ MEASUREMENT_TECHNIQUES = [
     ("Synchrotron X-ray diffraction", r"\b(?:synchrotron\s+(?:X-ray\s+diffraction|XRD)|powder\s+diffraction)\b"),
     ("Specific heat", r"\b(?:specific\s+heat|heat\s+capacity)\b"),
     ("ARPES", r"\b(?:angle[- ]resolved\s+photoemission|ARPES)\b"),
-    ("Muon spin rotation", r"\b(?:muon\s+spin\s+rotation|muSR|$\mu$SR)\b"),
+    ("Muon spin rotation", r"\b(?:muon\s+spin\s+rotation|muSR|μSR)\b"),
     ("Tunneling spectroscopy / STM", r"\b(?:scanning\s+tunneling|STM|tunneling\s+spectroscopy)\b"),
 ]
 
