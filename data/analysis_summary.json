@@ -1,0 +1,371 @@
+{
+  "total_papers": 10000,
+  "source_distribution": {
+    "arxiv": 4000,
+    "openalex": 3000,
+    "semanticscholar": 3000
+  },
+  "year_distribution": {
+    "1859": 1,
+    "1887": 1,
+    "1927": 1,
+    "1928": 1,
+    "1929": 1,
+    "1932": 1,
+    "1935": 1,
+    "1936": 1,
+    "1938": 2,
+    "1940": 1,
+    "1942": 2,
+    "1943": 1,
+    "1946": 1,
+    "1947": 1,
+    "1948": 2,
+    "1949": 5,
+    "1950": 3,
+    "1951": 3,
+    "1952": 5,
+    "1953": 4,
+    "1954": 4,
+    "1955": 6,
+    "1956": 4,
+    "1957": 2,
+    "1958": 3,
+    "1959": 1,
+    "1960": 3,
+    "1961": 3,
+    "1962": 5,
+    "1963": 3,
+    "1964": 5,
+    "1965": 10,
+    "1966": 5,
+    "1967": 9,
+    "1968": 9,
+    "1969": 7,
+    "1970": 9,
+    "1971": 4,
+    "1972": 12,
+    "1973": 16,
+    "1974": 16,
+    "1975": 19,
+    "1976": 22,
+    "1977": 18,
+    "1978": 16,
+    "1979": 23,
+    "1980": 22,
+    "1981": 28,
+    "1982": 26,
+    "1983": 25,
+    "1984": 34,
+    "1985": 31,
+    "1986": 24,
+    "1987": 38,
+    "1988": 32,
+    "1989": 43,
+    "1990": 61,
+    "1991": 50,
+    "1992": 51,
+    "1993": 54,
+    "1994": 60,
+    "1995": 79,
+    "1996": 71,
+    "1997": 70,
+    "1998": 78,
+    "1999": 94,
+    "2000": 160,
+    "2001": 897,
+    "2002": 1134,
+    "2003": 1374,
+    "2004": 930,
+    "2005": 176,
+    "2006": 120,
+    "2007": 163,
+    "2008": 141,
+    "2009": 164,
+    "2010": 188,
+    "2011": 180,
+    "2012": 191,
+    "2013": 200,
+    "2014": 230,
+    "2015": 237,
+    "2016": 232,
+    "2017": 231,
+    "2018": 221,
+    "2019": 226,
+    "2020": 246,
+    "2021": 231,
+    "2022": 225,
+    "2023": 170,
+    "2024": 165,
+    "2025": 175,
+    "2026": 150
+  },
+  "top_elements": [
+    [
+      "Carbon",
+      442
+    ],
+    [
+      "Oxygen",
+      434
+    ],
+    [
+      "Lead",
+      433
+    ],
+    [
+      "Hydrogen",
+      328
+    ],
+    [
+      "Nitrogen",
+      197
+    ],
+    [
+      "Iron",
+      157
+    ],
+    [
+      "Sodium",
+      155
+    ],
+    [
+      "Copper",
+      126
+    ],
+    [
+      "Silicon",
+      113
+    ],
+    [
+      "Lithium",
+      105
+    ],
+    [
+      "Zinc",
+      99
+    ],
+    [
+      "Sulfur",
+      93
+    ],
+    [
+      "Calcium",
+      84
+    ],
+    [
+      "Boron",
+      71
+    ],
+    [
+      "Potassium",
+      68
+    ],
+    [
+      "Gold",
+      67
+    ],
+    [
+      "Nickel",
+      65
+    ],
+    [
+      "Cobalt",
+      64
+    ],
+    [
+      "Silver",
+      60
+    ],
+    [
+      "Phosphorus",
+      56
+    ]
+  ],
+  "compound_classes": [
+    [
+      "Perovskites & Oxides",
+      491
+    ],
+    [
+      "Cuprates / High-Tc Superconductors",
+      294
+    ],
+    [
+      "Iron-based Pnictides & Chalcogenides",
+      137
+    ],
+    [
+      "Intermetallics & Heavy Fermions",
+      121
+    ],
+    [
+      "2D Materials & Dichalcogenides",
+      112
+    ],
+    [
+      "Superhydrides & High-Pressure Phases",
+      46
+    ],
+    [
+      "Metal-Organic Frameworks (MOFs)",
+      43
+    ],
+    [
+      "Topological & Quantum Materials",
+      4
+    ]
+  ],
+  "top_cited_papers": [
+    {
+      "title": "PROTEIN MEASUREMENT WITH THE FOLIN PHENOL REAGENT",
+      "source": "openalex",
+      "citations": 316200,
+      "link": "10.1016/s0021-9258(19)52451-6"
+    },
+    {
+      "title": "Electric Field Effect in Atomically Thin Carbon Films",
+      "source": "openalex",
+      "citations": 67323,
+      "link": "10.1126/science.1102896"
+    },
+    {
+      "title": "Densely Connected Convolutional Networks",
+      "source": "openalex",
+      "citations": 50672,
+      "link": "10.1109/cvpr.2017.243"
+    },
+    {
+      "title": "Short-Term Effects of Nose-Only Cigarette Smoke Exposure on Glutathione Redox Homeostasis, Cytochrome P450 1A1/2 and Respiratory Enzyme Activities in Mice Tissues",
+      "source": "openalex",
+      "citations": 47311,
+      "link": "10.1159/000350087"
+    },
+    {
+      "title": "Molecular dynamics with coupling to an external bath",
+      "source": "openalex",
+      "citations": 30984,
+      "link": "10.1063/1.448118"
+    },
+    {
+      "title": "The M06 suite of density functionals for main group thermochemistry, thermochemical kinetics, noncovalent interactions, excited states, and transition elements: two new functionals and systematic testing of four M06-class functionals and 12 other functionals",
+      "source": "openalex",
+      "citations": 30666,
+      "link": "10.1007/s00214-007-0310-x"
+    },
+    {
+      "title": "Methods for Dietary Fiber, Neutral Detergent Fiber, and Nonstarch Polysaccharides in Relation to Animal Nutrition",
+      "source": "openalex",
+      "citations": 29256,
+      "link": "10.3168/jds.s0022-0302(91)78551-2"
+    },
+    {
+      "title": "The PRISMA Statement for Reporting Systematic Reviews and Meta-Analyses of Studies That Evaluate Health Care Interventions: Explanation and Elaboration",
+      "source": "openalex",
+      "citations": 29084,
+      "link": "10.1371/journal.pmed.1000100"
+    },
+    {
+      "title": "Random sample consensus",
+      "source": "openalex",
+      "citations": 26721,
+      "link": "10.1145/358669.358692"
+    },
+    {
+      "title": "The iron cage revisited institutional isomorphism and collective rationality in organizational fields",
+      "source": "openalex",
+      "citations": 25956,
+      "link": "10.1016/s0742-3322(00)17011-1"
+    },
+    {
+      "title": "Reporting physisorption data for gas/solid systems with special reference to the determination of surface area and porosity (Recommendations 1984)",
+      "source": "openalex",
+      "citations": 24758,
+      "link": "10.1351/pac198557040603"
+    },
+    {
+      "title": "Unpaired Image-to-Image Translation Using Cycle-Consistent Adversarial Networks",
+      "source": "openalex",
+      "citations": 24419,
+      "link": "10.1109/iccv.2017.244"
+    },
+    {
+      "title": "Image-to-Image Translation with Conditional Adversarial Networks",
+      "source": "openalex",
+      "citations": 24084,
+      "link": "10.1109/cvpr.2017.632"
+    },
+    {
+      "title": "Two new Later Stone Age sites from the Final Pleistocene in the Falémé Valley, eastern Senegal",
+      "source": "openalex",
+      "citations": 24060,
+      "link": "10.3929/ethz-b-000667478"
+    },
+    {
+      "title": "MRBAYES: Bayesian inference of phylogenetic trees",
+      "source": "openalex",
+      "citations": 23169,
+      "link": "10.1093/bioinformatics/17.8.754"
+    },
+    {
+      "title": "COPPER ENZYMES IN ISOLATED CHLOROPLASTS. POLYPHENOLOXIDASE IN BETA VULGARIS",
+      "source": "openalex",
+      "citations": 22705,
+      "link": "10.1104/pp.24.1.1"
+    },
+    {
+      "title": "Detecting the number of clusters of individuals using the software structure : a simulation study",
+      "source": "openalex",
+      "citations": 22284,
+      "link": "10.1111/j.1365-294x.2005.02553.x"
+    },
+    {
+      "title": "Statistical mechanics of complex networks",
+      "source": "openalex",
+      "citations": 20553,
+      "link": "10.1103/revmodphys.74.47"
+    },
+    {
+      "title": "Phaser crystallographic software",
+      "source": "openalex",
+      "citations": 20483,
+      "link": "10.1107/s0021889807021206"
+    },
+    {
+      "title": "SwissADME: a free web tool to evaluate pharmacokinetics, drug-likeness and medicinal chemistry friendliness of small molecules",
+      "source": "openalex",
+      "citations": 19290,
+      "link": "10.1038/srep42717"
+    },
+    {
+      "title": "The PRISMA statement for reporting systematic reviews and meta-analyses of studies that evaluate healthcare interventions: explanation and elaboration",
+      "source": "openalex",
+      "citations": 18192,
+      "link": "10.1136/bmj.b2700"
+    },
+    {
+      "title": "Segment Anything",
+      "source": "openalex",
+      "citations": 16385,
+      "link": "10.1109/iccv51070.2023.00371"
+    },
+    {
+      "title": "A simplest systematics for the organization of turn-taking for conversation",
+      "source": "openalex",
+      "citations": 16042,
+      "link": "10.1353/lan.1974.0010"
+    },
+    {
+      "title": "GROMACS 4: Algorithms for Highly Efficient, Load-Balanced, and Scalable Molecular Simulation",
+      "source": "openalex",
+      "citations": 15963,
+      "link": "10.1021/ct700301q"
+    },
+    {
+      "title": "Long-range corrected hybrid density functionals with damped atom–atom dispersion corrections",
+      "source": "openalex",
+      "citations": 14794,
+      "link": "10.1039/b810189b"
+    }
+  ]
+}
