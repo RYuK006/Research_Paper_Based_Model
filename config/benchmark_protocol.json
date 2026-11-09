@@ -1,0 +1,94 @@
+{
+  "protocol_metadata": {
+    "name": "Frozen Empirical Superconductivity Discovery Benchmark Protocol",
+    "version": "1.0.0",
+    "status": "FROZEN",
+    "frozen_at": "2026-11-09T14:30:00Z",
+    "description": "Standardized, leakage-free empirical time-split discovery benchmark evaluating literature-gap models against true future superconductor discoveries across historical cutoffs.",
+    "specification_sha256": "f287fdd98c73b58660e1571f3c4e12d1baddbdf9c0ccba62fe9b1cd7a747ff80"
+  },
+  "candidate_pool_definition": {
+    "domain": "Full Periodic Table Unordered Binary Pairs (Z=1 to Z=118)",
+    "elements_count": 118,
+    "total_theoretical_pairs": 6903,
+    "filtering_rule": "Exclude all pairs (E1, E2) that co-occurred within the SAME compound formula in pre-cutoff papers (year <= cutoff_year).",
+    "pool_size_range": "5,300 to 5,900 untried candidate pairs across 2012-2022 cutoffs",
+    "temporal_isolation": "Strictly zero look-ahead: candidate pool, graph co-occurrences, and frequency counts are computed exclusively from pre-cutoff papers."
+  },
+  "formula_extraction_specification": {
+    "parser": "pymatgen.core.Composition",
+    "rules": [
+      "Formula-like tokens only (length >= 2, must contain uppercase letter and periodic table element)",
+      "English words / word stems rejected: any token containing 3 or more consecutive lowercase letters ([a-z]{3,}) is strictly rejected",
+      "Common acronyms rejected: SRF, TDGL, BCS, DFT, NMR, TEM, SEM, STM, AFM, EDS, SQUID, PPMS, ARPES, DOS, SOC, QCP, CDW, SDW, CW, MBE, PLD, CVD, 2DEG, etc.",
+      "Dummy species rejected: any token producing pymatgen DummySpecies is rejected",
+      "Masking: critical temperature notations (Tc = 39 K, T_c, etc.), units (Ne FIB, K-band, Kelvin), and single English words colliding with element symbols (In, As, Be, At, K, I, Pm) are masked",
+      "Transuranic cutoff: elements with Z > 94 (beyond Plutonium) are strictly excluded"
+    ]
+  },
+  "hit_assertion_specification": {
+    "criterion": "Candidate element pair must appear within the SAME compound formula in a post-cutoff paper (year > cutoff_year).",
+    "approved_venues": [
+      "arXiv cond-mat.supr-con (or cond-mat.mtrl-sci with verified superconductivity focus)",
+      "Recognized peer-reviewed journals (publisher DOI prefixes: APS 10.1103, Nature 10.1038, Elsevier 10.1016, IOP 10.1088, AIP 10.1063, ACS 10.1021, Springer 10.1007, Wiley 10.1002, JPS 10.1143/10.7566, Oxford 10.1093, PNAS 10.1073, MDPI 10.3390, EDP 10.1051, Taylor&Francis 10.1080)"
+    ],
+    "excluded_venues": [
+      "Zenodo (DOI 10.5281/)",
+      "University theses and dissertations",
+      "ChemRxiv, Research Square, bioRxiv, and non-arXiv unrefereed servers"
+    ]
+  },
+  "evaluation_parameters": {
+    "cutoffs": [
+      2012,
+      2015,
+      2018,
+      2020,
+      2022
+    ],
+    "top_k_thresholds": [
+      10,
+      25,
+      50
+    ],
+    "bootstrap_iterations": 1000,
+    "confidence_level": 0.95,
+    "metric_validity_ceiling_percent": 20.0,
+    "temporal_imbalance_warning_ratio": 2.0
+  },
+  "metrics_reported": [
+    "Hits at K (raw count)",
+    "Rate at K (percentage)",
+    "Wilson Score 95% Confidence Interval for hit rate (0-100%)",
+    "Paired Bootstrap 95% Confidence Interval for \u0394(Model - Frequency) at K",
+    "Full Pool ROC AUC for Model, Frequency, Similarity, and Random",
+    "Full Pool Mean Rank for Model, Frequency, Similarity, and Random",
+    "Paired Bootstrap 95% Confidence Interval for \u0394(Model - Frequency) ROC AUC"
+  ],
+  "pool_variants_history_and_rejections": [
+    {
+      "variant": "Variant 1: Unrestricted full-text abstract co-occurrence",
+      "description": "Any abstract mentioning both elements anywhere in text counted as tested pre-cutoff and hit post-cutoff.",
+      "status": "REJECTED",
+      "reason": "Massive false positives on incidental co-mentions across separate sentences, substrate materials (e.g. Si, Al2O3), and unrelated biological/medical chemistry."
+    },
+    {
+      "variant": "Variant 2: Untried pairs among pre-cutoff elements with min-frequency >= 2 or 3",
+      "description": "Restricted candidate search pool to combinations of elements with >= 2 pre-cutoff occurrences.",
+      "status": "REJECTED",
+      "reason": "Artificially shrank pool to ~1,600 pairs, concentrating ubiquitous elements and driving background random hit rate to 26%-41%, which violates the metric validity ceiling (<20%)."
+    },
+    {
+      "variant": "Variant 3: Elements Z <= 94 without dummy species / acronym filtering",
+      "description": "Used elements up to Plutonium, but formula parser lacked lowercase English word rejection and DummySpecies rejection.",
+      "status": "REJECTED",
+      "reason": "Acronyms like 'SRF' (Superconducting Radio Frequency) and 'TDGL' were parsed as compounds (e.g., S-F, Ra-Fr), producing spurious post-cutoff hits and elevating 2015 random rate to 20.71%."
+    },
+    {
+      "variant": "Variant 4: Frozen Protocol (All 118 periodic table elements, strict pymatgen formula parser, venue validation)",
+      "description": "Evaluates all 6,903 binary pairs across Z=1..118, excluding genuine compound formula co-occurrences pre-cutoff. Post-cutoff hits strictly require formula co-occurrence in approved venues.",
+      "status": "ACCEPTED_AND_FROZEN",
+      "reason": "Chemically and mathematically sound, unbiased over the full chemical domain, zero look-ahead, and keeps background random rate strictly between 7.6% and 12.1% (well below 20.0%) across all cutoffs."
+    }
+  ]
+}
