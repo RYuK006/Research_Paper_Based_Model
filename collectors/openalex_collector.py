@@ -124,16 +124,12 @@ class OpenAlexCollector:
             logger.info("OpenAlex collector already reached target of %d", target_count)
             return collected
 
-        cursor = saved_cursor or "*"
-        per_page = 200  # maximum allowed by OpenAlex
-
-        # Filter focused on chemistry, chemical elements, new compounds, materials science, superconductivity
-        filters = [
+        # Multi-concept filters for broad chemistry & novel compound discovery
+        concept_queries = [
             "concepts.id:C185592680",  # Chemistry
-            "has_abstract:true",
-            "has_fulltext:true",
+            "concepts.id:C192562407",  # Materials science
+            "concepts.id:C2779777834", # Superconductor
         ]
-        filter_str = ",".join(filters)
 
         logger.info(
             "Starting OpenAlex harvest: target=%d, resume_count=%d",
@@ -144,69 +140,70 @@ class OpenAlexCollector:
         with httpx.Client(
             headers=self.headers, timeout=40.0, follow_redirects=True
         ) as client:
-            while collected < target_count:
-                params = {
-                    "filter": filter_str,
-                    "per_page": min(per_page, target_count - collected),
-                    "cursor": cursor,
-                    "select": "id,title,publication_year,abstract_inverted_index,authorships,concepts,cited_by_count,open_access,doi,primary_location",
-                }
-
-                try:
-                    resp = client.get(OPENALEX_ENDPOINT, params=params)
-                    if resp.status_code == 429:
-                        logger.warning("OpenAlex 429 rate limit. Backing off 5 seconds...")
-                        time.sleep(5.0)
-                        continue
-
-                    if resp.status_code != 200:
-                        logger.error(
-                            "OpenAlex API returned %d: %s",
-                            resp.status_code,
-                            resp.text[:200],
-                        )
-                        break
-
-                    data = resp.json()
-                    results = data.get("results", [])
-                    if not results:
-                        logger.info("No more results from OpenAlex.")
-                        break
-
-                    new_records: List[PaperRecord] = []
-                    for item in results:
-                        paper = self._parse_work(item)
-                        if paper and not self.storage.paper_exists(paper.id):
-                            new_records.append(paper)
-                            collected += 1
-                            if collected >= target_count:
-                                break
-
-                    if new_records:
-                        self.storage.upsert_papers_batch(new_records)
-                        logger.info(
-                            "Saved %d OpenAlex papers (Total: %d / %d)",
-                            len(new_records),
-                            collected,
-                            target_count,
-                        )
-                        if batch_callback:
-                            batch_callback(len(new_records), collected)
-
-                    next_cursor = data.get("meta", {}).get("next_cursor")
-                    if not next_cursor or next_cursor == cursor:
-                        logger.info("OpenAlex pagination finished.")
-                        break
-
-                    cursor = next_cursor
-                    self.storage.save_checkpoint("openalex", cursor, collected)
-
-                    # Polite rate limit: 100ms
-                    time.sleep(0.15)
-
-                except Exception as e:
-                    logger.error("Error during OpenAlex harvest: %s", e)
-                    time.sleep(2.0)
+            per_page = 100
+            for concept_filter in concept_queries:
+                if collected >= target_count:
                     break
+
+                filter_str = f"{concept_filter},has_abstract:true,has_fulltext:true"
+                page = 1
+                max_pages = 50
+
+                while collected < target_count and page <= max_pages:
+                    params = {
+                        "filter": filter_str,
+                        "per_page": per_page,
+                        "page": page,
+                        "select": "id,title,publication_year,abstract_inverted_index,authorships,concepts,cited_by_count,open_access,doi,primary_location",
+                    }
+
+                    try:
+                        resp = client.get(OPENALEX_ENDPOINT, params=params)
+                        if resp.status_code == 429:
+                            logger.warning("OpenAlex 429 rate limit. Backing off 3 seconds...")
+                            time.sleep(3.0)
+                            continue
+
+                        if resp.status_code != 200:
+                            logger.error(
+                                "OpenAlex API returned %d: %s",
+                                resp.status_code,
+                                resp.text[:200],
+                            )
+                            break
+
+                        data = resp.json()
+                        results = data.get("results", [])
+                        if not results:
+                            break
+
+                        new_records: List[PaperRecord] = []
+                        for item in results:
+                            paper = self._parse_work(item)
+                            if paper and not self.storage.paper_exists(paper.id):
+                                new_records.append(paper)
+                                collected += 1
+                                if collected >= target_count:
+                                    break
+
+                        if new_records:
+                            self.storage.upsert_papers_batch(new_records)
+                            logger.info(
+                                "Saved %d OpenAlex papers (Total: %d / %d)",
+                                len(new_records),
+                                collected,
+                                target_count,
+                            )
+                            if batch_callback:
+                                batch_callback(len(new_records), collected)
+
+                        page += 1
+                        self.storage.save_checkpoint("openalex", f"{concept_filter}:{page}", collected)
+                        time.sleep(0.1)
+
+                    except Exception as e:
+                        logger.error("Error during OpenAlex harvest: %s", e)
+                        time.sleep(2.0)
+                        break
 
         return collected
