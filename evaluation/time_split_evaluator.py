@@ -145,7 +145,8 @@ class TimeSplitEvaluator:
                 pair_to_post_papers[pair].append(f"{p['title']} ({p['year']})")
 
         # 3. Method A: Model/Gap Predictions (Untried in pre-cutoff, ranked by shared partners)
-        active_pre_elements = [e for e, count in pre_elem_counts.items() if count >= 3]
+        min_freq = 1 if len(pre_papers) < 100 else 3
+        active_pre_elements = [e for e, count in pre_elem_counts.items() if count >= min_freq]
         model_candidates = []
 
         for e1, e2 in itertools.combinations(active_pre_elements, 2):
@@ -247,7 +248,7 @@ class TimeSplitEvaluator:
             "| :--- | :---: | :---: | :---: |",
             f"| **Hit Rate @ K={report.k_tested}** | **{report.model_hit_rate}%** | {report.frequency_baseline_hit_rate}% | {report.random_baseline_hit_rate}% |",
             f"| **Relative Lift** | **{report.lift_over_random}x over Random** | {round(report.frequency_baseline_hit_rate / max(0.01, report.random_baseline_hit_rate), 1)}x | 1.0x (Baseline) |",
-            f"| **Historical Corpus ($\le {report.cutoff_year}$)** | **{report.pre_cutoff_papers} papers** | {report.pre_cutoff_papers} papers | N/A |",
+            f"| **Historical Corpus ($\\\\le {report.cutoff_year}$)** | **{report.pre_cutoff_papers} papers** | {report.pre_cutoff_papers} papers | N/A |",
             f"| **Evaluation Ground Truth ($> {report.cutoff_year}$)** | **{report.post_cutoff_papers} papers** | {report.post_cutoff_papers} papers | {report.post_cutoff_papers} papers |",
             "",
             f"**Conclusion**: **{'✅ Genuine Discovery Signal Confirmed' if report.statistical_signal_detected else '⚠️ Signal Below Baseline'}**.",
