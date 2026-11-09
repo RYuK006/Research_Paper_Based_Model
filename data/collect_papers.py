@@ -495,21 +495,22 @@ class ResumablePaperCollector:
         self,
         target_count: int,
         checkpoint: Dict[str, Any],
-        per_page: int = 50,
+        per_page: int = 100,
     ) -> int:
-        """Harvest papers from OpenAlex with cursor paging and polite pool."""
+        """Harvest papers from OpenAlex with cursor paging and polite pool, prioritizing 2010-2026."""
         oa_state = checkpoint.get("openalex", {})
         cursor = oa_state.get("cursor", "*")
         collected = 0
 
-        # Query for superconductivity and materials chemistry
-        query = "superconductivity OR 'condensed matter' OR 'materials chemistry'"
+        # Query prioritizing superconductivity, condensed matter, and inorganic/materials chemistry (2010-2026)
+        query = "superconductivity OR 'condensed matter' OR 'inorganic chemistry' OR 'materials chemistry'"
 
         while cursor and not self.interrupted:
             logger.info(f"[OpenAlex] Fetching works with cursor: {cursor[:15]}...")
 
             params = {
                 "search": query,
+                "filter": "publication_year:2010-2026,has_abstract:true",
                 "per-page": per_page,
                 "cursor": cursor,
                 "mailto": self.email,
@@ -578,7 +579,7 @@ class ResumablePaperCollector:
         run_limit: Optional[int] = None,
     ) -> int:
         """Main execution orchestrator."""
-        sources = sources or ["arxiv", "openalex"]
+        sources = sources or ["openalex", "arxiv"]
         checkpoint = self.load_checkpoint()
         total_in_db = self.db.get_total_count()
 
@@ -625,7 +626,7 @@ def main() -> None:
     parser.add_argument("--checkpoint", default="data/collection_checkpoint.json", help="Path to checkpoint file")
     parser.add_argument("--target", type=int, default=50000, help="Global paper target count")
     parser.add_argument("--limit", type=int, default=None, help="Max papers to collect in this run")
-    parser.add_argument("--sources", nargs="+", default=["arxiv", "openalex"], help="Sources to query")
+    parser.add_argument("--sources", nargs="+", default=["openalex", "arxiv"], help="Sources to query")
     parser.add_argument("--email", default="RYuK006@users.noreply.github.com", help="Polite pool contact email")
     args = parser.parse_args()
 
