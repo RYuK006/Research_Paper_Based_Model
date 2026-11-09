@@ -121,5 +121,51 @@ class TestNoveltyChecker(unittest.TestCase):
         self.assertAlmostEqual(float(comp["H"]), 10.0)
 
 
+    def test_positive_controls_hallmark_superconductors_and_fn_rate(self) -> None:
+        r"""
+        Tests $\ge 5$ hallmark positive controls across distinct superconductor families:
+        1. (La0.8Ce0.2)H10 (ternary clathrate hydride)
+        2. (Ca0.5Y0.5)H12 (ternary clathrate hydride)
+        3. (Ba0.6K0.4)Fe2As2 (hole-doped 122 iron pnictide)
+        4. SmFeAs(O0.85F0.15) (fluorine-doped 1111 iron oxypnictide)
+        5. Fe(Se0.5Te0.5) (iron chalcogenide)
+        6. La1.85Sr0.15CuO4 (hallmark LSCO cuprate)
+        7. Sr2RuO4 (hallmark ruthenate)
+        8. MgB2 (hallmark binary boride)
+        
+        Asserts that every hallmark known superconductor evaluates strictly to KNOWN.
+        Calculates and verifies that the False Negative Rate (FNR) is exactly 0.0%.
+        """
+        positive_controls = [
+            ("(La0.85Y0.15)H10", "Ternary hydride (La-Y-H)"),
+            ("Ba(Fe0.9Co0.1)2As2", "Electron-doped 122 pnictide (Ba-Fe-Co-As)"),
+            ("(La0.8Ce0.2)H10", "Ternary hydride (La-Ce-H)"),
+            ("(Ca0.5Y0.5)H12", "Ternary hydride (Ca-Y-H)"),
+            ("(Ba0.6K0.4)Fe2As2", "Hole-doped 122 pnictide (Ba-K-Fe-As)"),
+            ("SmFeAs(O0.85F0.15)", "Fluorine-doped oxypnictide (Sm-Fe-As-O-F)"),
+            ("Fe(Se0.5Te0.5)", "Iron chalcogenide (Fe-Se-Te)"),
+            ("La1.85Sr0.15CuO4", "Hallmark LSCO cuprate (La-Sr-Cu-O)"),
+            ("Sr2RuO4", "Layered ruthenate (Sr-Ru-O)"),
+            ("MgB2", "Conventional binary boride (Mg-B)"),
+        ]
+
+        false_negatives = []
+        for formula, desc in positive_controls:
+            report = self.checker.check_candidate(formula)
+            if report.status != "KNOWN":
+                false_negatives.append((formula, desc, report.status, report.status_description))
+
+        fnr = len(false_negatives) / len(positive_controls)
+        print(f"\n[Positive Control Audit] Tested: {len(positive_controls)}, False Negatives: {len(false_negatives)}, FNR: {fnr:.1%}")
+        for fn in false_negatives:
+            print(f"  FAILED: {fn[0]} ({fn[1]}) -> {fn[2]}: {fn[3]}")
+
+        self.assertEqual(
+            len(false_negatives), 0,
+            f"Expected 0.0% false negative rate on hallmark positive controls, got {len(false_negatives)} failures: {false_negatives}"
+        )
+        self.assertEqual(fnr, 0.0)
+
+
 if __name__ == "__main__":
     unittest.main()
