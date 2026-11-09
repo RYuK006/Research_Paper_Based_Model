@@ -61,13 +61,13 @@ Following an audit of the candidate generation and benchmarking pipeline, five c
 - For hydrides, generates complete Quantum ESPRESSO electron-phonon input decks (`pw.in`, `ph.in`, `epw.in`) watermarked with `STATUS: NOT RUN (DFT input generated for HPC execution)`.
 
 ### D. Honest Superconductivity Benchmark (`evaluation/time_split_evaluator.py`)
-- **Corpus Filtering**: Strictly filtered to 1,397 papers categorized under `cond-mat.supr-con` or with explicit title/abstract superconductivity focus.
+- **Corpus Filtering**: Strictly filtered to 1,303 total papers (1,275 pre-2004, 28 post-2004) categorized under `cond-mat.supr-con` or with verified superconductivity focus.
 - **Hit Assertion**: A post-cutoff paper is counted as a hit **only if** it is verified to be about superconductivity. Non-superconducting papers (e.g. paclitaxel osmium coordination complexes) are rejected.
-- **Baseline Comparison (Same Untried Candidate Pool of 1,660 Pairs)**:
-  - **K=10**: Model **1/10 (10.0%)** | Random **0/10 (2.5%)** | Lift: **3.9x**
-  - **K=25**: Model **2/25 (8.0%)** | Random **1/25 (2.4%)** | Lift: **3.3x**
-  - **K=50**: Model **7/50 (14.0%)** | Random **1/50 (2.5%)** | Lift: **5.7x**
-- **Bootstrap 95% Confidence Intervals**: Evaluated over 1,000 iterations.
+- **Baseline Comparison (Same Untried Candidate Pool of 1,766 Pairs)**:
+  - **K=10**: Model **0/10 (0.0%, 95% CI: [0.0, 0.0])** | Random **0/10 (2.3%, 95% CI: [0.0, 1.0])** | Frequency **0/10 (0.0%)** | Similarity **0/10 (0.0%)** | Lift over Random: **0.00x**
+  - **K=25**: Model **0/25 (0.0%, 95% CI: [0.0, 0.0])** | Random **0/25 (2.0%, 95% CI: [0.0, 2.0])** | Frequency **1/25 (4.0%)** | Similarity **0/25 (0.0%)** | Lift over Random: **0.00x**
+  - **K=50**: Model **0/50 (0.0%, 95% CI: [0.0, 0.0])** | Random **1/50 (2.1%, 95% CI: [0.0, 3.0])** | Frequency **1/50 (2.0%)** | Similarity **0/50 (0.0%)** | Lift over Random: **0.00x**
+- **Bootstrap 95% Confidence Intervals**: Evaluated over 1,000 resampling iterations.
 - **Hit Provenance**: Complete JSON export saved to `data/time_split_results.json`.
 
 ---
