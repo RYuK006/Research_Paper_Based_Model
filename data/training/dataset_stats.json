@@ -1,0 +1,12 @@
+{
+  "cutoff_year": 2021,
+  "train_samples_pre2021": 500,
+  "eval_samples_post2021": 100,
+  "total_samples": 600,
+  "files": {
+    "train_alpaca": "data\\training\\train_pre2021_alpaca.jsonl",
+    "train_chatml": "data\\training\\train_pre2021_chatml.jsonl",
+    "eval_alpaca": "data\\training\\eval_post2021_alpaca.jsonl",
+    "eval_chatml": "data\\training\\eval_post2021_chatml.jsonl"
+  }
+}
