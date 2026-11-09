@@ -159,6 +159,37 @@ python -m drive_sync.gdrive_uploader --bundle-only
 python -m drive_sync.gdrive_uploader
 ```
 
+### 5. Parse Papers to Clean Markdown (LaTeX Source, GROBID & Marker/PyMuPDF)
+Convert research papers and PDFs into clean Markdown with preserved equations, tables, and metadata (title, year, authors, DOI in YAML frontmatter):
+```powershell
+# Parse papers using best available parser (arXiv LaTeX source prioritized for arXiv, PyMuPDF-Marker/GROBID for PDFs)
+python -m parsers.paper_parser --limit 20
+
+# Parse specific sources
+python -m parsers.paper_parser --limit 50 --source arxiv
+python -m parsers.paper_parser --limit 50 --source openalex
+
+# View parsing statistics summary
+python -m parsers.paper_parser --stats
+```
+
+Output files are stored under `data/parsed/{source}/{paper_id}.md` with YAML frontmatter:
+```markdown
+---
+paper_id: "arxiv:astro-ph/0004317"
+title: "The Properties of Matter in White Dwarfs and Neutron Stars"
+authors:
+  - Shmuel Balberg
+  - Stuart L. Shapiro
+year: 2000
+doi: null
+source: "arxiv"
+parser_used: "arxiv_latex"
+equation_count: 29
+table_count: 5
+---
+```
+
 ---
 
 ## 🧪 Testing
@@ -174,3 +205,4 @@ python -m unittest discover -s tests -v
 
 - **Author**: `RYuK006`
 - **Repository**: [https://github.com/RYuK006/Research_Paper_Based_Model](https://github.com/RYuK006/Research_Paper_Based_Model)
+
