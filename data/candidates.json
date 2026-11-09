@@ -2,53 +2,116 @@
   {
     "candidate": {
       "candidate_id": "CAND_001",
-      "formula": "(O0.85As0.15)H10",
+      "formula": "(Ce0.85Sr0.15)H10",
+      "reduced_formula": "Sr0.15Ce0.85H10",
       "elements": [
-        "As",
+        "Ce",
         "H",
-        "O"
+        "Sr"
       ],
       "stoichiometry": {
-        "O": 0.85,
-        "As": 0.15,
+        "Ce": 0.85,
+        "Sr": 0.15,
         "H": 10.0
       },
       "target_family": "Clathrate hydride",
+      "prototype": "LaH10",
       "space_group": "Fm-3m (#225)",
       "lattice_system": "Cubic",
-      "predicted_tc_range": [
-        245.0,
-        280.0
+      "tc_status": "NOT COMPUTED",
+      "predicted_tc": null,
+      "predicted_tc_uncertainty": null,
+      "predicted_pressure_gpa": null,
+      "pressure_status": "NOT COMPUTED (Requires ab initio enthalpy calculation)",
+      "gap_origin": "Untried element pair Ce-Sr mapped to clathrate hydride cage",
+      "discovery_score": 55.0
+    },
+    "novelty": {
+      "formula": "(Ce0.85Sr0.15)H10",
+      "reduced_formula": "Sr0.15Ce0.85H10",
+      "chemical_system": "Ce-H-Sr",
+      "elements": [
+        "Ce",
+        "H",
+        "Sr"
       ],
-      "predicted_pressure_gpa": 159.8,
-      "gap_origin": "Untried element pair O-As from literature co-occurrence analysis",
-      "discovery_score": 3675.0
+      "status": "KNOWN",
+      "status_description": "KNOWN: Established superconductor in literature (e.g., 'Superconducting Bi-Sr-Ca-Cu-O Thick Films by the Sol-Gel Method', 1988)",
+      "sources_searched": [
+        "OpenAlex API",
+        "Materials Project",
+        "Local Superconductivity Corpus",
+        "SuperCon Reference"
+      ],
+      "evidence": [
+        {
+          "source": "OpenAlex API",
+          "title": "Superconducting Bi-Sr-Ca-Cu-O Thick Films by the Sol-Gel Method",
+          "year": 1988,
+          "url_or_id": "https://doi.org/10.1143/jjap.27.l1880",
+          "details": "Match on query: 'superconductor Ce H Sr'"
+        },
+        {
+          "source": "OpenAlex API",
+          "title": "Transport and anisotropy in single-crystalline SrFe2As2 and A0.6K0.4Fe2As2 ( A=Sr , Ba) superconductors",
+          "year": 2008,
+          "url_or_id": "https://doi.org/10.1103/physrevb.78.224512",
+          "details": "Match on query: 'superconductor Ce H Sr'"
+        },
+        {
+          "source": "OpenAlex API",
+          "title": "Specific heat and \u03bc SR study on the noncentrosymmetric superconductor LaRhSi 3",
+          "year": 2011,
+          "url_or_id": "https://doi.org/10.1103/physrevb.83.064522",
+          "details": "Match on query: 'superconductor Ce H Sr'"
+        }
+      ],
+      "searched_at": "2026-11-09T09:43:24.920686+00:00"
     },
     "verification": {
       "candidate_id": "CAND_001",
-      "formula": "(O0.85As0.15)H10",
-      "plausibility_status": "HIGHLY_PROMISING",
-      "stability_score": 0.95,
-      "goldschmidt_tolerance": null,
-      "electronegativity_diff": 1.26,
-      "chemical_precompression_index": 0.89,
-      "verification_notes": [
-        "Favorable polar-covalent / metallic hybridization for electronic transport.",
-        "High precompression index (0.89): Dopant cations induce steric pressure, stabilizing H-clathrate cage at reduced external pressure."
+      "formula": "(Ce0.85Sr0.15)H10",
+      "prefilter": {
+        "goldschmidt_tolerance": null,
+        "electronegativity_spread": 1.25,
+        "precompression_index": 1.026,
+        "prefilter_status": "PASS"
+      },
+      "stability": {
+        "energy_above_hull_mev": null,
+        "stability_status": "NOT COMPUTED (No ambient MP phase diagram entry for chemsys; requires high-pressure DFT relaxation)",
+        "method": "Materials Project Phase Diagram (chemsys query)",
+        "reference_data_version": "MP API v0.88.1",
+        "competing_phases": []
+      },
+      "tc_source": "Tc: NOT COMPUTED (Template values purged; requires ab initio electron-phonon calculation or calibrated model)",
+      "predicted_tc": null,
+      "predicted_tc_uncertainty": null,
+      "pressure_source": "Pressure: NOT COMPUTED (Requires ab initio H(P) enthalpy calculation vs decomposition products)",
+      "predicted_pressure_gpa": null,
+      "qe_input_files": {
+        "pw_in": "data\\dft_inputs\\Ce0_85Sr0_15H10_pw.in",
+        "ph_in": "data\\dft_inputs\\Ce0_85Sr0_15H10_ph.in",
+        "epw_in": "data\\dft_inputs\\Ce0_85Sr0_15H10_epw.in"
+      },
+      "notes": [
+        "Prefilter status: PASS",
+        "Thermodynamic stability: NOT COMPUTED (No ambient MP phase diagram entry for chemsys; requires high-pressure DFT relaxation)",
+        "Method: Materials Project Phase Diagram (chemsys query) (Data version: MP API v0.88.1)"
       ]
     },
     "protocol": {
       "candidate_id": "CAND_001",
-      "formula": "(O0.85As0.15)H10",
+      "formula": "(Ce0.85Sr0.15)H10",
       "target_family": "Clathrate hydride",
       "recommended_synthesis_method": "Laser-heated diamond anvil cell (LH-DAC)",
       "starting_precursors": [
-        "High-purity (As, O) metal foil or powder (purity $\\ge 99.99\\%$), stoichiometrically weighed.",
+        "High-purity (Ce, Sr) metal foil or powder (purity $\\ge 99.99\\%$), stoichiometrically weighed.",
         "Ammonia borane (NH3BH3) or pure molecular H2 gas loading as clean hydrogen donor.",
         "Rhenium or tungsten gasket pre-indented to 25-35 $\\mu$m thickness with 100 $\\mu$m sample chamber."
       ],
       "synthesis_conditions": {
-        "pressure": "159.8 GPa (monitored via diamond anvil Raman / ruby fluorescence)",
+        "pressure": "Target megabar GPa (monitored via diamond anvil Raman / ruby fluorescence)",
         "temperature": "1800 - 2200 K (double-sided pulsed Nd:YAG laser heating at $\\lambda=1064$ nm)",
         "duration": "10 - 20 minutes laser annealing to induce cage phase nucleation",
         "atmosphere": "Cryogenic or pressurized hydrogen environment inside sealed DAC"
@@ -56,265 +119,136 @@
       "characterization_plan": [
         "In-situ Synchrotron Powder X-ray Diffraction ($\\lambda=0.434$ \u00c5) to confirm Fm-3m (#225) clathrate lattice formation.",
         "Four-probe electrical resistance using sputtered Pt/Ti microelectrodes deposited on diamond culet.",
-        "Measure resistance transition: verify zero-resistance state in predicted Tc window (245.0 - 280.0 K).",
+        "Measure resistance transition: verify zero-resistance state and critical transition down to 2 K.",
         "Magnetic susceptibility / AC susceptibility to confirm Meissner diamagnetic shielding."
       ],
       "safety_notes": [
         "Extreme pressure risk: Diamond anvil culet cleavage during laser pulsing; operate behind blast shielding.",
         "Pressurized hydrogen embrittlement: Inspect gasket seal integrity prior to heating."
-      ]
+      ],
+      "template_status": "UNVALIDATED HEURISTIC TEMPLATE (NOT EXPERIMENTALLY CERTIFIED)"
     }
   },
   {
     "candidate": {
       "candidate_id": "CAND_002",
-      "formula": "(C0.85Cu0.15)H10",
+      "formula": "(Pr0.85Sr0.15)H10",
+      "reduced_formula": "Sr0.15Pr0.85H10",
       "elements": [
-        "C",
-        "Cu",
-        "H"
-      ],
-      "stoichiometry": {
-        "C": 0.85,
-        "Cu": 0.15,
-        "H": 10.0
-      },
-      "target_family": "Clathrate hydride",
-      "space_group": "Fm-3m (#225)",
-      "lattice_system": "Cubic",
-      "predicted_tc_range": [
-        245.0,
-        280.0
-      ],
-      "predicted_pressure_gpa": 159.8,
-      "gap_origin": "Untried element pair C-Cu from literature co-occurrence analysis",
-      "discovery_score": 2761.0
-    },
-    "verification": {
-      "candidate_id": "CAND_002",
-      "formula": "(C0.85Cu0.15)H10",
-      "plausibility_status": "VIABLE",
-      "stability_score": 0.7,
-      "goldschmidt_tolerance": null,
-      "electronegativity_diff": 0.65,
-      "chemical_precompression_index": 0.815,
-      "verification_notes": [
-        "Favorable polar-covalent / metallic hybridization for electronic transport.",
-        "Moderate precompression index (0.81)."
-      ]
-    },
-    "protocol": {
-      "candidate_id": "CAND_002",
-      "formula": "(C0.85Cu0.15)H10",
-      "target_family": "Clathrate hydride",
-      "recommended_synthesis_method": "Laser-heated diamond anvil cell (LH-DAC)",
-      "starting_precursors": [
-        "High-purity (C, Cu) metal foil or powder (purity $\\ge 99.99\\%$), stoichiometrically weighed.",
-        "Ammonia borane (NH3BH3) or pure molecular H2 gas loading as clean hydrogen donor.",
-        "Rhenium or tungsten gasket pre-indented to 25-35 $\\mu$m thickness with 100 $\\mu$m sample chamber."
-      ],
-      "synthesis_conditions": {
-        "pressure": "159.8 GPa (monitored via diamond anvil Raman / ruby fluorescence)",
-        "temperature": "1800 - 2200 K (double-sided pulsed Nd:YAG laser heating at $\\lambda=1064$ nm)",
-        "duration": "10 - 20 minutes laser annealing to induce cage phase nucleation",
-        "atmosphere": "Cryogenic or pressurized hydrogen environment inside sealed DAC"
-      },
-      "characterization_plan": [
-        "In-situ Synchrotron Powder X-ray Diffraction ($\\lambda=0.434$ \u00c5) to confirm Fm-3m (#225) clathrate lattice formation.",
-        "Four-probe electrical resistance using sputtered Pt/Ti microelectrodes deposited on diamond culet.",
-        "Measure resistance transition: verify zero-resistance state in predicted Tc window (245.0 - 280.0 K).",
-        "Magnetic susceptibility / AC susceptibility to confirm Meissner diamagnetic shielding."
-      ],
-      "safety_notes": [
-        "Extreme pressure risk: Diamond anvil culet cleavage during laser pulsing; operate behind blast shielding.",
-        "Pressurized hydrogen embrittlement: Inspect gasket seal integrity prior to heating."
-      ]
-    }
-  },
-  {
-    "candidate": {
-      "candidate_id": "CAND_003",
-      "formula": "(B0.85V0.15)H10",
-      "elements": [
-        "B",
         "H",
-        "V"
+        "Pr",
+        "Sr"
       ],
       "stoichiometry": {
-        "B": 0.85,
-        "V": 0.15,
+        "Pr": 0.85,
+        "Sr": 0.15,
         "H": 10.0
       },
       "target_family": "Clathrate hydride",
+      "prototype": "LaH10",
       "space_group": "Fm-3m (#225)",
       "lattice_system": "Cubic",
-      "predicted_tc_range": [
-        245.0,
-        280.0
-      ],
-      "predicted_pressure_gpa": 159.8,
-      "gap_origin": "Untried element pair B-V from literature co-occurrence analysis",
-      "discovery_score": 2236.0
+      "tc_status": "NOT COMPUTED",
+      "predicted_tc": null,
+      "predicted_tc_uncertainty": null,
+      "predicted_pressure_gpa": null,
+      "pressure_status": "NOT COMPUTED (Requires ab initio enthalpy calculation)",
+      "gap_origin": "Untried element pair Pr-Sr mapped to clathrate hydride cage",
+      "discovery_score": 49.0
     },
-    "verification": {
-      "candidate_id": "CAND_003",
-      "formula": "(B0.85V0.15)H10",
-      "plausibility_status": "VIABLE",
-      "stability_score": 0.7,
-      "goldschmidt_tolerance": null,
-      "electronegativity_diff": 0.57,
-      "chemical_precompression_index": 0.5,
-      "verification_notes": [
-        "Favorable polar-covalent / metallic hybridization for electronic transport.",
-        "Moderate precompression index (0.50)."
-      ]
-    },
-    "protocol": {
-      "candidate_id": "CAND_003",
-      "formula": "(B0.85V0.15)H10",
-      "target_family": "Clathrate hydride",
-      "recommended_synthesis_method": "Laser-heated diamond anvil cell (LH-DAC)",
-      "starting_precursors": [
-        "High-purity (B, V) metal foil or powder (purity $\\ge 99.99\\%$), stoichiometrically weighed.",
-        "Ammonia borane (NH3BH3) or pure molecular H2 gas loading as clean hydrogen donor.",
-        "Rhenium or tungsten gasket pre-indented to 25-35 $\\mu$m thickness with 100 $\\mu$m sample chamber."
-      ],
-      "synthesis_conditions": {
-        "pressure": "159.8 GPa (monitored via diamond anvil Raman / ruby fluorescence)",
-        "temperature": "1800 - 2200 K (double-sided pulsed Nd:YAG laser heating at $\\lambda=1064$ nm)",
-        "duration": "10 - 20 minutes laser annealing to induce cage phase nucleation",
-        "atmosphere": "Cryogenic or pressurized hydrogen environment inside sealed DAC"
-      },
-      "characterization_plan": [
-        "In-situ Synchrotron Powder X-ray Diffraction ($\\lambda=0.434$ \u00c5) to confirm Fm-3m (#225) clathrate lattice formation.",
-        "Four-probe electrical resistance using sputtered Pt/Ti microelectrodes deposited on diamond culet.",
-        "Measure resistance transition: verify zero-resistance state in predicted Tc window (245.0 - 280.0 K).",
-        "Magnetic susceptibility / AC susceptibility to confirm Meissner diamagnetic shielding."
-      ],
-      "safety_notes": [
-        "Extreme pressure risk: Diamond anvil culet cleavage during laser pulsing; operate behind blast shielding.",
-        "Pressurized hydrogen embrittlement: Inspect gasket seal integrity prior to heating."
-      ]
-    }
-  },
-  {
-    "candidate": {
-      "candidate_id": "CAND_004",
-      "formula": "(C0.85Cs0.15)Ba2Cu3O7",
+    "novelty": {
+      "formula": "(Pr0.85Sr0.15)H10",
+      "reduced_formula": "Sr0.15Pr0.85H10",
+      "chemical_system": "H-Pr-Sr",
       "elements": [
-        "Ba",
-        "C",
-        "Cs",
-        "Cu",
-        "O"
-      ],
-      "stoichiometry": {
-        "C": 0.85,
-        "Cs": 0.15,
-        "Ba": 2.0,
-        "Cu": 3.0,
-        "O": 7.0
-      },
-      "target_family": "Perovskite oxide",
-      "space_group": "Pmmm (#47)",
-      "lattice_system": "Orthorhombic",
-      "predicted_tc_range": [
-        88.0,
-        113.0
-      ],
-      "predicted_pressure_gpa": 0.0,
-      "gap_origin": "Untried element pair C-Cs from literature co-occurrence analysis",
-      "discovery_score": 2214.0
-    },
-    "verification": {
-      "candidate_id": "CAND_004",
-      "formula": "(C0.85Cs0.15)Ba2Cu3O7",
-      "plausibility_status": "VIABLE",
-      "stability_score": 0.75,
-      "goldschmidt_tolerance": 0.9362,
-      "electronegativity_diff": 2.65,
-      "chemical_precompression_index": 1.0,
-      "verification_notes": [
-        "High electronegativity delta (2.65); potential ionic insulating tendency.",
-        "Goldschmidt tolerance factor t=0.936 within optimal cubic/orthorhombic perovskite stability window."
-      ]
-    },
-    "protocol": {
-      "candidate_id": "CAND_004",
-      "formula": "(C0.85Cs0.15)Ba2Cu3O7",
-      "target_family": "Perovskite oxide",
-      "recommended_synthesis_method": "Pulsed Laser Deposition (PLD) & Solid-State Reaction",
-      "starting_precursors": [
-        "Stoichiometric oxides/carbonates of Ba, C, Cs, Cu, O (e.g. BaCO3, CuO, Y2O3).",
-        "Single-crystal substrate: SrTiO3 (001) or LaAlO3 (001) for epitaxial film growth."
-      ],
-      "synthesis_conditions": {
-        "pressure": "0.2 - 0.4 mbar dynamic O2 partial pressure during ablation; 1 atm post-anneal",
-        "temperature": "780 - 820 \u00b0C deposition; 450 \u00b0C for 10 hours oxygenation anneal",
-        "duration": "45 minutes ablation at 2-5 Hz KrF excimer laser ($\\lambda=248$ nm)",
-        "atmosphere": "Pure oxygen (O2) environment to eliminate oxygen vacancies"
-      },
-      "characterization_plan": [
-        "High-resolution XRD $\\theta-2\\theta$ scans to verify c-axis epitaxial orientation and space group Pmmm (#47).",
-        "Four-point probe electrical resistivity from 300 K down to 4.2 K in cryostat.",
-        "SQUID vibrating sample magnetometry (VSM) to quantify superconducting volume fraction."
-      ],
-      "safety_notes": [
-        "UV Excimer Laser radiation hazard: Class 4 laser safety goggles required during PLD ablation.",
-        "Fine oxide/carbonate particulate inhalation risk during stoichiometric powder grinding."
-      ]
-    }
-  },
-  {
-    "candidate": {
-      "candidate_id": "CAND_005",
-      "formula": "(F0.85In0.15)H10",
-      "elements": [
-        "F",
         "H",
-        "In"
+        "Pr",
+        "Sr"
       ],
-      "stoichiometry": {
-        "F": 0.85,
-        "In": 0.15,
-        "H": 10.0
-      },
-      "target_family": "Clathrate hydride",
-      "space_group": "Fm-3m (#225)",
-      "lattice_system": "Cubic",
-      "predicted_tc_range": [
-        245.0,
-        280.0
+      "status": "KNOWN",
+      "status_description": "KNOWN: Established superconductor in literature (e.g., 'Antiferroquadrupolar Ordering in a Pr-Based Superconductor PrIr2Zn20', 2011)",
+      "sources_searched": [
+        "OpenAlex API",
+        "Materials Project",
+        "Local Superconductivity Corpus",
+        "SuperCon Reference"
       ],
-      "predicted_pressure_gpa": 159.8,
-      "gap_origin": "Untried element pair F-In from literature co-occurrence analysis",
-      "discovery_score": 2171.0
+      "evidence": [
+        {
+          "source": "OpenAlex API",
+          "title": "Antiferroquadrupolar Ordering in a Pr-Based Superconductor PrIr2Zn20",
+          "year": 2011,
+          "url_or_id": "https://doi.org/10.1103/physrevlett.106.177001",
+          "details": "Match on query: 'superconductor H Pr Sr'"
+        },
+        {
+          "source": "OpenAlex API",
+          "title": "Linear-in-temperature resistivity for optimally superconducting (Nd,Sr)NiO2",
+          "year": 2023,
+          "url_or_id": "https://doi.org/10.1038/s41586-023-06129-x",
+          "details": "Match on query: 'superconductor H Pr Sr'"
+        },
+        {
+          "source": "OpenAlex API",
+          "title": "Transport and anisotropy in single-crystalline SrFe2As2 and A0.6K0.4Fe2As2 ( A=Sr , Ba) superconductors",
+          "year": 2008,
+          "url_or_id": "https://doi.org/10.1103/physrevb.78.224512",
+          "details": "Match on query: 'superconductor H Pr Sr'"
+        },
+        {
+          "source": "OpenAlex API",
+          "title": "A New Layered Iron Arsenide Superconductor: (Ca,Pr)FeAs2",
+          "year": 2014,
+          "url_or_id": "https://doi.org/10.1021/ja410845b",
+          "details": "Match on query: 'superconductor H Pr Sr'"
+        }
+      ],
+      "searched_at": "2026-11-09T09:43:29.613828+00:00"
     },
     "verification": {
-      "candidate_id": "CAND_005",
-      "formula": "(F0.85In0.15)H10",
-      "plausibility_status": "HIGHLY_PROMISING",
-      "stability_score": 0.95,
-      "goldschmidt_tolerance": null,
-      "electronegativity_diff": 2.2,
-      "chemical_precompression_index": 0.965,
-      "verification_notes": [
-        "Favorable polar-covalent / metallic hybridization for electronic transport.",
-        "High precompression index (0.96): Dopant cations induce steric pressure, stabilizing H-clathrate cage at reduced external pressure."
+      "candidate_id": "CAND_002",
+      "formula": "(Pr0.85Sr0.15)H10",
+      "prefilter": {
+        "goldschmidt_tolerance": null,
+        "electronegativity_spread": 1.25,
+        "precompression_index": 1.008,
+        "prefilter_status": "PASS"
+      },
+      "stability": {
+        "energy_above_hull_mev": null,
+        "stability_status": "NOT COMPUTED (No ambient MP phase diagram entry for chemsys; requires high-pressure DFT relaxation)",
+        "method": "Materials Project Phase Diagram (chemsys query)",
+        "reference_data_version": "MP API v0.88.1",
+        "competing_phases": []
+      },
+      "tc_source": "Tc: NOT COMPUTED (Template values purged; requires ab initio electron-phonon calculation or calibrated model)",
+      "predicted_tc": null,
+      "predicted_tc_uncertainty": null,
+      "pressure_source": "Pressure: NOT COMPUTED (Requires ab initio H(P) enthalpy calculation vs decomposition products)",
+      "predicted_pressure_gpa": null,
+      "qe_input_files": {
+        "pw_in": "data\\dft_inputs\\Pr0_85Sr0_15H10_pw.in",
+        "ph_in": "data\\dft_inputs\\Pr0_85Sr0_15H10_ph.in",
+        "epw_in": "data\\dft_inputs\\Pr0_85Sr0_15H10_epw.in"
+      },
+      "notes": [
+        "Prefilter status: PASS",
+        "Thermodynamic stability: NOT COMPUTED (No ambient MP phase diagram entry for chemsys; requires high-pressure DFT relaxation)",
+        "Method: Materials Project Phase Diagram (chemsys query) (Data version: MP API v0.88.1)"
       ]
     },
     "protocol": {
-      "candidate_id": "CAND_005",
-      "formula": "(F0.85In0.15)H10",
+      "candidate_id": "CAND_002",
+      "formula": "(Pr0.85Sr0.15)H10",
       "target_family": "Clathrate hydride",
       "recommended_synthesis_method": "Laser-heated diamond anvil cell (LH-DAC)",
       "starting_precursors": [
-        "High-purity (F, In) metal foil or powder (purity $\\ge 99.99\\%$), stoichiometrically weighed.",
+        "High-purity (Pr, Sr) metal foil or powder (purity $\\ge 99.99\\%$), stoichiometrically weighed.",
         "Ammonia borane (NH3BH3) or pure molecular H2 gas loading as clean hydrogen donor.",
         "Rhenium or tungsten gasket pre-indented to 25-35 $\\mu$m thickness with 100 $\\mu$m sample chamber."
       ],
       "synthesis_conditions": {
-        "pressure": "159.8 GPa (monitored via diamond anvil Raman / ruby fluorescence)",
+        "pressure": "Target megabar GPa (monitored via diamond anvil Raman / ruby fluorescence)",
         "temperature": "1800 - 2200 K (double-sided pulsed Nd:YAG laser heating at $\\lambda=1064$ nm)",
         "duration": "10 - 20 minutes laser annealing to induce cage phase nucleation",
         "atmosphere": "Cryogenic or pressurized hydrogen environment inside sealed DAC"
@@ -322,13 +256,418 @@
       "characterization_plan": [
         "In-situ Synchrotron Powder X-ray Diffraction ($\\lambda=0.434$ \u00c5) to confirm Fm-3m (#225) clathrate lattice formation.",
         "Four-probe electrical resistance using sputtered Pt/Ti microelectrodes deposited on diamond culet.",
-        "Measure resistance transition: verify zero-resistance state in predicted Tc window (245.0 - 280.0 K).",
+        "Measure resistance transition: verify zero-resistance state and critical transition down to 2 K.",
         "Magnetic susceptibility / AC susceptibility to confirm Meissner diamagnetic shielding."
       ],
       "safety_notes": [
         "Extreme pressure risk: Diamond anvil culet cleavage during laser pulsing; operate behind blast shielding.",
         "Pressurized hydrogen embrittlement: Inspect gasket seal integrity prior to heating."
+      ],
+      "template_status": "UNVALIDATED HEURISTIC TEMPLATE (NOT EXPERIMENTALLY CERTIFIED)"
+    }
+  },
+  {
+    "candidate": {
+      "candidate_id": "CAND_003",
+      "formula": "(Gd0.85Sr0.15)H10",
+      "reduced_formula": "Sr0.15Gd0.85H10",
+      "elements": [
+        "Gd",
+        "H",
+        "Sr"
+      ],
+      "stoichiometry": {
+        "Gd": 0.85,
+        "Sr": 0.15,
+        "H": 10.0
+      },
+      "target_family": "Clathrate hydride",
+      "prototype": "LaH10",
+      "space_group": "Fm-3m (#225)",
+      "lattice_system": "Cubic",
+      "tc_status": "NOT COMPUTED",
+      "predicted_tc": null,
+      "predicted_tc_uncertainty": null,
+      "predicted_pressure_gpa": null,
+      "pressure_status": "NOT COMPUTED (Requires ab initio enthalpy calculation)",
+      "gap_origin": "Untried element pair Gd-Sr mapped to clathrate hydride cage",
+      "discovery_score": 43.0
+    },
+    "novelty": {
+      "formula": "(Gd0.85Sr0.15)H10",
+      "reduced_formula": "Sr0.15Gd0.85H10",
+      "chemical_system": "Gd-H-Sr",
+      "elements": [
+        "Gd",
+        "H",
+        "Sr"
+      ],
+      "status": "KNOWN",
+      "status_description": "KNOWN: Established superconductor in literature (e.g., 'Antiferromagnetic ordering of Ru and Gd in superconducting RuSr2GdCu2O8', 2000)",
+      "sources_searched": [
+        "OpenAlex API",
+        "Materials Project",
+        "Local Superconductivity Corpus",
+        "SuperCon Reference"
+      ],
+      "evidence": [
+        {
+          "source": "OpenAlex API",
+          "title": "Antiferromagnetic ordering of Ru and Gd in superconducting RuSr2GdCu2O8",
+          "year": 2000,
+          "url_or_id": "https://doi.org/10.1103/physrevb.61.r14964",
+          "details": "Match on query: 'superconductor Gd H Sr'"
+        },
+        {
+          "source": "OpenAlex API",
+          "title": "Investigation of some physical properties of Gd added Bi-2223 superconductors",
+          "year": 2010,
+          "url_or_id": "https://doi.org/10.1016/j.jallcom.2010.08.105",
+          "details": "Match on query: 'superconductor Gd H Sr'"
+        },
+        {
+          "source": "OpenAlex API",
+          "title": "The Effect of Gd Concentration on the Physical and Magnetic Properties of Bi1.7Pb0.3-xGdxSr2Ca3Cu4O12+y Superconductors",
+          "year": 2005,
+          "url_or_id": "https://doi.org/10.1007/s10909-005-6015-4",
+          "details": "Match on query: 'superconductor Gd H Sr'"
+        },
+        {
+          "source": "OpenAlex API",
+          "title": "Higgs Mode in Superconductors",
+          "year": 2019,
+          "url_or_id": "https://doi.org/10.1146/annurev-conmatphys-031119-050813",
+          "details": "Match on query: 'superconductor Gd H Sr'"
+        }
+      ],
+      "searched_at": "2026-11-09T09:43:33.256806+00:00"
+    },
+    "verification": {
+      "candidate_id": "CAND_003",
+      "formula": "(Gd0.85Sr0.15)H10",
+      "prefilter": {
+        "goldschmidt_tolerance": null,
+        "electronegativity_spread": 1.25,
+        "precompression_index": 1.018,
+        "prefilter_status": "PASS"
+      },
+      "stability": {
+        "energy_above_hull_mev": null,
+        "stability_status": "NOT COMPUTED (No ambient MP phase diagram entry for chemsys; requires high-pressure DFT relaxation)",
+        "method": "Materials Project Phase Diagram (chemsys query)",
+        "reference_data_version": "MP API v0.88.1",
+        "competing_phases": []
+      },
+      "tc_source": "Tc: NOT COMPUTED (Template values purged; requires ab initio electron-phonon calculation or calibrated model)",
+      "predicted_tc": null,
+      "predicted_tc_uncertainty": null,
+      "pressure_source": "Pressure: NOT COMPUTED (Requires ab initio H(P) enthalpy calculation vs decomposition products)",
+      "predicted_pressure_gpa": null,
+      "qe_input_files": {
+        "pw_in": "data\\dft_inputs\\Gd0_85Sr0_15H10_pw.in",
+        "ph_in": "data\\dft_inputs\\Gd0_85Sr0_15H10_ph.in",
+        "epw_in": "data\\dft_inputs\\Gd0_85Sr0_15H10_epw.in"
+      },
+      "notes": [
+        "Prefilter status: PASS",
+        "Thermodynamic stability: NOT COMPUTED (No ambient MP phase diagram entry for chemsys; requires high-pressure DFT relaxation)",
+        "Method: Materials Project Phase Diagram (chemsys query) (Data version: MP API v0.88.1)"
       ]
+    },
+    "protocol": {
+      "candidate_id": "CAND_003",
+      "formula": "(Gd0.85Sr0.15)H10",
+      "target_family": "Clathrate hydride",
+      "recommended_synthesis_method": "Laser-heated diamond anvil cell (LH-DAC)",
+      "starting_precursors": [
+        "High-purity (Gd, Sr) metal foil or powder (purity $\\ge 99.99\\%$), stoichiometrically weighed.",
+        "Ammonia borane (NH3BH3) or pure molecular H2 gas loading as clean hydrogen donor.",
+        "Rhenium or tungsten gasket pre-indented to 25-35 $\\mu$m thickness with 100 $\\mu$m sample chamber."
+      ],
+      "synthesis_conditions": {
+        "pressure": "Target megabar GPa (monitored via diamond anvil Raman / ruby fluorescence)",
+        "temperature": "1800 - 2200 K (double-sided pulsed Nd:YAG laser heating at $\\lambda=1064$ nm)",
+        "duration": "10 - 20 minutes laser annealing to induce cage phase nucleation",
+        "atmosphere": "Cryogenic or pressurized hydrogen environment inside sealed DAC"
+      },
+      "characterization_plan": [
+        "In-situ Synchrotron Powder X-ray Diffraction ($\\lambda=0.434$ \u00c5) to confirm Fm-3m (#225) clathrate lattice formation.",
+        "Four-probe electrical resistance using sputtered Pt/Ti microelectrodes deposited on diamond culet.",
+        "Measure resistance transition: verify zero-resistance state and critical transition down to 2 K.",
+        "Magnetic susceptibility / AC susceptibility to confirm Meissner diamagnetic shielding."
+      ],
+      "safety_notes": [
+        "Extreme pressure risk: Diamond anvil culet cleavage during laser pulsing; operate behind blast shielding.",
+        "Pressurized hydrogen embrittlement: Inspect gasket seal integrity prior to heating."
+      ],
+      "template_status": "UNVALIDATED HEURISTIC TEMPLATE (NOT EXPERIMENTALLY CERTIFIED)"
+    }
+  },
+  {
+    "candidate": {
+      "candidate_id": "CAND_004",
+      "formula": "(Lu0.85Sr0.15)H10",
+      "reduced_formula": "Sr0.15Lu0.85H10",
+      "elements": [
+        "H",
+        "Lu",
+        "Sr"
+      ],
+      "stoichiometry": {
+        "Lu": 0.85,
+        "Sr": 0.15,
+        "H": 10.0
+      },
+      "target_family": "Clathrate hydride",
+      "prototype": "LaH10",
+      "space_group": "Fm-3m (#225)",
+      "lattice_system": "Cubic",
+      "tc_status": "NOT COMPUTED",
+      "predicted_tc": null,
+      "predicted_tc_uncertainty": null,
+      "predicted_pressure_gpa": null,
+      "pressure_status": "NOT COMPUTED (Requires ab initio enthalpy calculation)",
+      "gap_origin": "Untried element pair Lu-Sr mapped to clathrate hydride cage",
+      "discovery_score": 42.0
+    },
+    "novelty": {
+      "formula": "(Lu0.85Sr0.15)H10",
+      "reduced_formula": "Sr0.15Lu0.85H10",
+      "chemical_system": "H-Lu-Sr",
+      "elements": [
+        "H",
+        "Lu",
+        "Sr"
+      ],
+      "status": "KNOWN",
+      "status_description": "KNOWN: Established superconductor in literature (e.g., 'Transport and anisotropy in single-crystalline SrFe2As2 and A0.6K0.4Fe2As2 ( A=Sr , Ba) superconductors', 2008)",
+      "sources_searched": [
+        "OpenAlex API",
+        "Materials Project",
+        "Local Superconductivity Corpus",
+        "SuperCon Reference"
+      ],
+      "evidence": [
+        {
+          "source": "OpenAlex API",
+          "title": "Transport and anisotropy in single-crystalline SrFe2As2 and A0.6K0.4Fe2As2 ( A=Sr , Ba) superconductors",
+          "year": 2008,
+          "url_or_id": "https://doi.org/10.1103/physrevb.78.224512",
+          "details": "Match on query: 'superconductor H Lu Sr'"
+        },
+        {
+          "source": "OpenAlex API",
+          "title": "Superconducting properties and \u03bc SR study of the noncentrosymmetric superconductor Nb 0.5 Os 0.5",
+          "year": 2017,
+          "url_or_id": "https://doi.org/10.1088/1361-648x/aaa376",
+          "details": "Match on query: 'superconductor H Lu Sr'"
+        },
+        {
+          "source": "OpenAlex API",
+          "title": "Striped superconductors: how spin, charge and superconducting orders intertwine in the cuprates",
+          "year": 2009,
+          "url_or_id": "https://doi.org/10.1088/1367-2630/11/11/115004",
+          "details": "Match on query: 'superconductor H Lu Sr'"
+        }
+      ],
+      "searched_at": "2026-11-09T09:43:38.048576+00:00"
+    },
+    "verification": {
+      "candidate_id": "CAND_004",
+      "formula": "(Lu0.85Sr0.15)H10",
+      "prefilter": {
+        "goldschmidt_tolerance": null,
+        "electronegativity_spread": 1.25,
+        "precompression_index": 1.008,
+        "prefilter_status": "PASS"
+      },
+      "stability": {
+        "energy_above_hull_mev": null,
+        "stability_status": "NOT COMPUTED (No ambient MP phase diagram entry for chemsys; requires high-pressure DFT relaxation)",
+        "method": "Materials Project Phase Diagram (chemsys query)",
+        "reference_data_version": "MP API v0.88.1",
+        "competing_phases": []
+      },
+      "tc_source": "Tc: NOT COMPUTED (Template values purged; requires ab initio electron-phonon calculation or calibrated model)",
+      "predicted_tc": null,
+      "predicted_tc_uncertainty": null,
+      "pressure_source": "Pressure: NOT COMPUTED (Requires ab initio H(P) enthalpy calculation vs decomposition products)",
+      "predicted_pressure_gpa": null,
+      "qe_input_files": {
+        "pw_in": "data\\dft_inputs\\Lu0_85Sr0_15H10_pw.in",
+        "ph_in": "data\\dft_inputs\\Lu0_85Sr0_15H10_ph.in",
+        "epw_in": "data\\dft_inputs\\Lu0_85Sr0_15H10_epw.in"
+      },
+      "notes": [
+        "Prefilter status: PASS",
+        "Thermodynamic stability: NOT COMPUTED (No ambient MP phase diagram entry for chemsys; requires high-pressure DFT relaxation)",
+        "Method: Materials Project Phase Diagram (chemsys query) (Data version: MP API v0.88.1)"
+      ]
+    },
+    "protocol": {
+      "candidate_id": "CAND_004",
+      "formula": "(Lu0.85Sr0.15)H10",
+      "target_family": "Clathrate hydride",
+      "recommended_synthesis_method": "Laser-heated diamond anvil cell (LH-DAC)",
+      "starting_precursors": [
+        "High-purity (Lu, Sr) metal foil or powder (purity $\\ge 99.99\\%$), stoichiometrically weighed.",
+        "Ammonia borane (NH3BH3) or pure molecular H2 gas loading as clean hydrogen donor.",
+        "Rhenium or tungsten gasket pre-indented to 25-35 $\\mu$m thickness with 100 $\\mu$m sample chamber."
+      ],
+      "synthesis_conditions": {
+        "pressure": "Target megabar GPa (monitored via diamond anvil Raman / ruby fluorescence)",
+        "temperature": "1800 - 2200 K (double-sided pulsed Nd:YAG laser heating at $\\lambda=1064$ nm)",
+        "duration": "10 - 20 minutes laser annealing to induce cage phase nucleation",
+        "atmosphere": "Cryogenic or pressurized hydrogen environment inside sealed DAC"
+      },
+      "characterization_plan": [
+        "In-situ Synchrotron Powder X-ray Diffraction ($\\lambda=0.434$ \u00c5) to confirm Fm-3m (#225) clathrate lattice formation.",
+        "Four-probe electrical resistance using sputtered Pt/Ti microelectrodes deposited on diamond culet.",
+        "Measure resistance transition: verify zero-resistance state and critical transition down to 2 K.",
+        "Magnetic susceptibility / AC susceptibility to confirm Meissner diamagnetic shielding."
+      ],
+      "safety_notes": [
+        "Extreme pressure risk: Diamond anvil culet cleavage during laser pulsing; operate behind blast shielding.",
+        "Pressurized hydrogen embrittlement: Inspect gasket seal integrity prior to heating."
+      ],
+      "template_status": "UNVALIDATED HEURISTIC TEMPLATE (NOT EXPERIMENTALLY CERTIFIED)"
+    }
+  },
+  {
+    "candidate": {
+      "candidate_id": "CAND_005",
+      "formula": "(Sm0.85Sr0.15)H10",
+      "reduced_formula": "Sr0.15Sm0.85H10",
+      "elements": [
+        "H",
+        "Sm",
+        "Sr"
+      ],
+      "stoichiometry": {
+        "Sm": 0.85,
+        "Sr": 0.15,
+        "H": 10.0
+      },
+      "target_family": "Clathrate hydride",
+      "prototype": "LaH10",
+      "space_group": "Fm-3m (#225)",
+      "lattice_system": "Cubic",
+      "tc_status": "NOT COMPUTED",
+      "predicted_tc": null,
+      "predicted_tc_uncertainty": null,
+      "predicted_pressure_gpa": null,
+      "pressure_status": "NOT COMPUTED (Requires ab initio enthalpy calculation)",
+      "gap_origin": "Untried element pair Sm-Sr mapped to clathrate hydride cage",
+      "discovery_score": 40.0
+    },
+    "novelty": {
+      "formula": "(Sm0.85Sr0.15)H10",
+      "reduced_formula": "Sr0.15Sm0.85H10",
+      "chemical_system": "H-Sm-Sr",
+      "elements": [
+        "H",
+        "Sm",
+        "Sr"
+      ],
+      "status": "KNOWN",
+      "status_description": "KNOWN: Established superconductor in literature (e.g., 'Transport and anisotropy in single-crystalline SrFe2As2 and A0.6K0.4Fe2As2 ( A=Sr , Ba) superconductors', 2008)",
+      "sources_searched": [
+        "OpenAlex API",
+        "Materials Project",
+        "Local Superconductivity Corpus",
+        "SuperCon Reference"
+      ],
+      "evidence": [
+        {
+          "source": "OpenAlex API",
+          "title": "Transport and anisotropy in single-crystalline SrFe2As2 and A0.6K0.4Fe2As2 ( A=Sr , Ba) superconductors",
+          "year": 2008,
+          "url_or_id": "https://doi.org/10.1103/physrevb.78.224512",
+          "details": "Match on query: 'superconductor H Sm Sr'"
+        },
+        {
+          "source": "OpenAlex API",
+          "title": "Higgs Mode in Superconductors",
+          "year": 2019,
+          "url_or_id": "https://doi.org/10.1146/annurev-conmatphys-031119-050813",
+          "details": "Match on query: 'superconductor H Sm Sr'"
+        },
+        {
+          "source": "OpenAlex API",
+          "title": "The crystal structure and superconductivity of new superconducting phase TlSr2Ca0.5Sm0.5Cu2O6.75",
+          "year": 1989,
+          "url_or_id": "https://doi.org/10.1016/0038-1098(89)90369-4",
+          "details": "Match on query: 'superconductor H Sm Sr'"
+        },
+        {
+          "source": "OpenAlex API",
+          "title": "Superconducting Energy Gap and c -Axis Plasma Frequency of (Nd,Sm)FeAsO0.82F0.18 Superconductors from Infrared Ellipsometry",
+          "year": 2008,
+          "url_or_id": "https://doi.org/10.1103/physrevlett.101.097011",
+          "details": "Match on query: 'superconductor H Sm Sr'"
+        }
+      ],
+      "searched_at": "2026-11-09T09:43:41.764657+00:00"
+    },
+    "verification": {
+      "candidate_id": "CAND_005",
+      "formula": "(Sm0.85Sr0.15)H10",
+      "prefilter": {
+        "goldschmidt_tolerance": null,
+        "electronegativity_spread": 1.25,
+        "precompression_index": 1.012,
+        "prefilter_status": "PASS"
+      },
+      "stability": {
+        "energy_above_hull_mev": null,
+        "stability_status": "NOT COMPUTED (No ambient MP phase diagram entry for chemsys; requires high-pressure DFT relaxation)",
+        "method": "Materials Project Phase Diagram (chemsys query)",
+        "reference_data_version": "MP API v0.88.1",
+        "competing_phases": []
+      },
+      "tc_source": "Tc: NOT COMPUTED (Template values purged; requires ab initio electron-phonon calculation or calibrated model)",
+      "predicted_tc": null,
+      "predicted_tc_uncertainty": null,
+      "pressure_source": "Pressure: NOT COMPUTED (Requires ab initio H(P) enthalpy calculation vs decomposition products)",
+      "predicted_pressure_gpa": null,
+      "qe_input_files": {
+        "pw_in": "data\\dft_inputs\\Sm0_85Sr0_15H10_pw.in",
+        "ph_in": "data\\dft_inputs\\Sm0_85Sr0_15H10_ph.in",
+        "epw_in": "data\\dft_inputs\\Sm0_85Sr0_15H10_epw.in"
+      },
+      "notes": [
+        "Prefilter status: PASS",
+        "Thermodynamic stability: NOT COMPUTED (No ambient MP phase diagram entry for chemsys; requires high-pressure DFT relaxation)",
+        "Method: Materials Project Phase Diagram (chemsys query) (Data version: MP API v0.88.1)"
+      ]
+    },
+    "protocol": {
+      "candidate_id": "CAND_005",
+      "formula": "(Sm0.85Sr0.15)H10",
+      "target_family": "Clathrate hydride",
+      "recommended_synthesis_method": "Laser-heated diamond anvil cell (LH-DAC)",
+      "starting_precursors": [
+        "High-purity (Sm, Sr) metal foil or powder (purity $\\ge 99.99\\%$), stoichiometrically weighed.",
+        "Ammonia borane (NH3BH3) or pure molecular H2 gas loading as clean hydrogen donor.",
+        "Rhenium or tungsten gasket pre-indented to 25-35 $\\mu$m thickness with 100 $\\mu$m sample chamber."
+      ],
+      "synthesis_conditions": {
+        "pressure": "Target megabar GPa (monitored via diamond anvil Raman / ruby fluorescence)",
+        "temperature": "1800 - 2200 K (double-sided pulsed Nd:YAG laser heating at $\\lambda=1064$ nm)",
+        "duration": "10 - 20 minutes laser annealing to induce cage phase nucleation",
+        "atmosphere": "Cryogenic or pressurized hydrogen environment inside sealed DAC"
+      },
+      "characterization_plan": [
+        "In-situ Synchrotron Powder X-ray Diffraction ($\\lambda=0.434$ \u00c5) to confirm Fm-3m (#225) clathrate lattice formation.",
+        "Four-probe electrical resistance using sputtered Pt/Ti microelectrodes deposited on diamond culet.",
+        "Measure resistance transition: verify zero-resistance state and critical transition down to 2 K.",
+        "Magnetic susceptibility / AC susceptibility to confirm Meissner diamagnetic shielding."
+      ],
+      "safety_notes": [
+        "Extreme pressure risk: Diamond anvil culet cleavage during laser pulsing; operate behind blast shielding.",
+        "Pressurized hydrogen embrittlement: Inspect gasket seal integrity prior to heating."
+      ],
+      "template_status": "UNVALIDATED HEURISTIC TEMPLATE (NOT EXPERIMENTALLY CERTIFIED)"
     }
   }
 ]
