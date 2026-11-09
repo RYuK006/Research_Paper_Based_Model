@@ -162,3 +162,4 @@ class CandidateGenerator:
 
         logger.info(f"Generated {len(candidates)} material candidates from discovery gaps.")
         return candidates
+
