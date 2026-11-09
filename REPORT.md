@@ -22,17 +22,25 @@ Following an audit of the candidate generation and benchmarking pipeline, five c
 
 ### A. Multi-Source Novelty Checker (`candidate_pipeline/novelty.py`)
 - **Sources Searched**:
-  1. **OpenAlex API**: Live queries against the OpenAlex scholarly database using polite User-Agent pool.
-  2. **Materials Project API**: Queries using verified API key (`h8yUPGpRyq8vEc8u5Ks5DH7KcA6YaX6S`) for known synthesized or calculated phases in the chemical system.
+  1. **OpenAlex API**: Live queries against the OpenAlex scholarly database using polite User-Agent pool and rate-limit backoff.
+  2. **Materials Project API**: Queries using verified API key (configured securely via `MP_API_KEY` environment variable or local `.env`) for known synthesized or calculated phases in the chemical system.
   3. **Local Superconductivity Corpus**: Regex token-matching against 1,397 superconductivity papers in `data/papers.db`.
   4. **SuperCon Reference**: Benchmark dataset of hallmark superconducting phases.
-- **Classification Categories**:
-  - `KNOWN`: Formula or dopant system identified in literature as superconducting.
-  - `LIKELY_KNOWN`: Known related phase or chemical system present on phase diagram.
-  - `NO_HITS_FOUND`: Zero matching records across all queried sources (strictly outputs `"no hits found in: <sources searched>"`).
-- **Regression Verification**:
-  - `(La0.85Y0.15)H10` $\rightarrow$ `KNOWN` (OpenAlex hit: Semenok et al., *Materials Today* 2021, DOI: 10.1016/j.mattod.2021.03.025).
-  - $Ba(Fe_{0.9}Co_{0.1})_2As_2$ $\rightarrow$ `KNOWN` (OpenAlex hit: Sefat et al., *Phys. Rev. Lett.* 2008, DOI: 10.1103/PhysRevLett.101.117004).
+- **Evidence Match Type Classification**:
+  - `EXACT_FORMULA`: Matches exact formula, reduced formula, or standard alloy/doping nomenclature.
+  - `FULL_ELEMENT_SYSTEM`: Mentions ALL constituent elements (symbol or full element name) plus superconductivity (and hydride/pressure context for hydrides).
+  - `PARTIAL_SYSTEM`: Matches a subset of constituent elements ($\ge 2$, but not all).
+  - `SINGLE_ELEMENT`: Incidental match on only 1 element.
+- **Classification Invariants**:
+  - `KNOWN`: Produced **only** if evidence contains `EXACT_FORMULA` or `FULL_ELEMENT_SYSTEM` about superconductivity.
+  - `LIKELY_KNOWN`: For close systems present on phase diagrams (`PARTIAL_SYSTEM` in structural databases).
+  - `PARTIAL_SYSTEM` or `SINGLE_ELEMENT` matches **never** produce `KNOWN`.
+  - `NO_HITS_FOUND`: Zero qualifying matches (strictly outputs `"no hits found in: <sources searched>"`).
+- **Negative Control & Regression Verification**:
+  - Negative control: Absurd noble gas hydride `(Ar0.5Kr0.5)H10` $\rightarrow$ `NO_HITS_FOUND` (asserted by unit tests).
+  - Positive regression 1: `(La0.85Y0.15)H10` $\rightarrow$ `KNOWN` (matched Semenok et al., *Materials Today* 2021).
+  - Positive regression 2: $Ba(Fe_{0.9}Co_{0.1})_2As_2$ $\rightarrow$ `KNOWN` (matched Sefat et al., *Phys. Rev. Lett.* 2008).
+  - Correction of false KNOWNs: CAND_001-005 (`Ce/Pr/Gd/Lu/Sm + Sr` hydrides) correctly evaluate to `NO_HITS_FOUND` because incidental single-element matches (e.g. `Sr` in $SrFe_2As_2$ or Bi-2212) are categorized as `SINGLE_ELEMENT` and rejected from producing `KNOWN`.
 
 ### B. Prototype Site-Grounded Candidate Generator (`candidate_pipeline/generator.py`)
 - **Crystallographic Prototype Assignment**:
