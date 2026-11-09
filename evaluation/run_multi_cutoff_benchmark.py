@@ -1,18 +1,27 @@
-"""
-Multi-Cutoff Time-Split Benchmark Runner.
-Executes empirical evaluations across cutoff years 2015, 2018, and 2020.
-Evaluates Model vs Random vs Frequency vs Similarity baselines with 95% bootstrap CIs.
+"""Multi-Cutoff Time-Split Benchmark Runner.
+
+Executes frozen empirical evaluations across cutoff years:
+- Previously unexamined: 2012, 2022
+- Core historical cutoffs: 2015, 2018, 2020
+
+Evaluates Model vs Random vs Frequency vs Similarity baselines with:
+- Top-K hit rates and Wilson 95% CIs
+- Paired bootstrap 95% CIs on Top-K (Model - Frequency)
+- Full-pool ROC AUC and Mean Rank for all 4 baselines
+- Paired bootstrap 95% CIs on Δ(Model - Frequency) ROC AUC
+- Temporal publication rate tracking and loud imbalance warnings
 """
 
 from __future__ import annotations
 
+import argparse
 import json
 from pathlib import Path
 from typing import Any, Dict, List
 
 from evaluation.time_split_evaluator import (
-    TimeSplitEvaluator,
     EvaluationReport,
+    TimeSplitEvaluator,
 )
 
 
@@ -22,7 +31,7 @@ def run_benchmark_for_cutoff(
     k_values: List[int] = [10, 25, 50],
 ) -> EvaluationReport:
     print("\n" + "=" * 80)
-    print(f"RUNNING TIME-SPLIT BENCHMARK: CUTOFF YEAR {cutoff_year}")
+    print(f"RUNNING FROZEN TIME-SPLIT BENCHMARK: CUTOFF YEAR {cutoff_year}")
     print("=" * 80)
 
     evaluator = TimeSplitEvaluator(
@@ -43,12 +52,16 @@ def run_benchmark_for_cutoff(
         evaluator.generate_markdown_report(report, output_path="TIME_SPLIT_EVALUATION.md")
 
     print(f"Cutoff Year:        {report.cutoff_year}")
-    print(f"Pre-Cutoff Corpus:  {report.pre_cutoff_papers:,} papers")
-    print(f"Post-Cutoff Corpus: {report.post_cutoff_papers:,} papers")
+    print(f"Pre-Cutoff Corpus:  {report.pre_cutoff_papers:,} papers ({report.pre_rate_per_year:.1f} papers/yr)")
+    print(f"Post-Cutoff Corpus: {report.post_cutoff_papers:,} papers ({report.post_rate_per_year:.1f} papers/yr)")
+    print(f"Rate Ratio:         {report.temporal_rate_ratio:.2f}x ({'⚠️ IMBALANCE > 2x' if report.temporal_imbalance_warning else 'NORMAL'})")
     print(f"Untried Pool Size:  {report.pool_size:,} candidate element pairs")
     print(f"Metric Validity:    {'PASSED (<20% random)' if report.random_baseline_valid else 'FAILED (>20% random)'}")
-    print(f"Mean Rank:          {report.mean_rank:.1f}")
-    print(f"ROC AUC:            {report.roc_auc:.4f}")
+    print(f"Model AUC:          {report.auc_model:.4f} (Mean Rank: {report.mean_rank_model:.1f})")
+    print(f"Freq  AUC:          {report.auc_frequency:.4f} (Mean Rank: {report.mean_rank_frequency:.1f})")
+    print(f"Sim   AUC:          {report.auc_similarity:.4f} (Mean Rank: {report.mean_rank_similarity:.1f})")
+    print(f"Rand  AUC:          {report.auc_random:.4f} (Mean Rank: {report.mean_rank_random:.1f})")
+    print(f"ΔAUC (M - F) 95% CI: [{report.paired_auc_diff_ci_95[0]:+.4f}, {report.paired_auc_diff_ci_95[1]:+.4f}]")
     print(f"Bootstrap Trials:   {report.bootstrap_iterations:,}")
     print("-" * 80)
 
@@ -91,20 +104,43 @@ def run_benchmark_for_cutoff(
 
 
 def main() -> None:
-    cutoff_years = [2015, 2018, 2020]
-    summary = {}
+    parser = argparse.ArgumentParser(description="Run multi-cutoff time-split benchmark")
+    parser.add_argument(
+        "--cutoffs",
+        nargs="+",
+        type=int,
+        default=[2012, 2015, 2018, 2020, 2022],
+        help="List of cutoff years to evaluate"
+    )
+    parser.add_argument("--db-path", default="data/papers.db", help="Path to papers.db")
+    args = parser.parse_args()
 
-    for cutoff in cutoff_years:
-        rep = run_benchmark_for_cutoff(cutoff_year=cutoff)
+    summary: Dict[int, Any] = {}
+
+    for cutoff in args.cutoffs:
+        rep = run_benchmark_for_cutoff(cutoff_year=cutoff, db_path=args.db_path)
         summary[cutoff] = {
             "pre_cutoff": rep.pre_cutoff_papers,
             "post_cutoff": rep.post_cutoff_papers,
+            "pre_rate_per_year": rep.pre_rate_per_year,
+            "post_rate_per_year": rep.post_rate_per_year,
+            "temporal_rate_ratio": rep.temporal_rate_ratio,
+            "temporal_imbalance_warning": rep.temporal_imbalance_warning,
             "pool_size": rep.pool_size,
             "random_baseline_valid": rep.random_baseline_valid,
-            "mean_rank": rep.mean_rank,
-            "roc_auc": rep.roc_auc,
+            "mean_rank": rep.mean_rank_model,
+            "roc_auc": rep.auc_model,
+            "auc_model": rep.auc_model,
+            "auc_frequency": rep.auc_frequency,
+            "auc_similarity": rep.auc_similarity,
+            "auc_random": rep.auc_random,
+            "mean_rank_model": rep.mean_rank_model,
+            "mean_rank_frequency": rep.mean_rank_frequency,
+            "mean_rank_similarity": rep.mean_rank_similarity,
+            "mean_rank_random": rep.mean_rank_random,
+            "paired_auc_diff_ci_95": rep.paired_auc_diff_ci_95,
             "comparisons": [c.to_dict() for c in rep.comparisons_by_k],
-            "discoveries_count": len(rep.verified_discoveries),
+            "discoveries_count": len(report_discoveries := rep.verified_discoveries),
         }
 
     # Save aggregated summary
@@ -120,4 +156,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-
