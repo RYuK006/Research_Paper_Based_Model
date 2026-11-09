@@ -190,6 +190,37 @@ table_count: 5
 ---
 ```
 
+### 6. Layer 3: Ultra-High Parameter (70B / 405B) AirLLM Fine-Tuning & Colab Notebook
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RYuK006/Research_Paper_Based_Model/blob/main/notebooks/AirLLM_Research_Paper_FineTuning.ipynb)
+
+Fine-tuning in the 3-Layer literature integration system teaches scientific vocabulary, behavior, and hypothesis proposal rather than memorizing static facts. Using **AirLLM's layer-streaming architecture**, models with the highest parameter counts in existence can be trained on a single consumer GPU (like a free Google Colab T4 16GB or L4 24GB):
+
+| Model Name | Parameters | Standard VRAM Needed | AirLLM VRAM Footprint | Colab Tier Compatibility |
+| :--- | :---: | :---: | :---: | :---: |
+| **Meta-Llama-3.3-70B-Instruct** *(Recommended)* | **70 Billion** | 140+ GB (Multi-A100) | **< 4 GB VRAM** | Free T4 (16GB), L4, A100 |
+| **Meta-Llama-3.1-70B-Instruct** | **70 Billion** | 140+ GB | **< 4 GB VRAM** | Free T4, L4, A100 |
+| **Qwen2.5-72B-Instruct** | **72 Billion** | 144+ GB | **< 4 GB VRAM** | Free T4, L4, A100 |
+| **Meta-Llama-3.1-405B-Instruct-bnb-4bit** | **405 Billion** | 800+ GB (8x A100/H100) | **< 8 GB VRAM** | Colab Pro (High Disk / Drive) |
+
+#### Time-Split Discovery Evaluation
+To prove whether the model genuinely generates novel scientific ideas rather than memorizing data:
+- **Training Set (Pre-2021)**: 9,115 historical papers up to cutoff year 2021.
+- **Evaluation Set (Post-2021)**: 885 modern papers (2022–2026) containing verified subsequent discoveries.
+- The model is prompted with pre-2021 experimental background and asked: *"What follow-up experiment or chemical substitution would you propose next?"* Its proposal is scored against actual post-2021 discoveries.
+
+#### Build Dataset & Run Training Locally / Headless:
+```powershell
+# 1. Build time-split instruction datasets (Alpaca & ChatML formats)
+python -m training.dataset_builder --cutoff-year 2021
+
+# 2. Run AirLLM training on 70B model with LoRA
+python -m training.train_airllm --model-id meta-llama/Llama-3.3-70B-Instruct --epochs 1 --max-train-samples 500
+
+# 3. Open the interactive Colab Notebook
+# notebooks/AirLLM_Research_Paper_FineTuning.ipynb
+```
+
 ---
 
 ## 🧪 Testing
