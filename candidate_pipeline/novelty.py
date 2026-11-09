@@ -24,7 +24,7 @@ from pathlib import Path
 from typing import Any, Dict, List, Optional, Set, Tuple
 
 import httpx
-from pymatgen.core import Composition
+from pymatgen.core import Composition, Element
 
 logger = logging.getLogger("novelty_checker")
 
@@ -59,25 +59,7 @@ class MatchType(str, Enum):
 
 
 # Mapping of element symbols to common names for robust literature search
-ELEMENT_NAMES = {
-    "H": "hydrogen", "He": "helium", "Li": "lithium", "Be": "beryllium", "B": "boron",
-    "C": "carbon", "N": "nitrogen", "O": "oxygen", "F": "fluorine", "Ne": "neon",
-    "Na": "sodium", "Mg": "magnesium", "Al": "aluminum", "Si": "silicon", "P": "phosphorus",
-    "S": "sulfur", "Cl": "chlorine", "Ar": "argon", "K": "potassium", "Ca": "calcium",
-    "Sc": "scandium", "Ti": "titanium", "V": "vanadium", "Cr": "chromium", "Mn": "manganese",
-    "Fe": "iron", "Co": "cobalt", "Ni": "nickel", "Cu": "copper", "Zn": "zinc",
-    "Ga": "gallium", "Ge": "germanium", "As": "arsenic", "Se": "selenium", "Br": "bromine",
-    "Kr": "krypton", "Rb": "rubidium", "Sr": "strontium", "Y": "yttrium", "Zr": "zirconium",
-    "Nb": "niobium", "Mo": "molybdenum", "Tc": "technetium", "Ru": "ruthenium", "Rh": "rhodium",
-    "Pd": "palladium", "Ag": "silver", "Cd": "cadmium", "In": "indium", "Sn": "tin",
-    "Sb": "antimony", "Te": "tellurium", "I": "iodine", "Xe": "xenon", "Cs": "cesium",
-    "Ba": "barium", "La": "lanthanum", "Ce": "cerium", "Pr": "praseodymium", "Nd": "neodymium",
-    "Pm": "promethium", "Sm": "samarium", "Eu": "europium", "Gd": "gadolinium", "Tb": "terbium",
-    "Dy": "dysprosium", "Ho": "holmium", "Er": "erbium", "Tm": "thulium", "Yb": "ytterbium",
-    "Lu": "lutetium", "Hf": "hafnium", "Ta": "tantalum", "W": "tungsten", "Re": "rhenium",
-    "Os": "osmium", "Ir": "iridium", "Pt": "platinum", "Au": "gold", "Hg": "mercury",
-    "Tl": "thallium", "Pb": "lead", "Bi": "bismuth", "Th": "thorium", "U": "uranium",
-}
+ELEMENT_NAMES = {el.symbol: el.name.lower() for el in Element}
 
 
 @dataclass
@@ -234,8 +216,34 @@ class NoveltyChecker:
             return MatchType.EXACT_FORMULA.value, is_superconductivity
 
         # 3. Constituent Elements Check
+        # Identify mutually exclusive substitution clauses like (M=Ne, Ar, Kr, Xe, Rn)
+        # In materials science literature, (M = A, B, C) denotes separate single-element substitutions, NOT co-doped compounds.
+        alt_groups: List[Set[str]] = []
+        for m in re.finditer(r"\([A-Za-z]{1,2}\s*=\s*([^)]+)\)", raw_text):
+            group = set()
+            for part in m.group(1).split(","):
+                token = part.strip().split()[0] if part.strip() else ""
+                token_clean = re.sub(r"[^A-Za-z]", "", token)
+                if token_clean in ELEMENT_NAMES:
+                    group.add(token_clean)
+            if len(group) > 1:
+                alt_groups.append(group)
+
+        text_without_alts = re.sub(r"\([A-Za-z]{1,2}\s*=\s*[^)]+\)", " ", raw_text)
+        excluded_alt_elements: Set[str] = set()
+        for grp in alt_groups:
+            cand_elems_in_grp = [
+                e for e in elements
+                if e in grp and not re.search(rf"\b{re.escape(e)}\b", text_without_alts)
+            ]
+            if len(cand_elems_in_grp) > 1:
+                for ex in cand_elems_in_grp[1:]:
+                    excluded_alt_elements.add(ex)
+
         matched_elements: Set[str] = set()
         for e in elements:
+            if e in excluded_alt_elements:
+                continue
             ename = ELEMENT_NAMES.get(e, "").lower()
             # Full element name check
             if ename and re.search(rf"\b{re.escape(ename)}\b", text_lower):
