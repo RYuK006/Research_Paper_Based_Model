@@ -159,9 +159,11 @@ try:
 except Exception:
     pass
 
-# Select Model: Qwen/Qwen2.5-72B-Instruct is 100% ungated (no token required!)
-# Set to 'meta-llama/Llama-3.3-70B-Instruct' if you have an active HF token.
-MODEL_ID = "Qwen/Qwen2.5-72B-Instruct"  # 72 Billion parameters, ungated, SOTA in STEM
+# Select Model:
+# Option A (Recommended): "unsloth/Qwen2.5-72B-Instruct-bnb-4bit" (72B, 4-bit pre-quantized, ~42GB download, 100% fits in Colab disk!)
+# Option B: "Qwen/Qwen2.5-32B-Instruct" (32B parameters, super-fast, fits in 18GB!)
+# Option C: "meta-llama/Llama-3.3-70B-Instruct" (70B, requires HF_TOKEN)
+MODEL_ID = "unsloth/Qwen2.5-72B-Instruct-bnb-4bit"  # 72 Billion parameters, 4-bit pre-quantized for Colab disk compatibility!
 
 MAX_SEQ_LEN = 512
 LORA_R = 16
@@ -203,23 +205,26 @@ except Exception as e:
     else:
         print(f"Notice: {e}")
 
-# AirLLM Layer-Streaming Initialization
+# AirLLM Layer-Streaming Initialization with disk space preservation
 try:
     from airllm import AutoModel
     print(f"Initializing AirLLM layer-streaming for {MODEL_ID}...")
     model = AutoModel.from_pretrained(
         MODEL_ID,
+        compression="4bit",     # 4-bit block-wise compression
+        delete_original=True,   # Deletes raw downloaded shards immediately to prevent disk overflow!
         profiling_mode=False,
     )
     print(f"✅ AirLLM AutoModel initialized successfully for {MODEL_ID}.")
 except Exception as e:
     err_str = str(e)
-    if "401" in err_str or "gated" in err_str.lower():
-        print(f"⚠️ Gated access notice. Switching to ungated Qwen/Qwen2.5-72B-Instruct...")
-        MODEL_ID = "Qwen/Qwen2.5-72B-Instruct"
+    print(f"AirLLM notice: {err_str[:120]}")
+    if "No space left" in err_str or "os error 28" in err_str or "401" in err_str:
+        print("🔄 Falling back to ultra-compact high-reasoning model: Qwen/Qwen2.5-32B-Instruct...")
+        MODEL_ID = "Qwen/Qwen2.5-32B-Instruct"
         from airllm import AutoModel
-        model = AutoModel.from_pretrained(MODEL_ID, profiling_mode=False)
-        print("✅ Initialized AirLLM with Qwen2.5-72B successfully.")
+        model = AutoModel.from_pretrained(MODEL_ID, compression="4bit", delete_original=True, profiling_mode=False)
+        print(f"✅ Initialized AirLLM with {MODEL_ID} successfully.")
     else:
         print(f"AirLLM environment notice: {e}")
 
