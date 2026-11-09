@@ -28,9 +28,12 @@ STOPWORD_ELEMENTS: Set[str] = {
 # Standalone acronyms and instrument names common in materials science
 COMMON_ACRONYMS: Set[str] = {
     "FIB", "XRD", "BCS", "DFT", "NMR", "TEM", "SEM", "STM", "AFM", "EDS",
-    "EDX", "XPS", "SQUID", "PPMS", "ARPES", "DOS", "MIT", "SOC", "QCP",
-    "CDW", "SDW", "AFM", "FM", "PM", "HF", "LF", "RF", "DC", "AC", "RMS",
+    "EDX", "XPS", "SQUID", "PPMS", "MPMS", "ARPES", "DOS", "MIT", "SOC", "QCP",
+    "CDW", "SDW", "AFM", "FM", "PM", "HF", "LF", "RF", "DC", "AC", "RMS", "CW",
     "FWHM", "STEM", "EELS", "UPS", "XANES", "EXAFS", "PES", "LEED", "RHEED",
+    "SRF", "TDGL", "GL", "MBE", "PLD", "CVD", "MOCVD", "ALD", "RIXS", "XAS",
+    "INS", "TAS", "TOF", "VNA", "MW", "LDOS", "TI", "WSM", "DSM", "TMD",
+    "2DEG", "2DHG", "SC", "HTS", "YBCO", "BSCCO", "NCCO", "BKBO", "B-T", "H-T",
     "USA", "THE", "AND", "FOR", "NOT", "ALL", "NEW", "ONE", "TWO", "CAN",
     "MAY", "HAD", "HAS", "WAS", "SEE", "FIG", "REF", "SEC", "MIN", "MAX"
 }
@@ -77,7 +80,7 @@ def normalize_formula_for_pymatgen(raw_token: str) -> str:
     Correctly identifies element boundaries (including 2-letter symbols like Dy, Er, Ca, Fe)
     so stoichiometric variables x, y, z are not confused with Dysprosium or other elements.
     """
-    tok = raw_token.strip(".,;:?!'\"~()[]{}")
+    tok = raw_token.strip(".,;:?!'\"~")
 
     # 1. Handle (1-x) or (2-x) expressions
     tok = re.sub(r"1\s*[\-\–]\s*[xyz]", "0.5", tok)
@@ -107,9 +110,11 @@ def normalize_formula_for_pymatgen(raw_token: str) -> str:
             if i < n and tok[i] in "xyz" and (i + 1 == n or not tok[i + 1].islower()):
                 res.append("0.5")
                 i += 1
+            # Or if immediately followed by a comma or slash in solid solution shorthand e.g. (Ca,Sr)
+            elif i < n and tok[i] in ",/":
+                res.append("0.5")
+                i += 1
         elif tok[i] in ",/":
-            # Solid solution shorthand: e.g. (Ca,Sr)
-            res.append(" ")
             i += 1
         else:
             res.append(tok[i])
@@ -142,15 +147,21 @@ def extract_compounds_and_elements(text: str) -> List[Dict[str, Any]]:
         if raw_tok.islower():
             continue
 
+        # English words or word stems have 3 or more consecutive lowercase letters (e.g. "Radio", "Frequency")
+        if re.search(r"[a-z]{3,}", raw_tok):
+            continue
+
+        stripped_tok = raw_tok.strip("()[]{}")
+
         # Skip common uppercase acronyms without digits
-        if raw_tok.isupper() and not any(c.isdigit() for c in raw_tok):
-            if raw_tok in COMMON_ACRONYMS:
+        if stripped_tok.isupper() and not any(c.isdigit() for c in stripped_tok):
+            if stripped_tok in COMMON_ACRONYMS or raw_tok in COMMON_ACRONYMS:
                 continue
-            if len(raw_tok) <= 3 and raw_tok in STOPWORD_ELEMENTS:
+            if len(stripped_tok) <= 3 and stripped_tok in STOPWORD_ELEMENTS:
                 continue
 
         # Skip single English words colliding with element symbols
-        if raw_tok in STOPWORD_ELEMENTS:
+        if raw_tok in STOPWORD_ELEMENTS or stripped_tok in STOPWORD_ELEMENTS:
             continue
 
         # Reject tokens containing masked non-chemical placeholders
@@ -188,14 +199,15 @@ def extract_compounds_and_elements(text: str) -> List[Dict[str, Any]]:
 
         try:
             comp = Composition(norm_formula)
+            # If pymatgen created any DummySpecies (e.g. R, X, radical/ligand placeholders), reject token
+            if any(not isinstance(el, Element) for el in comp.elements):
+                continue
             for el in comp.elements:
                 if el.Z <= 94:
                     parsed_elements.add(str(el))
         except Exception:
-            # Fallback: if pymatgen cannot parse parentheses or complex solid solutions,
-            # accept if it has at least 2 distinct valid elements or 1 valid element with digits
-            if len(unique_symbols) >= 2 or (len(unique_symbols) == 1 and has_digits):
-                parsed_elements = unique_symbols
+            # Strictly require pymatgen validation. If pymatgen fails to parse, reject token.
+            pass
 
         if parsed_elements and raw_tok not in seen_formulas:
             seen_formulas.add(raw_tok)
