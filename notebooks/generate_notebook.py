@@ -205,13 +205,19 @@ except Exception as e:
     else:
         print(f"Notice: {e}")
 
-# AirLLM Layer-Streaming Initialization with disk space preservation
+# AirLLM Layer-Streaming Initialization with smart quantization detection
 try:
     from airllm import AutoModel
     print(f"Initializing AirLLM layer-streaming for {MODEL_ID}...")
+
+    # If the model is already 4-bit quantized (like bnb-4bit), do not re-quantize (compression=None).
+    # If the model is float16/bfloat16, apply blockwise 4-bit compression.
+    is_pre_quantized = any(q in MODEL_ID.lower() for q in ["4bit", "bnb", "awq", "gptq"])
+    compression_setting = None if is_pre_quantized else "4bit"
+
     model = AutoModel.from_pretrained(
         MODEL_ID,
-        compression="4bit",     # 4-bit block-wise compression
+        compression=compression_setting,
         delete_original=True,   # Deletes raw downloaded shards immediately to prevent disk overflow!
         profiling_mode=False,
     )
@@ -219,7 +225,7 @@ try:
 except Exception as e:
     err_str = str(e)
     print(f"AirLLM notice: {err_str[:120]}")
-    if "No space left" in err_str or "os error 28" in err_str or "401" in err_str:
+    if "No space left" in err_str or "os error 28" in err_str or "401" in err_str or "uint8" in err_str:
         print("🔄 Falling back to ultra-compact high-reasoning model: Qwen/Qwen2.5-32B-Instruct...")
         MODEL_ID = "Qwen/Qwen2.5-32B-Instruct"
         from airllm import AutoModel
