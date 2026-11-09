@@ -139,7 +139,8 @@ class NoveltyChecker:
         for q in queries:
             try:
                 url = f"https://api.openalex.org/works?search={httpx.URL(q)}&per-page=5"
-                r = httpx.get(url, timeout=self.timeout)
+                headers = {"User-Agent": "ModelSuperconductor/1.0 (mailto:research@materials.org)"}
+                r = httpx.get(url, headers=headers, timeout=self.timeout)
                 if r.status_code == 200:
                     data = r.json()
                     results = data.get("results", [])
