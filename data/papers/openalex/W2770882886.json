@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2770882886",
+  "title": "PackNet: Adding Multiple Tasks to a Single Network by Iterative Pruning",
+  "abstract": "This paper presents a method for adding multiple tasks to a single deep neural network while avoiding catastrophic forgetting. Inspired by network pruning techniques, we exploit redundancies in large deep networks to free up parameters that can then be employed to learn new tasks. By performing iterative pruning and network re-training, we are able to sequentially \"pack\" multiple tasks into a single network while ensuring minimal drop in performance and minimal storage overhead. Unlike prior work that uses proxy losses to maintain accuracy on older tasks, we always optimize for the task at hand. We perform extensive experiments on a variety of network architectures and large-scale datasets, and observe much better robustness against catastrophic forgetting than prior work. In particular, we are able to add three fine-grained classification tasks to a single ImageNet-trained VGG-16 network and achieve accuracies close to those of separately trained networks for each task.",
+  "authors": [
+    "Arun Mallya",
+    "Svetlana Lazebnik"
+  ],
+  "year": 2018,
+  "doi": "10.1109/cvpr.2018.00810",
+  "source": "openalex",
+  "categories": [
+    "Computer science",
+    "Forgetting",
+    "Exploit",
+    "Robustness (evolution)",
+    "Artificial intelligence",
+    "Machine learning",
+    "Pruning",
+    "Artificial neural network",
+    "Deep neural networks",
+    "Task (project management)",
+    "Network architecture",
+    "Computer network",
+    "Management",
+    "Economics",
+    "Linguistics",
+    "Computer security",
+    "Philosophy",
+    "Biology",
+    "Chemistry",
+    "Gene",
+    "Biochemistry",
+    "Agronomy"
+  ],
+  "citation_count": 1350,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1711.05769",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2770882886.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:55.184032+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2770882886",
+    "concepts": [
+      "Computer science",
+      "Forgetting",
+      "Exploit",
+      "Robustness (evolution)",
+      "Artificial intelligence"
+    ],
+    "oa_status": "green"
+  }
+}

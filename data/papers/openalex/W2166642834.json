@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2166642834",
+  "title": "Quantitative real-time RT-PCR – a perspective",
+  "abstract": "The real-time reverse transcription polymerase chain reaction (RT-PCR) uses fluorescent reporter molecules to monitor the production of amplification products during each cycle of the PCR reaction. This combines the nucleic acid amplification and detection steps into one homogeneous assay and obviates the need for gel electrophoresis to detect amplification products. Use of appropriate chemistries and data analysis eliminates the need for Southern blotting or DNA sequencing for amplicon identification. Its simplicity, specificity and sensitivity, together with its potential for high throughput and the ongoing introduction of new chemistries, more reliable instrumentation and improved protocols, has made real-time RT-PCR the benchmark technology for the detection and/or comparison of RNA levels.",
+  "authors": [
+    "Stephen Andrew Bustin",
+    "Vladimı́r Beneš",
+    "Tania Nolan",
+    "Michael Walter Pfaffl"
+  ],
+  "year": 2005,
+  "doi": "10.1677/jme.1.01755",
+  "source": "openalex",
+  "categories": [
+    "Amplicon",
+    "Real-time polymerase chain reaction",
+    "Multiple displacement amplification",
+    "Computational biology",
+    "Polymerase chain reaction",
+    "Reverse transcription polymerase chain reaction",
+    "Molecular biology",
+    "Molecular beacon",
+    "Digital polymerase chain reaction",
+    "Nucleic acid",
+    "Chemistry",
+    "DNA",
+    "Biology",
+    "Computer science",
+    "Oligonucleotide",
+    "DNA extraction",
+    "Biochemistry",
+    "Gene",
+    "Messenger RNA"
+  ],
+  "citation_count": 1354,
+  "open_access_pdf_url": "https://jme.bioscientifica.com/downloadpdf/journals/jme/34/3/0340597.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2166642834.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:55.150506+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2166642834",
+    "concepts": [
+      "Amplicon",
+      "Real-time polymerase chain reaction",
+      "Multiple displacement amplification",
+      "Computational biology",
+      "Polymerase chain reaction"
+    ],
+    "oa_status": "bronze"
+  }
+}

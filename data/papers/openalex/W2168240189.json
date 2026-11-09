@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W2168240189",
+  "title": "H++ 3.0: automating pK prediction and the preparation of biomolecular structures for atomistic molecular modeling and simulations",
+  "abstract": "The accuracy of atomistic biomolecular modeling and simulation studies depend on the accuracy of the input structures. Preparing these structures for an atomistic modeling task, such as molecular dynamics (MD) simulation, can involve the use of a variety of different tools for: correcting errors, adding missing atoms, filling valences with hydrogens, predicting pK values for titratable amino acids, assigning predefined partial charges and radii to all atoms, and generating force field parameter/topology files for MD. Identifying, installing and effectively using the appropriate tools for each of these tasks can be difficult for novice and time-consuming for experienced users. H++ (http://biophysics.cs.vt.edu/) is a free open-source web server that automates the above key steps in the preparation of biomolecular structures for molecular modeling and simulations. H++ also performs extensive error and consistency checking, providing error/warning messages together with the suggested corrections. In addition to numerous minor improvements, the latest version of H++ includes several new capabilities and options: fix erroneous (flipped) side chain conformations for HIS, GLN and ASN, include a ligand in the input structure, process nucleic acid structures and generate a solvent box with specified number of common ions for explicit solvent MD.",
+  "authors": [
+    "Ramu Anandakrishnan",
+    "Boris H. Aguilar",
+    "Alexey V. Onufriev"
+  ],
+  "year": 2012,
+  "doi": "10.1093/nar/gks375",
+  "source": "openalex",
+  "categories": [
+    "Molecular dynamics",
+    "Consistency (knowledge bases)",
+    "Computer science",
+    "Force field (fiction)",
+    "Process (computing)",
+    "Template",
+    "Biological system",
+    "Algorithm",
+    "Computational science",
+    "Bioinformatics",
+    "Computational chemistry",
+    "Biology",
+    "Artificial intelligence",
+    "Chemistry",
+    "Programming language"
+  ],
+  "citation_count": 1897,
+  "open_access_pdf_url": "https://academic.oup.com/nar/article-pdf/40/W1/W537/4908367/gks375.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2168240189.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:22.160794+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2168240189",
+    "concepts": [
+      "Molecular dynamics",
+      "Consistency (knowledge bases)",
+      "Computer science",
+      "Force field (fiction)",
+      "Process (computing)"
+    ],
+    "oa_status": "gold"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2964137095",
+  "title": "Wide Residual Networks",
+  "abstract": "Deep residual networks were shown to be able to scale up to thousands of layers and still have improving performance. However, each fraction of a percent of improved accuracy costs nearly doubling the number of layers, and so training very deep residual networks has a problem of diminishing feature reuse, which makes these networks very slow to train. To tackle these problems, in this paper we conduct a detailed experimental study on the architecture of ResNet blocks, based on which we propose a novel architecture where we decrease depth and increase width of residual networks. We call the resulting network structures wide residual networks (WRNs) and show that these are far superior over their commonly used thin and very deep counterparts. For example, we demonstrate that even a simple 16-layer-deep wide residual network outperforms in accuracy and efficiency all previous deep residual networks, including thousand-layer-deep networks, achieving new state-of-the-art results on CIFAR, SVHN, COCO, and significant improvements on ImageNet. Our code and models are available at https://github.com/szagoruyko/wide-residual-networks",
+  "authors": [
+    "Sergey Zagoruyko",
+    "Nikos Komodakis"
+  ],
+  "year": 2016,
+  "doi": "10.5244/c.30.87",
+  "source": "openalex",
+  "categories": [
+    "Residual",
+    "Computer science",
+    "Residual neural network",
+    "Deep learning",
+    "Reuse",
+    "Artificial intelligence",
+    "Feature (linguistics)",
+    "Layer (electronics)",
+    "Network architecture",
+    "Architecture",
+    "Machine learning",
+    "Algorithm",
+    "Computer network",
+    "Engineering",
+    "Waste management",
+    "Visual arts",
+    "Philosophy",
+    "Chemistry",
+    "Organic chemistry",
+    "Linguistics",
+    "Art"
+  ],
+  "citation_count": 8900,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1605.07146",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2964137095.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:49.894260+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2964137095",
+    "concepts": [
+      "Residual",
+      "Computer science",
+      "Residual neural network",
+      "Deep learning",
+      "Reuse"
+    ],
+    "oa_status": "green"
+  }
+}

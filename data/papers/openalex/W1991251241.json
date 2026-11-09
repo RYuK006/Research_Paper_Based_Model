@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W1991251241",
+  "title": "Defense gene induction in tobacco by nitric oxide, cyclic GMP, and cyclic ADP-ribose",
+  "abstract": "Reactive oxygen species are believed to perform multiple roles during plant defense responses to microbial attack, acting in the initial defense and possibly as cellular signaling molecules. In animals, nitric oxide (NO) is an important redox-active signaling molecule. Here we show that infection of resistant, but not susceptible, tobacco with tobacco mosaic virus resulted in enhanced NO synthase (NOS) activity. Furthermore, administration of NO donors or recombinant mammalian NOS to tobacco plants or tobacco suspension cells triggered expression of the defense-related genes encoding pathogenesis-related 1 protein and phenylalanine ammonia lyase (PAL). These genes were also induced by cyclic GMP (cGMP) and cyclic ADP-ribose, two molecules that can serve as second messengers for NO signaling in mammals. Consistent with cGMP acting as a second messenger in tobacco, NO treatment induced dramatic and transient increases in endogenous cGMP levels. Furthermore, NO-induced activation of PAL was blocked by 6-anilino-5,8-quinolinedione and 1H-(1,2,4)-oxadiazole[4,3-a]quinoxalin-1-one, two inhibitors of guanylate cyclase. Although 6-anilino-5,8-quinolinedione fully blocked PAL activation, inhibition by 1H-(1,2,4)-oxadiazole[4, 3-a]quinoxalin-1-one was not entirely complete, suggesting the existence of cGMP-independent, as well as cGMP-dependent, NO signaling. We conclude that several critical players of animal NO signaling are also operative in plants.",
+  "authors": [
+    "Jörg Durner",
+    "David Wendehenne",
+    "Daniel F. Klessig"
+  ],
+  "year": 1998,
+  "doi": "10.1073/pnas.95.17.10328",
+  "source": "openalex",
+  "categories": [
+    "Cyclic ADP-ribose",
+    "Second messenger system",
+    "Nitric oxide",
+    "Tobacco mosaic virus",
+    "Cell signaling",
+    "Signal transduction",
+    "Nitric oxide synthase",
+    "Biochemistry",
+    "Cell biology",
+    "Soluble guanylyl cyclase",
+    "Biology",
+    "Chemistry",
+    "Enzyme",
+    "Genetics",
+    "Virus",
+    "Cyclic gmp",
+    "Stem cell",
+    "CD34",
+    "Endocrinology",
+    "CD38"
+  ],
+  "citation_count": 1340,
+  "open_access_pdf_url": "https://pnas.org/doi/full/10.1073/pnas.95.17.10328",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1991251241.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:55.276224+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1991251241",
+    "concepts": [
+      "Cyclic ADP-ribose",
+      "Second messenger system",
+      "Nitric oxide",
+      "Tobacco mosaic virus",
+      "Cell signaling"
+    ],
+    "oa_status": "bronze"
+  }
+}

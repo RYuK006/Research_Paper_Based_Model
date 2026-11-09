@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2158043072",
+  "title": "Chemical accuracy for the van der Waals density functional",
+  "abstract": "The non-local van der Waals density functional (vdW-DF) of Dion et al (2004 Phys. Rev. Lett. 92 246401) is a very promising scheme for the efficient treatment of dispersion bonded systems. We show here that the accuracy of vdW-DF can be dramatically improved both for dispersion and hydrogen bonded complexes through the judicious selection of its underlying exchange functional. New and published exchange functionals are identified that deliver much better than chemical accuracy from vdW-DF for the S22 benchmark set of weakly interacting dimers and for water clusters. Improved performance for the adsorption of water on salt is also obtained.",
+  "authors": [
+    "Jiří Klimeš",
+    "David R. Bowler",
+    "Angelos Michaelides"
+  ],
+  "year": 2009,
+  "doi": "10.1088/0953-8984/22/2/022201",
+  "source": "openalex",
+  "categories": [
+    "van der Waals force",
+    "London dispersion force",
+    "Density functional theory",
+    "Dispersion (optics)",
+    "Chemical physics",
+    "Adsorption",
+    "Van der Waals surface",
+    "Benchmark (surveying)",
+    "Molecule",
+    "Van der Waals strain",
+    "Physics",
+    "Materials science",
+    "Computational chemistry",
+    "Statistical physics",
+    "Chemistry",
+    "Van der Waals radius",
+    "Physical chemistry",
+    "Quantum mechanics",
+    "Geography",
+    "Geodesy"
+  ],
+  "citation_count": 3621,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1088/0953-8984/22/2/022201/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2158043072.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:57.658570+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2158043072",
+    "concepts": [
+      "van der Waals force",
+      "London dispersion force",
+      "Density functional theory",
+      "Dispersion (optics)",
+      "Chemical physics"
+    ],
+    "oa_status": "bronze"
+  }
+}

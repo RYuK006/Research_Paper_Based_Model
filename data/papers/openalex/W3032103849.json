@@ -1,0 +1,41 @@
+{
+  "id": "openalex:W3032103849",
+  "title": "The Effects of Cadmium Toxicity",
+  "abstract": "Cadmium (Cd) is a toxic non-essential transition metal that poses a health risk for both humans and animals. It is naturally occurring in the environment as a pollutant that is derived from agricultural and industrial sources. Exposure to cadmium primarily occurs through the ingestion of contaminated food and water and, to a significant extent, through inhalation and cigarette smoking. Cadmium accumulates in plants and animals with a long half-life of about 25–30 years. Epidemiological data suggest that occupational and environmental cadmium exposure may be related to various types of cancer, including breast, lung, prostate, nasopharynx, pancreas, and kidney cancers. It has been also demonstrated that environmental cadmium may be a risk factor for osteoporosis. The liver and kidneys are extremely sensitive to cadmium’s toxic effects. This may be due to the ability of these tissues to synthesize metallothioneins (MT), which are Cd-inducible proteins that protect the cell by tightly binding the toxic cadmium ions. The oxidative stress induced by this xenobiotic may be one of the mechanisms responsible for several liver and kidney diseases. Mitochondria damage is highly plausible given that these organelles play a crucial role in the formation of ROS (reactive oxygen species) and are known to be among the key intracellular targets for cadmium. When mitochondria become dysfunctional after exposure to Cd, they produce less energy (ATP) and more ROS. Recent studies show that cadmium induces various epigenetic changes in mammalian cells, both in vivo and in vitro, causing pathogenic risks and the development of various types of cancers. The epigenetics present themselves as chemical modifications of DNA and histones that alter the chromatin without changing the sequence of the DNA nucleotide. DNA methyltransferase, histone acetyltransferase, histone deacetylase and histone methyltransferase, and micro RNA are involved in the epigenetic changes. Recently, investigations of the capability of sunflower (Helianthus annuus L.), Indian mustard (Brassica juncea), and river red gum (Eucalyptus camaldulensis) to remove cadmium from polluted soil and water have been carried out. Moreover, nanoparticles of TiO2 and Al2O3 have been used to efficiently remove cadmium from wastewater and soil. Finally, microbial fermentation has been studied as a promising method for removing cadmium from food. This review provides an update on the effects of Cd exposure on human health, focusing on the cellular and molecular alterations involved.",
+  "authors": [
+    "Giuseppe Genchi",
+    "Maria Stefania Sinicropi",
+    "Graziantonio Lauria",
+    "Alessia Carocci",
+    "Alessia Anna Catalano"
+  ],
+  "year": 2020,
+  "doi": "10.3390/ijerph17113782",
+  "source": "openalex",
+  "categories": [
+    "Cadmium",
+    "Toxicity",
+    "Cadmium poisoning",
+    "Environmental health",
+    "Chemistry",
+    "Medicine",
+    "Internal medicine",
+    "Organic chemistry"
+  ],
+  "citation_count": 2877,
+  "open_access_pdf_url": "https://www.mdpi.com/1660-4601/17/11/3782/pdf?version=1591013773",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3032103849.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:01.875998+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3032103849",
+    "concepts": [
+      "Cadmium",
+      "Toxicity",
+      "Cadmium poisoning",
+      "Environmental health",
+      "Chemistry"
+    ],
+    "oa_status": "gold"
+  }
+}

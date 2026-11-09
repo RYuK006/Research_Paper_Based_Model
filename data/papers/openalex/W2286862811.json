@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2286862811",
+  "title": "Synthesis and Characterization of 2D Molybdenum Carbide (MXene)",
+  "abstract": "Large scale synthesis and delamination of 2D Mo 2 CT x (where T is a surface termination group) has been achieved by selectively etching gallium from the recently discovered nanolaminated, ternary transition metal carbide Mo 2 Ga 2 C. Different synthesis and delamination routes result in different flake morphologies. The resistivity of free‐standing Mo 2 CT x films increases by an order of magnitude as the temperature is reduced from 300 to 10 K, suggesting semiconductor‐like behavior of this MXene, in contrast to Ti 3 C 2 T x which exhibits metallic behavior. At 10 K, the magnetoresistance is positive. Additionally, changes in electronic transport are observed upon annealing of the films. When 2 μm thick films are tested as electrodes in supercapacitors, capacitances as high as 700 F cm −3 in a 1 m sulfuric acid electrolyte and high capacity retention for at least 10,000 cycles at 10 A g −1 are obtained. Free‐standing Mo 2 CT x films, with ≈8 wt% carbon nanotubes, perform well when tested as an electrode material for Li‐ions, especially at high rates. At 20 and 131 C cycling rates, stable reversible capacities of 250 and 76 mAh g −1 , respectively, are achieved for over 1000 cycles.",
+  "authors": [
+    "Joseph Halim",
+    "Sankalp S. Kota",
+    "Maria R. Lukatskaya",
+    "Michael Naguib",
+    "Meng‐Qiang Zhao",
+    "Eun Ju Moon",
+    "Jeremy Pitock",
+    "Jagjit Nanda",
+    "Steven J. May",
+    "Yury G. Gogotsi",
+    "Michel W. Barsoum"
+  ],
+  "year": 2016,
+  "doi": "10.1002/adfm.201505328",
+  "source": "openalex",
+  "categories": [
+    "Materials science",
+    "Molybdenum",
+    "Electrolyte",
+    "Carbide",
+    "Annealing (glass)",
+    "Transition metal",
+    "Electrode",
+    "Chemical engineering",
+    "Nanotechnology",
+    "Composite material",
+    "Metallurgy",
+    "Catalysis",
+    "Engineering",
+    "Biochemistry",
+    "Physical chemistry",
+    "Chemistry"
+  ],
+  "citation_count": 1458,
+  "open_access_pdf_url": "https://www.osti.gov/servlets/purl/1324212",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2286862811.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:48.228824+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2286862811",
+    "concepts": [
+      "Materials science",
+      "Molybdenum",
+      "Electrolyte",
+      "Carbide",
+      "Annealing (glass)"
+    ],
+    "oa_status": "green"
+  }
+}

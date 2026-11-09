@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2096579721",
+  "title": "Chaperone-mediated coupling of endoplasmic reticulum and mitochondrial Ca2+ channels",
+  "abstract": "The voltage-dependent anion channel (VDAC) of the outer mitochondrial membrane mediates metabolic flow, Ca(2+), and cell death signaling between the endoplasmic reticulum (ER) and mitochondrial networks. We demonstrate that VDAC1 is physically linked to the endoplasmic reticulum Ca(2+)-release channel inositol 1,4,5-trisphosphate receptor (IP(3)R) through the molecular chaperone glucose-regulated protein 75 (grp75). Functional interaction between the channels was shown by the recombinant expression of the ligand-binding domain of the IP(3)R on the ER or mitochondrial surface, which directly enhanced Ca(2+) accumulation in mitochondria. Knockdown of grp75 abolished the stimulatory effect, highlighting chaperone-mediated conformational coupling between the IP(3)R and the mitochondrial Ca(2+) uptake machinery. Because organelle Ca(2+) homeostasis influences fundamentally cellular functions and death signaling, the central location of grp75 may represent an important control point of cell fate and pathogenesis.",
+  "authors": [
+    "György Szabadkai",
+    "Katiuscia Bianchi",
+    "Péter Várnai",
+    "Diego De Stefani",
+    "Mariusz Roman Wieckowski",
+    "Dario Cavagna",
+    "Anikó Ilona Nagy",
+    "Tamás Balla",
+    "Rosario Rizzuto"
+  ],
+  "year": 2006,
+  "doi": "10.1083/jcb.200608073",
+  "source": "openalex",
+  "categories": [
+    "Endoplasmic reticulum",
+    "Chaperone (clinical)",
+    "Cell biology",
+    "Mitochondrion",
+    "Coupling (piping)",
+    "Chemistry",
+    "Biophysics",
+    "Biology",
+    "Materials science",
+    "Medicine",
+    "Pathology",
+    "Metallurgy"
+  ],
+  "citation_count": 1470,
+  "open_access_pdf_url": "https://rupress.org/jcb/article-pdf/175/6/901/1328727/jcb_200608073.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2096579721.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:48.182387+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2096579721",
+    "concepts": [
+      "Endoplasmic reticulum",
+      "Chaperone (clinical)",
+      "Cell biology",
+      "Mitochondrion",
+      "Coupling (piping)"
+    ],
+    "oa_status": "bronze"
+  }
+}

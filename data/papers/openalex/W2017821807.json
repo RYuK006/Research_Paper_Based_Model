@@ -1,0 +1,41 @@
+{
+  "id": "openalex:W2017821807",
+  "title": "The estimation of the bactericidal power of the blood",
+  "abstract": "The survival rate,p, of a measured inoculum ofStaph. aureusin a standard volume of denbrinated blood, is a reliable quantitative measure of the bactericidal power of blood. The number of viable organisms in the inoculum and in the blood-bacterium mixture may be estimated with the necessary accuracy by counts of colonies developing from measured volumes of the fluids let fall on to the surface of solid media. Fildes' agar was the most suitable medium for this surface-viable count, and was selected on the basis of four criteria; of the media tested it yielded the highest counts, and the counts conformed most closely to a Poisson series; and on it the mean colony size was maximum, and the coefficient of variation of colony size was minimum. On this medium, the close conformity of the separate count values to a Poisson series enabled the standard error of the survival rate to be determined from a simplification of the general expression for the standard error of a ratio. The number of colonies growing from a sample of a blood-bacterium mixture may be reduced, not by killing of the individual cocci, but as a result of their aggregation either by agglutinins in the blood, or in the cytoplasm of leucocytes that are phagocytic but not bactericidal. It appears that these mechanisms are unlikely to operate in blood-bacterium mixture containing relatively few organisms; in such mixtures the survival rate is a reflexion of the killing power only. The immunological significance ofphas not been investigated, but the range of values for healthy human adults differs significantly from that for sufferers from chronic staphylococcal infection. Moreover, by the technique employed differences may be detected between individual values ofpthat cannot reasonably be attributed to technical or sampling errors.",
+  "authors": [
+    "A. A. Miles",
+    "S. S. Misra",
+    "J. O. Irwin"
+  ],
+  "year": 1938,
+  "doi": "10.1017/s002217240001158x",
+  "source": "openalex",
+  "categories": [
+    "Poisson distribution",
+    "Biology",
+    "Coefficient of variation",
+    "Bacteria",
+    "Microbiology",
+    "Chemistry",
+    "Chromatography",
+    "Statistics",
+    "Mathematics",
+    "Genetics"
+  ],
+  "citation_count": 3597,
+  "open_access_pdf_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D0A0300D759AD6220846B4AA687436C2/S002217240001158Xa.pdf/div-class-title-the-estimation-of-the-bactericidal-power-of-the-blood-div.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2017821807.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:57.668406+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2017821807",
+    "concepts": [
+      "Poisson distribution",
+      "Biology",
+      "Coefficient of variation",
+      "Bacteria",
+      "Microbiology"
+    ],
+    "oa_status": "bronze"
+  }
+}

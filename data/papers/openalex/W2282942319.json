@@ -1,0 +1,60 @@
+{
+  "id": "openalex:W2282942319",
+  "title": "LOBSTER: A tool to extract chemical bonding from plane‐wave based DFT",
+  "abstract": "The computer program LOBSTER (Local Orbital Basis Suite Towards Electronic-Structure Reconstruction) enables chemical-bonding analysis based on periodic plane-wave (PAW) density-functional theory (DFT) output and is applicable to a wide range of first-principles simulations in solid-state and materials chemistry. LOBSTER incorporates analytic projection routines described previously in this very journal [J. Comput. Chem. 2013, 34, 2557] and offers improved functionality. It calculates, among others, atom-projected densities of states (pDOS), projected crystal orbital Hamilton population (pCOHP) curves, and the recently introduced bond-weighted distribution function (BWDF). The software is offered free-of-charge for non-commercial research. © 2016 The Authors. Journal of Computational Chemistry Published by Wiley Periodicals, Inc.",
+  "authors": [
+    "Stefan Maintz",
+    "Volker L. Deringer",
+    "Andrei L. Tchougréeff",
+    "Richard Dronskowski"
+  ],
+  "year": 2016,
+  "doi": "10.1002/jcc.24300",
+  "source": "openalex",
+  "categories": [
+    "Density functional theory",
+    "Wave function",
+    "Chemical bond",
+    "Plane wave",
+    "Projection (relational algebra)",
+    "Computational chemistry",
+    "Plane (geometry)",
+    "Charge density",
+    "Range (aeronautics)",
+    "Bond length",
+    "Atom (system on chip)",
+    "Population",
+    "Statistical physics",
+    "Chemistry",
+    "Computer science",
+    "Crystal structure",
+    "Physics",
+    "Materials science",
+    "Algorithm",
+    "Atomic physics",
+    "Crystallography",
+    "Mathematics",
+    "Quantum mechanics",
+    "Geometry",
+    "Embedded system",
+    "Demography",
+    "Sociology",
+    "Composite material"
+  ],
+  "citation_count": 3760,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jcc.24300",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2282942319.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:54.130009+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2282942319",
+    "concepts": [
+      "Density functional theory",
+      "Wave function",
+      "Chemical bond",
+      "Plane wave",
+      "Projection (relational algebra)"
+    ],
+    "oa_status": "hybrid"
+  }
+}

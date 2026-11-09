@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W1966235871",
+  "title": "How does basis set superposition error change the potential surfaces for hydrogen-bonded dimers?",
+  "abstract": "We describe a simple method to automate the geometric optimization of molecular orbital calculations of supermolecules on potential surfaces that are corrected for basis set superposition error using the counterpoise (CP) method. This method is applied to the H-bonding complexes HF/HCN, HF/H2O, and HCCH/H2O using the 6-31G(d,p) and D95++(d,p) basis sets at both the Hartree–Fock and second-order Mo/ller–Plesset levels. We report the interaction energies, geometries, and vibrational frequencies of these complexes on the CP-optimized surfaces; and compare them with similar values calculated using traditional methods, including the (more traditional) single point CP correction. Upon optimization on the CP-corrected surface, the interaction energies become more negative (before vibrational corrections) and the H-bonding stretching vibrations decrease in all cases. The extent of the effects vary from extremely small to quite large depending on the complex and the calculational method. The relative magnitudes of the vibrational corrections cannot be predicted from the H-bond stretching frequencies alone.",
+  "authors": [
+    "Sı́lvia Simon",
+    "Miquel Duran",
+    "Joseph J. Dannenberg"
+  ],
+  "year": 1996,
+  "doi": "10.1063/1.472902",
+  "source": "openalex",
+  "categories": [
+    "Counterpoise",
+    "Basis set",
+    "Basis (linear algebra)",
+    "Chemistry",
+    "Superposition principle",
+    "Computational chemistry",
+    "Hydrogen bond",
+    "Atomic physics",
+    "Hartree–Fock method",
+    "Molecular vibration",
+    "Surface (topology)",
+    "Molecular physics",
+    "Molecule",
+    "Physics",
+    "Mathematics",
+    "Quantum mechanics",
+    "Geometry",
+    "Density functional theory",
+    "Organic chemistry"
+  ],
+  "citation_count": 2188,
+  "open_access_pdf_url": "https://aip.scitation.org/doi/pdf/10.1063/1.472902",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1966235871.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:12.654954+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1966235871",
+    "concepts": [
+      "Counterpoise",
+      "Basis set",
+      "Basis (linear algebra)",
+      "Chemistry",
+      "Superposition principle"
+    ],
+    "oa_status": "bronze"
+  }
+}

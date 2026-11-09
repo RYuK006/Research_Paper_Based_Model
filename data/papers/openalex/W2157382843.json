@@ -1,0 +1,41 @@
+{
+  "id": "openalex:W2157382843",
+  "title": "Fluorescence spectroscopy and multi-way techniques. PARAFAC",
+  "abstract": "PARAllel FACtor analysis (PARAFAC) is increasingly used to decompose fluorescence excitation emission matrices (EEMs) into their underlying chemical components. In the ideal case where fluorescence conforms to Beers Law, this process can lead to the mathematical identification and quantification of independently varying fluorophores. However, many practical and analytical hurdles stand between EEM datasets and their chemical interpretation. This article provides a tutorial in the practical application of PARAFAC to fluorescence datasets, demonstrated using a dissolved organic matter (DOM) fluorescence dataset. A new toolbox for MATLAB is presented to support improved visualisation and sensitivity analyses of PARAFAC models in fluorescence spectroscopy.",
+  "authors": [
+    "Kathleen R. Murphy",
+    "Colin Andrew Stedmon",
+    "Daniel Graeber",
+    "Rasmus Bro"
+  ],
+  "year": 2013,
+  "doi": "10.1039/c3ay41160e",
+  "source": "openalex",
+  "categories": [
+    "Fluorescence",
+    "Fluorescence spectroscopy",
+    "Spectroscopy",
+    "Chemistry",
+    "Analytical Chemistry (journal)",
+    "Environmental chemistry",
+    "Optics",
+    "Physics",
+    "Quantum mechanics"
+  ],
+  "citation_count": 2180,
+  "open_access_pdf_url": "https://pubs.rsc.org/en/content/articlepdf/2013/ay/c3ay41160e",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2157382843.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:12.670438+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2157382843",
+    "concepts": [
+      "Fluorescence",
+      "Fluorescence spectroscopy",
+      "Spectroscopy",
+      "Chemistry",
+      "Analytical Chemistry (journal)"
+    ],
+    "oa_status": "hybrid"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "openalex:W2177291244",
+  "title": "The Effective Number of Spatial Degrees of Freedom of a Time-Varying Field",
+  "abstract": "The authors systematically investigate two easily computed measures of the effective number of spatial degrees of freedom (ESDOF), or number of independently varying spatial patterns, of a time-varying field of data. The first measure is based on matching the mean and variance of the time series of the spatially integrated squared anomaly of the field to a chi-squared distribution. The second measure, which is equivalent to the first for a long time sample of normally distributed field values, is based on the partitioning of variance between the EOFs. Although these measures were proposed almost 30 years ago, this paper aims to provide a comprehensive discussion of them that may help promote their more widespread use. The authors summarize the theoretical basis of the two measures and considerations when estimating them with a limited time sample or from nonnormally distributed data. It is shown that standard statistical significance tests for the difference or correlation between two realizations of a field (e.g., a forecast and an observation) are approximately valid if the number of degrees of freedom is chosen using an appropriate combination of the two ESDOF measures. Also described is a method involving ESDOF for deciding whether two time-varying fields are significantly correlated to each other. A discussion of the parallels between ESDOF and the effective sample size of an autocorrelated time series is given, and the authors review how an appropriate measure of effective sample size can be computed for assessing the significance of correlations between two time series.",
+  "authors": [
+    "Christopher S. Bretherton",
+    "Martin Widmann",
+    "Valentin Dymnikov",
+    "John M. Wallace",
+    "Ileana Bladé"
+  ],
+  "year": 1999,
+  "doi": "10.1175/1520-0442(1999)012<1990:tenosd>2.0.co;2",
+  "source": "openalex",
+  "categories": [
+    "Degrees of freedom (physics and chemistry)",
+    "Autocorrelation",
+    "Measure (data warehouse)",
+    "Statistics",
+    "Series (stratigraphy)",
+    "Sample size determination",
+    "Mathematics",
+    "Field (mathematics)",
+    "Variance (accounting)",
+    "Matching (statistics)",
+    "Sample (material)",
+    "Anomaly (physics)",
+    "Spatial correlation",
+    "Computer science",
+    "Data mining",
+    "Condensed matter physics",
+    "Business",
+    "Quantum mechanics",
+    "Physics",
+    "Paleontology",
+    "Biology",
+    "Chemistry",
+    "Pure mathematics",
+    "Accounting",
+    "Chromatography"
+  ],
+  "citation_count": 1562,
+  "open_access_pdf_url": "https://doi.org/10.1175/1520-0442(1999)012<1990:tenosd>2.0.co;2",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2177291244.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:42.020232+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2177291244",
+    "concepts": [
+      "Degrees of freedom (physics and chemistry)",
+      "Autocorrelation",
+      "Measure (data warehouse)",
+      "Statistics",
+      "Series (stratigraphy)"
+    ],
+    "oa_status": "closed"
+  }
+}

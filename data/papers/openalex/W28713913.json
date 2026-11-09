@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W28713913",
+  "title": "Long-range corrected hybrid density functionals with damped atom–atom dispersion corrections",
+  "abstract": "We report re-optimization of a recently proposed long-range corrected (LC) hybrid density functional [J.-D. Chai and M. Head-Gordon, J. Chem. Phys., 2008, 128, 084106] to include empirical atom-atom dispersion corrections. The resulting functional, omegaB97X-D yields satisfactory accuracy for thermochemistry, kinetics, and non-covalent interactions. Tests show that for non-covalent systems, omegaB97X-D shows slight improvement over other empirical dispersion-corrected density functionals, while for covalent systems and kinetics it performs noticeably better. Relative to our previous functionals, such as omegaB97X, the new functional is significantly superior for non-bonded interactions, and very similar in performance for bonded interactions.",
+  "authors": [
+    "Jeng‐Da Chai",
+    "Martin Head-Gordon"
+  ],
+  "year": 2008,
+  "doi": "10.1039/b810189b",
+  "source": "openalex",
+  "categories": [
+    "Density functional theory",
+    "Thermochemistry",
+    "Time-dependent density functional theory",
+    "Hybrid functional",
+    "Atom (system on chip)",
+    "Dispersion (optics)",
+    "Excited state",
+    "Orbital-free density functional theory",
+    "Chemistry",
+    "Range (aeronautics)",
+    "Physics",
+    "Statistical physics",
+    "Atomic physics",
+    "Quantum mechanics",
+    "Computational chemistry",
+    "Thermodynamics",
+    "Materials science",
+    "Computer science",
+    "Composite material",
+    "Embedded system"
+  ],
+  "citation_count": 14794,
+  "open_access_pdf_url": "https://www.osti.gov/servlets/purl/949212",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W28713913.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:49.822704+00:00",
+  "raw_metadata": {
+    "openalex_id": "W28713913",
+    "concepts": [
+      "Density functional theory",
+      "Thermochemistry",
+      "Time-dependent density functional theory",
+      "Hybrid functional",
+      "Atom (system on chip)"
+    ],
+    "oa_status": "green"
+  }
+}

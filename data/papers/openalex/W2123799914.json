@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2123799914",
+  "title": "NAD(P)H Oxidase",
+  "abstract": "Reactive oxygen species have emerged as important molecules in cardiovascular function. Recent work has shown that NAD(P)H oxidases are major sources of superoxide in vascular cells and myocytes. The biochemical characterization, activation paradigms, structure, and function of this enzyme are now partly understood. Vascular NAD(P)H oxidases share some, but not all, characteristics of the neutrophil enzyme. In response to growth factors and cytokines, they produce superoxide, which is metabolized to hydrogen peroxide, and both of these reactive oxygen species serve as second messengers to activate multiple intracellular signaling pathways. The vascular NAD(P)H oxidases have been found to be essential in the physiological response of vascular cells, including growth, migration, and modification of the extracellular matrix. They have also been linked to hypertension and to pathological states associated with uncontrolled growth and inflammation, such as atherosclerosis.",
+  "authors": [
+    "Kathy K. Griendling",
+    "Dan Sorescu",
+    "Masuko Ushio‐Fukai"
+  ],
+  "year": 2000,
+  "doi": "10.1161/01.res.86.5.494",
+  "source": "openalex",
+  "categories": [
+    "NAD+ kinase",
+    "Superoxide",
+    "NAD(P)H oxidase",
+    "Reactive oxygen species",
+    "Biochemistry",
+    "Intracellular",
+    "Extracellular",
+    "NADPH oxidase",
+    "Chemistry",
+    "Cell biology",
+    "Inflammation",
+    "Second messenger system",
+    "Enzyme",
+    "Oxidase test",
+    "Signal transduction",
+    "Biology",
+    "Hydrogen peroxide",
+    "Immunology"
+  ],
+  "citation_count": 2915,
+  "open_access_pdf_url": "https://doi.org/10.1161/01.res.86.5.494",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2123799914.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:01.851223+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2123799914",
+    "concepts": [
+      "NAD+ kinase",
+      "Superoxide",
+      "NAD(P)H oxidase",
+      "Reactive oxygen species",
+      "Biochemistry"
+    ],
+    "oa_status": "closed"
+  }
+}

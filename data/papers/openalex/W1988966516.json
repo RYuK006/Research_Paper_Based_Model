@@ -1,0 +1,42 @@
+{
+  "id": "openalex:W1988966516",
+  "title": "Carbohydrate-binding modules: fine-tuning polysaccharide recognition",
+  "abstract": "The enzymic degradation of insoluble polysaccharides is one of the most important reactions on earth. Despite this, glycoside hydrolases attack such polysaccharides relatively inefficiently as their target glycosidic bonds are often inaccessible to the active site of the appropriate enzymes. In order to overcome these problems, many of the glycoside hydrolases that utilize insoluble substrates are modular, comprising catalytic modules appended to one or more non-catalytic CBMs (carbohydrate-binding modules). CBMs promote the association of the enzyme with the substrate. In view of the central role that CBMs play in the enzymic hydrolysis of plant structural and storage polysaccharides, the ligand specificity displayed by these protein modules and the mechanism by which they recognize their target carbohydrates have received considerable attention since their discovery almost 20 years ago. In the last few years, CBM research has harnessed structural, functional and bioinformatic approaches to elucidate the molecular determinants that drive CBM-carbohydrate recognition. The present review summarizes the impact structural biology has had on our understanding of the mechanisms by which CBMs bind to their target ligands.",
+  "authors": [
+    "A.B. Boraston",
+    "David N. Bolam",
+    "Harry John Gilbert",
+    "G.J. Davies"
+  ],
+  "year": 2004,
+  "doi": "10.1042/bj20040892",
+  "source": "openalex",
+  "categories": [
+    "Glycosidic bond",
+    "Carbohydrate-binding module",
+    "Polysaccharide",
+    "Glycoside hydrolase",
+    "Biochemistry",
+    "Enzyme",
+    "Carbohydrate",
+    "Chemistry",
+    "Ligand (biochemistry)",
+    "Receptor"
+  ],
+  "citation_count": 2072,
+  "open_access_pdf_url": "https://portlandpress.com/biochemj/article-pdf/382/3/769/715295/bj3820769.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1988966516.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:15.490916+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1988966516",
+    "concepts": [
+      "Glycosidic bond",
+      "Carbohydrate-binding module",
+      "Polysaccharide",
+      "Glycoside hydrolase",
+      "Biochemistry"
+    ],
+    "oa_status": "bronze"
+  }
+}

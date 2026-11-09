@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2083833236",
+  "title": "A Logit Model of Brand Choice Calibrated on Scanner Data",
+  "abstract": "A multinomial logit model of brand choice, calibrated on 32 weeks of purchases of regular ground coffee by 100 households, shows high statistical signficance for the explanatory variables of brand loyalty, size loyalty, presence/absence of store promotion, regular shelf price and promotional price cut. The model is parsimonious in that the coefficients of these variables are modeled to be the same for all coffee brand-sizes. The calibrated model predicts remarkably well the share of purchases by brand-size in a hold-out sample of 100 households over the 32-week calibration period and a subsequent 20-week forecast period. The success of the model is attributed in part to the level of detail and completeness of the household panel data employed, which has been collected through optical scanning of the Universal Product Code in supermarkets. Three short-term market response measures are calculated from the model: regular (depromoted) price elasticity of share, percent increase in share for a promotion with a median price cut, and promotional price cut elasticity of share. Response varies across brand-sizes in a systematic way with large share brand-sizes showing less response in percentage terms but greater in absolute terms. On the basis of the model a quantitative picture emerges of groups of loyal customers who are relatively insensitive to marketing actions and a pool of switchers who are quite sensitive.",
+  "authors": [
+    "Peter M. Guadagni",
+    "John D. C. Little"
+  ],
+  "year": 1983,
+  "doi": "10.1287/mksc.2.3.203",
+  "source": "openalex",
+  "categories": [
+    "Econometrics",
+    "Multinomial logistic regression",
+    "Brand loyalty",
+    "Market share",
+    "Panel data",
+    "Product (mathematics)",
+    "Ordinary least squares",
+    "Variables",
+    "Sample (material)",
+    "Economics",
+    "Mathematics",
+    "Statistics",
+    "Advertising",
+    "Marketing",
+    "Business",
+    "Chromatography",
+    "Geometry",
+    "Chemistry"
+  ],
+  "citation_count": 1862,
+  "open_access_pdf_url": "https://dspace.mit.edu/bitstream/1721.1/48307/1/logitmodelofbran00guad.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2083833236.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:22.227012+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2083833236",
+    "concepts": [
+      "Econometrics",
+      "Multinomial logistic regression",
+      "Brand loyalty",
+      "Market share",
+      "Panel data"
+    ],
+    "oa_status": "green"
+  }
+}

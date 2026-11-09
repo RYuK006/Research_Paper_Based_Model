@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W1801184284",
+  "title": "The redox state of free nicotinamide-adenine dinucleotide in the cytoplasm and mitochondria of rat liver",
+  "abstract": "1. The concentrations of the oxidized and reduced substrates of the lactate-, beta-hydroxybutyrate- and glutamate-dehydrogenase systems were measured in rat livers freeze-clamped as soon as possible after death. The substrates of these dehydrogenases are likely to be in equilibrium with free NAD(+) and NADH, and the ratio of the free dinucleotides can be calculated from the measured concentrations of the substrates and the equilibrium constants (Holzer, Schultz & Lynen, 1956; Bücher & Klingenberg, 1958). The lactate-dehydrogenase system reflects the [NAD(+)]/[NADH] ratio in the cytoplasm, the beta-hydroxybutyrate dehydrogenase that in the mitochondrial cristae and the glutamate dehydrogenase that in the mitochondrial matrix. 2. The equilibrium constants of lactate dehydrogenase (EC 1.1.1.27), beta-hydroxybutyrate dehydrogenase (EC 1.1.1.30) and malate dehydrogenase (EC 1.1.1.37) were redetermined for near-physiological conditions (38 degrees ; I0.25). 3. The mean [NAD(+)]/[NADH] ratio of rat-liver cytoplasm was calculated as 725 (pH7.0) in well-fed rats, 528 in starved rats and 208 in alloxan-diabetic rats. 4. The [NAD(+)]/[NADH] ratio for the mitochondrial matrix and cristae gave virtually identical values in the same metabolic state. This indicates that beta-hydroxybutyrate dehydrogenase and glutamate dehydrogenase share a common pool of dinucleotide. 5. The mean [NAD(+)]/[NADH] ratio within the liver mitochondria of well-fed rats was about 8. It fell to about 5 in starvation and rose to about 10 in alloxan-diabetes. 6. The [NAD(+)]/[NADH] ratios of cytoplasm and mitochondria are thus greatly different and do not necessarily move in parallel when the metabolic state of the liver changes. 7. The ratios found for the free dinucleotides differ greatly from those recorded for the total dinucleotides because much more NADH than NAD(+) is protein-bound. 8. The bearing of these findings on various problems, including the following, is discussed: the number of NAD(+)-NADH pools in liver cells; the applicability of the method to tissues other than liver; the transhydrogenase activity of glutamate dehydrogenase; the physiological significance of the difference of the redox states of mitochondria and cytoplasm; aspects of the regulation of the redox state of cell compartments; the steady-state concentration of mitochondrial oxaloacetate; the relations between the redox state of cell compartments and ketosis.",
+  "authors": [
+    "DH Williamson",
+    "P Lund",
+    "HA Krebs"
+  ],
+  "year": 1967,
+  "doi": "10.1042/bj1030514",
+  "source": "openalex",
+  "categories": [
+    "NAD+ kinase",
+    "Malate dehydrogenase",
+    "Dehydrogenase",
+    "Glutamate dehydrogenase",
+    "Lactate dehydrogenase",
+    "Biochemistry",
+    "Mitochondrion",
+    "Nicotinamide adenine dinucleotide",
+    "Mitochondrial matrix",
+    "Cytoplasm",
+    "Biology",
+    "Branched-chain alpha-keto acid dehydrogenase complex",
+    "Nicotinamide",
+    "Glycerol-3-phosphate dehydrogenase",
+    "Enzyme",
+    "Chemistry",
+    "Glutamate receptor",
+    "Cytosol",
+    "Receptor"
+  ],
+  "citation_count": 1873,
+  "open_access_pdf_url": "https://portlandpress.com/biochemj/article-pdf/103/2/514/758687/bj1030514.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1801184284.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:22.202658+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1801184284",
+    "concepts": [
+      "NAD+ kinase",
+      "Malate dehydrogenase",
+      "Dehydrogenase",
+      "Glutamate dehydrogenase",
+      "Lactate dehydrogenase"
+    ],
+    "oa_status": "bronze"
+  }
+}

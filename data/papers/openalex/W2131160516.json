@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2131160516",
+  "title": "Multiphase transport model for relativistic heavy ion collisions",
+  "abstract": "We describe in detail how the different components of a multiphase transport (AMPT) model that uses the heavy ion jet interaction generator (HIJING) for generating the initial conditions, Zhang's parton cascade (ZPC) for modeling partonic scatterings, the Lund string fragmentation model or a quark coalescence model for hadronization, and a relativistic transport (ART) model for treating hadronic scatterings are improved and combined to give a coherent description of the dynamics of relativistic heavy ion collisions. We also explain the way parameters in the model are determined and discuss the sensitivity of predicted results to physical input in the model. Comparisons of these results to experimental data, mainly from heavy ion collisions at the BNL Relativistic Heavy Ion Collider, are then made in order to extract information on the properties of the hot dense matter formed in these collisions.",
+  "authors": [
+    "Zi-Wei Lin",
+    "Che Ming Ko",
+    "Bao-An Li",
+    "Bin Zhang",
+    "Subrata Pal"
+  ],
+  "year": 2005,
+  "doi": "10.1103/physrevc.72.064901",
+  "source": "openalex",
+  "categories": [
+    "Physics",
+    "Hadronization",
+    "Relativistic Heavy Ion Collider",
+    "Cascade",
+    "Nuclear physics",
+    "Hadron",
+    "Parton",
+    "Heavy ion",
+    "Coalescence (physics)",
+    "Pseudorapidity",
+    "Particle physics",
+    "Ion",
+    "Charged particle",
+    "Chemistry",
+    "Astrobiology",
+    "Quantum mechanics",
+    "Chromatography"
+  ],
+  "citation_count": 1466,
+  "open_access_pdf_url": "http://link.aps.org/pdf/10.1103/PhysRevC.72.064901",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2131160516.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:48.188291+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2131160516",
+    "concepts": [
+      "Physics",
+      "Hadronization",
+      "Relativistic Heavy Ion Collider",
+      "Cascade",
+      "Nuclear physics"
+    ],
+    "oa_status": "bronze"
+  }
+}

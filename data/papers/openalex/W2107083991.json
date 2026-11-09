@@ -1,0 +1,40 @@
+{
+  "id": "openalex:W2107083991",
+  "title": "From mass to structure: an aromaticity index for high‐resolution mass data of natural organic matter",
+  "abstract": "Abstract Recent progress in Fourier transform ion cyclotron resonance mass spectrometry (FTICRMS) has provided extensive molecular mass data for complex natural organic matter (NOM). Structural information can be deduced solely from the molecular masses for ions with extreme molecular element ratios, in particular low H/C ratios, which are abundant in thermally altered NOM (e.g. black carbon). In this communication we propose a general aromaticity index (AI) and two threshold values as unequivocal criteria for the existence of either aromatic (AI > 0.5) or condensed aromatic structures (AI ≥ 0.67) in NOM. AI can be calculated from molecular formulae which are derived from exact molecular masses of naturally occurring compounds containing C, H, O, N, S and P, and is especially useful for substances with aromatic cores and few alkylations. In order to test the validity of our model index, AI is applied to FTICRMS data of a NOM deep‐water sample from the Weddell Sea (Antarctica), a fulvic acid standard, and an artificial dataset of all theoretically possible molecular formulae. For graphical evaluation a ternary plot is suggested for four‐dimensional data representation. The proposed aromaticity index is a step towards structural identification of NOM and the molecular identification of polyaromatic hydrocarbons in the environment. Copyright © 2006 John Wiley & Sons, Ltd.",
+  "authors": [
+    "Boris Peter Koch",
+    "Thorsten Dittmar"
+  ],
+  "year": 2006,
+  "doi": "10.1002/rcm.2386",
+  "source": "openalex",
+  "categories": [
+    "Chemistry",
+    "Aromaticity",
+    "Fourier transform ion cyclotron resonance",
+    "Mass spectrometry",
+    "Mass spectrum",
+    "Analytical Chemistry (journal)",
+    "Molecule",
+    "Computational chemistry",
+    "Organic chemistry",
+    "Chromatography"
+  ],
+  "citation_count": 1718,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/rcm.2386",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2107083991.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:33.085611+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2107083991",
+    "concepts": [
+      "Chemistry",
+      "Aromaticity",
+      "Fourier transform ion cyclotron resonance",
+      "Mass spectrometry",
+      "Mass spectrum"
+    ],
+    "oa_status": "bronze"
+  }
+}

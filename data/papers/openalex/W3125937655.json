@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W3125937655",
+  "title": "GMM Estimation with persistent panel data: an application to production functions",
+  "abstract": "This paper considers the estimation of Cobb-Douglas production functions using panel data covering a large sample of companies observed for a small number of time periods. GMM estimatorshave been found to produce large finite-sample biases when using the standard first-differenced estimator. These biases can be dramatically reduced by exploiting reasonable stationarity restrictions on the initial conditions process. Using data for a panel of R&Dperforming US manufacturing companies we find that the additional instruments used in our extended GMM estimator yield much more reasonable parameter estimates.",
+  "authors": [
+    "Richard W. Blundell",
+    "Stephen R. Bond"
+  ],
+  "year": 2000,
+  "doi": "10.1080/07474930008800475",
+  "source": "openalex",
+  "categories": [
+    "Estimator",
+    "Panel data",
+    "Econometrics",
+    "Sample (material)",
+    "Estimation",
+    "Production (economics)",
+    "Yield (engineering)",
+    "Statistics",
+    "Economics",
+    "Mathematics",
+    "Microeconomics",
+    "Chromatography",
+    "Metallurgy",
+    "Chemistry",
+    "Materials science",
+    "Management"
+  ],
+  "citation_count": 1672,
+  "open_access_pdf_url": "https://www.tandfonline.com/doi/abs/10.1080/07474930008800475",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3125937655.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:33.259242+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3125937655",
+    "concepts": [
+      "Estimator",
+      "Panel data",
+      "Econometrics",
+      "Sample (material)",
+      "Estimation"
+    ],
+    "oa_status": "bronze"
+  }
+}

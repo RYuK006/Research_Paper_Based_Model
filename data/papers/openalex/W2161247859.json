@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2161247859",
+  "title": "MicroCT for comparative morphology: simple staining methods allow high-contrast 3D imaging of diverse non-mineralized animal tissues",
+  "abstract": "BACKGROUND: Comparative, functional, and developmental studies of animal morphology require accurate visualization of three-dimensional structures, but few widely applicable methods exist for non-destructive whole-volume imaging of animal tissues. Quantitative studies in particular require accurately aligned and calibrated volume images of animal structures. X-ray microtomography (microCT) has the potential to produce quantitative 3D images of small biological samples, but its widespread use for non-mineralized tissues has been limited by the low x-ray contrast of soft tissues. Although osmium staining and a few other techniques have been used for contrast enhancement, generally useful methods for microCT imaging for comparative morphology are still lacking. RESULTS: Several very simple and versatile staining methods are presented for microCT imaging of animal soft tissues, along with advice on tissue fixation and sample preparation. The stains, based on inorganic iodine and phosphotungstic acid, are easier to handle and much less toxic than osmium, and they produce high-contrast x-ray images of a wide variety of soft tissues. The breadth of possible applications is illustrated with a few microCT images of model and non-model animals, including volume and section images of vertebrates, embryos, insects, and other invertebrates. Each image dataset contains x-ray absorbance values for every point in the imaged volume, and objects as small as individual muscle fibers and single blood cells can be resolved in their original locations and orientations within the sample. CONCLUSION: With very simple contrast staining, microCT imaging can produce quantitative, high-resolution, high-contrast volume images of animal soft tissues, without destroying the specimens and with possibilities of combining with other preparation and imaging methods. Such images are expected to be useful in comparative, developmental, functional, and quantitative studies of morphology.",
+  "authors": [
+    "Brian Metscher"
+  ],
+  "year": 2009,
+  "doi": "10.1186/1472-6793-9-11",
+  "source": "openalex",
+  "categories": [
+    "Mineralized tissues",
+    "Staining",
+    "Biomedical engineering",
+    "X-ray microtomography",
+    "Fixation (population genetics)",
+    "Contrast (vision)",
+    "Volume (thermodynamics)",
+    "Soft tissue",
+    "Pathology",
+    "Chemistry",
+    "Computer science",
+    "Medicine",
+    "Computer vision",
+    "Radiology",
+    "Biochemistry",
+    "Dentin",
+    "Physics",
+    "Gene",
+    "Quantum mechanics"
+  ],
+  "citation_count": 1117,
+  "open_access_pdf_url": "https://bmcphysiol.biomedcentral.com/counter/pdf/10.1186/1472-6793-9-11",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2161247859.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:19.526047+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2161247859",
+    "concepts": [
+      "Mineralized tissues",
+      "Staining",
+      "Biomedical engineering",
+      "X-ray microtomography",
+      "Fixation (population genetics)"
+    ],
+    "oa_status": "hybrid"
+  }
+}

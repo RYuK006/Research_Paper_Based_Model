@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2073210531",
+  "title": "Public-key cryptosystems provably secure against chosen ciphertext attacks",
+  "abstract": "We show how to construct a public-key cryptosystem (as originally defined by DiNe and Hellman) secure against chosen ciphertezt attacks, given a public-key cryptosystern secure against passive eavesdropping and a noninteractive zero-knowledge proof system in the shared string model.No such secure cryptosystems were known before.A concrete implementation can be based on quadratic residuosity intractability.",
+  "authors": [
+    "Moni Naor",
+    "Moti M. Yung"
+  ],
+  "year": 1990,
+  "doi": "10.1145/100216.100273",
+  "source": "openalex",
+  "categories": [
+    "IBM",
+    "Ciphertext",
+    "Research center",
+    "Citation",
+    "Computer science",
+    "Watson",
+    "Cryptosystem",
+    "Center (category theory)",
+    "Key (lock)",
+    "Computer security",
+    "Encryption",
+    "Operating system",
+    "Library science",
+    "Political science",
+    "Physics",
+    "Optics",
+    "Law",
+    "Chemistry",
+    "Crystallography",
+    "Natural language processing"
+  ],
+  "citation_count": 1102,
+  "open_access_pdf_url": "https://dl.acm.org/doi/pdf/10.1145/100216.100273",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2073210531.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:19.692884+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2073210531",
+    "concepts": [
+      "IBM",
+      "Ciphertext",
+      "Research center",
+      "Citation",
+      "Computer science"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "openalex:W2319965893",
+  "title": "JCPDS-International Centre for Diffraction Data",
+  "abstract": "correspondence with the authors.In a few cases the problems are not resolved and such entries are either flagged or omitted.The ~IDF is used to check the data appearing in the Metals section of Structure Reports and also to calculate peak intensity (i.e.full-profile) powder patterns for the Powder Data File (PDF) published by the Joint Co~~ittee on Powder Diffraction Standards.In addition the relevant current data on metals are sent to Crystal Data.It is planned that patterns now missing from the PDF or those requiring checking will be calculated from the structural data ;;vhen they are available.In addition to the major routines which ca~culate interatomic distances and powder patterns there are als.oroutines which can display the Frar~-Kasper domains, the coordination polyhedra for individual atoms or the bonds between an atom and its neighbours or combinations of these.The displays can be produced in stereo, and rotated and copied onto the line-printer.There are also search routines to find specific compounds or compounds containing various elements or combinations of elements.Indices sorted by elemental tj~e or by structure code can be prepared and are routinely used for searching the file.At present the file is available for private use only but a joint program is now-U.",
+  "authors": [
+    "Camden Richards Hubbard",
+    "Gregory J. McCarthy"
+  ],
+  "year": 1981,
+  "doi": "10.1107/s0108767381089368",
+  "source": "openalex",
+  "categories": [
+    "Diffraction",
+    "Materials science",
+    "Crystallography",
+    "Optics",
+    "Chemistry",
+    "Physics"
+  ],
+  "citation_count": 1781,
+  "open_access_pdf_url": "http://journals.iucr.org/a/issues/1981/a1/00/a43614/a43614.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2319965893.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:26.073138+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2319965893",
+    "concepts": [
+      "Diffraction",
+      "Materials science",
+      "Crystallography",
+      "Optics",
+      "Chemistry"
+    ],
+    "oa_status": "bronze"
+  }
+}

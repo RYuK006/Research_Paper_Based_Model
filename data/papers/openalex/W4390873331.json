@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W4390873331",
+  "title": "Zero-1-to-3: Zero-shot One Image to 3D Object",
+  "abstract": "We introduce Zero-1-to-3, a framework for changing the camera viewpoint of an object given just a single RGB image. To perform novel view synthesis in this under-constrained setting, we capitalize on the geometric priors that large-scale diffusion models learn about natural images. Our conditional diffusion model uses a synthetic dataset to learn controls of the relative camera viewpoint, which allow new images to be generated of the same object under a specified camera transformation. Even though it is trained on a synthetic dataset, our model retains a strong zero-shot generalization ability to out-of-distribution datasets as well as in-the-wild images, including impressionist paintings. Our viewpoint-conditioned diffusion approach can further be used for the task of 3D reconstruction from a single image. Qualitative and quantitative experiments show that our method significantly outperforms state-of-the-art single-view 3D reconstruction and novel view synthesis models by leveraging Internet-scale pre-training.",
+  "authors": [
+    "Ruoshi Liu",
+    "Rundi Wu",
+    "Basile Van Hoorick",
+    "Pavel Tokmakov",
+    "Sergey Zakharov",
+    "Carl Vondrick"
+  ],
+  "year": 2023,
+  "doi": "10.1109/iccv51070.2023.00853",
+  "source": "openalex",
+  "categories": [
+    "Artificial intelligence",
+    "Computer science",
+    "Computer vision",
+    "Object (grammar)",
+    "Generalization",
+    "Transformation (genetics)",
+    "Geometric transformation",
+    "Prior probability",
+    "Image (mathematics)",
+    "Zero (linguistics)",
+    "Scale (ratio)",
+    "Mathematics",
+    "Bayesian probability",
+    "Gene",
+    "Linguistics",
+    "Quantum mechanics",
+    "Mathematical analysis",
+    "Physics",
+    "Philosophy",
+    "Chemistry",
+    "Biochemistry"
+  ],
+  "citation_count": 1118,
+  "open_access_pdf_url": "https://arxiv.org/pdf/2303.11328",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W4390873331.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:19.511396+00:00",
+  "raw_metadata": {
+    "openalex_id": "W4390873331",
+    "concepts": [
+      "Artificial intelligence",
+      "Computer science",
+      "Computer vision",
+      "Object (grammar)",
+      "Generalization"
+    ],
+    "oa_status": "green"
+  }
+}

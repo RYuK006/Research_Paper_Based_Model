@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2110703655",
+  "title": "Williamson-Hall analysis in estimation of lattice strain in nanometer-sized ZnO particles",
+  "abstract": "Abstract ZnO nanoparticles were prepared by coprecipitation method at 450C. X-ray diffraction result indicates that the sample is having a crystalline wurtzite phase. Transmission electron microscopy (TEM) result reveals that the ZnO sample is spherical in shape with an average grain size of about 50nm. X-ray peak broadening analysis was used to evaluate the crystalline sizes and lattice strain by the Williamson-Hall (W-H) analysis. All other relevant physical parameters such as strain, stress, and energy density values were also calculated using W-H analysis with different models, viz , uniform deformation model, uniform deformation stress model and uniform deformation energy density model. The root mean square strain was determined from the interplanar spacing and strain estimated from the three models. The three models yield different strain values; it may be due to the anisotropic nature of the material. The mean particle size of ZnO nanoparticles estimated from TEM analysis, Scherrers formula and W-H analysis is highly intercorrelated.",
+  "authors": [
+    "Vishwanath Dattu Mote",
+    "Y. Purushotham",
+    "Babasaheb Nivrutti Dole"
+  ],
+  "year": 2012,
+  "doi": "10.1186/2251-7235-6-6",
+  "source": "openalex",
+  "categories": [
+    "Wurtzite crystal structure",
+    "Materials science",
+    "Nanometre",
+    "Transmission electron microscopy",
+    "Lattice constant",
+    "Anisotropy",
+    "Diffraction",
+    "Condensed matter physics",
+    "Particle size",
+    "Deformation (meteorology)",
+    "Nanoparticle",
+    "Crystallography",
+    "Mineralogy",
+    "Composite material",
+    "Nanotechnology",
+    "Optics",
+    "Metallurgy",
+    "Physics",
+    "Chemistry",
+    "Zinc",
+    "Physical chemistry"
+  ],
+  "citation_count": 2275,
+  "open_access_pdf_url": "https://oiccpress.com/jtap/article/download/2066/747",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2110703655.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:08.847267+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2110703655",
+    "concepts": [
+      "Wurtzite crystal structure",
+      "Materials science",
+      "Nanometre",
+      "Transmission electron microscopy",
+      "Lattice constant"
+    ],
+    "oa_status": "gold"
+  }
+}

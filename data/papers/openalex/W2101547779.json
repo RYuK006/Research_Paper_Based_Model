@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2101547779",
+  "title": "Comparison of silver and molybdenum microfocus X-ray sources for single-crystal structure determination",
+  "abstract": "The quality of diffraction data obtained using silver and molybdenum microsources has been compared for six model compounds with a wide range of absorption factors. The experiments were performed on two 30 W air-cooled Incoatec IµS microfocus sources with multilayer optics mounted on a Bruker D8 goniometer with a SMART APEX II CCD detector. All data were analysed, processed and refined using standard Bruker software. The results show that Ag K α radiation can be beneficial when heavy elements are involved. A numerical absorption correction based on the positions and indices of the crystal faces is shown to be of limited use for the highly focused microsource beams, presumably because the assumption that the crystal is completely bathed in a (top-hat profile) beam of uniform intensity is no longer valid. Fortunately the empirical corrections implemented in SADABS , although originally intended as a correction for absorption, also correct rather well for the variations in the effective volume of the crystal irradiated. In three of the cases studied (two Ag and one Mo) the final SHELXL R 1 against all data after application of empirical corrections implemented in SADABS was below 1%. Since such corrections are designed to optimize the agreement of the intensities of equivalent reflections with different paths through the crystal but the same Bragg 2θ angles, a further correction is required for the 2θ dependence of the absorption. For this, SADABS uses the transmission factor of a spherical crystal with a user-defined value of μ r (where μ is the linear absorption coefficient and r is the effective radius of the crystal); the best results are obtained when r is biased towards the smallest crystal dimension. The results presented here suggest that the IUCr publication requirement that a numerical absorption correction must be applied for strongly absorbing crystals is in need of revision.",
+  "authors": [
+    "Lennard Krause",
+    "Regine Herbst‐Irmer",
+    "George M. Sheldrick",
+    "Dietmar Stalke"
+  ],
+  "year": 2014,
+  "doi": "10.1107/s1600576714022985",
+  "source": "openalex",
+  "categories": [
+    "Goniometer",
+    "Crystal (programming language)",
+    "Optics",
+    "Absorption (acoustics)",
+    "Diffraction",
+    "Molybdenum",
+    "Beam (structure)",
+    "Single crystal",
+    "X-ray",
+    "Detector",
+    "Range (aeronautics)",
+    "Bragg's law",
+    "Materials science",
+    "Chemistry",
+    "Analytical Chemistry (journal)",
+    "Physics",
+    "Crystallography",
+    "Computer science",
+    "Composite material",
+    "Metallurgy",
+    "Chromatography",
+    "Programming language"
+  ],
+  "citation_count": 5149,
+  "open_access_pdf_url": "http://journals.iucr.org/j/issues/2015/01/00/aj5242/aj5242.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2101547779.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:52.258837+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2101547779",
+    "concepts": [
+      "Goniometer",
+      "Crystal (programming language)",
+      "Optics",
+      "Absorption (acoustics)",
+      "Diffraction"
+    ],
+    "oa_status": "hybrid"
+  }
+}

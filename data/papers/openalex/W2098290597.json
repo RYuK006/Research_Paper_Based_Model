@@ -1,0 +1,59 @@
+{
+  "id": "openalex:W2098290597",
+  "title": "A penalized matrix decomposition, with applications to sparse principal components and canonical correlation analysis",
+  "abstract": "We present a penalized matrix decomposition (PMD), a new framework for computing a rank-K approximation for a matrix. We approximate the matrix X as circumflexX = sigma(k=1)(K) d(k)u(k)v(k)(T), where d(k), u(k), and v(k) minimize the squared Frobenius norm of X - circumflexX, subject to penalties on u(k) and v(k). This results in a regularized version of the singular value decomposition. Of particular interest is the use of L(1)-penalties on u(k) and v(k), which yields a decomposition of X using sparse vectors. We show that when the PMD is applied using an L(1)-penalty on v(k) but not on u(k), a method for sparse principal components results. In fact, this yields an efficient algorithm for the \"SCoTLASS\" proposal (Jolliffe and others 2003) for obtaining sparse principal components. This method is demonstrated on a publicly available gene expression data set. We also establish connections between the SCoTLASS method for sparse principal component analysis and the method of Zou and others (2006). In addition, we show that when the PMD is applied to a cross-products matrix, it results in a method for penalized canonical correlation analysis (CCA). We apply this penalized CCA method to simulated data and to a genomic data set consisting of gene expression and DNA copy number measurements on the same set of samples.",
+  "authors": [
+    "Daniela Witten",
+    "Robert John Tibshirani",
+    "Trevor J. Hastie"
+  ],
+  "year": 2009,
+  "doi": "10.1093/biostatistics/kxp008",
+  "source": "openalex",
+  "categories": [
+    "Singular value decomposition",
+    "Principal component analysis",
+    "Sparse PCA",
+    "Mathematics",
+    "Matrix norm",
+    "Canonical correlation",
+    "Robust principal component analysis",
+    "Matrix (chemical analysis)",
+    "Low-rank approximation",
+    "Sparse matrix",
+    "Sparse approximation",
+    "Set (abstract data type)",
+    "Algorithm",
+    "Matrix decomposition",
+    "Combinatorics",
+    "Applied mathematics",
+    "Computer science",
+    "Statistics",
+    "Physics",
+    "Eigenvalues and eigenvectors",
+    "Chemistry",
+    "Mathematical analysis",
+    "Hankel matrix",
+    "Computational chemistry",
+    "Chromatography",
+    "Quantum mechanics",
+    "Gaussian",
+    "Programming language"
+  ],
+  "citation_count": 1549,
+  "open_access_pdf_url": "https://academic.oup.com/biostatistics/article-pdf/10/3/515/17735953/kxp008.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2098290597.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:45.312246+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2098290597",
+    "concepts": [
+      "Singular value decomposition",
+      "Principal component analysis",
+      "Sparse PCA",
+      "Mathematics",
+      "Matrix norm"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "openalex:W2987856468",
+  "title": "Towards learning universal, regional, and local hydrological behaviors via machine learning applied to large-sample datasets",
+  "abstract": "Abstract. Regional rainfall-runoff modeling is an old but still mostly out-standing problem in Hydrological Sciences. The problem currently is that traditional hydrological models degrade significantly in performance when calibrated for multiple basins together instead of for a single basin alone. In this paper, we propose a novel, data-driven approach using Long Short-Term Memory networks (LSTMs), and demonstrate that under a big data paradigm, this is not necessarily the case. By training a single LSTM model on 531 basins from the CAMELS data set using meteorological time series data and static catchment attributes, we were able to significantly improve performance compared to a set of several different hydrological benchmark models. Our proposed approach not only significantly outperforms hydrological models that were calibrated regionally but also achieves better performance than hydrological models that were calibrated for each basin individually. Furthermore, we propose an adaption to the standard LSTM architecture, which we call an Entity-Aware-LSTM (EA-LSTM), that allows for learning, and embedding as a feature layer in a deep learning model, catchment similarities. We show that this learned catchment similarity corresponds well with what we would expect from prior hydrological understanding.",
+  "authors": [
+    "Frederik Kratzert",
+    "Daniel Klotz",
+    "Guy Shalev",
+    "Günter Klambauer",
+    "Sepp Hochreiter",
+    "Grey Nearing"
+  ],
+  "year": 2019,
+  "doi": "10.5194/hess-23-5089-2019",
+  "source": "openalex",
+  "categories": [
+    "Benchmark (surveying)",
+    "Computer science",
+    "Set (abstract data type)",
+    "Feature (linguistics)",
+    "Artificial intelligence",
+    "Machine learning",
+    "Sample (material)",
+    "Drainage basin",
+    "Data set",
+    "Surface runoff",
+    "Similarity (geometry)",
+    "Deep learning",
+    "Data mining",
+    "Cartography",
+    "Geography",
+    "Ecology",
+    "Biology",
+    "Programming language",
+    "Chemistry",
+    "Chromatography",
+    "Linguistics",
+    "Philosophy",
+    "Image (mathematics)"
+  ],
+  "citation_count": 1395,
+  "open_access_pdf_url": "https://doi.org/10.5194/hess-23-5089-2019",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2987856468.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:52.508056+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2987856468",
+    "concepts": [
+      "Benchmark (surveying)",
+      "Computer science",
+      "Set (abstract data type)",
+      "Feature (linguistics)",
+      "Artificial intelligence"
+    ],
+    "oa_status": "gold"
+  }
+}

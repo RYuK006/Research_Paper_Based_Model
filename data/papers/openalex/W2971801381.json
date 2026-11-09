@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2971801381",
+  "title": "Molecular Docking: Shifting Paradigms in Drug Discovery",
+  "abstract": "Molecular docking is an established in silico structure-based method widely used in drug discovery. Docking enables the identification of novel compounds of therapeutic interest, predicting ligand-target interactions at a molecular level, or delineating structure-activity relationships (SAR), without knowing a priori the chemical structure of other target modulators. Although it was originally developed to help understanding the mechanisms of molecular recognition between small and large molecules, uses and applications of docking in drug discovery have heavily changed over the last years. In this review, we describe how molecular docking was firstly applied to assist in drug discovery tasks. Then, we illustrate newer and emergent uses and applications of docking, including prediction of adverse effects, polypharmacology, drug repurposing, and target fishing and profiling, discussing also future applications and further potential of this technique when combined with emergent techniques, such as artificial intelligence.",
+  "authors": [
+    "Luca Pinzi",
+    "Giulio Rastelli"
+  ],
+  "year": 2019,
+  "doi": "10.3390/ijms20184331",
+  "source": "openalex",
+  "categories": [
+    "Drug discovery",
+    "Docking (animal)",
+    "Drug repositioning",
+    "In silico",
+    "Computational biology",
+    "Computer science",
+    "Profiling (computer programming)",
+    "Virtual screening",
+    "Protein–ligand docking",
+    "Drug",
+    "Artificial intelligence",
+    "Bioinformatics",
+    "Chemistry",
+    "Biology",
+    "Pharmacology",
+    "Medicine",
+    "Biochemistry",
+    "Nursing",
+    "Gene",
+    "Operating system"
+  ],
+  "citation_count": 2537,
+  "open_access_pdf_url": "https://www.mdpi.com/1422-0067/20/18/4331/pdf?version=1567591766",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2971801381.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:04.334377+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2971801381",
+    "concepts": [
+      "Drug discovery",
+      "Docking (animal)",
+      "Drug repositioning",
+      "In silico",
+      "Computational biology"
+    ],
+    "oa_status": "gold"
+  }
+}

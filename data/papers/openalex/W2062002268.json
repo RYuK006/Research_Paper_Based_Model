@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2062002268",
+  "title": "High Photoluminescence Efficiency and Optically Pumped Lasing in Solution-Processed Mixed Halide Perovskite Semiconductors",
+  "abstract": "The study of the photophysical properties of organic-metallic lead halide perovskites, which demonstrate excellent photovoltaic performance in devices with electron- and hole-accepting layers, helps to understand their charge photogeneration and recombination mechanism and unravels their potential for other optoelectronic applications. We report surprisingly high photoluminescence (PL) quantum efficiencies, up to 70%, in these solution-processed crystalline films. We find that photoexcitation in the pristine CH3NH3PbI3-xClx perovskite results in free charge carrier formation within 1 ps and that these free charge carriers undergo bimolecular recombination on time scales of 10s to 100s of ns. To exemplify the high luminescence yield of the CH3NH3PbI3-xClx perovskite, we construct and demonstrate the operation of an optically pumped vertical cavity laser comprising a layer of perovskite between a dielectric mirror and evaporated gold top mirrors. These long carrier lifetimes together with exceptionally high luminescence yield are unprecedented in such simply prepared inorganic semiconductors, and we note that these properties are ideally suited for photovoltaic diode operation.",
+  "authors": [
+    "Felix Deschler",
+    "Michael B. Price",
+    "Sandeep Kumar Pathak",
+    "Lina E. Klintberg",
+    "David-Dominik Jarausch",
+    "Ruben Higler",
+    "Sven Hüttner",
+    "Tomas Leijtens",
+    "Samuel D. Stranks",
+    "Henry James Snaith",
+    "Mete Atatüre",
+    "R. T. Phillips",
+    "Richard Henry Friend"
+  ],
+  "year": 2014,
+  "doi": "10.1021/jz5005285",
+  "source": "openalex",
+  "categories": [
+    "Lasing threshold",
+    "Halide",
+    "Photoluminescence",
+    "Perovskite (structure)",
+    "Materials science",
+    "Semiconductor",
+    "Optoelectronics",
+    "Optics",
+    "Inorganic chemistry",
+    "Chemistry",
+    "Physics",
+    "Crystallography",
+    "Wavelength"
+  ],
+  "citation_count": 1767,
+  "open_access_pdf_url": "https://pubs.acs.org/doi/pdf/10.1021/jz5005285?ref=article_openPDF",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2062002268.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:26.104892+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2062002268",
+    "concepts": [
+      "Lasing threshold",
+      "Halide",
+      "Photoluminescence",
+      "Perovskite (structure)",
+      "Materials science"
+    ],
+    "oa_status": "hybrid"
+  }
+}

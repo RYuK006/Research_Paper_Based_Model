@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2077044335",
+  "title": "Metal-triggered Structural Transformations, Aggregation, and Fibrillation of Human α-Synuclein",
+  "abstract": "Parkinson's disease involves the aggregation of alpha-synuclein to form fibrils, which are the major constituent of intracellular protein inclusions (Lewy bodies and Lewy neurites) in dopaminergic neurons of the substantia nigra. Occupational exposure to specific metals, especially manganese, copper, lead, iron, mercury, zinc, aluminum, appears to be a risk factor for Parkinson's disease based on epidemiological studies. Elevated levels of several of these metals have also been reported in the substantia nigra of Parkinson's disease subjects. We examined the effect of various metals on the kinetics of fibrillation of recombinant alpha-synuclein and in inducing conformational changes, as monitored by biophysical techniques. Several di- and trivalent metal ions caused significant accelerations in the rate of alpha-synuclein fibril formation. Aluminum was the most effective, along with copper(II), iron(III), cobalt(III), and manganese(II). The effectiveness correlated with increasing ion charge density. A correlation was noted between efficiency in stimulating fibrillation and inducing a conformational change, ascribed to formation of a partially folded intermediate. The potential for ligand bridging by polyvalent metal ions is proposed to be an important factor in the metal-induced conformational changes of alpha-synuclein. The results indicate that low concentrations of some metals can directly induce alpha-synuclein fibril formation.",
+  "authors": [
+    "Vladimir Nikolaevich Uversky",
+    "Jie Li",
+    "Anthony L. Fink"
+  ],
+  "year": 2001,
+  "doi": "10.1074/jbc.m105343200",
+  "source": "openalex",
+  "categories": [
+    "Substantia nigra",
+    "Chemistry",
+    "Fibril",
+    "Biophysics",
+    "Lewy body",
+    "Intracellular",
+    "Neurite",
+    "Metal",
+    "Dopaminergic",
+    "Parkinson's disease",
+    "Biochemistry",
+    "Dopamine",
+    "Internal medicine",
+    "Neuroscience",
+    "Biology",
+    "Medicine",
+    "Disease",
+    "Organic chemistry",
+    "In vitro"
+  ],
+  "citation_count": 1117,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925819828685/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2077044335.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:19.519867+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2077044335",
+    "concepts": [
+      "Substantia nigra",
+      "Chemistry",
+      "Fibril",
+      "Biophysics",
+      "Lewy body"
+    ],
+    "oa_status": "hybrid"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "openalex:W2621271973",
+  "title": "Olaparib for Metastatic Breast Cancer in Patients with a Germline BRCA Mutation",
+  "abstract": "BACKGROUND: Olaparib is an oral poly(adenosine diphosphate-ribose) polymerase inhibitor that has promising antitumor activity in patients with metastatic breast cancer and a germline BRCA mutation. METHODS: We conducted a randomized, open-label, phase 3 trial in which olaparib monotherapy was compared with standard therapy in patients with a germline BRCA mutation and human epidermal growth factor receptor type 2 (HER2)-negative metastatic breast cancer who had received no more than two previous chemotherapy regimens for metastatic disease. Patients were randomly assigned, in a 2:1 ratio, to receive olaparib tablets (300 mg twice daily) or standard therapy with single-agent chemotherapy of the physician's choice (capecitabine, eribulin, or vinorelbine in 21-day cycles). The primary end point was progression-free survival, which was assessed by blinded independent central review and was analyzed on an intention-to-treat basis. RESULTS: Of the 302 patients who underwent randomization, 205 were assigned to receive olaparib and 97 were assigned to receive standard therapy. Median progression-free survival was significantly longer in the olaparib group than in the standard-therapy group (7.0 months vs. 4.2 months; hazard ratio for disease progression or death, 0.58; 95% confidence interval, 0.43 to 0.80; P<0.001). The response rate was 59.9% in the olaparib group and 28.8% in the standard-therapy group. The rate of grade 3 or higher adverse events was 36.6% in the olaparib group and 50.5% in the standard-therapy group, and the rate of treatment discontinuation due to toxic effects was 4.9% and 7.7%, respectively. CONCLUSIONS: Among patients with HER2-negative metastatic breast cancer and a germline BRCA mutation, olaparib monotherapy provided a significant benefit over standard therapy; median progression-free survival was 2.8 months longer and the risk of disease progression or death was 42% lower with olaparib monotherapy than with standard therapy. (Funded by AstraZeneca; OlympiAD ClinicalTrials.gov number, NCT02000622 .).",
+  "authors": [
+    "Mark E. Robson",
+    "Seock‐Ah Im",
+    "Elżbieta Senkus",
+    "Binghe Xu",
+    "Susan M. Domchek",
+    "Norikazu Masuda",
+    "Suzette Delaloge",
+    "Wěi Li",
+    "Nadine Tung",
+    "Anne Caroline Armstrong",
+    "Wenting Wu",
+    "Carsten Dietrich Goessl",
+    "Sarah K. Runswick",
+    "PierFranco Conte"
+  ],
+  "year": 2017,
+  "doi": "10.1056/nejmoa1706450",
+  "source": "openalex",
+  "categories": [
+    "Olaparib",
+    "Medicine",
+    "Internal medicine",
+    "Oncology",
+    "PARP inhibitor",
+    "Hazard ratio",
+    "BRCA mutation",
+    "Metastatic breast cancer",
+    "Breast cancer",
+    "Eribulin",
+    "Cancer",
+    "Confidence interval",
+    "Poly ADP ribose polymerase",
+    "Polymerase",
+    "Chemistry",
+    "Gene",
+    "Biochemistry"
+  ],
+  "citation_count": 3409,
+  "open_access_pdf_url": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa1706450?articleTools=true",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2621271973.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:57.739453+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2621271973",
+    "concepts": [
+      "Olaparib",
+      "Medicine",
+      "Internal medicine",
+      "Oncology",
+      "PARP inhibitor"
+    ],
+    "oa_status": "bronze"
+  }
+}

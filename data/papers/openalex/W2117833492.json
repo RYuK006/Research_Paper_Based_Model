@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2117833492",
+  "title": "AMP-activated protein kinase signaling in metabolic regulation",
+  "abstract": "AMP-activated protein kinase (AMPK) is an energy sensor that regulates cellular metabolism. When activated by a deficit in nutrient status, AMPK stimulates glucose uptake and lipid oxidation to produce energy, while turning off energy-consuming processes including glucose and lipid production to restore energy balance. AMPK controls whole-body glucose homeostasis by regulating metabolism in multiple peripheral tissues, such as skeletal muscle, liver, adipose tissues, and pancreatic beta cells--key tissues in the pathogenesis of type 2 diabetes. By responding to diverse hormonal signals including leptin and adiponectin, AMPK serves as an intertissue signal integrator among peripheral tissues, as well as the hypothalamus, in the control of whole-body energy balance.",
+  "authors": [
+    "Yun Chau Long"
+  ],
+  "year": 2006,
+  "doi": "10.1172/jci29044",
+  "source": "openalex",
+  "categories": [
+    "AMPK",
+    "AMP-activated protein kinase",
+    "Protein kinase A",
+    "Endocrinology",
+    "Leptin",
+    "Internal medicine",
+    "Adipose tissue",
+    "Adiponectin",
+    "Lipid metabolism",
+    "Hormone",
+    "Energy homeostasis",
+    "Signal transduction",
+    "Biology",
+    "Kinase",
+    "Chemistry",
+    "Cell biology",
+    "Insulin",
+    "Medicine",
+    "Insulin resistance",
+    "Obesity"
+  ],
+  "citation_count": 1124,
+  "open_access_pdf_url": "http://www.jci.org/articles/view/29044/files/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2117833492.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:17.043590+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2117833492",
+    "concepts": [
+      "AMPK",
+      "AMP-activated protein kinase",
+      "Protein kinase A",
+      "Endocrinology",
+      "Leptin"
+    ],
+    "oa_status": "bronze"
+  }
+}

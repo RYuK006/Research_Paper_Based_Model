@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W2106648157",
+  "title": "Improved prediction of protein side‐chain conformations with SCWRL4",
+  "abstract": "Determination of side-chain conformations is an important step in protein structure prediction and protein design. Many such methods have been presented, although only a small number are in widespread use. SCWRL is one such method, and the SCWRL3 program (2003) has remained popular because of its speed, accuracy, and ease-of-use for the purpose of homology modeling. However, higher accuracy at comparable speed is desirable. This has been achieved in a new program SCWRL4 through: (1) a new backbone-dependent rotamer library based on kernel density estimates; (2) averaging over samples of conformations about the positions in the rotamer library; (3) a fast anisotropic hydrogen bonding function; (4) a short-range, soft van der Waals atom-atom interaction potential; (5) fast collision detection using k-discrete oriented polytopes; (6) a tree decomposition algorithm to solve the combinatorial problem; and (7) optimization of all parameters by determining the interaction graph within the crystal environment using symmetry operators of the crystallographic space group. Accuracies as a function of electron density of the side chains demonstrate that side chains with higher electron density are easier to predict than those with low-electron density and presumed conformational disorder. For a testing set of 379 proteins, 86% of chi(1) angles and 75% of chi(1+2) angles are predicted correctly within 40 degrees of the X-ray positions. Among side chains with higher electron density (25-100th percentile), these numbers rise to 89 and 80%. The new program maintains its simple command-line interface, designed for homology modeling, and is now available as a dynamic-linked library for incorporation into other software programs.",
+  "authors": [
+    "Georgii G. Krivov",
+    "Maxim V. Shapovalov",
+    "Roland L. Dunbrack"
+  ],
+  "year": 2009,
+  "doi": "10.1002/prot.22488",
+  "source": "openalex",
+  "categories": [
+    "Conformational isomerism",
+    "Side chain",
+    "Electron density",
+    "Triclinic crystal system",
+    "van der Waals force",
+    "Outlier",
+    "Chemistry",
+    "Protein structure",
+    "Crystallography",
+    "Algorithm",
+    "Computational chemistry",
+    "Crystal structure",
+    "Mathematics",
+    "Computer science",
+    "Physics",
+    "Electron",
+    "Molecule",
+    "Artificial intelligence",
+    "Quantum mechanics",
+    "Biochemistry",
+    "Organic chemistry",
+    "Polymer"
+  ],
+  "citation_count": 1305,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/prot.22488",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2106648157.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:57.789592+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2106648157",
+    "concepts": [
+      "Conformational isomerism",
+      "Side chain",
+      "Electron density",
+      "Triclinic crystal system",
+      "van der Waals force"
+    ],
+    "oa_status": "bronze"
+  }
+}

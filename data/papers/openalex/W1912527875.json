@@ -1,0 +1,60 @@
+{
+  "id": "openalex:W1912527875",
+  "title": "Isoprenoid biosynthesis in bacteria: a novel pathway for the early steps leading to isopentenyl diphosphate",
+  "abstract": "Incorporation of 13C-labelled glucose, acetate, pyruvate or erythrose allowed the determination of the origin of the carbon atoms of triterpenoids of the hopane series and/or of the ubiquinones from several bacteria (Zymomonas mobilis, Methylobacterium fujisawaense, Escherichia coli and Alicyclobacillus acidoterrestris) confirmed our earlier results obtained by incorporation of 13C-labelled acetate into the hopanoids of other bacteria and led to the identification of a novel biosynthetic route for the early steps of isoprenoid biosynthesis. The C5 framework of isoprenic units results most probably (i) from the condensation of a C2 unit derived from pyruvate decarboxylation (e.g. thiamine-activated acetaldehyde) on the C-2 carbonyl group of a triose phosphate derivative issued probably from dihydroxyacetone phosphate and not from pyruvate and (ii) from a transposition step. Although this hypothetical biosynthetic pathway resembles that of L-valine biosynthesis, this amino acid or its C5 precursors could be excluded as intermediates in the formation of isoprenic units.",
+  "authors": [
+    "Michel Rohmer",
+    "M'hamed Knani",
+    "Pascale Simonin",
+    "Bertrand Sutter",
+    "Hermann Sahm"
+  ],
+  "year": 1993,
+  "doi": "10.1042/bj2950517",
+  "source": "openalex",
+  "categories": [
+    "Biosynthesis",
+    "Decarboxylation",
+    "Biochemistry",
+    "Zymomonas mobilis",
+    "Hopanoids",
+    "Thiamine pyrophosphate",
+    "Chemistry",
+    "Thiamine",
+    "Dihydroxyacetone phosphate",
+    "Pyruvate decarboxylation",
+    "Propionibacterium",
+    "Stereochemistry",
+    "Acetyl-CoA",
+    "Bacteria",
+    "Biology",
+    "Pyruvate dehydrogenase complex",
+    "Cofactor",
+    "Phosphate",
+    "Metabolism",
+    "Enzyme",
+    "Paleontology",
+    "Ethanol fuel",
+    "Catalysis",
+    "Fermentation",
+    "Source rock",
+    "Genetics",
+    "Structural basin"
+  ],
+  "citation_count": 1231,
+  "open_access_pdf_url": "https://portlandpress.com/biochemj/article-pdf/295/2/517/611702/bj2950517.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1912527875.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:04.527104+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1912527875",
+    "concepts": [
+      "Biosynthesis",
+      "Decarboxylation",
+      "Biochemistry",
+      "Zymomonas mobilis",
+      "Hopanoids"
+    ],
+    "oa_status": "bronze"
+  }
+}

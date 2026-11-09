@@ -1,0 +1,58 @@
+{
+  "id": "openalex:W2310142985",
+  "title": "Water electrolysis on La1−xSrxCoO3−δ perovskite electrocatalysts",
+  "abstract": "Perovskite oxides are attractive candidates as catalysts for the electrolysis of water in alkaline energy storage and conversion systems. However, the rational design of active catalysts has been hampered by the lack of understanding of the mechanism of water electrolysis on perovskite surfaces. Key parameters that have been overlooked include the role of oxygen vacancies, B-O bond covalency, and redox activity of lattice oxygen species. Here we present a series of cobaltite perovskites where the covalency of the Co-O bond and the concentration of oxygen vacancies are controlled through Sr(2+) substitution into La(1-x)Sr(x)CoO(3-δ) . We attempt to rationalize the high activities of La(1-x)Sr(x)CoO(3-δ) through the electronic structure and participation of lattice oxygen in the mechanism of water electrolysis as revealed through ab initio modelling. Using this approach, we report a material, SrCoO2.7, with a high, room temperature-specific activity and mass activity towards alkaline water electrolysis.",
+  "authors": [
+    "J. Tyler Mefford",
+    "Rong Xi",
+    "Artem M. Abakumov",
+    "William G. Hardin",
+    "Sheng Dai",
+    "Alexie M. Kolpak",
+    "Keith P. Johnston",
+    "Keith J. Stevenson"
+  ],
+  "year": 2016,
+  "doi": "10.1038/ncomms11053",
+  "source": "openalex",
+  "categories": [
+    "Cobaltite",
+    "Electrolysis",
+    "Perovskite (structure)",
+    "Electrolysis of water",
+    "Alkaline water electrolysis",
+    "Oxygen",
+    "Oxygen evolution",
+    "Catalysis",
+    "Redox",
+    "Inorganic chemistry",
+    "Materials science",
+    "Electrochemistry",
+    "Chemistry",
+    "Chemical engineering",
+    "Physical chemistry",
+    "Electrode",
+    "Crystallography",
+    "Metallurgy",
+    "Biochemistry",
+    "Engineering",
+    "Organic chemistry",
+    "Electrolyte"
+  ],
+  "citation_count": 1205,
+  "open_access_pdf_url": "https://www.nature.com/articles/ncomms11053.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2310142985.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:08.237390+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2310142985",
+    "concepts": [
+      "Cobaltite",
+      "Electrolysis",
+      "Perovskite (structure)",
+      "Electrolysis of water",
+      "Alkaline water electrolysis"
+    ],
+    "oa_status": "gold"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "openalex:W1989189480",
+  "title": "Oxidation Resistance of Graphene-Coated Cu and Cu/Ni Alloy",
+  "abstract": "The ability to protect refined metals from reactive environments is vital to many industrial and academic applications. Current solutions, however, typically introduce several negative effects, including increased thickness and changes in the metal physical properties. In this paper, we demonstrate for the first time the ability of graphene films grown by chemical vapor deposition to protect the surface of the metallic growth substrates of Cu and Cu/Ni alloy from air oxidation. In particular, graphene prevents the formation of any oxide on the protected metal surfaces, thus allowing pure metal surfaces only one atom away from reactive environments. SEM, Raman spectroscopy, and XPS studies show that the metal surface is well protected from oxidation even after heating at 200 °C in air for up to 4 h. Our work further shows that graphene provides effective resistance against hydrogen peroxide. This protection method offers significant advantages and can be used on any metal that catalyzes graphene growth.",
+  "authors": [
+    "Shanshan Chen",
+    "Lola Brown",
+    "Mark P. Levendorf",
+    "Weiwei Cai",
+    "Sang‐Yong Ju",
+    "Jonathan P. Edgeworth",
+    "Xuesong Li",
+    "Carl W. Magnuson",
+    "Aruna Velamakanni",
+    "Richard D. Piner",
+    "Junyong Kang",
+    "Jiwoong Park",
+    "Rodney S. Ruoff"
+  ],
+  "year": 2011,
+  "doi": "10.1021/nn103028d",
+  "source": "openalex",
+  "categories": [
+    "Graphene",
+    "Materials science",
+    "Oxide",
+    "X-ray photoelectron spectroscopy",
+    "Raman spectroscopy",
+    "Alloy",
+    "Metal",
+    "Chemical engineering",
+    "Chemical vapor deposition",
+    "Graphene oxide paper",
+    "Copper",
+    "Graphene foam",
+    "Hydrogen peroxide",
+    "Nanotechnology",
+    "Metallurgy",
+    "Chemistry",
+    "Physics",
+    "Engineering",
+    "Organic chemistry",
+    "Optics"
+  ],
+  "citation_count": 1388,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1011.3875",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1989189480.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:52.560631+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1989189480",
+    "concepts": [
+      "Graphene",
+      "Materials science",
+      "Oxide",
+      "X-ray photoelectron spectroscopy",
+      "Raman spectroscopy"
+    ],
+    "oa_status": "green"
+  }
+}

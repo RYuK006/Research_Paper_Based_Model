@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2953065444",
+  "title": "NetMHCpan-4.0: Improved Peptide–MHC Class I Interaction Predictions Integrating Eluted Ligand and Peptide Binding Affinity Data",
+  "abstract": "Cytotoxic T cells are of central importance in the immune system's response to disease. They recognize defective cells by binding to peptides presented on the cell surface by MHC class I molecules. Peptide binding to MHC molecules is the single most selective step in the Ag-presentation pathway. Therefore, in the quest for T cell epitopes, the prediction of peptide binding to MHC molecules has attracted widespread attention. In the past, predictors of peptide-MHC interactions have primarily been trained on binding affinity data. Recently, an increasing number of MHC-presented peptides identified by mass spectrometry have been reported containing information about peptide-processing steps in the presentation pathway and the length distribution of naturally presented peptides. In this article, we present NetMHCpan-4.0, a method trained on binding affinity and eluted ligand data leveraging the information from both data types. Large-scale benchmarking of the method demonstrates an increase in predictive performance compared with state-of-the-art methods when it comes to identification of naturally processed ligands, cancer neoantigens, and T cell epitopes.",
+  "authors": [
+    "Vanessa Isabell Jurtz",
+    "Sinu Paul",
+    "Massimo Andreatta",
+    "Paolo Marcatili",
+    "Bjoern Peters",
+    "Morten Nielsen"
+  ],
+  "year": 2017,
+  "doi": "10.4049/jimmunol.1700893",
+  "source": "openalex",
+  "categories": [
+    "Peptide",
+    "Elution",
+    "Ligand (biochemistry)",
+    "Chemistry",
+    "Class (philosophy)",
+    "Major histocompatibility complex",
+    "MHC class I",
+    "Combinatorial chemistry",
+    "Computational biology",
+    "Chromatography",
+    "Biochemistry",
+    "Biology",
+    "Computer science",
+    "Artificial intelligence",
+    "Receptor",
+    "Gene"
+  ],
+  "citation_count": 1448,
+  "open_access_pdf_url": "https://www.jimmunol.org/content/jimmunol/199/9/3360.full.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2953065444.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:48.279813+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2953065444",
+    "concepts": [
+      "Peptide",
+      "Elution",
+      "Ligand (biochemistry)",
+      "Chemistry",
+      "Class (philosophy)"
+    ],
+    "oa_status": "hybrid"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W1802692242",
+  "title": "Evolution of Graphene Growth on Ni and Cu by Carbon Isotope Labeling",
+  "abstract": "Large-area graphene growth is required for the development and production of electronic devices. Recently, chemical vapor deposition (CVD) of hydrocarbons has shown some promise in growing large-area graphene or few-layer graphene films on metal substrates such as Ni and Cu. It has been proposed that CVD growth of graphene on Ni occurs by a C segregation or precipitation process whereas graphene on Cu grows by a surface adsorption process. Here we used carbon isotope labeling in conjunction with Raman spectroscopic mapping to track carbon during the growth process. The data clearly show that at high temperatures sequentially introduced isotopic carbon diffuses into the Ni first, mixes, and then segregates and precipitates at the surface of Ni forming graphene and/or graphite with a uniform mixture of (12)C and (13)C as determined by the peak position of the Raman G-band peak. On the other hand, graphene growth on Cu is clearly by surface adsorption where the spatial distribution of (12)C and (13)C follows the precursor time sequence and the linear growth rate ranges from about 1 to as high as 6 mum/min depending upon Cu grain orientation. This data is critical in guiding the graphene growth process as we try to achieve the highest quality graphene for electronic devices.",
+  "authors": [
+    "Xuesong Li",
+    "Weiwei Cai",
+    "Luigi Colombo",
+    "Rodney S. Ruoff"
+  ],
+  "year": 2009,
+  "doi": "10.1021/nl902515k",
+  "source": "openalex",
+  "categories": [
+    "Graphene",
+    "Chemical vapor deposition",
+    "Raman spectroscopy",
+    "Materials science",
+    "Graphite",
+    "Adsorption",
+    "Carbon fibers",
+    "Graphene nanoribbons",
+    "Precipitation",
+    "Chemical engineering",
+    "Nanotechnology",
+    "Analytical Chemistry (journal)",
+    "Chemistry",
+    "Metallurgy",
+    "Physical chemistry",
+    "Composite material",
+    "Composite number",
+    "Organic chemistry",
+    "Engineering",
+    "Meteorology",
+    "Physics",
+    "Optics"
+  ],
+  "citation_count": 1623,
+  "open_access_pdf_url": "https://arxiv.org/pdf/0907.1859",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1802692242.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:38.132944+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1802692242",
+    "concepts": [
+      "Graphene",
+      "Chemical vapor deposition",
+      "Raman spectroscopy",
+      "Materials science",
+      "Graphite"
+    ],
+    "oa_status": "green"
+  }
+}

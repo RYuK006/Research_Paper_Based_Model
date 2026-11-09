@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2108446403",
+  "title": "Geometry optimizations in the zero order regular approximation for relativistic effects",
+  "abstract": "Analytical expressions are derived for the evaluation of energy gradients in the zeroth order regular approximation (ZORA) to the Dirac equation. The electrostatic shift approximation is used to avoid gauge dependence problems. Comparison is made to the quasirelativistic Pauli method, the limitations of which are highlighted. The structures and first metal-carbonyl bond dissociation energies for the transition metal complexes W(CO)6, Os(CO)5, and Pt(CO)4 are calculated, and basis set effects are investigated.",
+  "authors": [
+    "Erik van Lenthe",
+    "Andreas W. Ehlers",
+    "Evert-Jan Baerends"
+  ],
+  "year": 1999,
+  "doi": "10.1063/1.478813",
+  "source": "openalex",
+  "categories": [
+    "Basis set",
+    "Bond-dissociation energy",
+    "Zero order",
+    "Relativistic quantum chemistry",
+    "Dissociation (chemistry)",
+    "Zero (linguistics)",
+    "Physics",
+    "Zeroth law of thermodynamics",
+    "Bond length",
+    "Zero-point energy",
+    "Dirac equation",
+    "Geometry",
+    "Quantum mechanics",
+    "First order",
+    "Atomic physics",
+    "Mathematical physics",
+    "Chemistry",
+    "Mathematics",
+    "Molecule",
+    "Physical chemistry",
+    "Applied mathematics",
+    "Linguistics",
+    "Philosophy"
+  ],
+  "citation_count": 2473,
+  "open_access_pdf_url": "https://pubs.aip.org/aip/jcp/article-pdf/110/18/8943/10797494/8943_1_online.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2108446403.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:04.451615+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2108446403",
+    "concepts": [
+      "Basis set",
+      "Bond-dissociation energy",
+      "Zero order",
+      "Relativistic quantum chemistry",
+      "Dissociation (chemistry)"
+    ],
+    "oa_status": "bronze"
+  }
+}

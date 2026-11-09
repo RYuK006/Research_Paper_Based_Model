@@ -1,0 +1,44 @@
+{
+  "id": "openalex:W2051031104",
+  "title": "Nitric oxide mediates glutamate-linked enhancement of cGMP levels in the cerebellum.",
+  "abstract": "Nitric oxide, which mediates influences of numerous neurotransmitters and modulators on vascular smooth muscle and leukocytes, can be formed in the brain from arginine by an enzymatic activity that stoichiometrically generates citrulline. We show that glutamate and related amino acids, such as N-methyl-D-aspartate, markedly stimulate arginine--citrulline transformation in cerebellar slices stoichiometrically with enhancement of cGMP levels. N omega-monomethyl-L-arginine blocks the augmentation both of citrulline and cGMP with identical potencies. Arginine competitively reverses both effects of N omega-monomethyl-L-arginine with the same potencies. Hemoglobin, which complexes nitric oxide, prevents the stimulation by N-methyl-D-aspartate of cGMP levels, and superoxide dismutase, which elevates nitric oxide levels, increases cGMP formation. These data establish that nitric oxide mediates the stimulation by glutamate of cGMP formation.",
+  "authors": [
+    "David S. Bredt",
+    "Solomon H. Snyder"
+  ],
+  "year": 1989,
+  "doi": "10.1073/pnas.86.22.9030",
+  "source": "openalex",
+  "categories": [
+    "Nitric oxide",
+    "Citrulline",
+    "Arginine",
+    "Glutamate receptor",
+    "Stimulation",
+    "Chemistry",
+    "Biochemistry",
+    "Nitric oxide synthase",
+    "Cerebellum",
+    "NMDA receptor",
+    "Amino acid",
+    "Biology",
+    "Endocrinology",
+    "Receptor"
+  ],
+  "citation_count": 1837,
+  "open_access_pdf_url": "https://pnas.org/doi/full/10.1073/pnas.86.22.9030",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2051031104.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:22.301944+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2051031104",
+    "concepts": [
+      "Nitric oxide",
+      "Citrulline",
+      "Arginine",
+      "Glutamate receptor",
+      "Stimulation"
+    ],
+    "oa_status": "bronze"
+  }
+}

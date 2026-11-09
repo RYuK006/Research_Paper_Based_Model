@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2114367386",
+  "title": "PRODRG: a tool for high-throughput crystallography of protein–ligand complexes",
+  "abstract": "The small-molecule topology generator PRODRG is described, which takes input from existing coordinates or various two-dimensional formats and automatically generates coordinates and molecular topologies suitable for X-ray refinement of protein-ligand complexes. Test results are described for automatic generation of topologies followed by energy minimization for a subset of compounds from the Cambridge Structural Database, which shows that, within the limits of the empirical GROMOS87 force field used, structures with good geometries are generated. X-ray refinement in X-PLOR/CNS, REFMAC and SHELX using PRODRG-generated topologies produces results comparable to refinement with topologies from the standard libraries. However, tests with distorted starting coordinates show that PRODRG topologies perform better, both in terms of ligand geometry and of crystallographic R factors.",
+  "authors": [
+    "Alexander W. Schüttelkopf",
+    "Daan M. F. van Aalten"
+  ],
+  "year": 2004,
+  "doi": "10.1107/s0907444904011679",
+  "source": "openalex",
+  "categories": [
+    "Network topology",
+    "Topology (electrical circuits)",
+    "Minification",
+    "Ligand (biochemistry)",
+    "Computer science",
+    "Generator (circuit theory)",
+    "Energy minimization",
+    "Crystallography",
+    "Algorithm",
+    "Chemistry",
+    "Physics",
+    "Mathematics",
+    "Computational chemistry",
+    "Combinatorics",
+    "Programming language",
+    "Quantum mechanics",
+    "Biochemistry",
+    "Power (physics)",
+    "Receptor",
+    "Operating system"
+  ],
+  "citation_count": 4837,
+  "open_access_pdf_url": "http://journals.iucr.org/d/issues/2004/08/00/hm5010/hm5010.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2114367386.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:52.290359+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2114367386",
+    "concepts": [
+      "Network topology",
+      "Topology (electrical circuits)",
+      "Minification",
+      "Ligand (biochemistry)",
+      "Computer science"
+    ],
+    "oa_status": "hybrid"
+  }
+}

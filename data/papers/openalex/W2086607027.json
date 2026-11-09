@@ -1,0 +1,45 @@
+{
+  "id": "openalex:W2086607027",
+  "title": "Nod2, a Nod1/Apaf-1 Family Member That Is Restricted to Monocytes and Activates NF-κB",
+  "abstract": "Apaf-1 and Nod1 are members of a protein family, each of which contains a caspase recruitment domain (CARD) linked to a nucleotide-binding domain, which regulate apoptosis and/or NF-kappaB activation. Nod2, a third member of the family, was identified. Nod2 is composed of two N-terminal CARDs, a nucleotide-binding domain, and multiple C-terminal leucine-rich repeats. Although Nod1 and Apaf-1 were broadly expressed in tissues, the expression of Nod2 was highly restricted to monocytes. Nod2 induced nuclear factor kappaB (NF-kappaB) activation, which required IKKgamma and was inhibited by dominant negative mutants of IkappaBalpha, IKKalpha, IKKbeta, and IKKgamma. Nod2 interacted with the serine-threonine kinase RICK via a homophilic CARD-CARD interaction. Furthermore, NF-kappaB activity induced by Nod2 correlated with its ability to interact with RICK and was specifically inhibited by a truncated mutant form of RICK containing its CARD. The identification of Nod2 defines a subfamily of Apaf-1-like proteins that function through RICK to activate a NF-kappaB signaling pathway.",
+  "authors": [
+    "Yasunori Ogura",
+    "Naohiro Inohara",
+    "Adalberto Benito",
+    "Felicia F. Chen",
+    "Shoji Yamaoka",
+    "Gabriel Núñez"
+  ],
+  "year": 2001,
+  "doi": "10.1074/jbc.m008072200",
+  "source": "openalex",
+  "categories": [
+    "NOD2",
+    "NOD1",
+    "Family member",
+    "Cell biology",
+    "Chemistry",
+    "Biology",
+    "Genetics",
+    "Innate immune system",
+    "Medicine",
+    "Immune system",
+    "Family medicine"
+  ],
+  "citation_count": 1387,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925818462795/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2086607027.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:52.568702+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2086607027",
+    "concepts": [
+      "NOD2",
+      "NOD1",
+      "Family member",
+      "Cell biology",
+      "Chemistry"
+    ],
+    "oa_status": "hybrid"
+  }
+}

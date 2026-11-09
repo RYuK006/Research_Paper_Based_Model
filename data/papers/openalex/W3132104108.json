@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W3132104108",
+  "title": "White Analytical Chemistry: An approach to reconcile the principles of Green Analytical Chemistry and functionality",
+  "abstract": "The concept of White Analytical Chemistry (WAC) is presented as an extension of Green Analytical Chemistry (GAC). We propose the 12 WAC principles as an alternative to the known 12 GAC principles. In addition to green aspects, WAC takes into account other key criteria affecting the quality of the method, analytical (red) and practical (blue). In reference to the RGB color model, according to which mixing of red, green and blue light beams gives the impression of whiteness, a white analytical method shows the coherence and synergy of the analytical, ecological and practical attributes. Whiteness can also be quantified, based on the assessment of individual principles, as a convenient parameter useful in comparisons and selecting optimal method. WAC is closer to the idea of sustainable development due to a more holistic view, as it strives for a compromise that avoids an unconditional increase in greenness at the expense of functionality.",
+  "authors": [
+    "Paweł Mateusz Nowak",
+    "Renata Wietecha‐Posłuszny",
+    "Janusz B. Pawliszyn"
+  ],
+  "year": 2021,
+  "doi": "10.1016/j.trac.2021.116223",
+  "source": "openalex",
+  "categories": [
+    "Green chemistry",
+    "Chemistry",
+    "Extension (predicate logic)",
+    "Coherence (philosophical gambling strategy)",
+    "Biochemical engineering",
+    "Quality (philosophy)",
+    "Computer science",
+    "Nanotechnology",
+    "Management science",
+    "Mathematics",
+    "Engineering",
+    "Materials science",
+    "Epistemology",
+    "Organic chemistry",
+    "Statistics",
+    "Philosophy",
+    "Catalysis",
+    "Ionic liquid",
+    "Programming language"
+  ],
+  "citation_count": 1341,
+  "open_access_pdf_url": "https://www.sciencedirect.com/science/article/pii/S0165993621000455/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3132104108.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:55.273588+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3132104108",
+    "concepts": [
+      "Green chemistry",
+      "Chemistry",
+      "Extension (predicate logic)",
+      "Coherence (philosophical gambling strategy)",
+      "Biochemical engineering"
+    ],
+    "oa_status": "hybrid"
+  }
+}

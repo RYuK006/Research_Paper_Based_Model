@@ -1,0 +1,57 @@
+{
+  "id": "openalex:W2061056490",
+  "title": "Cellular and Synaptic Mechanisms of Anti-NMDA Receptor Encephalitis",
+  "abstract": "We recently described a severe, potentially lethal, but treatment-responsive encephalitis that associates with autoantibodies to the NMDA receptor (NMDAR) and results in behavioral symptoms similar to those obtained with models of genetic or pharmacologic attenuation of NMDAR function. Here, we demonstrate that patients' NMDAR antibodies cause a selective and reversible decrease in NMDAR surface density and synaptic localization that correlates with patients' antibody titers. The mechanism of this decrease is selective antibody-mediated capping and internalization of surface NMDARs, as Fab fragments prepared from patients' antibodies did not decrease surface receptor density, but subsequent cross-linking with anti-Fab antibodies recapitulated the decrease caused by intact patient NMDAR antibodies. Moreover, whole-cell patch-clamp recordings of miniature EPSCs in cultured rat hippocampal neurons showed that patients' antibodies specifically decreased synaptic NMDAR-mediated currents, without affecting AMPA receptor-mediated currents. In contrast to these profound effects on NMDARs, patients' antibodies did not alter the localization or expression of other glutamate receptors or synaptic proteins, number of synapses, dendritic spines, dendritic complexity, or cell survival. In addition, NMDAR density was dramatically reduced in the hippocampus of female Lewis rats infused with patients' antibodies, similar to the decrease observed in the hippocampus of autopsied patients. These studies establish the cellular mechanisms through which antibodies of patients with anti-NMDAR encephalitis cause a specific, titer-dependent, and reversible loss of NMDARs. The loss of this subtype of glutamate receptors eliminates NMDAR-mediated synaptic function, resulting in the learning, memory, and other behavioral deficits observed in patients with anti-NMDAR encephalitis.",
+  "authors": [
+    "Ethan G. Hughes",
+    "Xiaoyu Peng",
+    "Amy J. Gleichman",
+    "Meizan Lai",
+    "Lei Zhou",
+    "Ryan C. Tsou",
+    "Thomas D. Parsons",
+    "David R. Lynch",
+    "Josep O. Dalmau",
+    "Rita J. Balice‐Gordon"
+  ],
+  "year": 2010,
+  "doi": "10.1523/jneurosci.0167-10.2010",
+  "source": "openalex",
+  "categories": [
+    "NMDA receptor",
+    "AMPA receptor",
+    "Dendritic spine",
+    "Antibody",
+    "Glutamate receptor",
+    "Receptor",
+    "Hippocampal formation",
+    "Neuroscience",
+    "Hippocampus",
+    "Internalization",
+    "Anti-NMDA receptor encephalitis",
+    "Biology",
+    "Autoantibody",
+    "Synaptic plasticity",
+    "Glutamatergic",
+    "Cell biology",
+    "Immunology",
+    "Chemistry",
+    "Biochemistry"
+  ],
+  "citation_count": 1163,
+  "open_access_pdf_url": "https://www.jneurosci.org/content/jneuro/30/17/5866.full.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2061056490.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:12.263738+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2061056490",
+    "concepts": [
+      "NMDA receptor",
+      "AMPA receptor",
+      "Dendritic spine",
+      "Antibody",
+      "Glutamate receptor"
+    ],
+    "oa_status": "hybrid"
+  }
+}

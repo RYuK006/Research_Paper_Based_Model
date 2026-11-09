@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W1602127108",
+  "title": "First-principles determination of the structural, vibrational and thermodynamic properties of diamond, graphite, and derivatives",
+  "abstract": "The structural, dynamical, and thermodynamic properties of diamond, graphite and layered derivatives (graphene, rhombohedral graphite) are computed using a combination of density-functional theory total-energy calculations and density-functional perturbation theory lattice dynamics in the generalized gradient approximation. Overall, very good agreement is found for the structural properties and phonon dispersions, with the exception of the $c∕a$ ratio in graphite and the associated elastic constants and phonon dispersions. Both the ${C}_{33}$ elastic constant and the $\\ensuremath{\\Gamma}$ to $A$ phonon dispersions are brought to close agreement with available data once the experimental $c∕a$ is chosen for the calculations. The vibrational free energy and the thermal expansion, the temperature dependence of the elastic moduli and the specific heat are calculated using the quasiharmonic approximation. Graphite shows a distinctive in-plane negative thermal-expansion coefficient that reaches its lowest value around room temperature, in very good agreement with experiments. Thermal contraction in graphene is found to be three times as large; in both cases, bending acoustic modes are shown to be responsible for the contraction, in a direct manifestation of the membrane effect predicted by Lifshitz over $50\\phantom{\\rule{0.3em}{0ex}}\\text{years}$ ago. Stacking directly affects the bending modes, explaining the large numerical difference between the thermal-contraction coefficients in graphite and graphene, notwithstanding their common physical origin.",
+  "authors": [
+    "Nicolas Mounet",
+    "Nicola Marzari"
+  ],
+  "year": 2005,
+  "doi": "10.1103/physrevb.71.205214",
+  "source": "openalex",
+  "categories": [
+    "Thermal expansion",
+    "Phonon",
+    "Graphite",
+    "Diamond",
+    "Materials science",
+    "Graphene",
+    "Negative thermal expansion",
+    "Condensed matter physics",
+    "Thermodynamics",
+    "Density functional theory",
+    "Heat capacity",
+    "Computational chemistry",
+    "Chemistry",
+    "Physics",
+    "Nanotechnology",
+    "Composite material"
+  ],
+  "citation_count": 1171,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0412643",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1602127108.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:12.182975+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1602127108",
+    "concepts": [
+      "Thermal expansion",
+      "Phonon",
+      "Graphite",
+      "Diamond",
+      "Materials science"
+    ],
+    "oa_status": "green"
+  }
+}

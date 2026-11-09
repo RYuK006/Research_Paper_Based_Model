@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W2006113617",
+  "title": "Thermodynamics of the carbon dioxide system in the oceans",
+  "abstract": "In the next ten years, a number of studies on the carbonate system are planned as part of the JGOFS/WOCE programs. The carbon dioxide system will be studied by measuring at least two of the controlling parameters; pH, total alkalinity (TA), total inorganic CO2 (TCO2), and the fugacity of CO2 (fCO2). The other parameters can be calculated using thermodynamic relations. In the present paper the thermodynamic equations necessary to characterize the CO2 system in the oceans as a function of salinity and temperature are given. This includes equations for the dissociation of carbonic acid, boric acid, phosphoric acid, silicic acid, water, hydrogen sulfide, and ammonia in seawater as a function of temperature (0 to 45°C) and salinity (0 to 45). The equations are of the form ln Ki = A + BT + C ln T, where A, B, and C are functions of salinity. Equations are also given for calculating the effect of temperature and salinity on the fugacity and pH of seawater using the carbonic acid constants of Roy et al. (1993a).",
+  "authors": [
+    "Frank J. Millero"
+  ],
+  "year": 1995,
+  "doi": "10.1016/0016-7037(94)00354-o",
+  "source": "openalex",
+  "categories": [
+    "Carbonic acid",
+    "Seawater",
+    "Chemistry",
+    "Carbon dioxide",
+    "Alkalinity",
+    "Salinity",
+    "Fugacity",
+    "Carbonate",
+    "Inorganic chemistry",
+    "Thermodynamics",
+    "Activity coefficient",
+    "Environmental chemistry",
+    "Geology",
+    "Oceanography",
+    "Physical chemistry",
+    "Organic chemistry",
+    "Aqueous solution",
+    "Physics"
+  ],
+  "citation_count": 1102,
+  "open_access_pdf_url": "https://www.sciencedirect.com/science/article/pii/001670379400354O/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2006113617.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:19.683907+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2006113617",
+    "concepts": [
+      "Carbonic acid",
+      "Seawater",
+      "Chemistry",
+      "Carbon dioxide",
+      "Alkalinity"
+    ],
+    "oa_status": "hybrid"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2065586875",
+  "title": "Crystal structure prediction via particle-swarm optimization",
+  "abstract": "We have developed a method for crystal structure prediction from ``scratch'' through particle-swarm optimization (PSO) algorithm within the evolutionary scheme. PSO technique is different with the genetic algorithm and has apparently avoided the use of evolution operators (e.g., crossover and mutation). The approach is based on an efficient global minimization of free-energy surfaces merging total-energy calculations via PSO technique and requires only chemical compositions for a given compound to predict stable or metastable structures at given external conditions (e.g., pressure). A particularly devised geometrical structure parameter which allows the elimination of similar structures during structure evolution was implemented to enhance the structure search efficiency. The application of designed variable unit-cell size technique has greatly reduced the computational cost. Moreover, the symmetry constraint imposed in the structure generation enables the realization of diverse structures, leads to significantly reduced search space and optimization variables, and thus fastens the global structure convergence. The PSO algorithm has been successfully applied to the prediction of many known systems (e.g., elemental, binary, and ternary compounds) with various chemical-bonding environments (e.g., metallic, ionic, and covalent bonding). The high success rate demonstrates the reliability of this methodology and illustrates the promise of PSO as a major technique on crystal structure determination.",
+  "authors": [
+    "Yanchao Wang",
+    "Jian Lv",
+    "Li Zhu",
+    "Yanming Ma"
+  ],
+  "year": 2010,
+  "doi": "10.1103/physrevb.82.094116",
+  "source": "openalex",
+  "categories": [
+    "Particle swarm optimization",
+    "Crystal structure prediction",
+    "Mathematical optimization",
+    "Crossover",
+    "Computer science",
+    "Algorithm",
+    "Convergence (economics)",
+    "Energy minimization",
+    "Crystal structure",
+    "Mathematics",
+    "Chemistry",
+    "Computational chemistry",
+    "Crystallography",
+    "Artificial intelligence",
+    "Economic growth",
+    "Economics"
+  ],
+  "citation_count": 2761,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1008.3601",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2065586875.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:01.961333+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2065586875",
+    "concepts": [
+      "Particle swarm optimization",
+      "Crystal structure prediction",
+      "Mathematical optimization",
+      "Crossover",
+      "Computer science"
+    ],
+    "oa_status": "green"
+  }
+}

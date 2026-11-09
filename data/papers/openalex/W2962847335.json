@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2962847335",
+  "title": "Improving Transferability of Adversarial Examples With Input Diversity",
+  "abstract": "Though CNNs have achieved the state-of-the-art performance on various vision tasks, they are vulnerable to adversarial examples --- crafted by adding human-imperceptible perturbations to clean images. However, most of the existing adversarial attacks only achieve relatively low success rates under the challenging black-box setting, where the attackers have no knowledge of the model structure and parameters. To this end, we propose to improve the transferability of adversarial examples by creating diverse input patterns. Instead of only using the original images to generate adversarial examples, our method applies random transformations to the input images at each iteration. Extensive experiments on ImageNet show that the proposed attack method can generate adversarial examples that transfer much better to different networks than existing baselines. By evaluating our method against top defense solutions and official baselines from NIPS 2017 adversarial competition, the enhanced attack reaches an average success rate of 73.0%, which outperforms the top-1 attack submission in the NIPS competition by a large margin of 6.6%. We hope that our proposed attack strategy can serve as a strong benchmark baseline for evaluating the robustness of networks to adversaries and the effectiveness of different defense methods in the future. Code is available at https://github.com/cihangxie/DI-2-FGSM.",
+  "authors": [
+    "Cihang Xie",
+    "Zhishuai Zhang",
+    "Yuyin Zhou",
+    "Song Bai",
+    "Jianyu Wang",
+    "Zhou Ren",
+    "Alan Yuille"
+  ],
+  "year": 2019,
+  "doi": "10.1109/cvpr.2019.00284",
+  "source": "openalex",
+  "categories": [
+    "Adversarial system",
+    "Computer science",
+    "Transferability",
+    "Robustness (evolution)",
+    "Margin (machine learning)",
+    "Benchmark (surveying)",
+    "Baseline (sea)",
+    "Artificial intelligence",
+    "Machine learning",
+    "Code (set theory)",
+    "Law",
+    "Programming language",
+    "Gene",
+    "Logit",
+    "Political science",
+    "Geography",
+    "Geodesy",
+    "Biochemistry",
+    "Chemistry",
+    "Set (abstract data type)"
+  ],
+  "citation_count": 1401,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1803.06978",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2962847335.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:52.463540+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2962847335",
+    "concepts": [
+      "Adversarial system",
+      "Computer science",
+      "Transferability",
+      "Robustness (evolution)",
+      "Margin (machine learning)"
+    ],
+    "oa_status": "green"
+  }
+}

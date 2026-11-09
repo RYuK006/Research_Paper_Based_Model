@@ -1,0 +1,43 @@
+{
+  "id": "openalex:W2607585298",
+  "title": "Writing, erasing and reading histone lysine methylations",
+  "abstract": "Histone modifications are key epigenetic regulatory features that have important roles in many cellular events. Lysine methylations mark various sites on the tail and globular domains of histones and their levels are precisely balanced by the action of methyltransferases (‘writers’) and demethylases (‘erasers’). In addition, distinct effector proteins (‘readers’) recognize specific methyl-lysines in a manner that depends on the neighboring amino-acid sequence and methylation state. Misregulation of histone lysine methylation has been implicated in several cancers and developmental defects. Therefore, histone lysine methylation has been considered a potential therapeutic target, and clinical trials of several inhibitors of this process have shown promising results. A more detailed understanding of histone lysine methylation is necessary for elucidating complex biological processes and, ultimately, for developing and improving disease treatments. This review summarizes enzymes responsible for histone lysine methylation and demethylation and how histone lysine methylation contributes to various biological processes. Elucidating how enzymes add and subtract methyl groups to the proteins that package DNA could lead to new disease treatments. In a review article, Jaehoon Kim and colleagues from the Korea Advanced Institute of Science and Technology in Daejeon, South Korea, summarize the mechanisms by which histone proteins, which assemble to form spool-like complexes around which DNA wraps into more compact units, are modified and how misregulation of this process can lead to cancer, developmental defects and other health problems. The authors focus on how methyl groups are added to and removed from residues of the amino acid lysine within histone proteins. They liken certain enzymes to writers, erasers and readers of histone lysine methylation, and make the case that these enzymes should be investigated as potential therapeutic targets.",
+  "authors": [
+    "Kwangbeom Hyun",
+    "Jongcheol Jeon",
+    "Kihyun Park",
+    "Jaehoon Kim"
+  ],
+  "year": 2017,
+  "doi": "10.1038/emm.2017.11",
+  "source": "openalex",
+  "categories": [
+    "Reading (process)",
+    "Lysine",
+    "Histone",
+    "Computer science",
+    "Chemistry",
+    "Genetics",
+    "Biology",
+    "Philosophy",
+    "Linguistics",
+    "DNA",
+    "Amino acid"
+  ],
+  "citation_count": 1314,
+  "open_access_pdf_url": "https://www.nature.com/articles/emm201711.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2607585298.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:57.717384+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2607585298",
+    "concepts": [
+      "Reading (process)",
+      "Lysine",
+      "Histone",
+      "Computer science",
+      "Chemistry"
+    ],
+    "oa_status": "gold"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "openalex:W2769215390",
+  "title": "Future cost and performance of water electrolysis: An expert elicitation study",
+  "abstract": "The need for energy storage to balance intermittent and inflexible electricity supply with demand is driving interest in conversion of renewable electricity via electrolysis into a storable gas. But, high capital cost and uncertainty regarding future cost and performance improvements are barriers to investment in water electrolysis. Expert elicitations can support decision-making when data are sparse and their future development uncertain. Therefore, this study presents expert views on future capital cost, lifetime and efficiency for three electrolysis technologies: alkaline (AEC), proton exchange membrane (PEMEC) and solid oxide electrolysis cell (SOEC). Experts estimate that increased R&D funding can reduce capital costs by 0–24%, while production scale-up alone has an impact of 17–30%. System lifetimes may converge at around 60,000–90,000 h and efficiency improvements will be negligible. In addition to innovations on the cell-level, experts highlight improved production methods to automate manufacturing and produce higher quality components. Research into SOECs with lower electrode polarisation resistance or zero-gap AECs could undermine the projected dominance of PEMEC systems. This study thereby reduces barriers to investment in water electrolysis and shows how expert elicitations can help guide near-term investment, policy and research efforts to support the development of electrolysis for low-carbon energy systems.",
+  "authors": [
+    "Oliver Schmidt",
+    "Ajay Gambhir",
+    "Iain Staffell",
+    "Adam D. Hawkes",
+    "Jenny Nelson",
+    "Sheridan Few"
+  ],
+  "year": 2017,
+  "doi": "10.1016/j.ijhydene.2017.10.045",
+  "source": "openalex",
+  "categories": [
+    "Polymer electrolyte membrane electrolysis",
+    "Expert elicitation",
+    "Electricity",
+    "Electrolysis",
+    "Environmental economics",
+    "Renewable energy",
+    "Investment (military)",
+    "Capital cost",
+    "Production (economics)",
+    "Computer science",
+    "Process engineering",
+    "Economics",
+    "Microeconomics",
+    "Engineering",
+    "Chemistry",
+    "Electrolyte",
+    "Physical chemistry",
+    "Politics",
+    "Political science",
+    "Macroeconomics",
+    "Mathematics",
+    "Electrode",
+    "Statistics",
+    "Law",
+    "Electrical engineering"
+  ],
+  "citation_count": 2213,
+  "open_access_pdf_url": "https://www.sciencedirect.com/science/article/pii/S0360319917339435/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2769215390.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:12.625645+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2769215390",
+    "concepts": [
+      "Polymer electrolyte membrane electrolysis",
+      "Expert elicitation",
+      "Electricity",
+      "Electrolysis",
+      "Environmental economics"
+    ],
+    "oa_status": "hybrid"
+  }
+}

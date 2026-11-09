@@ -1,0 +1,59 @@
+{
+  "id": "openalex:W2078045751",
+  "title": "The variational multiscale method—a paradigm for computational mechanics",
+  "abstract": "We present a general treatment of the variational multiscale method in the context of an abstract Dirichlet problem. We show how the exact theory represents a paradigm for subgrid-scale models and a posteriori error estimation. We examine hierarchical p-methods and bubbles in order to understand and, ultimately, approximate the ‘fine-scale Green's function’ which appears in the theory. We review relationships between residual-free bubbles, element Green's functions and stabilized methods. These suggest the applicability of the methodology to physically interesting problems in fluid mechanics, acoustics and electromagnetics.",
+  "authors": [
+    "Thomas J.R. Hughes",
+    "Gonzalo R. Feijóo",
+    "Luca Mazzei",
+    "Jean-Baptiste Quincy"
+  ],
+  "year": 1998,
+  "doi": "10.1016/s0045-7825(98)00079-6",
+  "source": "openalex",
+  "categories": [
+    "A priori and a posteriori",
+    "Context (archaeology)",
+    "Finite element method",
+    "Applied mathematics",
+    "Mathematics",
+    "Dirichlet distribution",
+    "Computational mechanics",
+    "Scale (ratio)",
+    "Multiscale modeling",
+    "Electromagnetics",
+    "Function (biology)",
+    "Computer science",
+    "Mathematical optimization",
+    "Statistical physics",
+    "Mathematical analysis",
+    "Physics",
+    "Boundary value problem",
+    "Epistemology",
+    "Computational chemistry",
+    "Paleontology",
+    "Evolutionary biology",
+    "Quantum mechanics",
+    "Chemistry",
+    "Philosophy",
+    "Thermodynamics",
+    "Engineering physics",
+    "Biology"
+  ],
+  "citation_count": 1703,
+  "open_access_pdf_url": "https://www.sciencedirect.com/science/article/pii/S0045782598000796/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2078045751.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:33.140949+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2078045751",
+    "concepts": [
+      "A priori and a posteriori",
+      "Context (archaeology)",
+      "Finite element method",
+      "Applied mathematics",
+      "Mathematics"
+    ],
+    "oa_status": "hybrid"
+  }
+}

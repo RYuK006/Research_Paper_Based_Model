@@ -1,0 +1,62 @@
+{
+  "id": "openalex:W2094881767",
+  "title": "An Analytical Solution to the Kinetics of Breakable Filament Assembly",
+  "abstract": "We present an analytical treatment of a set of coupled kinetic equations that governs the self-assembly of filamentous molecular structures. Application to the case of protein aggregation demonstrates that the kinetics of amyloid growth can often be dominated by secondary rather than by primary nucleation events. Our results further reveal a range of general features of the growth kinetics of fragmenting filamentous structures, including the existence of generic scaling laws that provide mechanistic information in contexts ranging from in vitro amyloid growth to the in vivo development of mammalian prion diseases.",
+  "authors": [
+    "Tuomas P. J. Knowles",
+    "Christopher A. Waudby",
+    "Glyn L. Devlin",
+    "Samuel I. A. Cohen",
+    "Adriano Aguzzi",
+    "Michele Vendruscolo",
+    "Eugene Michael Terentjev",
+    "Mark Edward Welland",
+    "Christopher Martin Dobson"
+  ],
+  "year": 2009,
+  "doi": "10.1126/science.1178250",
+  "source": "openalex",
+  "categories": [
+    "Nucleation",
+    "Protein filament",
+    "Amyloid (mycology)",
+    "Kinetics",
+    "Scaling",
+    "Fragmentation (computing)",
+    "Amyloid fibril",
+    "Rate equation",
+    "Amyloid disease",
+    "Chemistry",
+    "Biophysics",
+    "Materials science",
+    "Physics",
+    "Amyloid β",
+    "Disease",
+    "Mathematics",
+    "Medicine",
+    "Classical mechanics",
+    "Biology",
+    "Biochemistry",
+    "Organic chemistry",
+    "Pathology",
+    "Inorganic chemistry",
+    "Geometry",
+    "Ecology"
+  ],
+  "citation_count": 1144,
+  "open_access_pdf_url": "https://doi.org/10.5167/uzh-31902",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2094881767.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:14.661317+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2094881767",
+    "concepts": [
+      "Nucleation",
+      "Protein filament",
+      "Amyloid (mycology)",
+      "Kinetics",
+      "Scaling"
+    ],
+    "oa_status": "green"
+  }
+}

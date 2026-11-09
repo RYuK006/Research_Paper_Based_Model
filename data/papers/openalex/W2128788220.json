@@ -1,0 +1,63 @@
+{
+  "id": "openalex:W2128788220",
+  "title": "Early Protection Against Sudden Death by n-3 Polyunsaturated Fatty Acids After Myocardial Infarction",
+  "abstract": "BACKGROUND: Our purpose was to assess the time course of the benefit of n-3 polyunsaturated fatty acids (PUFAs) on mortality documented by the GISSI-Prevenzione trial in patients surviving a recent (<3 months) myocardial infarction. METHODS AND RESULTS: In this study, 11 323 patients were randomly assigned to supplements of n-3 PUFAs, vitamin E (300 mg/d), both, or no treatment (control) on top of optimal pharmacological treatment and lifestyle advice. Intention-to-treat analysis adjusted for interaction between treatments was carried out. Early efficacy of n-3 PUFA treatment for total, cardiovascular, cardiac, coronary, and sudden death; nonfatal myocardial infarction; total coronary heart disease; and cerebrovascular events was assessed by right-censoring follow-up data 12 times from the first month after randomization up to 12 months. Survival curves for n-3 PUFA treatment diverged early after randomization, and total mortality was significantly lowered after 3 months of treatment (relative risk [RR] 0.59; 95% CI 0.36 to 0.97; P=0.037). The reduction in risk of sudden death was specifically relevant and statistically significant already at 4 months (RR 0.47; 95% CI 0.219 to 0.995; P=0.048). A similarly significant, although delayed, pattern after 6 to 8 months of treatment was observed for cardiovascular, cardiac, and coronary deaths. CONCLUSIONS: The early effect of low-dose (1 g/d) n-3 PUFAs on total mortality and sudden death supports the hypothesis of an antiarrhythmic effect of this drug. Such a result is consistent with the wealth of evidence coming from laboratory experiments on isolated myocytes, animal models, and epidemiological and clinical studies.",
+  "authors": [
+    "Roberto Marchioli",
+    "Federica Barzi",
+    "Elena Bomba",
+    "Carmine Chieffo",
+    "Domenico Di Gregorio",
+    "Rocco Di Mascio",
+    "Maria Grazia Franzosi",
+    "Enrico Geraci",
+    "Giacomo Levantesi",
+    "Aldo Pietro Maggioni",
+    "Loredana Mantini",
+    "Rosa Maria Marfisi",
+    "G. Mastrogiuseppe",
+    "N Mininni",
+    "Gian Luigi Nicolosi",
+    "Massimo Santini",
+    "Carlo Schweiger",
+    "Luigi Tavazzi",
+    "Gianni Tognoni",
+    "C Tucci",
+    "Franco Valagussa"
+  ],
+  "year": 2002,
+  "doi": "10.1161/01.cir.0000014682.14181.f2",
+  "source": "openalex",
+  "categories": [
+    "Medicine",
+    "Myocardial infarction",
+    "Polyunsaturated fatty acid",
+    "Sudden cardiac death",
+    "Internal medicine",
+    "Sudden death",
+    "Relative risk",
+    "Randomization",
+    "Cardiology",
+    "Randomized controlled trial",
+    "Fatty acid",
+    "Confidence interval",
+    "Organic chemistry",
+    "Chemistry"
+  ],
+  "citation_count": 1311,
+  "open_access_pdf_url": "https://doi.org/10.1161/01.cir.0000014682.14181.f2",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2128788220.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:57.728688+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2128788220",
+    "concepts": [
+      "Medicine",
+      "Myocardial infarction",
+      "Polyunsaturated fatty acid",
+      "Sudden cardiac death",
+      "Internal medicine"
+    ],
+    "oa_status": "closed"
+  }
+}

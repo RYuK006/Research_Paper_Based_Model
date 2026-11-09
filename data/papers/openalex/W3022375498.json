@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W3022375498",
+  "title": "Foundations of Technical Analysis: Computational Algorithms, Statistical Inference, and Empirical Implementation",
+  "abstract": "Technical analysis, also known as “charting,” has been a part of financial practice for many decades, but this discipline has not received the same level of academic scrutiny and acceptance as more traditional approaches such as fundamental analysis. One of the main obstacles is the highly subjective nature of technical analysis—the presence of geometric shapes in historical price charts is often in the eyes of the beholder. In this paper, we propose a systematic and automatic approach to technical pattern recognition using nonparametric kernel regression, and we apply this method to a large number of U.S. stocks from 1962 to 1996 to evaluate the effectiveness of technical analysis. By comparing the unconditional empirical distribution of daily stock returns to the conditional distribution—conditioned on specific technical indicators such as head‐and‐shoulders or double bottoms—we find that over the 31‐year sample period, several technical indicators do provide incremental information and may have some practical value.",
+  "authors": [
+    "Andrew W. Lo",
+    "Harry Mamaysky",
+    "Jiang Wang"
+  ],
+  "year": 2000,
+  "doi": "10.1111/0022-1082.00265",
+  "source": "openalex",
+  "categories": [
+    "Technical analysis",
+    "Computer science",
+    "Nonparametric statistics",
+    "Inference",
+    "Econometrics",
+    "Statistical inference",
+    "Kernel regression",
+    "Sample (material)",
+    "Artificial intelligence",
+    "Machine learning",
+    "Statistics",
+    "Mathematics",
+    "Economics",
+    "Finance",
+    "Chemistry",
+    "Chromatography"
+  ],
+  "citation_count": 1154,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/0022-1082.00265",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3022375498.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:14.554549+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3022375498",
+    "concepts": [
+      "Technical analysis",
+      "Computer science",
+      "Nonparametric statistics",
+      "Inference",
+      "Econometrics"
+    ],
+    "oa_status": "bronze"
+  }
+}

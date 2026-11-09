@@ -1,0 +1,57 @@
+{
+  "id": "openalex:W2264767503",
+  "title": "Introduction to the Analysis of Survival Data in the Presence of Competing Risks",
+  "abstract": "Competing risks occur frequently in the analysis of survival data. A competing risk is an event whose occurrence precludes the occurrence of the primary event of interest. In a study examining time to death attributable to cardiovascular causes, death attributable to noncardiovascular causes is a competing risk. When estimating the crude incidence of outcomes, analysts should use the cumulative incidence function, rather than the complement of the Kaplan-Meier survival function. The use of the Kaplan-Meier survival function results in estimates of incidence that are biased upward, regardless of whether the competing events are independent of one another. When fitting regression models in the presence of competing risks, researchers can choose from 2 different families of models: modeling the effect of covariates on the cause-specific hazard of the outcome or modeling the effect of covariates on the cumulative incidence function. The former allows one to estimate the effect of the covariates on the rate of occurrence of the outcome in those subjects who are currently event free. The latter allows one to estimate the effect of covariates on the absolute risk of the outcome over time. The former family of models may be better suited for addressing etiologic questions, whereas the latter model may be better suited for estimating a patient's clinical prognosis. We illustrate the application of these methods by examining cause-specific mortality in patients hospitalized with heart failure. Statistical software code in both R and SAS is provided.",
+  "authors": [
+    "Peter C. Austin",
+    "Douglas S. Lee",
+    "Jason P. Fine"
+  ],
+  "year": 2016,
+  "doi": "10.1161/circulationaha.115.017719",
+  "source": "openalex",
+  "categories": [
+    "Covariate",
+    "Medicine",
+    "Proportional hazards model",
+    "Survival analysis",
+    "Cumulative incidence",
+    "Incidence (geometry)",
+    "Survival function",
+    "Event (particle physics)",
+    "Statistics",
+    "Hazard ratio",
+    "Outcome (game theory)",
+    "Hazard",
+    "Demography",
+    "Accelerated failure time model",
+    "Econometrics",
+    "Confidence interval",
+    "Internal medicine",
+    "Cohort",
+    "Mathematics",
+    "Sociology",
+    "Quantum mechanics",
+    "Organic chemistry",
+    "Mathematical economics",
+    "Physics",
+    "Geometry",
+    "Chemistry"
+  ],
+  "citation_count": 2741,
+  "open_access_pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/4741409",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2264767503.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:01.982535+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2264767503",
+    "concepts": [
+      "Covariate",
+      "Medicine",
+      "Proportional hazards model",
+      "Survival analysis",
+      "Cumulative incidence"
+    ],
+    "oa_status": "green"
+  }
+}

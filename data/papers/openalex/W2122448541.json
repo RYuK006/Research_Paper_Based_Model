@@ -1,0 +1,44 @@
+{
+  "id": "openalex:W2122448541",
+  "title": "Making Tissue Engineering Scaffolds Work. Review: The application of solid freeform fabrication technology to the production of tissue engineering scaffolds",
+  "abstract": "Tissue engineering is a new and exciting technique which has the potential to create tissues and organs de novo. It involves the in vitro seeding and attachment of human cells onto a scaffold. These cells then proliferate, migrate and differentiate into the specific tissue while secreting the extracellular matrix components required to create the tissue. It is evident, therefore, that the choice of scaffold is crucial to enable the cells to behave in the required manner to produce tissues and organs of the desired shape and size. Current scaffolds, made by conventional scaffold fabrication techniques, are generally foams of synthetic polymers. The cells do not necessarily recognise such surfaces, and most importantly cells cannot migrate more than 500 microm from the surface. The lack of oxygen and nutrient supply governs this depth. Solid freeform fabrication (SFF) uses layer-manufacturing strategies to create physical objects directly from computer-generated models. It can improve current scaffold design by controlling scaffold parameters such as pore size, porosity and pore distribution, as well as incorporating an artificial vascular system, thereby increasing the mass transport of oxygen and nutrients into the interior of the scaffold and supporting cellular growth in that region. Several SFF systems have produced tissue engineering scaffolds with this concept in mind which will be the main focus of this review. We are developing scaffolds from collagen and with an internal vascular architecture using SFF. Collagen has major advantages as it provides a favourable surface for cellular attachment. The vascular system allows for the supply of nutrients and oxygen throughout the scaffold. The future of tissue engineering scaffolds is intertwined with SFF technologies.",
+  "authors": [
+    "Eleftherios Sachlos",
+    "Jan T. Czernuszka"
+  ],
+  "year": 2003,
+  "doi": "10.22203/ecm.v005a03",
+  "source": "openalex",
+  "categories": [
+    "Scaffold",
+    "Tissue engineering",
+    "Extracellular matrix",
+    "Nanotechnology",
+    "Fabrication",
+    "Biomedical engineering",
+    "Materials science",
+    "Microtechnology",
+    "Chemistry",
+    "Engineering",
+    "Biochemistry",
+    "Alternative medicine",
+    "Pathology",
+    "Medicine"
+  ],
+  "citation_count": 1322,
+  "open_access_pdf_url": "https://doi.org/10.22203/ecm.v005a03",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2122448541.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:57.643876+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2122448541",
+    "concepts": [
+      "Scaffold",
+      "Tissue engineering",
+      "Extracellular matrix",
+      "Nanotechnology",
+      "Fabrication"
+    ],
+    "oa_status": "gold"
+  }
+}

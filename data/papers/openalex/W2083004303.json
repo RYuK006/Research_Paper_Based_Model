@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2083004303",
+  "title": "Excitotoxicity and stroke: Identifying novel targets for neuroprotection",
+  "abstract": "Excitotoxicity, the specific type of neurotoxicity mediated by glutamate, may be the missing link between ischemia and neuronal death, and intervening the mechanistic steps that lead to excitotoxicity can prevent stroke damage. Interest in excitotoxicity began fifty years ago when monosodium glutamate was found to be neurotoxic. Evidence soon demonstrated that glutamate is not only the primary excitatory neurotransmitter in the adult brain, but also a critical transmitter for signaling neurons to degenerate following stroke. The finding led to a number of clinical trials that tested inhibitors of excitotoxicity in stroke patients. Glutamate exerts its function in large by activating the calcium-permeable ionotropic NMDA receptor (NMDAR), and different subpopulations of the NMDAR may generate different functional outputs, depending on the signaling proteins directly bound or indirectly coupled to its large cytoplasmic tail. Synaptic activity activates the GluN2A subunit-containing NMDAR, leading to activation of the pro-survival signaling proteins Akt, ERK, and CREB. During a brief episode of ischemia, the extracellular glutamate concentration rises abruptly, and stimulation of the GluN2B-containing NMDAR in the extrasynaptic sites triggers excitotoxic neuronal death via PTEN, cdk5, and DAPK1, which are directly bound to the NMDAR, nNOS, which is indirectly coupled to the NMDAR via PSD95, and calpain, p25, STEP, p38, JNK, and SREBP1, which are further downstream. This review aims to provide a comprehensive summary of the literature on excitotoxicity and our perspectives on how the new generation of excitotoxicity inhibitors may succeed despite the failure of the previous generation of drugs.",
+  "authors": [
+    "Ted Weita Lai",
+    "Shu Zhang",
+    "Yu Tian Wang"
+  ],
+  "year": 2013,
+  "doi": "10.1016/j.pneurobio.2013.11.006",
+  "source": "openalex",
+  "categories": [
+    "Excitotoxicity",
+    "Neuroprotection",
+    "Glutamate receptor",
+    "Neuroscience",
+    "NMDA receptor",
+    "CREB",
+    "Neurodegeneration",
+    "Neurotoxicity",
+    "Biology",
+    "Cell biology",
+    "Pharmacology",
+    "Chemistry",
+    "Medicine",
+    "Receptor",
+    "Internal medicine",
+    "Biochemistry",
+    "Disease",
+    "Transcription factor",
+    "Gene",
+    "Toxicity"
+  ],
+  "citation_count": 1137,
+  "open_access_pdf_url": "https://www.sciencedirect.com/science/article/pii/S0301008213001305/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2083004303.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:16.951642+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2083004303",
+    "concepts": [
+      "Excitotoxicity",
+      "Neuroprotection",
+      "Glutamate receptor",
+      "Neuroscience",
+      "NMDA receptor"
+    ],
+    "oa_status": "hybrid"
+  }
+}

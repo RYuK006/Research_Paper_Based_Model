@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W1505400302",
+  "title": "Current-Induced Switching of Perpendicularly Magnetized Magnetic Layers Using Spin Torque from the Spin Hall Effect",
+  "abstract": "We show that in a perpendicularly magnetized Pt/Co bilayer the spin-Hall effect (SHE) in Pt can produce a spin torque strong enough to efficiently rotate and switch the Co magnetization. We calculate the phase diagram of switching driven by this torque, finding quantitative agreement with experiments. When optimized, the SHE torque can enable memory and logic devices with similar critical currents and improved reliability compared to conventional spin-torque switching. We suggest that the SHE torque also affects current-driven magnetic domain wall motion in Pt/ferromagnet bilayers.",
+  "authors": [
+    "Luqiao Liu",
+    "O. J. Lee",
+    "Theodore Gudmundsen",
+    "Daniel C. Ralph",
+    "Robert A. Buhrman"
+  ],
+  "year": 2012,
+  "doi": "10.1103/physrevlett.109.096602",
+  "source": "openalex",
+  "categories": [
+    "Condensed matter physics",
+    "Torque",
+    "Magnetization",
+    "Spin-transfer torque",
+    "Spin Hall effect",
+    "Ferromagnetism",
+    "Bilayer",
+    "Spin (aerodynamics)",
+    "Physics",
+    "Perpendicular",
+    "Hall effect",
+    "Spin polarization",
+    "Magnetic field",
+    "Chemistry",
+    "Electron",
+    "Quantum mechanics",
+    "Biochemistry",
+    "Geometry",
+    "Thermodynamics",
+    "Mathematics",
+    "Membrane"
+  ],
+  "citation_count": 1875,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1110.6846",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1505400302.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:22.200565+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1505400302",
+    "concepts": [
+      "Condensed matter physics",
+      "Torque",
+      "Magnetization",
+      "Spin-transfer torque",
+      "Spin Hall effect"
+    ],
+    "oa_status": "green"
+  }
+}

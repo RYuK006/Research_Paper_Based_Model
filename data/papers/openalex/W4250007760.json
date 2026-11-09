@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W4250007760",
+  "title": "Selective depletion of macrophages reveals distinct, opposing roles during liver injury and repair",
+  "abstract": "Macrophages perform both injury-inducing and repair-promoting tasks in different models of inflammation, leading to a model of macrophage function in which distinct patterns of activation have been proposed. We investigated macrophage function mechanistically in a reversible model of liver injury in which the injury and recovery phases are distinct. Carbon tetrachloride---induced liver fibrosis revealed scar-associated macrophages that persisted throughout recovery. A transgenic mouse (CD11b-DTR) was generated in which macrophages could be selectively depleted. Macrophage depletion when liver fibrosis was advanced resulted in reduced scarring and fewer myofibroblasts. Macrophage depletion during recovery, by contrast, led to a failure of matrix degradation. These data provide the first clear evidence that functionally distinct subpopulations of macrophages exist in the same tissue and that these macrophages play critical roles in both the injury and recovery phases of inflammatory scarring.",
+  "authors": [
+    "Jeremy S. Duffield",
+    "Stuart John Forbes",
+    "Christothea M. Constandinou",
+    "Spike Clay",
+    "Marina Partolina",
+    "Srilatha Vuthoori",
+    "Shengji Wu",
+    "Richard A. Lang",
+    "John Peter Iredale"
+  ],
+  "year": 2005,
+  "doi": "10.1172/jci22675",
+  "source": "openalex",
+  "categories": [
+    "Macrophage",
+    "Fibrosis",
+    "Inflammation",
+    "Myofibroblast",
+    "Liver injury",
+    "Cell biology",
+    "Integrin alpha M",
+    "Cancer research",
+    "Biology",
+    "Immunology",
+    "Chemistry",
+    "Pathology",
+    "Medicine",
+    "Biochemistry",
+    "In vitro",
+    "Immune system",
+    "Endocrinology"
+  ],
+  "citation_count": 1689,
+  "open_access_pdf_url": "http://www.jci.org/articles/view/22675/files/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W4250007760.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:33.196049+00:00",
+  "raw_metadata": {
+    "openalex_id": "W4250007760",
+    "concepts": [
+      "Macrophage",
+      "Fibrosis",
+      "Inflammation",
+      "Myofibroblast",
+      "Liver injury"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "openalex:W2008301592",
+  "title": "Cerebrospinal fluid biomarker signature in Alzheimer's disease neuroimaging initiative subjects",
+  "abstract": "OBJECTIVE: Develop a cerebrospinal fluid biomarker signature for mild Alzheimer's disease (AD) in Alzheimer's Disease Neuroimaging Initiative (ADNI) subjects. METHODS: Amyloid-beta 1 to 42 peptide (A beta(1-42)), total tau (t-tau), and tau phosphorylated at the threonine 181 were measured in (1) cerebrospinal fluid (CSF) samples obtained during baseline evaluation of 100 mild AD, 196 mild cognitive impairment, and 114 elderly cognitively normal (NC) subjects in ADNI; and (2) independent 56 autopsy-confirmed AD cases and 52 age-matched elderly NCs using a multiplex immunoassay. Detection of an AD CSF profile for t-tau and A beta(1-42) in ADNI subjects was achieved using receiver operating characteristic cut points and logistic regression models derived from the autopsy-confirmed CSF data. RESULTS: CSF A beta(1-42) was the most sensitive biomarker for AD in the autopsy cohort of CSF samples: receiver operating characteristic area under the curve of 0.913 and sensitivity for AD detection of 96.4%. In the ADNI cohort, a logistic regression model for A beta(1-42), t-tau, and APO epsilon 4 allele count provided the best assessment delineation of mild AD. An AD-like baseline CSF profile for t-tau/A beta(1-42) was detected in 33 of 37 ADNI mild cognitive impairment subjects who converted to probable AD during the first year of the study. INTERPRETATION: The CSF biomarker signature of AD defined by A beta(1-42) and t-tau in the autopsy-confirmed AD cohort and confirmed in the cohort followed in ADNI for 12 months detects mild AD in a large, multisite, prospective clinical investigation, and this signature appears to predict conversion from mild cognitive impairment to AD.",
+  "authors": [
+    "Leslie M. J. Shaw",
+    "Hugo Vanderstichele",
+    "Malgorzata Elzbieta Knapik-Czajka",
+    "Christopher M. Clark",
+    "Paul S. S. Aisen",
+    "Ronald Carl Petersen",
+    "Kaj Blennow",
+    "Holly D Soares",
+    "Adam J. Simon",
+    "Piotr Lewczuk",
+    "Robert A. Dean",
+    "Eric Siemers",
+    "William Z. Potter",
+    "Virginia M.‐Y. Lee",
+    "John Q. Trojanowski",
+    "Alzheimer’s Disease Neuroimaging Initiative"
+  ],
+  "year": 2009,
+  "doi": "10.1002/ana.21610",
+  "source": "openalex",
+  "categories": [
+    "Biomarker",
+    "Cerebrospinal fluid",
+    "Cohort",
+    "Internal medicine",
+    "Medicine",
+    "Receiver operating characteristic",
+    "Alzheimer's disease",
+    "Logistic regression",
+    "Neuroimaging",
+    "Oncology",
+    "Autopsy",
+    "Area under the curve",
+    "Pathology",
+    "Alzheimer's Disease Neuroimaging Initiative",
+    "Gastroenterology",
+    "Disease",
+    "Psychiatry",
+    "Chemistry",
+    "Biochemistry"
+  ],
+  "citation_count": 2096,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ana.21610",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2008301592.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:15.434171+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2008301592",
+    "concepts": [
+      "Biomarker",
+      "Cerebrospinal fluid",
+      "Cohort",
+      "Internal medicine",
+      "Medicine"
+    ],
+    "oa_status": "bronze"
+  }
+}

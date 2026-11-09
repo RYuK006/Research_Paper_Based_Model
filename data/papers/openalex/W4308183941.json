@@ -1,0 +1,42 @@
+{
+  "id": "openalex:W4308183941",
+  "title": "Empagliflozin in Patients with Chronic Kidney Disease",
+  "abstract": "BACKGROUND: The effects of empagliflozin in patients with chronic kidney disease who are at risk for disease progression are not well understood. The EMPA-KIDNEY trial was designed to assess the effects of treatment with empagliflozin in a broad range of such patients. METHODS: , a sustained decrease in eGFR of ≥40% from baseline, or death from renal causes) or death from cardiovascular causes. RESULTS: A total of 6609 patients underwent randomization. During a median of 2.0 years of follow-up, progression of kidney disease or death from cardiovascular causes occurred in 432 of 3304 patients (13.1%) in the empagliflozin group and in 558 of 3305 patients (16.9%) in the placebo group (hazard ratio, 0.72; 95% confidence interval [CI], 0.64 to 0.82; P<0.001). Results were consistent among patients with or without diabetes and across subgroups defined according to eGFR ranges. The rate of hospitalization from any cause was lower in the empagliflozin group than in the placebo group (hazard ratio, 0.86; 95% CI, 0.78 to 0.95; P = 0.003), but there were no significant between-group differences with respect to the composite outcome of hospitalization for heart failure or death from cardiovascular causes (which occurred in 4.0% in the empagliflozin group and 4.6% in the placebo group) or death from any cause (in 4.5% and 5.1%, respectively). The rates of serious adverse events were similar in the two groups. CONCLUSIONS: Among a wide range of patients with chronic kidney disease who were at risk for disease progression, empagliflozin therapy led to a lower risk of progression of kidney disease or death from cardiovascular causes than placebo. (Funded by Boehringer Ingelheim and others; EMPA-KIDNEY ClinicalTrials.gov number, NCT03594110; EudraCT number, 2017-002971-24.).",
+  "authors": [
+    "The EMPA-KIDNEY Collaborative Group"
+  ],
+  "year": 2022,
+  "doi": "10.1056/nejmoa2204233",
+  "source": "openalex",
+  "categories": [
+    "Empagliflozin",
+    "Medicine",
+    "Kidney disease",
+    "Disease",
+    "EMPA",
+    "Internal medicine",
+    "Intensive care medicine",
+    "Diabetes mellitus",
+    "Endocrinology",
+    "Type 2 diabetes",
+    "Chemistry",
+    "Mineralogy",
+    "Electron microprobe"
+  ],
+  "citation_count": 2977,
+  "open_access_pdf_url": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa2204233?articleTools=true",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W4308183941.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:01.817555+00:00",
+  "raw_metadata": {
+    "openalex_id": "W4308183941",
+    "concepts": [
+      "Empagliflozin",
+      "Medicine",
+      "Kidney disease",
+      "Disease",
+      "EMPA"
+    ],
+    "oa_status": "bronze"
+  }
+}

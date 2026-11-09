@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2051235503",
+  "title": "Power and Bipower Variation with Stochastic Volatility and Jumps",
+  "abstract": "This article shows that realized power variation and its extension, realized bipower variation, which we introduce here, are somewhat robust to rare jumps. We demonstrate that in special cases, realized bipower variation estimates integrated variance in stochastic volatility models, thus providing a model-free and consistent alternative to realized variance. Its robustness property means that if we have a stochastic volatility plus infrequent jumps process, then the difference between realized variance and realized bipower variation estimates the quadratic variation of the jump component. This seems to be the first method that can separate quadratic variation into its continuous and jump components. Various extensions are given, together with proofs of special cases of these results. Detailed mathematical results are reported in Barndorff-Nielsen and Shephard (2003a).",
+  "authors": [
+    "Ole Eiler Barndorff-Nielsen"
+  ],
+  "year": 2004,
+  "doi": "10.1093/jjfinec/nbh001",
+  "source": "openalex",
+  "categories": [
+    "Quadratic variation",
+    "Realized variance",
+    "Jump",
+    "Stochastic volatility",
+    "Variation (astronomy)",
+    "Mathematics",
+    "Variance components",
+    "Volatility (finance)",
+    "Quadratic equation",
+    "Variance (accounting)",
+    "Econometrics",
+    "Applied mathematics",
+    "Robustness (evolution)",
+    "Mathematical proof",
+    "Economics",
+    "Statistics",
+    "Brownian motion",
+    "Gene",
+    "Geometry",
+    "Accounting",
+    "Biochemistry",
+    "Physics",
+    "Quantum mechanics",
+    "Chemistry",
+    "Astrophysics"
+  ],
+  "citation_count": 1981,
+  "open_access_pdf_url": "https://ora.ox.ac.uk/objects/uuid:2eac6b4f-bda9-4195-b119-2e7098ab4aeb/files/mb688c7724d59a16f8f6ce92591563926",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2051235503.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:17.755642+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2051235503",
+    "concepts": [
+      "Quadratic variation",
+      "Realized variance",
+      "Jump",
+      "Stochastic volatility",
+      "Variation (astronomy)"
+    ],
+    "oa_status": "green"
+  }
+}

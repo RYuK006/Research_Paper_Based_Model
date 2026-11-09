@@ -1,0 +1,42 @@
+{
+  "id": "openalex:W2049846508",
+  "title": "Dislocation Theory of Yielding and Strain Ageing of Iron",
+  "abstract": "A theory of yielding and strain ageing of iron, based on the segregation of carbon atoms to form atmospheres round dislocations, is developed. The form of an atmosphere is discussed and the force needed to release a dislocation from its atmosphere is roughly estimated and found to be reasonable. The dependence on temperature of the yield point is explained on the assumption that thermal fluctuations enable small dislocation loops to break away; these loops subsequently extend and cause yielding to develop catastrophically by helping other dislocations to break away. The predicted form of the relation between yield point and temperature agrees closely with experiment. Strain ageing is interpreted as the migration of carbon atoms to free dislocations. The rate of ageing depends upon the concentration of carbon in solution and the estimated initial rate agrees with experiment on the assumption that about 0.003% by weight of carbon is present in solution.",
+  "authors": [
+    "Alan Howard Cottrell",
+    "Bruce Alexander Bilby"
+  ],
+  "year": 1949,
+  "doi": "10.1088/0370-1298/62/1/308",
+  "source": "openalex",
+  "categories": [
+    "Dislocation",
+    "Atmosphere (unit)",
+    "Materials science",
+    "Yield (engineering)",
+    "Condensed matter physics",
+    "Thermal",
+    "Crystallography",
+    "Thermodynamics",
+    "Metallurgy",
+    "Physics",
+    "Composite material",
+    "Chemistry"
+  ],
+  "citation_count": 2061,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1088/0370-1298/62/1/308/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2049846508.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:15.536125+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2049846508",
+    "concepts": [
+      "Dislocation",
+      "Atmosphere (unit)",
+      "Materials science",
+      "Yield (engineering)",
+      "Condensed matter physics"
+    ],
+    "oa_status": "bronze"
+  }
+}

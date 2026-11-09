@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W3168436232",
+  "title": "AutoDock Vina 1.2.0: New Docking Methods, Expanded Force Field, and Python Bindings",
+  "abstract": "AutoDock Vina is arguably one of the fastest and most widely used open-source programs for molecular docking. However, compared to other programs in the AutoDock Suite, it lacks support for modeling specific features such as macrocycles or explicit water molecules. Here, we describe the implementation of this functionality in AutoDock Vina 1.2.0. Additionally, AutoDock Vina 1.2.0 supports the AutoDock4.2 scoring function, simultaneous docking of multiple ligands, and a batch mode for docking a large number of ligands. Furthermore, we implemented Python bindings to facilitate scripting and the development of docking workflows. This work is an effort toward the unification of the features of the AutoDock4 and AutoDock Vina programs. The source code is available at https://github.com/ccsb-scripps/AutoDock-Vina.",
+  "authors": [
+    "Jérôme Eberhardt",
+    "Diogo Santos‐Martins",
+    "Andreas F. Tillack",
+    "Stefano Forli"
+  ],
+  "year": 2021,
+  "doi": "10.1021/acs.jcim.1c00203",
+  "source": "openalex",
+  "categories": [
+    "AutoDock",
+    "Python (programming language)",
+    "Computer science",
+    "Docking (animal)",
+    "Source code",
+    "Scripting language",
+    "Programming language",
+    "Operating system",
+    "Chemistry",
+    "Biochemistry",
+    "Medicine",
+    "Gene",
+    "In silico",
+    "Nursing"
+  ],
+  "citation_count": 8169,
+  "open_access_pdf_url": "https://doi.org/10.26434/chemrxiv.14774223",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3168436232.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:49.925248+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3168436232",
+    "concepts": [
+      "AutoDock",
+      "Python (programming language)",
+      "Computer science",
+      "Docking (animal)",
+      "Source code"
+    ],
+    "oa_status": "green"
+  }
+}

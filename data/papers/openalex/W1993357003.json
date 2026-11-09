@@ -1,0 +1,41 @@
+{
+  "id": "openalex:W1993357003",
+  "title": "Lipid rafts: bringing order to chaos",
+  "abstract": "Lipid rafts are subdomains of the plasma membrane that contain high concentrations of cholesterol and glycosphingolipids. They exist as distinct liquid-ordered regions of the membrane that are resistant to extraction with nonionic detergents. Rafts appear to be small in size, but may constitute a relatively large fraction of the plasma membrane. While rafts have a distinctive protein and lipid composition, all rafts do not appear to be identical in terms of either the proteins or the lipids that they contain. A variety of proteins, especially those involved in cell signaling, have been shown to partition into lipid rafts. As a result, lipid rafts are thought to be involved in the regulation of signal transduction. Experimental evidence suggests that there are probably several different mechanisms through which rafts control cell signaling. For example, rafts may contain incomplete signaling pathways that are activated when a receptor or other required molecule is recruited into the raft. Rafts may also be important in limiting signaling, either by physical sequestration of signaling components to block nonspecific interactions, or by suppressing the intrinsic activity of signaling proteins present within rafts. This review provides an overview of the physical characteristics of lipid rafts and summarizes studies that have helped to elucidate the role of lipid rafts in signaling via receptor tyrosine kinases and G protein-coupled receptors.",
+  "authors": [
+    "LINDA JOY PIKE"
+  ],
+  "year": 2003,
+  "doi": "10.1194/jlr.r200021-jlr200",
+  "source": "openalex",
+  "categories": [
+    "Lipid raft",
+    "CHAOS (operating system)",
+    "Order (exchange)",
+    "Chemistry",
+    "Computational biology",
+    "Biology",
+    "Computer science",
+    "Cholesterol",
+    "Biochemistry",
+    "Computer security",
+    "Finance",
+    "Economics"
+  ],
+  "citation_count": 1174,
+  "open_access_pdf_url": "http://www.jlr.org/article/S002222752031155X/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1993357003.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:12.149375+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1993357003",
+    "concepts": [
+      "Lipid raft",
+      "CHAOS (operating system)",
+      "Order (exchange)",
+      "Chemistry",
+      "Computational biology"
+    ],
+    "oa_status": "hybrid"
+  }
+}

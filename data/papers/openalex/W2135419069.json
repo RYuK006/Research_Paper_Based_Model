@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W2135419069",
+  "title": "Technical note: The Lagrangian particle dispersion model FLEXPART version 6.2",
+  "abstract": "Abstract. The Lagrangian particle dispersion model FLEXPART was originally (about 8 years ago) designed for calculating the long-range and mesoscale dispersion of air pollutants from point sources, such as after an accident in a nuclear power plant. In the meantime FLEXPART has evolved into a comprehensive tool for atmospheric transport modeling and analysis. Its application fields were extended from air pollution studies to other topics where atmospheric transport plays a role (e.g., exchange between the stratosphere and troposphere, or the global water cycle). It has evolved into a true community model that is now being used by at least 25 groups from 14 different countries and is seeing both operational and research applications. A user manual has been kept actual over the years and was distributed over an internet page along with the model's source code. However, so far there was no citeable description of FLEXPART. In this note we provide a description of FLEXPART's latest version (6.2).",
+  "authors": [
+    "Andreas Stohl",
+    "C. Forster",
+    "Andreas Frank",
+    "Petra Seibert",
+    "Gerhard Wotawa"
+  ],
+  "year": 2005,
+  "doi": "10.5194/acp-5-2461-2005",
+  "source": "openalex",
+  "categories": [
+    "Troposphere",
+    "Meteorology",
+    "Lagrangian",
+    "Atmospheric dispersion modeling",
+    "Mesoscale meteorology",
+    "Environmental science",
+    "Dispersion (optics)",
+    "Stratosphere",
+    "Range (aeronautics)",
+    "Particle filter",
+    "Computer science",
+    "Air pollution",
+    "Geography",
+    "Physics",
+    "Mathematics",
+    "Aerospace engineering",
+    "Applied mathematics",
+    "Kalman filter",
+    "Engineering",
+    "Artificial intelligence",
+    "Optics",
+    "Chemistry",
+    "Organic chemistry"
+  ],
+  "citation_count": 2064,
+  "open_access_pdf_url": "https://acp.copernicus.org/articles/5/2461/2005/acp-5-2461-2005.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2135419069.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:15.526130+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2135419069",
+    "concepts": [
+      "Troposphere",
+      "Meteorology",
+      "Lagrangian",
+      "Atmospheric dispersion modeling",
+      "Mesoscale meteorology"
+    ],
+    "oa_status": "gold"
+  }
+}

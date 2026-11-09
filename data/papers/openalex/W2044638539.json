@@ -1,0 +1,59 @@
+{
+  "id": "openalex:W2044638539",
+  "title": "Sizing and phenotyping of cellular vesicles using Nanoparticle Tracking Analysis",
+  "abstract": "Cellular microvesicles and nanovesicles (exosomes) are involved in many disease processes and have major potential as biomarkers. However, developments in this area are constrained by limitations in the technology available for their measurement. Here we report on the use of fluorescence nanoparticle tracking analysis (NTA) to rapidly size and phenotype cellular vesicles. In this system vesicles are visualized by light scattering using a light microscope. A video is taken, and the NTA software tracks the brownian motion of individual vesicles and calculates their size and total concentration. Using human placental vesicles and plasma, we have demonstrated that NTA can measure cellular vesicles as small as ≈ 50 nm and is far more sensitive than conventional flow cytometry (lower limit ≈ 300 nm). By combining NTA with fluorescence measurement we have demonstrated that vesicles can be labeled with specific antibody-conjugated quantum dots, allowing their phenotype to be determined. FROM THE CLINICAL EDITOR: The authors of this study utilized fluorescence nanoparticle tracking analysis (NTA) to rapidly size and phenotype cellular vesicles, demonstrating that NTA is far more sensitive than conventional flow cytometry.",
+  "authors": [
+    "Rebecca Dragovic",
+    "Chris Gardiner",
+    "Alexandra S. Brooks",
+    "Dionne Tannetta",
+    "David J. P. Ferguson",
+    "Patrick Hole",
+    "Bob Carr",
+    "Christopher W.G. Redman",
+    "Adrian Llewellyn Harris",
+    "Peter J. Dobson",
+    "Paul Harrison",
+    "Ian L. Sargent"
+  ],
+  "year": 2011,
+  "doi": "10.1016/j.nano.2011.04.003",
+  "source": "openalex",
+  "categories": [
+    "Nanoparticle tracking analysis",
+    "Vesicle",
+    "Microvesicles",
+    "Flow cytometry",
+    "Fluorescence microscope",
+    "Fluorescence",
+    "Biophysics",
+    "Nanotechnology",
+    "Chemistry",
+    "Nanoparticle",
+    "Materials science",
+    "Biology",
+    "Molecular biology",
+    "microRNA",
+    "Biochemistry",
+    "Physics",
+    "Membrane",
+    "Optics",
+    "Gene"
+  ],
+  "citation_count": 1428,
+  "open_access_pdf_url": "https://www.sciencedirect.com/science/article/pii/S1549963411001638/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2044638539.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:50.581406+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2044638539",
+    "concepts": [
+      "Nanoparticle tracking analysis",
+      "Vesicle",
+      "Microvesicles",
+      "Flow cytometry",
+      "Fluorescence microscope"
+    ],
+    "oa_status": "hybrid"
+  }
+}

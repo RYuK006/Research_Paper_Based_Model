@@ -1,0 +1,63 @@
+{
+  "id": "openalex:W2801256450",
+  "title": "Characterization and engineering of a plastic-degrading aromatic polyesterase",
+  "abstract": "201-F6, was shown to exhibit the rare ability to grow on PET as a major carbon and energy source. Central to its PET biodegradation capability is a secreted PETase (PET-digesting enzyme). Here, we present a 0.92 Å resolution X-ray crystal structure of PETase, which reveals features common to both cutinases and lipases. PETase retains the ancestral α/β-hydrolase fold but exhibits a more open active-site cleft than homologous cutinases. By narrowing the binding cleft via mutation of two active-site residues to conserved amino acids in cutinases, we surprisingly observe improved PET degradation, suggesting that PETase is not fully optimized for crystalline PET degradation, despite presumably evolving in a PET-rich environment. Additionally, we show that PETase degrades another semiaromatic polyester, polyethylene-2,5-furandicarboxylate (PEF), which is an emerging, bioderived PET replacement with improved barrier properties. In contrast, PETase does not degrade aliphatic polyesters, suggesting that it is generally an aromatic polyesterase. These findings suggest that additional protein engineering to increase PETase performance is realistic and highlight the need for further developments of structure/activity relationships for biodegradation of synthetic polyesters.",
+  "authors": [
+    "Harry P. Austin",
+    "Mark D. Allen",
+    "Bryon S. Donohoe",
+    "Nicholas A. Rorrer",
+    "Fiona L. Kearns",
+    "Rodrigo L. Silveira",
+    "Benjamin C. Pollard",
+    "Graham Dominick",
+    "Ramona Duman",
+    "Kamel El Omari",
+    "Vitaliy B. Mykhaylyk",
+    "Armin Wagner",
+    "William E. Michener",
+    "Antonella Amore",
+    "Munir S. Skaf",
+    "Michael F. Crowley",
+    "Alan W. Thorne",
+    "Christopher W. Johnson",
+    "H. Lee Woodcock",
+    "J.E. McGeehan",
+    "Gregg T. Beckham"
+  ],
+  "year": 2018,
+  "doi": "10.1073/pnas.1718804115",
+  "source": "openalex",
+  "categories": [
+    "Cutinase",
+    "Polyester",
+    "Biodegradation",
+    "Polyethylene terephthalate",
+    "Hydrolase",
+    "Protein engineering",
+    "Polymer",
+    "Materials science",
+    "Chemistry",
+    "Enzyme",
+    "Biology",
+    "Biochemistry",
+    "Organic chemistry",
+    "Composite material"
+  ],
+  "citation_count": 1114,
+  "open_access_pdf_url": "https://www.pnas.org/content/pnas/115/19/E4350.full.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2801256450.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:19.570546+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2801256450",
+    "concepts": [
+      "Cutinase",
+      "Polyester",
+      "Biodegradation",
+      "Polyethylene terephthalate",
+      "Hydrolase"
+    ],
+    "oa_status": "hybrid"
+  }
+}

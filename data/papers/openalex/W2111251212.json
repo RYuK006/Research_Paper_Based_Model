@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2111251212",
+  "title": "Peroxisome Proliferator-activated Receptor α Negatively Regulates the Vascular Inflammatory Gene Response by Negative Cross-talk with Transcription Factors NF-κB and AP-1",
+  "abstract": "Interleukin-6 (IL-6) is a pleiotropic cytokine, whose plasma levels are elevated in inflammatory diseases such as atherosclerosis. We have previously reported that peroxisome proliferator-activated receptor alpha (PPARalpha) ligands (fibrates) lower elevated plasma concentrations of IL-6 in patients with atherosclerosis and inhibit IL-1-stimulated IL-6 secretion by human aortic smooth muscle cells (SMC). Here, we show that aortic explants isolated from PPARalpha-null mice display an exacerbated response to inflammatory stimuli, such as lipopolysaccharide (LPS), as demonstrated by increased IL-6 secretion. Furthermore, fibrate treatment represses IL-6 mRNA levels in LPS-stimulated aortas of PPARalpha wild-type, but not of PPARalpha-null mice, demonstrating a role for PPARalpha in this fibrate action. In human aortic SMC, fibrates inhibit IL-1-induced IL-6 gene expression. Furthermore, activation of PPARalpha represses both c-Jun- and p65-induced transcription of the human IL-6 promoter. Transcriptional interference between PPARalpha and both c-Jun and p65 occurs reciprocally, since c-Jun and p65 also inhibit PPARalpha-mediated activation of a PPAR response element-driven promoter. This transcriptional interference occurs independent of the promoter context as demonstrated by cotransfection experiments using PPARalpha, p65, and c-Jun Gal4 chimeras. Overexpression of the transcriptional coactivator cAMP-responsive element-binding protein-binding protein (CBP) does not relieve PPARalpha-mediated transcriptional repression of p65 and c-Jun. Finally, glutathione S-transferase pull-down experiments demonstrate that PPARalpha physically interacts with c-Jun, p65, and CBP. Altogether these data indicate that fibrates inhibit the vascular inflammatory response via PPARalpha by interfering with the NF-kappaB and AP-1 transactivation capacity involving direct protein-protein interaction with p65 and c-Jun.",
+  "authors": [
+    "Philippe Delerive",
+    "Karolien De Bosscher",
+    "Sandrine Besnard",
+    "Wim Vanden Berghe",
+    "Jeffrey M. Peters",
+    "Frank J. Gonzalez",
+    "Jean‐Charles Fruchart",
+    "Alain Tedgui",
+    "Guy Haegeman",
+    "Bart Staels"
+  ],
+  "year": 1999,
+  "doi": "10.1074/jbc.274.45.32048",
+  "source": "openalex",
+  "categories": [
+    "Transcription factor",
+    "Peroxisome proliferator-activated receptor",
+    "NF-κB",
+    "Receptor",
+    "Chemistry",
+    "Peroxisome",
+    "Transcription (linguistics)",
+    "NFKB1",
+    "Peroxisome proliferator",
+    "Cell biology",
+    "Gene",
+    "Cancer research",
+    "Signal transduction",
+    "Biology",
+    "Biochemistry",
+    "Philosophy",
+    "Linguistics"
+  ],
+  "citation_count": 1107,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925819515253/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2111251212.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:19.651360+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2111251212",
+    "concepts": [
+      "Transcription factor",
+      "Peroxisome proliferator-activated receptor",
+      "NF-κB",
+      "Receptor",
+      "Chemistry"
+    ],
+    "oa_status": "hybrid"
+  }
+}

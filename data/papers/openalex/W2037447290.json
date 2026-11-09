@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2037447290",
+  "title": "Advanced Model for Solid Electrolyte Interphase Electrodes in Liquid and Polymer Electrolytes",
+  "abstract": "Recent studies show that the SEI on lithium and on anodes in liquid nonaqueous solutions consists of many different materials including , LiF, LiCl, , alkoxides, and nonconducting polymers. The equivalent circuit for such a mosaic‐type SEI electrode is extremely complex. It is shown that near room temperature the grain‐boundary resistance ( R gb ) for polyparticle solid electrolytes is larger than the bulk ionic resistance. Up to now, all models of SEI electrodes ignored the contribution of R gb to the overall SEI resistance. We show here that this neglect has no justification. On the basis of recent results, we propose here for SEI electrodes equivalent circuits which take into account the contribution of grain‐boundary and other interfacial impedance terms. This model accounts for a variety of different types of Nyquist plots reported for lithium and electrodes in liquid nonaqueous and polymer electrolytes.",
+  "authors": [
+    "Emanuel Peled",
+    "Diana Golodnitsky",
+    "Gilat Ardel"
+  ],
+  "year": 1997,
+  "doi": "10.1149/1.1837858",
+  "source": "openalex",
+  "categories": [
+    "Electrolyte",
+    "Electrode",
+    "Materials science",
+    "Nyquist plot",
+    "Polymer",
+    "Lithium (medication)",
+    "Grain boundary",
+    "Electrical impedance",
+    "Equivalent circuit",
+    "Fast ion conductor",
+    "Anode",
+    "Composite material",
+    "Chemical engineering",
+    "Chemistry",
+    "Electrochemistry",
+    "Electrical engineering",
+    "Voltage",
+    "Dielectric spectroscopy",
+    "Microstructure",
+    "Physical chemistry",
+    "Endocrinology",
+    "Medicine",
+    "Engineering"
+  ],
+  "citation_count": 1253,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1149/1.1837858/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2037447290.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:02.595244+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2037447290",
+    "concepts": [
+      "Electrolyte",
+      "Electrode",
+      "Materials science",
+      "Nyquist plot",
+      "Polymer"
+    ],
+    "oa_status": "bronze"
+  }
+}

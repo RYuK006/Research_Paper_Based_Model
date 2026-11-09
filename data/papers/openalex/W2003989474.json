@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2003989474",
+  "title": "Mixed-State Entanglement and Distillation: Is there a “Bound” Entanglement in Nature?",
+  "abstract": "It is shown that if a mixed state can be distilled to the singlet form it must violate partial transposition criterion [A. Peres, Phys. Rev. Lett. 76, 1413 (1996)]. It implies that there are two qualitatively different types of entanglement: ``free'' entanglement which is distillable, and ``bound'' entanglement which cannot be brought to the singlet form useful for quantum communication purposes. A possible physical meaning of the result is discussed.",
+  "authors": [
+    "Michał Horodecki",
+    "Paweł Horodecki",
+    "Ryszard Horodecki"
+  ],
+  "year": 1998,
+  "doi": "10.1103/physrevlett.80.5239",
+  "source": "openalex",
+  "categories": [
+    "Quantum entanglement",
+    "Squashed entanglement",
+    "Singlet state",
+    "Entanglement distillation",
+    "Quantum mechanics",
+    "W state",
+    "Physics",
+    "Distillation",
+    "Multipartite entanglement",
+    "State (computer science)",
+    "Entanglement witness",
+    "Quantum",
+    "Excited state",
+    "Mathematics",
+    "Chemistry",
+    "Algorithm",
+    "Organic chemistry"
+  ],
+  "citation_count": 1238,
+  "open_access_pdf_url": "https://arxiv.org/pdf/quant-ph/9801069",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2003989474.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:02.818732+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2003989474",
+    "concepts": [
+      "Quantum entanglement",
+      "Squashed entanglement",
+      "Singlet state",
+      "Entanglement distillation",
+      "Quantum mechanics"
+    ],
+    "oa_status": "green"
+  }
+}

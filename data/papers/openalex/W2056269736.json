@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2056269736",
+  "title": "Relativistic GW calculations on CH3NH3PbI3 and CH3NH3SnI3 Perovskites for Solar Cell Applications",
+  "abstract": "Hybrid AMX3 perovskites (A = Cs, CH3NH3; M = Sn, Pb; X = halide) have revolutionized the scenario of emerging photovoltaic technologies, with very recent results demonstrating 15% efficient solar cells. The CH3NH3PbI3/MAPb(I(1-x)Cl(x))3 perovskites have dominated the field, while the similar CH3NH3SnI3 has not been exploited for photovoltaic applications. Replacement of Pb by Sn would facilitate the large uptake of perovskite-based photovoltaics. Despite the extremely fast progress, the materials electronic properties which are key to the photovoltaic performance are relatively little understood. Density Functional Theory electronic structure methods have so far delivered an unbalanced description of Pb- and Sn-based perovskites. Here we develop an effective GW method incorporating spin-orbit coupling which allows us to accurately model the electronic, optical and transport properties of CH3NH3SnI3 and CH3NH3PbI3, opening the way to new materials design. The different CH3NH3SnI3 and CH3NH3PbI3 electronic properties are discussed in light of their exploitation for solar cells, and found to be dominantly due to relativistic effects. These effects stabilize the CH3NH3PbI3 material towards oxidation, by inducing a deeper valence band edge. Relativistic effects, however, also increase the material band-gap compared to CH3NH3SnI3, due to the valence band energy downshift (~0.7 eV) being only partly compensated by the conduction band downshift (~0.2 eV).",
+  "authors": [
+    "Paolo Umari",
+    "Edoardo Mosconi",
+    "Filippo De Angelis"
+  ],
+  "year": 2014,
+  "doi": "10.1038/srep04467",
+  "source": "openalex",
+  "categories": [
+    "Photovoltaics",
+    "Band gap",
+    "Perovskite (structure)",
+    "Photovoltaic system",
+    "Halide",
+    "Electronic structure",
+    "Solar cell",
+    "Conduction band",
+    "Valence (chemistry)",
+    "Materials science",
+    "Optoelectronics",
+    "Engineering physics",
+    "Nanotechnology",
+    "Chemistry",
+    "Condensed matter physics",
+    "Physics",
+    "Electron",
+    "Inorganic chemistry",
+    "Electrical engineering",
+    "Crystallography",
+    "Quantum mechanics",
+    "Organic chemistry",
+    "Engineering"
+  ],
+  "citation_count": 1353,
+  "open_access_pdf_url": "https://www.nature.com/articles/srep04467.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2056269736.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:55.157345+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2056269736",
+    "concepts": [
+      "Photovoltaics",
+      "Band gap",
+      "Perovskite (structure)",
+      "Photovoltaic system",
+      "Halide"
+    ],
+    "oa_status": "gold"
+  }
+}

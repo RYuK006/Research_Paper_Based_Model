@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2032207767",
+  "title": "Regional accumulations of T cells, macrophages, and smooth muscle cells in the human atherosclerotic plaque.",
+  "abstract": "The cellular composition of human atherosclerotic plaques was analyzed by immunologic techniques. Plaques were removed from the internal carotid artery during surgery, and a panel of monoclonal antibodies was used to identify cell types. Macrophages stained by Anti-Leu-M3 were found throughout the plaque, particularly in the lipid core region, where 60% of the cells reacted with this antibody. T cells expressing the T3 antigen were most abundant in the fibrous cap, where they constituted 20% of the cell population. T cells were also isolated from the plaque and detected by a rosetting test; many of these T cells were activated, as indicated by the expression of HLA-DR. Other types of leukocytes were uncommon in the plaque. An antibody to the intermediate filament protein, desmin, was used as a marker for smooth muscle cells since some, but not all, vascular smooth muscle cells contain this protein. The desmin-positive cells were uncommon in the nonatherosclerotic intima but were more numerous in the plaque. In conclusion, atherosclerotic plaques are heterogeneous with respect to cellular composition. The smooth muscle cell dominates in the fibrous cap, which also contains many T cells; the lipid core is dominated by macrophages. We suggest that interactions between smooth muscle cells and blood-borne cells are important in the pathogenesis of atherosclerosis.",
+  "authors": [
+    "Lena Jonasson",
+    "J Holm",
+    "Omar Skalli",
+    "Göran Bondjers",
+    "Göran K. Hansson"
+  ],
+  "year": 1986,
+  "doi": "10.1161/01.atv.6.2.131",
+  "source": "openalex",
+  "categories": [
+    "Desmin",
+    "Fibrous cap",
+    "Pathology",
+    "Antibody",
+    "Cell type",
+    "Monoclonal antibody",
+    "Population",
+    "Cell",
+    "Pathogenesis",
+    "Antigen",
+    "Biology",
+    "Cell biology",
+    "Chemistry",
+    "Immunology",
+    "Immunohistochemistry",
+    "Medicine",
+    "Genetics",
+    "Environmental health",
+    "Vimentin"
+  ],
+  "citation_count": 1348,
+  "open_access_pdf_url": "https://www.ahajournals.org/doi/pdf/10.1161/01.ATV.6.2.131",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2032207767.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:55.200900+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2032207767",
+    "concepts": [
+      "Desmin",
+      "Fibrous cap",
+      "Pathology",
+      "Antibody",
+      "Cell type"
+    ],
+    "oa_status": "bronze"
+  }
+}

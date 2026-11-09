@@ -1,0 +1,61 @@
+{
+  "id": "openalex:W2117963070",
+  "title": "Osteoprotegerin Is a Receptor for the Cytotoxic Ligand TRAIL",
+  "abstract": "TRAIL is a tumor necrosis factor-related ligand that induces apoptosis upon binding to its death domain-containing receptors, DR4 and DR5. Two additional TRAIL receptors, TRID/DcR1 and DcR2, lack functional death domains and function as decoy receptors for TRAIL. We have identified a fifth TRAIL receptor, namely osteoprotegerin (OPG), a secreted tumor necrosis factor receptor homologue that inhibits osteoclastogenesis and increases bone density in vivo. OPG-Fc binds TRAIL with an affinity of 3.0 nM, which is slightly weaker than the interaction of TRID-Fc or DR5-Fc with TRAIL. OPG inhibits TRAIL-induced apoptosis of Jurkat cells. Conversely, TRAIL blocks the anti-osteoclastogenic activity of OPG. These data suggest potential cross-regulatory mechanisms by OPG and TRAIL.",
+  "authors": [
+    "John G. Emery",
+    "Peter McDonnell",
+    "Michael Brigham Burke",
+    "Keith C. Deen",
+    "Sally D. Lyn",
+    "Carol Silverman",
+    "Edward Dul",
+    "Edward R. Appelbaum",
+    "Chris Eichman",
+    "Rocco DiPrinzio",
+    "Robert A. Dodds",
+    "Ian E. James",
+    "Martin J. Rosenberg",
+    "John C. Lee",
+    "Peter R. Young"
+  ],
+  "year": 1998,
+  "doi": "10.1074/jbc.273.23.14363",
+  "source": "openalex",
+  "categories": [
+    "Osteoprotegerin",
+    "Tumor necrosis factor alpha",
+    "Receptor",
+    "Decoy",
+    "Jurkat cells",
+    "Apoptosis",
+    "Chemistry",
+    "Cell biology",
+    "Cancer research",
+    "Internal medicine",
+    "Endocrinology",
+    "Immunology",
+    "Biology",
+    "Medicine",
+    "Biochemistry",
+    "T cell",
+    "Activator (genetics)",
+    "Immune system"
+  ],
+  "citation_count": 1197,
+  "open_access_pdf_url": "http://www.jbc.org/article/S002192581977478X/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2117963070.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:08.327668+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2117963070",
+    "concepts": [
+      "Osteoprotegerin",
+      "Tumor necrosis factor alpha",
+      "Receptor",
+      "Decoy",
+      "Jurkat cells"
+    ],
+    "oa_status": "hybrid"
+  }
+}

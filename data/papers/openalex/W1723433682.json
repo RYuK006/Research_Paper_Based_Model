@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W1723433682",
+  "title": "Dynamic Mode Decomposition with Control",
+  "abstract": "Abstract. We develop a new method which extends dynamic mode decomposition (DMD) to incorporate the effect of control to extract low-order models from high-dimensional, complex systems. DMD finds spatial-temporal coherent modes, connects local-linear analysis to nonlinear operator theory, and provides an equation-free architecture which is compatible with compressive sensing. In actuated systems, DMD is incapable of producing an input-output model; moreover, the dynamics and the modes will be corrupted by external forcing. Our new method, dynamic mode decomposition with control (DMDc), capitalizes on all of the advantages of DMD and provides the additional innovation of being able to disambiguate between the underlying dynamics and the effects of actuation, resulting in accurate input-output models. The method is data-driven in that it does not require knowledge of the underlying governing equations—only snapshots in time of observables and actuation data from historical, experimental, or black-box simulations. We demonstrate the method on high-dimensional dynamical systems, including a model with relevance to the analysis of infectious disease data with mass vaccination (actuation).",
+  "authors": [
+    "Joshua L. Proctor",
+    "Steven L. Brunton",
+    "J. Nathan Kutz"
+  ],
+  "year": 2016,
+  "doi": "10.1137/15m1013857",
+  "source": "openalex",
+  "categories": [
+    "Dynamic mode decomposition",
+    "Computer science",
+    "Nonlinear system",
+    "Dynamical systems theory",
+    "Observable",
+    "Mode (computer interface)",
+    "Control theory (sociology)",
+    "System dynamics",
+    "Operator (biology)",
+    "Control (management)",
+    "Artificial intelligence",
+    "Physics",
+    "Machine learning",
+    "Chemistry",
+    "Transcription factor",
+    "Repressor",
+    "Quantum mechanics",
+    "Operating system",
+    "Gene",
+    "Biochemistry"
+  ],
+  "citation_count": 1204,
+  "open_access_pdf_url": "https://epubs.siam.org/doi/pdf/10.1137/15M1013857",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1723433682.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:08.239622+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1723433682",
+    "concepts": [
+      "Dynamic mode decomposition",
+      "Computer science",
+      "Nonlinear system",
+      "Dynamical systems theory",
+      "Observable"
+    ],
+    "oa_status": "hybrid"
+  }
+}

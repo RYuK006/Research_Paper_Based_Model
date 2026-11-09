@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W1966078827",
+  "title": "GROMACS 4: Algorithms for Highly Efficient, Load-Balanced, and Scalable Molecular Simulation",
+  "abstract": "Molecular simulation is an extremely useful, but computationally very expensive tool for studies of chemical and biomolecular systems. Here, we present a new implementation of our molecular simulation toolkit GROMACS which now both achieves extremely high performance on single processors from algorithmic optimizations and hand-coded routines and simultaneously scales very well on parallel machines. The code encompasses a minimal-communication domain decomposition algorithm, full dynamic load balancing, a state-of-the-art parallel constraint solver, and efficient virtual site algorithms that allow removal of hydrogen atom degrees of freedom to enable integration time steps up to 5 fs for atomistic simulations also in parallel. To improve the scaling properties of the common particle mesh Ewald electrostatics algorithms, we have in addition used a Multiple-Program, Multiple-Data approach, with separate node domains responsible for direct and reciprocal space interactions. Not only does this combination of algorithms enable extremely long simulations of large systems but also it provides that simulation performance on quite modest numbers of standard cluster nodes.",
+  "authors": [
+    "Berk Hess",
+    "Carsten Kutzner",
+    "David van der Spoel",
+    "Erik R. Lindahl"
+  ],
+  "year": 2008,
+  "doi": "10.1021/ct700301q",
+  "source": "openalex",
+  "categories": [
+    "Computer science",
+    "Scalability",
+    "Algorithm",
+    "Computational science",
+    "Node (physics)",
+    "Molecular dynamics",
+    "Parallel computing",
+    "Supercomputer",
+    "Domain decomposition methods",
+    "Solver",
+    "Chemistry",
+    "Thermodynamics",
+    "Programming language",
+    "Engineering",
+    "Finite element method",
+    "Computational chemistry",
+    "Physics",
+    "Database",
+    "Structural engineering"
+  ],
+  "citation_count": 15963,
+  "open_access_pdf_url": "http://hdl.handle.net/11858/00-001M-0000-0012-DDC0-A",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1966078827.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:49.820890+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1966078827",
+    "concepts": [
+      "Computer science",
+      "Scalability",
+      "Algorithm",
+      "Computational science",
+      "Node (physics)"
+    ],
+    "oa_status": "green"
+  }
+}

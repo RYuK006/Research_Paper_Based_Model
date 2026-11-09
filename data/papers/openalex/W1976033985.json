@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W1976033985",
+  "title": "Mechanism of mitotic block and inhibition of cell proliferation by taxol at low concentrations.",
+  "abstract": "Taxol inhibited HeLa cell proliferation by inducing a sustained mitotic block at the metaphase/anaphase boundary. Half-maximal inhibition of cell proliferation occurred at 8 nM taxol, and mitosis was half-maximally blocked at 8 nM taxol. Inhibition of mitosis was associated with formation of an incomplete metaphase plate of chromosomes and an altered arrangement of spindle microtubules that strongly resembled the abnormal organization that occurs with low concentrations of vinblastine and other antimitotic compounds. No increase in microtubule polymer mass occurred below 10 nM taxol. The mass of microtubules increased half-maximally at 80 nM taxol and attained maximal levels (5 times normal) at 330 nM taxol. At submicromolar concentrations, taxol suppressed growing and shortening at the ends of microtubules reassembled in vitro from bovine brain tubulin in a manner that resembled suppression by vinblastine. Taxol was concentrated in HeLa cells several hundredfold to levels that were similar to those which suppressed dynamic instability in vitro. The results indicate that taxol shares a common antiproliferative mechanism with vinblastine. At its lowest effective concentrations, taxol appears to block mitosis by kinetically stabilizing spindle microtubules and not by changing the mass of polymerized microtubules.",
+  "authors": [
+    "Mary Ann Jordan",
+    "Robert J. Toso",
+    "Douglas Thrower",
+    "Leslie Wilson"
+  ],
+  "year": 1993,
+  "doi": "10.1073/pnas.90.20.9552",
+  "source": "openalex",
+  "categories": [
+    "Mitosis",
+    "Vinblastine",
+    "Metaphase",
+    "Microtubule",
+    "Tubulin",
+    "Cell biology",
+    "HeLa",
+    "Anaphase",
+    "Microtubule polymerization",
+    "Biology",
+    "Chemistry",
+    "In vitro",
+    "Cell cycle",
+    "Cell",
+    "Biophysics",
+    "Biochemistry",
+    "Genetics",
+    "Chemotherapy",
+    "Chromosome",
+    "Gene"
+  ],
+  "citation_count": 1098,
+  "open_access_pdf_url": "https://www.pnas.org/doi/pdf/10.1073/pnas.90.20.9552",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1976033985.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:24.246863+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1976033985",
+    "concepts": [
+      "Mitosis",
+      "Vinblastine",
+      "Metaphase",
+      "Microtubule",
+      "Tubulin"
+    ],
+    "oa_status": "bronze"
+  }
+}

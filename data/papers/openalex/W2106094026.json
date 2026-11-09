@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2106094026",
+  "title": "Gas molecule adsorption in carbon nanotubes and nanotube bundles",
+  "abstract": "We studied various gas molecules (NO 2 , O 2 , NH 3 , N 2 , CO 2 , CH 4 , H 2 O, H 2 , Ar) on single-walled carbon nanotubes (SWNTs) and bundles using first principles methods. The equilibrium position, adsorption energy, charge transfer, and electronic band structures are obtained for different kinds of SWNTs. Most molecules adsorb weakly on SWNTs and can be either charge donors or acceptors to the nanotubes. We find that the gas adsorption on the bundle interstitial and groove sites is stronger than that on individual nanotubes. The electronic properties of SWNTs are sensitive to the adsorption of certain gases such as NO 2 and O 2 . Charge transfer and gas-induced charge fluctuation might significantly affect the transport properties of SWNTs. Our theoretical results are consistent with recent experiments.",
+  "authors": [
+    "Jijun Zhao",
+    "Alper Buldum",
+    "Jie Han",
+    "Jian Ping Lu"
+  ],
+  "year": 2002,
+  "doi": "10.1088/0957-4484/13/2/312",
+  "source": "openalex",
+  "categories": [
+    "Carbon nanotube",
+    "Adsorption",
+    "Molecule",
+    "Materials science",
+    "Chemical physics",
+    "Nanotube",
+    "Charge (physics)",
+    "Nanotechnology",
+    "Bundle",
+    "Chemical engineering",
+    "Chemistry",
+    "Physical chemistry",
+    "Organic chemistry",
+    "Composite material",
+    "Physics",
+    "Quantum mechanics",
+    "Engineering"
+  ],
+  "citation_count": 1168,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1088/0957-4484/13/2/312/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2106094026.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:12.207401+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2106094026",
+    "concepts": [
+      "Carbon nanotube",
+      "Adsorption",
+      "Molecule",
+      "Materials science",
+      "Chemical physics"
+    ],
+    "oa_status": "bronze"
+  }
+}

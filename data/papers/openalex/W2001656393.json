@@ -1,0 +1,45 @@
+{
+  "id": "openalex:W2001656393",
+  "title": "Theory of Shear Banding in Metallic Glasses and Molecular Dynamics Calculations",
+  "abstract": "The aged-rejuvenation-glue-liquid (ARGL) shear band model has been proposed for metallic glasses (Acta Mater. 54 (2006) 4293), based on small-scale molecular dynamics simulations up to 20,000 atoms and thermomechanical analysis. The model predicts the existence of a critical lengthscale ∼10 nm, above which melting could occur in shear-alienated glass. Large-scale molecular dynamics simulations with up to 5 million atoms have directly verified this prediction. When the applied stress exceeds the glue traction (computed separately before in a shear cohesive zone, or an amorphous-amorphous “generalized stacking fault energy” calculation), we indeed observe maturation of the shear band embryo into bona fide shear crack, accompanied by melting. In contrast, when the applied stress is below the glue traction, the shear band embryo does not propagate, becomes diffuse, and eventually dies. Thus this all-important quantity, the glue traction which is a property of shear-alienated glass, controls the macroscopic yield point of well-aged glass. We further suggest that the disruption of chemical short-range order (“chemical softening”) governs the glue traction microscopically. Catastrophic thermal softening occurs only after chemical alienation and softening in our simulation, after the shear band embryo has already run a critical length.",
+  "authors": [
+    "Futoshi Shimizu",
+    "Shigenobu Ogata",
+    "Ju Li"
+  ],
+  "year": 2007,
+  "doi": "10.2320/matertrans.mj200769",
+  "source": "openalex",
+  "categories": [
+    "Materials science",
+    "Shear band",
+    "Shear (geology)",
+    "Amorphous solid",
+    "Amorphous metal",
+    "Composite material",
+    "Softening",
+    "Molecular dynamics",
+    "Adiabatic shear band",
+    "GLUE",
+    "Crystallography",
+    "Computational chemistry",
+    "Chemistry",
+    "Alloy"
+  ],
+  "citation_count": 1238,
+  "open_access_pdf_url": "https://www.jstage.jst.go.jp/article/matertrans/48/11/48_MJ200769/_pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2001656393.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:02.816665+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2001656393",
+    "concepts": [
+      "Materials science",
+      "Shear band",
+      "Shear (geology)",
+      "Amorphous solid",
+      "Amorphous metal"
+    ],
+    "oa_status": "bronze"
+  }
+}

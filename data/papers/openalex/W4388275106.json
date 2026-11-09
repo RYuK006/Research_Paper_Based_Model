@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W4388275106",
+  "title": "Smart nanoparticles for cancer therapy",
+  "abstract": "Smart nanoparticles, which can respond to biological cues or be guided by them, are emerging as a promising drug delivery platform for precise cancer treatment. The field of oncology, nanotechnology, and biomedicine has witnessed rapid progress, leading to innovative developments in smart nanoparticles for safer and more effective cancer therapy. In this review, we will highlight recent advancements in smart nanoparticles, including polymeric nanoparticles, dendrimers, micelles, liposomes, protein nanoparticles, cell membrane nanoparticles, mesoporous silica nanoparticles, gold nanoparticles, iron oxide nanoparticles, quantum dots, carbon nanotubes, black phosphorus, MOF nanoparticles, and others. We will focus on their classification, structures, synthesis, and intelligent features. These smart nanoparticles possess the ability to respond to various external and internal stimuli, such as enzymes, pH, temperature, optics, and magnetism, making them intelligent systems. Additionally, this review will explore the latest studies on tumor targeting by functionalizing the surfaces of smart nanoparticles with tumor-specific ligands like antibodies, peptides, transferrin, and folic acid. We will also summarize different types of drug delivery options, including small molecules, peptides, proteins, nucleic acids, and even living cells, for their potential use in cancer therapy. While the potential of smart nanoparticles is promising, we will also acknowledge the challenges and clinical prospects associated with their use. Finally, we will propose a blueprint that involves the use of artificial intelligence-powered nanoparticles in cancer treatment applications. By harnessing the potential of smart nanoparticles, this review aims to usher in a new era of precise and personalized cancer therapy, providing patients with individualized treatment options.",
+  "authors": [
+    "Leming Sun",
+    "Hongmei Liu",
+    "Yanqi Ye",
+    "Lei Yang",
+    "Rehmat Islam",
+    "Sumin Tan",
+    "Rongsheng Tong",
+    "Yang‐Bao Miao",
+    "Lulu Cai"
+  ],
+  "year": 2023,
+  "doi": "10.1038/s41392-023-01642-x",
+  "source": "openalex",
+  "categories": [
+    "Nanotechnology",
+    "Nanomedicine",
+    "Nanoparticle",
+    "Drug delivery",
+    "Cancer",
+    "Mesoporous silica",
+    "Materials science",
+    "Iron oxide nanoparticles",
+    "Computer science",
+    "Chemistry",
+    "Medicine",
+    "Mesoporous material",
+    "Internal medicine",
+    "Biochemistry",
+    "Catalysis"
+  ],
+  "citation_count": 1145,
+  "open_access_pdf_url": "https://www.nature.com/articles/s41392-023-01642-x.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W4388275106.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:14.654456+00:00",
+  "raw_metadata": {
+    "openalex_id": "W4388275106",
+    "concepts": [
+      "Nanotechnology",
+      "Nanomedicine",
+      "Nanoparticle",
+      "Drug delivery",
+      "Cancer"
+    ],
+    "oa_status": "gold"
+  }
+}

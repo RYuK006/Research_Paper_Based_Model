@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2111937898",
+  "title": "Calculations of electorn inelastic mean free paths. II. Data for 27 elements over the 50–2000 eV range",
+  "abstract": "Abstract We report calculations of electron inelastic mean free paths (IMFPs) for 50–2000 eV electrons in a group of 27 elements (C, Mg, Al, Si, Ti, V, Cr, Fe, Ni, Cu, Y, Zr, Nb, Mo, Ru, Rh, Pd, Ag, Ta, W, Re, Os, Ir, Pt, Au and Bi). This work extends our previous calculations ( Surf. Interface Anal. 11, 57 (1988)) for the 200–2000 eV range. Substantial variations were found in the shapes of the IMFP versus energy curves from element to element over the 50–2000 eV range and we attribute these variations to the different inelastic scattering properties of each material. Our calculated IMFPs wee fitted to a modified form of the Bethe equation for inelastic electron scattering in matter; this equation has four parameters. These four parameters could be empirically related to several material parameters for our group of elements (atomic weight, bulk density and number of valence electron per atom). IMFPs and those initially calculated was 13%. The modified Bethe equation and our expressions for the four parameters can therefore be used to estimate IMFPs in other materials. The uncertainties in the algorithm used for our IMFP calculation are difficult to estimate but are believed to be largely systematic. Since the same algorithm has been used for calculating IMFPs, our predictive IMFP formula is considered to be particularly useful for predicting the IMFP dependence on energy in the 50–2000 eV range and the material dependence for a given energy.",
+  "authors": [
+    "Shigeo Tanuma",
+    "C. J. Powell",
+    "David R. Penn"
+  ],
+  "year": 1991,
+  "doi": "10.1002/sia.740171304",
+  "source": "openalex",
+  "categories": [
+    "Inelastic mean free path",
+    "Range (aeronautics)",
+    "Electron",
+    "Valence electron",
+    "Atomic physics",
+    "Inelastic scattering",
+    "Atom (system on chip)",
+    "Mean free path",
+    "Chemistry",
+    "Valence (chemistry)",
+    "Scattering",
+    "Materials science",
+    "Physics",
+    "Nuclear physics",
+    "Quantum mechanics",
+    "Composite material",
+    "Embedded system",
+    "Organic chemistry",
+    "Computer science"
+  ],
+  "citation_count": 1236,
+  "open_access_pdf_url": "https://mdr.nims.go.jp/filesets/60e97a17-b4ef-41d8-9fe7-f10941c0dbc5/download",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2111937898.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:02.842383+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2111937898",
+    "concepts": [
+      "Inelastic mean free path",
+      "Range (aeronautics)",
+      "Electron",
+      "Valence electron",
+      "Atomic physics"
+    ],
+    "oa_status": "green"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W1977670750",
+  "title": "Observation of Three-Photon Greenberger-Horne-Zeilinger Entanglement",
+  "abstract": "We present the experimental observation of polarization entanglement for three spatially separated photons. Such states of more than two entangled particles, known as Greenberger-Horne-Zeilinger (GHZ) states, play a crucial role in fundamental tests of quantum mechanics versus local realism and in many quantum information and quantum computation schemes. Our experimental arrangement is such that we start with two pairs of entangled photons and register the photons in a way that any information as to which pair each photon belongs to is erased. After detecting a trigger photon, the registered events at the detectors for the remaining three photons exhibit the desired GHZ correlations.",
+  "authors": [
+    "Dik Bouwmeester",
+    "Jian-Wei Pan",
+    "Matthew Daniell",
+    "Harald Weinfurter",
+    "Anton Zeilinger"
+  ],
+  "year": 1999,
+  "doi": "10.1103/physrevlett.82.1345",
+  "source": "openalex",
+  "categories": [
+    "Quantum entanglement",
+    "Physics",
+    "Photon entanglement",
+    "Photon",
+    "Quantum mechanics",
+    "Quantum sensor",
+    "Polarization (electrochemistry)",
+    "Quantum nonlocality",
+    "Quantum information",
+    "Quantum",
+    "W state",
+    "Quantum network",
+    "Chemistry",
+    "Physical chemistry"
+  ],
+  "citation_count": 1086,
+  "open_access_pdf_url": "http://link.aps.org/pdf/10.1103/PhysRevLett.82.1345",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1977670750.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:24.443861+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1977670750",
+    "concepts": [
+      "Quantum entanglement",
+      "Physics",
+      "Photon entanglement",
+      "Photon",
+      "Quantum mechanics"
+    ],
+    "oa_status": "bronze"
+  }
+}

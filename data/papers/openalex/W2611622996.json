@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2611622996",
+  "title": "Oxygen Release and Its Effect on the Cycling Stability of LiNi x Mn y Co z O 2 (NMC) Cathode Materials for Li-Ion Batteries",
+  "abstract": "Layered LiNi x Mn y Co z O 2 (NMC) is a widely used class of cathode materials with LiNi 1/3 Mn 1/3 Co 1/3 O 2 (NMC111) being the most common representative. However, Ni-rich NMCs are more and more in the focus of current research due to their higher specific capacity and energy. In this work we will compare LiNi 1/3 Mn 1/3 Co 1/3 O 2 (NMC111), LiNi 0.6 Mn 0.2 Co 0.2 O 2 (NMC622), and LiNi 0.8 Mn 0.1 Co 0.1 O 2 (NMC811) with respect to their cycling stability in NMC-graphite full-cells at different end-of-charge potentials. It will be shown that stable cycling is possible up to 4.4 V for NMC111 and NMC622 and only up to 4.0 V for NMC811. At higher potentials, significant capacity fading was observed, which was traced back to an increase in the polarization of the NMC electrode, contrary to the nearly constant polarization of the graphite electrode. Furthermore, we show that the increase in the polarization occurs when the NMC materials are cycled up to a high-voltage feature in the dq/dV plot, which occurs at ∼4.7 V vs. Li/Li + for NMC111 and NMC622 and at ∼4.3 V vs. Li/Li + for NMC811. For the latter material, this feature corresponds to the H2 → H3 phase transition. Contrary to the common understanding that the electrochemical oxidation of carbonate electrolytes causes the CO 2 and CO evolution at potentials above 4.7 V vs. Li/Li + , we believe that the observed CO 2 and CO are mainly due to the chemical reaction of reactive lattice oxygen with the electrolyte. This hypothesis is based on gas analysis using On-line Electrochemical Mass Spectrometry (OEMS), by which we prove that all three materials release oxygen from the particle surface and that the oxygen evolution coincides with the onset of CO 2 and CO evolution. Interestingly, the onsets of oxygen evolution for the different NMCs correlate well with the high-voltage redox feature at ∼4.7 V vs. Li/Li + for NMC111 and NMC622 as well as at ∼4.3 V vs. Li/Li + for NMC811. To support this hypothesis, we show that no CO 2 or CO is evolved for the LiNi 0.43 Mn 1.57 O 4 (LNMO) spinel up to 5 V vs. Li/Li + , consistent with the absence of oxygen release. Lastly, we demonstrate by the use of 13 C labeled conductive carbon that it is the electrolyte rather than the conductive carbon which is oxidized by the released lattice oxygen. Taking these findings into consideration, a mechanism is proposed for the reaction of released lattice oxygen with ethylene carbonate yielding CO 2 , CO, and H 2 O.",
+  "authors": [
+    "Roland Jung",
+    "Michael Metzger",
+    "Filippo Maglia",
+    "Christoph Stinner",
+    "Hubert Andreas Gasteiger"
+  ],
+  "year": 2017,
+  "doi": "10.1149/2.0021707jes",
+  "source": "openalex",
+  "categories": [
+    "Electrolyte",
+    "Cathode",
+    "Electrochemistry",
+    "Polarization (electrochemistry)",
+    "Graphite",
+    "Ion",
+    "Oxygen",
+    "Analytical Chemistry (journal)",
+    "Cycling",
+    "Materials science",
+    "Electrode",
+    "Chemistry",
+    "Metallurgy",
+    "Physical chemistry",
+    "Archaeology",
+    "History",
+    "Organic chemistry",
+    "Chromatography"
+  ],
+  "citation_count": 1401,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1149/2.0021707jes/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2611622996.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:52.461439+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2611622996",
+    "concepts": [
+      "Electrolyte",
+      "Cathode",
+      "Electrochemistry",
+      "Polarization (electrochemistry)",
+      "Graphite"
+    ],
+    "oa_status": "hybrid"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "openalex:W2731987565",
+  "title": "Inverse electron demand Diels–Alder reactions in chemical biology",
+  "abstract": "The emerging inverse electron demand Diels-Alder (IEDDA) reaction stands out from other bioorthogonal reactions by virtue of its unmatchable kinetics, excellent orthogonality and biocompatibility. With the recent discovery of novel dienophiles and optimal tetrazine coupling partners, attention has now been turned to the use of IEDDA approaches in basic biology, imaging and therapeutics. Here we review this bioorthogonal reaction and its promising applications for live cell and animal studies. We first discuss the key factors that contribute to the fast IEDDA kinetics and describe the most recent advances in the synthesis of tetrazine and dienophile coupling partners. Both coupling partners have been incorporated into proteins for tracking and imaging by use of fluorogenic tetrazines that become strongly fluorescent upon reaction. Selected notable examples of such applications are presented. The exceptional fast kinetics of this catalyst-free reaction, even using low concentrations of coupling partners, make it amenable for in vivo radiolabelling using pretargeting methodologies, which are also discussed. Finally, IEDDA reactions have recently found use in bioorthogonal decaging to activate proteins or drugs in gain-of-function strategies. We conclude by showing applications of the IEDDA reaction in the construction of biomaterials that are used for drug delivery and multimodal imaging, among others. The use and utility of the IEDDA reaction is interdisciplinary and promises to revolutionize chemical biology, radiochemistry and materials science.",
+  "authors": [
+    "B. L. Oliveira",
+    "Zijian Guo",
+    "Gonçalo J. L. Bernardes"
+  ],
+  "year": 2017,
+  "doi": "10.1039/c7cs00184c",
+  "source": "openalex",
+  "categories": [
+    "Alder",
+    "Diels–Alder reaction",
+    "Electron",
+    "Chemistry",
+    "Computational chemistry",
+    "Physics",
+    "Organic chemistry",
+    "Biology",
+    "Ecology",
+    "Nuclear physics",
+    "Catalysis"
+  ],
+  "citation_count": 1186,
+  "open_access_pdf_url": "https://pubs.rsc.org/en/content/articlepdf/2017/cs/c7cs00184c",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2731987565.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:11.990220+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2731987565",
+    "concepts": [
+      "Alder",
+      "Diels–Alder reaction",
+      "Electron",
+      "Chemistry",
+      "Computational chemistry"
+    ],
+    "oa_status": "hybrid"
+  }
+}

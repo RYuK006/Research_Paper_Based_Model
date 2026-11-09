@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W2099636727",
+  "title": "A single parameter representation of hygroscopic growth and cloud condensation nucleus activity",
+  "abstract": "Abstract. We present a method to describe the relationship between dry particle diameter and cloud condensation nuclei (CCN) activity using a single hygroscopicity parameter. Values of the hygroscopicity parameter are between 0.5 and 2 for highly-CCN-active salts such as sodium chloride, between 0.01 and 0.5 for slightly to very hygroscopic organic species, and 0 for nonhygroscopic components. If compositional data are available and if the hygroscopicity parameter of each component is known, a multicomponent hygroscopicity parameter can be computed by weighting component hygroscopicity parameters by their volume fractions in the mixture. In the absence of information on chemical composition, experimental data for complex, multicomponent particles can be fitted to obtain the hygroscopicity parameter. The hygroscopicity parameter can thus also be used to conveniently model the CCN activity of atmospheric particles, including those containing insoluble components. We confirm the general applicability of the hygroscopicity parameter and its mixing rule by applying it to published hygroscopic diameter growth factor and CCN-activation data for single- and multi-component particles.",
+  "authors": [
+    "Markus Dirk Petters",
+    "Sonia M. Kreidenweis"
+  ],
+  "year": 2007,
+  "doi": "10.5194/acp-7-1961-2007",
+  "source": "openalex",
+  "categories": [
+    "Cloud condensation nuclei",
+    "Chemistry",
+    "Aerosol",
+    "Condensation",
+    "Particle (ecology)",
+    "Relative humidity",
+    "Volume (thermodynamics)",
+    "Component (thermodynamics)",
+    "Pulmonary surfactant",
+    "Thermodynamics",
+    "Particle number",
+    "Organic chemistry",
+    "Biochemistry",
+    "Geology",
+    "Physics",
+    "Oceanography"
+  ],
+  "citation_count": 2851,
+  "open_access_pdf_url": "https://acp.copernicus.org/articles/7/1961/2007/acp-7-1961-2007.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2099636727.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:01.891704+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2099636727",
+    "concepts": [
+      "Cloud condensation nuclei",
+      "Chemistry",
+      "Aerosol",
+      "Condensation",
+      "Particle (ecology)"
+    ],
+    "oa_status": "gold"
+  }
+}

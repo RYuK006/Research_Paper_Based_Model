@@ -1,0 +1,41 @@
+{
+  "id": "openalex:W4393183306",
+  "title": "Loss of Life Transformer Prediction Based on Stacking Ensemble Improved by Genetic Algorithm By IJISRT",
+  "abstract": "Prediction for loss of life transfomer is very important to ensure the reliability and efficiency of the power system. In this paper, an innovative model is proposed to improve the accuracy of lost of life transfomer prediction using stacking ensembles enhanced with genetic algorithm (GA). The aim is to develop a robust model to estimate the remaining life of a transformer in order to generally increase the reliability of the electrical energy distribution system. This approach involves integrating various machine learning models as a basic model, namely Support Vector Machines (SVM) and K-Nearest Neighbor (KNN). A stacking ensemble framework is then used to combine the predictions of these base models using a meta model namely Logistic Regression (LR). The results show a significant improvement in both transformers using stacking-GA, both TR-A and TR-B, with each prediction evaluation 99% and with a minimal error rate, namely approaching 0.the developed framework presents a promising solution for accurate and reliable transformer life prediction. By integrating a variety of basic models, applying improved stacking layouts using GA, these models offer valuable insights to improve maintenance strategies and system reliability in power grids.",
+  "authors": [
+    "Rosena Shintabella",
+    "Catur Edi Widodo",
+    "Adi Wibowo"
+  ],
+  "year": 2024,
+  "doi": "10.38124/ijisrt/ijisrt24mar1125",
+  "source": "openalex",
+  "categories": [
+    "Stacking",
+    "Transformer",
+    "Computer science",
+    "Algorithm",
+    "Artificial intelligence",
+    "Engineering",
+    "Electrical engineering",
+    "Chemistry",
+    "Voltage",
+    "Organic chemistry"
+  ],
+  "citation_count": 1321,
+  "open_access_pdf_url": "https://www.ijisrt.com/assets/upload/files/IJISRT24MAR1125.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W4393183306.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:57.669613+00:00",
+  "raw_metadata": {
+    "openalex_id": "W4393183306",
+    "concepts": [
+      "Stacking",
+      "Transformer",
+      "Computer science",
+      "Algorithm",
+      "Artificial intelligence"
+    ],
+    "oa_status": "diamond"
+  }
+}

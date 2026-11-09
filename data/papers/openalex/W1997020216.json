@@ -1,0 +1,42 @@
+{
+  "id": "openalex:W1997020216",
+  "title": "Parallel database systems",
+  "abstract": ": Parallel database machine architectures have evolved from the use of exotic hardware to a software parallel dataflow architecture based on conventional shared-nothing hardware. These new designs provide impressive speedup and scaleup when processing relational database queries. This paper reviews the techniques used by such systems, and surveys current commercial and research systems. 1. Introduction Highly parallel database systems are beginning to displace traditional mainframe computers for the largest database and transaction processing tasks. The success of these systems refutes a 1983 paper predicting the demise of database machines [BORA83]. Ten years ago the future of highly-parallel database machines seemed gloomy, even to their staunchest advocates. Most database machine research had focused on specialized, often trendy, hardware such as CCD memories, bubble memories, head-per-track disks, and optical disks. None of these technologies fulfilled their promises; so there wa...",
+  "authors": [
+    "David J. DeWitt",
+    "Jim Gray"
+  ],
+  "year": 1992,
+  "doi": "10.1145/129888.129894",
+  "source": "openalex",
+  "categories": [
+    "Corporation",
+    "Citation",
+    "Library science",
+    "Center (category theory)",
+    "Computer science",
+    "Database",
+    "Telecommunications",
+    "History",
+    "Political science",
+    "Law",
+    "Crystallography",
+    "Chemistry"
+  ],
+  "citation_count": 1316,
+  "open_access_pdf_url": "https://dl.acm.org/doi/pdf/10.1145/129888.129894",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1997020216.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:57.697609+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1997020216",
+    "concepts": [
+      "Corporation",
+      "Citation",
+      "Library science",
+      "Center (category theory)",
+      "Computer science"
+    ],
+    "oa_status": "bronze"
+  }
+}

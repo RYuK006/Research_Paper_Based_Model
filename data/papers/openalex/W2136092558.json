@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W2136092558",
+  "title": "Development of an Aerosol Mass Spectrometer for Size and Composition Analysis of Submicron Particles",
+  "abstract": "The importance of atmospheric aerosols in regulating the Earth's climate and their potential detrimental impact on air quality and human health has stimulated the need for instrumentation which can provide real-time analysis of size resolved aerosol, mass, and chemical composition. We describe here an aerosol mass spectrometer (AMS) which has been developed in response to these aerosol sampling needs and present results which demonstrate quantitative mea surement capability for a laboratory-generated pure component NH4 NO3 aerosol. The instrument combines standard vacuum and mass spectrometric technologies with recently developed aerosol sampling techniques. A unique aerodynamic aerosol inlet (developed at the University of Minnesota) focuses particles into a narrow beam and efficiently transports them into vacuum where aerodynamic particle size is determined via a particle time-of-flight (TOF) measurement. Time-resolved particle mass detection is performed mass spectrometrically following particle flash vaporization on a resistively heated surface. Calibration data are presented for aerodynamic particle velocity and particle collection efficiency measurements. The capability to measure aerosol size and mass distributions is compared to simultaneous measurements using a differential mobility analyzer (DMA) and condensation particle counter (CPC). Quantitative size classification is demonstrated for pure component NH4 NO3 aerosols having mass concentrations 0.25mu g m -3. Results of fluid dynamics calculations illustrating the performance of the aerodynamic lens are also presented and compared to the measured performance. The utility of this AMS as both a laboratory and field portable instrument is discussed.",
+  "authors": [
+    "John T. Jayne",
+    "Danna C. Leard",
+    "Xuefeng Zhang",
+    "P. Davidovits",
+    "Kenneth A. Smith",
+    "C. E. Kolb",
+    "Douglas R. Worsnop"
+  ],
+  "year": 2000,
+  "doi": "10.1080/027868200410840",
+  "source": "openalex",
+  "categories": [
+    "Aerosol",
+    "Mass spectrometry",
+    "Differential mobility analyzer",
+    "Particle (ecology)",
+    "Chemistry",
+    "Particle size",
+    "Instrumentation (computer programming)",
+    "Analytical Chemistry (journal)",
+    "Particle counter",
+    "Environmental science",
+    "Environmental chemistry",
+    "Chromatography",
+    "Physical chemistry",
+    "Computer science",
+    "Geology",
+    "Operating system",
+    "Organic chemistry",
+    "Oceanography"
+  ],
+  "citation_count": 1662,
+  "open_access_pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/027868200410840?needAccess=true",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2136092558.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:37.942863+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2136092558",
+    "concepts": [
+      "Aerosol",
+      "Mass spectrometry",
+      "Differential mobility analyzer",
+      "Particle (ecology)",
+      "Chemistry"
+    ],
+    "oa_status": "bronze"
+  }
+}

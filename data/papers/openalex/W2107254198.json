@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2107254198",
+  "title": "Anti-neutrophil cytoplasmic autoantibodies induce neutrophils to degranulate and produce oxygen radicals in vitro.",
+  "abstract": "Anti-neutrophil cytoplasmic autoantibodies (ANCA) are in the circulation of most patients with pauci-immune necrotizing vasculitis and pauci-immune crescentic glomerulonephritis. The current study demonstrates an effect of these autoantibodies on neutrophil function in vitro. ANCA cause normal human neutrophils to undergo an oxidative burst and degranulate. Both ANCA phenotypes (i.e., cytoplasmic-pattern ANCA and myeloperoxidase-specific ANCA) induce neutrophil activation. ANCA sera and purified immunoglobulins significantly increase the release of reactive oxygen species when compared with controls. ANCA, in a dose-dependent manner, induce the release of primary granule contents. These effects are markedly enhanced by priming neutrophils with tumor necrosis factor. Flow cytometry studies demonstrate the presence of myeloperoxidase on the surface of neutrophils after cytokine priming, indicating that primed neutrophils have ANCA antigens at their surfaces to interact with ANCA. These observations suggest an in vivo pathogenetic role for ANCA. We propose that, in patients with necrotizing vasculitis, ANCA-induced release of toxic oxygen radicals and noxious granule enzymes from cytokine-primed neutrophils could be mediating vascular inflammation.",
+  "authors": [
+    "Ronald J. Falk",
+    "Regina S. Terrell",
+    "L Charles",
+    "John Charles Jennette"
+  ],
+  "year": 1990,
+  "doi": "10.1073/pnas.87.11.4115",
+  "source": "openalex",
+  "categories": [
+    "Myeloperoxidase",
+    "Immunology",
+    "Autoantibody",
+    "Proteinase 3",
+    "Respiratory burst",
+    "Chemistry",
+    "Immune system",
+    "Neutrophil extracellular traps",
+    "Anti-neutrophil cytoplasmic antibody",
+    "Cytokine",
+    "Vasculitis",
+    "Inflammation",
+    "Antibody",
+    "Biology",
+    "Medicine",
+    "Pathology",
+    "Disease"
+  ],
+  "citation_count": 1256,
+  "open_access_pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/54058",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2107254198.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:02.564806+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2107254198",
+    "concepts": [
+      "Myeloperoxidase",
+      "Immunology",
+      "Autoantibody",
+      "Proteinase 3",
+      "Respiratory burst"
+    ],
+    "oa_status": "green"
+  }
+}

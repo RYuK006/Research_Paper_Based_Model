@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2898559532",
+  "title": "Minimum sample size for developing a multivariable prediction model: PART II ‐ binary and time‐to‐event outcomes",
+  "abstract": "When designing a study to develop a new prediction model with binary or time‐to‐event outcomes, researchers should ensure their sample size is adequate in terms of the number of participants ( n ) and outcome events ( E ) relative to the number of predictor parameters ( p ) considered for inclusion. We propose that the minimum values of n and E (and subsequently the minimum number of events per predictor parameter, EPP) should be calculated to meet the following three criteria: (i) small optimism in predictor effect estimates as defined by a global shrinkage factor of ≥ 0.9, (ii) small absolute difference of ≤ 0.05 in the model's apparent and adjusted Nagelkerke's R 2 , and (iii) precise estimation of the overall risk in the population. Criteria (i) and (ii) aim to reduce overfitting conditional on a chosen p , and require prespecification of the model's anticipated Cox‐Snell R 2 , which we show can be obtained from previous studies. The values of n and E that meet all three criteria provides the minimum sample size required for model development. Upon application of our approach, a new diagnostic model for Chagas disease requires an EPP of at least 4.8 and a new prognostic model for recurrent venous thromboembolism requires an EPP of at least 23. This reinforces why rules of thumb (eg, 10 EPP) should be avoided. Researchers might additionally ensure the sample size gives precise estimates of key predictor effects; this is especially important when key categorical predictors have few events in some categories, as this may substantially increase the numbers required.",
+  "authors": [
+    "Richard D Riley",
+    "Kym I E Snell",
+    "Joie Ensor",
+    "Danielle L. Burke",
+    "Frank E. Harrell",
+    "Karel G.M. Moons",
+    "Professor Gary S. Collins"
+  ],
+  "year": 2018,
+  "doi": "10.1002/sim.7992",
+  "source": "openalex",
+  "categories": [
+    "Statistics",
+    "Sample size determination",
+    "Categorical variable",
+    "Mathematics",
+    "Econometrics",
+    "Event (particle physics)",
+    "Overfitting",
+    "Rule of thumb",
+    "Population",
+    "Sample (material)",
+    "Computer science",
+    "Medicine",
+    "Artificial intelligence",
+    "Algorithm",
+    "Quantum mechanics",
+    "Chromatography",
+    "Chemistry",
+    "Physics",
+    "Environmental health",
+    "Artificial neural network"
+  ],
+  "citation_count": 1533,
+  "open_access_pdf_url": "https://doi.org/10.1002/sim.7992",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2898559532.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:45.402520+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2898559532",
+    "concepts": [
+      "Statistics",
+      "Sample size determination",
+      "Categorical variable",
+      "Mathematics",
+      "Econometrics"
+    ],
+    "oa_status": "hybrid"
+  }
+}

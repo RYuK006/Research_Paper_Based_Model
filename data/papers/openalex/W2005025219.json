@@ -1,0 +1,45 @@
+{
+  "id": "openalex:W2005025219",
+  "title": "What is an Oil Shock?",
+  "abstract": "This paper uses a flexible approach to characterize the nonlinear relation between oil price changes and GDP growth. The paper reports clear evidence of nonlinearity, consistent with earlier claims in the literature—oil price increases are much more important than oil price decreases, and increases have significantly less predictive content if they simply correct earlier decreases. An alternative interpretation is suggested based on estimation of a linear functional form using exogenous disruptions in petroleum supplies as instruments.",
+  "authors": [
+    "James Douglas Hamilton"
+  ],
+  "year": 2000,
+  "doi": "10.3386/w7755",
+  "source": "openalex",
+  "categories": [
+    "Oil price",
+    "Shock (circulatory)",
+    "Economics",
+    "Petroleum",
+    "Econometrics",
+    "Nonlinear system",
+    "Monetary economics",
+    "Interpretation (philosophy)",
+    "Chemistry",
+    "Computer science",
+    "Internal medicine",
+    "Physics",
+    "Organic chemistry",
+    "Medicine",
+    "Quantum mechanics",
+    "Programming language"
+  ],
+  "citation_count": 2212,
+  "open_access_pdf_url": "https://doi.org/10.3386/w7755",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2005025219.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:12.627557+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2005025219",
+    "concepts": [
+      "Oil price",
+      "Shock (circulatory)",
+      "Economics",
+      "Petroleum",
+      "Econometrics"
+    ],
+    "oa_status": "green"
+  }
+}

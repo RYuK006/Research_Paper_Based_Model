@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W2049281675",
+  "title": "Evaluating metal–organic frameworks for natural gas storage",
+  "abstract": "Metal–organic frameworks have received significant attention as a new class of adsorbents for natural gas storage; however, inconsistencies in reporting high-pressure adsorption data and a lack of comparative studies have made it challenging to evaluate both new and existing materials. Here, we briefly discuss high-pressure adsorption measurements and review efforts to develop metal–organic frameworks with high methane storage capacities. To illustrate the most important properties for evaluating adsorbents for natural gas storage and for designing a next generation of improved materials, six metal–organic frameworks and an activated carbon, with a range of surface areas, pore structures, and surface chemistries representative of the most promising adsorbents for methane storage, are evaluated in detail. High-pressure methane adsorption isotherms are used to compare gravimetric and volumetric capacities, isosteric heats of adsorption, and usable storage capacities. Additionally, the relative importance of increasing volumetric capacity, rather than gravimetric capacity, for extending the driving range of natural gas vehicles is highlighted. Other important systems-level factors, such as thermal management, mechanical properties, and the effects of impurities, are also considered, and potential materials synthesis contributions to improving performance in a complete adsorbed natural gas system are discussed.",
+  "authors": [
+    "Jarad A. Mason",
+    "Mike Veenstra",
+    "Jeffrey R. Long"
+  ],
+  "year": 2013,
+  "doi": "10.1039/c3sc52633j",
+  "source": "openalex",
+  "categories": [
+    "Adsorption",
+    "Gravimetric analysis",
+    "Methane",
+    "Natural gas",
+    "Natural gas storage",
+    "Metal-organic framework",
+    "USable",
+    "Activated carbon",
+    "Natural-gas processing",
+    "Process engineering",
+    "Chemistry",
+    "Organic chemistry",
+    "Computer science",
+    "Engineering",
+    "World Wide Web"
+  ],
+  "citation_count": 1257,
+  "open_access_pdf_url": "https://pubs.rsc.org/en/content/articlepdf/2014/sc/c3sc52633j",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2049281675.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:02.530773+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2049281675",
+    "concepts": [
+      "Adsorption",
+      "Gravimetric analysis",
+      "Methane",
+      "Natural gas",
+      "Natural gas storage"
+    ],
+    "oa_status": "hybrid"
+  }
+}

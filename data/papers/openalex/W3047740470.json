@@ -1,0 +1,45 @@
+{
+  "id": "openalex:W3047740470",
+  "title": "Mitochondrial electron transport chain: Oxidative phosphorylation, oxidant production, and methods of measurement",
+  "abstract": "The mitochondrial electron transport chain utilizes a series of electron transfer reactions to generate cellular ATP through oxidative phosphorylation. A consequence of electron transfer is the generation of reactive oxygen species (ROS), which contributes to both homeostatic signaling as well as oxidative stress during pathology. In this graphical review we provide an overview of oxidative phosphorylation and its inter-relationship with ROS production by the electron transport chain. We also outline traditional and novel translational methodology for assessing mitochondrial energetics in health and disease.",
+  "authors": [
+    "Deirdre Nolfi‐Donegan",
+    "Andrea Braganza",
+    "Sruti Shiva"
+  ],
+  "year": 2020,
+  "doi": "10.1016/j.redox.2020.101674",
+  "source": "openalex",
+  "categories": [
+    "Oxidative phosphorylation",
+    "Electron transport chain",
+    "Reactive oxygen species",
+    "Oxidative stress",
+    "Mitochondrion",
+    "Cell biology",
+    "Phosphorylation",
+    "Mitochondrial ROS",
+    "Electron transfer",
+    "Chemistry",
+    "Biochemistry",
+    "Biophysics",
+    "Biology",
+    "Photochemistry"
+  ],
+  "citation_count": 1600,
+  "open_access_pdf_url": "https://www.sciencedirect.com/science/article/pii/S221323172030879X/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3047740470.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:41.853242+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3047740470",
+    "concepts": [
+      "Oxidative phosphorylation",
+      "Electron transport chain",
+      "Reactive oxygen species",
+      "Oxidative stress",
+      "Mitochondrion"
+    ],
+    "oa_status": "gold"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2891118671",
+  "title": "Risk Reduction in Large Portfolios: Why Imposing the Wrong Constraints Helps",
+  "abstract": "ABSTRACT Green and Hollifield (1992) argue that the presence of a dominant factor would result in extreme negative weights in mean‐variance efficient portfolios even in the absence of estimation errors. In that case, imposing no‐short‐sale constraints should hurt, whereas empirical evidence is often to the contrary. We reconcile this apparent contradiction. We explain why constraining portfolio weights to be nonnegative can reduce the risk in estimated optimal portfolios even when the constraints are wrong. Surprisingly, with no‐short‐sale constraints in place, the sample covariance matrix performs as well as covariance matrix estimates based on factor models, shrinkage estimators, and daily data.",
+  "authors": [
+    "Ravi Jagannathan",
+    "Tongshu Ma"
+  ],
+  "year": 2003,
+  "doi": "10.1111/1540-6261.00580",
+  "source": "openalex",
+  "categories": [
+    "Covariance matrix",
+    "Portfolio",
+    "Mathematics",
+    "Estimator",
+    "Covariance",
+    "Portfolio optimization",
+    "Econometrics",
+    "Constraint (computer-aided design)",
+    "Population",
+    "Sample (material)",
+    "Statistics",
+    "Economics",
+    "Finance",
+    "Chemistry",
+    "Chromatography",
+    "Sociology",
+    "Demography",
+    "Geometry"
+  ],
+  "citation_count": 1478,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1540-6261.00580",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2891118671.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:48.157963+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2891118671",
+    "concepts": [
+      "Covariance matrix",
+      "Portfolio",
+      "Mathematics",
+      "Estimator",
+      "Covariance"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2027652501",
+  "title": "Composite Medium with Simultaneously Negative Permeability and Permittivity",
+  "abstract": "We demonstrate a composite medium, based on a periodic array of interspaced conducting nonmagnetic split ring resonators and continuous wires, that exhibits a frequency region in the microwave regime with simultaneously negative values of effective permeability &mgr;(eff)(omega) and permittivity varepsilon(eff)(omega). This structure forms a \"left-handed\" medium, for which it has been predicted that such phenomena as the Doppler effect, Cherenkov radiation, and even Snell's law are inverted. It is now possible through microwave experiments to test for these effects using this new metamaterial.",
+  "authors": [
+    "David R. Smith",
+    "Willie J. Padilla",
+    "David C. Vier",
+    "Sia Nemat‐Nasser",
+    "Sheldon Schultz"
+  ],
+  "year": 2000,
+  "doi": "10.1103/physrevlett.84.4184",
+  "source": "openalex",
+  "categories": [
+    "Permittivity",
+    "Metamaterial",
+    "Microwave",
+    "Composite number",
+    "Permeability (electromagnetism)",
+    "Cherenkov radiation",
+    "Physics",
+    "Resonator",
+    "Split-ring resonator",
+    "Optics",
+    "Omega",
+    "Condensed matter physics",
+    "Materials science",
+    "Composite material",
+    "Optoelectronics",
+    "Quantum mechanics",
+    "Dielectric",
+    "Chemistry",
+    "Membrane",
+    "Biochemistry",
+    "Detector"
+  ],
+  "citation_count": 8883,
+  "open_access_pdf_url": "http://link.aps.org/pdf/10.1103/PhysRevLett.84.4184",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2027652501.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:49.898639+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2027652501",
+    "concepts": [
+      "Permittivity",
+      "Metamaterial",
+      "Microwave",
+      "Composite number",
+      "Permeability (electromagnetism)"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2117362627",
+  "title": "Synchronization in scale-free dynamical networks: robustness and fragility",
+  "abstract": "Recently, it has been demonstrated that many large complex networks display a scale-free feature, that is, their connectivity distributions are in the power-law form. In this paper, we investigate the synchronization phenomenon in scale-free dynamical networks. We show that if the coupling strength of a scale-free dynamical network is greater than a positive threshold, then the network will synchronize no matter how large it is. We show that the synchronizability of a scale-free dynamical network is robust against random removal of nodes, but is fragile to specific removal of the most highly connected nodes.",
+  "authors": [
+    "Xiao Fan Wang",
+    "Guanrong Chen"
+  ],
+  "year": 2002,
+  "doi": "10.1109/81.974874",
+  "source": "openalex",
+  "categories": [
+    "Synchronization (alternating current)",
+    "Scale-free network",
+    "Robustness (evolution)",
+    "Fragility",
+    "Complex network",
+    "Synchronization networks",
+    "Topology (electrical circuits)",
+    "Computer science",
+    "Scale (ratio)",
+    "Statistical physics",
+    "Mathematics",
+    "Physics",
+    "Combinatorics",
+    "Chemistry",
+    "Biochemistry",
+    "Quantum mechanics",
+    "Thermodynamics",
+    "World Wide Web",
+    "Gene"
+  ],
+  "citation_count": 1130,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0105014",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2117362627.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:17.001101+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2117362627",
+    "concepts": [
+      "Synchronization (alternating current)",
+      "Scale-free network",
+      "Robustness (evolution)",
+      "Fragility",
+      "Complex network"
+    ],
+    "oa_status": "green"
+  }
+}

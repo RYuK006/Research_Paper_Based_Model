@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2508296626",
+  "title": "Peroxidation of polyunsaturated fatty acids by lipoxygenases drives ferroptosis",
+  "abstract": "Ferroptosis is form of regulated nonapoptotic cell death that is involved in diverse disease contexts. Small molecules that inhibit glutathione peroxidase 4 (GPX4), a phospholipid peroxidase, cause lethal accumulation of lipid peroxides and induce ferroptotic cell death. Although ferroptosis has been suggested to involve accumulation of reactive oxygen species (ROS) in lipid environments, the mediators and substrates of ROS generation and the pharmacological mechanism of GPX4 inhibition that generates ROS in lipid environments are unknown. We report here the mechanism of lipid peroxidation during ferroptosis, which involves phosphorylase kinase G2 (PHKG2) regulation of iron availability to lipoxygenase enzymes, which in turn drive ferroptosis through peroxidation of polyunsaturated fatty acids (PUFAs) at the bis-allylic position; indeed, pretreating cells with PUFAs containing the heavy hydrogen isotope deuterium at the site of peroxidation (D-PUFA) prevented PUFA oxidation and blocked ferroptosis. We further found that ferroptosis inducers inhibit GPX4 by covalently targeting the active site selenocysteine, leading to accumulation of PUFA hydroperoxides. In summary, we found that PUFA oxidation by lipoxygenases via a PHKG2-dependent iron pool is necessary for ferroptosis and that the covalent inhibition of the catalytic selenocysteine in Gpx4 prevents elimination of PUFA hydroperoxides; these findings suggest new strategies for controlling ferroptosis in diverse contexts.",
+  "authors": [
+    "Wan Seok Yang",
+    "Katherine J. Kim",
+    "Michael M. Gaschler",
+    "Milesh Patel",
+    "Mikhail S. Shchepinov",
+    "Brent R. Stockwell"
+  ],
+  "year": 2016,
+  "doi": "10.1073/pnas.1603244113",
+  "source": "openalex",
+  "categories": [
+    "GPX4",
+    "Phospholipid-hydroperoxide glutathione peroxidase",
+    "Lipid peroxidation",
+    "Reactive oxygen species",
+    "Programmed cell death",
+    "Biochemistry",
+    "Chemistry",
+    "Phospholipid",
+    "Peroxidase",
+    "Lipid peroxide",
+    "Antioxidant",
+    "Enzyme",
+    "Glutathione peroxidase",
+    "Cell biology",
+    "Glutathione",
+    "Biology",
+    "Apoptosis",
+    "Membrane"
+  ],
+  "citation_count": 2364,
+  "open_access_pdf_url": "https://www.pnas.org/content/pnas/113/34/E4966.full.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2508296626.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:08.740260+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2508296626",
+    "concepts": [
+      "GPX4",
+      "Phospholipid-hydroperoxide glutathione peroxidase",
+      "Lipid peroxidation",
+      "Reactive oxygen species",
+      "Programmed cell death"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W3093149769",
+  "title": "Machine Learning Force Fields",
+  "abstract": "methods and the efficiency of classical FFs. The key idea is to learn the statistical relation between chemical structure and potential energy without relying on a preconceived notion of fixed chemical bonds or knowledge about the relevant interactions. Such universal ML approximations are in principle only limited by the quality and quantity of the reference data used to train them. This review gives an overview of applications of ML-FFs and the chemical insights that can be obtained from them. The core concepts underlying ML-FFs are described in detail, and a step-by-step guide for constructing and testing them from scratch is given. The text concludes with a discussion of the challenges that remain to be overcome by the next generation of ML-FFs.",
+  "authors": [
+    "Oliver T. Unke",
+    "Stefan Chmiela",
+    "Huziel E. Sauceda",
+    "Michael Gastegger",
+    "Igor Poltavsky",
+    "Kristof T. Schütt",
+    "Alexandre Tkatchenko",
+    "Klaus‐Robert Müller"
+  ],
+  "year": 2021,
+  "doi": "10.1021/acs.chemrev.0c01111",
+  "source": "openalex",
+  "categories": [
+    "Computer science",
+    "Scratch",
+    "Key (lock)",
+    "Quality (philosophy)",
+    "Artificial intelligence",
+    "Ab initio",
+    "Machine learning",
+    "Force field (fiction)",
+    "Relation (database)",
+    "Theoretical computer science",
+    "Data mining",
+    "Chemistry",
+    "Physics",
+    "Operating system",
+    "Quantum mechanics",
+    "Organic chemistry",
+    "Computer security"
+  ],
+  "citation_count": 1794,
+  "open_access_pdf_url": "https://doi.org/10.1021/acs.chemrev.0c01111",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3093149769.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:26.019466+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3093149769",
+    "concepts": [
+      "Computer science",
+      "Scratch",
+      "Key (lock)",
+      "Quality (philosophy)",
+      "Artificial intelligence"
+    ],
+    "oa_status": "hybrid"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2167712193",
+  "title": "A self-consistent theory for graphene transport",
+  "abstract": "We demonstrate theoretically that most of the observed transport properties of graphene sheets at zero magnetic field can be explained by scattering from charged impurities. We find that, contrary to common perception, these properties are not universal but depend on the concentration of charged impurities n(imp). For dirty samples (250 x 10(10) cm(-2) < n(imp) < 400 x 10(10) cm(-2)), the value of the minimum conductivity at low carrier density is indeed 4e(2)/h in agreement with early experiments, with weak dependence on impurity concentration. For cleaner samples, we predict that the minimum conductivity depends strongly on n(imp), increasing to 8e(2)/h for n(imp) approximately 20 x 10(10) cm(-2). A clear strategy to improve graphene mobility is to eliminate charged impurities or use a substrate with a larger dielectric constant.",
+  "authors": [
+    "Shaffique Adam",
+    "E. H. Hwang",
+    "Victor M. Galitski",
+    "S. Das Sarma"
+  ],
+  "year": 2007,
+  "doi": "10.1073/pnas.0704772104",
+  "source": "openalex",
+  "categories": [
+    "Graphene",
+    "Impurity",
+    "Conductivity",
+    "Condensed matter physics",
+    "Scattering",
+    "Substrate (aquarium)",
+    "Dielectric",
+    "Materials science",
+    "Analytical Chemistry (journal)",
+    "Chemistry",
+    "Physics",
+    "Nanotechnology",
+    "Physical chemistry",
+    "Optics",
+    "Organic chemistry",
+    "Oceanography",
+    "Geology",
+    "Optoelectronics",
+    "Chromatography"
+  ],
+  "citation_count": 1253,
+  "open_access_pdf_url": "https://www.pnas.org/doi/pdf/10.1073/pnas.0704772104",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2167712193.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:02.620219+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2167712193",
+    "concepts": [
+      "Graphene",
+      "Impurity",
+      "Conductivity",
+      "Condensed matter physics",
+      "Scattering"
+    ],
+    "oa_status": "bronze"
+  }
+}

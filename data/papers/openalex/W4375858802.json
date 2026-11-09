@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W4375858802",
+  "title": "Fast and accurate protein structure search with Foldseek",
+  "abstract": "As structure prediction methods are generating millions of publicly available protein structures, searching these databases is becoming a bottleneck. Foldseek aligns the structure of a query protein against a database by describing tertiary amino acid interactions within proteins as sequences over a structural alphabet. Foldseek decreases computation times by four to five orders of magnitude with 86%, 88% and 133% of the sensitivities of Dali, TM-align and CE, respectively.",
+  "authors": [
+    "Michel van Kempen",
+    "Stephanie S. Kim",
+    "Charlotte Tumescheit",
+    "Milot Mirdita",
+    "Jeong-Jae Lee",
+    "Cameron L. M. Gilchrist",
+    "Johannes Söding",
+    "Martin Steinegger"
+  ],
+  "year": 2023,
+  "doi": "10.1038/s41587-023-01773-0",
+  "source": "openalex",
+  "categories": [
+    "Bottleneck",
+    "Alphabet",
+    "Computer science",
+    "Computation",
+    "Protein structure",
+    "Protein tertiary structure",
+    "Computational biology",
+    "Information retrieval",
+    "Algorithm",
+    "Chemistry",
+    "Biology",
+    "Biochemistry",
+    "Linguistics",
+    "Philosophy",
+    "Embedded system"
+  ],
+  "citation_count": 2608,
+  "open_access_pdf_url": "https://www.nature.com/articles/s41587-023-01773-0.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W4375858802.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:04.244268+00:00",
+  "raw_metadata": {
+    "openalex_id": "W4375858802",
+    "concepts": [
+      "Bottleneck",
+      "Alphabet",
+      "Computer science",
+      "Computation",
+      "Protein structure"
+    ],
+    "oa_status": "hybrid"
+  }
+}

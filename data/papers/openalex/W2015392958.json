@@ -1,0 +1,45 @@
+{
+  "id": "openalex:W2015392958",
+  "title": "The Nrf2-Antioxidant Response Element Signaling Pathway and Its Activation by Oxidative Stress",
+  "abstract": "A major mechanism in the cellular defense against oxidative or electrophilic stress is activation of the Nrf2-antioxidant response element signaling pathway, which controls the expression of genes whose protein products are involved in the detoxication and elimination of reactive oxidants and electrophilic agents through conjugative reactions and by enhancing cellular antioxidant capacity. At the molecular level, however, the regulatory mechanisms involved in mediating Nrf2 activation are not fully understood. It is well established that Nrf2 activity is controlled, in part, by the cytosolic protein Keap1, but the nature of this pathway and the mechanisms by which Keap1 acts to repress Nrf2 activity remain to be fully characterized and are the topics of discussion in this minireview. In addition, a possible role of the Nrf2-antioxidant response element transcriptional pathway in neuroprotection will also be discussed.",
+  "authors": [
+    "Truyen Nguyen",
+    "Paul Nioi",
+    "Cecil B. Pickett"
+  ],
+  "year": 2009,
+  "doi": "10.1074/jbc.r900010200",
+  "source": "openalex",
+  "categories": [
+    "KEAP1",
+    "Oxidative stress",
+    "Antioxidant",
+    "Signal transduction",
+    "Cell biology",
+    "Cytosol",
+    "Chemistry",
+    "Neuroprotection",
+    "Biochemistry",
+    "Transcription factor",
+    "Biology",
+    "Enzyme",
+    "Gene",
+    "Pharmacology"
+  ],
+  "citation_count": 2695,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925820581817/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2015392958.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:04.168650+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2015392958",
+    "concepts": [
+      "KEAP1",
+      "Oxidative stress",
+      "Antioxidant",
+      "Signal transduction",
+      "Cell biology"
+    ],
+    "oa_status": "hybrid"
+  }
+}

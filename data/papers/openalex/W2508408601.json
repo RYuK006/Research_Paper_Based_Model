@@ -1,0 +1,61 @@
+{
+  "id": "openalex:W2508408601",
+  "title": "Room-temperature ferroelectricity in CuInP2S6 ultrathin flakes",
+  "abstract": "Two-dimensional (2D) materials have emerged as promising candidates for various optoelectronic applications based on their diverse electronic properties, ranging from insulating to superconducting. However, cooperative phenomena such as ferroelectricity in the 2D limit have not been well explored. Here, we report room-temperature ferroelectricity in 2D CuInP2S6 (CIPS) with a transition temperature of ∼320 K. Switchable polarization is observed in thin CIPS of ∼4 nm. To demonstrate the potential of this 2D ferroelectric material, we prepare a van der Waals (vdW) ferroelectric diode formed by CIPS/Si heterostructure, which shows good memory behaviour with on/off ratio of ∼100. The addition of ferroelectricity to the 2D family opens up possibilities for numerous novel applications, including sensors, actuators, non-volatile memory devices, and various vdW heterostructures based on 2D ferroelectricity.",
+  "authors": [
+    "Fucai Liu",
+    "Lü You",
+    "Kyle L. Seyler",
+    "Xiaobao Li",
+    "Peng Yu",
+    "Junhao Lin",
+    "Xuewen Wang",
+    "Jiadong Zhou",
+    "Hong Wang",
+    "Haiyong He",
+    "Sokrates T. Pantelides",
+    "Wu Zhou",
+    "Pradeep Sharma",
+    "Xiaodong Xu",
+    "Pulickel Madhavapanicker Ajayan",
+    "Junling Wang",
+    "Zheng Liu"
+  ],
+  "year": 2016,
+  "doi": "10.1038/ncomms12357",
+  "source": "openalex",
+  "categories": [
+    "Ferroelectricity",
+    "Materials science",
+    "Heterojunction",
+    "Optoelectronics",
+    "van der Waals force",
+    "Non-volatile memory",
+    "Polarization (electrochemistry)",
+    "Nanotechnology",
+    "Condensed matter physics",
+    "Diode",
+    "Chemistry",
+    "Physics",
+    "Dielectric",
+    "Molecule",
+    "Organic chemistry",
+    "Physical chemistry"
+  ],
+  "citation_count": 1253,
+  "open_access_pdf_url": "https://www.nature.com/articles/ncomms12357.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2508408601.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:02.622547+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2508408601",
+    "concepts": [
+      "Ferroelectricity",
+      "Materials science",
+      "Heterojunction",
+      "Optoelectronics",
+      "van der Waals force"
+    ],
+    "oa_status": "gold"
+  }
+}

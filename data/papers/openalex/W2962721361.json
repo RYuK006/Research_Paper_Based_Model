@@ -1,0 +1,57 @@
+{
+  "id": "openalex:W2962721361",
+  "title": "Libra R-CNN: Towards Balanced Learning for Object Detection",
+  "abstract": "Compared with model architectures, the training process, which is also crucial to the success of detectors, has received relatively less attention in object detection. In this work, we carefully revisit the standard training practice of detectors, and find that the detection performance is often limited by the imbalance during the training process, which generally consists in three levels - sample level, feature level, and objective level. To mitigate the adverse effects caused thereby, we propose Libra R-CNN, a simple but effective framework towards balanced learning for object detection. It integrates three novel components: IoU-balanced sampling, balanced feature pyramid, and balanced L1 loss, respectively for reducing the imbalance at sample, feature, and objective level. Benefitted from the overall balanced design, Libra R-CNN significantly improves the detection performance. Without bells and whistles, it achieves 2.5 points and 2.0 points higher Average Precision (AP) than FPN Faster R-CNN and RetinaNet respectively on MSCOCO.",
+  "authors": [
+    "Jiangmiao Pang",
+    "Kai Chen",
+    "Jianping Shi",
+    "Huajun Feng",
+    "Wanli Ouyang",
+    "Dahua Lin"
+  ],
+  "year": 2019,
+  "doi": "10.1109/cvpr.2019.00091",
+  "source": "openalex",
+  "categories": [
+    "Object detection",
+    "Computer science",
+    "Pyramid (geometry)",
+    "Feature (linguistics)",
+    "Artificial intelligence",
+    "Process (computing)",
+    "Object (grammar)",
+    "Detector",
+    "Sample (material)",
+    "Deep learning",
+    "Pattern recognition (psychology)",
+    "Feature extraction",
+    "Feature learning",
+    "Machine learning",
+    "Computer vision",
+    "Mathematics",
+    "Telecommunications",
+    "Operating system",
+    "Geometry",
+    "Chemistry",
+    "Philosophy",
+    "Chromatography",
+    "Linguistics"
+  ],
+  "citation_count": 1893,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1904.02701",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2962721361.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:22.168752+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2962721361",
+    "concepts": [
+      "Object detection",
+      "Computer science",
+      "Pyramid (geometry)",
+      "Feature (linguistics)",
+      "Artificial intelligence"
+    ],
+    "oa_status": "green"
+  }
+}

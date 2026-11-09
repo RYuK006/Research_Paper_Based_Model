@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2146574666",
+  "title": "Minimum error rate training in statistical machine translation",
+  "abstract": "Often, the training procedure for statistical machine translation models is based on maximum likelihood or related criteria. A general problem of this approach is that there is only a loose relation to the final translation quality on unseen text. In this paper, we analyze various training criteria which directly optimize translation quality. These training criteria make use of recently proposed automatic evaluation metrics. We describe a new algorithm for efficient training an unsmoothed error count. We show that significantly better results can often be obtained if the final evaluation criterion is taken directly into account as part of the training procedure.",
+  "authors": [
+    "Franz Josef Och"
+  ],
+  "year": 2003,
+  "doi": "10.3115/1075096.1075117",
+  "source": "openalex",
+  "categories": [
+    "Computer science",
+    "Machine translation",
+    "Training (meteorology)",
+    "Translation (biology)",
+    "Relation (database)",
+    "Word error rate",
+    "Artificial intelligence",
+    "Quality (philosophy)",
+    "Machine learning",
+    "Training set",
+    "Error analysis",
+    "Data mining",
+    "Mathematics",
+    "Biochemistry",
+    "Physics",
+    "Meteorology",
+    "Philosophy",
+    "Gene",
+    "Epistemology",
+    "Messenger RNA",
+    "Applied mathematics",
+    "Chemistry"
+  ],
+  "citation_count": 2756,
+  "open_access_pdf_url": "https://dl.acm.org/doi/pdf/10.3115/1075096.1075117",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2146574666.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:01.970062+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2146574666",
+    "concepts": [
+      "Computer science",
+      "Machine translation",
+      "Training (meteorology)",
+      "Translation (biology)",
+      "Relation (database)"
+    ],
+    "oa_status": "bronze"
+  }
+}

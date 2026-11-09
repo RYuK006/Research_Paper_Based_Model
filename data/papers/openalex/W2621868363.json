@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W2621868363",
+  "title": "Ultrathin metal-organic framework array for efficient electrocatalytic water splitting",
+  "abstract": "Abstract Two-dimensional metal-organic frameworks represent a family of materials with attractive chemical and structural properties, which are usually prepared in the form of bulk powders. Here we show a generic approach to fabricate ultrathin nanosheet array of metal-organic frameworks on different substrates through a dissolution–crystallization mechanism. These materials exhibit intriguing properties for electrocatalysis including highly exposed active molecular metal sites owning to ultra-small thickness of nanosheets, improved electrical conductivity and a combination of hierarchical porosity. We fabricate a nickel-iron-based metal-organic framework array, which demonstrates superior electrocatalytic performance towards oxygen evolution reaction with a small overpotential of 240 mV at 10 mA cm −2 , and robust operation for 20,000 s with no detectable activity decay. Remarkably, the turnover frequency of the electrode is 3.8 s −1 at an overpotential of 400 mV. We further demonstrate the promise of these electrodes for other important catalytic reactions including hydrogen evolution reaction and overall water splitting.",
+  "authors": [
+    "Jingjing Duan",
+    "Chen Sheng",
+    "Chuan Zhao"
+  ],
+  "year": 2017,
+  "doi": "10.1038/ncomms15341",
+  "source": "openalex",
+  "categories": [
+    "Overpotential",
+    "Electrocatalyst",
+    "Nanosheet",
+    "Materials science",
+    "Water splitting",
+    "Metal-organic framework",
+    "Oxygen evolution",
+    "Catalysis",
+    "Dissolution",
+    "Chemical engineering",
+    "Metal",
+    "Porosity",
+    "Electrode",
+    "Nanotechnology",
+    "Nickel",
+    "Crystallization",
+    "Electrochemistry",
+    "Chemistry",
+    "Composite material",
+    "Metallurgy",
+    "Organic chemistry",
+    "Adsorption",
+    "Physical chemistry",
+    "Photocatalysis",
+    "Engineering"
+  ],
+  "citation_count": 1318,
+  "open_access_pdf_url": "https://www.nature.com/articles/ncomms15341.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2621868363.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:57.689635+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2621868363",
+    "concepts": [
+      "Overpotential",
+      "Electrocatalyst",
+      "Nanosheet",
+      "Materials science",
+      "Water splitting"
+    ],
+    "oa_status": "gold"
+  }
+}

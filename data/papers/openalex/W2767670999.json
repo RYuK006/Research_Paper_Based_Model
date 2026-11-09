@@ -1,0 +1,42 @@
+{
+  "id": "openalex:W2767670999",
+  "title": "Electrocatalysts for Hydrogen Evolution in Alkaline Electrolytes: Mechanisms, Challenges, and Prospective Solutions",
+  "abstract": "Hydrogen evolution reaction (HER) in alkaline medium is currently a point of focus for sustainable development of hydrogen as an alternative clean fuel for various energy systems, but suffers from sluggish reaction kinetics due to additional water dissociation step. So, the state-of-the-art catalysts performing well in acidic media lose considerable catalytic performance in alkaline media. This review summarizes the recent developments to overcome the kinetics issues of alkaline HER, synthesis of materials with modified morphologies, and electronic structures to tune the active sites and their applications as efficient catalysts for HER. It first explains the fundamentals and electrochemistry of HER and then outlines the requirements for an efficient and stable catalyst in alkaline medium. The challenges with alkaline HER and limitation with the electrocatalysts along with prospective solutions are then highlighted. It further describes the synthesis methods of advanced nanostructures based on carbon, noble, and inexpensive metals and their heterogeneous structures. These heterogeneous structures provide some ideal systems for analyzing the role of structure and synergy on alkaline HER catalysis. At the end, it provides the concluding remarks and future perspectives that can be helpful for tuning the catalysts active-sites with improved electrochemical efficiencies in future.",
+  "authors": [
+    "Nasir Mahmood",
+    "Yunduo Yao",
+    "Jingwen Zhang",
+    "Lun Pan",
+    "Xiangwen Zhang",
+    "Ji‐Jun Zou"
+  ],
+  "year": 2017,
+  "doi": "10.1002/advs.201700464",
+  "source": "openalex",
+  "categories": [
+    "Electrolyte",
+    "Inorganic chemistry",
+    "Chemical engineering",
+    "Chemistry",
+    "Materials science",
+    "Electrode",
+    "Physical chemistry",
+    "Engineering"
+  ],
+  "citation_count": 1689,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/advs.201700464",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2767670999.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:33.194541+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2767670999",
+    "concepts": [
+      "Electrolyte",
+      "Inorganic chemistry",
+      "Chemical engineering",
+      "Chemistry",
+      "Materials science"
+    ],
+    "oa_status": "gold"
+  }
+}

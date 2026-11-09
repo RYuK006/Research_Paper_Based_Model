@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W2080880982",
+  "title": "Giant Intrinsic Carrier Mobilities in Graphene and Its Bilayer",
+  "abstract": "We have studied temperature dependences of electron transport in graphene and its bilayer and found extremely low electron-phonon scattering rates that set the fundamental limit on possible charge carrier mobilities at room temperature. Our measurements show that mobilities higher than 200 000 cm2/V s are achievable, if extrinsic disorder is eliminated. A sharp (thresholdlike) increase in resistivity observed above approximately 200 K is unexpected but can qualitatively be understood within a model of a rippled graphene sheet in which scattering occurs on intraripple flexural phonons.",
+  "authors": [
+    "Sergey V. Morozov",
+    "Kostya S. Novoselov",
+    "Mikhail I. Katsnelson",
+    "Fred Schedin",
+    "Daniel Cunha Elias",
+    "John A. Jaszczak",
+    "Andre K. Geim"
+  ],
+  "year": 2008,
+  "doi": "10.1103/physrevlett.100.016602",
+  "source": "openalex",
+  "categories": [
+    "Graphene",
+    "Condensed matter physics",
+    "Bilayer graphene",
+    "Materials science",
+    "Scattering",
+    "Phonon",
+    "Electron",
+    "Charge carrier",
+    "Electron mobility",
+    "Carrier scattering",
+    "Bilayer",
+    "Physics",
+    "Nanotechnology",
+    "Optics",
+    "Chemistry",
+    "Quantum mechanics",
+    "Biochemistry",
+    "Membrane"
+  ],
+  "citation_count": 3502,
+  "open_access_pdf_url": "http://link.aps.org/pdf/10.1103/PhysRevLett.100.016602",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2080880982.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:57.707312+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2080880982",
+    "concepts": [
+      "Graphene",
+      "Condensed matter physics",
+      "Bilayer graphene",
+      "Materials science",
+      "Scattering"
+    ],
+    "oa_status": "bronze"
+  }
+}

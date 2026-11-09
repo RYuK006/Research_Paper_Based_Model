@@ -1,0 +1,60 @@
+{
+  "id": "openalex:W3116578724",
+  "title": "Promises and Challenges of Next-Generation “Beyond Li-ion” Batteries for Electric Vehicles and Grid Decarbonization",
+  "abstract": "The tremendous improvement in performance and cost of lithium-ion batteries (LIBs) have made them the technology of choice for electrical energy storage. While established battery chemistries and cell architectures for Li-ion batteries achieve good power and energy density, LIBs are unlikely to meet all the performance, cost, and scaling targets required for energy storage, in particular, in large-scale applications such as electrified transportation and grids. The demand to further reduce cost and/or increase energy density, as well as the growing concern related to natural resource needs for Li-ion have accelerated the investigation of so-called \"beyond Li-ion\" technologies. In this review, we will discuss the recent achievements, challenges, and opportunities of four important \"beyond Li-ion\" technologies: Na-ion batteries, K-ion batteries, all-solid-state batteries, and multivalent batteries. The fundamental science behind the challenges, and potential solutions toward the goals of a low-cost and/or high-energy-density future, are discussed in detail for each technology. While it is unlikely that any given new technology will fully replace Li-ion in the near future, \"beyond Li-ion\" technologies should be thought of as opportunities for energy storage to grow into mid/large-scale applications.",
+  "authors": [
+    "Yaosen Tian",
+    "Guobo Zeng",
+    "Ann Rutt",
+    "Tan Shi",
+    "Haegyeom Kim",
+    "Jingyang Wang",
+    "Julius Koettgen",
+    "Yingzhi Sun",
+    "Bin Ouyang",
+    "Tina Chen",
+    "Zhengyan Lun",
+    "Ziqin Rong",
+    "Kristin Aslaug Persson",
+    "Gerbrand Ceder"
+  ],
+  "year": 2020,
+  "doi": "10.1021/acs.chemrev.0c00767",
+  "source": "openalex",
+  "categories": [
+    "Energy storage",
+    "Battery (electricity)",
+    "Nanotechnology",
+    "Energy density",
+    "Scale (ratio)",
+    "Resource (disambiguation)",
+    "Lithium (medication)",
+    "Engineering physics",
+    "Chemistry",
+    "Power (physics)",
+    "Computer science",
+    "Engineering",
+    "Materials science",
+    "Physics",
+    "Endocrinology",
+    "Quantum mechanics",
+    "Medicine",
+    "Computer network"
+  ],
+  "citation_count": 1639,
+  "open_access_pdf_url": "https://escholarship.org/content/qt7b00f0nt/qt7b00f0nt.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3116578724.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:38.038475+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3116578724",
+    "concepts": [
+      "Energy storage",
+      "Battery (electricity)",
+      "Nanotechnology",
+      "Energy density",
+      "Scale (ratio)"
+    ],
+    "oa_status": "green"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "openalex:W2072312985",
+  "title": "Exploring atomic defects in molybdenum disulphide monolayers",
+  "abstract": "Defects usually play an important role in tailoring various properties of two-dimensional materials. Defects in two-dimensional monolayer molybdenum disulphide may be responsible for large variation of electric and optical properties. Here we present a comprehensive joint experiment-theory investigation of point defects in monolayer molybdenum disulphide prepared by mechanical exfoliation, physical and chemical vapour deposition. Defect species are systematically identified and their concentrations determined by aberration-corrected scanning transmission electron microscopy, and also studied by ab-initio calculation. Defect density up to 3.5 × 10(13) cm(-2) is found and the dominant category of defects changes from sulphur vacancy in mechanical exfoliation and chemical vapour deposition samples to molybdenum antisite in physical vapour deposition samples. Influence of defects on electronic structure and charge-carrier mobility are predicted by calculation and observed by electric transport measurement. In light of these results, the growth of ultra-high-quality monolayer molybdenum disulphide appears a primary task for the community pursuing high-performance electronic devices.",
+  "authors": [
+    "Jinhua Hong",
+    "Zhixin Hu",
+    "Matt I. J. Probert",
+    "Kun Li",
+    "Danhui Lv",
+    "Xinan Yang",
+    "Lin Gu",
+    "Nannan Mao",
+    "Qingliang Feng",
+    "Liming Xie",
+    "Jin Zhang",
+    "Dianzhong Wu",
+    "Zhiyong Zhang",
+    "Chuanhong Jin",
+    "Wei Ji",
+    "Xixiang Zhang",
+    "Jun Tang Yuan",
+    "Ze Zhang"
+  ],
+  "year": 2015,
+  "doi": "10.1038/ncomms7293",
+  "source": "openalex",
+  "categories": [
+    "Monolayer",
+    "Molybdenum disulfide",
+    "Molybdenum",
+    "Exfoliation joint",
+    "Materials science",
+    "Vacancy defect",
+    "Chemical vapor deposition",
+    "Chemical physics",
+    "Crystallographic defect",
+    "Density functional theory",
+    "Nanotechnology",
+    "Crystallography",
+    "Chemistry",
+    "Computational chemistry",
+    "Graphene",
+    "Composite material",
+    "Metallurgy"
+  ],
+  "citation_count": 1582,
+  "open_access_pdf_url": "https://www.nature.com/articles/ncomms7293.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2072312985.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:41.953074+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2072312985",
+    "concepts": [
+      "Monolayer",
+      "Molybdenum disulfide",
+      "Molybdenum",
+      "Exfoliation joint",
+      "Materials science"
+    ],
+    "oa_status": "gold"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W1966096736",
+  "title": "Defect-induced magnetism in graphene",
+  "abstract": "We study from first principles the magnetism in graphene induced by single carbon atom defects. For two types of defects considered in our study, the hydrogen chemisorption defect and the vacancy defect, the itinerant magnetism due to the defect-induced extended states has been observed. Calculated magnetic moments are equal to $1{\\ensuremath{\\mu}}_{B}$ per hydrogen chemisorption defect and $1.12--1.53{\\ensuremath{\\mu}}_{B}$ per vacancy defect depending on the defect concentration. The coupling between the magnetic moments is either ferromagnetic or antiferromagnetic, depending on whether the defects correspond to the same or to different hexagonal sublattices of the graphene lattice, respectively. The relevance of itinerant magnetism in graphene to the high-${T}_{C}$ magnetic ordering is discussed.",
+  "authors": [
+    "Oleg V. Yazyev",
+    "Lothar Helm"
+  ],
+  "year": 2007,
+  "doi": "10.1103/physrevb.75.125408",
+  "source": "openalex",
+  "categories": [
+    "Magnetism",
+    "Vacancy defect",
+    "Condensed matter physics",
+    "Graphene",
+    "Antiferromagnetism",
+    "Ferromagnetism",
+    "Magnetic moment",
+    "Chemisorption",
+    "Materials science",
+    "Hexagonal crystal system",
+    "Atom (system on chip)",
+    "Chemistry",
+    "Nanotechnology",
+    "Crystallography",
+    "Physics",
+    "Catalysis",
+    "Biochemistry",
+    "Computer science",
+    "Embedded system"
+  ],
+  "citation_count": 1492,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0610638",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1966096736.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:48.102243+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1966096736",
+    "concepts": [
+      "Magnetism",
+      "Vacancy defect",
+      "Condensed matter physics",
+      "Graphene",
+      "Antiferromagnetism"
+    ],
+    "oa_status": "green"
+  }
+}

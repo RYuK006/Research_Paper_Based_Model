@@ -1,0 +1,45 @@
+{
+  "id": "openalex:W2038562061",
+  "title": "Epidemic algorithms for replicated database maintenance",
+  "abstract": "Whru a dilt~lhSC is replicated at, many sites2 maintaining mutual consistrnry among t,he sites iu the fac:e of updat,es is a signitirant problem.This paper descrikrs several randomized algorit,hms for dist,rihut.ingupdates and driving t,he replicas toward consist,c>nc,y.The algorit Inns are very simple and require few guarant,ees from the underlying conllllunicat.iollsystem, yc+ they rnsutc t.hat.the off(~c~t, of ('very update is evcnt,uwlly rf+irt-ted in a11 rq1ica.s.The cost, and parformancc of t,hr algorithms arc tuned I>? c%oosing appropriat,c dist,rilMions in t,hc randoinizat,ioii step.TIN> idgoritlmls ilr(' c*los~*ly analogoIls t,o epidemics, and t,he epi-dcWliolog)-litc\\ratiirc, ilitlh iii Illld~~rsti4lldill~ tlicir bc*liavior.One of tlW i$,oritlims 11&S brc>n implrmcWrd in the Clraringhousr sprv(brs of thr Xerox C'orporat~c~ Iiitcrnc4, solviiig long-standing prol>lf~lns of high traffic and tlatirl>ilsr inconsistcllcp.",
+  "authors": [
+    "Alan J. Demers",
+    "Dan Greene",
+    "Carl H. Hauser",
+    "Wes Irish",
+    "John Larson"
+  ],
+  "year": 1987,
+  "doi": "10.1145/41840.41841",
+  "source": "openalex",
+  "categories": [
+    "Research center",
+    "PALO",
+    "Citation",
+    "Center (category theory)",
+    "Library science",
+    "Engineering",
+    "Computer science",
+    "Operating system",
+    "Pathology",
+    "Chemistry",
+    "Crystallography",
+    "Medicine"
+  ],
+  "citation_count": 1721,
+  "open_access_pdf_url": "https://dl.acm.org/doi/pdf/10.1145/41840.41841",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2038562061.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:33.065927+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2038562061",
+    "concepts": [
+      "Research center",
+      "PALO",
+      "Citation",
+      "Center (category theory)",
+      "Library science"
+    ],
+    "oa_status": "bronze"
+  }
+}

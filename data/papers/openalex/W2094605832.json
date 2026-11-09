@@ -1,0 +1,43 @@
+{
+  "id": "openalex:W2094605832",
+  "title": "Novel Signal Transduction Pathway Utilized by Extracellular HSP70",
+  "abstract": "Recent studies have initiated a paradigm shift in the understanding of the function of heat shock proteins (HSP). It is now clear that HSP can and do exit mammalian cells, interact with cells of the immune system, and exert immunoregulatory effects. We recently demonstrated that exogenously added HSP70 possesses potent cytokine activity, with the ability to bind with high affinity to the plasma membrane, elicit a rapid intracellular Ca(2+) flux, activate NF-kappaB, and up-regulate the expression of pro-inflammatory cytokines in human monocytes. Here for the first time, we report that HSP70-induced proinflammatory cytokine production is mediated via the MyD88/IRAK/NF-kappaB signal transduction pathway and that HSP70 utilizes both TLR2 (receptor for Gram-positive bacteria) and TLR4 (receptor for Gram-negative bacteria) to transduce its proinflammatory signal in a CD14-dependent fashion. These studies now pave the way for the development of highly effective pharmacological or molecular tools that will either up-regulate or suppress HSP70-induced functions in conditions where HSP70 effects are desirable (cancer) or disorders where HSP70 effects are undesirable (arthritis and arteriosclerosis).",
+  "authors": [
+    "Alexzander A. A. Asea",
+    "Michael Rehli",
+    "Edith Kabingu",
+    "Jason A. Boch",
+    "Olivia Bare",
+    "Philip E. Auron",
+    "Mary Ann Stevenson",
+    "Stuart K. Calderwood"
+  ],
+  "year": 2002,
+  "doi": "10.1074/jbc.m200497200",
+  "source": "openalex",
+  "categories": [
+    "Signal transduction",
+    "Extracellular",
+    "Cell biology",
+    "Transduction (biophysics)",
+    "Chemistry",
+    "Biology",
+    "Biochemistry"
+  ],
+  "citation_count": 1527,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925819608914/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2094605832.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:45.434102+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2094605832",
+    "concepts": [
+      "Signal transduction",
+      "Extracellular",
+      "Cell biology",
+      "Transduction (biophysics)",
+      "Chemistry"
+    ],
+    "oa_status": "hybrid"
+  }
+}

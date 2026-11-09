@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W2083066201",
+  "title": "A National Evaluation of the Effect of Trauma-Center Care on Mortality",
+  "abstract": "BACKGROUND: Hospitals have difficulty justifying the expense of maintaining trauma centers without strong evidence of their effectiveness. To address this gap, we examined differences in mortality between level 1 trauma centers and hospitals without a trauma center (non-trauma centers). METHODS: Mortality outcomes were compared among patients treated in 18 hospitals with a level 1 trauma center and 51 hospitals non-trauma centers located in 14 states. Patients 18 to 84 years old with a moderate-to-severe injury were eligible. Complete data were obtained for 1104 patients who died in the hospital and 4087 patients who were discharged alive. We used propensity-score weighting to adjust for observable differences between patients treated at trauma centers and those treated at non-trauma centers. RESULTS: After adjustment for differences in the case mix, the in-hospital mortality rate was significantly lower at trauma centers than at non-trauma centers (7.6 percent vs. 9.5 percent; relative risk, 0.80; 95 percent confidence interval, 0.66 to 0.98), as was the one-year mortality rate (10.4 percent vs. 13.8 percent; relative risk, 0.75; 95 percent confidence interval, 0.60 to 0.95). The effects of treatment at a trauma center varied according to the severity of injury, with evidence to suggest that differences in mortality rates were primarily confined to patients with more severe injuries. CONCLUSIONS: Our findings show that the risk of death is significantly lower when care is provided in a trauma center than in a non-trauma center and argue for continued efforts at regionalization.",
+  "authors": [
+    "Ellen J. MacKenzie",
+    "Frederick P. Rivara",
+    "Gregory J. Jurkovich",
+    "Avery B. Nathens",
+    "Katherine P. Frey",
+    "Brian Lee Egleston",
+    "David S. Salkever",
+    "Daniel O. Scharfstein"
+  ],
+  "year": 2006,
+  "doi": "10.1056/nejmsa052049",
+  "source": "openalex",
+  "categories": [
+    "Medicine",
+    "Trauma center",
+    "Trauma care",
+    "Emergency medicine",
+    "Center (category theory)",
+    "Medical emergency",
+    "Retrospective cohort study",
+    "Surgery",
+    "Crystallography",
+    "Chemistry"
+  ],
+  "citation_count": 2590,
+  "open_access_pdf_url": "https://www.nejm.org/doi/pdf/10.1056/NEJMsa052049?articleTools=true",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2083066201.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:04.279952+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2083066201",
+    "concepts": [
+      "Medicine",
+      "Trauma center",
+      "Trauma care",
+      "Emergency medicine",
+      "Center (category theory)"
+    ],
+    "oa_status": "bronze"
+  }
+}

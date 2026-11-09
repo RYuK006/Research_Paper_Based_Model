@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W3093053585",
+  "title": "The BioGRID database: A comprehensive biomedical resource of curated protein, genetic, and chemical interactions",
+  "abstract": "The BioGRID (Biological General Repository for Interaction Datasets, thebiogrid.org) is an open-access database resource that houses manually curated protein and genetic interactions from multiple species including yeast, worm, fly, mouse, and human. The ~1.93 million curated interactions in BioGRID can be used to build complex networks to facilitate biomedical discoveries, particularly as related to human health and disease. All BioGRID content is curated from primary experimental evidence in the biomedical literature, and includes both focused low-throughput studies and large high-throughput datasets. BioGRID also captures protein post-translational modifications and protein or gene interactions with bioactive small molecules including many known drugs. A built-in network visualization tool combines all annotations and allows users to generate network graphs of protein, genetic and chemical interactions. In addition to general curation across species, BioGRID undertakes themed curation projects in specific aspects of cellular regulation, for example the ubiquitin-proteasome system, as well as specific disease areas, such as for the SARS-CoV-2 virus that causes COVID-19 severe acute respiratory syndrome. A recent extension of BioGRID, named the Open Repository of CRISPR Screens (ORCS, orcs.thebiogrid.org), captures single mutant phenotypes and genetic interactions from published high throughput genome-wide CRISPR/Cas9-based genetic screens. BioGRID-ORCS contains datasets for over 1,042 CRISPR screens carried out to date in human, mouse and fly cell lines. The biomedical research community can freely access all BioGRID data through the web interface, standardized file downloads, or via model organism databases and partner meta-databases.",
+  "authors": [
+    "Rose Oughtred",
+    "Jennifer Rust",
+    "Christie Chang",
+    "Bobby‐Joe Breitkreutz",
+    "Chris Stark",
+    "Andrew R. Willems",
+    "Lorrie Boucher",
+    "Genie C. Leung",
+    "Nadine K. Kolas",
+    "Frederick Zhang",
+    "Sonam Dolma",
+    "Jasmin Coulombe‐Huntington",
+    "Andrew Chatr‐aryamontri",
+    "Kara J. Dolinski",
+    "Mike Tyers"
+  ],
+  "year": 2020,
+  "doi": "10.1002/pro.3978",
+  "source": "openalex",
+  "categories": [
+    "Resource (disambiguation)",
+    "Database",
+    "Computational biology",
+    "Chemistry",
+    "Biology",
+    "World Wide Web",
+    "Computer science",
+    "Computer network"
+  ],
+  "citation_count": 1916,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/pro.3978",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3093053585.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:17.920831+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3093053585",
+    "concepts": [
+      "Resource (disambiguation)",
+      "Database",
+      "Computational biology",
+      "Chemistry",
+      "Biology"
+    ],
+    "oa_status": "hybrid"
+  }
+}

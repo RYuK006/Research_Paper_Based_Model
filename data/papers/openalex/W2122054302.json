@@ -1,0 +1,43 @@
+{
+  "id": "openalex:W2122054302",
+  "title": "Secondary organic aerosol formation in cloud droplets and aqueous particles (aqSOA): a review of laboratory, field and model studies",
+  "abstract": "Abstract. Progress has been made over the past decade in predicting secondary organic aerosol (SOA) mass in the atmosphere using vapor pressure-driven partitioning, which implies that SOA compounds are formed in the gas phase and then partition to an organic phase (gasSOA). However, discrepancies in predicting organic aerosol oxidation state, size and product (molecular mass) distribution, relative humidity (RH) dependence, color, and vertical profile suggest that additional SOA sources and aging processes may be important. The formation of SOA in cloud and aerosol water (aqSOA) is not considered in these models even though water is an abundant medium for atmospheric chemistry and such chemistry can form dicarboxylic acids and \"humic-like substances\" (oligomers, high-molecular-weight compounds), i.e., compounds that do not have any gas phase sources but comprise a significant fraction of the total SOA mass. There is direct evidence from field observations and laboratory studies that organic aerosol is formed in cloud and aerosol water, contributing substantial mass to the droplet mode. This review summarizes the current knowledge on aqueous phase organic reactions and combines evidence that points to a significant role of aqSOA formation in the atmosphere. Model studies are discussed that explore the importance of aqSOA formation and suggestions for model improvements are made based on the comprehensive set of laboratory data presented here. A first comparison is made between aqSOA and gasSOA yields and mass predictions for selected conditions. These simulations suggest that aqSOA might contribute almost as much mass as gasSOA to the SOA budget, with highest contributions from biogenic VOC emissions in the presence of anthropogenic pollutants (i.e., NOx) at high relative humidity and cloudiness. Gaps in the current understanding of aqSOA processes are discussed and further studies (laboratory, field, model) are outlined to complement current data sets.",
+  "authors": [
+    "Barbara Ervens",
+    "Barbara J. Turpin",
+    "Rodney J. Weber"
+  ],
+  "year": 2011,
+  "doi": "10.5194/acp-11-11069-2011",
+  "source": "openalex",
+  "categories": [
+    "Aerosol",
+    "Chemistry",
+    "Aqueous solution",
+    "Mass fraction",
+    "Atmosphere (unit)",
+    "Atmospheric chemistry",
+    "Water vapor",
+    "Environmental chemistry",
+    "Meteorology",
+    "Organic chemistry",
+    "Ozone",
+    "Physics"
+  ],
+  "citation_count": 1401,
+  "open_access_pdf_url": "https://acp.copernicus.org/articles/11/11069/2011/acp-11-11069-2011.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2122054302.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:52.459344+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2122054302",
+    "concepts": [
+      "Aerosol",
+      "Chemistry",
+      "Aqueous solution",
+      "Mass fraction",
+      "Atmosphere (unit)"
+    ],
+    "oa_status": "gold"
+  }
+}

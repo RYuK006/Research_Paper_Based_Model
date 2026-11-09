@@ -1,0 +1,59 @@
+{
+  "id": "openalex:W2611852394",
+  "title": "Recombination in Perovskite Solar Cells: Significance of Grain Boundaries, Interface Traps, and Defect Ions",
+  "abstract": "Abstract Trap-assisted recombination, despite being lower as compared with traditional inorganic solar cells, is still the dominant recombination mechanism in perovskite solar cells (PSCs) and limits their efficiency. We investigate the attributes of the primary trap-assisted recombination channels (grain boundaries and interfaces) and their correlation to defect ions in PSCs. We achieve this by using a validated device model to fit the simulations to the experimental data of efficient vacuum-deposited p–i–n and n–i–p CH3NH3PbI3 solar cells, including the light intensity dependence of the open-circuit voltage and fill factor. We find that, despite the presence of traps at interfaces and grain boundaries (GBs), their neutral (when filled with photogenerated charges) disposition along with the long-lived nature of holes leads to the high performance of PSCs. The sign of the traps (when filled) is of little importance in efficient solar cells with compact morphologies (fused GBs, low trap density). On the other hand, solar cells with noncompact morphologies (open GBs, high trap density) are sensitive to the sign of the traps and hence to the cell preparation methods. Even in the presence of traps at GBs, trap-assisted recombination at interfaces (between the transport layers and the perovskite) is the dominant loss mechanism. We find a direct correlation between the density of traps, the density of mobile ionic defects, and the degree of hysteresis observed in the current–voltage (J–V) characteristics. The presence of defect states or mobile ions not only limits the device performance but also plays a role in the J–V hysteresis.",
+  "authors": [
+    "Tejas S. Sherkar",
+    "Cristina Momblona",
+    "Lidón Gil‐Escrig",
+    "Jorge Ávila",
+    "Michele Sessolo",
+    "Henk J. Bolink",
+    "L. Jan Anton Koster"
+  ],
+  "year": 2017,
+  "doi": "10.1021/acsenergylett.7b00236",
+  "source": "openalex",
+  "categories": [
+    "Grain boundary",
+    "Recombination",
+    "Perovskite (structure)",
+    "Ion",
+    "Materials science",
+    "Open-circuit voltage",
+    "Hysteresis",
+    "Chemical physics",
+    "Trap (plumbing)",
+    "Perovskite solar cell",
+    "Solar cell",
+    "Optoelectronics",
+    "Voltage",
+    "Chemistry",
+    "Condensed matter physics",
+    "Crystallography",
+    "Physics",
+    "Microstructure",
+    "Organic chemistry",
+    "Biochemistry",
+    "Gene",
+    "Metallurgy",
+    "Meteorology",
+    "Quantum mechanics"
+  ],
+  "citation_count": 1297,
+  "open_access_pdf_url": "https://doi.org/10.1021/acsenergylett.7b00236",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2611852394.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:57.840572+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2611852394",
+    "concepts": [
+      "Grain boundary",
+      "Recombination",
+      "Perovskite (structure)",
+      "Ion",
+      "Materials science"
+    ],
+    "oa_status": "hybrid"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2152263452",
+  "title": "A hierarchical phrase-based model for statistical machine translation",
+  "abstract": "We present a statistical phrase-based translation model that uses hierarchical phrases---phrases that contain subphrases. The model is formally a synchronous context-free grammar but is learned from a bitext without any syntactic information. Thus it can be seen as a shift to the formal machinery of syntax-based translation systems without any linguistic commitment. In our experiments using BLEU as a metric, the hierarchical phrase-based model achieves a relative improvement of 7.5% over Pharaoh, a state-of-the-art phrase-based system.",
+  "authors": [
+    "David Chiang"
+  ],
+  "year": 2005,
+  "doi": "10.3115/1219840.1219873",
+  "source": "openalex",
+  "categories": [
+    "Computer science",
+    "Phrase",
+    "Natural language processing",
+    "Synchronous context-free grammar",
+    "Artificial intelligence",
+    "Machine translation",
+    "Syntax",
+    "Translation (biology)",
+    "Context (archaeology)",
+    "Example-based machine translation",
+    "Metric (unit)",
+    "Rule-based machine translation",
+    "Grammar",
+    "Statistical model",
+    "Hierarchical database model",
+    "Linguistics",
+    "Data mining",
+    "Messenger RNA",
+    "Biochemistry",
+    "Operations management",
+    "Philosophy",
+    "Economics",
+    "Paleontology",
+    "Chemistry",
+    "Biology",
+    "Gene"
+  ],
+  "citation_count": 1158,
+  "open_access_pdf_url": "https://dl.acm.org/doi/pdf/10.3115/1219840.1219873",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2152263452.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:14.499056+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2152263452",
+    "concepts": [
+      "Computer science",
+      "Phrase",
+      "Natural language processing",
+      "Synchronous context-free grammar",
+      "Artificial intelligence"
+    ],
+    "oa_status": "bronze"
+  }
+}

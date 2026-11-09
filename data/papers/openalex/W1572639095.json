@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W1572639095",
+  "title": "An Introduction to Multigrid Methods",
+  "abstract": "These notes were written for an introductory course on the application of multigrid methods to elliptic and hyperbolic partial differential equations for engineers, physicists and applied mathematicians. The use of more advanced mathematical tools, such as functional analysis, is avoided. The course is intended to be accessible to a wide audience of users of computational methods. We restrict ourselves to finite volume and finite difference discretization. The basic principles are given. Smoothing methods and Fourier smoothing analysis are reviewed. The fundamental multigrid algorithm is studied. The smoothing and coarse grid approximation properties are discussed. Multigrid schedules and structured programming of multigrid algorithms are treated. Robustness and efficiency are considered.",
+  "authors": [
+    "Pieter Wesseling"
+  ],
+  "year": 1992,
+  "doi": null,
+  "source": "openalex",
+  "categories": [
+    "Multigrid method",
+    "Smoothing",
+    "Discretization",
+    "Computer science",
+    "Partial differential equation",
+    "Robustness (evolution)",
+    "Applied mathematics",
+    "Finite volume method",
+    "Finite difference",
+    "Grid",
+    "Mathematical optimization",
+    "Computational science",
+    "Algorithm",
+    "Mathematics",
+    "Mathematical analysis",
+    "Geometry",
+    "Physics",
+    "Computer vision",
+    "Biochemistry",
+    "Gene",
+    "Chemistry",
+    "Mechanics"
+  ],
+  "citation_count": 1399,
+  "open_access_pdf_url": "https://ntrs.nasa.gov/api/citations/19950019975/downloads/19950019975.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1572639095.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:52.474357+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1572639095",
+    "concepts": [
+      "Multigrid method",
+      "Smoothing",
+      "Discretization",
+      "Computer science",
+      "Partial differential equation"
+    ],
+    "oa_status": "green"
+  }
+}

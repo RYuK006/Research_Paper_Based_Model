@@ -1,0 +1,45 @@
+{
+  "id": "openalex:W2138178479",
+  "title": "Fibroblast growth factors, their receptors and signaling.",
+  "abstract": "Fibroblast growth factors (FGFs) are small polypeptide growth factors, all of whom share in common certain structural characteristics, and most of whom bind heparin avidly. Many FGFs contain signal peptides for secretion and are secreted into the extracellular environment, where they can bind to the heparan-like glycosaminoglycans (HLGAGs) of the extracellular matrix (ECM). From this reservoir, FGFs may act directly on target cells, or they can be released through digestion of the ECM or the activity of a carrier protein, a secreted FGF binding protein. FGFs bind specific receptor tyrosine kinases in the context of HLGAGs and this binding induces receptor dimerization and activation, ultimately resulting in the activation of various signal transduction cascades. Some FGFs are potent angiogenic factors and most play important roles in embryonic development and wound healing. FGF signaling also appears to play a role in tumor growth and angiogenesis, and autocrine FGF signaling may be particularly important in the progression of steroid hormone-dependent cancers to a hormone-independent state.",
+  "authors": [
+    "Ciaran Powers",
+    "Sandra W. McLeskey",
+    "Anton Wellstein"
+  ],
+  "year": 2000,
+  "doi": "10.1677/erc.0.0070165",
+  "source": "openalex",
+  "categories": [
+    "Fibroblast growth factor",
+    "Autocrine signalling",
+    "Angiogenesis",
+    "Cell biology",
+    "Extracellular matrix",
+    "Signal transduction",
+    "Fibroblast growth factor receptor",
+    "Receptor",
+    "Receptor tyrosine kinase",
+    "Fibroblast growth factor receptor 1",
+    "Biology",
+    "Chemistry",
+    "Biochemistry",
+    "Cancer research"
+  ],
+  "citation_count": 1339,
+  "open_access_pdf_url": "https://erc.bioscientifica.com/downloadpdf/journals/erc/7/3/11021964.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2138178479.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:55.287346+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2138178479",
+    "concepts": [
+      "Fibroblast growth factor",
+      "Autocrine signalling",
+      "Angiogenesis",
+      "Cell biology",
+      "Extracellular matrix"
+    ],
+    "oa_status": "bronze"
+  }
+}

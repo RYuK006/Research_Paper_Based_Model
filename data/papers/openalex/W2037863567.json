@@ -1,0 +1,59 @@
+{
+  "id": "openalex:W2037863567",
+  "title": "Pseudocapacitance of MXene nanosheets for high-power sodium-ion hybrid capacitors",
+  "abstract": "High-power Na-ion batteries have tremendous potential in various large-scale applications. However, conventional charge storage through ion intercalation or double-layer formation cannot satisfy the requirements of such applications owing to the slow kinetics of ion intercalation and the small capacitance of the double layer. The present work demonstrates that the pseudocapacitance of the nanosheet compound MXene Ti2C achieves a higher specific capacity relative to double-layer capacitor electrodes and a higher rate capability relative to ion intercalation electrodes. By utilizing the pseudocapacitance as a negative electrode, the prototype Na-ion full cell consisting of an alluaudite Na2Fe2(SO4)3 positive electrode and an MXene Ti2C negative electrode operates at a relatively high voltage of 2.4 V and delivers 90 and 40 mAh g(-1) at 1.0 and 5.0 A g(-1) (based on the weight of the negative electrode), respectively, which are not attainable by conventional electrochemical energy storage systems.",
+  "authors": [
+    "Xianfen Wang",
+    "Satoshi Kajiyama",
+    "Hiroki Iinuma",
+    "Eiji Hosono",
+    "Shinji Oro",
+    "Isamu Moriguchi",
+    "Masashi Okubo",
+    "Atsuo Yamada"
+  ],
+  "year": 2015,
+  "doi": "10.1038/ncomms7544",
+  "source": "openalex",
+  "categories": [
+    "Pseudocapacitance",
+    "Materials science",
+    "Supercapacitor",
+    "Electrode",
+    "Nanosheet",
+    "Capacitance",
+    "Intercalation (chemistry)",
+    "Electrochemistry",
+    "Capacitor",
+    "Ion",
+    "Energy storage",
+    "Chemical engineering",
+    "Nanotechnology",
+    "Inorganic chemistry",
+    "Chemistry",
+    "Voltage",
+    "Electrical engineering",
+    "Power (physics)",
+    "Engineering",
+    "Quantum mechanics",
+    "Physical chemistry",
+    "Physics",
+    "Organic chemistry"
+  ],
+  "citation_count": 1154,
+  "open_access_pdf_url": "https://www.nature.com/articles/ncomms7544.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2037863567.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:14.551997+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2037863567",
+    "concepts": [
+      "Pseudocapacitance",
+      "Materials science",
+      "Supercapacitor",
+      "Electrode",
+      "Nanosheet"
+    ],
+    "oa_status": "gold"
+  }
+}

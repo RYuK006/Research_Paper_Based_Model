@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W2036206077",
+  "title": "Are Natural Deep Eutectic Solvents the Missing Link in Understanding Cellular Metabolism and Physiology?",
+  "abstract": "Over the past decade, metabolomics has developed into a major tool for studying the metabolism of organisms and cells, and through this approach much has been learned about metabolic networks and the reactions of organisms to various external conditions (Lay et al., 2006). Most of this work involves a number of chemometric methods to identify markers in the metabolomic data for various events. But in fact, little work has been done on understanding the meaning of the metabolomic data itself and the role of the total of the compounds observed. Is there any logic in the studying the combination of compounds itself, instead of looking at the correlations between the compounds observed and any disease or applied experimental conditions? NMR-based metabolomics in particular give a clear view of the major compounds present in an organism or cell and enable the direct quantitative comparison of all major compounds. Considering all the information we have collected in recent years using our protocol for NMR-based metabolomics (Kim et al., 2010), we asked ourselves why a few very simple molecules are always present in considerable amounts in all microbial, mammalian, and plant cells. It seems that these compounds must serve some basic function in living cells and organisms. These compounds include sugars, some amino acids, choline, and some organic acids such as malic acid, citric acid, lactic acid, and succinic acid. With the exception of sugars, which may serve as storage products and a source of energy, the other compounds are present in such large amounts that it does not make sense to consider them as only intermediates in metabolic pathways.",
+  "authors": [
+    "Young Hae Choi",
+    "Jaap van Spronsen",
+    "Yuntao Dai",
+    "Marianne C. Verberne",
+    "Frank Hollmann",
+    "Isabel W. C. E. Arends",
+    "Geert‐Jan Witkamp",
+    "Robert Verpoorte"
+  ],
+  "year": 2011,
+  "doi": "10.1104/pp.111.178426",
+  "source": "openalex",
+  "categories": [
+    "Cellular metabolism",
+    "Physiology",
+    "Eutectic system",
+    "Metabolism",
+    "Chemistry",
+    "Computational biology",
+    "Biology",
+    "Biochemistry",
+    "Organic chemistry",
+    "Alloy"
+  ],
+  "citation_count": 1418,
+  "open_access_pdf_url": "https://academic.oup.com/plphys/article-pdf/156/4/1701/37144163/plphys_v156_4_1701.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2036206077.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:50.640889+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2036206077",
+    "concepts": [
+      "Cellular metabolism",
+      "Physiology",
+      "Eutectic system",
+      "Metabolism",
+      "Chemistry"
+    ],
+    "oa_status": "bronze"
+  }
+}

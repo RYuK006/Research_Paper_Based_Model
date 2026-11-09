@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2899631718",
+  "title": "Two-Dimensional Hybrid Halide Perovskites: Principles and Promises",
+  "abstract": ". The next generation of halide perovskites, however, is characterized by reduced dimensionality perovskites, emphasizing the two-dimensional (2D) perovskite derivatives which expand the field into a more diverse subgroup of semiconducting hybrids that possesses even higher tunability and excellent photophysical properties. In this Perspective, we begin with a historical flashback to early reports before the \"perovskite fever\", and we follow this original work to its fruition in the present day, where 2D halide perovskites are in the spotlight of current research, offering characteristics desirable in high-performance optoelectronics. We approach the evolution of 2D halide perovskites from a structural perspective, providing a way to classify the diverse structure types of the materials, which largely dictate the unusual physical properties observed. We sort the 2D hybrid halide perovskites on the basis of two key components: the inorganic layers and their modification, and the organic cation diversity. As these two heterogeneous components blend, either by synthetic manipulation (shuffling the organic cations or inorganic elements) or by application of external stimuli (temperature and pressure), the modular perovskite structure evolves to construct crystallographically defined quantum wells (QWs). The complex electronic structure that arises is sensitive to the structural features that could be in turn used as a knob to control the dielectric and optical properties the QWs. We conclude this Perspective with the most notable achievements in optoelectronic devices that have been demonstrated to date, with an eye toward future material discovery and potential technological developments.",
+  "authors": [
+    "Lingling Mao",
+    "Constantinos C. Stoumpos",
+    "Mercouri G. Kanatzidis"
+  ],
+  "year": 2018,
+  "doi": "10.1021/jacs.8b10851",
+  "source": "openalex",
+  "categories": [
+    "Halide",
+    "Perovskite (structure)",
+    "Chemistry",
+    "Nanotechnology",
+    "Photovoltaics",
+    "Semiconductor",
+    "Metal halides",
+    "Quantum well",
+    "Optoelectronics",
+    "Materials science",
+    "Crystallography",
+    "Inorganic chemistry",
+    "Physics",
+    "Optics",
+    "Biology",
+    "Photovoltaic system",
+    "Ecology",
+    "Laser"
+  ],
+  "citation_count": 1610,
+  "open_access_pdf_url": "https://www.osti.gov/servlets/purl/1599730",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2899631718.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:41.791847+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2899631718",
+    "concepts": [
+      "Halide",
+      "Perovskite (structure)",
+      "Chemistry",
+      "Nanotechnology",
+      "Photovoltaics"
+    ],
+    "oa_status": "green"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W1993765343",
+  "title": "Interatomic Potentials from First-Principles Calculations: The Force-Matching Method",
+  "abstract": "We present a new scheme to extract numerically \"optimal\" interatomic potentials from large amounts of data produced by first-principles calculations. The method is based on fitting the potential to ab initio atomic forces of many atomic configurations, including surfaces, clusters, liquids and crystals at finite temperature. The extensive data set overcomes the difficulties encountered by traditional fitting approaches when using rich and complex analytic forms, allowing to construct potentials with a degree of accuracy comparable to that obtained by ab initio methods. A glue potential for aluminium obtained with this method is presented and discussed.",
+  "authors": [
+    "F Ercolessi",
+    "J. B Adams"
+  ],
+  "year": 1994,
+  "doi": "10.1209/0295-5075/26/8/005",
+  "source": "openalex",
+  "categories": [
+    "Ab initio",
+    "Interatomic potential",
+    "Set (abstract data type)",
+    "Ab initio quantum chemistry methods",
+    "Experimental data",
+    "Statistical physics",
+    "Construct (python library)",
+    "Physics",
+    "Degree (music)",
+    "Reference data",
+    "Materials science",
+    "Molecular physics",
+    "Chemistry",
+    "Work (physics)",
+    "Computational chemistry",
+    "Computational physics",
+    "Basis set",
+    "Data set",
+    "SIESTA (computer program)",
+    "Thermodynamics",
+    "Analytic element method",
+    "Potential method",
+    "Curve fitting",
+    "Algorithm",
+    "Atomic physics",
+    "Scheme (mathematics)"
+  ],
+  "citation_count": 1472,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1209/0295-5075/26/8/005/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1993765343.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:48.180757+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1993765343",
+    "concepts": [
+      "Ab initio",
+      "Interatomic potential",
+      "Set (abstract data type)",
+      "Ab initio quantum chemistry methods",
+      "Experimental data"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W1999613945",
+  "title": "Statistical potential for assessment and prediction of protein structures",
+  "abstract": "Protein structures in the Protein Data Bank provide a wealth of data about the interactions that determine the native states of proteins. Using the probability theory, we derive an atomic distance-dependent statistical potential from a sample of native structures that does not depend on any adjustable parameters (Discrete Optimized Protein Energy, or DOPE). DOPE is based on an improved reference state that corresponds to noninteracting atoms in a homogeneous sphere with the radius dependent on a sample native structure; it thus accounts for the finite and spherical shape of the native structures. The DOPE potential was extracted from a nonredundant set of 1472 crystallographic structures. We tested DOPE and five other scoring functions by the detection of the native state among six multiple target decoy sets, the correlation between the score and model error, and the identification of the most accurate non-native structure in the decoy set. For all decoy sets, DOPE is the best performing function in terms of all criteria, except for a tie in one criterion for one decoy set. To facilitate its use in various applications, such as model assessment, loop modeling, and fitting into cryo-electron microscopy mass density maps combined with comparative protein structure modeling, DOPE was incorporated into the modeling package MODELLER-8.",
+  "authors": [
+    "Min‐Yi Shen",
+    "Andrej Šali"
+  ],
+  "year": 2006,
+  "doi": "10.1110/ps.062416606",
+  "source": "openalex",
+  "categories": [
+    "Decoy",
+    "Native state",
+    "Algorithm",
+    "Set (abstract data type)",
+    "Computer science",
+    "RADIUS",
+    "Protein structure",
+    "Biological system",
+    "Function (biology)",
+    "Statistical physics",
+    "Chemistry",
+    "Crystallography",
+    "Physics",
+    "Biology",
+    "Receptor",
+    "Biochemistry",
+    "Programming language",
+    "Evolutionary biology",
+    "Computer security"
+  ],
+  "citation_count": 2337,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1110/ps.062416606",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1999613945.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:08.761963+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1999613945",
+    "concepts": [
+      "Decoy",
+      "Native state",
+      "Algorithm",
+      "Set (abstract data type)",
+      "Computer science"
+    ],
+    "oa_status": "bronze"
+  }
+}

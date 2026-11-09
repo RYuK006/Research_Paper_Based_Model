@@ -1,0 +1,57 @@
+{
+  "id": "openalex:W2116243685",
+  "title": "Hydrogen Oxidation and Evolution Reaction Kinetics on Platinum: Acid vs Alkaline Electrolytes",
+  "abstract": "The kinetics of the hydrogen oxidation reaction (HOR) and hydrogen evolution reaction (HER) on polycrystalline platinum [Pt(pc)] and high surface area carbon-supported platinum nanoparticles (Pt/C) were studied in 0.1 M KOH using rotating disk electrode (RDE) measurements. After corrections of noncompensated solution resistance from ac impedance spectroscopy and of hydrogen mass transport in the HOR branch, the kinetic current densities were fitted to the Butler–Volmer equation using a transfer coefficient of α = 0.5 , from which HOR/HER exchange current densities on Pt(pc) and Pt/C were obtained, and the HOR/HER mechanisms in alkaline solution were discussed. Unlike the HOR/HER rates on Pt electrodes in alkaline solution, the HOR/HER rates on a Pt electrode in 0.1 M HClO 4 were limited entirely by hydrogen diffusion, which renders the quantification of the HOR/HER kinetics impossible by conventional RDE measurements. The simulation of the hydrogen anode performance based on the specific exchange current densities of the HOR/HER at 80 ° C illustrates that in addition to the oxygen reduction reaction cell voltage loss on the cathode, the slow HOR kinetics are projected to cause significant anode potential losses in alkaline fuel cells for low platinum loadings ( 130 mV at 0.05 mg Pt / cm anode 2 and 1.5 A / cm anode 2 ), contrary to what is reported for proton exchange membrane fuel cells.",
+  "authors": [
+    "Wenchao Sheng",
+    "Hubert Andreas Gasteiger",
+    "Yang Shao‐Horn"
+  ],
+  "year": 2010,
+  "doi": "10.1149/1.3483106",
+  "source": "openalex",
+  "categories": [
+    "Exchange current density",
+    "Platinum",
+    "Chemistry",
+    "Hydrogen",
+    "Anode",
+    "Electrolyte",
+    "Rotating disk electrode",
+    "Kinetics",
+    "Proton exchange membrane fuel cell",
+    "Inorganic chemistry",
+    "Analytical Chemistry (journal)",
+    "Alkaline fuel cell",
+    "Standard hydrogen electrode",
+    "Electrochemistry",
+    "Electrode",
+    "Cyclic voltammetry",
+    "Reference electrode",
+    "Physical chemistry",
+    "Membrane",
+    "Catalysis",
+    "Chromatography",
+    "Biochemistry",
+    "Quantum mechanics",
+    "Tafel equation",
+    "Physics",
+    "Organic chemistry"
+  ],
+  "citation_count": 1860,
+  "open_access_pdf_url": "https://dspace.mit.edu/bitstream/1721.1/79104/2/Shao-Horn_Hydrogen%20oxidation.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2116243685.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:22.245947+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2116243685",
+    "concepts": [
+      "Exchange current density",
+      "Platinum",
+      "Chemistry",
+      "Hydrogen",
+      "Anode"
+    ],
+    "oa_status": "green"
+  }
+}

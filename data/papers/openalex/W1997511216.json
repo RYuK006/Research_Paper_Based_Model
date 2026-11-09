@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W1997511216",
+  "title": "Regulation of the Voltage Gated K+ Channel Kv1.3 by Recombinant Human Klotho Protein",
+  "abstract": "1. The extracellular patch clamp method, which first allowed the detection of single channel currents in biological membranes, has been further refined to enable higher current resolution, direct membrane patch potential control, and physical isolation of membrane patches. 2. A description of a convenient method for the fabrication of patch recording pipettes is given together with procedures followed to achieve giga-seals i.e. pipette-membrane seals with resistances of 10(9) - 10(11) omega. 3. The basic patch clamp recording circuit, and designs for improved frequency response are described along with the present limitations in recording the currents from single channels. 4. Procedures for preparation and recording from three representative cell types are given. Some properties of single acetylcholine-activated channels in muscle membrane are described to illustrate the improved current and time resolution achieved with giga-seals. 5. A description is given of the various ways that patches of membrane can be physically isolated from cells. This isolation enables the recording of single channel currents with well-defined solutions on both sides of the membrane. Two types of isolated cell-free patch configurations can be formed: an inside-out patch with its cytoplasmic membrane face exposed to the bath solution, and an outside-out patch with its extracellular membrane face exposed to the bath solution. 6. The application of the method for the recording of ionic currents and internal dialysis of small cells is considered. Single channel resolution can be achieved when recording from whole cells, if the cell diameter is small (less than 20 micrometer). 7. The wide range of cell types amenable to giga-seal formation is discussed.",
+  "authors": [
+    "Ahmad Almilaji",
+    "Sabina Honisch",
+    "Guilai Liu",
+    "Bernat Elvira",
+    "Sumant Singh Ajay",
+    "Zohreh Hosseinzadeh",
+    "Musaab Ahmed",
+    "Carlos Muñoz",
+    "Mentor Sopjani",
+    "Florian Lang"
+  ],
+  "year": 2014,
+  "doi": "10.1159/000368472",
+  "source": "openalex",
+  "categories": [
+    "Klotho",
+    "Internal medicine",
+    "Endocrinology",
+    "Chemistry",
+    "Xenopus",
+    "Molecular biology",
+    "Kidney",
+    "Biology",
+    "Biochemistry",
+    "Medicine",
+    "Gene"
+  ],
+  "citation_count": 5609,
+  "open_access_pdf_url": "https://karger.com/kbr/article-pdf/39/6/609/3048974/000368472.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1997511216.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:52.194716+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1997511216",
+    "concepts": [
+      "Klotho",
+      "Internal medicine",
+      "Endocrinology",
+      "Chemistry",
+      "Xenopus"
+    ],
+    "oa_status": "gold"
+  }
+}

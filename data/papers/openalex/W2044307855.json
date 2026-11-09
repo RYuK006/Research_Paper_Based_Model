@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2044307855",
+  "title": "Polymer Electrolyte Fuel Cell Model",
+  "abstract": "We present here an isothermal, one‐dimensional, steady‐state model for a complete polymer electrolyte fuel cell (PEFC) with a 117 Nafion® membrane. In this model we employ water diffusion coefficients electro‐osmotic drag coefficients, water sorption isotherms, and membrane conductivities, all measured in our laboratory as functions of membrane water content. The model predicts a net‐water‐per‐proton flux ratio of 0.2 under typical operating conditions, which is much less than the measured electro‐osmotic drag coefficient for a fully hydrated membrane. It also predicts an increase in membrane resistance with increased current density and demonstrates the great advantage of a thinner membrane in alleviating this resistance problem. Both of these predictions were verified experimentally under certain conditions.",
+  "authors": [
+    "Thomas E. Springer",
+    "Thomas A. Zawodzinski",
+    "Shimshon Gottesfeld"
+  ],
+  "year": 1991,
+  "doi": "10.1149/1.2085971",
+  "source": "openalex",
+  "categories": [
+    "Electrolyte",
+    "Membrane",
+    "Polymer",
+    "Isothermal process",
+    "Diffusion",
+    "Proton exchange membrane fuel cell",
+    "Steady state (chemistry)",
+    "Nafion",
+    "Chemistry",
+    "Drag",
+    "Chemical engineering",
+    "Water transport",
+    "Thermodynamics",
+    "Materials science",
+    "Composite material",
+    "Environmental engineering",
+    "Water flow",
+    "Electrochemistry",
+    "Electrode",
+    "Organic chemistry",
+    "Physics",
+    "Physical chemistry",
+    "Biochemistry",
+    "Engineering"
+  ],
+  "citation_count": 3604,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1149/1.2085971/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2044307855.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:57.661270+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2044307855",
+    "concepts": [
+      "Electrolyte",
+      "Membrane",
+      "Polymer",
+      "Isothermal process",
+      "Diffusion"
+    ],
+    "oa_status": "bronze"
+  }
+}

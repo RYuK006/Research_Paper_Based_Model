@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W2172270516",
+  "title": "TGF-β and BMP Signaling in Osteoblast Differentiation and Bone Formation",
+  "abstract": "Transforming growth factor-beta (TGF-β)/bone morphogenic protein (BMP) signaling is involved in a vast majority of cellular processes and is fundamentally important throughout life. TGF-β/BMPs have widely recognized roles in bone formation during mammalian development and exhibit versatile regulatory functions in the body. Signaling transduction by TGF-β/BMPs is specifically through both canonical Smad-dependent pathways (TGF-β/BMP ligands, receptors and Smads) and non-canonical Smad-independent signaling pathway (e.g. p38 mitogen-activated protein kinase pathway, MAPK). Following TGF-β/BMP induction, both the Smad and p38 MAPK pathways converge at the Runx2 gene to control mesenchymal precursor cell differentiation. The coordinated activity of Runx2 and TGF-β/BMP-activated Smads is critical for formation of the skeleton. Recent advances in molecular and genetic studies using gene targeting in mice enable a better understanding of TGF-β/BMP signaling in bone and in the signaling networks underlying osteoblast differentiation and bone formation. This review summarizes the recent advances in our understanding of TGF-β/BMP signaling in bone from studies of genetic mouse models and human diseases caused by the disruption of TGF-β/BMP signaling. This review also highlights the different modes of cross-talk between TGF-β/BMP signaling and the signaling pathways of MAPK, Wnt, Hedgehog, Notch, and FGF in osteoblast differentiation and bone formation.",
+  "authors": [
+    "Guiqian Chen",
+    "Chu‐Xia Deng",
+    "Yiping Li"
+  ],
+  "year": 2012,
+  "doi": "10.7150/ijbs.2929",
+  "source": "openalex",
+  "categories": [
+    "SMAD",
+    "BMPR2",
+    "Osteoblast",
+    "Wnt signaling pathway",
+    "Bone morphogenetic protein",
+    "RUNX2",
+    "Cell biology",
+    "Signal transduction",
+    "Bone morphogenetic protein 2",
+    "Biology",
+    "MAPK/ERK pathway",
+    "Bone morphogenetic protein 7",
+    "Chemistry",
+    "Genetics",
+    "Gene",
+    "In vitro"
+  ],
+  "citation_count": 1816,
+  "open_access_pdf_url": "https://www.ijbs.com/v08p0272.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2172270516.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:22.369820+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2172270516",
+    "concepts": [
+      "SMAD",
+      "BMPR2",
+      "Osteoblast",
+      "Wnt signaling pathway",
+      "Bone morphogenetic protein"
+    ],
+    "oa_status": "gold"
+  }
+}

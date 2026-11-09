@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2982399380",
+  "title": "BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension",
+  "abstract": "Mike Lewis, Yinhan Liu, Naman Goyal, Marjan Ghazvininejad, Abdelrahman Mohamed, Omer Levy, Veselin Stoyanov, Luke Zettlemoyer. Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics. 2020.",
+  "authors": [
+    "Mike Lewis",
+    "Yinhan Liu",
+    "Naman Goyal",
+    "Marjan Ghazvininejad",
+    "Abdelrahman Mohamed",
+    "Omer Levy",
+    "Veselin Stoyanov",
+    "Luke Zettlemoyer"
+  ],
+  "year": 2020,
+  "doi": "10.18653/v1/2020.acl-main.703",
+  "source": "openalex",
+  "categories": [
+    "Machine translation",
+    "Computer science",
+    "Artificial intelligence",
+    "Natural language processing",
+    "Translation (biology)",
+    "Sequence (biology)",
+    "Automatic summarization",
+    "Security token",
+    "Speech recognition",
+    "Chemistry",
+    "Biochemistry",
+    "Gene",
+    "Biology",
+    "Computer security",
+    "Messenger RNA",
+    "Genetics"
+  ],
+  "citation_count": 11278,
+  "open_access_pdf_url": "https://www.aclweb.org/anthology/2020.acl-main.703.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2982399380.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:49.849407+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2982399380",
+    "concepts": [
+      "Machine translation",
+      "Computer science",
+      "Artificial intelligence",
+      "Natural language processing",
+      "Translation (biology)"
+    ],
+    "oa_status": "hybrid"
+  }
+}

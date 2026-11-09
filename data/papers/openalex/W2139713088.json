@@ -1,0 +1,63 @@
+{
+  "id": "openalex:W2139713088",
+  "title": "Processing seismic ambient noise data to obtain reliable broad-band surface wave dispersion measurements",
+  "abstract": "Ambient noise tomography is a rapidly emerging field of seismological research. This paper presents the current status of ambient noise data processing as it has developed over the past several years and is intended to explain and justify this development through salient examples. The ambient noise data processing procedure divides into four principal phases: (1) single station data preparation, (2) cross-correlation and temporal stacking, (3) measurement of dispersion curves (performed with frequency—time analysis for both group and phase speeds) and (4) quality control, including error analysis and selection of the acceptable measurements. The procedures that are described herein have been designed not only to deliver reliable measurements, but to be flexible, applicable to a wide variety of observational settings, as well as being fully automated. For an automated data processing procedure, data quality control measures are particularly important to identify and reject bad measurements and compute quality assurance statistics for the accepted measurements. The principal metric on which to base a judgment of quality is stability, the robustness of the measurement to perturbations in the conditions under which it is obtained. Temporal repeatability, in particular, is a significant indicator of reliability and is elevated to a high position in our assessment, as we equate seasonal repeatability with measurement uncertainty. Proxy curves relating observed signal-to-noise ratios to average measurement uncertainties show promise to provide useful expected measurement error estimates in the absence of the long time-series needed for temporal subsetting.",
+  "authors": [
+    "G. D. Bensen",
+    "Michael H. Ritzwoller",
+    "Michael P. Barmin",
+    "Anatoli L Levshin",
+    "Fan‐Chi Lin",
+    "Morgan P. Moschetti",
+    "Nikolai M. Shapiro",
+    "Yingjie Yang"
+  ],
+  "year": 2007,
+  "doi": "10.1111/j.1365-246x.2007.03374.x",
+  "source": "openalex",
+  "categories": [
+    "Data quality",
+    "Data processing",
+    "Repeatability",
+    "Ambient noise level",
+    "Computer science",
+    "Noise (video)",
+    "Robustness (evolution)",
+    "Principal component analysis",
+    "Signal processing",
+    "Statistics",
+    "Data mining",
+    "Remote sensing",
+    "Metric (unit)",
+    "Geology",
+    "Mathematics",
+    "Engineering",
+    "Artificial intelligence",
+    "Telecommunications",
+    "Radar",
+    "Gene",
+    "Chemistry",
+    "Operations management",
+    "Sound (geography)",
+    "Geomorphology",
+    "Operating system",
+    "Image (mathematics)",
+    "Biochemistry"
+  ],
+  "citation_count": 2498,
+  "open_access_pdf_url": "https://academic.oup.com/gji/article-pdf/169/3/1239/6082124/169-3-1239.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2139713088.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:04.394952+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2139713088",
+    "concepts": [
+      "Data quality",
+      "Data processing",
+      "Repeatability",
+      "Ambient noise level",
+      "Computer science"
+    ],
+    "oa_status": "bronze"
+  }
+}

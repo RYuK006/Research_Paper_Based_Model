@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W2085474307",
+  "title": "A Protein Sequenator",
+  "abstract": "The protein sequenator is an instrument for the automatic determination of amino acid sequences in proteins and peptides. It operates on the principle of the phenylisothiocyanate degradation scheme. The automated process embraces the formation of the phenylthiocarbamyl derivative of the protein and the splitting off of the N‐terminal amino acid as thiazolinone. The degradation proceeds at a rate of 15.4 cycles in 24 hours and with a yield in the individual cycle in excess of 98%. The material requirements are approximately 0.25 μmoles of protein. The thiazolinones are converted to the corresponding phenylthiohydantoins in a separate operation, and the latter identified by thin layer chromatography. The process has been applied to the whole molecule of apomyoglobin from the humpback whale, and it has been possible to establish the sequence of the first 60 amino acids from the N‐terminal end.",
+  "authors": [
+    "Pehr Edman",
+    "Geoffrey S. Begg"
+  ],
+  "year": 1967,
+  "doi": "10.1111/j.1432-1033.1967.tb00047.x",
+  "source": "openalex",
+  "categories": [
+    "Yield (engineering)",
+    "Amino acid",
+    "Degradation (telecommunications)",
+    "Chemistry",
+    "Derivative (finance)",
+    "Sequence (biology)",
+    "Amino acid residue",
+    "Chromatography",
+    "Peptide sequence",
+    "Biochemistry",
+    "Computer science",
+    "Materials science",
+    "Economics",
+    "Telecommunications",
+    "Metallurgy",
+    "Financial economics",
+    "Gene"
+  ],
+  "citation_count": 2853,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1432-1033.1967.tb00047.x",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2085474307.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:01.887743+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2085474307",
+    "concepts": [
+      "Yield (engineering)",
+      "Amino acid",
+      "Degradation (telecommunications)",
+      "Chemistry",
+      "Derivative (finance)"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W2118708336",
+  "title": "Understanding the electrocatalysis of oxygen reduction on platinum and its alloys",
+  "abstract": "The high cost of low temperature fuel cells is to a large part dictated by the high loading of Pt required to catalyse the oxygen reduction reaction (ORR). Arguably the most viable route to decrease the Pt loading, and to hence commercialise these devices, is to improve the ORR activity of Pt by alloying it with other metals. In this perspective paper we provide an overview of the fundamentals underlying the reduction of oxygen on platinum and its alloys. We also report the ORR activity of Pt5La for the first time, which shows a 3.5- to 4.5-fold improvement in activity over Pt in the range 0.9 to 0.87 V, respectively. We employ angle resolved X-ray photoelectron spectroscopy and density functional theory calculations to understand the activity of Pt5La.",
+  "authors": [
+    "Ifan E. L. Stephens",
+    "Aliaksandr S. Bandarenka",
+    "Ulrik Grønbjerg Vej-Hansen",
+    "Jan Rossmeisl",
+    "Ib Chorkendorff"
+  ],
+  "year": 2012,
+  "doi": "10.1039/c2ee03590a",
+  "source": "openalex",
+  "categories": [
+    "Electrocatalyst",
+    "Platinum",
+    "Oxygen reduction reaction",
+    "X-ray photoelectron spectroscopy",
+    "Oxygen reduction",
+    "Reduction (mathematics)",
+    "Density functional theory",
+    "Materials science",
+    "Oxygen",
+    "Catalysis",
+    "Fuel cells",
+    "Range (aeronautics)",
+    "Chemistry",
+    "Chemical engineering",
+    "Electrochemistry",
+    "Physical chemistry",
+    "Computational chemistry",
+    "Composite material",
+    "Engineering",
+    "Electrode",
+    "Organic chemistry",
+    "Geometry",
+    "Mathematics"
+  ],
+  "citation_count": 1193,
+  "open_access_pdf_url": "https://pubs.rsc.org/en/content/articlepdf/2012/ee/c2ee03590a",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2118708336.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:08.411828+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2118708336",
+    "concepts": [
+      "Electrocatalyst",
+      "Platinum",
+      "Oxygen reduction reaction",
+      "X-ray photoelectron spectroscopy",
+      "Oxygen reduction"
+    ],
+    "oa_status": "bronze"
+  }
+}

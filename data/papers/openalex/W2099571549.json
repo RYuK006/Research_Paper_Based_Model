@@ -1,0 +1,58 @@
+{
+  "id": "openalex:W2099571549",
+  "title": "Microbial communities in acid mine drainage",
+  "abstract": "The dissolution of sulfide minerals such as pyrite (FeS2), arsenopyrite (FeAsS), chalcopyrite (CuFeS2), sphalerite (ZnS), and marcasite (FeS2) yields hot, sulfuric acid-rich solutions that contain high concentrations of toxic metals. In locations where access of oxidants to sulfide mineral surfaces is increased by mining, the resulting acid mine drainage (AMD) may contaminate surrounding ecosystems. Communities of autotrophic and heterotrophic archaea and bacteria catalyze iron and sulfur oxidation, thus may ultimately determine the rate of release of metals and sulfur to the environment. AMD communities contain fewer prokaryotic lineages than many other environments. However, it is notable that at least two archaeal and eight bacterial divisions have representatives able to thrive under the extreme conditions typical of AMD. AMD communities are characterized by a very limited number of distinct species, probably due to the small number of metabolically beneficial reactions available. The metabolisms that underpin these communities include organoheterotrophy and autotrophic iron and sulfur oxidation. Other metabolic activity is based on anaerobic sulfur oxidation and ferric iron reduction. Evidence for physiological synergy in iron, sulfur, and carbon flow in these communities is reviewed. The microbial and geochemical simplicity of these systems makes them ideal targets for quantitative, genomic-based analyses of microbial ecology and evolution and community function.",
+  "authors": [
+    "Brett J. Baker",
+    "Jillian F. Banfield"
+  ],
+  "year": 2003,
+  "doi": "10.1016/s0168-6496(03)00028-x",
+  "source": "openalex",
+  "categories": [
+    "Acid mine drainage",
+    "Sulfur",
+    "Biology",
+    "Pyrite",
+    "Autotroph",
+    "Sulfide",
+    "Archaea",
+    "Marcasite",
+    "Environmental chemistry",
+    "Sulfide minerals",
+    "Heterotroph",
+    "Sulfur cycle",
+    "Acidithiobacillus",
+    "Ecology",
+    "Microbial population biology",
+    "Geomicrobiology",
+    "Sulfate-reducing bacteria",
+    "Microbial ecology",
+    "Sphalerite",
+    "Bacteria",
+    "Bioleaching",
+    "Chemistry",
+    "Mineralogy",
+    "Environmental biotechnology",
+    "Copper",
+    "Acidithiobacillus ferrooxidans",
+    "Organic chemistry",
+    "Genetics"
+  ],
+  "citation_count": 1143,
+  "open_access_pdf_url": "https://academic.oup.com/femsec/article-pdf/44/2/139/18091095/44-2-139.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2099571549.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:16.881682+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2099571549",
+    "concepts": [
+      "Acid mine drainage",
+      "Sulfur",
+      "Biology",
+      "Pyrite",
+      "Autotroph"
+    ],
+    "oa_status": "bronze"
+  }
+}

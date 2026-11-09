@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2299559653",
+  "title": "Lead-Free Halide Double Perovskites via Heterovalent Substitution of Noble Metals",
+  "abstract": "Lead-based halide perovskites are emerging as the most promising class of materials for next-generation optoelectronics; however, despite the enormous success of lead-halide perovskite solar cells, the issues of stability and toxicity are yet to be resolved. Here we report on the computational design and the experimental synthesis of a new family of Pb-free inorganic halide double perovskites based on bismuth or antimony and noble metals. Using first-principles calculations we show that this hitherto unknown family of perovskites exhibits very promising optoelectronic properties, such as tunable band gaps in the visible range and low carrier effective masses. Furthermore, we successfully synthesize the double perovskite Cs2BiAgCl6, perform structural refinement using single-crystal X-ray diffraction, and characterize its optical properties via optical absorption and photoluminescence measurements. This new perovskite belongs to the Fm3̅m space group and consists of BiCl6 and AgCl6 octahedra alternating in a rock-salt face-centered cubic structure. From UV-vis and photoluminescence measurements we obtain an indirect gap of 2.2 eV.",
+  "authors": [
+    "George Volonakis",
+    "Marina Rucsandra Filip",
+    "Amir A. Haghighirad",
+    "Nobuya Sakai",
+    "Bernard Wenger",
+    "Henry James Snaith",
+    "Feliciano Giustino"
+  ],
+  "year": 2016,
+  "doi": "10.1021/acs.jpclett.6b00376",
+  "source": "openalex",
+  "categories": [
+    "Halide",
+    "Substitution (logic)",
+    "Lead (geology)",
+    "Noble metal",
+    "Perovskite (structure)",
+    "Materials science",
+    "Chemistry",
+    "Inorganic chemistry",
+    "Metallurgy",
+    "Crystallography",
+    "Geology",
+    "Metal",
+    "Computer science",
+    "Programming language",
+    "Geomorphology"
+  ],
+  "citation_count": 1160,
+  "open_access_pdf_url": "https://ora.ox.ac.uk/objects/uuid:05fbd018-247e-4d7d-ba1b-17b64f31a8a1/files/m3887ac3849dc9d5c82dfe285d7295d96",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2299559653.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:14.471682+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2299559653",
+    "concepts": [
+      "Halide",
+      "Substitution (logic)",
+      "Lead (geology)",
+      "Noble metal",
+      "Perovskite (structure)"
+    ],
+    "oa_status": "green"
+  }
+}

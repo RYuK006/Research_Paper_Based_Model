@@ -1,0 +1,58 @@
+{
+  "id": "openalex:W2067381514",
+  "title": "Voltage, stability and diffusion barrier differences between sodium-ion and lithium-ion intercalation materials",
+  "abstract": "To evaluate the potential of Na-ion batteries, we contrast in this work the difference between Na-ion and Li-ion based intercalation chemistries in terms of three key battery properties—voltage, phase stability and diffusion barriers. The compounds investigated comprise the layered AMO2 and AMS2 structures, the olivine and maricite AMPO4 structures, and the NASICON A3V2(PO4)3 structures. The calculated Na voltages for the compounds investigated are 0.18–0.57 V lower than that of the corresponding Li voltages, in agreement with previous experimental data. We believe the observed lower voltages for Na compounds are predominantly a cathodic effect related to the much smaller energy gain from inserting Na into the host structure compared to inserting Li. We also found a relatively strong dependence of battery properties on structural features. In general, the difference between the Na and Li voltage of the same structure, ΔVNa–Li, is less negative for the maricite structures preferred by Na, and more negative for the olivine structures preferred by Li. The layered compounds have the most negative ΔVNa–Li. In terms of phase stability, we found that open structures, such as the layered and NASICON structures, that are better able to accommodate the larger Na+ ion generally have both Na and Li versions of the same compound. For the close-packed AMPO4 structures, our results show that Na generally prefers the maricite structure, while Li prefers the olivine structure, in agreement with previous experimental work. We also found surprising evidence that the barriers for Na+ migration can potentially be lower than that for Li+ migration in the layered structures. Overall, our findings indicate that Na-ion systems can be competitive with Li-ion systems.",
+  "authors": [
+    "Shyue Ping Ong",
+    "Vincent L. Chevrier",
+    "Geoffroy Hautier",
+    "Anubhav Jain",
+    "Charles J. Moore",
+    "Sangtae Kim",
+    "Xiaohua Ma",
+    "Gerbrand Ceder"
+  ],
+  "year": 2011,
+  "doi": "10.1039/c1ee01782a",
+  "source": "openalex",
+  "categories": [
+    "Ion",
+    "Lithium (medication)",
+    "Diffusion",
+    "Intercalation (chemistry)",
+    "Phase (matter)",
+    "Fast ion conductor",
+    "Chemistry",
+    "Battery (electricity)",
+    "Materials science",
+    "Chemical physics",
+    "Analytical Chemistry (journal)",
+    "Electrolyte",
+    "Inorganic chemistry",
+    "Thermodynamics",
+    "Physical chemistry",
+    "Medicine",
+    "Electrode",
+    "Physics",
+    "Organic chemistry",
+    "Power (physics)",
+    "Chromatography",
+    "Endocrinology"
+  ],
+  "citation_count": 1431,
+  "open_access_pdf_url": "https://dspace.mit.edu/bitstream/1721.1/73998/1/NaBatteryPaper.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2067381514.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:50.568213+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2067381514",
+    "concepts": [
+      "Ion",
+      "Lithium (medication)",
+      "Diffusion",
+      "Intercalation (chemistry)",
+      "Phase (matter)"
+    ],
+    "oa_status": "green"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W1773975057",
+  "title": "Protein thiolation and reversible protein-protein conjugation. N -Succinimidyl 3-(2-pyridyldithio)propionate, a new heterobifunctional reagent",
+  "abstract": "A heterobifunctional reagent, N-succinimidyl 3-(2-pyridyldithio)propionate, was synthesized. Its N-hydroxysuccinimide ester group reacts with amino groups and the 2-pyridyl disulphide structure reacts with aliphatic thiols. A new thiolation procedure for proteins is based on this reagent. The procedure involves two steps. First, 2-pyridyl disulphide structures are introduced into the protein by the reaction of some of its amino groups with the N-hydroxysuccinimide ester sie of the reagent. The protein-bound 2-pyridyl disulphide structures are then reduced with dithiothreitol. This reaction can be carried out without concomitant reduction of native disulphide bonds. The technique has been used for the introduction of thiol groups de novo into ribonuclease, gamma-globulin, alpha-amylase and horseradish peroxidase. N-Succinimidyl 3-(2-pyridyldithio)propionate can also be used for the preparation of protein-protein conjugates. This application is based on the fact that protein-2-pyridyl disulphide derivatives (formed from the reaction of non-thiol proteins with the reagent) react with thiol-containing proteins (with native thiols or thiolated by, for example, the method described above) via thiol-disulphide exchange to form disulphide-linked protein-protein conjugates. This conjugation technique has been used for the preparation of an alpha-amylase-urease, a ribonuclease-albumin and a peroxidase-rabbit anti-(human transferrin) antibody conjugate. The disulphide bridges between the protein molecules can easily be split by reduction or by thiol-disulphide exchange. Thus conjugation is reversible. This has been demonstrated by scission of the ribonuclease-albumin and the alpha-amylase-urease conjugate into their components with dithiothreitol. N-Succinimidyl 3-(2-pyridyldithio)propionate has been prepared in crystalline form, in which state (if protected against humidity) it is stable on storage at room temperature (23 degrees C).",
+  "authors": [
+    "J Carlsson",
+    "Håkan Drevin",
+    "Rolf Axén"
+  ],
+  "year": 1978,
+  "doi": "10.1042/bj1730723",
+  "source": "openalex",
+  "categories": [
+    "Chemistry",
+    "Propionate",
+    "Thiol",
+    "Reagent",
+    "Conjugate",
+    "Dithiothreitol",
+    "Albumin",
+    "Horseradish peroxidase",
+    "Ribonuclease",
+    "Biochemistry",
+    "Combinatorial chemistry",
+    "Organic chemistry",
+    "Enzyme",
+    "Mathematical analysis",
+    "Mathematics",
+    "RNA",
+    "Gene"
+  ],
+  "citation_count": 1218,
+  "open_access_pdf_url": "https://portlandpress.com/biochemj/article-pdf/173/3/723/570671/bj1730723.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1773975057.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:04.645746+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1773975057",
+    "concepts": [
+      "Chemistry",
+      "Propionate",
+      "Thiol",
+      "Reagent",
+      "Conjugate"
+    ],
+    "oa_status": "bronze"
+  }
+}

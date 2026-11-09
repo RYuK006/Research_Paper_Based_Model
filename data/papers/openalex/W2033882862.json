@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2033882862",
+  "title": "Metal Oxide Semi-Conductor Gas Sensors in Environmental Monitoring",
+  "abstract": "Metal oxide semiconductor gas sensors are utilised in a variety of different roles and industries. They are relatively inexpensive compared to other sensing technologies, robust, lightweight, long lasting and benefit from high material sensitivity and quick response times. They have been used extensively to measure and monitor trace amounts of environmentally important gases such as carbon monoxide and nitrogen dioxide. In this review the nature of the gas response and how it is fundamentally linked to surface structure is explored. Synthetic routes to metal oxide semiconductor gas sensors are also discussed and related to their affect on surface structure. An overview of important contributions and recent advances are discussed for the use of metal oxide semiconductor sensors for the detection of a variety of gases--CO, NO(x), NH(3) and the particularly challenging case of CO(2). Finally a description of recent advances in work completed at University College London is presented including the use of selective zeolites layers, new perovskite type materials and an innovative chemical vapour deposition approach to film deposition.",
+  "authors": [
+    "George F. Fine",
+    "Leon M. Cavanagh",
+    "Ayo Afonja",
+    "Russell Binions"
+  ],
+  "year": 2010,
+  "doi": "10.3390/s100605469",
+  "source": "openalex",
+  "categories": [
+    "Carbon monoxide",
+    "Oxide",
+    "Nanotechnology",
+    "Semiconductor",
+    "Materials science",
+    "Perovskite (structure)",
+    "Nitrogen oxide",
+    "Trace gas",
+    "Nitrogen dioxide",
+    "NOx",
+    "Chemical vapor deposition",
+    "Optoelectronics",
+    "Chemistry",
+    "Chemical engineering",
+    "Engineering",
+    "Metallurgy",
+    "Catalysis",
+    "Biochemistry",
+    "Organic chemistry",
+    "Combustion"
+  ],
+  "citation_count": 1521,
+  "open_access_pdf_url": "https://www.mdpi.com/1424-8220/10/6/5469/pdf?version=1403312554",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2033882862.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:45.467975+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2033882862",
+    "concepts": [
+      "Carbon monoxide",
+      "Oxide",
+      "Nanotechnology",
+      "Semiconductor",
+      "Materials science"
+    ],
+    "oa_status": "gold"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "openalex:W1653233231",
+  "title": "Gamma (40-100 Hz) oscillation in the hippocampus of the behaving rat",
+  "abstract": "The cellular generation and spatial distribution of gamma frequency (40-100 Hz) activity was examined in the hippocampus of the awake rat. Field potentials and unit activity were recorded by multiple site silicon probes (5- and 16-site shanks) and wire electrode arrays. Gamma waves were highly coherent along the long axis of the dentate hilus, but average coherence decreased rapidly in the CA3 and CA1 directions. Analysis of short epochs revealed large fluctuations in coherence values between the dentate and CA1 gamma waves. Current source density analysis revealed large sinks and sources in the dentate gyrus with spatial distribution similar to the dipoles evoked by stimulation of the perforant path. The frequency changes of gamma and theta waves positively correlated (40-100 Hz and 5-10 Hz, respectively). Putative interneurons in the dentate gyrus discharged at gamma frequency and were phase-locked to the ascending part of the gamma waves recorded from the hilus. Following bilateral lesion of the entorhinal cortex the power and frequency of hilar gamma activity significantly decreased or disappeared. Instead, a large amplitude but slower gamma pattern (25-50 Hz) emerged in the CA3-CA1 network. We suggest that gamma oscillation emerges from an interaction between intrinsic oscillatory properties of interneurons and the network properties of the dentate gyrus. We also hypothesize that under physiological conditions the hilar gamma oscillation may be entrained by the entorhinal rhythm and that gamma oscillation in the CA3-CA1 circuitry is suppressed by either the hilar region or the entorhinal cortex.",
+  "authors": [
+    "Anatol Bragin",
+    "Gábor Jandó",
+    "Zoltán Nádasdy",
+    "Jamille F. Hetke",
+    "Kensall D. Wise",
+    "György Buzsáki"
+  ],
+  "year": 1995,
+  "doi": "10.1523/jneurosci.15-01-00047.1995",
+  "source": "openalex",
+  "categories": [
+    "Dentate gyrus",
+    "Entorhinal cortex",
+    "Hippocampus",
+    "Perforant path",
+    "Neuroscience",
+    "Oscillation (cell signaling)",
+    "Physics",
+    "Stimulation",
+    "Chemistry",
+    "Biology",
+    "Biochemistry"
+  ],
+  "citation_count": 1563,
+  "open_access_pdf_url": "https://www.jneurosci.org/content/jneuro/15/1/47.full.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1653233231.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:42.012190+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1653233231",
+    "concepts": [
+      "Dentate gyrus",
+      "Entorhinal cortex",
+      "Hippocampus",
+      "Perforant path",
+      "Neuroscience"
+    ],
+    "oa_status": "hybrid"
+  }
+}

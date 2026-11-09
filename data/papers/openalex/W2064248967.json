@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W2064248967",
+  "title": "Cyanobacterial microcystin‐LR is a potent and specific inhibitor of protein phosphatases 1 and 2A from both mammals and higher plants",
+  "abstract": "The cyclic heptapeptide, microcystin-LR, inhibits protein phosphatases 1 (PP1) and 2A (PP2A) with Ki values below 0.1 nM. Protein phosphatase 2B is inhibited 1000-fold less potently, while six other phosphatases and eight protein kinases tested are unaffected. These results are strikingly similar to those obtained with the tumour promoter okadaic acid. We establish that okadaic acid prevents the binding of microcystin-LR to PP2A, and that protein inhibitors 1 and 2 prevent the binding of microcystin-LR to PP1. We discuss the possibility that inhibition of PP1 and PP2A accounts for the extreme toxicity of microcystin-LR, and indicate its potential value in the detection and analysis of protein kinases and phosphatases.",
+  "authors": [
+    "Carol MacKintosh",
+    "Kenneth A. Beattie",
+    "Susanne Klumpp",
+    "Philip Cohen",
+    "Geoffrey A. Codd"
+  ],
+  "year": 1990,
+  "doi": "10.1016/0014-5793(90)80245-e",
+  "source": "openalex",
+  "categories": [
+    "Okadaic acid",
+    "Phosphatase",
+    "Microcystin-LR",
+    "Protein phosphatase 2",
+    "Microcystin",
+    "Biochemistry",
+    "Phosphorylation",
+    "Protein phosphatase 1",
+    "Kinase",
+    "Biology",
+    "Cyanobacteria",
+    "Chemistry",
+    "Bacteria",
+    "Genetics"
+  ],
+  "citation_count": 1666,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1016/0014-5793%2890%2980245-E",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2064248967.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:37.919310+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2064248967",
+    "concepts": [
+      "Okadaic acid",
+      "Phosphatase",
+      "Microcystin-LR",
+      "Protein phosphatase 2",
+      "Microcystin"
+    ],
+    "oa_status": "bronze"
+  }
+}

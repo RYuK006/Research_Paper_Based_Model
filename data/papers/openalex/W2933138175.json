@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W2933138175",
+  "title": "fairseq: A Fast, Extensible Toolkit for Sequence Modeling",
+  "abstract": "Myle Ott, Sergey Edunov, Alexei Baevski, Angela Fan, Sam Gross, Nathan Ng, David Grangier, Michael Auli. Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics (Demonstrations). 2019.",
+  "authors": [
+    "Myle Ott",
+    "Sergey Edunov",
+    "Alexei Baevski",
+    "Angela Fan",
+    "Sam Gross",
+    "Nathan Ng",
+    "David Grangier",
+    "Michael Auli"
+  ],
+  "year": 2019,
+  "doi": "10.18653/v1/n19-4009",
+  "source": "openalex",
+  "categories": [
+    "Computer science",
+    "Computational linguistics",
+    "Programming language",
+    "Sequence (biology)",
+    "Art history",
+    "Library science",
+    "Artificial intelligence",
+    "Art",
+    "Chemistry",
+    "Biochemistry"
+  ],
+  "citation_count": 2475,
+  "open_access_pdf_url": "https://aclanthology.org/N19-4009.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2933138175.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:04.448367+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2933138175",
+    "concepts": [
+      "Computer science",
+      "Computational linguistics",
+      "Programming language",
+      "Sequence (biology)",
+      "Art history"
+    ],
+    "oa_status": "hybrid"
+  }
+}

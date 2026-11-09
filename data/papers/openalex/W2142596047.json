@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2142596047",
+  "title": "A finite element method for crack growth without remeshing",
+  "abstract": "An improvement of a new technique for modelling cracks in the finite element framework is presented. A standard displacement-based approximation is enriched near a crack by incorporating both discontinuous fields and the near tip asymptotic fields through a partition of unity method. A methodology that constructs the enriched approximation from the interaction of the crack geometry with the mesh is developed. This technique allows the entire crack to be represented independently of the mesh, and so remeshing is not necessary to model crack growth. Numerical experiments are provided to demonstrate the utility and robustness of the proposed technique. Copyright © 1999 John Wiley & Sons, Ltd.",
+  "authors": [
+    "Nicolas Moës",
+    "John E. Dolbow",
+    "Ted Belytschko"
+  ],
+  "year": 1999,
+  "doi": "10.1002/(sici)1097-0207(19990910)46:1<131::aid-nme726>3.0.co;2-j",
+  "source": "openalex",
+  "categories": [
+    "Partition of unity",
+    "Finite element method",
+    "Robustness (evolution)",
+    "Extended finite element method",
+    "Polygon mesh",
+    "Partition (number theory)",
+    "Structural engineering",
+    "Displacement (psychology)",
+    "Mathematics",
+    "Computer science",
+    "Applied mathematics",
+    "Geometry",
+    "Engineering",
+    "Chemistry",
+    "Psychology",
+    "Combinatorics",
+    "Biochemistry",
+    "Gene",
+    "Psychotherapist"
+  ],
+  "citation_count": 6694,
+  "open_access_pdf_url": "https://hal.science/hal-01004829/document",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2142596047.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:52.104903+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2142596047",
+    "concepts": [
+      "Partition of unity",
+      "Finite element method",
+      "Robustness (evolution)",
+      "Extended finite element method",
+      "Polygon mesh"
+    ],
+    "oa_status": "green"
+  }
+}

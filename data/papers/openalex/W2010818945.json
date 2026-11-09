@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2010818945",
+  "title": "Cardiovascular safety of non-steroidal anti-inflammatory drugs: network meta-analysis",
+  "abstract": "OBJECTIVE: To analyse the available evidence on cardiovascular safety of non-steroidal anti-inflammatory drugs. DESIGN: Network meta-analysis. DATA SOURCES: Bibliographic databases, conference proceedings, study registers, the Food and Drug Administration website, reference lists of relevant articles, and reports citing relevant articles through the Science Citation Index (last update July 2009). Manufacturers of celecoxib and lumiracoxib provided additional data. STUDY SELECTION: All large scale randomised controlled trials comparing any non-steroidal anti-inflammatory drug with other non-steroidal anti-inflammatory drugs or placebo. Two investigators independently assessed eligibility. DATA EXTRACTION: The primary outcome was myocardial infarction. Secondary outcomes included stroke, death from cardiovascular disease, and death from any cause. Two investigators independently extracted data. DATA SYNTHESIS: 31 trials in 116 429 patients with more than 115 000 patient years of follow-up were included. Patients were allocated to naproxen, ibuprofen, diclofenac, celecoxib, etoricoxib, rofecoxib, lumiracoxib, or placebo. Compared with placebo, rofecoxib was associated with the highest risk of myocardial infarction (rate ratio 2.12, 95% credibility interval 1.26 to 3.56), followed by lumiracoxib (2.00, 0.71 to 6.21). Ibuprofen was associated with the highest risk of stroke (3.36, 1.00 to 11.6), followed by diclofenac (2.86, 1.09 to 8.36). Etoricoxib (4.07, 1.23 to 15.7) and diclofenac (3.98, 1.48 to 12.7) were associated with the highest risk of cardiovascular death. CONCLUSIONS: Although uncertainty remains, little evidence exists to suggest that any of the investigated drugs are safe in cardiovascular terms. Naproxen seemed least harmful. Cardiovascular risk needs to be taken into account when prescribing any non-steroidal anti-inflammatory drug.",
+  "authors": [
+    "Sven Trelle",
+    "Stephan Reichenbach",
+    "Simon Wandel",
+    "Pius Hildebrand",
+    "Beatrice Tschannen",
+    "Peter  Matthias Villiger",
+    "Matthias Egger",
+    "Peter Jüni"
+  ],
+  "year": 2011,
+  "doi": "10.1136/bmj.c7086",
+  "source": "openalex",
+  "categories": [
+    "Rofecoxib",
+    "Etoricoxib",
+    "Medicine",
+    "Diclofenac",
+    "Celecoxib",
+    "Placebo",
+    "Myocardial infarction",
+    "Ibuprofen",
+    "Stroke (engine)",
+    "Internal medicine",
+    "Pharmacology",
+    "Cyclooxygenase",
+    "Alternative medicine",
+    "Enzyme",
+    "Pathology",
+    "Engineering",
+    "Biochemistry",
+    "Chemistry",
+    "Mechanical engineering"
+  ],
+  "citation_count": 1196,
+  "open_access_pdf_url": "https://www.bmj.com/content/bmj/342/bmj.c7086.full.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2010818945.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:08.357162+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2010818945",
+    "concepts": [
+      "Rofecoxib",
+      "Etoricoxib",
+      "Medicine",
+      "Diclofenac",
+      "Celecoxib"
+    ],
+    "oa_status": "hybrid"
+  }
+}

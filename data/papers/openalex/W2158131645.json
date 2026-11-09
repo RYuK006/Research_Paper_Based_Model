@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2158131645",
+  "title": "Cardiovascular Events Associated with Rofecoxib in a Colorectal Adenoma Chemoprevention Trial",
+  "abstract": "BACKGROUND: Selective inhibition of cyclooxygenase-2 (COX-2) may be associated with an increased risk of thrombotic events, but only limited long-term data have been available for analysis. We report on the cardiovascular outcomes associated with the use of the selective COX-2 inhibitor rofecoxib in a long-term, multicenter, randomized, placebo-controlled, double-blind trial designed to determine the effect of three years of treatment with rofecoxib on the risk of recurrent neoplastic polyps of the large bowel in patients with a history of colorectal adenomas. METHODS: A total of 2586 patients with a history of colorectal adenomas underwent randomization: 1287 were assigned to receive 25 mg of rofecoxib daily, and 1299 to receive placebo. All investigator-reported serious adverse events that represented potential thrombotic cardiovascular events were adjudicated in a blinded fashion by an external committee. RESULTS: A total of 46 patients in the rofecoxib group had a confirmed thrombotic event during 3059 patient-years of follow-up (1.50 events per 100 patient-years), as compared with 26 patients in the placebo group during 3327 patient-years of follow-up (0.78 event per 100 patient-years); the corresponding relative risk was 1.92 (95 percent confidence interval, 1.19 to 3.11; P=0.008). The increased relative risk became apparent after 18 months of treatment; during the first 18 months, the event rates were similar in the two groups. The results primarily reflect a greater number of myocardial infarctions and ischemic cerebrovascular events in the rofecoxib group. There was earlier separation (at approximately five months) between groups in the incidence of nonadjudicated investigator-reported congestive heart failure, pulmonary edema, or cardiac failure (hazard ratio for the comparison of the rofecoxib group with the placebo group, 4.61; 95 percent confidence interval, 1.50 to 18.83). Overall and cardiovascular mortality was similar in the two groups. CONCLUSIONS: Among patients with a history of colorectal adenomas, the use of rofecoxib was associated with an increased cardiovascular risk.",
+  "authors": [
+    "Robert S. Bresalier",
+    "Robert S. Sandler",
+    "Hui Quan",
+    "James A. Bolognese",
+    "Bettina Oxenius",
+    "Kevin J Horgan",
+    "Christopher Lines",
+    "Robert H. Riddell",
+    "Dion G. Morton",
+    "Ángel Lanas",
+    "Marvin A. Konstam",
+    "John A. Baron"
+  ],
+  "year": 2005,
+  "doi": "10.1056/nejmoa050493",
+  "source": "openalex",
+  "categories": [
+    "Medicine",
+    "Rofecoxib",
+    "Colorectal adenoma",
+    "Adenoma",
+    "Colorectal cancer",
+    "Internal medicine",
+    "MEDLINE",
+    "Oncology",
+    "Cancer",
+    "Cyclooxygenase",
+    "Chemistry",
+    "Biochemistry",
+    "Political science",
+    "Law",
+    "Enzyme"
+  ],
+  "citation_count": 2510,
+  "open_access_pdf_url": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa050493?articleTools=true",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2158131645.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:04.365375+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2158131645",
+    "concepts": [
+      "Medicine",
+      "Rofecoxib",
+      "Colorectal adenoma",
+      "Adenoma",
+      "Colorectal cancer"
+    ],
+    "oa_status": "bronze"
+  }
+}

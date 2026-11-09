@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2161803000",
+  "title": "Dual-polarity plasmonic metalens for visible light",
+  "abstract": "Surface topography and refractive index profile dictate the deterministic functionality of a lens. The polarity of most lenses reported so far, that is, either positive (convex) or negative (concave), depends on the curvatures of the interfaces. Here we experimentally demonstrate a counter-intuitive dual-polarity flat lens based on helicity-dependent phase discontinuities for circularly polarized light. Specifically, by controlling the helicity of the input light, the positive and negative polarity are interchangeable in one identical flat lens. Helicity-controllable real and virtual focal planes, as well as magnified and demagnified imaging, are observed on the same plasmonic lens at visible and near-infrared wavelengths. The plasmonic metalens with dual polarity may empower advanced research and applications in helicity-dependent focusing and imaging devices, angular-momentum-based quantum information processing and integrated nano-optoelectronics. The wide range of properties encountered in metamaterials make them promising for numerous optical applications. Chenet al. build a plasmonic flat metamaterial lens with an abrupt phase change that functions as a convex lens for one handedness of light and a concave lens for the other.",
+  "authors": [
+    "Xianzhong Chen",
+    "Lingling Huang",
+    "Holger Mühlenbernd",
+    "Guixin Li",
+    "Benfeng Bai",
+    "Qiaofeng Tan",
+    "Guofan Jin",
+    "Cheng‐Wei Qiu",
+    "Shuang Zhang",
+    "Thomas Zentgraf"
+  ],
+  "year": 2012,
+  "doi": "10.1038/ncomms2207",
+  "source": "openalex",
+  "categories": [
+    "Helicity",
+    "Plasmon",
+    "Polarity (international relations)",
+    "Plasmonic lens",
+    "Optics",
+    "Lens (geology)",
+    "Physics",
+    "Optoelectronics",
+    "Surface plasmon",
+    "Surface plasmon polariton",
+    "Chemistry",
+    "Biochemistry",
+    "Cell",
+    "Particle physics"
+  ],
+  "citation_count": 1205,
+  "open_access_pdf_url": "https://doi.org/10.1038/ncomms2207",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2161803000.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:08.232433+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2161803000",
+    "concepts": [
+      "Helicity",
+      "Plasmon",
+      "Polarity (international relations)",
+      "Plasmonic lens",
+      "Optics"
+    ],
+    "oa_status": "hybrid"
+  }
+}

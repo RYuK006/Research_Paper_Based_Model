@@ -1,0 +1,59 @@
+{
+  "id": "openalex:W3048882402",
+  "title": "Marine20—The Marine Radiocarbon Age Calibration Curve (0–55,000 cal BP)",
+  "abstract": "ABSTRACT The concentration of radiocarbon ( 14 C) differs between ocean and atmosphere. Radiocarbon determinations from samples which obtained their 14 C in the marine environment therefore need a marine-specific calibration curve and cannot be calibrated directly against the atmospheric-based IntCal20 curve. This paper presents Marine20, an update to the internationally agreed marine radiocarbon age calibration curve that provides a non-polar global-average marine record of radiocarbon from 0–55 cal kBP and serves as a baseline for regional oceanic variation. Marine20 is intended for calibration of marine radiocarbon samples from non-polar regions; it is not suitable for calibration in polar regions where variability in sea ice extent, ocean upwelling and air-sea gas exchange may have caused larger changes to concentrations of marine radiocarbon. The Marine20 curve is based upon 500 simulations with an ocean/atmosphere/biosphere box-model of the global carbon cycle that has been forced by posterior realizations of our Northern Hemispheric atmospheric IntCal20 14 C curve and reconstructed changes in CO 2 obtained from ice core data. These forcings enable us to incorporate carbon cycle dynamics and temporal changes in the atmospheric 14 C level. The box-model simulations of the global-average marine radiocarbon reservoir age are similar to those of a more complex three-dimensional ocean general circulation model. However, simplicity and speed of the box model allow us to use a Monte Carlo approach to rigorously propagate the uncertainty in both the historic concentration of atmospheric 14 C and other key parameters of the carbon cycle through to our final Marine20 calibration curve. This robust propagation of uncertainty is fundamental to providing reliable precision for the radiocarbon age calibration of marine based samples. We make a first step towards deconvolving the contributions of different processes to the total uncertainty; discuss the main differences of Marine20 from the previous age calibration curve Marine13; and identify the limitations of our approach together with key areas for further work. The updated values for ΔR , the regional marine radiocarbon reservoir age corrections required to calibrate against Marine20, can be found at the data base http://calib.org/marine/ .",
+  "authors": [
+    "Timothy Heaton",
+    "Peter Köhler",
+    "Martin Butzin A",
+    "Édouard Bard",
+    "Ron Reimer",
+    "William E. N. Austin",
+    "Christopher Bronk Ramsey",
+    "Pieter Meiert Grootes",
+    "Konrad A Hughen",
+    "Bernd Kromer",
+    "Paula J. Reimer",
+    "Jess F. Adkins",
+    "Andrea Burke",
+    "M. S. Cook",
+    "Jesper Olsen",
+    "Luke Cameron Skinner"
+  ],
+  "year": 2020,
+  "doi": "10.1017/rdc.2020.68",
+  "source": "openalex",
+  "categories": [
+    "Radiocarbon dating",
+    "Geology",
+    "Calibration",
+    "Calibration curve",
+    "Absolute dating",
+    "Geochronology",
+    "Archaeology",
+    "Oceanography",
+    "Paleontology",
+    "Geography",
+    "Chemistry",
+    "Statistics",
+    "Mathematics",
+    "Chromatography",
+    "Detection limit"
+  ],
+  "citation_count": 2027,
+  "open_access_pdf_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/B3013899914A3198D4B884B7B6E5CE66/S0033822220000685a.pdf/div-class-title-marine20-the-marine-radiocarbon-age-calibration-curve-0-55-000-cal-bp-div.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3048882402.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:15.617466+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3048882402",
+    "concepts": [
+      "Radiocarbon dating",
+      "Geology",
+      "Calibration",
+      "Calibration curve",
+      "Absolute dating"
+    ],
+    "oa_status": "hybrid"
+  }
+}

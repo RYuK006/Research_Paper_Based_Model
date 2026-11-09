@@ -1,0 +1,44 @@
+{
+  "id": "openalex:W2296143349",
+  "title": "The Priority and Challenge of High-Power Performance of Low-Platinum Proton-Exchange Membrane Fuel Cells",
+  "abstract": "Substantial progress has been made in reducing proton-exchange membrane fuel cell (PEMFC) cathode platinum loadings from 0.4-0.8 mgPt/cm(2) to about 0.1 mgPt/cm(2). However, at this level of cathode Pt loading, large performance loss is observed at high-current density (>1 A/cm(2)), preventing a reduction in the overall stack cost. This next developmental step is being limited by the presence of a resistance term exhibited at these lower Pt loadings and apparently due to a phenomenon at or near the catalyst surface. This issue can be addressed through the design of catalysts with high and stable Pt dispersion as well as through development and implementation of ionomers designed to interact with Pt in a way that does not constrain oxygen reduction reaction rates. Extrapolating from progress made in past decades, we are optimistic that the concerted efforts of materials and electrode designers can resolve this issue, thus enabling a large step toward fuel cell vehicles that are affordable for the mass market.",
+  "authors": [
+    "Anusorn Kongkanand",
+    "Mark F. Mathias"
+  ],
+  "year": 2016,
+  "doi": "10.1021/acs.jpclett.6b00216",
+  "source": "openalex",
+  "categories": [
+    "Proton exchange membrane fuel cell",
+    "Platinum",
+    "Fuel cells",
+    "Power (physics)",
+    "Membrane",
+    "Nuclear engineering",
+    "Materials science",
+    "Chemistry",
+    "Chemical engineering",
+    "Catalysis",
+    "Engineering",
+    "Physics",
+    "Quantum mechanics",
+    "Biochemistry"
+  ],
+  "citation_count": 1230,
+  "open_access_pdf_url": "https://www.osti.gov/servlets/purl/1504240",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2296143349.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:04.537131+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2296143349",
+    "concepts": [
+      "Proton exchange membrane fuel cell",
+      "Platinum",
+      "Fuel cells",
+      "Power (physics)",
+      "Membrane"
+    ],
+    "oa_status": "green"
+  }
+}

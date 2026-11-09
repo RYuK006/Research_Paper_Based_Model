@@ -1,0 +1,58 @@
+{
+  "id": "openalex:W3008891024",
+  "title": "Modeling and Applications of Electrochemical Impedance Spectroscopy (EIS) for Lithium-ion Batteries",
+  "abstract": "As research on secondary batteries becomes important, interest in analytical methods to examine the condition of secondary batteries is also increasing.Among these methods, the electrochemical impedance spectroscopy (EIS) method is one of the most attractive diagnostic techniques due to its convenience, quickness, accuracy, and low cost.However, since the obtained spectra are complicated signals representing several impedance elements, it is necessary to understand the whole electrochemical environment for a meaningful analysis.Based on the understanding of the whole system, the circuit elements constituting the cell can be obtained through construction of a physically sound circuit model.Therefore, this mini-review will explain how to construct a physically sound circuit model according to the characteristics of the battery cell system and then introduce the relationship between the obtained resistances of the bulk (R b ), charge transfer reaction (R ct ), interface layer (R SEI ), diffusion process (W) and battery characteristics, such as the state of charge (SOC), temperature, and state of health (SOH).",
+  "authors": [
+    "Woosung Choi",
+    "Heon‐Cheol Shin",
+    "Ji Man Kim",
+    "Jae‐Young Choi",
+    "Won‐Sub Yoon"
+  ],
+  "year": 2020,
+  "doi": "10.33961/jecst.2019.00528",
+  "source": "openalex",
+  "categories": [
+    "Dielectric spectroscopy",
+    "Equivalent circuit",
+    "Battery (electricity)",
+    "Electrical impedance",
+    "State of charge",
+    "Lithium (medication)",
+    "Lithium-ion battery",
+    "Materials science",
+    "Electronic engineering",
+    "Electrochemistry",
+    "Computer science",
+    "Voltage",
+    "Electrical engineering",
+    "Analytical Chemistry (journal)",
+    "Optoelectronics",
+    "Chemistry",
+    "Electrode",
+    "Engineering",
+    "Physics",
+    "Power (physics)",
+    "Endocrinology",
+    "Chromatography",
+    "Quantum mechanics",
+    "Physical chemistry",
+    "Medicine"
+  ],
+  "citation_count": 1257,
+  "open_access_pdf_url": "https://www.jecst.org/upload/pdf/jecst-2019-00528.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3008891024.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:02.561010+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3008891024",
+    "concepts": [
+      "Dielectric spectroscopy",
+      "Equivalent circuit",
+      "Battery (electricity)",
+      "Electrical impedance",
+      "State of charge"
+    ],
+    "oa_status": "diamond"
+  }
+}

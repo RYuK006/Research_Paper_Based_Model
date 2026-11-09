@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2136309995",
+  "title": "Amplification efficiency: linking baseline and bias in the analysis of quantitative PCR data",
+  "abstract": "Despite the central role of quantitative PCR (qPCR) in the quantification of mRNA transcripts, most analyses of qPCR data are still delegated to the software that comes with the qPCR apparatus. This is especially true for the handling of the fluorescence baseline. This article shows that baseline estimation errors are directly reflected in the observed PCR efficiency values and are thus propagated exponentially in the estimated starting concentrations as well as 'fold-difference' results. Because of the unknown origin and kinetics of the baseline fluorescence, the fluorescence values monitored in the initial cycles of the PCR reaction cannot be used to estimate a useful baseline value. An algorithm that estimates the baseline by reconstructing the log-linear phase downward from the early plateau phase of the PCR reaction was developed and shown to lead to very reproducible PCR efficiency values. PCR efficiency values were determined per sample by fitting a regression line to a subset of data points in the log-linear phase. The variability, as well as the bias, in qPCR results was significantly reduced when the mean of these PCR efficiencies per amplicon was used in the calculation of an estimate of the starting concentration per sample.",
+  "authors": [
+    "Jan M. Ruijter",
+    "Christian R. B. Ramakers",
+    "Willem M.H. Hoogaars",
+    "Yann Karlen",
+    "Onno Bakker",
+    "Maurice J.B. van den Hoff",
+    "Antoon F.M. Moorman"
+  ],
+  "year": 2009,
+  "doi": "10.1093/nar/gkp045",
+  "source": "openalex",
+  "categories": [
+    "Biology",
+    "Amplicon",
+    "Baseline (sea)",
+    "Real-time polymerase chain reaction",
+    "Sample (material)",
+    "Statistics",
+    "Linear regression",
+    "Polymerase chain reaction",
+    "Chromatography",
+    "Genetics",
+    "Mathematics",
+    "Gene",
+    "Chemistry",
+    "Fishery"
+  ],
+  "citation_count": 3112,
+  "open_access_pdf_url": "https://academic.oup.com/nar/article-pdf/37/6/e45/18783355/gkp045.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2136309995.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:57.876072+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2136309995",
+    "concepts": [
+      "Biology",
+      "Amplicon",
+      "Baseline (sea)",
+      "Real-time polymerase chain reaction",
+      "Sample (material)"
+    ],
+    "oa_status": "gold"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W1993461592",
+  "title": "Relativistic compact effective potentials and efficient, shared-exponent basis sets for the third-, fourth-, and fifth-row atoms",
+  "abstract": "Relativistic compact effective potentials (RCEP), which replace the atomic core electrons in molecular calculations, have been derived from numerical Dirac–Fock atomic wavefunctions using shape-consistent valence pseudo-orbitals and an optimizing procedure based on an energy-overlap functional. Potentials are presented for the third-, fourth-, and fifth-row atoms of the Periodic Table (excluding the lanthanide series). The efficiency of molecular calculations is enhanced by using compact Gaussian expansions (no more than three terms) to represent the radial components of the potentials, and energy-optimized, shared-exponent, contracted-Gaussian atomic orbital basis sets. Transferability of the potentials has been tested by comparing calculated atomic excitation energies and ionization potentials with values obtained from numerical relativistic Hartree–Fock calculations. For the alkali and alkaline earth atoms, core polarization potentials (CPP) have been derived which may be added to the RCEP to make possible accurate molecular calculations without explicitly including core-valence correlating configurations in the wavefunction. Keywords: model potentials, effective core potentials, transition metals, relativistic calculations.",
+  "authors": [
+    "Walter J. Stevens",
+    "M. Krauß",
+    "Harold I. Basch",
+    "Paul G. Jasien"
+  ],
+  "year": 1992,
+  "doi": "10.1139/v92-085",
+  "source": "openalex",
+  "categories": [
+    "Wave function",
+    "Chemistry",
+    "Gaussian",
+    "Relativistic quantum chemistry",
+    "Atomic physics",
+    "Atomic orbital",
+    "Valence (chemistry)",
+    "Ionization energy",
+    "Molecular orbital",
+    "Ionization",
+    "Electron",
+    "Quantum mechanics",
+    "Physics",
+    "Computational chemistry",
+    "Molecule",
+    "Ion",
+    "Organic chemistry"
+  ],
+  "citation_count": 2177,
+  "open_access_pdf_url": "https://cdnsciencepub.com/doi/pdf/10.1139/v92-085",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1993461592.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:12.678205+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1993461592",
+    "concepts": [
+      "Wave function",
+      "Chemistry",
+      "Gaussian",
+      "Relativistic quantum chemistry",
+      "Atomic physics"
+    ],
+    "oa_status": "bronze"
+  }
+}

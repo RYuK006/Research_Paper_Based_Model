@@ -1,0 +1,44 @@
+{
+  "id": "openalex:W2149655632",
+  "title": "Escaping free-energy minima",
+  "abstract": "We introduce a powerful method for exploring the properties of the multidimensional free energy surfaces (FESs) of complex many-body systems by means of coarse-grained non-Markovian dynamics in the space defined by a few collective coordinates. A characteristic feature of these dynamics is the presence of a history-dependent potential term that, in time, fills the minima in the FES, allowing the efficient exploration and accurate determination of the FES as a function of the collective coordinates. We demonstrate the usefulness of this approach in the case of the dissociation of a NaCl molecule in water and in the study of the conformational changes of a dialanine in solution.",
+  "authors": [
+    "Alessandro Laio",
+    "Michele Parrinello"
+  ],
+  "year": 2002,
+  "doi": "10.1073/pnas.202427399",
+  "source": "openalex",
+  "categories": [
+    "Maxima and minima",
+    "Potential energy",
+    "Statistical physics",
+    "Biological system",
+    "Dissociation (chemistry)",
+    "Computer science",
+    "Computational chemistry",
+    "Physics",
+    "Classical mechanics",
+    "Chemistry",
+    "Mathematics",
+    "Mathematical analysis",
+    "Physical chemistry",
+    "Biology"
+  ],
+  "citation_count": 5704,
+  "open_access_pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/130499",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2149655632.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:52.181322+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2149655632",
+    "concepts": [
+      "Maxima and minima",
+      "Potential energy",
+      "Statistical physics",
+      "Biological system",
+      "Dissociation (chemistry)"
+    ],
+    "oa_status": "green"
+  }
+}

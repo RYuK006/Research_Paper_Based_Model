@@ -1,0 +1,58 @@
+{
+  "id": "openalex:W1538522759",
+  "title": "Exosomes with Immune Modulatory Features Are Present in Human Breast Milk",
+  "abstract": "Breast milk is a complex liquid with immune-competent cells and soluble proteins that provide immunity to the infant and affect the maturation of the infant's immune system. Exosomes are nanovesicles (30-100 nm) with an endosome-derived limiting membrane secreted by a diverse range of cell types. Because exosomes carry immunorelevant structures, they are suggested to participate in directing the immune response. We hypothesized that human breast milk contain exosomes, which may be important for the development of the infant's immune system. We isolated vesicles from the human colostrum and mature breast milk by ultracentrifugations and/or immuno-isolation on paramagnetic beads. We found that the vesicles displayed a typical exosome-like size and morphology as analyzed by electron microscopy. Furthermore, they floated at a density between 1.10 and 1.18 g/ml in a sucrose gradient, corresponding to the known density of exosomes. In addition, MHC classes I and II, CD63, CD81, and CD86 were detected on the vesicles by flow cytometry. Western blot and mass spectrometry further confirmed the presence of several exosome-associated molecules. Functional analysis revealed that the vesicle preparation inhibited anti-CD3-induced IL-2 and IFN-gamma production from allogeneic and autologous PBMC. In addition, an increased number of Foxp3(+)CD4(+)CD25(+) T regulatory cells were observed in PBMC incubated with milk vesicle preparations. We conclude that human breast milk contains exosomes with the capacity to influence immune responses.",
+  "authors": [
+    "Charlotte Admyre",
+    "Sara M. Johansson",
+    "Khaleda Rahman Qazi",
+    "Jan‐Jonas Filén",
+    "Riitta Lahesmaa",
+    "Mikael Norman",
+    "Etienne P.A. Neve",
+    "Annika Scheynius",
+    "Susanne Gabrielsson"
+  ],
+  "year": 2007,
+  "doi": "10.4049/jimmunol.179.3.1969",
+  "source": "openalex",
+  "categories": [
+    "Microvesicles",
+    "Exosome",
+    "Immune system",
+    "CD63",
+    "Biology",
+    "Breast milk",
+    "Cell biology",
+    "CD81",
+    "Vesicle",
+    "Flow cytometry",
+    "FOXP3",
+    "Western blot",
+    "Chemistry",
+    "Molecular biology",
+    "Immunology",
+    "Biochemistry",
+    "Virus",
+    "Gene",
+    "Membrane",
+    "Hepatitis C virus",
+    "microRNA"
+  ],
+  "citation_count": 1252,
+  "open_access_pdf_url": "https://journals.aai.org/jimmunol/article-pdf/179/3/1969/1243945/zim01507001969.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1538522759.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:02.634227+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1538522759",
+    "concepts": [
+      "Microvesicles",
+      "Exosome",
+      "Immune system",
+      "CD63",
+      "Biology"
+    ],
+    "oa_status": "bronze"
+  }
+}

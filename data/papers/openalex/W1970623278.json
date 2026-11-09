@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W1970623278",
+  "title": "Nonlocal van der Waals density functional: The simpler the better",
+  "abstract": "We devise a nonlocal correlation energy functional that describes the entire range of dispersion interactions in a seamless fashion using only the electron density as input. The new functional is considerably simpler than its predecessors of a similar type. The functional has a tractable and robust analytic form that lends itself to efficient self-consistent implementation. When paired with an appropriate exchange functional, our nonlocal correlation model yields accurate interaction energies of weakly-bound complexes, not only near the energy minima but also far from equilibrium. Our model exhibits an outstanding precision at predicting equilibrium intermonomer separations in van der Waals complexes. It also gives accurate covalent bond lengths and atomization energies. Hence the functional proposed in this work is a computationally inexpensive electronic structure tool of broad applicability.",
+  "authors": [
+    "Oleg A. Vydrov",
+    "Troy Van Voorhis"
+  ],
+  "year": 2010,
+  "doi": "10.1063/1.3521275",
+  "source": "openalex",
+  "categories": [
+    "van der Waals force",
+    "Maxima and minima",
+    "Density functional theory",
+    "Energy functional",
+    "London dispersion force",
+    "Statistical physics",
+    "Work (physics)",
+    "Range (aeronautics)",
+    "Dispersion (optics)",
+    "Physics",
+    "Van der Waals surface",
+    "Van der Waals radius",
+    "Computational chemistry",
+    "Chemistry",
+    "Chemical physics",
+    "Quantum mechanics",
+    "Materials science",
+    "Molecule",
+    "Mathematics",
+    "Mathematical analysis",
+    "Composite material"
+  ],
+  "citation_count": 1339,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1009.1421",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1970623278.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:55.281567+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1970623278",
+    "concepts": [
+      "van der Waals force",
+      "Maxima and minima",
+      "Density functional theory",
+      "Energy functional",
+      "London dispersion force"
+    ],
+    "oa_status": "green"
+  }
+}

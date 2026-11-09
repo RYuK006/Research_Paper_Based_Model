@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2105167594",
+  "title": "Parallel Reaction Monitoring for High Resolution and High Mass Accuracy Quantitative, Targeted Proteomics",
+  "abstract": "Selected reaction monitoring on a triple quadrupole mass spectrometer is currently experiencing a renaissance within the proteomics community for its, as yet, unparalleled ability to characterize and quantify a set of proteins reproducibly, completely, and with high sensitivity. Given the immense benefit that high resolution and accurate mass instruments have brought to the discovery proteomics field, we wondered if highly accurate mass measurement capabilities could be leveraged to provide benefits in the targeted proteomics domain as well. Here, we propose a new targeted proteomics paradigm centered on the use of next generation, quadrupole-equipped high resolution and accurate mass instruments: parallel reaction monitoring (PRM). In PRM, the third quadrupole of a triple quadrupole is substituted with a high resolution and accurate mass mass analyzer to permit the parallel detection of all target product ions in one, concerted high resolution mass analysis. We detail the analytical performance of the PRM method, using a quadrupole-equipped bench-top Orbitrap MS, and draw a performance comparison to selected reaction monitoring in terms of run-to-run reproducibility, dynamic range, and measurement accuracy. In addition to requiring minimal upfront method development and facilitating automated data analysis, PRM yielded quantitative data over a wider dynamic range than selected reaction monitoring in the presence of a yeast background matrix because of PRM's high selectivity in the mass-to-charge domain. With achievable linearity over the quantifiable dynamic range found to be statistically equal between the two methods, our investigation suggests that PRM will be a promising new addition to the quantitative proteomics toolbox.",
+  "authors": [
+    "Amelia C. Peterson",
+    "Jason D. Russell",
+    "Derek J. Bailey",
+    "Michael S. Westphall",
+    "Joshua J. Coon"
+  ],
+  "year": 2012,
+  "doi": "10.1074/mcp.o112.020131",
+  "source": "openalex",
+  "categories": [
+    "Proteomics",
+    "High resolution",
+    "Selected reaction monitoring",
+    "Quantitative proteomics",
+    "Computational biology",
+    "Mass spectrometry",
+    "Chemistry",
+    "Computer science",
+    "Chromatography",
+    "Tandem mass spectrometry",
+    "Biology",
+    "Biochemistry",
+    "Remote sensing",
+    "Geography",
+    "Gene"
+  ],
+  "citation_count": 1311,
+  "open_access_pdf_url": "http://www.mcponline.org/article/S1535947620341499/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2105167594.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:57.726258+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2105167594",
+    "concepts": [
+      "Proteomics",
+      "High resolution",
+      "Selected reaction monitoring",
+      "Quantitative proteomics",
+      "Computational biology"
+    ],
+    "oa_status": "hybrid"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "openalex:W2061824793",
+  "title": "A graphene quantum dot photodynamic therapy agent with high singlet oxygen generation",
+  "abstract": "Clinical applications of current photodynamic therapy (PDT) agents are often limited by their low singlet oxygen (1O2) quantum yields, as well as by photobleaching and poor biocompatibility. Here we present a new PDT agent based on graphene quantum dots (GQDs) that can produce 1O2 via a multistate sensitization process, resulting in a quantum yield of ~1.3, the highest reported for PDT agents. The GQDs also exhibit a broad absorption band spanning the UV region and the entire visible region and a strong deep-red emission. Through in vitro and in vivo studies, we demonstrate that GQDs can be used as PDT agents, simultaneously allowing imaging and providing a highly efficient cancer therapy. The present work may lead to a new generation of carbon-based nanomaterial PDT agents with overall performance superior to conventional agents in terms of 1O2 quantum yield, water dispersibility, photo- and pH-stability, and biocompatibility. Photosensitisers are used in cancer therapy to promote the formation of reactive oxygen species on irradiation with light. Here, the authors present a graphene quantum dot photosensitiser with a singlet oxygen quantum yield of approximately 1.3, and investigate its in vitro and in vivoapplications",
+  "authors": [
+    "Jiechao Ge",
+    "Minhuan Lan",
+    "Bingjiang Zhou",
+    "Weimin Liu",
+    "Liang Guo",
+    "Hui Wang",
+    "Qingyan Jia",
+    "Guangle Niu",
+    "Xing Huang",
+    "Hangyue Zhou",
+    "Xiangmin Meng",
+    "Pengfei Wang",
+    "Chun‐Sing Lee",
+    "Wenjun Zhang",
+    "Xiaodong Han"
+  ],
+  "year": 2014,
+  "doi": "10.1038/ncomms5596",
+  "source": "openalex",
+  "categories": [
+    "Singlet oxygen",
+    "Photodynamic therapy",
+    "Photobleaching",
+    "Quantum yield",
+    "Quantum dot",
+    "Biocompatibility",
+    "Graphene",
+    "Materials science",
+    "Photochemistry",
+    "Nanotechnology",
+    "Nanomaterials",
+    "Chemistry",
+    "Oxygen",
+    "Fluorescence",
+    "Physics",
+    "Optics",
+    "Organic chemistry",
+    "Metallurgy"
+  ],
+  "citation_count": 1419,
+  "open_access_pdf_url": "https://www.nature.com/articles/ncomms5596.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2061824793.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:50.635010+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2061824793",
+    "concepts": [
+      "Singlet oxygen",
+      "Photodynamic therapy",
+      "Photobleaching",
+      "Quantum yield",
+      "Quantum dot"
+    ],
+    "oa_status": "hybrid"
+  }
+}

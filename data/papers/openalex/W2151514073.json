@@ -1,0 +1,57 @@
+{
+  "id": "openalex:W2151514073",
+  "title": "Review article \"Assessment of economic flood damage\"",
+  "abstract": "Abstract. Damage assessments of natural hazards supply crucial information to decision support and policy development in the fields of natural hazard management and adaptation planning to climate change. Specifically, the estimation of economic flood damage is gaining greater importance as flood risk management is becoming the dominant approach of flood control policies throughout Europe. This paper reviews the state-of-the-art and identifies research directions of economic flood damage assessment. Despite the fact that considerable research effort has been spent and progress has been made on damage data collection, data analysis and model development in recent years, there still seems to be a mismatch between the relevance of damage assessments and the quality of the available models and datasets. Often, simple approaches are used, mainly due to limitations in available data and knowledge on damage mechanisms. The results of damage assessments depend on many assumptions, e.g. the selection of spatial and temporal boundaries, and there are many pitfalls in economic evaluation, e.g. the choice between replacement costs or depreciated values. Much larger efforts are required for empirical and synthetic data collection and for providing consistent, reliable data to scientists and practitioners. A major shortcoming of damage modelling is that model validation is scarcely performed. Uncertainty analyses and thorough scrutiny of model inputs and assumptions should be mandatory for each damage model development and application, respectively. In our view, flood risk assessments are often not well balanced. Much more attention is given to the hazard assessment part, whereas damage assessment is treated as some kind of appendix within the risk analysis. Advances in flood damage assessment could trigger subsequent methodological improvements in other natural hazard areas with comparable time-space properties.",
+  "authors": [
+    "Bruno Merz",
+    "Heidi Kreibich",
+    "Reimund Schwarze",
+    "Annegret H. Thieken"
+  ],
+  "year": 2010,
+  "doi": "10.5194/nhess-10-1697-2010",
+  "source": "openalex",
+  "categories": [
+    "Flood myth",
+    "Risk analysis (engineering)",
+    "Natural hazard",
+    "Hazard",
+    "Scrutiny",
+    "Impact assessment",
+    "Environmental planning",
+    "Environmental resource management",
+    "Risk assessment",
+    "Relevance (law)",
+    "Economic impact analysis",
+    "Computer science",
+    "Environmental science",
+    "Business",
+    "Engineering",
+    "Geography",
+    "Civil engineering",
+    "Political science",
+    "Archaeology",
+    "Public administration",
+    "Meteorology",
+    "Law",
+    "Organic chemistry",
+    "Chemistry",
+    "Computer security"
+  ],
+  "citation_count": 1417,
+  "open_access_pdf_url": "https://nhess.copernicus.org/articles/10/1697/2010/nhess-10-1697-2010.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2151514073.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:50.655341+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2151514073",
+    "concepts": [
+      "Flood myth",
+      "Risk analysis (engineering)",
+      "Natural hazard",
+      "Hazard",
+      "Scrutiny"
+    ],
+    "oa_status": "gold"
+  }
+}

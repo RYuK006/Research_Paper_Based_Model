@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W1949141612",
+  "title": "A novel slow (< 1 Hz) oscillation of neocortical neurons in vivo: depolarizing and hyperpolarizing components",
+  "abstract": "We describe a novel slow oscillation in intracellular recordings from cortical association areas 5 and 7, motor areas 4 and 6, and visual areas 17 and 18 of cats under various anesthetics. The recorded neurons (n = 254) were antidromically and orthodromically identified as corticothalamic or callosal elements receiving projections from appropriate thalamic nuclei as well as from homotopic foci in the contralateral cortex. Two major types of cells were recorded: regular-spiking (mainly slow-adapting, but also fast-adapting) neurons and intrinsically bursting cells. A group of slowly oscillating neurons (n = 21) were intracellularly stained and found to be pyramidal-shaped cells in layers III-VI, with luxuriant basal dendritic arbors. The slow rhythm appeared in 88% of recorded neurons. It consisted of slow depolarizing envelopes (lasting for 0.8-1.5 sec) with superimposed full action potentials or presumed dendritic spikes, followed by long-lasting hyperpolarizations. Such sequences recurred rhythmically at less than 1 Hz, with a prevailing oscillation between 0.3 and 0.4 Hz in 67% of urethane-anesthetized animals. While in most neurons (approximately 70%) the repetitive spikes superimposed on the slow depolarization were completely blocked by slight DC hyperpolarization, 30% of cells were found to display relatively small (3-12 mV), rapid, all-or-none potentials after obliteration of full action potentials. These fast spikes were suppressed in an all-or-none fashion at Vm more negative than -90 mV. The depolarizing envelope of the slow rhythm was reduced or suppressed at a Vm of -90 to -100 mV and its duration was greatly reduced by administration of the NMDA blocker ketamine. In keeping with this action, most (56%) neurons recorded in animals under ketamine and nitrous oxide or ketamine and xylazine anesthesia displayed the slow oscillation at higher frequencies (0.6-1 Hz) than under urethane anesthesia (0.3-0.4 Hz). In 18% of the oscillating cells, the slow rhythm mainly consisted of repetitive (15-30 Hz), relatively short-lasting (15-25 msec) IPSPs that could be revealed by bringing the Vm at more positive values than -70 mV. The long-lasting (approximately 1 sec) hyperpolarizing phase of the slow oscillation was best observed at the resting Vm and was reduced at about -100 mV. Simultaneous recording of another cell across the membrane demonstrated synchronous inhibitory periods in both neurons. Intracellular diffusion of Cl- or Cs+ reduced the amplitude and/or duration of cyclic long-lasting hyperpolaryzations.(ABSTRACT TRUNCATED AT 400 WORDS)",
+  "authors": [
+    "Mircea Steriade",
+    "Ángel Núñez",
+    "Florin Amzica"
+  ],
+  "year": 1993,
+  "doi": "10.1523/jneurosci.13-08-03252.1993",
+  "source": "openalex",
+  "categories": [
+    "Depolarization",
+    "Neuroscience",
+    "Bursting",
+    "Hyperpolarization (physics)",
+    "Electrophysiology",
+    "Membrane potential",
+    "Rhythm",
+    "Neocortex",
+    "Cortex (anatomy)",
+    "Chemistry",
+    "Biophysics",
+    "Biology",
+    "Anatomy",
+    "Physics",
+    "Nuclear magnetic resonance",
+    "Nuclear magnetic resonance spectroscopy",
+    "Acoustics"
+  ],
+  "citation_count": 1924,
+  "open_access_pdf_url": "https://www.jneurosci.org/content/jneuro/13/8/3252.full.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1949141612.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:17.895418+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1949141612",
+    "concepts": [
+      "Depolarization",
+      "Neuroscience",
+      "Bursting",
+      "Hyperpolarization (physics)",
+      "Electrophysiology"
+    ],
+    "oa_status": "hybrid"
+  }
+}

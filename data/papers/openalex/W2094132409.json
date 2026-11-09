@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2094132409",
+  "title": "Theoretical perspective on the glass transition and amorphous materials",
+  "abstract": "A theoretical perspective is provided on the glass transition in molecular liquids at thermal equilibrium, on the spatially heterogeneous and aging dynamics of disordered materials, and on the rheology of soft glassy materials. We start with a broad introduction to the field and emphasize its connections with other subjects and its relevance. The important role played by computer simulations in studying and understanding the dynamics of systems close to the glass transition at the molecular level is given. The recent progress on the subject of the spatially heterogeneous dynamics that characterizes structural relaxation in materials with slow dynamics is reviewed. The main theoretical approaches are presented describing the glass transition in supercooled liquids, focusing on theories that have a microscopic, statistical mechanics basis. We describe both successes and failures and critically assess the current status of each of these approaches. The physics of aging dynamics in disordered materials and the rheology of soft glassy materials are then discussed, and recent theoretical progress is described. For each section, an extensive overview is given of the most recent advances, but we also describe in some detail the important open problems that will occupy a central place in this field in the coming years.",
+  "authors": [
+    "Ludovic Berthier",
+    "Giulio Biroli"
+  ],
+  "year": 2011,
+  "doi": "10.1103/revmodphys.83.587",
+  "source": "openalex",
+  "categories": [
+    "Glass transition",
+    "Supercooling",
+    "Rheology",
+    "Perspective (graphical)",
+    "Statistical physics",
+    "Relaxation (psychology)",
+    "Physics",
+    "Field (mathematics)",
+    "Amorphous solid",
+    "Nanotechnology",
+    "Materials science",
+    "Computer science",
+    "Thermodynamics",
+    "Chemistry",
+    "Polymer",
+    "Psychology",
+    "Artificial intelligence",
+    "Mathematics",
+    "Nuclear magnetic resonance",
+    "Pure mathematics",
+    "Social psychology",
+    "Organic chemistry"
+  ],
+  "citation_count": 2170,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1011.2578",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2094132409.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:12.699387+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2094132409",
+    "concepts": [
+      "Glass transition",
+      "Supercooling",
+      "Rheology",
+      "Perspective (graphical)",
+      "Statistical physics"
+    ],
+    "oa_status": "green"
+  }
+}

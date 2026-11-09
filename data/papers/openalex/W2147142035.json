@@ -1,0 +1,45 @@
+{
+  "id": "openalex:W2147142035",
+  "title": "POTENTIAL, IMPEDANCE, AND RECTIFICATION IN MEMBRANES",
+  "abstract": "Impedance and potential measurements have been made on a number of artificial membranes. Impedance changes were determined as functions of current and of the composition of the environmental solutions. It was shown that rectification is present in asymmetrical systems and that it increases with the membrane potential. The behavior in pairs of solutions of the same salt at different concentrations has formed the basis for the studies although a few experiments with different salts at the same concentrations gave results consistent with the conclusions drawn. A theoretical picture has been presented based on the use of the general kinetic equations for ion motion under the influence of diffusion and electrical forces and on a consideration of possible membrane structures. The equations have been solved for two very simple cases; one based on the assumption of microscopic electroneutrality, and the other on the assumption of a constant electric field. The latter was found to give better results than the former in interpreting the data on potentials and rectification, showing agreement, however, of the right order of magnitude only. Although the indications are that a careful treatment of boundary conditions may result in better agreement with experiment, no attempt has been made to carry this through since the data now available are not sufficiently complete or reproducible. Applications of the second theoretical case to the squid giant axon have been made showing qualitative agreement with the rectification properties and very good agreement with the membrane potential data.",
+  "authors": [
+    "David E. Goldman"
+  ],
+  "year": 1943,
+  "doi": "10.1085/jgp.27.1.37",
+  "source": "openalex",
+  "categories": [
+    "Rectification",
+    "Squid giant axon",
+    "Electrical impedance",
+    "Membrane",
+    "Diffusion",
+    "Chemistry",
+    "Boundary value problem",
+    "Current (fluid)",
+    "Membrane potential",
+    "Mechanics",
+    "Chemical physics",
+    "Thermodynamics",
+    "Physics",
+    "Quantum mechanics",
+    "Power (physics)",
+    "Biochemistry"
+  ],
+  "citation_count": 2771,
+  "open_access_pdf_url": "https://rupress.org/jgp/article-pdf/27/1/37/1239495/37.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2147142035.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:01.952316+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2147142035",
+    "concepts": [
+      "Rectification",
+      "Squid giant axon",
+      "Electrical impedance",
+      "Membrane",
+      "Diffusion"
+    ],
+    "oa_status": "bronze"
+  }
+}

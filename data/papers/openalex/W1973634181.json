@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W1973634181",
+  "title": "Scaling Properties of Adsorption Energies for Hydrogen-Containing Molecules on Transition-Metal Surfaces",
+  "abstract": "Density functional theory calculations are presented for CHx, x=0,1,2,3, NHx, x=0,1,2, OHx, x=0,1, and SHx, x=0,1 adsorption on a range of close-packed and stepped transition-metal surfaces. We find that the adsorption energy of any of the molecules considered scales approximately with the adsorption energy of the central, C, N, O, or S atom, the scaling constant depending only on x. A model is proposed to understand this behavior. The scaling model is developed into a general framework for estimating the reaction energies for hydrogenation and dehydrogenation reactions.",
+  "authors": [
+    "Frank Abild‐Pedersen",
+    "Jeff Greeley",
+    "Felix Studt",
+    "Jan Rossmeisl",
+    "Ture R. Munter",
+    "Poul Georg Moses",
+    "Egill Skúlason",
+    "Thomas Bligaard",
+    "Jens K. Nørskov"
+  ],
+  "year": 2007,
+  "doi": "10.1103/physrevlett.99.016105",
+  "source": "openalex",
+  "categories": [
+    "Adsorption",
+    "Transition metal",
+    "Scaling",
+    "Molecule",
+    "Materials science",
+    "Chemical physics",
+    "Hydrogen",
+    "Metal",
+    "Hydrogen molecule",
+    "Physical chemistry",
+    "Chemistry",
+    "Organic chemistry",
+    "Metallurgy",
+    "Catalysis",
+    "Mathematics",
+    "Geometry"
+  ],
+  "citation_count": 1697,
+  "open_access_pdf_url": "http://link.aps.org/pdf/10.1103/PhysRevLett.99.016105",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1973634181.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:33.160758+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1973634181",
+    "concepts": [
+      "Adsorption",
+      "Transition metal",
+      "Scaling",
+      "Molecule",
+      "Materials science"
+    ],
+    "oa_status": "bronze"
+  }
+}

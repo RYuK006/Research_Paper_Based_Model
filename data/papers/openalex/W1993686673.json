@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W1993686673",
+  "title": "PD-1 alters T-cell metabolic reprogramming by inhibiting glycolysis and promoting lipolysis and fatty acid oxidation",
+  "abstract": "During activation, T cells undergo metabolic reprogramming, which imprints distinct functional fates. We determined that on PD-1 ligation, activated T cells are unable to engage in glycolysis or amino acid metabolism but have an increased rate of fatty acid β-oxidation (FAO). PD-1 promotes FAO of endogenous lipids by increasing expression of CPT1A, and inducing lipolysis as indicated by elevation of the lipase ATGL, the lipolysis marker glycerol and release of fatty acids. Conversely, CTLA-4 inhibits glycolysis without augmenting FAO, suggesting that CTLA-4 sustains the metabolic profile of non-activated cells. Because T cells utilize glycolysis during differentiation to effectors, our findings reveal a metabolic mechanism responsible for PD-1-mediated blockade of T-effector cell differentiation. The enhancement of FAO provides a mechanistic explanation for the longevity of T cells receiving PD-1 signals in patients with chronic infections and cancer, and for their capacity to be reinvigorated by PD-1 blockade.",
+  "authors": [
+    "Nikolaos Patsoukis",
+    "Kankana Bardhan",
+    "Pranam Chatterjee",
+    "Duygu Sari",
+    "Bianling Liu",
+    "Lauren Nicole Bell",
+    "Edward D. Karoly",
+    "Gordon James Freeman",
+    "Victoria Petkova",
+    "Pankaj Seth",
+    "Lequn Li",
+    "Vassiliki A. Boussiotis"
+  ],
+  "year": 2015,
+  "doi": "10.1038/ncomms7692",
+  "source": "openalex",
+  "categories": [
+    "Lipolysis",
+    "Glycolysis",
+    "Reprogramming",
+    "Beta oxidation",
+    "Chemistry",
+    "Fatty acid",
+    "Biochemistry",
+    "Metabolism",
+    "Cell biology",
+    "Fatty acid metabolism",
+    "Cell",
+    "Biology",
+    "Adipose tissue"
+  ],
+  "citation_count": 1249,
+  "open_access_pdf_url": "https://www.nature.com/articles/ncomms7692.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1993686673.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:02.713251+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1993686673",
+    "concepts": [
+      "Lipolysis",
+      "Glycolysis",
+      "Reprogramming",
+      "Beta oxidation",
+      "Chemistry"
+    ],
+    "oa_status": "gold"
+  }
+}

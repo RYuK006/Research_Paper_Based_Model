@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W1986580580",
+  "title": "Protein content and protein synthesis rates of planktonic marine bacteria",
+  "abstract": "Bacterial carbon production is an important parameter in understanding the flows of carbon and energy in aquatic ecosystems, but has been difficult to measure.Present methods are based on measuring the rate of cell production, and thus require a knowledge of cellular carbon content of the growing bacteria to convert cell production into carbon production.We have examined the possibility that protein synthesis rate of pelagic bacteria might serve as the basis for directly estimating bacterial carbon production.We measured bacterial protein content and protein production of pelagic bacteria.Bacterial protein content was measured as amino acids by high performance liquid chromatography of cell hydrolysates of bacterial assemblages of mean diameters from 0.026 to 0.4 km.Cellular protein:volume (w/v) in the largest bacteria was 15.2 '10 (similar to cultured Escherichia coli] but increased with decreasing cell size to 46.5 % in 0.026 pm bacteria.Protein per bacterium was correlated with cell volume by the power function y = 8 8 .~2 ~'(r2 = 0.67; p C 0.01; n = 25).An inventory of major bacterial macromolecular pools revealed that cell protein:dry weight and cell protein:carbon were essentially constant (63 % and 54 %. respectively) for the entire cell size range although cell protein:volume increased with decreasing cell size.Thus, the smaller cells in the size range were rich in carbon and dry weight and poor in water compared with larger cells.We established the experimental conditions for estimating protein synthesis on the basis of 3H leucine incorporation by bacteria, and determined the necessary parameters (including the intracellular isotope dilution by HPLC) for converting 3~ leucine incorporation into protein synthesis rate.In samples from Scripps Institution of Oceanography pier the intracellular isotope dilution was only 2-fold.In a field study in Southern California Bight bacterial protein production and %I-thymidine incorporation methods yielded comparable rates of bacterial production.Bacterial protein production method was an order of magnitude more sensitive and yielded bacterial carbon production directly without the need to know the cell size of the part of the assemblage in growth state.",
+  "authors": [
+    "Meinhard Simon",
+    "Farooq Azam"
+  ],
+  "year": 1989,
+  "doi": "10.3354/meps051201",
+  "source": "openalex",
+  "categories": [
+    "Bacteria",
+    "Hydrolysate",
+    "Escherichia coli",
+    "Pelagic zone",
+    "Dry weight",
+    "Bacterial cell structure",
+    "Biology",
+    "Protein biosynthesis",
+    "Marine bacteriophage",
+    "Carbon fibers",
+    "Food science",
+    "Biochemistry",
+    "Chemistry",
+    "Ecology",
+    "Botany",
+    "Hydrolysis",
+    "Composite material",
+    "Composite number",
+    "Materials science",
+    "Genetics",
+    "Gene"
+  ],
+  "citation_count": 1800,
+  "open_access_pdf_url": "https://doi.org/10.3354/meps051201",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1986580580.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:25.992584+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1986580580",
+    "concepts": [
+      "Bacteria",
+      "Hydrolysate",
+      "Escherichia coli",
+      "Pelagic zone",
+      "Dry weight"
+    ],
+    "oa_status": "bronze"
+  }
+}

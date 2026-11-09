@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2135684970",
+  "title": "Organic osmolytes as compatible, metabolic and counteracting cytoprotectants in high osmolarity and other stresses",
+  "abstract": "Organic osmolytes are small solutes used by cells of numerous water-stressed organisms and tissues to maintain cell volume. Similar compounds are accumulated by some organisms in anhydrobiotic, thermal and possibly pressure stresses. These solutes are amino acids and derivatives, polyols and sugars, methylamines, methylsulfonium compounds and urea. Except for urea, they are often called ;compatible solutes', a term indicating lack of perturbing effects on cellular macromolecules and implying interchangeability. However, these features may not always exist, for three reasons. First, some of these solutes may have unique protective metabolic roles, such as acting as antioxidants (e.g. polyols, taurine, hypotaurine), providing redox balance (e.g. glycerol) and detoxifying sulfide (hypotaurine in animals at hydrothermal vents and seeps). Second, some of these solutes stabilize macromolecules and counteract perturbants in non-interchangeable ways. Methylamines [e.g. trimethylamine N-oxide (TMAO)] can enhance protein folding and ligand binding and counteract perturbations by urea (e.g. in elasmobranchs and mammalian kidney), inorganic ions, and hydrostatic pressure in deep-sea animals. Trehalose and proline in overwintering insects stabilize membranes at subzero temperatures. Trehalose in insects and yeast, and anionic polyols in microorganisms around hydrothermal vents, can protect proteins from denaturation by high temperatures. Third, stabilizing solutes appear to be used in nature only to counteract perturbants of macromolecules, perhaps because stabilization is detrimental in the absence of perturbation. Some of these solutes have applications in biotechnology, agriculture and medicine, including in vitro rescue of the misfolded protein of cystic fibrosis. However, caution is warranted if high levels cause overstabilization of proteins.",
+  "authors": [
+    "Paul H. Yancey"
+  ],
+  "year": 2005,
+  "doi": "10.1242/jeb.01730",
+  "source": "openalex",
+  "categories": [
+    "Osmolyte",
+    "Osmoprotectant",
+    "Biochemistry",
+    "Trehalose",
+    "Hypotaurine",
+    "Osmoregulation",
+    "Ectoine",
+    "Taurine",
+    "Chemistry",
+    "Macromolecule",
+    "Biophysics",
+    "Hydrostatic pressure",
+    "Urea",
+    "Chaotropic agent",
+    "Biology",
+    "Amino acid",
+    "Proline",
+    "Ecology",
+    "Salinity",
+    "Physics",
+    "Thermodynamics"
+  ],
+  "citation_count": 1898,
+  "open_access_pdf_url": "https://journals.biologists.com/jeb/article-pdf/208/15/2819/1253529/2819.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2135684970.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:22.153794+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2135684970",
+    "concepts": [
+      "Osmolyte",
+      "Osmoprotectant",
+      "Biochemistry",
+      "Trehalose",
+      "Hypotaurine"
+    ],
+    "oa_status": "bronze"
+  }
+}

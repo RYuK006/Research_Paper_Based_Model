@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W2057104805",
+  "title": "Electrochemical Biosensors - Sensor Principles and Architectures",
+  "abstract": "Quantification of biological or biochemical processes are of utmost importance for medical, biological and biotechnological applications. However, converting the biological information to an easily processed electronic signal is challenging due to the complexity of connecting an electronic device directly to a biological environment. Electrochemical biosensors provide an attractive means to analyze the content of a biological sample due to the direct conversion of a biological event to an electronic signal. Over the past decades several sensing concepts and related devices have been developed. In this review, the most common traditional techniques, such as cyclic voltammetry, chronoamperometry, chronopotentiometry, impedance spectroscopy, and various field-effect transistor based methods are presented along with selected promising novel approaches, such as nanowire or magnetic nanoparticle-based biosensing. Additional measurement techniques, which have been shown useful in combination with electrochemical detection, are also summarized, such as the electrochemical versions of surface plasmon resonance, optical waveguide lightmode spectroscopy, ellipsometry, quartz crystal microbalance, and scanning probe microscopy. The signal transduction and the general performance of electrochemical sensors are often determined by the surface architectures that connect the sensing element to the biological sample at the nanometer scale. The most common surface modification techniques, the various electrochemical transduction mechanisms, and the choice of the recognition receptor molecules all influence the ultimate sensitivity of the sensor. New nanotechnology-based approaches, such as the use of engineered ion-channels in lipid bilayers, the encapsulation of enzymes into vesicles, polymersomes, or polyelectrolyte capsules provide additional possibilities for signal amplification. In particular, this review highlights the importance of the precise control over the delicate interplay between surface nano-architectures, surface functionalization and the chosen sensor transducer principle, as well as the usefulness of complementary characterization tools to interpret and to optimize the sensor response.",
+  "authors": [
+    "Dorothee Grieshaber",
+    "Robert MacKenzie",
+    "János Vörös",
+    "Erik Reimhult"
+  ],
+  "year": 2008,
+  "doi": "10.3390/s80314000",
+  "source": "openalex",
+  "categories": [
+    "Biosensor",
+    "Nanotechnology",
+    "Quartz crystal microbalance",
+    "Materials science",
+    "Dielectric spectroscopy",
+    "Cyclic voltammetry",
+    "Surface modification",
+    "Chronoamperometry",
+    "Chemistry",
+    "Electrode",
+    "Electrochemistry",
+    "Organic chemistry",
+    "Physical chemistry",
+    "Adsorption"
+  ],
+  "citation_count": 2674,
+  "open_access_pdf_url": "https://doi.org/10.3390/s80314000",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2057104805.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:04.189379+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2057104805",
+    "concepts": [
+      "Biosensor",
+      "Nanotechnology",
+      "Quartz crystal microbalance",
+      "Materials science",
+      "Dielectric spectroscopy"
+    ],
+    "oa_status": "gold"
+  }
+}

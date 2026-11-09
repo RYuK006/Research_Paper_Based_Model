@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2739174192",
+  "title": "Lanthanum Chloride Inhibits LPS Mediated Expressions of Pro-Inflammatory Cytokines and Adhesion Molecules in HUVECs: Involvement of NF-κB-Jmjd3 Signaling",
+  "abstract": "BACKGROUND/AIMS: To investigate the regulation of LaCl3 on lipopolysaccharides (LPS)-induced pro-inflammatory cytokines and adhesion molecules in human umbilical vein endothelial cells (HUVECs). METHODS: Primary cultured HUVECs were pretreated with 2.5 µM LaCl3 for 30 min followed by 1 µg/ml LPS for 2 h. Pro-inflammatory cytokine and adhesion molecule expressions were determined by real-time RT-PCR and ELISA. NF-κB/p65 nuclear translocation was examined by immunofluorescence and immuno-blot, and its DNA-binding activity was measured by chemiluminescence. Recruitment of NF-κB/p65, Jmjd3, and H3K27me3 to gene promoter regions was determined by ChIP-qPCR. RESULTS: LaCl3 exhibited no cytotoxic effects to primary HUVECs at concentrations ≤ 50 µM. LPS-mediated TNF-α, IL-1β, IL-6, MMP-9, and ICAM-1 production, nuclear translocation, and DNA-binding activity of NF-κB/p65, as well as Jmjd3 expression, were all reduced significantly by LaCl3. Furthermore, LaCl3 treatment significantly impaired LPS-induced enrichment of NF-κB/p65 to the promoter regions of TNF-α, MMP-9, IL-1β, ICAM-1, and IL-6; and of Jmjd3 to the promoter regions of TNF-α, MMP-9, IL-1β, and IL-6. H3K27me3 abundance in the promoter regions of TNF-α and ICAM-1 increased significantly in following LaCl3 treatment. CONCLUSION: LaCl3 inhibits pro-inflammatory cytokine and adhesion molecule expressions induced by LPS in HUVECs. NF-κB and histone demethylase Jmjd3 are involved in this effect.",
+  "authors": [
+    "Xia Chen",
+    "Min Xiu",
+    "Juanjuan Xing",
+    "Shaoqing Yu",
+    "Dinghong Min",
+    "Fei Guo"
+  ],
+  "year": 2017,
+  "doi": "10.1159/000479439",
+  "source": "openalex",
+  "categories": [
+    "Umbilical vein",
+    "Cell adhesion molecule",
+    "Chemistry",
+    "Molecular biology",
+    "Cytokine",
+    "NF-κB",
+    "Proinflammatory cytokine",
+    "Tumor necrosis factor alpha",
+    "Western blot",
+    "Lipopolysaccharide",
+    "Chromosomal translocation",
+    "Pyrrolidine dithiocarbamate",
+    "Inflammation",
+    "Signal transduction",
+    "Biology",
+    "Cell biology",
+    "Biochemistry",
+    "In vitro",
+    "Immunology",
+    "Gene"
+  ],
+  "citation_count": 5760,
+  "open_access_pdf_url": "https://www.karger.com/Article/Pdf/479439",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2739174192.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:52.179989+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2739174192",
+    "concepts": [
+      "Umbilical vein",
+      "Cell adhesion molecule",
+      "Chemistry",
+      "Molecular biology",
+      "Cytokine"
+    ],
+    "oa_status": "gold"
+  }
+}

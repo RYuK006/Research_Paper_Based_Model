@@ -1,0 +1,57 @@
+{
+  "id": "openalex:W2084838123",
+  "title": "Fundamental obstacle for electrical spin injection from a ferromagnetic metal into a diffusive semiconductor",
+  "abstract": "We have calculated the spin-polarization effects of a current in a two-dimensional electron gas which is contacted by two ferromagnetic metals. In the purely diffusive regime, the current may indeed be spin-polarized. However, for a typical device geometry the degree of spin-polarization of the current is limited to less than 0.1% only. The change in device resistance for parallel and antiparallel magnetization of the contacts is up to quadratically smaller, and will thus be difficult to detect.",
+  "authors": [
+    "Georg Schmidt",
+    "D. Ferrand",
+    "Laurens W. Molenkamp",
+    "A. T. Filip",
+    "Bart Jan van Wees"
+  ],
+  "year": 2000,
+  "doi": "10.1103/physrevb.62.r4790",
+  "source": "openalex",
+  "categories": [
+    "Condensed matter physics",
+    "Ferromagnetism",
+    "Spin polarization",
+    "Antiparallel (mathematics)",
+    "Magnetization",
+    "Materials science",
+    "Polarization (electrochemistry)",
+    "Semiconductor",
+    "Spin (aerodynamics)",
+    "Electrical current",
+    "Current (fluid)",
+    "Electrical resistance and conductance",
+    "Magnetic semiconductor",
+    "Electron",
+    "Physics",
+    "Magnetic field",
+    "Chemistry",
+    "Optoelectronics",
+    "Electrical engineering",
+    "Quantum mechanics",
+    "Engineering",
+    "Composite material",
+    "Physical chemistry",
+    "Thermodynamics"
+  ],
+  "citation_count": 2015,
+  "open_access_pdf_url": "http://link.aps.org/pdf/10.1103/PhysRevB.62.R4790",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2084838123.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:15.643824+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2084838123",
+    "concepts": [
+      "Condensed matter physics",
+      "Ferromagnetism",
+      "Spin polarization",
+      "Antiparallel (mathematics)",
+      "Magnetization"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W4321167021",
+  "title": "Hypoxic microenvironment in cancer: molecular mechanisms and therapeutic interventions",
+  "abstract": "Having a hypoxic microenvironment is a common and salient feature of most solid tumors. Hypoxia has a profound effect on the biological behavior and malignant phenotype of cancer cells, mediates the effects of cancer chemotherapy, radiotherapy, and immunotherapy through complex mechanisms, and is closely associated with poor prognosis in various cancer patients. Accumulating studies have demonstrated that through normalization of the tumor vasculature, nanoparticle carriers and biocarriers can effectively increase the oxygen concentration in the tumor microenvironment, improve drug delivery and the efficacy of radiotherapy. They also increase infiltration of innate and adaptive anti-tumor immune cells to enhance the efficacy of immunotherapy. Furthermore, drugs targeting key genes associated with hypoxia, including hypoxia tracers, hypoxia-activated prodrugs, and drugs targeting hypoxia-inducible factors and downstream targets, can be used for visualization and quantitative analysis of tumor hypoxia and antitumor activity. However, the relationship between hypoxia and cancer is an area of research that requires further exploration. Here, we investigated the potential factors in the development of hypoxia in cancer, changes in signaling pathways that occur in cancer cells to adapt to hypoxic environments, the mechanisms of hypoxia-induced cancer immune tolerance, chemotherapeutic tolerance, and enhanced radiation tolerance, as well as the insights and applications of hypoxia in cancer therapy.",
+  "authors": [
+    "Zhou Chen",
+    "Fangfang Han",
+    "Yan Du",
+    "Huaqing Shi",
+    "Wence Zhou"
+  ],
+  "year": 2023,
+  "doi": "10.1038/s41392-023-01332-8",
+  "source": "openalex",
+  "categories": [
+    "Hypoxia (environmental)",
+    "Tumor microenvironment",
+    "Tumor hypoxia",
+    "Cancer cell",
+    "Cancer research",
+    "Radiation therapy",
+    "Immune system",
+    "Immunotherapy",
+    "Cancer immunotherapy",
+    "Cancer",
+    "Medicine",
+    "Biology",
+    "Immunology",
+    "Chemistry",
+    "Internal medicine",
+    "Organic chemistry",
+    "Oxygen"
+  ],
+  "citation_count": 1725,
+  "open_access_pdf_url": "https://www.nature.com/articles/s41392-023-01332-8.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W4321167021.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:33.052437+00:00",
+  "raw_metadata": {
+    "openalex_id": "W4321167021",
+    "concepts": [
+      "Hypoxia (environmental)",
+      "Tumor microenvironment",
+      "Tumor hypoxia",
+      "Cancer cell",
+      "Cancer research"
+    ],
+    "oa_status": "gold"
+  }
+}

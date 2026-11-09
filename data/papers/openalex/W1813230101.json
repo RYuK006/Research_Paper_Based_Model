@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W1813230101",
+  "title": "The cellular production of hydrogen peroxide",
+  "abstract": "1. The enzyme-substrate complex of yeast cytochrome c peroxidase is used as a sensitive, specific and accurate spectrophotometric H(2)O(2) indicator. 2. The cytochrome c peroxidase assay is suitable for use with subcellular fractions from tissue homogenates as well as with pure enzyme systems to measure H(2)O(2) generation. 3. Mitochondrial substrates entering the respiratory chain on the substrate side of the antimycin A-sensitive site support the mitochondrial generation of H(2)O(2). Succinate, the most effective substrate, yields H(2)O(2) at a rate of 0.5nmol/min per mg of protein in state 4. H(2)O(2) generation is decreased in the state 4-->state 3 transition. 4. In the combined mitochondrial-peroxisomal fraction of rat liver the changes in the mitochondrial generation of H(2)O(2) modulated by substrate, ADP and antimycin A are followed by parallel changes in the saturation of the intraperoxisomal catalase intermediate. 5. Peroxisomes supplemented with uric acid generate extraperoxisomal H(2)O(2) at a rate (8.6-16.4nmol/min per mg of protein) that corresponds to 42-61% of the rate of uric acid oxidation. Addition of azide increases these H(2)O(2) rates by a factor of 1.4-1.7. 6. The concentration of cytosolic uric acid is shown to vary during the isolation of the cellular fractions. 7. Microsomal fractions produce H(2)O(2) (up to 1.7nmol/min per mg of protein) at a ratio of 0.71-0.86mol of H(2)O(2)/mol of NADP(+) during the oxidation of NADPH. H(2)O(2) is also generated (6-25%) during the microsomal oxidation of NADH (0.06-0.025mol of H(2)O(2)/mol of NAD(+)). 8. Estimation of the rates of production of H(2)O(2) under physiological conditions can be made on the basis of the rates with the isolated fractions. The tentative value of 90nmol of H(2)O(2)/min per g of liver at 22 degrees C serves as a crude approximation to evaluate the biochemical impact of H(2)O(2) on cellular metabolism.",
+  "authors": [
+    "Alberto Boveris",
+    "Nozomu Oshino",
+    "Britton Chance"
+  ],
+  "year": 1972,
+  "doi": "10.1042/bj1280617",
+  "source": "openalex",
+  "categories": [
+    "Peroxisome",
+    "Substrate (aquarium)",
+    "Biochemistry",
+    "Chemistry",
+    "Uric acid",
+    "Catalase",
+    "Hydrogen peroxide",
+    "Antimycin A",
+    "Enzyme",
+    "Peroxidase",
+    "Mitochondrion",
+    "Respiratory chain",
+    "Chromatography",
+    "Biology",
+    "Gene",
+    "Ecology"
+  ],
+  "citation_count": 1582,
+  "open_access_pdf_url": "https://portlandpress.com/biochemj/article-pdf/128/3/617/777331/bj1280617.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1813230101.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:41.945502+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1813230101",
+    "concepts": [
+      "Peroxisome",
+      "Substrate (aquarium)",
+      "Biochemistry",
+      "Chemistry",
+      "Uric acid"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W2136215272",
+  "title": "Econometrics of Testing for Jumps in Financial Economics Using Bipower Variation",
+  "abstract": "In this article we provide an asymptotic distribution theory for some nonparametric tests of the hypothesis that asset prices have continuous sample paths. We study the behaviour of the tests using simulated data and see that certain versions of the tests have good finite sample behavior. We also apply the tests to exchange rate data and show that the null of a continuous sample path is frequently rejected. Most of the jumps the statistics identify are associated with governmental macroeconomic announcements.",
+  "authors": [
+    "Ole Eiler Barndorff-Nielsen"
+  ],
+  "year": 2005,
+  "doi": "10.1093/jjfinec/nbi022",
+  "source": "openalex",
+  "categories": [
+    "Null hypothesis",
+    "Nonparametric statistics",
+    "Econometrics",
+    "Sample (material)",
+    "Null (SQL)",
+    "Economics",
+    "Statistical hypothesis testing",
+    "Asset (computer security)",
+    "Distribution (mathematics)",
+    "Statistics",
+    "Mathematics",
+    "Computer science",
+    "Chemistry",
+    "Database",
+    "Chromatography",
+    "Computer security",
+    "Mathematical analysis"
+  ],
+  "citation_count": 1309,
+  "open_access_pdf_url": "http://www.nuff.ox.ac.uk/economics/papers/2003/W21/split.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2136215272.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:57.754258+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2136215272",
+    "concepts": [
+      "Null hypothesis",
+      "Nonparametric statistics",
+      "Econometrics",
+      "Sample (material)",
+      "Null (SQL)"
+    ],
+    "oa_status": "green"
+  }
+}

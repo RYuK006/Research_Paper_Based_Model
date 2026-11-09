@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W3085189088",
+  "title": "Unique S-scheme heterojunctions in self-assembled TiO2/CsPbBr3 hybrids for CO2 photoreduction",
+  "abstract": "Abstract Exploring photocatalysts to promote CO2 photoreduction into solar fuels is of great significance. We develop TiO2/perovskite (CsPbBr3) S-scheme heterojunctions synthesized by a facile electrostatic-driven self-assembling approach. Density functional theory calculation combined with experimental studies proves the electron transfer from CsPbBr3 quantum dots (QDs) to TiO2, resulting in the construction of internal electric field (IEF) directing from CsPbBr3 to TiO2 upon hybridization. The IEF drives the photoexcited electrons in TiO2 to CsPbBr3 upon light irradiation as revealed by in-situ X-ray photoelectron spectroscopy analysis, suggesting the formation of an S-scheme heterojunction in the TiO2/CsPbBr3 nanohybrids which greatly promotes the separation of electron-hole pairs to foster efficient CO2 photoreduction. The hybrid nanofibers unveil a higher CO2-reduction rate (9.02 μmol g–1 h–1) comparing with pristine TiO2 nanofibers (4.68 μmol g–1 h–1). Isotope (13CO2) tracer results confirm that the reduction products originate from CO2 source.",
+  "authors": [
+    "Feiyan Xu",
+    "Kai Meng",
+    "Cheng Bei",
+    "Shengyao Wang",
+    "Jingsan Xu",
+    "Jiaguo Yu"
+  ],
+  "year": 2020,
+  "doi": "10.1038/s41467-020-18350-7",
+  "source": "openalex",
+  "categories": [
+    "Heterojunction",
+    "Perovskite (structure)",
+    "X-ray photoelectron spectroscopy",
+    "Materials science",
+    "Photocatalysis",
+    "Electron transfer",
+    "Quantum dot",
+    "Electron",
+    "Density functional theory",
+    "Solar fuel",
+    "Nanofiber",
+    "Photochemistry",
+    "Nanotechnology",
+    "Optoelectronics",
+    "Chemical engineering",
+    "Chemistry",
+    "Physics",
+    "Catalysis",
+    "Organic chemistry",
+    "Computational chemistry",
+    "Engineering",
+    "Quantum mechanics"
+  ],
+  "citation_count": 1466,
+  "open_access_pdf_url": "https://www.nature.com/articles/s41467-020-18350-7.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3085189088.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:48.192517+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3085189088",
+    "concepts": [
+      "Heterojunction",
+      "Perovskite (structure)",
+      "X-ray photoelectron spectroscopy",
+      "Materials science",
+      "Photocatalysis"
+    ],
+    "oa_status": "gold"
+  }
+}

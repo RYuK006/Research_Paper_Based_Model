@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W4205765055",
+  "title": "Management of validation of HPLC method for determination of acetylsalicylic acid impurities in a new pharmaceutical product",
+  "abstract": "Abstract The work mainly focused on a validation of the method for determining the content of salicylic acid and individual unknown impurities in new pharmaceutical product—tablets containing: 75, 100 or 150 mg of acetylsalicylic acid and glycine in the amount of 40 mg for each dosage. The separation of the components was carried out by means of HPLC, using a Waters Symmetry C18 column (4.6 × 250 mm, 5 μm) as the stationary phase. The mobile phase consisted of a mixture of 85% orthophosphoric acid, acetonitrile and purified water (2:400:600 V/V/V). Detection was carried out at a wavelength of 237 nm, with a constant flow rate of 1.0 ml min −1 . In order to verify the method, linearity, precision (repeatability and reproducibility), accuracy, specificity, range, robustness, system precision, stability of the test and standard solution, limit of quantification and forced degradation were determined. Validation tests were performed in accordance with ICH (International Conference on Harmonisation of Technical Requirements for Registration of Pharmaceuticals for Human Use) guidelines. The method was validated successfully. It was confirmed that the method in a tested range of 0.005–0.40% salicylic acid with respect to acetylsalicylic acid content is linear, precise and accurate.",
+  "authors": [
+    "Malgorzata Katarzyna Kowalska",
+    "Magdalena Woźniak",
+    "M.M. Kijek",
+    "Paulina Mitrosz",
+    "Jerzy Szakiel",
+    "Paweł Turek"
+  ],
+  "year": 2022,
+  "doi": "10.1038/s41598-021-99269-x",
+  "source": "openalex",
+  "categories": [
+    "Repeatability",
+    "Chromatography",
+    "Salicylic acid",
+    "Reproducibility",
+    "High-performance liquid chromatography",
+    "Impurity",
+    "Detection limit",
+    "Acetonitrile",
+    "Chemistry",
+    "Linearity",
+    "Pharmaceutical formulation",
+    "Quantum mechanics",
+    "Organic chemistry",
+    "Biochemistry",
+    "Physics"
+  ],
+  "citation_count": 2135,
+  "open_access_pdf_url": "https://www.nature.com/articles/s41598-021-99269-x.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W4205765055.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:12.763696+00:00",
+  "raw_metadata": {
+    "openalex_id": "W4205765055",
+    "concepts": [
+      "Repeatability",
+      "Chromatography",
+      "Salicylic acid",
+      "Reproducibility",
+      "High-performance liquid chromatography"
+    ],
+    "oa_status": "gold"
+  }
+}

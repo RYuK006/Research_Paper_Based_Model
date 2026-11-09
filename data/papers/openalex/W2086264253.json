@@ -1,0 +1,40 @@
+{
+  "id": "openalex:W2086264253",
+  "title": "STAT3 Regulates Cytokine-mediated Generation of Inflammatory Helper T Cells",
+  "abstract": "Interleukin-17 (IL-17)-producing helper T (TH) cells, named as TH(IL-17), TH17, or inflammatory TH (THi), have been recently identified as a novel effector lineage. However, how cytokine signals mediate THi differentiation is unclear. We found that IL-6 functioned to up-regulate IL-23R and that IL-23 synergized with IL-6 in promoting THi generation. STAT3, activated by both IL-6 and IL-23, plays a critical role in THi development. A hyperactive form of STAT3 promoted THi development, whereas this differentiation process was greatly impaired in STAT3-deficient T cells. Moreover, STAT3 regulated the expression of retinoic acid receptor-related orphan receptor gamma-T (RORgamma t), a THi-specific transcriptional regulator; STAT3 deficiency impaired RORgamma t expression and led to elevated expression of T-box expressed in T cells (T-bet) and Forkhead box P3 (Foxp3). Our data thus demonstrate a pathway whereby cytokines regulate THi differentiation through a selective STAT transcription factor that functions to regulate lineage-specific gene expression.",
+  "authors": [
+    "Xuexian O. Yang",
+    "Athanasia D. Panopoulos",
+    "Roza Nurieva",
+    "Seon Hee Chang",
+    "Demin Wang",
+    "Stephanie S. Watowich",
+    "Chen Dong"
+  ],
+  "year": 2007,
+  "doi": "10.1074/jbc.c600321200",
+  "source": "openalex",
+  "categories": [
+    "Cytokine",
+    "Cell biology",
+    "Immunology",
+    "Biology",
+    "Chemistry"
+  ],
+  "citation_count": 1525,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925819335884/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2086264253.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:45.452020+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2086264253",
+    "concepts": [
+      "Cytokine",
+      "Cell biology",
+      "Immunology",
+      "Biology",
+      "Chemistry"
+    ],
+    "oa_status": "hybrid"
+  }
+}

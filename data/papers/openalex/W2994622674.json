@@ -1,0 +1,63 @@
+{
+  "id": "openalex:W2994622674",
+  "title": "Constructive molecular configurations for surface-defect passivation of perovskite photovoltaics",
+  "abstract": "Surface trap-mediated nonradiative charge recombination is a major limit to achieving high-efficiency metal-halide perovskite photovoltaics. The ionic character of perovskite lattice has enabled molecular defect passivation approaches through interaction between functional groups and defects. However, a lack of in-depth understanding of how the molecular configuration influences the passivation effectiveness is a challenge to rational molecule design. Here, the chemical environment of a functional group that is activated for defect passivation was systematically investigated with theophylline, caffeine, and theobromine. When N-H and C=O were in an optimal configuration in the molecule, hydrogen-bond formation between N-H and I (iodine) assisted the primary C=O binding with the antisite Pb (lead) defect to maximize surface-defect binding. A stabilized power conversion efficiency of 22.6% of photovoltaic device was demonstrated with theophylline treatment.",
+  "authors": [
+    "Rui Wang",
+    "Jingjing Xue",
+    "Kai‐Li Wang",
+    "Zhao‐Kui Wang",
+    "Yanqi Luo",
+    "David P. Fenning",
+    "Guangwei Xu",
+    "Selbi Nuryyeva",
+    "Tianyi Huang",
+    "Yepin Zhao",
+    "Jonathan Lee Yang",
+    "Jiahui Zhu",
+    "Minhuan Wang",
+    "Shaun Tan",
+    "İlhan Yavuz",
+    "Kendall N. Houk",
+    "Yang Yang"
+  ],
+  "year": 2019,
+  "doi": "10.1126/science.aay9698",
+  "source": "openalex",
+  "categories": [
+    "Passivation",
+    "Photovoltaics",
+    "Perovskite (structure)",
+    "Materials science",
+    "Molecule",
+    "Ionic bonding",
+    "Halide",
+    "Chemical physics",
+    "Photovoltaic system",
+    "Inorganic chemistry",
+    "Chemistry",
+    "Nanotechnology",
+    "Ion",
+    "Crystallography",
+    "Organic chemistry",
+    "Layer (electronics)",
+    "Biology",
+    "Ecology"
+  ],
+  "citation_count": 1345,
+  "open_access_pdf_url": "https://www.osti.gov/servlets/purl/1574274",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2994622674.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:55.239955+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2994622674",
+    "concepts": [
+      "Passivation",
+      "Photovoltaics",
+      "Perovskite (structure)",
+      "Materials science",
+      "Molecule"
+    ],
+    "oa_status": "green"
+  }
+}

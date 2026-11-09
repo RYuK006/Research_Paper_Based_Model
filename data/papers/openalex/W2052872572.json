@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2052872572",
+  "title": "Negative Thermal Expansion Coefficient of Graphene Measured by Raman Spectroscopy",
+  "abstract": "The thermal expansion coefficient (TEC) of single-layer graphene is estimated with temperature-dependent Raman spectroscopy in the temperature range between 200 and 400 K. It is found to be strongly dependent on temperature but remains negative in the whole temperature range with a room temperature value of (-8.0 ± 0.7) × 10(-6) K(-1). The strain caused by the TEC mismatch between graphene and the substrate plays a crucial role in determining the physical properties of graphene, and hence its effect must be accounted for in the interpretation of experimental data taken at cryogenic or elevated temperatures.",
+  "authors": [
+    "Duhee Yoon",
+    "Young‐Woo Son",
+    "Hyeonsik Cheong"
+  ],
+  "year": 2011,
+  "doi": "10.1021/nl201488g",
+  "source": "openalex",
+  "categories": [
+    "Graphene",
+    "Thermal expansion",
+    "Raman spectroscopy",
+    "TEC",
+    "Materials science",
+    "Atmospheric temperature range",
+    "Negative thermal expansion",
+    "Analytical Chemistry (journal)",
+    "Substrate (aquarium)",
+    "Nanotechnology",
+    "Thermodynamics",
+    "Chemistry",
+    "Composite material",
+    "Optics",
+    "Physics",
+    "Chromatography",
+    "Astronomy",
+    "Ionosphere",
+    "Geology",
+    "Oceanography"
+  ],
+  "citation_count": 1097,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1107.2469",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2052872572.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:24.278602+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2052872572",
+    "concepts": [
+      "Graphene",
+      "Thermal expansion",
+      "Raman spectroscopy",
+      "TEC",
+      "Materials science"
+    ],
+    "oa_status": "green"
+  }
+}

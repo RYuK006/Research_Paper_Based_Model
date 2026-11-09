@@ -1,0 +1,58 @@
+{
+  "id": "openalex:W2161520320",
+  "title": "Making Meaningful Inferences About Magnitudes",
+  "abstract": "A study of a sample provides only an estimate of the true (population) value of an outcome statistic. A report of the study therefore usually includes an inference about the true value. Traditionally, a researcher makes an inference by declaring the value of the statistic statistically significant or nonsignificant on the basis of a P value derived from a null-hypothesis test. This approach is confusing and can be misleading, depending on the magnitude of the statistic, error of measurement, and sample size. The authors use a more intuitive and practical approach based directly on uncertainty in the true value of the statistic. First they express the uncertainty as confidence limits, which define the likely range of the true value. They then deal with the real-world relevance of this uncertainty by taking into account values of the statistic that are substantial in some positive and negative sense, such as beneficial or harmful. If the likely range overlaps substantially positive and negative values, they infer that the outcome is unclear; otherwise, they infer that the true value has the magnitude of the observed value: substantially positive, trivial, or substantially negative. They refine this crude inference by stating qualitatively the likelihood that the true value will have the observed magnitude (eg, very likely beneficial). Quantitative or qualitative probabilities that the true value has the other 2 magnitudes or more finely graded magnitudes (such as trivial, small, moderate, and large) can also be estimated to guide a decision about the utility of the outcome.",
+  "authors": [
+    "Alan M. Batterham",
+    "Will G. Hopkins"
+  ],
+  "year": 2006,
+  "doi": "10.1123/ijspp.1.1.50",
+  "source": "openalex",
+  "categories": [
+    "Statistic",
+    "Inference",
+    "Statistics",
+    "Null hypothesis",
+    "Value (mathematics)",
+    "Econometrics",
+    "Outcome (game theory)",
+    "Test statistic",
+    "Magnitude (astronomy)",
+    "Range (aeronautics)",
+    "Sample size determination",
+    "Statistical inference",
+    "Sample (material)",
+    "p-value",
+    "Population",
+    "Statistical hypothesis testing",
+    "Mathematics",
+    "Computer science",
+    "Artificial intelligence",
+    "Demography",
+    "Mathematical economics",
+    "Sociology",
+    "Astronomy",
+    "Chromatography",
+    "Physics",
+    "Chemistry",
+    "Materials science",
+    "Composite material"
+  ],
+  "citation_count": 2237,
+  "open_access_pdf_url": "https://journals.humankinetics.com/downloadpdf/journals/ijspp/1/1/article-p50.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2161520320.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:12.593947+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2161520320",
+    "concepts": [
+      "Statistic",
+      "Inference",
+      "Statistics",
+      "Null hypothesis",
+      "Value (mathematics)"
+    ],
+    "oa_status": "bronze"
+  }
+}

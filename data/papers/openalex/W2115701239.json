@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2115701239",
+  "title": "Evaluation of general 16S ribosomal RNA gene PCR primers for classical and next-generation sequencing-based diversity studies",
+  "abstract": "16S ribosomal RNA gene (rDNA) amplicon analysis remains the standard approach for the cultivation-independent investigation of microbial diversity. The accuracy of these analyses depends strongly on the choice of primers. The overall coverage and phylum spectrum of 175 primers and 512 primer pairs were evaluated in silico with respect to the SILVA 16S/18S rDNA non-redundant reference dataset (SSURef 108 NR). Based on this evaluation a selection of 'best available' primer pairs for Bacteria and Archaea for three amplicon size classes (100-400, 400-1000, ≥ 1000 bp) is provided. The most promising bacterial primer pair (S-D-Bact-0341-b-S-17/S-D-Bact-0785-a-A-21), with an amplicon size of 464 bp, was experimentally evaluated by comparing the taxonomic distribution of the 16S rDNA amplicons with 16S rDNA fragments from directly sequenced metagenomes. The results of this study may be used as a guideline for selecting primer pairs with the best overall coverage and phylum spectrum for specific applications, therefore reducing the bias in PCR-based microbial diversity studies.",
+  "authors": [
+    "Anna Klindworth",
+    "Elmar Pruesse",
+    "Timmy Schweer",
+    "Jörg Peplies",
+    "Christian Quast",
+    "Matthias Horn",
+    "Frank Oliver Glöckner"
+  ],
+  "year": 2012,
+  "doi": "10.1093/nar/gks808",
+  "source": "openalex",
+  "categories": [
+    "Biology",
+    "Amplicon",
+    "16S ribosomal RNA",
+    "Primer (cosmetics)",
+    "Genetics",
+    "Ribosomal RNA",
+    "In silico",
+    "Ribosomal DNA",
+    "Polymerase chain reaction",
+    "Gene",
+    "Computational biology",
+    "Phylogenetics",
+    "Chemistry",
+    "Organic chemistry"
+  ],
+  "citation_count": 9124,
+  "open_access_pdf_url": "https://academic.oup.com/nar/article-pdf/41/1/e1/25349171/gks808.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2115701239.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:49.885602+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2115701239",
+    "concepts": [
+      "Biology",
+      "Amplicon",
+      "16S ribosomal RNA",
+      "Primer (cosmetics)",
+      "Genetics"
+    ],
+    "oa_status": "gold"
+  }
+}

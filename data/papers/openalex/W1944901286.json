@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W1944901286",
+  "title": "Efficient Computation of Cosmic Microwave Background Anisotropies in Closed Friedmann‐Robertson‐Walker Models",
+  "abstract": "We implement the efficient line-of-sight method to calculate the anisotropy and polarization of the cosmic microwave background for scalar and tensor modes in almost Friedmann-Robertson-Walker models with positive spatial curvature. We present new results for the polarization power spectra in such models.",
+  "authors": [
+    "Antony Lewis",
+    "Anthony D. Challinor",
+    "Anthony Norden Lasenby"
+  ],
+  "year": 2000,
+  "doi": "10.1086/309179",
+  "source": "openalex",
+  "categories": [
+    "Cosmic microwave background",
+    "Friedmann equations",
+    "Physics",
+    "Anisotropy",
+    "Computation",
+    "Polarization (electrochemistry)",
+    "Curvature",
+    "Scalar (mathematics)",
+    "Cosmic background radiation",
+    "COSMIC cancer database",
+    "Mathematical physics",
+    "Astrophysics",
+    "Cosmology",
+    "Optics",
+    "Mathematics",
+    "Geometry",
+    "Chemistry",
+    "Algorithm",
+    "Dark energy",
+    "Physical chemistry"
+  ],
+  "citation_count": 5344,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1086/309179/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1944901286.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:52.227353+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1944901286",
+    "concepts": [
+      "Cosmic microwave background",
+      "Friedmann equations",
+      "Physics",
+      "Anisotropy",
+      "Computation"
+    ],
+    "oa_status": "bronze"
+  }
+}

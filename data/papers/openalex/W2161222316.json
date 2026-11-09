@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W2161222316",
+  "title": "Real-time quantification of microRNAs by stem-loop RT-PCR",
+  "abstract": "A novel microRNA (miRNA) quantification method has been developed using stem-loop RT followed by TaqMan PCR analysis. Stem-loop RT primers are better than conventional ones in terms of RT efficiency and specificity. TaqMan miRNA assays are specific for mature miRNAs and discriminate among related miRNAs that differ by as little as one nucleotide. Furthermore, they are not affected by genomic DNA contamination. Precise quantification is achieved routinely with as little as 25 pg of total RNA for most miRNAs. In fact, the high sensitivity, specificity and precision of this method allows for direct analysis of a single cell without nucleic acid purification. Like standard TaqMan gene expression assays, TaqMan miRNA assays exhibit a dynamic range of seven orders of magnitude. Quantification of five miRNAs in seven mouse tissues showed variation from less than 10 to more than 30,000 copies per cell. This method enables fast, accurate and sensitive miRNA expression profiling and can identify and monitor potential biomarkers specific to tissues or diseases. Stem-loop RT-PCR can be used for the quantification of other small RNA molecules such as short interfering RNAs (siRNAs). Furthermore, the concept of stem-loop RT primer design could be applied in small RNA cloning and multiplex assays for better specificity and efficiency.",
+  "authors": [
+    "C. Chen"
+  ],
+  "year": 2005,
+  "doi": "10.1093/nar/gni178",
+  "source": "openalex",
+  "categories": [
+    "Biology",
+    "TaqMan",
+    "microRNA",
+    "Stem-loop",
+    "Multiplex",
+    "RNA",
+    "Molecular biology",
+    "Primer (cosmetics)",
+    "Nucleic acid",
+    "Real-time polymerase chain reaction",
+    "Small RNA",
+    "Computational biology",
+    "Gene expression profiling",
+    "Gene expression",
+    "Gene",
+    "Genetics",
+    "Organic chemistry",
+    "Chemistry"
+  ],
+  "citation_count": 4989,
+  "open_access_pdf_url": "https://academic.oup.com/nar/article-pdf/33/20/e179/3779619/gni178.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2161222316.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:52.273958+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2161222316",
+    "concepts": [
+      "Biology",
+      "TaqMan",
+      "microRNA",
+      "Stem-loop",
+      "Multiplex"
+    ],
+    "oa_status": "gold"
+  }
+}

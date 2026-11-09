@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2170347547",
+  "title": "Mitochondrial permeability transition pore opening during myocardial reperfusion—a target for cardioprotection",
+  "abstract": "Reperfusion of the heart after a period of ischaemia leads to the opening of a nonspecific pore in the inner mitochondrial membrane, known as the mitochondrial permeability transition pore (MPTP). This transition causes mitochondria to become uncoupled and capable of hydrolysing rather than synthesising ATP. Unrestrained, this will lead to the loss of ionic homeostasis and ultimately necrotic cell death. The functional recovery of the Langendorff-perfused heart from ischaemia inversely correlates with the extent of pore opening, and inhibition of the MPTP provides protection against reperfusion injury. This may be mediated either by a direct interaction with the MPTP [e.g., by Cyclosporin A (CsA) and Sanglifehrin A (SfA)], or indirectly by decreasing calcium loading and reactive oxygen species (ROS; key inducers of pore opening) or lowering intracellular pH. Agents working in this way may include pyruvate, propofol, Na+/H+ antiporter inhibitors, and ischaemic preconditioning (IPC). Mitochondrial KATP channels have been implicated in preconditioning, but our own data suggest that the channel openers and blockers used in these studies work through alternative mechanisms. In addition to its role in necrosis, transient opening of the MPTP may occur and lead to the release of cytochrome c and other proapoptotic molecules that initiate the apoptotic cascade. However, only if subsequent MPTP closure occurs will ATP levels be maintained, ensuring that cell death continues down an apoptotic, rather than a necrotic, pathway.",
+  "authors": [
+    "Andrew P. Halestrap"
+  ],
+  "year": 2003,
+  "doi": "10.1016/s0008-6363(03)00533-9",
+  "source": "openalex",
+  "categories": [
+    "Mitochondrial permeability transition pore",
+    "MPTP",
+    "Cardioprotection",
+    "Mitochondrion",
+    "Cell biology",
+    "Chemistry",
+    "Programmed cell death",
+    "Pharmacology",
+    "Reperfusion injury",
+    "Biophysics",
+    "Apoptosis",
+    "Ischemia",
+    "Biochemistry",
+    "Biology",
+    "Medicine",
+    "Internal medicine",
+    "Endocrinology",
+    "Dopamine",
+    "Dopaminergic"
+  ],
+  "citation_count": 1244,
+  "open_access_pdf_url": "https://doi.org/10.1016/s0008-6363(03)00533-9",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2170347547.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:02.764229+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2170347547",
+    "concepts": [
+      "Mitochondrial permeability transition pore",
+      "MPTP",
+      "Cardioprotection",
+      "Mitochondrion",
+      "Cell biology"
+    ],
+    "oa_status": "closed"
+  }
+}

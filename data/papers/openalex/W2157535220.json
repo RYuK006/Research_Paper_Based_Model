@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2157535220",
+  "title": "α-Synuclein Is Degraded by Both Autophagy and the Proteasome",
+  "abstract": "Parkinson's disease (PD) is characterized by the loss of dopaminergic neurons in the substantia nigra and the formation of aggregates (Lewy bodies) in neurons. alpha-Synuclein is the major protein in Lewy bodies and rare mutations in alpha-synuclein cause early-onset PD. Consequently, alpha-synuclein is implicated in the pathogenesis of PD. Here, we have investigated the degradation pathways of alpha-synuclein, using a stable inducible PC12 cell model, where the expression of exogenous human wild-type, A30P, or A53T alpha-synuclein can be switched on and off. We have used a panel of inhibitors/stimulators of autophagy and proteasome function and followed alpha-synuclein degradation in these cells. We found that not only is alpha-synuclein degraded by the proteasome, but it is also degraded by autophagy. A role for autophagy was further supported by the presence of alpha-synuclein in organelles with the ultrastructural features of autophagic vesicles. Since rapamycin, a stimulator of autophagy, increased clearance of alpha-synuclein, it merits consideration as a potential therapeutic for Parkinsons disease, as it is designed for chronic use in humans.",
+  "authors": [
+    "Julie L. Webb",
+    "Brinda Ravikumar",
+    "Jane Atkins",
+    "Jeremy N. Skepper",
+    "David Chaim Rubinsztein"
+  ],
+  "year": 2003,
+  "doi": "10.1074/jbc.m300227200",
+  "source": "openalex",
+  "categories": [
+    "Substantia nigra",
+    "Autophagy",
+    "Alpha-synuclein",
+    "Parkinson's disease",
+    "Proteasome",
+    "Dementia with Lewy bodies",
+    "Cell biology",
+    "Dopaminergic",
+    "Synuclein",
+    "Pathogenesis",
+    "Biology",
+    "Chemistry",
+    "Neuroscience",
+    "Dopamine",
+    "Medicine",
+    "Pathology",
+    "Biochemistry",
+    "Disease",
+    "Immunology",
+    "Apoptosis",
+    "Dementia"
+  ],
+  "citation_count": 1463,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925820869646/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2157535220.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:48.201638+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2157535220",
+    "concepts": [
+      "Substantia nigra",
+      "Autophagy",
+      "Alpha-synuclein",
+      "Parkinson's disease",
+      "Proteasome"
+    ],
+    "oa_status": "hybrid"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2992308087",
+  "title": "CutMix: Regularization Strategy to Train Strong Classifiers With Localizable Features",
+  "abstract": "Regional dropout strategies have been proposed to enhance performance of convolutional neural network classifiers. They have proved to be effective for guiding the model to attend on less discriminative parts of objects (e.g. leg as opposed to head of a person), thereby letting the network generalize better and have better object localization capabilities. On the other hand, current methods for regional dropout removes informative pixels on training images by overlaying a patch of either black pixels or random noise. Such removal is not desirable because it suffers from information loss causing inefficiency in training. We therefore propose the CutMix augmentation strategy: patches are cut and pasted among training images where the ground truth labels are also mixed proportionally to the area of the patches. By making efficient use of training pixels and retaining the regularization effect of regional dropout, CutMix consistently outperforms state-of-the-art augmentation strategies on CIFAR and ImageNet classification tasks, as well as on ImageNet weakly-supervised localization task. Moreover, unlike previous augmentation methods, our CutMix-trained ImageNet classifier, when used as a pretrained model, results in consistent performance gain in Pascal detection and MS-COCO image captioning benchmarks. We also show that CutMix can improve the model robustness against input corruptions and its out-of distribution detection performance.",
+  "authors": [
+    "Sangdoo Yun",
+    "Dongyoon Han",
+    "Sanghyuk Chun",
+    "Seong Joon Oh",
+    "Youngjoon Yoo",
+    "Junsuk Choe"
+  ],
+  "year": 2019,
+  "doi": "10.1109/iccv.2019.00612",
+  "source": "openalex",
+  "categories": [
+    "Computer science",
+    "Artificial intelligence",
+    "Discriminative model",
+    "Pixel",
+    "Pascal (unit)",
+    "Pattern recognition (psychology)",
+    "Regularization (linguistics)",
+    "Convolutional neural network",
+    "Classifier (UML)",
+    "Dropout (neural networks)",
+    "Robustness (evolution)",
+    "Object detection",
+    "Machine learning",
+    "Computer vision",
+    "Gene",
+    "Programming language",
+    "Chemistry",
+    "Biochemistry"
+  ],
+  "citation_count": 5690,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1905.04899",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2992308087.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:52.182808+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2992308087",
+    "concepts": [
+      "Computer science",
+      "Artificial intelligence",
+      "Discriminative model",
+      "Pixel",
+      "Pascal (unit)"
+    ],
+    "oa_status": "green"
+  }
+}

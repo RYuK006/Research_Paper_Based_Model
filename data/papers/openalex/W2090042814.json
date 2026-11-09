@@ -1,0 +1,41 @@
+{
+  "id": "openalex:W2090042814",
+  "title": "Isolation and Characterization of Human μ-Defensin-3, a Novel Human Inducible Peptide Antibiotic",
+  "abstract": "The growing public health problem of infections caused by multiresistant Gram-positive bacteria, in particular Staphylococcus aureus, prompted us to screen human epithelia for endogenous S. aureus-killing factors. A novel 5-kDa, nonhemolytic antimicrobial peptide (human beta-defensin-3, hBD-3) was isolated from human lesional psoriatic scales and cloned from keratinocytes. hBD-3 demonstrated a salt-insensitive broad spectrum of potent antimicrobial activity against many potentially pathogenic microbes including multiresistant S. aureus and vancomycin-resistant Enterococcus faecium. Ultrastructural analyses of hBD-3-treated S. aureus revealed signs of cell wall perforation. Recombinant hBD-3 (expressed as a His-Tag-fusion protein in Escherichia coli) and chemically synthesized hBD-3 were indistinguishable from naturally occurring peptide with respect to their antimicrobial activity and biochemical properties. Investigation of different tissues revealed skin and tonsils to be major hBD-3 mRNA-expressing tissues. Molecular cloning and biochemical analyses of antimicrobial peptides in cell culture supernatants revealed keratinocytes and airway epithelial cells as cellular sources of hBD-3. Tumor necrosis factor alpha and contact with bacteria were found to induce hBD-3 mRNA expression. hBD-3 therefore might be important in the innate epithelial defense of infections by various microorganisms seen in skin and lung, such as cystic fibrosis.",
+  "authors": [
+    "Jürgen Harder",
+    "Joachim Bartels",
+    "Enno Christophers",
+    "Jens‐Michael Schröder"
+  ],
+  "year": 2001,
+  "doi": "10.1074/jbc.m008557200",
+  "source": "openalex",
+  "categories": [
+    "Isolation (microbiology)",
+    "Defensin",
+    "Antibiotics",
+    "Peptide",
+    "Beta defensin",
+    "Microbiology",
+    "Chemistry",
+    "Biology",
+    "Biochemistry"
+  ],
+  "citation_count": 1314,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925819463163/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2090042814.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:57.713081+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2090042814",
+    "concepts": [
+      "Isolation (microbiology)",
+      "Defensin",
+      "Antibiotics",
+      "Peptide",
+      "Beta defensin"
+    ],
+    "oa_status": "hybrid"
+  }
+}

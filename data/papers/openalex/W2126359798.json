@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2126359798",
+  "title": "An Algorithm for Subgraph Isomorphism",
+  "abstract": "Subgraph isomorphism can be determined by means of a brute-force tree-search enumeration procedure. In this paper a new algorithm is introduced that attains efficiency by inferentially eliminating successor nodes in the tree search. To assess the time actually taken by the new algorithm, subgraph isomorphism, clique detection, graph isomorphism, and directed graph isomorphism experiments have been carried out with random and with various nonrandom graphs. A parallel asynchronous logic-in-memory implementation of a vital part of the algorithm is also described, although this hardware has not actually been built. The hardware implementation would allow very rapid determination of isomorphism.",
+  "authors": [
+    "Julian R. Ullmann"
+  ],
+  "year": 1976,
+  "doi": "10.1145/321921.321925",
+  "source": "openalex",
+  "categories": [
+    "Subgraph isomorphism problem",
+    "Induced subgraph isomorphism problem",
+    "Graph isomorphism",
+    "Isomorphism (crystallography)",
+    "Computer science",
+    "Algorithm",
+    "Enumeration",
+    "Search tree",
+    "Graph homomorphism",
+    "Graph factorization",
+    "Asynchronous communication",
+    "Successor cardinal",
+    "Theoretical computer science",
+    "Mathematics",
+    "Combinatorics",
+    "Graph",
+    "Search algorithm",
+    "Line graph",
+    "Mathematical analysis",
+    "Voltage graph",
+    "Crystallography",
+    "Computer network",
+    "Crystal structure",
+    "Graph power",
+    "Chemistry"
+  ],
+  "citation_count": 2337,
+  "open_access_pdf_url": "https://dl.acm.org/doi/pdf/10.1145/321921.321925",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2126359798.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:08.763829+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2126359798",
+    "concepts": [
+      "Subgraph isomorphism problem",
+      "Induced subgraph isomorphism problem",
+      "Graph isomorphism",
+      "Isomorphism (crystallography)",
+      "Computer science"
+    ],
+    "oa_status": "bronze"
+  }
+}

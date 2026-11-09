@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2787153680",
+  "title": "Towards flexible solid-state supercapacitors for smart and wearable electronics",
+  "abstract": "Flexible solid-state supercapacitors (FSSCs) are frontrunners in energy storage device technology and have attracted extensive attention owing to recent significant breakthroughs in modern wearable electronics. In this study, we review the state-of-the-art advancements in FSSCs to provide new insights on mechanisms, emerging electrode materials, flexible gel electrolytes and novel cell designs. The review begins with a brief introduction on the fundamental understanding of charge storage mechanisms based on the structural properties of electrode materials. The next sections briefly summarise the latest progress in flexible electrodes (i.e., freestanding and substrate-supported, including textile, paper, metal foil/wire and polymer-based substrates) and flexible gel electrolytes (i.e., aqueous, organic, ionic liquids and redox-active gels). Subsequently, a comprehensive summary of FSSC cell designs introduces some emerging electrode materials, including MXenes, metal nitrides, metal-organic frameworks (MOFs), polyoxometalates (POMs) and black phosphorus. Some potential practical applications, such as the development of piezoelectric, photo-, shape-memory, self-healing, electrochromic and integrated sensor-supercapacitors are also discussed. The final section highlights current challenges and future perspectives on research in this thriving field.",
+  "authors": [
+    "Deepak Prakash Dubal",
+    "Nilesh R. Chodankar",
+    "Do‐Heyoung Kim",
+    "Pedro Gómez‐Romero"
+  ],
+  "year": 2018,
+  "doi": "10.1039/c7cs00505a",
+  "source": "openalex",
+  "categories": [
+    "Supercapacitor",
+    "Wearable computer",
+    "Electronics",
+    "Wearable technology",
+    "Solid-state",
+    "Nanotechnology",
+    "Energy storage",
+    "Computer science",
+    "Materials science",
+    "Embedded system",
+    "Electrical engineering",
+    "Engineering",
+    "Capacitance",
+    "Chemistry",
+    "Engineering physics",
+    "Electrode",
+    "Physics",
+    "Power (physics)",
+    "Quantum mechanics",
+    "Physical chemistry"
+  ],
+  "citation_count": 1727,
+  "open_access_pdf_url": "https://ddd.uab.cat/record/220653",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2787153680.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:33.044754+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2787153680",
+    "concepts": [
+      "Supercapacitor",
+      "Wearable computer",
+      "Electronics",
+      "Wearable technology",
+      "Solid-state"
+    ],
+    "oa_status": "green"
+  }
+}

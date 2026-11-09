@@ -1,0 +1,58 @@
+{
+  "id": "openalex:W2166057940",
+  "title": "Monolayer honeycomb structures of group-IV elements and III-V binary compounds: First-principles calculations",
+  "abstract": "Using first-principles plane-wave calculations, we investigate two-dimensional (2D) honeycomb structure of group-IV elements and their binary compounds as well as the compounds of group III-V elements. Based on structure optimization and phonon-mode calculations, we determine that 22 different honeycomb materials are stable and correspond to local minima on the Born-Oppenheimer surface. We also find that all the binary compounds containing one of the first row elements, B, C, or N have planar stable structures. On the other hand, in the honeycomb structures of Si, Ge, and other binary compounds the alternating atoms of hexagons are buckled since the stability is maintained by puckering. For those honeycomb materials which were found stable, we calculated optimized structures, cohesive energies, phonon modes, electronic-band structures, effective cation and anion charges, and some elastic constants. The band gaps calculated within density functional theory using local density approximation are corrected by $G{W}_{0}$ method. Si and Ge in honeycomb structure are semimetal and have linear band crossing at the Fermi level which attributes massless Fermion character to charge carriers as in graphene. However, all binary compounds are found to be semiconductor with band gaps depending on the constituent atoms. We present a method to reveal elastic constants of 2D honeycomb structures from the strain energy and calculate the Poisson's ratio as well as in-plane stiffness values. Preliminary results show that the nearly lattice matched heterostructures of these compounds can offer alternatives for nanoscale electronic devices. Similar to those of the three-dimensional group-IV and group III-V compound semiconductors, one deduces interesting correlations among the calculated properties of present honeycomb structures.",
+  "authors": [
+    "Hasan Şahin",
+    "Seymur Cahangirov",
+    "Mehmet Topsakal",
+    "E. Bekaroglu",
+    "Ethem Aktürk",
+    "R. T. Senger",
+    "S. Çiraci"
+  ],
+  "year": 2009,
+  "doi": "10.1103/physrevb.80.155453",
+  "source": "openalex",
+  "categories": [
+    "Density functional theory",
+    "MXenes",
+    "Phonon",
+    "Graphene",
+    "Electronic band structure",
+    "Electronic structure",
+    "Materials science",
+    "Band gap",
+    "Honeycomb",
+    "Condensed matter physics",
+    "Silicene",
+    "Fermi level",
+    "Semimetal",
+    "Honeycomb structure",
+    "MAX phases",
+    "Computational chemistry",
+    "Chemistry",
+    "Physics",
+    "Nanotechnology",
+    "Quantum mechanics",
+    "Electron",
+    "Carbide",
+    "Composite material"
+  ],
+  "citation_count": 2205,
+  "open_access_pdf_url": "http://link.aps.org/pdf/10.1103/PhysRevB.80.155453",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2166057940.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:12.638153+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2166057940",
+    "concepts": [
+      "Density functional theory",
+      "MXenes",
+      "Phonon",
+      "Graphene",
+      "Electronic band structure"
+    ],
+    "oa_status": "bronze"
+  }
+}

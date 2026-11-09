@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W1989700964",
+  "title": "Classical Nuclear Localization Signals: Definition, Function, and Interaction with Importin α",
+  "abstract": "The best understood system for the transport of macromolecules between the cytoplasm and the nucleus is the classical nuclear import pathway. In this pathway, a protein containing a classical basic nuclear localization signal (NLS) is imported by a heterodimeric import receptor consisting of the beta-karyopherin importin beta, which mediates interactions with the nuclear pore complex, and the adaptor protein importin alpha, which directly binds the classical NLS. Here we review recent studies that have advanced our understanding of this pathway and also take a bioinformatics approach to analyze the likely prevalence of this system in vivo. Finally, we describe how a predicted NLS within a protein of interest can be confirmed experimentally to be functionally important.",
+  "authors": [
+    "Allison Lange",
+    "Ryan E. Mills",
+    "Christopher J. Lange",
+    "Murray Stewart",
+    "Scott E. Devine",
+    "Anita H. Corbett"
+  ],
+  "year": 2006,
+  "doi": "10.1074/jbc.r600026200",
+  "source": "openalex",
+  "categories": [
+    "Importin",
+    "Karyopherin",
+    "Nuclear transport",
+    "NLS",
+    "Nuclear localization sequence",
+    "Nuclear pore",
+    "Cytoplasm",
+    "Cell biology",
+    "Signal transducing adaptor protein",
+    "Function (biology)",
+    "Biology",
+    "Nucleus",
+    "Nuclear protein",
+    "Cell nucleus",
+    "Biophysics",
+    "Chemistry",
+    "Signal transduction",
+    "Biochemistry",
+    "Gene",
+    "Transcription factor"
+  ],
+  "citation_count": 1191,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925820688019/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1989700964.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:08.427834+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1989700964",
+    "concepts": [
+      "Importin",
+      "Karyopherin",
+      "Nuclear transport",
+      "NLS",
+      "Nuclear localization sequence"
+    ],
+    "oa_status": "hybrid"
+  }
+}

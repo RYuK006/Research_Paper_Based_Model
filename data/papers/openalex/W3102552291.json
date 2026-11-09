@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W3102552291",
+  "title": "New evolutionary models for pre-main sequence and main sequence low-mass stars down to the hydrogen-burning limit",
+  "abstract": "We present new models for low-mass stars down to the hydrogen-burning limit that consistently couple atmosphere and interior structures, thereby superseding the widely used BCAH98 models. The new models include updated molecular linelists and solar abundances, as well as atmospheric convection parameters calibrated on 2D/3D radiative hydrodynamics simulations. Comparison of these models with observations in various colour-magnitude diagrams for various ages shows significant improvement over previous generations of models. The new models can solve flaws that are present in the previous ones, such as the prediction of optical colours that are too blue compared to M dwarf observations. They can also reproduce the four components of the young quadruple system LkCa 3 in a colour-magnitude diagram with one single isochrone, in contrast to any presently existing model. In this paper we also highlight the need for consistency when comparing models and observations, with the necessity of using evolutionary models and colours based on the same atmospheric structures.",
+  "authors": [
+    "I. Baraffe",
+    "D. Homeier",
+    "France C. Allard",
+    "G. Chabrier"
+  ],
+  "year": 2015,
+  "doi": "10.1051/0004-6361/201425481/pdf",
+  "source": "openalex",
+  "categories": [
+    "Limit (mathematics)",
+    "Stars",
+    "Radiative transfer",
+    "Diagram",
+    "Sequence (biology)",
+    "Main sequence",
+    "Consistency (knowledge bases)",
+    "Atmosphere (unit)",
+    "Physics",
+    "Convection",
+    "Atmospheric convection",
+    "Astrophysics",
+    "Hertzsprung–Russell diagram",
+    "Statistical physics",
+    "Stellar evolution",
+    "Mathematics",
+    "Chemistry",
+    "Meteorology",
+    "Statistics",
+    "Optics",
+    "Geometry",
+    "Mathematical analysis",
+    "Biochemistry"
+  ],
+  "citation_count": 1368,
+  "open_access_pdf_url": "https://www.aanda.org/10.1051/0004-6361/201425481/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3102552291.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:55.068326+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3102552291",
+    "concepts": [
+      "Limit (mathematics)",
+      "Stars",
+      "Radiative transfer",
+      "Diagram",
+      "Sequence (biology)"
+    ],
+    "oa_status": "green"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2944315478",
+  "title": "Mitochondrial electron transport chain, ROS generation and uncoupling (Review)",
+  "abstract": "The mammalian mitochondrial electron transport chain (ETC) includes complexes I‑IV, as well as the electron transporters ubiquinone and cytochrome c. There are two electron transport pathways in the ETC: Complex I/III/IV, with NADH as the substrate and complex II/III/IV, with succinic acid as the substrate. The electron flow is coupled with the generation of a proton gradient across the inner membrane and the energy accumulated in the proton gradient is used by complex V (ATP synthase) to produce ATP. The first part of this review briefly introduces the structure and function of complexes I‑IV and ATP synthase, including the specific electron transfer process in each complex. Some electrons are directly transferred to O2 to generate reactive oxygen species (ROS) in the ETC. The second part of this review discusses the sites of ROS generation in each ETC complex, including sites IF and IQ in complex I, site IIF in complex II and site IIIQo in complex III, and the physiological and pathological regulation of ROS. As signaling molecules, ROS play an important role in cell proliferation, hypoxia adaptation and cell fate determination, but excessive ROS can cause irreversible cell damage and even cell death. The occurrence and development of a number of diseases are closely related to ROS overproduction. Finally, proton leak and uncoupling proteins (UCPS) are discussed. Proton leak consists of basal proton leak and induced proton leak. Induced proton leak is precisely regulated and induced by UCPs. A total of five UCPs (UCP1‑5) have been identified in mammalian cells. UCP1 mainly plays a role in the maintenance of body temperature in a cold environment through non‑shivering thermogenesis. The core role of UCP2‑5 is to reduce oxidative stress under certain conditions, therefore exerting cytoprotective effects. All diseases involving oxidative stress are associated with UCPs.",
+  "authors": [
+    "Ruzhou Zhao",
+    "Shuai Jiang",
+    "Lin Zhang",
+    "Zhi‐Bin Yu"
+  ],
+  "year": 2019,
+  "doi": "10.3892/ijmm.2019.4188",
+  "source": "openalex",
+  "categories": [
+    "Electron transport chain",
+    "ATP synthase",
+    "Mitochondrion",
+    "Reactive oxygen species",
+    "Electrochemical gradient",
+    "Mitochondrial ROS",
+    "Cell biology",
+    "Chemiosmosis",
+    "Respiratory chain",
+    "Proton pump",
+    "Biophysics",
+    "Chemistry",
+    "Biochemistry",
+    "Biology",
+    "Membrane",
+    "ATPase",
+    "Enzyme"
+  ],
+  "citation_count": 1497,
+  "open_access_pdf_url": "http://www.spandidos-publications.com/10.3892/ijmm.2019.4188/download",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2944315478.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:48.089564+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2944315478",
+    "concepts": [
+      "Electron transport chain",
+      "ATP synthase",
+      "Mitochondrion",
+      "Reactive oxygen species",
+      "Electrochemical gradient"
+    ],
+    "oa_status": "hybrid"
+  }
+}

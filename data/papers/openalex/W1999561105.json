@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W1999561105",
+  "title": "Cannabis use in adolescence and risk for adult psychosis: longitudinal prospective study",
+  "abstract": "A mycoplasma-encoded purine nucleoside phosphorylase (designated PNPHyor) has been cloned and characterized for the first time. Efficient phosphorolysis of natural 6-oxopurine and 6-aminopurine nucleosides was observed, with adenosine the preferred natural substrate (Km = 61 µM). Several cytostatic purine nucleoside analogs proved to be susceptible to PNPHyor-mediated phosphorolysis, and a markedly decreased or increased cytostatic activity was observed in Mycoplasma hyorhinis–infected human breast carcinoma MCF-7 cell cultures (MCF-7.Hyor), depending on the properties of the released purine base. We demonstrated an ∼10-fold loss of cytostatic activity of cladribine in MCF-7.Hyor cells and observed a rapid and complete phosphorolysis of this drug when it was exposed to the supernatant of mycoplasma-infected cells. This conversion (inactivation) could be prevented by a specific PNP inhibitor. These findings correlated well with the high efficiency of PNPHyor-catalyzed phosphorolysis of cladribine to its less toxic base 2-chloroadenine (Km = 80 µM). In contrast, the cytostatic activity of nucleoside analogs carrying a highly toxic purine base and being a substrate for PNPHyor, but not human PNP, was substantially increased in MCF-7.Hyor cells (∼130-fold for fludarabine and ∼45-fold for 6-methylpurine-2′-deoxyriboside). Elimination of the mycoplasma from the tumor cell cultures or selective inhibition of PNPHyor by a PNP inhibitor restored the cytostatic activity of the purine-based nucleoside drugs. Since several studies suggest a high and preferential colonization or association of tumor tissue in cancer patients with different prokaryotes (including mycoplasmas), the data presented here may be of relevance for the optimization of purine nucleoside–based anticancer drug treatment.",
+  "authors": [
+    "Louise Arseneault",
+    "Mary D Cannon",
+    "Richie Poulton",
+    "Robin M. Murray",
+    "Avshalom Caspi",
+    "Terrie E. Moffitt"
+  ],
+  "year": 2002,
+  "doi": "10.1136/bmj.325.7374.1212",
+  "source": "openalex",
+  "categories": [
+    "Phosphorolysis",
+    "Purine nucleoside phosphorylase",
+    "Purine",
+    "Biology",
+    "Cladribine",
+    "Nucleoside",
+    "Guanosine",
+    "Deoxyguanosine",
+    "Biochemistry",
+    "Molecular biology",
+    "Chemistry",
+    "Enzyme",
+    "DNA",
+    "Genetics"
+  ],
+  "citation_count": 1432,
+  "open_access_pdf_url": "https://www.bmj.com/content/bmj/325/7374/1212.full.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1999561105.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:50.558601+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1999561105",
+    "concepts": [
+      "Phosphorolysis",
+      "Purine nucleoside phosphorylase",
+      "Purine",
+      "Biology",
+      "Cladribine"
+    ],
+    "oa_status": "bronze"
+  }
+}

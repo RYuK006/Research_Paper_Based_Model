@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W3082463816",
+  "title": "Short-Chain Fatty Acids and Their Association with Signalling Pathways in Inflammation, Glucose and Lipid Metabolism",
+  "abstract": "Short-chain fatty acids (SCFAs), particularly acetate, propionate and butyrate, are mainly produced by anaerobic fermentation of gut microbes. SCFAs play an important role in regulating energy metabolism and energy supply, as well as maintaining the homeostasis of the intestinal environment. In recent years, many studies have shown that SCFAs demonstrate physiologically beneficial effects, and the signalling pathways related to SCFA production, absorption, metabolism, and intestinal effects have been discovered. Two major signalling pathways concerning SCFAs, G-protein-coupled receptors (GPRCs) and histone deacetylases (HDACs), are well recognized. In this review, we summarize the recent advances concerning the biological properties of SCFAs and the signalling pathways in inflammation and glucose and lipid metabolism.",
+  "authors": [
+    "Jin He",
+    "Peiwen Zhang",
+    "Linyuan Shen",
+    "Lili Niu",
+    "Ya Tan",
+    "Lei Chen",
+    "Ye Zhao",
+    "Lin Bai",
+    "Xiaoxia Hao",
+    "Xuewei Li",
+    "Shunhua Zhang",
+    "Li Zhu"
+  ],
+  "year": 2020,
+  "doi": "10.3390/ijms21176356",
+  "source": "openalex",
+  "categories": [
+    "Butyrate",
+    "Lipid metabolism",
+    "Biochemistry",
+    "Metabolism",
+    "Metabolic pathway",
+    "Propionate",
+    "Carbohydrate metabolism",
+    "Biology",
+    "Signal transduction",
+    "Chemistry",
+    "Fermentation"
+  ],
+  "citation_count": 1123,
+  "open_access_pdf_url": "https://www.mdpi.com/1422-0067/21/17/6356/pdf?version=1599012770",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3082463816.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:17.050694+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3082463816",
+    "concepts": [
+      "Butyrate",
+      "Lipid metabolism",
+      "Biochemistry",
+      "Metabolism",
+      "Metabolic pathway"
+    ],
+    "oa_status": "gold"
+  }
+}

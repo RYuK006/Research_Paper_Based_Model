@@ -1,0 +1,45 @@
+{
+  "id": "openalex:W2112483442",
+  "title": "Correcting Sample Selection Bias by Unlabeled Data",
+  "abstract": "We consider the scenario where training and test data are drawn from\\ndifferent distributions, commonly referred to as sample\\nselection bias. Most algorithms for this setting try to first\\nrecover sampling distributions and then make appropriate corrections based on the\\ndistribution estimate. We present a nonparametric method which\\ndirectly produces resampling weights without distribution estimation.\\nOur method works by matching distributions between training and\\ntesting sets in feature space. Experimental results demonstrate that our method works well in\\npractice.",
+  "authors": [
+    "Jiayuan Huang",
+    "Alexander Johannes Smola",
+    "Arthur Gretton",
+    "Karsten Michael Borgwardt",
+    "Bernhard Schölkopf"
+  ],
+  "year": 2007,
+  "doi": "10.7551/mitpress/7503.003.0080",
+  "source": "openalex",
+  "categories": [
+    "Selection bias",
+    "Selection (genetic algorithm)",
+    "Sample (material)",
+    "Sampling bias",
+    "Computer science",
+    "Artificial intelligence",
+    "Statistics",
+    "Pattern recognition (psychology)",
+    "Sample size determination",
+    "Mathematics",
+    "Chromatography",
+    "Chemistry"
+  ],
+  "citation_count": 1646,
+  "open_access_pdf_url": "https://openresearch-repository.anu.edu.au/bitstreams/2677e202-6484-42ab-9c6e-6112fdb6d357/download",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2112483442.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:38.015034+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2112483442",
+    "concepts": [
+      "Selection bias",
+      "Selection (genetic algorithm)",
+      "Sample (material)",
+      "Sampling bias",
+      "Computer science"
+    ],
+    "oa_status": "green"
+  }
+}

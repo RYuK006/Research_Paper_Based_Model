@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W1991149034",
+  "title": "Improved adsorption energetics within density-functional theory using revised Perdew-Burke-Ernzerhof functionals",
+  "abstract": "A simple formulation of a generalized gradient approximation for the exchange and correlation energy of electrons has been proposed by Perdew, Burke, and Ernzerhof (PBE) [Phys. Rev. Lett. 77, 3865 (1996)]. Subsequently Zhang and Yang [Phys. Rev. Lett. 80, 890 (1998)] have shown that a slight revision of the PBE functional systematically improves the atomization energies for a large database of small molecules. In the present work, we show that the Zhang and Yang functional (revPBE) also improves the chemisorption energetics of atoms and molecules on transition-metal surfaces. Our test systems comprise atomic and molecular adsorption of oxygen, CO, and NO on Ni(100), Ni(111), Rh(100), Pd(100), and Pd(111) surfaces. As the revPBE functional may locally violate the Lieb-Oxford criterion, we further develop an alternative revision of the PBE functional, RPBE, which gives the same improvement of the chemisorption energies as the revPBE functional at the same time as it fulfills the Lieb-Oxford criterion locally.",
+  "authors": [
+    "Bjørk Hammer",
+    "L. B. Hansen",
+    "Jens K. Nørskov"
+  ],
+  "year": 1999,
+  "doi": "10.1103/physrevb.59.7413",
+  "source": "openalex",
+  "categories": [
+    "Chemisorption",
+    "Density functional theory",
+    "Adsorption",
+    "Molecule",
+    "Orbital-free density functional theory",
+    "Electron",
+    "Hybrid functional",
+    "Energetics",
+    "Atomic physics",
+    "Thermodynamics",
+    "Chemistry",
+    "Computational chemistry",
+    "Physics",
+    "Materials science",
+    "Quantum mechanics",
+    "Physical chemistry"
+  ],
+  "citation_count": 8303,
+  "open_access_pdf_url": "http://link.aps.org/pdf/10.1103/PhysRevB.59.7413",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1991149034.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:49.919799+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1991149034",
+    "concepts": [
+      "Chemisorption",
+      "Density functional theory",
+      "Adsorption",
+      "Molecule",
+      "Orbital-free density functional theory"
+    ],
+    "oa_status": "bronze"
+  }
+}

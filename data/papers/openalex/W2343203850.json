@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2343203850",
+  "title": "Single Atom (Pd/Pt) Supported on Graphitic Carbon Nitride as an Efficient Photocatalyst for Visible-Light Reduction of Carbon Dioxide",
+  "abstract": "Reducing carbon dioxide to hydrocarbon fuel with solar energy is significant for high-density solar energy storage and carbon balance. In this work, single atoms of palladium and platinum supported on graphitic carbon nitride (g-C3N4), i.e., Pd/g-C3N4 and Pt/g-C3N4, respectively, acting as photocatalysts for CO2 reduction were investigated by density functional theory calculations for the first time. During CO2 reduction, the individual metal atoms function as the active sites, while g-C3N4 provides the source of hydrogen (H*) from the hydrogen evolution reaction. The complete, as-designed photocatalysts exhibit excellent activity in CO2 reduction. HCOOH is the preferred product of CO2 reduction on the Pd/g-C3N4 catalyst with a rate-determining barrier of 0.66 eV, while the Pt/g-C3N4 catalyst prefers to reduce CO2 to CH4 with a rate-determining barrier of 1.16 eV. In addition, deposition of atom catalysts on g-C3N4 significantly enhances the visible-light absorption, rendering them ideal for visible-light reduction of CO2. Our findings open a new avenue of CO2 reduction for renewable energy supply.",
+  "authors": [
+    "Guoping Gao",
+    "Yan Jiao",
+    "Eric Rolfe Waclawik",
+    "Aijun Du"
+  ],
+  "year": 2016,
+  "doi": "10.1021/jacs.6b02692",
+  "source": "openalex",
+  "categories": [
+    "Chemistry",
+    "Catalysis",
+    "Electrochemical reduction of carbon dioxide",
+    "Graphitic carbon nitride",
+    "Photocatalysis",
+    "Hydrogen",
+    "Density functional theory",
+    "Photochemistry",
+    "Platinum",
+    "Visible spectrum",
+    "Carbon dioxide",
+    "Carbon fibers",
+    "Inorganic chemistry",
+    "Carbon monoxide",
+    "Organic chemistry",
+    "Computational chemistry",
+    "Materials science",
+    "Optoelectronics",
+    "Composite number",
+    "Composite material"
+  ],
+  "citation_count": 1196,
+  "open_access_pdf_url": "https://eprints.qut.edu.au/95298/3/95298.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2343203850.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:08.368362+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2343203850",
+    "concepts": [
+      "Chemistry",
+      "Catalysis",
+      "Electrochemical reduction of carbon dioxide",
+      "Graphitic carbon nitride",
+      "Photocatalysis"
+    ],
+    "oa_status": "green"
+  }
+}

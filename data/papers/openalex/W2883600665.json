@@ -1,0 +1,60 @@
+{
+  "id": "openalex:W2883600665",
+  "title": "Polyaniline-intercalated manganese dioxide nanolayers as a high-performance cathode material for an aqueous zinc-ion battery",
+  "abstract": "Abstract Rechargeable zinc–manganese dioxide batteries that use mild aqueous electrolytes are attracting extensive attention due to high energy density and environmental friendliness. Unfortunately, manganese dioxide suffers from substantial phase changes (e.g., from initial α-, β-, or γ-phase to a layered structure and subsequent structural collapse) during cycling, leading to very poor stability at high charge/discharge depth. Herein, cyclability is improved by the design of a polyaniline-intercalated layered manganese dioxide, in which the polymer-strengthened layered structure and nanoscale size of manganese dioxide serves to eliminate phase changes and facilitate charge storage. Accordingly, an unprecedented stability of 200 cycles with at a high capacity of 280 mA h g −1 (i.e., 90% utilization of the theoretical capacity of manganese dioxide) is achieved, as well as a long-term stability of 5000 cycles at a utilization of 40%. The encouraging performance sheds light on the design of advanced cathodes for aqueous zinc-ion batteries.",
+  "authors": [
+    "Jianhang Huang",
+    "Zhuo Wang",
+    "Mengyan Hou",
+    "Xiaoli Dong",
+    "Yao Liu",
+    "Yonggang Wang",
+    "Yongyao Xia"
+  ],
+  "year": 2018,
+  "doi": "10.1038/s41467-018-04949-4",
+  "source": "openalex",
+  "categories": [
+    "Manganese",
+    "Polyaniline",
+    "Materials science",
+    "Cathode",
+    "Chemical engineering",
+    "Battery (electricity)",
+    "Electrolyte",
+    "Aqueous solution",
+    "Electrochemistry",
+    "Zinc",
+    "Phase (matter)",
+    "Energy storage",
+    "Inorganic chemistry",
+    "Polymer",
+    "Electrode",
+    "Chemistry",
+    "Composite material",
+    "Metallurgy",
+    "Organic chemistry",
+    "Quantum mechanics",
+    "Engineering",
+    "Physical chemistry",
+    "Physics",
+    "Polymerization",
+    "Power (physics)"
+  ],
+  "citation_count": 1478,
+  "open_access_pdf_url": "https://www.nature.com/articles/s41467-018-04949-4.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2883600665.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:48.156022+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2883600665",
+    "concepts": [
+      "Manganese",
+      "Polyaniline",
+      "Materials science",
+      "Cathode",
+      "Chemical engineering"
+    ],
+    "oa_status": "gold"
+  }
+}

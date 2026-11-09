@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W2143909904",
+  "title": "The Resolving Power of Gross Earth Data",
+  "abstract": "A gross Earth datum is a single measurable number describing some property of the whole Earth, such as mass, moment of interia, or the frequency of oscillation of some identified elastic-gravitational normal mode. We show how to determine whether a given finite set of gross Earth data can be used to specify an Earth structure uniquely except for fine-scale detail; and how to determine the shortest length scale which the given data can resolve at any particular depth. We apply the general theory to the linear problem of finding the depth-variation of a frequency-independent local Q from the observed quality factors Q of a finite number of normal modes. We also apply the theory to the non-linear problem of finding density vs depth from the total mass, moment, and normal-mode frequencies, in case the compressional and shear velocities are known.",
+  "authors": [
+    "George Backus",
+    "Freeman Gilbert"
+  ],
+  "year": 1968,
+  "doi": "10.1111/j.1365-246x.1968.tb00216.x",
+  "source": "openalex",
+  "categories": [
+    "Geodetic datum",
+    "Oscillation (cell signaling)",
+    "Mathematical analysis",
+    "Moment (physics)",
+    "Mathematics",
+    "Geodesy",
+    "Scale (ratio)",
+    "Normal mode",
+    "Mode (computer interface)",
+    "Finite set",
+    "Earth model",
+    "Gravitation",
+    "Physics",
+    "Geology",
+    "Geophysics",
+    "Classical mechanics",
+    "Computer science",
+    "Chemistry",
+    "Acoustics",
+    "Operating system",
+    "Vibration",
+    "Biochemistry",
+    "Quantum mechanics"
+  ],
+  "citation_count": 1541,
+  "open_access_pdf_url": "https://academic.oup.com/gji/article-pdf/16/2/169/5891044/16-2-169.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2143909904.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:45.359745+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2143909904",
+    "concepts": [
+      "Geodetic datum",
+      "Oscillation (cell signaling)",
+      "Mathematical analysis",
+      "Moment (physics)",
+      "Mathematics"
+    ],
+    "oa_status": "bronze"
+  }
+}

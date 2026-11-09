@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2049092556",
+  "title": "Shewanella secretes flavins that mediate extracellular electron transfer",
+  "abstract": "Bacteria able to transfer electrons to metals are key agents in biogeochemical metal cycling, subsurface bioremediation, and corrosion processes. More recently, these bacteria have gained attention as the transfer of electrons from the cell surface to conductive materials can be used in multiple applications. In this work, we adapted electrochemical techniques to probe intact biofilms of Shewanella oneidensis MR-1 and Shewanella sp. MR-4 grown by using a poised electrode as an electron acceptor. This approach detected redox-active molecules within biofilms, which were involved in electron transfer to the electrode. A combination of methods identified a mixture of riboflavin and riboflavin-5'-phosphate in supernatants from biofilm reactors, with riboflavin representing the dominant component during sustained incubations (>72 h). Removal of riboflavin from biofilms reduced the rate of electron transfer to electrodes by >70%, consistent with a role as a soluble redox shuttle carrying electrons from the cell surface to external acceptors. Differential pulse voltammetry and cyclic voltammetry revealed a layer of flavins adsorbed to electrodes, even after soluble components were removed, especially in older biofilms. Riboflavin adsorbed quickly to other surfaces of geochemical interest, such as Fe(III) and Mn(IV) oxy(hydr)oxides. This in situ demonstration of flavin production, and sequestration at surfaces, requires the paradigm of soluble redox shuttles in geochemistry to be adjusted to include binding and modification of surfaces. Moreover, the known ability of isoalloxazine rings to act as metal chelators, along with their electron shuttling capacity, suggests that extracellular respiration of minerals by Shewanella is more complex than originally conceived.",
+  "authors": [
+    "Enrico Marsili",
+    "Daniel B. Baron",
+    "Indraneel D. Shikhare",
+    "Dan Coursolle",
+    "Jeffrey A. Gralnick",
+    "Daniel R. Bond"
+  ],
+  "year": 2008,
+  "doi": "10.1073/pnas.0710525105",
+  "source": "openalex",
+  "categories": [
+    "Shewanella oneidensis",
+    "Shewanella",
+    "Electron transfer",
+    "Electron acceptor",
+    "Flavin group",
+    "Biofilm",
+    "Redox",
+    "Chemistry",
+    "Microbial fuel cell",
+    "Inorganic chemistry",
+    "Cyclic voltammetry",
+    "Electrode",
+    "Photochemistry",
+    "Electrochemistry",
+    "Bacteria",
+    "Biochemistry",
+    "Anode",
+    "Biology",
+    "Enzyme",
+    "Physical chemistry",
+    "Genetics"
+  ],
+  "citation_count": 2050,
+  "open_access_pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/2268775",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2049092556.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:15.556127+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2049092556",
+    "concepts": [
+      "Shewanella oneidensis",
+      "Shewanella",
+      "Electron transfer",
+      "Electron acceptor",
+      "Flavin group"
+    ],
+    "oa_status": "green"
+  }
+}

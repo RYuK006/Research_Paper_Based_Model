@@ -1,0 +1,45 @@
+{
+  "id": "openalex:W2074040395",
+  "title": "Superconductivity in the Presence of Strong Pauli Paramagnetism: Ce Cu2 Si2",
+  "abstract": "A comparison was made between four low-temperature properties of La${\\mathrm{Cu}}_{2}$${\\mathrm{Si}}_{2}$ and Ce${\\mathrm{Cu}}_{2}$${\\mathrm{Si}}_{2}$. Whereas La${\\mathrm{Cu}}_{2}$${\\mathrm{Si}}_{2}$ behaves like a normal metal, Ce${\\mathrm{Cu}}_{2}$${\\mathrm{Si}}_{2}$ shows (i) low-temperature anomalies typical of \"unstable $4f$ shell\" behavior and (ii) a transition into a superconducting state at ${T}_{c}\\ensuremath{\\simeq}0.5$ K. Our experiments demonstrate for the first time that superconductivity can exist in a metal in which many-body interactions, probably magnetic in origin, have strongly renormalized the properties of the conduction-electron gas.",
+  "authors": [
+    "F. Steglich",
+    "J. Aarts",
+    "C.D. Bredl",
+    "W. Lieke",
+    "Dieter Meschede",
+    "W. Franz",
+    "H. Schäfer"
+  ],
+  "year": 1979,
+  "doi": "10.1103/physrevlett.43.1892",
+  "source": "openalex",
+  "categories": [
+    "Paramagnetism",
+    "Superconductivity",
+    "Physics",
+    "Pauli exclusion principle",
+    "Condensed matter physics",
+    "Metal",
+    "Crystallography",
+    "Materials science",
+    "Chemistry",
+    "Metallurgy"
+  ],
+  "citation_count": 2025,
+  "open_access_pdf_url": "https://scholarlypublications.universiteitleiden.nl/download/1887/81461/1?col=81522199350002711",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2074040395.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:15.623320+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2074040395",
+    "concepts": [
+      "Paramagnetism",
+      "Superconductivity",
+      "Physics",
+      "Pauli exclusion principle",
+      "Condensed matter physics"
+    ],
+    "oa_status": "green"
+  }
+}

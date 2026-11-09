@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2015865951",
+  "title": "CO Chemisorption at Metal Surfaces and Overlayers",
+  "abstract": "A database of ab initio calculations of the chemisorption energy of CO over Ni(111), Cu(111), Ru(0001), Pd(111), Ag(111), Pt(111), Au(111), $\\mathrm{Cu}{}_{3}$Pt(111), and some metallic overlayer structures is presented. The trends can be reproduced with a simple model describing the interaction between the metal $d$ states and the CO $2{\\ensuremath{\\pi}}^{*}$ and 5 $\\ensuremath{\\sigma}$ states, renormalized by the metal $\\mathrm{sp}$ continuum. Our model rationalizes the results by Rodriguez and Goodman [Science 257, 897 (1992)] showing a strong correlation between the CO chemisorption energy and the surface core level shift.",
+  "authors": [
+    "Bjørk Hammer",
+    "Yoshitada Morikawa",
+    "Jens K. Nørskov"
+  ],
+  "year": 1996,
+  "doi": "10.1103/physrevlett.76.2141",
+  "source": "openalex",
+  "categories": [
+    "Overlayer",
+    "Chemisorption",
+    "Metal",
+    "Materials science",
+    "Ab initio",
+    "Ab initio quantum chemistry methods",
+    "Sigma",
+    "Crystallography",
+    "Atomic physics",
+    "Physical chemistry",
+    "Physics",
+    "Condensed matter physics",
+    "Chemistry",
+    "Molecule",
+    "Adsorption",
+    "Quantum mechanics",
+    "Metallurgy"
+  ],
+  "citation_count": 1513,
+  "open_access_pdf_url": "http://link.aps.org/pdf/10.1103/PhysRevLett.76.2141",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2015865951.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:45.517415+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2015865951",
+    "concepts": [
+      "Overlayer",
+      "Chemisorption",
+      "Metal",
+      "Materials science",
+      "Ab initio"
+    ],
+    "oa_status": "bronze"
+  }
+}

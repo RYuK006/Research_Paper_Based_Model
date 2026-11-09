@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2167485994",
+  "title": "Coverage Control for Mobile Sensing Networks",
+  "abstract": "This paper presents control and coordination algorithms for groups of vehicles. The focus is on autonomous vehicle networks performing distributed sensing tasks, where each vehicle plays the role of a mobile tunable sensor. The paper proposes gradient descent algorithms for a class of utility functions which encode optimal coverage and sensing policies. The resulting closed-loop behavior is adaptive, distributed, asynchronous, and verifiably correct.",
+  "authors": [
+    "Jorge Cortés",
+    "Sonia Martı́nez",
+    "T. Karatas",
+    "Francesco Bullo"
+  ],
+  "year": 2004,
+  "doi": "10.1109/tra.2004.824698",
+  "source": "openalex",
+  "categories": [
+    "Asynchronous communication",
+    "Computer science",
+    "Distributed computing",
+    "Wireless sensor network",
+    "Class (philosophy)",
+    "Gradient descent",
+    "Focus (optics)",
+    "ENCODE",
+    "Real-time computing",
+    "Computer network",
+    "Artificial intelligence",
+    "Artificial neural network",
+    "Physics",
+    "Chemistry",
+    "Optics",
+    "Gene",
+    "Biochemistry"
+  ],
+  "citation_count": 2731,
+  "open_access_pdf_url": "https://arxiv.org/pdf/math/0212212",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2167485994.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:01.992158+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2167485994",
+    "concepts": [
+      "Asynchronous communication",
+      "Computer science",
+      "Distributed computing",
+      "Wireless sensor network",
+      "Class (philosophy)"
+    ],
+    "oa_status": "green"
+  }
+}

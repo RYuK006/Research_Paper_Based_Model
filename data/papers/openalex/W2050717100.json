@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2050717100",
+  "title": "Intrinsic signal changes accompanying sensory stimulation: functional brain mapping with magnetic resonance imaging.",
+  "abstract": "We report that visual stimulation produces an easily detectable (5-20%) transient increase in the intensity of water proton magnetic resonance signals in human primary visual cortex in gradient echo images at 4-T magnetic-field strength. The observed changes predominantly occur in areas containing gray matter and can be used to produce high-spatial-resolution functional brain maps in humans. Reducing the image-acquisition echo time from 40 msec to 8 msec reduces the amplitude of the fractional signal change, suggesting that it is produced by a change in apparent transverse relaxation time T*2. The amplitude, sign, and echo-time dependence of these intrinsic signal changes are consistent with the idea that neural activation increases regional cerebral blood flow and concomitantly increases venous-blood oxygenation.",
+  "authors": [
+    "Satoshi Ogawa",
+    "David W. Tank",
+    "Ravi S. Menon",
+    "Jutta Ellermann",
+    "Seong‐Gi Kim",
+    "Hellmut Merkle",
+    "Kǎmil Uǧurbil"
+  ],
+  "year": 1992,
+  "doi": "10.1073/pnas.89.13.5951",
+  "source": "openalex",
+  "categories": [
+    "Nuclear magnetic resonance",
+    "Functional magnetic resonance imaging",
+    "Magnetic resonance imaging",
+    "Visual cortex",
+    "SIGNAL (programming language)",
+    "Stimulation",
+    "Human brain",
+    "Chemistry",
+    "Amplitude",
+    "Cerebral blood flow",
+    "Physics",
+    "Neuroscience",
+    "Medicine",
+    "Optics",
+    "Biology",
+    "Computer science",
+    "Internal medicine",
+    "Programming language",
+    "Radiology"
+  ],
+  "citation_count": 3723,
+  "open_access_pdf_url": "https://pnas.org/doi/full/10.1073/pnas.89.13.5951",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2050717100.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:54.143188+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2050717100",
+    "concepts": [
+      "Nuclear magnetic resonance",
+      "Functional magnetic resonance imaging",
+      "Magnetic resonance imaging",
+      "Visual cortex",
+      "SIGNAL (programming language)"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "openalex:W2119229486",
+  "title": "Instantaneous Pressure-Volume Relationships and Their Ratio in the Excised, Supported Canine Left Ventricle",
+  "abstract": "We have previously shown in the normally ejecting canine left ventricle that E ( t ), the time-varying ratio of instantaneous pressure, P ( t ), to instantaneous volume, V ( t ), is little affected by end-diastolic volume or aortic pressure. The present study on an excised, supported canine heart preparation indicates that the thesis on E ( t ) is also valid for either totally isovolumic or auxobaric beats. Intraventricular volume was measured more accurately than it was in the previous study by a new volumetric system. Regression analysis of the data showed that the instantaneous pressure-volume relationship could be approximated by the equation P ( t ) = E ( t ).[ V ( t ) - V d ], where V d is an empirical constant, over a wide range of intraventricular volume. Similar E ( t ) curves were obtained from both isovolumic and auxobaric beats for a given contractile state. When the contractile state of the preparation was enhanced by a constant-rate infusion (0.2 µg/min) of norepinephrine or isoproterenol into the coronary artery, the peak magnitude of E ( t ) increased 63% from 3.6 mm Hg/ml and the time to peak E ( t ) shortened 10% from 175 msec. We conclude that the present investigation substantiates our earlier study which established a link between E ( t ) and the contractile state of the heart.",
+  "authors": [
+    "Hiroyuki Suga",
+    "KIICHI SAGAWA"
+  ],
+  "year": 1974,
+  "doi": "10.1161/01.res.35.1.117",
+  "source": "openalex",
+  "categories": [
+    "Ventricle",
+    "Volume (thermodynamics)",
+    "Cardiology",
+    "Hemodynamics",
+    "Internal medicine",
+    "Heart rate",
+    "Chemistry",
+    "Anesthesia",
+    "Blood pressure",
+    "Medicine",
+    "Physics",
+    "Thermodynamics"
+  ],
+  "citation_count": 1340,
+  "open_access_pdf_url": "https://www.ahajournals.org/doi/pdf/10.1161/01.RES.35.1.117",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2119229486.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:55.278558+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2119229486",
+    "concepts": [
+      "Ventricle",
+      "Volume (thermodynamics)",
+      "Cardiology",
+      "Hemodynamics",
+      "Internal medicine"
+    ],
+    "oa_status": "bronze"
+  }
+}

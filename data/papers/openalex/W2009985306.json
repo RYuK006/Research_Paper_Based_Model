@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W2009985306",
+  "title": "Finite Element Interpolation of Nonsmooth Functions Satisfying Boundary Conditions",
+  "abstract": "In this paper, we propose a modified Lagrange type interpolation operator to approximate functions in Sobolev spaces by continuous piecewise polynomials. In order to define interpolators for \"rough\" functions and to preserve piecewise polynomial boundary conditions, the approximated functions are averaged appropriately either on d- or $(d - 1)$-simplices to generate nodal values for the interpolation operator. This combination of averaging and interpolation is shown to be a projection, and optimal error estimates are proved for the projection error.",
+  "authors": [
+    "Ridgway Scott",
+    "Shangyou Zhang"
+  ],
+  "year": 1990,
+  "doi": "10.1090/s0025-5718-1990-1011446-7",
+  "source": "openalex",
+  "categories": [
+    "Mathematics",
+    "Interpolation (computer graphics)",
+    "Piecewise",
+    "Projection (relational algebra)",
+    "Lagrange polynomial",
+    "Boundary (topology)",
+    "Sobolev space",
+    "Algorithm",
+    "Operator (biology)",
+    "Type (biology)",
+    "Applied mathematics",
+    "Polynomial",
+    "Mathematical analysis",
+    "Computer science",
+    "Artificial intelligence",
+    "Image (mathematics)",
+    "Ecology",
+    "Biology",
+    "Repressor",
+    "Transcription factor",
+    "Biochemistry",
+    "Chemistry",
+    "Gene"
+  ],
+  "citation_count": 1631,
+  "open_access_pdf_url": "https://www.ams.org/mcom/1990-54-190/S0025-5718-1990-1011446-7/S0025-5718-1990-1011446-7.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2009985306.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:38.077126+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2009985306",
+    "concepts": [
+      "Mathematics",
+      "Interpolation (computer graphics)",
+      "Piecewise",
+      "Projection (relational algebra)",
+      "Lagrange polynomial"
+    ],
+    "oa_status": "bronze"
+  }
+}

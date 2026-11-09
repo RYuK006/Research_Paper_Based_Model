@@ -1,0 +1,62 @@
+{
+  "id": "openalex:W2131492616",
+  "title": "Printed covalent glycan array for ligand profiling of diverse glycan binding proteins",
+  "abstract": "Here we describe a glycan microarray constructed by using standard robotic microarray printing technology to couple amine functionalized glycans to an amino-reactive glass slide. The array comprises 200 synthetic and natural glycan sequences representing major glycan structures of glycoproteins and glycolipids. The array has remarkable utility for profiling the specificity of a diverse range of glycan binding proteins, including C-type lectins, siglecs, galectins, anticarbohydrate antibodies, lectins from plants and microbes, and intact viruses.",
+  "authors": [
+    "Ola Blixt",
+    "Steve Head",
+    "Tony S. Mondala",
+    "Christopher N. Scanlan",
+    "Margaret E. Huflejt",
+    "Richard Alvarez",
+    "Marian C. Bryan",
+    "Fabio Fazio",
+    "Daniel A. Calarese",
+    "James Stevens",
+    "Nahid Razi",
+    "David J. Stevens",
+    "John James Skehel",
+    "Irma van Die",
+    "Dennis R. Burton",
+    "Ian A. Wilson",
+    "Richard D. Cummings",
+    "Nicolai Vladimirovich Bovin",
+    "Chi‐Huey Wong",
+    "James C. Paulson"
+  ],
+  "year": 2004,
+  "doi": "10.1073/pnas.0407902101",
+  "source": "openalex",
+  "categories": [
+    "Glycan",
+    "Galectin",
+    "Lectin",
+    "Glycoprotein",
+    "Biochemistry",
+    "Microarray",
+    "Protein Array Analysis",
+    "Glycolipid",
+    "Biology",
+    "Computational biology",
+    "Chemistry",
+    "DNA microarray",
+    "Gene",
+    "Gene expression"
+  ],
+  "citation_count": 1116,
+  "open_access_pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC534418/pdf/pnas-0407902101.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2131492616.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:19.541866+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2131492616",
+    "concepts": [
+      "Glycan",
+      "Galectin",
+      "Lectin",
+      "Glycoprotein",
+      "Biochemistry"
+    ],
+    "oa_status": "green"
+  }
+}

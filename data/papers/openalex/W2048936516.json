@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2048936516",
+  "title": "Resistive switching in transition metal oxides",
+  "abstract": "Rapid advances in information technology rely on high-speed and large-capacity nonvolatile memories. A number of alternatives to contemporary Flash memory have been extensively studied to obtain a more powerful and functional nonvolatile memory. We review the current status of one of the alternatives, resistance random access memory (ReRAM), which uses a resistive switching phenomenon found in transition metal oxides. A ReRAM memory cell is a capacitor-like structure composed of insulating or semiconducting transition metal oxides that exhibits reversible resistive switching on applying voltage pulses. Recent advances in the understanding of the driving mechanism are described in light of experimental results involving memory cells composed of perovskite manganites and titanates.",
+  "authors": [
+    "Akihito Sawa"
+  ],
+  "year": 2008,
+  "doi": "10.1016/s1369-7021(08)70119-6",
+  "source": "openalex",
+  "categories": [
+    "Resistive random-access memory",
+    "Non-volatile memory",
+    "Materials science",
+    "Optoelectronics",
+    "Capacitor",
+    "Perovskite (structure)",
+    "Flash memory",
+    "Resistive touchscreen",
+    "Nanotechnology",
+    "Mechanism (biology)",
+    "Voltage",
+    "Flash (photography)",
+    "Random access",
+    "Transition metal",
+    "Electrical engineering",
+    "Computer science",
+    "Chemistry",
+    "Computer hardware",
+    "Physics",
+    "Engineering",
+    "Optics",
+    "Chemical engineering",
+    "Catalysis",
+    "Quantum mechanics",
+    "Biochemistry",
+    "Operating system"
+  ],
+  "citation_count": 2960,
+  "open_access_pdf_url": "https://www.sciencedirect.com/science/article/pii/S1369702108701196/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2048936516.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:01.825383+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2048936516",
+    "concepts": [
+      "Resistive random-access memory",
+      "Non-volatile memory",
+      "Materials science",
+      "Optoelectronics",
+      "Capacitor"
+    ],
+    "oa_status": "hybrid"
+  }
+}

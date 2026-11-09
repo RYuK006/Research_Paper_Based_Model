@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W3154258817",
+  "title": "ADMETlab 2.0: an integrated online platform for accurate and comprehensive predictions of ADMET properties",
+  "abstract": "Because undesirable pharmacokinetics and toxicity of candidate compounds are the main reasons for the failure of drug development, it has been widely recognized that absorption, distribution, metabolism, excretion and toxicity (ADMET) should be evaluated as early as possible. In silico ADMET evaluation models have been developed as an additional tool to assist medicinal chemists in the design and optimization of leads. Here, we announced the release of ADMETlab 2.0, a completely redesigned version of the widely used AMDETlab web server for the predictions of pharmacokinetics and toxicity properties of chemicals, of which the supported ADMET-related endpoints are approximately twice the number of the endpoints in the previous version, including 17 physicochemical properties, 13 medicinal chemistry properties, 23 ADME properties, 27 toxicity endpoints and 8 toxicophore rules (751 substructures). A multi-task graph attention framework was employed to develop the robust and accurate models in ADMETlab 2.0. The batch computation module was provided in response to numerous requests from users, and the representation of the results was further optimized. The ADMETlab 2.0 server is freely available, without registration, at https://admetmesh.scbdd.com/.",
+  "authors": [
+    "Guo‐Li Xiong",
+    "Zhenxing Wu",
+    "Jiacai Yi",
+    "Li Fu",
+    "Zhijiang Yang",
+    "Chang‐Yu Hsieh",
+    "Mingzhu Yin",
+    "Xiangxiang Zeng",
+    "Chengkun Wu",
+    "Aiping Lü",
+    "Xiang Chen",
+    "Tingjun Hou",
+    "Dongsheng Cao"
+  ],
+  "year": 2021,
+  "doi": "10.1093/nar/gkab255",
+  "source": "openalex",
+  "categories": [
+    "ADME",
+    "In silico",
+    "Toxicity",
+    "Computer science",
+    "Computational biology",
+    "Biology",
+    "Pharmacokinetics",
+    "Web server",
+    "Pharmacology",
+    "The Internet",
+    "World Wide Web",
+    "Biochemistry",
+    "Chemistry",
+    "Organic chemistry",
+    "Gene"
+  ],
+  "citation_count": 3021,
+  "open_access_pdf_url": "https://academic.oup.com/nar/article-pdf/49/W1/W5/38842097/gkab255.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3154258817.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:01.793880+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3154258817",
+    "concepts": [
+      "ADME",
+      "In silico",
+      "Toxicity",
+      "Computer science",
+      "Computational biology"
+    ],
+    "oa_status": "gold"
+  }
+}

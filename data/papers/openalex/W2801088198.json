@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2801088198",
+  "title": "ProTox-II: a webserver for the prediction of toxicity of chemicals",
+  "abstract": "Advancement in the field of computational research has made it possible for the in silico methods to offer significant benefits to both regulatory needs and requirements for risk assessments, and pharmaceutical industry to assess the safety profile of a chemical. Here, we present ProTox-II that incorporates molecular similarity, pharmacophores, fragment propensities and machine-learning models for the prediction of various toxicity endpoints; such as acute toxicity, hepatotoxicity, cytotoxicity, carcinogenicity, mutagenicity, immunotoxicity, adverse outcomes pathways (Tox21) and toxicity targets. The predictive models are built on data from both in vitro assays (e.g. Tox21 assays, Ames bacterial mutation assays, hepG2 cytotoxicity assays, Immunotoxicity assays) and in vivo cases (e.g. carcinogenicity, hepatotoxicity). The models have been validated on independent external sets and have shown strong performance. ProTox-II provides a freely available webserver for in silico toxicity prediction for toxicologists, regulatory agencies, computational and medicinal chemists, and all users without login at http://tox.charite.de/protox_II. The webserver takes a two-dimensional chemical structure as an input and reports the possible toxicity profile of the chemical for 33 models with confidence scores, and an overall toxicity radar chart along with three most similar compounds with known acute toxicity.",
+  "authors": [
+    "Priyanka Banerjee",
+    "Andreas Philipp Eckert",
+    "Anna K. Schrey",
+    "Robert Preißner"
+  ],
+  "year": 2018,
+  "doi": "10.1093/nar/gky318",
+  "source": "openalex",
+  "categories": [
+    "In silico",
+    "Toxicity",
+    "Biology",
+    "Computational biology",
+    "Pharmacophore",
+    "Cytotoxicity",
+    "Toxicology",
+    "In vitro toxicology",
+    "Pharmacology",
+    "In vivo",
+    "Bioinformatics",
+    "Biotechnology",
+    "Biochemistry",
+    "In vitro",
+    "Chemistry",
+    "Gene",
+    "Organic chemistry"
+  ],
+  "citation_count": 3381,
+  "open_access_pdf_url": "https://academic.oup.com/nar/article-pdf/46/W1/W257/25110434/gky318.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2801088198.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:57.750894+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2801088198",
+    "concepts": [
+      "In silico",
+      "Toxicity",
+      "Biology",
+      "Computational biology",
+      "Pharmacophore"
+    ],
+    "oa_status": "gold"
+  }
+}

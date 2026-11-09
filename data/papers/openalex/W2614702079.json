@@ -1,0 +1,60 @@
+{
+  "id": "openalex:W2614702079",
+  "title": "Efficient hydrogen production on MoNi4 electrocatalysts with fast water dissociation kinetics",
+  "abstract": "Abstract Various platinum-free electrocatalysts have been explored for hydrogen evolution reaction in acidic solutions. However, in economical water-alkali electrolysers, sluggish water dissociation kinetics (Volmer step) on platinum-free electrocatalysts results in poor hydrogen-production activities. Here we report a MoNi 4 electrocatalyst supported by MoO 2 cuboids on nickel foam (MoNi 4 /MoO 2 @Ni), which is constructed by controlling the outward diffusion of nickel atoms on annealing precursor NiMoO 4 cuboids on nickel foam. Experimental and theoretical results confirm that a rapid Tafel-step-decided hydrogen evolution proceeds on MoNi 4 electrocatalyst. As a result, the MoNi 4 electrocatalyst exhibits zero onset overpotential, an overpotential of 15 mV at 10 mA cm −2 and a low Tafel slope of 30 mV per decade in 1 M potassium hydroxide electrolyte, which are comparable to the results for platinum and superior to those for state-of-the-art platinum-free electrocatalysts. Benefiting from its scalable preparation and stability, the MoNi 4 electrocatalyst is promising for practical water-alkali electrolysers.",
+  "authors": [
+    "Jian Zhang",
+    "Tao Wang",
+    "Pan Liu",
+    "Zhongquan Liao",
+    "Shaohua Liu",
+    "Xiaodong Zhuang",
+    "Mingwei W. Chen",
+    "Ehrenfried Zschech",
+    "Xinliang Feng"
+  ],
+  "year": 2017,
+  "doi": "10.1038/ncomms15437",
+  "source": "openalex",
+  "categories": [
+    "Overpotential",
+    "Electrocatalyst",
+    "Tafel equation",
+    "Platinum",
+    "Nickel",
+    "Electrolyte",
+    "Dissociation (chemistry)",
+    "Inorganic chemistry",
+    "Hydrogen production",
+    "Nickel sulfide",
+    "Chemical engineering",
+    "Water splitting",
+    "Materials science",
+    "Chemistry",
+    "Hydrogen",
+    "Catalysis",
+    "Electrochemistry",
+    "Electrode",
+    "Physical chemistry",
+    "Metallurgy",
+    "Organic chemistry",
+    "Photocatalysis",
+    "Engineering"
+  ],
+  "citation_count": 1207,
+  "open_access_pdf_url": "https://www.nature.com/articles/ncomms15437.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2614702079.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:08.212429+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2614702079",
+    "concepts": [
+      "Overpotential",
+      "Electrocatalyst",
+      "Tafel equation",
+      "Platinum",
+      "Nickel"
+    ],
+    "oa_status": "gold"
+  }
+}

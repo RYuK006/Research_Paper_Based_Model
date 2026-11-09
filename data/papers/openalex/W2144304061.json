@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2144304061",
+  "title": "Emission factors for open and domestic biomass burning for use in atmospheric models",
+  "abstract": "Abstract. Biomass burning (BB) is the second largest source of trace gases and the largest source of primary fine carbonaceous particles in the global troposphere. Many recent BB studies have provided new emission factor (EF) measurements. This is especially true for non-methane organic compounds (NMOC), which influence secondary organic aerosol (SOA) and ozone formation. New EF should improve regional to global BB emissions estimates and therefore, the input for atmospheric models. In this work we present an up-to-date, comprehensive tabulation of EF for known pyrogenic species based on measurements made in smoke that has cooled to ambient temperature, but not yet undergone significant photochemical processing. All EFs are converted to one standard form (g compound emitted per kg dry biomass burned) using the carbon mass balance method and they are categorized into 14 fuel or vegetation types. Biomass burning terminology is defined to promote consistency. We compile a large number of measurements of biomass consumption per unit area for important fire types and summarize several recent estimates of global biomass consumption by the major types of biomass burning. Post emission processes are discussed to provide a context for the emission factor concept within overall atmospheric chemistry and also highlight the potential for rapid changes relative to the scale of some models or remote sensing products. Recent work shows that individual biomass fires emit significantly more gas-phase NMOC than previously thought and that including additional NMOC can improve photochemical model performance. A detailed global estimate suggests that BB emits at least 400 Tg yr−1 of gas-phase NMOC, which is almost 3 times larger than most previous estimates. Selected recent results (e.g. measurements of HONO and the BB tracers HCN and CH3CN) are highlighted and key areas requiring future research are briefly discussed.",
+  "authors": [
+    "S. K. Akagi",
+    "R. J. Yokelson",
+    "Christine Wiedinmyer",
+    "Matthew James Alvarado",
+    "Jeffrey S. Reid",
+    "Thomas Karl",
+    "John D. Crounse",
+    "Paul O. Wennberg"
+  ],
+  "year": 2011,
+  "doi": "10.5194/acp-11-4039-2011",
+  "source": "openalex",
+  "categories": [
+    "Biomass burning",
+    "Context (archaeology)",
+    "Biomass (ecology)",
+    "Atmospheric sciences",
+    "Trace gas",
+    "Aerosol",
+    "Atmospheric chemistry",
+    "Environmental science",
+    "Chemistry",
+    "Troposphere",
+    "Environmental chemistry",
+    "Emission inventory",
+    "Ozone",
+    "Air pollution",
+    "Ecology",
+    "Geology",
+    "Organic chemistry",
+    "Paleontology",
+    "Biology"
+  ],
+  "citation_count": 2173,
+  "open_access_pdf_url": "https://acp.copernicus.org/articles/11/4039/2011/acp-11-4039-2011.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2144304061.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:12.686411+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2144304061",
+    "concepts": [
+      "Biomass burning",
+      "Context (archaeology)",
+      "Biomass (ecology)",
+      "Atmospheric sciences",
+      "Trace gas"
+    ],
+    "oa_status": "gold"
+  }
+}

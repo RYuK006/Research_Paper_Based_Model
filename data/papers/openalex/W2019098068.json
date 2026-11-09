@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2019098068",
+  "title": "Photodynamic antimicrobial chemotherapy (PACT)",
+  "abstract": "Whereas the photodynamic therapy (PDT) of cancer has recently shown rapid clinical acceptance, photodynamic antimicrobial chemotherapy (PACT)--which predates the related cancer regimen--is not widely appreciated. Like PDT, PACT utilizes photosensitizers and visible or ultraviolet light in order to give a phototoxic response, normally via oxidative damage. Currently, the major use of PACT is in the disinfection of blood products, particularly for viral inactivation, although more clinically-based protocols are being developed, e.g. in the treatment of oral infection. The technique has been shown to be effective in vitro against bacteria (including drug-resistant strains), yeasts, viruses and parasites. A wide range of photosensitizers, both natural and synthetic, is available with differing physicochemical make-up and light-absorption properties. PACT is proposed as a potential, low-cost approach to the treatment of locally occurring infection.",
+  "authors": [
+    "MARK S. WAINWRIGHT"
+  ],
+  "year": 1998,
+  "doi": "10.1093/jac/42.1.13",
+  "source": "openalex",
+  "categories": [
+    "Pact",
+    "Antimicrobial chemotherapy",
+    "Antimicrobial",
+    "Photodynamic therapy",
+    "Phototoxicity",
+    "Chemotherapy",
+    "Medicine",
+    "Drug",
+    "Cancer",
+    "Regimen",
+    "Pharmacology",
+    "Microbiology",
+    "In vitro",
+    "Chemistry",
+    "Biology",
+    "Internal medicine",
+    "History",
+    "Biochemistry",
+    "Organic chemistry",
+    "Archaeology"
+  ],
+  "citation_count": 1240,
+  "open_access_pdf_url": "https://doi.org/10.1093/jac/42.1.13",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2019098068.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:02.802895+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2019098068",
+    "concepts": [
+      "Pact",
+      "Antimicrobial chemotherapy",
+      "Antimicrobial",
+      "Photodynamic therapy",
+      "Phototoxicity"
+    ],
+    "oa_status": "closed"
+  }
+}

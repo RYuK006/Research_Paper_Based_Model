@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W2070396671",
+  "title": "Sorafenib Blocks the RAF/MEK/ERK Pathway, Inhibits Tumor Angiogenesis, and Induces Tumor Cell Apoptosis in Hepatocellular Carcinoma Model PLC/PRF/5",
+  "abstract": "Angiogenesis and signaling through the RAF/mitogen-activated protein/extracellular signal-regulated kinase (ERK) kinase (MEK)/ERK cascade have been reported to play important roles in the development of hepatocellular carcinomas (HCC). Sorafenib (BAY 43-9006, Nexavar) is a multikinase inhibitor with activity against Raf kinase and several receptor tyrosine kinases, including vascular endothelial growth factor receptor 2 (VEGFR2), platelet-derived growth factor receptor (PDGFR), FLT3, Ret, and c-Kit. In this study, we investigated the in vitro effects of sorafenib on PLC/PRF/5 and HepG2 HCC cells and the in vivo antitumor efficacy and mechanism of action on PLC/PRF/5 human tumor xenografts in severe combined immunodeficient mice. Sorafenib inhibited the phosphorylation of MEK and ERK and down-regulated cyclin D1 levels in these two cell lines. Sorafenib also reduced the phosphorylation level of eIF4E and down-regulated the antiapoptotic protein Mcl-1 in a MEK/ERK-independent manner. Consistent with the effects on both MEK/ERK-dependent and MEK/ERK-independent signaling pathways, sorafenib inhibited proliferation and induced apoptosis in both HCC cell lines. In the PLC/PRF/5 xenograft model, sorafenib tosylate dosed at 10 mg/kg inhibited tumor growth by 49%. At 30 mg/kg, sorafenib tosylate produced complete tumor growth inhibition. A dose of 100 mg/kg produced partial tumor regressions in 50% of the mice. In mechanism of action studies, sorafenib inhibited the phosphorylation of both ERK and eIF4E, reduced the microvessel area (assessed by CD34 immunohistochemistry), and induced tumor cell apoptosis (assessed by terminal deoxynucleotidyl transferase-mediated nick end labeling) in PLC/PRF/5 tumor xenografts. These results suggest that the antitumor activity of sorafenib in HCC models may be attributed to inhibition of tumor angiogenesis (VEGFR and PDGFR) and direct effects on tumor cell proliferation/survival (Raf kinase signaling-dependent and signaling-independent mechanisms).",
+  "authors": [
+    "Li Liu",
+    "Yichen Cao",
+    "Charles Chen",
+    "Xiaomei Zhang",
+    "Angela McNabola",
+    "Dean P. Wilkie",
+    "Scott M. Wilhelm",
+    "Mark John Lynch",
+    "Christopher Carter"
+  ],
+  "year": 2006,
+  "doi": "10.1158/0008-5472.can-06-1377",
+  "source": "openalex",
+  "categories": [
+    "Sorafenib",
+    "MAPK/ERK pathway",
+    "Cancer research",
+    "Angiogenesis",
+    "MEK inhibitor",
+    "Kinase",
+    "Medicine",
+    "Chemistry",
+    "Hepatocellular carcinoma",
+    "Biochemistry"
+  ],
+  "citation_count": 1540,
+  "open_access_pdf_url": "https://aacrjournals.org/cancerres/article-pdf/66/24/11851/2557671/11851.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2070396671.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:45.362741+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2070396671",
+    "concepts": [
+      "Sorafenib",
+      "MAPK/ERK pathway",
+      "Cancer research",
+      "Angiogenesis",
+      "MEK inhibitor"
+    ],
+    "oa_status": "hybrid"
+  }
+}

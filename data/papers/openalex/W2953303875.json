@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W2953303875",
+  "title": "A Survey of Autonomous Driving: Common Practices and Emerging Technologies",
+  "abstract": "Automated driving systems (ADSs) promise a safe, comfortable and efficient driving experience. However, fatalities involving vehicles equipped with ADSs are on the rise. The full potential of ADSs cannot be realized unless the robustness of state-of-the-art is improved further. This paper discusses unsolved problems and surveys the technical aspect of automated driving. Studies regarding present challenges, high-level system architectures, emerging methodologies and core functions including localization, mapping, perception, planning, and human machine interfaces, were thoroughly reviewed. Furthermore, many state-of-the-art algorithms were implemented and compared on our own platform in a real-world driving setting. The paper concludes with an overview of available datasets and tools for ADS development.",
+  "authors": [
+    "Ekim Yurtsever",
+    "Jacob Lambert",
+    "Alexander Carballo",
+    "Kazuya Takeda"
+  ],
+  "year": 2020,
+  "doi": "10.1109/access.2020.2983149",
+  "source": "openalex",
+  "categories": [
+    "Robustness (evolution)",
+    "Computer science",
+    "Perception",
+    "Emerging technologies",
+    "Data science",
+    "Systems engineering",
+    "Human–computer interaction",
+    "Artificial intelligence",
+    "Engineering",
+    "Gene",
+    "Biology",
+    "Biochemistry",
+    "Chemistry",
+    "Neuroscience"
+  ],
+  "citation_count": 2056,
+  "open_access_pdf_url": "https://ieeexplore.ieee.org/ielx7/6287639/8948470/09046805.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2953303875.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:15.548119+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2953303875",
+    "concepts": [
+      "Robustness (evolution)",
+      "Computer science",
+      "Perception",
+      "Emerging technologies",
+      "Data science"
+    ],
+    "oa_status": "gold"
+  }
+}

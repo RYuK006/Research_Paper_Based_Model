@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2022731012",
+  "title": "Unimpeded Permeation of Water Through Helium-Leak–Tight Graphene-Based Membranes",
+  "abstract": "Permeation through nanometer pores is important in the design of materials for filtration and separation techniques and because of unusual fundamental behavior arising at the molecular scale. We found that submicrometer-thick membranes made from graphene oxide can be completely impermeable to liquids, vapors, and gases, including helium, but these membranes allow unimpeded permeation of water (H(2)O permeates through the membranes at least 10(10) times faster than He). We attribute these seemingly incompatible observations to a low-friction flow of a monolayer of water through two-dimensional capillaries formed by closely spaced graphene sheets. Diffusion of other molecules is blocked by reversible narrowing of the capillaries in low humidity and/or by their clogging with water.",
+  "authors": [
+    "Rahul R. Nair",
+    "HengAn Wu",
+    "P. N. Jayaram",
+    "I. V. Grigorieva",
+    "Andre K. Geim"
+  ],
+  "year": 2012,
+  "doi": "10.1126/science.1211694",
+  "source": "openalex",
+  "categories": [
+    "Membrane",
+    "Permeation",
+    "Graphene",
+    "Solubility",
+    "Helium",
+    "Filtration (mathematics)",
+    "Chemical engineering",
+    "Diffusion",
+    "Materials science",
+    "Semipermeable membrane",
+    "Amorphous solid",
+    "Molecule",
+    "Chemistry",
+    "Polymer chemistry",
+    "Nanotechnology",
+    "Organic chemistry",
+    "Thermodynamics",
+    "Mathematics",
+    "Biochemistry",
+    "Statistics",
+    "Engineering",
+    "Physics"
+  ],
+  "citation_count": 3096,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1112.3488",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2022731012.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:57.905596+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2022731012",
+    "concepts": [
+      "Membrane",
+      "Permeation",
+      "Graphene",
+      "Solubility",
+      "Helium"
+    ],
+    "oa_status": "green"
+  }
+}

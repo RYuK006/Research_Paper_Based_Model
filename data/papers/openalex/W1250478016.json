@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W1250478016",
+  "title": "Contributions to cities' ambient particulate matter (PM): A systematic review of local source contributions at global level",
+  "abstract": "For reducing health impacts from air pollution, it is important to know the sources contributing to human exposure. This study systematically reviewed and analysed available source apportionment studies on particulate matter (of diameter of 10 and 2.5 microns, PM10 and PM2.5) performed in cities to estimate typical shares of the sources of pollution by country and by region. A database with city source apportionment records, estimated with the use of receptor models, was also developed and available at the website of the World Health Organization. Systematic Scopus and Google searches were performed to retrieve city studies of source apportionment for particulate matter. Six source categories were defined. Country and regional averages of source apportionment were estimated based on city population weighting. A total of 419 source apportionment records from studies conducted in cities of 51 countries were used to calculate regional averages of sources of ambient particulate matter. Based on the available information, globally 25% of urban ambient air pollution from PM2.5 is contributed by traffic, 15% by industrial activities, 20% by domestic fuel burning, 22% from unspecified sources of human origin, and 18% from natural dust and salt. The available source apportionment records exhibit, however, important heterogeneities in assessed source categories and incompleteness in certain countries/regions. Traffic is one important contributor to ambient PM in cities. To reduce air pollution in cities and the substantial disease burden it causes, solutions to sustainably reduce ambient PM from traffic, industrial activities and biomass burning should urgently be sought. However, further efforts are required to improve data availability and evaluation, and possibly to combine with other types of information in view of increasing usefulness for policy making.",
+  "authors": [
+    "Federico Karagulian",
+    "Claudio A. Belis",
+    "Carlos Francisco C. Dora",
+    "Annette Prüss‐Üstün",
+    "Sophie Bonjour",
+    "Heather Adair‐Rohani",
+    "Markus Christian Amann"
+  ],
+  "year": 2015,
+  "doi": "10.1016/j.atmosenv.2015.08.087",
+  "source": "openalex",
+  "categories": [
+    "Apportionment",
+    "Particulates",
+    "Environmental science",
+    "Air pollution",
+    "Pollution",
+    "Population",
+    "Geography",
+    "Environmental protection",
+    "Environmental engineering",
+    "Environmental health",
+    "Chemistry",
+    "Political science",
+    "Medicine",
+    "Ecology",
+    "Biology",
+    "Organic chemistry",
+    "Law"
+  ],
+  "citation_count": 1177,
+  "open_access_pdf_url": "https://www.sciencedirect.com/science/article/pii/S1352231015303320/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1250478016.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:12.102213+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1250478016",
+    "concepts": [
+      "Apportionment",
+      "Particulates",
+      "Environmental science",
+      "Air pollution",
+      "Pollution"
+    ],
+    "oa_status": "hybrid"
+  }
+}

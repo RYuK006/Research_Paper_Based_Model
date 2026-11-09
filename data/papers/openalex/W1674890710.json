@@ -1,0 +1,43 @@
+{
+  "id": "openalex:W1674890710",
+  "title": "Multiferroicity: the coupling between magnetic and polarization orders",
+  "abstract": "Multiferroics, defined for those multifunctional materials in which two or more kinds of fundamental ferroicities coexist, have become one of the hottest topics of condensed matter physics and materials science in recent years. The coexistence of several order parameters in multiferroics brings out novel physical phenomena and offers possibilities for new device functions. The revival of research activities on multiferroics is evidenced by some novel discoveries and concepts, both experimentally and theoretically. In this review, we outline some of the progressive milestones in this stimulating field, especially for those single-phase multiferroics where magnetism and ferroelectricity coexist. First, we highlight the physical concepts of multiferroicity and the current challenges to integrate the magnetism and ferroelectricity into a single-phase system. Subsequently, we summarize various strategies used to combine the two types of order. Special attention is paid to three novel mechanisms for multiferroicity generation: (1) the ferroelectricity induced by the spin orders such as spiral and E-phase antiferromagnetic spin orders, which break the spatial inversion symmetry; (2) the ferroelectricity originating from the charge-ordered states; and (3) the ferrotoroidic system. Then, we address the elementary excitations such as electromagnons, and the application potentials of multiferroics. Finally, open questions and future research opportunities are proposed.",
+  "authors": [
+    "Kefeng Wang",
+    "Jun‐Ming Liu",
+    "Zhifeng Ren"
+  ],
+  "year": 2009,
+  "doi": "10.1080/00018730902920554",
+  "source": "openalex",
+  "categories": [
+    "Multiferroics",
+    "Ferroelectricity",
+    "Magnetism",
+    "Condensed matter physics",
+    "Antiferromagnetism",
+    "Physics",
+    "Polarization (electrochemistry)",
+    "Engineering physics",
+    "Quantum mechanics",
+    "Chemistry",
+    "Dielectric",
+    "Physical chemistry"
+  ],
+  "citation_count": 1503,
+  "open_access_pdf_url": "https://arxiv.org/pdf/0908.0662",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1674890710.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:45.566621+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1674890710",
+    "concepts": [
+      "Multiferroics",
+      "Ferroelectricity",
+      "Magnetism",
+      "Condensed matter physics",
+      "Antiferromagnetism"
+    ],
+    "oa_status": "green"
+  }
+}

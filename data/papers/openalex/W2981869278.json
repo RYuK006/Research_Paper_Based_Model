@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2981869278",
+  "title": "Dissecting racial bias in an algorithm used to manage the health of populations",
+  "abstract": "Health systems rely on commercial prediction algorithms to identify and help patients with complex health needs. We show that a widely used algorithm, typical of this industry-wide approach and affecting millions of patients, exhibits significant racial bias: At a given risk score, Black patients are considerably sicker than White patients, as evidenced by signs of uncontrolled illnesses. Remedying this disparity would increase the percentage of Black patients receiving additional help from 17.7 to 46.5%. The bias arises because the algorithm predicts health care costs rather than illness, but unequal access to care means that we spend less money caring for Black patients than for White patients. Thus, despite health care cost appearing to be an effective proxy for health by some measures of predictive accuracy, large racial biases arise. We suggest that the choice of convenient, seemingly effective proxies for ground truth can be an important source of algorithmic bias in many contexts.",
+  "authors": [
+    "Ziad Obermeyer",
+    "Brian W. Powers",
+    "Christine Vogeli",
+    "Sendhil Mullainathan"
+  ],
+  "year": 2019,
+  "doi": "10.1126/science.aax2342",
+  "source": "openalex",
+  "categories": [
+    "Proxy (statistics)",
+    "Health care",
+    "Racial bias",
+    "Computer science",
+    "White (mutation)",
+    "Actuarial science",
+    "Health care cost",
+    "Medicine",
+    "Racism",
+    "Algorithm",
+    "Psychology",
+    "Machine learning",
+    "Economics",
+    "Political science",
+    "Biochemistry",
+    "Gene",
+    "Law",
+    "Chemistry",
+    "Economic growth"
+  ],
+  "citation_count": 8196,
+  "open_access_pdf_url": "https://escholarship.org/content/qt6h92v832/qt6h92v832.pdf?t=q5l8ac",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2981869278.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:49.921647+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2981869278",
+    "concepts": [
+      "Proxy (statistics)",
+      "Health care",
+      "Racial bias",
+      "Computer science",
+      "White (mutation)"
+    ],
+    "oa_status": "green"
+  }
+}

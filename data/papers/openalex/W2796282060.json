@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2796282060",
+  "title": "Review on modeling of the anode solid electrolyte interphase (SEI) for lithium-ion batteries",
+  "abstract": "Abstract A passivation layer called the solid electrolyte interphase (SEI) is formed on electrode surfaces from decomposition products of electrolytes. The SEI allows Li + transport and blocks electrons in order to prevent further electrolyte decomposition and ensure continued electrochemical reactions. The formation and growth mechanism of the nanometer thick SEI films are yet to be completely understood owing to their complex structure and lack of reliable in situ experimental techniques. Significant advances in computational methods have made it possible to predictively model the fundamentals of SEI. This review aims to give an overview of state-of-the-art modeling progress in the investigation of SEI films on the anodes, ranging from electronic structure calculations to mesoscale modeling, covering the thermodynamics and kinetics of electrolyte reduction reactions, SEI formation, modification through electrolyte design, correlation of SEI properties with battery performance, and the artificial SEI design. Multi-scale simulations have been summarized and compared with each other as well as with experiments. Computational details of the fundamental properties of SEI, such as electron tunneling, Li-ion transport, chemical/mechanical stability of the bulk SEI and electrode/(SEI/) electrolyte interfaces have been discussed. This review shows the potential of computational approaches in the deconvolution of SEI properties and design of artificial SEI. We believe that computational modeling can be integrated with experiments to complement each other and lead to a better understanding of the complex SEI for the development of a highly efficient battery in the future.",
+  "authors": [
+    "Aiping Wang",
+    "Sanket Kadam",
+    "Hong Li",
+    "Siqi Shi",
+    "Yue Qi"
+  ],
+  "year": 2018,
+  "doi": "10.1038/s41524-018-0064-0",
+  "source": "openalex",
+  "categories": [
+    "Electrolyte",
+    "Anode",
+    "Battery (electricity)",
+    "Lithium-ion battery",
+    "Electrochemistry",
+    "Materials science",
+    "Lithium (medication)",
+    "Nanotechnology",
+    "Chemical engineering",
+    "Electrode",
+    "Chemistry",
+    "Thermodynamics",
+    "Physical chemistry",
+    "Physics",
+    "Engineering",
+    "Medicine",
+    "Power (physics)",
+    "Endocrinology"
+  ],
+  "citation_count": 1707,
+  "open_access_pdf_url": "https://www.nature.com/articles/s41524-018-0064-0.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2796282060.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:33.129443+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2796282060",
+    "concepts": [
+      "Electrolyte",
+      "Anode",
+      "Battery (electricity)",
+      "Lithium-ion battery",
+      "Electrochemistry"
+    ],
+    "oa_status": "gold"
+  }
+}

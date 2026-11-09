@@ -1,0 +1,37 @@
+{
+  "id": "openalex:W4220699429",
+  "title": "Cell cycle regulation: p53-p21-RB signaling",
+  "abstract": "The retinoblastoma protein RB and the transcription factor p53 are central tumor suppressors. They are often found inactivated in various tumor types. Both proteins play central roles in regulating the cell division cycle. RB forms complexes with the E2F family of transcription factors and downregulates numerous genes. Among the RB-E2F target genes, a large number code for key cell cycle regulators. Their transcriptional repression by the RB-E2F complex is released through phosphorylation of RB, leading to expression of the cell cycle regulators. The release from repression can be prevented by the cyclin-dependent kinase inhibitor p21/CDKN1A. The CDKN1A gene is transcriptionally activated by p53. Taken together, these elements constitute the p53-p21-RB signaling pathway. Following activation of p53, for example by viral infection or induction of DNA damage, p21 expression is upregulated. High levels of p21 then result in RB-E2F complex formation and downregulation of a large number of cell cycle genes. Thus, p53-dependent transcriptional repression is indirect. The reduced expression of the many regulators leads to cell cycle arrest. Examination of the p53-p21-RB targets and genes controlled by the related p53-p21-DREAM signaling pathway reveals that there is a large overlap of the two groups. Mechanistically this can be explained by replacing RB-E2F complexes with the DREAM transcriptional repressor complex at E2F sites in target promoters. In contrast to RB-E2F, DREAM can downregulate genes also through CHR transcription factor binding sites. This results in a distinct gene set controlled by p53-p21-DREAM signaling independent of RB-E2F. Furthermore, RB has non-canonical functions without binding to E2F and DNA. Such a role of RB supporting DREAM formation may be exerted by the RB-SKP2-p27-cyclin A/E-CDK2-p130-DREAM link. In the current synopsis, the mechanism of regulation by p53-p21-RB signaling is assessed and the overlap with p53-p21-DREAM signaling is examined.",
+  "authors": [
+    "Kurt Engeland"
+  ],
+  "year": 2022,
+  "doi": "10.1038/s41418-022-00988-z",
+  "source": "openalex",
+  "categories": [
+    "Cell biology",
+    "Cell cycle",
+    "Signal transduction",
+    "Chemistry",
+    "Cancer research",
+    "Cell",
+    "Biology",
+    "Biochemistry"
+  ],
+  "citation_count": 1366,
+  "open_access_pdf_url": "https://www.nature.com/articles/s41418-022-00988-z.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W4220699429.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:55.091493+00:00",
+  "raw_metadata": {
+    "openalex_id": "W4220699429",
+    "concepts": [
+      "Cell biology",
+      "Cell cycle",
+      "Signal transduction",
+      "Chemistry",
+      "Cancer research"
+    ],
+    "oa_status": "hybrid"
+  }
+}

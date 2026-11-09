@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2083764460",
+  "title": "Association Between Duration of Untreated Psychosis and Outcome in Cohorts of First-Episode Patients",
+  "abstract": "CONTEXT: Duration of untreated psychosis (DUP) is the time from manifestation of the first psychotic symptom to initiation of adequate treatment. It has been postulated that a longer DUP leads to a poorer prognosis. If so, outcome might be improved through earlier detection and treatment. OBJECTIVES: To establish whether DUP is associated with prognosis and to determine whether any association is explained by confounding with premorbid adjustment. DATA SOURCES: The CINAHL (Cumulative Index to Nursing and Allied Health), EMBASE, MEDLINE, and PsychLIT databases were searched from their inception dates to May 2004. STUDY SELECTION: Eligible studies reported the relationship between DUP and outcome in prospective cohorts recruited during their first episode of psychosis. Twenty-six eligible studies involving 4490 participants were identified from 11 458 abstracts, each screened by 2 reviewers. DATA EXTRACTION: Data were extracted independently and were checked by double entry. Sensitivity analyses were conducted excluding studies that had follow-up rates of less than 80%, included affective psychoses, or did not use a standardized assessment of DUP. DATA SYNTHESIS: Independent meta-analyses were conducted of correlational data and of data derived from comparisons of long and short DUP groups. Most data were correlational, and these showed a significant association between DUP and several outcomes at 6 and 12 months (including total symptoms, depression/anxiety, negative symptoms, overall functioning, positive symptoms, and social functioning). Long vs short DUP data showed an association between longer DUP and worse outcome at 6 months in terms of total symptoms, overall functioning, positive symptoms, and quality of life. Patients with a long DUP were significantly less likely to achieve remission. The observed association between DUP and outcome was not explained by premorbid adjustment. CONCLUSIONS: There is convincing evidence of a modest association between DUP and outcome, which supports the case for clinical trials that examine the effect of reducing DUP.",
+  "authors": [
+    "Max Marshall",
+    "Shôn W. Lewis",
+    "Austin Lockwood",
+    "Richard Drake",
+    "Peter Brian Jones",
+    "Tim J. Croudace"
+  ],
+  "year": 2005,
+  "doi": "10.1001/archpsyc.62.9.975",
+  "source": "openalex",
+  "categories": [
+    "dup",
+    "Psychosis",
+    "Anxiety",
+    "Confounding",
+    "Psychology",
+    "Context (archaeology)",
+    "Clinical psychology",
+    "Psychiatry",
+    "Medicine",
+    "Internal medicine",
+    "Paleontology",
+    "Biology",
+    "Biochemistry",
+    "Gene duplication",
+    "Chemistry",
+    "Gene"
+  ],
+  "citation_count": 1657,
+  "open_access_pdf_url": "https://doi.org/10.1001/archpsyc.62.9.975",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2083764460.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:37.964286+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2083764460",
+    "concepts": [
+      "dup",
+      "Psychosis",
+      "Anxiety",
+      "Confounding",
+      "Psychology"
+    ],
+    "oa_status": "closed"
+  }
+}

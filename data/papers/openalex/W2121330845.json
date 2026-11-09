@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2121330845",
+  "title": "Structural and functional features and significance of the physical linkage between ER and mitochondria",
+  "abstract": "The role of mitochondria in cell metabolism and survival is controlled by calcium signals that are commonly transmitted at the close associations between mitochondria and endoplasmic reticulum (ER). However, the physical linkage of the ER-mitochondria interface and its relevance for cell function remains elusive. We show by electron tomography that ER and mitochondria are adjoined by tethers that are approximately 10 nm at the smooth ER and approximately 25 nm at the rough ER. Limited proteolysis separates ER from mitochondria, whereas expression of a short \"synthetic linker\" (<5 nm) leads to tightening of the associations. Although normal connections are necessary and sufficient for proper propagation of ER-derived calcium signals to the mitochondria, tightened connections, synthetic or naturally observed under apoptosis-inducing conditions, make mitochondria prone to Ca2+ overloading and ensuing permeability transition. These results reveal an unexpected dependence of cell function and survival on the maintenance of proper spacing between the ER and mitochondria.",
+  "authors": [
+    "György Csordás",
+    "Christian W. Renken",
+    "Péter Várnai",
+    "Ludivine Walter",
+    "David Weaver",
+    "KAROLYN F. BUTTLE",
+    "Tamás Balla",
+    "Carmen A. Mannella",
+    "György Hajnóczky"
+  ],
+  "year": 2006,
+  "doi": "10.1083/jcb.200604016",
+  "source": "openalex",
+  "categories": [
+    "Mitochondrion",
+    "Endoplasmic reticulum",
+    "Cell biology",
+    "Biology",
+    "Organelle",
+    "Calcium",
+    "Apoptosis",
+    "Cell",
+    "Biochemistry",
+    "Chemistry",
+    "Organic chemistry"
+  ],
+  "citation_count": 1418,
+  "open_access_pdf_url": "http://jcb.rupress.org/content/174/7/915.full.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2121330845.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:50.645501+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2121330845",
+    "concepts": [
+      "Mitochondrion",
+      "Endoplasmic reticulum",
+      "Cell biology",
+      "Biology",
+      "Organelle"
+    ],
+    "oa_status": "bronze"
+  }
+}

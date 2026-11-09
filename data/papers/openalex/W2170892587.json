@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W2170892587",
+  "title": "Estimating the sample mean and standard deviation from the sample size, median, range and/or interquartile range",
+  "abstract": "BACKGROUND: In systematic reviews and meta-analysis, researchers often pool the results of the sample mean and standard deviation from a set of similar clinical trials. A number of the trials, however, reported the study using the median, the minimum and maximum values, and/or the first and third quartiles. Hence, in order to combine results, one may have to estimate the sample mean and standard deviation for such trials. METHODS: In this paper, we propose to improve the existing literature in several directions. First, we show that the sample standard deviation estimation in Hozo et al.'s method (BMC Med Res Methodol 5:13, 2005) has some serious limitations and is always less satisfactory in practice. Inspired by this, we propose a new estimation method by incorporating the sample size. Second, we systematically study the sample mean and standard deviation estimation problem under several other interesting settings where the interquartile range is also available for the trials. RESULTS: We demonstrate the performance of the proposed methods through simulation studies for the three frequently encountered scenarios, respectively. For the first two scenarios, our method greatly improves existing methods and provides a nearly unbiased estimate of the true sample standard deviation for normal data and a slightly biased estimate for skewed data. For the third scenario, our method still performs very well for both normal data and skewed data. Furthermore, we compare the estimators of the sample mean and standard deviation under all three scenarios and present some suggestions on which scenario is preferred in real-world applications. CONCLUSIONS: In this paper, we discuss different approximation methods in the estimation of the sample mean and standard deviation and propose some new estimation methods to improve the existing literature. We conclude our work with a summary table (an Excel spread sheet including all formulas) that serves as a comprehensive guidance for performing meta-analysis in different situations.",
+  "authors": [
+    "Xiang Wan",
+    "Wenqian Wang",
+    "Jiming Liu",
+    "Tiejun Tong"
+  ],
+  "year": 2014,
+  "doi": "10.1186/1471-2288-14-135",
+  "source": "openalex",
+  "categories": [
+    "Standard deviation",
+    "Sample size determination",
+    "Statistics",
+    "Estimator",
+    "Quartile",
+    "Range (aeronautics)",
+    "Sample (material)",
+    "Interquartile range",
+    "Standard error",
+    "Absolute deviation",
+    "Sample mean and sample covariance",
+    "Studentized range",
+    "Computer science",
+    "Mathematics",
+    "Mean squared error",
+    "Confidence interval",
+    "Econometrics",
+    "Chemistry",
+    "Materials science",
+    "Composite material",
+    "Chromatography"
+  ],
+  "citation_count": 12013,
+  "open_access_pdf_url": "https://bmcmedresmethodol.biomedcentral.com/counter/pdf/10.1186/1471-2288-14-135",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2170892587.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:49.838374+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2170892587",
+    "concepts": [
+      "Standard deviation",
+      "Sample size determination",
+      "Statistics",
+      "Estimator",
+      "Quartile"
+    ],
+    "oa_status": "gold"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2070086504",
+  "title": "Operational testing of hydrological simulation models",
+  "abstract": "A hierarchical scheme for the systematic testing of hydrological simulation models is proposed which ties the nature of the test to the difficulty of the modelling task. The testing is referred to as operational, since its aim is merely to assess the performance of a model in situations as close as possible to those in which it is supposed to be used in practice; in other words, to assess its operational adequacy. The measure of the quality of performance is the degree of agreement of the simulation result with observation. Hence, the power of the tests being proposed is rather modest, and even a fully successful result can be seen only as a necessary, rather than a sufficient, condition for model adequacy vis-à-vis the specific modelling objective. The scheme contains no new and original ideas; it is merely an attempt to present an organized methodology based on standard techniques, a methodology that can be viewed as a generalization of the routine split-sample test. Its main aim is to accommodate the possibility of testing model transposability, both of the simple geographical kind and of more complex kinds, such as transposability between different types of land use, climate, and other types of environmental changes.",
+  "authors": [
+    "Vit Klemeš"
+  ],
+  "year": 1986,
+  "doi": "10.1080/02626668609491024",
+  "source": "openalex",
+  "categories": [
+    "Computer science",
+    "Generalization",
+    "Task (project management)",
+    "Quality (philosophy)",
+    "Sample (material)",
+    "Measure (data warehouse)",
+    "Simple (philosophy)",
+    "Scheme (mathematics)",
+    "Reliability engineering",
+    "Industrial engineering",
+    "Data mining",
+    "Mathematics",
+    "Systems engineering",
+    "Engineering",
+    "Chromatography",
+    "Philosophy",
+    "Chemistry",
+    "Mathematical analysis",
+    "Epistemology"
+  ],
+  "citation_count": 1436,
+  "open_access_pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/02626668609491024?needAccess=true",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2070086504.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:50.542168+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2070086504",
+    "concepts": [
+      "Computer science",
+      "Generalization",
+      "Task (project management)",
+      "Quality (philosophy)",
+      "Sample (material)"
+    ],
+    "oa_status": "bronze"
+  }
+}

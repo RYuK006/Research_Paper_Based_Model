@@ -1,0 +1,59 @@
+{
+  "id": "openalex:W2179042386",
+  "title": "NetVLAD: CNN Architecture for Weakly Supervised Place Recognition",
+  "abstract": "We tackle the problem of large scale visual place recognition, where the task is to quickly and accurately recognize the location of a given query photograph. We present the following four principal contributions. First, we develop a convolutional neural network (CNN) architecture that is trainable in an end-to-end manner directly for the place recognition task. The main component of this architecture, NetVLAD, is a new generalized VLAD layer, inspired by the \"Vector of Locally Aggregated Descriptors\" image representation commonly used in image retrieval. The layer is readily pluggable into any CNN architecture and amenable to training via backpropagation. Second, we create a new weakly supervised ranking loss, which enables end-to-end learning of the architecture's parameters from images depicting the same places over time downloaded from Google Street View Time Machine. Third, we develop an efficient training procedure which can be applied on very large-scale weakly labelled tasks. Finally, we show that the proposed architecture and training procedure significantly outperform non-learnt image representations and off-the-shelf CNN descriptors on challenging place recognition and image retrieval benchmarks.",
+  "authors": [
+    "Relja Arandjelović",
+    "Petr Gronát",
+    "Akihiko Torii",
+    "Tomáš Pajdla",
+    "Josef Šivic"
+  ],
+  "year": 2016,
+  "doi": "10.1109/tpami.2017.2711011",
+  "source": "openalex",
+  "categories": [
+    "Computer science",
+    "Artificial intelligence",
+    "Convolutional neural network",
+    "Pattern recognition (psychology)",
+    "Representation (politics)",
+    "Architecture",
+    "Layer (electronics)",
+    "Ranking (information retrieval)",
+    "Task (project management)",
+    "Image (mathematics)",
+    "Deep learning",
+    "Contextual image classification",
+    "Feature extraction",
+    "Network architecture",
+    "Backpropagation",
+    "Artificial neural network",
+    "Geography",
+    "Management",
+    "Chemistry",
+    "Archaeology",
+    "Computer security",
+    "Political science",
+    "Organic chemistry",
+    "Law",
+    "Economics",
+    "Politics"
+  ],
+  "citation_count": 3532,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1511.07247",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2179042386.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:57.691842+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2179042386",
+    "concepts": [
+      "Computer science",
+      "Artificial intelligence",
+      "Convolutional neural network",
+      "Pattern recognition (psychology)",
+      "Representation (politics)"
+    ],
+    "oa_status": "green"
+  }
+}

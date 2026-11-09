@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W1598925253",
+  "title": "Substrate-induced band gap in graphene on hexagonal boron nitride: Ab initio density functional calculations",
+  "abstract": "We determine the electronic structure of a graphene sheet on top of a lattice-matched hexagonal boron nitride $(h\\text{\\ensuremath{-}}\\mathrm{B}\\mathrm{N})$ substrate using ab initio density functional calculations. The most stable configuration has one carbon atom on top of a boron atom, and the other centered above a BN ring. The resulting inequivalence of the two carbon sites leads to the opening of a gap of $53\\phantom{\\rule{0.3em}{0ex}}\\mathrm{meV}$ at the Dirac points of graphene and to finite masses for the Dirac fermions. Alternative orientations of the graphene sheet on the BN substrate generate similar band gaps and masses. The band gap induced by the BN surface can greatly improve room temperature pinch-off characteristics of graphene-based field effect transistors.",
+  "authors": [
+    "Gianluca Giovannetti",
+    "Petr A. Khomyakov",
+    "Geert Brocks",
+    "Paul J. Kelly",
+    "Jeroen van den Brink"
+  ],
+  "year": 2007,
+  "doi": "10.1103/physrevb.76.073103",
+  "source": "openalex",
+  "categories": [
+    "Graphene",
+    "Materials science",
+    "Band gap",
+    "Ab initio",
+    "Density functional theory",
+    "Hexagonal boron nitride",
+    "Substrate (aquarium)",
+    "Electronic band structure",
+    "Boron nitride",
+    "Graphene nanoribbons",
+    "Ab initio quantum chemistry methods",
+    "Boron",
+    "Condensed matter physics",
+    "Computational chemistry",
+    "Nanotechnology",
+    "Chemistry",
+    "Optoelectronics",
+    "Physics",
+    "Quantum mechanics",
+    "Oceanography",
+    "Geology",
+    "Molecule",
+    "Organic chemistry"
+  ],
+  "citation_count": 1598,
+  "open_access_pdf_url": "http://link.aps.org/pdf/10.1103/PhysRevB.76.073103",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1598925253.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:41.855856+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1598925253",
+    "concepts": [
+      "Graphene",
+      "Materials science",
+      "Band gap",
+      "Ab initio",
+      "Density functional theory"
+    ],
+    "oa_status": "bronze"
+  }
+}

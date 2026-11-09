@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2098167941",
+  "title": "electronic Ligand Builder and Optimization Workbench ( eLBOW ): a tool for ligand coordinate and restraint generation",
+  "abstract": "The electronic Ligand Builder and Optimization Workbench (eLBOW) is a program module of the PHENIX suite of computational crystallographic software. It is designed to be a flexible procedure that uses simple and fast quantum-chemical techniques to provide chemically accurate information for novel and known ligands alike. A variety of input formats and options allow the attainment of a number of diverse goals including geometry optimization and generation of restraints.",
+  "authors": [
+    "Nigel W. Moriarty",
+    "Ralf W. Grosse‐Kunstleve",
+    "Paul D. Adams"
+  ],
+  "year": 2009,
+  "doi": "10.1107/s0907444909029436",
+  "source": "openalex",
+  "categories": [
+    "Workbench",
+    "Software",
+    "Ligand (biochemistry)",
+    "Suite",
+    "Computer science",
+    "Elbow",
+    "Variety (cybernetics)",
+    "Computational science",
+    "Simple (philosophy)",
+    "Programming language",
+    "Chemistry",
+    "Artificial intelligence",
+    "Anatomy",
+    "Biology",
+    "Philosophy",
+    "Epistemology",
+    "Receptor",
+    "History",
+    "Biochemistry",
+    "Archaeology",
+    "Visualization"
+  ],
+  "citation_count": 1347,
+  "open_access_pdf_url": "http://journals.iucr.org/d/issues/2009/10/00/ea5105/ea5105.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2098167941.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:55.214478+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2098167941",
+    "concepts": [
+      "Workbench",
+      "Software",
+      "Ligand (biochemistry)",
+      "Suite",
+      "Computer science"
+    ],
+    "oa_status": "hybrid"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W2093164779",
+  "title": "Nitrogen-Containing Bisphosphonates Inhibit the Mevalonate Pathway and Prevent Post-Translational Prenylation of GTP-Binding Proteins, Including Ras",
+  "abstract": "Bisphosphonates are currently the most important class of antiresorptive drugs used for the treatment of metabolic bone diseases. Although the molecular targets of bisphosphonates have not been identified, these compounds inhibit bone resorption by mechanisms that can lead to osteoclast apoptosis. Bisphosphonates also induce apoptosis in mouse J774 macrophages in vitro, probably by the same mechanisms that lead to osteoclast apoptosis. We have found that, in J774 macrophages, nitrogen-containing bisphosphonates (such as alendronate, ibandronate, and risedronate) inhibit post-translational modification (prenylation) of proteins, including the GTP-binding protein Ras, with farnesyl or geranylgeranyl isoprenoid groups. Clodronate did not inhibit protein prenylation. Mevastatin, an inhibitor of 3-hydroxy-3-methylglutatyl (HMG)-CoA reductase and hence the biosynthetic pathway required for the production of farnesyl pyrophosphate and geranylgeranyl pyrophosphate, also caused apoptosis in J774 macrophages and murine osteoclasts in vitro. Furthermore, alendronate-induced apoptosis, like mevastatin-induced apoptosis, could be suppressed in J774 cells by the addition of farnesyl pyrophosphate or geranylgeranyl pyrophosphate, while the effect of alendronate on osteoclast number and bone resorption in murine calvariae in vitro could be overcome by the addition of mevalonic acid. These observations suggest that nitrogen-containing bisphosphonate drugs cause apoptosis following inhibition of post-translational prenylation of proteins such as Ras. It is likely that these potent antiresorptive bisphosphonates also inhibit bone resorption by preventing protein prenylation in osteoclasts and that enzymes of the mevalonate pathway or prenyl protein transferases are the molecular targets of the nitrogen-containing bisphosphonates. Furthermore, the data support the view that clodronate acts by a different mechanism.",
+  "authors": [
+    "Steven Paul Luckman",
+    "David Emlyn Hughes",
+    "Fraser P. Coxon",
+    "R.G.G. Russell",
+    "Michael J. Rogers"
+  ],
+  "year": 1998,
+  "doi": "10.1359/jbmr.1998.13.4.581",
+  "source": "openalex",
+  "categories": [
+    "Prenylation",
+    "Mevalonate pathway",
+    "GTP'",
+    "GTP-binding protein regulators",
+    "Chemistry",
+    "Mevalonic acid",
+    "Biochemistry",
+    "Pharmacology",
+    "Medicine",
+    "G protein",
+    "Signal transduction",
+    "Enzyme",
+    "Biosynthesis"
+  ],
+  "citation_count": 1176,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1359/jbmr.1998.13.4.581",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2093164779.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:12.130842+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2093164779",
+    "concepts": [
+      "Prenylation",
+      "Mevalonate pathway",
+      "GTP'",
+      "GTP-binding protein regulators",
+      "Chemistry"
+    ],
+    "oa_status": "bronze"
+  }
+}

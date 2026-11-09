@@ -1,0 +1,57 @@
+{
+  "id": "openalex:W2332630894",
+  "title": "Peginterferon Alfa-2a in Patients with Chronic Hepatitis C",
+  "abstract": "BACKGROUND: Covalent attachment of a 40-kd branched-chain polyethylene glycol moiety to interferon alfa-2a results in a compound (peginterferon alfa-2a) that has sustained absorption, a slower rate of clearance, and a longer half-life than unmodified interferon alfa-2a. We compared the clinical effects of a regimen of peginterferon alfa-2a with those of a regimen of interferon alfa-2a in the initial treatment of patients with chronic hepatitis C. METHODS: We randomly assigned 531 patients with chronic hepatitis C to receive either 180 microg of peginterferon alfa-2a subcutaneously once per week for 48 weeks (267 patients) or 6 million units of interferon alfa-2a subcutaneously three times per week for 12 weeks, followed by 3 million units three times per week for 36 weeks (264 patients). All the patients were assessed at week 72 for a sustained virologic response, defined as an undetectable level of hepatitis C virus RNA (<100 copies per milliliter). RESULTS: In the peginterferon group, 223 of the 267 patients completed treatment and 206 completed follow-up. In the interferon group, 161 of the 264 patients completed treatment and 154 completed follow-up. In an intention-to-treat analysis in which patients who missed the examination at the end of treatment or follow-up were considered not to have had a response at that point, peginterferon alfa-2a was associated with a higher rate of virologic response than was interferon alfa-2a at week 48 (69 percent vs. 28 percent, P=0.001) and at week 72 (39 percent vs. 19 percent, P=0.001). Sustained normalization of serum alanine aminotransferase concentrations at week 72 was also more common in the peginterferon group than in the interferon group (45 percent vs. 25 percent, P=0.001). The two groups were similar with respect to the frequency and severity of adverse events, which were typical of those associated with interferon alfa. CONCLUSIONS: In patients with chronic hepatitis C, a regimen of peginterferon alfa-2a given once weekly is more effective than a regimen of interferon alfa-2a given three times weekly.",
+  "authors": [
+    "Stefan Zeuzem",
+    "Saya V. Feinman",
+    "Jens W. F. Rasenack",
+    "E. Jenny Heathcote",
+    "Ming–Yang Lai",
+    "Edward John Gane",
+    "John O’Grady",
+    "Jürg Reichen",
+    "M. Diago",
+    "Amy Lin",
+    "Joseph Hoffman",
+    "Michael J. Brunda"
+  ],
+  "year": 2000,
+  "doi": "10.1056/nejm200012073432301",
+  "source": "openalex",
+  "categories": [
+    "Medicine",
+    "Regimen",
+    "Chronic hepatitis",
+    "Gastroenterology",
+    "Interferon alfa",
+    "Peginterferon alfa-2a",
+    "Hepatitis C",
+    "Alpha interferon",
+    "Internal medicine",
+    "Interferon",
+    "Polyethylene glycol",
+    "Immunology",
+    "Virology",
+    "Ribavirin",
+    "Virus",
+    "Biochemistry",
+    "Chemistry"
+  ],
+  "citation_count": 1214,
+  "open_access_pdf_url": "https://www.nejm.org/doi/pdf/10.1056/NEJM200012073432301?articleTools=true",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2332630894.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:04.708639+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2332630894",
+    "concepts": [
+      "Medicine",
+      "Regimen",
+      "Chronic hepatitis",
+      "Gastroenterology",
+      "Interferon alfa"
+    ],
+    "oa_status": "bronze"
+  }
+}

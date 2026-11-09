@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2140477756",
+  "title": "A long-term numerical solution for the insolation quantities of the Earth",
+  "abstract": "We present here a new solution for the astronomical computation of the insolation quantities on Earth spanning from -250 Myr to 250 Myr. This solution has been improved with respect to La93 (Laskar et al. [CITE]) by using a direct integration of the gravitational equations for the orbital motion, and by improving the dissipative contributions, in particular in the evolution of the Earth–Moon System. The orbital solution has been used for the calibration of the Neogene period (Lourens et al. [CITE]), and is expected to be used for age calibrations of paleoclimatic data over 40 to 50 Myr, eventually over the full Palaeogene period (65 Myr) with caution. Beyond this time span, the chaotic evolution of the orbits prevents a precise determination of the Earth's motion. However, the most regular components of the orbital solution could still be used over a much longer time span, which is why we provide here the solution over 250 Myr. Over this time interval, the most striking feature of the obliquity solution, apart from a secular global increase due to tidal dissipation, is a strong decrease of about 0.38 degree in the next few millions of years, due to the crossing of the resonance (Laskar et al. [CITE]). For the calibration of the Mesozoic time scale (about 65 to 250 Myr), we propose to use the term of largest amplitude in the eccentricity, related to , with a fixed frequency of /yr, corresponding to a period of 405 000 yr. The uncertainty of this time scale over 100 Myr should be about , and over the full Mesozoic era.",
+  "authors": [
+    "J. Laskar",
+    "Philippe Robutel",
+    "F. Joutel",
+    "Mickaël Gastineau",
+    "Alexandre C. M. Correia",
+    "B. Levrard"
+  ],
+  "year": 2004,
+  "doi": "10.1051/0004-6361:20041335",
+  "source": "openalex",
+  "categories": [
+    "myr",
+    "Dissipative system",
+    "Orbital elements",
+    "Physics",
+    "Geology",
+    "Precession",
+    "Mean motion",
+    "Scale (ratio)",
+    "Eccentricity (behavior)",
+    "Term (time)",
+    "Astrophysics",
+    "Planet",
+    "Astronomy",
+    "Chemistry",
+    "Political science",
+    "Genome",
+    "Quantum mechanics",
+    "Gene",
+    "Biochemistry",
+    "Law"
+  ],
+  "citation_count": 4540,
+  "open_access_pdf_url": "https://www.aanda.org/articles/aa/pdf/2004/46/aa1335.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2140477756.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:53.948845+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2140477756",
+    "concepts": [
+      "myr",
+      "Dissipative system",
+      "Orbital elements",
+      "Physics",
+      "Geology"
+    ],
+    "oa_status": "bronze"
+  }
+}

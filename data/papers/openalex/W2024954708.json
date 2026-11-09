@@ -1,0 +1,59 @@
+{
+  "id": "openalex:W2024954708",
+  "title": "Origin of the Open Circuit Voltage of Plastic Solar Cells",
+  "abstract": "A series of highly soluble fullerene derivatives with varying acceptor strengths (i.e., first reduction potentials) was synthesized and used as electron acceptors in plastic solar cells. These fullerene derivatives, methanofullerene [6,6]-phenyl C61-butyric acid methyl ester (PCBM), a new azafulleroid, and a ketolactam quasifullerene, show a variation of almost 200 mV in their first reduction potential. The open circuit voltage of the corresponding devices was found to correlate directly with the acceptor strength of the fullerenes, whereas it was rather insensitive to variations of the work function of the negative electrode. These observations are discussed within the concept of Fermi level pinning between fullerenes and metals via surface charges.",
+  "authors": [
+    "Christoph Josef Brabec",
+    "Antonio Cravino",
+    "D Meißner",
+    "Niyazi Serdar Sariçiftçi",
+    "Thomas Fromherz",
+    "Minze T. Rispens",
+    "Luis Sánchez",
+    "Jan Cornelis Hummelen"
+  ],
+  "year": 2001,
+  "doi": "10.1002/1616-3028(200110)11:5<374::aid-adfm374>3.0.co;2-w",
+  "source": "openalex",
+  "categories": [
+    "Fullerene",
+    "Materials science",
+    "Open-circuit voltage",
+    "Acceptor",
+    "Organic solar cell",
+    "Work function",
+    "Electron acceptor",
+    "Electrode",
+    "Solar cell",
+    "Voltage",
+    "Chemical physics",
+    "Nanotechnology",
+    "Photochemistry",
+    "Optoelectronics",
+    "Composite material",
+    "Organic chemistry",
+    "Physical chemistry",
+    "Condensed matter physics",
+    "Polymer",
+    "Chemistry",
+    "Physics",
+    "Quantum mechanics",
+    "Layer (electronics)"
+  ],
+  "citation_count": 1855,
+  "open_access_pdf_url": "https://hdl.handle.net/11370/b91d8721-d0cf-4b96-bc3e-63b8e5e92dd3",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2024954708.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:22.258916+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2024954708",
+    "concepts": [
+      "Fullerene",
+      "Materials science",
+      "Open-circuit voltage",
+      "Acceptor",
+      "Organic solar cell"
+    ],
+    "oa_status": "green"
+  }
+}

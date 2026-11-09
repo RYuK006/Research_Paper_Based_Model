@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2069640466",
+  "title": "Charge Transport and Photocurrent Generation in Poly(3‐hexylthiophene): Methanofullerene Bulk‐Heterojunction Solar Cells",
+  "abstract": "Abstract The effect of controlled thermal annealing on charge transport and photogeneration in bulk‐heterojunction solar cells made from blend films of regioregular poly(3‐hexylthiophene) (P3HT) and methanofullerene (PCBM) has been studied. With respect to the charge transport, it is demonstrated that the electron mobility dominates the transport of the cell, varying from 10 –8 m 2 V –1 s –1 in as‐cast devices to ≈3 × 10 –7 m 2 V –1 s –1 after thermal annealing. The hole mobility in the P3HT phase of the blend is dramatically affected by thermal annealing. It increases by more than three orders of magnitude, to reach a value of up to ≈ 2 × 10 –8 m 2 V –1 s –1 after the annealing process, as a result of an improved crystallinity of the film. Moreover, upon annealing the absorption spectrum of P3HT:PCBM blends undergo a strong red‐shift, improving the spectral overlap with solar emission, which results in an increase of more than 60 % in the rate of charge‐carrier generation. Subsequently, the experimental electron and hole mobilities are used to study the photocurrent generation in P3HT:PCBM devices as a function of annealing temperature. The results indicate that the most important factor leading to a strong enhancement of the efficiency, compared with non‐annealed devices, is the increase of the hole mobility in the P3HT phase of the blend. Furthermore, numerical simulations indicate that under short‐circuit conditions the dissociation efficiency of bound electron–hole pairs at the donor/acceptor interface is close to 90 %, which explains the large quantum efficiencies measured in P3HT:PCBM blends.",
+  "authors": [
+    "Valentin D. Mihailetchi",
+    "Hangxing Xie",
+    "B. de Boer",
+    "L. Jan Anton Koster",
+    "P. W. M. Blom"
+  ],
+  "year": 2006,
+  "doi": "10.1002/adfm.200500420",
+  "source": "openalex",
+  "categories": [
+    "Materials science",
+    "Photocurrent",
+    "Annealing (glass)",
+    "Electron mobility",
+    "Heterojunction",
+    "Charge carrier",
+    "Crystallinity",
+    "Optoelectronics",
+    "Solar cell",
+    "Polymer solar cell",
+    "Photoconductivity",
+    "Acceptor",
+    "Organic solar cell",
+    "Energy conversion efficiency",
+    "Analytical Chemistry (journal)",
+    "Polymer",
+    "Condensed matter physics",
+    "Composite material",
+    "Chemistry",
+    "Organic chemistry",
+    "Physics"
+  ],
+  "citation_count": 1294,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adfm.200500420",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2069640466.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:57.863573+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2069640466",
+    "concepts": [
+      "Materials science",
+      "Photocurrent",
+      "Annealing (glass)",
+      "Electron mobility",
+      "Heterojunction"
+    ],
+    "oa_status": "hybrid"
+  }
+}

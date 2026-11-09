@@ -1,0 +1,44 @@
+{
+  "id": "openalex:W2521662433",
+  "title": "ROS Are Good",
+  "abstract": "Reactive oxygen species (ROS) are thought to play a dual role in plant biology. They are required for many important signaling reactions, but are also toxic byproducts of aerobic metabolism. Recent studies revealed that ROS are necessary for the progression of several basic biological processes including cellular proliferation and differentiation. Moreover, cell death-that was previously thought to be the outcome of ROS directly killing cells by oxidation, in other words via oxidative stress-is now considered to be the result of ROS triggering a physiological or programmed pathway for cell death. This Opinion focuses on the possibility that ROS are beneficial to plants, supporting cellular proliferation, physiological function, and viability, and that maintaining a basal level of ROS in cells is essential for life.",
+  "authors": [
+    "Ron Mittler"
+  ],
+  "year": 2016,
+  "doi": "10.1016/j.tplants.2016.08.002",
+  "source": "openalex",
+  "categories": [
+    "Reactive oxygen species",
+    "Biology",
+    "Cell biology",
+    "Oxidative stress",
+    "Programmed cell death",
+    "Dual role",
+    "Function (biology)",
+    "Cell signaling",
+    "Cellular metabolism",
+    "Signal transduction",
+    "Apoptosis",
+    "Biochemistry",
+    "Metabolism",
+    "Chemistry",
+    "Combinatorial chemistry"
+  ],
+  "citation_count": 3603,
+  "open_access_pdf_url": "http://www.cell.com/article/S1360138516301121/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2521662433.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:57.665617+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2521662433",
+    "concepts": [
+      "Reactive oxygen species",
+      "Biology",
+      "Cell biology",
+      "Oxidative stress",
+      "Programmed cell death"
+    ],
+    "oa_status": "hybrid"
+  }
+}

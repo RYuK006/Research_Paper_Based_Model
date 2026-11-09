@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W1969932276",
+  "title": "Preserved incretin activity of glucagon-like peptide 1 [7-36 amide] but not of synthetic human gastric inhibitory polypeptide in patients with type-2 diabetes mellitus.",
+  "abstract": "In type-2 diabetes, the overall incretin effect is reduced. The present investigation was designed to compare insulinotropic actions of exogenous incretin hormones (gastric inhibitory peptide [GIP] and glucagon-like peptide 1 [GLP-1] [7-36 amide]) in nine type-2 diabetic patients (fasting plasma glucose 7.8 mmol/liter; hemoglobin A1c 6.3 +/- 0.6%) and in nine age- and weight-matched normal subjects. Synthetic human GIP (0.8 and 2.4 pmol/kg.min over 1 h each), GLP-1 [7-36 amide] (0.4 and 1.2 pmol/kg.min over 1 h each), and placebo were administered under hyperglycemic clamp conditions (8.75 mmol/liter) in separate experiments. Plasma GIP and GLP-1 [7-36 amide] concentrations (radioimmunoassay) were comparable to those after oral glucose with the low, and clearly supraphysiological with the high infusion rates. Both GIP and GLP-1 [7-36 amide] dose-dependently augmented insulin secretion (insulin, C-peptide) in both groups (P < 0.05). With GIP, the maximum effect in type-2 diabetic patients was significantly lower (by 54%; P < 0.05) than in normal subjects. With GLP-1 [7-36 amide] type-2 diabetic patients reached 71% of the increments in C-peptide of normal subjects (difference not significant). Glucagon was lowered during hyperglycemic clamps in normal subjects, but not in type-2 diabetic patients, and further by GLP-1 [7-36 amide] in both groups (P < 0.05), but not by GIP. In conclusion, in mild type-2 diabetes, GLP-1 [7-36 amide], in contrast to GIP, retains much of its insulinotropic activity. It also lowers glucagon concentrations.",
+  "authors": [
+    "Michael Albrecht Nauck",
+    "Markus M. Heimesaat",
+    "Cathrine Ørskov",
+    "Jens Juul Holst",
+    "Reinhold Ebert",
+    "W. Creutzfeldt"
+  ],
+  "year": 1993,
+  "doi": "10.1172/jci116186",
+  "source": "openalex",
+  "categories": [
+    "Incretin",
+    "Gastric inhibitory polypeptide",
+    "Internal medicine",
+    "Endocrinology",
+    "Glucagon-like peptide-1",
+    "Glucagon",
+    "Insulin",
+    "Medicine",
+    "Diabetes mellitus",
+    "Type 2 diabetes",
+    "Amide",
+    "Glucose clamp technique",
+    "Radioimmunoassay",
+    "Type 2 Diabetes Mellitus",
+    "C-peptide",
+    "Chemistry",
+    "Pancreatic hormone",
+    "Insulin resistance",
+    "Biochemistry"
+  ],
+  "citation_count": 1663,
+  "open_access_pdf_url": "http://www.jci.org/articles/view/116186/files/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1969932276.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:37.935362+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1969932276",
+    "concepts": [
+      "Incretin",
+      "Gastric inhibitory polypeptide",
+      "Internal medicine",
+      "Endocrinology",
+      "Glucagon-like peptide-1"
+    ],
+    "oa_status": "bronze"
+  }
+}

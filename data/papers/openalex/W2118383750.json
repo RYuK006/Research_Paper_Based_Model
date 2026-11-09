@@ -1,0 +1,39 @@
+{
+  "id": "openalex:W2118383750",
+  "title": "Bacterial Biocatalysts: Molecular Biology, Three-Dimensional Structures, and Biotechnological Applications of Lipases",
+  "abstract": "Bacteria produce and secrete lipases, which can catalyze both the hydrolysis and the synthesis of long-chain acylglycerols. These reactions usually proceed with high regioselectivity and enantioselectivity, and, therefore, lipases have become very important stereoselective biocatalysts used in organic chemistry. High-level production of these biocatalysts requires the understanding of the mechanisms underlying gene expression, folding, and secretion. Transcription of lipase genes may be regulated by quorum sensing and two-component systems; secretion can proceed either via the Sec-dependent general secretory pathway or via ABC transporters. In addition, some lipases need folding catalysts such as the lipase-specific foldases and disulfide-bond-forming proteins to achieve a secretion-competent conformation. Three-dimensional structures of bacterial lipases were solved to understand the catalytic mechanism of lipase reactions. Structural characteristics include an alpha/beta hydrolase fold, a catalytic triad consisting of a nucleophilic serine located in a highly conserved Gly-X-Ser-X-Gly pentapeptide, and an aspartate or glutamate residue that is hydrogen bonded to a histidine. Four substrate binding pockets were identified for triglycerides: an oxyanion hole and three pockets accommodating the fatty acids bound at position sn-1, sn-2, and sn-3. The differences in size and the hydrophilicity/hydrophobicity of these pockets determine the enantiopreference of a lipase. The understanding of structure-function relationships will enable researchers to tailor new lipases for biotechnological applications. At the same time, directed evolution in combination with appropriate screening systems will be used extensively as a novel approach to develop lipases with high stability and enantioselectivity.",
+  "authors": [
+    "K-E. Jaeger",
+    "Bauke W. Dijkstra",
+    "Manfred T. Reetz"
+  ],
+  "year": 1999,
+  "doi": "10.1146/annurev.micro.53.1.315",
+  "source": "openalex",
+  "categories": [
+    "Lipase",
+    "Catalytic triad",
+    "Chemistry",
+    "Biochemistry",
+    "Stereochemistry",
+    "Active site",
+    "Combinatorial chemistry",
+    "Enzyme"
+  ],
+  "citation_count": 1110,
+  "open_access_pdf_url": "https://research.rug.nl/files/3165387/1999AnnuRevMicrobiolJaeger.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2118383750.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:19.617258+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2118383750",
+    "concepts": [
+      "Lipase",
+      "Catalytic triad",
+      "Chemistry",
+      "Biochemistry",
+      "Stereochemistry"
+    ],
+    "oa_status": "green"
+  }
+}

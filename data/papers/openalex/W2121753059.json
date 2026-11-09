@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2121753059",
+  "title": "Thioflavine T interaction with synthetic Alzheimer's disease β ‐amyloid peptides: Detection of amyloid aggregation in solution",
+  "abstract": "Thioflavine T (ThT) associates rapidly with aggregated fibrils of the synthetic beta/A4-derived peptides beta(1-28) and beta(1-40), giving rise to a new excitation (ex) (absorption) maximum at 450 nm and enhanced emission (em) at 482 nm, as opposed to the 385 nm (ex) and 445 nm (em) of the free dye. This change is dependent on the aggregated state as monomeric or dimeric peptides do not react, and guanidine dissociation of aggregates destroys the signal. There was no effect of high salt concentrations. Binding to the beta(1-40) is of lower affinity, Kd 2 microM, while it saturates with a Kd of 0.54 microM for beta(1-28). Insulin fibrils converted to a beta-sheet conformation fluoresce intensely with ThT. A variety of polyhydroxy, polyanionic, or polycationic materials fail to interact or impede interaction with the amyloid peptides. This fluorometric technique should allow the kinetic elucidation of the amyloid fibril assembly process as well as the testing of agents that might modulate their assembly or disassembly.",
+  "authors": [
+    "Harry LeVine"
+  ],
+  "year": 1993,
+  "doi": "10.1002/pro.5560020312",
+  "source": "openalex",
+  "categories": [
+    "Chemistry",
+    "Fibril",
+    "Fluorescence",
+    "Amyloid (mycology)",
+    "Guanidine",
+    "Peptide",
+    "Monomer",
+    "Biophysics",
+    "Amyloid disease",
+    "Protein aggregation",
+    "Amyloid fibril",
+    "Amyloid β",
+    "Biochemistry",
+    "Polymer",
+    "Organic chemistry",
+    "Biology",
+    "Quantum mechanics",
+    "Inorganic chemistry",
+    "Pathology",
+    "Physics",
+    "Medicine",
+    "Disease"
+  ],
+  "citation_count": 2284,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/pro.5560020312",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2121753059.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:08.827414+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2121753059",
+    "concepts": [
+      "Chemistry",
+      "Fibril",
+      "Fluorescence",
+      "Amyloid (mycology)",
+      "Guanidine"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W1946022517",
+  "title": "Mice Deficient in Cellular Glutathione Peroxidase Show Increased Vulnerability to Malonate, 3-Nitropropionic Acid, and 1-Methyl-4-Phenyl-1,2,5,6-Tetrahydropyridine",
+  "abstract": "Glutathione peroxidase (GSHPx) is a critical intracellular enzyme involved in detoxification of hydrogen peroxide (H(2)O(2)) to water. In the present study we examined the susceptibility of mice with a disruption of the glutathione peroxidase gene to the neurotoxic effects of malonate, 3-nitropropionic acid (3-NP), and 1-methyl-4-phenyl-1,2,5,6-tetrahydropyridine (MPTP). Glutathione peroxidase knock-out mice showed no evidence of neuropathological or behavioral abnormalities at 2-3 months of age. Intrastriatal injections of malonate resulted in a significant twofold increase in lesion volume in homozygote GSHPx knock-out mice as compared to both heterozygote GSHPx knock-out and wild-type control mice. Malonate-induced increases in conversion of salicylate to 2,3- and 2, 5-dihydroxybenzoic acid, an index of hydroxyl radical generation, were greater in homozygote GSHPx knock-out mice as compared with both heterozygote GSHPx knock-out and wild-type control mice. Administration of MPTP resulted in significantly greater depletions of dopamine, 3,4-dihydroxybenzoic acid, and homovanillic acid in GSHPx knock-out mice than those seen in wild-type control mice. Striatal 3-nitrotyrosine (3-NT) concentrations after MPTP were significantly increased in GSHPx knock-out mice as compared with wild-type control mice. Systemic 3-NP administration resulted in significantly greater striatal damage and increases in 3-NT in GSHPx knock-out mice as compared to wild-type control mice. The present results indicate that a knock-out of GSHPx may be adequately compensated under nonstressed conditions, but that after administration of mitochondrial toxins GSHPx plays an important role in detoxifying increases in oxygen radicals.",
+  "authors": [
+    "Péter Klivènyi",
+    "Ole A. Andreassen",
+    "Robert J. Ferrante",
+    "Alpaslan Dedeoglu",
+    "Gerald Mueller",
+    "Eric Lancelot",
+    "Mikhail B. Bogdanov",
+    "Julie Kay Andersen",
+    "Dongmei Jiang",
+    "M. Flint Beal"
+  ],
+  "year": 2000,
+  "doi": "10.1523/jneurosci.20-01-00001.2000",
+  "source": "openalex",
+  "categories": [
+    "Glutathione peroxidase",
+    "Chemistry",
+    "MPTP",
+    "Glutathione",
+    "Internal medicine",
+    "Endocrinology",
+    "Biochemistry",
+    "Dopamine",
+    "Biology",
+    "Enzyme",
+    "Dopaminergic",
+    "Medicine"
+  ],
+  "citation_count": 1115,
+  "open_access_pdf_url": "https://www.jneurosci.org/content/jneuro/20/1/1.full.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1946022517.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:19.549915+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1946022517",
+    "concepts": [
+      "Glutathione peroxidase",
+      "Chemistry",
+      "MPTP",
+      "Glutathione",
+      "Internal medicine"
+    ],
+    "oa_status": "hybrid"
+  }
+}

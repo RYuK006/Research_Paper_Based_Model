@@ -1,0 +1,41 @@
+{
+  "id": "openalex:W3202325891",
+  "title": "Electrochemical Impedance Spectroscopy (EIS): Principles, Construction, and Biosensing Applications",
+  "abstract": "Electrochemical impedance spectroscopy (EIS) is a powerful technique used for the analysis of interfacial properties related to bio-recognition events occurring at the electrode surface, such as antibody-antigen recognition, substrate-enzyme interaction, or whole cell capturing. Thus, EIS could be exploited in several important biomedical diagnosis and environmental applications. However, the EIS is one of the most complex electrochemical methods, therefore, this review introduced the basic concepts and the theoretical background of the impedimetric technique along with the state of the art of the impedimetric biosensors and the impact of nanomaterials on the EIS performance. The use of nanomaterials such as nanoparticles, nanotubes, nanowires, and nanocomposites provided catalytic activity, enhanced sensing elements immobilization, promoted faster electron transfer, and increased reliability and accuracy of the reported EIS sensors. Thus, the EIS was used for the effective quantitative and qualitative detections of pathogens, DNA, cancer-associated biomarkers, etc. Through this review article, intensive literature review is provided to highlight the impact of nanomaterials on enhancing the analytical features of impedimetric biosensors.",
+  "authors": [
+    "Hend Samy Magar",
+    "Rabeay Y. A. Hassan",
+    "Ashok Mulchandani"
+  ],
+  "year": 2021,
+  "doi": "10.3390/s21196578",
+  "source": "openalex",
+  "categories": [
+    "Biosensor",
+    "Dielectric spectroscopy",
+    "Nanomaterials",
+    "Nanotechnology",
+    "Materials science",
+    "Nanocomposite",
+    "Electrode",
+    "Electrochemistry",
+    "Chemistry",
+    "Physical chemistry"
+  ],
+  "citation_count": 1452,
+  "open_access_pdf_url": "https://www.mdpi.com/1424-8220/21/19/6578/pdf?version=1633923501",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3202325891.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:48.264262+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3202325891",
+    "concepts": [
+      "Biosensor",
+      "Dielectric spectroscopy",
+      "Nanomaterials",
+      "Nanotechnology",
+      "Materials science"
+    ],
+    "oa_status": "gold"
+  }
+}

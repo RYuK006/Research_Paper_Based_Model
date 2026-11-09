@@ -1,0 +1,62 @@
+{
+  "id": "openalex:W2067319108",
+  "title": "Dynamical fluctuating charge force fields: Application to liquid water",
+  "abstract": "A new molecular dynamics model in which the point charges on atomic sites are allowed to fluctuate in response to the environment is developed and applied to water. The idea for treating charges as variables is based on the concept of electronegativity equalization according to which: (a) the electronegativity of an atomic site is dependent on the atom’s type and charge and is perturbed by the electrostatic potential it experiences from its neighbors and (b) charge is transferred between atomic sites in such a way that electronegativities are equalized. The charges are treated as dynamical variables using an extended Lagrangian method in which the charges are given a fictitious mass, velocities, and kinetic energy and then propagated according to Newtonian mechanics along with the atomic degrees of freedom. Models for water with fluctuating charges are developed using the geometries of two common fixed-charge water potentials: the simple point charge (SPC) and the four-point transferable intermolecular potential (TIP4P). Both fluctuating charge models give accurate predictions for gas-phase and liquid state properties, including radial distribution functions, the dielectric constant, and the diffusion constant. The method does not introduce any new intermolecular interactions beyond those already present in the fixed charge models and increases the computer time by only a factor of 1.1, making this method tractable for large systems.",
+  "authors": [
+    "Steven W. Rick",
+    "Steven J. Stuart",
+    "B. J. Berne"
+  ],
+  "year": 1994,
+  "doi": "10.1063/1.468398",
+  "source": "openalex",
+  "categories": [
+    "Point particle",
+    "Electronegativity",
+    "Intermolecular force",
+    "Charge (physics)",
+    "Water model",
+    "Chemistry",
+    "Charge conservation",
+    "Partial charge",
+    "Kinetic energy",
+    "Statistical physics",
+    "Classical mechanics",
+    "Physics",
+    "Liquid water",
+    "Molecular dynamics",
+    "Potential energy",
+    "Atomic charge",
+    "Diffusion",
+    "Newtonian dynamics",
+    "Electric charge",
+    "Point (geometry)",
+    "Lennard-Jones potential",
+    "Viscosity",
+    "Thermodynamics",
+    "Simple (philosophy)",
+    "Atomic physics",
+    "Electrostatics",
+    "Charge density",
+    "Interaction energy",
+    "Electrostatic induction",
+    "Newtonian fluid",
+    "Electrometer"
+  ],
+  "citation_count": 1249,
+  "open_access_pdf_url": "https://arxiv.org/pdf/chem-ph/9406002",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2067319108.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:02.715909+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2067319108",
+    "concepts": [
+      "Point particle",
+      "Electronegativity",
+      "Intermolecular force",
+      "Charge (physics)",
+      "Water model"
+    ],
+    "oa_status": "green"
+  }
+}

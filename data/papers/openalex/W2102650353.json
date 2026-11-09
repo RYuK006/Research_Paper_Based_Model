@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2102650353",
+  "title": "Stir bar sorptive extraction (SBSE), a novel extraction technique for aqueous samples: Theory and principles",
+  "abstract": "The theory and practice of a novel approach for sample enrichment, namely the application of stir bars coated with the sorbent polydimethylsiloxane (PDMS) and referred to as stir bar sorptive extraction (SBSE) are presented. Stir bars with a length of 10 and 40 mm coated with 55 and 219 μL of PDMS liquid phase, respectively were applied. The 10-mm stir bars are best suited for stirring sample volumes from 10 up to 50 mL whereas 40-mm stir bars are more ideal for sample volumes up to 250 mL. Depending on sample volume and the stirring speed, typical stirring times for equilibration are between 30 and 60 min. The performance of SBSE is illustrated with the analysis of volatile and semivolatile micropollutants from aqueous samples. Detection limits using mass selective detection are in the low ng/L range for a wide selection of analytes from the EPA priority pollutant lists including analytes ranging in volatility from 1,1,1-trichloroethane to chrysene. For the extraction of selected compounds from 200-mL samples, detection limits below 0.1 ng/L are reached in the selected ion monitoring mode. A comparison between SBSE and solid-phase microextraction is made. ©1999 John Wiley & Sons, Inc. J Micro Sep 11: 737–747, 1999",
+  "authors": [
+    "Erik Baltussen",
+    "Pat J. F. Sandra",
+    "Frank David",
+    "C.A.M.G. Cramers"
+  ],
+  "year": 1999,
+  "doi": "10.1002/(sici)1520-667x(1999)11:10<737::aid-mcs7>3.0.co;2-4",
+  "source": "openalex",
+  "categories": [
+    "Chromatography",
+    "Sorbent",
+    "Chemistry",
+    "Extraction (chemistry)",
+    "Detection limit",
+    "Polydimethylsiloxane",
+    "Analyte",
+    "Solid-phase microextraction",
+    "Sample preparation",
+    "Aqueous solution",
+    "Analytical Chemistry (journal)",
+    "Gas chromatography–mass spectrometry",
+    "Mass spectrometry",
+    "Adsorption",
+    "Organic chemistry",
+    "Physical chemistry"
+  ],
+  "citation_count": 1513,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/%28SICI%291520-667X%281999%2911%3A10%3C737%3A%3AAID-MCS7%3E3.0.CO%3B2-4",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2102650353.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:45.520229+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2102650353",
+    "concepts": [
+      "Chromatography",
+      "Sorbent",
+      "Chemistry",
+      "Extraction (chemistry)",
+      "Detection limit"
+    ],
+    "oa_status": "bronze"
+  }
+}

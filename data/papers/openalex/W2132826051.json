@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2132826051",
+  "title": "H- and J-Aggregate Behavior in Polymeric Semiconductors",
+  "abstract": "Aggregates of conjugated polymers exhibit two classes of fundamental electronic interactions: those occurring within a given chain and those occurring between chains. The impact of such excitonic interactions on the photophysics of polymer films can be understood using concepts of J- and H-aggregation originally developed by Kasha and coworkers to treat aggregates of small molecules. In polymer assemblies, intrachain through-bond interactions lead to J-aggregate behavior, whereas interchain Coulombic interactions lead to H-aggregate behavior. The photophysics of common emissive conjugated polymer films are determined by a competition between intrachain, J-favoring interactions and interchain, H-favoring interactions. We review formalisms describing absorption and photoluminescence lineshapes, based on intra- and intermolecular excitonic coupling, electron-vibrational coupling, and correlated energetic disorder. Examples include regioregular polythiophenes, pheneylene-vinylenes, and polydiacetylene.",
+  "authors": [
+    "Frank C. Spano",
+    "Carlos Silva"
+  ],
+  "year": 2014,
+  "doi": "10.1146/annurev-physchem-040513-103639",
+  "source": "openalex",
+  "categories": [
+    "J-aggregate",
+    "Polymer",
+    "Intermolecular force",
+    "Conjugated system",
+    "Chemical physics",
+    "Materials science",
+    "Photoluminescence",
+    "Aggregate (composite)",
+    "Organic semiconductor",
+    "Coupling (piping)",
+    "Semiconductor",
+    "Molecule",
+    "Nanotechnology",
+    "Chemistry",
+    "Organic chemistry",
+    "Optoelectronics",
+    "Composite material",
+    "Metallurgy"
+  ],
+  "citation_count": 1144,
+  "open_access_pdf_url": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-physchem-040513-103639",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2132826051.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:14.663869+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2132826051",
+    "concepts": [
+      "J-aggregate",
+      "Polymer",
+      "Intermolecular force",
+      "Conjugated system",
+      "Chemical physics"
+    ],
+    "oa_status": "bronze"
+  }
+}

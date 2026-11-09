@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2275750751",
+  "title": "Inversion of complex body waves—III",
+  "abstract": "Abstract We have developed a method that inverts seismic body waves to determine the mechanism and rupture pattern of earthquakes. The rupture pattern is represented as a sequence of subevents distributed on the fault plane. This method is an extension of our earlier method in which the subevent mechanisms were fixed. In the new method, the subevent mechanisms are determined from the data and are allowed to vary during the sequence. When subevent mechanisms are allowed to vary, however, the inversion often becomes unstable because of the complex trade-offs between the mechanism, the timing, and the location of the subevents. Many different subevent sequences can explain the same data equally well, and it is important to determine the range of allowable solutions. Some constraints must be imposed on the solution to stabilize the inversion. We have developed a procedure to explore the range of allowable solutions and appropriate constraints. In this procedure, a network of grid points is constructed on the τ - I plane, where τ and I are, respectively, the onset time and the distance from the epicenter of a subevent; the best-fit subevent is determined at all grid points. Then the correlation is computed between the synthetic waveform for each subevent and the observed waveform. The correlation as a function of τ and I and the best-fit mechanisms computed at each τ - I grid point depict the character of allowable solutions and facilitate a decision on the appropriate constraints to be imposed on the solution. The method is illustrated using the data for the 1976 Guatemala earthquake.",
+  "authors": [
+    "Masayuki Kikuchi",
+    "Hiroo Kanamori"
+  ],
+  "year": 1991,
+  "doi": "10.1785/bssa0810062335",
+  "source": "openalex",
+  "categories": [
+    "Epicenter",
+    "Inversion (geology)",
+    "Waveform",
+    "Geology",
+    "Grid",
+    "Sequence (biology)",
+    "Range (aeronautics)",
+    "Seismology",
+    "Algorithm",
+    "Geodesy",
+    "Mathematics",
+    "Computer science",
+    "Engineering",
+    "Telecommunications",
+    "Chemistry",
+    "Aerospace engineering",
+    "Radar",
+    "Biochemistry",
+    "Tectonics"
+  ],
+  "citation_count": 1124,
+  "open_access_pdf_url": "https://authors.library.caltech.edu/51646/",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2275750751.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:17.044957+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2275750751",
+    "concepts": [
+      "Epicenter",
+      "Inversion (geology)",
+      "Waveform",
+      "Geology",
+      "Grid"
+    ],
+    "oa_status": "green"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2124946184",
+  "title": "IRT1, an Arabidopsis Transporter Essential for Iron Uptake from the Soil and for Plant Growth",
+  "abstract": "Plants are the principal source of iron in most diets, yet iron availability often limits plant growth. In response to iron deficiency, Arabidopsis roots induce the expression of the divalent cation transporter IRT1. Here, we present genetic evidence that IRT1 is essential for the uptake of iron from the soil. An Arabidopsis knockout mutant in IRT1 is chlorotic and has a severe growth defect in soil, leading to death. This defect is rescued by the exogenous application of iron. The mutant plants do not take up iron and fail to accumulate other divalent cations in low-iron conditions. IRT1-green fluorescent protein fusion, transiently expressed in culture cells, localized to the plasma membrane. We also show, through promoter::beta-glucuronidase analysis and in situ hybridization, that IRT1 is expressed in the external cell layers of the root, specifically in response to iron starvation. These results clearly demonstrate that IRT1 is the major transporter responsible for high-affinity metal uptake under iron deficiency.",
+  "authors": [
+    "Grégory Vert",
+    "Natasha Grotz",
+    "Fabienne Dédaldéchamp",
+    "Frédéric Gaymard",
+    "Mary Lou Guerinot",
+    "Jean‐François Briat",
+    "Catherine Curie"
+  ],
+  "year": 2002,
+  "doi": "10.1105/tpc.001388",
+  "source": "openalex",
+  "categories": [
+    "Arabidopsis",
+    "Transporter",
+    "Mutant",
+    "Arabidopsis thaliana",
+    "Iron deficiency",
+    "Chemistry",
+    "Biochemistry",
+    "Biology",
+    "Cell biology",
+    "Gene",
+    "Anemia",
+    "Internal medicine",
+    "Medicine"
+  ],
+  "citation_count": 1715,
+  "open_access_pdf_url": "https://academic.oup.com/plcell/article-pdf/14/6/1223/35425855/plcell_v14_6_1223.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2124946184.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:33.091735+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2124946184",
+    "concepts": [
+      "Arabidopsis",
+      "Transporter",
+      "Mutant",
+      "Arabidopsis thaliana",
+      "Iron deficiency"
+    ],
+    "oa_status": "bronze"
+  }
+}

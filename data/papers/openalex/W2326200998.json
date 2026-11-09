@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W2326200998",
+  "title": "A Controlled Trial of Selegiline, Alpha-Tocopherol, or Both as Treatment for Alzheimer's Disease",
+  "abstract": "BACKGROUND: There is evidence that medications or vitamins that increase the levels of brain catecholamines and protect against oxidative damage may reduce the neuronal damage and slow the progression of Alzheimer's disease. METHODS: We conducted a double-blind, placebo-controlled, randomized, multicenter trial in patients with Alzheimer's disease of moderate severity. A total of 341 patients received the selective monoamine oxidase inhibitor selegiline (10 mg a day), alpha-tocopherol (vitamin E, 2000 IU a day), both selegiline and alpha-tocopherol, or placebo for two years. The primary outcome was the time to the occurrence of any of the following: death, institutionalization, loss of the ability to perform basic activities of daily living, or severe dementia (defined as a Clinical Dementia Rating of 3). RESULTS: Despite random assignment, the baseline score on the Mini-Mental State Examination was higher in the placebo group than in the other three groups, and this variable was highly predictive of the primary outcome (P<0.001). In the unadjusted analyses, there was no statistically significant difference in the outcomes among the four groups. In analyses that included the base-line score on the Mini-Mental State Examination as a covariate, there were significant delays in the time to the primary outcome for the patients treated with selegiline (median time, 655 days; P=0.012), alpha-tocopherol (670 days, P=0.001) or combination therapy (585 days, P=0.049), as compared with the placebo group (440 days). CONCLUSIONS: In patients with moderately severe impairment from Alzheimer's disease, treatment with selegiline or alpha-tocopherol slows the progression of disease.",
+  "authors": [
+    "Mary Sano",
+    "Christopher Ernesto",
+    "Ronald G. Thomas",
+    "Melville R. Klauber",
+    "Kimberly A Schafer",
+    "Michael Grundman",
+    "Peter Woodbury",
+    "John H. Growdon",
+    "Carl W. Cotman",
+    "Eric A. Pfeiffer",
+    "Lon S. Schneider",
+    "Leon J. Thal"
+  ],
+  "year": 1997,
+  "doi": "10.1056/nejm199704243361704",
+  "source": "openalex",
+  "categories": [
+    "Selegiline",
+    "Medicine",
+    "Placebo",
+    "Internal medicine",
+    "Dementia",
+    "Alzheimer's disease",
+    "Rivastigmine",
+    "Vitamin E",
+    "Donepezil",
+    "Disease",
+    "Parkinson's disease",
+    "Pathology",
+    "Antioxidant",
+    "Biochemistry",
+    "Chemistry",
+    "Alternative medicine"
+  ],
+  "citation_count": 2381,
+  "open_access_pdf_url": "https://www.nejm.org/doi/pdf/10.1056/NEJM199704243361704?articleTools=true",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2326200998.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:08.733301+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2326200998",
+    "concepts": [
+      "Selegiline",
+      "Medicine",
+      "Placebo",
+      "Internal medicine",
+      "Dementia"
+    ],
+    "oa_status": "bronze"
+  }
+}

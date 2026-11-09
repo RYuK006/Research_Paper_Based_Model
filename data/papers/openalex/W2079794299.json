@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2079794299",
+  "title": "Light intensity dependence of open-circuit voltage of polymer:fullerene solar cells",
+  "abstract": "The open-circuit voltage Voc of polymer:fullerene bulk heterojunction solar cells is investigated as a function of light intensity for different temperatures. Devices consisted of a blend of a poly(p-phenylene vinylene) derivative as the hole conductor and 6,6-phenyl C61-butyric acid methyl ester as the electron conductor. The observed photogenerated current and Voc are at variance with classical p–n junction-based models. The influence of light intensity and recombination strength on Voc is consistently explained by a model based on the notion that the quasi-Fermi levels are constant throughout the device, including both drift and diffusion of charge carriers.",
+  "authors": [
+    "L. Jan Anton Koster",
+    "V.D. Mihailetchi",
+    "Robert Ramaker",
+    "Paul W. M. Blom"
+  ],
+  "year": 2005,
+  "doi": "10.1063/1.1889240",
+  "source": "openalex",
+  "categories": [
+    "Fullerene",
+    "Materials science",
+    "Light intensity",
+    "Open-circuit voltage",
+    "Polymer solar cell",
+    "Polymer",
+    "Diffusion",
+    "Charge carrier",
+    "Optoelectronics",
+    "Voltage",
+    "Analytical Chemistry (journal)",
+    "Chemistry",
+    "Solar cell",
+    "Composite material",
+    "Optics",
+    "Thermodynamics",
+    "Organic chemistry",
+    "Physics",
+    "Quantum mechanics"
+  ],
+  "citation_count": 1425,
+  "open_access_pdf_url": "https://pubs.aip.org/aip/apl/article-pdf/doi/10.1063/1.1889240/14328475/123509_1_online.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2079794299.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:50.595325+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2079794299",
+    "concepts": [
+      "Fullerene",
+      "Materials science",
+      "Light intensity",
+      "Open-circuit voltage",
+      "Polymer solar cell"
+    ],
+    "oa_status": "hybrid"
+  }
+}

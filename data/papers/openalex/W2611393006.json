@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W2611393006",
+  "title": "Synthesis of Graphene Oxide using Modified Hummers Method: Solvent Influence",
+  "abstract": "The aim of this study is to study the influence of different solvents on the structure and electrical properties of graphene oxide. GO was obtained from graphite flakes by using modified hummers method in which different from conventional hummer's method. In this method, the experiment was synthesized without sodium nitrate (NaNO3) and ice bath, but carried out at room temperature. Prepared GO powders were then dissolved into different solvents, namely acetone and ethanol. Then spin-coated onto silicon wafer and IDE to produce acetone-GO (A-GO) and ethanol-GO (E-GO). SEM result shows that several square micron GO were obtained. In addition, due to the large agglomerates and contact between the flakes in E-GO sample, current-voltage pattern indicated the E-GO produced higher current flow than A-GO. Meanwhile, GO characterized using FTiR shows that both samples contain several functional groups such as hydroxyl, epoxy, carboxyl and carbonyl. Besides that, due to the lower diffraction peak of A-GO, XRD result shows the interlayer spacing of A-GO sample is slightly higher than E-GO sample.",
+  "authors": [
+    "N. I. Zaaba",
+    "K. L. Foo",
+    "U. Hashim",
+    "Sin Jin Tan",
+    "Weiwen Liu",
+    "Chun Hong Voon"
+  ],
+  "year": 2017,
+  "doi": "10.1016/j.proeng.2017.04.118",
+  "source": "openalex",
+  "categories": [
+    "Graphene",
+    "Acetone",
+    "Materials science",
+    "Oxide",
+    "Graphite oxide",
+    "Solvent",
+    "Chemical engineering",
+    "Wafer",
+    "Graphite",
+    "Agglomerate",
+    "Fourier transform infrared spectroscopy",
+    "Epoxy",
+    "Inorganic chemistry",
+    "Nanotechnology",
+    "Composite material",
+    "Chemistry",
+    "Organic chemistry",
+    "Metallurgy",
+    "Engineering"
+  ],
+  "citation_count": 1607,
+  "open_access_pdf_url": "https://www.sciencedirect.com/science/article/pii/S1877705817316235/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2611393006.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:41.821729+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2611393006",
+    "concepts": [
+      "Graphene",
+      "Acetone",
+      "Materials science",
+      "Oxide",
+      "Graphite oxide"
+    ],
+    "oa_status": "diamond"
+  }
+}

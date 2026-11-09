@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2026743476",
+  "title": "Molecular Mechanisms of Ultraviolet Radiation‐Induced DNA Damage and Repair",
+  "abstract": "DNA is one of the prime molecules, and its stability is of utmost importance for proper functioning and existence of all living systems. Genotoxic chemicals and radiations exert adverse effects on genome stability. Ultraviolet radiation (UVR) (mainly UV-B: 280-315 nm) is one of the powerful agents that can alter the normal state of life by inducing a variety of mutagenic and cytotoxic DNA lesions such as cyclobutane-pyrimidine dimers (CPDs), 6-4 photoproducts (6-4PPs), and their Dewar valence isomers as well as DNA strand breaks by interfering the genome integrity. To counteract these lesions, organisms have developed a number of highly conserved repair mechanisms such as photoreactivation, base excision repair (BER), nucleotide excision repair (NER), and mismatch repair (MMR). Additionally, double-strand break repair (by homologous recombination and nonhomologous end joining), SOS response, cell-cycle checkpoints, and programmed cell death (apoptosis) are also operative in various organisms with the expense of specific gene products. This review deals with UV-induced alterations in DNA and its maintenance by various repair mechanisms.",
+  "authors": [
+    "Rajesh P. Rastogi",
+    "Richa Richa",
+    "Ashok Kumar",
+    "Madhu Bala Tyagi",
+    "Rajeshwar Prasad Sinha"
+  ],
+  "year": 2010,
+  "doi": "10.4061/2010/592980",
+  "source": "openalex",
+  "categories": [
+    "DNA repair",
+    "Photolyase",
+    "Pyrimidine dimer",
+    "Nucleotide excision repair",
+    "DNA damage",
+    "Homologous recombination",
+    "DNA",
+    "Base excision repair",
+    "DNA mismatch repair",
+    "Biology",
+    "Genetics",
+    "Homology directed repair",
+    "Genome instability",
+    "Gene",
+    "Cell biology",
+    "Chemistry",
+    "Computational biology"
+  ],
+  "citation_count": 1424,
+  "open_access_pdf_url": "https://downloads.hindawi.com/journals/jna/2010/592980.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2026743476.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:50.602761+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2026743476",
+    "concepts": [
+      "DNA repair",
+      "Photolyase",
+      "Pyrimidine dimer",
+      "Nucleotide excision repair",
+      "DNA damage"
+    ],
+    "oa_status": "gold"
+  }
+}

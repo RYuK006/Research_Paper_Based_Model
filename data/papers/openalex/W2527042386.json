@@ -1,0 +1,59 @@
+{
+  "id": "openalex:W2527042386",
+  "title": "Incorporation of rubidium cations into perovskite solar cells improves photovoltaic performance",
+  "abstract": "Improving the stability of perovskite solar cells Inorganic-organic perovskite solar cells have poor long-term stability because ultraviolet light and humidity degrade these materials. Bella et al. show that coating the cells with a water-proof fluorinated polymer that contains pigments to absorb ultraviolet light and re-emit it in the visible range can boost cell efficiency and limit photodegradation. The performance and stability of inorganic-organic perovskite solar cells are also limited by the size of the cations required for forming a correct lattice. Saliba et al. show that the rubidium cation, which is too small to form a perovskite by itself, can form a lattice with cesium and organic cations. Solar cells based on these materials have efficiencies exceeding 20% for over 500 hours if given environmental protection by a polymer coating. Science , this issue pp. 203 and 206",
+  "authors": [
+    "Michael Saliba",
+    "Taisuke Matsui",
+    "Konrad Domanski",
+    "Ji‐Youn Seo",
+    "Amita Ummadisingu",
+    "Shaik Mohammed Zakeeruddin",
+    "Juan‐Pablo Correa‐Baena",
+    "Wolfgang Tress",
+    "Antonio Abate",
+    "Anders Hagfeldt",
+    "Michaël Grätzel"
+  ],
+  "year": 2016,
+  "doi": "10.1126/science.aah5557",
+  "source": "openalex",
+  "categories": [
+    "Rubidium",
+    "Perovskite (structure)",
+    "Polymer",
+    "Ultraviolet",
+    "Materials science",
+    "Photovoltaic system",
+    "Coating",
+    "Ultraviolet light",
+    "Chemical engineering",
+    "Chemistry",
+    "Inorganic chemistry",
+    "Optoelectronics",
+    "Nanotechnology",
+    "Potassium",
+    "Organic chemistry",
+    "Composite material",
+    "Ecology",
+    "Biology",
+    "Metallurgy",
+    "Engineering"
+  ],
+  "citation_count": 3743,
+  "open_access_pdf_url": "https://infoscience.epfl.ch/handle/20.500.14299/133747",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2527042386.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:54.133672+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2527042386",
+    "concepts": [
+      "Rubidium",
+      "Perovskite (structure)",
+      "Polymer",
+      "Ultraviolet",
+      "Materials science"
+    ],
+    "oa_status": "green"
+  }
+}

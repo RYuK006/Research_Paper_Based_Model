@@ -1,0 +1,58 @@
+{
+  "id": "openalex:W2077779429",
+  "title": "Electric field effect in ultrathin black phosphorus",
+  "abstract": "Black phosphorus exhibits a layered structure similar to graphene, allowing mechanical exfoliation of ultrathin single crystals. Here, we demonstrate few-layer black phosphorus field effect devices on Si/SiO2 and measure charge carrier mobility in a four-probe configuration as well as drain current modulation in a two-point configuration. We find room-temperature mobilities of up to 300 cm2/Vs and drain current modulation of over 103. At low temperatures, the on-off ratio exceeds 105, and the device exhibits both electron and hole conduction. Using atomic force microscopy, we observe significant surface roughening of thin black phosphorus crystals over the course of 1 h after exfoliation.",
+  "authors": [
+    "Steven P. Koenig",
+    "Rostislav A. Doganov",
+    "Hennrik Schmidt",
+    "A. H. Castro Neto",
+    "Barbaros Oezyilmaz"
+  ],
+  "year": 2014,
+  "doi": "10.1063/1.4868132",
+  "source": "openalex",
+  "categories": [
+    "Black phosphorus",
+    "Exfoliation joint",
+    "Electron mobility",
+    "Electric field",
+    "Materials science",
+    "Phosphorus",
+    "Modulation (music)",
+    "Condensed matter physics",
+    "Optoelectronics",
+    "Charge carrier",
+    "Electron",
+    "Chemical physics",
+    "Field (mathematics)",
+    "Field effect",
+    "Current (fluid)",
+    "Analytical Chemistry (journal)",
+    "Wide-bandgap semiconductor",
+    "Electrical resistivity and conductivity",
+    "Chemistry",
+    "Thin film",
+    "Electric current",
+    "Depletion region",
+    "Molecular physics",
+    "Charge (physics)",
+    "Hall effect"
+  ],
+  "citation_count": 1245,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1402.5718",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2077779429.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:02.752058+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2077779429",
+    "concepts": [
+      "Black phosphorus",
+      "Exfoliation joint",
+      "Electron mobility",
+      "Electric field",
+      "Materials science"
+    ],
+    "oa_status": "green"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "openalex:W2747631106",
+  "title": "Rechargeable aqueous zinc-manganese dioxide batteries with high energy and power densities",
+  "abstract": "Abstract Although alkaline zinc-manganese dioxide batteries have dominated the primary battery applications, it is challenging to make them rechargeable. Here we report a high-performance rechargeable zinc-manganese dioxide system with an aqueous mild-acidic zinc triflate electrolyte. We demonstrate that the tunnel structured manganese dioxide polymorphs undergo a phase transition to layered zinc-buserite on first discharging, thus allowing subsequent intercalation of zinc cations in the latter structure. Based on this electrode mechanism, we formulate an aqueous zinc/manganese triflate electrolyte that enables the formation of a protective porous manganese oxide layer. The cathode exhibits a high reversible capacity of 225 mAh g −1 and long-term cyclability with 94% capacity retention over 2000 cycles. Remarkably, the pouch zinc-manganese dioxide battery delivers a total energy density of 75.2 Wh kg −1 . As a result of the superior battery performance, the high safety of aqueous electrolyte, the facile cell assembly and the cost benefit of the source materials, this zinc-manganese dioxide system is believed to be promising for large-scale energy storage applications.",
+  "authors": [
+    "Ning Zhang",
+    "Fangyi Cheng",
+    "Junxiang Liu",
+    "Liubin Wang",
+    "Xinghui Long",
+    "Xiaosong Liu",
+    "Fujun Li",
+    "Jun Chen"
+  ],
+  "year": 2017,
+  "doi": "10.1038/s41467-017-00467-x",
+  "source": "openalex",
+  "categories": [
+    "Manganese",
+    "Zinc",
+    "Electrolyte",
+    "Alkaline battery",
+    "Trifluoromethanesulfonate",
+    "Battery (electricity)",
+    "Inorganic chemistry",
+    "Cathode",
+    "Aqueous solution",
+    "Energy storage",
+    "Intercalation (chemistry)",
+    "Materials science",
+    "Chemistry",
+    "Chemical engineering",
+    "Electrode",
+    "Catalysis",
+    "Organic chemistry",
+    "Physical chemistry",
+    "Power (physics)",
+    "Engineering",
+    "Physics",
+    "Quantum mechanics"
+  ],
+  "citation_count": 1829,
+  "open_access_pdf_url": "https://www.nature.com/articles/s41467-017-00467-x.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2747631106.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:22.320954+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2747631106",
+    "concepts": [
+      "Manganese",
+      "Zinc",
+      "Electrolyte",
+      "Alkaline battery",
+      "Trifluoromethanesulfonate"
+    ],
+    "oa_status": "gold"
+  }
+}

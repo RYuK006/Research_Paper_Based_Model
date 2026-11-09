@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2805166665",
+  "title": "A New Wireless Communication Paradigm through Software-Controlled Metasurfaces",
+  "abstract": "Electromagnetic waves undergo multiple uncontrollable alterations as they propagate within a wireless environment. Free space path loss, signal absorption, as well as reflections, refractions, and diffractions caused by physical objects within the environment highly affect the performance of wireless communications. Currently, such effects are intractable to account for and are treated as probabilistic factors. This article proposes a radically different approach, enabling deterministic, programmable control over the behavior of wireless environments. The key enabler is the so-called HyperSurface tile, a novel class of planar meta-materials that can interact with impinging electromagnetic waves in a controlled manner. The HyperSurface tiles can effectively re-engineer electromagnetic waves, including steering toward any desired direction, full absorption, polarization manipulation, and more. Multiple tiles are employed to coat objects such as walls, furniture, and overall, any objects in indoor and outdoor environments. An external software service calculates and deploys the optimal interaction types per tile to best fit the needs of communicating devices. Evaluation via simulations highlights the potential of the new concept.",
+  "authors": [
+    "Christos Liaskos",
+    "Shuai Nie",
+    "Ageliki Tsioliaridou",
+    "Andreas Pitsillides",
+    "Sotiris Ioannidis",
+    "Ian Fuat Akyildiz"
+  ],
+  "year": 2018,
+  "doi": "10.1109/mcom.2018.1700659",
+  "source": "openalex",
+  "categories": [
+    "Computer science",
+    "Wireless",
+    "Tile",
+    "Software",
+    "Electromagnetic radiation",
+    "Polarization (electrochemistry)",
+    "Path loss",
+    "Telecommunications",
+    "Optics",
+    "Physics",
+    "Programming language",
+    "Art",
+    "Chemistry",
+    "Visual arts",
+    "Physical chemistry"
+  ],
+  "citation_count": 1270,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1806.01792",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2805166665.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:00.575410+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2805166665",
+    "concepts": [
+      "Computer science",
+      "Wireless",
+      "Tile",
+      "Software",
+      "Electromagnetic radiation"
+    ],
+    "oa_status": "green"
+  }
+}

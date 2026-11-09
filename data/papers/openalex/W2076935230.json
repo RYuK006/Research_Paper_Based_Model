@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W2076935230",
+  "title": "Transcription Factor Nrf2 Coordinately Regulates a Group of Oxidative Stress-inducible Genes in Macrophages",
+  "abstract": "Electrophiles and reactive oxygen species have been implicated in the pathogenesis of many diseases. Transcription factor Nrf2 was recently identified as a general regulator of one defense mechanism against such havoc. Nrf2 regulates the inducible expression of a group of detoxication enzymes, such as glutathione S-transferase and NAD(P)H:quinone oxidoreductase, via antioxidant response elements. Using peritoneal macrophages from Nrf2-deficient mice, we show here that Nrf2 also controls the expression of a group of electrophile- and oxidative stress-inducible proteins and activities, which includes heme oxygenase-1, A170, peroxiredoxin MSP23, and cystine membrane transport (system x(c)(-)) activity. The response to electrophilic and reactive oxygen species-producing agents was profoundly impaired in Nrf2-deficient cells. The lack of induction of system x(c)(-) activity resulted in the minimum level of intracellular glutathione, and Nrf2-deficient cells were more sensitive to toxic electrophiles. Several stress agents induced the DNA binding activity of Nrf2 in the nucleus without increasing its mRNA level. Thus Nrf2 regulates a wide-ranging metabolic response to oxidative stress.",
+  "authors": [
+    "Tetsuro Ishii",
+    "Ken Itoh",
+    "Satoru Takahashi",
+    "Hideyo Sato",
+    "Toru Yanagawa",
+    "Yasutake Katoh",
+    "Shiro Bannai",
+    "Masayuki P. Yamamoto"
+  ],
+  "year": 2000,
+  "doi": "10.1074/jbc.275.21.16023",
+  "source": "openalex",
+  "categories": [
+    "Oxidative stress",
+    "Glutathione",
+    "Transcription factor",
+    "NAD+ kinase",
+    "Reactive oxygen species",
+    "Biochemistry",
+    "Biology",
+    "Cell biology",
+    "Chemistry",
+    "Enzyme",
+    "Gene"
+  ],
+  "citation_count": 1473,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925819803927/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2076935230.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:48.176501+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2076935230",
+    "concepts": [
+      "Oxidative stress",
+      "Glutathione",
+      "Transcription factor",
+      "NAD+ kinase",
+      "Reactive oxygen species"
+    ],
+    "oa_status": "hybrid"
+  }
+}

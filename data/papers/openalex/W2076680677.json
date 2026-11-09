@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2076680677",
+  "title": "A new polynomial-time algorithm for linear programming",
+  "abstract": "We present a new polynomial-time algorithm for linear programming. The running-time of this algorithm is O(n3-5L2), as compared to O(n6L2) for the ellipsoid algorithm. We prove that given a polytope P and a strictly interior point a ε P, there is a projective transformation of the space that maps P, a to P', a' having the following property. The ratio of the radius of the smallest sphere with center a', containing P' to the radius of the largest sphere with center a' contained in P' is O (n). The algorithm consists of repeated application of such projective transformations each followed by optimization over an inscribed sphere to create a sequence of points which converges to the optimal solution in polynomial-time.",
+  "authors": [
+    "Narendra K. Karmarkar"
+  ],
+  "year": 1984,
+  "doi": "10.1145/800057.808695",
+  "source": "openalex",
+  "categories": [
+    "Polytope",
+    "Time complexity",
+    "Mathematics",
+    "Interior point method",
+    "Linear programming",
+    "Inscribed figure",
+    "Combinatorics",
+    "Criss-cross algorithm",
+    "RADIUS",
+    "Ellipsoid",
+    "Polynomial",
+    "Sequence (biology)",
+    "Center (category theory)",
+    "Algorithm",
+    "Linear-fractional programming",
+    "Discrete mathematics",
+    "Computer science",
+    "Geometry",
+    "Mathematical analysis",
+    "Computer security",
+    "Biology",
+    "Astronomy",
+    "Genetics",
+    "Chemistry",
+    "Crystallography",
+    "Physics"
+  ],
+  "citation_count": 1151,
+  "open_access_pdf_url": "https://dl.acm.org/doi/pdf/10.1145/800057.808695",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2076680677.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:14.589624+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2076680677",
+    "concepts": [
+      "Polytope",
+      "Time complexity",
+      "Mathematics",
+      "Interior point method",
+      "Linear programming"
+    ],
+    "oa_status": "bronze"
+  }
+}

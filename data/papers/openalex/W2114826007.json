@@ -1,0 +1,31 @@
+{
+  "id": "openalex:W2114826007",
+  "title": "Species Contributions to PM2.5 Mass Concentrations: Revisiting Common Assumptions for Estimating Organic Mass",
+  "abstract": "In virtually all published literature wherein closure between gravimetric and chemical measurements is tested, the concentration of particulate organics is estimated by multiplying the measured concentration of organic carbon (micrograms carbon/cubic meter air) by a factor of 1.2 -1.4.This factor, which is an estimate of the average molecular weight per carbon weight for the organic aerosol, stems from very limited theoretical and laboratory studies conducted during the 1970s.This investigation suggests that 1.4 is the lowest reasonable estimate for the organic molecular weight per carbon weight for an urban aerosol and that 1.4 does not accurately represent the average organic molecular weight per carbon weight for a nonurban aerosol.Based on the current evaluation, ratios of 1.6 § 0.2 for urban aerosols and 2.1 § 0.2 for nonurban aerosols appear to be more accurate.Measurements are recommended.Literature values also suggest that 1.2 g/cm 3 is a reasonable estimate for the organic aerosol density.This quantity is needed to convert between geometric and aerodynamic size distributions (e.g., to predict aerosol optical properties and understand cloud nucleating properties).",
+  "authors": [
+    "Barbara J. Turpin",
+    "Ho‐Jin Lim"
+  ],
+  "year": 2001,
+  "doi": "10.1080/02786820119445",
+  "source": "openalex",
+  "categories": [
+    "Environmental chemistry",
+    "Environmental science",
+    "Chemistry"
+  ],
+  "citation_count": 2086,
+  "open_access_pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/02786820119445?needAccess=true",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2114826007.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:15.453985+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2114826007",
+    "concepts": [
+      "Environmental chemistry",
+      "Environmental science",
+      "Chemistry"
+    ],
+    "oa_status": "bronze"
+  }
+}

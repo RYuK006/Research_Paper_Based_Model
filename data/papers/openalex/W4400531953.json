@@ -1,0 +1,37 @@
+{
+  "id": "openalex:W4400531953",
+  "title": "C-Pack: Packed Resources For General Chinese Embeddings",
+  "abstract": "We introduce C-Pack, a package of resources that significantly advances the field of general text embeddings for Chinese. C-Pack includes three critical resources. 1) C-MTP is a massive training dataset for text embedding, which is based on the curation of vast unlabeled corpora and the integration of high-quality labeled corpora. 2) C-MTEB is a comprehensive benchmark for Chinese text embeddings covering 6 tasks and 35 datasets. 3) BGE is a family of embedding models covering multiple sizes. Our models outperform all prior Chinese text embeddings on C-MTEB by more than +10% upon the time of the release. We also integrate and optimize the entire suite of training methods for BGE. Along with our resources on general Chinese embedding, we release our data and models for English text embeddings. The English models also achieve state-of-the-art performance on the MTEB benchmark; meanwhile, our released English data is 2 times larger than the Chinese data. Both Chinese and English datasets are the largest public release of training data for text embeddings. All these resources are made publicly available at https://github.com/FlagOpen/FlagEmbedding.",
+  "authors": [
+    "Shitao Xiao",
+    "Zheng Liu",
+    "Peitian Zhang",
+    "Niklas Muennighoff",
+    "Defu Lian",
+    "Jian‐Yun Nie"
+  ],
+  "year": 2024,
+  "doi": "10.1145/3626772.3657878",
+  "source": "openalex",
+  "categories": [
+    "Packed bed",
+    "Computer science",
+    "Chemistry",
+    "Chromatography"
+  ],
+  "citation_count": 1575,
+  "open_access_pdf_url": "https://arxiv.org/pdf/2309.07597",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W4400531953.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:41.982623+00:00",
+  "raw_metadata": {
+    "openalex_id": "W4400531953",
+    "concepts": [
+      "Packed bed",
+      "Computer science",
+      "Chemistry",
+      "Chromatography"
+    ],
+    "oa_status": "green"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "openalex:W2516574342",
+  "title": "Towards Evaluating the Robustness of Neural Networks",
+  "abstract": "Neural networks provide state-of-the-art results for most machine learning tasks. Unfortunately, neural networks are vulnerable to adversarial examples: given an input x and any target classification t, it is possible to find a new input x' that is similar to x but classified as t. This makes it difficult to apply neural networks in security-critical areas. Defensive distillation is a recently proposed approach that can take an arbitrary neural network, and increase its robustness, reducing the success rate of current attacks' ability to find adversarial examples from 95% to 0.5%. In this paper, we demonstrate that defensive distillation does not significantly increase the robustness of neural networks by introducing three new attack algorithms that are successful on both distilled and undistilled neural networks with 100% probability. Our attacks are tailored to three distance metrics used previously in the literature, and when compared to previous adversarial example generation algorithms, our attacks are often much more effective (and never worse). Furthermore, we propose using high-confidence adversarial examples in a simple transferability test we show can also be used to break defensive distillation. We hope our attacks will be used as a benchmark in future defense attempts to create neural networks that resist adversarial examples.",
+  "authors": [
+    "Nicholas Carlini",
+    "David Wagner"
+  ],
+  "year": 2017,
+  "doi": "10.1109/sp.2017.49",
+  "source": "openalex",
+  "categories": [
+    "Adversarial system",
+    "Artificial neural network",
+    "Robustness (evolution)",
+    "Computer science",
+    "Deep neural networks",
+    "Artificial intelligence",
+    "Machine learning",
+    "Transferability",
+    "Distillation",
+    "Gene",
+    "Chemistry",
+    "Biochemistry",
+    "Logit",
+    "Organic chemistry"
+  ],
+  "citation_count": 9307,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1608.04644",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2516574342.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:49.876645+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2516574342",
+    "concepts": [
+      "Adversarial system",
+      "Artificial neural network",
+      "Robustness (evolution)",
+      "Computer science",
+      "Deep neural networks"
+    ],
+    "oa_status": "green"
+  }
+}

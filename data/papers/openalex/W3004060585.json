@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W3004060585",
+  "title": "Extracellular Matrix in the Tumor Microenvironment and Its Impact on Cancer Therapy",
+  "abstract": "Solid tumors are complex organ-like structures that consist not only of tumor cells but also of vasculature, extracellular matrix (ECM), stromal, and immune cells. Often, this tumor microenvironment (TME) comprises the larger part of the overall tumor mass. Like the other components of the TME, the ECM in solid tumors differs significantly from that in normal organs. Intratumoral signaling, transport mechanisms, metabolisms, oxygenation, and immunogenicity are strongly affected if not controlled by the ECM. Exerting this regulatory control, the ECM does not only influence malignancy and growth of the tumor but also its response toward therapy. Understanding the particularities of the ECM in solid tumor is necessary to develop approaches to interfere with its negative effect. In this review, we will also highlight the current understanding of the physical, cellular, and molecular mechanisms by which the pathological tumor ECM affects the efficiency of radio-, chemo-, and immunotherapy. Finally, we will discuss the various strategies to target and modify the tumor ECM and how they could be utilized to improve response to therapy.",
+  "authors": [
+    "Erik Henke",
+    "Rajender Nandigama",
+    "Süleyman Ergün"
+  ],
+  "year": 2020,
+  "doi": "10.3389/fmolb.2019.00160",
+  "source": "openalex",
+  "categories": [
+    "Extracellular matrix",
+    "Tumor microenvironment",
+    "Stromal cell",
+    "Immunotherapy",
+    "Cancer research",
+    "Malignancy",
+    "Immune system",
+    "Cancer",
+    "Cancer therapy",
+    "Immunogenicity",
+    "Cell biology",
+    "Biology",
+    "Tumor cells",
+    "Chemistry",
+    "Medicine",
+    "Immunology",
+    "Pathology",
+    "Internal medicine"
+  ],
+  "citation_count": 1187,
+  "open_access_pdf_url": "https://www.frontiersin.org/articles/10.3389/fmolb.2019.00160/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3004060585.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:08.467692+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3004060585",
+    "concepts": [
+      "Extracellular matrix",
+      "Tumor microenvironment",
+      "Stromal cell",
+      "Immunotherapy",
+      "Cancer research"
+    ],
+    "oa_status": "gold"
+  }
+}

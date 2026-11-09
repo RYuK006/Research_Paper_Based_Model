@@ -1,0 +1,37 @@
+{
+  "id": "openalex:W2026395206",
+  "title": "π-Stacking Interactions",
+  "abstract": "A representative set of high resolution x-ray crystal structures of nonhomologous proteins have been examined to determine the preferred positions and orientations of noncovalent interactions between the aromatic side chains of the amino acids phenylalanine, tyrosine, histidine, and tryptophan. To study the primary interactions between aromatic amino acids, care has been taken to examine only isolated pairs (dimers) of amino acids because trimers and higher order clusters of aromatic amino acids behave differently than their dimer counterparts. We find that pairs (dimers) of aromatic side chain amino acids preferentially align their respective aromatic rings in an off-centered parallel orientation. Further, we find that this parallel-displaced structure is 0.5-0.75 kcal/mol more stable than a T-shaped structure for phenylalanine interactions and 1 kcal/mol more stable than a T-shaped structure for the full set of aromatic side chain amino acids. This experimentally determined structure and energy difference is consistent with ab initio and molecular mechanics calculations of benzene dimer, however, the results are not in agreement with previously published analyses of aromatic amino acids in proteins. The preferred orientation is referred to as parallel displaced pi-stacking.",
+  "authors": [
+    "Georgia B. McGaughey",
+    "Marc Gagné",
+    "Anthony K. Rappé"
+  ],
+  "year": 1998,
+  "doi": "10.1074/jbc.273.25.15458",
+  "source": "openalex",
+  "categories": [
+    "Stacking",
+    "Chemistry",
+    "Computational biology",
+    "Computer science",
+    "Biology",
+    "Organic chemistry"
+  ],
+  "citation_count": 1173,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925818808158/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2026395206.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:12.160103+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2026395206",
+    "concepts": [
+      "Stacking",
+      "Chemistry",
+      "Computational biology",
+      "Computer science",
+      "Biology"
+    ],
+    "oa_status": "hybrid"
+  }
+}

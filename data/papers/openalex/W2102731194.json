@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2102731194",
+  "title": "Topological Nature of Optical Bound States in the Continuum",
+  "abstract": "Optical bound states in the continuum (BICs) have recently been realized in photonic crystal slabs, where the disappearance of out-of-plane radiation turns leaky resonances into guided modes with infinite lifetimes. We show that such BICs are vortex centers in the polarization directions of far-field radiation. They carry conserved and quantized topological charges, defined by the winding number of the polarization vectors, which ensure their robust existence and govern their generation, evolution, and annihilation. Our findings connect robust BICs in photonics to a wide range of topological physical phenomena.",
+  "authors": [
+    "Bo Zhen",
+    "Chia Wei Hsu",
+    "Ling Lü",
+    "A. Douglas Stone",
+    "Marin Soljacic A"
+  ],
+  "year": 2014,
+  "doi": "10.1103/physrevlett.113.257401",
+  "source": "openalex",
+  "categories": [
+    "Physics",
+    "Polarization (electrochemistry)",
+    "Annihilation",
+    "Bound state",
+    "Topology (electrical circuits)",
+    "Photonics",
+    "Vortex",
+    "Topological quantum number",
+    "Topological defect",
+    "Optical vortex",
+    "Photonic crystal",
+    "Quantum mechanics",
+    "Thermodynamics",
+    "Physical chemistry",
+    "Mathematics",
+    "Combinatorics",
+    "Chemistry"
+  ],
+  "citation_count": 1264,
+  "open_access_pdf_url": "http://link.aps.org/pdf/10.1103/PhysRevLett.113.257401",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2102731194.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:00.635234+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2102731194",
+    "concepts": [
+      "Physics",
+      "Polarization (electrochemistry)",
+      "Annihilation",
+      "Bound state",
+      "Topology (electrical circuits)"
+    ],
+    "oa_status": "bronze"
+  }
+}

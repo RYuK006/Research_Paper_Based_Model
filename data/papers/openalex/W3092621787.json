@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W3092621787",
+  "title": "NAD+ metabolism: pathophysiologic mechanisms and therapeutic potential",
+  "abstract": "Abstract Nicotinamide adenine dinucleotide (NAD + ) and its metabolites function as critical regulators to maintain physiologic processes, enabling the plastic cells to adapt to environmental changes including nutrient perturbation, genotoxic factors, circadian disorder, infection, inflammation and xenobiotics. These effects are mainly achieved by the driving effect of NAD + on metabolic pathways as enzyme cofactors transferring hydrogen in oxidation-reduction reactions. Besides, multiple NAD + -dependent enzymes are involved in physiology either by post-synthesis chemical modification of DNA, RNA and proteins, or releasing second messenger cyclic ADP-ribose (cADPR) and NAADP + . Prolonged disequilibrium of NAD + metabolism disturbs the physiological functions, resulting in diseases including metabolic diseases, cancer, aging and neurodegeneration disorder. In this review, we summarize recent advances in our understanding of the molecular mechanisms of NAD + -regulated physiological responses to stresses, the contribution of NAD + deficiency to various diseases via manipulating cellular communication networks and the potential new avenues for therapeutic intervention.",
+  "authors": [
+    "Na Xie",
+    "Lu Zhang",
+    "Wei Qiang Gao",
+    "Canhua Huang",
+    "Peter Huber",
+    "Xiaobo Zhou",
+    "Chang Long Li",
+    "Guobo Shen",
+    "Bingwen Zou"
+  ],
+  "year": 2020,
+  "doi": "10.1038/s41392-020-00311-7",
+  "source": "openalex",
+  "categories": [
+    "NAD+ kinase",
+    "Nicotinamide adenine dinucleotide",
+    "Biology",
+    "Cofactor",
+    "Enzyme",
+    "Neurodegeneration",
+    "Biochemistry",
+    "DNA repair",
+    "Chemistry",
+    "Cell biology",
+    "DNA",
+    "Medicine",
+    "Disease",
+    "Pathology"
+  ],
+  "citation_count": 1120,
+  "open_access_pdf_url": "https://www.nature.com/articles/s41392-020-00311-7.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3092621787.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:19.484186+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3092621787",
+    "concepts": [
+      "NAD+ kinase",
+      "Nicotinamide adenine dinucleotide",
+      "Biology",
+      "Cofactor",
+      "Enzyme"
+    ],
+    "oa_status": "gold"
+  }
+}

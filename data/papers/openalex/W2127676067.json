@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W2127676067",
+  "title": "Device Physics of Polymer:Fullerene Bulk Heterojunction Solar Cells",
+  "abstract": "Abstract Plastic solar cells bear the potential for large‐scale power generation based on materials that provide the possibility of flexible, lightweight, inexpensive, efficient solar cells. Since the discovery of the photoinduced electron transfer from a conjugated polymer to fullerene molecules, followed by the introduction of the bulk heterojunction (BHJ) concept, this material combination has been extensively studied in organic solar cells, leading to several breakthroughs in efficiency, with a power conversion efficiency approaching 5 %. This article reviews the processes and limitations that govern device operation of polymer:fullerene BHJ solar cells, with respect to the charge‐carrier transport and photogeneration mechanism. The transport of electrons/holes in the blend is a crucial parameter and must be controlled (e.g., by controlling the nanoscale morphology) and enhanced in order to allow fabrication of thicker films to maximize the absorption, without significant recombination losses. Concomitantly, a balanced transport of electrons and holes in the blend is needed to suppress the build‐up of the space–charge that will significantly reduce the power conversion efficiency. Dissociation of electron–hole pairs at the donor/acceptor interface is an important process that limits the charge generation efficiency under normal operation condition. Based on these findings, there is a compromise between charge generation (light absorption) and open‐circuit voltage ( V OC ) when attempting to reduce the bandgap of the polymer (or fullerene). Therefore, an increase in V OC of polymer:fullerene cells, for example by raising the lowest unoccupied molecular orbital level of the fullerene, will benefit cell performance as both fill factor and short‐circuit current increase simultaneously.",
+  "authors": [
+    "Paul W. M. Blom",
+    "V.D. Mihailetchi",
+    "L. Jan Anton Koster",
+    "Denis E. Markov"
+  ],
+  "year": 2007,
+  "doi": "10.1002/adma.200601093",
+  "source": "openalex",
+  "categories": [
+    "Materials science",
+    "Polymer solar cell",
+    "Fullerene",
+    "Energy conversion efficiency",
+    "Hybrid solar cell",
+    "Organic solar cell",
+    "Band gap",
+    "Polymer",
+    "Optoelectronics",
+    "Heterojunction",
+    "Solar cell",
+    "Nanotechnology",
+    "Acceptor",
+    "Space charge",
+    "Electron",
+    "HOMO/LUMO",
+    "Chemical physics",
+    "Molecule",
+    "Chemistry",
+    "Organic chemistry",
+    "Composite material",
+    "Physics",
+    "Quantum mechanics",
+    "Condensed matter physics"
+  ],
+  "citation_count": 2332,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adma.200601093",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2127676067.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:08.777576+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2127676067",
+    "concepts": [
+      "Materials science",
+      "Polymer solar cell",
+      "Fullerene",
+      "Energy conversion efficiency",
+      "Hybrid solar cell"
+    ],
+    "oa_status": "hybrid"
+  }
+}

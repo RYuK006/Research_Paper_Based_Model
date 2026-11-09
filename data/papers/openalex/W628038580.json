@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W628038580",
+  "title": "HIF-1α pathway: role, regulation and intervention for cancer therapy",
+  "abstract": "Hypoxia-inducible factor-1 (HIF-1) has been recognized as an important cancer drug target. Many recent studies have provided convincing evidences of strong correlation between elevated levels of HIF-1 and tumor metastasis, angiogenesis, poor patient prognosis as well as tumor resistance therapy. It was found that hypoxia (low O2 levels) is a common character in many types of solid tumors. As an adaptive response to hypoxic stress, hypoxic tumor cells activate several survival pathways to carry out their essential biological processes in different ways compared with normal cells. Recent advances in cancer biology at the cellular and molecular levels highlighted the HIF-1α pathway as a crucial survival pathway for which novel strategies of cancer therapy could be developed. However, targeting the HIF-1α pathway has been a challenging but promising progresses have been made in the past twenty years. This review summarizes the role and regulation of the HIF-1α in cancer, and recent therapeutic approaches targeting this important pathway.",
+  "authors": [
+    "Georgina N. Masoud",
+    "Wěi Li"
+  ],
+  "year": 2015,
+  "doi": "10.1016/j.apsb.2015.05.007",
+  "source": "openalex",
+  "categories": [
+    "Angiogenesis",
+    "Hypoxia (environmental)",
+    "Metastasis",
+    "Cancer research",
+    "Cancer",
+    "Cancer therapy",
+    "Medicine",
+    "Cancer cell",
+    "Signal transduction",
+    "Biology",
+    "Bioinformatics",
+    "Internal medicine",
+    "Chemistry",
+    "Cell biology",
+    "Organic chemistry",
+    "Oxygen"
+  ],
+  "citation_count": 1915,
+  "open_access_pdf_url": "https://www.sciencedirect.com/science/article/pii/S2211383515000817/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W628038580.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:17.929073+00:00",
+  "raw_metadata": {
+    "openalex_id": "W628038580",
+    "concepts": [
+      "Angiogenesis",
+      "Hypoxia (environmental)",
+      "Metastasis",
+      "Cancer research",
+      "Cancer"
+    ],
+    "oa_status": "gold"
+  }
+}

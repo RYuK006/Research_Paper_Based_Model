@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2014862314",
+  "title": "Capacity Fade Mechanisms and Side Reactions in Lithium‐Ion Batteries",
+  "abstract": "The capacity of a lithium‐ion battery decreases during cycling. This capacity loss or fade occurs due to several different mechanisms which are due to or are associated with unwanted side reactions that occur in these batteries. These reactions occur during overcharge or overdischarge and cause electrolyte decomposition, passive film formation, active material dissolution, and other phenomena. These capacity loss mechanisms are not included in the present lithium‐ion battery mathematical models available in the open literature. Consequently, these models cannot be used to predict cell performance during cycling and under abuse conditions. This article presents a review of the current literature on capacity fade mechanisms and attempts to describe the information needed and the directions that may be taken to include these mechanisms in advanced lithium‐ion battery models.",
+  "authors": [
+    "Pankaj Arora",
+    "Ralph E. White",
+    "Marc Doyle"
+  ],
+  "year": 1998,
+  "doi": "10.1149/1.1838857",
+  "source": "openalex",
+  "categories": [
+    "Fade",
+    "Overcharge",
+    "Capacity loss",
+    "Lithium (medication)",
+    "Electrolyte",
+    "Battery (electricity)",
+    "Ion",
+    "Lithium-ion battery",
+    "Materials science",
+    "Chemistry",
+    "Computer science",
+    "Electrode",
+    "Thermodynamics",
+    "Physics",
+    "Operating system",
+    "Organic chemistry",
+    "Power (physics)",
+    "Medicine",
+    "Endocrinology",
+    "Physical chemistry"
+  ],
+  "citation_count": 1425,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1149/1.1838857/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2014862314.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:50.592730+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2014862314",
+    "concepts": [
+      "Fade",
+      "Overcharge",
+      "Capacity loss",
+      "Lithium (medication)",
+      "Electrolyte"
+    ],
+    "oa_status": "bronze"
+  }
+}

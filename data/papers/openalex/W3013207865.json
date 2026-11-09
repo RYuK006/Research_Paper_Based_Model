@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W3013207865",
+  "title": "Vericiguat in Patients with Heart Failure and Reduced Ejection Fraction",
+  "abstract": "BACKGROUND: The effect of vericiguat, a novel oral soluble guanylate cyclase stimulator, in patients with heart failure and reduced ejection fraction who had recently been hospitalized or had received intravenous diuretic therapy is unclear. METHODS: In this phase 3, randomized, double-blind, placebo-controlled trial, we assigned 5 050 patients with chronic heart failure (New York Heart Association class II, III, or IV) and an ejection fraction of less than 45% to receive vericiguat (target dose 10 mg once daily) or placebo, in addition to guideline-based medical therapy.The primary outcome was a composite of death from cardiovascular causes or first hospitalization for heart failure. RESULTS: Over a median of 10.8 months, a primary-outcome event occurred in 897 of 2 526 patients (35.5%) in the vericiguat group and in 972 of 2 524 patients (38.5%) in the placebo group (p = 0.02). A total of 691 patients (27.4%) in the vericiguat group and 747 patients (29.6%) in the placebo group were hospitalized for heart failure. Death from cardiovascular causes occurred in 414 patients (16.4%) in the vericiguat group and in 441 patients (17.5%) in the placebo group. The composite endpoint of death from any cause or hospitalization for heart failure occurred in 957 patients (37.9%) in the vericiguat group and in 1 032 patients (40.9%) in the placebo group (p = 0.02). Symptomatic hypotension occurred in 9.1% of the patients in the vericiguat group and in 7.9% of the patients in the placebo group (p = 0.12), syncope occurred in 4.0% of the patients in the vericiguat group and in 3.5% of the patients in the placebo group (p = 0.30). CONCLUSION: Among patients with high-risk heart failure, the incidence of death from cardiovascular causes or hospitalization for heart failure was lower among those who received vericiguat than those who received placebo.",
+  "authors": [
+    "Paul W. Armstrong",
+    "Burkert Mathias Pieske",
+    "Kevin Joseph Anstrom",
+    "Justin Adrian Ezekowitz",
+    "Adrian F. Hernandez",
+    "Javed Butler",
+    "Carolyn S.P. Lam",
+    "Piotr P. Ponikowski",
+    "Adriaan A. Voors",
+    "Gang Jia",
+    "Steven E. McNulty",
+    "Mahesh J. Patel",
+    "Lothar Roessig",
+    "Joerg Koglin",
+    "Christopher M. O’Connor"
+  ],
+  "year": 2020,
+  "doi": "10.1056/nejmoa1915928",
+  "source": "openalex",
+  "categories": [
+    "Ejection fraction",
+    "Heart failure",
+    "Cardiology",
+    "Fraction (chemistry)",
+    "Internal medicine",
+    "Medicine",
+    "Chemistry",
+    "Organic chemistry"
+  ],
+  "citation_count": 1393,
+  "open_access_pdf_url": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa1915928?articleTools=true",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3013207865.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:52.529392+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3013207865",
+    "concepts": [
+      "Ejection fraction",
+      "Heart failure",
+      "Cardiology",
+      "Fraction (chemistry)",
+      "Internal medicine"
+    ],
+    "oa_status": "hybrid"
+  }
+}

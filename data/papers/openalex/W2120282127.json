@@ -1,0 +1,58 @@
+{
+  "id": "openalex:W2120282127",
+  "title": "Effects of free fatty acids on glucose transport and IRS-1–associated phosphatidylinositol 3-kinase activity",
+  "abstract": "To examine the mechanism by which free fatty acids (FFA) induce insulin resistance in human skeletal muscle, glycogen, glucose-6-phosphate, and intracellular glucose concentrations were measured using carbon-13 and phosphorous-31 nuclear magnetic resonance spectroscopy in seven healthy subjects before and after a hyperinsulinemic-euglycemic clamp following a five-hour infusion of either lipid/heparin or glycerol/heparin. IRS-1-associated phosphatidylinositol 3-kinase (PI 3-kinase) activity was also measured in muscle biopsy samples obtained from seven additional subjects before and after an identical protocol. Rates of insulin stimulated whole-body glucose uptake. Glucose oxidation and muscle glycogen synthesis were 50%-60% lower following the lipid infusion compared with the glycerol infusion and were associated with a approximately 90% decrease in the increment in intramuscular glucose-6-phosphate concentration, implying diminished glucose transport or phosphorylation activity. To distinguish between these two possibilities, intracellular glucose concentration was measured and found to be significantly lower in the lipid infusion studies, implying that glucose transport is the rate-controlling step. Insulin stimulation, during the glycerol infusion, resulted in a fourfold increase in PI 3-kinase activity over basal that was abolished during the lipid infusion. Taken together, these data suggest that increased concentrations of plasma FFA induce insulin resistance in humans through inhibition of glucose transport activity; this may be a consequence of decreased IRS-1-associated PI 3-kinase activity.",
+  "authors": [
+    "Alan Dresner",
+    "Didier Laurent",
+    "Melissa Marcucci",
+    "Margaret E. Griffin",
+    "Sylvie Dufour",
+    "Gary W. Cline",
+    "Lori A. Slezak",
+    "Dana K. Andersen",
+    "Ripudaman S. Hundal",
+    "Douglas L. Rothman",
+    "Kitt Falk Petersen",
+    "Gerald I. Shulman"
+  ],
+  "year": 1999,
+  "doi": "10.1172/jci5001",
+  "source": "openalex",
+  "categories": [
+    "Internal medicine",
+    "Endocrinology",
+    "Phosphatidylinositol",
+    "Glycogen",
+    "Glucose transporter",
+    "Glucose uptake",
+    "Insulin",
+    "Glycogen synthase",
+    "Glucose clamp technique",
+    "Insulin resistance",
+    "Chemistry",
+    "Skeletal muscle",
+    "Basal (medicine)",
+    "Kinase",
+    "Biology",
+    "Biochemistry",
+    "Pancreatic hormone",
+    "Medicine"
+  ],
+  "citation_count": 1321,
+  "open_access_pdf_url": "http://www.jci.org/articles/view/5001/files/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2120282127.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:57.655724+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2120282127",
+    "concepts": [
+      "Internal medicine",
+      "Endocrinology",
+      "Phosphatidylinositol",
+      "Glycogen",
+      "Glucose transporter"
+    ],
+    "oa_status": "bronze"
+  }
+}

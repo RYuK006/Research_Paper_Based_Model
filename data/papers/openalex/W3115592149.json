@@ -1,0 +1,40 @@
+{
+  "id": "openalex:W3115592149",
+  "title": "Sample size, power and effect size revisited: simplified and practical approaches in pre-clinical, clinical and laboratory studies",
+  "abstract": "Calculating the sample size in scientific studies is one of the critical issues as regards the scientific contribution of the study. The sample size critically affects the hypothesis and the study design, and there is no straightforward way of calculating the effective sample size for reaching an accurate conclusion. Use of a statistically incorrect sample size may lead to inadequate results in both clinical and laboratory studies as well as resulting in time loss, cost, and ethical problems. This review holds two main aims. The first aim is to explain the importance of sample size and its relationship to effect size (ES) and statistical significance. The second aim is to assist researchers planning to perform sample size estimations by suggesting and elucidating available alternative software, guidelines and references that will serve different scientific purposes.",
+  "authors": [
+    "Ceyhan Ceran Serdar",
+    "Murat Cihan",
+    "Doğan Yücel",
+    "Muhittin Abdulkadir Serdar"
+  ],
+  "year": 2020,
+  "doi": "10.11613/bm.2021.010502",
+  "source": "openalex",
+  "categories": [
+    "Sample size determination",
+    "Sample (material)",
+    "Computer science",
+    "Statistical power",
+    "Statistics",
+    "Mathematics",
+    "Chemistry",
+    "Chromatography"
+  ],
+  "citation_count": 1868,
+  "open_access_pdf_url": "https://www.biochemia-medica.com/assets/images/upload/xml_tif/BM31_3_010502.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3115592149.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:22.218138+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3115592149",
+    "concepts": [
+      "Sample size determination",
+      "Sample (material)",
+      "Computer science",
+      "Statistical power",
+      "Statistics"
+    ],
+    "oa_status": "diamond"
+  }
+}

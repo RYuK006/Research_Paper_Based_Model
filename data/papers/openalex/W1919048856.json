@@ -1,0 +1,59 @@
+{
+  "id": "openalex:W1919048856",
+  "title": "Ganoderma lucidum reduces obesity in mice by modulating the composition of the gut microbiota",
+  "abstract": "Obesity is associated with low-grade chronic inflammation and intestinal dysbiosis. Ganoderma lucidum is a medicinal mushroom used in traditional Chinese medicine with putative anti-diabetic effects. Here, we show that a water extract of Ganoderma lucidum mycelium (WEGL) reduces body weight, inflammation and insulin resistance in mice fed a high-fat diet (HFD). Our data indicate that WEGL not only reverses HFD-induced gut dysbiosis-as indicated by the decreased Firmicutes-to-Bacteroidetes ratios and endotoxin-bearing Proteobacteria levels-but also maintains intestinal barrier integrity and reduces metabolic endotoxemia. The anti-obesity and microbiota-modulating effects are transmissible via horizontal faeces transfer from WEGL-treated mice to HFD-fed mice. We further show that high molecular weight polysaccharides (>300 kDa) isolated from the WEGL extract produce similar anti-obesity and microbiota-modulating effects. Our results indicate that G. lucidum and its high molecular weight polysaccharides may be used as prebiotic agents to prevent gut dysbiosis and obesity-related metabolic disorders in obese individuals.",
+  "authors": [
+    "Chih‐Jung Chang",
+    "Chuan-Sheng Lin",
+    "Chia‐Chen Lu",
+    "Jan Martel",
+    "Yun‐Fei Ko",
+    "David M. Ojcius",
+    "Shun‐Fu Tseng",
+    "Tsung-Ru Wu",
+    "Yi‐Ywan M. Chen",
+    "John Ding‐E Young",
+    "Hsin‐Chih Lai"
+  ],
+  "year": 2015,
+  "doi": "10.1038/ncomms8489",
+  "source": "openalex",
+  "categories": [
+    "Dysbiosis",
+    "Firmicutes",
+    "Prebiotic",
+    "Gut flora",
+    "Obesity",
+    "Insulin resistance",
+    "Polysaccharide",
+    "Inflammation",
+    "Diet-induced obese",
+    "Biology",
+    "Bacteroides",
+    "Microbiology",
+    "Chemistry",
+    "Endocrinology",
+    "Biochemistry",
+    "Immunology",
+    "Bacteria",
+    "Genetics",
+    "Gene",
+    "16S ribosomal RNA"
+  ],
+  "citation_count": 1254,
+  "open_access_pdf_url": "https://www.nature.com/articles/ncomms8489.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1919048856.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:02.577023+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1919048856",
+    "concepts": [
+      "Dysbiosis",
+      "Firmicutes",
+      "Prebiotic",
+      "Gut flora",
+      "Obesity"
+    ],
+    "oa_status": "gold"
+  }
+}

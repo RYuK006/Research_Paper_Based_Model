@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2069435104",
+  "title": "Mean Value Methods in Iteration",
+  "abstract": "Due largely to the works of Cesaro, Fejer, and Toeplitz, mean value methods have become famous in the summation of divergent series. The purpose of this paper is to show that the same methods can play a somewhat analogous role in the theory of divergent iteration processes. We shall consider iteration from the limited but nevertheless important point of view of an applied mathematician trying to use a method of successive approximations on some boundary value problem which may be either linear or nonlinear. It is now widely known that the Schauder fixpoint theorem [1] is a powerful method for proving existence theorems. If one wishes to use it to prove that a given problem has a solution, he proceeds by associating with the problem a convex compact set E in some Banach space, and a continuous transformation T which carries E into itself. Schauder's theorem asserts that T must have at least one fixpoint, say p, in E. If E and T have been appropriately chosen, it can then usually be shown that any such fixpoint must be a solution of the original problem and conversely. Mathematical literature since about 1935 abounds with illustrations of this technique. We mention here only [2] and [3] which contain the genesis of the present work. Let us then begin with a convex compact set E in a Banach space, and a continuous transformation T carrying E into itself. The problem which we shall consider is that of constructing in E a sequence of elements { x,n } that converge to a fixpoint of T. Ordinarily one starts by choosing more or less arbitrarily an initial point xi in E and then considering the successive iterates { xn } of xi under T, where",
+  "authors": [
+    "W. Robert Mann"
+  ],
+  "year": 1953,
+  "doi": "10.1090/s0002-9939-1953-0054846-3",
+  "source": "openalex",
+  "categories": [
+    "Mathematics",
+    "Banach space",
+    "Sequence (biology)",
+    "Fixed-point theorem",
+    "Fixed point",
+    "Regular polygon",
+    "Transformation (genetics)",
+    "Set (abstract data type)",
+    "Discrete mathematics",
+    "Pure mathematics",
+    "Mathematical analysis",
+    "Computer science",
+    "Biology",
+    "Biochemistry",
+    "Programming language",
+    "Gene",
+    "Chemistry",
+    "Geometry",
+    "Genetics"
+  ],
+  "citation_count": 2520,
+  "open_access_pdf_url": "https://www.ams.org/proc/1953-004-03/S0002-9939-1953-0054846-3/S0002-9939-1953-0054846-3.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2069435104.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:04.351776+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2069435104",
+    "concepts": [
+      "Mathematics",
+      "Banach space",
+      "Sequence (biology)",
+      "Fixed-point theorem",
+      "Fixed point"
+    ],
+    "oa_status": "bronze"
+  }
+}

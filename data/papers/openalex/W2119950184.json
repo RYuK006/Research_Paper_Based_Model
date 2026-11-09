@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2119950184",
+  "title": "Numerical simulations of particulate suspensions via a discretized Boltzmann equation. Part 1. Theoretical foundation",
+  "abstract": "A new and very general technique for simulating solid–fluid suspensions is described; its most important feature is that the computational cost scales linearly with the number of particles. The method combines Newtonian dynamics of the solid particles with a discretized Boltzmann equation for the fluid phase; the many-body hydrodynamic interactions are fully accounted for, both in the creeping-flow regime and at higher Reynolds numbers. Brownian motion of the solid particles arises spontaneously from stochastic fluctuations in the fluid stress tensor, rather than from random forces or displacements applied directly to the particles. In this paper, the theoretical foundations of the technique are laid out, illustrated by simple analytical and numerical examples; in a companion paper (Part 2), extensive numerical tests of the method, for stationary flows, time-dependent flows, and finite-Reynolds-number flows, are reported.",
+  "authors": [
+    "Anthony J. C. Ladd"
+  ],
+  "year": 1994,
+  "doi": "10.1017/s0022112094001771",
+  "source": "openalex",
+  "categories": [
+    "Discretization",
+    "Foundation (evidence)",
+    "Lattice Boltzmann methods",
+    "Mechanics",
+    "Particulates",
+    "Boltzmann equation",
+    "Direct simulation Monte Carlo",
+    "Physics",
+    "Statistical physics",
+    "Classical mechanics",
+    "Thermodynamics",
+    "Mathematical analysis",
+    "Mathematics",
+    "Monte Carlo method",
+    "Chemistry",
+    "Organic chemistry",
+    "Dynamic Monte Carlo method",
+    "History",
+    "Statistics",
+    "Archaeology"
+  ],
+  "citation_count": 2479,
+  "open_access_pdf_url": "https://arxiv.org/pdf/comp-gas/9306004",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2119950184.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:04.416761+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2119950184",
+    "concepts": [
+      "Discretization",
+      "Foundation (evidence)",
+      "Lattice Boltzmann methods",
+      "Mechanics",
+      "Particulates"
+    ],
+    "oa_status": "green"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "openalex:W2119267663",
+  "title": "The MARTINI Force Field: Coarse Grained Model for Biomolecular Simulations",
+  "abstract": "We present an improved and extended version of our coarse grained lipid model. The new version, coined the MARTINI force field, is parametrized in a systematic way, based on the reproduction of partitioning free energies between polar and apolar phases of a large number of chemical compounds. To reproduce the free energies of these chemical building blocks, the number of possible interaction levels of the coarse-grained sites has increased compared to those of the previous model. Application of the new model to lipid bilayers shows an improved behavior in terms of the stress profile across the bilayer and the tendency to form pores. An extension of the force field now also allows the simulation of planar (ring) compounds, including sterols. Application to a bilayer/cholesterol system at various concentrations shows the typical cholesterol condensation effect similar to that observed in all atom representations.",
+  "authors": [
+    "‪Siewert J. Marrink",
+    "Herre Jelger Risselada",
+    "Serge Yefimov",
+    "D. Peter Tieleman",
+    "Alex H. de Vries"
+  ],
+  "year": 2007,
+  "doi": "10.1021/jp071097f",
+  "source": "openalex",
+  "categories": [
+    "Force field (fiction)",
+    "Bilayer",
+    "Chemical physics",
+    "Polar",
+    "Lipid bilayer",
+    "Condensation",
+    "Molecular dynamics",
+    "Field (mathematics)",
+    "Ring (chemistry)",
+    "Planar",
+    "Chemistry",
+    "Materials science",
+    "Biological system",
+    "Membrane",
+    "Computational chemistry",
+    "Physics",
+    "Thermodynamics",
+    "Computer science",
+    "Mathematics",
+    "Organic chemistry",
+    "Astronomy",
+    "Pure mathematics",
+    "Biochemistry",
+    "Biology",
+    "Quantum mechanics",
+    "Computer graphics (images)"
+  ],
+  "citation_count": 5638,
+  "open_access_pdf_url": "https://research.rug.nl/files/6707449/2007JPhysChemBMarrink.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2119267663.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:52.188436+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2119267663",
+    "concepts": [
+      "Force field (fiction)",
+      "Bilayer",
+      "Chemical physics",
+      "Polar",
+      "Lipid bilayer"
+    ],
+    "oa_status": "green"
+  }
+}

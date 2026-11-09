@@ -1,0 +1,58 @@
+{
+  "id": "openalex:W2156159857",
+  "title": "Analogical Mapping by Constraint Satisfaction",
+  "abstract": "A theory of analogical mapping between source and target analogs based upon interacting structural, semantic, and pragmatic constraints is proposed here. The structural constraint of isomorphism encourages mappings that maximize the consistency of relational corresondences between the elements of the two analogs. The constraint of semantic similarity supports mapping hypotheses to the degree that mapped predicates have similar meanings. The constraint of pragmatic centrality favors mappings involving elements the analogist believes to be important in order to achieve the purpose for which the analogy is being used. The theory is implemented in a computer program called ACME (Analogical Constraint Mapping Engine), which represents constraints by means of a network of supporting and competing hypotheses regarding what elements to map. A cooperative algorithm for parallel constraint satisfaction identities mapping hypotheses that collectively represent the overall mapping that best fits the interacting constraints. ACME has been applied to a wide range of examples that include problem analogies, analogical arguments, explanatory analogies, story analogies, formal analogies, and metaphors. ACME is sensitive to semantic and pragmatic information if it is available, and yet able to compute mappings between formally isomorphic analogs without any similar or identical elements. The theory is able to account for empirical findings regarding the impact of consistency and similarity on human processing of analogies.",
+  "authors": [
+    "Keith J. Holyoak",
+    "Paul R. Thagard"
+  ],
+  "year": 1989,
+  "doi": "10.1207/s15516709cog1303_1",
+  "source": "openalex",
+  "categories": [
+    "Constraint (computer-aided design)",
+    "Consistency (knowledge bases)",
+    "Computer science",
+    "Analogy",
+    "Similarity (geometry)",
+    "Theoretical computer science",
+    "Constraint satisfaction problem",
+    "Isomorphism (crystallography)",
+    "Centrality",
+    "Constraint satisfaction",
+    "Semantic similarity",
+    "Range (aeronautics)",
+    "Coherence (philosophical gambling strategy)",
+    "Artificial intelligence",
+    "Natural language processing",
+    "Mathematics",
+    "Epistemology",
+    "Crystallography",
+    "Chemistry",
+    "Crystal structure",
+    "Composite material",
+    "Probabilistic logic",
+    "Image (mathematics)",
+    "Combinatorics",
+    "Statistics",
+    "Materials science",
+    "Philosophy",
+    "Geometry"
+  ],
+  "citation_count": 1353,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1207/s15516709cog1303_1",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2156159857.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:55.162806+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2156159857",
+    "concepts": [
+      "Constraint (computer-aided design)",
+      "Consistency (knowledge bases)",
+      "Computer science",
+      "Analogy",
+      "Similarity (geometry)"
+    ],
+    "oa_status": "bronze"
+  }
+}

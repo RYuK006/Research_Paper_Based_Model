@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2144486764",
+  "title": "Phase separation in confined systems",
+  "abstract": "We review the current state of knowledge of phase separation and phase equilibria in porous materials. Our emphasis is on fundamental studies of simple fluids (composed of small, neutral molecules) and well-characterized materials. While theoretical and molecular simulation studies are stressed, we also survey experimental investigations that are fundamental in nature. Following a brief survey of the most useful theoretical and simulation methods, we describe the nature of gas-liquid (capillary condensation), layering, liquid-liquid and freezing/melting transitions. In each case studies for simple pore geometries, and also more complex ones where available, are discussed. While a reasonably good understanding is available for phase equilibria of pure adsorbates in simple pore geometries, there is a need to extend the models to more complex pore geometries that include effects of chemical and geometrical heterogeneity and connectivity. In addition, with the exception of liquid-liquid equilibria, little work has been done so far on phase separation for mixtures in porous media.",
+  "authors": [
+    "Lev D. Gelb",
+    "Keith E. Gubbins",
+    "Ravi Radhakrishnan",
+    "Małgorzata Śliwińska-Bartkowiak"
+  ],
+  "year": 1999,
+  "doi": "10.1088/0034-4885/62/12/201",
+  "source": "openalex",
+  "categories": [
+    "Porous medium",
+    "Chemical physics",
+    "Simple (philosophy)",
+    "Physics",
+    "Condensation",
+    "Phase (matter)",
+    "Capillary condensation",
+    "Work (physics)",
+    "Porosity",
+    "Capillary action",
+    "Separation (statistics)",
+    "Statistical physics",
+    "Mechanics",
+    "Thermodynamics",
+    "Adsorption",
+    "Physical chemistry",
+    "Chemistry",
+    "Organic chemistry",
+    "Philosophy",
+    "Machine learning",
+    "Epistemology",
+    "Computer science",
+    "Quantum mechanics"
+  ],
+  "citation_count": 1575,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1088/0034-4885/62/12/201/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2144486764.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:41.977829+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2144486764",
+    "concepts": [
+      "Porous medium",
+      "Chemical physics",
+      "Simple (philosophy)",
+      "Physics",
+      "Condensation"
+    ],
+    "oa_status": "bronze"
+  }
+}

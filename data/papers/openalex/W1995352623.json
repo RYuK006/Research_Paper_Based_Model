@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W1995352623",
+  "title": "MoS2/Graphene Composite Paper for Sodium-Ion Battery Electrodes",
+  "abstract": "We study the synthesis and electrochemical and mechanical performance of layered free-standing papers composed of acid-exfoliated few-layer molybdenum disulfide (MoS2) and reduced graphene oxide (rGO) flakes for use as a self-standing flexible electrode in sodium-ion batteries. Synthesis was achieved through vacuum filtration of homogeneous dispersions consisting of varying weight percent of acid-treated MoS2 flakes in GO in DI water, followed by thermal reduction at elevated temperatures. The electrochemical performance of the crumpled composite paper (at 4 mg cm(-2)) was evaluated as counter electrode against pure Na foil in a half-cell configuration. The electrode showed good Na cycling ability with a stable charge capacity of approximately 230 mAh g(-1) with respect to total weight of the electrode with Coulombic efficiency reaching approximately 99%. In addition, static uniaxial tensile tests performed on crumpled composite papers showed high average strain to failure reaching approximately 2%.",
+  "authors": [
+    "Lamuel David",
+    "Romil Bhandavat",
+    "Gurpreet Singh"
+  ],
+  "year": 2014,
+  "doi": "10.1021/nn406156b",
+  "source": "openalex",
+  "categories": [
+    "Materials science",
+    "Graphene",
+    "Electrode",
+    "Molybdenum disulfide",
+    "Faraday efficiency",
+    "Electrochemistry",
+    "Composite number",
+    "Battery (electricity)",
+    "Composite material",
+    "Sodium-ion battery",
+    "FOIL method",
+    "Chemical engineering",
+    "Oxide",
+    "Nanotechnology",
+    "Chemistry",
+    "Metallurgy",
+    "Physics",
+    "Power (physics)",
+    "Engineering",
+    "Physical chemistry",
+    "Quantum mechanics"
+  ],
+  "citation_count": 1215,
+  "open_access_pdf_url": "https://krex.k-state.edu/bitstreams/3a11a71f-a7cc-42a3-a457-ba0108282177/download",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1995352623.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:04.690951+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1995352623",
+    "concepts": [
+      "Materials science",
+      "Graphene",
+      "Electrode",
+      "Molybdenum disulfide",
+      "Faraday efficiency"
+    ],
+    "oa_status": "green"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "openalex:W2030632688",
+  "title": "An efficient one-step site-directed deletion, insertion, single and multiple-site plasmid mutagenesis protocol",
+  "abstract": "BACKGROUND: Mutagenesis plays an essential role in molecular biology and biochemistry. It has also been used in enzymology and protein science to generate proteins which are more tractable for biophysical techniques. The ability to quickly and specifically mutate a residue(s) in protein is important for mechanistic and functional studies. Although many site-directed mutagenesis methods have been developed, a simple, quick and multi-applicable method is still desirable. RESULTS: We have developed a site-directed plasmid mutagenesis protocol that preserved the simple one step procedure of the QuikChange site-directed mutagenesis but enhanced its efficiency and extended its capability for multi-site mutagenesis. This modified protocol used a new primer design that promoted primer-template annealing by eliminating primer dimerization and also permitted the newly synthesized DNA to be used as the template in subsequent amplification cycles. These two factors we believe are the main reasons for the enhanced amplification efficiency and for its applications in multi-site mutagenesis. CONCLUSION: Our modified protocol significantly increased the efficiency of single mutation and also allowed facile large single insertions, deletions/truncations and multiple mutations in a single experiment, an option incompatible with the standard QuikChange. Furthermore the new protocol required significantly less parental DNA which facilitated the DpnI digestion after the PCR amplification and enhanced the overall efficiency and reliability. Using our protocol, we generated single site, multiple single-site mutations and a combined insertion/deletion mutations. The results demonstrated that this new protocol imposed no additional reagent costs (beyond basic QuikChange) but increased the overall success rates.",
+  "authors": [
+    "Huanting Liu",
+    "James H. Naismith"
+  ],
+  "year": 2008,
+  "doi": "10.1186/1472-6750-8-91",
+  "source": "openalex",
+  "categories": [
+    "Mutagenesis",
+    "Biology",
+    "Site-directed mutagenesis",
+    "Primer (cosmetics)",
+    "Computational biology",
+    "Plasmid",
+    "Genetics",
+    "Directed evolution",
+    "DNA",
+    "Mutation",
+    "Gene",
+    "Mutant",
+    "Chemistry",
+    "Organic chemistry"
+  ],
+  "citation_count": 1216,
+  "open_access_pdf_url": "https://bmcbiotechnol.biomedcentral.com/counter/pdf/10.1186/1472-6750-8-91",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2030632688.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:04.677323+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2030632688",
+    "concepts": [
+      "Mutagenesis",
+      "Biology",
+      "Site-directed mutagenesis",
+      "Primer (cosmetics)",
+      "Computational biology"
+    ],
+    "oa_status": "gold"
+  }
+}

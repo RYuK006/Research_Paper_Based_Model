@@ -1,0 +1,44 @@
+{
+  "id": "openalex:W2054282870",
+  "title": "Evidence that fibroblasts derive from epithelium during tissue fibrosis",
+  "abstract": "Interstitial fibroblasts are principal effector cells of organ fibrosis in kidneys, lungs, and liver. While some view fibroblasts in adult tissues as nothing more than primitive mesenchymal cells surviving embryologic development, they differ from mesenchymal cells in their unique expression of fibroblast-specific protein-1 (FSP1). This difference raises questions about their origin. Using bone marrow chimeras and transgenic reporter mice, we show here that interstitial kidney fibroblasts derive from two sources. A small number of FSP1(+), CD34(-) fibroblasts migrate to normal interstitial spaces from bone marrow. More surprisingly, however, FSP1(+) fibroblasts also arise in large numbers by local epithelial-mesenchymal transition (EMT) during renal fibrogenesis. Both populations of fibroblasts express collagen type I and expand by cell division during tissue fibrosis. Our findings suggest that a substantial number of organ fibroblasts appear through a novel reversal in the direction of epithelial cell fate. As a general mechanism, this change in fate highlights the potential plasticity of differentiated cells in adult tissues under pathologic conditions.",
+  "authors": [
+    "Masayuki Iwano",
+    "David Plieth",
+    "Theodore M. Danoff",
+    "Chengsen Xue",
+    "Hirokazu Okada",
+    "Eric G. Neilson"
+  ],
+  "year": 2002,
+  "doi": "10.1172/jci0215518",
+  "source": "openalex",
+  "categories": [
+    "Epithelium",
+    "Fibrosis",
+    "Pathology",
+    "Fibroblast",
+    "Chemistry",
+    "Biology",
+    "Cell biology",
+    "Medicine",
+    "Biochemistry",
+    "In vitro"
+  ],
+  "citation_count": 2086,
+  "open_access_pdf_url": "http://www.jci.org/articles/view/15518/files/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2054282870.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:15.451486+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2054282870",
+    "concepts": [
+      "Epithelium",
+      "Fibrosis",
+      "Pathology",
+      "Fibroblast",
+      "Chemistry"
+    ],
+    "oa_status": "bronze"
+  }
+}

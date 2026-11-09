@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2040062577",
+  "title": "Radical addition–fragmentation chemistry in polymer synthesis",
+  "abstract": "This review traces the development of addition–fragmentation chain transfer agents and related ring-opening monomers highlighting recent innovation in these areas. The major part of this review deals with reagents that give reversible addition–fragmentation chain transfer (RAFT). These reagents include dithioesters, trithiocarbonates, dithiocarbamates and xanthates. The RAFT process is a versatile method for conferring living characteristics on radical polymerizations providing unprecedented control over molecular weight, molecular weight distribution, composition and architecture. It is suitable for most monomers polymerizable by radical polymerization and is robust under a wide range of reaction conditions. It provides a route to functional polymers, cyclopolymers, gradient copolymers, block polymers and star polymers.",
+  "authors": [
+    "Graeme Moad",
+    "Ezio Rizzardo",
+    "San H. Thang"
+  ],
+  "year": 2007,
+  "doi": "10.1016/j.polymer.2007.11.020",
+  "source": "openalex",
+  "categories": [
+    "Chain transfer",
+    "Raft",
+    "Reversible addition−fragmentation chain-transfer polymerization",
+    "Polymer",
+    "Copolymer",
+    "Radical polymerization",
+    "Monomer",
+    "Reagent",
+    "Living polymerization",
+    "Polymerization",
+    "Fragmentation (computing)",
+    "Polymer chemistry",
+    "Chemistry",
+    "Functional polymers",
+    "Organic chemistry",
+    "Computer science",
+    "Operating system"
+  ],
+  "citation_count": 1448,
+  "open_access_pdf_url": "https://www.sciencedirect.com/science/article/pii/S0032386107010749/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2040062577.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:48.277836+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2040062577",
+    "concepts": [
+      "Chain transfer",
+      "Raft",
+      "Reversible addition−fragmentation chain-transfer polymerization",
+      "Polymer",
+      "Copolymer"
+    ],
+    "oa_status": "hybrid"
+  }
+}

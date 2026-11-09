@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W2925800094",
+  "title": "β-Lactamases and β-Lactamase Inhibitors in the 21st Century",
+  "abstract": "The β-lactams retain a central place in the antibacterial armamentarium. In Gram-negative bacteria, β-lactamase enzymes that hydrolyze the amide bond of the four-membered β-lactam ring are the primary resistance mechanism, with multiple enzymes disseminating on mobile genetic elements across opportunistic pathogens such as Enterobacteriaceae (e.g., Escherichia coli) and non-fermenting organisms (e.g., Pseudomonas aeruginosa). β-Lactamases divide into four classes; the active-site serine β-lactamases (classes A, C and D) and the zinc-dependent or metallo-β-lactamases (MBLs; class B). Here we review recent advances in mechanistic understanding of each class, focusing upon how growing numbers of crystal structures, in particular for β-lactam complexes, and methods such as neutron diffraction and molecular simulations, have improved understanding of the biochemistry of β-lactam breakdown. A second focus is β-lactamase interactions with carbapenems, as carbapenem-resistant bacteria are of grave clinical concern and carbapenem-hydrolyzing enzymes such as KPC (class A) NDM (class B) and OXA-48 (class D) are proliferating worldwide. An overview is provided of the changing landscape of β-lactamase inhibitors, exemplified by the introduction to the clinic of combinations of β-lactams with diazabicyclooctanone and cyclic boronate serine β-lactamase inhibitors, and of progress and strategies toward clinically useful MBL inhibitors. Despite the long history of β-lactamase research, we contend that issues including continuing unresolved questions around mechanism; opportunities afforded by new technologies such as serial femtosecond crystallography; the need for new inhibitors, particularly for MBLs; the likely impact of new β-lactam:inhibitor combinations and the continuing clinical importance of β-lactams mean that this remains a rewarding research area.",
+  "authors": [
+    "Catherine L. Tooke",
+    "Philip Hinchliffe",
+    "Éilís C. Bragginton",
+    "Charlotte K. Colenso",
+    "Viivi H. A. Hirvonen",
+    "Yuiko Takebayashi",
+    "JAMES M. SPENCER"
+  ],
+  "year": 2019,
+  "doi": "10.1016/j.jmb.2019.04.002",
+  "source": "openalex",
+  "categories": [
+    "Escherichia coli",
+    "Biology",
+    "Enzyme",
+    "Microbiology",
+    "Pseudomonas aeruginosa",
+    "Active site",
+    "Serine",
+    "Bacteria",
+    "Biochemistry",
+    "Chemistry",
+    "Gene",
+    "Genetics"
+  ],
+  "citation_count": 1137,
+  "open_access_pdf_url": "https://www.sciencedirect.com/science/article/pii/S0022283619301822/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2925800094.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:16.957106+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2925800094",
+    "concepts": [
+      "Escherichia coli",
+      "Biology",
+      "Enzyme",
+      "Microbiology",
+      "Pseudomonas aeruginosa"
+    ],
+    "oa_status": "hybrid"
+  }
+}

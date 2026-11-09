@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2141599418",
+  "title": "Double indexing overcomes inaccuracies in multiplex sequencing on the Illumina platform",
+  "abstract": "Due to the increasing throughput of current DNA sequencing instruments, sample multiplexing is necessary for making economical use of available sequencing capacities. A widely used multiplexing strategy for the Illumina Genome Analyzer utilizes sample-specific indexes, which are embedded in one of the library adapters. However, this and similar multiplex approaches come with a risk of sample misidentification. By introducing indexes into both library adapters (double indexing), we have developed a method that reveals the rate of sample misidentification within current multiplex sequencing experiments. With ~0.3% these rates are orders of magnitude higher than expected and may severely confound applications in cancer genomics and other fields requiring accurate detection of rare variants. We identified the occurrence of mixed clusters on the flow as the predominant source of error. The accuracy of sample identification is further impaired if indexed oligonucleotides are cross-contaminated or if indexed libraries are amplified in bulk. Double-indexing eliminates these problems and increases both the scope and accuracy of multiplex sequencing on the Illumina platform.",
+  "authors": [
+    "Martin Kircher",
+    "Susanna Sawyer",
+    "Matthias Meyer"
+  ],
+  "year": 2011,
+  "doi": "10.1093/nar/gkr771",
+  "source": "openalex",
+  "categories": [
+    "Multiplex",
+    "Biology",
+    "Illumina dye sequencing",
+    "Computational biology",
+    "DNA sequencing",
+    "Multiplexing",
+    "Genomics",
+    "Search engine indexing",
+    "Multiplex ligation-dependent probe amplification",
+    "Sample (material)",
+    "Oligonucleotide",
+    "Genome",
+    "Genetics",
+    "Computer science",
+    "DNA",
+    "Gene",
+    "Information retrieval",
+    "Telecommunications",
+    "Chemistry",
+    "Chromatography",
+    "Exon"
+  ],
+  "citation_count": 1125,
+  "open_access_pdf_url": "https://academic.oup.com/nar/article-pdf/40/1/e3/25406407/gkr771.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2141599418.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:17.035570+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2141599418",
+    "concepts": [
+      "Multiplex",
+      "Biology",
+      "Illumina dye sequencing",
+      "Computational biology",
+      "DNA sequencing"
+    ],
+    "oa_status": "gold"
+  }
+}

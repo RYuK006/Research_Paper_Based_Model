@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W1603903339",
+  "title": "Bayesian model averaging: a tutorial (with comments by M. Clyde, David Draper and E. I. George, and a rejoinder by the authors",
+  "abstract": "Standard statistical practice ignores model uncertainty. Data analysts typically select a model from some class of models and then proceed as if the selected model had generated the data. This approach ignores the uncertainty in model selection, leading to over-confident inferences and decisions that are more risky than one thinks they are. Bayesian model averaging (BMA)provides a coherent mechanism for accounting for this model uncertainty. Several methods for implementing BMA have recently emerged. We discuss these methods and present a number of examples.In these examples, BMA provides improved out-of-sample predictive performance. We also provide a catalogue of currently available BMA software.",
+  "authors": [
+    "Jennifer A. Hoeting",
+    "David Madigan",
+    "Adrian E. Raftery",
+    "Chris T. Volinsky"
+  ],
+  "year": 1999,
+  "doi": "10.1214/ss/1009212519",
+  "source": "openalex",
+  "categories": [
+    "George (robot)",
+    "Model selection",
+    "Computer science",
+    "Bayesian probability",
+    "Bayesian inference",
+    "Class (philosophy)",
+    "Econometrics",
+    "Selection (genetic algorithm)",
+    "Artificial intelligence",
+    "Sample (material)",
+    "Machine learning",
+    "Mathematics",
+    "Chemistry",
+    "Chromatography"
+  ],
+  "citation_count": 4194,
+  "open_access_pdf_url": "https://projecteuclid.org/journals/statistical-science/volume-14/issue-4/Bayesian-model-averaging--a-tutorial-with-comments-by-M/10.1214/ss/1009212519.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1603903339.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:54.010561+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1603903339",
+    "concepts": [
+      "George (robot)",
+      "Model selection",
+      "Computer science",
+      "Bayesian probability",
+      "Bayesian inference"
+    ],
+    "oa_status": "bronze"
+  }
+}

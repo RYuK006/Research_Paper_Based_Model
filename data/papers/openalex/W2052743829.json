@@ -1,0 +1,57 @@
+{
+  "id": "openalex:W2052743829",
+  "title": "Ocean model predictions of chemistry changes from carbon dioxide emissions to the atmosphere and ocean",
+  "abstract": "We present ocean chemistry calculations based on ocean general circulation model simulations of atmospheric CO 2 emission, stabilization of atmospheric CO 2 content, and stabilization of atmospheric CO 2 achieved in total or in part by injection of CO 2 to the deep ocean interior. Our goal is to provide first‐order results from various CO 2 pathways, allowing correspondence with studies of marine biological effects of added CO 2 . Parts of the Southern Ocean become undersaturated with respect to aragonite under the Intergovernmental Panel on Climate Change Special Report on Emissions Scenarios (SRES) A1, A2, B1, and B2 emission pathways and the WRE pathways that stabilize CO 2 at 650 ppm or above. Cumulative atmospheric emission of 5000 Pg C produces aragonite undersaturation in most of the surface ocean; 10,000 Pg C also produces calcite undersaturation in most of the surface ocean. Stabilization of atmospheric CO 2 at 450 ppm produces both calcite and aragonite undersaturation in most of the deep ocean. The simulated SRES pathways produce global surface pH reductions of ∼0.3–0.5 units by year 2100. Approximately this same reduction is produced by WRE650 and WRE1000 stabilization scenarios and by the 1250 Pg C emission scenario by year 2300. Atmospheric emissions of 5000 Pg C and 20,000 Pg C produce global surface pH reductions of 0.8 and 1.4 units, respectively, by year 2300. Simulations of deep ocean CO 2 injection as an alternative to atmospheric release show greater chemical impact on the deep ocean as the price for having less impact on the surface ocean and climate. Changes in ocean chemistry of the magnitude shown are likely to be biologically significant.",
+  "authors": [
+    "Ken Caldeira",
+    "Michael E. Wickett"
+  ],
+  "year": 2005,
+  "doi": "10.1029/2004jc002671",
+  "source": "openalex",
+  "categories": [
+    "Aragonite",
+    "Deep sea",
+    "Calcite",
+    "Carbon dioxide",
+    "Carbon dioxide in Earth's atmosphere",
+    "Ocean chemistry",
+    "Environmental science",
+    "Atmosphere (unit)",
+    "Carbon cycle",
+    "Seawater",
+    "Ocean acidification",
+    "Atmospheric sciences",
+    "Oceanography",
+    "Atmospheric chemistry",
+    "Effects of global warming on oceans",
+    "Climate change",
+    "Global warming",
+    "Geology",
+    "Chemistry",
+    "Meteorology",
+    "Mineralogy",
+    "Ozone",
+    "Ecosystem",
+    "Ecology",
+    "Biology",
+    "Physics",
+    "Organic chemistry"
+  ],
+  "citation_count": 1096,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2004JC002671",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2052743829.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:24.292032+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2052743829",
+    "concepts": [
+      "Aragonite",
+      "Deep sea",
+      "Calcite",
+      "Carbon dioxide",
+      "Carbon dioxide in Earth's atmosphere"
+    ],
+    "oa_status": "bronze"
+  }
+}

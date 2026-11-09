@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2150545098",
+  "title": "Protective effect of high density lipoprotein associated paraoxonase. Inhibition of the biological activity of minimally oxidized low density lipoprotein.",
+  "abstract": "Our group has previously demonstrated that oxidized phospholipids in mildly oxidized LDL (MM-LDL) produced by oxidation with lipoxygenase, iron, or cocultures of artery wall cells increase monocyte-endothelial interactions and this sequence of events is blocked by HDL. To obtain further insight into the mechanism by which HDL abolishes the activity of MM-LDL we investigated the effect of the HDL-associated ester hydrolase paraoxonase (PON). Treatment of MM-LDL with purified PON significantly reduced the ability of MM-LDL to induce monocyte-endothelial interactions. Inactivation of PON by pretreating HDL with heat or EDTA reduced the ability of HDL to inhibit LDL modification. HPLC analysis of phospholipids isolated from MM-LDL before and after treatment with purified PON showed that the 270 nm absorbance of phospholipids was decreased, while no effect was observed on 235 nm absorbance. Oxidized 1-palmitoyl-2-arachidonoyl-sn-glycero-3-phosphorylcholine (Ox-PAPC) and specific fractions of Ox-PAPC isolated by HPLC induced the same monocyte-endothelial interactions as did MM-LDL. Biologically active and inactive HPLC fractions of Ox-PAPC were compared by fast atom bombardment-mass spectrometry which revealed that active fractions possessed ions with a mass to charge [correction of change] ratio greater than native PAPC by multiples of 16 D suggesting the addition of 3 and 4 oxygen atoms to PAPC. Comparison of Ox-PAPC by fast atom bombardment-mass spectrometry before and after PON treatment showed that PON destroyed these multi-oxygenated molecules found in biologically active fractions of Ox-PAPC. These results suggest that PON in HDL may protect against the induction of inflammatory responses in artery wall cells by destroying biologically active lipids in mildly oxidized LDL.",
+  "authors": [
+    "A. D. Watson",
+    "J A Berliner",
+    "Susan Y. Hama",
+    "Bert N. La Du",
+    "Kym Francis Faull",
+    "Alan M. Fogelman",
+    "Mahamad Navab"
+  ],
+  "year": 1995,
+  "doi": "10.1172/jci118359",
+  "source": "openalex",
+  "categories": [
+    "Chemistry",
+    "Paraoxonase",
+    "Low-density lipoprotein",
+    "Lipoprotein",
+    "Monocyte",
+    "Biochemistry",
+    "Absorbance",
+    "Mass spectrometry",
+    "Chromatography",
+    "Cholesterol",
+    "Enzyme",
+    "Biology",
+    "Immunology"
+  ],
+  "citation_count": 1163,
+  "open_access_pdf_url": "http://www.jci.org/articles/view/118359/files/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2150545098.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:14.430356+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2150545098",
+    "concepts": [
+      "Chemistry",
+      "Paraoxonase",
+      "Low-density lipoprotein",
+      "Lipoprotein",
+      "Monocyte"
+    ],
+    "oa_status": "bronze"
+  }
+}

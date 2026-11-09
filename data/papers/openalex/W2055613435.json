@@ -1,0 +1,37 @@
+{
+  "id": "openalex:W2055613435",
+  "title": "Microtiter Dish Biofilm Formation Assay",
+  "abstract": "Biofilms are communities of microbes attached to surfaces, which can be found in medical, industrial and natural settings. In fact, life in a biofilm probably represents the predominate mode of growth for microbes in most environments. Mature biofilms have a few distinct characteristics. Biofilm microbes are typically surrounded by an extracellular matrix that provides structure and protection to the community. Microbes growing in a biofilm also have a characteristic architecture generally comprised of macrocolonies (containing thousands of cells) surrounded by fluid-filled channels. Biofilm-grown microbes are also notorious for their resistance to a range of antimicrobial agents including clinically relevant antibiotics. The microtiter dish assay is an important tool for the study of the early stages in biofilm formation, and has been applied primarily for the study of bacterial biofilms, although this assay has also been used to study fungal biofilm formation. Because this assay uses static, batch-growth conditions, it does not allow for the formation of the mature biofilms typically associated with flow cell systems. However, the assay has been effective at identifying many factors required for initiation of biofilm formation (i.e, flagella, pili, adhesins, enzymes involved in cyclic-di-GMP binding and metabolism) and well as genes involved in extracellular polysaccharide production. Furthermore, published work indicates that biofilms grown in microtiter dishes do develop some properties of mature biofilms, such a antibiotic tolerance and resistance to immune system effectors. This simple microtiter dish assay allows for the formation of a biofilm on the wall and/or bottom of a microtiter dish. The high throughput nature of the assay makes it useful for genetic screens, as well as testing biofilm formation by multiple strains under various growth conditions. Variants of this assay have been used to assess early biofilm formation for a wide variety of microbes, including but not limited to, pseudomonads, Vibrio cholerae, Escherichia coli, staphylococci, enterococci, mycobacteria and fungi. In the protocol described here, we will focus on the use of this assay to study biofilm formation by the model organism Pseudomonas aeruginosa. In this assay, the extent of biofilm formation is measured using the dye crystal violet (CV). However, a number of other colorimetric and metabolic stains have been reported for the quantification of biofilm formation using the microtiter plate assay. The ease, low cost and flexibility of the microtiter plate assay has made it a critical tool for the study of biofilms.",
+  "authors": [
+    "George A. O’Toole"
+  ],
+  "year": 2011,
+  "doi": "10.3791/2437-v",
+  "source": "openalex",
+  "categories": [
+    "Biofilm",
+    "Microtiter plate",
+    "Microbiology",
+    "Biology",
+    "Bacteria",
+    "Chemistry",
+    "Molecular biology",
+    "Genetics"
+  ],
+  "citation_count": 2507,
+  "open_access_pdf_url": "https://www.jove.com/pdf/2437/microtiter-dish-biofilm-formation-assay",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2055613435.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:04.371805+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2055613435",
+    "concepts": [
+      "Biofilm",
+      "Microtiter plate",
+      "Microbiology",
+      "Biology",
+      "Bacteria"
+    ],
+    "oa_status": "bronze"
+  }
+}

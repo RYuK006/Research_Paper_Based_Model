@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W2963954913",
+  "title": "Stacked Attention Networks for Image Question Answering",
+  "abstract": "This paper presents stacked attention networks (SANs) that learn to answer natural language questions from images. SANs use semantic representation of a question as query to search for the regions in an image that are related to the answer. We argue that image question answering (QA) often requires multiple steps of reasoning. Thus, we develop a multiple-layer SAN in which we query an image multiple times to infer the answer progressively. Experiments conducted on four image QA data sets demonstrate that the proposed SANs significantly outperform previous state-of-the-art approaches. The visualization of the attention layers illustrates the progress that the SAN locates the relevant visual clues that lead to the answer of the question layer-by-layer.",
+  "authors": [
+    "Zichao Yang",
+    "Xiaodong He",
+    "Jianfeng Gao",
+    "Li Deng",
+    "Alex J. Smola"
+  ],
+  "year": 2016,
+  "doi": "10.1109/cvpr.2016.10",
+  "source": "openalex",
+  "categories": [
+    "Question answering",
+    "Computer science",
+    "Image (mathematics)",
+    "Visualization",
+    "Representation (politics)",
+    "Layer (electronics)",
+    "Information retrieval",
+    "Natural language",
+    "Artificial intelligence",
+    "Organic chemistry",
+    "Political science",
+    "Law",
+    "Chemistry",
+    "Politics"
+  ],
+  "citation_count": 2072,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1511.02274",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2963954913.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:15.498019+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2963954913",
+    "concepts": [
+      "Question answering",
+      "Computer science",
+      "Image (mathematics)",
+      "Visualization",
+      "Representation (politics)"
+    ],
+    "oa_status": "green"
+  }
+}

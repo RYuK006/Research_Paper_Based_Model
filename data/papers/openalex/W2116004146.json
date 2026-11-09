@@ -1,0 +1,57 @@
+{
+  "id": "openalex:W2116004146",
+  "title": "Atomistic Origins of High-Performance in Hybrid Halide Perovskite Solar Cells",
+  "abstract": "The performance of organometallic perovskite solar cells has rapidly surpassed that of both conventional dye-sensitized and organic photovoltaics. High-power conversion efficiency can be realized in both mesoporous and thin-film device architectures. We address the origin of this success in the context of the materials chemistry and physics of the bulk perovskite as described by electronic structure calculations. In addition to the basic optoelectronic properties essential for an efficient photovoltaic device (spectrally suitable band gap, high optical absorption, low carrier effective masses), the materials are structurally and compositionally flexible. As we show, hybrid perovskites exhibit spontaneous electric polarization; we also suggest ways in which this can be tuned through judicious choice of the organic cation. The presence of ferroelectric domains will result in internal junctions that may aid separation of photoexcited electron and hole pairs, and reduction of recombination through segregation of charge carriers. The combination of high dielectric constant and low effective mass promotes both Wannier-Mott exciton separation and effective ionization of donor and acceptor defects. The photoferroic effect could be exploited in nanostructured films to generate a higher open circuit voltage and may contribute to the current-voltage hysteresis observed in perovskite solar cells.",
+  "authors": [
+    "Jarvist Moore Frost",
+    "Keith T. Butler",
+    "Federico Brivio",
+    "Christopher H. Hendon",
+    "Mark van Schilfgaarde",
+    "Aron Walsh"
+  ],
+  "year": 2014,
+  "doi": "10.1021/nl500390f",
+  "source": "openalex",
+  "categories": [
+    "Perovskite (structure)",
+    "Materials science",
+    "Optoelectronics",
+    "Band gap",
+    "Photovoltaics",
+    "Exciton",
+    "Photovoltaic system",
+    "Energy conversion efficiency",
+    "Mesoporous material",
+    "Dielectric",
+    "Charge carrier",
+    "Hybrid solar cell",
+    "Chemical physics",
+    "Nanotechnology",
+    "Chemistry",
+    "Condensed matter physics",
+    "Polymer solar cell",
+    "Physics",
+    "Biology",
+    "Biochemistry",
+    "Catalysis",
+    "Ecology",
+    "Crystallography"
+  ],
+  "citation_count": 2439,
+  "open_access_pdf_url": "https://pubs.acs.org/doi/pdf/10.1021/nl500390f?ref=article_openPDF",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2116004146.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:08.688199+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2116004146",
+    "concepts": [
+      "Perovskite (structure)",
+      "Materials science",
+      "Optoelectronics",
+      "Band gap",
+      "Photovoltaics"
+    ],
+    "oa_status": "hybrid"
+  }
+}

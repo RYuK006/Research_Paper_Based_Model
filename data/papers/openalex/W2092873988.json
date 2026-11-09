@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W2092873988",
+  "title": "The Wavelengths in Sunlight Effective in Producing Skin Cancer: A Theoretical Analysis",
+  "abstract": "DNA is taken as the target for skin cancer induced by ultraviolet light, and the known data on the sensitivity of DNA as a function of wavelength are summarized. The sun's spectrum at the surface of the earth and the DNA action spectrum are used to calculate the carcinogenic effectiveness as a function of wavelength. The most effective wavelengths at 30 degrees N latitude are <305 nm, and a 1% change in atmospheric ozone results in a 2% change in the effective dose of ultraviolet light. Since both the basic biological and physical data are reasonably precise, the major requirement for a quantitative evaluation of the dose response relation for ultraviolet-induced skin cancer in man is better epidemiological data to compare with data from animal models.",
+  "authors": [
+    "R. B. Setlow"
+  ],
+  "year": 1974,
+  "doi": "10.1073/pnas.71.9.3363",
+  "source": "openalex",
+  "categories": [
+    "Sunlight",
+    "Ultraviolet",
+    "Wavelength",
+    "Action spectrum",
+    "Skin cancer",
+    "Carcinogen",
+    "Ultraviolet radiation",
+    "Ultraviolet light",
+    "Optics",
+    "Environmental science",
+    "Cancer",
+    "Chemistry",
+    "Biophysics",
+    "Optoelectronics",
+    "Physics",
+    "Biology",
+    "Genetics",
+    "Radiochemistry"
+  ],
+  "citation_count": 1118,
+  "open_access_pdf_url": "https://pnas.org/doi/full/10.1073/pnas.71.9.3363",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2092873988.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:19.507907+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2092873988",
+    "concepts": [
+      "Sunlight",
+      "Ultraviolet",
+      "Wavelength",
+      "Action spectrum",
+      "Skin cancer"
+    ],
+    "oa_status": "bronze"
+  }
+}

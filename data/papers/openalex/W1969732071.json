@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W1969732071",
+  "title": "Plastic Solar Cells",
+  "abstract": "Recent developments in conjugated-polymer-based photovoltaic elements are reviewed. The photophysics of such photoactive devices is based on the photo-induced charge transfer from donor-type semiconducting conjugated polymers to acceptor-type conjugated polymers or acceptor molecules such as Buckminsterfullerene, C60. This photo-induced charge transfer is reversible, ultrafast (within 100 fs) with a quantum efficiency approaching unity, and the charge-separated state is metastable (up to milliseconds at 80 K). Being similar to the first steps in natural photosynthesis, this photo-induced electron transfer leads to a number of potentially interesting applications, which include sensitization of the photoconductivity and photovoltaic phenomena. Examples of photovoltaic architectures are presented and their potential in terrestrial solar energy conversion discussed. Recent progress in the realization of improved photovoltaic elements with 3 % power conversion efficiency is reported.",
+  "authors": [
+    "Christoph Josef Brabec",
+    "Niyazi Serdar Sariçiftçi",
+    "J.C. Hummelen"
+  ],
+  "year": 2001,
+  "doi": "10.1002/1616-3028(200102)11:1<15::aid-adfm15>3.0.co;2-a",
+  "source": "openalex",
+  "categories": [
+    "Materials science",
+    "Photovoltaic system",
+    "Acceptor",
+    "Conjugated system",
+    "Polymer",
+    "Hybrid solar cell",
+    "Energy conversion efficiency",
+    "Solar cell",
+    "Optoelectronics",
+    "Buckminsterfullerene",
+    "Polymer solar cell",
+    "Fullerene",
+    "Nanotechnology",
+    "Chemical physics",
+    "Chemistry",
+    "Organic chemistry",
+    "Physics",
+    "Composite material",
+    "Biology",
+    "Ecology",
+    "Condensed matter physics"
+  ],
+  "citation_count": 3864,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/1616-3028%28200102%2911%3A1%3C15%3A%3AAID-ADFM15%3E3.0.CO%3B2-A",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1969732071.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:54.104517+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1969732071",
+    "concepts": [
+      "Materials science",
+      "Photovoltaic system",
+      "Acceptor",
+      "Conjugated system",
+      "Polymer"
+    ],
+    "oa_status": "bronze"
+  }
+}

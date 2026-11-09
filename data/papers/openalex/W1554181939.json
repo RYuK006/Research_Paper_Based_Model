@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W1554181939",
+  "title": "Subwavelength-thick lenses with high numerical apertures and large efficiency based on high-contrast transmitarrays",
+  "abstract": "Flat optical devices thinner than a wavelength promise to replace conventional free-space components for wavefront and polarization control. Transmissive flat lenses are particularly interesting for applications in imaging and on-chip optoelectronic integration. Several designs based on plasmonic metasurfaces, high-contrast transmitarrays and gratings have been recently implemented but have not provided a performance comparable to conventional curved lenses. Here we report polarization-insensitive, micron-thick, high-contrast transmitarray micro-lenses with focal spots as small as 0.57 λ. The measured focusing efficiency is up to 82%. A rigorous method for ultrathin lens design, and the trade-off between high efficiency and small spot size (or large numerical aperture) are discussed. The micro-lenses, composed of silicon nano-posts on glass, are fabricated in one lithographic step that could be performed with high-throughput photo or nanoimprint lithography, thus enabling widespread adoption. Replacing conventional components with flat optic devices such as flat lenses is desirable for imaging and on-chip integration, but performance has hindered their use. Here, Arbabi et al. report a wavelength-thin, high-contrast transmitarray micro-lens with a 0.57 λfocal spot and 82% focusing efficiency.",
+  "authors": [
+    "Amir Arbabi",
+    "Yu Horie",
+    "Alexander J. Ball",
+    "Mahmood Bagheri",
+    "Andrei Faraon"
+  ],
+  "year": 2015,
+  "doi": "10.1038/ncomms8069",
+  "source": "openalex",
+  "categories": [
+    "Optics",
+    "Numerical aperture",
+    "Materials science",
+    "Lens (geology)",
+    "Wavefront",
+    "Focal length",
+    "Optoelectronics",
+    "Lithography",
+    "Chip",
+    "Wavelength",
+    "Nanoimprint lithography",
+    "Polarization (electrochemistry)",
+    "Grating",
+    "Plasmon",
+    "Fabrication",
+    "Computer science",
+    "Physics",
+    "Physical chemistry",
+    "Chemistry",
+    "Alternative medicine",
+    "Pathology",
+    "Medicine",
+    "Telecommunications"
+  ],
+  "citation_count": 1149,
+  "open_access_pdf_url": "https://www.nature.com/articles/ncomms8069.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1554181939.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:14.607849+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1554181939",
+    "concepts": [
+      "Optics",
+      "Numerical aperture",
+      "Materials science",
+      "Lens (geology)",
+      "Wavefront"
+    ],
+    "oa_status": "gold"
+  }
+}

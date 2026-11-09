@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2156225033",
+  "title": "Thermal Contraction and Disordering of the Al(110) Surface",
+  "abstract": "Al(110) has been studied for temperatures up to 900 K via ensemble density-functional molecular dynamics. The strong anharmonicity displayed by this surface results in a negative coefficient of thermal expansion, where the first interlayer distance decreases with increasing temperature. Very shallow channels of oscillation for the second-layer atoms in the direction perpendicular to the surface support this anomalous contraction, and provide a novel mechanism for the formation of adatom-vacancy pairs, preliminary to the disordering and premelting transition. Such characteristic behavior originates in the free-electron-gas bonding at a loosely packed surface.",
+  "authors": [
+    "Nicola Marzari",
+    "David H. Vanderbilt",
+    "Alessandro De Vita",
+    "Mike C. Payne"
+  ],
+  "year": 1999,
+  "doi": "10.1103/physrevlett.82.3296",
+  "source": "openalex",
+  "categories": [
+    "Premelting",
+    "Anharmonicity",
+    "Materials science",
+    "Condensed matter physics",
+    "Thermal expansion",
+    "Perpendicular",
+    "Molecular dynamics",
+    "Thermal",
+    "Oscillation (cell signaling)",
+    "Thermodynamics",
+    "Chemistry",
+    "Physics",
+    "Composite material",
+    "Computational chemistry",
+    "Melting point",
+    "Biochemistry",
+    "Mathematics",
+    "Geometry"
+  ],
+  "citation_count": 1277,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/9903147",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2156225033.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:00.493156+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2156225033",
+    "concepts": [
+      "Premelting",
+      "Anharmonicity",
+      "Materials science",
+      "Condensed matter physics",
+      "Thermal expansion"
+    ],
+    "oa_status": "green"
+  }
+}

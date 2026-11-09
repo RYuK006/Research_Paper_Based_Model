@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2114109157",
+  "title": "Outcome of Heart Failure with Preserved Ejection Fraction in a Population-Based Study",
+  "abstract": "BACKGROUND: The importance of heart failure with preserved ejection fraction is increasingly recognized. We conducted a study to evaluate the epidemiologic features and outcomes of patients with heart failure with preserved ejection fraction and to compare the findings with those from patients who had heart failure with reduced ejection fraction. METHODS: From April 1, 1999, through March 31, 2001, we studied 2802 patients admitted to 103 hospitals in the province of Ontario, Canada, with a discharge diagnosis of heart failure whose ejection fraction had also been assessed. The patients were categorized in three groups: those with an ejection fraction of less than 40 percent (heart failure with reduced ejection fraction), those with an ejection fraction of 40 to 50 percent (heart failure with borderline ejection fraction), and those with an ejection fraction of more than 50 percent (heart failure with preserved ejection fraction). Two groups were studied in detail: those with an ejection fraction of less than 40 percent and those with an ejection fraction of more than 50 percent. The main outcome measures were death within one year and readmission to the hospital for heart failure. RESULTS: Thirty-one percent of the patients had an ejection fraction of more than 50 percent. Patients with heart failure with preserved ejection fraction were more likely to be older and female and to have a history of hypertension and atrial fibrillation. The presenting history and clinical examination findings were similar for the two groups. The unadjusted mortality rates for patients with an ejection fraction of more than 50 percent were not significantly different from those for patients with an ejection fraction of less than 40 percent at 30 days (5 percent vs. 7 percent, P=0.08) and at 1 year (22 percent vs. 26 percent, P=0.07); the adjusted one-year mortality rates were also not significantly different in the two groups (hazard ratio, 1.13; 95 percent confidence interval, 0.94 to 1.36; P=0.18). The rates of readmission for heart failure and of in-hospital complications did not differ between the two groups. CONCLUSIONS: Among patients presenting with new-onset heart failure, a substantial proportion had an ejection fraction of more than 50 percent. The survival of patients with heart failure with preserved ejection fraction was similar to that of patients with reduced ejection fraction.",
+  "authors": [
+    "R. Sacha Bhatia",
+    "Jack V. Tu",
+    "Douglas S. Lee",
+    "Peter C. Austin",
+    "Jiming Fang",
+    "Annick Haouzi",
+    "Yanyan Gong",
+    "Peter P. Liu"
+  ],
+  "year": 2006,
+  "doi": "10.1056/nejmoa051530",
+  "source": "openalex",
+  "categories": [
+    "Ejection fraction",
+    "Heart failure",
+    "Medicine",
+    "Cardiology",
+    "Fraction (chemistry)",
+    "Heart failure with preserved ejection fraction",
+    "Internal medicine",
+    "Population",
+    "Stroke volume",
+    "Environmental health",
+    "Organic chemistry",
+    "Chemistry"
+  ],
+  "citation_count": 1971,
+  "open_access_pdf_url": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa051530?articleTools=true",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2114109157.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:17.779858+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2114109157",
+    "concepts": [
+      "Ejection fraction",
+      "Heart failure",
+      "Medicine",
+      "Cardiology",
+      "Fraction (chemistry)"
+    ],
+    "oa_status": "bronze"
+  }
+}

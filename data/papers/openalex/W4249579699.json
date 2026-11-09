@@ -1,0 +1,45 @@
+{
+  "id": "openalex:W4249579699",
+  "title": "Exosomes",
+  "abstract": "Exosomes are small, single-membrane, secreted organelles of ∼30 to ∼200 nm in diameter that have the same topology as the cell and are enriched in selected proteins, lipids, nucleic acids, and glycoconjugates. Exosomes contain an array of membrane-associated, high-order oligomeric protein complexes, display pronounced molecular heterogeneity, and are created by budding at both plasma and endosome membranes. Exosome biogenesis is a mechanism of protein quality control, and once released, exosomes have activities as diverse as remodeling the extracellular matrix and transmitting signals and molecules to other cells. This pathway of intercellular vesicle traffic plays important roles in many aspects of human health and disease, including development, immunity, tissue homeostasis, cancer, and neurodegenerative diseases. In addition, viruses co-opt exosome biogenesis pathways both for assembling infectious particles and for establishing host permissiveness. On the basis of these and other properties, exosomes are being developed as therapeutic agents in multiple disease models.",
+  "authors": [
+    "Dirk Michiel Pegtel",
+    "Stephen J. Gould"
+  ],
+  "year": 2019,
+  "doi": "10.1146/annurev-biochem-013118-111902",
+  "source": "openalex",
+  "categories": [
+    "Microvesicles",
+    "Cell biology",
+    "Biogenesis",
+    "Endosome",
+    "Exosome",
+    "Secretion",
+    "Biology",
+    "Extracellular vesicle",
+    "Organelle",
+    "ESCRT",
+    "Chemistry",
+    "Intracellular",
+    "microRNA",
+    "Biochemistry",
+    "Gene"
+  ],
+  "citation_count": 2767,
+  "open_access_pdf_url": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-biochem-013118-111902",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W4249579699.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:01.954724+00:00",
+  "raw_metadata": {
+    "openalex_id": "W4249579699",
+    "concepts": [
+      "Microvesicles",
+      "Cell biology",
+      "Biogenesis",
+      "Endosome",
+      "Exosome"
+    ],
+    "oa_status": "bronze"
+  }
+}

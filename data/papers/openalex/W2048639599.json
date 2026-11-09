@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W2048639599",
+  "title": "Activation of Transcription Factor NF-κB Is Suppressed by Curcumin (Diferuloylmethane)",
+  "abstract": "When activated, NF-kappa B, a ubiquitous transcription factor, binds DNA as a heterodimeric complex composed of members of the Rel/NF-kappa B family of polypeptides. Because of its intimate involvement in host defense against disease, this transcription factor is an important target for therapeutic intervention. In the present report we demonstrate that curcumin (diferuloylmethane), a known anti-inflammatory and anticarcinogenic agent, is a potent inhibitor of NF-kappa B activation. Treatment of human myeloid ML-1a cells with tumor necrosis factor (TNF) rapidly activated NF-kappa B, which consists of p50 and p65 subunits, and this activation was inhibited by curcumin. AP-1 binding factors were also found to be down-modulated by curcumin, whereas the Sp1 binding factor was unaffected. Besides TNF, curcumin also blocked phorbol ester- and hydrogen peroxide-mediated activation of NF-kappa B. The TNF-dependent phosphorylation and degradation of I kappa B alpha was not observed in curcumin-treated cells; the translocation of p65 subunit to the nucleus was inhibited at the same time. The mechanism of action of curcumin was found to be different from that of protein tyrosine phosphatase inhibitors. Our results indicate that curcumin inhibits NF-kappa B activation pathway at a step before I kappa B alpha phosphorylation but after the convergence of various stimuli.",
+  "authors": [
+    "Sanjaya Singh",
+    "Bharat Bhushan Aggarwal"
+  ],
+  "year": 1995,
+  "doi": "10.1074/jbc.270.42.24995",
+  "source": "openalex",
+  "categories": [
+    "Curcumin",
+    "Phosphorylation",
+    "Transcription factor",
+    "P50",
+    "NF-κB",
+    "NFKB1",
+    "Tumor necrosis factor alpha",
+    "Chemistry",
+    "IκBα",
+    "Cell biology",
+    "Molecular biology",
+    "Biochemistry",
+    "Biology",
+    "Signal transduction",
+    "Cancer research",
+    "Immunology",
+    "Gene"
+  ],
+  "citation_count": 1399,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925818870806/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2048639599.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:52.478855+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2048639599",
+    "concepts": [
+      "Curcumin",
+      "Phosphorylation",
+      "Transcription factor",
+      "P50",
+      "NF-κB"
+    ],
+    "oa_status": "hybrid"
+  }
+}

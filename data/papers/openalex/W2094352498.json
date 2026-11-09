@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W2094352498",
+  "title": "Adipose Tissue Hypoxia in Obesity and Its Impact on Adipocytokine Dysregulation",
+  "abstract": "Obesity is linked to a variety of metabolic disorders, such as insulin resistance and atherosclerosis. Dysregulated production of fat-derived secretory factors, adipocytokines, is partly responsible for obesity-linked metabolic disorders. However, the mechanistic role of obesity per se to adipocytokine dysregulation has not been fully elucidated. Here, we show that adipose tissue of obese mice is hypoxic and that local adipose tissue hypoxia dysregulates the production of adipocytokines. Tissue hypoxia was confirmed by an exogenous marker, pimonidazole, and by an elevated concentration of lactate, an endogenous marker. Moreover, local tissue hypoperfusion (measured by colored microspheres) was confirmed in adipose tissue of obese mice. Adiponectin mRNA expression was decreased, and mRNA of C/EBP homologous protein (CHOP), an endoplasmic reticulum (ER) stress-mediated protein, was significantly increased in adipose tissue of obese mice. In 3T3-L1 adipocytes, hypoxia dysregulated the expression of adipocytokines, such as adiponectin and plasminogen activator inhibitor type-1, and increased the mRNAs of ER stress marker genes, CHOP and GRP78 (glucose-regulated protein, 78 kD). Expression of CHOP attenuated adiponectin promoter activity, and RNA interference of CHOP partly reversed hypoxia-induced suppression of adiponectin mRNA expression in adipocytes. Hypoxia also increased instability of adiponectin mRNA. Our results suggest that hypoperfusion and hypoxia in adipose tissues underlie the dysregulated production of adipocytokines and metabolic syndrome in obesity.",
+  "authors": [
+    "Naomi Hosogai",
+    "Atsunori Fukuhara",
+    "Kazuya Oshima",
+    "Yugo Miyata",
+    "Sachiyo Tanaka",
+    "Katsumori Segawa",
+    "Shigetada Furukawa",
+    "Yoshihiro Tochino",
+    "Ryutaro Komuro",
+    "Morihiro Matsuda",
+    "Iichiro Shimomura"
+  ],
+  "year": 2007,
+  "doi": "10.2337/db06-0911",
+  "source": "openalex",
+  "categories": [
+    "Adipokine",
+    "Adipose tissue",
+    "Adiponectin",
+    "Endocrinology",
+    "Internal medicine",
+    "Hypoxia (environmental)",
+    "White adipose tissue",
+    "Insulin resistance",
+    "Biology",
+    "Chemistry",
+    "Insulin",
+    "Medicine",
+    "Oxygen",
+    "Organic chemistry"
+  ],
+  "citation_count": 1289,
+  "open_access_pdf_url": "https://diabetesjournals.org/diabetes/article-pdf/56/4/901/387526/zdb00407000901.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2094352498.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:00.386149+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2094352498",
+    "concepts": [
+      "Adipokine",
+      "Adipose tissue",
+      "Adiponectin",
+      "Endocrinology",
+      "Internal medicine"
+    ],
+    "oa_status": "bronze"
+  }
+}

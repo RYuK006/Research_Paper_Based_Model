@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W2764035156",
+  "title": "Measurement of qubits",
+  "abstract": "We describe in detail the theory underpinning the measurement of density matrices of a pair of quantum two-level systems (``qubits''). Our particular emphasis is on qubits realized by the two polarization degrees of freedom of a pair of entangled photons generated in a down-conversion experiment; however, the discussion applies in general, regardless of the actual physical realization. Two techniques are discussed, namely, a tomographic reconstruction (in which the density matrix is linearly related to a set of measured quantities) and a maximum likelihood technique which requires numerical optimization (but has the advantage of producing density matrices that are always non-negative definite). In addition, a detailed error analysis is presented, allowing errors in quantities derived from the density matrix, such as the entropy or entanglement of formation, to be estimated. Examples based on down-conversion experiments are used to illustrate our results.",
+  "authors": [
+    "Daniel F. V. James",
+    "Paul G. Kwiat",
+    "William J. Munro",
+    "Andrew G. White"
+  ],
+  "year": 2001,
+  "doi": "10.1103/physreva.64.052312",
+  "source": "openalex",
+  "categories": [
+    "Qubit",
+    "Quantum entanglement",
+    "Realization (probability)",
+    "Degrees of freedom (physics and chemistry)",
+    "Density matrix",
+    "Statistical physics",
+    "Photon",
+    "Entropy (arrow of time)",
+    "Quantum tomography",
+    "Polarization (electrochemistry)",
+    "Quantum mechanics",
+    "Quantum",
+    "Matrix (chemical analysis)",
+    "Physics",
+    "Mathematics",
+    "Quantum state",
+    "Statistics",
+    "Chemistry",
+    "Composite material",
+    "Materials science",
+    "Physical chemistry"
+  ],
+  "citation_count": 2205,
+  "open_access_pdf_url": "https://arxiv.org/pdf/quant-ph/0103121",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2764035156.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:12.640472+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2764035156",
+    "concepts": [
+      "Qubit",
+      "Quantum entanglement",
+      "Realization (probability)",
+      "Degrees of freedom (physics and chemistry)",
+      "Density matrix"
+    ],
+    "oa_status": "green"
+  }
+}

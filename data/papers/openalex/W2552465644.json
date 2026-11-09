@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2552465644",
+  "title": "Image-to-Image Translation with Conditional Adversarial Networks",
+  "abstract": "We investigate conditional adversarial networks as a general-purpose solution to image-to-image translation problems. These networks not only learn the mapping from input image to output image, but also learn a loss function to train this mapping. This makes it possible to apply the same generic approach to problems that traditionally would require very different loss formulations. We demonstrate that this approach is effective at synthesizing photos from label maps, reconstructing objects from edge maps, and colorizing images, among other tasks. Moreover, since the release of the pi×2pi× software associated with this paper, hundreds of twitter users have posted their own artistic experiments using our system. As a community, we no longer hand-engineer our mapping functions, and this work suggests we can achieve reasonable results without handengineering our loss functions either.",
+  "authors": [
+    "Phillip Isola",
+    "Jun-Yan Zhu",
+    "Tinghui Zhou",
+    "Alexei A. Efros"
+  ],
+  "year": 2017,
+  "doi": "10.1109/cvpr.2017.632",
+  "source": "openalex",
+  "categories": [
+    "Tweaking",
+    "Image translation",
+    "Computer science",
+    "Image (mathematics)",
+    "Translation (biology)",
+    "Adversarial system",
+    "Enhanced Data Rates for GSM Evolution",
+    "Function (biology)",
+    "Software",
+    "The Internet",
+    "Artificial intelligence",
+    "Theoretical computer science",
+    "Machine learning",
+    "Computer vision",
+    "World Wide Web",
+    "Programming language",
+    "Messenger RNA",
+    "Operating system",
+    "Gene",
+    "Chemistry",
+    "Evolutionary biology",
+    "Biology",
+    "Biochemistry"
+  ],
+  "citation_count": 24084,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1611.07004",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2552465644.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:49.799360+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2552465644",
+    "concepts": [
+      "Tweaking",
+      "Image translation",
+      "Computer science",
+      "Image (mathematics)",
+      "Translation (biology)"
+    ],
+    "oa_status": "green"
+  }
+}

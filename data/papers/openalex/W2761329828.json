@@ -1,0 +1,58 @@
+{
+  "id": "openalex:W2761329828",
+  "title": "Understanding activity and selectivity of metal-nitrogen-doped carbon catalysts for electrochemical reduction of CO2",
+  "abstract": "Abstract Direct electrochemical reduction of CO2 to fuels and chemicals using renewable electricity has attracted significant attention partly due to the fundamental challenges related to reactivity and selectivity, and partly due to its importance for industrial CO2-consuming gas diffusion cathodes. Here, we present advances in the understanding of trends in the CO2 to CO electrocatalysis of metal- and nitrogen-doped porous carbons containing catalytically active M–N x moieties (M = Mn, Fe, Co, Ni, Cu). We investigate their intrinsic catalytic reactivity, CO turnover frequencies, CO faradaic efficiencies and demonstrate that Fe–N–C and especially Ni–N–C catalysts rival Au- and Ag-based catalysts. We model the catalytically active M–N x moieties using density functional theory and correlate the theoretical binding energies with the experiments to give reactivity-selectivity descriptors. This gives an atomic-scale mechanistic understanding of potential-dependent CO and hydrocarbon selectivity from the M–N x moieties and it provides predictive guidelines for the rational design of selective carbon-based CO2 reduction catalysts.",
+  "authors": [
+    "Wen Ju",
+    "Alexander Bagger",
+    "Guang‐Ping Hao",
+    "Ana Sofía Varela",
+    "Ilya Sinev",
+    "Volodymyr Bon",
+    "Beatriz Roldán Cuenya",
+    "Stefan Kaskel",
+    "Jan Rossmeisl",
+    "Peter Strasser"
+  ],
+  "year": 2017,
+  "doi": "10.1038/s41467-017-01035-z",
+  "source": "openalex",
+  "categories": [
+    "Electrochemistry",
+    "Selectivity",
+    "Catalysis",
+    "Metal",
+    "Nitrogen",
+    "Carbon fibers",
+    "Inorganic chemistry",
+    "Chemistry",
+    "Doping",
+    "Electrocatalyst",
+    "Reduction (mathematics)",
+    "Materials science",
+    "Electrode",
+    "Organic chemistry",
+    "Optoelectronics",
+    "Composite material",
+    "Physical chemistry",
+    "Mathematics",
+    "Geometry",
+    "Composite number"
+  ],
+  "citation_count": 1212,
+  "open_access_pdf_url": "https://www.nature.com/articles/s41467-017-01035-z.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2761329828.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:04.747287+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2761329828",
+    "concepts": [
+      "Electrochemistry",
+      "Selectivity",
+      "Catalysis",
+      "Metal",
+      "Nitrogen"
+    ],
+    "oa_status": "gold"
+  }
+}

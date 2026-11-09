@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2556028206",
+  "title": "Cs2InAgCl6: A New Lead-Free Halide Double Perovskite with Direct Band Gap",
+  "abstract": "A 2 BB′X 6 halide double perovskites based on bismuth and silver have recently been proposed as potential environmentally friendly alternatives to lead-based hybrid halide perovskites. In particular, Cs 2 BiAgX 6 (X = Cl, Br) have been synthesized and found to exhibit band gaps in the visible range. However, the band gaps of these compounds are indirect, which is not ideal for applications in thin film photovoltaics. Here, we propose a new class of halide double perovskites, where the B 3+ and B + cations are In 3+ and Ag +, respectively. Our first-principles calculations indicate that the hypothetical compounds Cs 2 InAgX 6 (X = Cl, Br, I) should exhibit direct band gaps between the visible (I) and the ultraviolet (Cl). Based on these predictions, we attempt to synthesize Cs 2 InAgCl 6 and Cs 2 InAgBr 6, and we succeed to form the hitherto unknown double perovskite Cs 2 InAgCl 6 . X-ray diffraction yields a double perovskite structure with space group Fm 3̅ m . The measured band gap is 3.3 eV, and the compound is found to be photosensitive and turns reversibly from white to orange under ultraviolet illumination. We also perform an empirical analysis of the stability of Cs 2 InAgX 6 and their mixed halides based on Goldschmidt’s rules, and we find that it should also be possible to form Cs 2 InAg(Cl 1– x Br x ) 6 for x < 1. The synthesis of mixed halides will open the way to the development of lead-free double perovskites with direct and tunable band gaps.",
+  "authors": [
+    "George Volonakis",
+    "Amir A. Haghighirad",
+    "Rebecca L. Milot",
+    "Weng Hong Sio",
+    "Marina Rucsandra Filip",
+    "Bernard Wenger",
+    "Michael B. Johnston",
+    "Laura M. Herz",
+    "Henry James Snaith",
+    "Feliciano Giustino"
+  ],
+  "year": 2017,
+  "doi": "10.1021/acs.jpclett.6b02682",
+  "source": "openalex",
+  "categories": [
+    "Halide",
+    "Perovskite (structure)",
+    "Lead (geology)",
+    "Materials science",
+    "Band gap",
+    "Direct and indirect band gaps",
+    "Optoelectronics",
+    "Chemistry",
+    "Crystallography",
+    "Inorganic chemistry",
+    "Geology",
+    "Geomorphology"
+  ],
+  "citation_count": 1195,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1611.05426",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2556028206.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:08.382498+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2556028206",
+    "concepts": [
+      "Halide",
+      "Perovskite (structure)",
+      "Lead (geology)",
+      "Materials science",
+      "Band gap"
+    ],
+    "oa_status": "green"
+  }
+}

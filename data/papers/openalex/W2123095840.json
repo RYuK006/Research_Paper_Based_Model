@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W2123095840",
+  "title": "Separation of net ecosystem exchange into assimilation and respiration using a light response curve approach: critical issues and global evaluation",
+  "abstract": "Abstract The measured net ecosystem exchange (NEE) of CO 2 between the ecosystem and the atmosphere reflects the balance between gross CO 2 assimilation [gross primary production (GPP)] and ecosystem respiration (R eco ). For understanding the mechanistic responses of ecosystem processes to environmental change it is important to separate these two flux components. Two approaches are conventionally used: (1) respiration measurements made at night are extrapolated to the daytime or (2) light–response curves are fit to daytime NEE measurements and respiration is estimated from the intercept of the ordinate, which avoids the use of potentially problematic nighttime data. We demonstrate that this approach is subject to biases if the effect of vapor pressure deficit (VPD) modifying the light response is not included. We introduce an algorithm for NEE partitioning that uses a hyperbolic light response curve fit to daytime NEE, modified to account for the temperature sensitivity of respiration and the VPD limitation of photosynthesis. Including the VPD dependency strongly improved the model's ability to reproduce the asymmetric diurnal cycle during periods with high VPD, and enhances the reliability of R eco estimates given that the reduction of GPP by VPD may be otherwise incorrectly attributed to higher R eco . Results from this improved algorithm are compared against estimates based on the conventional nighttime approach. The comparison demonstrates that the uncertainty arising from systematic errors dominates the overall uncertainty of annual sums (median absolute deviation of GPP: 47 g C m −2 yr −1 ), while errors arising from the random error (median absolute deviation: ∼2 g C m −2 yr −1 ) are negligible. Despite site‐specific differences between the methods, overall patterns remain robust, adding confidence to statistical studies based on the FLUXNET database. In particular, we show that the strong correlation between GPP and R eco is not spurious but holds true when quasi‐independent, i.e. daytime and nighttime based estimates are compared.",
+  "authors": [
+    "Gitta Lasslop",
+    "Markus Reichstein",
+    "Dario Papale",
+    "Andrew David Richardson",
+    "Almut Arneth",
+    "Alan Barr",
+    "Paul C. Stoy",
+    "Georg Wohlfahrt"
+  ],
+  "year": 2009,
+  "doi": "10.1111/j.1365-2486.2009.02041.x",
+  "source": "openalex",
+  "categories": [
+    "Primary production",
+    "Daytime",
+    "Atmospheric sciences",
+    "Environmental science",
+    "Ecosystem",
+    "Ecosystem respiration",
+    "Respiration",
+    "Vapour Pressure Deficit",
+    "Data assimilation",
+    "Statistics",
+    "Photosynthesis",
+    "Mathematics",
+    "Meteorology",
+    "Ecology",
+    "Physics",
+    "Chemistry",
+    "Botany",
+    "Biology",
+    "Biochemistry",
+    "Transpiration"
+  ],
+  "citation_count": 1224,
+  "open_access_pdf_url": "https://scholarworks.montana.edu/bitstreams/b58f4c69-dd5d-4f19-8bbf-2b69b4173c15/download",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2123095840.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:04.594755+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2123095840",
+    "concepts": [
+      "Primary production",
+      "Daytime",
+      "Atmospheric sciences",
+      "Environmental science",
+      "Ecosystem"
+    ],
+    "oa_status": "green"
+  }
+}

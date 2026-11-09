@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W2130706354",
+  "title": "TANDEM: matching proteins with tandem mass spectra",
+  "abstract": "SUMMARY: Tandem mass spectra obtained from fragmenting peptide ions contain some peptide sequence specific information, but often there is not enough information to sequence the original peptide completely. Several proprietary software applications have been developed to attempt to match the spectra with a list of protein sequences that may contain the sequence of the peptide. The application TANDEM was written to provide the proteomics research community with a set of components that can be used to test new methods and algorithms for performing this type of sequence-to-data matching. AVAILABILITY: The source code and binaries for this software are available at http://www.proteome.ca/opensource.html, for Windows, Linux and Macintosh OSX. The source code is made available under the Artistic License, from the authors.",
+  "authors": [
+    "Robertson Craig",
+    "Ronald C. Beavis"
+  ],
+  "year": 2004,
+  "doi": "10.1093/bioinformatics/bth092",
+  "source": "openalex",
+  "categories": [
+    "Tandem",
+    "Matching (statistics)",
+    "Tandem repeat",
+    "Tandem mass spectrometry",
+    "Computer science",
+    "Computational biology",
+    "Chemistry",
+    "Biology",
+    "Genetics",
+    "Mass spectrometry",
+    "Chromatography",
+    "Mathematics",
+    "Genome",
+    "Statistics",
+    "Materials science",
+    "Gene",
+    "Composite material"
+  ],
+  "citation_count": 2546,
+  "open_access_pdf_url": "https://academic.oup.com/bioinformatics/article-pdf/20/9/1466/48905451/bioinformatics_20_9_1466.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2130706354.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:04.319927+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2130706354",
+    "concepts": [
+      "Tandem",
+      "Matching (statistics)",
+      "Tandem repeat",
+      "Tandem mass spectrometry",
+      "Computer science"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "openalex:W1996879303",
+  "title": "The Impact of Elastic Deformation on Deposition Kinetics at Lithium/Polymer Interfaces",
+  "abstract": "Past theories of electrode stability assume that the surface tension resists the amplification of surface roughness at cathodes and show that instability at lithium/liquid interfaces cannot be prevented by surface forces alone [Electrochim. Acta, 40 , 599 (1995)]. This work treats interfacial stability in lithium/polymer systems where the electrolyte is solid. Linear elasticity theory is employed to compute the additional effect of bulk mechanical forces on electrode stability. The lithium and polymer are treated as Hookean elastic materials, characterized by their shear moduli and Poisson's ratios. Two-dimensional displacement distributions that satisfy force balances across a periodically deforming interface are derived; these allow computation of the stress and surface-tension forces. The incorporation of elastic effects into a kinetic model demonstrates regimes of electrolyte mechanical properties where amplification of surface roughness can be inhibited. For a polymer material with Poisson's ratio similar to poly(ethylene oxide), interfacial roughening is mechanically suppressed when the separator shear modulus is about twice that of lithium. © 2005 The Electrochemical Society. All rights reserved.",
+  "authors": [
+    "Charles  William Monroe",
+    "John Newman"
+  ],
+  "year": 2005,
+  "doi": "10.1149/1.1850854",
+  "source": "openalex",
+  "categories": [
+    "Materials science",
+    "Surface roughness",
+    "Surface tension",
+    "Composite material",
+    "Polymer",
+    "Elastic modulus",
+    "Electrolyte",
+    "Electrode",
+    "Thermodynamics",
+    "Chemistry",
+    "Physical chemistry",
+    "Physics"
+  ],
+  "citation_count": 1736,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1149/1.1850854/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1996879303.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:26.218258+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1996879303",
+    "concepts": [
+      "Materials science",
+      "Surface roughness",
+      "Surface tension",
+      "Composite material",
+      "Polymer"
+    ],
+    "oa_status": "bronze"
+  }
+}

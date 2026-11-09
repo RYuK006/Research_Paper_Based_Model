@@ -1,0 +1,61 @@
+{
+  "id": "openalex:W2161605421",
+  "title": "Improved side‐chain torsion potentials for the Amber ff99SB protein force field",
+  "abstract": "Recent advances in hardware and software have enabled increasingly long molecular dynamics (MD) simulations of biomolecules, exposing certain limitations in the accuracy of the force fields used for such simulations and spurring efforts to refine these force fields. Recent modifications to the Amber and CHARMM protein force fields, for example, have improved the backbone torsion potentials, remedying deficiencies in earlier versions. Here, we further advance simulation accuracy by improving the amino acid side-chain torsion potentials of the Amber ff99SB force field. First, we used simulations of model alpha-helical systems to identify the four residue types whose rotamer distribution differed the most from expectations based on Protein Data Bank statistics. Second, we optimized the side-chain torsion potentials of these residues to match new, high-level quantum-mechanical calculations. Finally, we used microsecond-timescale MD simulations in explicit solvent to validate the resulting force field against a large set of experimental NMR measurements that directly probe side-chain conformations. The new force field, which we have termed Amber ff99SB-ILDN, exhibits considerably better agreement with the NMR data.",
+  "authors": [
+    "Kresten Lindorff‐Larsen",
+    "Stefano Piana",
+    "Kim Palmö",
+    "Paul Maragakis",
+    "John L. Klepeis",
+    "Ron O. Dror",
+    "David Elliot Shaw"
+  ],
+  "year": 2010,
+  "doi": "10.1002/prot.22711",
+  "source": "openalex",
+  "categories": [
+    "Force field (fiction)",
+    "Dihedral angle",
+    "Torsion (gastropod)",
+    "Molecular dynamics",
+    "Side chain",
+    "Protein Data Bank",
+    "Biomolecule",
+    "Microsecond",
+    "Statistical physics",
+    "Conformational isomerism",
+    "Computational chemistry",
+    "Physics",
+    "Chemistry",
+    "Computer science",
+    "Biological system",
+    "Protein structure",
+    "Molecule",
+    "Nanotechnology",
+    "Materials science",
+    "Nuclear magnetic resonance",
+    "Quantum mechanics",
+    "Hydrogen bond",
+    "Medicine",
+    "Surgery",
+    "Polymer",
+    "Biology"
+  ],
+  "citation_count": 6226,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/prot.22711",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2161605421.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:52.142830+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2161605421",
+    "concepts": [
+      "Force field (fiction)",
+      "Dihedral angle",
+      "Torsion (gastropod)",
+      "Molecular dynamics",
+      "Side chain"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "openalex:W2949757588",
+  "title": "Matrix product state representations",
+  "abstract": "This work gives a detailed investigation of matrix product state (MPS) representations for pure multipartite quantum states. We determine the freedom in representations with and without translation symmetry, derive respective canonical forms and provide efficient methods for obtaining them. Results on frustration free Hamiltonians and the generation of MPS are extended, and the use of the MPS-representation for classical simulations of quantum systems is discussed.",
+  "authors": [
+    "David Pérez-Garcı́a",
+    "Frank Verstraete",
+    "Michael M. Wolf",
+    "J. I. Cirac"
+  ],
+  "year": 2007,
+  "doi": "10.26421/qic7.5-6-1",
+  "source": "openalex",
+  "categories": [
+    "Multipartite",
+    "Matrix product state",
+    "Matrix multiplication",
+    "Translation (biology)",
+    "Degrees of freedom (physics and chemistry)",
+    "Product (mathematics)",
+    "Mathematics",
+    "Symmetry (geometry)",
+    "State (computer science)",
+    "Matrix (chemical analysis)",
+    "Quantum",
+    "Representation (politics)",
+    "Algebra over a field",
+    "Pure mathematics",
+    "Quantum mechanics",
+    "Physics",
+    "Quantum entanglement",
+    "Algorithm",
+    "Biochemistry",
+    "Law",
+    "Materials science",
+    "Geometry",
+    "Gene",
+    "Composite material",
+    "Chemistry",
+    "Politics",
+    "Political science",
+    "Messenger RNA"
+  ],
+  "citation_count": 1234,
+  "open_access_pdf_url": "https://arxiv.org/pdf/quant-ph/0608197",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2949757588.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:04.519790+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2949757588",
+    "concepts": [
+      "Multipartite",
+      "Matrix product state",
+      "Matrix multiplication",
+      "Translation (biology)",
+      "Degrees of freedom (physics and chemistry)"
+    ],
+    "oa_status": "green"
+  }
+}

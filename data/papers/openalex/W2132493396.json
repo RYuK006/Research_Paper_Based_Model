@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W2132493396",
+  "title": "Electronic States and Luminescence in Porous Silicon Quantum Dots: The Role of Oxygen",
+  "abstract": "Depending on the size, the photoluminescence (PL) of silicon quantum dots present in porous silicon can be tuned from the near infrared to the ultraviolet when the surface is passivated with Si-H bonds. After exposure to oxygen, the PL shifts to the red by as much as 1 eV. This shift and the changes in PL intensity and decay time, show that both quantum confinement and surface passivation determine the electronic states of silicon quantum dots. A theoretical model in which new electronic states appear in the band gap of the smaller quantum dots when a $\\mathrm{Si}=\\mathrm{O}$ bond is formed, is in good agreement with experiments. This result clarifies the controversy regarding the PL mechanisms in porous silicon.",
+  "authors": [
+    "Michal V. Wolkin",
+    "Jacob Jorné",
+    "Philippe M. Fauchet",
+    "G. Allan",
+    "Christophe Delerue"
+  ],
+  "year": 1999,
+  "doi": "10.1103/physrevlett.82.197",
+  "source": "openalex",
+  "categories": [
+    "Quantum dot",
+    "Porous silicon",
+    "Passivation",
+    "Photoluminescence",
+    "Silicon",
+    "Luminescence",
+    "Materials science",
+    "Surface states",
+    "Optoelectronics",
+    "Oxygen",
+    "Nanotechnology",
+    "Condensed matter physics",
+    "Molecular physics",
+    "Chemistry",
+    "Physics",
+    "Surface (topology)",
+    "Quantum mechanics",
+    "Layer (electronics)",
+    "Geometry",
+    "Mathematics"
+  ],
+  "citation_count": 1953,
+  "open_access_pdf_url": "http://link.aps.org/pdf/10.1103/PhysRevLett.82.197",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2132493396.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:17.826872+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2132493396",
+    "concepts": [
+      "Quantum dot",
+      "Porous silicon",
+      "Passivation",
+      "Photoluminescence",
+      "Silicon"
+    ],
+    "oa_status": "bronze"
+  }
+}

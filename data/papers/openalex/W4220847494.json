@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W4220847494",
+  "title": "Antibody drug conjugate: the “biological missile” for targeted cancer therapy",
+  "abstract": "Abstract Antibody–drug conjugate (ADC) is typically composed of a monoclonal antibody (mAbs) covalently attached to a cytotoxic drug via a chemical linker. It combines both the advantages of highly specific targeting ability and highly potent killing effect to achieve accurate and efficient elimination of cancer cells, which has become one of the hotspots for the research and development of anticancer drugs. Since the first ADC, Mylotarg ® (gemtuzumab ozogamicin), was approved in 2000 by the US Food and Drug Administration (FDA), there have been 14 ADCs received market approval so far worldwide. Moreover, over 100 ADC candidates have been investigated in clinical stages at present. This kind of new anti-cancer drugs, known as “biological missiles”, is leading a new era of targeted cancer therapy. Herein, we conducted a review of the history and general mechanism of action of ADCs, and then briefly discussed the molecular aspects of key components of ADCs and the mechanisms by which these key factors influence the activities of ADCs. Moreover, we also reviewed the approved ADCs and other promising candidates in phase-3 clinical trials and discuss the current challenges and future perspectives for the development of next generations, which provide insights for the research and development of novel cancer therapeutics using ADCs.",
+  "authors": [
+    "Zhiwen Fu",
+    "Shijun Li",
+    "Sifei Han",
+    "Shi Chen",
+    "Yu Zhang"
+  ],
+  "year": 2022,
+  "doi": "10.1038/s41392-022-00947-7",
+  "source": "openalex",
+  "categories": [
+    "Conjugate",
+    "Antibody-drug conjugate",
+    "Monoclonal antibody",
+    "Antibody",
+    "Drug",
+    "Linker",
+    "Immunoconjugate",
+    "Immunotoxin",
+    "Cancer research",
+    "Cytotoxic T cell",
+    "Chemistry",
+    "Pharmacology",
+    "Medicine",
+    "Immunology",
+    "Biochemistry",
+    "Computer science",
+    "Mathematics",
+    "Operating system",
+    "In vitro",
+    "Mathematical analysis"
+  ],
+  "citation_count": 1730,
+  "open_access_pdf_url": "https://www.nature.com/articles/s41392-022-00947-7.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W4220847494.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:26.240817+00:00",
+  "raw_metadata": {
+    "openalex_id": "W4220847494",
+    "concepts": [
+      "Conjugate",
+      "Antibody-drug conjugate",
+      "Monoclonal antibody",
+      "Antibody",
+      "Drug"
+    ],
+    "oa_status": "gold"
+  }
+}

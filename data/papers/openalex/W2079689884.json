@@ -1,0 +1,38 @@
+{
+  "id": "openalex:W2079689884",
+  "title": "Computational 2D Materials Database: Electronic Structure of Transition-Metal Dichalcogenides and Oxides",
+  "abstract": "Abstract We present a comprehensive first-principles study of the electronic structure of 51 semiconducting monolayer transition-metal dichalcogenides and -oxides in the 2H and 1T hexagonal phases. The quasiparticle (QP) band structures with spin–orbit coupling are calculated in the G0W0 approximation, and comparison is made with different density functional theory descriptions. Pitfalls related to the convergence of GW calculations for two-dimensional (2D) materials are discussed together with possible solutions. The monolayer band edge positions relative to vacuum are used to estimate the band alignment at various heterostructure interfaces. The sensitivity of the band structures to the in-plane lattice constant is analyzed and rationalized in terms of the electronic structure. Finally, the q-dependent dielectric functions and effective electron and hole masses are obtained from the QP band structure and used as input to a 2D hydrogenic model to estimate exciton binding energies. Throughout the paper we focus on trends and correlations in the electronic structure rather than detailed analysis of specific materials. All the computed data is available in an open database.",
+  "authors": [
+    "Filip A. Rasmussen",
+    "Kristian Sommer Thygesen"
+  ],
+  "year": 2015,
+  "doi": "10.1021/acs.jpcc.5b02950",
+  "source": "openalex",
+  "categories": [
+    "Transition metal",
+    "Electronic structure",
+    "Materials science",
+    "Nanotechnology",
+    "Chemistry",
+    "Computational chemistry",
+    "Catalysis",
+    "Organic chemistry"
+  ],
+  "citation_count": 1177,
+  "open_access_pdf_url": "https://pubs.acs.org/doi/pdf/10.1021/acs.jpcc.5b02950",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2079689884.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:12.108821+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2079689884",
+    "concepts": [
+      "Transition metal",
+      "Electronic structure",
+      "Materials science",
+      "Nanotechnology",
+      "Chemistry"
+    ],
+    "oa_status": "hybrid"
+  }
+}

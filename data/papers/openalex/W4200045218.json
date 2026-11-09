@@ -1,0 +1,42 @@
+{
+  "id": "openalex:W4200045218",
+  "title": "Network pharmacology: curing causal mechanisms instead of treating symptoms",
+  "abstract": "For complex diseases, most drugs are highly ineffective, and the success rate of drug discovery is in constant decline. While low quality, reproducibility issues, and translational irrelevance of most basic and preclinical research have contributed to this, the current organ-centricity of medicine and the 'one disease-one target-one drug' dogma obstruct innovation in the most profound manner. Systems and network medicine and their therapeutic arm, network pharmacology, revolutionize how we define, diagnose, treat, and, ideally, cure diseases. Descriptive disease phenotypes are replaced by endotypes defined by causal, multitarget signaling modules that also explain respective comorbidities. Precise and effective therapeutic intervention is achieved by synergistic multicompound network pharmacology and drug repurposing, obviating the need for drug discovery and speeding up clinical translation.",
+  "authors": [
+    "Cristian Nogales",
+    "Zeinab M. Mamdouh",
+    "Markus List",
+    "Christina Kiel",
+    "Ana Isabel Casas",
+    "Harald H.H.W. Schmidt"
+  ],
+  "year": 2021,
+  "doi": "10.1016/j.tips.2021.11.004",
+  "source": "openalex",
+  "categories": [
+    "Psychology",
+    "Curing (chemistry)",
+    "Pharmacology",
+    "Medicine",
+    "Neuroscience",
+    "Psychotherapist",
+    "Chemistry",
+    "Polymer chemistry"
+  ],
+  "citation_count": 1250,
+  "open_access_pdf_url": "http://www.cell.com/article/S0165614721002212/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W4200045218.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:02.709761+00:00",
+  "raw_metadata": {
+    "openalex_id": "W4200045218",
+    "concepts": [
+      "Psychology",
+      "Curing (chemistry)",
+      "Pharmacology",
+      "Medicine",
+      "Neuroscience"
+    ],
+    "oa_status": "hybrid"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "openalex:W4392737580",
+  "title": "Extracellular vesicles as tools and targets in therapy for diseases",
+  "abstract": "Extracellular vesicles (EVs) are nano-sized, membranous structures secreted into the extracellular space. They exhibit diverse sizes, contents, and surface markers and are ubiquitously released from cells under normal and pathological conditions. Human serum is a rich source of these EVs, though their isolation from serum proteins and non-EV lipid particles poses challenges. These vesicles transport various cellular components such as proteins, mRNAs, miRNAs, DNA, and lipids across distances, influencing numerous physiological and pathological events, including those within the tumor microenvironment (TME). Their pivotal roles in cellular communication make EVs promising candidates for therapeutic agents, drug delivery systems, and disease biomarkers. Especially in cancer diagnostics, EV detection can pave the way for early identification and offers potential as diagnostic biomarkers. Moreover, various EV subtypes are emerging as targeted drug delivery tools, highlighting their potential clinical significance. The need for non-invasive biomarkers to monitor biological processes for diagnostic and therapeutic purposes remains unfulfilled. Tapping into the unique composition of EVs could unlock advanced diagnostic and therapeutic avenues in the future. In this review, we discuss in detail the roles of EVs across various conditions, including cancers (encompassing head and neck, lung, gastric, breast, and hepatocellular carcinoma), neurodegenerative disorders, diabetes, viral infections, autoimmune and renal diseases, emphasizing the potential advancements in molecular diagnostics and drug delivery.",
+  "authors": [
+    "Mudasir A. Kumar",
+    "Sadaf Khursheed Baba",
+    "Hana Q. Sadida",
+    "Sara K. Al-Marzooqi",
+    "Jayakumar Jerobin",
+    "Faisal H. Altemani",
+    "Naseh A. Algehainy",
+    "Mohammad A. Alanazi",
+    "Abdul‐Badi Abou‐Samra",
+    "Rakesh Kumar",
+    "Ammira S. Al-Shabeeb Akil",
+    "Muzafar Ahmad Macha",
+    "Rashid Mir",
+    "Ajaz Ahmad Bhat"
+  ],
+  "year": 2024,
+  "doi": "10.1038/s41392-024-01735-1",
+  "source": "openalex",
+  "categories": [
+    "Extracellular vesicles",
+    "Diagnostic biomarker",
+    "Extracellular vesicle",
+    "Drug delivery",
+    "Microvesicles",
+    "Biology",
+    "Cancer",
+    "Computational biology",
+    "Disease",
+    "microRNA",
+    "Bioinformatics",
+    "Medicine",
+    "Pathology",
+    "Chemistry",
+    "Cell biology",
+    "Gene",
+    "Biochemistry",
+    "Organic chemistry",
+    "Genetics"
+  ],
+  "citation_count": 1486,
+  "open_access_pdf_url": "https://www.nature.com/articles/s41392-024-01735-1.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W4392737580.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:48.140292+00:00",
+  "raw_metadata": {
+    "openalex_id": "W4392737580",
+    "concepts": [
+      "Extracellular vesicles",
+      "Diagnostic biomarker",
+      "Extracellular vesicle",
+      "Drug delivery",
+      "Microvesicles"
+    ],
+    "oa_status": "gold"
+  }
+}

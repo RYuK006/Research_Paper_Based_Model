@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2151181789",
+  "title": "Phosphatidylserine-dependent ingestion of apoptotic cells promotes TGF-β1 secretion and the resolution of inflammation",
+  "abstract": "Ingestion of apoptotic cells in vitro by macrophages induces TGF-beta1 secretion, resulting in an anti-inflammatory effect and suppression of proinflammatory mediators. Here, we show in vivo that direct instillation of apoptotic cells enhanced the resolution of acute inflammation. This enhancement appeared to require phosphatidylserine (PS) on the apoptotic cells and local induction of TGF-beta1. Working with thioglycollate-stimulated peritonea or LPS-stimulated lungs, we examined the effect of apoptotic cell uptake on TGF-beta1 induction. Viable or opsonized apoptotic human Jurkat T cells, or apoptotic PLB-985 cells, human monomyelocytes that do not express PS during apoptosis, failed to induce TGF-beta1. PS liposomes, or PS directly transferred onto the PLB-985 surface membranes, restored the TGF-beta1 induction. Apoptotic cell instillation into LPS-stimulated lungs reduced proinflammatory chemokine levels in the bronchoalveolar lavage fluid (BALF). Additionally, total inflammatory cell counts in the BALF were markedly reduced 1-5 days after apoptotic cell instillation, an effect that could be reversed by opsonization or coinstillation of TGF-beta1 neutralizing antibody. This reduction resulted from early decrease in neutrophils and later decreases in lymphocytes and macrophages. In conclusion, apoptotic cell recognition and clearance, via exposure of PS and ligation of its receptor, induce TGF-beta1 secretion, resulting in accelerated resolution of inflammation.",
+  "authors": [
+    "Mai-Lan N. Huynh",
+    "Valerie A. Fadok",
+    "Peter M. Henson"
+  ],
+  "year": 2002,
+  "doi": "10.1172/jci0211638",
+  "source": "openalex",
+  "categories": [
+    "Phosphatidylserine",
+    "Apoptosis",
+    "Proinflammatory cytokine",
+    "Inflammation",
+    "Jurkat cells",
+    "Efferocytosis",
+    "Chemokine",
+    "Cell biology",
+    "Secretion",
+    "Chemistry",
+    "Biology",
+    "Immunology",
+    "Molecular biology",
+    "Immune system",
+    "Macrophage",
+    "In vitro",
+    "T cell",
+    "Endocrinology",
+    "Biochemistry",
+    "Phospholipid",
+    "Membrane"
+  ],
+  "citation_count": 1267,
+  "open_access_pdf_url": "http://www.jci.org/articles/view/11638/files/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2151181789.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:00.611596+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2151181789",
+    "concepts": [
+      "Phosphatidylserine",
+      "Apoptosis",
+      "Proinflammatory cytokine",
+      "Inflammation",
+      "Jurkat cells"
+    ],
+    "oa_status": "bronze"
+  }
+}

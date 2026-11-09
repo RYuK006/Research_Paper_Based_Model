@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2326895507",
+  "title": "Effects of Fe Electrolyte Impurities on Ni(OH) 2 /NiOOH Structure and Oxygen Evolution Activity",
+  "abstract": "Ni-(oxy)hydroxide-based materials are promising earth-abundant catalysts for electrochemical water oxidation in basic media. Recent findings demonstrate that incorporation of trace Fe impurities from commonly used KOH electrolytes significantly improves oxygen evolution reaction (OER) activity over NiOOH electrocatalysts. Because nearly all previous studies detailing structural differences between α-Ni(OH) 2 /γ-NiOOH and β-Ni(OH) 2 /β-NiOOH were completed in unpurified electrolytes, it is unclear whether these structural changes are unique to the aging phase transition in the Ni-(oxy)hydroxide matrix or if they arise fully or in part from inadvertent Fe incorporation. Here, we report an investigation of the effects of Fe incorporation on structure–activity relationships in Ni-(oxy)hydroxide. Electrochemical, in situ Raman, X-ray photoelectron spectroscopy, and electrochemical quartz crystal microbalance measurements were employed to investigate Ni(OH) 2 thin films aged in Fe-free and unpurified (reagent-grade) 1 M KOH (<1 ppm Fe). We find that Ni films aged in unpurified electrolyte can incorporate ≥20% Fe after 5 weeks of aging, and the maximum catalyst activity is comparable to that reported for optimized Ni 1– x Fe x OOH catalysts. Conversely, Fe-free Ni(OH) 2 films exhibit a substantially lower activity and higher Tafel slope for the OER. Films aged in Fe-free electrolyte are predominantly disordered β-Ni(OH) 2 /β-NiOOH if maintained below 0.7 V vs Hg/HgO in 1 M KOH and will “overcharge” to form a mixture of γ- and β-NiOOH above this potential. Fe-containing Ni(OH) 2 films evidence a lesser extent of β-Ni(OH) 2 formation and instead exhibit NiOOH structural changes in accordance with the formation of a NiFe-layered double hydroxide phase. Furthermore, turnover frequency calculations indicate that Fe is the active site within this phase, and above ∼11% Fe content, a separate, Fe-rich phase forms. These findings are the first to demonstrate the in situ changes in the catalyst structure resulting from the incorporation of Fe electrolyte impurities within Ni-(oxy)hydroxide, providing direct evidence that a Ni–Fe layered double (oxy)hydroxide (LDH) phase is critical for high OER activity.",
+  "authors": [
+    "Shannon Klaus",
+    "Yun Cai",
+    "Mary W. Louie",
+    "Lena Trotochaud",
+    "Alexis T. Bell"
+  ],
+  "year": 2015,
+  "doi": "10.1021/acs.jpcc.5b00105",
+  "source": "openalex",
+  "categories": [
+    "Electrolyte",
+    "Hydroxide",
+    "Tafel equation",
+    "Oxygen evolution",
+    "Electrochemistry",
+    "Catalysis",
+    "Inorganic chemistry",
+    "Raman spectroscopy",
+    "X-ray photoelectron spectroscopy",
+    "Chemistry",
+    "Materials science",
+    "Electrode",
+    "Chemical engineering",
+    "Physical chemistry",
+    "Biochemistry",
+    "Engineering",
+    "Optics",
+    "Physics"
+  ],
+  "citation_count": 1159,
+  "open_access_pdf_url": "https://escholarship.org/content/qt1zp2p74w/qt1zp2p74w.pdf?t=p8ex3l",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2326895507.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:14.489707+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2326895507",
+    "concepts": [
+      "Electrolyte",
+      "Hydroxide",
+      "Tafel equation",
+      "Oxygen evolution",
+      "Electrochemistry"
+    ],
+    "oa_status": "bronze"
+  }
+}

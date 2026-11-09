@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2061399145",
+  "title": "Theory of Two-Dimensional Melting",
+  "abstract": "The consequences of a theory of dislocation-mediated two-dimensional melting are worked out for triangular lattices. Dissociation of dislocation pairs first drives a transition into a \"liquid crystal\" phase with exponential decay of translational order, but power-law decay of sixfold orientational order. A subsequent dissociation of disclination pairs at a higher temperature then produces an isotropic fluid. The critical behavior, as well as the effect of a periodic substrate, is discussed.",
+  "authors": [
+    "Bertrand I. Halperin",
+    "David R. Nelson"
+  ],
+  "year": 1978,
+  "doi": "10.1103/physrevlett.41.121",
+  "source": "openalex",
+  "categories": [
+    "Disclination",
+    "Isotropy",
+    "Dissociation (chemistry)",
+    "Condensed matter physics",
+    "Materials science",
+    "Phase transition",
+    "Dislocation",
+    "Power law",
+    "Liquid crystal",
+    "Melting temperature",
+    "Physics",
+    "Thermodynamics",
+    "Quantum mechanics",
+    "Chemistry",
+    "Physical chemistry",
+    "Composite material",
+    "Statistics",
+    "Mathematics"
+  ],
+  "citation_count": 1964,
+  "open_access_pdf_url": "http://link.aps.org/pdf/10.1103/PhysRevLett.41.121",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2061399145.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:17.792335+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2061399145",
+    "concepts": [
+      "Disclination",
+      "Isotropy",
+      "Dissociation (chemistry)",
+      "Condensed matter physics",
+      "Materials science"
+    ],
+    "oa_status": "bronze"
+  }
+}

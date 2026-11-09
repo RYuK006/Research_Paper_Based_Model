@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W3031224726",
+  "title": "Management of glioblastoma: State of the art and future directions",
+  "abstract": "Glioblastoma is the most common malignant primary brain tumor. Overall, the prognosis for patients with this disease is poor, with a median survival of <2 years. There is a slight predominance in males, and incidence increases with age. The standard approach to therapy in the newly diagnosed setting includes surgery followed by concurrent radiotherapy with temozolomide and further adjuvant temozolomide. Tumor-treating fields, delivering low-intensity alternating electric fields, can also be given concurrently with adjuvant temozolomide. At recurrence, there is no standard of care; however, surgery, radiotherapy, and systemic therapy with chemotherapy or bevacizumab are all potential options, depending on the patient's circumstances. Supportive and palliative care remain important considerations throughout the disease course in the multimodality approach to management. The recently revised classification of glioblastoma based on molecular profiling, notably isocitrate dehydrogenase (IDH) mutation status, is a result of enhanced understanding of the underlying pathogenesis of disease. There is a clear need for better therapeutic options, and there have been substantial efforts exploring immunotherapy and precision oncology approaches. In contrast to other solid tumors, however, biological factors, such as the blood-brain barrier and the unique tumor and immune microenvironment, represent significant challenges in the development of novel therapies. Innovative clinical trial designs with biomarker-enrichment strategies are needed to ultimately improve the outcome of patients with glioblastoma.",
+  "authors": [
+    "Aaron C. Tan",
+    "David M. Ashley",
+    "Giselle Yvette Lopez",
+    "Michael D. Malinzak",
+    "Henry S. Friedman",
+    "Mustafa Khasraw"
+  ],
+  "year": 2020,
+  "doi": "10.3322/caac.21613",
+  "source": "openalex",
+  "categories": [
+    "Medicine",
+    "Temozolomide",
+    "Bevacizumab",
+    "Oncology",
+    "Radiation therapy",
+    "Internal medicine",
+    "Adjuvant",
+    "Glioblastoma",
+    "Disease",
+    "Immunotherapy",
+    "Precision medicine",
+    "Chemotherapy",
+    "Isocitrate dehydrogenase",
+    "Targeted therapy",
+    "Clinical trial",
+    "Brain tumor",
+    "Cancer",
+    "Pathology",
+    "Cancer research",
+    "Enzyme",
+    "Biochemistry",
+    "Chemistry"
+  ],
+  "citation_count": 2042,
+  "open_access_pdf_url": "https://acsjournals.onlinelibrary.wiley.com/doi/pdfdirect/10.3322/caac.21613",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3031224726.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:15.571072+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3031224726",
+    "concepts": [
+      "Medicine",
+      "Temozolomide",
+      "Bevacizumab",
+      "Oncology",
+      "Radiation therapy"
+    ],
+    "oa_status": "gold"
+  }
+}

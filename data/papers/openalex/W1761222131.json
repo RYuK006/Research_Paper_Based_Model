@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W1761222131",
+  "title": "LEAP‐1, a novel highly disulfide‐bonded human peptide, exhibits antimicrobial activity",
+  "abstract": "We report the isolation and characterization of a novel human peptide with antimicrobial activity, termed LEAP-1 (liver-expressed antimicrobial peptide). Using a mass spectrometric assay detecting cysteine-rich peptides, a 25-residue peptide containing four disulfide bonds was identified in human blood ultrafiltrate. LEAP-1 expression was predominantly detected in the liver, and, to a much lower extent, in the heart. In radial diffusion assays, Gram-positive Bacillus megaterium, Bacillus subtilis, Micrococcus luteus, Staphylococcus carnosus, and Gram-negative Neisseria cinerea as well as the yeast Saccharomyces cerevisiae dose-dependently exhibited sensitivity upon treatment with synthetic LEAP-1. The discovery of LEAP-1 extends the known families of mammalian peptides with antimicrobial activity by its novel disulfide motif and distinct expression pattern.",
+  "authors": [
+    "Alexander Krause",
+    "Susanne Neitz",
+    "Hans‐Jürgen Mägert",
+    "Axel Schulz",
+    "Wolf‐Georg Forssmann",
+    "Peter Schulz‐Knappe",
+    "Knut Adermann"
+  ],
+  "year": 2000,
+  "doi": "10.1016/s0014-5793(00)01920-7",
+  "source": "openalex",
+  "categories": [
+    "Micrococcus luteus",
+    "Peptide",
+    "Bacillus subtilis",
+    "Antimicrobial",
+    "Antimicrobial peptides",
+    "Biochemistry",
+    "Bacillus megaterium",
+    "Cysteine",
+    "Chemistry",
+    "Microbiology",
+    "Peptide sequence",
+    "Yeast",
+    "Biology",
+    "Bacteria",
+    "Enzyme",
+    "Escherichia coli",
+    "Gene",
+    "Genetics"
+  ],
+  "citation_count": 1344,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1016/S0014-5793%2800%2901920-7",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1761222131.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:55.247932+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1761222131",
+    "concepts": [
+      "Micrococcus luteus",
+      "Peptide",
+      "Bacillus subtilis",
+      "Antimicrobial",
+      "Antimicrobial peptides"
+    ],
+    "oa_status": "bronze"
+  }
+}

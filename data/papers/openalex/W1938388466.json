@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W1938388466",
+  "title": "Crystal Structure of the Extracellular Segment of Integrin αVβ3",
+  "abstract": "Integrins are alphabeta heterodimeric receptors that mediate divalent cation-dependent cell-cell and cell-matrix adhesion through tightly regulated interactions with ligands. We have solved the crystal structure of the extracellular portion of integrin alphaVbeta3 at 3.1 A resolution. Its 12 domains assemble into an ovoid \"head\" and two \"tails.\" In the crystal, alphaVbeta3 is severely bent at a defined region in its tails, reflecting an unusual flexibility that may be linked to integrin regulation. The main inter-subunit interface lies within the head, between a seven-bladed beta-propeller from alphaV and an A domain from beta3, and bears a striking resemblance to the Galpha/Gbeta interface in G proteins. A metal ion-dependent adhesion site (MIDAS) in the betaA domain is positioned to participate in a ligand-binding interface formed of loops from the propeller and betaA domains. MIDAS lies adjacent to a calcium-binding site with a potential regulatory function.",
+  "authors": [
+    "Jian-Ping Xiong",
+    "Thilo Stehle",
+    "Beate Diefenbach",
+    "Rongguang Zhang",
+    "R. Dunker",
+    "David L. Scott",
+    "A. Joachimiak",
+    "Simon L. Goodman",
+    "M. Amin Arnaout"
+  ],
+  "year": 2001,
+  "doi": "10.1126/science.1064535",
+  "source": "openalex",
+  "categories": [
+    "Integrin",
+    "Extracellular",
+    "Protein subunit",
+    "Extracellular matrix",
+    "Bent molecular geometry",
+    "Adhesion",
+    "Chemistry",
+    "Biophysics",
+    "Cell adhesion",
+    "Cell biology",
+    "Receptor",
+    "Crystallography",
+    "Biology",
+    "Biochemistry",
+    "Organic chemistry",
+    "Gene"
+  ],
+  "citation_count": 1307,
+  "open_access_pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/2885948",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1938388466.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:57.771211+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1938388466",
+    "concepts": [
+      "Integrin",
+      "Extracellular",
+      "Protein subunit",
+      "Extracellular matrix",
+      "Bent molecular geometry"
+    ],
+    "oa_status": "green"
+  }
+}

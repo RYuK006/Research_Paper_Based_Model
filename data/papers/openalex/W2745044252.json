@@ -1,0 +1,43 @@
+{
+  "id": "openalex:W2745044252",
+  "title": "Review of cell performance in anion exchange membrane fuel cells",
+  "abstract": "Anion exchange membrane fuel cells (AEMFCs) have recently received increasing attention since in principle they allow for the use of non-precious metal catalysts, which dramatically reduces the cost per kilowatt of power in fuel cell devices. Until not long ago, the main barrier in the development of AEMFCs was the availability of highly conductive anion exchange membranes (AEMs); however, improvements on this front in the past decade show that newly developed AEMs have already reached high levels of conductivity, leading to satisfactory cell performance. In recent years, a growing number of research studies have reported AEMFC performance results. In the last three years, new records in performance were achieved. Most of the literature reporting cell performance is based on hydrogen-AEMFCs, although an increasing number of studies have also reported the use of fuels others than hydrogen - such as alcohols, non-alcohol C-based fuels, as well as N-based fuels. This article reviews the cell performance and performance stability achieved in AEMFCs through the years since the first reports in the early 2000s.",
+  "authors": [
+    "Dario R. Dekel"
+  ],
+  "year": 2017,
+  "doi": "10.1016/j.jpowsour.2017.07.117",
+  "source": "openalex",
+  "categories": [
+    "Fuel cells",
+    "Proton exchange membrane fuel cell",
+    "Membrane",
+    "Hydrogen vehicle",
+    "Ion exchange",
+    "Hydrogen fuel",
+    "Hydrogen",
+    "Chemistry",
+    "Materials science",
+    "Chemical engineering",
+    "Engineering",
+    "Ion",
+    "Organic chemistry",
+    "Biochemistry"
+  ],
+  "citation_count": 1089,
+  "open_access_pdf_url": "https://www.sciencedirect.com/science/article/pii/S0378775317310236/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2745044252.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:24.401730+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2745044252",
+    "concepts": [
+      "Fuel cells",
+      "Proton exchange membrane fuel cell",
+      "Membrane",
+      "Hydrogen vehicle",
+      "Ion exchange"
+    ],
+    "oa_status": "hybrid"
+  }
+}

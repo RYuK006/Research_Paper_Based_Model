@@ -1,0 +1,39 @@
+{
+  "id": "openalex:W2087920955",
+  "title": "3-Methyladenine: Specific inhibitor of autophagic/lysosomal protein degradation in isolated rat hepatocytes",
+  "abstract": "3-Methyladenine (5 mM) inhibits endogenous protein degradation in isolated rat hepatocytes by about 60%, while having no adverse effect on the degradation of an exogenous protein (asialofetuin), on protein synthesis, or on intracellular ATP levels. 3-Methyladenine appears to act specifically upon the autophagic/lysosomal pathway of degradation, as judged from its lack of effect in the presence of amino acids or a lysosomotropic amine (propylamine). The effect of the purine is not mediated by amino acids because the inhibition of protein degradation is accompanied by a significant depression of intracellular amino acid levels. The ability of 3-methyladenine to suppress the formation of electron microscopically visible autophagosomes suggests that it may be regarded as a specific inhibitor of autophagy.",
+  "authors": [
+    "Per O. Seglen",
+    "Paul B. Gordon"
+  ],
+  "year": 1982,
+  "doi": "10.1073/pnas.79.6.1889",
+  "source": "openalex",
+  "categories": [
+    "Autophagy",
+    "Intracellular",
+    "Amino acid",
+    "Protein degradation",
+    "Biochemistry",
+    "Protein biosynthesis",
+    "Biology",
+    "Chemistry",
+    "Apoptosis"
+  ],
+  "citation_count": 1375,
+  "open_access_pdf_url": "https://pnas.org/doi/full/10.1073/pnas.79.6.1889",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2087920955.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:52.704889+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2087920955",
+    "concepts": [
+      "Autophagy",
+      "Intracellular",
+      "Amino acid",
+      "Protein degradation",
+      "Biochemistry"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "openalex:W2400239628",
+  "title": "Nrf2 suppresses macrophage inflammatory response by blocking proinflammatory cytokine transcription",
+  "abstract": "Nrf2 (NF-E2-related factor-2) transcription factor regulates oxidative/xenobiotic stress response and also represses inflammation. However, the mechanisms how Nrf2 alleviates inflammation are still unclear. Here, we demonstrate that Nrf2 interferes with lipopolysaccharide-induced transcriptional upregulation of proinflammatory cytokines, including IL-6 and IL-1β. Chromatin immunoprecipitation (ChIP)-seq and ChIP-qPCR analyses revealed that Nrf2 binds to the proximity of these genes in macrophages and inhibits RNA Pol II recruitment. Further, we found that Nrf2-mediated inhibition is independent of the Nrf2-binding motif and reactive oxygen species level. Murine inflammatory models further demonstrated that Nrf2 interferes with IL6 induction and inflammatory phenotypes in vivo. Thus, contrary to the widely accepted view that Nrf2 suppresses inflammation through redox control, we demonstrate here that Nrf2 opposes transcriptional upregulation of proinflammatory cytokine genes. This study identifies Nrf2 as the upstream regulator of cytokine production and establishes a molecular basis for an Nrf2-mediated anti-inflammation approach.",
+  "authors": [
+    "Eri H. Kobayashi",
+    "Takafumi Suzuki",
+    "Ryo Funayama",
+    "Takeshi Nagashima",
+    "Makiko Hayashi",
+    "Hiroki Sekine",
+    "Nobuyuki Tanaka",
+    "Takashi Moriguchi",
+    "Hozumi Motohashi",
+    "Keiko Nakayama",
+    "Masayuki P. Yamamoto"
+  ],
+  "year": 2016,
+  "doi": "10.1038/ncomms11624",
+  "source": "openalex",
+  "categories": [
+    "Proinflammatory cytokine",
+    "Inflammation",
+    "Downregulation and upregulation",
+    "Transcription factor",
+    "Chromatin immunoprecipitation",
+    "Cell biology",
+    "Cytokine",
+    "Lipopolysaccharide",
+    "Regulator",
+    "Biology",
+    "Transcriptional regulation",
+    "NFKB1",
+    "Chemistry",
+    "Immunology",
+    "Gene expression",
+    "Promoter",
+    "Gene",
+    "Biochemistry"
+  ],
+  "citation_count": 1905,
+  "open_access_pdf_url": "https://www.nature.com/articles/ncomms11624.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2400239628.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:17.947615+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2400239628",
+    "concepts": [
+      "Proinflammatory cytokine",
+      "Inflammation",
+      "Downregulation and upregulation",
+      "Transcription factor",
+      "Chromatin immunoprecipitation"
+    ],
+    "oa_status": "gold"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "openalex:W2099255819",
+  "title": "Highly Selective Enrichment of Phosphorylated Peptides from Peptide Mixtures Using Titanium Dioxide Microcolumns",
+  "abstract": "Reversible phosphorylation of proteins regulates the majority of all cellular processes, e.g. proliferation, differentiation, and apoptosis. A fundamental understanding of these biological processes at the molecular level requires characterization of the phosphorylated proteins. Phosphorylation is often substoichiometric, and an enrichment procedure of phosphorylated peptides derived from phosphorylated proteins is a necessary prerequisite for the characterization of such peptides by modern mass spectrometric methods. We report a highly selective enrichment procedure for phosphorylated peptides based on TiO2microcolumns and peptide loading in 2,5-dihydroxybenzoic acid (DHB). The effect of DHB was a very efficient reduction in the binding of nonphosphorylated peptides to TiO2 while retaining its high binding affinity for phosphorylated peptides. Thus, inclusion of DHB dramatically increased the selectivity of the enrichment of phosphorylated peptides by TiO2. We demonstrated that this new procedure was more selective for binding phosphorylated peptides than IMAC using MALDI mass spectrometry. In addition, we showed that LC-ESI-MSMS was biased toward monophosphorylated peptides, whereas MALDI MS was not. Other substituted aromatic carboxylic acids were also capable of specifically reducing binding of nonphosphorylated peptides, whereas phosphoric acid reduced binding of both phosphorylated and nonphosphorylated peptides. A putative mechanism for this intriguing effect is presented.",
+  "authors": [
+    "Martin R. Larsen",
+    "Tine E. Thingholm",
+    "Ole Nørregaard Jensen",
+    "Peter Roepstorff",
+    "Thomas J. D. Jørgensen"
+  ],
+  "year": 2005,
+  "doi": "10.1074/mcp.t500007-mcp200",
+  "source": "openalex",
+  "categories": [
+    "Peptide",
+    "Chemistry",
+    "Titanium dioxide",
+    "Phosphorylation",
+    "Chromatography",
+    "Biochemistry",
+    "Materials science",
+    "Metallurgy"
+  ],
+  "citation_count": 1485,
+  "open_access_pdf_url": "http://www.mcponline.org/article/S1535947620314559/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2099255819.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:48.144551+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2099255819",
+    "concepts": [
+      "Peptide",
+      "Chemistry",
+      "Titanium dioxide",
+      "Phosphorylation",
+      "Chromatography"
+    ],
+    "oa_status": "hybrid"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W2119489910",
+  "title": "REFMAC 5 dictionary: organization of prior chemical knowledge and guidelines for its use",
+  "abstract": "One of the most important aspects of macromolecular structure refinement is the use of prior chemical knowledge. Bond lengths, bond angles and other chemical properties are used in restrained refinement as subsidiary conditions. This contribution describes the organization and some aspects of the use of the flexible and human/machine-readable dictionary of prior chemical knowledge used by the maximum-likelihood macromolecular-refinement program REFMAC5. The dictionary stores information about monomers which represent the constitutive building blocks of biological macromolecules (amino acids, nucleic acids and saccharides) and about numerous organic/inorganic compounds commonly found in macromolecular crystallography. It also describes the modifications the building blocks undergo as a result of chemical reactions and the links required for polymer formation. More than 2000 monomer entries, 100 modification entries and 200 link entries are currently available. Algorithms and tools for updating and adding new entries to the dictionary have also been developed and are presented here. In many cases, the REFMAC5 dictionary allows entirely automatic generation of restraints within REFMAC5 refinement runs.",
+  "authors": [
+    "Alexei A. Vagin",
+    "Roberto A. Steiner",
+    "Andrey A. Lebedev",
+    "Liz Potterton",
+    "Stuart J. McNicholas",
+    "Fei Long",
+    "Garib N. Murshudov"
+  ],
+  "year": 2004,
+  "doi": "10.1107/s0907444904023510",
+  "source": "openalex",
+  "categories": [
+    "Macromolecule",
+    "Computer science",
+    "Monomer",
+    "Nucleic acid",
+    "Set (abstract data type)",
+    "Polymer",
+    "Artificial intelligence",
+    "Chemistry",
+    "Organic chemistry",
+    "Programming language",
+    "Biochemistry"
+  ],
+  "citation_count": 1371,
+  "open_access_pdf_url": "http://journals.iucr.org/d/issues/2004/12/01/ba5073/ba5073.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2119489910.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:52.739710+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2119489910",
+    "concepts": [
+      "Macromolecule",
+      "Computer science",
+      "Monomer",
+      "Nucleic acid",
+      "Set (abstract data type)"
+    ],
+    "oa_status": "hybrid"
+  }
+}

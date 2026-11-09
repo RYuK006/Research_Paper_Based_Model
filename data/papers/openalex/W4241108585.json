@@ -1,0 +1,45 @@
+{
+  "id": "openalex:W4241108585",
+  "title": "Alternation",
+  "abstract": "Alternation is a generalization of nondeterminism in which existential and universal quantitiers can alternate during the course of a computation, whereas in a nondeterministic computation there are only existential quantifiers.Alternating Turing machines are defined and shown to accept precisely the recursively enumerable sets.Complexity classes of languages accepted by time-(space-) bounded alternating Turing machines are characterized in terms of complexity classes of languages accepted by space-(time-) bounded deterministic Turing machines.In particular, alternating polynomial time is equivalent to deterministic polynomial space and alternating polynomial space is equivalent to deterministic 'exponential time.Subrecursive quantifier hierarchies are defined in terms of time-or space-bounded alternating Tufing machines by bounding the number of alternations allowed during computations.Alternating finite-state automata are defined and shown to accept only regular languages, although, in general, 2 2 states are necessary and sufficient to simulate a k-state alternating finite automaton deterministically.Finally, it is shown that alternating pushdown automata are strictly more powerful than nondeterministic pushdown automata.",
+  "authors": [
+    "Ashok K. Chandra",
+    "Dexter C. Kozen",
+    "Larry J. Stockmeyer"
+  ],
+  "year": 1981,
+  "doi": "10.1145/322234.322243",
+  "source": "openalex",
+  "categories": [
+    "Watson",
+    "IBM",
+    "Citation",
+    "Center (category theory)",
+    "Research center",
+    "Computer science",
+    "Library science",
+    "Physics",
+    "Political science",
+    "Chemistry",
+    "Artificial intelligence",
+    "Law",
+    "Optics",
+    "Crystallography"
+  ],
+  "citation_count": 1325,
+  "open_access_pdf_url": "https://dl.acm.org/doi/pdf/10.1145/322234.322243",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W4241108585.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:57.622309+00:00",
+  "raw_metadata": {
+    "openalex_id": "W4241108585",
+    "concepts": [
+      "Watson",
+      "IBM",
+      "Citation",
+      "Center (category theory)",
+      "Research center"
+    ],
+    "oa_status": "bronze"
+  }
+}

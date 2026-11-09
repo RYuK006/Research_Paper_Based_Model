@@ -1,0 +1,43 @@
+{
+  "id": "openalex:W1510592624",
+  "title": "Activation of Mitogen-activated Protein Kinase by H2O2",
+  "abstract": "The mitogen-activated protein kinase (MAPK) family is comprised of key regulatory proteins that control the cellular response to both proliferation and stress signals. In this study we investigated the factors controlling MAPK activation by H2O2 and explored the impact of altering the pathways to kinase activation on cell survival following H2O2 exposure. Potent activation (10-20-fold) of extracellular signal-regulated protein kinase (ERK2) occurred within 10 min of H2O2 treatment, whereupon rapid inactivation ensued. H2O2 activated ERK2 in several cell types and also moderately activated (3-5-fold) both c-Jun N-terminal kinase and p38/RK/CSBP. Additionally, H2O2 increased the mRNA expression of MAPK-dependent genes c-jun, c-fos, and MAPK phosphatase-1. Suramin pretreatment completely inhibited H2O2 stimulation of ERK2, highlighting a role for growth factor receptors in this activation. Further, ERK2 activation by H2O2 was blocked by pretreatment with either N-acetyl-cysteine, o-phenanthroline, or mannitol, indicating that metal-catalyzed free radical formation mediates the initiation of signal transduction by H2O2. H2O2-stimulated activation of ERK2 was abolished in PC12 cells by inducible or constitutive expression of the dominant negative Ras-N-17 allele. Interestingly, PC12/Ras-N-17 cells were more sensitive than wild-type PC12 cells to H2O2 toxicity. Moreover, NIH 3T3 cells expressing constitutively active MAPK kinase (MEK, the immediate upstream regulator of ERK) were more resistant to H2O2 toxicity, while those expressing kinase-defective MEK were more sensitive, than cells expressing wild-type MEK. Taken together, these studies provide insight into mechanisms of MAPK regulation by H2O2 and suggest that ERK plays a critical role in cell survival following oxidant injury.",
+  "authors": [
+    "Kathryn Z. Guyton",
+    "Liu Y",
+    "Myriam Gorospe",
+    "Qingbo Xu",
+    "Nikki J. Holbrook"
+  ],
+  "year": 1996,
+  "doi": "10.1074/jbc.271.8.4138",
+  "source": "openalex",
+  "categories": [
+    "MAPK/ERK pathway",
+    "Protein kinase A",
+    "Cell biology",
+    "Mitogen-activated protein kinase kinase",
+    "Kinase",
+    "Signal transduction",
+    "Biology",
+    "Mitogen-activated protein kinase",
+    "Molecular biology",
+    "Chemistry"
+  ],
+  "citation_count": 1215,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925817364797/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1510592624.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:04.686134+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1510592624",
+    "concepts": [
+      "MAPK/ERK pathway",
+      "Protein kinase A",
+      "Cell biology",
+      "Mitogen-activated protein kinase kinase",
+      "Kinase"
+    ],
+    "oa_status": "hybrid"
+  }
+}

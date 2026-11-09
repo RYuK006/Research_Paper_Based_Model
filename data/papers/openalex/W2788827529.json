@@ -1,0 +1,59 @@
+{
+  "id": "openalex:W2788827529",
+  "title": "Tau protein liquid–liquid phase separation can initiate tau aggregation",
+  "abstract": "The transition between soluble intrinsically disordered tau protein and aggregated tau in neurofibrillary tangles in Alzheimer's disease is unknown. Here, we propose that soluble tau species can undergo liquid–liquid phase separation (LLPS) under cellular conditions and that phase‐separated tau droplets can serve as an intermediate toward tau aggregate formation. We demonstrate that phosphorylated or mutant aggregation prone recombinant tau undergoes LLPS, as does high molecular weight soluble phospho‐tau isolated from human Alzheimer brain. Droplet‐like tau can also be observed in neurons and other cells. We found that tau droplets become gel‐like in minutes, and over days start to spontaneously form thioflavin‐S‐positive tau aggregates that are competent of seeding cellular tau aggregation. Since analogous LLPS observations have been made for FUS, hnRNPA1, and TDP43, which aggregate in the context of amyotrophic lateral sclerosis, we suggest that LLPS represents a biophysical process with a role in multiple different neurodegenerative diseases. The microtubule binding protein tau can undergo liquid‐liquid phase separation under physiological conditions. Phosphorylated, FTD‐mutant, and Alzheimer's disease brain tau is capable of forming droplets that can initiate the formation of aberrant, aggregated tau “seeds”. LLPS may play a role in different tauopathies. An Alzheimer's Disease‐associated tau phase transition from soluble to droplet may exemplify a biophysical mechanism underlying several neurodegenerative diseases.",
+  "authors": [
+    "Susanne Wegmann",
+    "Bahareh Eftekharzadeh",
+    "Katharina Tepper",
+    "Katarzyna Marta Zoltowska",
+    "Rachel E. Bennett",
+    "Simon Dujardin",
+    "P. Laskowski",
+    "Danny MacKenzie",
+    "Tarun V. Kamath",
+    "Caitlin Commins",
+    "Charles R. Vanderburg",
+    "Allyson D. Roe",
+    "Zhanyun Fan",
+    "Amandine Molliex",
+    "Amayra Hernández‐Vega",
+    "Daniel J. Müller",
+    "Anthony A. Hyman",
+    "Eckhard Mandelkow�",
+    "J. Paul Taylor",
+    "Bradley T. Hyman"
+  ],
+  "year": 2018,
+  "doi": "10.15252/embj.201798049",
+  "source": "openalex",
+  "categories": [
+    "Biology",
+    "Liquid liquid",
+    "Phase (matter)",
+    "Separation (statistics)",
+    "Biophysics",
+    "Chromatography",
+    "Physics",
+    "Machine learning",
+    "Chemistry",
+    "Computer science",
+    "Quantum mechanics"
+  ],
+  "citation_count": 1114,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.15252/embj.201798049",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2788827529.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:19.568977+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2788827529",
+    "concepts": [
+      "Biology",
+      "Liquid liquid",
+      "Phase (matter)",
+      "Separation (statistics)",
+      "Biophysics"
+    ],
+    "oa_status": "hybrid"
+  }
+}

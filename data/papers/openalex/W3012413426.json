@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W3012413426",
+  "title": "Calculating the sample size required for developing a clinical prediction model",
+  "abstract": "Clinical prediction models aim to predict outcomes in individuals, to inform diagnosis or prognosis in healthcare. Hundreds of prediction models are published in the medical literature each year, yet many are developed using a dataset that is too small for the total number of participants or outcome events. This leads to inaccurate predictions and consequently incorrect healthcare decisions for some individuals. In this article, the authors provide guidance on how to calculate the sample size required to develop a clinical prediction model.",
+  "authors": [
+    "Richard D Riley",
+    "Joie Ensor",
+    "Kym I E Snell",
+    "Frank E. Harrell",
+    "Glen Philip Martin",
+    "Johannes B. Reitsma",
+    "Karel G.M. Moons",
+    "Professor Gary S. Collins",
+    "Maarten van Smeden"
+  ],
+  "year": 2020,
+  "doi": "10.1136/bmj.m441",
+  "source": "openalex",
+  "categories": [
+    "Sample size determination",
+    "Computer science",
+    "Sample (material)",
+    "Outcome (game theory)",
+    "Predictive modelling",
+    "Health care",
+    "Data science",
+    "Data mining",
+    "Statistics",
+    "Machine learning",
+    "Mathematics",
+    "Chemistry",
+    "Mathematical economics",
+    "Economics",
+    "Economic growth",
+    "Chromatography"
+  ],
+  "citation_count": 3113,
+  "open_access_pdf_url": "https://www.bmj.com/content/bmj/368/bmj.m441.full.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3012413426.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:57.874221+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3012413426",
+    "concepts": [
+      "Sample size determination",
+      "Computer science",
+      "Sample (material)",
+      "Outcome (game theory)",
+      "Predictive modelling"
+    ],
+    "oa_status": "bronze"
+  }
+}

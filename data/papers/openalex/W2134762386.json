@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W2134762386",
+  "title": "Automated Builder and Database of Protein/Membrane Complexes for Molecular Dynamics Simulations",
+  "abstract": "Molecular dynamics simulations of membrane proteins have provided deeper insights into their functions and interactions with surrounding environments at the atomic level. However, compared to solvation of globular proteins, building a realistic protein/membrane complex is still challenging and requires considerable experience with simulation software. Membrane Builder in the CHARMM-GUI website (http://www.charmm-gui.org) helps users to build such a complex system using a web browser with a graphical user interface. Through a generalized and automated building process including system size determination as well as generation of lipid bilayer, pore water, bulk water, and ions, a realistic membrane system with virtually any kinds and shapes of membrane proteins can be generated in 5 minutes to 2 hours depending on the system size. Default values that were elaborated and tested extensively are given in each step to provide reasonable options and starting points for both non-expert and expert users. The efficacy of Membrane Builder is illustrated by its applications to 12 transmembrane and 3 interfacial membrane proteins, whose fully equilibrated systems with three different types of lipid molecules (DMPC, DPPC, and POPC) and two types of system shapes (rectangular and hexagonal) are freely available on the CHARMM-GUI website. One of the most significant advantages of using the web environment is that, if a problem is found, users can go back and re-generate the whole system again before quitting the browser. Therefore, Membrane Builder provides the intuitive and easy way to build and simulate the biologically important membrane system.",
+  "authors": [
+    "Sunhwan Jo",
+    "Taehoon Kim",
+    "Wonpil Im"
+  ],
+  "year": 2007,
+  "doi": "10.1371/journal.pone.0000880",
+  "source": "openalex",
+  "categories": [
+    "POPC",
+    "Graphical user interface",
+    "Molecular dynamics",
+    "Computer science",
+    "Membrane protein",
+    "Transmembrane protein",
+    "Solvation",
+    "Membrane",
+    "Lipid bilayer",
+    "Software",
+    "Water model",
+    "Computational science",
+    "Chemistry",
+    "Bioinformatics",
+    "Biological system",
+    "Molecule",
+    "Computational chemistry",
+    "Biochemistry",
+    "Operating system",
+    "Biology",
+    "Organic chemistry",
+    "Receptor"
+  ],
+  "citation_count": 1240,
+  "open_access_pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0000880&type=printable",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2134762386.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:02.805398+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2134762386",
+    "concepts": [
+      "POPC",
+      "Graphical user interface",
+      "Molecular dynamics",
+      "Computer science",
+      "Membrane protein"
+    ],
+    "oa_status": "gold"
+  }
+}

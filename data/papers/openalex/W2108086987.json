@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2108086987",
+  "title": "Influence of quantum confinement on the electronic structure of the transition metal sulfide T S 2",
+  "abstract": "Bulk MoS${}_{2}$, a prototypical layered transition-metal dichalcogenide, is an indirect band gap semiconductor. Reducing its slab thickness to a monolayer, MoS${}_{2}$ undergoes a transition to the direct band semiconductor. We support this experimental observation by first-principle calculations and show that quantum confinement in layered $d$-electron dichalcogenides results in tuning the electronic structure. We further studied the properties of related $T$S${}_{2}$ nanolayers ($T=$ W, Nb, Re) and show that the isotopological WS${}_{2}$ exhibits similar electronic properties, while NbS${}_{2}$ and ReS${}_{2}$ remain metallic independent of the slab thickness.",
+  "authors": [
+    "Agnieszka Beata Kuc",
+    "Nourdine Zibouche",
+    "Thomas Heine"
+  ],
+  "year": 2011,
+  "doi": "10.1103/physrevb.83.245213",
+  "source": "openalex",
+  "categories": [
+    "Quantum dot",
+    "Transition metal",
+    "Semiconductor",
+    "Materials science",
+    "Electronic structure",
+    "Monolayer",
+    "Slab",
+    "Metal",
+    "Band gap",
+    "Condensed matter physics",
+    "Sulfide",
+    "Electronic band structure",
+    "Nanotechnology",
+    "Physics",
+    "Optoelectronics",
+    "Chemistry",
+    "Metallurgy",
+    "Biochemistry",
+    "Geophysics",
+    "Catalysis"
+  ],
+  "citation_count": 1783,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1104.3670",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2108086987.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:26.064442+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2108086987",
+    "concepts": [
+      "Quantum dot",
+      "Transition metal",
+      "Semiconductor",
+      "Materials science",
+      "Electronic structure"
+    ],
+    "oa_status": "green"
+  }
+}

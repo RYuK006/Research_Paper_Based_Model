@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W2135710687",
+  "title": "Social Desirability Bias in CATI, IVR, and Web Surveys: The Effects of Mode and Question Sensitivity",
+  "abstract": "Although it is well established that self-administered questionnaires tend to yield fewer reports in the socially desirable direction than do interviewer-administered questionnaires, less is known about whether different modes of self-administration vary in their effects on socially desirable responding. In addition, most mode comparison studies lack validation data and thus cannot separate the effects of differential nonresponse bias from the effects of differences in measurement error. This paper uses survey and record data to examine mode effects on the reporting of potentially sensitive information by a sample of recent university graduates. Respondents were randomly assigned to one of three modes of data collection—conventional computer-assisted telephone interviewing (CATI), interactive voice recognition (IVR), and the Web—and were asked about both desirable and undesirable attributes of their academic experiences. University records were used to evaluate the accuracy of the answers and to examine differences in nonresponse bias by mode. Web administration increased the level of reporting of sensitive information and reporting accuracy relative to conventional CATI, with IVR intermediate between the other two modes. Both mode of data collection and the actual status of the respondent influenced whether respondents found an item sensitive.",
+  "authors": [
+    "Frauke Kreuter",
+    "Stanley Presser",
+    "Roger Tourangeau"
+  ],
+  "year": 2008,
+  "doi": "10.1093/poq/nfn063",
+  "source": "openalex",
+  "categories": [
+    "Respondent",
+    "Interview",
+    "Social desirability bias",
+    "Non-response bias",
+    "Interactive voice response",
+    "Psychology",
+    "Data collection",
+    "Sample (material)",
+    "Mode (computer interface)",
+    "Telephone interview",
+    "Applied psychology",
+    "Statistics",
+    "Social psychology",
+    "Social desirability",
+    "Computer science",
+    "Telecommunications",
+    "Mathematics",
+    "Sociology",
+    "Chromatography",
+    "Chemistry",
+    "Social science",
+    "Operating system",
+    "Political science",
+    "Anthropology",
+    "Law"
+  ],
+  "citation_count": 1296,
+  "open_access_pdf_url": "https://academic.oup.com/poq/article-pdf/72/5/847/5188667/nfn063.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2135710687.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:57.845667+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2135710687",
+    "concepts": [
+      "Respondent",
+      "Interview",
+      "Social desirability bias",
+      "Non-response bias",
+      "Interactive voice response"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W4220887281",
+  "title": "Harnessing protein folding neural networks for peptide–protein docking",
+  "abstract": "Abstract Highly accurate protein structure predictions by deep neural networks such as AlphaFold2 and RoseTTAFold have tremendous impact on structural biology and beyond. Here, we show that, although these deep learning approaches have originally been developed for the in silico folding of protein monomers, AlphaFold2 also enables quick and accurate modeling of peptide–protein interactions. Our simple implementation of AlphaFold2 generates peptide–protein complex models without requiring multiple sequence alignment information for the peptide partner, and can handle binding-induced conformational changes of the receptor. We explore what AlphaFold2 has memorized and learned, and describe specific examples that highlight differences compared to state-of-the-art peptide docking protocol PIPER-FlexPepDock. These results show that AlphaFold2 holds great promise for providing structural insight into a wide range of peptide–protein complexes, serving as a starting point for the detailed characterization and manipulation of these interactions.",
+  "authors": [
+    "Tomer Tsaban",
+    "Julia K. Varga",
+    "Orly Avraham",
+    "Ziv Ben-Aharon",
+    "Alisa Khramushin",
+    "Ora Schueler‐Furman"
+  ],
+  "year": 2022,
+  "doi": "10.1038/s41467-021-27838-9",
+  "source": "openalex",
+  "categories": [
+    "Docking (animal)",
+    "Protein folding",
+    "Computational biology",
+    "Peptide",
+    "Protein structure",
+    "Macromolecular docking",
+    "Computer science",
+    "Chemistry",
+    "Biology",
+    "Biochemistry",
+    "Medicine",
+    "Nursing"
+  ],
+  "citation_count": 1191,
+  "open_access_pdf_url": "https://www.nature.com/articles/s41467-021-27838-9.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W4220887281.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:08.437476+00:00",
+  "raw_metadata": {
+    "openalex_id": "W4220887281",
+    "concepts": [
+      "Docking (animal)",
+      "Protein folding",
+      "Computational biology",
+      "Peptide",
+      "Protein structure"
+    ],
+    "oa_status": "gold"
+  }
+}

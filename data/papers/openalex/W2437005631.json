@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W2437005631",
+  "title": "Hierarchical Phrase-Based Translation",
+  "abstract": "We present a statistical machine translation model that uses hierarchical phrases—phrases that contain subphrases. The model is formally a synchronous context-free grammar but is learned from a parallel text without any syntactic annotations. Thus it can be seen as combining fundamental ideas from both syntax-based translation and phrase-based translation. We describe our system's training and decoding methods in detail, and evaluate it for translation speed and translation accuracy. Using BLEU as a metric of translation accuracy, we find that our system performs significantly better than the Alignment Template System, a state-of-the-art phrase-based system.",
+  "authors": [
+    "David Chiang"
+  ],
+  "year": 2007,
+  "doi": "10.1162/coli.2007.33.2.201",
+  "source": "openalex",
+  "categories": [
+    "Computer science",
+    "Synchronous context-free grammar",
+    "Phrase",
+    "Machine translation",
+    "Natural language processing",
+    "Artificial intelligence",
+    "Translation (biology)",
+    "Example-based machine translation",
+    "Syntax",
+    "BLEU",
+    "Metric (unit)",
+    "Context (archaeology)",
+    "Computer-assisted translation",
+    "Machine translation software usability",
+    "Transfer-based machine translation",
+    "Grammar",
+    "Evaluation of machine translation",
+    "Linguistics",
+    "Gene",
+    "Operations management",
+    "Biochemistry",
+    "Chemistry",
+    "Economics",
+    "Messenger RNA",
+    "Biology",
+    "Paleontology",
+    "Philosophy"
+  ],
+  "citation_count": 1161,
+  "open_access_pdf_url": "https://direct.mit.edu/coli/article-pdf/33/2/201/1798392/coli.2007.33.2.201.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2437005631.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:14.458353+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2437005631",
+    "concepts": [
+      "Computer science",
+      "Synchronous context-free grammar",
+      "Phrase",
+      "Machine translation",
+      "Natural language processing"
+    ],
+    "oa_status": "bronze"
+  }
+}

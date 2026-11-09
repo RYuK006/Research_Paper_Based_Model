@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2038818582",
+  "title": "Regulation of Polar Auxin Transport by AtPIN1 in Arabidopsis Vascular Tissue",
+  "abstract": "Polar auxin transport controls multiple developmental processes in plants, including the formation of vascular tissue. Mutations affecting the PIN-FORMED (PIN1) gene diminish polar auxin transport in Arabidopsis thaliana inflorescence axes. The AtPIN1gene was found to encode a 67-kilodalton protein with similarity to bacterial and eukaryotic carrier proteins, and the AtPIN1 protein was detected at the basal end of auxin transport-competent cells in vascular tissue. AtPIN1 may act as a transmembrane component of the auxin efflux carrier.",
+  "authors": [
+    "Leo Gälweiler",
+    "Changhui Guan",
+    "Andreas Müller",
+    "Ellen Wisman",
+    "Kurt W. Mendgen",
+    "Alexander Yephremov",
+    "Klaus J. Palme"
+  ],
+  "year": 1998,
+  "doi": "10.1126/science.282.5397.2226",
+  "source": "openalex",
+  "categories": [
+    "Auxin",
+    "Polar auxin transport",
+    "Arabidopsis",
+    "Vascular tissue",
+    "Arabidopsis thaliana",
+    "Cell biology",
+    "Biology",
+    "Mutant",
+    "Transmembrane protein",
+    "Inflorescence",
+    "Chemistry",
+    "Biochemistry",
+    "Gene",
+    "Botany",
+    "Receptor"
+  ],
+  "citation_count": 1536,
+  "open_access_pdf_url": "https://kops.uni-konstanz.de/server/api/core/bitstreams/33af8afc-01be-4721-b7f3-d0d482dc9184/content",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2038818582.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:45.371938+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2038818582",
+    "concepts": [
+      "Auxin",
+      "Polar auxin transport",
+      "Arabidopsis",
+      "Vascular tissue",
+      "Arabidopsis thaliana"
+    ],
+    "oa_status": "green"
+  }
+}

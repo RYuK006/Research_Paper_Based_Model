@@ -1,0 +1,63 @@
+{
+  "id": "openalex:W1977992740",
+  "title": "The \"dual-spot\" Aethalometer: an improved measurement of aerosol black carbon with real-time loading compensation",
+  "abstract": "Abstract. Aerosol black carbon is a unique primary tracer for combustion emissions. It affects the optical properties of the atmosphere and is recognized as the second most important anthropogenic forcing agent for climate change. It is the primary tracer for adverse health effects caused by air pollution. For the accurate determination of mass equivalent black carbon concentrations in the air and for source apportionment of the concentrations, optical measurements by filter-based absorption photometers must take into account the \"filter loading effect\". We present a new real-time loading effect compensation algorithm based on a two parallel spot measurement of optical absorption. This algorithm has been incorporated into the new Aethalometer model AE33. Intercomparison studies show excellent reproducibility of the AE33 measurements and very good agreement with post-processed data obtained using earlier Aethalometer models and other filter-based absorption photometers. The real-time loading effect compensation algorithm provides the high-quality data necessary for real-time source apportionment and for determination of the temporal variation of the compensation parameter k.",
+  "authors": [
+    "Luka Drinovec",
+    "Griša Močnik",
+    "Peter Zotter",
+    "Andrê S. H. Prévôt",
+    "Christian Ruckstuhl",
+    "Esther Coz",
+    "Maheswar Rupakheti",
+    "Jean Sciare",
+    "Thomas G. Muller",
+    "Alfred Wiedensohler",
+    "A. D. A. Hansen"
+  ],
+  "year": 2015,
+  "doi": "10.5194/amt-8-1965-2015",
+  "source": "openalex",
+  "categories": [
+    "Aethalometer",
+    "Aerosol",
+    "Photometer",
+    "TRACER",
+    "Carbon black",
+    "Environmental science",
+    "Combustion",
+    "Absorption (acoustics)",
+    "Meteorology",
+    "Atmospheric sciences",
+    "Compensation (psychology)",
+    "Chemistry",
+    "Apportionment",
+    "Analytical Chemistry (journal)",
+    "Environmental chemistry",
+    "Optics",
+    "Physics",
+    "Psychology",
+    "Nuclear physics",
+    "Natural rubber",
+    "Psychoanalysis",
+    "Law",
+    "Organic chemistry",
+    "Political science"
+  ],
+  "citation_count": 1290,
+  "open_access_pdf_url": "https://amt.copernicus.org/articles/8/1965/2015/amt-8-1965-2015.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1977992740.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:00.364256+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1977992740",
+    "concepts": [
+      "Aethalometer",
+      "Aerosol",
+      "Photometer",
+      "TRACER",
+      "Carbon black"
+    ],
+    "oa_status": "gold"
+  }
+}

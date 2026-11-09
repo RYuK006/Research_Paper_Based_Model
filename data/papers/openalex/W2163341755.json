@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W2163341755",
+  "title": "Phaser crystallographic software",
+  "abstract": "Phaser is a program for phasing macromolecular crystal structures by both molecular replacement and experimental phasing methods. The novel phasing algorithms implemented in Phaser have been developed using maximum likelihood and multivariate statistics. For molecular replacement, the new algorithms have proved to be significantly better than traditional methods in discriminating correct solutions from noise, and for single-wavelength anomalous dispersion experimental phasing, the new algorithms, which account for correlations between F(+) and F(-), give better phases (lower mean phase error with respect to the phases given by the refined structure) than those that use mean F and anomalous differences DeltaF. One of the design concepts of Phaser was that it be capable of a high degree of automation. To this end, Phaser (written in C++) can be called directly from Python, although it can also be called using traditional CCP4 keyword-style input. Phaser is a platform for future development of improved phasing methods and their release, including source code, to the crystallographic community.",
+  "authors": [
+    "Airlie J. McCoy",
+    "Ralf W. Grosse‐Kunstleve",
+    "Paul D. Adams",
+    "Martyn Winn",
+    "Laurent C. Storoni",
+    "Randy J. Read"
+  ],
+  "year": 2007,
+  "doi": "10.1107/s0021889807021206",
+  "source": "openalex",
+  "categories": [
+    "Phaser",
+    "Molecular replacement",
+    "Python (programming language)",
+    "Computer science",
+    "Algorithm",
+    "Software",
+    "Crystallography",
+    "Crystal structure",
+    "Optics",
+    "Physics",
+    "Chemistry",
+    "Programming language"
+  ],
+  "citation_count": 20483,
+  "open_access_pdf_url": "http://journals.iucr.org/j/issues/2007/04/00/he5368/he5368.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2163341755.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:49.811963+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2163341755",
+    "concepts": [
+      "Phaser",
+      "Molecular replacement",
+      "Python (programming language)",
+      "Computer science",
+      "Algorithm"
+    ],
+    "oa_status": "hybrid"
+  }
+}

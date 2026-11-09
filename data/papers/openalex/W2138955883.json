@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W2138955883",
+  "title": "Projected Effect of Dietary Salt Reductions on Future Cardiovascular Disease",
+  "abstract": "BACKGROUND: The U.S. diet is high in salt, with the majority coming from processed foods. Reducing dietary salt is a potentially important target for the improvement of public health. METHODS: We used the Coronary Heart Disease (CHD) Policy Model to quantify the benefits of potentially achievable, population-wide reductions in dietary salt of up to 3 g per day (1200 mg of sodium per day). We estimated the rates and costs of cardiovascular disease in subgroups defined by age, sex, and race; compared the effects of salt reduction with those of other interventions intended to reduce the risk of cardiovascular disease; and determined the cost-effectiveness of salt reduction as compared with the treatment of hypertension with medications. RESULTS: Reducing dietary salt by 3 g per day is projected to reduce the annual number of new cases of CHD by 60,000 to 120,000, stroke by 32,000 to 66,000, and myocardial infarction by 54,000 to 99,000 and to reduce the annual number of deaths from any cause by 44,000 to 92,000. All segments of the population would benefit, with blacks benefiting proportionately more, women benefiting particularly from stroke reduction, older adults from reductions in CHD events, and younger adults from lower mortality rates. The cardiovascular benefits of reduced salt intake are on par with the benefits of population-wide reductions in tobacco use, obesity, and cholesterol levels. A regulatory intervention designed to achieve a reduction in salt intake of 3 g per day would save 194,000 to 392,000 quality-adjusted life-years and $10 billion to $24 billion in health care costs annually. Such an intervention would be cost-saving even if only a modest reduction of 1 g per day were achieved gradually between 2010 and 2019 and would be more cost-effective than using medications to lower blood pressure in all persons with hypertension. CONCLUSIONS: Modest reductions in dietary salt could substantially reduce cardiovascular events and medical costs and should be a public health target.",
+  "authors": [
+    "Kirsten B. Bibbins-Domingo",
+    "Glenn Matthew Chertow",
+    "Pamela G. Coxson",
+    "Andrew Edward Moran",
+    "James M. Lightwood",
+    "Mark J. Pletcher",
+    "Lee Goldman"
+  ],
+  "year": 2010,
+  "doi": "10.1056/nejmoa0907355",
+  "source": "openalex",
+  "categories": [
+    "Dietary salt",
+    "Salt (chemistry)",
+    "Medicine",
+    "Disease",
+    "Environmental health",
+    "Food science",
+    "Public health",
+    "Internal medicine",
+    "Chemistry",
+    "Blood pressure",
+    "Pathology",
+    "Physical chemistry"
+  ],
+  "citation_count": 1264,
+  "open_access_pdf_url": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa0907355?articleTools=true",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2138955883.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:00.643329+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2138955883",
+    "concepts": [
+      "Dietary salt",
+      "Salt (chemistry)",
+      "Medicine",
+      "Disease",
+      "Environmental health"
+    ],
+    "oa_status": "bronze"
+  }
+}

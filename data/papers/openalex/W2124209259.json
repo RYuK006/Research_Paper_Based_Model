@@ -1,0 +1,60 @@
+{
+  "id": "openalex:W2124209259",
+  "title": "First-principles study of the interaction and charge transfer between graphene and metals",
+  "abstract": "Measuring the transport of electrons through a graphene sheet necessarily involves contacting it with metal electrodes. We study the adsorption of graphene on metal substrates using first-principles calculations at the level of density-functional theory. The bonding of graphene to Al, Ag, Cu, Au, and Pt (111) surfaces is so weak that its unique ``ultrarelativistic'' electronic structure is preserved. The interaction does, however, lead to a charge transfer that shifts the Fermi level by up to 0.5 eV with respect to the conical points. The crossover from $p$-type to $n$-type doping occurs for a metal with a work function $\\ensuremath{\\sim}5.4\\text{ }\\text{eV}$, a value much larger than the work function of free-standing graphene, 4.5 eV. We develop a simple analytical model that describes the Fermi-level shift in graphene in terms of the metal substrate work function. Graphene interacts with and binds more strongly to Co, Ni, Pd, and Ti. This chemisorption involves hybridization between graphene ${p}_{z}$ states and metal $d$ states that opens a band gap in graphene, and reduces its work function considerably. The supported graphene is effectively $n$-type doped because in a current-in-plane device geometry the work-function lowering will lead to electrons being transferred to the unsupported part of the graphene sheet.",
+  "authors": [
+    "Petr A. Khomyakov",
+    "Gianluca Giovannetti",
+    "P.C. Rusu",
+    "Geert Brocks",
+    "Jeroen van den Brink",
+    "Paul J. Kelly"
+  ],
+  "year": 2009,
+  "doi": "10.1103/physrevb.79.195425",
+  "source": "openalex",
+  "categories": [
+    "Graphene",
+    "Work function",
+    "Fermi level",
+    "Materials science",
+    "Density functional theory",
+    "Bilayer graphene",
+    "Doping",
+    "Graphene nanoribbons",
+    "Electron transfer",
+    "Condensed matter physics",
+    "Electron",
+    "Chemical physics",
+    "Substrate (aquarium)",
+    "Fermi energy",
+    "Band gap",
+    "Metal",
+    "Nanotechnology",
+    "Chemistry",
+    "Computational chemistry",
+    "Physics",
+    "Optoelectronics",
+    "Physical chemistry",
+    "Quantum mechanics",
+    "Oceanography",
+    "Metallurgy",
+    "Geology"
+  ],
+  "citation_count": 1241,
+  "open_access_pdf_url": "http://link.aps.org/pdf/10.1103/PhysRevB.79.195425",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2124209259.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:02.790721+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2124209259",
+    "concepts": [
+      "Graphene",
+      "Work function",
+      "Fermi level",
+      "Materials science",
+      "Density functional theory"
+    ],
+    "oa_status": "bronze"
+  }
+}

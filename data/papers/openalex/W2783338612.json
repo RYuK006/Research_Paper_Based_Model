@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2783338612",
+  "title": "Skin-inspired highly stretchable and conformable matrix networks for multifunctional sensing",
+  "abstract": "Mechanosensation electronics (or Electronic skin, e-skin) consists of mechanically flexible and stretchable sensor networks that can detect and quantify various stimuli to mimic the human somatosensory system, with the sensations of touch, heat/cold, and pain in skin through various sensory receptors and neural pathways. Here we present a skin-inspired highly stretchable and conformable matrix network (SCMN) that successfully expands the e-skin sensing functionality including but not limited to temperature, in-plane strain, humidity, light, magnetic field, pressure, and proximity. The actualized specific expandable sensor units integrated on a structured polyimide network, potentially in three-dimensional (3D) integration scheme, can also fulfill simultaneous multi-stimulus sensing and achieve an adjustable sensing range and large-area expandability. We further construct a personalized intelligent prosthesis and demonstrate its use in real-time spatial pressure mapping and temperature estimation. Looking forward, this SCMN has broader applications in humanoid robotics, new prosthetics, human-machine interfaces, and health-monitoring technologies.",
+  "authors": [
+    "Qilin Hua",
+    "Junlu Sun",
+    "Haitao Liu",
+    "Rongrong Bao",
+    "Ruomeng Yu",
+    "Junyi Zhai",
+    "Caofeng Pan",
+    "Zhong Lin Wang"
+  ],
+  "year": 2018,
+  "doi": "10.1038/s41467-017-02685-9",
+  "source": "openalex",
+  "categories": [
+    "Conformable matrix",
+    "Electronic skin",
+    "Mechanosensation",
+    "Computer science",
+    "Electronics",
+    "Convolutional neural network",
+    "Materials science",
+    "Artificial intelligence",
+    "Nanotechnology",
+    "Engineering",
+    "Electrical engineering",
+    "Ion channel",
+    "Composite material",
+    "Biochemistry",
+    "Chemistry",
+    "Receptor"
+  ],
+  "citation_count": 1421,
+  "open_access_pdf_url": "https://www.nature.com/articles/s41467-017-02685-9.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2783338612.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:50.621550+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2783338612",
+    "concepts": [
+      "Conformable matrix",
+      "Electronic skin",
+      "Mechanosensation",
+      "Computer science",
+      "Electronics"
+    ],
+    "oa_status": "gold"
+  }
+}

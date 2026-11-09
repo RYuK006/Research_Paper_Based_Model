@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W1918028620",
+  "title": "M1 and M2 macrophages derived from THP-1 cells differentially modulate the response of cancer cells to etoposide",
+  "abstract": "BACKGROUND: Tumor associated macrophages (TAMs) are present in high density in solid tumors. TAMs share many characteristics with alternatively activated macrophages, also called M2. They have been shown to favor tumor development and a role in chemoresistance has also been suggested. Here, we investigated the effects of M2 in comparison to M1 macrophages on cancer cell sensitivity to etoposide. METHODS: We set up a model of macrophage polarization, starting from THP-1 monocytes differentiated into macrophages using PMA (Phorbol 12-myristate 13-acetate). Once differentiated (M0 macrophages), they were incubated with IL-4 and IL-13 in order to obtain M2 polarized macrophages or with IFN-gamma and LPS for classical macrophage activation (M1). To mimic the communication between cancer cells and TAMs, M0, M1 or M2 macrophages and HepG2 or A549 cancer cells were co-cultured during respectively 16 (HepG2) or 24 (A549) hours, before etoposide exposure for 24 (HepG2) or 16 (A549) hours. After the incubation, the impact of etoposide on macrophage polarization was studied and cancer cell apoptosis was assessed by western-blot for cleaved caspase-3 and cleaved PARP-1 protein, caspase activity assay and FACS analysis of Annexin V and PI staining. RESULTS: mRNA and protein expression of M1 and M2 markers confirmed the polarization of THP-1-derived macrophages, which provide a new, easy and well-characterized model of polarized human macrophages. Etoposide-induced cancer cell apoptosis was markedly reduced in the presence of THP-1 M2 macrophages, while apoptosis was increased in cells co-cultured with M1 macrophages. On the other hand, etoposide did not influence M1 or M2 polarization. CONCLUSIONS: These results evidence for the first time a clear protective effect of M2 on the contrary to M1 macrophages on etoposide-induced cancer cell apoptosis.",
+  "authors": [
+    "Marie Genin",
+    "Francois Clement",
+    "Antoine Fattaccioli",
+    "Martine J. Raes",
+    "Carine Michiels"
+  ],
+  "year": 2015,
+  "doi": "10.1186/s12885-015-1546-9",
+  "source": "openalex",
+  "categories": [
+    "Cancer cell",
+    "Apoptosis",
+    "THP1 cell line",
+    "Cancer research",
+    "Annexin",
+    "Cell culture",
+    "Macrophage polarization",
+    "Molecular biology",
+    "Etoposide",
+    "Macrophage",
+    "Chemistry",
+    "Cell biology",
+    "Biology",
+    "Medicine",
+    "Cancer",
+    "In vitro",
+    "Biochemistry",
+    "Internal medicine",
+    "Chemotherapy",
+    "Genetics"
+  ],
+  "citation_count": 1116,
+  "open_access_pdf_url": "https://bmccancer.biomedcentral.com/counter/pdf/10.1186/s12885-015-1546-9",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1918028620.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:19.535536+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1918028620",
+    "concepts": [
+      "Cancer cell",
+      "Apoptosis",
+      "THP1 cell line",
+      "Cancer research",
+      "Annexin"
+    ],
+    "oa_status": "gold"
+  }
+}

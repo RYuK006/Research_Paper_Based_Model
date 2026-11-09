@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2955084980",
+  "title": "The Metabolic Signature of Macrophage Responses",
+  "abstract": "Macrophages are a heterogeneous population of immune cells playing several and diverse functions in homeostatic and immune responses. The broad spectrum of macrophage functions depends on both heterogeneity and plasticity of these cells, which are highly specialized in sensing the microenvironment and modify their properties accordingly. Although it is clear that macrophage phenotypes are difficult to categorize and should be seen as plastic and adaptable, they can be simplified into two extremes: a pro-inflammatory (M1) and an anti-inflammatory/pro-resolving (M2) profile. Based on this definition, M1 macrophages are able to start and sustain inflammatory responses, secreting pro-inflammatory cytokines, activating endothelial cells, and inducing the recruitment of other immune cells into the inflamed tissue; on the other hand, M2 macrophages promote the resolution of inflammation, phagocytose apoptotic cells, drive collagen deposition, coordinate tissue integrity, and release anti-inflammatory mediators. Dramatic switches in cell metabolism accompany these phenotypic and functional changes of macrophages. In particular, M1 macrophages rely mainly on glycolysis and present two breaks on the TCA cycle that result in accumulation of itaconate (a microbicide compound) and succinate. Excess of succinate leads to Hypoxia Inducible Factor 1α (HIF1α) stabilization that, in turn, activates the transcription of glycolytic genes, thus sustaining the glycolytic metabolism of M1 macrophages. On the contrary, M2 cells are more dependent on oxidative phosphorylation (OXPHOS), their TCA cycle is intact and provides the substrates for the complexes of the electron transport chain (ETC). Moreover, pro- and anti-inflammatory macrophages are characterized by specific pathways that regulate the metabolism of lipids and amino acids and affect their responses. All these metabolic adaptations are functional to support macrophage activities as well as to sustain their polarization in specific contexts. The aim of this review is to discuss recent findings linking macrophage functions and metabolism.",
+  "authors": [
+    "Antonella Viola",
+    "Fabio Munari",
+    "Ricardo Sánchez‐Rodríguez",
+    "Tommaso Scolaro",
+    "Alessandra Castegna"
+  ],
+  "year": 2019,
+  "doi": "10.3389/fimmu.2019.01462",
+  "source": "openalex",
+  "categories": [
+    "Cell biology",
+    "Macrophage",
+    "Immune system",
+    "Inflammation",
+    "Biology",
+    "Glycolysis",
+    "Population",
+    "Proinflammatory cytokine",
+    "Chemistry",
+    "Metabolism",
+    "Immunology",
+    "Biochemistry",
+    "In vitro",
+    "Medicine",
+    "Environmental health"
+  ],
+  "citation_count": 2069,
+  "open_access_pdf_url": "https://www.frontiersin.org/articles/10.3389/fimmu.2019.01462/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2955084980.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:15.506291+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2955084980",
+    "concepts": [
+      "Cell biology",
+      "Macrophage",
+      "Immune system",
+      "Inflammation",
+      "Biology"
+    ],
+    "oa_status": "gold"
+  }
+}

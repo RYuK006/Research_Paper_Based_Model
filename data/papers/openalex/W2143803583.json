@@ -1,0 +1,41 @@
+{
+  "id": "openalex:W2143803583",
+  "title": "CRYSTALS version 12: software for guided crystal structure analysis",
+  "abstract": "CRYSTALS version 12 contains a modern crystallographic user interface, and novel strategies that incorporate chemical knowledge and crystallographic guidance into the crystal structure analysis software.",
+  "authors": [
+    "Paul W. Betteridge",
+    "J. Robert Carruthers",
+    "Richard Ian Cooper",
+    "Keith Prout",
+    "David John Watkin"
+  ],
+  "year": 2003,
+  "doi": "10.1107/s0021889803021800",
+  "source": "openalex",
+  "categories": [
+    "Crystallography",
+    "Materials science",
+    "Crystal (programming language)",
+    "Software",
+    "Crystal structure",
+    "Computer science",
+    "Chemistry",
+    "Programming language"
+  ],
+  "citation_count": 2805,
+  "open_access_pdf_url": "https://ora.ox.ac.uk/objects/uuid:20bf3713-d879-46e2-bd40-a27cc9539e54/files/m0995529a42225431fc08e40e2e016053",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2143803583.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:01.920563+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2143803583",
+    "concepts": [
+      "Crystallography",
+      "Materials science",
+      "Crystal (programming language)",
+      "Software",
+      "Crystal structure"
+    ],
+    "oa_status": "green"
+  }
+}

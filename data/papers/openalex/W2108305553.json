@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2108305553",
+  "title": "Extrinsic Fluorescent Dyes as Tools for Protein Characterization",
+  "abstract": "Noncovalent, extrinsic fluorescent dyes are applied in various fields of protein analysis, e.g. to characterize folding intermediates, measure surface hydrophobicity, and detect aggregation or fibrillation. The main underlying mechanisms, which explain the fluorescence properties of many extrinsic dyes, are solvent relaxation processes and (twisted) intramolecular charge transfer reactions, which are affected by the environment and by interactions of the dyes with proteins. In recent time, the use of extrinsic fluorescent dyes such as ANS, Bis-ANS, Nile Red, Thioflavin T and others has increased, because of their versatility, sensitivity and suitability for high-throughput screening. The intention of this review is to give an overview of available extrinsic dyes, explain their spectral properties, and show illustrative examples of their various applications in protein characterization.",
+  "authors": [
+    "Andrea Hawe",
+    "Marc Sutter",
+    "Wim Jiskoot"
+  ],
+  "year": 2008,
+  "doi": "10.1007/s11095-007-9516-9",
+  "source": "openalex",
+  "categories": [
+    "Thioflavin",
+    "Fluorescence",
+    "Intramolecular force",
+    "Chemistry",
+    "Nile red",
+    "Protein folding",
+    "Förster resonance energy transfer",
+    "Characterization (materials science)",
+    "Protein aggregation",
+    "Biophysics",
+    "Folding (DSP implementation)",
+    "Nanotechnology",
+    "Organic chemistry",
+    "Materials science",
+    "Biochemistry",
+    "Biology",
+    "Medicine",
+    "Quantum mechanics",
+    "Physics",
+    "Pathology",
+    "Disease",
+    "Electrical engineering",
+    "Alzheimer's disease",
+    "Engineering"
+  ],
+  "citation_count": 1217,
+  "open_access_pdf_url": "https://link.springer.com/content/pdf/10.1007/s11095-007-9516-9.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2108305553.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:04.662564+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2108305553",
+    "concepts": [
+      "Thioflavin",
+      "Fluorescence",
+      "Intramolecular force",
+      "Chemistry",
+      "Nile red"
+    ],
+    "oa_status": "hybrid"
+  }
+}

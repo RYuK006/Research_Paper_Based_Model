@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2111281047",
+  "title": "Qualimap 2: advanced multi-sample quality control for high-throughput sequencing data",
+  "abstract": "MOTIVATION: Detection of random errors and systematic biases is a crucial step of a robust pipeline for processing high-throughput sequencing (HTS) data. Bioinformatics software tools capable of performing this task are available, either for general analysis of HTS data or targeted to a specific sequencing technology. However, most of the existing QC instruments only allow processing of one sample at a time. RESULTS: Qualimap 2 represents a next step in the QC analysis of HTS data. Along with comprehensive single-sample analysis of alignment data, it includes new modes that allow simultaneous processing and comparison of multiple samples. As with the first version, the new features are available via both graphical and command line interface. Additionally, it includes a large number of improvements proposed by the user community. AVAILABILITY AND IMPLEMENTATION: The implementation of the software along with documentation is freely available at http://www.qualimap.org. CONTACT: meyer@mpiib-berlin.mpg.de SUPPLEMENTARY INFORMATION: Supplementary data are available at Bioinformatics online.",
+  "authors": [
+    "Konstantin Okonechnikov",
+    "Ana Conesa",
+    "Fernando García-Alcalde"
+  ],
+  "year": 2015,
+  "doi": "10.1093/bioinformatics/btv566",
+  "source": "openalex",
+  "categories": [
+    "Computer science",
+    "Software",
+    "Pipeline (software)",
+    "Throughput",
+    "Data mining",
+    "Sample (material)",
+    "Documentation",
+    "Graphical user interface",
+    "Data processing",
+    "Task (project management)",
+    "Interface (matter)",
+    "Database",
+    "Operating system",
+    "Bubble",
+    "Maximum bubble pressure method",
+    "Wireless",
+    "Management",
+    "Economics",
+    "Chemistry",
+    "Chromatography"
+  ],
+  "citation_count": 2113,
+  "open_access_pdf_url": "https://academic.oup.com/bioinformatics/article-pdf/32/2/292/49016552/bioinformatics_32_2_292.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2111281047.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:15.403999+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2111281047",
+    "concepts": [
+      "Computer science",
+      "Software",
+      "Pipeline (software)",
+      "Throughput",
+      "Data mining"
+    ],
+    "oa_status": "hybrid"
+  }
+}

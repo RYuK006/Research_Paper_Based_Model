@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2118090983",
+  "title": "Method for the measurement of antioxidant activity in human fluids",
+  "abstract": "AIM: To develop a new, simple, and cheap method for estimating antioxidant activity in human fluids. METHODS: The assay measured the capacity of the biological fluids to inhibit the production of thiobarbituric acid reactive substances (TBARS) from sodium benzoate under the influence of the free oxygen radicals derived from Fenton's reaction. A solution of 1 mmol/litre uric acid was used as standard. RESULTS: The following mean (SD) antioxidative activities were found (as uric acid) in the various biological fluids: serum, 2.04 (0.20) mmol/litre; urine, 176.5 (25.6) micromol/litre; cerebrospinal fluid, 95.0 (26.9) micromol/litre; aqueous humour oculi, 61.25 (9.9) micromol/litre; saliva, 838.5 (48.2) micromol/litre; tears, 247.0 (17.0) micromol/litre; ascites fluid, 270.0 (63.3) micromol/litre; kidney cyst fluid, 387.1 (28.1) micromol/litre. Small samples of the biological material were needed for the analyses: 10 microl of serum and 50-100 microl of other body fluids. In the sera of 48 healthy individuals there was a significant positive correlation between values obtained with the Randox method (as a reference method) and the new method proposed here (correlation coefficient, 0.8728; mean difference between methods, <0.4%). CONCLUSIONS: This method is easy, rapid, reliable, and practical for the routine measurement of total antioxidant activity in serum and other human body fluids. Small samples of biological material are needed for the analyses and the results are comparable with the reference (Randox) method.",
+  "authors": [
+    "D Koraćević",
+    "G Koracevic",
+    "V Djordjevic",
+    "S Andrejevic",
+    "V Cosic"
+  ],
+  "year": 2001,
+  "doi": "10.1136/jcp.54.5.356",
+  "source": "openalex",
+  "categories": [
+    "Liter",
+    "Uric acid",
+    "Chemistry",
+    "TBARS",
+    "Chromatography",
+    "Thiobarbituric acid",
+    "Antioxidant",
+    "Biological fluids",
+    "Saliva",
+    "Sodium",
+    "Biochemistry",
+    "Endocrinology",
+    "Medicine",
+    "Lipid peroxidation",
+    "Organic chemistry"
+  ],
+  "citation_count": 1993,
+  "open_access_pdf_url": "https://jcp.bmj.com/content/jclinpath/54/5/356.full.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2118090983.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:17.729804+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2118090983",
+    "concepts": [
+      "Liter",
+      "Uric acid",
+      "Chemistry",
+      "TBARS",
+      "Chromatography"
+    ],
+    "oa_status": "bronze"
+  }
+}

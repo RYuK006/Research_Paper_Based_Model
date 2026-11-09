@@ -1,0 +1,57 @@
+{
+  "id": "openalex:W2002192155",
+  "title": "Nitric oxide circulates in mammalian plasma primarily as an S-nitroso adduct of serum albumin.",
+  "abstract": "We have recently shown that nitric oxide or authentic endothelium-derived relaxing factor generated in a biologic system reacts in the presence of specific protein thiols to form S-nitrosoprotein derivatives that have endothelium-derived relaxing factor-like properties. The single free cysteine of serum albumin, Cys-34, is particularly reactive toward nitrogen oxides (most likely nitrosonium ion) under physiologic conditions, primarily because of its anomalously low pK; given its abundance in plasma, where it accounts for approximately 0.5 mM thiol, we hypothesized that this plasma protein serves as a reservoir for nitric oxide produced by the endothelial cell. To test this hypothesis, we developed a methodology, which involves UV photolytic cleavage of the S--NO bond before reaction with ozone for chemiluminescence detection, with which to measure free nitric oxide, S-nitrosothiols, and S-nitrosoproteins in biologic systems. We found that human plasma contains approximately 7 microM S-nitrosothiols, of which 96% are S-nitrosoproteins, 82% of which is accounted for by S-nitroso-serum albumin. By contrast, plasma levels of free nitric oxide are only in the 3-nM range. In rabbits, plasma S-nitrosothiols are present at approximately 1 microM; 60 min after administration of NG-monomethyl-L-arginine at 50 mg/ml, a selective and potent inhibitor of nitric oxide synthetases, S-nitrosothiols decreased by approximately 40% (greater than 95% of which were accounted for by S-nitrosoproteins, and approximately 80% of which was S-nitroso-serum albumin); this decrease was accompanied by a concomitant increase in mean arterial blood pressure of 22%. These data suggest that naturally produced nitric oxide circulates in plasma primarily complexed in S-nitrosothiol species, principal among which is S-nitroso-serum albumin. This abundant, relatively long-lived adduct likely serves as a reservoir with which plasma levels of highly reactive, short-lived free nitric oxide can be regulated for the maintenance of vascular tone.",
+  "authors": [
+    "Jonathan S. Stamler",
+    "O Jaraki",
+    "J Osborne",
+    "Daniel I. Simon",
+    "John F. Keaney",
+    "Joseph A. Vita",
+    "David J. Singel",
+    "C. ROBERT VALERI",
+    "Joseph Loscalzo"
+  ],
+  "year": 1992,
+  "doi": "10.1073/pnas.89.16.7674",
+  "source": "openalex",
+  "categories": [
+    "Nitric oxide",
+    "Chemistry",
+    "Albumin",
+    "Endothelium-derived relaxing factor",
+    "Cysteine",
+    "Thiol",
+    "Adduct",
+    "Peroxynitrite",
+    "Serum albumin",
+    "Biochemistry",
+    "Endothelium",
+    "Nitroso",
+    "Arginine",
+    "Medicinal chemistry",
+    "Superoxide",
+    "Internal medicine",
+    "Organic chemistry",
+    "Enzyme",
+    "Amino acid",
+    "Medicine"
+  ],
+  "citation_count": 1237,
+  "open_access_pdf_url": "https://www.pnas.org/doi/pdf/10.1073/pnas.89.16.7674",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2002192155.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:02.829623+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2002192155",
+    "concepts": [
+      "Nitric oxide",
+      "Chemistry",
+      "Albumin",
+      "Endothelium-derived relaxing factor",
+      "Cysteine"
+    ],
+    "oa_status": "bronze"
+  }
+}

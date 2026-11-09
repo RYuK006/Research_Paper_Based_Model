@@ -1,0 +1,57 @@
+{
+  "id": "openalex:W2161623422",
+  "title": "ERβ: Identification and characterization of a novel human estrogen receptor",
+  "abstract": "A novel estrogen receptor (hereinafter referred to as ER beta) was cloned using degenerate PCR primers. A comparison of the amino acid sequence of ER beta with the \"classical' ER (ER alpha) shows a high degree of conservation of the DNA-binding domain (96%), and of the ligand-binding domain (58%). In contrast, the A/B domain, the hinge region and the F-domain are not conserved. Northern blot analysis revealed that ER beta is expressed in human thymus, spleen, ovary and testis. Transient transfections of an ER beta expression construct together with an ERE-based reporter construct in CHO cells clearly demonstrated transactivation of ER beta by 17 beta-estradiol. In addition, the ER alpha antagonist ICI-164384 is a potent antagonist for ER beta as well. Interestingly, the level of transactivation by 17 beta-estradiol is higher for ER alpha than for ER beta, which may reflect suboptimal conditions for ER beta at the level of the ligand, responsive element or cellular context.",
+  "authors": [
+    "Sietse Mosselman",
+    "Jan Polman",
+    "Rein Dijkema"
+  ],
+  "year": 1996,
+  "doi": "10.1016/0014-5793(96)00782-x",
+  "source": "openalex",
+  "categories": [
+    "Transactivation",
+    "BETA (programming language)",
+    "Molecular biology",
+    "Estrogen receptor",
+    "Estrogen receptor beta",
+    "Estrogen receptor alpha",
+    "Chinese hamster ovary cell",
+    "Hormone response element",
+    "Western blot",
+    "Biology",
+    "Alpha (finance)",
+    "Chemistry",
+    "Receptor",
+    "Endocrinology",
+    "Gene expression",
+    "Biochemistry",
+    "Gene",
+    "Genetics",
+    "Medicine",
+    "Nursing",
+    "Breast cancer",
+    "Programming language",
+    "Computer science",
+    "Construct validity",
+    "Cancer",
+    "Patient satisfaction"
+  ],
+  "citation_count": 2276,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1016/0014-5793%2896%2900782-X",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2161623422.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:08.844157+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2161623422",
+    "concepts": [
+      "Transactivation",
+      "BETA (programming language)",
+      "Molecular biology",
+      "Estrogen receptor",
+      "Estrogen receptor beta"
+    ],
+    "oa_status": "bronze"
+  }
+}

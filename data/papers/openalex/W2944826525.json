@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W2944826525",
+  "title": "Electrochemical CO 2 Reduction into Chemical Feedstocks: From Mechanistic Electrocatalysis Models to System Design",
+  "abstract": "Abstract The electrochemical reduction of CO 2 is a promising route to convert intermittent renewable energy to storable fuels and valuable chemical feedstocks. To scale this technology for industrial implementation, a deepened understanding of how the CO 2 reduction reaction (CO 2 RR) proceeds will help converge on optimal operating parameters. Here, a techno‐economic analysis is presented with the goal of identifying maximally profitable products and the performance targets that must be met to ensure economic viability—metrics that include current density, Faradaic efficiency, energy efficiency, and stability. The latest computational understanding of the CO 2 RR is discussed along with how this can contribute to the rational design of efficient, selective, and stable electrocatalysts. Catalyst materials are classified according to their selectivity for products of interest and their potential to achieve performance targets is assessed. The recent progress and opportunities in system design for CO 2 electroreduction are described. To conclude, the remaining technological challenges are highlighted, suggesting full‐cell energy efficiency as a guiding performance metric for industrial impact.",
+  "authors": [
+    "Md Golam Kibria",
+    "Jonathan P. Edwards",
+    "Christine M. Gabardo",
+    "Cao‐Thang Dinh",
+    "Ali Seifitokaldani",
+    "David A. Sinton",
+    "Edward Hartley Sargent"
+  ],
+  "year": 2019,
+  "doi": "10.1002/adma.201807166",
+  "source": "openalex",
+  "categories": [
+    "Electrocatalyst",
+    "Materials science",
+    "Electrochemistry",
+    "Reduction (mathematics)",
+    "Nanotechnology",
+    "Chemical reduction",
+    "Electrode",
+    "Physical chemistry",
+    "Chemistry",
+    "Mathematics",
+    "Geometry"
+  ],
+  "citation_count": 1358,
+  "open_access_pdf_url": "https://utoronto.scholaris.ca/bitstreams/2fac8654-67da-4b5b-a548-6f73207a0801/download",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2944826525.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:55.132881+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2944826525",
+    "concepts": [
+      "Electrocatalyst",
+      "Materials science",
+      "Electrochemistry",
+      "Reduction (mathematics)",
+      "Nanotechnology"
+    ],
+    "oa_status": "green"
+  }
+}

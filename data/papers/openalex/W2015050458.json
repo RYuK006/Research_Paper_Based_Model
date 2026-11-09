@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2015050458",
+  "title": "Sox9 Modulates Proliferation and Expression of Osteogenic Markers of Adipose-Derived Stem Cells (ASC)",
+  "abstract": "BACKGROUND: Mesenchymal stem cells (MSC) are promising tools for tissue-engineering and musculoskeletal regeneration. They reside within various tissues, like adipose tissue, periosteum, synovia, muscle, dermis, blood and bone marrow, latter being the most common tissue used for MSC isolation. A promising alternative source for MSC is adipose tissue due to better availability and higher yield of MSC in comparison to bone marrow. A drawback is the yet fragmentary knowledge of adipose-derived stem cell (ASC) physiology in order to make them a safe tool for in vivo application. METHODS/RESULTS: Here, we identified Sox9 as a highly expressed and crucial transcription factor in undifferentiated rat ASC (rASC). In comparison to rat bone marrow-derived stem cells (rBMSC), mRNA and protein levels of Sox9 were significantly higher in rASC. To study the role of Sox9 in detail, we silenced Sox9 with shRNA in rASC and examined proliferation, apoptosis and the expression of osteogenic differentiation markers. Our results clearly point to a difference in the expression profile of osteogenic marker genes between undifferentiated rASC and rBMSC in early passages. Sox9 silencing induced the expression of osteocalcin, Vegfα and Mmp13, and decreased rASC proliferation accompanied with an induction of p21 and cyclin D1 expression and delayed S-phase entry. CONCLUSIONS: We suggest a pro-proliferative role for Sox9 in undifferentiated rASC which may explain the higher proliferation rate of rASC compared to rBMSC. Moreover, we propose an osteogenic differentiation delaying role of Sox9 in rASC which suggests that Sox9 expression is needed to maintain rASC in an undifferentiated, proliferative state.",
+  "authors": [
+    "Sabine Stöckl",
+    "Claudia Göttl",
+    "Joachim K. Grifka",
+    "Susanne Grässel"
+  ],
+  "year": 2013,
+  "doi": "10.1159/000350089",
+  "source": "openalex",
+  "categories": [
+    "Integrin",
+    "Cell biology",
+    "Extracellular matrix",
+    "Laminin",
+    "Cell adhesion",
+    "Collagen receptor",
+    "Cell adhesion molecule",
+    "Chemistry",
+    "Biology",
+    "Disintegrin",
+    "Fibronectin",
+    "Receptor",
+    "Cell",
+    "Biochemistry",
+    "Matrix metalloproteinase",
+    "Metalloproteinase"
+  ],
+  "citation_count": 4670,
+  "open_access_pdf_url": "https://www.karger.com/Article/Pdf/350089",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2015050458.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:52.312306+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2015050458",
+    "concepts": [
+      "Integrin",
+      "Cell biology",
+      "Extracellular matrix",
+      "Laminin",
+      "Cell adhesion"
+    ],
+    "oa_status": "gold"
+  }
+}

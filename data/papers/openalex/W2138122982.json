@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2138122982",
+  "title": "Accelerated Profile HMM Searches",
+  "abstract": "Profile hidden Markov models (profile HMMs) and probabilistic inference methods have made important contributions to the theory of sequence database homology search. However, practical use of profile HMM methods has been hindered by the computational expense of existing software implementations. Here I describe an acceleration heuristic for profile HMMs, the \"multiple segment Viterbi\" (MSV) algorithm. The MSV algorithm computes an optimal sum of multiple ungapped local alignment segments using a striped vector-parallel approach previously described for fast Smith/Waterman alignment. MSV scores follow the same statistical distribution as gapped optimal local alignment scores, allowing rapid evaluation of significance of an MSV score and thus facilitating its use as a heuristic filter. I also describe a 20-fold acceleration of the standard profile HMM Forward/Backward algorithms using a method I call \"sparse rescaling\". These methods are assembled in a pipeline in which high-scoring MSV hits are passed on for reanalysis with the full HMM Forward/Backward algorithm. This accelerated pipeline is implemented in the freely available HMMER3 software package. Performance benchmarks show that the use of the heuristic MSV filter sacrifices negligible sensitivity compared to unaccelerated profile HMM searches. HMMER3 is substantially more sensitive and 100- to 1000-fold faster than HMMER2. HMMER3 is now about as fast as BLAST for protein searches.",
+  "authors": [
+    "Sean R. Eddy"
+  ],
+  "year": 2011,
+  "doi": "10.1371/journal.pcbi.1002195",
+  "source": "openalex",
+  "categories": [
+    "Hidden Markov model",
+    "Viterbi algorithm",
+    "Computer science",
+    "Pipeline (software)",
+    "Smith–Waterman algorithm",
+    "Pattern recognition (psychology)",
+    "Algorithm",
+    "Filter (signal processing)",
+    "Heuristic",
+    "Acceleration",
+    "Artificial intelligence",
+    "Sequence alignment",
+    "Classical mechanics",
+    "Programming language",
+    "Peptide sequence",
+    "Gene",
+    "Biochemistry",
+    "Chemistry",
+    "Physics",
+    "Computer vision"
+  ],
+  "citation_count": 6958,
+  "open_access_pdf_url": "https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1002195&type=printable",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2138122982.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:49.970923+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2138122982",
+    "concepts": [
+      "Hidden Markov model",
+      "Viterbi algorithm",
+      "Computer science",
+      "Pipeline (software)",
+      "Smith–Waterman algorithm"
+    ],
+    "oa_status": "gold"
+  }
+}

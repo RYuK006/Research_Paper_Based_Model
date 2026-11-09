@@ -1,0 +1,61 @@
+{
+  "id": "openalex:W2065236536",
+  "title": "Cell-Produced α-Synuclein Is Secreted in a Calcium-Dependent Manner by Exosomes and Impacts Neuronal Survival",
+  "abstract": "alpha-Synuclein is central in Parkinson's disease pathogenesis. Although initially alpha-synuclein was considered a purely intracellular protein, recent data suggest that it can be detected in the plasma and CSF of humans and in the culture media of neuronal cells. To address a role of secreted alpha-synuclein in neuronal homeostasis, we have generated wild-type alpha-synuclein and beta-galactosidase inducible SH-SY5Y cells. Soluble oligomeric and monomeric species of alpha-synuclein are readily detected in the conditioned media (CM) of these cells at concentrations similar to those observed in human CSF. We have found that, in this model, alpha-synuclein is secreted by externalized vesicles in a calcium-dependent manner. Electron microscopy and liquid chromatography-mass spectrometry proteomic analysis demonstrate that these vesicles have the characteristic hallmarks of exosomes, secreted intraluminar vesicles of multivesicular bodies. Application of CM containing secreted alpha-synuclein causes cell death of recipient neuronal cells, which can be reversed after alpha-synuclein immunodepletion from the CM. High- and low-molecular-weight alpha-synuclein species, isolated from this CM, significantly decrease cell viability. Importantly, treatment of the CM with oligomer-interfering compounds before application rescues the recipient neuronal cells from the observed toxicity. Our results show for the first time that cell-produced alpha-synuclein is secreted via an exosomal, calcium-dependent mechanism and suggest that alpha-synuclein secretion serves to amplify and propagate Parkinson's disease-related pathology.",
+  "authors": [
+    "Evangelia Emmanouilidou",
+    "Katerina Melachroinou",
+    "Theodoros I. Roumeliotis",
+    "Spiros D. Garbis",
+    "Maria P. Ntzouni",
+    "Lukas H. Margaritis",
+    "Leonidas Stefanis",
+    "Kostas Vekrellis"
+  ],
+  "year": 2010,
+  "doi": "10.1523/jneurosci.5699-09.2010",
+  "source": "openalex",
+  "categories": [
+    "Alpha-synuclein",
+    "Microvesicles",
+    "Cell biology",
+    "Secretion",
+    "Calcium in biology",
+    "Biology",
+    "Cell culture",
+    "Intracellular",
+    "Vesicle",
+    "Secretory Vesicle",
+    "Calcium",
+    "Cell type",
+    "Cell",
+    "Chemistry",
+    "Parkinson's disease",
+    "Biochemistry",
+    "Pathology",
+    "Disease",
+    "microRNA",
+    "Medicine",
+    "Exocytosis",
+    "Genetics",
+    "Gene",
+    "Membrane",
+    "Organic chemistry"
+  ],
+  "citation_count": 1151,
+  "open_access_pdf_url": "https://www.jneurosci.org/content/jneuro/30/20/6838.full.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2065236536.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:14.586958+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2065236536",
+    "concepts": [
+      "Alpha-synuclein",
+      "Microvesicles",
+      "Cell biology",
+      "Secretion",
+      "Calcium in biology"
+    ],
+    "oa_status": "hybrid"
+  }
+}

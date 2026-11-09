@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W2074574519",
+  "title": "Hydrodynamics of soft active matter",
+  "abstract": "This review summarizes theoretical progress in the field of active matter, placing it in the context of recent experiments. This approach offers a unified framework for the mechanical and statistical properties of living matter: biofilaments and molecular motors in vitro or in vivo, collections of motile microorganisms, animal flocks, and chemical or mechanical imitations. A major goal of this review is to integrate several approaches proposed in the literature, from semimicroscopic to phenomenological. In particular, first considered are ``dry'' systems, defined as those where momentum is not conserved due to friction with a substrate or an embedding porous medium. The differences and similarities between two types of orientationally ordered states, the nematic and the polar, are clarified. Next, the active hydrodynamics of suspensions or ``wet'' systems is discussed and the relation with and difference from the dry case, as well as various large-scale instabilities of these nonequilibrium states of matter, are highlighted. Further highlighted are various large-scale instabilities of these nonequilibrium states of matter. Various semimicroscopic derivations of the continuum theory are discussed and connected, highlighting the unifying and generic nature of the continuum model. Throughout the review, the experimental relevance of these theories for describing bacterial swarms and suspensions, the cytoskeleton of living cells, and vibrated granular material is discussed. Promising extensions toward greater realism in specific contexts from cell biology to animal behavior are suggested, and remarks are given on some exotic active-matter analogs. Last, the outlook for a quantitative understanding of active matter, through the interplay of detailed theory with controlled experiments on simplified systems, with living or artificial constituents, is summarized.",
+  "authors": [
+    "Maria Cristina Marchetti",
+    "Jean‐François Joanny",
+    "Sriraṁ Ramaswamy",
+    "Tanniemola B. Liverpool",
+    "Jacques Prost",
+    "Madan Rao",
+    "Robert Simha"
+  ],
+  "year": 2013,
+  "doi": "10.1103/revmodphys.85.1143",
+  "source": "openalex",
+  "categories": [
+    "Active matter",
+    "Physics",
+    "Soft matter",
+    "Non-equilibrium thermodynamics",
+    "Context (archaeology)",
+    "Living matter",
+    "Continuum hypothesis",
+    "Statistical physics",
+    "Theoretical physics",
+    "Nanotechnology",
+    "Classical mechanics",
+    "Living systems",
+    "Ecology",
+    "Quantum mechanics",
+    "Biology",
+    "Chemistry",
+    "Materials science",
+    "Cell biology",
+    "Paleontology",
+    "Colloid",
+    "Physical chemistry"
+  ],
+  "citation_count": 4220,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1207.2929",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2074574519.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:54.006301+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2074574519",
+    "concepts": [
+      "Active matter",
+      "Physics",
+      "Soft matter",
+      "Non-equilibrium thermodynamics",
+      "Context (archaeology)"
+    ],
+    "oa_status": "green"
+  }
+}

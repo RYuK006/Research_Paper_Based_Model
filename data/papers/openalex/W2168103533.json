@@ -1,0 +1,60 @@
+{
+  "id": "openalex:W2168103533",
+  "title": "Taverna: a tool for the composition and enactment of bioinformatics workflows",
+  "abstract": "MOTIVATION: In silico experiments in bioinformatics involve the co-ordinated use of computational tools and information repositories. A growing number of these resources are being made available with programmatic access in the form of Web services. Bioinformatics scientists will need to orchestrate these Web services in workflows as part of their analyses. RESULTS: The Taverna project has developed a tool for the composition and enactment of bioinformatics workflows for the life sciences community. The tool includes a workbench application which provides a graphical user interface for the composition of workflows. These workflows are written in a new language called the simple conceptual unified flow language (Scufl), where by each step within a workflow represents one atomic task. Two examples are used to illustrate the ease by which in silico experiments can be represented as Scufl workflows using the workbench application.",
+  "authors": [
+    "Tom Oinn",
+    "Matthew Addis",
+    "Justin Ferris",
+    "Darren J. Marvin",
+    "Martin Senger",
+    "R. Mark Greenwood",
+    "Tim J. Carver",
+    "Kevin Glover",
+    "Matthew Pocock",
+    "Anil Wipat",
+    "Peter Li"
+  ],
+  "year": 2004,
+  "doi": "10.1093/bioinformatics/bth361",
+  "source": "openalex",
+  "categories": [
+    "Workflow",
+    "Workbench",
+    "Computer science",
+    "World Wide Web",
+    "Graphical user interface",
+    "In silico",
+    "Workflow management system",
+    "Web service",
+    "Task (project management)",
+    "User interface",
+    "Software engineering",
+    "Data science",
+    "Database",
+    "Programming language",
+    "Visualization",
+    "Data mining",
+    "Chemistry",
+    "Systems engineering",
+    "Engineering",
+    "Biochemistry",
+    "Gene"
+  ],
+  "citation_count": 1630,
+  "open_access_pdf_url": "https://academic.oup.com/bioinformatics/article-pdf/20/17/3045/48906431/bioinformatics_20_17_3045.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2168103533.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:38.087342+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2168103533",
+    "concepts": [
+      "Workflow",
+      "Workbench",
+      "Computer science",
+      "World Wide Web",
+      "Graphical user interface"
+    ],
+    "oa_status": "bronze"
+  }
+}

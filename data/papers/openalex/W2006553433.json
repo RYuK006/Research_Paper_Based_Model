@@ -1,0 +1,57 @@
+{
+  "id": "openalex:W2006553433",
+  "title": "Formation of nickel cobalt sulfide ball-in-ball hollow spheres with enhanced electrochemical pseudocapacitive properties",
+  "abstract": "While the synthesis of hollow structures of transition metal oxides is well established, it is extremely challenging to fabricate complex hollow structures for mixed transition metal sulfides. Here we report an anion exchange method to synthesize a complex ternary metal sulfides hollow structure, namely nickel cobalt sulfide ball-in-ball hollow spheres. Uniform nickel cobalt glycerate solid spheres are first synthesized as the precursor and subsequently chemically transformed into nickel cobalt sulfide ball-in-ball hollow spheres. When used as electrode materials for electrochemical capacitors, these nickel cobalt sulfide hollow spheres deliver a specific capacitance of 1,036 F g−1 at a current density of 1.0 A g−1. An asymmetric supercapacitor based on these ball-in-ball structures shows long-term cycling performance with a high energy density of 42.3 Wh kg−1 at a power density of 476 W kg−1, suggesting their potential application in high-performance electrochemical capacitors. While the synthesis of hollow structures of transition metal oxides is well established, the related sulfide chemistry remains challenging. Here, the authors report the synthesis of nickel cobalt sulfide ball-in-ball hollow spheres, via anion exchange, and evaluate their pseudocapacitive behaviour.",
+  "authors": [
+    "Laifa Shen",
+    "Le Yu",
+    "Hao Bin Wu",
+    "Xin‐Yao Yu",
+    "Xiaogang Zhang",
+    "Xiong Wen Lou"
+  ],
+  "year": 2015,
+  "doi": "10.1038/ncomms7694",
+  "source": "openalex",
+  "categories": [
+    "Cobalt sulfide",
+    "Cobalt",
+    "Nickel",
+    "Materials science",
+    "Sulfide",
+    "Supercapacitor",
+    "Electrochemistry",
+    "Transition metal",
+    "Chemical engineering",
+    "SPHERES",
+    "Metal",
+    "Ball mill",
+    "Electrode",
+    "Nanotechnology",
+    "Composite material",
+    "Metallurgy",
+    "Chemistry",
+    "Catalysis",
+    "Physical chemistry",
+    "Astronomy",
+    "Physics",
+    "Biochemistry",
+    "Engineering"
+  ],
+  "citation_count": 1270,
+  "open_access_pdf_url": "https://www.nature.com/articles/ncomms7694.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2006553433.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:00.557234+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2006553433",
+    "concepts": [
+      "Cobalt sulfide",
+      "Cobalt",
+      "Nickel",
+      "Materials science",
+      "Sulfide"
+    ],
+    "oa_status": "gold"
+  }
+}

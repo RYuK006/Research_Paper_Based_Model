@@ -1,0 +1,63 @@
+{
+  "id": "openalex:W3139510216",
+  "title": "Lithium ion battery degradation: what you need to know",
+  "abstract": "The expansion of lithium-ion batteries from consumer electronics to larger-scale transport and energy storage applications has made understanding the many mechanisms responsible for battery degradation increasingly important. The literature in this complex topic has grown considerably; this perspective aims to distil current knowledge into a succinct form, as a reference and a guide to understanding battery degradation. Unlike other reviews, this work emphasises the coupling between the different mechanisms and the different physical and chemical approaches used to trigger, identify and monitor various mechanisms, as well as the various computational models that attempt to simulate these interactions. Degradation is separated into three levels: the actual mechanisms themselves, the observable consequences at cell level called modes and the operational effects such as capacity or power fade. Five principal and thirteen secondary mechanisms were found that are generally considered to be the cause of degradation during normal operation, which all give rise to five observable modes. A flowchart illustrates the different feedback loops that couple the various forms of degradation, whilst a table is presented to highlight the experimental conditions that are most likely to trigger specific degradation mechanisms. Together, they provide a powerful guide to designing experiments or models for investigating battery degradation.",
+  "authors": [
+    "Jacqueline Sophie Edge",
+    "Simon E. J. O’Kane",
+    "Ryan Prosser",
+    "Niall Kirkaldy",
+    "Anisha N. Patel",
+    "Alastair Hales",
+    "Abir Ghosh",
+    "Weilong Ai",
+    "Jingyi Chen",
+    "Yang Jiang",
+    "Li Shen",
+    "Mei-Chin Pang",
+    "Laura Bravo Diaz",
+    "Anna Tomaszewska",
+    "Mohamed Waseem Marzook",
+    "Karthik Radhakrishnan",
+    "Huizhi Wang",
+    "Yatish Patel",
+    "Billy Wu",
+    "Gregory James Offer"
+  ],
+  "year": 2021,
+  "doi": "10.1039/d1cp00359c",
+  "source": "openalex",
+  "categories": [
+    "Degradation (telecommunications)",
+    "Battery (electricity)",
+    "Ion",
+    "Lithium (medication)",
+    "Lithium-ion battery",
+    "Chemistry",
+    "Materials science",
+    "Computer science",
+    "Psychology",
+    "Physics",
+    "Organic chemistry",
+    "Thermodynamics",
+    "Telecommunications",
+    "Power (physics)",
+    "Psychiatry"
+  ],
+  "citation_count": 1303,
+  "open_access_pdf_url": "https://pubs.rsc.org/en/content/articlepdf/2021/cp/d1cp00359c",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3139510216.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:57.811988+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3139510216",
+    "concepts": [
+      "Degradation (telecommunications)",
+      "Battery (electricity)",
+      "Ion",
+      "Lithium (medication)",
+      "Lithium-ion battery"
+    ],
+    "oa_status": "hybrid"
+  }
+}

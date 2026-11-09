@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W2103977502",
+  "title": "The Collection 6 MODIS aerosol products over land and ocean",
+  "abstract": "Abstract. The twin Moderate Imaging resolution Spectroradiometer (MODIS) sensors have been flying on Terra since 2000 and Aqua since 2002, creating an incredible dataset of global Earth observations. Here, we introduce the Collection 6 (C6) algorithm to retrieve aerosol optical depth (AOD) and aerosol size parameters from MODIS-observed spectral reflectance. While not a major overhaul from the previous Collection 5 (C5) version, there are enough changes that there is significant impact on the products and their interpretation. The C6 algorithm is comprised of three sub-algorithms for retrieving aerosol properties (1) over ocean (dark in visible and near-IR wavelengths), (2) over vegetated/dark-soiled land (dark in the visible) and (3) over desert/arid land (bright in the visible). Here, we focus on the changes to both \"dark target\" algorithms (#1 and #2; DT-ocean and DT-land). Affecting both DT algorithms, we have updated assumptions for central wavelengths, Rayleigh optical depths and gas (H2O, O3, CO2, etc.) absorption corrections, and relaxed the solar zenith angle limit (up to ≤ 84°) to increase pole-ward coverage. For DT-land, we have updated the cloud mask to allow heavy smoke retrievals, fine-tuned the assignments for aerosol type as function of season/location, corrected bugs in the Quality Assurance (QA) logic, and added diagnostic parameters such topographic altitude. For DT-ocean, improvements include a revised cloud mask for thin-cirrus detection, inclusion of wind speed dependence in the retrieval, updates to logic of QA Confidence flag (QAC) assignment, and additions of important diagnostic information. All together, the changes to the DT algorithms result in reduced global AOD (by 0.02) over ocean and increased AOD (by 0.01) over land, along with some changes in spatial coverage. Preliminary validation shows that compared to surface-based sunphotometer data, the C6 DT-products should compare at least as well as those from C5. However, at the same time as we have introduced algorithm changes, we have also been accounting for such \"upstream\" changes including new instrument calibration, revised land/sea masking and changed cloud masking that has resulted in changes to the coverage and global statistics of the retrieved AOD. To satisfy users' desires for more complete global aerosol coverage, C6 will include a merged DT/DB product over semi-arid land surfaces. In addition to changes to aerosol retrieval, C6 will include diagnostic information about clouds in the aerosol field, such as an aerosol \"cloud mask\" at 500 m resolution, and products that describe the \"distance to the nearest cloud\" from clear pixels. Finally, responding to the needs of the air quality community, in addition to the standard 10 km product, C6 will include a global (DT-land and DT-ocean) aerosol product at 3 km resolution.",
+  "authors": [
+    "R. C. Levy",
+    "Shana Mattoo",
+    "Leigh A. Munchak",
+    "Lorraine A. Remer",
+    "A. M. Sayer",
+    "Falguni Patadia",
+    "Nai-Yung Christina Hsu"
+  ],
+  "year": 2013,
+  "doi": "10.5194/amt-6-2989-2013",
+  "source": "openalex",
+  "categories": [
+    "Aerosol",
+    "Remote sensing",
+    "Environmental science",
+    "Moderate-resolution imaging spectroradiometer",
+    "Spectroradiometer",
+    "Cirrus",
+    "Deep blue",
+    "Meteorology",
+    "Solar zenith angle",
+    "Zenith",
+    "Atmospheric correction",
+    "Optical depth",
+    "Spectral bands",
+    "Satellite",
+    "Reflectivity",
+    "Geology",
+    "Physics",
+    "Optics",
+    "Photochemistry",
+    "Chemistry",
+    "Astronomy"
+  ],
+  "citation_count": 2428,
+  "open_access_pdf_url": "https://amt.copernicus.org/articles/6/2989/2013/amt-6-2989-2013.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2103977502.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:08.696382+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2103977502",
+    "concepts": [
+      "Aerosol",
+      "Remote sensing",
+      "Environmental science",
+      "Moderate-resolution imaging spectroradiometer",
+      "Spectroradiometer"
+    ],
+    "oa_status": "gold"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W4214876469",
+  "title": "decoupleR: ensemble of computational methods to infer biological activities from omics data",
+  "abstract": "Summary: Many methods allow us to extract biological activities from omics data using information from prior knowledge resources, reducing the dimensionality for increased statistical power and better interpretability. Here, we present decoupleR, a Bioconductor and Python package containing computational methods to extract these activities within a unified framework. decoupleR allows us to flexibly run any method with a given resource, including methods that leverage mode of regulation and weights of interactions, which are not present in other frameworks. Moreover, it leverages OmniPath, a meta-resource comprising over 100 databases of prior knowledge. Using decoupleR, we evaluated the performance of methods on transcriptomic and phospho-proteomic perturbation experiments. Our findings suggest that simple linear models and the consensus score across top methods perform better than other methods at predicting perturbed regulators. Availability and implementation: decoupleR's open-source code is available in Bioconductor (https://www.bioconductor.org/packages/release/bioc/html/decoupleR.html) for R and in GitHub (https://github.com/saezlab/decoupler-py) for Python. The code to reproduce the results is in GitHub (https://github.com/saezlab/decoupleR_manuscript) and the data in Zenodo (https://zenodo.org/record/5645208). Supplementary information: online.",
+  "authors": [
+    "Pau Badia-i-Mompel",
+    "Jesús Vélez Santiago",
+    "Jana M. Braunger",
+    "Celina Geiß",
+    "Daniel Dimitrov",
+    "Sophia Müller‐Dott",
+    "Petr Tauš",
+    "Aurélien J. F. Dugourd",
+    "Christian H. Holland",
+    "Ricardo O. Ramirez Flores",
+    "Julio Sáez-Rodríguez"
+  ],
+  "year": 2022,
+  "doi": "10.1093/bioadv/vbac016",
+  "source": "openalex",
+  "categories": [
+    "Bioconductor",
+    "Computer science",
+    "Python (programming language)",
+    "Interpretability",
+    "Leverage (statistics)",
+    "Source code",
+    "Data mining",
+    "Open source",
+    "R package",
+    "Machine learning",
+    "Software",
+    "Programming language",
+    "Gene",
+    "Biochemistry",
+    "Chemistry"
+  ],
+  "citation_count": 1121,
+  "open_access_pdf_url": "https://academic.oup.com/bioinformaticsadvances/article-pdf/2/1/vbac016/42951437/vbac016.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W4214876469.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:17.080993+00:00",
+  "raw_metadata": {
+    "openalex_id": "W4214876469",
+    "concepts": [
+      "Bioconductor",
+      "Computer science",
+      "Python (programming language)",
+      "Interpretability",
+      "Leverage (statistics)"
+    ],
+    "oa_status": "gold"
+  }
+}

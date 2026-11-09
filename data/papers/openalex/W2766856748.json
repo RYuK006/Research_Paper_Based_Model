@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W2766856748",
+  "title": "Crystal Graph Convolutional Neural Networks for an Accurate and Interpretable Prediction of Material Properties",
+  "abstract": "The use of machine learning methods for accelerating the design of crystalline materials usually requires manually constructed feature vectors or complex transformation of atom coordinates to input the crystal structure, which either constrains the model to certain crystal types or makes it difficult to provide chemical insights. Here, we develop a crystal graph convolutional neural networks framework to directly learn material properties from the connection of atoms in the crystal, providing a universal and interpretable representation of crystalline materials. Our method provides a highly accurate prediction of density functional theory calculated properties for eight different properties of crystals with various structure types and compositions after being trained with 10^{4} data points. Further, our framework is interpretable because one can extract the contributions from local chemical environments to global properties. Using an example of perovskites, we show how this information can be utilized to discover empirical rules for materials design.",
+  "authors": [
+    "Tian Xie",
+    "Jeffrey C. Grossman"
+  ],
+  "year": 2018,
+  "doi": "10.1103/physrevlett.120.145301",
+  "source": "openalex",
+  "categories": [
+    "Computer science",
+    "Convolutional neural network",
+    "Crystal (programming language)",
+    "Representation (politics)",
+    "Graph",
+    "Crystal structure",
+    "Graph rewriting",
+    "Artificial neural network",
+    "Crystal structure prediction",
+    "Atom (system on chip)",
+    "Transformation (genetics)",
+    "Artificial intelligence",
+    "Theoretical computer science",
+    "Algorithm",
+    "Chemistry",
+    "Crystallography",
+    "Gene",
+    "Biochemistry",
+    "Politics",
+    "Embedded system",
+    "Programming language",
+    "Political science",
+    "Law"
+  ],
+  "citation_count": 2985,
+  "open_access_pdf_url": "http://link.aps.org/pdf/10.1103/PhysRevLett.120.145301",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2766856748.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:01.810774+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2766856748",
+    "concepts": [
+      "Computer science",
+      "Convolutional neural network",
+      "Crystal (programming language)",
+      "Representation (politics)",
+      "Graph"
+    ],
+    "oa_status": "bronze"
+  }
+}

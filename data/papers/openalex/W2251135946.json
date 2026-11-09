@@ -1,0 +1,45 @@
+{
+  "id": "openalex:W2251135946",
+  "title": "Distant Supervision for Relation Extraction via Piecewise Convolutional Neural Networks",
+  "abstract": "Two problems arise when using distant supervision for relation extraction.First, in this method, an already existing knowledge base is heuristically aligned to texts, and the alignment results are treated as labeled data.However, the heuristic alignment can fail, resulting in wrong label problem.In addition, in previous approaches, statistical models have typically been applied to ad hoc features.The noise that originates from the feature extraction process can cause poor performance.In this paper, we propose a novel model dubbed the Piecewise Convolutional Neural Networks (PCNNs) with multi-instance learning to address these two problems.To solve the first problem, distant supervised relation extraction is treated as a multi-instance problem in which the uncertainty of instance labels is taken into account.To address the latter problem, we avoid feature engineering and instead adopt convolutional architecture with piecewise max pooling to automatically learn relevant features.Experiments show that our method is effective and outperforms several competitive baseline methods.",
+  "authors": [
+    "Daojian Zeng",
+    "Kang Liu",
+    "Yubo Chen",
+    "Jun Zhao"
+  ],
+  "year": 2015,
+  "doi": "10.18653/v1/d15-1203",
+  "source": "openalex",
+  "categories": [
+    "Convolutional neural network",
+    "Computer science",
+    "Piecewise",
+    "Relation (database)",
+    "Relationship extraction",
+    "Extraction (chemistry)",
+    "Artificial intelligence",
+    "Pattern recognition (psychology)",
+    "Data mining",
+    "Mathematics",
+    "Chemistry",
+    "Chromatography",
+    "Mathematical analysis"
+  ],
+  "citation_count": 1184,
+  "open_access_pdf_url": "https://www.aclweb.org/anthology/D15-1203.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2251135946.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:12.008539+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2251135946",
+    "concepts": [
+      "Convolutional neural network",
+      "Computer science",
+      "Piecewise",
+      "Relation (database)",
+      "Relationship extraction"
+    ],
+    "oa_status": "bronze"
+  }
+}

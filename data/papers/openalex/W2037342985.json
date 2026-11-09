@@ -1,0 +1,60 @@
+{
+  "id": "openalex:W2037342985",
+  "title": "Matrix architecture defines the preferential localization and migration of T cells into the stroma of human lung tumors",
+  "abstract": "Appropriate localization and migration of T cells is a prerequisite for antitumor immune surveillance. Studies using fixed tumor samples from human patients have shown that T cells accumulate more efficiently in the stroma than in tumor islets, but the mechanisms by which this occurs are unknown. By combining immunostaining and real-time imaging in viable slices of human lung tumors, we revealed that the density and the orientation of the stromal extracellular matrix likely play key roles in controlling the migration of T cells. Active T cell motility, dependent on chemokines but not on β1 or β2 integrins, was observed in loose fibronectin and collagen regions, whereas T cells migrated poorly in dense matrix areas. Aligned fibers in perivascular regions and around tumor epithelial cell regions dictated the migratory trajectory of T cells and restricted them from entering tumor islets. Consistently, matrix reduction with collagenase increased the ability of T cells to contact cancer cells. Thus, the stromal extracellular matrix influences antitumor immunity by controlling the positioning and migration of T cells. Understanding the mechanisms by which this collagen network is generated has the potential to aid in the development of new therapeutics.",
+  "authors": [
+    "Hélène Salmon",
+    "Katarzyna Franciszkiewicz",
+    "Diane Damotte",
+    "Marie‐Caroline Dieu‐Nosjean",
+    "Pierre Validire",
+    "Alain Trautmann",
+    "Fathia Mami‐Chouaib",
+    "Emmanuel Donnadieu"
+  ],
+  "year": 2012,
+  "doi": "10.1172/jci45817",
+  "source": "openalex",
+  "categories": [
+    "Extracellular matrix",
+    "Stromal cell",
+    "Fibronectin",
+    "Cell biology",
+    "Biology",
+    "Collagenase",
+    "Stroma",
+    "Immune system",
+    "Integrin",
+    "Tumor microenvironment",
+    "Laminin",
+    "Cell migration",
+    "Immunostaining",
+    "Matrix (chemical analysis)",
+    "Immunology",
+    "Cancer research",
+    "Pathology",
+    "Chemistry",
+    "Cell",
+    "Medicine",
+    "Immunohistochemistry",
+    "Biochemistry",
+    "Enzyme",
+    "Chromatography"
+  ],
+  "citation_count": 1189,
+  "open_access_pdf_url": "http://www.jci.org/articles/view/45817/files/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2037342985.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:08.446110+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2037342985",
+    "concepts": [
+      "Extracellular matrix",
+      "Stromal cell",
+      "Fibronectin",
+      "Cell biology",
+      "Biology"
+    ],
+    "oa_status": "hybrid"
+  }
+}

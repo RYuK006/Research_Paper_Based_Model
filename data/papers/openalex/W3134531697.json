@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W3134531697",
+  "title": "Polymeric micelles in drug delivery: An insight of the techniques for their characterization and assessment in biorelevant conditions",
+  "abstract": "Polymeric micelles, i.e. aggregation colloids formed in solution by self-assembling of amphiphilic polymers, represent an innovative tool to overcome several issues related to drug administration, from the low water-solubility to the poor drug permeability across biological barriers. With respect to other nanocarriers, polymeric micelles generally display smaller size, easier preparation and sterilization processes, and good solubilization properties, unfortunately associated with a lower stability in biological fluids and a more complicated characterization. Particularly challenging is the study of their interaction with the biological environment, essential to predict the real in vivo behavior after administration. In this review, after a general presentation on micelles features and properties, different characterization techniques are discussed, from the ones used for the determination of micelles basic characteristics (critical micellar concentration, size, surface charge, morphology) to the more complex approaches used to figure out micelles kinetic stability, drug release and behavior in the presence of biological substrates (fluids, cells and tissues). The techniques presented (such as dynamic light scattering, AFM, cryo-TEM, X-ray scattering, FRET, symmetrical flow field-flow fractionation (AF4) and density ultracentrifugation), each one with their own advantages and limitations, can be combined to achieve a deeper comprehension of polymeric micelles in vivo behavior. The set-up and validation of adequate methods for micelles description represent the essential starting point for their development and clinical success.",
+  "authors": [
+    "Martina Ghezzi",
+    "Silvia Pescina",
+    "Cristina Padula",
+    "Patrizia Santi",
+    "Elena Del Favero",
+    "Laura Cantú",
+    "Sara Nicoli"
+  ],
+  "year": 2021,
+  "doi": "10.1016/j.jconrel.2021.02.031",
+  "source": "openalex",
+  "categories": [
+    "Micelle",
+    "Drug delivery",
+    "Chemistry",
+    "Characterization (materials science)",
+    "Dynamic light scattering",
+    "Nanotechnology",
+    "Amphiphile",
+    "Field flow fractionation",
+    "Nanocarriers",
+    "Solubility",
+    "Chemical engineering",
+    "Polymer",
+    "Materials science",
+    "Chromatography",
+    "Organic chemistry",
+    "Copolymer",
+    "Fractionation",
+    "Nanoparticle",
+    "Aqueous solution",
+    "Engineering"
+  ],
+  "citation_count": 1181,
+  "open_access_pdf_url": "https://www.sciencedirect.com/science/article/pii/S0168365921001061/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3134531697.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:12.059574+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3134531697",
+    "concepts": [
+      "Micelle",
+      "Drug delivery",
+      "Chemistry",
+      "Characterization (materials science)",
+      "Dynamic light scattering"
+    ],
+    "oa_status": "hybrid"
+  }
+}

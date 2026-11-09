@@ -1,0 +1,45 @@
+{
+  "id": "openalex:W1975851231",
+  "title": "The physics and chemistry of the Schottky barrier height",
+  "abstract": "The formation of the Schottky barrier height (SBH) is a complex problem because of the dependence of the SBH on the atomic structure of the metal-semiconductor (MS) interface. Existing models of the SBH are too simple to realistically treat the chemistry exhibited at MS interfaces. This article points out, through examination of available experimental and theoretical results, that a comprehensive, quantum-mechanics-based picture of SBH formation can already be constructed, although no simple equations can emerge, which are applicable for all MS interfaces. Important concepts and principles in physics and chemistry that govern the formation of the SBH are described in detail, from which the experimental and theoretical results for individual MS interfaces can be understood. Strategies used and results obtained from recent investigations to systematically modify the SBH are also examined from the perspective of the physical and chemical principles of the MS interface.",
+  "authors": [
+    "R. T. Tung"
+  ],
+  "year": 2014,
+  "doi": "10.1063/1.4858400",
+  "source": "openalex",
+  "categories": [
+    "Schottky barrier",
+    "Interface (matter)",
+    "Simple (philosophy)",
+    "Semiconductor",
+    "Chemistry",
+    "Nanotechnology",
+    "Physics",
+    "Chemical physics",
+    "Theoretical physics",
+    "Materials science",
+    "Quantum mechanics",
+    "Molecule",
+    "Epistemology",
+    "Philosophy",
+    "Gibbs isotherm",
+    "Diode"
+  ],
+  "citation_count": 1448,
+  "open_access_pdf_url": "https://pubs.aip.org/aip/apr/article-pdf/doi/10.1063/1.4858400/14572205/011304_1_online.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1975851231.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:48.273156+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1975851231",
+    "concepts": [
+      "Schottky barrier",
+      "Interface (matter)",
+      "Simple (philosophy)",
+      "Semiconductor",
+      "Chemistry"
+    ],
+    "oa_status": "bronze"
+  }
+}

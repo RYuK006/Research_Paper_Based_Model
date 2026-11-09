@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2103289578",
+  "title": "The Novel Anticonvulsant Drug, Gabapentin (Neurontin), Binds to the α2δ Subunit of a Calcium Channel",
+  "abstract": "Gabapentin (1-(aminomethyl)cyclohexane acetic acid; Neurontin) is a novel anticonvulsant drug, with a mechanism of action apparently dissimilar to that of other antiepileptic agents. We report here the isolation and characterization of a [3H]gabapentin-binding protein from pig cerebral cortex membranes. The detergent-solubilized binding protein was purified 1022-fold, in a six-step column-chromatographic procedure, with a yield of 3.9%. The purified protein had an apparent subunit Mr of 130,000, and was heavily glycosylated. The partial N-terminal amino acid sequence of the Mr 130,000 polypeptide, EPFPSAVTIK, was identical to that reported for the alpha2delta subunit of the L-type Ca2+ channel from rabbit skeletal muscle (Hamilton, S. L., Hawkes, M. J., Brush, K., Cook, R., Chang, R. J., and Smilowitz, H. M. (1989) Biochemistry 28, 7820-7828). High levels of [3H]gabapentin binding sites were found in membranes prepared from rat brain, heart and skeletal muscle. Binding of [3H]gabapentin to COS-7 cells transfected with alpha2delta cDNA was elevated >10-fold over controls, consistent with the expression of alpha2 delta protein, as measured by Western blotting. Finally, purified L-type Ca2+ channel complexes were fractionated, under dissociating conditions, on an ion-exchange column; [3H]gabapentin binding activity closely followed the elution of the alpha2 delta subunit. [3H]Gabapentin is the first pharmacological agent described that interacts with an alpha2delta subunit of a voltage-dependent Ca2+ channel.",
+  "authors": [
+    "NICOLAS S. GEE",
+    "Jason P. Brown",
+    "Visaka U.K. Dissanayake",
+    "James Offord",
+    "Richard J. Thurlow",
+    "Geoffrey N. Woodruff"
+  ],
+  "year": 1996,
+  "doi": "10.1074/jbc.271.10.5768",
+  "source": "openalex",
+  "categories": [
+    "Chemistry",
+    "Protein subunit",
+    "Gabapentin",
+    "Calcium channel",
+    "Mechanism of action",
+    "Anticonvulsant",
+    "Biochemistry",
+    "Calcium",
+    "Biology",
+    "In vitro",
+    "Medicine",
+    "Epilepsy",
+    "Neuroscience",
+    "Alternative medicine",
+    "Organic chemistry",
+    "Gene",
+    "Pathology"
+  ],
+  "citation_count": 1184,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925818979214/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2103289578.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:12.001507+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2103289578",
+    "concepts": [
+      "Chemistry",
+      "Protein subunit",
+      "Gabapentin",
+      "Calcium channel",
+      "Mechanism of action"
+    ],
+    "oa_status": "hybrid"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "openalex:W2206954826",
+  "title": "CHARMM-GUI Input Generator for NAMD, GROMACS, AMBER, OpenMM, and CHARMM/OpenMM Simulations Using the CHARMM36 Additive Force Field",
+  "abstract": "Proper treatment of nonbonded interactions is essential for the accuracy of molecular dynamics (MD) simulations, especially in studies of lipid bilayers. The use of the CHARMM36 force field (C36 FF) in different MD simulation programs can result in disagreements with published simulations performed with CHARMM due to differences in the protocols used to treat the long-range and 1-4 nonbonded interactions. In this study, we systematically test the use of the C36 lipid FF in NAMD, GROMACS, AMBER, OpenMM, and CHARMM/OpenMM. A wide range of Lennard-Jones (LJ) cutoff schemes and integrator algorithms were tested to find the optimal simulation protocol to best match bilayer properties of six lipids with varying acyl chain saturation and head groups. MD simulations of a 1,2-dipalmitoyl-sn-phosphatidylcholine (DPPC) bilayer were used to obtain the optimal protocol for each program. MD simulations with all programs were found to reasonably match the DPPC bilayer properties (surface area per lipid, chain order parameters, and area compressibility modulus) obtained using the standard protocol used in CHARMM as well as from experiments. The optimal simulation protocol was then applied to the other five lipid simulations and resulted in excellent agreement between results from most simulation programs as well as with experimental data. AMBER compared least favorably with the expected membrane properties, which appears to be due to its use of the hard-truncation in the LJ potential versus a force-based switching function used to smooth the LJ potential as it approaches the cutoff distance. The optimal simulation protocol for each program has been implemented in CHARMM-GUI. This protocol is expected to be applicable to the remainder of the additive C36 FF including the proteins, nucleic acids, carbohydrates, and small molecules.",
+  "authors": [
+    "Jumin Lee",
+    "Xi Cheng",
+    "Jason Swails",
+    "Min Sun Yeom",
+    "Peter K. Eastman",
+    "Justin A. Lemkul",
+    "Shuai Wei",
+    "Joshua Buckner",
+    "Jong Cheol Jeong",
+    "Yifei Qi",
+    "Sunhwan Jo",
+    "Vijay S. Pande",
+    "David Andrew Case",
+    "Charles L. Brooks",
+    "Alexander D. MacKerell",
+    "Jeffery B. Klauda",
+    "Wonpil Im"
+  ],
+  "year": 2015,
+  "doi": "10.1021/acs.jctc.5b00935",
+  "source": "openalex",
+  "categories": [
+    "Force field (fiction)",
+    "Molecular dynamics",
+    "Statistical physics",
+    "Lipid bilayer",
+    "Computer science",
+    "Bilayer",
+    "Thermodynamics",
+    "Chemistry",
+    "Computational chemistry",
+    "Physics",
+    "Membrane",
+    "Biochemistry",
+    "Artificial intelligence"
+  ],
+  "citation_count": 4252,
+  "open_access_pdf_url": "https://pubs.acs.org/doi/pdf/10.1021/acs.jctc.5b00935",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2206954826.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:54.004501+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2206954826",
+    "concepts": [
+      "Force field (fiction)",
+      "Molecular dynamics",
+      "Statistical physics",
+      "Lipid bilayer",
+      "Computer science"
+    ],
+    "oa_status": "hybrid"
+  }
+}

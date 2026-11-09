@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W3172557238",
+  "title": "Particle Image Velocimetry for MATLAB: Accuracy and enhanced algorithms in PIVlab",
+  "abstract": "PIVlab is a free toolbox and app for MATLAB®. It is used to perform Particle Image Velocimetry (PIV) with image data: A light sheet illuminates particles that are suspended in a fluid. A digital camera records a series of images of the illuminated particles. The input images are divided into sub-images (interrogation areas), and for each of these, a cross-correlation is performed. The resulting correlation matrix is used to estimate the most probable displacement within each interrogation area. PIV is extensively used for flow analyses where a thin laser sheet illuminates suspended particles in the fluid, but also for other moving textures, like cell migration or ultrasonic images. This paper presents several improvements that were implemented in PIVlab, enhancing the robustness of displacement estimates. The benefit of these improvements is evaluated using experimental images and synthetic images of particle and non-particle textures. Linear correlation and repeated correlation increase the robustness and decrease bias and root-mean-square (RMS) error of the displacement estimates. Particle images have a significantly lower bias and RMS error than non-particle images.",
+  "authors": [
+    "William Thielicke",
+    "René Sonntag"
+  ],
+  "year": 2021,
+  "doi": "10.5334/jors.334",
+  "source": "openalex",
+  "categories": [
+    "Particle image velocimetry",
+    "Robustness (evolution)",
+    "Computer science",
+    "Velocimetry",
+    "MATLAB",
+    "Mean squared error",
+    "Particle tracking velocimetry",
+    "Particle displacement",
+    "Displacement (psychology)",
+    "Algorithm",
+    "Cross-correlation",
+    "Computer vision",
+    "Optics",
+    "Physics",
+    "Mathematics",
+    "Mechanics",
+    "Statistics",
+    "Chemistry",
+    "Psychology",
+    "Operating system",
+    "Amplitude",
+    "Turbulence",
+    "Gene",
+    "Biochemistry",
+    "Psychotherapist"
+  ],
+  "citation_count": 1225,
+  "open_access_pdf_url": "https://doi.org/10.5334/jors.334",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3172557238.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:04.577316+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3172557238",
+    "concepts": [
+      "Particle image velocimetry",
+      "Robustness (evolution)",
+      "Computer science",
+      "Velocimetry",
+      "MATLAB"
+    ],
+    "oa_status": "gold"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "openalex:W2089475281",
+  "title": "Protein Kinase C: Structure, Function, and Regulation",
+  "abstract": "The protein kinase C family of enzymes transduces the myriad of signals promoting lipid hydrolysis. The prevalence of this enzyme family in signaling is exemplified by the diverse transduction mechanisms that result in the generation of protein kinase C's activator, diacylglycerol. Signals that stimulate members of the large families of G protein-coupled receptors, tyrosine kinase receptors, or non-receptor tyrosine kinases can cause diacylglycerol production, either rapidly by activation of specific phospholipase Cs or more slowly by activation of phospholipase D to yield phosphatidic acid and then diacylglycerol(1, 2, 3).",
+  "authors": [
+    "Alexandra C. Newton"
+  ],
+  "year": 1995,
+  "doi": "10.1074/jbc.270.48.28495",
+  "source": "openalex",
+  "categories": [
+    "Diacylglycerol kinase",
+    "Protein kinase C",
+    "Receptor tyrosine kinase",
+    "Biochemistry",
+    "Cell biology",
+    "Activator (genetics)",
+    "PLD2",
+    "Phospholipase D",
+    "Biology",
+    "Signal transduction",
+    "Phosphatidic acid",
+    "Tyrosine kinase",
+    "Chemistry",
+    "Receptor",
+    "Phospholipid",
+    "Membrane"
+  ],
+  "citation_count": 1656,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925818877924/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2089475281.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:37.970882+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2089475281",
+    "concepts": [
+      "Diacylglycerol kinase",
+      "Protein kinase C",
+      "Receptor tyrosine kinase",
+      "Biochemistry",
+      "Cell biology"
+    ],
+    "oa_status": "hybrid"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "openalex:W1978781045",
+  "title": "Simultaneous analysis of metabolites in potato tuber by gas chromatography–mass spectrometry",
+  "abstract": "A new method is presented in which gas chromatography coupled to mass spectrometry (GC-MS) allows the quantitative and qualitative detection of more than 150 compounds within a potato tuber, in a highly sensitive and specific manner. In contrast to other methods developed for metabolite analysis in plant systems, this method represents an unbiased and open approach that allows the detection of unexpected changes in metabolite levels. Although the method represents a compromise for a wide range of metabolites in terms of extraction, chemical modification and GC-MS analysis, for 25 metabolites analysed in detail the recoveries were found to be within the generally accepted range of 70-140%. Further, the reproducibility of the method was high: the error occurring in the analysis procedures was found to be less than 6% for 30 out of 33 compounds tested. Biological variability exceeded the systematic error of the analysis by a factor of up to 10. The method is also suited for upscaling, potentially allowing the simultaneous analysis of a large number of samples. As a first example this method has been applied to soil- and in vitro-grown tubers. Due to the simultaneous analysis of a wide range of metabolites it was immediately apparent that these systems differ significantly in their metabolism. Furthermore, the parallel insight into many pathways allows some conclusions to be drawn about the underlying physiological differences between both tuber systems. As a second example, transgenic lines modified in sucrose catabolism or starch synthesis were analysed. This example illustrates the power of an unbiased approach to detecting unexpected changes in transgenic lines.",
+  "authors": [
+    "Ute Roessner",
+    "Cornelia Wagner",
+    "Joachim Kopka",
+    "Richard N. Trethewey",
+    "Lothar Willmitzer"
+  ],
+  "year": 2000,
+  "doi": "10.1046/j.1365-313x.2000.00774.x",
+  "source": "openalex",
+  "categories": [
+    "Metabolite",
+    "Chromatography",
+    "Mass spectrometry",
+    "Chemistry",
+    "Metabolomics",
+    "Gas chromatography–mass spectrometry",
+    "Gas chromatography",
+    "Quantitative analysis (chemistry)",
+    "Catabolism",
+    "Metabolism",
+    "Biochemistry"
+  ],
+  "citation_count": 1167,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1046/j.1365-313x.2000.00774.x",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1978781045.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:12.217339+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1978781045",
+    "concepts": [
+      "Metabolite",
+      "Chromatography",
+      "Mass spectrometry",
+      "Chemistry",
+      "Metabolomics"
+    ],
+    "oa_status": "bronze"
+  }
+}

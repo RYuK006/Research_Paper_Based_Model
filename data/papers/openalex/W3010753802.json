@@ -1,0 +1,63 @@
+{
+  "id": "openalex:W3010753802",
+  "title": "Resolving spatial and energetic distributions of trap states in metal halide perovskite solar cells",
+  "abstract": "Mapping perovskite trap states The high efficiency of hybrid inorganic-organic perovskite solar cells is mainly limited by defects that trap the charge carriers and lead to unproductive recombination. Ni et al. used drive-level capacitance profiling to map the spatial and energetic distribution of trap states in both polycrystalline and single-crystal perovskite solar cells. The interface trap densities were up to five orders of magnitude higher than the bulk trap densities. Deep traps were mainly located at the interface of perovskites and hole-transport layers, where processing created a high density of nanocrystals. These results should aid efforts aimed at avoiding trap-state formation or passivating such defects. Science , this issue p. 1352",
+  "authors": [
+    "Zhenyi Ni",
+    "Chunxiong Bao",
+    "Ye Liu",
+    "Qi Jiang",
+    "Wu‐Qiang Wu",
+    "Shangshang Chen",
+    "Xuezeng Dai",
+    "Bo Chen",
+    "Barry Hartweg",
+    "Zhengshan Jason Yu",
+    "Zachary Holman",
+    "Jinsong Huang"
+  ],
+  "year": 2020,
+  "doi": "10.1126/science.aba0893",
+  "source": "openalex",
+  "categories": [
+    "Halide",
+    "Crystallite",
+    "Perovskite (structure)",
+    "Materials science",
+    "Trap (plumbing)",
+    "Metal",
+    "Limiting",
+    "Crystal (programming language)",
+    "Trapping",
+    "Single crystal",
+    "Charge carrier",
+    "Nanocrystal",
+    "Molecular physics",
+    "Atomic physics",
+    "Charge density",
+    "Analytical Chemistry (journal)",
+    "Carrier lifetime",
+    "Mineralogy",
+    "Chemistry",
+    "Chemical physics",
+    "Surface states",
+    "Condensed matter physics",
+    "Charge (physics)"
+  ],
+  "citation_count": 1329,
+  "open_access_pdf_url": "https://arxiv.org/pdf/2008.06789",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3010753802.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:55.348077+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3010753802",
+    "concepts": [
+      "Halide",
+      "Crystallite",
+      "Perovskite (structure)",
+      "Materials science",
+      "Trap (plumbing)"
+    ],
+    "oa_status": "green"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2117327695",
+  "title": "Quantitative mass spectrometry in proteomics: a critical review",
+  "abstract": "The quantification of differences between two or more physiological states of a biological system is among the most important but also most challenging technical tasks in proteomics. In addition to the classical methods of differential protein gel or blot staining by dyes and fluorophores, mass-spectrometry-based quantification methods have gained increasing popularity over the past five years. Most of these methods employ differential stable isotope labeling to create a specific mass tag that can be recognized by a mass spectrometer and at the same time provide the basis for quantification. These mass tags can be introduced into proteins or peptides (i) metabolically, (ii) by chemical means, (iii) enzymatically, or (iv) provided by spiked synthetic peptide standards. In contrast, label-free quantification approaches aim to correlate the mass spectrometric signal of intact proteolytic peptides or the number of peptide sequencing events with the relative or absolute protein quantity directly. In this review, we critically examine the more commonly used quantitative mass spectrometry methods for their individual merits and discuss challenges in arriving at meaningful interpretations of quantitative proteomic data. Common quantitative mass spectrometry workflows. Boxes in blue and yellow represent two experimental conditions. Horizontal lines indicate when samples are combined. Dashed lines indicate points at which experimental variation and thus quantification errors can occur. (adapted with permission from [ 11 ])",
+  "authors": [
+    "Marcus Bantscheff",
+    "Markus Schirle",
+    "Gavain M. A. Sweetman",
+    "Jens M. Rick",
+    "Bernhard Küster"
+  ],
+  "year": 2007,
+  "doi": "10.1007/s00216-007-1486-6",
+  "source": "openalex",
+  "categories": [
+    "Mass spectrometry",
+    "Proteomics",
+    "Quantitative proteomics",
+    "Chemistry",
+    "Label-free quantification",
+    "Chromatography",
+    "Tandem mass tag",
+    "Isobaric labeling",
+    "Peptide",
+    "Computational biology",
+    "Protein mass spectrometry",
+    "Tandem mass spectrometry",
+    "Biochemistry",
+    "Biology",
+    "Gene"
+  ],
+  "citation_count": 1721,
+  "open_access_pdf_url": "https://link.springer.com/content/pdf/10.1007/s00216-007-1486-6.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2117327695.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:33.067623+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2117327695",
+    "concepts": [
+      "Mass spectrometry",
+      "Proteomics",
+      "Quantitative proteomics",
+      "Chemistry",
+      "Label-free quantification"
+    ],
+    "oa_status": "hybrid"
+  }
+}

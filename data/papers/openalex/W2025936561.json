@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2025936561",
+  "title": "Superior mechanical flexibility of phosphorene and few-layer black phosphorus",
+  "abstract": "Recently, fabricated two dimensional (2D) phosphorene crystal structures have demonstrated great potential in applications of electronics. Mechanical strain was demonstrated to be able to significantly modify the electronic properties of phosphorene and few-layer black phosphorus. In this work, we employed first principles density functional theory calculations to explore the mechanical properties of phosphorene, including ideal tensile strength and critical strain. It was found that a monolayer phosphorene can sustain tensile strain up to 27% and 30% in the zigzag and armchair directions, respectively. This enormous strain limit of phosphorene results from its unique puckered crystal structure. We found that the tensile strain applied in the armchair direction stretches the pucker of phosphorene, rather than significantly extending the P-P bond lengths. The compromised dihedral angles dramatically reduce the required strain energy. Compared to other 2D materials, such as graphene, phosphorene demonstrates superior flexibility with an order of magnitude smaller Young's modulus. This is especially useful in practical large-magnitude-strain engineering. Furthermore, the anisotropic nature of phosphorene was also explored. We derived a general model to calculate the Young's modulus along different directions for a 2D system.",
+  "authors": [
+    "Qun Wei",
+    "Xihong Peng"
+  ],
+  "year": 2014,
+  "doi": "10.1063/1.4885215",
+  "source": "openalex",
+  "categories": [
+    "Phosphorene",
+    "Zigzag",
+    "Materials science",
+    "Monolayer",
+    "Ultimate tensile strength",
+    "Graphene",
+    "Density functional theory",
+    "Modulus",
+    "Anisotropy",
+    "Condensed matter physics",
+    "Composite material",
+    "Nanotechnology",
+    "Computational chemistry",
+    "Optics",
+    "Chemistry",
+    "Geometry",
+    "Physics",
+    "Mathematics"
+  ],
+  "citation_count": 1085,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1403.7882",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2025936561.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:24.448488+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2025936561",
+    "concepts": [
+      "Phosphorene",
+      "Zigzag",
+      "Materials science",
+      "Monolayer",
+      "Ultimate tensile strength"
+    ],
+    "oa_status": "green"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "openalex:W1565979608",
+  "title": "The AMP‐Activated Protein Kinase",
+  "abstract": "A single entity, the AMP-activated protein kinase (AMPK), phosphorylates and regulates in vivo hydroxymethylglutaryl-CoA reductase and acetyl-CoA carboxylase (key regulatory enzymes of sterol synthesis and fatty acid synthesis, respectively), and probably many additional targets. The kinase is activated by high AMP and low ATP via a complex mechanism, which involves allosteric regulation, promotion of phosphorylation by an upstream protein kinase (AMPK kinase), and inhibition of dephosphorylation. This protein-kinase cascade represents a sensitive system, which is activated by cellular stresses that deplete ATP, and thus acts like a cellular fuel gauge. Our central hypothesis is that, when it detects a 'low-fuel' situation, it protects the cell by switching off ATP-consuming pathways (e.g. fatty acid synthesis and sterol synthesis) and switching on alternative pathways for ATP generation (e.g. fatty acid oxidation). Native AMP-activated protein kinase is a heterotrimer consisting of a catalytic alpha subunit, and beta and gamma subunits, which are also essential for activity. All three subunits have homologues in budding yeast, which are components of the SNF1 protein-kinase complex. SNF1 is activated by glucose starvation (which in yeast leads to ATP depletion) and genetic studies have shown that it is involved in derepression of glucose-repressed genes. This raises the intriguing possibility that AMPK may regulate gene expression in mammals. AMPK/SNF1 homologues are found in higher plants, and this protein-kinase cascade appears to be an ancient system which evolved to protect cells against the effects of nutritional or environmental stress.",
+  "authors": [
+    "David Grahame Hardie",
+    "David Carling"
+  ],
+  "year": 1997,
+  "doi": "10.1111/j.1432-1033.1997.00259.x",
+  "source": "openalex",
+  "categories": [
+    "Protein kinase A",
+    "AMPK",
+    "AMP-activated protein kinase",
+    "ASK1",
+    "Biochemistry",
+    "Cell biology",
+    "Acetyl-CoA carboxylase",
+    "Biology",
+    "Mitogen-activated protein kinase kinase",
+    "Cyclin-dependent kinase 2",
+    "Autophagy-related protein 13",
+    "Kinase",
+    "Chemistry",
+    "Pyruvate carboxylase",
+    "Enzyme"
+  ],
+  "citation_count": 1328,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1432-1033.1997.00259.x",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1565979608.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:55.350801+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1565979608",
+    "concepts": [
+      "Protein kinase A",
+      "AMPK",
+      "AMP-activated protein kinase",
+      "ASK1",
+      "Biochemistry"
+    ],
+    "oa_status": "bronze"
+  }
+}

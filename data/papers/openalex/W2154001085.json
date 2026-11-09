@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W2154001085",
+  "title": "Matrix metalloproteinases 2 and 9 work in concert to produce aortic aneurysms",
+  "abstract": "Matrix metalloproteinases (MMPs) 9 and 2 are increased in human abdominal aortic aneurysm (AAA) tissue, but their precise role and potential interaction remain unclear. Experimental induction of aortic aneurysms in mice genetically deficient in these peptidases could provide new insight into AAA pathogenesis. Mice deficient in the expression of MMP-9 (MMP-9KO) or MMP-2 (MMP-2KO) and their corresponding wild-type background mice (WT) underwent AAA induction by abluminal application of calcium chloride (CaCl(2)). No aneurysm formation was observed at 10 weeks after treatment in either the MMP-9KO or the MMP-2KO mice, whereas the corresponding WT mice showed an average 74% and 52% increase in aortic diameter, respectively. Reinfusion of competent macrophages from the corresponding WT strains into knockout mice resulted in reconstitution of AAA in MMP-9KO but not MMP-2KO mice. These findings suggest that macrophage-derived MMP-9 and mesenchymal cell MMP-2 are both required and work in concert to produce AAA.",
+  "authors": [
+    "Gernon Matthew Longo",
+    "Wanfen Xiong",
+    "Timothy C. Greiner",
+    "Yong Zhao",
+    "Nicola Fiotti",
+    "Bernard Timothy Baxter"
+  ],
+  "year": 2002,
+  "doi": "10.1172/jci0215334",
+  "source": "openalex",
+  "categories": [
+    "Matrix metalloproteinase",
+    "Abdominal aortic aneurysm",
+    "Aortic aneurysm",
+    "Pathogenesis",
+    "Macrophage",
+    "Knockout mouse",
+    "Inflammation",
+    "Medicine",
+    "Aorta",
+    "Aneurysm",
+    "Pathology",
+    "Biology",
+    "Chemistry",
+    "Immunology",
+    "Internal medicine",
+    "Surgery",
+    "Biochemistry",
+    "Receptor",
+    "In vitro"
+  ],
+  "citation_count": 1125,
+  "open_access_pdf_url": "http://www.jci.org/articles/view/15334/files/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2154001085.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:17.037737+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2154001085",
+    "concepts": [
+      "Matrix metalloproteinase",
+      "Abdominal aortic aneurysm",
+      "Aortic aneurysm",
+      "Pathogenesis",
+      "Macrophage"
+    ],
+    "oa_status": "bronze"
+  }
+}

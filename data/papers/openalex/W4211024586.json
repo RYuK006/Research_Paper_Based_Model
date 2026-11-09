@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W4211024586",
+  "title": "Photodynamic Therapy",
+  "abstract": "Photodynamic therapy involves administration of a tumor-localizing photosensitizing agent, which may require metabolic synthesis (i.e., a prodrug), followed by activation of the agent by light of a specific wavelength. This therapy results in a sequence of photochemical and photobiologic processes that cause irreversible photodamage to tumor tissues. Results from preclinical and clinical studies conducted worldwide over a 25-year period have established photodynamic therapy as a useful treatment approach for some cancers. Since 1993, regulatory approval for photodynamic therapy involving use of a partially purified, commercially available hematoporphyrin derivative compound (Photofrin) in patients with early and advanced stage cancer of the lung, digestive tract, and genitourinary tract has been obtained in Canada, The Netherlands, France, Germany, Japan, and the United States. We have attempted to conduct and present a comprehensive review of this rapidly expanding field. Mechanisms of subcellular and tumor localization of photosensitizing agents, as well as of molecular, cellular, and tumor responses associated with photodynamic therapy, are discussed. Technical issues regarding light dosimetry are also considered.",
+  "authors": [
+    "Thomas J. Dougherty",
+    "Charles J. Gomer",
+    "Barbara W. Henderson",
+    "G. Jori",
+    "David H. Kessel",
+    "Mladen Korbelik",
+    "Johan E. Moan",
+    "Qian Peng"
+  ],
+  "year": 1998,
+  "doi": "10.1093/jnci/90.12.889",
+  "source": "openalex",
+  "categories": [
+    "Photodynamic therapy",
+    "Hematoporphyrin",
+    "Medicine",
+    "Prodrug",
+    "Photosensitizer",
+    "Cancer",
+    "Cancer research",
+    "Cancer therapy",
+    "Pharmacology",
+    "Chemistry",
+    "Internal medicine",
+    "Photochemistry",
+    "Organic chemistry"
+  ],
+  "citation_count": 4780,
+  "open_access_pdf_url": "https://academic.oup.com/jnci/article-pdf/90/12/889/9494907/90-12-889.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W4211024586.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:52.300270+00:00",
+  "raw_metadata": {
+    "openalex_id": "W4211024586",
+    "concepts": [
+      "Photodynamic therapy",
+      "Hematoporphyrin",
+      "Medicine",
+      "Prodrug",
+      "Photosensitizer"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W2002827542",
+  "title": "Environmental fate and exposure; neonicotinoids and fipronil",
+  "abstract": "Systemic insecticides are applied to plants using a wide variety of methods, ranging from foliar sprays to seed treatments and soil drenches. Neonicotinoids and fipronil are among the most widely used pesticides in the world. Their popularity is largely due to their high toxicity to invertebrates, the ease and flexibility with which they can be applied, their long persistence, and their systemic nature, which ensures that they spread to all parts of the target crop. However, these properties also increase the probability of environmental contamination and exposure of nontarget organisms. Environmental contamination occurs via a number of routes including dust generated during drilling of dressed seeds, contamination and accumulation in arable soils and soil water, runoff into waterways, and uptake of pesticides by nontarget plants via their roots or dust deposition on leaves. Persistence in soils, waterways, and nontarget plants is variable but can be prolonged; for example, the half-lives of neonicotinoids in soils can exceed 1,000 days, so they can accumulate when used repeatedly. Similarly, they can persist in woody plants for periods exceeding 1 year. Breakdown results in toxic metabolites, though concentrations of these in the environment are rarely measured. Overall, there is strong evidence that soils, waterways, and plants in agricultural environments and neighboring areas are contaminated with variable levels of neonicotinoids or fipronil mixtures and their metabolites (soil, parts per billion (ppb)-parts per million (ppm) range; water, parts per trillion (ppt)-ppb range; and plants, ppb-ppm range). This provides multiple routes for chronic (and acute in some cases) exposure of nontarget animals. For example, pollinators are exposed through direct contact with dust during drilling; consumption of pollen, nectar, or guttation drops from seed-treated crops, water, and consumption of contaminated pollen and nectar from wild flowers and trees growing near-treated crops. Studies of food stores in honeybee colonies from across the globe demonstrate that colonies are routinely and chronically exposed to neonicotinoids, fipronil, and their metabolites (generally in the 1-100 ppb range), mixed with other pesticides some of which are known to act synergistically with neonicotinoids. Other nontarget organisms, particularly those inhabiting soils, aquatic habitats, or herbivorous insects feeding on noncrop plants in farmland, will also inevitably receive exposure, although data are generally lacking for these groups. We summarize the current state of knowledge regarding the environmental fate of these compounds by outlining what is known about the chemical properties of these compounds, and placing these properties in the context of modern agricultural practices.",
+  "authors": [
+    "J.M. Bonmatin",
+    "Chiara Giorio",
+    "V. Girolami",
+    "Dave Goulson",
+    "David P. Kreutzweiser",
+    "Christian H. Krupke",
+    "Matthias Liess",
+    "Elizabeth Yim Long",
+    "Matteo Marzaro",
+    "Edward A. D. Mitchell",
+    "Dominique A. Noome",
+    "Noa Simon‐Delso",
+    "Andrea Tapparo"
+  ],
+  "year": 2014,
+  "doi": "10.1007/s11356-014-3332-7",
+  "source": "openalex",
+  "categories": [
+    "Fipronil",
+    "Environmental science",
+    "Soil water",
+    "Pesticide",
+    "Contamination",
+    "Ecotoxicology",
+    "Arable land",
+    "Toxicology",
+    "Environmental chemistry",
+    "Agronomy",
+    "Biology",
+    "Agriculture",
+    "Ecology",
+    "Chemistry",
+    "Soil science"
+  ],
+  "citation_count": 1462,
+  "open_access_pdf_url": "https://link.springer.com/content/pdf/10.1007/s11356-014-3332-7.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2002827542.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:48.206877+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2002827542",
+    "concepts": [
+      "Fipronil",
+      "Environmental science",
+      "Soil water",
+      "Pesticide",
+      "Contamination"
+    ],
+    "oa_status": "hybrid"
+  }
+}

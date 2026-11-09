@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2074892323",
+  "title": "Ferrostatins Inhibit Oxidative Lipid Damage and Cell Death in Diverse Disease Models",
+  "abstract": "Ferrostatin-1 (Fer-1) inhibits ferroptosis, a form of regulated, oxidative, nonapoptotic cell death. We found that Fer-1 inhibited cell death in cellular models of Huntington's disease (HD), periventricular leukomalacia (PVL), and kidney dysfunction; Fer-1 inhibited lipid peroxidation, but not mitochondrial reactive oxygen species formation or lysosomal membrane permeability. We developed a mechanistic model to explain the activity of Fer-1, which guided the development of ferrostatins with improved properties. These studies suggest numerous therapeutic uses for ferrostatins, and that lipid peroxidation mediates diverse disease phenotypes.",
+  "authors": [
+    "Rachid Skouta",
+    "Scott J. Dixon",
+    "Jianlin Wang",
+    "Denise Dunn",
+    "Marina Orman",
+    "Kenichi Shimada",
+    "Paul A. Rosenberg",
+    "Donald C. Lo",
+    "Joel M. Weinberg",
+    "Andreas Linkermann",
+    "Brent R. Stockwell"
+  ],
+  "year": 2014,
+  "doi": "10.1021/ja411006a",
+  "source": "openalex",
+  "categories": [
+    "Lipid peroxidation",
+    "Chemistry",
+    "Programmed cell death",
+    "Reactive oxygen species",
+    "Oxidative stress",
+    "Oxidative damage",
+    "Mitochondrion",
+    "Cell",
+    "Oxidative phosphorylation",
+    "Apoptosis",
+    "Cell biology",
+    "Biochemistry",
+    "Biology"
+  ],
+  "citation_count": 1156,
+  "open_access_pdf_url": "https://pubs.acs.org/doi/pdf/10.1021/ja411006a?ref=article_openPDF",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2074892323.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:14.529812+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2074892323",
+    "concepts": [
+      "Lipid peroxidation",
+      "Chemistry",
+      "Programmed cell death",
+      "Reactive oxygen species",
+      "Oxidative stress"
+    ],
+    "oa_status": "hybrid"
+  }
+}

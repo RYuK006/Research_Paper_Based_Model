@@ -1,0 +1,58 @@
+{
+  "id": "openalex:W2469089667",
+  "title": "Superconcentrated electrolytes for a high-voltage lithium-ion battery",
+  "abstract": "Finding a viable electrolyte for next-generation 5 V-class lithium-ion batteries is of primary importance. A long-standing obstacle has been metal-ion dissolution at high voltages. The LiPF6 salt in conventional electrolytes is chemically unstable, which accelerates transition metal dissolution of the electrode material, yet beneficially suppresses oxidative dissolution of the aluminium current collector; replacing LiPF6 with more stable lithium salts may diminish transition metal dissolution but unfortunately encounters severe aluminium oxidation. Here we report an electrolyte design that can solve this dilemma. By mixing a stable lithium salt LiN(SO2F)2 with dimethyl carbonate solvent at extremely high concentrations, we obtain an unusual liquid showing a three-dimensional network of anions and solvent molecules that coordinate strongly to Li(+) ions. This simple formulation of superconcentrated LiN(SO2F)2/dimethyl carbonate electrolyte inhibits the dissolution of both aluminium and transition metal at around 5 V, and realizes a high-voltage LiNi0.5Mn1.5O4/graphite battery that exhibits excellent cycling durability, high rate capability and enhanced safety.",
+  "authors": [
+    "Jianhui Wang",
+    "Yuki Yamada",
+    "Keitaro Sodeyama",
+    "Ching Hua Chiang",
+    "Yoshitaka Tateyama",
+    "Atsuo Yamada"
+  ],
+  "year": 2016,
+  "doi": "10.1038/ncomms12032",
+  "source": "openalex",
+  "categories": [
+    "Dissolution",
+    "Electrolyte",
+    "Dimethyl carbonate",
+    "Battery (electricity)",
+    "Lithium (medication)",
+    "Inorganic chemistry",
+    "Salt (chemistry)",
+    "Transition metal",
+    "Solvent",
+    "Materials science",
+    "Chemistry",
+    "Aluminium",
+    "Graphite",
+    "Electrode",
+    "Chemical engineering",
+    "Organic chemistry",
+    "Catalysis",
+    "Engineering",
+    "Medicine",
+    "Quantum mechanics",
+    "Endocrinology",
+    "Physical chemistry",
+    "Physics",
+    "Power (physics)"
+  ],
+  "citation_count": 1110,
+  "open_access_pdf_url": "https://www.nature.com/articles/ncomms12032.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2469089667.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:19.618581+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2469089667",
+    "concepts": [
+      "Dissolution",
+      "Electrolyte",
+      "Dimethyl carbonate",
+      "Battery (electricity)",
+      "Lithium (medication)"
+    ],
+    "oa_status": "gold"
+  }
+}

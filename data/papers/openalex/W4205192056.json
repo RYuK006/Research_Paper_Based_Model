@@ -1,0 +1,61 @@
+{
+  "id": "openalex:W4205192056",
+  "title": "SignalP 6.0 predicts all five types of signal peptides using protein language models",
+  "abstract": "Abstract Signal peptides (SPs) are short amino acid sequences that control protein secretion and translocation in all living organisms. As experimental characterization of SPs is costly, prediction algorithms are applied to predict them from sequence data. However, existing methods are unable to detect all known types of SPs. We introduce SignalP 6.0, the first model capable of detecting all five SP types. Additionally, the model accurately identifies the positions of regions within SPs, revealing the defining biochemical properties that underlie the function of SPs in vivo . Results show that SignalP 6.0 has improved prediction performance, and is the first model to be applicable to metagenomic data. SignalP 6.0 is available at https://services.healthtech.dtu.dk/service.php?SignalP-6.0",
+  "authors": [
+    "Felix Teufel",
+    "José Juan Almagro Armenteros",
+    "Alexander Rosenberg Johansen",
+    "Magnús Halldór Gíslason",
+    "Silas Irby Pihl",
+    "Konstantinos D. Tsirigos",
+    "Ole Winther",
+    "Søren Brunak",
+    "Gunnar von HEIJNE",
+    "Henrik Nielsen"
+  ],
+  "year": 2022,
+  "doi": "10.1038/s41587-021-01156-3",
+  "source": "openalex",
+  "categories": [
+    "Signal peptide",
+    "Secretion",
+    "Computational biology",
+    "Secretory protein",
+    "Peptide sequence",
+    "Protein sequencing",
+    "SIGNAL (programming language)",
+    "Protein Sorting Signals",
+    "Sequence (biology)",
+    "Amino acid",
+    "Computer science",
+    "Biology",
+    "Biochemistry",
+    "Artificial intelligence",
+    "Metagenomics",
+    "Chemistry",
+    "Chromosomal translocation",
+    "Secretory pathway",
+    "Bioinformatics",
+    "Cell biology",
+    "Signal peptidase",
+    "Pseudo amino acid composition",
+    "Amino acid residue"
+  ],
+  "citation_count": 3087,
+  "open_access_pdf_url": "https://www.nature.com/articles/s41587-021-01156-3.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W4205192056.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:57.910811+00:00",
+  "raw_metadata": {
+    "openalex_id": "W4205192056",
+    "concepts": [
+      "Signal peptide",
+      "Secretion",
+      "Computational biology",
+      "Secretory protein",
+      "Peptide sequence"
+    ],
+    "oa_status": "hybrid"
+  }
+}

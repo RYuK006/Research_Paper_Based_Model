@@ -1,0 +1,57 @@
+{
+  "id": "openalex:W2047463679",
+  "title": "Decoy State Quantum Key Distribution",
+  "abstract": "There has been much interest in quantum key distribution. Experimentally, quantum key distribution over 150 km of commercial Telecom fibers has been successfully performed. The crucial issue in quantum key distribution is its security. Unfortunately, all recent experiments are, in principle, insecure due to real-life imperfections. Here, we propose a method that can for the first time make most of those experiments secure by using essentially the same hardware. Our method is to use decoy states to detect eavesdropping attacks. As a consequence, we have the best of both worlds--enjoying unconditional security guaranteed by the fundamental laws of physics and yet dramatically surpassing even some of the best experimental performances reported in the literature.",
+  "authors": [
+    "Hoi‐Kwong Lo",
+    "Xiongfeng Ma",
+    "Kai Chen"
+  ],
+  "year": 2005,
+  "doi": "10.1103/physrevlett.94.230504",
+  "source": "openalex",
+  "categories": [
+    "Quantum key distribution",
+    "Eavesdropping",
+    "Quantum cryptography",
+    "Key (lock)",
+    "Computer science",
+    "Key distribution",
+    "Computer security",
+    "Decoy",
+    "State (computer science)",
+    "Quantum information science",
+    "Quantum",
+    "Distribution (mathematics)",
+    "Quantum state",
+    "Physics",
+    "Statistical physics",
+    "Quantum mechanics",
+    "Quantum information",
+    "Quantum entanglement",
+    "Public-key cryptography",
+    "Mathematics",
+    "Algorithm",
+    "Encryption",
+    "Mathematical analysis",
+    "Biochemistry",
+    "Receptor",
+    "Chemistry"
+  ],
+  "citation_count": 2382,
+  "open_access_pdf_url": "https://arxiv.org/pdf/quant-ph/0411004",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2047463679.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:08.731371+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2047463679",
+    "concepts": [
+      "Quantum key distribution",
+      "Eavesdropping",
+      "Quantum cryptography",
+      "Key (lock)",
+      "Computer science"
+    ],
+    "oa_status": "green"
+  }
+}

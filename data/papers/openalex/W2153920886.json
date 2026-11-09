@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2153920886",
+  "title": "Motility-Induced Phase Separation",
+  "abstract": "Self-propelled particles include both self-phoretic synthetic colloids and various microorganisms. By continually consuming energy, they bypass the laws of equilibrium thermodynamics. These laws enforce the Boltzmann distribution in thermal equilibrium: The steady state is then independent of kinetic parameters. In contrast, self-propelled particles tend to accumulate where they move more slowly. They may also slow down at high density for either biochemical or steric reasons. This creates positive feedback, which can lead to motility-induced phase separation (MIPS) between dense and dilute fluid phases. At leading order in gradients, a mapping relates variable-speed, self-propelled particles to passive particles with attractions. This deep link to equilibrium phase separation is confirmed by simulations but generally breaks down at higher order in gradients: New effects, with no equilibrium counterpart, then emerge. We give a selective overview of the fast-developing field of MIPS, focusing on theory and simulation but including a brief speculative survey of its experimental implications.",
+  "authors": [
+    "Michael E. Cates",
+    "Julien Tailleur"
+  ],
+  "year": 2015,
+  "doi": "10.1146/annurev-conmatphys-031214-014710",
+  "source": "openalex",
+  "categories": [
+    "Thermal equilibrium",
+    "Phase (matter)",
+    "Separation (statistics)",
+    "Steric effects",
+    "Chemical physics",
+    "Kinetic energy",
+    "Colloid",
+    "Mechanics",
+    "Thermodynamics",
+    "Physics",
+    "Statistical physics",
+    "Chemistry",
+    "Classical mechanics",
+    "Physical chemistry",
+    "Computer science",
+    "Quantum mechanics",
+    "Stereochemistry",
+    "Machine learning"
+  ],
+  "citation_count": 1724,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1406.3533",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2153920886.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:33.054605+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2153920886",
+    "concepts": [
+      "Thermal equilibrium",
+      "Phase (matter)",
+      "Separation (statistics)",
+      "Steric effects",
+      "Chemical physics"
+    ],
+    "oa_status": "green"
+  }
+}

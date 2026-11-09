@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W1982133696",
+  "title": "First-principles calculations of the ferroelastic transition between rutile-type and CaCl 2 -type SiO 2 at high pressures",
+  "abstract": "The tetragonal to orthorhombic ferroelastic phase transition between rutile- and ${\\text{CaCl}}_{2}$-type ${\\text{SiO}}_{2}$ at high pressures is studied using first-principles calculations and the Landau free-energy expansion. The phase transition is systematically investigated in terms of characteristic phonon modes with ${\\text{B}}_{1g}$ and ${\\text{A}}_{g}$ symmetries, shear moduli, transverse-acoustic mode, rotation angle of the ${\\text{SiO}}_{6}$ octahedra, spontaneous symmetry-breaking and volume strains, and enthalpy. The results show that these physical behaviors at the transition are well described using the Landau free-energy expansion parametrized by the first-principles calculations.",
+  "authors": [
+    "Atsushi Togo",
+    "Fumiyasu Oba",
+    "Isao Tanaka"
+  ],
+  "year": 2008,
+  "doi": "10.1103/physrevb.78.134106",
+  "source": "openalex",
+  "categories": [
+    "Tetragonal crystal system",
+    "Phase transition",
+    "Condensed matter physics",
+    "Materials science",
+    "Energy (signal processing)",
+    "Orthorhombic crystal system",
+    "Rutile",
+    "Octahedron",
+    "Phonon",
+    "Type (biology)",
+    "Physics",
+    "Thermodynamics",
+    "Phase (matter)",
+    "Crystallography",
+    "Crystal structure",
+    "Diffraction",
+    "Quantum mechanics",
+    "Chemistry",
+    "Ecology",
+    "Biology",
+    "Organic chemistry"
+  ],
+  "citation_count": 5466,
+  "open_access_pdf_url": "http://hdl.handle.net/2433/84631",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1982133696.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:52.210920+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1982133696",
+    "concepts": [
+      "Tetragonal crystal system",
+      "Phase transition",
+      "Condensed matter physics",
+      "Materials science",
+      "Energy (signal processing)"
+    ],
+    "oa_status": "green"
+  }
+}

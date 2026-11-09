@@ -1,0 +1,63 @@
+{
+  "id": "openalex:W2106885643",
+  "title": "Maximizing the Potency of siRNA Lipid Nanoparticles for Hepatic Gene Silencing In Vivo**",
+  "abstract": "Special (lipid) delivery: The role of the ionizable lipid pK(a) in the in vivo delivery of siRNA by lipid nanoparticles has been studied with a large number of head group modifications to the lipids. A tight correlation between the lipid pK(a) value and silencing of the mouse FVII gene (FVII ED(50) ) was found, with an optimal pK(a) range of 6.2-6.5. The most potent cationic lipid from this study has ED(50) levels around 0.005 mg kg(-1) in mice and less than 0.03 mg kg(-1) in non-human primates.",
+  "authors": [
+    "Muthusamy Jayaraman",
+    "Steven M. Ansell",
+    "Barbara L. Mui",
+    "Ying K. Tam",
+    "Jianxin Chen",
+    "Xinyao Du",
+    "David Butler",
+    "Laxman Eltepu",
+    "Shigeo Matsuda",
+    "Jayaprakash K. Narayanannair",
+    "Kallanthottathil G. Rajeev",
+    "Ismail M. Hafez",
+    "Akin Akinc",
+    "Martin A. Maier",
+    "Mark A. Tracy",
+    "Pieter R. Cullis",
+    "Thomas D. Madden",
+    "Muthiah Manoharan",
+    "Michael J. Hope"
+  ],
+  "year": 2012,
+  "doi": "10.1002/anie.201203263",
+  "source": "openalex",
+  "categories": [
+    "Gene silencing",
+    "In vivo",
+    "Potency",
+    "Chemistry",
+    "In vitro",
+    "Gene delivery",
+    "Lipid metabolism",
+    "Cationic polymerization",
+    "Biochemistry",
+    "Transfection",
+    "Molecular biology",
+    "Gene",
+    "Biophysics",
+    "Biology",
+    "Genetics",
+    "Organic chemistry"
+  ],
+  "citation_count": 1292,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/anie.201203263",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2106885643.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:57.875842+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2106885643",
+    "concepts": [
+      "Gene silencing",
+      "In vivo",
+      "Potency",
+      "Chemistry",
+      "In vitro"
+    ],
+    "oa_status": "bronze"
+  }
+}

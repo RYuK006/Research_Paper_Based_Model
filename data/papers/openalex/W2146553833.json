@@ -1,0 +1,57 @@
+{
+  "id": "openalex:W2146553833",
+  "title": "Chiral and deconfinement aspects of the QCD transition",
+  "abstract": "We present results on the chiral and deconfinement properties of the QCD transition at finite temperature. Calculations are performed with $2+1$ flavors of quarks using the p4, asqtad, and HISQ/tree actions. Lattices with temporal extent ${N}_{\\ensuremath{\\tau}}=6$, 8, and 12 are used to understand and control discretization errors and to reliably extrapolate estimates obtained at finite lattice spacings to the continuum limit. The chiral transition temperature is defined in terms of the phase transition in a theory with two massless flavors and analyzed using $O(N)$ scaling fits to the chiral condensate and susceptibility. We find consistent estimates from the HISQ/tree and asqtad actions and our main result is ${T}_{c}=154\\ifmmode\\pm\\else\\textpm\\fi{}9\\text{ }\\text{ }\\mathrm{MeV}$.",
+  "authors": [
+    "Alexei Bazavov",
+    "Tanmoy Bhattacharya A",
+    "M. Cheng",
+    "Carleton E. DeTar",
+    "Heng-Tong Ding",
+    "Steven Gottlieb",
+    "Rajan Gupta",
+    "Prasad Hegde",
+    "Urs M. Heller",
+    "F. Karsch",
+    "E. Laermann",
+    "L. Levkova",
+    "Swagato Mukherjee",
+    "Péter Petreczky",
+    "Christian Schmidt",
+    "Ron Ariel Soltz",
+    "W. Soeldner",
+    "Robert L. Sugar",
+    "D. Toussaint",
+    "Wolfgang Unger",
+    "Pavlos M. Vranas"
+  ],
+  "year": 2012,
+  "doi": "10.1103/physrevd.85.054503",
+  "source": "openalex",
+  "categories": [
+    "Deconfinement",
+    "Quantum chromodynamics",
+    "Transition (genetics)",
+    "Particle physics",
+    "Physics",
+    "Chemistry",
+    "Gene",
+    "Biochemistry"
+  ],
+  "citation_count": 1315,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1111.1710",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2146553833.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:57.705384+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2146553833",
+    "concepts": [
+      "Deconfinement",
+      "Quantum chromodynamics",
+      "Transition (genetics)",
+      "Particle physics",
+      "Physics"
+    ],
+    "oa_status": "green"
+  }
+}

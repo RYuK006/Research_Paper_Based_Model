@@ -1,0 +1,57 @@
+{
+  "id": "openalex:W2314292783",
+  "title": "Improved Parameters for the Martini Coarse-Grained Protein Force Field",
+  "abstract": "The Martini coarse-grained force field has been successfully used for simulating a wide range of (bio)molecular systems. Recent progress in our ability to test the model against fully atomistic force fields, however, has revealed some shortcomings. Most notable, phenylalanine and proline were too hydrophobic, and dimers formed by polar residues in apolar solvents did not bind strongly enough. Here, we reparametrize these residues either through reassignment of particle types or by introducing embedded charges. The new parameters are tested with respect to partitioning across a lipid bilayer, membrane binding of Wimley-White peptides, and dimerization free energy in solvents of different polarity. In addition, we improve some of the bonded terms in the Martini protein force field that lead to a more realistic length of α-helices and to improved numerical stability for polyalanine and glycine repeats. The new parameter set is denoted Martini version 2.2.",
+  "authors": [
+    "Djurre H. de Jong",
+    "Gurpreet Singh",
+    "William F. Bennett",
+    "Clément Arnarez",
+    "Tsjerk A. Wassenaar",
+    "Lars V. Schäfer",
+    "Xavier Périole",
+    "D. Peter Tieleman",
+    "‪Siewert J. Marrink"
+  ],
+  "year": 2012,
+  "doi": "10.1021/ct300646g",
+  "source": "openalex",
+  "categories": [
+    "Force field (fiction)",
+    "Polar",
+    "Molecular dynamics",
+    "Chemical physics",
+    "Lipid bilayer",
+    "Chemistry",
+    "Polarity (international relations)",
+    "Biological system",
+    "Proline",
+    "Membrane",
+    "Materials science",
+    "Computational chemistry",
+    "Computer science",
+    "Physics",
+    "Amino acid",
+    "Astronomy",
+    "Biochemistry",
+    "Artificial intelligence",
+    "Biology",
+    "Cell"
+  ],
+  "citation_count": 1496,
+  "open_access_pdf_url": "https://doi.org/10.1021/ct300646g",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2314292783.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:48.095566+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2314292783",
+    "concepts": [
+      "Force field (fiction)",
+      "Polar",
+      "Molecular dynamics",
+      "Chemical physics",
+      "Lipid bilayer"
+    ],
+    "oa_status": "hybrid"
+  }
+}

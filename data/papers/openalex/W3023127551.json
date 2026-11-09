@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W3023127551",
+  "title": "Superconductivity at 38 K in the Iron Arsenide (Ba1−xKx)Fe2As2",
+  "abstract": "The ternary iron arsenide ${\\mathrm{BaFe}}_{2}{\\mathrm{As}}_{2}$ becomes superconducting by hole doping, which was achieved by partial substitution of the barium site with potassium. We have discovered bulk superconductivity at ${T}_{c}=38\\text{ }\\text{ }\\mathrm{K}$ in $({\\mathrm{Ba}}_{1\\ensuremath{-}x}{\\mathrm{K}}_{x}){\\mathrm{Fe}}_{2}{\\mathrm{As}}_{2}$ with $x\\ensuremath{\\approx}0.4$. The parent compound ${\\mathrm{BaFe}}_{2}{\\mathrm{As}}_{2}$ crystallizes in the tetragonal ${\\mathrm{ThCr}}_{2}{\\mathrm{Si}}_{2}$-type structure, which consists of $(\\mathrm{FeAs}{)}^{\\ensuremath{\\delta}\\ensuremath{-}}$ iron arsenide layers separated by ${\\mathrm{Ba}}^{2+}$ ions. ${\\mathrm{BaFe}}_{2}{\\mathrm{As}}_{2}$ is a poor metal and exhibits a spin density wave anomaly at 140 K. By substituting ${\\mathrm{Ba}}^{2+}$ for ${\\mathrm{K}}^{+}$ ions we have introduced holes in the $(\\mathrm{FeAs}{)}^{\\ensuremath{-}}$ layers, which suppress the anomaly and induce superconductivity. The ${T}_{c}$ of 38 K in $({\\mathrm{Ba}}_{0.6}{\\mathrm{K}}_{0.4}){\\mathrm{Fe}}_{2}{\\mathrm{As}}_{2}$ is the highest in hole doped iron arsenide superconductors so far. Therefore, we were able to expand this class of superconductors by oxygen-free compounds with the ${\\mathrm{ThCr}}_{2}{\\mathrm{Si}}_{2}$-type structure.",
+  "authors": [
+    "Marianne Rotter",
+    "Marcus Tegel",
+    "Dirk Johrendt"
+  ],
+  "year": 2008,
+  "doi": "10.1103/physrevlett.101.107006",
+  "source": "openalex",
+  "categories": [
+    "Arsenide",
+    "Superconductivity",
+    "Ternary operation",
+    "Tetragonal crystal system",
+    "Materials science",
+    "Condensed matter physics",
+    "Doping",
+    "Ion",
+    "Crystallography",
+    "Gallium arsenide",
+    "Physics",
+    "Crystal structure",
+    "Chemistry",
+    "Quantum mechanics",
+    "Programming language",
+    "Computer science"
+  ],
+  "citation_count": 2965,
+  "open_access_pdf_url": "https://arxiv.org/pdf/0805.4630",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3023127551.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:01.819698+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3023127551",
+    "concepts": [
+      "Arsenide",
+      "Superconductivity",
+      "Ternary operation",
+      "Tetragonal crystal system",
+      "Materials science"
+    ],
+    "oa_status": "green"
+  }
+}

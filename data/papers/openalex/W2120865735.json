@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2120865735",
+  "title": "A comparison of normalization methods for high density oligonucleotide array data based on variance and bias",
+  "abstract": "MOTIVATION: When running experiments that involve multiple high density oligonucleotide arrays, it is important to remove sources of variation between arrays of non-biological origin. Normalization is a process for reducing this variation. It is common to see non-linear relations between arrays and the standard normalization provided by Affymetrix does not perform well in these situations. RESULTS: We present three methods of performing normalization at the probe intensity level. These methods are called complete data methods because they make use of data from all arrays in an experiment to form the normalizing relation. These algorithms are compared to two methods that make use of a baseline array: a one number scaling based algorithm and a method that uses a non-linear normalizing relation by comparing the variability and bias of an expression measure. Two publicly available datasets are used to carry out the comparisons. The simplest and quickest complete data method is found to perform favorably. AVAILABILITY: Software implementing all three of the complete data normalization methods is available as part of the R package Affy, which is a part of the Bioconductor project http://www.bioconductor.org. SUPPLEMENTARY INFORMATION: Additional figures may be found at http://www.stat.berkeley.edu/~bolstad/normalize/index.html",
+  "authors": [
+    "Benjamin Milo Bolstad",
+    "Rafael A. Irizarry",
+    "Magnus Åstrand",
+    "Terence Paul Speed"
+  ],
+  "year": 2003,
+  "doi": "10.1093/bioinformatics/19.2.185",
+  "source": "openalex",
+  "categories": [
+    "Bioconductor",
+    "Normalization (sociology)",
+    "Computer science",
+    "R package",
+    "Data mining",
+    "Software",
+    "Algorithm",
+    "Linear scale",
+    "Statistics",
+    "Pattern recognition (psychology)",
+    "Mathematics",
+    "Artificial intelligence",
+    "Anthropology",
+    "Geography",
+    "Programming language",
+    "Biochemistry",
+    "Geodesy",
+    "Sociology",
+    "Gene",
+    "Chemistry"
+  ],
+  "citation_count": 8314,
+  "open_access_pdf_url": "https://academic.oup.com/bioinformatics/article-pdf/19/2/185/48903970/bioinformatics_19_2_185.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2120865735.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:49.918133+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2120865735",
+    "concepts": [
+      "Bioconductor",
+      "Normalization (sociology)",
+      "Computer science",
+      "R package",
+      "Data mining"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "openalex:W2117458899",
+  "title": "H++: a server for estimating pKas and adding missing hydrogens to macromolecules",
+  "abstract": "The structure and function of macromolecules depend critically on the ionization (protonation) states of their acidic and basic groups. A number of existing practical methods predict protonation equilibrium pK constants of macromolecules based upon their atomic resolution Protein Data Bank (PDB) structures; the calculations are often performed within the framework of the continuum electrostatics model. Unfortunately, these methodologies are complex, involve multiple steps and require considerable investment of effort. Our web server http://biophysics.cs.vt.edu/H++ provides access to a tool that automates this process, allowing both experts and novices to quickly obtain estimates of pKs as well as other related characteristics of biomolecules such as isoelectric points, titration curves and energies of protonation microstates. Protons are added to the input structure according to the calculated ionization states of its titratable groups at the user-specified pH; the output is in the PQR (PDB + charges + radii) format. In addition, corresponding coordinate and topology files are generated in the format supported by the molecular modeling package AMBER. The server is intended for a broad community of biochemists, molecular modelers, structural biologists and drug designers; it can also be used as an educational tool in biochemistry courses.",
+  "authors": [
+    "J. C. Gordon",
+    "J. B. Myers",
+    "T. Folta",
+    "Valia Shoja",
+    "Lenwood S. Heath",
+    "Alexey V. Onufriev"
+  ],
+  "year": 2005,
+  "doi": "10.1093/nar/gki464",
+  "source": "openalex",
+  "categories": [
+    "Protonation",
+    "Protein Data Bank (RCSB PDB)",
+    "Macromolecule",
+    "Titration curve",
+    "Biomolecule",
+    "Protein Data Bank",
+    "Computer science",
+    "Acid dissociation constant",
+    "Bioinformatics",
+    "Titration",
+    "Chemical physics",
+    "Data mining",
+    "Computational chemistry",
+    "Biology",
+    "Crystallography",
+    "Biological system",
+    "Ion",
+    "Protein structure",
+    "Chemistry",
+    "Physics",
+    "Physical chemistry",
+    "Biochemistry",
+    "Quantum mechanics",
+    "Aqueous solution"
+  ],
+  "citation_count": 1747,
+  "open_access_pdf_url": "https://academic.oup.com/nar/article-pdf/33/suppl_2/W368/7623463/gki464.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2117458899.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:26.172699+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2117458899",
+    "concepts": [
+      "Protonation",
+      "Protein Data Bank (RCSB PDB)",
+      "Macromolecule",
+      "Titration curve",
+      "Biomolecule"
+    ],
+    "oa_status": "gold"
+  }
+}

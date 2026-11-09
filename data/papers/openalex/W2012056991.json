@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2012056991",
+  "title": "A Stellar Spectral Flux Library: 1150–25000 Å",
+  "abstract": "A stellar spectral flux library of wide spectral coverage and an example of its application are presented. The new library consists of 131 flux‐calibrated spectra, encompassing all normal spectral types and luminosity classes at solar abundance, and metal‐weak and metal‐rich F–K dwarf and G–K giant components. Each library spectrum was formed by combining data from several sources overlapping in wavelength coverage. The SIMBAD database, measured colors, and line strengths were used to check that each input component has closely similar stellar type. The library has complete spectral coverage from 1150 to 10620 Å for all components and to 25000 Å for about half of them, mainly later types of solar abundance. Missing spectral coverage in the infrared currently consists of a smooth energy distribution formed from standard colors for the relevant types. The library is designed to permit inclusion of additional digital spectra, particularly of non–solar abundance stars in the infrared, as they become available. The library spectra are each given as F λ versus λ, from 1150 to 25000 Å in steps of 5 Å. A program to combine the library spectra in the ratios appropriate to a selected isochrone is described and an example of a spectral component signature of a composite population of solar age and metallicity is illustrated. The library spectra and associated tables are available as text files by remote electronic access.",
+  "authors": [
+    "A. J. Pickles"
+  ],
+  "year": 1998,
+  "doi": "10.1086/316197",
+  "source": "openalex",
+  "categories": [
+    "Metallicity",
+    "Spectral line",
+    "Stellar classification",
+    "Physics",
+    "Astrophysics",
+    "Stars",
+    "Flux (metallurgy)",
+    "Luminosity",
+    "Spectral energy distribution",
+    "Astronomical spectroscopy",
+    "Population",
+    "Stellar population",
+    "Astronomy",
+    "Galaxy",
+    "Chemistry",
+    "Sociology",
+    "Organic chemistry",
+    "Star formation",
+    "Demography"
+  ],
+  "citation_count": 1464,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1086/316197/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2012056991.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:48.195955+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2012056991",
+    "concepts": [
+      "Metallicity",
+      "Spectral line",
+      "Stellar classification",
+      "Physics",
+      "Astrophysics"
+    ],
+    "oa_status": "bronze"
+  }
+}

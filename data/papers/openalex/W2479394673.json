@@ -1,0 +1,45 @@
+{
+  "id": "openalex:W2479394673",
+  "title": "Melatonin as an antioxidant: under promises but over delivers",
+  "abstract": "Melatonin is uncommonly effective in reducing oxidative stress under a remarkably large number of circumstances. It achieves this action via a variety of means: direct detoxification of reactive oxygen and reactive nitrogen species and indirectly by stimulating antioxidant enzymes while suppressing the activity of pro-oxidant enzymes. In addition to these well-described actions, melatonin also reportedly chelates transition metals, which are involved in the Fenton/Haber-Weiss reactions; in doing so, melatonin reduces the formation of the devastatingly toxic hydroxyl radical resulting in the reduction of oxidative stress. Melatonin's ubiquitous but unequal intracellular distribution, including its high concentrations in mitochondria, likely aid in its capacity to resist oxidative stress and cellular apoptosis. There is credible evidence to suggest that melatonin should be classified as a mitochondria-targeted antioxidant. Melatonin's capacity to prevent oxidative damage and the associated physiological debilitation is well documented in numerous experimental ischemia/reperfusion (hypoxia/reoxygenation) studies especially in the brain (stroke) and in the heart (heart attack). Melatonin, via its antiradical mechanisms, also reduces the toxicity of noxious prescription drugs and of methamphetamine, a drug of abuse. Experimental findings also indicate that melatonin renders treatment-resistant cancers sensitive to various therapeutic agents and may be useful, due to its multiple antioxidant actions, in especially delaying and perhaps treating a variety of age-related diseases and dehumanizing conditions. Melatonin has been effectively used to combat oxidative stress, inflammation and cellular apoptosis and to restore tissue function in a number of human trials; its efficacy supports its more extensive use in a wider variety of human studies. The uncommonly high-safety profile of melatonin also bolsters this conclusion. It is the current feeling of the authors that, in view of the widely diverse beneficial functions that have been reported for melatonin, these may be merely epiphenomena of the more fundamental, yet-to-be identified basic action(s) of this ancient molecule.",
+  "authors": [
+    "Russel Joseph Reiter",
+    "Juan C. Mayo",
+    "Dunxian X Tan",
+    "Rosa María Sainz",
+    "Moisés Alejandro Alatorre-Jiménez",
+    "Lilan Qin"
+  ],
+  "year": 2016,
+  "doi": "10.1111/jpi.12360",
+  "source": "openalex",
+  "categories": [
+    "Melatonin",
+    "Oxidative stress",
+    "Antioxidant",
+    "Reactive oxygen species",
+    "Pharmacology",
+    "Reactive nitrogen species",
+    "Mitochondrion",
+    "Biology",
+    "Chemistry",
+    "Biochemistry",
+    "Endocrinology"
+  ],
+  "citation_count": 1777,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jpi.12360",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2479394673.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:26.081039+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2479394673",
+    "concepts": [
+      "Melatonin",
+      "Oxidative stress",
+      "Antioxidant",
+      "Reactive oxygen species",
+      "Pharmacology"
+    ],
+    "oa_status": "hybrid"
+  }
+}

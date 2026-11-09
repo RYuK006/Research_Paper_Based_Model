@@ -1,0 +1,43 @@
+{
+  "id": "openalex:W2062219808",
+  "title": "BIODIESEL PRODUCTION FROM OILS AND FATS WITH HIGH FREE FATTY ACIDS",
+  "abstract": "Biodiesel is an alternative fuel for diesel engines consisting of the alkyl monoesters of fatty acids from vegetableoils or animal fats. Most of the biodiesel that is currently made uses soybean oil, methanol, and an alkaline catalyst. The highvalue of soybean oil as a food product makes production of a costeffective fuel very challenging. However, there are largeamounts of lowcost oils and fats such as restaurant waste and animal fats that could be converted to biodiesel. The problemwith processing these low cost oils and fats is that they often contain large amounts of free fatty acids (FFA) that cannot beconverted to biodiesel using an alkaline catalyst. In this study, a technique is described to reduce the free fatty acids contentof these feedstocks using an acidcatalyzed pretreatment to esterify the free fatty acids before transesterifying the triglycerideswith an alkaline catalyst to complete the reaction. Initial process development was performed with synthetic mixturescontaining 20% and 40% free fatty acids, prepared using palmitic acid. Process parameters such as the molar ratio of alcohol,type of alcohol, acid catalyst amount, reaction time, and free fatty acids level were investigated to determine the best strategyfor converting the free fatty acids to usable esters. The work showed that the acid level of the high free fatty acids feedstockscould be reduced to less than 1% with a 2step pretreatment reaction. The reaction mixture was allowed to settle betweensteps so that the watercontaining alcohol phase could be removed. The 2step pretreatment reaction was demonstrated withactual feedstocks, including yellow grease with 12% free fatty acids and brown grease with 33% free fatty acids. After reducingthe acid levels of these feedstocks to less than 1%, the transesterification reaction was completed with an alkaline catalystto produce fuelgrade biodiesel.",
+  "authors": [
+    "M. Canakci",
+    "Jon H. Van Gerpen"
+  ],
+  "year": 2001,
+  "doi": "10.13031/2013.7010",
+  "source": "openalex",
+  "categories": [
+    "Biodiesel",
+    "Biodiesel production",
+    "Chemistry",
+    "Organic chemistry",
+    "Alcohol",
+    "Catalysis",
+    "Soybean oil",
+    "Transesterification",
+    "Fatty acid",
+    "Vegetable oil",
+    "Methanol",
+    "Diesel fuel",
+    "Food science"
+  ],
+  "citation_count": 1309,
+  "open_access_pdf_url": "http://elibrary.asabe.org/azdez.asp?JID=3&AID=7010&t=2&v=44&i=6&CID=t2001&downPDF=Y&directPDF=Y",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2062219808.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:57.747813+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2062219808",
+    "concepts": [
+      "Biodiesel",
+      "Biodiesel production",
+      "Chemistry",
+      "Organic chemistry",
+      "Alcohol"
+    ],
+    "oa_status": "bronze"
+  }
+}

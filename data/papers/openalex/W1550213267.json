@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W1550213267",
+  "title": "MALDI-TOF mass spectrometry: an emerging technology for microbial identification and diagnosis",
+  "abstract": "Currently microorganisms are best identified using 16S rRNA and 18S rRNA gene sequencing. However, in recent years matrix assisted laser desorption ionization-time of flight mass spectrometry (MALDI-TOF MS) has emerged as a potential tool for microbial identification and diagnosis. During the MALDI-TOF MS process, microbes are identified using either intact cells or cell extracts. The process is rapid, sensitive, and economical in terms of both labor and costs involved. The technology has been readily imbibed by microbiologists who have reported usage of MALDI-TOF MS for a number of purposes like, microbial identification and strain typing, epidemiological studies, detection of biological warfare agents, detection of water- and food-borne pathogens, detection of antibiotic resistance and detection of blood and urinary tract pathogens etc. The limitation of the technology is that identification of new isolates is possible only if the spectral database contains peptide mass fingerprints of the type strains of specific genera/species/subspecies/strains. This review provides an overview of the status and recent applications of mass spectrometry for microbial identification. It also explores the usefulness of this exciting new technology for diagnosis of diseases caused by bacteria, viruses, and fungi.",
+  "authors": [
+    "Neelja Singhal",
+    "Manish Kumar",
+    "Pawan Kumar Kanaujia",
+    "Jugsharan Singh Virdi"
+  ],
+  "year": 2015,
+  "doi": "10.3389/fmicb.2015.00791",
+  "source": "openalex",
+  "categories": [
+    "Mass spectrometry",
+    "Identification (biology)",
+    "Matrix-assisted laser desorption/ionization",
+    "Microbiology",
+    "Biology",
+    "16S ribosomal RNA",
+    "Computational biology",
+    "Microorganism",
+    "Typing",
+    "Bacteria",
+    "Chromatography",
+    "Chemistry",
+    "Genetics",
+    "Desorption",
+    "Botany",
+    "Adsorption",
+    "Organic chemistry"
+  ],
+  "citation_count": 1736,
+  "open_access_pdf_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2015.00791/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1550213267.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:26.213542+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1550213267",
+    "concepts": [
+      "Mass spectrometry",
+      "Identification (biology)",
+      "Matrix-assisted laser desorption/ionization",
+      "Microbiology",
+      "Biology"
+    ],
+    "oa_status": "gold"
+  }
+}

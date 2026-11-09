@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2269917342",
+  "title": "Low-threshold amplified spontaneous emission and lasing from colloidal nanocrystals of caesium lead halide perovskites",
+  "abstract": "Metal halide semiconductors with perovskite crystal structures have recently emerged as highly promising optoelectronic materials. Despite the recent surge of reports on microcrystalline, thin-film and bulk single-crystalline metal halides, very little is known about the photophysics of metal halides in the form of uniform, size-tunable nanocrystals. Here we report low-threshold amplified spontaneous emission and lasing from ∼10 nm monodisperse colloidal nanocrystals of caesium lead halide perovskites CsPbX3 (X=Cl, Br or I, or mixed Cl/Br and Br/I systems). We find that room-temperature optical amplification can be obtained in the entire visible spectral range (440-700 nm) with low pump thresholds down to 5±1 μJ cm(-2) and high values of modal net gain of at least 450±30 cm(-1). Two kinds of lasing modes are successfully observed: whispering-gallery-mode lasing using silica microspheres as high-finesse resonators, conformally coated with CsPbX3 nanocrystals and random lasing in films of CsPbX3 nanocrystals.",
+  "authors": [
+    "Sergii Yakunin",
+    "Loredana Proteşescu",
+    "Franziska Krieg",
+    "Maryna I. Bodnarchuk",
+    "Georgian Nedelcu",
+    "Markus Humer",
+    "Gabriele De Luca",
+    "M. Fiebig",
+    "Wolfgang Heiß",
+    "Maksym V. Kovalenko"
+  ],
+  "year": 2015,
+  "doi": "10.1038/ncomms9056",
+  "source": "openalex",
+  "categories": [
+    "Lasing threshold",
+    "Materials science",
+    "Halide",
+    "Nanocrystal",
+    "Perovskite (structure)",
+    "Optoelectronics",
+    "Whispering-gallery wave",
+    "Photoluminescence",
+    "Nanolaser",
+    "Microcrystalline",
+    "Nanotechnology",
+    "Inorganic chemistry",
+    "Resonator",
+    "Chemistry",
+    "Crystallography",
+    "Wavelength"
+  ],
+  "citation_count": 1643,
+  "open_access_pdf_url": "https://www.nature.com/articles/ncomms9056.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2269917342.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:38.027306+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2269917342",
+    "concepts": [
+      "Lasing threshold",
+      "Materials science",
+      "Halide",
+      "Nanocrystal",
+      "Perovskite (structure)"
+    ],
+    "oa_status": "gold"
+  }
+}

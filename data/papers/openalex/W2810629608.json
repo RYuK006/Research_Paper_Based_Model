@@ -1,0 +1,41 @@
+{
+  "id": "openalex:W2810629608",
+  "title": "Molecular mechanisms of hepatic lipid accumulation in non-alcoholic fatty liver disease",
+  "abstract": "Non-alcoholic fatty liver disease (NAFLD) is currently the world's most common liver disease, estimated to affect up to one-fourth of the population. Hallmarked by hepatic steatosis, NAFLD is associated with a multitude of detrimental effects and increased mortality. This narrative review investigates the molecular mechanisms of hepatic steatosis in NAFLD, focusing on the four major pathways contributing to lipid homeostasis in the liver. Hepatic steatosis is a consequence of lipid acquisition exceeding lipid disposal, i.e., the uptake of fatty acids and de novo lipogenesis surpassing fatty acid oxidation and export. In NAFLD, hepatic uptake and de novo lipogenesis are increased, while a compensatory enhancement of fatty acid oxidation is insufficient in normalizing lipid levels and may even promote cellular damage and disease progression by inducing oxidative stress, especially with compromised mitochondrial function and increased oxidation in peroxisomes and cytochromes. While lipid export initially increases, it plateaus and may even decrease with disease progression, sustaining the accumulation of lipids. Fueled by lipo-apoptosis, hepatic steatosis leads to systemic metabolic disarray that adversely affects multiple organs, placing abnormal lipid metabolism associated with NAFLD in close relation to many of the current life-style-related diseases.",
+  "authors": [
+    "David Højland Ipsen",
+    "Jens Lykkesfeldt",
+    "Pernille Tveden‐Nyborg"
+  ],
+  "year": 2018,
+  "doi": "10.1007/s00018-018-2860-6",
+  "source": "openalex",
+  "categories": [
+    "Fatty liver",
+    "Alcoholic liver disease",
+    "Alcoholic fatty liver",
+    "Chemistry",
+    "Biochemistry",
+    "Lipid metabolism",
+    "Internal medicine",
+    "Disease",
+    "Medicine",
+    "Cirrhosis"
+  ],
+  "citation_count": 1531,
+  "open_access_pdf_url": "https://link.springer.com/content/pdf/10.1007/s00018-018-2860-6.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2810629608.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:45.411165+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2810629608",
+    "concepts": [
+      "Fatty liver",
+      "Alcoholic liver disease",
+      "Alcoholic fatty liver",
+      "Chemistry",
+      "Biochemistry"
+    ],
+    "oa_status": "hybrid"
+  }
+}

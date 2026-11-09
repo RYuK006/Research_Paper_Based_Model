@@ -1,0 +1,42 @@
+{
+  "id": "openalex:W2039212784",
+  "title": "Dimethylbiguanide Inhibits Cell Respiration via an Indirect Effect Targeted on the Respiratory Chain Complex I",
+  "abstract": "We report here a new mitochondrial regulation occurring only in intact cells. We have investigated the effects of dimethylbiguanide on isolated rat hepatocytes, permeabilized hepatocytes, and isolated liver mitochondria. Addition of dimethylbiguanide decreased oxygen consumption and mitochondrial membrane potential only in intact cells but not in permeabilized hepatocytes or isolated mitochondria. Permeabilized hepatocytes after dimethylbiguanide exposure and mitochondria isolated from dimethylbiguanide pretreated livers or animals were characterized by a significant inhibition of oxygen consumption with complex I substrates (glutamate and malate) but not with complex II (succinate) or complex IV (N,N,N',N'-tetramethyl-1, 4-phenylenediamine dihydrochloride (TMPD)/ascorbate) substrates. Studies using functionally isolated complex I obtained from mitochondria isolated from dimethylbiguanide-pretreated livers or rats further confirmed that dimethylbiguanide action was located on the respiratory chain complex I. The dimethylbiguanide effect was temperature-dependent, oxygen consumption decreasing by 50, 20, and 0% at 37, 25, and 15 degrees C, respectively. This effect was not affected by insulin-signaling pathway inhibitors, nitric oxide precursor or inhibitors, oxygen radical scavengers, ceramide synthesis inhibitors, or chelation of intra- or extracellular Ca(2+). Because it is established that dimethylbiguanide is not metabolized, these results suggest the existence of a new cell-signaling pathway targeted to the respiratory chain complex I with a persistent effect after cessation of the signaling process.",
+  "authors": [
+    "Mohamad‐Yehia El‐Mir",
+    "Véronique Nogueira",
+    "Eric M. Fontaine",
+    "Nicole Avéret",
+    "Michel Rigoulet",
+    "Xavier Maurice Leverve"
+  ],
+  "year": 2000,
+  "doi": "10.1074/jbc.275.1.223",
+  "source": "openalex",
+  "categories": [
+    "Respiration",
+    "Respiratory system",
+    "Cell",
+    "Biology",
+    "Chemistry",
+    "Cell biology",
+    "Genetics",
+    "Anatomy"
+  ],
+  "citation_count": 1439,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925819528551/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2039212784.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:50.514815+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2039212784",
+    "concepts": [
+      "Respiration",
+      "Respiratory system",
+      "Cell",
+      "Biology",
+      "Chemistry"
+    ],
+    "oa_status": "hybrid"
+  }
+}

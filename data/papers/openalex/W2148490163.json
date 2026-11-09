@@ -1,0 +1,43 @@
+{
+  "id": "openalex:W2148490163",
+  "title": "Exponentially Modified Protein Abundance Index (emPAI) for Estimation of Absolute Protein Amount in Proteomics by the Number of Sequenced Peptides per Protein",
+  "abstract": "To estimate absolute protein contents in complex mixtures, we previously defined a protein abundance index (PAI) as the number of observed peptides divided by the number of observable peptides per protein (Rappsilber, J., Ryder, U., Lamond, A. I., and Mann, M. (2002) Large-scale proteomic analysis of the human spliceosome. Genome. Res. 12, 1231-1245). Here we report that PAI values obtained at different concentrations of serum albumin show a linear relationship with the logarithm of protein concentration in LC-MS/MS experiments. This was also the case for 46 proteins in a mouse whole cell lysate. For absolute quantitation, PAI was converted to exponentially modified PAI (emPAI), equal to 10PAI minus one, which is proportional to protein content in a protein mixture. For the 46 proteins in the whole lysate, the deviation percentages of the emPAI-based abundances from the actual values were within 63% on average, similar or better than determination of abundance by protein staining. emPAI was applied to comprehensive protein expression analysis and to a comparison study between gene and protein expression in a human cancer cell line, HCT116. The values of emPAI are easily calculated and add important quantitation information to proteomic experiments; therefore we suggest that they should be reported in large scale proteomic identification projects.",
+  "authors": [
+    "Yasushi Ishihama",
+    "Yoshiya Oda",
+    "Tsuyoshi Tabata",
+    "Toshitaka Sato",
+    "Takeshi Nagasu",
+    "Juri Rappsilber",
+    "Matthias Mann"
+  ],
+  "year": 2005,
+  "doi": "10.1074/mcp.m500061-mcp200",
+  "source": "openalex",
+  "categories": [
+    "Proteomics",
+    "Lysis",
+    "Chemistry",
+    "Quantitative proteomics",
+    "Molecular biology",
+    "Biology",
+    "Biochemistry",
+    "Gene"
+  ],
+  "citation_count": 2086,
+  "open_access_pdf_url": "http://www.mcponline.org/article/S1535947620309592/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2148490163.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:15.456894+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2148490163",
+    "concepts": [
+      "Proteomics",
+      "Lysis",
+      "Chemistry",
+      "Quantitative proteomics",
+      "Molecular biology"
+    ],
+    "oa_status": "hybrid"
+  }
+}

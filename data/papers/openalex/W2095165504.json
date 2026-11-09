@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2095165504",
+  "title": "Dynamical systems with elastic reflections",
+  "abstract": "In this paper we consider dynamical systems resulting from the motion of a material point in domains with strictly convex boundary, that is, such that the operator of the second quadratic form is negative-definite at each point of the boundary, where the boundary is taken to be equipped with the field of inward normals. We prove that such systems are ergodic and are K -systems. The basic method of investigation is the construction of transversal foliations for such systems and the study of their properties.",
+  "authors": [
+    "Yakov Grigor'evich Sinai"
+  ],
+  "year": 1970,
+  "doi": "10.1070/rm1970v025n02abeh003794",
+  "source": "openalex",
+  "categories": [
+    "Mathematics",
+    "Boundary (topology)",
+    "Ergodic theory",
+    "Dynamical systems theory",
+    "Operator (biology)",
+    "Transversal (combinatorics)",
+    "Regular polygon",
+    "Point (geometry)",
+    "Quadratic equation",
+    "Dynamical system (definition)",
+    "Field (mathematics)",
+    "Mathematical analysis",
+    "Pure mathematics",
+    "Geometry",
+    "Physics",
+    "Repressor",
+    "Quantum mechanics",
+    "Gene",
+    "Transcription factor",
+    "Biochemistry",
+    "Chemistry"
+  ],
+  "citation_count": 1156,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1070/RM1970v025n02ABEH003794/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2095165504.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:14.531520+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2095165504",
+    "concepts": [
+      "Mathematics",
+      "Boundary (topology)",
+      "Ergodic theory",
+      "Dynamical systems theory",
+      "Operator (biology)"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W2063110349",
+  "title": "COBRA: a sensitive and quantitative DNA methylation assay",
+  "abstract": "We report here on a quantitative technique called COBRA to determine DNA methylation levels at specific gene loci in small amounts of genomic DNA. Restriction enzyme digestion is used to reveal methylation-dependent sequence differences in PCR products of sodium bisulfite-treated DNA as described previously. We show that methylation levels in the original DNA sample are represented by the relative amounts of digested and undigested PCR product in a linearly quantitative fashion across a wide spectrum of DNA methylation levels. In addition, we show that this technique can be reliably applied to DNA obtained from microdissected paraffin-embedded tissue samples. COBRA thus combines the powerful features of ease of use, quantitative accuracy, and compatibility with paraffin sections.",
+  "authors": [
+    "Z. Xiong",
+    "Peter W. Laird"
+  ],
+  "year": 1997,
+  "doi": "10.1093/nar/25.12.2532",
+  "source": "openalex",
+  "categories": [
+    "Biology",
+    "DNA methylation",
+    "Cobra",
+    "DNA",
+    "Molecular biology",
+    "Sodium bisulfite",
+    "Methylation",
+    "Illumina Methylation Assay",
+    "genomic DNA",
+    "Bisulfite sequencing",
+    "Methylated DNA immunoprecipitation",
+    "Restriction enzyme",
+    "Amplified fragment length polymorphism",
+    "Polymerase chain reaction",
+    "Bisulfite",
+    "Gene",
+    "Genetics",
+    "Gene expression",
+    "Chemistry",
+    "Population",
+    "Demography",
+    "Programming language",
+    "Computer science",
+    "Organic chemistry",
+    "Sociology",
+    "Genetic diversity"
+  ],
+  "citation_count": 1199,
+  "open_access_pdf_url": "https://academic.oup.com/nar/article-pdf/25/12/2532/9466906/25-12-2532.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2063110349.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:08.294688+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2063110349",
+    "concepts": [
+      "Biology",
+      "DNA methylation",
+      "Cobra",
+      "DNA",
+      "Molecular biology"
+    ],
+    "oa_status": "bronze"
+  }
+}

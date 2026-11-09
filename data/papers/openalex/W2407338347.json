@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W2407338347",
+  "title": "The Automatic Content Extraction (ACE) Program – Tasks, Data, and Evaluation",
+  "abstract": "The objective of the ACE program is to develop technology to automatically infer from human language data the entities being mentioned, the relations among these entities that are directly expressed, and the events in which these entities participate.Data sources include audio and image data in addition to pure text, and Arabic and Chinese in addition to English.The effort involves defining the research tasks in detail, collecting and annotating data needed for training, development, and evaluation, and supporting the research with evaluation tools and research workshops.This program began with a pilot study in 1999.The next evaluation is scheduled for September 2004.",
+  "authors": [
+    "George R. Doddington",
+    "Alexis Mitchell",
+    "Mark A. Przybocki",
+    "Lance Ramshaw",
+    "Stephanie M. Strassel",
+    "Ralph Weischedel"
+  ],
+  "year": 2004,
+  "doi": "10.63317/4o6ysc5sicba",
+  "source": "openalex",
+  "categories": [
+    "Computer science",
+    "Content (measure theory)",
+    "Extraction (chemistry)",
+    "Data extraction",
+    "Data mining",
+    "Information retrieval",
+    "Chromatography",
+    "MEDLINE",
+    "Chemistry",
+    "Mathematics",
+    "Mathematical analysis",
+    "Biochemistry"
+  ],
+  "citation_count": 1135,
+  "open_access_pdf_url": "http://www.lrec-conf.org/proceedings/lrec2004/pdf/5.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2407338347.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:16.963899+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2407338347",
+    "concepts": [
+      "Computer science",
+      "Content (measure theory)",
+      "Extraction (chemistry)",
+      "Data extraction",
+      "Data mining"
+    ],
+    "oa_status": "hybrid"
+  }
+}

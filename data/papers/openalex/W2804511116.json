@@ -1,0 +1,45 @@
+{
+  "id": "openalex:W2804511116",
+  "title": "A Simple, Evidence-Based Approach to Help Guide Diagnosis of Heart Failure With Preserved Ejection Fraction",
+  "abstract": "Background: Diagnosis of heart failure with preserved ejection fraction (HFpEF) is challenging in euvolemic patients with dyspnea, and no evidence-based criteria are available. We sought to develop and then validate noninvasive diagnostic criteria that could be used to estimate the likelihood that HFpEF is present among patients with unexplained dyspnea to guide further testing. Methods: Consecutive patients with unexplained dyspnea referred for invasive hemodynamic exercise testing were retrospectively evaluated. Diagnosis of HFpEF (case) or noncardiac dyspnea (control) was ascertained by invasive hemodynamic exercise testing. Logistic regression was performed to evaluate the ability of clinical findings to discriminate cases from controls. A scoring system was developed and then validated in a separate test cohort. Results: The derivation cohort included 414 consecutive patients (267 cases with HFpEF and 147 controls; HFpEF prevalence, 64%). The test cohort included 100 consecutive patients (61 with HFpEF; prevalence, 61%). Obesity, atrial fibrillation, age >60 years, treatment with ≥2 antihypertensives, echocardiographic E/e’ ratio >9, and echocardiographic pulmonary artery systolic pressure >35 mm Hg were selected as the final set of predictive variables. A weighted score based on these 6 variables was used to create a composite score (H 2 FPEF score) ranging from 0 to 9. The odds of HFpEF doubled for each 1-unit score increase (odds ratio, 1.98; 95% CI, 1.74–2.30; P <0.0001), with an area under the curve of 0.841 ( P <0.0001). The H 2 FPEF score was superior to a currently used algorithm based on expert consensus (increase in area under the curve of 0.169; 95% CI, 0.120–0.217; P <0.0001). Performance in the independent test cohort was maintained (area under the curve, 0.886; P <0.0001). Conclusions: The H 2 FPEF score, which relies on simple clinical characteristics and echocardiography, enables discrimination of HFpEF from noncardiac causes of dyspnea and can assist in determination of the need for further diagnostic testing in the evaluation of patients with unexplained exertional dyspnea.",
+  "authors": [
+    "Yogesh N.V. Reddy",
+    "Rickey E. Carter",
+    "Masaru Obokata",
+    "Margaret M. Redfield",
+    "Barry A. Borlaug"
+  ],
+  "year": 2018,
+  "doi": "10.1161/circulationaha.118.034646",
+  "source": "openalex",
+  "categories": [
+    "Medicine",
+    "Heart failure with preserved ejection fraction",
+    "Heart failure",
+    "Ejection fraction",
+    "Cardiology",
+    "Internal medicine",
+    "Diagnostic test",
+    "Fraction (chemistry)",
+    "Intensive care medicine",
+    "Emergency medicine",
+    "Organic chemistry",
+    "Chemistry"
+  ],
+  "citation_count": 1321,
+  "open_access_pdf_url": "https://www.ahajournals.org/doi/pdf/10.1161/CIRCULATIONAHA.118.034646?download=true",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2804511116.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:57.660212+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2804511116",
+    "concepts": [
+      "Medicine",
+      "Heart failure with preserved ejection fraction",
+      "Heart failure",
+      "Ejection fraction",
+      "Cardiology"
+    ],
+    "oa_status": "bronze"
+  }
+}

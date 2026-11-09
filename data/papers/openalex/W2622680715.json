@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2622680715",
+  "title": "Review—SEI: Past, Present and Future",
+  "abstract": "The Solid-Electrolyte-Interphase (SEI) model for non-aqueous alkali-metal batteries constitutes a paradigm change in the understanding of lithium batteries and has thus enabled the development of safer, durable, higher-power and lower-cost lithium batteries for portable and EV applications.Prior to the publication of the SEI model ( 1979), researchers used the Butler-Volmer equation, in which a direct electron transfer from the electrode to lithium cations in the solution is assumed.The SEI model proved that this is a mistaken concept and that, in practice, the transfer of electrons from the electrode to the solution in a lithium battery, must be prevented, since it will result in fast self-discharge of the active materials and poor battery performance.This model provides [",
+  "authors": [
+    "Emanuel Peled",
+    "Svetlana Menkin"
+  ],
+  "year": 2017,
+  "doi": "10.1149/2.1441707jes",
+  "source": "openalex",
+  "categories": [
+    "Lithium (medication)",
+    "Anode",
+    "Electrolyte",
+    "Battery (electricity)",
+    "Electrode",
+    "Alkali metal",
+    "Materials science",
+    "Lithium metal",
+    "Engineering physics",
+    "Chemical engineering",
+    "Power (physics)",
+    "Chemistry",
+    "Physics",
+    "Engineering",
+    "Thermodynamics",
+    "Physical chemistry",
+    "Organic chemistry",
+    "Medicine",
+    "Endocrinology"
+  ],
+  "citation_count": 2241,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1149/2.1441707jes/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2622680715.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:12.581500+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2622680715",
+    "concepts": [
+      "Lithium (medication)",
+      "Anode",
+      "Electrolyte",
+      "Battery (electricity)",
+      "Electrode"
+    ],
+    "oa_status": "hybrid"
+  }
+}

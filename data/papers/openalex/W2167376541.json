@@ -1,0 +1,43 @@
+{
+  "id": "openalex:W2167376541",
+  "title": "Lipid extraction by methyl-tert-butyl ether for high-throughput lipidomics",
+  "abstract": "Accurate profiling of lipidomes relies upon the quantitative and unbiased recovery of lipid species from analyzed cells, fluids, or tissues and is usually achieved by two-phase extraction with chloroform. We demonstrated that methyl-tert-butyl ether (MTBE) extraction allows faster and cleaner lipid recovery and is well suited for automated shotgun profiling. Because of MTBE's low density, lipid-containing organic phase forms the upper layer during phase separation, which simplifies its collection and minimizes dripping losses. Nonextractable matrix forms a dense pellet at the bottom of the extraction tube and is easily removed by centrifugation. Rigorous testing demonstrated that the MTBE protocol delivers similar or better recoveries of species of most all major lipid classes compared with the \"gold-standard\" Folch or Bligh and Dyer recipes.",
+  "authors": [
+    "Vitali Matyash",
+    "Gerhard Liebisch",
+    "Teymuras V. Kurzchalia",
+    "Andrej Shevchenko",
+    "Dominik Schwudke"
+  ],
+  "year": 2008,
+  "doi": "10.1194/jlr.d700041-jlr200",
+  "source": "openalex",
+  "categories": [
+    "Chromatography",
+    "Lipidomics",
+    "Chemistry",
+    "Methyl tert-butyl ether",
+    "Centrifugation",
+    "Ether",
+    "Extraction (chemistry)",
+    "Chloroform",
+    "Organic chemistry",
+    "Biochemistry"
+  ],
+  "citation_count": 2633,
+  "open_access_pdf_url": "http://www.jlr.org/article/S002222752042601X/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2167376541.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:04.212643+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2167376541",
+    "concepts": [
+      "Chromatography",
+      "Lipidomics",
+      "Chemistry",
+      "Methyl tert-butyl ether",
+      "Centrifugation"
+    ],
+    "oa_status": "hybrid"
+  }
+}

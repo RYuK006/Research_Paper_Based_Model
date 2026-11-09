@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W3013726226",
+  "title": "Understanding MAPK Signaling Pathways in Apoptosis",
+  "abstract": "MAPK (mitogen-activated protein kinase) signaling pathways regulate a variety of biological processes through multiple cellular mechanisms. In most of these processes, such as apoptosis, MAPKs have a dual role since they can act as activators or inhibitors, depending on the cell type and the stimulus. In this review, we present the main pro- and anti-apoptotic mechanisms regulated by MAPKs, as well as the crosstalk observed between some MAPKs. We also describe the basic signaling properties of MAPKs (ultrasensitivity, hysteresis, digital response), and the presence of different positive feedback loops in apoptosis. We provide a simple guide to predict MAPKs’ behavior, based on the intensity and duration of the stimulus. Finally, we consider the role of MAPKs in osmostress-induced apoptosis by using Xenopus oocytes as a cell model. As we will see, apoptosis is plagued with multiple positive feedback loops. We hope this review will help to understand how MAPK signaling pathways engage irreversible cellular decisions.",
+  "authors": [
+    "Jicheng Yue",
+    "José Manuel López"
+  ],
+  "year": 2020,
+  "doi": "10.3390/ijms21072346",
+  "source": "openalex",
+  "categories": [
+    "Crosstalk",
+    "MAPK/ERK pathway",
+    "Apoptosis",
+    "Cell biology",
+    "Signal transduction",
+    "Kinase",
+    "Cell signaling",
+    "Stimulus (psychology)",
+    "Xenopus",
+    "Phosphorylation",
+    "Mitogen-activated protein kinase",
+    "Biology",
+    "Chemistry",
+    "Biochemistry",
+    "Physics",
+    "Psychology",
+    "Psychotherapist",
+    "Optics",
+    "Gene"
+  ],
+  "citation_count": 1259,
+  "open_access_pdf_url": "https://www.mdpi.com/1422-0067/21/7/2346/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3013726226.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:00.721571+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3013726226",
+    "concepts": [
+      "Crosstalk",
+      "MAPK/ERK pathway",
+      "Apoptosis",
+      "Cell biology",
+      "Signal transduction"
+    ],
+    "oa_status": "gold"
+  }
+}

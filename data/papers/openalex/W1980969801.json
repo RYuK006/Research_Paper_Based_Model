@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W1980969801",
+  "title": "Vascular Endothelial Growth Factor Regulates Endothelial Cell Survival through the Phosphatidylinositol 3′-Kinase/Akt Signal Transduction Pathway",
+  "abstract": "Vascular endothelial growth factor (VEGF) has been found to have various functions on endothelial cells, the most prominent of which is the induction of proliferation and differentiation. In this report we demonstrate that VEGF or a mutant, selectively binding to the Flk-1/KDR receptor, displayed high levels of survival activity, whereas Flt-1-specific ligands failed to promote survival of serum-starved primary human endothelial cells. This activity was blocked by the phosphatidylinositol 3'-kinase (PI3-kinase)-specific inhibitors wortmannin and LY294002. Endothelial cells cultured in the presence of VEGF and the Flk-1/KDR-selective VEGF mutant induced phosphorylation of the serine-threonine kinase Akt in a PI3-kinase-dependent manner. Akt activation was not detected in response to stimulation with placenta growth factor or an Flt-1-selective VEGF mutant. Furthermore, a constitutively active Akt was sufficient to promote survival of serum-starved endothelial cells in transient transfection experiments. In contrast, overexpression of a dominant-negative form of Akt blocked the survival effect of VEGF. These findings identify the Flk-1/KDR receptor and the PI3-kinase/Akt signal transduction pathway as crucial elements in the processes leading to endothelial cell survival induced by VEGF. Inhibition of apoptosis may represent a major aspect of the regulatory activity of VEGF on the vascular endothelium.",
+  "authors": [
+    "Hans Peter Gerber",
+    "Amy E. McMurtrey",
+    "Joe Kowalski",
+    "Minhong Yan",
+    "Bruce A. Keyt",
+    "Vishva M. Dixit",
+    "Napoleone Ferrara"
+  ],
+  "year": 1998,
+  "doi": "10.1074/jbc.273.46.30336",
+  "source": "openalex",
+  "categories": [
+    "Signal transduction",
+    "Phosphatidylinositol",
+    "Protein kinase B",
+    "Cell biology",
+    "Vascular endothelial growth factor A",
+    "Vascular endothelial growth factor",
+    "Vascular endothelial growth factor B",
+    "Vascular endothelial growth factor C",
+    "PI3K/AKT/mTOR pathway",
+    "Chemistry",
+    "Biology",
+    "Cancer research",
+    "VEGF receptors"
+  ],
+  "citation_count": 2007,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925819592420/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1980969801.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:17.668886+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1980969801",
+    "concepts": [
+      "Signal transduction",
+      "Phosphatidylinositol",
+      "Protein kinase B",
+      "Cell biology",
+      "Vascular endothelial growth factor A"
+    ],
+    "oa_status": "hybrid"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2320440260",
+  "title": "Optimal design for universal multiport interferometers",
+  "abstract": "Universal multiport interferometers, which can be programmed to implement any linear transformation between multiple channels, are emerging as a powerful tool for both classical and quantum photonics. These interferometers are typically composed of a regular mesh of beam splitters and phase shifters, allowing for straightforward fabrication using integrated photonic architectures and ready scalability. The current, standard design for universal multiport interferometers is based on work by Reck et al. [Phys. Rev. Lett.73, 58 (1994)PRLTAO0031-900710.1103/PhysRevLett.73.58]. We demonstrate a new design for universal multiport interferometers based on an alternative arrangement of beam splitters and phase shifters, which outperforms that by Reck et al. Our design requires half the optical depth of the Reck design and is significantly more robust to optical losses.",
+  "authors": [
+    "William R. Clements",
+    "Peter C. Humphreys",
+    "Benjamin J. Metcalf",
+    "W. Steven Kolthammer",
+    "Ian A. Walmsley"
+  ],
+  "year": 2016,
+  "doi": "10.1364/optica.3.001460",
+  "source": "openalex",
+  "categories": [
+    "Astronomical interferometer",
+    "Beam splitter",
+    "Photonics",
+    "Interferometry",
+    "Footprint",
+    "Scalability",
+    "Computer science",
+    "Transformation (genetics)",
+    "Physics",
+    "Electronic engineering",
+    "Engineering",
+    "Optics",
+    "Gene",
+    "Paleontology",
+    "Chemistry",
+    "Biology",
+    "Laser",
+    "Database",
+    "Biochemistry"
+  ],
+  "citation_count": 1295,
+  "open_access_pdf_url": "https://doi.org/10.1364/optica.3.001460",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2320440260.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:57.858545+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2320440260",
+    "concepts": [
+      "Astronomical interferometer",
+      "Beam splitter",
+      "Photonics",
+      "Interferometry",
+      "Footprint"
+    ],
+    "oa_status": "gold"
+  }
+}

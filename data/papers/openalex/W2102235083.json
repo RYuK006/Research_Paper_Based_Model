@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2102235083",
+  "title": "Glucose-Induced Reactive Oxygen Species Cause Apoptosis of Podocytes and Podocyte Depletion at the Onset of Diabetic Nephropathy",
+  "abstract": "Diabetic nephropathy is the most common cause of end-stage renal disease in the U.S. Recent studies demonstrate that loss of podocytes is an early feature of diabetic nephropathy that predicts its progressive course. Cause and consequences of podocyte loss during early diabetic nephropathy remain poorly understood. Here, we demonstrate that podocyte apoptosis increased sharply with onset of hyperglycemia in Ins2(Akita) (Akita) mice with type 1 diabetes and Lepr(db/db) (db/db) mice with obesity and type 2 diabetes. Podocyte apoptosis coincided with the onset of urinary albumin excretion (UAE) and preceded significant losses of podocytes in Akita (37% reduction) and db/db (27% reduction) mice. Increased extracellular glucose (30 mmol/l) rapidly stimulated generation of intracellular reactive oxygen species (ROS) through NADPH oxidase and mitochondrial pathways and led to activation of proapoptotic p38 mitogen-activated protein kinase and caspase 3 and to apoptosis of conditionally immortalized podocytes in vitro. Chronic inhibition of NADPH oxidase prevented podocyte apoptosis and ameliorated podocyte depletion, UAE, and mesangial matrix expansion in db/db mice. In conclusion, our results demonstrate for the first time that glucose-induced ROS production initiates podocyte apoptosis and podocyte depletion in vitro and in vivo and suggest that podocyte apoptosis/depletion represents a novel early pathomechanism(s) leading to diabetic nephropathy in murine type 1 and type 2 diabetic models.",
+  "authors": [
+    "Katalin Suszták",
+    "Amanda C. Raff",
+    "Mario Schiffer",
+    "Erwin P. Böttinger"
+  ],
+  "year": 2006,
+  "doi": "10.2337/diabetes.55.01.06.db05-0894",
+  "source": "openalex",
+  "categories": [
+    "Podocyte",
+    "Diabetic nephropathy",
+    "Endocrinology",
+    "Internal medicine",
+    "Reactive oxygen species",
+    "NADPH oxidase",
+    "Apoptosis",
+    "Nephropathy",
+    "Diabetes mellitus",
+    "Biology",
+    "Chemistry",
+    "Cancer research",
+    "Cell biology",
+    "Medicine",
+    "Oxidative stress",
+    "Kidney",
+    "Proteinuria",
+    "Biochemistry"
+  ],
+  "citation_count": 1096,
+  "open_access_pdf_url": "https://diabetesjournals.org/diabetes/article-pdf/55/1/225/380953/zdb00106000225.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2102235083.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:24.294803+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2102235083",
+    "concepts": [
+      "Podocyte",
+      "Diabetic nephropathy",
+      "Endocrinology",
+      "Internal medicine",
+      "Reactive oxygen species"
+    ],
+    "oa_status": "bronze"
+  }
+}

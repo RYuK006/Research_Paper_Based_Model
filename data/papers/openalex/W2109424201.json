@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W2109424201",
+  "title": "HIF-1α regulates function and differentiation of myeloid-derived suppressor cells in the tumor microenvironment",
+  "abstract": "Myeloid-derived suppressor cells (MDSCs) are a major component of the immune-suppressive network described in cancer and many other pathological conditions. We demonstrate that although MDSCs from peripheral lymphoid organs and the tumor site share similar phenotype and morphology, these cells display profound functional differences. MDSC from peripheral lymphoid organs suppressed antigen-specific CD8(+) T cells but failed to inhibit nonspecific T cell function. In sharp contrast, tumor MDSC suppressed both antigen-specific and nonspecific T cell activity. The tumor microenvironment caused rapid and dramatic up-regulation of arginase I and inducible nitric oxide synthase in MDSC, which was accompanied by down-regulation of nicotinamide adenine dinucleotide phosphate-oxidase and reactive oxygen species in these cells. In contrast to MDSC from the spleen, MDSC from the tumor site rapidly differentiated into macrophages. Exposure of spleen MDSC to hypoxia resulted in the conversion of these cells to nonspecific suppressors and their preferential differentiation to macrophages. Hypoxia-inducible factor (HIF) 1α was found to be primarily responsible for the observed effects of the tumor microenvironment on MDSC differentiation and function. Thus, hypoxia via HIF-1α dramatically alters the function of MDSC in the tumor microenvironment and redirects their differentiation toward tumor-associated macrophages, hence providing a mechanistic link between different myeloid suppressive cells in the tumor microenvironment.",
+  "authors": [
+    "Cesar A. Corzo",
+    "Thomas Condamine",
+    "Lily D. Lu",
+    "Matthew James Cotter",
+    "Je‐In Youn",
+    "Pingyan Cheng",
+    "Hyun-Il Cho",
+    "Esteban Celis",
+    "David G. Quiceno",
+    "Tapan Padhya",
+    "Thomas V. McCaffrey",
+    "Judith Czaja McCaffrey",
+    "Dmitry I. Gabrilovich"
+  ],
+  "year": 2010,
+  "doi": "10.1084/jem.20100587",
+  "source": "openalex",
+  "categories": [
+    "Myeloid-derived Suppressor Cell",
+    "Tumor microenvironment",
+    "Myeloid",
+    "Chemistry",
+    "Immune system",
+    "Cancer research",
+    "Cell biology",
+    "Biology",
+    "Immunology",
+    "Cancer",
+    "Suppressor",
+    "Genetics"
+  ],
+  "citation_count": 1210,
+  "open_access_pdf_url": "https://rupress.org/jem/article-pdf/207/11/2439/1202951/jem_20100587.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2109424201.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:08.199461+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2109424201",
+    "concepts": [
+      "Myeloid-derived Suppressor Cell",
+      "Tumor microenvironment",
+      "Myeloid",
+      "Chemistry",
+      "Immune system"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W1662308449",
+  "title": "Widespread Peroxynitrite-Mediated Damage in Alzheimer’s Disease",
+  "abstract": "Increasing evidence suggests that oxidative damage to proteins and other macromolecules is a salient feature of the pathology of Alzheimer's disease. Establishing the source of oxidants is key to understanding what role they play in the pathogenesis of Alzheimer's disease, and one way to examine this issue is to determine which oxidants are involved in damage. In this study, we examine whether peroxynitrite, a powerful oxidant produced from the reaction of superoxide with nitric oxide, is involved in Alzheimer's disease. Peroxynitrite is a source of hydroxyl radical-like reactivity, and it directly oxidizes proteins and other macromolecules with resultant carbonyl formation from side-chain and peptide-bond cleavage. Although carbonyl formation is a major oxidative modification induced by peroxynitrite, nitration of tyrosine residues is an indicator of peroxynitrite involvement. In brain tissue from cases of Alzheimer's disease, we found increased protein nitration in neurons, including but certainly not restricted to those containing neurofibrillary tangles (NFTs). Conversely, nitrotyrosine was undetectable in the cerebral cortex of age-matched control brains. This distribution is essentially identical to that of free carbonyls. These findings provide strong evidence that peroxynitrite is involved in oxidative damage of Alzheimer's disease. Moreover, the widespread occurrence of nitrotyrosine in neurons suggests that oxidative damage is not restricted to long-lived polymers such as NFTs, but instead reflects a generalized oxidative stress that is important in disease pathogenesis.",
+  "authors": [
+    "Mark A. Smith",
+    "Peggy L. Richey Harris",
+    "Lawrence M. Sayre",
+    "Joseph S. Beckman",
+    "George L. Perry"
+  ],
+  "year": 1997,
+  "doi": "10.1523/jneurosci.17-08-02653.1997",
+  "source": "openalex",
+  "categories": [
+    "Peroxynitrite",
+    "Nitrotyrosine",
+    "Chemistry",
+    "Nitration",
+    "Oxidative stress",
+    "Alzheimer's disease",
+    "Pathogenesis",
+    "Oxidative phosphorylation",
+    "Nitric oxide",
+    "Superoxide",
+    "Biochemistry",
+    "Neuroscience",
+    "Disease",
+    "Nitric oxide synthase",
+    "Medicine",
+    "Pathology",
+    "Biology",
+    "Enzyme",
+    "Organic chemistry"
+  ],
+  "citation_count": 1239,
+  "open_access_pdf_url": "https://www.jneurosci.org/content/jneuro/17/8/2653.full.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1662308449.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:02.809831+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1662308449",
+    "concepts": [
+      "Peroxynitrite",
+      "Nitrotyrosine",
+      "Chemistry",
+      "Nitration",
+      "Oxidative stress"
+    ],
+    "oa_status": "hybrid"
+  }
+}

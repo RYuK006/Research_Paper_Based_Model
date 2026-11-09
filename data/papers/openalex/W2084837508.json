@@ -1,0 +1,39 @@
+{
+  "id": "openalex:W2084837508",
+  "title": "ABFs, a Family of ABA-responsive Element Binding Factors",
+  "abstract": "Abscisic acid (ABA) plays an important role in environmental stress responses of higher plants during vegetative growth. One of the ABA-mediated responses is the induced expression of a large number of genes, which is mediated by cis-regulatory elements known as abscisic acid-responsive elements (ABREs). Although a number of ABRE binding transcription factors have been known, they are not specifically from vegetative tissues under induced conditions. Considering the tissue specificity of ABA signaling pathways, factors mediating ABA-dependent stress responses during vegetative growth phase may thus have been unidentified so far. Here, we report a family of ABRE binding factors isolated from young Arabidopsis plants under stress conditions. The factors, isolated by a yeast one-hybrid system using a prototypical ABRE and named as ABFs (ABRE binding factors) belong to a distinct subfamily of bZIP proteins. Binding site selection assay performed with one ABF showed that its preferred binding site is the strong ABRE, CACGTGGC. ABFs can transactivate an ABRE-containing reporter gene in yeast. Expression of ABFs is induced by ABA and various stress treatments, whereas their induction patterns are different from one another. Thus, a new family of ABRE binding factors indeed exists that have the potential to activate a large number of ABA/stress-responsive genes in Arabidopsis.",
+  "authors": [
+    "Hyung-in Choi",
+    "Jung-Hee Hong",
+    "Jin-ok Ha",
+    "Jung‐youn Kang",
+    "Soo Young Kim"
+  ],
+  "year": 2000,
+  "doi": "10.1074/jbc.275.3.1723",
+  "source": "openalex",
+  "categories": [
+    "Chemistry",
+    "Element (criminal law)",
+    "Biophysics",
+    "Biology",
+    "Political science",
+    "Law"
+  ],
+  "citation_count": 1228,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925818311013/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2084837508.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:04.549636+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2084837508",
+    "concepts": [
+      "Chemistry",
+      "Element (criminal law)",
+      "Biophysics",
+      "Biology",
+      "Political science"
+    ],
+    "oa_status": "hybrid"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2548357532",
+  "title": "ClassyFire: automated chemical classification with a comprehensive, computable taxonomy",
+  "abstract": "BACKGROUND: Scientists have long been driven by the desire to describe, organize, classify, and compare objects using taxonomies and/or ontologies. In contrast to biology, geology, and many other scientific disciplines, the world of chemistry still lacks a standardized chemical ontology or taxonomy. Several attempts at chemical classification have been made; but they have mostly been limited to either manual, or semi-automated proof-of-principle applications. This is regrettable as comprehensive chemical classification and description tools could not only improve our understanding of chemistry but also improve the linkage between chemistry and many other fields. For instance, the chemical classification of a compound could help predict its metabolic fate in humans, its druggability or potential hazards associated with it, among others. However, the sheer number (tens of millions of compounds) and complexity of chemical structures is such that any manual classification effort would prove to be near impossible. RESULTS: We have developed a comprehensive, flexible, and computable, purely structure-based chemical taxonomy (ChemOnt), along with a computer program (ClassyFire) that uses only chemical structures and structural features to automatically assign all known chemical compounds to a taxonomy consisting of >4800 different categories. This new chemical taxonomy consists of up to 11 different levels (Kingdom, SuperClass, Class, SubClass, etc.) with each of the categories defined by unambiguous, computable structural rules. Furthermore each category is named using a consensus-based nomenclature and described (in English) based on the characteristic common structural properties of the compounds it contains. The ClassyFire webserver is freely accessible at http://classyfire.wishartlab.com/. Moreover, a Ruby API version is available at https://bitbucket.org/wishartlab/classyfire_api, which provides programmatic access to the ClassyFire server and database. ClassyFire has been used to annotate over 77 million compounds and has already been integrated into other software packages to automatically generate textual descriptions for, and/or infer biological properties of over 100,000 compounds. Additional examples and applications are provided in this paper. CONCLUSION: ClassyFire, in combination with ChemOnt (ClassyFire's comprehensive chemical taxonomy), now allows chemists and cheminformaticians to perform large-scale, rapid and automated chemical classification. Moreover, a freely accessible API allows easy access to more than 77 million \"ClassyFire\" classified compounds. The results can be used to help annotate well studied, as well as lesser-known compounds. In addition, these chemical classifications can be used as input for data integration, and many other cheminformatics-related tasks.",
+  "authors": [
+    "Yannick Djoumbou-Feunang",
+    "Roman Eisner",
+    "Craig Knox",
+    "Leonid L. Chepelev",
+    "Janna Hastings",
+    "Gareth Owen",
+    "Eoin Fahy",
+    "Christoph Steinbeck",
+    "Shankar Subramanian",
+    "Evan Bolton",
+    "Russell Greiner",
+    "David Scott Wishart"
+  ],
+  "year": 2016,
+  "doi": "10.1186/s13321-016-0174-y",
+  "source": "openalex",
+  "categories": [
+    "Computer science",
+    "Taxonomy (biology)",
+    "Class (philosophy)",
+    "Druggability",
+    "Information retrieval",
+    "Chemical database",
+    "Artificial intelligence",
+    "Data science",
+    "Chemistry",
+    "Organic chemistry",
+    "Gene",
+    "Biology",
+    "Botany",
+    "Biochemistry"
+  ],
+  "citation_count": 1552,
+  "open_access_pdf_url": "https://jcheminf.biomedcentral.com/track/pdf/10.1186/s13321-016-0174-y",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2548357532.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:42.057067+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2548357532",
+    "concepts": [
+      "Computer science",
+      "Taxonomy (biology)",
+      "Class (philosophy)",
+      "Druggability",
+      "Information retrieval"
+    ],
+    "oa_status": "gold"
+  }
+}

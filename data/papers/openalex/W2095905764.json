@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2095905764",
+  "title": "Use of the Hough transformation to detect lines and curves in pictures",
+  "abstract": "Hough has proposed an interesting and computationally efficient procedure for detecting lines in pictures. This paper points out that the use of angle-radius rather than slope-intercept parameters simplifies the computation further. It also shows how the method can be used for more general curve fitting, and gives alternative interpretations that explain the source of its efficiency.",
+  "authors": [
+    "Richard O. Duda",
+    "Peter E. Hart"
+  ],
+  "year": 1972,
+  "doi": "10.1145/361237.361242",
+  "source": "openalex",
+  "categories": [
+    "Hough transform",
+    "Computation",
+    "Transformation (genetics)",
+    "Computer science",
+    "RADIUS",
+    "Computer vision",
+    "Artificial intelligence",
+    "Computer graphics (images)",
+    "Algorithm",
+    "Curve fitting",
+    "Geometry",
+    "Mathematics",
+    "Image (mathematics)",
+    "Gene",
+    "Machine learning",
+    "Biochemistry",
+    "Chemistry",
+    "Computer security"
+  ],
+  "citation_count": 6837,
+  "open_access_pdf_url": "https://dl.acm.org/doi/pdf/10.1145/361237.361242",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2095905764.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:49.981284+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2095905764",
+    "concepts": [
+      "Hough transform",
+      "Computation",
+      "Transformation (genetics)",
+      "Computer science",
+      "RADIUS"
+    ],
+    "oa_status": "bronze"
+  }
+}

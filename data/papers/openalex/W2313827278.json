@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W2313827278",
+  "title": "Safety and Efficacy of Recombinant Human α-Galactosidase A Replacement Therapy in Fabry's Disease",
+  "abstract": "BACKGROUND: Fabry's disease, lysosomal alpha-galactosidase A deficiency, results from the progressive accumulation of globotriaosylceramide and related glycosphingolipids. Affected patients have microvascular disease of the kidneys, heart, and brain. METHODS: We evaluated the safety and effectiveness of recombinant alpha-galactosidase A in a multicenter, randomized, placebo-controlled, double-blind study of 58 patients who were treated every 2 weeks for 20 weeks. Thereafter, all patients received recombinant alpha-galactosidase A in an open-label extension study. The primary efficacy end point was the percentage of patients in whom renal microvascular endothelial deposits of globotriaosylceramide were cleared (reduced to normal or near-normal levels). We also evaluated the histologic clearance of microvascular endothelial deposits of globotriaosylceramide in the endomyocardium and skin, as well as changes in the level of pain and the quality of life. RESULTS: In the double-blind study, 20 of the 29 patients in the recombinant alpha-galactosidase A group (69 percent) had no microvascular endothelial deposits of globotriaosylceramide after 20 weeks, as compared with none of the 29 patients in the placebo group (P<0.001). Patients in the recombinant alpha-galactosidase A group also had decreased microvascular endothelial deposits of globotriaosylceramide in the skin (P<0.001) and heart (P<0.001). Plasma levels of globotriaosylceramide were directly correlated with clearance of the microvascular deposits. After six months of open-label therapy, all patients in the former placebo group and 98 percent of patients in the former recombinant alpha-galactosidase A group who had biopsies had clearance of microvascular endothelial deposits of globotriaosylceramide. The incidence of most treatment-related adverse events was similar in the two groups, with the exception of mild-to-moderate infusion reactions (i.e., rigors and fever), which were more common in the recombinant alpha-galactosidase A group. IgG seroconversion occurred in 88 percent of patients who received recombinant alpha-galactosidase A. CONCLUSIONS: Recombinant alpha-galactosidase A replacement therapy cleared microvascular endothelial deposits of globotriaosylceramide from the kidneys, heart, and skin in patients with Fabry's disease, reversing the pathogenesis of the chief clinical manifestations of this disease.",
+  "authors": [
+    "Christine M. Eng",
+    "Nathalie Guffon",
+    "William Ross Wilcox",
+    "Dominique Paul Germain",
+    "Philip Lee",
+    "Stephen Waldek",
+    "Louis R. Caplan",
+    "Gabor E. Linthorst",
+    "Robert J. Desnick"
+  ],
+  "year": 2001,
+  "doi": "10.1056/nejm200107053450102",
+  "source": "openalex",
+  "categories": [
+    "Globotriaosylceramide",
+    "Medicine",
+    "Fabry disease",
+    "Alpha-galactosidase",
+    "Enzyme replacement therapy",
+    "Recombinant DNA",
+    "Placebo",
+    "Internal medicine",
+    "Surgery",
+    "Pathology",
+    "Gastroenterology",
+    "Disease",
+    "Chemistry",
+    "Biochemistry",
+    "Gene",
+    "Alternative medicine"
+  ],
+  "citation_count": 1574,
+  "open_access_pdf_url": "https://www.nejm.org/doi/pdf/10.1056/NEJM200107053450102?articleTools=true",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2313827278.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:41.990370+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2313827278",
+    "concepts": [
+      "Globotriaosylceramide",
+      "Medicine",
+      "Fabry disease",
+      "Alpha-galactosidase",
+      "Enzyme replacement therapy"
+    ],
+    "oa_status": "bronze"
+  }
+}

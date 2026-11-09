@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2081538654",
+  "title": "Optical diagnostics of atmospheric pressure air plasmas",
+  "abstract": "Atmospheric pressure air plasmas are often thought to be in local thermodynamic equilibrium owing to fast interspecies collisional exchange at high pressure. This assumption cannot be relied upon, particularly with respect to optical diagnostics. Velocity gradients in flowing plasmas and/or elevated electron temperatures created by electrical discharges can result in large departures from chemical and thermal equilibrium. This paper reviews diagnostic techniques based on optical emission spectroscopy and cavity ring-down spectroscopy that we have found useful for making temperature and concentration measurements in atmospheric pressure plasmas under conditions ranging from thermal and chemical equilibrium to thermochemical nonequilibrium.",
+  "authors": [
+    "Christophe O. Laux",
+    "Thomas G. Spence",
+    "Charles H. Kruger",
+    "Richard N. Zare"
+  ],
+  "year": 2003,
+  "doi": "10.1088/0963-0252/12/2/301",
+  "source": "openalex",
+  "categories": [
+    "Atmospheric pressure",
+    "Plasma",
+    "Non-equilibrium thermodynamics",
+    "Thermal equilibrium",
+    "Thermodynamic equilibrium",
+    "Atmospheric-pressure plasma",
+    "Thermal",
+    "Spectroscopy",
+    "Atomic physics",
+    "Electron temperature",
+    "Electron",
+    "Plasma diagnostics",
+    "Chemical equilibrium",
+    "Chemistry",
+    "Thermodynamics",
+    "Physics",
+    "Meteorology",
+    "Nuclear physics",
+    "Quantum mechanics"
+  ],
+  "citation_count": 1176,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1088/0963-0252/12/2/301/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2081538654.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:12.125968+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2081538654",
+    "concepts": [
+      "Atmospheric pressure",
+      "Plasma",
+      "Non-equilibrium thermodynamics",
+      "Thermal equilibrium",
+      "Thermodynamic equilibrium"
+    ],
+    "oa_status": "bronze"
+  }
+}

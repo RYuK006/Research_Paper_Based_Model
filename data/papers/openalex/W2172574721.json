@@ -1,0 +1,57 @@
+{
+  "id": "openalex:W2172574721",
+  "title": "A Review of Solid Electrolyte Interphases on Lithium Metal Anode",
+  "abstract": "Lithium metal batteries (LMBs) are among the most promising candidates of high-energy-density devices for advanced energy storage. However, the growth of dendrites greatly hinders the practical applications of LMBs in portable electronics and electric vehicles. Constructing stable and efficient solid electrolyte interphase (SEI) is among the most effective strategies to inhibit the dendrite growth and thus to achieve a superior cycling performance. In this review, the mechanisms of SEI formation and models of SEI structure are briefly summarized. The analysis methods to probe the surface chemistry, surface morphology, electrochemical property, dynamic characteristics of SEI layer are emphasized. The critical factors affecting the SEI formation, such as electrolyte component, temperature, current density, are comprehensively debated. The efficient methods to modify SEI layer with the introduction of new electrolyte system and additives, ex-situ-formed protective layer, as well as electrode design, are summarized. Although these works afford new insights into SEI research, robust and precise routes for SEI modification with well-designed structure, as well as understanding of the connection between structure and electrochemical performance, is still inadequate. A multidisciplinary approach is highly required to enable the formation of robust SEI for highly efficient energy storage systems.",
+  "authors": [
+    "Xin‐Bing Cheng",
+    "Rui Zhang",
+    "Chen‐Zi Zhao",
+    "Fei Wei",
+    "Ji‐Guang Zhang",
+    "Qiang Zhang"
+  ],
+  "year": 2015,
+  "doi": "10.1002/advs.201500213",
+  "source": "openalex",
+  "categories": [
+    "Electrolyte",
+    "Anode",
+    "Materials science",
+    "Nanotechnology",
+    "Lithium metal",
+    "Electrochemistry",
+    "Energy storage",
+    "Lithium (medication)",
+    "Electrode",
+    "Layer (electronics)",
+    "Electronics",
+    "Interphase",
+    "Chemical engineering",
+    "Chemistry",
+    "Engineering",
+    "Medicine",
+    "Endocrinology",
+    "Physics",
+    "Genetics",
+    "Physical chemistry",
+    "Power (physics)",
+    "Quantum mechanics",
+    "Biology"
+  ],
+  "citation_count": 1820,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/advs.201500213",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2172574721.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:22.357654+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2172574721",
+    "concepts": [
+      "Electrolyte",
+      "Anode",
+      "Materials science",
+      "Nanotechnology",
+      "Lithium metal"
+    ],
+    "oa_status": "gold"
+  }
+}

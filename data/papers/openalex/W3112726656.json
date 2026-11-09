@@ -1,0 +1,57 @@
+{
+  "id": "openalex:W3112726656",
+  "title": "Adsorption kinetic modeling using pseudo-first order and pseudo-second order rate laws: A review",
+  "abstract": "Adsorption for water and wastewater treatment has been the subject of many research in the scientific community, focusing mainly on either equilibrium or kinetic studies. Adsorption kinetics are commonly modeled using pseudo-first and pseudo-second order rate laws. Analyses of published works in the past two decades indicated that the pseudo-second order is considered to be the superior model as it can represent many adsorption systems. However, critical assessment of modeling techniques and practices suggests that its superiority could be a consequence of currently acceptable modeling norms which tend to favor the pseudo-second order model. The partiality was due to several modeling pitfalls that are often neglected. In addition, commonly used model validation tools are often used haphazardly and redundantly. As such, they cannot sufficiently provide any kind of certainty on the validity of a model. To eliminate modeling biasness, a new validation method was proposed and was then employed to re-examine previously published adsorption kinetic data.",
+  "authors": [
+    "Emmanuel D. Revellame",
+    "Dhan Lord B. Fortela",
+    "Wayne W. Sharp",
+    "Rafael A. Hernandez",
+    "Mark E. Zappi"
+  ],
+  "year": 2020,
+  "doi": "10.1016/j.clet.2020.100032",
+  "source": "openalex",
+  "categories": [
+    "Adsorption",
+    "Order (exchange)",
+    "Kinetic energy",
+    "Computer science",
+    "Certainty",
+    "Subject (documents)",
+    "Biochemical engineering",
+    "Applied mathematics",
+    "Rate equation",
+    "Thermodynamics",
+    "Kinetics",
+    "Statistical physics",
+    "Law",
+    "Chemistry",
+    "Mathematics",
+    "Physical chemistry",
+    "Physics",
+    "Economics",
+    "Political science",
+    "Engineering",
+    "Classical mechanics",
+    "Finance",
+    "Geometry",
+    "Library science"
+  ],
+  "citation_count": 1476,
+  "open_access_pdf_url": "https://www.sciencedirect.com/science/article/pii/S266679082030032X/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3112726656.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:48.166276+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3112726656",
+    "concepts": [
+      "Adsorption",
+      "Order (exchange)",
+      "Kinetic energy",
+      "Computer science",
+      "Certainty"
+    ],
+    "oa_status": "gold"
+  }
+}

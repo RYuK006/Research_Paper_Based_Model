@@ -1,0 +1,57 @@
+{
+  "id": "openalex:W2070533532",
+  "title": "An Asian emission inventory of anthropogenic emission sources for the period 1980–2020",
+  "abstract": "Abstract. We developed a new emission inventory for Asia (Regional Emission inventory in ASia (REAS) Version 1.1) for the period 1980–2020. REAS is the first inventory to integrate historical, present, and future emissions in Asia on the basis of a consistent methodology. We present here emissions in 2000, historical emissions for 1980–2003, and projected emissions for 2010 and 2020 of SO2, NOx, CO, NMVOC, black carbon (BC), and organic carbon (OC) from fuel combustion and industrial sources. Total energy consumption in Asia more than doubled between 1980 and 2003, causing a rapid growth in Asian emissions, by 28% for BC, 30% for OC, 64% for CO, 108% for NMVOC, 119% for SO2, and 176% for NOx. In particular, Chinese NOx emissions showed a marked increase of 280% over 1980 levels, and growth in emissions since 2000 has been extremely high. These increases in China were mainly caused by increases in coal combustion in the power plants and industrial sectors. NMVOC emissions also rapidly increased because of growth in the use of automobiles, solvents, and paints. By contrast, BC, OC, and CO emissions in China showed decreasing trends from 1996 to 2000 because of a reduction in the use of biofuels and coal in the domestic and industry sectors. However, since 2000, Chinese emissions of these species have begun to increase. Thus, the emissions of air pollutants in Asian countries (especially China) showed large temporal variations from 1980–2003. Future emissions in 2010 and 2020 in Asian countries were projected by emission scenarios and from emissions in 2000. For China, we developed three emission scenarios: PSC (policy success case), REF (reference case), and PFC (policy failure case). In the 2020 REF scenario, Asian total emissions of SO2, NOx, and NMVOC were projected to increase substantially by 22%, 44%, and 99%, respectively, over 2000 levels. The 2020 REF scenario showed a modest increase in CO (12%), a lesser increase in BC (1%), and a slight decrease in OC (–5%) compared with 2000 levels. However, it should be noted that Asian total emissions are strongly influenced by the emission scenarios for China.",
+  "authors": [
+    "T. Ohara",
+    "Hajime Akimoto",
+    "J. Kurokawa",
+    "Nobuhiro Horii",
+    "Kazuyo Yamaji",
+    "Xiaoyuan Yan",
+    "Tadahiro Hayasaka"
+  ],
+  "year": 2007,
+  "doi": "10.5194/acp-7-4419-2007",
+  "source": "openalex",
+  "categories": [
+    "Emission inventory",
+    "NOx",
+    "Environmental science",
+    "Coal",
+    "China",
+    "Pollutant",
+    "Combustion",
+    "Coal combustion products",
+    "Greenhouse gas",
+    "Air pollution",
+    "Air quality index",
+    "Environmental protection",
+    "Environmental engineering",
+    "Meteorology",
+    "Waste management",
+    "Geography",
+    "Chemistry",
+    "Engineering",
+    "Archaeology",
+    "Biology",
+    "Organic chemistry",
+    "Ecology"
+  ],
+  "citation_count": 1441,
+  "open_access_pdf_url": "https://acp.copernicus.org/articles/7/4419/2007/acp-7-4419-2007.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2070533532.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:48.297200+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2070533532",
+    "concepts": [
+      "Emission inventory",
+      "NOx",
+      "Environmental science",
+      "Coal",
+      "China"
+    ],
+    "oa_status": "gold"
+  }
+}

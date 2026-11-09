@@ -1,0 +1,63 @@
+{
+  "id": "openalex:W2470552650",
+  "title": "Highly selective plasma-activated copper catalysts for carbon dioxide reduction to ethylene",
+  "abstract": "There is an urgent need to develop technologies that use renewable energy to convert waste products such as carbon dioxide into hydrocarbon fuels. Carbon dioxide can be electrochemically reduced to hydrocarbons over copper catalysts, although higher efficiency is required. We have developed oxidized copper catalysts displaying lower overpotentials for carbon dioxide electroreduction and record selectivity towards ethylene (60%) through facile and tunable plasma treatments. Herein we provide insight into the improved performance of these catalysts by combining electrochemical measurements with microscopic and spectroscopic characterization techniques. Operando X-ray absorption spectroscopy and cross-sectional scanning transmission electron microscopy show that copper oxides are surprisingly resistant to reduction and copper(+) species remain on the surface during the reaction. Our results demonstrate that the roughness of oxide-derived copper catalysts plays only a partial role in determining the catalytic performance, while the presence of copper(+) is key for lowering the onset potential and enhancing ethylene selectivity.",
+  "authors": [
+    "Hemma Mistry",
+    "Ana Sofía Varela",
+    "Cecile S. Bonifacio",
+    "Ioannis Zegkinoglou",
+    "Ilya Sinev",
+    "Yong‐Wook Choi",
+    "Kim Kisslinger",
+    "Eric A. Stach",
+    "Judith C. Yang",
+    "Peter Strasser",
+    "Beatriz Roldán Cuenya"
+  ],
+  "year": 2016,
+  "doi": "10.1038/ncomms12123",
+  "source": "openalex",
+  "categories": [
+    "Copper",
+    "Catalysis",
+    "Electrochemical reduction of carbon dioxide",
+    "Carbon dioxide",
+    "Copper oxide",
+    "Electrochemistry",
+    "Materials science",
+    "Ethylene",
+    "Inorganic chemistry",
+    "Selectivity",
+    "Oxide",
+    "Ethylene oxide",
+    "Hydrocarbon",
+    "Chemical engineering",
+    "Chemistry",
+    "Electrode",
+    "Carbon monoxide",
+    "Organic chemistry",
+    "Metallurgy",
+    "Composite material",
+    "Polymer",
+    "Copolymer",
+    "Engineering",
+    "Physical chemistry"
+  ],
+  "citation_count": 1226,
+  "open_access_pdf_url": "https://www.nature.com/articles/ncomms12123.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2470552650.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:04.565428+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2470552650",
+    "concepts": [
+      "Copper",
+      "Catalysis",
+      "Electrochemical reduction of carbon dioxide",
+      "Carbon dioxide",
+      "Copper oxide"
+    ],
+    "oa_status": "gold"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2782051023",
+  "title": "MXene molecular sieving membranes for highly efficient gas separation",
+  "abstract": "Abstract Molecular sieving membranes with sufficient and uniform nanochannels that break the permeability-selectivity trade-off are desirable for energy-efficient gas separation, and the arising two-dimensional (2D) materials provide new routes for membrane development. However, for 2D lamellar membranes, disordered interlayer nanochannels for mass transport are usually formed between randomly stacked neighboring nanosheets, which is obstructive for highly efficient separation. Therefore, manufacturing lamellar membranes with highly ordered nanochannel structures for fast and precise molecular sieving is still challenging. Here, we report on lamellar stacked MXene membranes with aligned and regular subnanometer channels, taking advantage of the abundant surface-terminating groups on the MXene nanosheets, which exhibit excellent gas separation performance with H2 permeability >2200 Barrer and H2/CO2 selectivity >160, superior to the state-of-the-art membranes. The results of molecular dynamics simulations quantitatively support the experiments, confirming the subnanometer interlayer spacing between the neighboring MXene nanosheets as molecular sieving channels for gas separation.",
+  "authors": [
+    "Li Ding",
+    "Yanying Wei",
+    "Libo Li",
+    "Tao Zhang",
+    "Haihui Wang",
+    "Jian Xue",
+    "Liang‐Xin Ding",
+    "Suqing Wang",
+    "Jürgen Caro",
+    "Yury G. Gogotsi"
+  ],
+  "year": 2018,
+  "doi": "10.1038/s41467-017-02529-6",
+  "source": "openalex",
+  "categories": [
+    "Membrane",
+    "Lamellar structure",
+    "Gas separation",
+    "Materials science",
+    "Barrer",
+    "Selectivity",
+    "Molecular dynamics",
+    "Nanotechnology",
+    "Chemical engineering",
+    "Permeability (electromagnetism)",
+    "Chemistry",
+    "Catalysis",
+    "Computational chemistry",
+    "Composite material",
+    "Organic chemistry",
+    "Engineering",
+    "Biochemistry"
+  ],
+  "citation_count": 1135,
+  "open_access_pdf_url": "https://www.nature.com/articles/s41467-017-02529-6.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2782051023.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:16.969540+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2782051023",
+    "concepts": [
+      "Membrane",
+      "Lamellar structure",
+      "Gas separation",
+      "Materials science",
+      "Barrer"
+    ],
+    "oa_status": "gold"
+  }
+}

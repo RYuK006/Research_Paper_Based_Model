@@ -1,0 +1,63 @@
+{
+  "id": "openalex:W2005596689",
+  "title": "C RYSTAL14 : A program for theab initioinvestigation of crystalline solids",
+  "abstract": "The capabilities of the Crystal14program are presented, and the improvements made with respect to the previous Crystal09version discussed. Crystal14is anab initiocode that uses a Gaussian‐type basis set: both pseudopotential and all‐electron strategies are permitted; the latter is not much more expensive than the former up to the first‐second transition metal rows of the periodic table. A variety of density functionals is available, including as an extreme case Hartree–Fock; hybrids of various nature (global, range‐separated, double) can be used. In particular, a very efficient implementation of global hybrids, such as popular B3LYP and PBE0 prescriptions, allows for such calculations to be performed at relatively low computational cost. The program can treat on the same grounds zero‐dimensional (molecules), one‐dimensional (polymers), two‐dimensional (slabs), as well as three‐dimensional (3D; crystals) systems. No spurious 3D periodicity is required for low‐dimensional systems as happens when plane‐waves are used as a basis set. Symmetry is fully exploited at all steps of the calculation; this permits, for example, to investigate nanotubes of increasing radius at a nearly constant cost (better than linear scaling!) or to perform self‐consistent‐field (SCF) calculations on fullerenes as large as (10,10), with 6000 atoms, 84,000 atomic orbitals, and 20 SCF cycles, on a single core in one day. Three versions of the code exist, serial, parallel, and massive‐parallel. In the second one, the most relevant matrices are duplicated, whereas in the third one the matrices in reciprocal space are distributed for diagonalization. All the relevant vectors are now dynamically allocated and deallocated after use, making Crystal14much more agile than the previous version, in which they were statically allocated. The program now fits more easily in low‐memory machines (as many supercomputers nowadays are). Crystal14can be used on parallel machines up to a high number of cores (benchmarks up to 10,240 cores are documented) with good scalability, the main limitation remaining the diagonalization step. Many tensorial properties can be evaluated in a fully automated way by using a single input keyword: elastic, piezoelectric, photoelastic, dielectric, as well as first and second hyperpolarizabilies, electric field gradients, Born tensors and so forth. Many tools permit a complete analysis of the vibrational properties of crystalline compounds. The infrared and Raman intensities are now computed analytically and related spectra can be generated. Isotopic shifts are easily evaluated, frequencies of only a fragment of a large system computed and nuclear contribution to the dielectric tensor determined. New algorithms have been devised for the investigation of solid solutions and disordered systems. The topological analysis of the electron charge density, according to the Quantum Theory of Atoms in Molecules, is now incorporated in the code via the integrated merge of theTopondpackage. Electron correlation can be evaluated at the Möller–Plesset second‐order level (namely MP2) and a set of double‐hybrids are presently available via the integrated merge with the Cryscorprogram. © 2014 Wiley Periodicals, Inc.",
+  "authors": [
+    "Roberto Dovesi",
+    "Roberto Orlando",
+    "Alessandro Erba",
+    "Claudio Marcelo Zicovich-Wilson",
+    "Bartolomeo Civalleri",
+    "Silvia Casassa",
+    "Lorenzo Maschio",
+    "Matteo Ferrabone",
+    "Marco De La Pierre",
+    "Philippe D’Arco",
+    "Yves Nöel",
+    "Mauro Causà",
+    "Michel Rérat",
+    "Bernard Kirtman"
+  ],
+  "year": 2014,
+  "doi": "10.1002/qua.24658",
+  "source": "openalex",
+  "categories": [
+    "Pseudopotential",
+    "Ab initio",
+    "Linear scale",
+    "Physics",
+    "Basis (linear algebra)",
+    "Basis set",
+    "Field (mathematics)",
+    "Spurious relationship",
+    "Chemistry",
+    "Molecular physics",
+    "Quantum mechanics",
+    "Computational chemistry",
+    "Statistical physics",
+    "Computer science",
+    "Mathematics",
+    "Molecule",
+    "Geometry",
+    "Pure mathematics",
+    "Geography",
+    "Machine learning",
+    "Geodesy"
+  ],
+  "citation_count": 1283,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/qua.24658",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2005596689.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:00.430053+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2005596689",
+    "concepts": [
+      "Pseudopotential",
+      "Ab initio",
+      "Linear scale",
+      "Physics",
+      "Basis (linear algebra)"
+    ],
+    "oa_status": "bronze"
+  }
+}

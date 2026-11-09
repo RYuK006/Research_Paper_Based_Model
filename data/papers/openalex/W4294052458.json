@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W4294052458",
+  "title": "Comprehensive evidence implies a higher social cost of CO2",
+  "abstract": "Abstract The social cost of carbon dioxide (SC-CO 2 ) measures the monetized value of the damages to society caused by an incremental metric tonne of CO 2 emissions and is a key metric informing climate policy. Used by governments and other decision-makers in benefit–cost analysis for over a decade, SC-CO 2 estimates draw on climate science, economics, demography and other disciplines. However, a 2017 report by the US National Academies of Sciences, Engineering, and Medicine 1 (NASEM) highlighted that current SC-CO 2 estimates no longer reflect the latest research. The report provided a series of recommendations for improving the scientific basis, transparency and uncertainty characterization of SC-CO 2 estimates. Here we show that improved probabilistic socioeconomic projections, climate models, damage functions, and discounting methods that collectively reflect theoretically consistent valuation of risk, substantially increase estimates of the SC-CO 2 . Our preferred mean SC-CO 2 estimate is $185 per tonne of CO 2 ($44–$413 per tCO 2 : 5%–95% range, 2020 US dollars) at a near-term risk-free discount rate of 2%, a value 3.6 times higher than the US government’s current value of $51 per tCO 2 . Our estimates incorporate updated scientific understanding throughout all components of SC-CO 2 estimation in the new open-source Greenhouse Gas Impact Value Estimator (GIVE) model, in a manner fully responsive to the near-term NASEM recommendations. Our higher SC-CO 2 values, compared with estimates currently used in policy evaluation, substantially increase the estimated benefits of greenhouse gas mitigation and thereby increase the expected net benefits of more stringent climate policies.",
+  "authors": [
+    "Kevin J. Rennert",
+    "Frank Errickson",
+    "Brian Prest",
+    "Lisa Rennels",
+    "Richard G. Newell",
+    "William A. Pizer",
+    "Cora Kingdon",
+    "Jordan Wingenroth",
+    "Roger M. Cooke",
+    "Bryan Parthum",
+    "David J. Smith",
+    "Kevin R. Cromar",
+    "Delavane Diaz",
+    "Frances C. Moore",
+    "Ulrich K. Müller",
+    "Richard J. Plevin",
+    "Adrian E. Raftery",
+    "Hana Ševčíková",
+    "Hannah Sheets",
+    "James H. Stock",
+    "Tammy Tan",
+    "Mark W. Watson",
+    "Tony E. Wong",
+    "David Anthoff"
+  ],
+  "year": 2022,
+  "doi": "10.1038/s41586-022-05224-9",
+  "source": "openalex",
+  "categories": [
+    "MEDLINE",
+    "Chemistry",
+    "Biochemistry"
+  ],
+  "citation_count": 1162,
+  "open_access_pdf_url": "https://www.nature.com/articles/s41586-022-05224-9.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W4294052458.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:14.450998+00:00",
+  "raw_metadata": {
+    "openalex_id": "W4294052458",
+    "concepts": [
+      "MEDLINE",
+      "Chemistry",
+      "Biochemistry"
+    ],
+    "oa_status": "hybrid"
+  }
+}

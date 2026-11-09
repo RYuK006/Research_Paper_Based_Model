@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2789541106",
+  "title": "Self-Attention with Relative Position Representations",
+  "abstract": "Peter Shaw, Jakob Uszkoreit, Ashish Vaswani. Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 2 (Short Papers). 2018.",
+  "authors": [
+    "Peter Martin Shaw",
+    "Jakob Uszkoreit",
+    "Ashish Vaswani"
+  ],
+  "year": 2018,
+  "doi": "10.18653/v1/n18-2074",
+  "source": "openalex",
+  "categories": [
+    "BLEU",
+    "Computer science",
+    "Transformer",
+    "Machine translation",
+    "Position (finance)",
+    "Artificial intelligence",
+    "Graph",
+    "Translation (biology)",
+    "Contrast (vision)",
+    "Natural language processing",
+    "Theoretical computer science",
+    "Voltage",
+    "Economics",
+    "Gene",
+    "Chemistry",
+    "Messenger RNA",
+    "Physics",
+    "Finance",
+    "Biochemistry",
+    "Quantum mechanics"
+  ],
+  "citation_count": 3077,
+  "open_access_pdf_url": "https://www.aclweb.org/anthology/N18-2074.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2789541106.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:57.912700+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2789541106",
+    "concepts": [
+      "BLEU",
+      "Computer science",
+      "Transformer",
+      "Machine translation",
+      "Position (finance)"
+    ],
+    "oa_status": "hybrid"
+  }
+}

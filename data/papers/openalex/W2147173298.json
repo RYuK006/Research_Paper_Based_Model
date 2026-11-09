@@ -1,0 +1,60 @@
+{
+  "id": "openalex:W2147173298",
+  "title": "Antimicrobial strategies centered around reactive oxygen species – bactericidal antibiotics, photodynamic therapy, and beyond",
+  "abstract": "Reactive oxygen species (ROS) can attack a diverse range of targets to exert antimicrobial activity, which accounts for their versatility in mediating host defense against a broad range of pathogens. Most ROS are formed by the partial reduction in molecular oxygen. Four major ROS are recognized comprising superoxide (O2•-), hydrogen peroxide (H2O2), hydroxyl radical (•OH), and singlet oxygen ((1)O2), but they display very different kinetics and levels of activity. The effects of O2•- and H2O2 are less acute than those of •OH and (1)O2, because the former are much less reactive and can be detoxified by endogenous antioxidants (both enzymatic and nonenzymatic) that are induced by oxidative stress. In contrast, no enzyme can detoxify •OH or (1)O2, making them extremely toxic and acutely lethal. The present review will highlight the various methods of ROS formation and their mechanism of action. Antioxidant defenses against ROS in microbial cells and the use of ROS by antimicrobial host defense systems are covered. Antimicrobial approaches primarily utilizing ROS comprise both bactericidal antibiotics and nonpharmacological methods such as photodynamic therapy, titanium dioxide photocatalysis, cold plasma, and medicinal honey. A brief final section covers reactive nitrogen species and related therapeutics, such as acidified nitrite and nitric oxide-releasing nanoparticles.",
+  "authors": [
+    "Fatma Vatansever",
+    "Wanessa Melo",
+    "Pinar Avci",
+    "Daniela Vecchio",
+    "Magesh Sadasivam",
+    "Asheesh Gupta",
+    "Rakkiyappan Chandran",
+    "Mahdi Karimi",
+    "Nivaldo Antônio Parizotto",
+    "Rui Yin",
+    "George P. Tegos",
+    "Michael Richard Hamblin"
+  ],
+  "year": 2013,
+  "doi": "10.1111/1574-6976.12026",
+  "source": "openalex",
+  "categories": [
+    "Reactive oxygen species",
+    "Reactive nitrogen species",
+    "Antimicrobial",
+    "Hydrogen peroxide",
+    "Antioxidant",
+    "Singlet oxygen",
+    "Oxidative stress",
+    "Superoxide",
+    "Hydroxyl radical",
+    "Nitric oxide",
+    "Chemistry",
+    "Biochemistry",
+    "Radical",
+    "Photodynamic therapy",
+    "Catalase",
+    "Microbiology",
+    "Biology",
+    "Enzyme",
+    "Oxygen",
+    "Organic chemistry"
+  ],
+  "citation_count": 1157,
+  "open_access_pdf_url": "https://academic.oup.com/femsre/article-pdf/37/6/955/18142461/37-6-955.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2147173298.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:14.517185+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2147173298",
+    "concepts": [
+      "Reactive oxygen species",
+      "Reactive nitrogen species",
+      "Antimicrobial",
+      "Hydrogen peroxide",
+      "Antioxidant"
+    ],
+    "oa_status": "bronze"
+  }
+}

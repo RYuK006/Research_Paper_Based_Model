@@ -1,0 +1,44 @@
+{
+  "id": "openalex:W2163878401",
+  "title": "Regulation of short-chain fatty acid production",
+  "abstract": "Short-chain fatty acid (SCFA) formation by intestinal bacteria is regulated by many different host, environmental, dietary and microbiological factors. In broad terms, however, substrate availability, bacterial species composition of the microbiota and intestinal transit time largely determine the amounts and types of SCFA that are produced in healthy individuals. The majority of SCFA in the gut are derived from bacterial breakdown of complex carbohydrates, especially in the proximal bowel, but digestion of proteins and peptides makes an increasing contribution to SCFA production as food residues pass through the bowel. Bacterial hydrogen metabolism also affects the way in which SCFA are made. This outcome can be seen through the effects of inorganic electron acceptors (nitrate, sulfate) on fermentation processes, where they facilitate the formation of more oxidised SCFA such as acetate, at the expense of more reduced fatty acids, such as butyrate. Chemostat studies using pure cultures of saccharolytic gut micro-organisms demonstrate that C availability and growth rate strongly affect the outcome of fermentation. For example, acetate and formate are the major bifidobacterial fermentation products formed during growth under C limitation, whereas acetate and lactate are produced when carbohydrate is in excess. Lactate is also used as an electron sink in Clostridium perfringens and, to a lesser extent, in Bacteroides fragilis. In the latter organism acetate and succinate are the major fermentation products when substrate is abundant, whereas succinate is decarboxylated to produce propionate when C and energy sources are limiting.",
+  "authors": [
+    "Sandra Macfarlane",
+    "G.T. Macfarlane"
+  ],
+  "year": 2003,
+  "doi": "10.1079/pns2002207",
+  "source": "openalex",
+  "categories": [
+    "Fermentation",
+    "Propionate",
+    "Butyrate",
+    "Mixed acid fermentation",
+    "Biochemistry",
+    "Fatty acid",
+    "Bacteria",
+    "Chemistry",
+    "Microbial metabolism",
+    "Food science",
+    "Biology",
+    "Lactic acid",
+    "Lactic acid fermentation",
+    "Genetics"
+  ],
+  "citation_count": 1995,
+  "open_access_pdf_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/9F72ACBE8EE4BE71616589CEE6A777D7/S0029665103000120a.pdf/div-class-title-regulation-of-short-chain-fatty-acid-production-div.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2163878401.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:17.707012+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2163878401",
+    "concepts": [
+      "Fermentation",
+      "Propionate",
+      "Butyrate",
+      "Mixed acid fermentation",
+      "Biochemistry"
+    ],
+    "oa_status": "bronze"
+  }
+}

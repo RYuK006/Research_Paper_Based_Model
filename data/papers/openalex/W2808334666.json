@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2808334666",
+  "title": "Anthropogenic contamination of tap water, beer, and sea salt",
+  "abstract": "Plastic pollution has been well documented in natural environments, including the open waters and sediments within lakes and rivers, the open ocean and even the air, but less attention has been paid to synthetic polymers in human consumables. Since multiple toxicity studies indicate risks to human health when plastic particles are ingested, more needs to be known about the presence and abundance of anthropogenic particles in human foods and beverages. This study investigates the presence of anthropogenic particles in 159 samples of globally sourced tap water, 12 brands of Laurentian Great Lakes beer, and 12 brands of commercial sea salt. Of the tap water samples analyzed, 81% were found to contain anthropogenic particles. The majority of these particles were fibers (98.3%) between 0.1-5 mm in length. The range was 0 to 61 particles/L, with an overall mean of 5.45 particles/L. Anthropogenic debris was found in each brand of beer and salt. Of the extracted particles, over 99% were fibers. After adjusting for particles found in lab blanks for both salt and beer, the average number of particles found in beer was 4.05 particles/L with a range of 0 to 14.3 particles/L and the average number of particles found in each brand of salt was 212 particles/kg with a range of 46.7 to 806 particles/kg. Based on consumer guidelines, our results indicate the average person ingests over 5,800 particles of synthetic debris from these three sources annually, with the largest contribution coming from tap water (88%).",
+  "authors": [
+    "Mary Kosuth",
+    "Sherri A. Mason",
+    "Elizabeth V. Wattenberg"
+  ],
+  "year": 2018,
+  "doi": "10.1371/journal.pone.0194970",
+  "source": "openalex",
+  "categories": [
+    "Sea salt",
+    "Environmental science",
+    "Tap water",
+    "Contamination",
+    "Range (aeronautics)",
+    "Debris",
+    "Pollution",
+    "Seawater",
+    "Environmental chemistry",
+    "Chemistry",
+    "Aerosol",
+    "Ecology",
+    "Oceanography",
+    "Biology",
+    "Environmental engineering",
+    "Geology",
+    "Materials science",
+    "Organic chemistry",
+    "Composite material"
+  ],
+  "citation_count": 1321,
+  "open_access_pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0194970&type=printable",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2808334666.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:57.663231+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2808334666",
+    "concepts": [
+      "Sea salt",
+      "Environmental science",
+      "Tap water",
+      "Contamination",
+      "Range (aeronautics)"
+    ],
+    "oa_status": "gold"
+  }
+}

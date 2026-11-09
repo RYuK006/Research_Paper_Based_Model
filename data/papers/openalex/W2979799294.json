@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2979799294",
+  "title": "Reactive Oxygen Species-Induced Lipid Peroxidation in Apoptosis, Autophagy, and Ferroptosis",
+  "abstract": "Reactive oxygen species- (ROS-) induced lipid peroxidation plays a critical role in cell death including apoptosis, autophagy, and ferroptosis. This fundamental and conserved mechanism is based on an excess of ROS which attacks biomembranes, propagates lipid peroxidation chain reactions, and subsequently induces different types of cell death. A highly evolved sophisticated antioxidant system exists that acts to protect the cells from oxidative damage. In this review, we discussed how ROS propagate lipid peroxidation chain reactions and how the products of lipid peroxidation initiate apoptosis and autophagy in current models. We also discussed the mechanism of lipid peroxidation during ferroptosis, and we summarized lipid peroxidation in pathological conditions of critical illness. We aim to bring a more global and integrative sight to know how different ROS-induced lipid peroxidation occurs among apoptosis, autophagy, and ferroptosis.",
+  "authors": [
+    "Lian-Jiu Su",
+    "Jiahao Zhang",
+    "Hernando Gómez",
+    "Raghavan Murugan",
+    "Xing Hong",
+    "Dongxue Xu",
+    "Fan Jiang",
+    "Zhiyong Peng"
+  ],
+  "year": 2019,
+  "doi": "10.1155/2019/5080843",
+  "source": "openalex",
+  "categories": [
+    "Lipid peroxidation",
+    "Reactive oxygen species",
+    "Autophagy",
+    "GPX4",
+    "Cell biology",
+    "Apoptosis",
+    "Programmed cell death",
+    "Chemistry",
+    "Oxidative stress",
+    "Biochemistry",
+    "Antioxidant",
+    "Biology",
+    "Superoxide dismutase",
+    "Glutathione peroxidase"
+  ],
+  "citation_count": 2254,
+  "open_access_pdf_url": "https://downloads.hindawi.com/journals/omcl/2019/5080843.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2979799294.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:08.872491+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2979799294",
+    "concepts": [
+      "Lipid peroxidation",
+      "Reactive oxygen species",
+      "Autophagy",
+      "GPX4",
+      "Cell biology"
+    ],
+    "oa_status": "hybrid"
+  }
+}

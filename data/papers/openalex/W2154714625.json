@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2154714625",
+  "title": "MolProbity : all-atom structure validation for macromolecular crystallography",
+  "abstract": "MolProbity is a structure-validation web service that provides broad-spectrum solidly based evaluation of model quality at both the global and local levels for both proteins and nucleic acids. It relies heavily on the power and sensitivity provided by optimized hydrogen placement and all-atom contact analysis, complemented by updated versions of covalent-geometry and torsion-angle criteria. Some of the local corrections can be performed automatically in MolProbity and all of the diagnostics are presented in chart and graphical forms that help guide manual rebuilding. X-ray crystallography provides a wealth of biologically important molecular data in the form of atomic three-dimensional structures of proteins, nucleic acids and increasingly large complexes in multiple forms and states. Advances in automation, in everything from crystallization to data collection to phasing to model building to refinement, have made solving a structure using crystallography easier than ever. However, despite these improvements, local errors that can affect biological interpretation are widespread at low resolution and even high-resolution structures nearly all contain at least a few local errors such as Ramachandran outliers, flipped branched protein side chains and incorrect sugar puckers. It is critical both for the crystallographer and for the end user that there are easy and reliable methods to diagnose and correct these sorts of errors in structures. MolProbity is the authors' contribution to helping solve this problem and this article reviews its general capabilities, reports on recent enhancements and usage, and presents evidence that the resulting improvements are now beneficially affecting the global database.",
+  "authors": [
+    "Vincent B. Chen",
+    "W.B. Arendall",
+    "Jeffrey J. Headd",
+    "D.A. Keedy",
+    "Robert M. Immormino",
+    "Gary J. Kapral",
+    "Laura W. Murray",
+    "Jane S. Richardson",
+    "David C. Richardson"
+  ],
+  "year": 2009,
+  "doi": "10.1107/s0907444909042073",
+  "source": "openalex",
+  "categories": [
+    "Ramachandran plot",
+    "Computer science",
+    "Protein crystallization",
+    "Phaser",
+    "Algorithm",
+    "Crystallography",
+    "Protein structure",
+    "Chemistry",
+    "Crystallization",
+    "Physics",
+    "Optics",
+    "Organic chemistry",
+    "Biochemistry"
+  ],
+  "citation_count": 14003,
+  "open_access_pdf_url": "http://journals.iucr.org/d/issues/2010/01/00/dz5180/dz5180.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2154714625.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:49.826840+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2154714625",
+    "concepts": [
+      "Ramachandran plot",
+      "Computer science",
+      "Protein crystallization",
+      "Phaser",
+      "Algorithm"
+    ],
+    "oa_status": "hybrid"
+  }
+}

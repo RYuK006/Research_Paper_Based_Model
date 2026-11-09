@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2165131446",
+  "title": "A diagnostic for determining the quality of single-reference electron correlation methods",
+  "abstract": "It was recently proposed that the Euclidian norm of the t1 vector of the coupled-cluster wave function (normalized by the number of electrons included in the correlation procedure) could be used to determine whether a single-reference-based electron correlation procedure is appropriate. This diagnostic T1 is defined for use with self-consistent-field molecular orbitals and is invariant to the same orbital rotations as the coupled-cluster energy. T1 is investigated for several different chemical systems which exhibit a range of multireference behavior and is shown to be an excellent measure of the importance of nondynamical electron correlation and is far superior to C0 from a singles and doubles configuration interaction wave function. It is further suggested that when the aim is to recover a large fraction of the dynamical electron correlation energy, a large T1 (i.e., >0.02) probably indicates the need for a multireference electron correlation procedure.",
+  "authors": [
+    "Timothy J. Lee",
+    "Peter R. Taylor"
+  ],
+  "year": 2009,
+  "doi": "10.1002/qua.560360824",
+  "source": "openalex",
+  "categories": [
+    "Electronic correlation",
+    "Coupled cluster",
+    "Wave function",
+    "Atomic orbital",
+    "Correlation",
+    "Electron",
+    "Atomic physics",
+    "Physics",
+    "Full configuration interaction",
+    "Molecular orbital",
+    "Chemistry",
+    "Statistical physics",
+    "Configuration interaction",
+    "Quantum mechanics",
+    "Molecule",
+    "Mathematics",
+    "Excited state",
+    "Geometry"
+  ],
+  "citation_count": 1411,
+  "open_access_pdf_url": "https://ntrs.nasa.gov/api/citations/19900002238/downloads/19900002238.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2165131446.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:50.683996+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2165131446",
+    "concepts": [
+      "Electronic correlation",
+      "Coupled cluster",
+      "Wave function",
+      "Atomic orbital",
+      "Correlation"
+    ],
+    "oa_status": "green"
+  }
+}

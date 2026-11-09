@@ -1,0 +1,45 @@
+{
+  "id": "openalex:W1991724466",
+  "title": "An evaluation of noninvasive methods to estimate foliar chlorophyll content",
+  "abstract": "Summary Over the last decade, technological developments have made it possible to quickly and nondestructively assess, in situ , the chlorophyll (Chl) status of plants. We evaluated the performance of these optical methods, which are based on the absorbance or reflectance of certain wavelengths of light by intact leaves. As our benchmark, we used standard extraction techniques to measure Chl a , Chl b , and total Chl content of paper birch ( Betula papyrifera ) leaves. These values were compared with the nominal Chl index values obtained with two hand‐held Chl absorbance meters and several reflectance indices correlated with foliar Chl. The noninvasive optical methods all provided reliable estimates of relative leaf Chl. However, across the range of Chl contents studied (0.0004–0.0455 mg cm −2 ), some reflectance indices consistently out‐performed the hand‐held meters. Most importantly, the reflectance indices that performed best were not those most commonly used in the literature. We report equations to convert from index values to actual Chl content, but caution that differences in leaf structure may necessitate species‐specific calibration equations.",
+  "authors": [
+    "Andrew David Richardson",
+    "Shane P. Duigan",
+    "Graeme Pierce Berlyn"
+  ],
+  "year": 2002,
+  "doi": "10.1046/j.0028-646x.2001.00289.x",
+  "source": "openalex",
+  "categories": [
+    "Absorbance",
+    "Reflectivity",
+    "Chlorophyll",
+    "Chlorophyll a",
+    "Calibration",
+    "Botany",
+    "Chemistry",
+    "Mathematics",
+    "Environmental science",
+    "Biology",
+    "Optics",
+    "Statistics",
+    "Chromatography",
+    "Physics"
+  ],
+  "citation_count": 1186,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1046/j.0028-646X.2001.00289.x",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1991724466.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:08.478070+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1991724466",
+    "concepts": [
+      "Absorbance",
+      "Reflectivity",
+      "Chlorophyll",
+      "Chlorophyll a",
+      "Calibration"
+    ],
+    "oa_status": "bronze"
+  }
+}

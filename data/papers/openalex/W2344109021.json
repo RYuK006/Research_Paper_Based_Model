@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2344109021",
+  "title": "Go-ICP: A Globally Optimal Solution to 3D ICP Point-Set Registration",
+  "abstract": "The Iterative Closest Point (ICP) algorithm is one of the most widely used methods for point-set registration. However, being based on local iterative optimization, ICP is known to be susceptible to local minima. Its performance critically relies on the quality of the initialization and only local optimality is guaranteed. This paper presents the first globally optimal algorithm, named Go-ICP, for Euclidean (rigid) registration of two 3D point-sets under the$L_2$error metric defined in ICP. The Go-ICP method is based on a branch-and-bound scheme that searches the entire 3D motion space$SE(3)$. By exploiting the special structure of$SE(3)$geometry, we derive novel upper and lower bounds for the registration error function. Local ICP is integrated into the BnB scheme, which speeds up the new method while guaranteeing global optimality. We also discuss extensions, addressing the issue of outlier robustness. The evaluation demonstrates that the proposed method is able to produce reliable registration results regardless of the initialization. Go-ICP can be applied in scenarios where an optimal solution is desirable or where a good initialization is not always available.",
+  "authors": [
+    "Jiaolong Yang",
+    "Hongdong Li",
+    "Dylan Campbell",
+    "Yunde Jia"
+  ],
+  "year": 2015,
+  "doi": "10.1109/tpami.2015.2513405",
+  "source": "openalex",
+  "categories": [
+    "Initialization",
+    "Iterative closest point",
+    "Robustness (evolution)",
+    "Maxima and minima",
+    "Outlier",
+    "Computer science",
+    "Mathematical optimization",
+    "Algorithm",
+    "Iterative method",
+    "Euclidean distance",
+    "Image registration",
+    "Mathematics",
+    "Artificial intelligence",
+    "Point cloud",
+    "Image (mathematics)",
+    "Programming language",
+    "Gene",
+    "Chemistry",
+    "Biochemistry",
+    "Mathematical analysis"
+  ],
+  "citation_count": 1212,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1605.03344",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2344109021.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:04.743762+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2344109021",
+    "concepts": [
+      "Initialization",
+      "Iterative closest point",
+      "Robustness (evolution)",
+      "Maxima and minima",
+      "Outlier"
+    ],
+    "oa_status": "green"
+  }
+}

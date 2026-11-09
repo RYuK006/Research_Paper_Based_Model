@@ -1,0 +1,38 @@
+{
+  "id": "openalex:W2026528874",
+  "title": "Water adsorption in MOFs: fundamentals and applications",
+  "abstract": "This review article presents the fundamental and practical aspects of water adsorption in Metal-Organic Frameworks (MOFs). The state of the art of MOF stability in water, a crucial issue to many applications in which MOFs are promising candidates, is discussed here. Stability in both gaseous (such as humid gases) and aqueous media is considered. By considering a non-exhaustive yet representative set of MOFs, the different mechanisms of water adsorption in this class of materials are presented: reversible and continuous pore filling, irreversible and discontinuous pore filling through capillary condensation, and irreversibility arising from the flexibility and possible structural modifications of the host material. Water adsorption properties of more than 60 MOF samples are reported. The applications of MOFs as materials for heat-pumps and adsorbent-based chillers and proton conductors are also reviewed. Some directions for future work are suggested as concluding remarks.",
+  "authors": [
+    "J. Canivet",
+    "Alexandra Fateeva",
+    "Youmin Guo",
+    "Benoît Coasne",
+    "David Farrusseng"
+  ],
+  "year": 2014,
+  "doi": "10.1039/c4cs00078a",
+  "source": "openalex",
+  "categories": [
+    "Adsorption",
+    "Chemistry",
+    "Nanotechnology",
+    "Materials science",
+    "Physical chemistry"
+  ],
+  "citation_count": 1464,
+  "open_access_pdf_url": "https://hal.science/hal-03132964v1/document",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2026528874.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:48.198061+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2026528874",
+    "concepts": [
+      "Adsorption",
+      "Chemistry",
+      "Nanotechnology",
+      "Materials science",
+      "Physical chemistry"
+    ],
+    "oa_status": "green"
+  }
+}

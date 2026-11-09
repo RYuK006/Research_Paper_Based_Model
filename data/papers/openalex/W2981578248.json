@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2981578248",
+  "title": "Implicit self-consistent electrolyte model in plane-wave density-functional theory",
+  "abstract": "The ab initio computational treatment of electrochemical systems requires an appropriate treatment of the solid/liquid interfaces. A fully quantum mechanical treatment of the interface is computationally demanding due to the large number of degrees of freedom involved. In this work, we develop a computationally efficient model where the electrode part of the interface is described at the density-functional theory (DFT) level, and the electrolyte part is represented through an implicit solvation model based on the Poisson-Boltzmann equation. We describe the implementation of the linearized Poisson-Boltzmann equation into the Vienna Ab initio Simulation Package, a widely used DFT code, followed by validation and benchmarking of the method. To demonstrate the utility of the implicit electrolyte model, we apply it to study the surface energy of Cu crystal facets in an aqueous electrolyte as a function of applied electric potential. We show that the applied potential enables the control of the shape of nanocrystals from an octahedral to a truncated octahedral morphology with increasing potential.",
+  "authors": [
+    "Kiran Mathew",
+    "Venkata Surya Chaitanya Kolluru",
+    "Srinidhi Mula",
+    "Stephan N. Steinmann",
+    "Richard G. Hennig"
+  ],
+  "year": 2019,
+  "doi": "10.1063/1.5132354",
+  "source": "openalex",
+  "categories": [
+    "Density functional theory",
+    "Ab initio",
+    "Implicit solvation",
+    "Electrolyte",
+    "Solvation",
+    "Poisson's equation",
+    "Degrees of freedom (physics and chemistry)",
+    "Statistical physics",
+    "Materials science",
+    "Chemistry",
+    "Physics",
+    "Computational chemistry",
+    "Quantum mechanics",
+    "Electrode",
+    "Molecule"
+  ],
+  "citation_count": 1551,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1601.03346",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2981578248.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:42.068546+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2981578248",
+    "concepts": [
+      "Density functional theory",
+      "Ab initio",
+      "Implicit solvation",
+      "Electrolyte",
+      "Solvation"
+    ],
+    "oa_status": "green"
+  }
+}

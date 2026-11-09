@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W1965827991",
+  "title": "Mitochondrial Autophagy Is an HIF-1-dependent Adaptive Metabolic Response to Hypoxia",
+  "abstract": "Autophagy is a process by which cytoplasmic organelles can be catabolized either to remove defective structures or as a means of providing macromolecules for energy generation under conditions of nutrient starvation. In this study we demonstrate that mitochondrial autophagy is induced by hypoxia, that this process requires the hypoxia-dependent factor-1-dependent expression of BNIP3 and the constitutive expression of Beclin-1 and Atg5, and that in cells subjected to prolonged hypoxia, mitochondrial autophagy is an adaptive metabolic response which is necessary to prevent increased levels of reactive oxygen species and cell death.",
+  "authors": [
+    "Huafeng Zhang",
+    "Marta Bosch‐Marcé",
+    "Larissa A. Shimoda",
+    "Yee Sun Tan",
+    "Jin Hyen Baek",
+    "Jacob B. Wesley",
+    "Frank J. Gonzalez",
+    "Gregg L. Semenza"
+  ],
+  "year": 2008,
+  "doi": "10.1074/jbc.m800102200",
+  "source": "openalex",
+  "categories": [
+    "Autophagy",
+    "Cell biology",
+    "Mitochondrion",
+    "ATG5",
+    "Biology",
+    "Hypoxia (environmental)",
+    "Programmed cell death",
+    "Organelle",
+    "Cytoplasm",
+    "Citric acid cycle",
+    "Reactive oxygen species",
+    "Biochemistry",
+    "Metabolism",
+    "Chemistry",
+    "Apoptosis",
+    "Oxygen",
+    "Organic chemistry"
+  ],
+  "citation_count": 1631,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925820620579/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1965827991.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:38.074614+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1965827991",
+    "concepts": [
+      "Autophagy",
+      "Cell biology",
+      "Mitochondrion",
+      "ATG5",
+      "Biology"
+    ],
+    "oa_status": "hybrid"
+  }
+}

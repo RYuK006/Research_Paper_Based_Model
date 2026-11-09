@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2330586915",
+  "title": "MN15: A Kohn–Sham global-hybrid exchange–correlation density functional with broad accuracy for multi-reference and single-reference systems and noncovalent interactions",
+  "abstract": ". We further tested MN15 for 10 transition-metal coordination energies, the entire S66x8 database of noncovalent interactions, 21 transition-metal reaction barrier heights, 69 electronic excitation energies of organic molecules, 31 semiconductor band gaps, seven transition-metal dimer bond lengths, and 193 bond lengths of 47 organic molecules. The MN15 functional not only performs very well for our training set, which has 481 pieces of data, but also performs very well for our test set, which has 823 data that are not in our training set. The test set includes both ground-state properties and molecular excitation energies. For the latter MN15 achieves simultaneous accuracy for both valence and Rydberg electronic excitations when used with linear-response time-dependent density functional theory, with an MUE of less than 0.3 eV for both types of excitations.",
+  "authors": [
+    "Haoyu S. Yu",
+    "Xiao Dong He",
+    "Shaohong L. Li",
+    "Donald G. Truhlar"
+  ],
+  "year": 2016,
+  "doi": "10.1039/c6sc00705h",
+  "source": "openalex",
+  "categories": [
+    "Kohn–Sham equations",
+    "Hybrid functional",
+    "Correlation",
+    "Density functional theory",
+    "Non-covalent interactions",
+    "Statistical physics",
+    "Computer science",
+    "Materials science",
+    "Computational chemistry",
+    "Physics",
+    "Chemistry",
+    "Mathematics",
+    "Quantum mechanics",
+    "Molecule",
+    "Geometry",
+    "Hydrogen bond"
+  ],
+  "citation_count": 1300,
+  "open_access_pdf_url": "https://pubs.rsc.org/en/content/articlepdf/2016/sc/c6sc00705h",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2330586915.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:57.831223+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2330586915",
+    "concepts": [
+      "Kohn–Sham equations",
+      "Hybrid functional",
+      "Correlation",
+      "Density functional theory",
+      "Non-covalent interactions"
+    ],
+    "oa_status": "diamond"
+  }
+}

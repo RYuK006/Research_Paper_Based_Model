@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W1963957450",
+  "title": "Pressure-induced metallization of dense (H2S)2H2 with high-Tc superconductivity",
+  "abstract": "The high pressure structures, metallization, and superconductivity of recently synthesized H2-containing compounds (H2S)2H2 are elucidated by ab initio calculations. The ordered crystal structure with P1 symmetry is determined, supported by the good agreement between theoretical and experimental X-ray diffraction data, equation of states, and Raman spectra. The Cccm structure is favorable with partial hydrogen bond symmetrization above 37 GPa. Upon further compression, H2 molecules disappear and two intriguing metallic structures with R3m and Im-3m symmetries are reconstructive above 111 and 180 GPa, respectively. The predicted metallization pressure is 111 GPa, which is approximately one-third of the currently suggested metallization pressure of bulk molecular hydrogen. Application of the Allen-Dynes-modified McMillan equation for the Im-3m structure yields high Tc values of 191 K to 204 K at 200 GPa, which is among the highest values reported for H2-rich van der Waals compounds and MH3 type hydride thus far.",
+  "authors": [
+    "Defang Duan",
+    "Yunxian Liu",
+    "Fubo Tian",
+    "Da Li",
+    "Xiaoli Huang",
+    "Zhonglong Zhao",
+    "Hongyu Yu",
+    "Bingbing Liu",
+    "Wenjing Tian",
+    "Tian Shu Cui"
+  ],
+  "year": 2014,
+  "doi": "10.1038/srep06968",
+  "source": "openalex",
+  "categories": [
+    "Superconductivity",
+    "Raman spectroscopy",
+    "van der Waals force",
+    "Diffraction",
+    "Ab initio",
+    "Crystal structure",
+    "Crystallography",
+    "Hydride",
+    "Condensed matter physics",
+    "Chemistry",
+    "High pressure",
+    "Hydrogen",
+    "Molecule",
+    "Physics",
+    "Thermodynamics",
+    "Quantum mechanics",
+    "Organic chemistry"
+  ],
+  "citation_count": 1180,
+  "open_access_pdf_url": "https://www.nature.com/articles/srep06968.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1963957450.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:12.062632+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1963957450",
+    "concepts": [
+      "Superconductivity",
+      "Raman spectroscopy",
+      "van der Waals force",
+      "Diffraction",
+      "Ab initio"
+    ],
+    "oa_status": "gold"
+  }
+}

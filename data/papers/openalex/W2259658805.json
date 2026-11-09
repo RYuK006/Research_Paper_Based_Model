@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2259658805",
+  "title": "Non-wetting surface-driven high-aspect-ratio crystalline grain growth for efficient hybrid perovskite solar cells",
+  "abstract": "Large-aspect-ratio grains are needed in polycrystalline thin-film solar cells for reduced charge recombination at grain boundaries; however, the grain size in organolead trihalide perovskite (OTP) films is generally limited by the film thickness. Here we report the growth of OTP grains with high average aspect ratio of 2.3-7.9 on a wide range of non-wetting hole transport layers (HTLs), which increase nucleus spacing by suppressing heterogeneous nucleation and facilitate grain boundary migration in grain growth by imposing less drag force. The reduced grain boundary area and improved crystallinity dramatically reduce the charge recombination in OTP thin films to the level in OTP single crystals. Combining the high work function of several HTLs, a high stabilized device efficiency of 18.3% in low-temperature-processed planar-heterojunction OTP devices under 1 sun illumination is achieved. This simple method in enhancing OTP morphology paves the way for its application in other optoelectronic devices for enhanced performance.",
+  "authors": [
+    "Cheng Bi",
+    "Qi Wang",
+    "Yuchuan Shao",
+    "Yongbo Yuan",
+    "Zhengguo Xiao",
+    "Jinsong Huang"
+  ],
+  "year": 2015,
+  "doi": "10.1038/ncomms8747",
+  "source": "openalex",
+  "categories": [
+    "Trihalide",
+    "Materials science",
+    "Grain boundary",
+    "Nucleation",
+    "Grain size",
+    "Crystallite",
+    "Wetting",
+    "Perovskite (structure)",
+    "Crystallinity",
+    "Heterojunction",
+    "Optoelectronics",
+    "Thin film",
+    "Composite material",
+    "Nanotechnology",
+    "Microstructure",
+    "Crystallography",
+    "Chemistry",
+    "Metallurgy",
+    "Halide",
+    "Organic chemistry",
+    "Inorganic chemistry"
+  ],
+  "citation_count": 1674,
+  "open_access_pdf_url": "https://www.nature.com/articles/ncomms8747.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2259658805.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:33.246371+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2259658805",
+    "concepts": [
+      "Trihalide",
+      "Materials science",
+      "Grain boundary",
+      "Nucleation",
+      "Grain size"
+    ],
+    "oa_status": "gold"
+  }
+}

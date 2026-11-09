@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W2161928223",
+  "title": "Molecular Doping of Graphene",
+  "abstract": "Graphene is considered as one of the most promising materials for post silicon electronics, as it combines high electron mobility with atomic thickness [Novoselov et al. Science 2004, 306, 666-669. Novoselov et al. Proc. Natl. Acad. Sci. U.S.A. 2005, 102, 10451-10453]. The possibility of chemical doping and related excellent chemical sensor properties of graphene have been demonstrated experimentally [Schedin et al. Nat. Mater. 2007, 6, 652-655], but a microscopic understanding of these effects has been lacking, so far. In this letter, we present the first joint experimental and theoretical investigation of adsorbate-induced doping of graphene. A general relation between the doping strength and whether adsorbates are open- or closed-shell systems is demonstrated with the NO2 system: The single, open shell NO2 molecule is found to be a strong acceptor, whereas its closed shell dimer N2O4 causes only weak doping. This effect is pronounced by graphene's peculiar density of states (DOS), which provides an ideal situation for model studies of doping effects in semiconductors. We show that this DOS is ideal for \"chemical sensor\" applications and explain the recently observed [Schedin et al. Nat. Mater. 2007, 6, 652-655] NO2 single molecule detection.",
+  "authors": [
+    "Tim Oliver Wehling",
+    "Kostya S. Novoselov",
+    "Sergey V. Morozov",
+    "Evgenii E. Vdovin",
+    "Mikhail I. Katsnelson",
+    "Andre K. Geim",
+    "Alexander I. Lichtenstein"
+  ],
+  "year": 2007,
+  "doi": "10.1021/nl072364w",
+  "source": "openalex",
+  "categories": [
+    "Graphene",
+    "Doping",
+    "Materials science",
+    "Silicon",
+    "Semiconductor",
+    "Nanotechnology",
+    "Molecule",
+    "Chemical physics",
+    "Chemistry",
+    "Optoelectronics",
+    "Organic chemistry"
+  ],
+  "citation_count": 1137,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0703390",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2161928223.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:16.953219+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2161928223",
+    "concepts": [
+      "Graphene",
+      "Doping",
+      "Materials science",
+      "Silicon",
+      "Semiconductor"
+    ],
+    "oa_status": "green"
+  }
+}

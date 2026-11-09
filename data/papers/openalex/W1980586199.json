@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W1980586199",
+  "title": "Kinetic of crystallization from the melt and chain folding in polyethylene fractions revisited: theory and experiment",
+  "abstract": "The rate of growth of chain-folded lamellar crystals from the subcooled melt of polyethylene fractions is treated in terms of surface nucleation theory with the objective of illuminating the origin of the chain folding phenomenon and associated kinetic effects in molecular terms. An updated version of flux-based nucleation theory in readily usable form is outlined that deals with the nature of polymer chains in more detail than previous treatments. The subjects covered include: (i) the origin of regimes I, II, III, and III-A and the associated crystal growth rates, including the effect of forced steady-state reptation and reptation of ‘slack’ in the subcooled melt; (ii) the variation of the initial lamellar thickness with undercooling; (iii) the origin of the fold surface free energy σe and the lateral surface free energy σ; (iv) the generation and effect of nonadjacent events (such as tie chains) on the crystallinity and growth rates; and (v) ‘quantized’ chain folding at low molecular weight. The topological limitation on nonadjacent re-entry and the value of the apportionment factor ψ are discussed. Key experimental data are analysed in terms of the theory and essential parameters determined, including the size of the substrate length L involved in regime I growth. The degree of adjacent and/or ‘tight’ folding that obtains in the kinetically-induced lamellar structures is treated as being a function of molecular weight and undercooling. New evidence based on the quantization effect indicates a high degree of adjacent re-entry in regime I for the lower molecular weight fractions. The quality of the chain folding at higher molecular weights in the various regimes is discussed in terms of kinetic, neutron scattering, i.r., and other evidence. Application of the theory to other polymers is discussed briefly.",
+  "authors": [
+    "John Hoffman",
+    "Robert L. Miller"
+  ],
+  "year": 1997,
+  "doi": "10.1016/s0032-3861(97)00071-2",
+  "source": "openalex",
+  "categories": [
+    "Lamellar structure",
+    "Reptation",
+    "Nucleation",
+    "Subcooling",
+    "Supercooling",
+    "Thermodynamics",
+    "Crystallization",
+    "Materials science",
+    "Surface energy",
+    "Polyethylene",
+    "Kinetic energy",
+    "Crystallography",
+    "Crystallinity",
+    "Chemical physics",
+    "Chemistry",
+    "Polymer",
+    "Boiling",
+    "Physics",
+    "Composite material",
+    "Quantum mechanics"
+  ],
+  "citation_count": 1092,
+  "open_access_pdf_url": "https://www.sciencedirect.com/science/article/pii/S0032386197000712/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1980586199.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:24.328251+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1980586199",
+    "concepts": [
+      "Lamellar structure",
+      "Reptation",
+      "Nucleation",
+      "Subcooling",
+      "Supercooling"
+    ],
+    "oa_status": "hybrid"
+  }
+}

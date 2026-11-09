@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2140145798",
+  "title": "Alleviating Cancer Drug Toxicity by Inhibiting a Bacterial Enzyme",
+  "abstract": "The dose-limiting side effect of the common colon cancer chemotherapeutic CPT-11 is severe diarrhea caused by symbiotic bacterial β-glucuronidases that reactivate the drug in the gut. We sought to target these enzymes without killing the commensal bacteria essential for human health. Potent bacterial β-glucuronidase inhibitors were identified by high-throughput screening and shown to have no effect on the orthologous mammalian enzyme. Crystal structures established that selectivity was based on a loop unique to bacterial β-glucuronidases. Inhibitors were highly effective against the enzyme target in living aerobic and anaerobic bacteria, but did not kill the bacteria or harm mammalian cells. Finally, oral administration of an inhibitor protected mice from CPT-11-induced toxicity. Thus, drugs may be designed to inhibit undesirable enzyme activities in essential microbial symbiotes to enhance chemotherapeutic efficacy.",
+  "authors": [
+    "Bret D. Wallace",
+    "Hongwei Wang",
+    "Kimberly T. Lane",
+    "John E. Scott",
+    "Jillian Orans",
+    "Ja Seol Koo",
+    "Madhukumar Venkatesh",
+    "Christian Jobin",
+    "Li-An Yeh",
+    "Sridhar Mani",
+    "Matthew R. Redinbo"
+  ],
+  "year": 2010,
+  "doi": "10.1126/science.1191175",
+  "source": "openalex",
+  "categories": [
+    "Enzyme",
+    "Bacteria",
+    "Toxicity",
+    "Drug",
+    "Microbiology",
+    "Biology",
+    "Anaerobic bacteria",
+    "Pharmacology",
+    "Biochemistry",
+    "Chemistry",
+    "Genetics",
+    "Organic chemistry"
+  ],
+  "citation_count": 1109,
+  "open_access_pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/3110694",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2140145798.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:19.625751+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2140145798",
+    "concepts": [
+      "Enzyme",
+      "Bacteria",
+      "Toxicity",
+      "Drug",
+      "Microbiology"
+    ],
+    "oa_status": "green"
+  }
+}

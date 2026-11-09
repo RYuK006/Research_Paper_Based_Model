@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W2149751265",
+  "title": "Electronic structure based on the local atomic environment for tight-binding bands",
+  "abstract": "Some new methods are presented for calculating the density of states n(E) and other aspects of electronic structure in a tight-binding band, without use of Bloch's theorem or the band structure E(k). The methods are therefore applicable to calculating the local density of states at surfaces, impurities etc. and relate the electronic structure to the local atomic environment. They depend on developing the Green function as an infinite continued fraction. There is no difficulty in obtaining n(E) in a few minutes computing time correct to the first 50 moments for an s-band and 10 moments for d-bands. The present paper discusses the methods and ideas, with specific applications to follow.",
+  "authors": [
+    "Roger Haydock",
+    "Volker Heine",
+    "M J Kelly"
+  ],
+  "year": 1972,
+  "doi": "10.1088/0022-3719/5/20/004",
+  "source": "openalex",
+  "categories": [
+    "Tight binding",
+    "Electronic structure",
+    "Electronic band structure",
+    "Density of states",
+    "Impurity",
+    "Function (biology)",
+    "Electronic band",
+    "Physics",
+    "Statistical physics",
+    "Condensed matter physics",
+    "Molecular physics",
+    "Chemistry",
+    "Atomic physics",
+    "Quantum mechanics",
+    "Biology",
+    "Evolutionary biology"
+  ],
+  "citation_count": 1147,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1088/0022-3719/5/20/004/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2149751265.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:14.629410+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2149751265",
+    "concepts": [
+      "Tight binding",
+      "Electronic structure",
+      "Electronic band structure",
+      "Density of states",
+      "Impurity"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "openalex:W2079493774",
+  "title": "CHEMTAX - a program for estimating class abundances from chemical markers:application to HPLC measurements of phytoplankton",
+  "abstract": "We describe a new program for calculating algal class abundances from measurements of chlorophyll and carotenoid pigments determined by high-performance liquid chromatography (HPLC).The program uses factor analysis and a steepest descent algorithm to find the best fit to the data based on an initial guess of the pigment ratios for the classes to be determined.The program was tested with a range of synthetic data-sets that were constructed from known pigment ratios selected to be representative of samples of phytoplankton collected from the Southern Ocean and the Equatorial Pacific.Random errors were added both to the pigment ratios and to the calculated data-sets to simulate both uncertainties in the initial guess as to the pigment concentrations of each class and respectively experimental errors in the analysis of the p~gments by HPLC.Provided that the analytical data is of good quality, the program can successfully determine the class abundances, even when the initial estimates of the pigment ratios contain large errors.Of particular interest is the observation that the program can provide good estimates of prochlorophytes, even in the absence of experimental data on the concentrations of divinyl-chlorophylls a and b.The program is not restricted to the estimation of phytoplankton and can be used whenever specific biornarkers exist that can be used as indicators of biological or chemical processes.",
+  "authors": [
+    "M.D. Mackey",
+    "DJ Mackey",
+    "HW Higgins",
+    "SW Wright"
+  ],
+  "year": 1996,
+  "doi": "10.3354/meps144265",
+  "source": "openalex",
+  "categories": [
+    "Phytoplankton",
+    "Pigment",
+    "Environmental science",
+    "Computer science",
+    "Oceanography",
+    "Biology",
+    "Ecology",
+    "Chemistry",
+    "Geology",
+    "Nutrient",
+    "Organic chemistry"
+  ],
+  "citation_count": 1504,
+  "open_access_pdf_url": "https://www.int-res.com/articles/meps/144/m144p265.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2079493774.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:45.562213+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2079493774",
+    "concepts": [
+      "Phytoplankton",
+      "Pigment",
+      "Environmental science",
+      "Computer science",
+      "Oceanography"
+    ],
+    "oa_status": "bronze"
+  }
+}

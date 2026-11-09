@@ -1,0 +1,58 @@
+{
+  "id": "openalex:W2030623240",
+  "title": "Molecular targets for cannabidiol and its synthetic analogues: effect on vanilloid VR1 receptors and on the cellular uptake and enzymatic hydrolysis of anandamide",
+  "abstract": "1. (-)-Cannabidiol (CBD) is a non-psychotropic component of Cannabis with possible therapeutic use as an anti-inflammatory drug. Little is known on the possible molecular targets of this compound. We investigated whether CBD and some of its derivatives interact with vanilloid receptor type 1 (VR1), the receptor for capsaicin, or with proteins that inactivate the endogenous cannabinoid, anandamide (AEA). 2. CBD and its enantiomer, (+)-CBD, together with seven analogues, obtained by exchanging the C-7 methyl group of CBD with a hydroxy-methyl or a carboxyl function and/or the C-5' pentyl group with a di-methyl-heptyl (DMH) group, were tested on: (a) VR1-mediated increase in cytosolic Ca(2+) concentrations in cells over-expressing human VR1; (b) [(14)C]-AEA uptake by RBL-2H3 cells, which is facilitated by a selective membrane transporter; and (c) [(14)C]-AEA hydrolysis by rat brain membranes, which is catalysed by the fatty acid amide hydrolase. 3. Both CBD and (+)-CBD, but not the other analogues, stimulated VR1 with EC(50)=3.2 - 3.5 microM, and with a maximal effect similar in efficacy to that of capsaicin, i.e. 67 - 70% of the effect obtained with ionomycin (4 microM). CBD (10 microM) desensitized VR1 to the action of capsaicin. The effects of maximal doses of the two compounds were not additive. 4. (+)-5'-DMH-CBD and (+)-7-hydroxy-5'-DMH-CBD inhibited [(14)C]-AEA uptake (IC(50)=10.0 and 7.0 microM); the (-)-enantiomers were slightly less active (IC(50)=14.0 and 12.5 microM). 5. CBD and (+)-CBD were also active (IC(50)=22.0 and 17.0 microM). CBD (IC(50)=27.5 microM), (+)-CBD (IC(50)=63.5 microM) and (-)-7-hydroxy-CBD (IC(50)=34 microM), but not the other analogues (IC(50)>100 microM), weakly inhibited [(14)C]-AEA hydrolysis. 6. Only the (+)-isomers exhibited high affinity for CB(1) and/or CB(2) cannabinoid receptors. 7. These findings suggest that VR1 receptors, or increased levels of endogenous AEA, might mediate some of the pharmacological effects of CBD and its analogues. In view of the facile high yield synthesis, and the weak affinity for CB(1) and CB(2) receptors, (-)-5'-DMH-CBD represents a valuable candidate for further investigation as inhibitor of AEA uptake and a possible new therapeutic agent.",
+  "authors": [
+    "Tiziana Bisogno",
+    "Lumír Hanuš",
+    "Luciano De PETROCELLIS",
+    "Susanna Tchilibon",
+    "Datta E. Ponde",
+    "Ines Brandi",
+    "Aniello Schiano Moriello",
+    "John B. Davis",
+    "Raphael Mechoulam",
+    "Vincenzo Di Marzo"
+  ],
+  "year": 2001,
+  "doi": "10.1038/sj.bjp.0704327",
+  "source": "openalex",
+  "categories": [
+    "Anandamide",
+    "Cannabidiol",
+    "Chemistry",
+    "Fatty acid amide hydrolase",
+    "Capsazepine",
+    "Endocannabinoid system",
+    "Cannabinoid",
+    "Cannabinoid receptor",
+    "Capsaicin",
+    "Receptor",
+    "Pharmacology",
+    "Biochemistry",
+    "TRPV1",
+    "Stereochemistry",
+    "Antagonist",
+    "Transient receptor potential channel",
+    "Biology",
+    "Medicine",
+    "Cannabis",
+    "Psychiatry"
+  ],
+  "citation_count": 1351,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1038/sj.bjp.0704327",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2030623240.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:55.174513+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2030623240",
+    "concepts": [
+      "Anandamide",
+      "Cannabidiol",
+      "Chemistry",
+      "Fatty acid amide hydrolase",
+      "Capsazepine"
+    ],
+    "oa_status": "bronze"
+  }
+}

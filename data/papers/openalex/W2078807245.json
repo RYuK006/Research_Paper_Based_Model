@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2078807245",
+  "title": "Stability of the interface between indium-tin-oxide and poly(3,4-ethylenedioxythiophene)/poly(styrenesulfonate) in polymer light-emitting diodes",
+  "abstract": "A cause for degradation of polymer light-emitting diodes is the oxidation of the polymer by oxygen diffusing out of the indium-tin-oxide (ITO) anode. This problem can be solved by the introduction of an organic hole-injecting film, poly-(3,4-ethylenedioxythiophene) (PEDOT) doped with poly(styrenesulfonate) (PSS), between the ITO and the emissive polymer. Indeed, a dramatic improvement of the lifetime and also the luminous efficiency has been observed. However, our Rutherford backscattering (RBS) studies show that the ITO/PEDOT:PSS interface is not stable. In as prepared glass/ITO/PEDOT:PSS samples 0.02 at. % indium was found in the PEDOT:PSS film. Annealing in a nitrogen atmosphere at 100 °C during 2500 h increased the indium concentration to 0.2 at. %. Upon exposure to air much faster degradation of the ITO/PEDOT:PSS interface was observed; after several days in air the amount of indium reached a saturation concentration of 1.2 at. %. The degradation of the interface can be explained by etching of the ITO due to the strong acidic nature of PEDOT:PSS.",
+  "authors": [
+    "M. P. de Jong",
+    "Leo J. van IJzendoorn",
+    "Martien J. A. de Voigt"
+  ],
+  "year": 2000,
+  "doi": "10.1063/1.1315344",
+  "source": "openalex",
+  "categories": [
+    "PEDOT:PSS",
+    "Indium tin oxide",
+    "Materials science",
+    "Indium",
+    "Poly(3,4-ethylenedioxythiophene)",
+    "OLED",
+    "Conductive polymer",
+    "Anode",
+    "Annealing (glass)",
+    "Polymer",
+    "Chemical engineering",
+    "Optoelectronics",
+    "Doping",
+    "Nanotechnology",
+    "Composite material",
+    "Thin film",
+    "Electrode",
+    "Layer (electronics)",
+    "Chemistry",
+    "Engineering",
+    "Physical chemistry"
+  ],
+  "citation_count": 1214,
+  "open_access_pdf_url": "https://aip.scitation.org/doi/pdf/10.1063/1.1315344",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2078807245.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:04.703094+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2078807245",
+    "concepts": [
+      "PEDOT:PSS",
+      "Indium tin oxide",
+      "Materials science",
+      "Indium",
+      "Poly(3,4-ethylenedioxythiophene)"
+    ],
+    "oa_status": "bronze"
+  }
+}

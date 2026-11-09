@@ -1,0 +1,43 @@
+{
+  "id": "openalex:W2127150495",
+  "title": "Cyclin D1 Expression Is Regulated Positively by the p42/p44 and Negatively by the p38/HOG Pathway",
+  "abstract": "We have previously shown that the persistent activation of p42/p44(MAPK) is required to pass the G1 restriction point in fibroblasts (Pagès, G., Lenormand, P., L'Allemain, G., Chambard, J. C., Meloche, S., and Pouysségur, J. (1993) Proc. Natl. Acad. Sci. U. S. A. 90, 8319-8323) and postulated that MAPKs control the activation of G1 cyclin-dependent complexes. We examined the mitogen-dependent induction of cyclin D1 expression, one of the earliest cell cycle-related events to occur during the G0/G1 to S-phase transition, as a potential target of MAPK regulation. Effects exerted either by the p42/p44(MAPK) or the p38/HOGMAPK cascade on the regulation of cyclin D1 promoter activity or cyclin D1 expression were compared in CCL39 cells, using a co-transfection procedure. We found that inhibition of the p42/p44(MAPK) signaling by expression of dominant-negative forms of either mitogen-activated protein kinase kinase 1 (MKK1) or p44(MAPK), or by expression of the MAP kinase phosphatase, MKP-1, strongly inhibited expression of a reporter gene driven by the human cyclin D1 promoter as well as the endogenous cyclin D1 protein. Conversely, activation of this signaling pathway by expression of a constitutively active MKK1 mutant dramatically increased cyclin D1 promoter activity and cyclin D1 protein expression, in a growth factor-independent manner. Moreover, the use of a CCL39-derived cell line that stably expresses an inducible chimera of the estrogen receptor fused to a constitutively active Raf-1 mutant (DeltaRaf-1:ER) revealed that in absence of growth factors, activation of the Raf > MKK1 > p42/p44MAPK cascade is sufficient to fully induce cyclin D1. In marked contrast, the p38(MAPK) cascade showed an opposite effect on the regulation of cyclin D1 expression. In cells co-expressing high levels of the p38(MAPK) kinase (MKK3) together with the p38(MAPK), a significant inhibition of mitogen-induced cyclin D1 expression was observed. Furthermore, inhibition of p38(MAPK) activity with the specific inhibitor, SB203580, enhanced cyclin D1 transcription and protein level. Altogether, these results support the notion that MAPK cascades drive specific cell cycle responses to extracellular stimuli, at least in part, through the modulation of cyclin D1 expression and associated cdk activities.",
+  "authors": [
+    "Josée N. Lavoie",
+    "Gilles L’Allemain",
+    "Anne Brunet",
+    "Rolf Müller",
+    "Jacques Pouysségur"
+  ],
+  "year": 1996,
+  "doi": "10.1074/jbc.271.34.20608",
+  "source": "openalex",
+  "categories": [
+    "Cyclin D1",
+    "Cell biology",
+    "p38 mitogen-activated protein kinases",
+    "Chemistry",
+    "Biology",
+    "Signal transduction",
+    "MAPK/ERK pathway",
+    "Cell cycle",
+    "Cell",
+    "Biochemistry"
+  ],
+  "citation_count": 1214,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925819738757/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2127150495.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:04.705569+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2127150495",
+    "concepts": [
+      "Cyclin D1",
+      "Cell biology",
+      "p38 mitogen-activated protein kinases",
+      "Chemistry",
+      "Biology"
+    ],
+    "oa_status": "hybrid"
+  }
+}

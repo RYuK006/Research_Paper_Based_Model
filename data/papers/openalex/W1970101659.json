@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W1970101659",
+  "title": "Annexin V-Affinity assay: A review on an apoptosis detection system based on phosphatidylserine exposure",
+  "abstract": "Apoptosis is a programmed, physiological mode of cell death that plays an important role in tissue homeostasis. Understanding of the basic mechanisms that underlie apoptosis will point to potentially new targets of therapeutic treatment of diseases that show an imbalance between cell proliferation and cell loss. In order to conduct such research, techniques and tools to reliably identify and enumerate death by apoptosis are essential. This review focuses on a novel technique to detect apoptosis by targeting for the loss of phospholipid asymmetry of the plasma membrane. It was recently shown that loss of plasma membrane asymmetry is an early event in apoptosis, independent of the cell type, resulting in the exposure of phosphatidylserine (PS) residues at the outer plasma membrane leaflet. Annexin V was shown to interact strongly and specifically with PS and can be used to detect apoptosis by targeting for the loss of plasma membrane asymmetry. Labeled annexin V can be applied both in flow cytometry and in light microscopy in both vital and fixed material by using appropriate protocols. The annexin V method is an extension to the current available methods. This review describes the basic mechanisms underlying the loss of membrane asymmetry during apoptosis and discusses the novel annexin V-binding assay.",
+  "authors": [
+    "Manon van Engeland",
+    "Luc J.W. Nieland",
+    "Frans C. S. Ramaekers",
+    "B. Schütte",
+    "Chris P.M. Reutelingsperger"
+  ],
+  "year": 1998,
+  "doi": "10.1002/(sici)1097-0320(19980101)31:1<1::aid-cyto1>3.0.co;2-r",
+  "source": "openalex",
+  "categories": [
+    "Phosphatidylserine",
+    "Annexin",
+    "Apoptosis",
+    "Annexin A5",
+    "Flow cytometry",
+    "Cell biology",
+    "Programmed cell death",
+    "Biology",
+    "Chemistry",
+    "Membrane",
+    "Phospholipid",
+    "Molecular biology",
+    "Biochemistry"
+  ],
+  "citation_count": 1915,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/%28SICI%291097-0320%2819980101%2931%3A1%3C1%3A%3AAID-CYTO1%3E3.0.CO%3B2-R",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1970101659.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:17.923357+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1970101659",
+    "concepts": [
+      "Phosphatidylserine",
+      "Annexin",
+      "Apoptosis",
+      "Annexin A5",
+      "Flow cytometry"
+    ],
+    "oa_status": "bronze"
+  }
+}

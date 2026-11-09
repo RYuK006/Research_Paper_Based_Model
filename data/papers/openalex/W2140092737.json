@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2140092737",
+  "title": "HIGH-PRECISION CALCULATION OF MULTILOOP FEYNMAN INTEGRALS BY DIFFERENCE EQUATIONS",
+  "abstract": "We describe a new method of calculation of generic multiloop master integrals based on the numerical solution of systems of difference equations in one variable. We show algorithms for the construction of the systems using integration-by-parts identities and methods of solutions by means of expansions in factorial series and Laplace transformation. We also describe new algorithms for the identification of master integrals and the reduction of generic Feynman integrals to master integrals, and procedures for generating and solving systems of differential equations in masses and momenta for master integrals. We apply our method to the calculation of the master integrals of massive vacuum and self-energy diagrams up to three loops and of massive vertex and box diagrams up to two loops. Implementation in a computer program of our approach is described. Important features of the implementation are: the ability to deal with hundreds of master integrals and the ability to obtain very high precision results expanded at will in the number of dimensions.",
+  "authors": [
+    "S. Laporta"
+  ],
+  "year": 2000,
+  "doi": "10.1142/s0217751x00002159",
+  "source": "openalex",
+  "categories": [
+    "Order of integration (calculus)",
+    "Master equation",
+    "Feynman diagram",
+    "Vertex (graph theory)",
+    "Differential equation",
+    "Laplace transform",
+    "Physics",
+    "Slater integrals",
+    "Applied mathematics",
+    "Integro-differential equation",
+    "Integration by parts",
+    "Feynman integral",
+    "Numerical integration",
+    "Transformation (genetics)",
+    "Mathematical analysis",
+    "Mathematics",
+    "Mathematical physics",
+    "First-order partial differential equation",
+    "Quantum mechanics",
+    "Discrete mathematics",
+    "Chemistry",
+    "Gene",
+    "Quantum",
+    "Biochemistry",
+    "Graph"
+  ],
+  "citation_count": 1568,
+  "open_access_pdf_url": "https://arxiv.org/pdf/hep-ph/0102033",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2140092737.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:41.999102+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2140092737",
+    "concepts": [
+      "Order of integration (calculus)",
+      "Master equation",
+      "Feynman diagram",
+      "Vertex (graph theory)",
+      "Differential equation"
+    ],
+    "oa_status": "green"
+  }
+}

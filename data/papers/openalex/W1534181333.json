@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W1534181333",
+  "title": "Optimally estimating the sample mean from the sample size, median, mid-range, and/or mid-quartile range",
+  "abstract": "The era of big data is coming, and evidence-based medicine is attracting increasing attention to improve decision making in medical practice via integrating evidence from well designed and conducted clinical research. Meta-analysis is a statistical technique widely used in evidence-based medicine for analytically combining the findings from independent clinical trials to provide an overall estimation of a treatment effectiveness. The sample mean and standard deviation are two commonly used statistics in meta-analysis but some trials use the median, the minimum and maximum values, or sometimes the first and third quartiles to report the results. Thus, to pool results in a consistent format, researchers need to transform those information back to the sample mean and standard deviation. In this article, we investigate the optimal estimation of the sample mean for meta-analysis from both theoretical and empirical perspectives. A major drawback in the literature is that the sample size, needless to say its importance, is either ignored or used in a stepwise but somewhat arbitrary manner, e.g. the famous method proposed by Hozo et al. We solve this issue by incorporating the sample size in a smoothly changing weight in the estimators to reach the optimal estimation. Our proposed estimators not only improve the existing ones significantly but also share the same virtue of the simplicity. The real data application indicates that our proposed estimators are capable to serve as \"rules of thumb\" and will be widely applied in evidence-based medicine.",
+  "authors": [
+    "Dehui Luo",
+    "Xiang Wan",
+    "Jiming Liu",
+    "Tiejun Tong"
+  ],
+  "year": 2016,
+  "doi": "10.1177/0962280216669183",
+  "source": "openalex",
+  "categories": [
+    "Estimator",
+    "Sample size determination",
+    "Quartile",
+    "Statistics",
+    "Standard deviation",
+    "Rule of thumb",
+    "Sample (material)",
+    "Range (aeronautics)",
+    "Computer science",
+    "Standard error",
+    "Econometrics",
+    "Mathematics",
+    "Algorithm",
+    "Confidence interval",
+    "Chromatography",
+    "Composite material",
+    "Chemistry",
+    "Materials science"
+  ],
+  "citation_count": 4115,
+  "open_access_pdf_url": "https://journals.sagepub.com/doi/pdf/10.1177/0962280216669183?download=true",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1534181333.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:54.037552+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1534181333",
+    "concepts": [
+      "Estimator",
+      "Sample size determination",
+      "Quartile",
+      "Statistics",
+      "Standard deviation"
+    ],
+    "oa_status": "bronze"
+  }
+}

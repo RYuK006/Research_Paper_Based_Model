@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W2131754023",
+  "title": "Hydrophobicity at Small and Large Length Scales",
+  "abstract": "We develop a unified and generally applicable theory of solvation of small and large apolar species in water. In the former, hydrogen bonding of water is hindered yet persists near the solutes. In the latter, hydrogen bonding is depleted, leading to drying of extended apolar surfaces, large forces of attraction, and hysteresis on mesoscopic length scales. The crossover occurs on nanometer length scales, when the local concentration of apolar units is sufficiently high, or when an apolar surface is sufficiently large. Our theory for the crossover has implications concerning the stability of protein assemblies and protein folding.",
+  "authors": [
+    "Ka Lum",
+    "David Chandler",
+    "John D. Weeks"
+  ],
+  "year": 1999,
+  "doi": "10.1021/jp984327m",
+  "source": "openalex",
+  "categories": [
+    "Mesoscopic physics",
+    "Chemical physics",
+    "Crossover",
+    "Solvation",
+    "Hydrogen bond",
+    "Folding (DSP implementation)",
+    "Length scale",
+    "Hysteresis",
+    "Chemistry",
+    "Statistical physics",
+    "Materials science",
+    "Nanotechnology",
+    "Physics",
+    "Solvent",
+    "Condensed matter physics",
+    "Molecule",
+    "Mechanics",
+    "Organic chemistry",
+    "Engineering",
+    "Electrical engineering",
+    "Artificial intelligence",
+    "Computer science"
+  ],
+  "citation_count": 1680,
+  "open_access_pdf_url": "https://pubs.acs.org/doi/pdf/10.1021/jp984327m?ref=article_openPDF",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2131754023.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:33.222779+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2131754023",
+    "concepts": [
+      "Mesoscopic physics",
+      "Chemical physics",
+      "Crossover",
+      "Solvation",
+      "Hydrogen bond"
+    ],
+    "oa_status": "bronze"
+  }
+}

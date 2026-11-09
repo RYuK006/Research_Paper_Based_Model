@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2335805754",
+  "title": "Regulation of immune cell function by short‐chain fatty acids",
+  "abstract": "Short-chain fatty acids (SCFAs) are bacterial fermentation products, which are chemically composed by a carboxylic acid moiety and a small hydrocarbon chain. Among them, acetic, propionic and butyric acids are the most studied, presenting, respectively, two, three and four carbons in their chemical structure. These metabolites are found in high concentrations in the intestinal tract, from where they are uptaken by intestinal epithelial cells (IECs). The SCFAs are partially used as a source of ATP by these cells. In addition, these molecules act as a link between the microbiota and the immune system by modulating different aspects of IECs and leukocytes development, survival and function through activation of G protein coupled receptors (FFAR2, FFAR3, GPR109a and Olfr78) and by modulation of the activity of enzymes and transcription factors including the histone acetyltransferase and deacetylase and the hypoxia-inducible factor. Considering that, it is not a surprise, the fact that these molecules and/or their targets are suggested to have an important role in the maintenance of intestinal homeostasis and that changes in components of this system are associated with pathological conditions including inflammatory bowel disease, obesity and others. The aim of this review is to present a clear and updated description of the effects of the SCFAs derived from bacteria on host immune system, as well as the molecular mechanisms involved on them.",
+  "authors": [
+    "Renan Oliveira Corrêa",
+    "José Luís Fachi",
+    "Aline Vieira",
+    "Fábio Takeo Sato",
+    "Marco Aurélio Ramirez Vinolo"
+  ],
+  "year": 2016,
+  "doi": "10.1038/cti.2016.17",
+  "source": "openalex",
+  "categories": [
+    "Immune system",
+    "Biochemistry",
+    "Acetylation",
+    "Short-chain fatty acid",
+    "Chemistry",
+    "Butyric acid",
+    "Receptor",
+    "Histone deacetylase",
+    "Biology",
+    "Cell biology",
+    "Histone",
+    "Fermentation",
+    "Butyrate",
+    "Gene",
+    "Immunology"
+  ],
+  "citation_count": 1373,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1038/cti.2016.17",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2335805754.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:52.722076+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2335805754",
+    "concepts": [
+      "Immune system",
+      "Biochemistry",
+      "Acetylation",
+      "Short-chain fatty acid",
+      "Chemistry"
+    ],
+    "oa_status": "gold"
+  }
+}

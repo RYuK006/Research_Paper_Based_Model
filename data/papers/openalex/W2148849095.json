@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2148849095",
+  "title": "Tyrosine phosphorylation of paxillin and pp125FAK accompanies cell adhesion to extracellular matrix: a role in cytoskeletal assembly.",
+  "abstract": "Cells in culture reveal high levels of protein tyrosine phosphorylation in their focal adhesions, the regions where cells adhere to the underlying substratum. We have examined the tyrosine phosphorylation of proteins in response to plating cells on extracellular matrix substrata. Rat embryo fibroblasts, mouse Balb/c 3T3, and NIH 3T3 cells plated on fibronectin-coated surfaces revealed elevated phosphotyrosine levels in a cluster of proteins between 115 and 130 kD. This increase in tyrosine phosphorylation was also seen when rat embryo fibroblasts were plated on laminin or vitronectin, but not on polylysine or on uncoated plastic. Integrin mediation of this effect was suggested by finding the same pattern of elevated tyrosine phosphorylation in cells plated on the cell-binding fragment of fibronectin and in cells plated on a synthetic polymer containing multiple RGD sequences. We have identified one of the proteins of the 115-130-kD cluster as pp125FAK, a tyrosine kinase recently localized in focal adhesions (Schaller, M. D., C. A. Borgman, B. S. Cobb, R. R. Vines, A. B. Reynolds, and J. T. Parsons. 1992. Proc. Natl. Acad. Sci. USA. 89:5192). A second protein that becomes tyrosine phosphorylated in response to extracellular matrix adhesion is identified as paxillin, a 70-kD protein previously localized to focal adhesions. Treatment of cells with the tyrosine kinase inhibitor herbimycin A diminished the adhesion-induced tyrosine phosphorylation of these proteins and inhibited the formation of focal adhesions and stress fibers. These results suggest a role for integrin-mediated tyrosine phosphorylation in the organization of the cytoskeleton as cells adhere to the extracellular matrix.",
+  "authors": [
+    "Keith Burridge",
+    "Christopher E. Turner",
+    "Lewis H. Romer"
+  ],
+  "year": 1992,
+  "doi": "10.1083/jcb.119.4.893",
+  "source": "openalex",
+  "categories": [
+    "Paxillin",
+    "Tyrosine phosphorylation",
+    "Focal adhesion",
+    "PTK2",
+    "Tyrosine",
+    "Cell biology",
+    "Fibronectin",
+    "Phosphorylation",
+    "Vinculin",
+    "Extracellular matrix",
+    "Protein tyrosine phosphatase",
+    "Biology",
+    "Integrin",
+    "Chemistry",
+    "Molecular biology",
+    "Biochemistry",
+    "Protein kinase A",
+    "Cell",
+    "Mitogen-activated protein kinase kinase"
+  ],
+  "citation_count": 1300,
+  "open_access_pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/2289706",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2148849095.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:57.828591+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2148849095",
+    "concepts": [
+      "Paxillin",
+      "Tyrosine phosphorylation",
+      "Focal adhesion",
+      "PTK2",
+      "Tyrosine"
+    ],
+    "oa_status": "green"
+  }
+}

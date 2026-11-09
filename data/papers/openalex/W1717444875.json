@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W1717444875",
+  "title": "Role of Transcriptional Activation of IκBα in Mediation of Immunosuppression by Glucocorticoids",
+  "abstract": "Glucocorticoids are potent immunosuppressive drugs, but their mechanism is poorly understood. Nuclear factor kappa B (NF-kappa B), a regulator of immune system and inflammation genes, may be a target for glucocorticoid-mediated immunosuppression. The activation of NF-kappa B involves the targeted degradation of its cytoplasmic inhibitor, I kappa B alpha, and the translocation of NF-kappa B to the nucleus. Here it is shown that the synthetic glucocorticoid dexamethasone induces the transcription of the I kappa B alpha gene, which results in an increased rate of I kappa B alpha protein synthesis. Stimulation by tumor necrosis factor causes the release of NF-kappa B from I kappa B alpha. However, in the presence of dexamethasone this newly released NF-kappa B quickly reassociates with newly synthesized I kappa B alpha, thus markedly reducing the amount of NF-kappa B that translocates to the nucleus. This decrease in nuclear NF-kappa B is predicted to markedly decrease cytokine secretion and thus effectively block the activation of the immune system.",
+  "authors": [
+    "Robert I. Scheinman",
+    "Patricia C. Cogswell",
+    "Alan K. Lofquist",
+    "Albert S. Baldwin"
+  ],
+  "year": 1995,
+  "doi": "10.1126/science.270.5234.283",
+  "source": "openalex",
+  "categories": [
+    "Kappa",
+    "Glucocorticoid receptor",
+    "Glucocorticoid",
+    "NFKB1",
+    "Immune system",
+    "Transcription factor",
+    "Biology",
+    "Tumor necrosis factor alpha",
+    "NF-κB",
+    "Chemistry",
+    "Cancer research",
+    "Molecular biology",
+    "Signal transduction",
+    "Immunology",
+    "Cell biology",
+    "Gene",
+    "Biochemistry",
+    "Philosophy",
+    "Linguistics"
+  ],
+  "citation_count": 1690,
+  "open_access_pdf_url": "https://cdr.lib.unc.edu/record/uuid:41c7f480-efc0-4a8c-b102-4b49a7934f6a",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1717444875.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:33.189245+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1717444875",
+    "concepts": [
+      "Kappa",
+      "Glucocorticoid receptor",
+      "Glucocorticoid",
+      "NFKB1",
+      "Immune system"
+    ],
+    "oa_status": "green"
+  }
+}

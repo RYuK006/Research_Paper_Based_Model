@@ -1,0 +1,60 @@
+{
+  "id": "openalex:W2147061961",
+  "title": "Human mesenchymal stem cells modulate B-cell functions",
+  "abstract": "Human mesenchymal stem cells (hMSCs) suppress T-cell and dendritic-cell function and represent a promising strategy for cell therapy of autoimmune diseases. Nevertheless, no information is currently available on the effects of hMSCs on B cells, which may have a large impact on the clinical use of these cells. hMSCs isolated from the bone marrow and B cells purified from the peripheral blood of healthy donors were cocultured with different B-cell tropic stimuli. B-cell proliferation was inhibited by hMSCs through an arrest in the G0/G1 phase of the cell cycle and not through the induction of apoptosis. A major mechanism of B-cell suppression was hMSC production of soluble factors, as indicated by transwell experiments. hMSCs inhibited B-cell differentiation because IgM, IgG, and IgA production was significantly impaired. CXCR4, CXCR5, and CCR7 B-cell expression, as well as chemotaxis to CXCL12, the CXCR4 ligand, and CXCL13, the CXCR5 ligand, were significantly down-regulated by hMSCs, suggesting that these cells affect chemotactic properties of B cells. B-cell costimulatory molecule expression and cytokine production were unaffected by hMSCs. These results further support the potential therapeutic use of hMSCs in immune-mediated disorders, including those in which B cells play a major role.",
+  "authors": [
+    "Anna Corcione",
+    "Federica Benvenuto",
+    "Elisa Ferretti",
+    "Debora Giunti",
+    "Valentina Cappiello",
+    "Francesco Cazzanti",
+    "Marco Risso",
+    "Francesca Gualandi",
+    "Gianluigi Mancardi",
+    "Vito Pistoia",
+    "Antonio Uccelli"
+  ],
+  "year": 2005,
+  "doi": "10.1182/blood-2005-07-2657",
+  "source": "openalex",
+  "categories": [
+    "Mesenchymal stem cell",
+    "Cell biology",
+    "B cell",
+    "Chemotaxis",
+    "Stem cell",
+    "CXCL13",
+    "CXCR5",
+    "Cytokine",
+    "Cell",
+    "T cell",
+    "Immunology",
+    "CXCR4",
+    "Immune system",
+    "Chemokine",
+    "Biology",
+    "Chemistry",
+    "Receptor",
+    "Chemokine receptor",
+    "Antibody",
+    "Genetics",
+    "Biochemistry"
+  ],
+  "citation_count": 1804,
+  "open_access_pdf_url": "https://ashpublications.org/blood/article-pdf/107/1/367/1279517/zh800106000367.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2147061961.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:25.978413+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2147061961",
+    "concepts": [
+      "Mesenchymal stem cell",
+      "Cell biology",
+      "B cell",
+      "Chemotaxis",
+      "Stem cell"
+    ],
+    "oa_status": "bronze"
+  }
+}

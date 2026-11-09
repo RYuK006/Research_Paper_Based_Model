@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2085562887",
+  "title": "Atomic weights of the elements. Review 2000 (IUPAC Technical Report)",
+  "abstract": "A consistent set of internationally accepted atomic weights has long been an essential aim of the scientific community because of the relevance of these values to science and technology, as well as to trade and commerce subject to ethical, legal, and international standards. The standard atomic weights of the elements are regularly evaluated, recommended, and published in updated tables by the Commission on Atomic Weights and Isotopic Abundances (CAWIA) of the International Union of Pure and Applied Chemistry (IUPAC). These values are invariably associated with carefully evaluated uncertainties. Atomic weights were originally determined by mass ratio measurements coupled with an understanding of chemical stoichiometry, but are now based almost exclusively on knowledge of the isotopic composition (derived from isotope-abundance ratio measurements) and the atomic masses of the isotopes of the elements. Atomic weights and atomic masses are now scaled to a numerical value of exactly 12 for the mass of the carbon isotope of mass number 12. Technological advances in mass spectrometry and nuclear-reaction energies have enabled atomic masses to be determined with a relative uncertainty of better than 1 ×10 −7 . Isotope abundances for an increasing number of elements can be measured to better than 1 ×10 −3 . The excellent precision of such measurements led to the discovery that many elements, in different specimens, display significant variations in their isotope-abundance ratios, caused by a variety of natural and industrial physicochemical processes. While such variations increasingly place a constraint on the uncertainties with which some standard atomic weights can be stated, they provide numerous opportunities for investigating a range of important phenomena in physical, chemical, cosmological, biological, and industrial processes. This review reflects the current and increasing interest of science in the measured differences between source-specific and even sample-specific atomic weights. These relative comparisons can often be made with a smaller uncertainty than is achieved in the best calibrated “absolute ” (=SI-traceable) atomic-weight determinations. Accurate determinations of the atomic weights of certain elements also influence the values of fundamental constants such as the Avogadro, Faraday, and universal gas constants. This review is in two parts: the first summarizes the development of the science of atomic-weight determinations during the 20th century; the second summarizes the changes and variations that have been recognized in the values and uncertainties of atomic weights, on an element-by-element basis, in the latter part of the 20th century.",
+  "authors": [
+    "John R. De Laeter",
+    "J. K. Böhlke",
+    "Paul De Bièvre",
+    "Hiroshi Hidaka",
+    "H. S. Peiser",
+    "K.J.R. Rosman",
+    "P. D. P. Taylor"
+  ],
+  "year": 2003,
+  "doi": "10.1351/pac200375060683",
+  "source": "openalex",
+  "categories": [
+    "Chemical nomenclature",
+    "Atomic mass",
+    "Chemistry",
+    "Isotope",
+    "Natural abundance",
+    "Atomic number",
+    "Analytical Chemistry (journal)",
+    "Mass spectrometry",
+    "Environmental chemistry",
+    "Atomic physics",
+    "Nuclear physics",
+    "Physics",
+    "Chromatography",
+    "Organic chemistry"
+  ],
+  "citation_count": 1100,
+  "open_access_pdf_url": "https://www.degruyter.com/document/doi/10.1351/pac200375060683/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2085562887.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:24.220636+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2085562887",
+    "concepts": [
+      "Chemical nomenclature",
+      "Atomic mass",
+      "Chemistry",
+      "Isotope",
+      "Natural abundance"
+    ],
+    "oa_status": "bronze"
+  }
+}

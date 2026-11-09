@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2109184569",
+  "title": "PHENIX : building new software for automated crystallographic structure determination",
+  "abstract": "Structural genomics seeks to expand rapidly the number of protein structures in order to extract the maximum amount of information from genomic sequence databases. The advent of several large-scale projects worldwide leads to many new challenges in the field of crystallographic macromolecular structure determination. A novel software package called PHENIX (Python-based Hierarchical ENvironment for Integrated Xtallography) is therefore being developed. This new software will provide the necessary algorithms to proceed from reduced intensity data to a refined molecular model and to facilitate structure solution for both the novice and expert crystallographer.",
+  "authors": [
+    "Paul D. Adams",
+    "Ralf W. Grosse‐Kunstleve",
+    "Li‐Wei Hung",
+    "Thomas R. Ioerger",
+    "Airlie J. McCoy",
+    "Nigel W. Moriarty",
+    "Randy J. Read",
+    "James C. Sacchettini",
+    "Nicholas K. Sauter",
+    "Thomas C. Terwilliger"
+  ],
+  "year": 2002,
+  "doi": "10.1107/s0907444902016657",
+  "source": "openalex",
+  "categories": [
+    "Python (programming language)",
+    "Software",
+    "Structural genomics",
+    "Computer science",
+    "Software engineering",
+    "Computational biology",
+    "Computational science",
+    "Data science",
+    "Data mining",
+    "Protein structure",
+    "Chemistry",
+    "Biology",
+    "Programming language",
+    "Biochemistry"
+  ],
+  "citation_count": 4334,
+  "open_access_pdf_url": "http://journals.iucr.org/d/issues/2002/11/00/ba5027/ba5027.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2109184569.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:53.991454+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2109184569",
+    "concepts": [
+      "Python (programming language)",
+      "Software",
+      "Structural genomics",
+      "Computer science",
+      "Software engineering"
+    ],
+    "oa_status": "hybrid"
+  }
+}

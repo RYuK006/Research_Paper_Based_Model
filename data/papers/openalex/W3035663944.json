@@ -1,0 +1,60 @@
+{
+  "id": "openalex:W3035663944",
+  "title": "Robustness of linear mixed‐effects models to violations of distributional assumptions",
+  "abstract": "Abstract Linear mixed‐effects models are powerful tools for analysing complex datasets with repeated or clustered observations, a common data structure in ecology and evolution. Mixed‐effects models involve complex fitting procedures and make several assumptions, in particular about the distribution of residual and random effects. Violations of these assumptions are common in real datasets, yet it is not always clear how much these violations matter to accurate and unbiased estimation. Here we address the consequences of violations in distributional assumptions and the impact of missing random effect components on model estimates. In particular, we evaluate the effects of skewed, bimodal and heteroscedastic random effect and residual variances, of missing random effect terms and of correlated fixed effect predictors. We focus on bias and prediction error on estimates of fixed and random effects. Model estimates were usually robust to violations of assumptions, with the exception of slight upward biases in estimates of random effect variance if the generating distribution was bimodal but was modelled by Gaussian error distributions. Further, estimates for (random effect) components that violated distributional assumptions became less precise but remained unbiased. However, this particular problem did not affect other parameters of the model. The same pattern was found for strongly correlated fixed effects, which led to imprecise, but unbiased estimates, with uncertainty estimates reflecting imprecision. Unmodelled sources of random effect variance had predictable effects on variance component estimates. The pattern is best viewed as a cascade of hierarchical grouping factors. Variances trickle down the hierarchy such that missing higher‐level random effect variances pool at lower levels and missing lower‐level and crossed random effect variances manifest as residual variance. Overall, our results show remarkable robustness of mixed‐effects models that should allow researchers to use mixed‐effects models even if the distributional assumptions are objectively violated. However, this does not free researchers from careful evaluation of the model. Estimates that are based on data that show clear violations of key assumptions should be treated with caution because individual datasets might give highly imprecise estimates, even if they will be unbiased on average across datasets.",
+  "authors": [
+    "Holger Schielzeth",
+    "Niels Jeroen Dingemanse",
+    "Shinichi Nakagawa",
+    "David F. Westneat",
+    "Hassen Allegue",
+    "Céline Teplitsky",
+    "Denis J. F. Réale",
+    "Ned A. Dochtermann",
+    "László Zsolt Garamszegi",
+    "Yimen G. Araya‐Ajoy"
+  ],
+  "year": 2020,
+  "doi": "10.1111/2041-210x.13434",
+  "source": "openalex",
+  "categories": [
+    "Heteroscedasticity",
+    "Random effects model",
+    "Statistics",
+    "Mathematics",
+    "Residual",
+    "Econometrics",
+    "Variance (accounting)",
+    "Robustness (evolution)",
+    "Mixed model",
+    "Best linear unbiased prediction",
+    "Computer science",
+    "Algorithm",
+    "Selection (genetic algorithm)",
+    "Artificial intelligence",
+    "Chemistry",
+    "Biochemistry",
+    "Gene",
+    "Accounting",
+    "Meta-analysis",
+    "Medicine",
+    "Business",
+    "Internal medicine"
+  ],
+  "citation_count": 1546,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.13434",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3035663944.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:45.329972+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3035663944",
+    "concepts": [
+      "Heteroscedasticity",
+      "Random effects model",
+      "Statistics",
+      "Mathematics",
+      "Residual"
+    ],
+    "oa_status": "hybrid"
+  }
+}

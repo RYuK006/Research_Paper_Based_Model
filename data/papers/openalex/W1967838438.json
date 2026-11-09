@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W1967838438",
+  "title": "Placebo-Controlled Phase 3 Study of Oral BG-12 or Glatiramer in Multiple Sclerosis",
+  "abstract": "BACKGROUND: BG-12 (dimethyl fumarate) is in development as an oral treatment for relapsing-remitting multiple sclerosis, which is commonly treated with parenteral agents (interferon or glatiramer acetate). METHODS: In this phase 3, randomized study, we investigated the efficacy and safety of oral BG-12, at a dose of 240 mg two or three times daily, as compared with placebo in patients with relapsing-remitting multiple sclerosis. An active agent, glatiramer acetate, was also included as a reference comparator. The primary end point was the annualized relapse rate over a period of 2 years. The study was not designed to test the superiority or noninferiority of BG-12 versus glatiramer acetate. RESULTS: At 2 years, the annualized relapse rate was significantly lower with twice-daily BG-12 (0.22), thrice-daily BG-12 (0.20), and glatiramer acetate (0.29) than with placebo (0.40) (relative reductions: twice-daily BG-12, 44%, P<0.001; thrice-daily BG-12, 51%, P<0.001; glatiramer acetate, 29%, P=0.01). Reductions in disability progression with twice-daily BG-12, thrice-daily BG-12, and glatiramer acetate versus placebo (21%, 24%, and 7%, respectively) were not significant. As compared with placebo, twice-daily BG-12, thrice-daily BG-12, and glatiramer acetate significantly reduced the numbers of new or enlarging T(2)-weighted hyperintense lesions (all P<0.001) and new T(1)-weighted hypointense lesions (P<0.001, P<0.001, and P=0.002, respectively). In post hoc comparisons of BG-12 versus glatiramer acetate, differences were not significant except for the annualized relapse rate (thrice-daily BG-12), new or enlarging T(2)-weighted hyperintense lesions (both BG-12 doses), and new T(1)-weighted hypointense lesions (thrice-daily BG-12) (nominal P<0.05 for each comparison). Adverse events occurring at a higher incidence with an active treatment than with placebo included flushing and gastrointestinal events (with BG-12) and injection-related events (with glatiramer acetate). There were no malignant neoplasms or opportunistic infections reported with BG-12. Lymphocyte counts decreased with BG-12. CONCLUSIONS: In patients with relapsing-remitting multiple sclerosis, BG-12 (at both doses) and glatiramer acetate significantly reduced relapse rates and improved neuroradiologic outcomes relative to placebo. (Funded by Biogen Idec; CONFIRM ClinicalTrials.gov number, NCT00451451.).",
+  "authors": [
+    "Robert James Fox",
+    "David H. Miller",
+    "J. Theodore Phillips",
+    "Michael Hutchinson",
+    "Eva Havrdová",
+    "Mariko Kita",
+    "Minhua Yang",
+    "Kartik Raghupathi",
+    "Mark Novas",
+    "Marianne T. Sweetser",
+    "Vissia Viglietta",
+    "Katherine T. Dawson"
+  ],
+  "year": 2012,
+  "doi": "10.1056/nejmoa1206328",
+  "source": "openalex",
+  "categories": [
+    "Medicine",
+    "Multiple sclerosis",
+    "Placebo",
+    "Glatiramer acetate",
+    "Internal medicine",
+    "Phase (matter)",
+    "Dermatology",
+    "Immunology",
+    "Alternative medicine",
+    "Pathology",
+    "Chemistry",
+    "Organic chemistry"
+  ],
+  "citation_count": 1369,
+  "open_access_pdf_url": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa1206328?articleTools=true",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1967838438.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:52.768328+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1967838438",
+    "concepts": [
+      "Medicine",
+      "Multiple sclerosis",
+      "Placebo",
+      "Glatiramer acetate",
+      "Internal medicine"
+    ],
+    "oa_status": "bronze"
+  }
+}

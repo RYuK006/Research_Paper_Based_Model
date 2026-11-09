@@ -1,0 +1,57 @@
+{
+  "id": "openalex:W2065077785",
+  "title": "Li-ion battery materials: present and future",
+  "abstract": "This review covers key technological developments and scientific challenges for a broad range of Li-ion battery electrodes. Periodic table and potential/capacity plots are used to compare many families of suitable materials. Performance characteristics, current limitations, and recent breakthroughs in the development of commercial intercalation materials such as lithium cobalt oxide (LCO), lithium nickel cobalt manganese oxide (NCM), lithium nickel cobalt aluminum oxide (NCA), lithium iron phosphate (LFP), lithium titanium oxide (LTO) and others are contrasted with that of conversion materials, such as alloying anodes (Si, Ge, Sn, etc.), chalcogenides (S, Se, Te), and metal halides (F, Cl, Br, I). New polyanion cathode materials are also discussed. The cost, abundance, safety, Li and electron transport, volumetric expansion, material dissolution, and surface reactions for each type of electrode materials are described. Both general and specific strategies to overcome the current challenges are covered and categorized.",
+  "authors": [
+    "Naoki Nitta",
+    "Feixiang Wu",
+    "Jung Tae Lee",
+    "Gleb N. Yushin"
+  ],
+  "year": 2014,
+  "doi": "10.1016/j.mattod.2014.10.040",
+  "source": "openalex",
+  "categories": [
+    "Materials science",
+    "Lithium (medication)",
+    "Cobalt oxide",
+    "Cobalt",
+    "Battery (electricity)",
+    "Anode",
+    "Nickel",
+    "Oxide",
+    "Cathode",
+    "Inorganic chemistry",
+    "Manganese",
+    "Intercalation (chemistry)",
+    "Dissolution",
+    "Electrode",
+    "Nanotechnology",
+    "Chemical engineering",
+    "Metallurgy",
+    "Chemistry",
+    "Physics",
+    "Power (physics)",
+    "Medicine",
+    "Quantum mechanics",
+    "Engineering",
+    "Physical chemistry",
+    "Endocrinology"
+  ],
+  "citation_count": 7659,
+  "open_access_pdf_url": "https://www.sciencedirect.com/science/article/pii/S1369702114004118/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2065077785.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:49.940991+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2065077785",
+    "concepts": [
+      "Materials science",
+      "Lithium (medication)",
+      "Cobalt oxide",
+      "Cobalt",
+      "Battery (electricity)"
+    ],
+    "oa_status": "hybrid"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "openalex:W1973383826",
+  "title": "Phosphate-binding Tag, a New Tool to Visualize Phosphorylated Proteins",
+  "abstract": "We introduce two methods for the visualization of phosphorylated proteins using alkoxide-bridged dinuclear metal (i.e. Zn(2+) or Mn(2+)) complexes as novel phosphate-binding tag (Phos-tag) molecules. Both Zn(2+)- and Mn(2+)-Phos-tag molecules preferentially capture phosphomonoester dianions bound to Ser, Thr, and Tyr residues. One method is based on an ECL system using biotin-pendant Zn(2+)-Phos-tag and horseradish peroxidase-conjugated streptavidin. We demonstrate the electroblotting analyses of protein phosphorylation status by the phosphate-selective ECL signals. Another method is based on the mobility shift of phosphorylated proteins in SDS-PAGE with polyacrylamide-bound Mn(2+)-Phos-tag. Phosphorylated proteins in the gel are visualized as slower migration bands compared with corresponding dephosphorylated proteins. We demonstrate the kinase and phosphatase assays by phosphate affinity electrophoresis (Mn(2+)-Phos-tag SDS-PAGE).",
+  "authors": [
+    "Eiji Kinoshita",
+    "Emiko Kinoshita‐Kikuta",
+    "Kei Takiyama",
+    "Tohru Koike"
+  ],
+  "year": 2005,
+  "doi": "10.1074/mcp.t500024-mcp200",
+  "source": "openalex",
+  "categories": [
+    "Phosphorylation",
+    "Phosphate",
+    "Chemistry",
+    "Computational biology",
+    "Protein phosphorylation",
+    "Cell biology",
+    "Biochemistry",
+    "Biology",
+    "Protein kinase A"
+  ],
+  "citation_count": 1112,
+  "open_access_pdf_url": "http://www.mcponline.org/article/S1535947620303583/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1973383826.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:19.584362+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1973383826",
+    "concepts": [
+      "Phosphorylation",
+      "Phosphate",
+      "Chemistry",
+      "Computational biology",
+      "Protein phosphorylation"
+    ],
+    "oa_status": "hybrid"
+  }
+}

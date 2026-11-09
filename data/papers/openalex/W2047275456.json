@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2047275456",
+  "title": "Open Mass Spectrometry Search Algorithm",
+  "abstract": "Large numbers of MS/MS peptide spectra generated in proteomics experiments require efficient, sensitive and specific algorithms for peptide identification. In the Open Mass Spectrometry Search Algorithm (OMSSA), specificity is calculated by a classic probability score using an explicit model for matching experimental spectra to sequences. At default thresholds, OMSSA matches more spectra from a standard protein cocktail than a comparable algorithm. OMSSA is designed to be faster than published algorithms in searching large MS/MS datasets. Keywords: protein identification • algorithm • bioinformatics • mass spectrometry • proteomics • significance testing",
+  "authors": [
+    "Lewis Y. Geer",
+    "Sanford P. Markey",
+    "Jeffrey A. Kowalak",
+    "Lukas Wagner",
+    "Ming qing Xu",
+    "Dawn Maynard",
+    "Xiaoyu Yang",
+    "Wenyao Shi",
+    "Stephen H. Bryant"
+  ],
+  "year": 2004,
+  "doi": "10.1021/pr0499491",
+  "source": "openalex",
+  "categories": [
+    "Mass spectrometry",
+    "Database search engine",
+    "Matching (statistics)",
+    "Computer science",
+    "Algorithm",
+    "Proteomics",
+    "Mass spectrum",
+    "Identification (biology)",
+    "Chemistry",
+    "Search engine",
+    "Mathematics",
+    "Chromatography",
+    "Information retrieval",
+    "Statistics",
+    "Biology",
+    "Gene",
+    "Biochemistry",
+    "Botany"
+  ],
+  "citation_count": 1457,
+  "open_access_pdf_url": "https://arxiv.org/pdf/q-bio/0406002",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2047275456.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:48.231755+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2047275456",
+    "concepts": [
+      "Mass spectrometry",
+      "Database search engine",
+      "Matching (statistics)",
+      "Computer science",
+      "Algorithm"
+    ],
+    "oa_status": "green"
+  }
+}

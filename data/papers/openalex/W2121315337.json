@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2121315337",
+  "title": "Pilot Contamination and Precoding in Multi-Cell TDD Systems",
+  "abstract": "This paper considers a multi-cell multiple antenna system with precoding used at the base stations for downlink transmission. Channel state information (CSI) is essential for precoding at the base stations. An effective technique for obtaining this CSI is time-division duplex (TDD) operation where uplink training in conjunction with reciprocity simultaneously provides the base stations with downlink as well as uplink channel estimates. This paper mathematically characterizes the impact that uplink training has on the performance of such multi-cell multiple antenna systems. When non-orthogonal training sequences are used for uplink training, the paper shows that the precoding matrix used by the base station in one cell becomes corrupted by the channel between that base station and the users in other cells in an undesirable manner. This paper analyzes this fundamental problem of pilot contamination in multi-cell systems. Furthermore, it develops a new multi-cell MMSE-based precoding method that mitigates this problem. In addition to being linear, this precoding method has a simple closed-form expression that results from an intuitive optimization. Numerical results show significant performance gains compared to certain popular single-cell precoding methods.",
+  "authors": [
+    "Jubin Jose",
+    "Alexei Ashikhmin",
+    "Thomas L. Marzetta",
+    "Sriram Vishwanath"
+  ],
+  "year": 2011,
+  "doi": "10.1109/twc.2011.060711.101155",
+  "source": "openalex",
+  "categories": [
+    "Precoding",
+    "Telecommunications link",
+    "Base station",
+    "Zero-forcing precoding",
+    "Computer science",
+    "Duplex (building)",
+    "MIMO",
+    "Channel state information",
+    "Electronic engineering",
+    "Channel (broadcasting)",
+    "Computer network",
+    "Wireless",
+    "Telecommunications",
+    "Engineering",
+    "Chemistry",
+    "Biochemistry",
+    "DNA"
+  ],
+  "citation_count": 1327,
+  "open_access_pdf_url": "https://arxiv.org/pdf/0901.1703",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2121315337.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:57.618813+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2121315337",
+    "concepts": [
+      "Precoding",
+      "Telecommunications link",
+      "Base station",
+      "Zero-forcing precoding",
+      "Computer science"
+    ],
+    "oa_status": "green"
+  }
+}

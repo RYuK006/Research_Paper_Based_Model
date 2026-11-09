@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2963145597",
+  "title": "Deep Learning for Massive MIMO CSI Feedback",
+  "abstract": "In frequency division duplex mode, the downlink channel state information (CSI) should be sent to the base station through feedback links so that the potential gains of a massive multiple-input multiple-output can be exhibited. However, such a transmission is hindered by excessive feedback overhead. In this letter, we use deep learning technology to develop CsiNet, a novel CSI sensing and recovery mechanism that learns to effectively use channel structure from training samples. CsiNet learns a transformation from CSI to a near-optimal number of representations (or codewords) and an inverse transformation from codewords to CSI. We perform experiments to demonstrate that CsiNet can recover CSI with significantly improved reconstruction quality compared with existing compressive sensing (CS)-based methods. Even at excessively low compression regions where CS-based methods cannot work, CsiNet retains effective beamforming gain.",
+  "authors": [
+    "Chao-Kai Wen",
+    "Wan-Ting Shih",
+    "Shi Jin"
+  ],
+  "year": 2018,
+  "doi": "10.1109/lwc.2018.2818160",
+  "source": "openalex",
+  "categories": [
+    "Channel state information",
+    "Computer science",
+    "Beamforming",
+    "Overhead (engineering)",
+    "Base station",
+    "MIMO",
+    "Transformation (genetics)",
+    "Telecommunications link",
+    "Duplex (building)",
+    "Transmission (telecommunications)",
+    "Channel (broadcasting)",
+    "Artificial intelligence",
+    "Algorithm",
+    "Computer engineering",
+    "Wireless",
+    "Telecommunications",
+    "Biochemistry",
+    "Biology",
+    "Gene",
+    "Operating system",
+    "Genetics",
+    "Chemistry",
+    "DNA"
+  ],
+  "citation_count": 1211,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1712.08919",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2963145597.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:04.767201+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2963145597",
+    "concepts": [
+      "Channel state information",
+      "Computer science",
+      "Beamforming",
+      "Overhead (engineering)",
+      "Base station"
+    ],
+    "oa_status": "green"
+  }
+}

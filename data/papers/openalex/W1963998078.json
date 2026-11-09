@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W1963998078",
+  "title": "Scaling of metabolic rate with body mass and temperature in teleost fish",
+  "abstract": "Summary 1. We examined published studies relating resting oxygen consumption to body mass and temperature in post‐larval teleost fish. The resulting database comprised 138 studies of 69 species (representing 28 families and 12 orders) living over a temperature range of c. 40 °C. 2. Resting metabolic rate ( R b ; mmol oxygen gas h –1 ) was related to body mass ( M; wet mass, g) by R b = a M b , where a is a constant and b the scaling exponent. The model was fitted by least squares linear regression after logarithmic transformation of both variables. The mean value of scaling exponent, b, for the 69 individual species was 0·79 (SE 0·11). The general equation for all teleost fish was 1n R b = 0·80(1nM) – 5·43. 3. The relationship between resting oxygen consumption and environmental temperature for a 50‐g fish was curvilinear. A typical tropical fish at 30°C requires approximately six times as much oxygen for resting metabolism as does a polar fish at 0°C. This relationship could be fitted by several statistical models, of which the Arrhenius model is probably the most appropriate. The Arrhenius model for the resting metabolism of 69 species of teleost fish, corrected to a standard body mass of 50 g, was 1n R b = 15·7 – 5·02. T –1 , where T is absolute temperature (10 3 × K). 4. The Arrhenius model fitted to all 69 species exhibited a lower thermal sensitivity of resting metabolism (mean Q 10 = 1·83 over the range 0–30 °C) than typical within‐species acclimation studies (median Q 10 = 2·40, n = 14). This suggests that evolutionary adaptation has reduced the overall thermal sensitivity of resting metabolism across species. Analysis of covariance indicated that the relationships between resting metabolic rate and temperature for various taxa (orders) showed similar slopes but significantly different mean rates. 5. Analysis of the data for perciform fish provided no support for metabolic cold adaptation (the hypothesis that polar fish show a resting metabolic rate higher than predicted from the overall rate/temperature relationship established for temperate and tropical species). 6. Taxonomic variation in mean resting metabolic rate showed no relationship to phylogeny, although the robustness of this conclusion is constrained by our limited knowledge of fish evolutionary history.",
+  "authors": [
+    "Andrew Clarke",
+    "Nadine M. Johnston"
+  ],
+  "year": 1999,
+  "doi": "10.1046/j.1365-2656.1999.00337.x",
+  "source": "openalex",
+  "categories": [
+    "Arrhenius equation",
+    "Scaling",
+    "Oxygen",
+    "Basal metabolic rate",
+    "Chemistry",
+    "Allometry",
+    "Metabolic rate",
+    "Exponent",
+    "Ecology",
+    "Biology",
+    "Mathematics",
+    "Activation energy",
+    "Biochemistry",
+    "Geometry",
+    "Physical chemistry",
+    "Endocrinology",
+    "Organic chemistry",
+    "Philosophy",
+    "Linguistics"
+  ],
+  "citation_count": 1448,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1046/j.1365-2656.1999.00337.x",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1963998078.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:48.271567+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1963998078",
+    "concepts": [
+      "Arrhenius equation",
+      "Scaling",
+      "Oxygen",
+      "Basal metabolic rate",
+      "Chemistry"
+    ],
+    "oa_status": "bronze"
+  }
+}

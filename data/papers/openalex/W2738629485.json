@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2738629485",
+  "title": "Promoter Effects of Alkali Metal Cations on the Electrochemical Reduction of Carbon Dioxide",
+  "abstract": "The electrochemical reduction of CO 2 is known to be influenced by the identity of the alkali metal cation in the electrolyte; however, a satisfactory explanation for this phenomenon has not been developed. Here we present the results of experimental and theoretical studies aimed at elucidating the effects of electrolyte cation size on the intrinsic activity and selectivity of metal catalysts for the reduction of CO 2 . Experiments were conducted under conditions where the influence of electrolyte polarization is minimal in order to show that cation size affects the intrinsic rates of formation of certain reaction products, most notably for HCOO –, C 2 H 4, and C 2 H 5 OH over Cu(100)- and Cu(111)-oriented thin films, and for CO and HCOO – over polycrystalline Ag and Sn. Interpretation of the findings for CO 2 reduction was informed by studies of the reduction of glyoxal and CO, key intermediates along the reaction pathway to final products. Density functional theory calculations show that the alkali metal cations influence the distribution of products formed as a consequence of electrostatic interactions between solvated cations present at the outer Helmholtz plane and adsorbed species having large dipole moments. The observed trends in activity with cation size are attributed to an increase in the concentration of cations at the outer Helmholtz plane with increasing cation size.",
+  "authors": [
+    "Joaquin Resasco",
+    "Leanne D. Chen",
+    "Ezra Lee Clark",
+    "Charlie Tsai",
+    "Christopher Hahn",
+    "Thomas Francisco Jaramillo",
+    "Karen Chan",
+    "Alexis T. Bell"
+  ],
+  "year": 2017,
+  "doi": "10.1021/jacs.7b06765",
+  "source": "openalex",
+  "categories": [
+    "Chemistry",
+    "Electrochemistry",
+    "Alkali metal",
+    "Electrolyte",
+    "Inorganic chemistry",
+    "Metal",
+    "Exchange current density",
+    "Density functional theory",
+    "Adsorption",
+    "Computational chemistry",
+    "Physical chemistry",
+    "Electrode",
+    "Organic chemistry",
+    "Tafel equation"
+  ],
+  "citation_count": 1217,
+  "open_access_pdf_url": "https://www.osti.gov/servlets/purl/1390621",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2738629485.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:04.669901+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2738629485",
+    "concepts": [
+      "Chemistry",
+      "Electrochemistry",
+      "Alkali metal",
+      "Electrolyte",
+      "Inorganic chemistry"
+    ],
+    "oa_status": "green"
+  }
+}

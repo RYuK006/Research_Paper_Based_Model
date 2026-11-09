@@ -1,0 +1,43 @@
+{
+  "id": "openalex:W2097683070",
+  "title": "Optical properties of biological tissues: a review",
+  "abstract": "A review of reported tissue optical properties summarizes the wavelength-dependent behavior of scattering and absorption. Formulae are presented for generating the optical properties of a generic tissue with variable amounts of absorbing chromophores (blood, water, melanin, fat, yellow pigments) and a variable balance between small-scale scatterers and large-scale scatterers in the ultrastructures of cells and tissues.",
+  "authors": [
+    "Steven L. Jacques"
+  ],
+  "year": 2013,
+  "doi": "10.1088/0031-9155/58/11/r37",
+  "source": "openalex",
+  "categories": [
+    "Chromophore",
+    "Wavelength",
+    "Absorption (acoustics)",
+    "Scattering",
+    "Biological tissue",
+    "Materials science",
+    "Optics",
+    "Light scattering",
+    "Biological system",
+    "Chemistry",
+    "Optoelectronics",
+    "Physics",
+    "Biology",
+    "Organic chemistry"
+  ],
+  "citation_count": 4161,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1088/0031-9155/58/11/R37/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2097683070.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:54.019535+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2097683070",
+    "concepts": [
+      "Chromophore",
+      "Wavelength",
+      "Absorption (acoustics)",
+      "Scattering",
+      "Biological tissue"
+    ],
+    "oa_status": "bronze"
+  }
+}

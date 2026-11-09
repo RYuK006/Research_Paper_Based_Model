@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W1855539512",
+  "title": "Best practices in exploratory factor analysis: four recommendations for getting the most from your analysis",
+  "abstract": "Exploratory factor analysis (EFA) is a complex, multi-step process. The goal of this paper is to collect, in one article, information that will allow researchers and practitioners to understand the various choices available through popular software packages, and to make decisions about “best practices” in exploratory factor analysis. In particular, this paper provides practical information on making decisions regarding (a) extraction, (b) rotation, (c) the number of factors to interpret, and (d) sample size.",
+  "authors": [
+    "Anna B. Costello",
+    "Jason Osborne"
+  ],
+  "year": 2020,
+  "doi": "10.7275/jyj1-4868",
+  "source": "openalex",
+  "categories": [
+    "Exploratory factor analysis",
+    "Computer science",
+    "Exploratory analysis",
+    "Factor (programming language)",
+    "Exploratory research",
+    "Process (computing)",
+    "Best practice",
+    "Sample (material)",
+    "Software",
+    "Data science",
+    "Knowledge management",
+    "Machine learning",
+    "Management",
+    "Sociology",
+    "Anthropology",
+    "Economics",
+    "Structural equation modeling",
+    "Chemistry",
+    "Programming language",
+    "Chromatography",
+    "Operating system"
+  ],
+  "citation_count": 11819,
+  "open_access_pdf_url": "https://scholarworks.umass.edu/pare/vol10/iss1/7",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1855539512.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:49.842902+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1855539512",
+    "concepts": [
+      "Exploratory factor analysis",
+      "Computer science",
+      "Exploratory analysis",
+      "Factor (programming language)",
+      "Exploratory research"
+    ],
+    "oa_status": "green"
+  }
+}

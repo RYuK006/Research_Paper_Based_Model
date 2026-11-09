@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2915138805",
+  "title": "Root Exudation of Primary Metabolites: Mechanisms and Their Roles in Plant Responses to Environmental Stimuli",
+  "abstract": "Root exudation is an important process determining plant interactions with the soil environment. Many studies have linked this process to soil nutrient mobilization. Yet, it remains unresolved how exudation is controlled and how exactly and under what circumstances plants benefit from exudation. The majority of root exudates include primary metabolites (sugars, amino acids and organic acids) believed to be passively lost from the root and used by rhizosphere-dwelling microbes. In this review, we synthetize recent advances in ecology and plant biology to explain and propose mechanisms by which root exudation of primary metabolites is controlled, and what role their exudation plays in plant nutrient acquisition strategies. Specifically, we propose a novel conceptual framework for root exudates. This framework is built upon two main concepts: (i) root exudation of primary metabolites is driven by diffusion, with plants and microbes both modulating concentration gradients and therefore diffusion rates to soil depending on their nutritional status; (ii) exuded metabolite concentrations can be sensed at the root tip and signals are translated to modify root architecture. The flux of primary metabolites through root exudation is mostly located at the root tip, where the lack of cell differentiation favors diffusion of metabolites to the soil. We show examples of how the root tip senses concentration changes of exuded metabolites and translate that into signals to modify root growth. Plants can modify the concentration of metabolites either by controlling source/sink processes or by expressing and regulating efflux carriers, therefore challenging the idea of root exudation as a purely unregulated passive process. Through root exudate flux, plants can locally enhance concentrations of many common metabolites which can serve as sensors and integrators of the plant nutritional status and of the nutrient availability in the surrounding environment. Plant-associated micro-organisms also constitute a strong sink for plant carbon thereby increasing concentration gradients of metabolites and affecting root exudation. Understanding the mechanisms of, and the effects that, environmental stimuli have on the magnitude and type of root exudation will ultimately improve our knowledge of processes determining soil CO2 emissions, ecosystem functioning and how to improve the sustainability of agricultural production.",
+  "authors": [
+    "Alberto Canarini",
+    "Christina Kaiser",
+    "Andrew Merchant",
+    "Andreas A. Richter",
+    "Wolfgang Wanek"
+  ],
+  "year": 2019,
+  "doi": "10.3389/fpls.2019.00157",
+  "source": "openalex",
+  "categories": [
+    "Rhizosphere",
+    "Exudate",
+    "Nutrient",
+    "Primary metabolite",
+    "Plant root",
+    "Root (linguistics)",
+    "Biology",
+    "Root system",
+    "Botany",
+    "Metabolite",
+    "Chemistry",
+    "Ecology",
+    "Biochemistry",
+    "Horticulture",
+    "Bacteria",
+    "Linguistics",
+    "Philosophy",
+    "Genetics"
+  ],
+  "citation_count": 1183,
+  "open_access_pdf_url": "https://www.frontiersin.org/articles/10.3389/fpls.2019.00157/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2915138805.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:12.029179+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2915138805",
+    "concepts": [
+      "Rhizosphere",
+      "Exudate",
+      "Nutrient",
+      "Primary metabolite",
+      "Plant root"
+    ],
+    "oa_status": "gold"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W1981233250",
+  "title": "Dynamic Pattern Formation in a Vesicle-Generating Microfluidic Device",
+  "abstract": "Spatiotemporal pattern formation occurs in a variety of nonequilibrium physical and chemical systems. Here we show that a microfluidic device designed to produce reverse micelles can generate complex, ordered patterns as it is continuously operated far from thermodynamic equilibrium. Flow in a microfluidic system is usually simple-viscous effects dominate and the low Reynolds number leads to laminar flow. Self-assembly of the vesicles into patterns depends on channel geometry and relative fluid pressures, enabling the production of motifs ranging from monodisperse droplets to helices and ribbons.",
+  "authors": [
+    "Todd Thorsen",
+    "Richard W. Roberts",
+    "Frances H. Arnold",
+    "Stephen R. Quake"
+  ],
+  "year": 2001,
+  "doi": "10.1103/physrevlett.86.4163",
+  "source": "openalex",
+  "categories": [
+    "Microfluidics",
+    "Reynolds number",
+    "Laminar flow",
+    "Non-equilibrium thermodynamics",
+    "Vesicle",
+    "Materials science",
+    "Dispersity",
+    "Complex fluid",
+    "Chemical physics",
+    "Flow (mathematics)",
+    "Micelle",
+    "Flow focusing",
+    "Mechanics",
+    "Thermodynamic equilibrium",
+    "Nanotechnology",
+    "Thermodynamics",
+    "Physics",
+    "Chemistry",
+    "Turbulence",
+    "Physical chemistry",
+    "Aqueous solution",
+    "Membrane",
+    "Polymer chemistry",
+    "Biochemistry"
+  ],
+  "citation_count": 2115,
+  "open_access_pdf_url": "https://doi.org/10.17877/de290r-2342",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1981233250.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:15.396479+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1981233250",
+    "concepts": [
+      "Microfluidics",
+      "Reynolds number",
+      "Laminar flow",
+      "Non-equilibrium thermodynamics",
+      "Vesicle"
+    ],
+    "oa_status": "green"
+  }
+}

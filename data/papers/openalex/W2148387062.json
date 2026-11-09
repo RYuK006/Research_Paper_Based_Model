@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2148387062",
+  "title": "Cutting Edge: A Novel Toll/IL-1 Receptor Domain-Containing Adapter That Preferentially Activates the IFN-β Promoter in the Toll-Like Receptor Signaling",
+  "abstract": "MyD88 is a Toll/IL-1 receptor (TIR) domain-containing adapter common to signaling pathways via Toll-like receptor (TLR) family. However, accumulating evidence demonstrates the existence of a MyD88-independent pathway, which may explain unique biological responses of individual TLRs, particularly TLR3 and TLR4. TIR domain-containing adapter protein (TIRAP)/MyD88 adapter-like, a second adapter harboring the TIR domain, is essential for MyD88-dependent TLR2 and TLR4 signaling pathways, but not for MyD88-independent pathways. Here, we identified a novel TIR domain-containing molecule, named TIR domain-containing adapter inducing IFN-beta (TRIF). As is the case in MyD88 and TIRAP, overexpression of TRIF activated the NF-kappaB-dependent promoter. A dominant-negative form of TRIF inhibited TLR2-, TLR4-, and TLR7-dependent NF-kappaB activation. Furthermore, TRIF, but neither MyD88 nor TIRAP, activated the IFN-beta promoter. Dominant-negative TRIF inhibited TLR3-dependent activation of both the NF-kappaB-dependent and IFN-beta promoters. TRIF associated with TLR3 and IFN regulatory factor 3. These findings suggest that TRIF is involved in the TLR signaling, particularly in the MyD88-independent pathway.",
+  "authors": [
+    "Masahiro Yamamoto",
+    "Shintaro Sato",
+    "Kiyotoshi Mori",
+    "Katsuaki Hoshino",
+    "Osamu Takeuchi",
+    "Kiyoshi Takeda",
+    "Shizuo Akira"
+  ],
+  "year": 2002,
+  "doi": "10.4049/jimmunol.169.12.6668",
+  "source": "openalex",
+  "categories": [
+    "TRIF",
+    "Adapter (computing)",
+    "Signal transducing adaptor protein",
+    "TLR3",
+    "TLR2",
+    "Toll-like receptor",
+    "Signal transduction",
+    "Cell biology",
+    "Receptor",
+    "TLR4",
+    "Interferon regulatory factors",
+    "Biology",
+    "Chemistry",
+    "Innate immune system",
+    "Biochemistry",
+    "Engineering",
+    "Electrical engineering"
+  ],
+  "citation_count": 1246,
+  "open_access_pdf_url": "https://journals.aai.org/jimmunol/article-pdf/169/12/6668/1153531/6668.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2148387062.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:02.740877+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2148387062",
+    "concepts": [
+      "TRIF",
+      "Adapter (computing)",
+      "Signal transducing adaptor protein",
+      "TLR3",
+      "TLR2"
+    ],
+    "oa_status": "bronze"
+  }
+}

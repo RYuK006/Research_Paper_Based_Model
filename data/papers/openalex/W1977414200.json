@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W1977414200",
+  "title": "An Introduction to Spatial Econometrics",
+  "abstract": "An introduction to spatial econometric models and methods is provided that discusses spatial autoregressive processes that can be used to extend conventional regression models. Estimation and interpretation of these models are illustrated with an applied example that examines the relationship between commuting to work times and transportation mode choice for a sample of 3,110 US counties in the year 2000. These extensions to conventional regression models are useful when modeling cross-sectional regional observations or and panel data samples collected from regions over both space and time can be easily implemented using publicly available software. Use of these models for the case of non-spatial structured dependence is also discussed.",
+  "authors": [
+    "James Paul LeSage"
+  ],
+  "year": 2008,
+  "doi": "10.4000/rei.3887",
+  "source": "openalex",
+  "categories": [
+    "Spatial econometrics",
+    "Econometrics",
+    "Autoregressive model",
+    "Econometric model",
+    "Regression analysis",
+    "Sample (material)",
+    "Estimation",
+    "Computer science",
+    "Spatial dependence",
+    "Regression",
+    "Specification",
+    "Statistics",
+    "Mathematics",
+    "Economics",
+    "Chemistry",
+    "Chromatography",
+    "Management"
+  ],
+  "citation_count": 3044,
+  "open_access_pdf_url": "https://journals.openedition.org/rei/pdf/3887",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1977414200.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:01.782454+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1977414200",
+    "concepts": [
+      "Spatial econometrics",
+      "Econometrics",
+      "Autoregressive model",
+      "Econometric model",
+      "Regression analysis"
+    ],
+    "oa_status": "hybrid"
+  }
+}

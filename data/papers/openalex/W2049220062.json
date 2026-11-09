@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2049220062",
+  "title": "Mechanism Of Cell Surface Activation Of 72-kDa Type IV Collagenase",
+  "abstract": "Matrix metalloproteases are secreted by mammalian cells as zymogens and, upon activation, initiate tissue remodeling by proteolytic degradation of collagens and proteoglycans. Activation of the secreted proenzymes and interaction with their specific inhibitors determine the net enzymatic activity in the extracellular space. We have previously demonstrated that 72T4Cl can be activated by a plasma membrane-dependent mechanism specific for this enzyme. Here, we report purification of the membrane activator of 72T4Cl, which is a new metalloprotease identical to a recently cloned membrane-type matrix metalloprotease (MT-MMP). We demonstrate that activated MT-MMP acts as a cell surface tissue inhibitor of metalloprotease 2 (TIMP-2) receptor with Kd = 2.54 x 10(-9) M. The activator.TIMP-2 complex in turn acts as a receptor for 72T4Cl (Kd = 0.56 x 10(-9) M, binding to the carboxyl-end domain of the enzyme. Activation of 72T4Cl on the cell membrane provides a basic mechanism for spatially regulated extracellular proteolysis and presents a new target for prognosis and treatment of metastatic disease. The activation, purified as a tri-molecular complex of MT-MMP.TIMP2.carboxyl-end domain of 72T4Cl, is itself an activated form of MT-MMP, posing the following question: what is the mechanism of the activator's activation?",
+  "authors": [
+    "Alex Y. Strongin",
+    "Ivan E. Collier",
+    "Gregory A. Bannikov",
+    "Barry L. Marmer",
+    "Gregory A. Grant",
+    "Gregory I. Goldberg"
+  ],
+  "year": 1995,
+  "doi": "10.1074/jbc.270.10.5331",
+  "source": "openalex",
+  "categories": [
+    "Matrix metalloproteinase",
+    "Metalloproteinase",
+    "Activator (genetics)",
+    "Extracellular matrix",
+    "Extracellular",
+    "Cell biology",
+    "Proteolysis",
+    "Chemistry",
+    "Collagenase",
+    "Biochemistry",
+    "Enzyme activator",
+    "Tissue inhibitor of metalloproteinase",
+    "Receptor",
+    "Interstitial collagenase",
+    "Enzyme",
+    "Biology"
+  ],
+  "citation_count": 1605,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925818947575/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2049220062.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:41.834377+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2049220062",
+    "concepts": [
+      "Matrix metalloproteinase",
+      "Metalloproteinase",
+      "Activator (genetics)",
+      "Extracellular matrix",
+      "Extracellular"
+    ],
+    "oa_status": "hybrid"
+  }
+}

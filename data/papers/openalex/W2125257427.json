@@ -1,0 +1,44 @@
+{
+  "id": "openalex:W2125257427",
+  "title": "Tumor Hypoxia: Definitions and Current Clinical, Biologic, and Molecular Aspects",
+  "abstract": "Tissue hypoxia results from an inadequate supply of oxygen (O(2)) that compromises biologic functions. Evidence from experimental and clinical studies increasingly points to a fundamental role for hypoxia in solid tumors. Hypoxia in tumors is primarily a pathophysiologic consequence of structurally and functionally disturbed microcirculation and the deterioration of diffusion conditions. Tumor hypoxia appears to be strongly associated with tumor propagation, malignant progression, and resistance to therapy, and it has thus become a central issue in tumor physiology and cancer treatment. Biochemists and clinicians (as well as physiologists) define hypoxia differently; biochemists define it as O(2)-limited electron transport, and physiologists and clinicians define it as a state of reduced O(2) availability or decreased O(2) partial pressure that restricts or even abolishes functions of organs, tissues, or cells. Because malignant tumors no longer execute functions necessary for homeostasis (such as the production of adequate amounts of adenosine triphosphate), the physiology-based definitions of the term \"hypoxia\" are not necessarily valid for malignant tumors. Instead, alternative definitions based on clinical, biologic, and molecular effects that are observed at O(2) partial pressures below a critical level have to be applied.",
+  "authors": [
+    "Michael Höckel",
+    "Peter W. Vaupel"
+  ],
+  "year": 2001,
+  "doi": "10.1093/jnci/93.4.266",
+  "source": "openalex",
+  "categories": [
+    "Hypoxia (environmental)",
+    "Tumor hypoxia",
+    "Homeostasis",
+    "Microcirculation",
+    "Cancer research",
+    "Medicine",
+    "Neuroscience",
+    "Bioinformatics",
+    "Biology",
+    "Internal medicine",
+    "Chemistry",
+    "Oxygen",
+    "Radiation therapy",
+    "Organic chemistry"
+  ],
+  "citation_count": 2698,
+  "open_access_pdf_url": "https://doi.org/10.1093/jnci/93.4.266",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2125257427.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:04.154579+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2125257427",
+    "concepts": [
+      "Hypoxia (environmental)",
+      "Tumor hypoxia",
+      "Homeostasis",
+      "Microcirculation",
+      "Cancer research"
+    ],
+    "oa_status": "closed"
+  }
+}

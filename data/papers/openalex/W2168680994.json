@@ -1,0 +1,63 @@
+{
+  "id": "openalex:W2168680994",
+  "title": "Defective Mismatch Repair As a Predictive Marker for Lack of Efficacy of Fluorouracil-Based Adjuvant Therapy in Colon Cancer",
+  "abstract": "PURPOSE: Prior reports have indicated that patients with colon cancer who demonstrate high-level microsatellite instability (MSI-H) or defective DNA mismatch repair (dMMR) have improved survival and receive no benefit from fluorouracil (FU) -based adjuvant therapy compared with patients who have microsatellite-stable or proficient mismatch repair (pMMR) tumors. We examined MMR status as a predictor of adjuvant therapy benefit in patients with stages II and III colon cancer. METHODS: MSI assay or immunohistochemistry for MMR proteins were performed on 457 patients who were previously randomly assigned to FU-based therapy (either FU + levamisole or FU + leucovorin; n = 229) versus no postsurgical treatment (n = 228). Data were subsequently pooled with data from a previous analysis. The primary end point was disease-free survival (DFS). RESULTS: Overall, 70 (15%) of 457 patients exhibited dMMR. Adjuvant therapy significantly improved DFS (hazard ratio [HR], 0.67; 95% CI, 0.48 to 0.93; P = .02) in patients with pMMR tumors. Patients with dMMR tumors receiving FU had no improvement in DFS (HR, 1.10; 95% CI, 0.42 to 2.91; P = .85) compared with those randomly assigned to surgery alone. In the pooled data set of 1,027 patients (n = 165 with dMMR), these findings were maintained; in patients with stage II disease and with dMMR tumors, treatment was associated with reduced overall survival (HR, 2.95; 95% CI, 1.02 to 8.54; P = .04). CONCLUSION: Patient stratification by MMR status may provide a more tailored approach to colon cancer adjuvant therapy. These data support MMR status assessment for patients being considered for FU therapy alone and consideration of MMR status in treatment decision making.",
+  "authors": [
+    "Daniel J. Sargent",
+    "Silvia Marsoni",
+    "Genevieve M. Monges",
+    "Stephen N. Thibodeau",
+    "Roberto Labianca",
+    "Stanley R. Hamilton",
+    "Amy J. French",
+    "Brian Kabat",
+    "Nathan R. Foster",
+    "Valter Torri",
+    "Christine M. Ribic",
+    "Axel F. Grothey",
+    "Malcolm Moore",
+    "Alberto Zaniboni",
+    "J. F. Seitz",
+    "Frank A. Sinicrope",
+    "Steve Gallinger"
+  ],
+  "year": 2010,
+  "doi": "10.1200/jco.2009.27.1825",
+  "source": "openalex",
+  "categories": [
+    "Medicine",
+    "Microsatellite instability",
+    "Internal medicine",
+    "Colorectal cancer",
+    "Adjuvant therapy",
+    "Oncology",
+    "Hazard ratio",
+    "DNA mismatch repair",
+    "Adjuvant",
+    "Fluorouracil",
+    "Cancer",
+    "Lynch syndrome",
+    "Confidence interval",
+    "Microsatellite",
+    "Allele",
+    "Gene",
+    "Biochemistry",
+    "Chemistry"
+  ],
+  "citation_count": 1649,
+  "open_access_pdf_url": "https://ascopubs.org/doi/pdfdirect/10.1200/JCO.2009.27.1825?role=tab",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2168680994.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:37.998103+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2168680994",
+    "concepts": [
+      "Medicine",
+      "Microsatellite instability",
+      "Internal medicine",
+      "Colorectal cancer",
+      "Adjuvant therapy"
+    ],
+    "oa_status": "bronze"
+  }
+}

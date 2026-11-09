@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2073131323",
+  "title": "Cisplatin as an Anti-Tumor Drug: Cellular Mechanisms of Activity, Drug Resistance and Induced Side Effects",
+  "abstract": "Platinum complexes are clinically used as adjuvant therapy of cancers aiming to induce tumor cell death. Depending on cell type and concentration, cisplatin induces cytotoxicity, e.g., by interference with transcription and/or DNA replication mechanisms. Additionally, cisplatin damages tumors via induction of apoptosis, mediated by the activation of various signal transduction pathways, including calcium signaling, death receptor signaling, and the activation of mitochondrial pathways. Unfortunately, neither cytotoxicity nor apoptosis are exclusively induced in cancer cells, thus, cisplatin might also lead to diverse side-effects such as neuro- and/or renal-toxicity or bone marrow-suppression. Moreover, the binding of cisplatin to proteins and enzymes may modulate its biochemical mechanism of action. While a combination-chemotherapy with cisplatin is a cornerstone for the treatment of multiple cancers, the challenge is that cancer cells could become cisplatin-resistant. Numerous mechanisms of cisplatin resistance were described including changes in cellular uptake, drug efflux, increased detoxification, inhibition of apoptosis and increased DNA repair. To minimize cisplatin resistance, combinatorial therapies were developed and have proven more effective to defeat cancers. Thus, understanding of the biochemical mechanisms triggered by cisplatin in tumor cells may lead to the design of more efficient platinum derivates (or other drugs) and might provide new therapeutic strategies and reduce side effects.",
+  "authors": [
+    "Ana-Maria Florea",
+    "Dietrich Büsselberg"
+  ],
+  "year": 2011,
+  "doi": "10.3390/cancers3011351",
+  "source": "openalex",
+  "categories": [
+    "Cisplatin",
+    "Apoptosis",
+    "Signal transduction",
+    "Cytotoxicity",
+    "Cancer research",
+    "Programmed cell death",
+    "Cancer cell",
+    "DNA repair",
+    "DNA damage",
+    "Pharmacology",
+    "Cancer",
+    "Chemistry",
+    "Medicine",
+    "Biology",
+    "Cell biology",
+    "Chemotherapy",
+    "In vitro",
+    "Biochemistry",
+    "DNA",
+    "Internal medicine"
+  ],
+  "citation_count": 1803,
+  "open_access_pdf_url": "https://www.mdpi.com/2072-6694/3/1/1351/pdf?version=1300202765",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2073131323.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:25.981513+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2073131323",
+    "concepts": [
+      "Cisplatin",
+      "Apoptosis",
+      "Signal transduction",
+      "Cytotoxicity",
+      "Cancer research"
+    ],
+    "oa_status": "gold"
+  }
+}

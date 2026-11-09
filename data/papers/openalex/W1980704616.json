@@ -1,0 +1,44 @@
+{
+  "id": "openalex:W1980704616",
+  "title": "Reporting physisorption data for gas/solid systems with special reference to the determination of surface area and porosity (Recommendations 1984)",
+  "abstract": "micropore filling.The BET method is unlikely to yield a value of the actual surface area if the isotherm is either Type I or Type III; but both Type II and Type IV isotherms are, in general, amenable to the BET analysis, provided that the value of C is neither too low nor too high and that the BET plot is linear in the region of the isotherm containing Point B.The computation of mesopore size distribution is valid only if the isotherm is of Type IV, but in view of the complexity of most pore systems little is to be gained by the application of an elaborate method of computation.If a Type I isotherm exhibits a nearly constant adsorption at high relative pressure, the micropore volume is given by the amount adsorbed at the plateau.At present there is no reliable procedure available for the computation of the micropore size distribution from a single isotherm.A check list is recommended to assist authors in the measurement of adsorption isotherms and the presentation of the data in the primary literature. CONTENTS SECTION 1.Recent work has drawn attention to the complexity of capillary condensation in pore networks and has indicated that a pore size distribution curve derived from the desorption branch of the loop is likely to be unreliable if pore blocking effects occur.It is significant that a very steep desorption branch is usually found if the lower closure point of the loop is located at the limiting p/p° (see Section 5.3).In particular, the",
+  "authors": [
+    "K. S. W. Sing"
+  ],
+  "year": 1985,
+  "doi": "10.1351/pac198557040603",
+  "source": "openalex",
+  "categories": [
+    "Physisorption",
+    "Chemistry",
+    "Porosity",
+    "Surface (topology)",
+    "Specific surface area",
+    "Solid surface",
+    "Chemical engineering",
+    "Physical chemistry",
+    "Adsorption",
+    "Chemical physics",
+    "Organic chemistry",
+    "Geometry",
+    "Engineering",
+    "Catalysis",
+    "Mathematics"
+  ],
+  "citation_count": 24758,
+  "open_access_pdf_url": "https://www.degruyter.com/document/doi/10.1351/pac198557040603/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1980704616.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:49.795449+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1980704616",
+    "concepts": [
+      "Physisorption",
+      "Chemistry",
+      "Porosity",
+      "Surface (topology)",
+      "Specific surface area"
+    ],
+    "oa_status": "bronze"
+  }
+}

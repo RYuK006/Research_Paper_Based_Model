@@ -1,0 +1,57 @@
+{
+  "id": "openalex:W2329573625",
+  "title": "FK-506, a novel immunosuppressant isolated from a Streptomyces. II. Immunosuppressive effect of FK-506 in vitro.",
+  "abstract": "The immuno-pharmacological profile of a novel immunosuppressive agent, FK-506 produced by a streptomycete, is presented here. We proceeded to test the effect of the agent on various in vitro immune systems. It showed that mixed lymphocyte reaction, cytotoxic T cell generation, the production of T cell-derived soluble mediators such as interleukin 2 (IL-2), interleukin 3 and gamma-interferon and the expression of the IL-2 receptor were suppressed by this agent. The IC50 values of FK-506 and ciclosporin (CS) in all tests were approximately 0.1 nM and 10 nM, respectively. Therefore, the novel agent, FK-506 suppressed in vitro immune systems at about hundred times lower concentration than CS.",
+  "authors": [
+    "Toru Kino",
+    "Hiroshi Hatanaka",
+    "Susumu Miyata",
+    "Noriaki Inamura",
+    "Michihisa Nishiyama",
+    "TOSHIMI YAJIMA",
+    "Toshio Goto",
+    "MASAKUNI OKUHARA",
+    "MASANOBU KOHSAKA",
+    "HATSUO AOKI",
+    "Takenori Ochiai"
+  ],
+  "year": 1987,
+  "doi": "10.7164/antibiotics.40.1256",
+  "source": "openalex",
+  "categories": [
+    "In vitro",
+    "Immune system",
+    "Interleukin 2",
+    "Pharmacology",
+    "Mixed lymphocyte reaction",
+    "Chemistry",
+    "Ciclosporin",
+    "IC50",
+    "Cytokine",
+    "T cell",
+    "Immunostimulant",
+    "Biology",
+    "Microbiology",
+    "Immunology",
+    "Transplantation",
+    "Biochemistry",
+    "Medicine",
+    "Internal medicine"
+  ],
+  "citation_count": 1212,
+  "open_access_pdf_url": "https://www.jstage.jst.go.jp/article/antibiotics1968/40/9/40_9_1256/_pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2329573625.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:04.727340+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2329573625",
+    "concepts": [
+      "In vitro",
+      "Immune system",
+      "Interleukin 2",
+      "Pharmacology",
+      "Mixed lymphocyte reaction"
+    ],
+    "oa_status": "bronze"
+  }
+}

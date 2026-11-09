@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W2909817598",
+  "title": "NRF2 plays a critical role in mitigating lipid peroxidation and ferroptosis",
+  "abstract": "The transcription factor nuclear factor erythroid 2-related factor 2 (NRF2) is a key regulator of the cellular antioxidant response, controlling the expression of genes that counteract oxidative and electrophilic stresses. Many pathological conditions are linked to imbalances in redox homeostasis, illustrating the important role of antioxidant defense systems in preventing the pathogenic effects associated with the accumulation of reactive species. In particular, it is becoming increasingly apparent that the accumulation of lipid peroxides has an important role in driving the pathogenesis of multiple disease states. A key example of this is the recent discovery of a novel form of cell death termed ferroptosis. Ferroptosis is an iron-dependent, lipid peroxidation-driven cell death cascade that has become a key target in the development of anti-cancer therapies, as well as the prevention of neurodegenerative and cardiovascular diseases. In this review, we will provide a brief overview of lipid peroxidation, as well as key components involved in the ferroptotic cascade. We will also highlight the role of the NRF2 signaling pathway in mediating lipid peroxidation and ferroptosis, focusing on established NRF2 target genes that mitigate these pathways, as well as the relevance of the NRF2-lipid peroxidation-ferroptosis axis in disease.",
+  "authors": [
+    "Matthew B. Dodson",
+    "Raúl Castro-Portuguez",
+    "Donna D. Zhang"
+  ],
+  "year": 2019,
+  "doi": "10.1016/j.redox.2019.101107",
+  "source": "openalex",
+  "categories": [
+    "Lipid peroxidation",
+    "Cell biology",
+    "Transcription factor",
+    "GPX4",
+    "4-Hydroxynonenal",
+    "Programmed cell death",
+    "Signal transduction",
+    "Reactive oxygen species",
+    "Oxidative stress",
+    "Biology",
+    "Chemistry",
+    "Biochemistry",
+    "Gene",
+    "Apoptosis",
+    "Superoxide dismutase",
+    "Glutathione peroxidase"
+  ],
+  "citation_count": 2485,
+  "open_access_pdf_url": "https://www.sciencedirect.com/science/article/pii/S2213231718310267/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2909817598.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:04.408301+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2909817598",
+    "concepts": [
+      "Lipid peroxidation",
+      "Cell biology",
+      "Transcription factor",
+      "GPX4",
+      "4-Hydroxynonenal"
+    ],
+    "oa_status": "gold"
+  }
+}

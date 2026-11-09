@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2546432926",
+  "title": "Identification of microplastic in effluents of waste water treatment plants using focal plane array-based micro-Fourier-transform infrared imaging",
+  "abstract": "The global presence of microplastic (MP) in aquatic ecosystems has been shown by various studies. However, neither MP concentrations nor their sources or sinks are completely known. Waste water treatment plants (WWTPs) are considered as significant point sources discharging MP to the environment. This study investigated MP in the effluents of 12 WWTPs in Lower Saxony, Germany. Samples were purified by a plastic-preserving enzymatic-oxidative procedure and subsequent density separation using a zinc chloride solution. For analysis, attenuated total reflection Fourier-transform infrared spectroscopy (ATR-FT-IR) and focal plane array (FPA)-based transmission micro-FT-IR imaging were applied. This allowed the identification of polymers of all MP down to a size of 20 μm. In all effluents MP was found with quantities ranging from 0 to 5 × 101 m−3 MP > 500 μm and 1 × 101 to 9 × 103 m−3 MP < 500 μm. By far, polyethylene was the most frequent polymer type in both size classes. Quantities of synthetic fibres ranged from 9 × 101 to 1 × 103 m−3 and were predominantly made of polyester. Considering the annual effluxes of tested WWTPs, total discharges of 9 × 107 to 4 × 109 MP particles and fibres per WWTP could be expected. Interestingly, one tertiary WWTP had an additionally installed post-filtration that reduced the total MP discharge by 97%. Furthermore, the sewage sludge of six WWTPs was examined and the existence of MP, predominantly polyethylene, revealed. Our findings suggest that WWTPs could be a sink but also a source of MP and thus can be considered to play an important role for environmental MP pollution.",
+  "authors": [
+    "Svenja M. Mintenig",
+    "Ivo Int-Veen",
+    "Martin G. J. Löder",
+    "Sebastian Primpke",
+    "Gunnar Gerdts"
+  ],
+  "year": 2016,
+  "doi": "10.1016/j.watres.2016.11.015",
+  "source": "openalex",
+  "categories": [
+    "Effluent",
+    "Attenuated total reflection",
+    "Sewage treatment",
+    "Wastewater",
+    "Sewage",
+    "Polyethylene terephthalate",
+    "Fourier transform infrared spectroscopy",
+    "Chemistry",
+    "Environmental chemistry",
+    "Infrared spectroscopy",
+    "Materials science",
+    "Environmental science",
+    "Environmental engineering",
+    "Composite material",
+    "Chemical engineering",
+    "Organic chemistry",
+    "Engineering"
+  ],
+  "citation_count": 1548,
+  "open_access_pdf_url": "https://www.sciencedirect.com/science/article/pii/S0043135416308600/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2546432926.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:45.316790+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2546432926",
+    "concepts": [
+      "Effluent",
+      "Attenuated total reflection",
+      "Sewage treatment",
+      "Wastewater",
+      "Sewage"
+    ],
+    "oa_status": "hybrid"
+  }
+}

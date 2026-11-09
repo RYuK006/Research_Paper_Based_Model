@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W1965277349",
+  "title": "Automated MAD and MIR structure solution",
+  "abstract": "Obtaining an electron-density map from X-ray diffraction data can be difficult and time-consuming even after the data have been collected, largely because MIR and MAD structure determinations currently require many subjective evaluations of the qualities of trial heavy-atom partial structures before a correct heavy-atom solution is obtained. A set of criteria for evaluating the quality of heavy-atom partial solutions in macromolecular crystallography have been developed. These have allowed the conversion of the crystal structure-solution process into an optimization problem and have allowed its automation. The SOLVE software has been used to solve MAD data sets with as many as 52 selenium sites in the asymmetric unit. The automated structure-solution process developed is a major step towards the fully automated structure-determination, model-building and refinement procedure which is needed for genomic scale structure determinations.",
+  "authors": [
+    "Thomas C. Terwilliger",
+    "Joel Berendzen"
+  ],
+  "year": 1999,
+  "doi": "10.1107/s0907444999000839",
+  "source": "openalex",
+  "categories": [
+    "Atom (system on chip)",
+    "Computer science",
+    "Automation",
+    "Process (computing)",
+    "Set (abstract data type)",
+    "Software",
+    "Crystal structure",
+    "Multiple isomorphous replacement",
+    "Data structure",
+    "Data mining",
+    "Computational science",
+    "Algorithm",
+    "Diffraction",
+    "Chemistry",
+    "Crystallography",
+    "X-ray crystallography",
+    "Physics",
+    "Engineering",
+    "Mechanical engineering",
+    "Optics",
+    "Programming language",
+    "Operating system",
+    "Embedded system"
+  ],
+  "citation_count": 3032,
+  "open_access_pdf_url": "http://journals.iucr.org/d/issues/1999/04/00/gr0894/gr0894.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1965277349.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:01.787504+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1965277349",
+    "concepts": [
+      "Atom (system on chip)",
+      "Computer science",
+      "Automation",
+      "Process (computing)",
+      "Set (abstract data type)"
+    ],
+    "oa_status": "hybrid"
+  }
+}

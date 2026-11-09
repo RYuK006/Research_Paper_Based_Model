@@ -1,0 +1,40 @@
+{
+  "id": "openalex:W1540301603",
+  "title": "A Method of Correlating Heat-Transfer Data for Surface Boiling of Liquids",
+  "abstract": "Abstract A method based on a logical explanation of the mechanism of heat transfer associated with the boiling process is presented for correlating heat-transfer data for nucleate boiling of liquids for the case of pool boiling. The suggested relation is clTxhfg=Csf(q/Aμlhfg(q/A)σg(ρl-ρv))0.33(clμlkl)1.7 where the various fluid properties are evaluated at the saturation temperature corresponding to the local pressure and Csf is a function of the particular heating surface-fluid combination.",
+  "authors": [
+    "Warren Max Rohsenow"
+  ],
+  "year": 1952,
+  "doi": "10.1115/1.4015984",
+  "source": "openalex",
+  "categories": [
+    "Boiling",
+    "Nucleate boiling",
+    "Thermodynamics",
+    "Heat transfer",
+    "Boiling heat transfer",
+    "Chemistry",
+    "Boiling point",
+    "Nucleation",
+    "Materials science",
+    "Heat transfer coefficient",
+    "Physics"
+  ],
+  "citation_count": 1642,
+  "open_access_pdf_url": "http://hdl.handle.net/1721.1/61431",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1540301603.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:38.031515+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1540301603",
+    "concepts": [
+      "Boiling",
+      "Nucleate boiling",
+      "Thermodynamics",
+      "Heat transfer",
+      "Boiling heat transfer"
+    ],
+    "oa_status": "green"
+  }
+}

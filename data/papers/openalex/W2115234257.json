@@ -1,0 +1,59 @@
+{
+  "id": "openalex:W2115234257",
+  "title": "Implicit solvation model for density-functional study of nanocrystal surfaces and reaction pathways",
+  "abstract": "Solid-liquid interfaces are at the heart of many modern-day technologies and provide a challenge to many materials simulation methods. A realistic first-principles computational study of such systems entails the inclusion of solvent effects. In this work, we implement an implicit solvation model that has a firm theoretical foundation into the widely used density-functional code Vienna ab initio Software Package. The implicit solvation model follows the framework of joint density functional theory. We describe the framework, our algorithm and implementation, and benchmarks for small molecular systems. We apply the solvation model to study the surface energies of different facets of semiconducting and metallic nanocrystals and the SN2 reaction pathway. We find that solvation reduces the surface energies of the nanocrystals, especially for the semiconducting ones and increases the energy barrier of the SN2 reaction.",
+  "authors": [
+    "Kiran Mathew",
+    "Ravishankar Sundararaman",
+    "Kendra Letchworth‐Weaver",
+    "T. A. Arias",
+    "Richard G. Hennig"
+  ],
+  "year": 2014,
+  "doi": "10.1063/1.4865107",
+  "source": "openalex",
+  "categories": [
+    "Solvation",
+    "Implicit solvation",
+    "Density functional theory",
+    "Ab initio",
+    "SN2 reaction",
+    "Nanocrystal",
+    "Materials science",
+    "Chemical physics",
+    "Electronic structure",
+    "Work (physics)",
+    "Surface (topology)",
+    "Ab initio quantum chemistry methods",
+    "Computational chemistry",
+    "Nanotechnology",
+    "Solvation shell",
+    "Chemistry",
+    "Metal",
+    "Foundation (evidence)",
+    "Statistical physics",
+    "Potential energy surface",
+    "Complex system",
+    "Surface energy",
+    "Activation energy",
+    "Code (set theory)",
+    "Solvent effects",
+    "Physics"
+  ],
+  "citation_count": 3204,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1310.4242",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2115234257.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:57.834357+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2115234257",
+    "concepts": [
+      "Solvation",
+      "Implicit solvation",
+      "Density functional theory",
+      "Ab initio",
+      "SN2 reaction"
+    ],
+    "oa_status": "green"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "openalex:W2889513238",
+  "title": "Engineered CRISPR-Cas9 nuclease with expanded targeting space",
+  "abstract": "Cas9 enzyme (SpCas9) requires an NGG protospacer adjacent motif (PAM) for target recognition, thereby restricting the targetable genomic loci. Here, we report a rationally engineered SpCas9 variant (SpCas9-NG) that can recognize relaxed NG PAMs. The crystal structure revealed that the loss of the base-specific interaction with the third nucleobase is compensated by newly introduced non-base-specific interactions, thereby enabling the NG PAM recognition. We showed that SpCas9-NG induces indels at endogenous target sites bearing NG PAMs in human cells. Furthermore, we found that the fusion of SpCas9-NG and the activation-induced cytidine deaminase (AID) mediates the C-to-T conversion at target sites with NG PAMs in human cells.",
+  "authors": [
+    "Hiroshi Nishimasu",
+    "Xi Shi",
+    "Soh Ishiguro",
+    "Linyi Alex Gao",
+    "Seiichi Hirano",
+    "Sae Okazaki",
+    "Taichi Noda",
+    "Omar O. Abudayyeh",
+    "Jonathan S. Gootenberg",
+    "Hideto Mori",
+    "Seiya Oura",
+    "Benjamin R. Holmes",
+    "Mamoru Tanaka",
+    "M. Seki",
+    "Hisato Hirano",
+    "Hiroyuki Aburatani",
+    "Ryuichiro Ishitani",
+    "Masahito Ikawa",
+    "Nozomu Yachie",
+    "Feng Zhang",
+    "Osamu Nureki"
+  ],
+  "year": 2018,
+  "doi": "10.1126/science.aas9129",
+  "source": "openalex",
+  "categories": [
+    "Cas9",
+    "CRISPR",
+    "Nuclease",
+    "Endonuclease",
+    "Genome editing",
+    "Guide RNA",
+    "DNA",
+    "Biology",
+    "Computational biology",
+    "Chemistry",
+    "Molecular biology",
+    "Genetics",
+    "Gene"
+  ],
+  "citation_count": 1098,
+  "open_access_pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/6368452",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2889513238.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:24.259316+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2889513238",
+    "concepts": [
+      "Cas9",
+      "CRISPR",
+      "Nuclease",
+      "Endonuclease",
+      "Genome editing"
+    ],
+    "oa_status": "green"
+  }
+}

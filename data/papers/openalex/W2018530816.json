@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2018530816",
+  "title": "Determination of the Kinetic Parameters of Mixed‐Conducting Electrodes and Application to the System Li3Sb",
+  "abstract": "An electrochemical galvanostatic intermittent titration technique (GITT) is described which combines both transient and steady‐state measurements to obtain kinetic properties of solid mixed‐conducting electrodes, as well as thermodynamic data. The derivation of quantities such as the chemical and component diffusion coefficients, the partial conductivity, the mobility, the thermodynamic enhancement factor, and the parabolic rate constant as a function of stoichiometry is presented. A description of the factors governing the equilibration of composition gradients in such phases is included. The technique is applied to the determination of the kinetic parameters of the compound which has a narrow composition range. For the chemical diffusion coefficient is at 360°C. This value is quite high, due to a large thermodynamic enhancement factor of . The lithium component diffusion coefficient is comparatively small at this composition, . The partial conductivity and electrical mobility of lithium are and , respectively, at the same stoichiometry and temperature. Because of the very large values of the chemical diffusion coefficient and the fact that 3 moles of lithium can react per mole of antimony, this system may be of interest for use in new types of secondary batteries.",
+  "authors": [
+    "W. Weppner",
+    "Robert A. Huggins"
+  ],
+  "year": 1977,
+  "doi": "10.1149/1.2133112",
+  "source": "openalex",
+  "categories": [
+    "Diffusion",
+    "Stoichiometry",
+    "Chemistry",
+    "Thermodynamics",
+    "Lithium (medication)",
+    "Titration",
+    "Conductivity",
+    "Kinetic energy",
+    "Steady state (chemistry)",
+    "Analytical Chemistry (journal)",
+    "Electrochemistry",
+    "Electrode",
+    "Chemical composition",
+    "Physical chemistry",
+    "Chromatography",
+    "Medicine",
+    "Endocrinology",
+    "Organic chemistry",
+    "Physics",
+    "Quantum mechanics"
+  ],
+  "citation_count": 2021,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1149/1.2133112/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2018530816.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:15.632298+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2018530816",
+    "concepts": [
+      "Diffusion",
+      "Stoichiometry",
+      "Chemistry",
+      "Thermodynamics",
+      "Lithium (medication)"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "openalex:W2024275681",
+  "title": "Large Piezoelectric Effect in Pb-Free Ceramics",
+  "abstract": "We report a non-Pb piezoelectric ceramic system $\\mathrm{Ba}({\\mathrm{Ti}}_{0.8}{\\mathrm{Zr}}_{0.2}){\\mathrm{O}}_{3}\\mathrm{\\text{\\ensuremath{-}}}({\\mathrm{Ba}}_{0.7}{\\mathrm{Ca}}_{0.3}){\\mathrm{TiO}}_{3}$ which shows a surprisingly high piezoelectric coefficient of ${d}_{33}\\ensuremath{\\sim}620\\text{ }\\text{ }\\mathrm{pC}/\\mathrm{N}$ at optimal composition. Its phase diagram shows a morphortropic phase boundary (MPB) starting from a tricritical triple point of a cubic paraelectric phase ($C$), ferroelectric rhombohedral ($R$), and tetragonal ($T$) phases. The high piezoelectricity of the MPB compositions stems from the composition proximity of the MPB to the tricritical triple point, which leads to a nearly vanishing polarization anisotropy and thus facilitates polarization rotation between $⟨001⟩T$ and $⟨111⟩R$ states. We predict that the single-crystal form of the MPB composition of the present system may reach a giant ${d}_{33}=1500--2000\\text{ }\\text{ }\\mathrm{pC}/\\mathrm{N}$. Our work may provide a new recipe for designing highly piezoelectric materials (both Pb-free and Pb-containing) by searching MPBs starting from a TCP.",
+  "authors": [
+    "Wenfeng Liu",
+    "Xiaobing Ren"
+  ],
+  "year": 2009,
+  "doi": "10.1103/physrevlett.103.257602",
+  "source": "openalex",
+  "categories": [
+    "Piezoelectricity",
+    "Phase boundary",
+    "Tetragonal crystal system",
+    "Ferroelectricity",
+    "Materials science",
+    "Phase diagram",
+    "Ceramic",
+    "Piezoelectric coefficient",
+    "Anisotropy",
+    "Polarization (electrochemistry)",
+    "Triple point",
+    "Tricritical point",
+    "Condensed matter physics",
+    "Dielectric",
+    "Mineralogy",
+    "Phase (matter)",
+    "Analytical Chemistry (journal)",
+    "Crystal structure",
+    "Crystallography",
+    "Thermodynamics",
+    "Physics",
+    "Composite material",
+    "Optics",
+    "Geology",
+    "Physical chemistry",
+    "Chemistry",
+    "Optoelectronics",
+    "Chromatography",
+    "Quantum mechanics"
+  ],
+  "citation_count": 2779,
+  "open_access_pdf_url": "https://mdr.nims.go.jp/filesets/83abb6f9-fc91-4568-a17b-b1faf377b2ed/download",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2024275681.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:01.947695+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2024275681",
+    "concepts": [
+      "Piezoelectricity",
+      "Phase boundary",
+      "Tetragonal crystal system",
+      "Ferroelectricity",
+      "Materials science"
+    ],
+    "oa_status": "green"
+  }
+}

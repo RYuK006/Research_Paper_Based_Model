@@ -1,0 +1,61 @@
+{
+  "id": "openalex:W2060878129",
+  "title": "Inhibitory effect of tumor cell–derived lactic acid on human T cells",
+  "abstract": "A characteristic feature of tumors is high production of lactic acid due to enhanced glycolysis. Here, we show a positive correlation between lactate serum levels and tumor burden in cancer patients and examine the influence of lactic acid on immune functions in vitro. Lactic acid suppressed the proliferation and cytokine production of human cytotoxic T lymphocytes (CTLs) up to 95% and led to a 50% decrease in cytotoxic activity. A 24-hour recovery period in lactic acid-free medium restored CTL function. CTLs infiltrating lactic acid-producing multicellular tumor spheroids showed a reduced cytokine production. Pretreatment of tumor spheroids with an inhibitor of lactic acid production prevented this effect. Activated T cells themselves use glycolysis and rely on the efficient secretion of lactic acid, as its intracellular accumulation disturbs their metabolism. Export by monocarboxylate transporter-1 (MCT-1) depends on a gradient between cytoplasmic and extracellular lactic acid concentrations and consequently, blockade of MCT-1 resulted in impaired CTL function. We conclude that high lactic acid concentrations in the tumor environment block lactic acid export in T cells, thereby disturbing their metabolism and function. These findings suggest that targeting this metabolic pathway in tumors is a promising strategy to enhance tumor immunogenicity.",
+  "authors": [
+    "Karin Fischer",
+    "Petra Hoffmann",
+    "Simon Völkl",
+    "Norbert Meidenbauer",
+    "Julia Ammer",
+    "Matthias Edinger",
+    "Eva Gottfried",
+    "Sabine Schwarz",
+    "Gregor Rothe",
+    "Sabine Hoves",
+    "Kathrin Renner",
+    "Birgit Timischl",
+    "Andréas Mackensen",
+    "Leoni A. Kunz‐Schughart",
+    "Reinhard Andreesen",
+    "Stefan W. Krause",
+    "Marina P Kreutz"
+  ],
+  "year": 2007,
+  "doi": "10.1182/blood-2006-07-035972",
+  "source": "openalex",
+  "categories": [
+    "Lactic acid",
+    "Glycolysis",
+    "Immune system",
+    "Cytotoxic T cell",
+    "Cytokine",
+    "CTL*",
+    "Biochemistry",
+    "Biology",
+    "Metabolism",
+    "Chemistry",
+    "Cancer research",
+    "Cell biology",
+    "In vitro",
+    "Immunology",
+    "Bacteria",
+    "Genetics"
+  ],
+  "citation_count": 2014,
+  "open_access_pdf_url": "https://ashpublications.org/blood/article-pdf/109/9/3812/1495419/zh800907003812.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2060878129.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:17.642606+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2060878129",
+    "concepts": [
+      "Lactic acid",
+      "Glycolysis",
+      "Immune system",
+      "Cytotoxic T cell",
+      "Cytokine"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W1487386905",
+  "title": "Evidence of functional mossy fiber sprouting in hippocampal formation of kainic acid-treated rats",
+  "abstract": "In the rat hippocampal formation, degeneration of CA4-derived afferent fibers provokes the growth of mossy fiber collaterals into the fascia dentata. These aberrant fibers subsequently form granule cell-granule cell synapses. The hippocampal slice preparation was employed to determine whether these recurrent connections are electrophysiologically functional. Hippocampal slices were prepared 12 to 21 days after the bilateral destruction of CA4 neurons with either intracerebroventricular or intravenous kainic acid (KA). In slices from control rats, antidromic stimulation of the mossy fibers elicited a single population spike in the granular layer of the fascia dentata. In contrast, when slices from some KA-treated rats were similarly tested, antidromic stimulation elicited multiple population spikes. This effect was not reproduced by blocking inhibitory transmission with bicuculline methiodide. Slices from other KA-treated rats fired a single population spike, but an antidromic conditioning volley increased the amplitude of a subsequent antidromic population spike by 5 to 15%. In slices from control rats, on the other hand, an antidromic conditioning volley always either decreased or failed to alter the amplitude of an antidromic test response. Superfusion with Ca2+-free medium containing 3.8 mM Mg2+ reversibly abolished all effects of KA administration. Abnormal responses to antidromic stimulation correlated with the loss of CA4 neurons and the growth of supragranular mossy fiber collaterals in the same animals. These results suggest that supragranular mossy fiber collateral sprouts form a functional recurrent excitatory circuit. These aberrant connections may further compromise hippocampal function already disrupted by neuronal degeneration, such as by facilitating seizure activity.",
+  "authors": [
+    "David L. Tauck",
+    "J. Victor Nadler"
+  ],
+  "year": 1985,
+  "doi": "10.1523/jneurosci.05-04-01016.1985",
+  "source": "openalex",
+  "categories": [
+    "Antidromic",
+    "Orthodromic",
+    "Hippocampal formation",
+    "Mossy fiber (hippocampus)",
+    "Neuroscience",
+    "Kainic acid",
+    "Population spike",
+    "Fascia dentata",
+    "Population",
+    "Stimulation",
+    "Sprouting",
+    "Chemistry",
+    "Excitatory postsynaptic potential",
+    "Granule cell",
+    "Inhibitory postsynaptic potential",
+    "Biology",
+    "Medicine",
+    "Dentate gyrus",
+    "Receptor",
+    "Glutamate receptor",
+    "Biochemistry",
+    "Botany",
+    "Environmental health"
+  ],
+  "citation_count": 1087,
+  "open_access_pdf_url": "https://doi.org/10.1523/jneurosci.05-04-01016.1985",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1487386905.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:24.431843+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1487386905",
+    "concepts": [
+      "Antidromic",
+      "Orthodromic",
+      "Hippocampal formation",
+      "Mossy fiber (hippocampus)",
+      "Neuroscience"
+    ],
+    "oa_status": "hybrid"
+  }
+}

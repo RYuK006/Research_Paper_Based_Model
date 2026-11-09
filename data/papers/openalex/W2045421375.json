@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2045421375",
+  "title": "Kidney Injury Molecule-1 (KIM-1), a Putative Epithelial Cell Adhesion Molecule Containing a Novel Immunoglobulin Domain, Is Up-regulated in Renal Cells after Injury",
+  "abstract": "We report the identification of rat and human cDNAs for a type 1 membrane protein that contains a novel six-cysteine immunoglobulin-like domain and a mucin domain; it is named kidney injury molecule-1 (KIM-1). Structurally, KIM-1 is a member of the immunoglobulin gene superfamily most reminiscent of mucosal addressin cell adhesion molecule 1 (MAdCAM-1). Human KIM-1 exhibits homology to a monkey gene, hepatitis A virus cell receptor 1 (HAVcr-1), which was identified recently as a receptor for the hepatitis A virus. KIM-1 mRNA and protein are expressed at a low level in normal kidney but are increased dramatically in postischemic kidney. In situ hybridization and immunohistochemistry revealed that KIM-1 is expressed in proliferating bromodeoxyuridine-positive and dedifferentiated vimentin-positive epithelial cells in regenerating proximal tubules. Structure and expression data suggest that KIM-1 is an epithelial cell adhesion molecule up-regulated in the cells, which are dedifferentiated and undergoing replication. KIM-1 may play an important role in the restoration of the morphological integrity and function to postischemic kidney.",
+  "authors": [
+    "Takaharu Ichimura",
+    "Joseph Vincent Bonventre",
+    "Véronique Bailly",
+    "Henry Wei",
+    "Catherine A. Hession",
+    "Richard L. Cate",
+    "Michele Sanicola"
+  ],
+  "year": 1998,
+  "doi": "10.1074/jbc.273.7.4135",
+  "source": "openalex",
+  "categories": [
+    "Cell adhesion molecule",
+    "Antibody",
+    "Kidney",
+    "Renal injury",
+    "Immunoglobulin domain",
+    "Molecule",
+    "Cell adhesion",
+    "Cell injury",
+    "Immunoglobulin superfamily",
+    "Cell biology",
+    "Adhesion",
+    "Chemistry",
+    "Biology",
+    "Cell",
+    "Immunology",
+    "Biochemistry",
+    "Endocrinology",
+    "Apoptosis",
+    "Organic chemistry"
+  ],
+  "citation_count": 1275,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925817471821/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2045421375.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:00.506674+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2045421375",
+    "concepts": [
+      "Cell adhesion molecule",
+      "Antibody",
+      "Kidney",
+      "Renal injury",
+      "Immunoglobulin domain"
+    ],
+    "oa_status": "hybrid"
+  }
+}

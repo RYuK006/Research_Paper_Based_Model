@@ -1,0 +1,41 @@
+{
+  "id": "openalex:W2079480403",
+  "title": "Dynamical polarization of graphene at finite doping",
+  "abstract": "The polarization of graphene is calculated exactly within the random phase approximation for arbitrary frequency, wavevector and doping. At finite doping, the static susceptibility saturates to a constant value for low momenta. At q = 2 k F it has a discontinuity only in the second derivative. In the presence of a charged impurity this results in Friedel oscillations which decay with the same power law as the Thomas–Fermi contribution, the latter being always dominant. The spin density oscillations in the presence of a magnetic impurity are also calculated. The dynamical polarization for low q and arbitrary ω is employed to calculate the dispersion relation and the decay rate of plasmons and acoustic phonons as a function of doping. The low screening of graphene, combined with the absence of a gap, leads to a significant stiffening of the longitudinal acoustic lattice vibrations.",
+  "authors": [
+    "Bernhard Wünsch",
+    "Tobias Stauber",
+    "Fernando Sols",
+    "F. Guinea"
+  ],
+  "year": 2006,
+  "doi": "10.1088/1367-2630/8/12/318",
+  "source": "openalex",
+  "categories": [
+    "Graphene",
+    "Polarization (electrochemistry)",
+    "Doping",
+    "Materials science",
+    "Condensed matter physics",
+    "Physics",
+    "Nanotechnology",
+    "Chemistry",
+    "Physical chemistry"
+  ],
+  "citation_count": 1098,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1088/1367-2630/8/12/318/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2079480403.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:24.250604+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2079480403",
+    "concepts": [
+      "Graphene",
+      "Polarization (electrochemistry)",
+      "Doping",
+      "Materials science",
+      "Condensed matter physics"
+    ],
+    "oa_status": "gold"
+  }
+}

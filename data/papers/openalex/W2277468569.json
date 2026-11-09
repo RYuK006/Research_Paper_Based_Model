@@ -1,0 +1,40 @@
+{
+  "id": "openalex:W2277468569",
+  "title": "ROS and ROS‐Mediated Cellular Signaling",
+  "abstract": "It has long been recognized that an increase of reactive oxygen species (ROS) can modify the cell-signaling proteins and have functional consequences, which successively mediate pathological processes such as atherosclerosis, diabetes, unchecked growth, neurodegeneration, inflammation, and aging. While numerous articles have demonstrated the impacts of ROS on various signaling pathways and clarify the mechanism of action of cell-signaling proteins, their influence on the level of intracellular ROS, and their complex interactions among multiple ROS associated signaling pathways, the systemic summary is necessary. In this review paper, we particularly focus on the pattern of the generation and homeostasis of intracellular ROS, the mechanisms and targets of ROS impacting on cell-signaling proteins (NF-κB, MAPKs, Keap1-Nrf2-ARE, and PI3K-Akt), ion channels and transporters (Ca(2+) and mPTP), and modifying protein kinase and Ubiquitination/Proteasome System.",
+  "authors": [
+    "Jixiang Zhang",
+    "Xiaoli Wang",
+    "Vikash Vikash",
+    "Qing Ye",
+    "Dandan Wu",
+    "Yulan Liu",
+    "Weiguo Dong"
+  ],
+  "year": 2016,
+  "doi": "10.1155/2016/4350965",
+  "source": "openalex",
+  "categories": [
+    "Cell biology",
+    "Reactive oxygen species",
+    "Signal transduction",
+    "Chemistry",
+    "Biology"
+  ],
+  "citation_count": 2065,
+  "open_access_pdf_url": "http://downloads.hindawi.com/journals/omcl/2016/4350965.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2277468569.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:15.521100+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2277468569",
+    "concepts": [
+      "Cell biology",
+      "Reactive oxygen species",
+      "Signal transduction",
+      "Chemistry",
+      "Biology"
+    ],
+    "oa_status": "hybrid"
+  }
+}

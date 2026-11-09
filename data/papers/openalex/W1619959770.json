@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W1619959770",
+  "title": "Cutting Edge: TGF-β Induces a Regulatory Phenotype in CD4+CD25− T Cells through Foxp3 Induction and Down-Regulation of Smad7",
+  "abstract": "CD4(+)CD25(+) regulatory cells are a subpopulation of T lymphocytes of thymic origin. However, recent data suggest an alternative commitment of regulatory T cells in the periphery, although the precise mechanism is unknown. In the present work, we demonstrate that TGF-beta is able to induce Foxp3 expression and subsequently a regulatory phenotype in CD4(+)CD25(-) peripheral murine T cells. Similarly, TGF-beta induced Foxp3 in human CD4(+)CD25(-) T cells. Moreover, we show that the inhibitory Smad7 protein that is normally induced by TGF-beta and limits TGF-beta signaling, is strongly down-regulated by Foxp3 at the transcriptional level. Foxp3-mediated down-regulation of Smad7 subsequently rendered CD4(+)CD25(-) T cells highly susceptible to the morphogenic and regulatory effects of TGF-beta signaling via Smad3/4. In summary, we demonstrate that TGF-beta induces a regulatory phenotype in CD4(+)CD25(-) T cells through the induction of Foxp3 and a positive autoregulatory loop of TGF-beta signaling due to the absence of Smad7.",
+  "authors": [
+    "Massimo Claudio Fantini",
+    "Christoph Becker",
+    "Giovanni Monteleone",
+    "Francesco Pallone",
+    "Peter R. Galle",
+    "Markus Friedrich Neurath"
+  ],
+  "year": 2004,
+  "doi": "10.4049/jimmunol.172.9.5149",
+  "source": "openalex",
+  "categories": [
+    "FOXP3",
+    "IL-2 receptor",
+    "Cell biology",
+    "Regulatory T cell",
+    "Transforming growth factor beta",
+    "Phenotype",
+    "TGF beta signaling pathway",
+    "Biology",
+    "Transforming growth factor",
+    "Signal transduction",
+    "Chemistry",
+    "T cell",
+    "Immunology",
+    "Immune system",
+    "Gene",
+    "Genetics"
+  ],
+  "citation_count": 1158,
+  "open_access_pdf_url": "https://journals.aai.org/jimmunol/article-pdf/172/9/5149/1186409/5149.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1619959770.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:14.494746+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1619959770",
+    "concepts": [
+      "FOXP3",
+      "IL-2 receptor",
+      "Cell biology",
+      "Regulatory T cell",
+      "Transforming growth factor beta"
+    ],
+    "oa_status": "bronze"
+  }
+}

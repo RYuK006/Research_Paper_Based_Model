@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2130028915",
+  "title": "High dielectric constant oxides",
+  "abstract": "The scaling of complementary metal oxide semiconductor (CMOS) transistors has led to the silicon dioxide layer used as a gate dielectric becoming so thin (1.4 nm) that its leakage current is too large. It is necessary to replace the SiO2 with a physically thicker layer of oxides of higher dielectric constant (κ) or ‘high K’ gate oxides such as hafnium oxide and hafnium silicate. Little was known about such oxides, and it was soon found that in many respects they have inferior electronic properties to SiO2, such as a tendency to crystallise and a high concentration of electronic defects. Intensive research is underway to develop these oxides into new high quality electronic materials. This review covers the choice of oxides, their structural and metallurgical behaviour, atomic diffusion, their deposition, interface structure and reactions, their electronic structure, bonding, band offsets, mobility degradation, flat band voltage shifts and electronic defects. The use of high K oxides in capacitors of dynamic random access memories is also covered.",
+  "authors": [
+    "John Robertson"
+  ],
+  "year": 2004,
+  "doi": "10.1051/epjap:2004206",
+  "source": "openalex",
+  "categories": [
+    "High-κ dielectric",
+    "Dielectric",
+    "Materials science",
+    "Hafnium",
+    "Optoelectronics",
+    "Atomic layer deposition",
+    "Capacitor",
+    "Oxide",
+    "Metal gate",
+    "Transistor",
+    "Gate dielectric",
+    "Silicon",
+    "Semiconductor",
+    "Electronic structure",
+    "Equivalent oxide thickness",
+    "Gate oxide",
+    "Layer (electronics)",
+    "Nanotechnology",
+    "Electrical engineering",
+    "Metallurgy",
+    "Computational chemistry",
+    "Chemistry",
+    "Voltage",
+    "Zirconium",
+    "Engineering"
+  ],
+  "citation_count": 1867,
+  "open_access_pdf_url": "https://www.epjap.org/articles/epjap/pdf/2004/10/ap04128.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2130028915.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:22.222660+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2130028915",
+    "concepts": [
+      "High-κ dielectric",
+      "Dielectric",
+      "Materials science",
+      "Hafnium",
+      "Optoelectronics"
+    ],
+    "oa_status": "bronze"
+  }
+}

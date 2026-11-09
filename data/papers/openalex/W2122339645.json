@@ -1,0 +1,62 @@
+{
+  "id": "openalex:W2122339645",
+  "title": "MolProbity: all-atom contacts and structure validation for proteins and nucleic acids",
+  "abstract": "MolProbity is a general-purpose web server offering quality validation for 3D structures of proteins, nucleic acids and complexes. It provides detailed all-atom contact analysis of any steric problems within the molecules as well as updated dihedral-angle diagnostics, and it can calculate and display the H-bond and van der Waals contacts in the interfaces between components. An integral step in the process is the addition and full optimization of all hydrogen atoms, both polar and nonpolar. New analysis functions have been added for RNA, for interfaces, and for NMR ensembles. Additionally, both the web site and major component programs have been rewritten to improve speed, convenience, clarity and integration with other resources. MolProbity results are reported in multiple forms: as overall numeric scores, as lists or charts of local problems, as downloadable PDB and graphics files, and most notably as informative, manipulable 3D kinemage graphics shown online in the KiNG viewer. This service is available free to all users at http://molprobity.biochem.duke.edu.",
+  "authors": [
+    "Ian Davis",
+    "Andrew Leaver‐Fay",
+    "V. B. Chen",
+    "Jeremy N. Block",
+    "Gary J. Kapral",
+    "Xiaodong Wang",
+    "L. W. Murray",
+    "W.B. Arendall",
+    "Jack Scott Snoeyink",
+    "Jane S. Richardson",
+    "David C. Richardson"
+  ],
+  "year": 2007,
+  "doi": "10.1093/nar/gkm216",
+  "source": "openalex",
+  "categories": [
+    "Dihedral angle",
+    "Nucleic acid",
+    "Molecular graphics",
+    "Graphics",
+    "Steric effects",
+    "van der Waals force",
+    "Biology",
+    "Hydrogen bond",
+    "Crystallography",
+    "Protein Data Bank (RCSB PDB)",
+    "Computer science",
+    "CLARITY",
+    "Bioinformatics",
+    "Computational biology",
+    "Computer graphics",
+    "Molecule",
+    "Biochemistry",
+    "Data mining",
+    "Computer graphics (images)",
+    "Stereochemistry",
+    "Physics",
+    "Chemistry",
+    "Quantum mechanics"
+  ],
+  "citation_count": 3918,
+  "open_access_pdf_url": "https://doi.org/10.1093/nar/gkm216",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2122339645.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:54.086440+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2122339645",
+    "concepts": [
+      "Dihedral angle",
+      "Nucleic acid",
+      "Molecular graphics",
+      "Graphics",
+      "Steric effects"
+    ],
+    "oa_status": "gold"
+  }
+}

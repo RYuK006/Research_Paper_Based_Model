@@ -1,0 +1,61 @@
+{
+  "id": "openalex:W3195599406",
+  "title": "Network analysis of multivariate data in psychological science",
+  "abstract": "In recent years, network analysis has been applied to identify and analyse patterns of statistical association in multivariate psychological data. In these approaches, network nodes represent variables in a data set, and edges represent pairwise conditional associations between variables in the data, while conditioning on the remaining variables. This Primer provides an anatomy of these techniques, describes the current state of the art and discusses open problems. We identify relevant data structures in which network analysis may be applied: cross-sectional data, repeated measures and intensive longitudinal data. We then discuss the estimation of network structures in each of these cases, as well as assessment techniques to evaluate network robustness and replicability. Successful applications of the technique in different research areas are highlighted. Finally, we discuss limitations and challenges for future research. Network analysis allows the investigation of complex patterns and relationships by examining nodes and the edges connecting them. Borsboom et al. discuss the adoption of network analysis in psychological research.",
+  "authors": [
+    "Denny Borsboom",
+    "Marie Katharina Deserno",
+    "Mijke Rhemtulla",
+    "Sacha Epskamp",
+    "Eiko I. Fried",
+    "Richard J. McNally",
+    "Donald J. Robinaugh",
+    "Marco Perugini",
+    "Jonas Dalege",
+    "Giulio Costantini",
+    "Adela‐Maria Isvoranu",
+    "Anna C. Wysocki",
+    "Claudia D. van Borkulo",
+    "Riet van Bork",
+    "Lourens Waldorp"
+  ],
+  "year": 2021,
+  "doi": "10.1038/s43586-021-00055-w",
+  "source": "openalex",
+  "categories": [
+    "Pairwise comparison",
+    "Multivariate statistics",
+    "Computer science",
+    "Network analysis",
+    "Data mining",
+    "Multivariate analysis",
+    "Data set",
+    "Data science",
+    "Robustness (evolution)",
+    "Set (abstract data type)",
+    "Artificial intelligence",
+    "Machine learning",
+    "Engineering",
+    "Gene",
+    "Biochemistry",
+    "Chemistry",
+    "Programming language",
+    "Electrical engineering"
+  ],
+  "citation_count": 1547,
+  "open_access_pdf_url": "https://www.nature.com/articles/s43586-021-00055-w.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3195599406.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:45.325110+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3195599406",
+    "concepts": [
+      "Pairwise comparison",
+      "Multivariate statistics",
+      "Computer science",
+      "Network analysis",
+      "Data mining"
+    ],
+    "oa_status": "hybrid"
+  }
+}

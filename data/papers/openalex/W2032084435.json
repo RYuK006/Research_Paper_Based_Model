@@ -1,0 +1,38 @@
+{
+  "id": "openalex:W2032084435",
+  "title": "Optimization of parameters for semiempirical methods VI: more modifications to the NDDO approximations and re-optimization of parameters",
+  "abstract": "Modern semiempirical methods are of sufficient accuracy when used in the modeling of molecules of the same type as used as reference data in the parameterization. Outside that subset, however, there is an abundance of evidence that these methods are of very limited utility. In an attempt to expand the range of applicability, a new method called PM7 has been developed. PM7 was parameterized using experimental and high-level ab initio reference data, augmented by a new type of reference data intended to better define the structure of parameter space. The resulting method was tested by modeling crystal structures and heats of formation of solids. Two changes were made to the set of approximations: a modification was made to improve the description of noncovalent interactions, and two minor errors in the NDDO formalism were rectified. Average unsigned errors (AUEs) in geometry and ΔHf for PM7 were reduced relative to PM6; for simple gas-phase organic systems, the AUE in bond lengths decreased by about 5% and the AUE in ΔHf decreased by about 10%; for organic solids, the AUE in ΔHf dropped by 60% and the reduction was 33.3% for geometries. A two-step process (PM7-TS) for calculating the heights of activation barriers has been developed. Using PM7-TS, the AUE in the barrier heights for simple organic reactions was decreased from values of 12.6 kcal/mol(-1) in PM6 and 10.8 kcal/mol(-1) in PM7 to 3.8 kcal/mol(-1). The origins of the errors in NDDO methods have been examined, and were found to be attributable to inadequate and inaccurate reference data. This conclusion provides insight into how these methods can be improved.",
+  "authors": [
+    "James J. P. Stewart"
+  ],
+  "year": 2012,
+  "doi": "10.1007/s00894-012-1667-x",
+  "source": "openalex",
+  "categories": [
+    "Parameterized complexity",
+    "Chemistry",
+    "Ab initio",
+    "Computational chemistry",
+    "Thermodynamics",
+    "Algorithm",
+    "Physics",
+    "Mathematics",
+    "Organic chemistry"
+  ],
+  "citation_count": 2054,
+  "open_access_pdf_url": "https://link.springer.com/content/pdf/10.1007/s00894-012-1667-x.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2032084435.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:15.550818+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2032084435",
+    "concepts": [
+      "Parameterized complexity",
+      "Chemistry",
+      "Ab initio",
+      "Computational chemistry",
+      "Thermodynamics"
+    ],
+    "oa_status": "hybrid"
+  }
+}

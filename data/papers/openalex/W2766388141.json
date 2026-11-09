@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2766388141",
+  "title": "Oxidative stress and the amyloid beta peptide in Alzheimer’s disease",
+  "abstract": "Oxidative stress is known to play an important role in the pathogenesis of a number of diseases. In particular, it is linked to the etiology of Alzheimer's disease (AD), an age-related neurodegenerative disease and the most common cause of dementia in the elderly. Histopathological hallmarks of AD are intracellular neurofibrillary tangles and extracellular formation of senile plaques composed of the amyloid-beta peptide (Aβ) in aggregated form along with metal-ions such as copper, iron or zinc. Redox active metal ions, as for example copper, can catalyze the production of Reactive Oxygen Species (ROS) when bound to the amyloid-β (Aβ). The ROS thus produced, in particular the hydroxyl radical which is the most reactive one, may contribute to oxidative damage on both the Aβ peptide itself and on surrounding molecule (proteins, lipids, …). This review highlights the existing link between oxidative stress and AD, and the consequences towards the Aβ peptide and surrounding molecules in terms of oxidative damage. In addition, the implication of metal ions in AD, their interaction with the Aβ peptide and redox properties leading to ROS production are discussed, along with both in vitro and in vivo oxidation of the Aβ peptide, at the molecular level.",
+  "authors": [
+    "Clémence Cheignon",
+    "Mireia Tomas",
+    "Dominique Bonnefont‐Rousselot",
+    "Peter Faller",
+    "Christelle Hureau",
+    "Fabrice Collin"
+  ],
+  "year": 2017,
+  "doi": "10.1016/j.redox.2017.10.014",
+  "source": "openalex",
+  "categories": [
+    "Oxidative stress",
+    "Senile plaques",
+    "Reactive oxygen species",
+    "Chemistry",
+    "Peptide",
+    "Oxidative phosphorylation",
+    "Biochemistry",
+    "Alzheimer's disease",
+    "Amyloid (mycology)",
+    "Amyloid beta",
+    "Cell biology",
+    "Biology",
+    "Medicine",
+    "Pathology",
+    "Disease",
+    "Inorganic chemistry"
+  ],
+  "citation_count": 2245,
+  "open_access_pdf_url": "https://www.sciencedirect.com/science/article/pii/S2213231717307267/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2766388141.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:12.570984+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2766388141",
+    "concepts": [
+      "Oxidative stress",
+      "Senile plaques",
+      "Reactive oxygen species",
+      "Chemistry",
+      "Peptide"
+    ],
+    "oa_status": "gold"
+  }
+}

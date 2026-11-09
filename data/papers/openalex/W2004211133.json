@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2004211133",
+  "title": "A new mechanism for regional atmospheric chemistry modeling",
+  "abstract": "A new gas‐phase chemical mechanism for the modeling of regional atmospheric chemistry, the “Regional Atmospheric Chemistry Mechanism” (RACM) is presented. The mechanism is intended to be valid for remote to polluted conditions and from the Earth's surface through the upper troposphere. The RACM mechanism is based upon the earlier Regional Acid Deposition Model, version 2 (RADM2) mechanism [ Stockwell et al. , 1990] and the more detailed Euro‐RADM mechanism [ Stockwell and Kley , 1994]. The RACM mechanism includes rate constants and product yields from the most recent laboratory measurements, and it has been tested against environmental chamber data. A new condensed reaction mechanism is included for biogenic compounds: isoprene, α‐pinene, and d‐limonene. The branching ratios for alkane decay were reevaluated, and in the revised mechanism the aldehyde to ketone ratios were significantly reduced. The relatively large amounts of nitrates resulting from the reactions of unbranched alkenes with NO 3 are now included, and the production of HO from the ozonolysis of alkenes has a much greater yield. The aromatic chemistry has been revised through the use of new laboratory data. The yield of cresol production from aromatics was reduced, while the reactions of HO, NO 3 , and O 3 with unsaturated dicarbonyl species and unsaturated peroxynitrate are now included in the RACM mechanism. The peroxyacetyl nitrate chemistry and the organic peroxy radical‐peroxy radical reactions were revised, and organic peroxy radical +NO 3 reactions were added.",
+  "authors": [
+    "William R. Stockwell",
+    "Frank Kirchner",
+    "Michael Kühn",
+    "Stephan Seefeld"
+  ],
+  "year": 1997,
+  "doi": "10.1029/97jd00849",
+  "source": "openalex",
+  "categories": [
+    "Isoprene",
+    "Ozonolysis",
+    "Chemistry",
+    "Reaction mechanism",
+    "Atmospheric chemistry",
+    "Hydroxyl radical",
+    "Peroxyacetyl nitrate",
+    "Radical",
+    "Yield (engineering)",
+    "Aldehyde",
+    "Organic chemistry",
+    "Photochemistry",
+    "NOx",
+    "Ozone",
+    "Thermodynamics",
+    "Combustion",
+    "Catalysis",
+    "Copolymer",
+    "Physics",
+    "Polymer"
+  ],
+  "citation_count": 1157,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/97JD00849",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2004211133.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:14.508085+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2004211133",
+    "concepts": [
+      "Isoprene",
+      "Ozonolysis",
+      "Chemistry",
+      "Reaction mechanism",
+      "Atmospheric chemistry"
+    ],
+    "oa_status": "bronze"
+  }
+}

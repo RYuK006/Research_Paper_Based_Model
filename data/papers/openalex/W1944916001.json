@@ -1,0 +1,43 @@
+{
+  "id": "openalex:W1944916001",
+  "title": "Cellular mechanisms of muscle fatigue",
+  "abstract": "Fatigue, defined as the failure to maintain the required or expected power output, is a complex problem, since multiple factors are clearly involved, with the relative importance of each dependent on the fiber type composition of the contracting muscles(s), and the intensity, type, and duration of the contractile activity. The primary sites of fatigue appear to be within the muscle cell itself and for the most part do not involve the central nervous system or the neuromuscular junction. The major hypotheses of fatigue center on disturbances in the surface membrane, E-C coupling, or metabolic events. The cell sites most frequently linked to the etiology of skeletal muscle fatigue are shown in Figure 1. Skeletal muscles are composed of at least four distinct fiber types (3 fast twitch and 1 slow twitch), with the slow type I and fast type IIa fibers containing the highest mitochondrial content and fatigue resistance. Despite fiber type differences in the degree of fatigability, the contractile properties undergo characteristic changes with the development of fatigue that can be observed in whole muscles, single motor units, and single fibers. The Po declines, and the contraction and relaxation times are prolonged. Additionally, there is a decrease in the peak rate of tension development and decline and a reduced Vo. Changes in Vo are more resistant to fatigue than Po and are not observed until Po has declined by at least 10% of its initial prefatigued value. However, the reduced peak power by which fatigue is defined results from both a reduction in Vo and Po. In the absence of muscle fiber damage, the prolonged relaxation time associated with fatigue causes the force-frequency curve to shift to the left, such that peak tensions are obtained at lower frequencies of stimulation. In a mechanism not clearly understood, the central nervous system senses this condition and reduces the alpha-motor nerve activation frequency as fatigue develops. In some cases, selective LFF develops that displaces the force-frequency curve to the right. Although not proven, it appears likely that this condition is associated with and likely caused by muscle injury, such that the SR releases less Ca2+ at low frequencies of activation. Alternatively, LFF could result from a reduced membrane excitability, such that the sarcolemma action potential frequency is considerably less than the stimulation frequency.(ABSTRACT TRUNCATED AT 400 WORDS)",
+  "authors": [
+    "R. H. Fitts"
+  ],
+  "year": 1994,
+  "doi": "10.1152/physrev.1994.74.1.49",
+  "source": "openalex",
+  "categories": [
+    "Contraction (grammar)",
+    "Muscle fatigue",
+    "Muscle contraction",
+    "Skeletal muscle",
+    "Chemistry",
+    "Muscle fibre",
+    "Internal medicine",
+    "Biophysics",
+    "Endocrinology",
+    "Anatomy",
+    "Biology",
+    "Electromyography",
+    "Medicine",
+    "Neuroscience"
+  ],
+  "citation_count": 1585,
+  "open_access_pdf_url": "https://epublications.marquette.edu/context/bio_fac/article/1462/viewcontent/fitts_8101pubd.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1944916001.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:41.934077+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1944916001",
+    "concepts": [
+      "Contraction (grammar)",
+      "Muscle fatigue",
+      "Muscle contraction",
+      "Skeletal muscle",
+      "Chemistry"
+    ],
+    "oa_status": "green"
+  }
+}

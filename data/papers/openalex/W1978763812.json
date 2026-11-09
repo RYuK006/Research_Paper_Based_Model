@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W1978763812",
+  "title": "Characterization of the AMP-activated Protein Kinase Kinase from Rat Liver and Identification of Threonine 172 as the Major Site at Which It Phosphorylates AMP-activated Protein Kinase",
+  "abstract": "We have developed a sensitive assay for the AMP-activated protein kinase kinase, the upstream component in the AMP-activated protein kinase cascade. Phosphorylation and activation of the downstream kinase by the upstream kinase absolutely requires AMP and is antagonized by high (millimolar) concentrations of ATP. We have purified the upstream kinase >1000-fold from rat liver; a variety of evidence indicates that the catalytic subunit may be a polypeptide of 58 kDa. The physical properties of the downstream and upstream kinases, e.g. catalytic subunit masses (63 versus 58 kDa) and native molecular masses (190 versus 195 kDa), are very similar. However, unlike the downstream kinase, the upstream kinase is not inactivated by protein phosphatases. The upstream kinase phosphorylates the downstream kinase at a single major site on the alpha subunit, i.e. threonine 172, which lies in the \"activation segment\" between the DFG and APE motifs. This site aligns with activating phosphorylation sites on many other protein kinases, including Thr177 on calmodulin-dependent protein kinase I. As well as suggesting a mechanism of activation of AMP-activated protein kinase, this finding is consistent with our recent report that the AMP-activated protein kinase kinase can slowly phosphorylate and activate calmodulin-dependent protein kinase I, at least in vitro (Hawley, S. A., Selbert, M. A., Goldstein, E. G., Edelman, A. M., Carling, D., and Hardie, D. G. (1995) J. Biol. Chem. 270, 27186-27191).",
+  "authors": [
+    "Simon A. Hawley",
+    "Matthew Davison",
+    "Angela Woods",
+    "Stephen P. Davies",
+    "Raj K. Beri",
+    "David Carling",
+    "David Grahame Hardie"
+  ],
+  "year": 1996,
+  "doi": "10.1074/jbc.271.44.27879",
+  "source": "openalex",
+  "categories": [
+    "MAP2K7",
+    "Cyclin-dependent kinase 2",
+    "Mitogen-activated protein kinase kinase",
+    "Cyclin-dependent kinase 9",
+    "Casein kinase 2",
+    "Protein kinase A",
+    "MAP kinase kinase kinase",
+    "ASK1",
+    "c-Raf",
+    "cGMP-dependent protein kinase",
+    "Biochemistry",
+    "Biology",
+    "Cyclin-dependent kinase complex",
+    "Chemistry",
+    "Molecular biology",
+    "Kinase"
+  ],
+  "citation_count": 1290,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925818353158/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1978763812.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:00.369763+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1978763812",
+    "concepts": [
+      "MAP2K7",
+      "Cyclin-dependent kinase 2",
+      "Mitogen-activated protein kinase kinase",
+      "Cyclin-dependent kinase 9",
+      "Casein kinase 2"
+    ],
+    "oa_status": "hybrid"
+  }
+}

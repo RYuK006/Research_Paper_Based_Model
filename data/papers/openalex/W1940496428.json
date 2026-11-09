@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W1940496428",
+  "title": "Renewable Power-to-Gas: A technological and economic review",
+  "abstract": "The Power-to-Gas (PtG) process chain could play a significant role in the future energy system . Renewable electric energy can be transformed into storable methane via electrolysis and subsequent methanation . This article compares the available electrolysis and methanation technologies with respect to the stringent requirements of the PtG chain such as low CAPEX, high efficiency, and high flexibility. Three water electrolysis technologies are considered: alkaline electrolysis , PEM electrolysis, and solid oxide electrolysis . Alkaline electrolysis is currently the cheapest technology; however, in the future PEM electrolysis could be better suited for the PtG process chain. Solid oxide electrolysis could also be an option in future, especially if heat sources are available. Several different reactor concepts can be used for the methanation reaction. For catalytic methanation, typically fixed-bed reactors are used; however, novel reactor concepts such as three-phase methanation and micro reactors are currently under development. Another approach is the biochemical conversion . The bioprocess takes place in aqueous solutions and close to ambient temperatures. Finally, the whole process chain is discussed. Critical aspects of the PtG process are the availability of CO 2 sources, the dynamic behaviour of the individual process steps, and especially the economics as well as the efficiency.",
+  "authors": [
+    "Manuel Götz",
+    "Jonathan Lefebvre",
+    "Friedemann Mörs",
+    "Amy McDaniel Koch",
+    "Frank Graf",
+    "Siegfried Bajohr",
+    "Rainer Reimert",
+    "Thomas Kolb"
+  ],
+  "year": 2015,
+  "doi": "10.1016/j.renene.2015.07.066",
+  "source": "openalex",
+  "categories": [
+    "Methanation",
+    "Power to gas",
+    "Electrolysis",
+    "Polymer electrolyte membrane electrolysis",
+    "Process engineering",
+    "High-temperature electrolysis",
+    "Renewable energy",
+    "Environmental science",
+    "Waste management",
+    "Chemistry",
+    "Engineering",
+    "Methane",
+    "Electrical engineering",
+    "Organic chemistry",
+    "Electrolyte",
+    "Physical chemistry",
+    "Electrode"
+  ],
+  "citation_count": 2732,
+  "open_access_pdf_url": "https://doi.org/10.1016/j.renene.2015.07.066",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1940496428.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:01.986395+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1940496428",
+    "concepts": [
+      "Methanation",
+      "Power to gas",
+      "Electrolysis",
+      "Polymer electrolyte membrane electrolysis",
+      "Process engineering"
+    ],
+    "oa_status": "hybrid"
+  }
+}

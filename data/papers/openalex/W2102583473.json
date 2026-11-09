@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W2102583473",
+  "title": "Aqueous-phase chemistry and bactericidal effects from an air discharge plasma in contact with water: evidence for the formation of peroxynitrite through a pseudo-second-order post-discharge reaction of H 2 O 2 and HNO 2",
+  "abstract": "The formation of transient species (OH·, NO 2 ·, NO radicals) and long-lived chemical products (O 3 , H 2 O 2 , , ) produced by a gas discharge plasma at the gas–liquid interface and directly in the liquid was measured in dependence on the gas atmosphere (20% oxygen mixtures with nitrogen or with argon) and pH of plasma-treated water (controlled by buffers at pH 3.3, 6.9 or 10.1). The aqueous-phase chemistry and specific contributions of these species to the chemical and biocidal effects of air discharge plasma in water were evaluated using phenol as a chemical probe and bacteria Escherichia coli. The nitrated and nitrosylated products of phenol (4-nitrophenol, 2-nitrophenol, 4-nitrocatechol, 4-nitrosophenol) in addition to the hydroxylated products (catechol, hydroquinone, 1,4-benzoquinone, hydroxy-1,4-benzoquinone) evidenced formation of NO 2 ·, NO· and OH· radicals and NO + ions directly by the air plasma at the gas–liquid interface and through post-discharge processes in plasma-activated water (PAW) mediated by peroxynitrite (ONOOH). Kinetic study of post-discharge evolution of H 2 O 2 and in PAW has demonstrated excellent fit with the pseudo-second-order reaction between H 2 O 2 and . The third-order rate constant k = 1.1 × 10 3 M −2 s −1 for the reaction was determined in PAW at pH 3.3 with the rate of ONOOH formation in the range 10 −8 –10 −9 M s −1 . Peroxynitrite chemistry was shown to significantly participate in the antibacterial properties of PAW. Ozone presence in PAW was proved indirectly by pH-dependent degradation of phenol and detection of cis,cis -muconic acid, but contribution of ozone to the inactivation of bacteria by the air plasma was negligible.",
+  "authors": [
+    "Petr Lukeš",
+    "Eva Doležalová",
+    "I. (Irena) Sisrová",
+    "M. Člupek"
+  ],
+  "year": 2014,
+  "doi": "10.1088/0963-0252/23/1/015019",
+  "source": "openalex",
+  "categories": [
+    "Chemistry",
+    "Peroxynitrite",
+    "Radical",
+    "Aqueous solution",
+    "Ozone",
+    "Phenol",
+    "Reaction rate constant",
+    "Hydroquinone",
+    "Hydroxyl radical",
+    "Chemical reaction",
+    "Inorganic chemistry",
+    "NOx",
+    "Aqueous two-phase system",
+    "Reaction mechanism",
+    "Peroxynitrous acid",
+    "Photochemistry",
+    "Organic chemistry",
+    "Kinetics",
+    "Quantum mechanics",
+    "Enzyme",
+    "Combustion",
+    "Catalysis",
+    "Superoxide",
+    "Physics"
+  ],
+  "citation_count": 1218,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1088/0963-0252/23/1/015019/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2102583473.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:04.649548+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2102583473",
+    "concepts": [
+      "Chemistry",
+      "Peroxynitrite",
+      "Radical",
+      "Aqueous solution",
+      "Ozone"
+    ],
+    "oa_status": "bronze"
+  }
+}

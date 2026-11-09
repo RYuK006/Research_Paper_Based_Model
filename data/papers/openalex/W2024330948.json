@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W2024330948",
+  "title": "Crystal structure prediction using ab initio evolutionary techniques: Principles and applications",
+  "abstract": "We have developed an efficient and reliable methodology for crystal structure prediction, merging ab initio total-energy calculations and a specifically devised evolutionary algorithm. This method allows one to predict the most stable crystal structure and a number of low-energy metastable structures for a given compound at any P-T conditions without requiring any experimental input. Extremely high (nearly 100%) success rate has been observed in a few tens of tests done so far, including ionic, covalent, metallic, and molecular structures with up to 40 atoms in the unit cell. We have been able to resolve some important problems in high-pressure crystallography and report a number of new high-pressure crystal structures (stable phases: epsilon-oxygen, new phase of sulphur, new metastable phases of carbon, sulphur and nitrogen, stable and metastable phases of CaCO3). Physical reasons for the success of this methodology are discussed.",
+  "authors": [
+    "Артем Ромаевич Оганов",
+    "Colin W. Glass"
+  ],
+  "year": 2006,
+  "doi": "10.1063/1.2210932",
+  "source": "openalex",
+  "categories": [
+    "Metastability",
+    "Crystal structure prediction",
+    "Ab initio",
+    "Crystal structure",
+    "Ionic bonding",
+    "Crystal (programming language)",
+    "Materials science",
+    "Ab initio quantum chemistry methods",
+    "Crystallography",
+    "Chemical physics",
+    "Chemistry",
+    "Ion",
+    "Computer science",
+    "Molecule",
+    "Programming language",
+    "Organic chemistry"
+  ],
+  "citation_count": 2602,
+  "open_access_pdf_url": "https://arxiv.org/pdf/0911.3186",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2024330948.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:04.254702+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2024330948",
+    "concepts": [
+      "Metastability",
+      "Crystal structure prediction",
+      "Ab initio",
+      "Crystal structure",
+      "Ionic bonding"
+    ],
+    "oa_status": "green"
+  }
+}

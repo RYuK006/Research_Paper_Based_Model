@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W2096390283",
+  "title": "Detection of an Extrasolar Planet Atmosphere",
+  "abstract": "We report high-precision spectrophotometric observations of four planetary transits of HD 209458, in the region of the sodium resonance doublet at 589.3 nm. We find that the photometric dimming during transit in a bandpass centered on the sodium feature is deeper by (2.32 ± 0.57) × 10 -4 relative to simultaneous observations of the transit in adjacent bands. We interpret this additional dimming as absorption from sodium in the planetary atmosphere, as recently predicted from several theoretical modeling efforts. Our model for a cloudless planetary atmosphere with a solar abundance of sodium in atomic form predicts more sodium absorption than we observe. There are several possibilities that may account for this reduced amplitude, including reaction of atomic sodium into molecular gases and/or condensates, photoionization of sodium by the stellar flux, a low primordial abundance of sodium, and the presence of clouds high in the atmosphere.",
+  "authors": [
+    "David Charbonneau",
+    "Timothy M. Brown",
+    "R. W. Noyes",
+    "Ronald L. Gilliland"
+  ],
+  "year": 2002,
+  "doi": "10.1086/338770",
+  "source": "openalex",
+  "categories": [
+    "Atmosphere (unit)",
+    "Exoplanet",
+    "Planet",
+    "Sodium",
+    "Astrobiology",
+    "Astrophysics",
+    "Flux (metallurgy)",
+    "Physics",
+    "Absorption (acoustics)",
+    "Hot Jupiter",
+    "Transit (satellite)",
+    "Absorption spectroscopy",
+    "Spectral line",
+    "Chemistry",
+    "Astronomy",
+    "Optics",
+    "Meteorology",
+    "Organic chemistry",
+    "Political science",
+    "Public transport",
+    "Law"
+  ],
+  "citation_count": 1362,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1086/338770/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2096390283.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:55.105907+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2096390283",
+    "concepts": [
+      "Atmosphere (unit)",
+      "Exoplanet",
+      "Planet",
+      "Sodium",
+      "Astrobiology"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2168090960",
+  "title": "An eigensystem realization algorithm for modal parameter identification and model reduction",
+  "abstract": "A method, called the Eigensystem Realization Algorithm (ERA), is developed for modal parameter identification and model reduction of dynamic systems from test data. A new approach is introduced in conjunction with the singular value decomposition technique to derive the basic formulation of minimum order realization which is an extended version of the Ho-Kalman algorithm. The basic formulation is then transformed into modal space for modal parameter identification. Two accuracy indicators are developed to quantitatively identify the system modes and noise modes. For illustration of the algorithm, examples are shown using simulation data and experimental data for a rectangular grid structure.",
+  "authors": [
+    "Jer-Nan Juang",
+    "Richard S. Pappa"
+  ],
+  "year": 1985,
+  "doi": "10.2514/3.20031",
+  "source": "openalex",
+  "categories": [
+    "Reduction (mathematics)",
+    "Modal",
+    "Realization (probability)",
+    "Identification (biology)",
+    "Algorithm",
+    "System identification",
+    "Computer science",
+    "Control theory (sociology)",
+    "Mathematics",
+    "Artificial intelligence",
+    "Data modeling",
+    "Statistics",
+    "Database",
+    "Geometry",
+    "Chemistry",
+    "Botany",
+    "Biology",
+    "Control (management)",
+    "Polymer chemistry"
+  ],
+  "citation_count": 2804,
+  "open_access_pdf_url": "https://ntrs.nasa.gov/api/citations/19850022899/downloads/19850022899.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2168090960.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:01.923190+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2168090960",
+    "concepts": [
+      "Reduction (mathematics)",
+      "Modal",
+      "Realization (probability)",
+      "Identification (biology)",
+      "Algorithm"
+    ],
+    "oa_status": "green"
+  }
+}

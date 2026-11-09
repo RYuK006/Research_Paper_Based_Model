@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2088902741",
+  "title": "Development of density functionals for thermochemical kinetics",
+  "abstract": "A density functional theory exchange-correlation functional for the exploration of reaction mechanisms is proposed. This functional, denoted BMK (Boese-Martin for Kinetics), has an accuracy in the 2 kcal/mol range for transition state barriers but, unlike previous attempts at such a functional, this improved accuracy does not come at the expense of equilibrium properties. This makes it a general-purpose functional whose domain of applicability has been extended to transition states, rather than a specialized functional for kinetics. The improvement in BMK rests on the inclusion of the kinetic energy density together with a large value of the exact exchange mixing coefficient. For this functional, the kinetic energy density appears to correct \"back\" the excess exact exchange mixing for ground-state properties, possibly simulating variable exchange.",
+  "authors": [
+    "Adrian Daniel Boese",
+    "Jan M. L. Martin"
+  ],
+  "year": 2004,
+  "doi": "10.1063/1.1774975",
+  "source": "openalex",
+  "categories": [
+    "Density functional theory",
+    "Kinetic energy",
+    "Thermodynamics",
+    "Kinetics",
+    "Mixing (physics)",
+    "Statistical physics",
+    "Transition state theory",
+    "Range (aeronautics)",
+    "Domain (mathematical analysis)",
+    "Energy functional",
+    "Orbital-free density functional theory",
+    "Hybrid functional",
+    "Chemistry",
+    "Materials science",
+    "Computational chemistry",
+    "Physics",
+    "Mathematics",
+    "Reaction rate constant",
+    "Mathematical analysis",
+    "Classical mechanics",
+    "Quantum mechanics",
+    "Composite material"
+  ],
+  "citation_count": 1533,
+  "open_access_pdf_url": "https://arxiv.org/pdf/physics/0405158",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2088902741.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:45.396514+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2088902741",
+    "concepts": [
+      "Density functional theory",
+      "Kinetic energy",
+      "Thermodynamics",
+      "Kinetics",
+      "Mixing (physics)"
+    ],
+    "oa_status": "green"
+  }
+}

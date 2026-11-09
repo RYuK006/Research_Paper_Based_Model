@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2124415048",
+  "title": "Ranibizumab for Neovascular Age-Related Macular Degeneration",
+  "abstract": "BACKGROUND: Ranibizumab--a recombinant, humanized, monoclonal antibody Fab that neutralizes all active forms of vascular endothelial growth factor A--has been evaluated for the treatment of neovascular age-related macular degeneration. METHODS: In this multicenter, 2-year, double-blind, sham-controlled study, we randomly assigned patients with age-related macular degeneration with either minimally classic or occult (with no classic lesions) choroidal neovascularization to receive 24 monthly intravitreal injections of ranibizumab (either 0.3 mg or 0.5 mg) or sham injections. The primary end point was the proportion of patients losing fewer than 15 letters from baseline visual acuity at 12 months. RESULTS: We enrolled 716 patients in the study. At 12 months, 94.5% of the group given 0.3 mg of ranibizumab and 94.6% of those given 0.5 mg lost fewer than 15 letters, as compared with 62.2% of patients receiving sham injections (P<0.001 for both comparisons). Visual acuity improved by 15 or more letters in 24.8% of the 0.3-mg group and 33.8% of the 0.5-mg group, as compared with 5.0% of the sham-injection group (P<0.001 for both doses). Mean increases in visual acuity were 6.5 letters in the 0.3-mg group and 7.2 letters in the 0.5-mg group, as compared with a decrease of 10.4 letters in the sham-injection group (P<0.001 for both comparisons). The benefit in visual acuity was maintained at 24 months. During 24 months, presumed endophthalmitis was identified in five patients (1.0%) and serious uveitis in six patients (1.3%) given ranibizumab. CONCLUSIONS: Intravitreal administration of ranibizumab for 2 years prevented vision loss and improved mean visual acuity, with low rates of serious adverse events, in patients with minimally classic or occult (with no classic lesions) choroidal neovascularization secondary to age-related macular degeneration. (ClinicalTrials.gov number, NCT00056836 [ClinicalTrials.gov].).",
+  "authors": [
+    "Philip J. Rosenfeld",
+    "David M. Brown",
+    "Jeffrey S. Heier",
+    "David S. Boyer",
+    "Peter K. Kaiser",
+    "Carol Y. Chung",
+    "Robert Y. Kim"
+  ],
+  "year": 2006,
+  "doi": "10.1056/nejmoa054481",
+  "source": "openalex",
+  "categories": [
+    "Macular degeneration",
+    "Ranibizumab",
+    "Medicine",
+    "Monoclonal",
+    "Ophthalmology",
+    "Vascular endothelial growth factor",
+    "Monoclonal antibody",
+    "Bevacizumab",
+    "Degeneration (medical)",
+    "Recombinant DNA",
+    "VEGF receptors",
+    "Antibody",
+    "Surgery",
+    "Internal medicine",
+    "Immunology",
+    "Chemotherapy",
+    "Gene",
+    "Chemistry",
+    "Biochemistry"
+  ],
+  "citation_count": 5952,
+  "open_access_pdf_url": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa054481?articleTools=true",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2124415048.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:52.167608+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2124415048",
+    "concepts": [
+      "Macular degeneration",
+      "Ranibizumab",
+      "Medicine",
+      "Monoclonal",
+      "Ophthalmology"
+    ],
+    "oa_status": "bronze"
+  }
+}

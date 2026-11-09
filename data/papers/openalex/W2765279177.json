@@ -1,0 +1,57 @@
+{
+  "id": "openalex:W2765279177",
+  "title": "Atomic structure of sensitive battery materials and interfaces revealed by cryo–electron microscopy",
+  "abstract": "Whereas standard transmission electron microscopy studies are unable to preserve the native state of chemically reactive and beam-sensitive battery materials after operation, such materials remain pristine at cryogenic conditions. It is then possible to atomically resolve individual lithium metal atoms and their interface with the solid electrolyte interphase (SEI). We observe that dendrites in carbonate-based electrolytes grow along the <111> (preferred), <110>, or <211> directions as faceted, single-crystalline nanowires. These growth directions can change at kinks with no observable crystallographic defect. Furthermore, we reveal distinct SEI nanostructures formed in different electrolytes.",
+  "authors": [
+    "Yuzhang Li",
+    "Yanbin Li",
+    "Allen Pei",
+    "Kai Yan",
+    "Yongming Sun",
+    "Chun-Lan Wu",
+    "Lydia‐Marie Joubert",
+    "Richard Chin",
+    "Ai Leen Koh",
+    "Yi Yu",
+    "John J. Perrino",
+    "Benjamin Butz",
+    "Steven Chu",
+    "Yi Cui"
+  ],
+  "year": 2017,
+  "doi": "10.1126/science.aam6014",
+  "source": "openalex",
+  "categories": [
+    "Electron microscope",
+    "Cryo-electron microscopy",
+    "Battery (electricity)",
+    "Materials science",
+    "Electron",
+    "Microscopy",
+    "Nanotechnology",
+    "Crystallography",
+    "Chemistry",
+    "Physics",
+    "Optics",
+    "Nuclear magnetic resonance",
+    "Nuclear physics",
+    "Quantum mechanics",
+    "Power (physics)"
+  ],
+  "citation_count": 1555,
+  "open_access_pdf_url": "https://www.osti.gov/servlets/purl/1463306",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2765279177.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:42.051928+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2765279177",
+    "concepts": [
+      "Electron microscope",
+      "Cryo-electron microscopy",
+      "Battery (electricity)",
+      "Materials science",
+      "Electron"
+    ],
+    "oa_status": "green"
+  }
+}

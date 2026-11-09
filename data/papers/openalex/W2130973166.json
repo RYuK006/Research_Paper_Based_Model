@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W2130973166",
+  "title": "A new versatile primer set targeting a short fragment of the mitochondrial COI region for metabarcoding metazoan diversity: application for characterizing coral reef fish gut contents",
+  "abstract": "INTRODUCTION: The PCR-based analysis of homologous genes has become one of the most powerful approaches for species detection and identification, particularly with the recent availability of Next Generation Sequencing platforms (NGS) making it possible to identify species composition from a broad range of environmental samples. Identifying species from these samples relies on the ability to match sequences with reference barcodes for taxonomic identification. Unfortunately, most studies of environmental samples have targeted ribosomal markers, despite the fact that the mitochondrial Cytochrome c Oxidase subunit I gene (COI) is by far the most widely available sequence region in public reference libraries. This is largely because the available versatile (\"universal\") COI primers target the 658 barcoding region, whose size is considered too large for many NGS applications. Moreover, traditional barcoding primers are known to be poorly conserved across some taxonomic groups. RESULTS: We first design a new PCR primer within the highly variable mitochondrial COI region, the \"mlCOIintF\" primer. We then show that this newly designed forward primer combined with the \"jgHCO2198\" reverse primer to target a 313 bp fragment performs well across metazoan diversity, with higher success rates than versatile primer sets traditionally used for DNA barcoding (i.e. LCO1490/HCO2198). Finally, we demonstrate how the shorter COI fragment coupled with an efficient bioinformatics pipeline can be used to characterize species diversity from environmental samples by pyrosequencing. We examine the gut contents of three species of planktivorous and benthivorous coral reef fish (family: Apogonidae and Holocentridae). After the removal of dubious COI sequences, we obtained a total of 334 prey Operational Taxonomic Units (OTUs) belonging to 14 phyla from 16 fish guts. Of these, 52.5% matched a reference barcode (>98% sequence similarity) and an additional 32% could be assigned to a higher taxonomic level using Bayesian assignment. CONCLUSIONS: The molecular analysis of gut contents targeting the 313 COI fragment using the newly designed mlCOIintF primer in combination with the jgHCO2198 primer offers enormous promise for metazoan metabarcoding studies. We believe that this primer set will be a valuable asset for a range of applications from large-scale biodiversity assessments to food web studies.",
+  "authors": [
+    "Matthieu Leray",
+    "Joy Yang",
+    "Chris Meyer",
+    "Suzanne C. Mills",
+    "Natalia Agudelo",
+    "Vincent Ranwez",
+    "J. T. Boehm",
+    "Ryuji J. Machida"
+  ],
+  "year": 2013,
+  "doi": "10.1186/1742-9994-10-34",
+  "source": "openalex",
+  "categories": [
+    "Biology",
+    "Primer (cosmetics)",
+    "DNA barcoding",
+    "Cytochrome c oxidase subunit I",
+    "Pyrosequencing",
+    "Mitochondrial DNA",
+    "Coral reef",
+    "Ribosomal RNA",
+    "Taxonomic rank",
+    "Evolutionary biology",
+    "Environmental DNA",
+    "Metagenomics",
+    "Genetics",
+    "Computational biology",
+    "Biodiversity",
+    "Ecology",
+    "Gene",
+    "Chemistry",
+    "Organic chemistry",
+    "Taxon"
+  ],
+  "citation_count": 1719,
+  "open_access_pdf_url": "https://frontiersinzoology.biomedcentral.com/counter/pdf/10.1186/1742-9994-10-34",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2130973166.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:33.083936+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2130973166",
+    "concepts": [
+      "Biology",
+      "Primer (cosmetics)",
+      "DNA barcoding",
+      "Cytochrome c oxidase subunit I",
+      "Pyrosequencing"
+    ],
+    "oa_status": "gold"
+  }
+}

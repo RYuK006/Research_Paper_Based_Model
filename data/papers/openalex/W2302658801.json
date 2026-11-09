@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2302658801",
+  "title": "Proteomic Analyses Provide Novel Insights into Plant Growth and Ginsenoside Biosynthesis in Forest Cultivated Panax ginseng (F. Ginseng)",
+  "abstract": "F. Ginseng (Panax ginseng) is planted in the forest to enhance the natural ginseng resources, which have an immense medicinal and economic value. The morphology of the cultivated plants becomes similar to that of wild growing ginseng (W. Ginseng) over the years. So far, there have been no studies highlighting the physiological or functional changes in F. Ginseng and its wild counterparts. In the present study, we used proteomic technologies (2DE and iTRAQ) coupled to mass spectrometry to compare W. Ginseng and F. Ginseng at various growth stages. Hierarchical cluster analysis based on protein abundance revealed that the protein expression profile of 25-year-old F. Ginseng was more like W. Ginseng than less 20-year-old F. Ginseng. We identified 192 differentially expressed protein spots in F. Ginseng. These protein spots increased with increase in growth years of F. Ginseng and were associated with proteins involved in energy metabolism, ginsenosides biosynthesis, and stress response. The mRNA, physiological, and metabolic analysis showed that the external morphology, protein expression profile, and ginsenoside synthesis ability of the F. Ginseng increased just like that of W. Ginseng with the increase in age. Our study represents the first characterization of the proteome of F. Ginseng during development and provides new insights into the metabolism and accumulation of ginsenosides.",
+  "authors": [
+    "Rui Ma",
+    "Liwei Sun",
+    "Xuenan Chen",
+    "Bing Mei",
+    "Guijuan Chang",
+    "Manying Wang",
+    "Daqing Zhao"
+  ],
+  "year": 2016,
+  "doi": "10.3389/fpls.2016.00001",
+  "source": "openalex",
+  "categories": [
+    "Ginseng",
+    "Ginsenoside",
+    "Proteome",
+    "Biology",
+    "Araliaceae",
+    "Metabolomics",
+    "Botany",
+    "Chemistry",
+    "Biochemistry",
+    "Medicine",
+    "Bioinformatics",
+    "Alternative medicine",
+    "Pathology"
+  ],
+  "citation_count": 1512,
+  "open_access_pdf_url": "https://www.frontiersin.org/articles/10.3389/fpls.2016.00001/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2302658801.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:45.526012+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2302658801",
+    "concepts": [
+      "Ginseng",
+      "Ginsenoside",
+      "Proteome",
+      "Biology",
+      "Araliaceae"
+    ],
+    "oa_status": "gold"
+  }
+}

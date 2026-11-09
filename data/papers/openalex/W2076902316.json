@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2076902316",
+  "title": "Energy-efficient polymeric gas separation membranes for a sustainable future: A review",
+  "abstract": "Over the past three decades, polymeric gas separation membranes have become widely used for a variety of industrial gas separations applications. This review presents the fundamental scientific principles underpinning the operation of polymers for gas separations, including the solution-diffusion model and various structure/property relations, describes membrane fabrication technology, describes polymers believed to be used commercially for gas separations, and discusses some challenges associated with membrane materials development. A description of new classes of polymers being considered for gas separations, largely to overcome existing challenges or access applications that are not yet practiced commercially, is also provided. Some classes of polymers discussed in this review that have been the focus of much recent work include thermally rearranged (TR) polymers, polymers of intrinsic microporosity (PIMs), room-temperature ionic liquids (RTILs), perfluoropolymers, and high-performance polyimides.",
+  "authors": [
+    "David F. Sanders",
+    "Zachary P. Smith",
+    "Ruilan Guo",
+    "Lloyd M. Robeson",
+    "James E. E. McGrath",
+    "Donald R. Paul",
+    "Benny D. Freeman"
+  ],
+  "year": 2013,
+  "doi": "10.1016/j.polymer.2013.05.075",
+  "source": "openalex",
+  "categories": [
+    "Gas separation",
+    "Polymer",
+    "Membrane",
+    "Materials science",
+    "Nanotechnology",
+    "Work (physics)",
+    "Fabrication",
+    "Synthetic membrane",
+    "Process engineering",
+    "Chemistry",
+    "Engineering",
+    "Mechanical engineering",
+    "Composite material",
+    "Pathology",
+    "Medicine",
+    "Alternative medicine",
+    "Biochemistry"
+  ],
+  "citation_count": 1500,
+  "open_access_pdf_url": "https://www.sciencedirect.com/science/article/pii/S0032386113005399/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2076902316.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:45.587244+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2076902316",
+    "concepts": [
+      "Gas separation",
+      "Polymer",
+      "Membrane",
+      "Materials science",
+      "Nanotechnology"
+    ],
+    "oa_status": "hybrid"
+  }
+}

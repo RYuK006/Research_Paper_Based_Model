@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W4241462706",
+  "title": "Ultrabright source of polarization-entangled photons",
+  "abstract": "Using the process of spontaneous parametric down-conversion in a two-crystal geometry, we have generated a source of polarization-entangled photon pairs that is more than ten times brighter, per unit of pump power, than previous sources, with another factor of 30 to 75 expected to be readily achievable. We have measured a high level of entanglement between photons emitted over a relatively large collection angle, and over a 10-nm bandwidth. As a demonstration of the source capabilities, we obtained a 242-\\ensuremath{\\sigma} violation of Bell's inequalities in less than three minutes, and observed near-perfect photon correlations when the collection efficiency was reduced. In addition, both the degree of entanglement and the state purity should be readily tunable.",
+  "authors": [
+    "Paul G. Kwiat",
+    "Edo Waks",
+    "Andrew G. White",
+    "Ian Appelbaum",
+    "Philippe H. Eberhard"
+  ],
+  "year": 1999,
+  "doi": "10.1103/physreva.60.r773",
+  "source": "openalex",
+  "categories": [
+    "Quantum entanglement",
+    "Spontaneous parametric down-conversion",
+    "Photon",
+    "Photon entanglement",
+    "Physics",
+    "Polarization (electrochemistry)",
+    "Parametric statistics",
+    "Optics",
+    "Bell's theorem",
+    "Bandwidth (computing)",
+    "Energy conversion efficiency",
+    "Quantum mechanics",
+    "Optoelectronics",
+    "Quantum",
+    "Computer science",
+    "Statistics",
+    "Telecommunications",
+    "Mathematics",
+    "Chemistry",
+    "Physical chemistry"
+  ],
+  "citation_count": 1162,
+  "open_access_pdf_url": "https://arxiv.org/pdf/quant-ph/9810003",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W4241462706.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:14.447268+00:00",
+  "raw_metadata": {
+    "openalex_id": "W4241462706",
+    "concepts": [
+      "Quantum entanglement",
+      "Spontaneous parametric down-conversion",
+      "Photon",
+      "Photon entanglement",
+      "Physics"
+    ],
+    "oa_status": "green"
+  }
+}

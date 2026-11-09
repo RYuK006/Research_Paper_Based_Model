@@ -1,0 +1,61 @@
+{
+  "id": "openalex:W2612997415",
+  "title": "Fast oxygen diffusion and iodide defects mediate oxygen-induced degradation of perovskite solar cells",
+  "abstract": "Abstract Methylammonium lead halide perovskites are attracting intense interest as promising materials for next-generation solar cells, but serious issues related to long-term stability need to be addressed. Perovskite films based on CH 3 NH 3 PbI 3 undergo rapid degradation when exposed to oxygen and light. Here, we report mechanistic insights into this oxygen-induced photodegradation from a range of experimental and computational techniques. We find fast oxygen diffusion into CH 3 NH 3 PbI 3 films is accompanied by photo-induced formation of highly reactive superoxide species. Perovskite films composed of small crystallites show higher yields of superoxide and lower stability. Ab initio simulations indicate that iodide vacancies are the preferred sites in mediating the photo-induced formation of superoxide species from oxygen. Thin-film passivation with iodide salts is shown to enhance film and device stability. The understanding of degradation phenomena gained from this study is important for the future design and optimization of stable perovskite solar cells.",
+  "authors": [
+    "Nicholas Aristidou",
+    "Christopher Eames",
+    "Irene Sánchez‐Molina",
+    "Xiangnan Bu",
+    "Ján Koščo",
+    "M. Saiful Islam",
+    "Saif Ahmed Haque"
+  ],
+  "year": 2017,
+  "doi": "10.1038/ncomms15218",
+  "source": "openalex",
+  "categories": [
+    "Perovskite (structure)",
+    "Iodide",
+    "Passivation",
+    "Oxygen",
+    "Materials science",
+    "Halide",
+    "Degradation (telecommunications)",
+    "Photodegradation",
+    "Diffusion",
+    "Crystallite",
+    "Photochemistry",
+    "Chemical engineering",
+    "Chemistry",
+    "Inorganic chemistry",
+    "Nanotechnology",
+    "Catalysis",
+    "Crystallography",
+    "Organic chemistry",
+    "Computer science",
+    "Physics",
+    "Photocatalysis",
+    "Thermodynamics",
+    "Metallurgy",
+    "Engineering",
+    "Layer (electronics)",
+    "Telecommunications"
+  ],
+  "citation_count": 1324,
+  "open_access_pdf_url": "https://www.nature.com/articles/ncomms15218.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2612997415.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:57.630811+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2612997415",
+    "concepts": [
+      "Perovskite (structure)",
+      "Iodide",
+      "Passivation",
+      "Oxygen",
+      "Materials science"
+    ],
+    "oa_status": "gold"
+  }
+}

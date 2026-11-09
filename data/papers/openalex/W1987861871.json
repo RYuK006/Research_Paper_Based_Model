@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W1987861871",
+  "title": "Nucleosynthesis in Chandrasekhar Mass Models for Type Ia Supernovae and Constraints on Progenitor Systems and Burning‐Front Propagation",
+  "abstract": "The major uncertainties involved in the Chandrasekhar mass models for Type Ia supernovae (SNe Ia) are related to the companion star of their accreting white dwarf progenitor (which determines the accretion rate and consequently the carbon ignition density) and the flame speed after the carbon ignition. We calculate explosive nucleosynthesis in relatively slow deflagrations with a variety of deflagration speeds and ignition densities to put new constraints on the above key quantities. The abundance of the Fe group, in particular of neutron-rich species like 48 Ca, 50 Ti, 54 Cr, 54,58 Fe, and 58 Ni, is highly sensitive to the electron captures taking place in the central layers. The yields obtained from such a slow central deflagration, and from a fast deflagration or delayed detonation in the outer layers, are combined and put to comparison with solar isotopic abundances. To avoid excessively large ratios of 54 Cr/ 56 Fe and 50 Ti/ 56 Fe, the central density of the \"average\" white dwarf progenitor at ignition should be as low as ≲2 × 10 9 g cm -3 . To avoid the overproduction of 58 Ni and 54 Fe, either the flame speed should not exceed a few percent of the sound speed in the central low Y e layers or the metallicity of the average progenitors has to be lower than solar. Such low central densities can be realized by a rapid accretion as fast as img 1. gif ≳ 1 × 10 -7 M ☉ yr -1 . In order to reproduce the solar abundance of 48 Ca, one also needs progenitor systems that undergo ignition at higher densities. Even the smallest laminar flame speeds after the low-density ignitions would not produce sufficient amount of this isotope. We also found that the total amount of 56 Ni, the Si-Ca/Fe ratio, and the abundance of some elements like Mn and Cr (originating from incomplete Si burning), depend on the density of the deflagration-detonation transition in delayed detonations. Our nucleosynthesis results favor transition densities slightly below 2.2 × 10 7 g cm -3 .",
+  "authors": [
+    "Koichi Iwamoto",
+    "F. Brachwitz",
+    "Ken'ichi Nomoto",
+    "Nobuhiro Kishimoto",
+    "Hideyuki Umeda",
+    "William Raphael Hix",
+    "F.‐K. Thielemann"
+  ],
+  "year": 1999,
+  "doi": "10.1086/313278",
+  "source": "openalex",
+  "categories": [
+    "Deflagration",
+    "White dwarf",
+    "Nucleosynthesis",
+    "Astrophysics",
+    "Supernova",
+    "Physics",
+    "Chandrasekhar limit",
+    "Ignition system",
+    "Metallicity",
+    "Accretion (finance)",
+    "Explosive material",
+    "Detonation",
+    "Galaxy",
+    "Chemistry",
+    "Stars",
+    "Thermodynamics",
+    "Organic chemistry"
+  ],
+  "citation_count": 1396,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1086/313278/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1987861871.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:52.484391+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1987861871",
+    "concepts": [
+      "Deflagration",
+      "White dwarf",
+      "Nucleosynthesis",
+      "Astrophysics",
+      "Supernova"
+    ],
+    "oa_status": "bronze"
+  }
+}

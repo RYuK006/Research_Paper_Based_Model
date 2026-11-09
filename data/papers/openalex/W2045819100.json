@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2045819100",
+  "title": "Extracellular DNA traps promote thrombosis",
+  "abstract": "Neutrophil extracellular traps (NETs) are part of the innate immune response to infections. NETs are a meshwork of DNA fibers comprising histones and antimicrobial proteins. Microbes are immobilized in NETs and encounter a locally high and lethal concentration of effector proteins. Recent studies show that NETs are formed inside the vasculature in infections and noninfectious diseases. Here we report that NETs provide a heretofore unrecognized scaffold and stimulus for thrombus formation. NETs perfused with blood caused platelet adhesion, activation, and aggregation. DNase or the anticoagulant heparin dismantled the NET scaffold and prevented thrombus formation. Stimulation of platelets with purified histones was sufficient for aggregation. NETs recruited red blood cells, promoted fibrin deposition, and induced a red thrombus, such as that found in veins. Markers of extracellular DNA traps were detected in a thrombus and plasma of baboons subjected to deep vein thrombosis, an example of inflammation-enhanced thrombosis. Our observations indicate that NETs are a previously unrecognized link between inflammation and thrombosis and may further explain the epidemiological association of infection with thrombosis.",
+  "authors": [
+    "Tobias A. Fuchs",
+    "Alexander G. Brill",
+    "Daniel Duerschmied",
+    "Daphne Schatzberg",
+    "Marc Monestier",
+    "Daniel Durant Myers",
+    "Shirley K. Wrobleski",
+    "Thomas W. Wakefield",
+    "John H. Hartwig",
+    "Denisa D. Wagner"
+  ],
+  "year": 2010,
+  "doi": "10.1073/pnas.1005743107",
+  "source": "openalex",
+  "categories": [
+    "Neutrophil extracellular traps",
+    "Thrombus",
+    "Thrombosis",
+    "Platelet",
+    "Fibrin",
+    "Inflammation",
+    "Extracellular",
+    "Platelet activation",
+    "Extracellular matrix",
+    "Immunology",
+    "Innate immune system",
+    "Biology",
+    "Chemistry",
+    "Cell biology",
+    "Immune system",
+    "Medicine",
+    "Internal medicine"
+  ],
+  "citation_count": 2591,
+  "open_access_pdf_url": "https://www.pnas.org/content/pnas/107/36/15880.full.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2045819100.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:04.274829+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2045819100",
+    "concepts": [
+      "Neutrophil extracellular traps",
+      "Thrombus",
+      "Thrombosis",
+      "Platelet",
+      "Fibrin"
+    ],
+    "oa_status": "bronze"
+  }
+}

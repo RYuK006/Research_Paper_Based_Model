@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2783564415",
+  "title": "A brief introduction to mixed effects modelling and multi-model inference in ecology",
+  "abstract": "The use of linear mixed effects models (LMMs) is increasingly common in the analysis of biological data. Whilst LMMs offer a flexible approach to modelling a broad range of data types, ecological data are often complex and require complex model structures, and the fitting and interpretation of such models is not always straightforward. The ability to achieve robust biological inference requires that practitioners know how and when to apply these tools. Here, we provide a general overview of current methods for the application of LMMs to biological data, and highlight the typical pitfalls that can be encountered in the statistical modelling process. We tackle several issues regarding methods of model selection, with particular reference to the use of information theory and multi-model inference in ecology. We offer practical solutions and direct the reader to key references that provide further technical detail for those seeking a deeper understanding. This overview should serve as a widely accessible code of best practice for applying LMMs to complex biological problems and model structures, and in doing so improve the robustness of conclusions drawn from studies investigating ecological and evolutionary questions.",
+  "authors": [
+    "Xavier A. Harrison",
+    "Lynda Donaldson",
+    "María Eugenia Correa-Cano",
+    "Julian Evans",
+    "David N. Fisher",
+    "Cecily E. D. Goodwin",
+    "Beth S. Robinson",
+    "David James Hodgson",
+    "Richard Inger"
+  ],
+  "year": 2018,
+  "doi": "10.7717/peerj.4794",
+  "source": "openalex",
+  "categories": [
+    "Computer science",
+    "Inference",
+    "Robustness (evolution)",
+    "Machine learning",
+    "Model selection",
+    "Data science",
+    "Biological data",
+    "Artificial intelligence",
+    "Ecology",
+    "Management science",
+    "Data mining",
+    "Engineering",
+    "Bioinformatics",
+    "Biology",
+    "Gene",
+    "Biochemistry",
+    "Chemistry"
+  ],
+  "citation_count": 2243,
+  "open_access_pdf_url": "https://doi.org/10.7717/peerj.4794",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2783564415.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:12.577342+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2783564415",
+    "concepts": [
+      "Computer science",
+      "Inference",
+      "Robustness (evolution)",
+      "Machine learning",
+      "Model selection"
+    ],
+    "oa_status": "gold"
+  }
+}

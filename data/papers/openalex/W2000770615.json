@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2000770615",
+  "title": "Gaussian basis sets for accurate calculations on molecular systems in gas and condensed phases",
+  "abstract": "We present a library of Gaussian basis sets that has been specifically optimized to perform accurate molecular calculations based on density functional theory. It targets a wide range of chemical environments, including the gas phase, interfaces, and the condensed phase. These generally contracted basis sets, which include diffuse primitives, are obtained minimizing a linear combination of the total energy and the condition number of the overlap matrix for a set of molecules with respect to the exponents and contraction coefficients of the full basis. Typically, for a given accuracy in the total energy, significantly fewer basis functions are needed in this scheme than in the usual split valence scheme, leading to a speedup for systems where the computational cost is dominated by diagonalization. More importantly, binding energies of hydrogen bonded complexes are of similar quality as the ones obtained with augmented basis sets, i.e., have a small (down to 0.2 kcal/mol) basis set superposition error, and the monomers have dipoles within 0.1 D of the basis set limit. However, contrary to typical augmented basis sets, there are no near linear dependencies in the basis, so that the overlap matrix is always well conditioned, also, in the condensed phase. The basis can therefore be used in first principles molecular dynamics simulations and is well suited for linear scaling calculations.",
+  "authors": [
+    "Joost VandeVondele",
+    "Jürg Hutter"
+  ],
+  "year": 2007,
+  "doi": "10.1063/1.2770708",
+  "source": "openalex",
+  "categories": [
+    "Basis (linear algebra)",
+    "Basis set",
+    "STO-nG basis sets",
+    "Statistical physics",
+    "Gaussian",
+    "Scaling",
+    "Superposition principle",
+    "Basis function",
+    "Linear scale",
+    "Dipole",
+    "Density matrix",
+    "Chemistry",
+    "Computational chemistry",
+    "Quantum mechanics",
+    "Density functional theory",
+    "Physics",
+    "Mathematics",
+    "Quantum",
+    "Linear combination of atomic orbitals",
+    "Geometry",
+    "Geodesy",
+    "Geography"
+  ],
+  "citation_count": 4742,
+  "open_access_pdf_url": "https://aip.scitation.org/doi/pdf/10.1063/1.2770708",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2000770615.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:52.302293+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2000770615",
+    "concepts": [
+      "Basis (linear algebra)",
+      "Basis set",
+      "STO-nG basis sets",
+      "Statistical physics",
+      "Gaussian"
+    ],
+    "oa_status": "bronze"
+  }
+}

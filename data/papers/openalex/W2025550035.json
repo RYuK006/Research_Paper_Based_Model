@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W2025550035",
+  "title": "Breakdown of the Internet under Intentional Attack",
+  "abstract": "We study the tolerance of random networks to intentional attack, whereby a fraction p of the most connected sites is removed. We focus on scale-free networks, having connectivity distribution P(k) approximately k(-alpha), and use percolation theory to study analytically and numerically the critical fraction p(c) needed for the disintegration of the network, as well as the size of the largest connected cluster. We find that even networks with alpha < or = 3, known to be resilient to random removal of sites, are sensitive to intentional attack. We also argue that, near criticality, the average distance between sites in the spanning (largest) cluster scales with its mass, M, as square root of [M], rather than as log (k)M, as expected for random networks away from criticality.",
+  "authors": [
+    "Reuven Cohen C",
+    "Keren Erez",
+    "Daniel ben‐Avraham",
+    "Shlomo Havlin"
+  ],
+  "year": 2001,
+  "doi": "10.1103/physrevlett.86.3682",
+  "source": "openalex",
+  "categories": [
+    "Criticality",
+    "Percolation (cognitive psychology)",
+    "Percolation theory",
+    "Fraction (chemistry)",
+    "Cluster (spacecraft)",
+    "Random graph",
+    "Statistical physics",
+    "Physics",
+    "Focus (optics)",
+    "Combinatorics",
+    "Computer science",
+    "Mathematics",
+    "Topology (electrical circuits)",
+    "Computer network",
+    "Nuclear physics",
+    "Graph",
+    "Optics",
+    "Organic chemistry",
+    "Neuroscience",
+    "Chemistry",
+    "Biology"
+  ],
+  "citation_count": 1455,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0010251",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2025550035.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:48.245748+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2025550035",
+    "concepts": [
+      "Criticality",
+      "Percolation (cognitive psychology)",
+      "Percolation theory",
+      "Fraction (chemistry)",
+      "Cluster (spacecraft)"
+    ],
+    "oa_status": "green"
+  }
+}

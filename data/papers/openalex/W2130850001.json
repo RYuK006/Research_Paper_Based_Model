@@ -1,0 +1,58 @@
+{
+  "id": "openalex:W2130850001",
+  "title": "Mechanism by Which Fatty Acids Inhibit Insulin Activation of Insulin Receptor Substrate-1 (IRS-1)-associated Phosphatidylinositol 3-Kinase Activity in Muscle",
+  "abstract": "Recent studies have demonstrated that fatty acids induce insulin resistance in skeletal muscle by blocking insulin activation of insulin receptor substrate-1 (IRS-1)-associated phosphatidylinositol 3-kinase (PI3-kinase). To examine the mechanism by which fatty acids mediate this effect, rats were infused with either a lipid emulsion (consisting mostly of 18:2 fatty acids) or glycerol. Intracellular C18:2 CoA increased in a time-dependent fashion, reaching an approximately 6-fold elevation by 5 h, whereas there was no change in the concentration of any other fatty acyl-CoAs. Diacylglycerol (DAG) also increased transiently after 3-4 h of lipid infusion. In contrast there was no increase in intracellular ceramide or triglyceride concentrations during the lipid infusion. Increases in intracellular C18:2 CoA and DAG concentration were associated with protein kinase C (PKC)-theta activation and a reduction in both insulin-stimulated IRS-1 tyrosine phosphorylation and IRS-1 associated PI3-kinase activity, which were associated with an increase in IRS-1 Ser(307) phosphorylation. These data support the hypothesis that an increase in plasma fatty acid concentration results in an increase in intracellular fatty acyl-CoA and DAG concentrations, which results in activation of PKC-theta leading to increased IRS-1 Ser(307) phosphorylation. This in turn leads to decreased IRS-1 tyrosine phosphorylation and decreased activation of IRS-1-associated PI3-kinase activity resulting in decreased insulin-stimulated glucose transport activity.",
+  "authors": [
+    "Chunli Yu",
+    "Yan Chen",
+    "Gary W. Cline",
+    "Dongyan Zhang",
+    "Haihong Zong",
+    "Yanlin Wang",
+    "Raynald Bergeron",
+    "Jason K. Kim",
+    "Samuel W. Cushman",
+    "Gregory James Cooney",
+    "Bronwyn A. Atcheson",
+    "Morris F. White",
+    "Edward W. Kraegen",
+    "Gerald I. Shulman"
+  ],
+  "year": 2002,
+  "doi": "10.1074/jbc.m200958200",
+  "source": "openalex",
+  "categories": [
+    "Insulin receptor",
+    "Internal medicine",
+    "Endocrinology",
+    "Diacylglycerol kinase",
+    "IRS1",
+    "Phosphatidylinositol",
+    "Insulin resistance",
+    "Insulin receptor substrate",
+    "Tyrosine phosphorylation",
+    "Insulin",
+    "Protein kinase C",
+    "Phosphorylation",
+    "Biology",
+    "Chemistry",
+    "Biochemistry",
+    "Medicine"
+  ],
+  "citation_count": 1585,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925819313262/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2130850001.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:41.936436+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2130850001",
+    "concepts": [
+      "Insulin receptor",
+      "Internal medicine",
+      "Endocrinology",
+      "Diacylglycerol kinase",
+      "IRS1"
+    ],
+    "oa_status": "hybrid"
+  }
+}

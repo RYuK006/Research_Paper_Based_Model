@@ -1,0 +1,45 @@
+{
+  "id": "openalex:W2128578655",
+  "title": "Bacterial Adhesion: Seen Any Good Biofilms Lately?",
+  "abstract": "The process of surface adhesion and biofilm development is a survival strategy employed by virtually all bacteria and refined over millions of years. This process is designed to anchor microorganisms in a nutritionally advantageous environment and to permit their escape to greener pastures when essential growth factors have been exhausted. Bacterial attachment to a surface can be divided into several distinct phases, including primary and reversible adhesion, secondary and irreversible adhesion, and biofilm formation. Each of these phases is ultimately controlled by the expression of one or more gene products. Ultrastructurally, the mature bacterial biofilm resembles an underwater coral reef containing pyramidal or mushroom-shaped microcolonies of organisms embedded within an extracellular glycocalyx, with channels and cavities to allow the exchange of nutrients and waste. The biofilm protects its inhabitants from predators, dehydration, biocides, and other environmental extremes while regulating population growth and diversity through primitive cell signals. From a physiological standpoint, surface-bound bacteria behave quite differently from their planktonic counterparts. Recognizing that bacteria naturally occur as surface-bound and often polymicrobic communities, the practice of performing antimicrobial susceptibility tests using pure cultures and in a planktonic growth mode should be questioned. That this model does not reflect conditions found in nature might help explain the difficulties encountered in the management and treatment of biomedical implant infections.",
+  "authors": [
+    "W. Michael Dunne"
+  ],
+  "year": 2002,
+  "doi": "10.1128/cmr.15.2.155-166.2002",
+  "source": "openalex",
+  "categories": [
+    "Biofilm",
+    "Bacteria",
+    "Adhesion",
+    "Biology",
+    "Microbiology",
+    "Glycocalyx",
+    "Extracellular polymeric substance",
+    "Population",
+    "Microorganism",
+    "Ecology",
+    "Chemistry",
+    "Cell biology",
+    "Genetics",
+    "Organic chemistry",
+    "Demography",
+    "Sociology"
+  ],
+  "citation_count": 1566,
+  "open_access_pdf_url": "http://europepmc.org/pmc/articles/PMC118072",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2128578655.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:42.003846+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2128578655",
+    "concepts": [
+      "Biofilm",
+      "Bacteria",
+      "Adhesion",
+      "Biology",
+      "Microbiology"
+    ],
+    "oa_status": "green"
+  }
+}

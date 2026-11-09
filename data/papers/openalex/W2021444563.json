@@ -1,0 +1,59 @@
+{
+  "id": "openalex:W2021444563",
+  "title": "The nuclear receptor PXR is a lithocholic acid sensor that protects against liver toxicity",
+  "abstract": "The pregnane X receptor (PXR) is the molecular target for catatoxic steroids such as pregnenolone 16alpha-carbonitrile (PCN), which induce cytochrome P450 3A (CYP3A) expression and protect the body from harmful chemicals. In this study, we demonstrate that PXR is activated by the toxic bile acid lithocholic acid (LCA) and its 3-keto metabolite. Furthermore, we show that PXR regulates the expression of genes involved in the biosynthesis, transport, and metabolism of bile acids including cholesterol 7alpha-hydroxylase (Cyp7a1) and the Na(+)-independent organic anion transporter 2 (Oatp2). Finally, we demonstrate that activation of PXR protects against severe liver damage induced by LCA. Based on these data, we propose that PXR serves as a physiological sensor of LCA, and coordinately regulates gene expression to reduce the concentrations of this toxic bile acid. These findings suggest that PXR agonists may prove useful in the treatment of human cholestatic liver disease.",
+  "authors": [
+    "Jeff L. Staudinger",
+    "Bryan J. Goodwin",
+    "Stacey A. Jones",
+    "Diane Hawkins‐Brown",
+    "Kathleen I. MacKenzie",
+    "Anne M. Latour",
+    "Yaping Liu",
+    "Curtis D. Klaassen",
+    "Kathleen K. Brown",
+    "John F. Reinhard",
+    "Timothy Mark Willson",
+    "Beverly H. Koller",
+    "Steven A. Kliewer"
+  ],
+  "year": 2001,
+  "doi": "10.1073/pnas.051551698",
+  "source": "openalex",
+  "categories": [
+    "Pregnane X receptor",
+    "Lithocholic acid",
+    "Cholesterol 7 alpha-hydroxylase",
+    "Bile acid",
+    "Pregnenolone",
+    "Nuclear receptor",
+    "CYP3A",
+    "Liver X receptor",
+    "Chemistry",
+    "Biochemistry",
+    "Constitutive androstane receptor",
+    "Cytochrome P450",
+    "Steroid",
+    "Biology",
+    "Metabolism",
+    "Gene",
+    "Hormone",
+    "Transcription factor"
+  ],
+  "citation_count": 1401,
+  "open_access_pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/30660",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2021444563.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:52.456327+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2021444563",
+    "concepts": [
+      "Pregnane X receptor",
+      "Lithocholic acid",
+      "Cholesterol 7 alpha-hydroxylase",
+      "Bile acid",
+      "Pregnenolone"
+    ],
+    "oa_status": "green"
+  }
+}

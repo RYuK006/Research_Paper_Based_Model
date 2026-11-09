@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2020072134",
+  "title": "Accurate and Efficient Method for Many-Body van der Waals Interactions",
+  "abstract": "An efficient method is developed for the microscopic description of the frequency-dependent polarizability of finite-gap molecules and solids. This is achieved by combining the Tkatchenko-Scheffler van der Waals (vdW) method [Phys. Rev. Lett. 102, 073005 (2009)] with the self-consistent screening equation of classical electrodynamics. This leads to a seamless description of polarization and depolarization for the polarizability tensor of molecules and solids. The screened long-range many-body vdW energy is obtained from the solution of the Schrödinger equation for a system of coupled oscillators. We show that the screening and the many-body vdW energy play a significant role even for rather small molecules, becoming crucial for an accurate treatment of conformational energies for biomolecules and binding of molecular crystals. The computational cost of the developed theory is negligible compared to the underlying electronic structure calculation.",
+  "authors": [
+    "Alexandre Tkatchenko",
+    "Robert A. DiStasio",
+    "Roberto Car",
+    "Matthias Scheffler"
+  ],
+  "year": 2012,
+  "doi": "10.1103/physrevlett.108.236402",
+  "source": "openalex",
+  "categories": [
+    "van der Waals force",
+    "Polarizability",
+    "Physics",
+    "Molecule",
+    "Polarization (electrochemistry)",
+    "Biomolecule",
+    "Range (aeronautics)",
+    "Tensor (intrinsic definition)",
+    "Quantum mechanics",
+    "Classical mechanics",
+    "Statistical physics",
+    "Materials science",
+    "Chemistry",
+    "Nanotechnology",
+    "Physical chemistry",
+    "Mathematics",
+    "Pure mathematics",
+    "Composite material"
+  ],
+  "citation_count": 1533,
+  "open_access_pdf_url": "http://link.aps.org/pdf/10.1103/PhysRevLett.108.236402",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2020072134.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:45.390829+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2020072134",
+    "concepts": [
+      "van der Waals force",
+      "Polarizability",
+      "Physics",
+      "Molecule",
+      "Polarization (electrochemistry)"
+    ],
+    "oa_status": "hybrid"
+  }
+}

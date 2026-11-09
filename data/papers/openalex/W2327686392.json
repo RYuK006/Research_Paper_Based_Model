@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W2327686392",
+  "title": "Mechanisms of ferroptosis",
+  "abstract": "Ferroptosis is a non-apoptotic form of cell death that can be triggered by small molecules or conditions that inhibit glutathione biosynthesis or the glutathione-dependent antioxidant enzyme glutathione peroxidase 4 (GPX4). This lethal process is defined by the iron-dependent accumulation of lipid reactive oxygen species and depletion of plasma membrane polyunsaturated fatty acids. Cancer cells with high level RAS-RAF-MEK pathway activity or p53 expression may be sensitized to this process. Conversely, a number of small molecule inhibitors of ferroptosis have been identified, including ferrostatin-1 and liproxstatin-1, which can block pathological cell death events in brain, kidney and other tissues. Recent work has identified a number of genes required for ferroptosis, including those involved in lipid and amino acid metabolism. Outstanding questions include the relationship between ferroptosis and other forms of cell death, and whether activation or inhibition of ferroptosis can be exploited to achieve desirable therapeutic ends.",
+  "authors": [
+    "Jennifer Yinuo Cao",
+    "Scott J. Dixon"
+  ],
+  "year": 2016,
+  "doi": "10.1007/s00018-016-2194-1",
+  "source": "openalex",
+  "categories": [
+    "GPX4",
+    "Programmed cell death",
+    "Glutathione",
+    "Reactive oxygen species",
+    "Cell biology",
+    "Biochemistry",
+    "Lipid peroxidation",
+    "Apoptosis",
+    "Chemistry",
+    "Enzyme",
+    "Cancer cell",
+    "Antioxidant",
+    "Biology",
+    "Glutathione peroxidase",
+    "Cancer",
+    "Genetics"
+  ],
+  "citation_count": 1527,
+  "open_access_pdf_url": "https://link.springer.com/content/pdf/10.1007%2Fs00018-016-2194-1.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2327686392.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:45.440529+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2327686392",
+    "concepts": [
+      "GPX4",
+      "Programmed cell death",
+      "Glutathione",
+      "Reactive oxygen species",
+      "Cell biology"
+    ],
+    "oa_status": "hybrid"
+  }
+}

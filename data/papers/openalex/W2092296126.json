@@ -1,0 +1,45 @@
+{
+  "id": "openalex:W2092296126",
+  "title": "Regulation of Renal Organic Anion Transporter 3 (SLC22A8) Expression and Function by the Integrity of Lipid Raft Domains and their Associated Cytoskeleton",
+  "abstract": "BACKGROUND/AIMS: In humans and rodents, organic anion transporter 3 (Oat3) is highly expressed on the basolateral membrane of renal proximal tubules and mediates the secretion of exogenous and endogenous anions. Regulation of Oat3 expression and function has been observed in both expression system and intact renal epithelia. However, information on the local membrane environment of Oat3 and its role is limited. Lipid raft domains (LRD; cholesterol-rich domains of the plasma membrane) play important roles in membrane protein expression, function and targeting. In the present study, we have examined the role of LRD-rich membranes and their associated cytoskeletal proteins on Oat3 expression and function. METHODS: LRD-rich membranes were isolated from rat renal cortical tissues and from HEK-293 cells stably expressing human OAT3 (hOAT3) by differential centrifugation with triton X-100 extraction. Western blots were subsequently analyzed to determine protein expression. In addition, the effect of disruption of LRD-rich membranes was examined on functional Oat3 mediated estrone sulfate (ES) transport in rat renal cortical slices. Cytoskeleton disruptors were investigated in both hOAT3 expressing HEK-293 cells and rat renal cortical slices. RESULTS: Lipid-enriched membranes from rat renal cortical tissues and hOAT3-expressing HEK-293 cells showed co-expression of rOat3/hOAT3 and several lipid raft-associated proteins, specifically caveolin 1 (Cav1), β-actin and myosin. Moreover, immunohistochemistry in hOAT3-expressing HEK-293 cells demonstrated that these LRD-rich proteins co-localized with hOAT3. Potassium iodide (KI), an inhibitor of protein-cytoskeletal interaction, effectively detached cytoskeleton proteins and hOAT3 from plasma membrane, leading to redistribution of hOAT3 into non-LRD-rich compartments. In addition, inhibition of cytoskeleton integrity and membrane trafficking processes significantly reduced ES uptake mediated by both human and rat Oat3. Cholesterol depletion by methyl-β-cyclodextrin (MβCD) also led to a dose dependent reduction Oat3 expression and ES transport by rat renal cortical slices. Moreover, the up-regulation of rOat3-mediated transport seen following insulin stimulation was completely prevented by MβCD. CONCLUSION: We have demonstrated that renal Oat3 resides in LRD-rich membranes in proximity to cytoskeletal and signaling proteins. Disruption of LRD-rich membranes by cholesterol-binding agents or protein trafficking inhibitors altered Oat3 expression and regulation. These findings indicate that the integrity of LRD-rich membranes and their associated proteins are essential for Oat3 expression and function.",
+  "authors": [
+    "Chutima Srimaroeng",
+    "Jennifer Perry Cecile",
+    "Ramsey Walden",
+    "John B. Pritchard"
+  ],
+  "year": 2013,
+  "doi": "10.1159/000350077",
+  "source": "openalex",
+  "categories": [
+    "Organic anion transporter 1",
+    "Cell biology",
+    "HEK 293 cells",
+    "Lipid raft",
+    "Cytoskeleton",
+    "Chemistry",
+    "Biology",
+    "Biochemistry",
+    "Transporter",
+    "Cell",
+    "Signal transduction",
+    "Receptor",
+    "Gene"
+  ],
+  "citation_count": 2999,
+  "open_access_pdf_url": "https://www.karger.com/Article/Pdf/350077",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2092296126.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:01.804247+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2092296126",
+    "concepts": [
+      "Organic anion transporter 1",
+      "Cell biology",
+      "HEK 293 cells",
+      "Lipid raft",
+      "Cytoskeleton"
+    ],
+    "oa_status": "gold"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W1775183869",
+  "title": "Role of Structural and Electronic Properties of Pt and Pt Alloys on Electrocatalysis of Oxygen Reduction: An In Situ XANES and EXAFS Investigation",
+  "abstract": "The electrocatalysis of the oxygen reduction reaction (ORR) on five binary Pt alloys ( , , , , and ) supported on high surface area carbon in a proton exchange membrane fuel cell was investigated. All the alloy electrocatalysts exhibited a high degree of crystallinity with the primary phase of the type ( structure with fcc type lattice) and a secondary phase (only minor contribution from this phase) being of the type ( structure with tetragonal lattice) as evidenced from x‐ray powder diffraction (XRD) analysis. The electrode kinetic studies on the Pt alloys at 95°C and 5 atm pressure showed a two‐ to threefold increase in the exchange current densities and the current density at 900 mV as well as a decrease in the overvoltage at 10 mA cm −2 relative to Pt/C electrocatalyst. The alloy exhibited the best performance. In situ EXAFS and XANES analysis at potentials in the double‐layer region [0.54 V vs. reversible hydrogen electrode (RHE)] revealed ( i ) all the alloys possess higher Pt d ‐band vacancies per atom (with the exception of alloy) relative to Pt/C electrocatalyst and ( ii ) contractions in the Pt‐Pt bond distances which confirmed the results from ex situ XRD analysis. A potential excursion to 0.84 V vs. RHE showed that, in contrast to the Pt alloys, the Pt/C electrocatalyst exhibits a significant increase in the Pt d ‐band vacancies per atom. This increase, in Pt/C has been rationalized as being due to adsorption of OH species from the electrolyte following a Temkin isotherm behavior, which does not occur on the Pt alloys. Correlation of the electronic (Pt d ‐band vacancies) and geometric (Pt‐Pt bond distance) with the electrochemical performance characteristics exhibits a volcano type behavior with the alloy being at the top of the curve. The enhanced electrocatalysis by the alloys therefore can be rationalized on the basis of the interplay between the electronic and geometric factors on one hand and their effect on the chemisorption behavior of OH species from the electrolyte.",
+  "authors": [
+    "Sanjeev Mukerjee",
+    "Supramaniam Srinivasan",
+    "Manuel P. Soriaga",
+    "J. McBreen"
+  ],
+  "year": 1995,
+  "doi": "10.1149/1.2048590",
+  "source": "openalex",
+  "categories": [
+    "Electrocatalyst",
+    "Extended X-ray absorption fine structure",
+    "XANES",
+    "Alloy",
+    "Materials science",
+    "Reversible hydrogen electrode",
+    "Chemistry",
+    "Analytical Chemistry (journal)",
+    "Electrolyte",
+    "Electrode",
+    "Physical chemistry",
+    "Electrochemistry",
+    "Absorption spectroscopy",
+    "Reference electrode",
+    "Metallurgy",
+    "Physics",
+    "Chromatography",
+    "Spectroscopy",
+    "Quantum mechanics"
+  ],
+  "citation_count": 1163,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1149/1.2048590/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1775183869.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:12.259633+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1775183869",
+    "concepts": [
+      "Electrocatalyst",
+      "Extended X-ray absorption fine structure",
+      "XANES",
+      "Alloy",
+      "Materials science"
+    ],
+    "oa_status": "bronze"
+  }
+}

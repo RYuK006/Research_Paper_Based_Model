@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2102683312",
+  "title": "The c-Jun NH2-terminal Kinase Promotes Insulin Resistance during Association with Insulin Receptor Substrate-1 and Phosphorylation of Ser307",
+  "abstract": "Tumor necrosis factor alpha (TNFalpha) inhibits insulin action, in part, through serine phosphorylation of IRS proteins; however, the phosphorylation sites that mediate the inhibition are unknown. TNFalpha promotes multipotential signal transduction cascades, including the activation of the Jun NH(2)-terminal kinase (JNK). Endogenous JNK associates with IRS-1 in Chinese hamster ovary cells. Anisomycin, a strong activator of JNK in these cells, stimulates the activity of JNK bound to IRS-1 and inhibits the insulin-stimulated tyrosine phosphorylation of IRS-1. Serine 307 is a major site of JNK phosphorylation in IRS-1. Mutation of serine 307 to alanine eliminates phosphorylation of IRS-1 by JNK and abrogates the inhibitory effect of TNFalpha on insulin-stimulated tyrosine phosphorylation of IRS-1. These results suggest that phosphorylation of serine 307 might mediate, at least partially, the inhibitory effect of proinflammatory cytokines like TNFalpha on IRS-1 function.",
+  "authors": [
+    "Vincent Aguirre",
+    "Tohru Uchida",
+    "Lynne Yenush",
+    "Roger J. Davis",
+    "Morris F. White"
+  ],
+  "year": 2000,
+  "doi": "10.1074/jbc.275.12.9047",
+  "source": "openalex",
+  "categories": [
+    "Phosphorylation",
+    "Tyrosine phosphorylation",
+    "Insulin receptor",
+    "Insulin receptor substrate",
+    "Phosphorylation cascade",
+    "IRS1",
+    "Serine",
+    "Biology",
+    "Cell biology",
+    "Chemistry",
+    "Internal medicine",
+    "Insulin",
+    "Endocrinology",
+    "Insulin resistance",
+    "Protein phosphorylation",
+    "Protein kinase A",
+    "Medicine"
+  ],
+  "citation_count": 1517,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925818302217/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2102683312.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:45.495477+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2102683312",
+    "concepts": [
+      "Phosphorylation",
+      "Tyrosine phosphorylation",
+      "Insulin receptor",
+      "Insulin receptor substrate",
+      "Phosphorylation cascade"
+    ],
+    "oa_status": "hybrid"
+  }
+}

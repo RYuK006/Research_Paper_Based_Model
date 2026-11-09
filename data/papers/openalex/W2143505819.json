@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2143505819",
+  "title": "Assessing mitochondrial dysfunction in cells",
+  "abstract": "Assessing mitochondrial dysfunction requires definition of the dysfunction to be investigated. Usually, it is the ability of the mitochondria to make ATP appropriately in response to energy demands. Where other functions are of interest, tailored solutions are required. Dysfunction can be assessed in isolated mitochondria, in cells or in vivo, with different balances between precise experimental control and physiological relevance. There are many methods to measure mitochondrial function and dysfunction in these systems. Generally, measurements of fluxes give more information about the ability to make ATP than do measurements of intermediates and potentials. For isolated mitochondria, the best assay is mitochondrial respiratory control: the increase in respiration rate in response to ADP. For intact cells, the best assay is the equivalent measurement of cell respiratory control, which reports the rate of ATP production, the proton leak rate, the coupling efficiency, the maximum respiratory rate, the respiratory control ratio and the spare respiratory capacity. Measurements of membrane potential provide useful additional information. Measurement of both respiration and potential during appropriate titrations enables the identification of the primary sites of effectors and the distribution of control, allowing deeper quantitative analyses. Many other measurements in current use can be more problematic, as discussed in the present review.",
+  "authors": [
+    "Martin D. Brand",
+    "David G. Nicholls"
+  ],
+  "year": 2011,
+  "doi": "10.1042/bj20110162",
+  "source": "openalex",
+  "categories": [
+    "Mitochondrion",
+    "Respiratory chain",
+    "ATP synthase",
+    "Respiration",
+    "Biology",
+    "Respiratory rate",
+    "Respiratory system",
+    "Cellular respiration",
+    "Membrane potential",
+    "Coupling (piping)",
+    "Cell biology",
+    "Biophysics",
+    "Electron transport chain",
+    "Biochemistry",
+    "Chemistry",
+    "Anatomy",
+    "Materials science",
+    "Endocrinology",
+    "Heart rate",
+    "Blood pressure",
+    "Enzyme",
+    "Metallurgy"
+  ],
+  "citation_count": 2505,
+  "open_access_pdf_url": "https://portlandpress.com/biochemj/article-pdf/435/2/297/666762/bj4350297.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2143505819.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:04.378099+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2143505819",
+    "concepts": [
+      "Mitochondrion",
+      "Respiratory chain",
+      "ATP synthase",
+      "Respiration",
+      "Biology"
+    ],
+    "oa_status": "hybrid"
+  }
+}

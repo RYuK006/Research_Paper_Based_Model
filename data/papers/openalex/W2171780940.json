@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W2171780940",
+  "title": "Lipid A Modification Systems in Gram-Negative Bacteria",
+  "abstract": "The lipid A moiety of lipopolysaccharide forms the outer monolayer of the outer membrane of most gram-negative bacteria. Escherichia coli lipid A is synthesized on the cytoplasmic surface of the inner membrane by a conserved pathway of nine constitutive enzymes. Following attachment of the core oligosaccharide, nascent core-lipid A is flipped to the outer surface of the inner membrane by the ABC transporter MsbA, where the O-antigen polymer is attached. Diverse covalent modifications of the lipid A moiety may occur during its transit from the outer surface of the inner membrane to the outer membrane. Lipid A modification enzymes are reporters for lipopolysaccharide trafficking within the bacterial envelope. Modification systems are variable and often regulated by environmental conditions. Although not required for growth, the modification enzymes modulate virulence of some gram-negative pathogens. Heterologous expression of lipid A modification enzymes may enable the development of new vaccines.",
+  "authors": [
+    "Christian R.H. Raetz",
+    "C. Michael Reynolds",
+    "M. Stephen Trent",
+    "Russell E. Bishop"
+  ],
+  "year": 2007,
+  "doi": "10.1146/annurev.biochem.76.010307.145803",
+  "source": "openalex",
+  "categories": [
+    "Lipid A",
+    "Bacterial outer membrane",
+    "Inner membrane",
+    "Lipopolysaccharide",
+    "Biochemistry",
+    "Lipid II",
+    "Gram-negative bacteria",
+    "Lipid bilayer",
+    "Escherichia coli",
+    "Chemistry",
+    "Periplasmic space",
+    "Cell envelope",
+    "Enzyme",
+    "Bacteria",
+    "Membrane fluidity",
+    "Biology",
+    "Membrane",
+    "Biosynthesis",
+    "Gene",
+    "Genetics",
+    "Endocrinology"
+  ],
+  "citation_count": 1371,
+  "open_access_pdf_url": "https://www.annualreviews.org/doi/pdf/10.1146/annurev.biochem.76.010307.145803",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2171780940.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:52.742818+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2171780940",
+    "concepts": [
+      "Lipid A",
+      "Bacterial outer membrane",
+      "Inner membrane",
+      "Lipopolysaccharide",
+      "Biochemistry"
+    ],
+    "oa_status": "bronze"
+  }
+}

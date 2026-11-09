@@ -1,0 +1,45 @@
+{
+  "id": "openalex:W2086445382",
+  "title": "Intrinsic Atomic Orbitals: An Unbiased Bridge between Quantum Theory and Chemical Concepts",
+  "abstract": "Modern quantum chemistry can make quantitative predictions on an immense array of chemical systems. However, the interpretation of those predictions is often complicated by the complex wave function expansions used. Here we show that an exceptionally simple algebraic construction allows for defining atomic core and valence orbitals, polarized by the molecular environment, which can exactly represent self-consistent field wave functions. This construction provides an unbiased and direct connection between quantum chemistry and empirical chemical concepts, and can be used, for example, to calculate the nature of bonding in molecules, in chemical terms, from first principles. In particular, we find consistency with electronegativities (χ), C 1s core-level shifts, resonance substituent parameters (σR), Lewis structures, and oxidation states of transition-metal complexes.",
+  "authors": [
+    "Gerald Knizia"
+  ],
+  "year": 2013,
+  "doi": "10.1021/ct400687b",
+  "source": "openalex",
+  "categories": [
+    "Valence bond theory",
+    "Atomic orbital",
+    "Molecular orbital theory",
+    "Wave function",
+    "Quantum chemical",
+    "Quantum chemistry",
+    "Computer science",
+    "Molecular orbital",
+    "Quantum mechanics",
+    "Physics",
+    "Molecule",
+    "Chemical physics",
+    "Computational chemistry",
+    "Chemistry",
+    "Electron",
+    "Supramolecular chemistry"
+  ],
+  "citation_count": 1210,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1306.6884",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2086445382.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:08.196915+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2086445382",
+    "concepts": [
+      "Valence bond theory",
+      "Atomic orbital",
+      "Molecular orbital theory",
+      "Wave function",
+      "Quantum chemical"
+    ],
+    "oa_status": "green"
+  }
+}

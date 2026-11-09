@@ -1,0 +1,44 @@
+{
+  "id": "openalex:W2068427129",
+  "title": "The Tumor Suppressor, PTEN/MMAC1, Dephosphorylates the Lipid Second Messenger, Phosphatidylinositol 3,4,5-Trisphosphate",
+  "abstract": "Phosphatidylinositol 3,4,5-trisphosphate (PtdIns(3,4,5)P3) is a key molecule involved in cell growth signaling. We demonstrated that overexpression of PTEN, a putative tumor suppressor, reduced insulin-induced PtdIns(3,4,5)P3 production in human 293 cells without effecting insulin-induced phosphoinositide 3-kinase activation. Further, transfection of the catalytically inactive mutant of PTEN (C124S) caused PtdIns(3,4,5)P3 accumulation in the absence of insulin stimulation. Purified recombinant PTEN catalyzed dephosphorylation of PtdIns(3,4,5)P3, specifically at position 3 on the inositol ring. PTEN also exhibited 3-phosphatase activity toward inositol 1,3,4,5-tetrakisphosphate. Our results raise the possibility that PTEN acts in vivo as a phosphoinositide 3-phosphatase by regulating PtdIns(3,4,5)P3 levels. As expected, the C124S mutant of PTEN was incapable of catalyzing dephosphorylation of PtdIns(3,4,5)P3 consistent with the mechanism observed in protein-tyrosine phosphatase-catalyzed reactions.",
+  "authors": [
+    "Tomohiko Maehama",
+    "Jack E. Dixon"
+  ],
+  "year": 1998,
+  "doi": "10.1074/jbc.273.22.13375",
+  "source": "openalex",
+  "categories": [
+    "Phosphatidylinositol",
+    "Suppressor",
+    "PTEN",
+    "Second messenger system",
+    "Chemistry",
+    "Inositol",
+    "Cell biology",
+    "Cancer research",
+    "Signal transduction",
+    "Biology",
+    "PI3K/AKT/mTOR pathway",
+    "Biochemistry",
+    "Receptor",
+    "Gene"
+  ],
+  "citation_count": 3125,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925819577663/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2068427129.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:57.865030+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2068427129",
+    "concepts": [
+      "Phosphatidylinositol",
+      "Suppressor",
+      "PTEN",
+      "Second messenger system",
+      "Chemistry"
+    ],
+    "oa_status": "hybrid"
+  }
+}

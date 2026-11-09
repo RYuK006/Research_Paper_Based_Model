@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W2147818114",
+  "title": "Anaerobic Oxidation of Methane: Progress with an Unknown Process",
+  "abstract": "Methane is the most abundant hydrocarbon in the atmosphere, and it is an important greenhouse gas, which has so far contributed an estimated 20% of postindustrial global warming. A great deal of biogeochemical research has focused on the causes and effects of the variation in global fluxes of methane throughout earth's history, but the underlying microbial processes and their key agents remain poorly understood. This is a disturbing knowledge gap because 85% of the annual global methane production and about 60% of its consumption are based on microbial processes. Only three key functional groups of microorganisms of limited diversity regulate the fluxes of methane on earth, namely the aerobic methanotrophic bacteria, the methanogenic archaea, and their close relatives, the anaerobic methanotrophic archaea (ANME). The ANME represent special lines of descent within the Euryarchaeota and appear to gain energy exclusively from the anaerobic oxidation of methane (AOM), with sulfate as the final electron acceptor according to the net reaction: CH(4) + SO(42-) ---> HCO(3-) + HS(-) + H(2)O. This review summarizes what is known and unknown about AOM on earth and its key catalysts, the ANME clades and their bacterial partners.",
+  "authors": [
+    "Katrin Knittel",
+    "Antje Boëtius"
+  ],
+  "year": 2009,
+  "doi": "10.1146/annurev.micro.61.080706.093130",
+  "source": "openalex",
+  "categories": [
+    "Archaea",
+    "Methane",
+    "Anaerobic oxidation of methane",
+    "Euryarchaeota",
+    "Atmospheric methane",
+    "Biogeochemical cycle",
+    "Methanotroph",
+    "Anaerobic respiration",
+    "Environmental chemistry",
+    "Microorganism",
+    "Environmental science",
+    "Bacteria",
+    "Chemistry",
+    "Ecology",
+    "Biology",
+    "Genetics"
+  ],
+  "citation_count": 1822,
+  "open_access_pdf_url": "https://hdl.handle.net/21.11116/0000-0007-7C42-4",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2147818114.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:22.343381+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2147818114",
+    "concepts": [
+      "Archaea",
+      "Methane",
+      "Anaerobic oxidation of methane",
+      "Euryarchaeota",
+      "Atmospheric methane"
+    ],
+    "oa_status": "green"
+  }
+}

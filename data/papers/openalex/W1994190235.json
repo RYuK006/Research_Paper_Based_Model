@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W1994190235",
+  "title": "Resveratrol Reduces the Proinflammatory Effects and Lipopolysaccharide- Induced Expression of HMGB1 and TLR4 in RAW264.7 Cells",
+  "abstract": "BACKGROUND: Resveratrol (Res) is a polyphenol anti-inflammatory agent. We have studied the link between the anti-inflammatory effects of Res and the high mobility group box 1(HMGB1) signaling pathway. METHODS: Murine macrophage-like RAW264.7 cells (RAW264.7 cells) were either untreated (control) or treated with Res, LPS, or LPS + Res. Levels of IL-6, NO, and TNF-α were measured by ELISA and colorimetric assays. Expression of HMGB1 was detected by qRT-PCR, western blot, and immunofluorescence assays. Protein and mRNA expression levels of TLR4 were also examined. RESULTS: Res significantly reduced the levels of IL-6, NO, and TNF-α in RAW264.7 cells exposed to LPS. Expression levels of HMGB1 (mRNA and protein) and of TLR4 in the LPS + Res-treated cells were lower than in cells treated with LPS alone. CONCLUSIONS: Res can block the inflammatory effects induced by LPS in RAW264.7 cells. Down-regulation of HMGB expression may be one of the mechanisms of action of Res. Res may also influence TLR4 expression in the HMGB1-TLR4 signaling pathway.",
+  "authors": [
+    "Ying Yang",
+    "Shuping Li",
+    "Qiao Yang",
+    "Yu Shi",
+    "Min Zheng",
+    "Yanning Liu",
+    "Feng Chen",
+    "Guangzhong Song",
+    "Hangdi Xu",
+    "Tianhong Wan",
+    "Jiliang He",
+    "Zhi Chen"
+  ],
+  "year": 2014,
+  "doi": "10.1159/000358696",
+  "source": "openalex",
+  "categories": [
+    "HMGB1",
+    "Proinflammatory cytokine",
+    "TLR4",
+    "Endogeny",
+    "Inflammation",
+    "Hemopexin",
+    "Lipopolysaccharide",
+    "Chemistry",
+    "Hemoglobin",
+    "Extracellular",
+    "Heme",
+    "Cell biology",
+    "Biochemistry",
+    "Immunology",
+    "Biology",
+    "Enzyme"
+  ],
+  "citation_count": 3263,
+  "open_access_pdf_url": "https://karger.com/cpb/article-pdf/33/5/1283/2427998/000358696.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1994190235.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:57.803464+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1994190235",
+    "concepts": [
+      "HMGB1",
+      "Proinflammatory cytokine",
+      "TLR4",
+      "Endogeny",
+      "Inflammation"
+    ],
+    "oa_status": "gold"
+  }
+}

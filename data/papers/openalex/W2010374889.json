@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2010374889",
+  "title": "Structure-Function Studies of the Adipocyte-secreted Hormone Acrp30/Adiponectin",
+  "abstract": "Acrp30/adiponectin is an adipocyte-specific secretory protein that has recently been implicated as a mediator of systemic insulin sensitivity with liver and muscle as target organs. Acrp30 is found as two forms in serum, as a lower molecular weight trimer-dimer and a high molecular weight complex. Little is know about the regulation and significance of these Acrp30 complexes in serum and about the events that lead to the generation of the bioactive ligand. Here, we show that there is a profound sexual dimorphism of Acrp30 levels and complex distribution in serum. Female mice display significantly higher levels of the high molecular weight complex in serum than males. In both females and males, levels of the high molecular weight complex are significantly reduced in response to a systemic increase of insulin. The ratio of the two complexes is restored upon normalization of glucose levels. Structurally, we show that oligomer formation of Acrp30 critically depends on disulfide bond formation mediated by Cys-39. Mutation of Cys-39 results in trimers that are subject to proteolytic cleavage in the collagenous domain. Surprisingly, Acrp30(C39S) or wild-type Acrp30 treated with dithiothreitol are significantly more bioactive than the higher order oligomeric forms of the protein with respect to reduction of serum glucose levels. Furthermore, treatment of primary hepatocytes with trimeric and higher order forms of Acrp30 confirms that the increased bioactivity seen in vivo is reflected in an augmented potency to reduce glucose output in the presence of gluconeogenic stimuli. Combined, these results shed new light on the regulation of this complex protein and suggest a new model for in vivo activation of the protein, implicating a serum reductase activity.",
+  "authors": [
+    "Utpal B. Pajvani",
+    "Xueliang Du",
+    "Terry P. Combs",
+    "Anders Hayden Berg",
+    "Michael W. Rajala",
+    "Therese Schulthess",
+    "Jürgen Engel",
+    "Michael Brownlee",
+    "Philipp E. Scherer"
+  ],
+  "year": 2003,
+  "doi": "10.1074/jbc.m207198200",
+  "source": "openalex",
+  "categories": [
+    "Adiponectin",
+    "Adipocyte",
+    "Hormone",
+    "Chemistry",
+    "Function (biology)",
+    "Internal medicine",
+    "Endocrinology",
+    "Biology",
+    "Biochemistry",
+    "Cell biology",
+    "Adipose tissue",
+    "Medicine",
+    "Insulin",
+    "Insulin resistance"
+  ],
+  "citation_count": 1096,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925819712769/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2010374889.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:24.286624+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2010374889",
+    "concepts": [
+      "Adiponectin",
+      "Adipocyte",
+      "Hormone",
+      "Chemistry",
+      "Function (biology)"
+    ],
+    "oa_status": "hybrid"
+  }
+}

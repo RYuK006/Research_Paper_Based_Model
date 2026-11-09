@@ -1,0 +1,59 @@
+{
+  "id": "openalex:W2603766970",
+  "title": "The CAMELS data set: catchment attributes and meteorology for large-sample studies",
+  "abstract": "Abstract. We present a new data set of attributes for 671 catchments in the contiguous United States (CONUS) minimally impacted by human activities. This complements the daily time series of meteorological forcing and streamflow provided by Newman et al. (2015b). To produce this extension, we synthesized diverse and complementary data sets to describe six main classes of attributes at the catchment scale: topography, climate, streamflow, land cover, soil, and geology. The spatial variations among basins over the CONUS are discussed and compared using a series of maps. The large number of catchments, combined with the diversity of the attributes we extracted, makes this new data set well suited for large-sample studies and comparative hydrology. In comparison to the similar Model Parameter Estimation Experiment (MOPEX) data set, this data set relies on more recent data, it covers a wider range of attributes, and its catchments are more evenly distributed across the CONUS. This study also involves assessments of the limitations of the source data sets used to compute catchment attributes, as well as detailed descriptions of how the attributes were computed. The hydrometeorological time series provided by Newman et al. (2015b, https://doi.org/10.5065/D6MW2F4D) together with the catchment attributes introduced in this paper (https://doi.org/10.5065/D6G73C3Q) constitute the freely available CAMELS data set, which stands for Catchment Attributes and MEteorology for Large-sample Studies.",
+  "authors": [
+    "Nans Addor",
+    "Andrew J. Newman",
+    "Naoki Mizukami",
+    "Martyn Clark"
+  ],
+  "year": 2017,
+  "doi": "10.5194/hess-21-5293-2017",
+  "source": "openalex",
+  "categories": [
+    "Hydrometeorology",
+    "Streamflow",
+    "Sample (material)",
+    "Drainage basin",
+    "Forcing (mathematics)",
+    "Data set",
+    "Land cover",
+    "Hydrology (agriculture)",
+    "Environmental science",
+    "Catchment hydrology",
+    "Set (abstract data type)",
+    "Meteorology",
+    "Geology",
+    "Geography",
+    "Land use",
+    "Climatology",
+    "Computer science",
+    "Cartography",
+    "Ecology",
+    "Precipitation",
+    "Statistics",
+    "Mathematics",
+    "Geotechnical engineering",
+    "Programming language",
+    "Chromatography",
+    "Biology",
+    "Chemistry"
+  ],
+  "citation_count": 1162,
+  "open_access_pdf_url": "https://hess.copernicus.org/articles/21/5293/2017/hess-21-5293-2017.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2603766970.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:14.443552+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2603766970",
+    "concepts": [
+      "Hydrometeorology",
+      "Streamflow",
+      "Sample (material)",
+      "Drainage basin",
+      "Forcing (mathematics)"
+    ],
+    "oa_status": "gold"
+  }
+}

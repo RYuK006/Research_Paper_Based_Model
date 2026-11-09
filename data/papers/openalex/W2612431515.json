@@ -1,0 +1,58 @@
+{
+  "id": "openalex:W2612431515",
+  "title": "Interferon Receptor Signaling Pathways Regulating PD-L1 and PD-L2 Expression",
+  "abstract": "PD-L1 and PD-L2 are ligands for the PD-1 immune inhibiting checkpoint that can be induced in tumors by interferon exposure, leading to immune evasion. This process is important for immunotherapy based on PD-1 blockade. We examined the specific molecules involved in interferon-induced signaling that regulates PD-L1 and PD-L2 expression in melanoma cells. These studies revealed that the interferon-gamma-JAK1/JAK2-STAT1/STAT2/STAT3-IRF1 axis primarily regulates PD-L1 expression, with IRF1 binding to its promoter. PD-L2 responded equally to interferon beta and gamma and is regulated through both IRF1 and STAT3, which bind to the PD-L2 promoter. Analysis of biopsy specimens from patients with melanoma confirmed interferon signature enrichment and upregulation of gene targets for STAT1/STAT2/STAT3 and IRF1 in anti-PD-1-responding tumors. Therefore, these studies map the signaling pathway of interferon-gamma-inducible PD-1 ligand expression.",
+  "authors": [
+    "Ángel García-Díaz",
+    "Daniel Sanghoon Shin",
+    "Blanca Homet Moreno",
+    "Justin D. Saco",
+    "Helena Escuin-Ordinas",
+    "Gabriel Abril Rodriguez",
+    "Jesse Meir Zaretsky",
+    "Lu Sun",
+    "Willy Hugo",
+    "Xiaoyan Wang",
+    "Giulia Parisi",
+    "Cristina Puig-Saus",
+    "Davis Yuri Torrejon",
+    "Thomas G. Graeber",
+    "Begonya Comin-Anduix",
+    "Siwen Hu‐Lieskovan",
+    "Robert D. Damoiseaux",
+    "Roger S. Lo",
+    "Antoni Ribas"
+  ],
+  "year": 2017,
+  "doi": "10.1016/j.celrep.2017.04.031",
+  "source": "openalex",
+  "categories": [
+    "Signal transduction",
+    "Interferon",
+    "Cell biology",
+    "Receptor",
+    "Chemistry",
+    "PD-L1",
+    "Biology",
+    "Immune system",
+    "Biochemistry",
+    "Immunology",
+    "Immunotherapy"
+  ],
+  "citation_count": 1980,
+  "open_access_pdf_url": "http://www.cell.com/article/S2211124717305259/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2612431515.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:17.761945+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2612431515",
+    "concepts": [
+      "Signal transduction",
+      "Interferon",
+      "Cell biology",
+      "Receptor",
+      "Chemistry"
+    ],
+    "oa_status": "gold"
+  }
+}

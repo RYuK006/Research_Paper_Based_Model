@@ -1,0 +1,59 @@
+{
+  "id": "openalex:W4390874575",
+  "title": "Segment Anything",
+  "abstract": "We introduce the Segment Anything (SA) project: a new task, model, and dataset for image segmentation. Using our efficient model in a data collection loop, we built the largest segmentation dataset to date (by far), with over 1 billion masks on 11M licensed and privacy respecting images. The model is designed and trained to be promptable, so it can transfer zero-shot to new image distributions and tasks. We evaluate its capabilities on numerous tasks and find that its zero-shot performance is impressive – often competitive with or even superior to prior fully supervised results. We are releasing the Segment Anything Model (SAM) and corresponding dataset (SA-1B) of 1B masks and 11M images at segment-anything.com to foster research into foundation models for computer vision. We recommend reading the full paper at: arxiv.org/abs/2304.02643.",
+  "authors": [
+    "Alexander Kirillov",
+    "Eric Mintun",
+    "Nikhila Ravi",
+    "Hanzi Mao",
+    "Chloe Rolland",
+    "Laura Gustafson",
+    "Tete Xiao",
+    "Spencer Whitehead",
+    "Alexander C. Berg",
+    "Wan‐Yen Lo",
+    "Piotr Dollár",
+    "Ross Girshick"
+  ],
+  "year": 2023,
+  "doi": "10.1109/iccv51070.2023.00371",
+  "source": "openalex",
+  "categories": [
+    "Computer science",
+    "Segmentation",
+    "Task (project management)",
+    "Artificial intelligence",
+    "Shot (pellet)",
+    "Image (mathematics)",
+    "Image segmentation",
+    "Computer vision",
+    "Reading (process)",
+    "Zero (linguistics)",
+    "Machine learning",
+    "Management",
+    "Chemistry",
+    "Linguistics",
+    "Economics",
+    "Law",
+    "Political science",
+    "Philosophy",
+    "Organic chemistry"
+  ],
+  "citation_count": 16385,
+  "open_access_pdf_url": "https://arxiv.org/pdf/2304.02643",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W4390874575.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:49.816980+00:00",
+  "raw_metadata": {
+    "openalex_id": "W4390874575",
+    "concepts": [
+      "Computer science",
+      "Segmentation",
+      "Task (project management)",
+      "Artificial intelligence",
+      "Shot (pellet)"
+    ],
+    "oa_status": "green"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "openalex:W1994025158",
+  "title": "Glutathione catalysis and the reaction mechanisms of glutathione-dependent enzymes",
+  "abstract": "BACKGROUND: Glutathione-dependent catalysis is a metabolic adaptation to chemical challenges encountered by all life forms. In the course of evolution, nature optimized numerous mechanisms to use glutathione as the most versatile nucleophile for the conversion of a plethora of sulfur-, oxygen- or carbon-containing electrophilic substances. SCOPE OF REVIEW: This comprehensive review summarizes fundamental principles of glutathione catalysis and compares the structures and mechanisms of glutathione-dependent enzymes, including glutathione reductase, glutaredoxins, glutathione peroxidases, peroxiredoxins, glyoxalases 1 and 2, glutathione transferases and MAPEG. Moreover, open mechanistic questions, evolutionary aspects and the physiological relevance of glutathione catalysis are discussed for each enzyme family. MAJOR CONCLUSIONS: It is surprising how little is known about many glutathione-dependent enzymes, how often reaction geometries and acid-base catalysts are neglected, and how many mechanistic puzzles remain unsolved despite almost a century of research. On the one hand, several enzyme families with non-related protein folds recognize the glutathione moiety of their substrates. On the other hand, the thioredoxin fold is often used for glutathione catalysis. Ancient as well as recent structural changes of this fold did not only significantly alter the reaction mechanism, but also resulted in completely different protein functions. GENERAL SIGNIFICANCE: Glutathione-dependent enzymes are excellent study objects for structure-function relationships and molecular evolution. Notably, in times of systems biology, the outcome of models on glutathione metabolism and redox regulation is more than questionable as long as fundamental enzyme properties are neither studied nor understood. Furthermore, several of the presented mechanisms could have implications for drug development. This article is part of a Special Issue entitled Cellular functions of glutathione.",
+  "authors": [
+    "Marcel Deponte"
+  ],
+  "year": 2012,
+  "doi": "10.1016/j.bbagen.2012.09.018",
+  "source": "openalex",
+  "categories": [
+    "Glutathione",
+    "Glutaredoxin",
+    "Glutathione reductase",
+    "Chemistry",
+    "GPX1",
+    "Biochemistry",
+    "Glutathione synthetase",
+    "Thioredoxin",
+    "Enzyme",
+    "Glutathione peroxidase"
+  ],
+  "citation_count": 1150,
+  "open_access_pdf_url": "https://www.sciencedirect.com/science/article/pii/S0304416512002735/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1994025158.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:14.599664+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1994025158",
+    "concepts": [
+      "Glutathione",
+      "Glutaredoxin",
+      "Glutathione reductase",
+      "Chemistry",
+      "GPX1"
+    ],
+    "oa_status": "hybrid"
+  }
+}

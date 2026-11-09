@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2069099261",
+  "title": "P-Type Conduction in Mg-Doped GaN Treated with Low-Energy Electron Beam Irradiation (LEEBI)",
+  "abstract": "Distinct p-type conduction is realized with Mg-doped GaN by the low-energy electron-beam irradiation (LEEBI) treatment, and the properties of the GaN p-n junction LED are reported for the first time. It was found that the LEEBI treatment drastically lowers the resistivity and remarkably enhances the PL efficiency of MOVPE-grown Mg-doped GaN. The Hall effect measurement of this Mg-doped GaN treated with LEEBI at room temperature showed that the hole concentration is ∼2·10 16 cm -3 , the hole mobility is ∼8 cm 2 /V·s and the resistivity is ∼35 Ω·cm. The p-n junction LED using Mg-doped GaN treated with LEEBI as the p-type material showed strong near-band-edge emission due to the hole injection from the p-layer to the n-layer at room temperature.",
+  "authors": [
+    "Hiroshi Amano",
+    "Masahiro Kito",
+    "Kazumasa Hiramatsu",
+    "Isamu Akasaki"
+  ],
+  "year": 1989,
+  "doi": "10.1143/jjap.28.l2112",
+  "source": "openalex",
+  "categories": [
+    "Doping",
+    "Materials science",
+    "Irradiation",
+    "Electrical resistivity and conductivity",
+    "Metalorganic vapour phase epitaxy",
+    "Optoelectronics",
+    "Conduction band",
+    "Electron",
+    "Thermal conduction",
+    "Hall effect",
+    "Analytical Chemistry (journal)",
+    "Layer (electronics)",
+    "Chemistry",
+    "Nanotechnology",
+    "Composite material",
+    "Electrical engineering",
+    "Epitaxy",
+    "Physics",
+    "Engineering",
+    "Nuclear physics",
+    "Quantum mechanics",
+    "Chromatography"
+  ],
+  "citation_count": 2079,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1143/JJAP.28.L2112/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2069099261.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:15.481511+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2069099261",
+    "concepts": [
+      "Doping",
+      "Materials science",
+      "Irradiation",
+      "Electrical resistivity and conductivity",
+      "Metalorganic vapour phase epitaxy"
+    ],
+    "oa_status": "bronze"
+  }
+}

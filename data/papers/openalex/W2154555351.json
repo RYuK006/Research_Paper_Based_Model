@@ -1,0 +1,41 @@
+{
+  "id": "openalex:W2154555351",
+  "title": "TEER Measurement Techniques for In Vitro Barrier Model Systems",
+  "abstract": "Transepithelial/transendothelial electrical resistance (TEER) is a widely accepted quantitative technique to measure the integrity of tight junction dynamics in cell culture models of endothelial and epithelial monolayers. TEER values are strong indicators of the integrity of the cellular barriers before they are evaluated for transport of drugs or chemicals. TEER measurements can be performed in real time without cell damage and generally are based on measuring ohmic resistance or measuring impedance across a wide spectrum of frequencies. The measurements for various cell types have been reported with commercially available measurement systems and also with custom-built microfluidic implementations. Some of the barrier models that have been widely characterized using TEER include the blood-brain barrier (BBB), gastrointestinal (GI) tract, and pulmonary models. Variations in these values can arise due to factors such as temperature, medium formulation, and passage number of cells. The aim of this article is to review the different TEER measurement techniques and analyze their strengths and weaknesses, determine the significance of TEER in drug toxicity studies, examine the various in vitro models and microfluidic organs-on-chips implementations using TEER measurements in some widely studied barrier models (BBB, GI tract, and pulmonary), and discuss the various factors that can affect TEER measurements.",
+  "authors": [
+    "Balaji Srinivasan",
+    "Aditya Reddy Kolli",
+    "Mandy Brigitte Esch",
+    "Hasan Erbil Abaci",
+    "Michael Louis Shuler",
+    "James J. Hickman"
+  ],
+  "year": 2015,
+  "doi": "10.1177/2211068214561025",
+  "source": "openalex",
+  "categories": [
+    "In vitro",
+    "Computer science",
+    "Biophysics",
+    "Biological system",
+    "Chemistry",
+    "Biology",
+    "Biochemistry"
+  ],
+  "citation_count": 2283,
+  "open_access_pdf_url": "http://slas-technology.org/article/S2472630322014613/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2154555351.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:08.833932+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2154555351",
+    "concepts": [
+      "In vitro",
+      "Computer science",
+      "Biophysics",
+      "Biological system",
+      "Chemistry"
+    ],
+    "oa_status": "hybrid"
+  }
+}

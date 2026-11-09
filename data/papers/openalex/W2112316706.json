@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2112316706",
+  "title": "Evaluating the added predictive ability of a new marker: From area under the ROC curve to reclassification and beyond",
+  "abstract": "Identification of key factors associated with the risk of developing cardiovascular disease and quantification of this risk using multivariable prediction algorithms are among the major advances made in preventive cardiology and cardiovascular epidemiology in the 20th century. The ongoing discovery of new risk markers by scientists presents opportunities and challenges for statisticians and clinicians to evaluate these biomarkers and to develop new risk formulations that incorporate them. One of the key questions is how best to assess and quantify the improvement in risk prediction offered by these new models. Demonstration of a statistically significant association of a new biomarker with cardiovascular risk is not enough. Some researchers have advanced that the improvement in the area under the receiver-operating-characteristic curve (AUC) should be the main criterion, whereas others argue that better measures of performance of prediction models are needed. In this paper, we address this question by introducing two new measures, one based on integrated sensitivity and specificity and the other on reclassification tables. These new measures offer incremental information over the AUC. We discuss the properties of these new measures and contrast them with the AUC. We also develop simple asymptotic tests of significance. We illustrate the use of these measures with an example from the Framingham Heart Study. We propose that scientists consider these types of measures in addition to the AUC when assessing the performance of newer biomarkers.",
+  "authors": [
+    "Michael J. Pencina",
+    "Ralph B. D’Agostino",
+    "Ralph B. D’Agostino",
+    "Ramachandran Srini Vasan"
+  ],
+  "year": 2007,
+  "doi": "10.1002/sim.2929",
+  "source": "openalex",
+  "categories": [
+    "Receiver operating characteristic",
+    "Framingham Risk Score",
+    "Identification (biology)",
+    "Computer science",
+    "Predictive modelling",
+    "Framingham Heart Study",
+    "Risk assessment",
+    "Biomarker",
+    "Machine learning",
+    "Risk analysis (engineering)",
+    "Medicine",
+    "Data science",
+    "Data mining",
+    "Disease",
+    "Internal medicine",
+    "Botany",
+    "Biology",
+    "Computer security",
+    "Chemistry",
+    "Biochemistry"
+  ],
+  "citation_count": 6588,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/sim.2929",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2112316706.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:52.109486+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2112316706",
+    "concepts": [
+      "Receiver operating characteristic",
+      "Framingham Risk Score",
+      "Identification (biology)",
+      "Computer science",
+      "Predictive modelling"
+    ],
+    "oa_status": "bronze"
+  }
+}

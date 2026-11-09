@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2114222046",
+  "title": "Marrow-Derived Stromal Cells Express Genes Encoding a Broad Spectrum of Arteriogenic Cytokines and Promote In Vitro and In Vivo Arteriogenesis Through Paracrine Mechanisms",
+  "abstract": "We recently demonstrated that marrow stromal cells (MSCs) augment collateral remodeling through release of several cytokines such as VEGF and bFGF rather than via cell incorporation into new or remodeling vessels. The present study was designed to characterize the full spectrum of cytokine genes expressed by MSCs and to further examine the role of paracrine mechanisms that underpin their therapeutic potential. Normal human MSCs were cultured under normoxic or hypoxic conditions for 72 hours. The gene expression profile of the cells was determined using Affymetrix GeneChips representing 12 000 genes. A wide array of arteriogenic cytokine genes were expressed at baseline, and several were induced >1.5-fold by hypoxic stress. The gene array data were confirmed using ELISA assays and immunoblotting of the MSC conditioned media (MSC(CM)). MSC(CM) promoted in vitro proliferation and migration of endothelial cells in a dose-dependent manner; anti-VEGF and anti-FGF antibodies only partially attenuated these effects. Similarly, MSC(CM) promoted smooth muscle cell proliferation and migration in a dose-dependent manner. Using a murine hindlimb ischemia model, murine MSC(CM) enhanced collateral flow recovery and remodeling, improved limb function, reduced the incidence of autoamputation, and attenuated muscle atrophy compared with control media. These data indicate that paracrine signaling is an important mediator of bone marrow cell therapy in tissue ischemia, and that cell incorporation into vessels is not a prerequisite for their effects.",
+  "authors": [
+    "Tim D. Kinnaird",
+    "Eugenio Stabile",
+    "Mary Susan Burnett",
+    "C.W. Lee",
+    "S. Barr",
+    "S. Fuchs",
+    "Stephen E. Epstein"
+  ],
+  "year": 2004,
+  "doi": "10.1161/01.res.0000118601.37875.ac",
+  "source": "openalex",
+  "categories": [
+    "Arteriogenesis",
+    "Paracrine signalling",
+    "Stromal cell",
+    "In vivo",
+    "Cell biology",
+    "In vitro",
+    "Biology",
+    "Broad spectrum",
+    "Gene",
+    "Cancer research",
+    "Neuroscience",
+    "Chemistry",
+    "Angiogenesis",
+    "Genetics",
+    "Receptor",
+    "Combinatorial chemistry"
+  ],
+  "citation_count": 1430,
+  "open_access_pdf_url": "https://www.ahajournals.org/doi/pdf/10.1161/01.RES.0000118601.37875.AC",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2114222046.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:50.571016+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2114222046",
+    "concepts": [
+      "Arteriogenesis",
+      "Paracrine signalling",
+      "Stromal cell",
+      "In vivo",
+      "Cell biology"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2061562262",
+  "title": "Pharmacokinetics of a novel formulation of ivermectin after administration to goats",
+  "abstract": "OBJECTIVE: To evaluate the pharmacokinetics of a novel commercial formulation of ivermectin after administration to goats. ANIMALS: 6 healthy adult goats. PROCEDURE: Ivermectin (200 microg/kg) was initially administered IV to each goat, and plasma samples were obtained for 36 days. After a washout period of 3 weeks, each goat received a novel commercial formulation of ivermectin (200 microg/kg) by SC injection. Plasma samples were then obtained for 42 days. Drug concentrations were quantified by use of high-performance liquid chromatography with fluorescence detection. RESULTS: Pharmacokinetics of ivermectin after IV administration were best described by a 2-compartment open model; values for main compartmental variables included volume of distribution at a steady state (9.94 L/kg), clearance (1.54 L/kg/d), and area under the plasma concentration-time curve (AUC; 143 [ng x d]/mL). Values for the noncompartmental variables included mean residence time (7.37 days), AUC (153 [ng x d]/mL), and clearance (1.43 L/kg/d). After SC administration, noncompartmental pharmacokinetic analysis was conducted. Values of the variables calculated by use of this method included maximum plasma concentration (Cmax; 21.8 ng/mL), time to reach Cmax (3 days), and bioavailability (F; 91.8%). CONCLUSIONS AND CLINICAL RELEVANCE: The commercial formulation used in this study is a good option to consider when administering ivermectin to goats because of the high absorption, which is characterized by high values of F. In addition, the values of Cmax and time to reach Cmax are higher than those reported by other investigators who used other routes of administration.",
+  "authors": [
+    "Aranzazu González",
+    "Ana M. Sahagún",
+    "M. José Diez",
+    "Nélida Fernández",
+    "Matilde Sierra",
+    "Juan Jose Garcia"
+  ],
+  "year": 2006,
+  "doi": "10.2460/ajvr.67.2.323",
+  "source": "openalex",
+  "categories": [
+    "Ivermectin",
+    "Pharmacokinetics",
+    "Cmax",
+    "Bioavailability",
+    "Volume of distribution",
+    "Animal science",
+    "Pharmacology",
+    "Plasma clearance",
+    "Absorption (acoustics)",
+    "Chemistry",
+    "Medicine",
+    "Veterinary medicine",
+    "Biology",
+    "Acoustics",
+    "Physics"
+  ],
+  "citation_count": 1714,
+  "open_access_pdf_url": "https://avmajournals.avma.org/downloadpdf/journals/ajvr/67/2/ajvr.67.2.323.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2061562262.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:33.098036+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2061562262",
+    "concepts": [
+      "Ivermectin",
+      "Pharmacokinetics",
+      "Cmax",
+      "Bioavailability",
+      "Volume of distribution"
+    ],
+    "oa_status": "bronze"
+  }
+}

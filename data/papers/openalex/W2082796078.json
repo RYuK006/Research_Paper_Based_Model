@@ -1,0 +1,42 @@
+{
+  "id": "openalex:W2082796078",
+  "title": "Distinct Classes of Phosphatidylinositol 3′-Kinases Are Involved in Signaling Pathways That Control Macroautophagy in HT-29 Cells",
+  "abstract": "3-Methyladenine which stops macroautophagy at the sequestration step in mammalian cells also inhibits the phosphoinositide 3-kinase (PI3K) activity raising the possibility that PI3K signaling controls the macroautophagic pathway (Blommaart, E. F. C., Krause, U., Schellens, J. P. M., Vreeling-Sindelárová, H., and Meijer, A. J. (1997) Eur. J. Biochem. 243, 240-246). The aim of this study was to identify PI3Ks involved in the control of macroautophagic sequestration in human colon cancer HT-29 cells. An increase of class I PI3K products (phosphatidylinositol 3,4-bisphosphate and phosphatidylinositol 3,4,5-triphosphate) caused by either feeding cells with synthetic lipids (dipalmitoyl phosphatidylinositol 3, 4-bisphosphate and dipalmitoyl phosphatidylinositol 3,4, 5-triphosphate) or by stimulating the enzymatic activity by interleukin-13 reduced macroautophagy. In contrast, an increase in the class III PI3K product (phosphatidylinositol 3-phosphate), either by feeding cells with a synthetic lipid or by overexpressing the p150 adaptor, stimulates macroautophagy. Transfection of a specific class III PI3K antisense oligonucleotide greatly inhibited the rate of macroautophagy. In accordance with a role of class III PI3K, wortmannin (an inhibitor of PI3Ks) inhibits macroautophagic sequestration and protein degradation in the low nanomolar range (IC(50) 5-15 nM). Further in vitro enzymatic assay showed that 3-methyladenine inhibits the class III PI3K activity. Dipalmitoyl phosphatidylinositol 3-phosphate supplementation or p150 overexpression rescued the macroautophagic pathway in HT-29 cells overexpressing a GTPase-deficient mutant of the Galpha(i3) protein suggesting that both class III PI3K and trimeric G(i3) protein signaling are required in the control macroautophagy in HT-29 cells. In conclusion, our results demonstrate that distinct classes of PI3K control the macroautophagic pathway in opposite directions. The roles of PI3Ks in macroautophagy are discussed in the context of membrane recycling.",
+  "authors": [
+    "Anne Petiot",
+    "Éric Ogier‐Denis",
+    "Edward F. C. Blommaart",
+    "Alfred J. Meijer",
+    "Patrice Codogno"
+  ],
+  "year": 2000,
+  "doi": "10.1074/jbc.275.2.992",
+  "source": "openalex",
+  "categories": [
+    "Phosphatidylinositol",
+    "Kinase",
+    "Cell biology",
+    "Autophagy",
+    "Signal transduction",
+    "Biology",
+    "Chemistry",
+    "Biochemistry",
+    "Apoptosis"
+  ],
+  "citation_count": 1189,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925818312092/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2082796078.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:08.448785+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2082796078",
+    "concepts": [
+      "Phosphatidylinositol",
+      "Kinase",
+      "Cell biology",
+      "Autophagy",
+      "Signal transduction"
+    ],
+    "oa_status": "hybrid"
+  }
+}

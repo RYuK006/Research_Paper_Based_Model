@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W2162800127",
+  "title": "COBALT: constraint-based alignment tool for multiple protein sequences",
+  "abstract": "MOTIVATION: A tool that simultaneously aligns multiple protein sequences, automatically utilizes information about protein domains, and has a good compromise between speed and accuracy will have practical advantages over current tools. RESULTS: We describe COBALT, a constraint based alignment tool that implements a general framework for multiple alignment of protein sequences. COBALT finds a collection of pairwise constraints derived from database searches, sequence similarity and user input, combines these pairwise constraints, and then incorporates them into a progressive multiple alignment. We show that using constraints derived from the conserved domain database (CDD) and PROSITE protein-motif database improves COBALT's alignment quality. We also show that COBALT has reasonable runtime performance and alignment accuracy comparable to or exceeding that of other tools for a broad range of problems. AVAILABILITY: COBALT is included in the NCBI C++ toolkit. A Linux executable for COBALT, and CDD and PROSITE data used is available at: ftp://ftp.ncbi.nlm.nih.gov/pub/agarwala/cobalt",
+  "authors": [
+    "Jason S. Papadopoulos",
+    "Richa Agarwala"
+  ],
+  "year": 2007,
+  "doi": "10.1093/bioinformatics/btm076",
+  "source": "openalex",
+  "categories": [
+    "Executable",
+    "Pairwise comparison",
+    "Computer science",
+    "Multiple sequence alignment",
+    "Constraint (computer-aided design)",
+    "Template",
+    "Sequence alignment",
+    "Domain (mathematical analysis)",
+    "Data mining",
+    "Cobalt",
+    "Database",
+    "Computational biology",
+    "Programming language",
+    "Artificial intelligence",
+    "Biology",
+    "Peptide sequence",
+    "Genetics",
+    "Mathematics",
+    "Chemistry",
+    "Mathematical analysis",
+    "Geometry",
+    "Inorganic chemistry",
+    "Gene"
+  ],
+  "citation_count": 1132,
+  "open_access_pdf_url": "https://academic.oup.com/bioinformatics/article-pdf/23/9/1073/49858843/bioinformatics_23_9_1073.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2162800127.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:16.984964+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2162800127",
+    "concepts": [
+      "Executable",
+      "Pairwise comparison",
+      "Computer science",
+      "Multiple sequence alignment",
+      "Constraint (computer-aided design)"
+    ],
+    "oa_status": "hybrid"
+  }
+}

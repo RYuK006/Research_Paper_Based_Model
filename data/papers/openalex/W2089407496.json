@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W2089407496",
+  "title": "Measurement of gastrointestinal pH profiles in normal ambulant human subjects.",
+  "abstract": "Gastrointestinal (GI) pH has been measured in 66 normal subjects using a pH sensitive radiotelemetry capsule passing freely through the gastrointestinal tract. Signals were recorded with a portable solid state receiver and recording system, enabling unconstrained measurements with normal ambulatory activities for up to 48 h during normal GI transit. Capsule position in the gut was monitored by surface location using a directional detector. Gastric pH was highly acidic (range 1.0-2.5) in all subjects. The mean pH in the proximal small intestine was 6.6 (0.5) for the first hour of intestinal recording. By comparison the mean pH in the terminal ileum was 7.5 (0.4) (p less than 0.001). In all subjects there was a sharp fall in pH to a mean of 6.4 (0.4) (p less than 0.001) as the capsule passed into the caecum. Values are means (SD). pH then rose progressively from the right to the left colon with a final mean value of 7.0 (0.7) (p less than 0.001).",
+  "authors": [
+    "D F Evans",
+    "Geoffrey W. Pye",
+    "R Bramley",
+    "A G Clark",
+    "Tara Dyson",
+    "J D Hardcastle"
+  ],
+  "year": 1988,
+  "doi": "10.1136/gut.29.8.1035",
+  "source": "openalex",
+  "categories": [
+    "Caecum",
+    "Capsule",
+    "Gastroenterology",
+    "Medicine",
+    "Ileum",
+    "Gastrointestinal tract",
+    "Internal medicine",
+    "Chemistry",
+    "Ambulatory",
+    "Small intestine",
+    "Capsule endoscopy",
+    "Biology",
+    "Botany"
+  ],
+  "citation_count": 1266,
+  "open_access_pdf_url": "https://gut.bmj.com/content/gutjnl/29/8/1035.full.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2089407496.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:00.614083+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2089407496",
+    "concepts": [
+      "Caecum",
+      "Capsule",
+      "Gastroenterology",
+      "Medicine",
+      "Ileum"
+    ],
+    "oa_status": "bronze"
+  }
+}

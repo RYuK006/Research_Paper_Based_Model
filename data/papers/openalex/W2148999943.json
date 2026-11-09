@@ -1,0 +1,63 @@
+{
+  "id": "openalex:W2148999943",
+  "title": "beta-Amyloid peptides destabilize calcium homeostasis and render human cortical neurons vulnerable to excitotoxicity",
+  "abstract": "In Alzheimer's disease (AD), abnormal accumulations of beta-amyloid are present in the brain and degenerating neurons exhibit cytoskeletal aberrations (neurofibrillary tangles). Roles for beta-amyloid in the neuronal degeneration of AD have been suggested based on recent data obtained in rodent studies demonstrating neurotoxic actions of beta-amyloid. However, the cellular mechanism of action of beta-amyloid is unknown, and there is no direct information concerning the biological activity of beta-amyloid in human neurons. We now report on experiments in human cerebral cortical cell cultures that tested the hypothesis that beta-amyloid can destabilize neuronal calcium regulation and render neurons more vulnerable to environmental stimuli that elevate intracellular calcium levels. Synthetic beta-amyloid peptides (beta APs) corresponding to amino acids 1-38 or 25-35 of the beta-amyloid protein enhanced glutamate neurotoxicity in cortical cultures, while a peptide with a scrambled sequence was without effect. beta APs alone had no effect on neuronal survival during a 4 d exposure period. beta APs enhanced both kainate and NMDA neurotoxicity, indicating that the effect was not specific for a particular subtype of glutamate receptor. The effects of beta APs on excitatory amino acid (EAA)-induced neuronal degeneration were concentration dependent and required prolonged (days) exposures. The beta APs also rendered neurons more vulnerable to calcium ionophore neurotoxicity, indicating that beta APs compromised the ability of the neurons to reduce intracellular calcium levels to normal limits. Direct measurements of intracellular calcium levels demonstrated that beta APs elevated rest levels of calcium and enhanced calcium responses to EAAs and calcium ionophore. The neurotoxicity caused by EAAs and potentiated by beta APs was dependent upon calcium influx since it did not occur in calcium-deficient culture medium. Finally, the beta APs made neurons more vulnerable to neurofibrillary tangle-like antigenic changes induced by EAAs or calcium ionophore (i.e., increased staining with tau and ubiquitin antibodies). Taken together, these data suggest that beta-amyloid destabilizes neuronal calcium homeostasis and thereby renders neurons more vulnerable to environmental insults.",
+  "authors": [
+    "Mark P. Mattson",
+    "B Cheng",
+    "Daron G. Davis",
+    "K Bryant",
+    "Ivan M. Lieberburg",
+    "R E Rydel"
+  ],
+  "year": 1992,
+  "doi": "10.1523/jneurosci.12-02-00376.1992",
+  "source": "openalex",
+  "categories": [
+    "Neurotoxicity",
+    "Excitotoxicity",
+    "Glutamate receptor",
+    "Calcium in biology",
+    "Amyloid (mycology)",
+    "Neurodegeneration",
+    "Amyloid beta",
+    "BETA (programming language)",
+    "Calcium",
+    "Kainate receptor",
+    "Neuroscience",
+    "Chemistry",
+    "Kainic acid",
+    "Amyloid precursor protein",
+    "Biology",
+    "Intracellular",
+    "Alzheimer's disease",
+    "Biochemistry",
+    "Internal medicine",
+    "Receptor",
+    "Peptide",
+    "Medicine",
+    "AMPA receptor",
+    "Toxicity",
+    "Computer science",
+    "Disease",
+    "Inorganic chemistry",
+    "Programming language",
+    "Organic chemistry"
+  ],
+  "citation_count": 1633,
+  "open_access_pdf_url": "https://www.jneurosci.org/content/jneuro/12/2/376.full.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2148999943.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:38.063270+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2148999943",
+    "concepts": [
+      "Neurotoxicity",
+      "Excitotoxicity",
+      "Glutamate receptor",
+      "Calcium in biology",
+      "Amyloid (mycology)"
+    ],
+    "oa_status": "hybrid"
+  }
+}

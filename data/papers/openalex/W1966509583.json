@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W1966509583",
+  "title": "Mechanisms of fatty acid-induced inhibition of glucose uptake.",
+  "abstract": "Increased plasma FFA reduce insulin-stimulated glucose uptake. The mechanisms responsible for this inhibition, however, remain uncertain. It was the aim of this study to determine whether the FFA effect was dose dependent and to investigate its mechanism. We have examined in healthy volunteers (13 male/1 female) the effects of three steady state plasma FFA levels (approximately 50, approximately 550, approximately 750 microM) on rates of glucose uptake, glycolysis (both with 3-3H-glucose), glycogen synthesis (determined with two independent methods), carbohydrate (CHO) oxidation (by indirect calorimetry), hepatic glucose output, and nonoxidative glycolysis (glycolysis minus CHO oxidation) during euglycemic-hyperinsulinemic clamping. Increasing FFA concentration (from approximately 50 to approximately 750 microM) decreased glucose uptake in a dose-dependent fashion (from approximately 9 to approximately 4 mg/kg per min). The decrease was caused mainly (approximately 2/3) by a reduction in glycogen synthesis and to a lesser extent (approximately 1/3) by a reduction in CHO oxidation. We have identified two independent defects in glycogen synthesis. The first consisted of an impairment of muscle glycogen synthase activity. It required high FFA concentration (approximately 750 microM), was associated with an increase in glucose-6-phosphate, and developed after 4-6 h of fat infusion. The second defect, which preceded the glycogen synthase defect, was seen at medium (approximately 550 microM) FFA concentration, was associated with a decrease in muscle glucose-6-phosphate concentration, and was probably due to a reduction in glucose transport/phosphorylation. In addition, FFA and/or glycerol increased insulin-suppressed hepatic glucose output by approximately 50%. We concluded that fatty acids caused a dose-dependent inhibition of insulin-stimulated glucose uptake (by decreasing glycogen synthesis and CHO oxidation) and that FFA and/or glycerol increased insulin-suppressed hepatic glucose output and thus caused insulin resistance at the peripheral and the hepatic level.",
+  "authors": [
+    "G Boden",
+    "X Chen",
+    "J Ruiz",
+    "J V White",
+    "L Rossetti"
+  ],
+  "year": 1994,
+  "doi": "10.1172/jci117252",
+  "source": "openalex",
+  "categories": [
+    "Internal medicine",
+    "Endocrinology",
+    "Glycolysis",
+    "Glycogen",
+    "Glycogen synthase",
+    "Glucose uptake",
+    "Glycogenolysis",
+    "Chemistry",
+    "Glucose 6-phosphate",
+    "Insulin",
+    "Glycogenesis",
+    "Carbohydrate",
+    "Carbohydrate metabolism",
+    "Glucose clamp technique",
+    "Beta oxidation",
+    "Glucose transporter",
+    "Metabolism",
+    "Biochemistry",
+    "Biology",
+    "Pancreatic hormone",
+    "Insulin resistance",
+    "Enzyme",
+    "Medicine"
+  ],
+  "citation_count": 3720,
+  "open_access_pdf_url": "http://www.jci.org/articles/view/117252/files/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1966509583.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:54.145887+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1966509583",
+    "concepts": [
+      "Internal medicine",
+      "Endocrinology",
+      "Glycolysis",
+      "Glycogen",
+      "Glycogen synthase"
+    ],
+    "oa_status": "bronze"
+  }
+}

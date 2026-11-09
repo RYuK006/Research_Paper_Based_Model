@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W2033686454",
+  "title": "Modeling of species distributions with Maxent: new extensions and a comprehensive evaluation",
+  "abstract": "Accurate modeling of geographic distributions of species is crucial to various applications in ecology and conservation. The best performing techniques often require some parameter tuning, which may be prohibitively time‐consuming to do separately for each species, or unreliable for small or biased datasets. Additionally, even with the abundance of good quality data, users interested in the application of species models need not have the statistical knowledge required for detailed tuning. In such cases, it is desirable to use “default settings”, tuned and validated on diverse datasets. Maxent is a recently introduced modeling technique, achieving high predictive accuracy and enjoying several additional attractive properties. The performance of Maxent is influenced by a moderate number of parameters. The first contribution of this paper is the empirical tuning of these parameters. Since many datasets lack information about species absence, we present a tuning method that uses presence‐only data. We evaluate our method on independently collected high‐quality presence‐absence data. In addition to tuning, we introduce several concepts that improve the predictive accuracy and running time of Maxent. We introduce “hinge features” that model more complex relationships in the training data; we describe a new logistic output format that gives an estimate of probability of presence; finally we explore “background sampling” strategies that cope with sample selection bias and decrease model‐building time. Our evaluation, based on a diverse dataset of 226 species from 6 regions, shows: 1) default settings tuned on presence‐only data achieve performance which is almost as good as if they had been tuned on the evaluation data itself; 2) hinge features substantially improve model performance; 3) logistic output improves model calibration, so that large differences in output values correspond better to large differences in suitability; 4) “target‐group” background sampling can give much better predictive performance than random background sampling; 5) random background sampling results in a dramatic decrease in running time, with no decrease in model performance.",
+  "authors": [
+    "Steven J. Phillips",
+    "Miroslav Dudı́k"
+  ],
+  "year": 2008,
+  "doi": "10.1111/j.0906-7590.2007.5203.x",
+  "source": "openalex",
+  "categories": [
+    "Computer science",
+    "Data mining",
+    "Sample size determination",
+    "Machine learning",
+    "Selection (genetic algorithm)",
+    "Sample (material)",
+    "Quality (philosophy)",
+    "Sampling (signal processing)",
+    "Environmental niche modelling",
+    "Abundance (ecology)",
+    "Ecology",
+    "Artificial intelligence",
+    "Statistics",
+    "Habitat",
+    "Mathematics",
+    "Filter (signal processing)",
+    "Biology",
+    "Computer vision",
+    "Epistemology",
+    "Chromatography",
+    "Philosophy",
+    "Ecological niche",
+    "Chemistry"
+  ],
+  "citation_count": 7181,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.0906-7590.2008.5203.x",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2033686454.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:49.954204+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2033686454",
+    "concepts": [
+      "Computer science",
+      "Data mining",
+      "Sample size determination",
+      "Machine learning",
+      "Selection (genetic algorithm)"
+    ],
+    "oa_status": "bronze"
+  }
+}

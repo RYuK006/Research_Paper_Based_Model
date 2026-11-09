@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W1972305678",
+  "title": "Cancer Risks from Arsenic in Drinking Water",
+  "abstract": "Ingestion of arsenic, both from water supplies and medicinal preparations, is known to cause skin cancer. The evidence assessed here indicates that arsenic can also cause liver, lung, kidney, and bladder cancer and that the population cancer risks due to arsenic in U.S. water supplies may be comparable to those from environmental tobacco smoke and radon in homes. Large population studies in an area of Taiwan with high arsenic levels in well water (170-800 micrograms/L) were used to establish dose-response relationships between cancer risks and the concentration of inorganic arsenic naturally present in water supplies. It was estimated that at the current EPA standard of 50 micrograms/L, the lifetime risk of dying from cancer of the liver, lung, kidney, or bladder from drinking 1 L/day of water could be as high as 13 per 1000 persons. It has been estimated that more than 350,000 people in the United States may be supplied with water containing more than 50 micrograms/L arsenic, and more than 2.5 million people may be supplied with water with levels above 25 micrograms/L. For average arsenic levels and water consumption patterns in the United States, the risk estimate was around 1/1000. Although further research is needed to validate these findings, measures to reduce arsenic levels in water supplies should be considered.",
+  "authors": [
+    "A H Smith",
+    "Claudia Hopenhayn",
+    "Michael Bates",
+    "Helen M. Goeden",
+    "Irva Hertz‐Picciotto",
+    "H M Duggan",
+    "R Wood",
+    "Michael J. Kosnett",
+    "Martyn T. Smith"
+  ],
+  "year": 1992,
+  "doi": "10.1289/ehp.9297259",
+  "source": "openalex",
+  "categories": [
+    "Arsenic",
+    "Environmental health",
+    "Population",
+    "Arsenic contamination of groundwater",
+    "Ingestion",
+    "Lung cancer",
+    "Arsenic poisoning",
+    "Medicine",
+    "Cancer",
+    "Toxicology",
+    "Risk assessment",
+    "Environmental science",
+    "Chemistry",
+    "Internal medicine",
+    "Biology",
+    "Organic chemistry",
+    "Computer science",
+    "Computer security"
+  ],
+  "citation_count": 1170,
+  "open_access_pdf_url": "https://doi.org/10.1289/ehp.9297259",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1972305678.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:12.192719+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1972305678",
+    "concepts": [
+      "Arsenic",
+      "Environmental health",
+      "Population",
+      "Arsenic contamination of groundwater",
+      "Ingestion"
+    ],
+    "oa_status": "gold"
+  }
+}

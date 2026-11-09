@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2087606978",
+  "title": "To Be or Not To Be Pseudocapacitive?",
+  "abstract": "There are an increasing number of studies regarding active electrode materials that undergo faradaic reactions but are used for electrochemical capacitor applications. Unfortunately, some of these materials are described as \"pseudocapacitive\" materials despite the fact that their electrochemical signature (e.g., cyclic voltammogram and charge/discharge curve) is analogous to that of a \"battery\" material, as commonly observed for Ni(OH) 2 and cobalt oxides in KOH electrolyte. Conversely, true pseudocapacitive electrode materials such as MnO 2 display electrochemical behavior typical of that observed for a capacitive carbon electrode. The difference between these two classes of materials will be explained, and we demonstrate why it is inappropriate to describe nickel oxide or hydroxide and cobalt oxide/hydroxide as pseudocapacitive electrode materials.",
+  "authors": [
+    "Thierry Brousse",
+    "Daniel Bélanger",
+    "Jeffrey W. Long"
+  ],
+  "year": 2015,
+  "doi": "10.1149/2.0201505jes",
+  "source": "openalex",
+  "categories": [
+    "Materials science",
+    "Electrochemistry",
+    "Electrode",
+    "Cobalt oxide",
+    "Supercapacitor",
+    "Electrolyte",
+    "Hydroxide",
+    "Alkaline battery",
+    "Oxide",
+    "Nickel",
+    "Cobalt",
+    "Battery (electricity)",
+    "Cobalt hydroxide",
+    "Nanotechnology",
+    "Inorganic chemistry",
+    "Chemical engineering",
+    "Metallurgy",
+    "Chemistry",
+    "Physical chemistry",
+    "Quantum mechanics",
+    "Power (physics)",
+    "Engineering",
+    "Physics"
+  ],
+  "citation_count": 2552,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1149/2.0201505jes/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2087606978.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:04.312144+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2087606978",
+    "concepts": [
+      "Materials science",
+      "Electrochemistry",
+      "Electrode",
+      "Cobalt oxide",
+      "Supercapacitor"
+    ],
+    "oa_status": "hybrid"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W1535750970",
+  "title": "Proteomic Mapping of Mitochondria in Living Cells via Spatially Restricted Enzymatic Tagging",
+  "abstract": "Microscopy and mass spectrometry (MS) are complementary techniques: The former provides spatiotemporal information in living cells, but only for a handful of recombinant proteins at a time, whereas the latter can detect thousands of endogenous proteins simultaneously, but only in lysed samples. Here, we introduce technology that combines these strengths by offering spatially and temporally resolved proteomic maps of endogenous proteins within living cells. Our method relies on a genetically targetable peroxidase enzyme that biotinylates nearby proteins, which are subsequently purified and identified by MS. We used this approach to identify 495 proteins within the human mitochondrial matrix, including 31 not previously linked to mitochondria. The labeling was exceptionally specific and distinguished between inner membrane proteins facing the matrix versus the intermembrane space (IMS). Several proteins previously thought to reside in the IMS or outer membrane, including protoporphyrinogen oxidase, were reassigned to the matrix by our proteomic data and confirmed by electron microscopy. The specificity of peroxidase-mediated proteomic mapping in live cells, combined with its ease of use, offers biologists a powerful tool for understanding the molecular composition of living cells.",
+  "authors": [
+    "Hyun‐Woo Rhee",
+    "Peng Zou",
+    "Namrata D. Udeshi",
+    "Jeffrey D. Martell",
+    "Vamsi K. Mootha",
+    "Steven A. Carr",
+    "Alice Y. Ting"
+  ],
+  "year": 2013,
+  "doi": "10.1126/science.1230593",
+  "source": "openalex",
+  "categories": [
+    "Biology",
+    "Proteomics",
+    "Mitochondrion",
+    "Biochemistry",
+    "Intermembrane space",
+    "Cell biology",
+    "Chemistry",
+    "Computational biology",
+    "Bacterial outer membrane",
+    "Gene",
+    "Escherichia coli"
+  ],
+  "citation_count": 1307,
+  "open_access_pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/3916822",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1535750970.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:57.765611+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1535750970",
+    "concepts": [
+      "Biology",
+      "Proteomics",
+      "Mitochondrion",
+      "Biochemistry",
+      "Intermembrane space"
+    ],
+    "oa_status": "green"
+  }
+}

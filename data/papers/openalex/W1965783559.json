@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W1965783559",
+  "title": "Phase stability in high entropy alloys: Formation of solid-solution phase or amorphous phase",
+  "abstract": "The alloy design for equiatomic multi-component alloys was rationalized by statistically analyzing the atomic size difference, mixing enthalpy, mixing entropy, electronegativity, valence electron concentration among constituent elements in solid solutions forming high entropy alloys and amorphous alloys. Solid solution phases form and only form when the requirements of the atomic size difference, mixing enthalpy and mixing entropy are all met. The most significant difference between the solid solution forming high entropy alloys and bulk metallic glasses lies in the atomic size difference. These rules provide valuable guidance for the future development of high entropy alloys and bulk metallic glasses.",
+  "authors": [
+    "Sheng Li Guo",
+    "C.T. Liu"
+  ],
+  "year": 2011,
+  "doi": "10.1016/s1002-0071(12)60080-x",
+  "source": "openalex",
+  "categories": [
+    "Atomic radius",
+    "High entropy alloys",
+    "Electronegativity",
+    "Solid solution",
+    "Amorphous metal",
+    "Enthalpy of mixing",
+    "Thermodynamics",
+    "Enthalpy",
+    "Entropy of mixing",
+    "Valence electron",
+    "Materials science",
+    "Alloy",
+    "Amorphous solid",
+    "Entropy (arrow of time)",
+    "Chemistry",
+    "Metallurgy",
+    "Electron",
+    "Crystallography",
+    "Physics",
+    "Organic chemistry",
+    "Quantum mechanics"
+  ],
+  "citation_count": 2557,
+  "open_access_pdf_url": "https://www.sciencedirect.com/science/article/pii/S100200711260080X/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1965783559.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:04.308115+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1965783559",
+    "concepts": [
+      "Atomic radius",
+      "High entropy alloys",
+      "Electronegativity",
+      "Solid solution",
+      "Amorphous metal"
+    ],
+    "oa_status": "hybrid"
+  }
+}

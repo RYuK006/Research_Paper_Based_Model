@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W1984696190",
+  "title": "A cell-killing monoclonal antibody (anti-Fas) to a cell surface antigen co-downregulated with the receptor of tumor necrosis factor.",
+  "abstract": "We have prepared an mAb specific for a human cell surface component (termed anti-Fas mAb). Anti-Fas shows cell-killing activity that is indistinguishable from the cytolytic activity of TNF. Fas antigen was characterized by western blotting, indicating that Fas antigen is a cell surface protein with a molecular weight of 200,000, which is different from the molecular weight of TNF-R. Fas antigen, however, is co-downregulated with the TNF-R when cells sensitive to the cytolytic activity of TNF are incubated with either TNF or anti-Fas. In contrast, Fas antigen on cells insensitive to TNF is not co-downregulated with the TNF-R. We suggest that the cell-killing activity of TNF is mediated by Fas antigen associated with the TNF-R.",
+  "authors": [
+    "Shin Yonehara",
+    "A Ishii",
+    "M Yonehara"
+  ],
+  "year": 1989,
+  "doi": "10.1084/jem.169.5.1747",
+  "source": "openalex",
+  "categories": [
+    "Cytolysis",
+    "Antigen",
+    "Tumor necrosis factor alpha",
+    "Fas ligand",
+    "Molecular biology",
+    "Fas receptor",
+    "Monoclonal antibody",
+    "Cell",
+    "Biology",
+    "Antibody",
+    "Chemistry",
+    "Apoptosis",
+    "Immunology",
+    "Programmed cell death",
+    "Cytotoxic T cell",
+    "Biochemistry",
+    "In vitro"
+  ],
+  "citation_count": 1410,
+  "open_access_pdf_url": "https://rupress.org/jem/article-pdf/169/5/1747/1099140/1747.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1984696190.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:50.686168+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1984696190",
+    "concepts": [
+      "Cytolysis",
+      "Antigen",
+      "Tumor necrosis factor alpha",
+      "Fas ligand",
+      "Molecular biology"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2127552260",
+  "title": "AN ANALYSIS OF THE SEQUENCES OF THE VARIABLE REGIONS OF BENCE JONES PROTEINS AND MYELOMA LIGHT CHAINS AND THEIR IMPLICATIONS FOR ANTIBODY COMPLEMENTARITY",
+  "abstract": "In an attempt to account for antibody specificity and complementarity in terms of structure, human kappa-, human lambda-, and mouse kappa-Bence Jones proteins and light chains are considered as a single population and the variable and constant regions are compared using the sequence data available. Statistical criteria are used in evaluating each position in the sequence as to whether it is essentially invariant or group-specific, subgroup-specific, species-specific, etc. Examination of the invariant residues of the variable and constant regions confirms the existence of a large number of invariant glycines, no invariant valine, lysine, and histidine, and only one invariant leucine and alanine in the variable region, as compared with the absence of invariant glycines and presence of three each of invariant alanine, leucine, and valine and two each of invariant lysine and histidine in the constant region. The unique role of glycine in the variable region is emphasized. Hydrophobicity of the invariant residues of the two regions is also evaluated. A parameter termed variability is defined and plotted against the position for the 107 residues of the variable region. Three stretches of unusually high variability are noted at residues 24-34, 50-56, and 89-97; variations in length have been found in the first and third of these. It is hypothesized that positions 24-34 and 89-97 contain the complementarity-determining residues of the light chain-those which make contact with the antigenic determinant. The heavy chain also has been reported to have a similar region of very high variability which would also participate in forming the antibody-combining site. It is postulated that the information for site complementarity is contained in some extrachromosomal DNA such as an episome and is incorporated by insertion into the DNA of the structural genes for the variable region of short linear sequences of nucleotides. The advantages and disadvantages of this hypothesis are discussed.",
+  "authors": [
+    "Tai Te Wu",
+    "Elvin A. Kabat"
+  ],
+  "year": 1970,
+  "doi": "10.1084/jem.132.2.211",
+  "source": "openalex",
+  "categories": [
+    "Immunoglobulin light chain",
+    "Invariant (physics)",
+    "Complementarity determining region",
+    "Valine",
+    "Alanine",
+    "Population",
+    "Bence Jones protein",
+    "Leucine",
+    "Mathematics",
+    "Kappa",
+    "Biology",
+    "Stereochemistry",
+    "Antibody",
+    "Chemistry",
+    "Genetics",
+    "Amino acid",
+    "Geometry",
+    "Sociology",
+    "Demography",
+    "Mathematical physics"
+  ],
+  "citation_count": 1343,
+  "open_access_pdf_url": "https://rupress.org/jem/article-pdf/132/2/211/1083725/211.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2127552260.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:55.253122+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2127552260",
+    "concepts": [
+      "Immunoglobulin light chain",
+      "Invariant (physics)",
+      "Complementarity determining region",
+      "Valine",
+      "Alanine"
+    ],
+    "oa_status": "bronze"
+  }
+}

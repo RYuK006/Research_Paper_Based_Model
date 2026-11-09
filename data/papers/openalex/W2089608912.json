@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2089608912",
+  "title": "Quantum spin Hall effect in two-dimensional transition metal dichalcogenides",
+  "abstract": "Quantum spin Hall (QSH) effect materials feature edge states that are topologically protected from backscattering. However, the small band gap in materials that have been identified as QSH insulators limits applications. We use first-principles calculations to predict a class of large-gap QSH insulators in two-dimensional transition metal dichalcogenides with 1T' structure, namely, 1T'-MX2 with M = (tungsten or molybdenum) and X = (tellurium, selenium, or sulfur). A structural distortion causes an intrinsic band inversion between chalcogenide-p and metal-d bands. Additionally, spin-orbit coupling opens a gap that is tunable by vertical electric field and strain. We propose a topological field effect transistor made of van der Waals heterostructures of 1T'-MX2 and two-dimensional dielectric layers that can be rapidly switched off by electric field through a topological phase transition instead of carrier depletion.",
+  "authors": [
+    "Xiaofeng Qian",
+    "Junwei Liu",
+    "Liang Fu",
+    "Ju Li"
+  ],
+  "year": 2014,
+  "doi": "10.1126/science.1256815",
+  "source": "openalex",
+  "categories": [
+    "Condensed matter physics",
+    "Chalcogenide",
+    "Electric field",
+    "Silicene",
+    "Materials science",
+    "Band gap",
+    "Dielectric",
+    "Topological insulator",
+    "Transition metal",
+    "Heterojunction",
+    "Graphene",
+    "Physics",
+    "Optoelectronics",
+    "Chemistry",
+    "Nanotechnology",
+    "Quantum mechanics",
+    "Catalysis",
+    "Biochemistry"
+  ],
+  "citation_count": 2056,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1406.2749",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2089608912.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:15.546131+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2089608912",
+    "concepts": [
+      "Condensed matter physics",
+      "Chalcogenide",
+      "Electric field",
+      "Silicene",
+      "Materials science"
+    ],
+    "oa_status": "green"
+  }
+}

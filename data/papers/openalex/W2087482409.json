@@ -1,0 +1,59 @@
+{
+  "id": "openalex:W2087482409",
+  "title": "Trans-Endocytosis of CD80 and CD86: A Molecular Basis for the Cell-Extrinsic Function of CTLA-4",
+  "abstract": "Cytotoxic T lymphocyte antigen 4 (CTLA-4) is an essential negative regulator of T cell immune responses whose mechanism of action is the subject of debate. CTLA-4 shares two ligands (CD80 and CD86) with a stimulatory receptor, CD28. Here, we show that CTLA-4 can capture its ligands from opposing cells by a process of trans-endocytosis. After removal, these costimulatory ligands are degraded inside CTLA-4-expressing cells, resulting in impaired costimulation via CD28. Acquisition of CD86 from antigen-presenting cells is stimulated by T cell receptor engagement and observed in vitro and in vivo. These data reveal a mechanism of immune regulation in which CTLA-4 acts as an effector molecule to inhibit CD28 costimulation by the cell-extrinsic depletion of ligands, accounting for many of the known features of the CD28-CTLA-4 system.",
+  "authors": [
+    "Omar Qureshi",
+    "Yong Zheng",
+    "Kyoko Nakamura",
+    "Kesley Attridge",
+    "Claire N. Manzotti",
+    "Emily M. Schmidt",
+    "Jennifer Baker",
+    "Louisa E. Jeffery",
+    "Satdip Kaur",
+    "Zoe Briggs",
+    "Tie Zheng Hou",
+    "Clare E. Futter",
+    "Graham Anderson",
+    "Lucy S. K. Walker",
+    "David Michael Sansom"
+  ],
+  "year": 2011,
+  "doi": "10.1126/science.1202947",
+  "source": "openalex",
+  "categories": [
+    "Endocytosis",
+    "Function (biology)",
+    "Cell biology",
+    "CD86",
+    "CD80",
+    "Chemistry",
+    "CTLA-4",
+    "Biology",
+    "T cell",
+    "Cell",
+    "Genetics",
+    "Immune system",
+    "Biochemistry",
+    "Cytotoxic T cell",
+    "CD40",
+    "In vitro"
+  ],
+  "citation_count": 1971,
+  "open_access_pdf_url": "https://publications.aston.ac.uk/id/eprint/37153/1/ukmss_36978.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2087482409.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:17.776918+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2087482409",
+    "concepts": [
+      "Endocytosis",
+      "Function (biology)",
+      "Cell biology",
+      "CD86",
+      "CD80"
+    ],
+    "oa_status": "green"
+  }
+}

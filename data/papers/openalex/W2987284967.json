@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2987284967",
+  "title": "Role of hypoxia in cancer therapy by regulating the tumor microenvironment",
+  "abstract": "AIM: Clinical resistance is a complex phenomenon in major human cancers involving multifactorial mechanisms, and hypoxia is one of the key components that affect the cellular expression program and lead to therapy resistance. The present study aimed to summarize the role of hypoxia in cancer therapy by regulating the tumor microenvironment (TME) and to highlight the potential of hypoxia-targeted therapy. METHODS: Relevant published studies were retrieved from PubMed, Web of Science, and Embase using keywords such as hypoxia, cancer therapy, resistance, TME, cancer, apoptosis, DNA damage, autophagy, p53, and other similar terms. RESULTS: Recent studies have shown that hypoxia is associated with poor prognosis in patients by regulating the TME. It confers resistance to conventional therapies through a number of signaling pathways in apoptosis, autophagy, DNA damage, mitochondrial activity, p53, and drug efflux. CONCLUSION: Hypoxia targeting might be relevant to overcome hypoxia-associated resistance in cancer treatment.",
+  "authors": [
+    "Xinming Jing",
+    "Fengming Yang",
+    "Chuchu Shao",
+    "Ke Wei",
+    "Mengyan Xie",
+    "Hua Shen",
+    "Yongqian Shu"
+  ],
+  "year": 2019,
+  "doi": "10.1186/s12943-019-1089-9",
+  "source": "openalex",
+  "categories": [
+    "Hypoxia (environmental)",
+    "Biology",
+    "Tumor microenvironment",
+    "Cancer research",
+    "Cancer",
+    "Tumor hypoxia",
+    "Cancer therapy",
+    "Oncology",
+    "Internal medicine",
+    "Tumor cells",
+    "Radiation therapy",
+    "Medicine",
+    "Genetics",
+    "Oxygen",
+    "Chemistry",
+    "Organic chemistry"
+  ],
+  "citation_count": 2086,
+  "open_access_pdf_url": "https://molecular-cancer.biomedcentral.com/counter/pdf/10.1186/s12943-019-1089-9",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2987284967.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:15.459337+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2987284967",
+    "concepts": [
+      "Hypoxia (environmental)",
+      "Biology",
+      "Tumor microenvironment",
+      "Cancer research",
+      "Cancer"
+    ],
+    "oa_status": "gold"
+  }
+}

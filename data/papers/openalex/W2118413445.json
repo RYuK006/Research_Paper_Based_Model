@@ -1,0 +1,44 @@
+{
+  "id": "openalex:W2118413445",
+  "title": "All-sky analysis of polarization in the microwave background",
+  "abstract": "Using the formalism of spin-weighted functions we present an all-sky analysis of polarization in the cosmic microwave background (CMB). Linear polarization is a second-rank symmetric and traceless tensor, which can be decomposed on a sphere into spin $\\ifmmode\\pm\\else\\textpm\\fi{}2$ spherical harmonics. These are the analogues of the spherical harmonics used in the temperature maps and obey the same completeness and orthogonality relations. We show that there exist two linear combinations of spin $\\ifmmode\\pm\\else\\textpm\\fi{}2$ multipole moments which have opposite parities and can be used to fully characterize the statistical properties of polarization in the CMB. Magnetic-type parity combination does not receive contributions from scalar modes and does not cross correlate with either temperature or electric-type parity combination, so there are four different power spectra that fully characterize statistical properties of CMB. We present their explicit expressions for scalar and tensor modes in the form of line of sight integral solution and numerically evaluate them for a representative set of models. These general solutions differ from the expressions obtained previously in the small scale limit both for scalar and tensor modes. A method to generate and analyze all-sky maps of temperature and polarization is given and the optimal estimators for various power spectra and their corresponding variances are discussed.",
+  "authors": [
+    "Matías Zaldarriaga",
+    "Uroš Seljak"
+  ],
+  "year": 1997,
+  "doi": "10.1103/physrevd.55.1830",
+  "source": "openalex",
+  "categories": [
+    "Cosmic microwave background",
+    "Multipole expansion",
+    "Physics",
+    "Polarization (electrochemistry)",
+    "Spherical harmonics",
+    "Estimator",
+    "Computational physics",
+    "Dipole",
+    "Quantum mechanics",
+    "Anisotropy",
+    "Mathematics",
+    "Statistics",
+    "Chemistry",
+    "Physical chemistry"
+  ],
+  "citation_count": 1255,
+  "open_access_pdf_url": "https://arxiv.org/pdf/astro-ph/9609170",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2118413445.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:02.568591+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2118413445",
+    "concepts": [
+      "Cosmic microwave background",
+      "Multipole expansion",
+      "Physics",
+      "Polarization (electrochemistry)",
+      "Spherical harmonics"
+    ],
+    "oa_status": "green"
+  }
+}

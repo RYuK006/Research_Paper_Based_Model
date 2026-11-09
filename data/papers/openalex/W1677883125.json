@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W1677883125",
+  "title": "Amyloid β-protein (Aβ) assembly: Aβ40 and Aβ42 oligomerize through distinct pathways",
+  "abstract": "Amyloid beta-protein (Abeta) is linked to neuronal injury and death in Alzheimer's disease (AD). Of particular relevance for elucidating the role of Abeta in AD is new evidence that oligomeric forms of Abeta are potent neurotoxins that play a major role in neurodegeneration and the strong association of the 42-residue form of Abeta, Abeta42, with the disease. Detailed knowledge of the structure and assembly dynamics of Abeta thus is important for the development of properly targeted AD therapeutics. Recently, we have shown that Abeta oligomers can be cross-linked efficiently, and their relative abundances quantified, by using the technique of photo-induced cross-linking of unmodified proteins (PICUP). Here, PICUP, size-exclusion chromatography, dynamic light scattering, circular dichroism spectroscopy, and electron microscopy have been combined to elucidate fundamental features of the early assembly of Abeta40 and Abeta42. Carefully prepared aggregate-free Abeta40 existed as monomers, dimers, trimers, and tetramers, in rapid equilibrium. In contrast, Abeta42 preferentially formed pentamerhexamer units (paranuclei) that assembled further to form beaded superstructures similar to early protofibrils. Addition of Ile-41 to Abeta40 was sufficient to induce formation of paranuclei, but the presence of Ala-42 was required for their further association. These data demonstrate that Abeta42 assembly involves formation of several distinct transient structures that gradually rearrange into protofibrils. The strong etiologic association of Abeta42 with AD may thus be a result of assemblies formed at the earliest stages of peptide oligomerization.",
+  "authors": [
+    "Gal Bitan",
+    "Marina D. Kirkitadze",
+    "Aleksey Lomakin",
+    "Sabrina S. Vollers",
+    "George B. Benedek",
+    "David B. Teplow"
+  ],
+  "year": 2002,
+  "doi": "10.1073/pnas.222681699",
+  "source": "openalex",
+  "categories": [
+    "Neurodegeneration",
+    "Circular dichroism",
+    "Biophysics",
+    "Chemistry",
+    "Amyloid (mycology)",
+    "Protein aggregation",
+    "Peptide",
+    "Protein structure",
+    "Monomer",
+    "Protein folding",
+    "Biochemistry",
+    "Biology",
+    "Disease",
+    "Medicine",
+    "Pathology",
+    "Polymer",
+    "Inorganic chemistry",
+    "Organic chemistry"
+  ],
+  "citation_count": 1316,
+  "open_access_pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/140968",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1677883125.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:57.694922+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1677883125",
+    "concepts": [
+      "Neurodegeneration",
+      "Circular dichroism",
+      "Biophysics",
+      "Chemistry",
+      "Amyloid (mycology)"
+    ],
+    "oa_status": "green"
+  }
+}

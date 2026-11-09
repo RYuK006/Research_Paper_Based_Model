@@ -1,0 +1,61 @@
+{
+  "id": "openalex:W1584834830",
+  "title": "High-Level Neuronal Expression of Aβ1–42in Wild-Type Human Amyloid Protein Precursor Transgenic Mice: Synaptotoxicity without Plaque Formation",
+  "abstract": "Amyloid plaques are a neuropathological hallmark of Alzheimer's disease (AD), but their relationship to neurodegeneration and dementia remains controversial. In contrast, there is a good correlation in AD between cognitive decline and loss of synaptophysin-immunoreactive (SYN-IR) presynaptic terminals in specific brain regions. We used expression-matched transgenic mouse lines to compare the effects of different human amyloid protein precursors (hAPP) and their products on plaque formation and SYN-IR presynaptic terminals. Four distinct minigenes were generated encoding wild-type hAPP or hAPP carrying mutations that alter the production of amyloidogenic Abeta peptides. The platelet-derived growth factor beta chain promoter was used to express these constructs in neurons. hAPP mutations associated with familial AD (FAD) increased cerebral Abeta(1-42) levels, whereas an experimental mutation of the beta-secretase cleavage site (671(M-->I)) eliminated production of human Abeta. High levels of Abeta(1-42) resulted in age-dependent formation of amyloid plaques in FAD-mutant hAPP mice but not in expression-matched wild-type hAPP mice. Yet, significant decreases in the density of SYN-IR presynaptic terminals were found in both groups of mice. Across mice from different transgenic lines, the density of SYN-IR presynaptic terminals correlated inversely with Abeta levels but not with hAPP levels or plaque load. We conclude that Abeta is synaptotoxic even in the absence of plaques and that high levels of Abeta(1-42) are insufficient to induce plaque formation in mice expressing wild-type hAPP. Our results support the emerging view that plaque-independent Abeta toxicity plays an important role in the development of synaptic deficits in AD and related conditions.",
+  "authors": [
+    "Lennart Mucke",
+    "Eliezer Masliah",
+    "Gui-Qiu Yu",
+    "Margaret E. Mallory",
+    "Edward M. Rockenstein",
+    "Gwen P. Tatsuno",
+    "Kang Hu",
+    "Dora Kholodenko",
+    "Kelly Johnson‐Wood",
+    "Lisa McConlogue"
+  ],
+  "year": 2000,
+  "doi": "10.1523/jneurosci.20-11-04050.2000",
+  "source": "openalex",
+  "categories": [
+    "Synaptophysin",
+    "Genetically modified mouse",
+    "Neurodegeneration",
+    "Transgene",
+    "Wild type",
+    "Amyloid (mycology)",
+    "Mutant",
+    "Mutation",
+    "Amyloid precursor protein",
+    "Biology",
+    "Chemistry",
+    "Endocrinology",
+    "Molecular biology",
+    "Gene",
+    "Cell biology",
+    "Internal medicine",
+    "Alzheimer's disease",
+    "Pathology",
+    "Medicine",
+    "Genetics",
+    "Immunohistochemistry",
+    "Disease",
+    "Immunology"
+  ],
+  "citation_count": 1884,
+  "open_access_pdf_url": "https://www.jneurosci.org/content/jneuro/20/11/4050.full.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1584834830.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:22.179566+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1584834830",
+    "concepts": [
+      "Synaptophysin",
+      "Genetically modified mouse",
+      "Neurodegeneration",
+      "Transgene",
+      "Wild type"
+    ],
+    "oa_status": "hybrid"
+  }
+}

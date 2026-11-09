@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W2168842536",
+  "title": "Short-Chain Fatty Acids Stimulate Glucagon-Like Peptide-1 Secretion via the G-Protein–Coupled Receptor FFAR2",
+  "abstract": "Interest in how the gut microbiome can influence the metabolic state of the host has recently heightened. One postulated link is bacterial fermentation of \"indigestible\" prebiotics to short-chain fatty acids (SCFAs), which in turn modulate the release of gut hormones controlling insulin release and appetite. We show here that SCFAs trigger secretion of the incretin hormone glucagon-like peptide (GLP)-1 from mixed colonic cultures in vitro. Quantitative PCR revealed enriched expression of the SCFA receptors ffar2 (grp43) and ffar3 (gpr41) in GLP-1-secreting L cells, and consistent with the reported coupling of GPR43 to Gq signaling pathways, SCFAs raised cytosolic Ca2+ in L cells in primary culture. Mice lacking ffar2 or ffar3 exhibited reduced SCFA-triggered GLP-1 secretion in vitro and in vivo and a parallel impairment of glucose tolerance. These results highlight SCFAs and their receptors as potential targets for the treatment of diabetes.",
+  "authors": [
+    "Gwen Tolhurst",
+    "Helen Heffron",
+    "Yu Shan Lam",
+    "Helen E. Parker",
+    "Abdella M. Habib",
+    "Eleftheria Diakogiannaki",
+    "Jennifer Cameron",
+    "Johannes Grosse",
+    "Frank M. Reimann",
+    "Fiona Mary Gribble"
+  ],
+  "year": 2011,
+  "doi": "10.2337/db11-1019",
+  "source": "openalex",
+  "categories": [
+    "Glucagon-like peptide-1",
+    "Receptor",
+    "Incretin",
+    "Secretion",
+    "Glucagon",
+    "Endocrinology",
+    "Hormone",
+    "Biology",
+    "Internal medicine",
+    "Chemistry",
+    "Cell biology",
+    "Biochemistry",
+    "Type 2 diabetes",
+    "Diabetes mellitus",
+    "Medicine"
+  ],
+  "citation_count": 2506,
+  "open_access_pdf_url": "https://diabetesjournals.org/diabetes/article-pdf/61/2/364/559450/364.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2168842536.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:04.375230+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2168842536",
+    "concepts": [
+      "Glucagon-like peptide-1",
+      "Receptor",
+      "Incretin",
+      "Secretion",
+      "Glucagon"
+    ],
+    "oa_status": "hybrid"
+  }
+}

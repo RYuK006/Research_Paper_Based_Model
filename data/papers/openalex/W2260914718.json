@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W2260914718",
+  "title": "Electrochemical Stability of Li 10 GeP 2 S 12 and Li 7 La 3 Zr 2 O 12 Solid Electrolytes",
+  "abstract": "The electrochemical stability window of solid electrolyte is overestimated by the conventional experimental method using a Li/electrolyte/inert metal semiblocking electrode because of the limited contact area between solid electrolyte and inert metal. Since the battery is cycled in the overestimated stability window, the decomposition of the solid electrolyte at the interfaces occurs but has been ignored as a cause for high interfacial resistances in previous studies, limiting the performance improvement of the bulk‐type solid‐state battery despite the decades of research efforts. Thus, there is an urgent need to identify the intrinsic stability window of the solid electrolyte. The thermodynamic electrochemical stability window of solid electrolytes is calculated using first principles computation methods, and an experimental method is developed to measure the intrinsic electrochemical stability window of solid electrolytes using a Li/electrolyte/electrolyte‐carbon cell. The most promising solid electrolytes, Li 10 GeP 2 S 12 and cubic Li‐garnet Li 7 La 3 Zr 2 O 12 , are chosen as the model materials for sulfide and oxide solid electrolytes, respectively. The results provide valuable insights to address the most challenging problems of the interfacial stability and resistance in high‐performance solid‐state batteries.",
+  "authors": [
+    "Fudong Han",
+    "Yizhou Zhu",
+    "Xingfeng He",
+    "Yifei Mo",
+    "Chunsheng Wang"
+  ],
+  "year": 2016,
+  "doi": "10.1002/aenm.201501590",
+  "source": "openalex",
+  "categories": [
+    "Electrolyte",
+    "Materials science",
+    "Electrochemistry",
+    "Fast ion conductor",
+    "Electrochemical window",
+    "Oxide",
+    "Inert",
+    "Electrode",
+    "Battery (electricity)",
+    "Sulfide",
+    "Chemical engineering",
+    "Thermodynamics",
+    "Physical chemistry",
+    "Ionic conductivity",
+    "Chemistry",
+    "Metallurgy",
+    "Organic chemistry",
+    "Physics",
+    "Power (physics)",
+    "Engineering"
+  ],
+  "citation_count": 1121,
+  "open_access_pdf_url": "https://www.osti.gov/servlets/purl/1433676",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2260914718.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:17.073128+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2260914718",
+    "concepts": [
+      "Electrolyte",
+      "Materials science",
+      "Electrochemistry",
+      "Fast ion conductor",
+      "Electrochemical window"
+    ],
+    "oa_status": "green"
+  }
+}

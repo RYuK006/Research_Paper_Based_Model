@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2003616899",
+  "title": "Ni(OH) 2 Nanoplates Grown on Graphene as Advanced Electrochemical Pseudocapacitor Materials",
+  "abstract": "Ni(OH)(2) nanocrystals grown on graphene sheets with various degrees of oxidation are investigated as electrochemical pseudocapacitor materials for potential energy storage applications. Single-crystalline Ni(OH)(2) hexagonal nanoplates directly grown on lightly oxidized, electrically conducting graphene sheets (GS) exhibit a high specific capacitance of approximately 1335 F/g at a charge and discharge current density of 2.8 A/g and approximately 953 F/g at 45.7 A/g with excellent cycling ability. The high specific capacitance and remarkable rate capability are promising for applications in supercapacitors with both high energy and power densities. A simple physical mixture of pre-synthesized Ni(OH)(2) nanoplates and graphene sheets shows lower specific capacitance, highlighting the importance of direct growth of nanomaterials on graphene to impart intimate interactions and efficient charge transport between the active nanomaterials and the conducting graphene network. Single-crystalline Ni(OH)(2) nanoplates directly grown on graphene sheets also significantly outperform small Ni(OH)(2) nanoparticles grown on heavily oxidized, electrically insulating graphite oxide (GO), suggesting that the electrochemical performance of these composites is dependent on the quality of graphene substrates and the morphology and crystallinity of the nanomaterials grown on top. These results suggest the importance of rational design and synthesis of graphene-based nanocomposite materials for high-performance energy applications.",
+  "authors": [
+    "Hailiang Wang",
+    "Hernan Sanchez Casalongue",
+    "Yongye Liang",
+    "Hongjie Dai"
+  ],
+  "year": 2010,
+  "doi": "10.1021/ja102267j",
+  "source": "openalex",
+  "categories": [
+    "Graphene",
+    "Pseudocapacitor",
+    "Supercapacitor",
+    "Nanomaterials",
+    "Nanotechnology",
+    "Materials science",
+    "Graphite oxide",
+    "Graphite",
+    "Capacitance",
+    "Nanocomposite",
+    "Oxide",
+    "Crystallinity",
+    "Graphene oxide paper",
+    "Nanoparticle",
+    "Nanostructure",
+    "Nanocrystal",
+    "Electrochemistry",
+    "Energy storage",
+    "Graphene foam",
+    "Chemical engineering",
+    "Charge carrier",
+    "Chemistry"
+  ],
+  "citation_count": 2049,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1005.0853",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2003616899.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:15.558229+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2003616899",
+    "concepts": [
+      "Graphene",
+      "Pseudocapacitor",
+      "Supercapacitor",
+      "Nanomaterials",
+      "Nanotechnology"
+    ],
+    "oa_status": "green"
+  }
+}

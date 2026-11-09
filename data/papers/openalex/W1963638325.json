@@ -1,0 +1,39 @@
+{
+  "id": "openalex:W1963638325",
+  "title": "Reference database of Raman spectra of biological molecules",
+  "abstract": "Abstract Raman spectra of biological materials are very complex, because they consist of signals from all molecules present in cells. In order to obtain chemical information from these spectra, it is necessary to know the Raman patterns of the possible components of a cell. In this paper, we present a collection of Raman spectra of biomolecules that can serve as references for the interpretation of Raman spectra of biological materials. We included the most important components present in a cell: (1) DNA and RNA bases (adenine, cytosine, guanine, thymine and uracil), (2) amino acids (glycine, L ‐alanine, L ‐valine, L ‐serine, L ‐glutamic acid, L ‐arginine, L ‐phenylalanine, L ‐tyrosine, L ‐tryptophan, L ‐histidine, L ‐proline), (3) fatty acids and fats (lauric acid, myristic acid, palmitic acid, stearic acid, 12‐methyltetradecanoic acid, 13‐methylmyristic acid, 14‐methylpentadecanoic acid, 14‐methylhexadecanoic acid, 15‐methylpalmitic acid, oleic acid, vaccenic acid, glycerol, triolein, trilinolein, trilinolenin), (4) saccharides (β‐ D ‐glucose, lactose, cellulose, D ‐(+)‐dextrose, D ‐(+)‐trehalose, amylose, amylopectine, D ‐(+)‐mannose, D ‐(+)‐fucose, D ‐(−)‐arabinose, D ‐(+)‐xylose, D ‐(−)‐fructose, D ‐(+)‐galactosamine, N ‐acetyl‐ D ‐glucosamine, chitin), (5) primary metabolites (citric acid, succinic acid, fumarate, malic acid, pyruvate, phosphoenolpyruvate, coenzyme A, acetyl coenzyme A, acetoacetate, D ‐fructose‐6‐phosphate) and (6) others (β‐carotene, ascorbic acid, riboflavin, glutathione). Examples of Raman spectra of bacteria and fungal spores are shown, together with band assignments to the reference products. Copyright © 2007 John Wiley & Sons, Ltd.",
+  "authors": [
+    "Joke De Gelder",
+    "Kris De Gussem",
+    "Peter Vandenabeele",
+    "Luc J. Moens"
+  ],
+  "year": 2007,
+  "doi": "10.1002/jrs.1734",
+  "source": "openalex",
+  "categories": [
+    "Chemistry",
+    "Biochemistry",
+    "Oleic acid",
+    "Ascorbic acid",
+    "Stearic acid",
+    "Organic chemistry",
+    "Food science"
+  ],
+  "citation_count": 1459,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jrs.1734",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1963638325.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:48.218709+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1963638325",
+    "concepts": [
+      "Chemistry",
+      "Biochemistry",
+      "Oleic acid",
+      "Ascorbic acid",
+      "Stearic acid"
+    ],
+    "oa_status": "bronze"
+  }
+}

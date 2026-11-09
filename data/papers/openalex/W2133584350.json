@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2133584350",
+  "title": "Dissecting molecular cross-talk between Nrf2 and NF-κB response pathways",
+  "abstract": "In most tissues, cells are exposed to frequent changes in levels of oxidative stress and inflammation. Nuclear factor (erythroid-derived 2)-like 2 (Nrf2) and nuclear factor-κB (NF-κB) are the two key transcription factors that regulate cellular responses to oxidative stress and inflammation respectively. Pharmacological and genetic studies suggest that there is functional cross-talk between these two important pathways. The absence of Nrf2 can exacerbate NF-κB activity leading to increased cytokine production, whereas NF-κB can modulate Nrf2 transcription and activity, having both positive and negative effects on the target gene expression. This review focuses on the potentially complex molecular mechanisms that link the Nrf2 and NF-κB pathways and the importance of designing more effective therapeutic strategies to prevent or treat a broad range of neurological disorders.",
+  "authors": [
+    "Joanna D. Wardyn",
+    "Amy H. Ponsford",
+    "Christopher M. Sanderson"
+  ],
+  "year": 2015,
+  "doi": "10.1042/bst20150014",
+  "source": "openalex",
+  "categories": [
+    "Transcription factor",
+    "NF-κB",
+    "Inflammation",
+    "Oxidative stress",
+    "Cell biology",
+    "NFKB1",
+    "Biology",
+    "Cytokine",
+    "Signal transduction",
+    "Transcription (linguistics)",
+    "Gene",
+    "Cancer research",
+    "Chemistry",
+    "Genetics",
+    "Immunology",
+    "Biochemistry",
+    "Linguistics",
+    "Philosophy"
+  ],
+  "citation_count": 1235,
+  "open_access_pdf_url": "https://portlandpress.com/biochemsoctrans/article-pdf/43/4/621/431213/bst0430621.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2133584350.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:02.863170+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2133584350",
+    "concepts": [
+      "Transcription factor",
+      "NF-κB",
+      "Inflammation",
+      "Oxidative stress",
+      "Cell biology"
+    ],
+    "oa_status": "bronze"
+  }
+}

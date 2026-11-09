@@ -1,0 +1,60 @@
+{
+  "id": "openalex:W2010084870",
+  "title": "Homogenous 96-Plex PEA Immunoassay Exhibiting High Sensitivity, Specificity, and Excellent Scalability",
+  "abstract": "Medical research is developing an ever greater need for comprehensive high-quality data generation to realize the promises of personalized health care based on molecular biomarkers. The nucleic acid proximity-based methods proximity ligation and proximity extension assays have, with their dual reporters, shown potential to relieve the shortcomings of antibodies and their inherent cross-reactivity in multiplex protein quantification applications. The aim of the present study was to develop a robust 96-plex immunoassay based on the proximity extension assay (PEA) for improved high throughput detection of protein biomarkers. This was enabled by: (1) a modified design leading to a reduced number of pipetting steps compared to the existing PEA protocol, as well as improved intra-assay precision; (2) a new enzymatic system that uses a hyper-thermostabile enzyme, Pwo, for uniting the two probes allowing for room temperature addition of all reagents and improved the sensitivity; (3) introduction of an inter-plate control and a new normalization procedure leading to improved inter-assay precision (reproducibility). The multiplex proximity extension assay was found to perform well in complex samples, such as serum and plasma, and also in xenografted mice and resuspended dried blood spots, consuming only 1 µL sample per test. All-in-all, the development of the current multiplex technique is a step toward robust high throughput protein marker discovery and research.",
+  "authors": [
+    "Erika Assarsson",
+    "Martin Lundberg",
+    "Göran Holmquist",
+    "Johan Björkesten",
+    "Stine Buch Thorsen",
+    "Daniel Ekman",
+    "Anna Eriksson",
+    "Emma Rennel Dickens",
+    "Sandra Ohlsson",
+    "Gabriella Edfeldt",
+    "Ann‐Catrin Andersson",
+    "Patrik Lindstedt",
+    "Jan Stenvang",
+    "Mats T. Gullberg",
+    "Simon Fredriksson"
+  ],
+  "year": 2014,
+  "doi": "10.1371/journal.pone.0095192",
+  "source": "openalex",
+  "categories": [
+    "Multiplex",
+    "Immunoassay",
+    "Assay sensitivity",
+    "Proximity ligation assay",
+    "Computational biology",
+    "Reproducibility",
+    "Chromatography",
+    "Biology",
+    "Chemistry",
+    "Bioinformatics",
+    "Antibody",
+    "Medicine",
+    "Biochemistry",
+    "Immunology",
+    "Pathology",
+    "Alternative medicine",
+    "Receptor"
+  ],
+  "citation_count": 1886,
+  "open_access_pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0095192&type=printable",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2010084870.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:22.177766+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2010084870",
+    "concepts": [
+      "Multiplex",
+      "Immunoassay",
+      "Assay sensitivity",
+      "Proximity ligation assay",
+      "Computational biology"
+    ],
+    "oa_status": "gold"
+  }
+}

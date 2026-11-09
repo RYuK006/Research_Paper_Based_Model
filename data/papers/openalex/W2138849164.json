@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2138849164",
+  "title": "Clot-bound thrombin is protected from inhibition by heparin-antithrombin III but is susceptible to inactivation by antithrombin III-independent inhibitors.",
+  "abstract": "Propagation of venous thrombi or rethrombosis after coronary thrombolytic therapy can occur despite heparin administration. To explore potential mechanisms, we set out to determine whether clot-bound thrombin is relatively protected from inhibition by heparin-antithrombin III but susceptible to inactivation by antithrombin III-independent inhibitors. Using plasma fibrinopeptide A (FPA) levels as an index of thrombin activity, we compared the ability of thrombin inhibitors to block FPA release mediated by fluid-phase thrombin with their activity against the clot-bound enzyme. Incubation of thrombin with citrated plasma results in concentration-dependent FPA generation, which reaches a plateau within minutes. In contrast, there is progressive FPA generation when fibrin clots are incubated with citrated plasma. Heparin, hirudin, hirudin dodecapeptide (hirugen), and D-phenylalanyl-L-prolyl-L-arginyl chloromethyl ketone (PPACK) produce concentration-dependent inhibition of FPA release mediated by fluid-phase thrombin. However, heparin is much less effective at inhibiting thrombin bound to fibrin because a 20-fold higher concentration is necessary to block 70% of the activity of the clot-bound enzyme than is required for equivalent inhibition of fluid-phase thrombin (2.0 and 0.1 U/ml, respectively). In contrast, hirugen and PPACK are equally effective inhibitors of fluid- and solid-phase thrombin, while hirudin is only 50% as effective against the clot-bound enzyme. None of the inhibitors displace bound 125I-labeled thrombin from the clot. These studies indicate that (a) clot-bound thrombin is relatively protected from inhibition by heparin, possibly because the heparin binding site on thrombin is inaccessible when the enzyme is bound to fibrin, and (b) clot-bound thrombin is susceptible to inactivation by antithrombin III-independent inhibitors because the sites of their interaction are not masked by thrombin binding to fibrin. For these reasons, antithrombin III-independent inhibitors may be more effective than heparin in certain clinical settings.",
+  "authors": [
+    "Jeffrey Ian Weitz",
+    "Monika Hudoba",
+    "David R. Massel",
+    "John M. Maraganore",
+    "Joseph Hirsh"
+  ],
+  "year": 1990,
+  "doi": "10.1172/jci114723",
+  "source": "openalex",
+  "categories": [
+    "Thrombin",
+    "Antithrombin",
+    "Hirudin",
+    "Discovery and development of direct thrombin inhibitors",
+    "Chemistry",
+    "Heparin",
+    "Fibrin",
+    "Coagulation",
+    "Antithrombins",
+    "Pharmacology",
+    "Biochemistry",
+    "Internal medicine",
+    "Platelet",
+    "Medicine",
+    "Immunology"
+  ],
+  "citation_count": 1117,
+  "open_access_pdf_url": "http://www.jci.org/articles/view/114723/files/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2138849164.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:19.523507+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2138849164",
+    "concepts": [
+      "Thrombin",
+      "Antithrombin",
+      "Hirudin",
+      "Discovery and development of direct thrombin inhibitors",
+      "Chemistry"
+    ],
+    "oa_status": "bronze"
+  }
+}

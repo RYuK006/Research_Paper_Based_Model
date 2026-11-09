@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2731568958",
+  "title": "CrystalExplorer model energies and energy frameworks: extension to metal coordination compounds, organic salts, solvates and open-shell systems",
+  "abstract": "The application domain of accurate and efficient CE-B3LYP and CE-HF model energies for intermolecular interactions in molecular crystals is extended by calibration against density functional results for 1794 molecule/ion pairs extracted from 171 crystal structures. The mean absolute deviation of CE-B3LYP model energies from DFT values is a modest 2.4 kJ mol −1 for pairwise energies that span a range of 3.75 MJ mol −1 . The new sets of scale factors determined by fitting to counterpoise-corrected DFT calculations result in minimal changes from previous energy values. Coupled with the use of separate polarizabilities for interactions involving monatomic ions, these model energies can now be applied with confidence to a vast number of molecular crystals. Energy frameworks have been enhanced to represent the destabilizing interactions that are important for molecules with large dipole moments and organic salts. Applications to a variety of molecular crystals are presented in detail to highlight the utility and promise of these tools.",
+  "authors": [
+    "Campbell F. R. Mackenzie",
+    "Peter R. Spackman",
+    "Dylan Jayatilaka",
+    "Mark A. Spackman"
+  ],
+  "year": 2017,
+  "doi": "10.1107/s205225251700848x",
+  "source": "openalex",
+  "categories": [
+    "Monatomic ion",
+    "Chemistry",
+    "Intermolecular force",
+    "Molecule",
+    "Density functional theory",
+    "Ion",
+    "Interaction energy",
+    "Computational chemistry",
+    "Chemical physics",
+    "Crystal (programming language)",
+    "Counterpoise",
+    "Dipole",
+    "Computer science",
+    "Basis set",
+    "Organic chemistry",
+    "Programming language"
+  ],
+  "citation_count": 1482,
+  "open_access_pdf_url": "http://journals.iucr.org/m/issues/2017/05/00/lc5090/lc5090.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2731568958.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:48.150038+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2731568958",
+    "concepts": [
+      "Monatomic ion",
+      "Chemistry",
+      "Intermolecular force",
+      "Molecule",
+      "Density functional theory"
+    ],
+    "oa_status": "gold"
+  }
+}

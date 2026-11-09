@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2022204871",
+  "title": "Recognizing contextual polarity in phrase-level sentiment analysis",
+  "abstract": "This paper presents a new approach to phrase-level sentiment analysis that first determines whether an expression is neutral or polar and then disambiguates the polarity of the polar expressions. With this approach, the system is able to automatically identify the contextual polarity for a large subset of sentiment expressions, achieving results that are significantly better than baseline.",
+  "authors": [
+    "Theresa Wilson",
+    "Janyce Wiebe",
+    "Paul Hoffmann"
+  ],
+  "year": 2005,
+  "doi": "10.3115/1220575.1220619",
+  "source": "openalex",
+  "categories": [
+    "Polarity (international relations)",
+    "Phrase",
+    "Computer science",
+    "Polar",
+    "Sentiment analysis",
+    "Baseline (sea)",
+    "Natural language processing",
+    "Artificial intelligence",
+    "Expression (computer science)",
+    "Chemistry",
+    "Biology",
+    "Physics",
+    "Astronomy",
+    "Programming language",
+    "Fishery",
+    "Cell",
+    "Biochemistry"
+  ],
+  "citation_count": 3423,
+  "open_access_pdf_url": "https://dl.acm.org/doi/pdf/10.3115/1220575.1220619",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2022204871.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:57.733751+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2022204871",
+    "concepts": [
+      "Polarity (international relations)",
+      "Phrase",
+      "Computer science",
+      "Polar",
+      "Sentiment analysis"
+    ],
+    "oa_status": "gold"
+  }
+}

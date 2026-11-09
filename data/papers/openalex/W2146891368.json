@@ -1,0 +1,57 @@
+{
+  "id": "openalex:W2146891368",
+  "title": "Resolving the variability in dissolved organic matter fluorescence in a temperate estuary and its catchment using PARAFAC analysis",
+  "abstract": "Excitation emission matrix fluorescence spectroscopy combined with PARAFAC analysis provides a fast and effective method of characterizing the fluorescent fraction of dissolved organic matter (DOM). Fluorescence measurements can be used as a tracer for quantitative and qualitative changes occurring in the DOM pool as a whole. An earlier study found that the fluorescence signal could be modeled by five fractions. This study presents an analysis on a considerably larger data set (>1,200 samples) resulting from a 1-yr sampling program in Horsens Estuary, Denmark. Eight fluorescent fractions were identified. Four biogenic terrestrial, two anthropogenic, and two protein-like fractions were identified. Analysis of covariation between the components identified source-specific fractions and the presence of common factors controlling the composition of terrestrial DOM exported from different catchments.",
+  "authors": [
+    "Colin Andrew Stedmon",
+    "Stiig Markager"
+  ],
+  "year": 2005,
+  "doi": "10.4319/lo.2005.50.2.0686",
+  "source": "openalex",
+  "categories": [
+    "Estuary",
+    "Dissolved organic carbon",
+    "Fluorescence",
+    "Environmental chemistry",
+    "Environmental science",
+    "TRACER",
+    "Temperate climate",
+    "Organic matter",
+    "Drainage basin",
+    "Fluorescence spectroscopy",
+    "Sampling (signal processing)",
+    "Fraction (chemistry)",
+    "Fluorescence spectrometry",
+    "Chemistry",
+    "Ecology",
+    "Oceanography",
+    "Geology",
+    "Biology",
+    "Chromatography",
+    "Geography",
+    "Cartography",
+    "Computer vision",
+    "Quantum mechanics",
+    "Filter (signal processing)",
+    "Physics",
+    "Computer science",
+    "Nuclear physics"
+  ],
+  "citation_count": 1202,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.4319/lo.2005.50.2.0686",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2146891368.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:08.272133+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2146891368",
+    "concepts": [
+      "Estuary",
+      "Dissolved organic carbon",
+      "Fluorescence",
+      "Environmental chemistry",
+      "Environmental science"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2023598683",
+  "title": "p62/SQSTM1 Is a Target Gene for Transcription Factor NRF2 and Creates a Positive Feedback Loop by Inducing Antioxidant Response Element-driven Gene Transcription",
+  "abstract": "The p62/SQSTM1 (sequestosome 1) protein, which acts as a cargo receptor for autophagic degradation of ubiquitinated targets, is up-regulated by various stressors. Induction of the p62 gene by oxidative stress is mediated by NF-E2-related factor 2 (NRF2) and, at the same time, p62 protein contributes to the activation of NRF2, but hitherto the mechanisms involved were not known. Herein, we have mapped an antioxidant response element (ARE) in the p62 promoter that is responsible for its induction by oxidative stress via NRF2. Chromatin immunoprecipitation and gel mobility-shift assays verified that NRF2 binds to this cis-element in vivo and in vitro. Also, p62 docks directly onto the Kelch-repeat domain of Kelch-like ECH-associated protein 1 (KEAP1), via a motif designated the KEAP1 interacting region (KIR), thereby blocking binding between KEAP1 and NRF2 that leads to ubiquitylation and degradation of the transcription factor. The KIR motif in p62 is located immediately C-terminal to the LC3-interacting region (LIR) and resembles the ETGE motif utilized by NRF2 for its interaction with KEAP1. KIR is required for p62 to stabilize NRF2, and inhibition of KEAP1 by p62 occurs from a cytoplasmic location within the cell. The LIR and KIR motifs cannot be engaged simultaneously by LC3 and KEAP1, but because p62 is polymeric the interaction between KEAP1 and p62 leads to accumulation of KEAP1 in p62 bodies, which is followed by autophagic degradation of KEAP1. Our data explain how p62 contributes to activation of NRF2 target genes in response to oxidative stress through creating a positive feedback loop.",
+  "authors": [
+    "Ashish Jain",
+    "Trond Lamark",
+    "Eva Sjøttem",
+    "Kenneth Bowitz Larsen",
+    "Jane Atesoh Awuh",
+    "Aud Øvervatn",
+    "Michael J. McMahon",
+    "John D. Hayes",
+    "Terje Johansen"
+  ],
+  "year": 2010,
+  "doi": "10.1074/jbc.m110.118976",
+  "source": "openalex",
+  "categories": [
+    "KEAP1",
+    "Transcription factor",
+    "Cell biology",
+    "Ubiquitin",
+    "Response element",
+    "Chromatin immunoprecipitation",
+    "Sequestosome 1",
+    "Biology",
+    "Transcription (linguistics)",
+    "Gene",
+    "Chemistry",
+    "Autophagy",
+    "Promoter",
+    "Gene expression",
+    "Genetics",
+    "Apoptosis",
+    "Philosophy",
+    "Linguistics"
+  ],
+  "citation_count": 1505,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925820602927/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2023598683.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:45.557251+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2023598683",
+    "concepts": [
+      "KEAP1",
+      "Transcription factor",
+      "Cell biology",
+      "Ubiquitin",
+      "Response element"
+    ],
+    "oa_status": "hybrid"
+  }
+}

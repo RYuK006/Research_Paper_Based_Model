@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2005944647",
+  "title": "A second-generation reactive empirical bond order (REBO) potential energy expression for hydrocarbons",
+  "abstract": "A second-generation potential energy function for solid carbon and hydrocarbon molecules that is based on an empirical bond order formalism is presented. This potential allows for covalent bond breaking and forming with associated changes in atomic hybridization within a classical potential, producing a powerful method for modelling complex chemistry in large many-atom systems. This revised potential contains improved analytic functions and an extended database relative to an earlier version (Brenner D W 1990 Phys. Rev. B 42 9458). These lead to a significantly better description of bond energies, lengths, and force constants for hydrocarbon molecules, as well as elastic properties, interstitial defect energies, and surface energies for diamond.",
+  "authors": [
+    "Donald W. Brenner",
+    "Olga A. Shenderova",
+    "Judith A. Harrison",
+    "Steven J. Stuart",
+    "Boris Ni",
+    "Susan B. Sinnott"
+  ],
+  "year": 2002,
+  "doi": "10.1088/0953-8984/14/4/312",
+  "source": "openalex",
+  "categories": [
+    "Covalent bond",
+    "Hydrocarbon",
+    "Formalism (music)",
+    "Molecule",
+    "Chemistry",
+    "Potential energy",
+    "Potential energy surface",
+    "Diamond",
+    "Bond order",
+    "Bond energy",
+    "Computational chemistry",
+    "Bond length",
+    "Chemical physics",
+    "Atomic physics",
+    "Thermodynamics",
+    "Physics",
+    "Organic chemistry",
+    "Musical",
+    "Art",
+    "Visual arts"
+  ],
+  "citation_count": 3754,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1088/0953-8984/14/4/312/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2005944647.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:54.131821+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2005944647",
+    "concepts": [
+      "Covalent bond",
+      "Hydrocarbon",
+      "Formalism (music)",
+      "Molecule",
+      "Chemistry"
+    ],
+    "oa_status": "bronze"
+  }
+}

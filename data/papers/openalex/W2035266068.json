@@ -1,0 +1,58 @@
+{
+  "id": "openalex:W2035266068",
+  "title": "Molecular dynamics with coupling to an external bath",
+  "abstract": "In molecular dynamics (MD) simulations the need often arises to maintain such parameters as temperature or pressure rather than energy and volume, or to impose gradients for studying transport properties in nonequilibrium MD. A method is described to realize coupling to an external bath with constant temperature or pressure with adjustable time constants for the coupling. The method is easily extendable to other variables and to gradients, and can be applied also to polyatomic molecules involving internal constraints. The influence of coupling time constants on dynamical variables is evaluated. A leap-frog algorithm is presented for the general case involving constraints with coupling to both a constant temperature and a constant pressure bath.",
+  "authors": [
+    "Herman J. C. Berendsen",
+    "Johan P. M. Postma",
+    "Wilfred F. van Gunsteren",
+    "A. DiNola",
+    "Jan R. Haak"
+  ],
+  "year": 1984,
+  "doi": "10.1063/1.448118",
+  "source": "openalex",
+  "categories": [
+    "Coupling (piping)",
+    "Constant (computer programming)",
+    "Molecular dynamics",
+    "Polyatomic ion",
+    "Coupling constant",
+    "Non-equilibrium thermodynamics",
+    "Dynamics (music)",
+    "Statistical physics",
+    "Time constant",
+    "Physics",
+    "Volume (thermodynamics)",
+    "Thermodynamics",
+    "Chemistry",
+    "Molecule",
+    "Chemical physics",
+    "Classical mechanics",
+    "Materials science",
+    "Computational chemistry",
+    "Quantum mechanics",
+    "Computer science",
+    "Engineering",
+    "Metallurgy",
+    "Programming language",
+    "Electrical engineering",
+    "Acoustics"
+  ],
+  "citation_count": 30984,
+  "open_access_pdf_url": "https://research.rug.nl/files/64380902/1.448118.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2035266068.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:49.783472+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2035266068",
+    "concepts": [
+      "Coupling (piping)",
+      "Constant (computer programming)",
+      "Molecular dynamics",
+      "Polyatomic ion",
+      "Coupling constant"
+    ],
+    "oa_status": "green"
+  }
+}

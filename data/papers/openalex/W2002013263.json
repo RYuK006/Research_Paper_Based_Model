@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2002013263",
+  "title": "A Water and Heat Management Model for Proton‐Exchange‐Membrane Fuel Cells",
+  "abstract": "Proper water and heat management are essential for obtaining high‐power‐density performance at high energy efficiency for proton‐exchange‐membrane fuel cells. A water and heat management model was developed and used to investigate the effectiveness of various humidification designs. The model accounts for water transport across the membrane by electro‐osmosis and diffusion, heat transfer from the solid phase to the gas phase and latent heat associated with water evaporation and condensation in the flow channels. Results from the model showed that at high current densities (> 1 A/ cm 2 ) ohmic loss in the membrane accounts for a large fraction of the voltage loss in the cell and back diffusion of water from the cathode side of the membrane is insufficient to keep the membrane hydrated ( i.e. , conductive). Consequently, to minimize this ohmic loss the anode stream must be humidified, and when air is used instead of pure oxygen the cathode stream must also be humidified.",
+  "authors": [
+    "Trung Van Nguyen",
+    "Ralph E. White"
+  ],
+  "year": 1993,
+  "doi": "10.1149/1.2220792",
+  "source": "openalex",
+  "categories": [
+    "Proton exchange membrane fuel cell",
+    "Cathode",
+    "Anode",
+    "Membrane",
+    "Chemistry",
+    "Heat transfer",
+    "Chemical engineering",
+    "Water transport",
+    "Condensation",
+    "Ohmic contact",
+    "Materials science",
+    "Thermodynamics",
+    "Nuclear engineering",
+    "Water flow",
+    "Environmental engineering",
+    "Electrode",
+    "Environmental science",
+    "Physical chemistry",
+    "Physics",
+    "Engineering",
+    "Biochemistry"
+  ],
+  "citation_count": 1147,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1149/1.2220792/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2002013263.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:14.624572+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2002013263",
+    "concepts": [
+      "Proton exchange membrane fuel cell",
+      "Cathode",
+      "Anode",
+      "Membrane",
+      "Chemistry"
+    ],
+    "oa_status": "bronze"
+  }
+}

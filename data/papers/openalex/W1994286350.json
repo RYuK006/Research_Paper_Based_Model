@@ -1,0 +1,59 @@
+{
+  "id": "openalex:W1994286350",
+  "title": "Likelihood-enhanced fast translation functions",
+  "abstract": "This paper is a companion to a recent paper on fast rotation functions [Storoni et al. (2004), Acta Cryst. D60, 432-438], which showed how a Taylor-series expansion of the maximum-likelihood rotation function leads to improved likelihood-enhanced fast rotation functions. In a similar manner, it is shown here how linear and quadratic Taylor-series expansions and least-squares approximations of the maximum-likelihood translation function lead to likelihood-enhanced translation functions, which can be calculated by FFT and which are more sensitive to the correct translation than the traditional correlation-coefficient fast translation function. These likelihood-enhanced translation targets for molecular-replacement searches have been implemented in the program Phaser using the Computational Crystallography Toolbox (cctbx).",
+  "authors": [
+    "Airlie J. McCoy",
+    "Ralf W. Grosse‐Kunstleve",
+    "Laurent C. Storoni",
+    "Randy J. Read"
+  ],
+  "year": 2005,
+  "doi": "10.1107/s0907444905001617",
+  "source": "openalex",
+  "categories": [
+    "Translation (biology)",
+    "Taylor series",
+    "Rotation (mathematics)",
+    "Likelihood function",
+    "Maximum likelihood",
+    "Algorithm",
+    "Series (stratigraphy)",
+    "Quadratic equation",
+    "Function (biology)",
+    "Toolbox",
+    "Computer science",
+    "Restricted maximum likelihood",
+    "Mathematics",
+    "Fast Fourier transform",
+    "Applied mathematics",
+    "Statistics",
+    "Artificial intelligence",
+    "Mathematical analysis",
+    "Geometry",
+    "Messenger RNA",
+    "Biochemistry",
+    "Gene",
+    "Chemistry",
+    "Biology",
+    "Paleontology",
+    "Evolutionary biology",
+    "Programming language"
+  ],
+  "citation_count": 1649,
+  "open_access_pdf_url": "http://journals.iucr.org/d/issues/2005/04/00/gx5042/gx5042.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1994286350.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:37.993703+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1994286350",
+    "concepts": [
+      "Translation (biology)",
+      "Taylor series",
+      "Rotation (mathematics)",
+      "Likelihood function",
+      "Maximum likelihood"
+    ],
+    "oa_status": "hybrid"
+  }
+}

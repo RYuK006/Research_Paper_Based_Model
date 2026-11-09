@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W3013992874",
+  "title": "Colossal magnetoresistance",
+  "abstract": "We review recent experimental work falling under the broad classification of colossal magnetoresistance (CMR), which is magnetoresistance associated with a ferromagnetic-to-paramagnetic phase transition. The prototypical CMR compound is derived from the parent compound, perovskite . When hole doped at a concentration of 20 - 40% holes/Mn ion, for instance by Ca or Sr substitution for La, the material displays a transition from a high-temperature paramagnetic insulator to a low-temperature ferromagnetic metal. Near the phase transition temperature, which can exceed room temperature in some compositions, large magnetoresistance is observed and its possible application in magnetic recording has revived interest in these materials. In addition, unusual magneto-elastic effects and charge ordering have focused attention on strong electron - phonon coupling. This coupling, which is a type of dynamic extended-system version of the Jahn - Teller effect, in conjunction with the double-exchange interaction, is also viewed as essential for a microscopic description of CMR in the manganite perovskites. Large magnetoresistance is also seen in other systems, namely and some Cr chalcogenide spinels, compounds which differ greatly from the manganite perovskites. We describe the relevant points of contrast between the various CMR materials.",
+  "authors": [
+    "A. P. Ramirez"
+  ],
+  "year": 1997,
+  "doi": "10.1088/0953-8984/9/39/005",
+  "source": "openalex",
+  "categories": [
+    "Manganite",
+    "Colossal magnetoresistance",
+    "Magnetoresistance",
+    "Condensed matter physics",
+    "Ferromagnetism",
+    "Materials science",
+    "Paramagnetism",
+    "Chalcogenide",
+    "Charge ordering",
+    "Jahn–Teller effect",
+    "Perovskite (structure)",
+    "Giant magnetoresistance",
+    "Phase transition",
+    "Ion",
+    "Chemistry",
+    "Charge (physics)",
+    "Physics",
+    "Magnetic field",
+    "Crystallography",
+    "Metallurgy",
+    "Quantum mechanics",
+    "Organic chemistry"
+  ],
+  "citation_count": 1688,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1088/0953-8984/9/39/005/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3013992874.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:33.205970+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3013992874",
+    "concepts": [
+      "Manganite",
+      "Colossal magnetoresistance",
+      "Magnetoresistance",
+      "Condensed matter physics",
+      "Ferromagnetism"
+    ],
+    "oa_status": "bronze"
+  }
+}

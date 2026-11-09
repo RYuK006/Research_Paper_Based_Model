@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2013573826",
+  "title": "The diagnostic properties of rheumatoid arthritis antibodies recognizing a cyclic citrullinated peptide",
+  "abstract": "OBJECTIVE: Since modern treatment of rheumatoid arthritis (RA) is shifting toward aggressive antirheumatic therapy in an early phase of the disease, diagnostic tests with high specificity are desirable. A new serologic test (anti-cyclic citrullinated peptide [anti-CCP] enzyme-linked immunosorbent assay [ELISA]) was developed to determine the presence of antibodies directed toward citrullinated peptides, using a synthetic peptide designed for this purpose. METHODS: A cyclic peptide variant that contains deiminated arginine (citrulline) was designed and used as antigenic substrate in ELISA. Test parameters and diagnostic characteristics of the test were studied in patients with and without RA, in patients with various infectious diseases, and in a group of patients from an early arthritis clinic (EAC). RESULTS: Using prevalent RA and non-RA sera, the anti-CCP ELISA proved to be extremely specific (98%), with a reasonable sensitivity (68%). Also, in the EAC study group, the anti-CCP ELISA appeared to be highly specific for RA (96%). In comparison with the IgM rheumatoid factor (IgM-RF) ELISA, the anti-CCP ELISA had a significantly higher specificity (96% for CCP versus 91% for IgM-RF; P = 0.016) at optimal cut-off values. The sensitivity of both tests for RA was moderate: 48% and 54% for the anti-CCP ELISA and the IgM-RF ELISA, respectively (P = 0.36). Combination of the anti-CCP and the IgM-RF ELISAs resulted in a significantly higher positive predictive value of 91% (P = 0.013) and a slightly lower negative predictive value of 78% (P = 0.35) as compared with the use of the IgM-RF ELISA alone. The ability of the 2 tests performed at the first visit to predict erosive disease at 2 years of followup in RA patients was comparable (positive predictive value 91%). CONCLUSION: The anti-CCP ELISA might be very useful for diagnostic and therapeutic strategies in RA of recent onset.",
+  "authors": [
+    "Gerard A. Schellekens",
+    "Hendrik Visser",
+    "Ben A. W. De Jong",
+    "Frank H J van den Hoogen",
+    "Johanna M. W. Hazes",
+    "Ferdinand C. Breedveld",
+    "Walther J. VAN VENROOIJ"
+  ],
+  "year": 2000,
+  "doi": "10.1002/1529-0131(200001)43:1<155::aid-anr20>3.0.co;2-3",
+  "source": "openalex",
+  "categories": [
+    "Rheumatoid arthritis",
+    "Medicine",
+    "Rheumatoid factor",
+    "Antibody",
+    "Serology",
+    "Immunology",
+    "Internal medicine",
+    "Citrulline",
+    "Arthritis",
+    "Peptide",
+    "Antigen",
+    "Gastroenterology",
+    "Arginine",
+    "Chemistry",
+    "Amino acid",
+    "Biochemistry"
+  ],
+  "citation_count": 1441,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/1529-0131%28200001%2943%3A1%3C155%3A%3AAID-ANR20%3E3.0.CO%3B2-3",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2013573826.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:48.294198+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2013573826",
+    "concepts": [
+      "Rheumatoid arthritis",
+      "Medicine",
+      "Rheumatoid factor",
+      "Antibody",
+      "Serology"
+    ],
+    "oa_status": "bronze"
+  }
+}

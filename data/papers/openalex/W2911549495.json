@@ -1,0 +1,42 @@
+{
+  "id": "openalex:W2911549495",
+  "title": "Recent advances in the mechanisms of NLRP3 inflammasome activation and its inhibitors",
+  "abstract": "The NLRP3 inflammasome is a multimeric protein complex that initiates an inflammatory form of cell death and triggers the release of proinflammatory cytokines IL-1β and IL-18. The NLRP3 inflammasome has been implicated in a wide range of diseases, including Alzheimer's disease, Prion diseases, type 2 diabetes, and some infectious diseases. It has been found that a variety of stimuli including danger-associated molecular patterns (DAMPs, such as silica and uric acid crystals) and pathogen-associated molecular patterns (PAMPs) can activate NLRP3 inflammasome, but the specific regulatory mechanisms of NLRP3 inflammasome activation remain unclear. Understanding the mechanisms of NLRP3 activation will enable the development of its specific inhibitors to treat NLRP3-related diseases. In this review, we summarize current understanding of the regulatory mechanisms of NLRP3 inflammasome activation as well as inhibitors that specifically and directly target NLRP3.",
+  "authors": [
+    "Yang Yang",
+    "Huanan Wang",
+    "Mohammed Kouadir",
+    "Houhui Song",
+    "Fushan Shi"
+  ],
+  "year": 2019,
+  "doi": "10.1038/s41419-019-1413-8",
+  "source": "openalex",
+  "categories": [
+    "Inflammasome",
+    "Proinflammatory cytokine",
+    "Cell biology",
+    "Pyroptosis",
+    "AIM2",
+    "Biology",
+    "Chemistry",
+    "Inflammation",
+    "Immunology"
+  ],
+  "citation_count": 1313,
+  "open_access_pdf_url": "https://www.nature.com/articles/s41419-019-1413-8.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2911549495.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:57.722309+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2911549495",
+    "concepts": [
+      "Inflammasome",
+      "Proinflammatory cytokine",
+      "Cell biology",
+      "Pyroptosis",
+      "AIM2"
+    ],
+    "oa_status": "gold"
+  }
+}

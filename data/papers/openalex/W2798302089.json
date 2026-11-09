@@ -1,0 +1,57 @@
+{
+  "id": "openalex:W2798302089",
+  "title": "Robust Physical-World Attacks on Deep Learning Visual Classification",
+  "abstract": "Recent studies show that the state-of-the-art deep neural networks (DNNs) are vulnerable to adversarial examples, resulting from small-magnitude perturbations added to the input. Given that that emerging physical systems are using DNNs in safety-critical situations, adversarial examples could mislead these systems and cause dangerous situations. Therefore, understanding adversarial examples in the physical world is an important step towards developing resilient learning algorithms. We propose a general attack algorithm, Robust Physical Perturbations (RP2), to generate robust visual adversarial perturbations under different physical conditions. Using the real-world case of road sign classification, we show that adversarial examples generated using RP2 achieve high targeted misclassification rates against standard-architecture road sign classifiers in the physical world under various environmental conditions, including viewpoints. Due to the current lack of a standardized testing method, we propose a two-stage evaluation methodology for robust physical adversarial examples consisting of lab and field tests. Using this methodology, we evaluate the efficacy of physical adversarial manipulations on real objects. With a perturbation in the form of only black and white stickers, we attack a real stop sign, causing targeted misclassification in 100% of the images obtained in lab settings, and in 84.8% of the captured video frames obtained on a moving vehicle (field test) for the target classifier.",
+  "authors": [
+    "Kevin Eykholt",
+    "Ivan Evtimov",
+    "Earlence Fernandes",
+    "Bo Li",
+    "Amir Rahmati",
+    "Chaowei Xiao",
+    "Atul Prakash",
+    "Tadayoshi Kohno",
+    "Dawn Xiaodong Song"
+  ],
+  "year": 2018,
+  "doi": "10.1109/cvpr.2018.00175",
+  "source": "openalex",
+  "categories": [
+    "Adversarial system",
+    "Computer science",
+    "Artificial intelligence",
+    "Classifier (UML)",
+    "Viewpoints",
+    "Traffic sign recognition",
+    "Machine learning",
+    "Deep neural networks",
+    "Deep learning",
+    "Robustness (evolution)",
+    "Artificial neural network",
+    "Traffic sign",
+    "Sign (mathematics)",
+    "Mathematics",
+    "Chemistry",
+    "Gene",
+    "Biochemistry",
+    "Art",
+    "Mathematical analysis",
+    "Visual arts"
+  ],
+  "citation_count": 2828,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1707.08945",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2798302089.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:01.910605+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2798302089",
+    "concepts": [
+      "Adversarial system",
+      "Computer science",
+      "Artificial intelligence",
+      "Classifier (UML)",
+      "Viewpoints"
+    ],
+    "oa_status": "green"
+  }
+}

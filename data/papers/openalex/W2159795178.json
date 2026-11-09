@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W2159795178",
+  "title": "Pseudopotentials for high-throughput DFT calculations",
+  "abstract": "The increasing use of high-throughput density-functional theory (DFT) calculations in the computational design and optimization of materials requires the availability of a comprehensive set of soft and transferable pseudopotentials. Here we present design criteria and testing results for a new open-source “GBRV” ultrasoft pseudopotential library that has been optimized for use in high-throughput DFT calculations. We benchmark the GBRV potentials, as well as two other pseudopotential sets available in the literature, to all-electron calculations in order to validate their accuracy. The results allow us to draw conclusions about the accuracy of modern pseudopotentials in a variety of chemical environments.",
+  "authors": [
+    "Kevin F. Garrity",
+    "Joseph W. Bennett",
+    "Karin M. Rabe",
+    "David H. Vanderbilt"
+  ],
+  "year": 2013,
+  "doi": "10.1016/j.commatsci.2013.08.053",
+  "source": "openalex",
+  "categories": [
+    "Pseudopotential",
+    "Density functional theory",
+    "Benchmark (surveying)",
+    "Throughput",
+    "Materials science",
+    "Computer science",
+    "Computational chemistry",
+    "Chemistry",
+    "Atomic physics",
+    "Physics",
+    "Telecommunications",
+    "Wireless",
+    "Geodesy",
+    "Geography"
+  ],
+  "citation_count": 1651,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1305.5973",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2159795178.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:37.983066+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2159795178",
+    "concepts": [
+      "Pseudopotential",
+      "Density functional theory",
+      "Benchmark (surveying)",
+      "Throughput",
+      "Materials science"
+    ],
+    "oa_status": "green"
+  }
+}

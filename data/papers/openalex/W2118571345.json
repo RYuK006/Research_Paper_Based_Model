@@ -1,0 +1,45 @@
+{
+  "id": "openalex:W2118571345",
+  "title": "Molecular dynamics simulations and drug discovery",
+  "abstract": "This review discusses the many roles atomistic computer simulations of macromolecular (for example, protein) receptors and their associated small-molecule ligands can play in drug discovery, including the identification of cryptic or allosteric binding sites, the enhancement of traditional virtual-screening methodologies, and the direct prediction of small-molecule binding energies. The limitations of current simulation methodologies, including the high computational costs and approximations of molecular forces required, are also discussed. With constant improvements in both computer power and algorithm design, the future of computer-aided drug design is promising; molecular dynamics simulations are likely to play an increasingly important role.",
+  "authors": [
+    "Jacob D. Durrant",
+    "James Andrew McCammon"
+  ],
+  "year": 2011,
+  "doi": "10.1186/1741-7007-9-71",
+  "source": "openalex",
+  "categories": [
+    "Virtual screening",
+    "Allosteric regulation",
+    "Drug discovery",
+    "Biology",
+    "Computational biology",
+    "Molecular dynamics",
+    "Identification (biology)",
+    "Small molecule",
+    "Computer science",
+    "Bioinformatics",
+    "Receptor",
+    "Computational chemistry",
+    "Genetics",
+    "Botany",
+    "Chemistry"
+  ],
+  "citation_count": 1475,
+  "open_access_pdf_url": "https://bmcbiol.biomedcentral.com/counter/pdf/10.1186/1741-7007-9-71",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2118571345.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:48.170149+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2118571345",
+    "concepts": [
+      "Virtual screening",
+      "Allosteric regulation",
+      "Drug discovery",
+      "Biology",
+      "Computational biology"
+    ],
+    "oa_status": "gold"
+  }
+}

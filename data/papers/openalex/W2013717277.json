@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2013717277",
+  "title": "Cancer Risk Assessment, Indicators, and Guidelines for Polycyclic Aromatic Hydrocarbons in the Ambient Air",
+  "abstract": "Polycyclic aromatic hydrocarbons (PAHs) are formed during incomplete combustion. Domestic wood burning and road traffic are the major sources of PAHs in Sweden. In Stockholm, the sum of 14 different PAHs is 100-200 ng/m(3) at the street-level site, the most abundant being phenanthrene. Benzo[a]pyrene (B[a]P) varies between 1 and 2 ng/m(3). Exposure to PAH-containing substances increases the risk of cancer in humans. The carcinogenicity of PAHs is associated with the complexity of the molecule, i.e., increasing number of benzenoid rings, and with metabolic activation to reactive diol epoxide intermediates and their subsequent covalent binding to critical targets in DNA. B[a]P is the main indicator of carcinogenic PAHs. Fluoranthene is an important volatile PAH because it occurs at high concentrations in ambient air and because it is an experimental carcinogen in certain test systems. Thus, fluoranthene is suggested as a complementary indicator to B[a]P. The most carcinogenic PAH identified, dibenzo[a,l]pyrene, is also suggested as an indicator, although it occurs at very low concentrations. Quantitative cancer risk estimates of PAHs as air pollutants are very uncertain because of the lack of useful, good-quality data. According to the World Health Organization Air Quality Guidelines for Europe, the unit risk is 9 X 10(-5) per ng/m(3) of B[a]P as indicator of the total PAH content, namely, lifetime exposure to 0.1 ng/m(3) would theoretically lead to one extra cancer case in 100,000 exposed individuals. This concentration of 0.1 ng/m(3) of B[a]P is suggested as a health-based guideline. Because the carcinogenic potency of fluoranthene has been estimated to be approximately 20 times less than that of B[a]P, a tentative guideline value of 2 ng/m(3) is suggested for fluoranthene. Other significant PAHs are phenanthrene, methylated phenanthrenes/anthracenes and pyrene (high air concentrations), and large-molecule PAHs such as dibenz[a,h]anthracene, benzo[b]fluoranthene, benzo[k]fluoranthene, and indeno[1,2,3-cd]pyrene (high carcinogenicity). Additional source-specific indicators are benzo[ghi]perylene for gasoline vehicles, retene for wood combustion, and dibenzothiophene and benzonaphthothiophene for sulfur-containing fuels.",
+  "authors": [
+    "Carl-Elis Boström",
+    "Per Gerde",
+    "Annika Hanberg",
+    "Bengt Jernström",
+    "Christer Johansson",
+    "Titus Kyrklund",
+    "Agneta Rannug",
+    "Margareta Törnqvist",
+    "Katarina Victorin",
+    "Roger N. Westerholm"
+  ],
+  "year": 2002,
+  "doi": "10.1289/ehp.110-1241197",
+  "source": "openalex",
+  "categories": [
+    "Fluoranthene",
+    "Pyrene",
+    "Environmental chemistry",
+    "Carcinogen",
+    "Chemistry",
+    "Pollutant",
+    "Phenanthrene",
+    "Polycyclic aromatic hydrocarbon",
+    "Environmental science",
+    "Organic chemistry"
+  ],
+  "citation_count": 1860,
+  "open_access_pdf_url": "https://ehp.niehs.nih.gov/doi/pdf/10.1289/ehp.110-1241197",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2013717277.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:22.243136+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2013717277",
+    "concepts": [
+      "Fluoranthene",
+      "Pyrene",
+      "Environmental chemistry",
+      "Carcinogen",
+      "Chemistry"
+    ],
+    "oa_status": "gold"
+  }
+}

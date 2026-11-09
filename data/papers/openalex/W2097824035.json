@@ -1,0 +1,45 @@
+{
+  "id": "openalex:W2097824035",
+  "title": "Transient Receptor Potential Cation Channels in Disease",
+  "abstract": "The transient receptor potential (TRP) superfamily consists of a large number of cation channels that are mostly permeable to both monovalent and divalent cations. The 28 mammalian TRP channels can be subdivided into six main subfamilies: the TRPC (canonical), TRPV (vanilloid), TRPM (melastatin), TRPP (polycystin), TRPML (mucolipin), and the TRPA (ankyrin) groups. TRP channels are expressed in almost every tissue and cell type and play an important role in the regulation of various cell functions. Currently, significant scientific effort is being devoted to understanding the physiology of TRP channels and their relationship to human diseases. At this point, only a few channelopathies in which defects in TRP genes are the direct cause of cellular dysfunction have been identified. In addition, mapping of TRP genes to susceptible chromosome regions (e.g., translocations, breakpoint intervals, increased frequency of polymorphisms) has been considered suggestive of the involvement of these channels in hereditary diseases. Moreover, strong indications of the involvement of TRP channels in several diseases come from correlations between levels of channel expression and disease symptoms. Finally, TRP channels are involved in some systemic diseases due to their role as targets for irritants, inflammation products, and xenobiotic toxins. The analysis of transgenic models allows further extrapolations of TRP channel deficiency to human physiology and disease. In this review, we provide an overview of the impact of TRP channels on the pathogenesis of several diseases and identify several TRPs for which a causal pathogenic role might be anticipated.",
+  "authors": [
+    "Bernd Nilius",
+    "Grzegorz Owsianik",
+    "Thomas Voets",
+    "John A. Peters"
+  ],
+  "year": 2007,
+  "doi": "10.1152/physrev.00021.2006",
+  "source": "openalex",
+  "categories": [
+    "Transient receptor potential channel",
+    "TRPV",
+    "TRPC",
+    "TRPC5",
+    "Ankyrin",
+    "Biology",
+    "TRPV4",
+    "Cell biology",
+    "Chemistry",
+    "Genetics",
+    "Receptor",
+    "Gene",
+    "TRPV1"
+  ],
+  "citation_count": 1419,
+  "open_access_pdf_url": "https://lirias.kuleuven.be/retrieve/32a7084a-008e-43fb-a9b6-ef292ea960e0",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2097824035.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:50.637323+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2097824035",
+    "concepts": [
+      "Transient receptor potential channel",
+      "TRPV",
+      "TRPC",
+      "TRPC5",
+      "Ankyrin"
+    ],
+    "oa_status": "green"
+  }
+}

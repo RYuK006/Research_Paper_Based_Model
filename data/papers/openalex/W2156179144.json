@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2156179144",
+  "title": "A Combinatorial Approach Defines Specificities of Members of the Caspase Family and Granzyme B",
+  "abstract": "There is compelling evidence that members of the caspase (interleukin-1beta converting enzyme/CED-3) family of cysteine proteases and the cytotoxic lymphocyte-derived serine protease granzyme B play essential roles in mammalian apoptosis. Here we use a novel method employing a positional scanning substrate combinatorial library to rigorously define their individual specificities. The results divide these proteases into three distinct groups and suggest that several have redundant functions. The specificity of caspases 2, 3, and 7 and Caenorhabditis elegans CED-3 (DEXD) suggests that all of these enzymes function to incapacitate essential homeostatic pathways during the effector phase of apoptosis. In contrast, the optimal sequence for caspases 6, 8, and 9 and granzyme B ((I/L/V)EXD) resembles activation sites in effector caspase proenzymes, consistent with a role for these enzymes as upstream components in a proteolytic cascade that amplifies the death signal.",
+  "authors": [
+    "Nancy A. Thornberry",
+    "Thomas A. Rano",
+    "Erin P. Peterson",
+    "Dita Rasper",
+    "Tracy Timkey",
+    "Margarita M. Garcia-Calvo",
+    "Vicky M. Houtzager",
+    "Penny A. Nordstrom",
+    "Sophie Roy",
+    "John P. Vaillancourt",
+    "Kevin T. Chapman",
+    "Donald W. Nicholson"
+  ],
+  "year": 1997,
+  "doi": "10.1074/jbc.272.29.17907",
+  "source": "openalex",
+  "categories": [
+    "Granzyme B",
+    "Granzyme",
+    "Biology",
+    "Computational biology",
+    "Chemistry",
+    "Immunology",
+    "Genetics",
+    "Perforin",
+    "Cytotoxic T cell",
+    "Immune system",
+    "T cell",
+    "In vitro"
+  ],
+  "citation_count": 2089,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925818390975/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2156179144.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:15.446829+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2156179144",
+    "concepts": [
+      "Granzyme B",
+      "Granzyme",
+      "Biology",
+      "Computational biology",
+      "Chemistry"
+    ],
+    "oa_status": "hybrid"
+  }
+}

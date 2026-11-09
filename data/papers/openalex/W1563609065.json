@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W1563609065",
+  "title": "van der Waals Bonding in Layered Compounds from Advanced Density-Functional First-Principles Calculations",
+  "abstract": "Although the precise microscopic knowledge of van der Waals interactions is crucial for understanding bonding in weakly bonded layered compounds, very little quantitative information on the strength of interlayer interaction in these materials is available, either from experiments or simulations. Here, using many-body perturbation and advanced density-functional theory techniques, we calculate the interlayer binding and exfoliation energies for a large number of layered compounds and show that, independent of the electronic structure of the material, the energies for most systems are around 20 meV/Å2. This universality explains the successful exfoliation of a wide class of layered materials to produce two-dimensional systems, and furthers our understanding the properties of layered compounds in general.",
+  "authors": [
+    "Torbjörn Björkman",
+    "Andris Guļāns",
+    "Arkady V. Krasheninnikov",
+    "R. M. Nieminen"
+  ],
+  "year": 2012,
+  "doi": "10.1103/physrevlett.108.235502",
+  "source": "openalex",
+  "categories": [
+    "van der Waals force",
+    "Density functional theory",
+    "Exfoliation joint",
+    "Materials science",
+    "Perturbation theory (quantum mechanics)",
+    "Van der Waals radius",
+    "Binding energy",
+    "Van der Waals strain",
+    "Chemical physics",
+    "Van der Waals surface",
+    "Universality (dynamical systems)",
+    "Computational chemistry",
+    "Condensed matter physics",
+    "Nanotechnology",
+    "Physics",
+    "Graphene",
+    "Chemistry",
+    "Molecule",
+    "Quantum mechanics"
+  ],
+  "citation_count": 1160,
+  "open_access_pdf_url": "http://link.aps.org/pdf/10.1103/PhysRevLett.108.235502",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1563609065.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:14.463227+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1563609065",
+    "concepts": [
+      "van der Waals force",
+      "Density functional theory",
+      "Exfoliation joint",
+      "Materials science",
+      "Perturbation theory (quantum mechanics)"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "openalex:W1599627005",
+  "title": "Characterizing dissolved organic matter fluorescence with parallel factor analysis: a tutorial",
+  "abstract": "A sub‐fraction of dissolved organic matter fluoresces when excited with ultraviolet light. This property is used to quantify and characterize changes in dissolved organic matter (DOM) in aquatic environments. Detailed mapping of the fluorescence properties of DOM produces excitation emission matrices (EEM), which are well suited to multi‐way data analysis techniques (chemometrics). Techniques such as parallel factor analysis (PARAFAC) are increasingly being applied to characterize DOM fluorescence properties. Here, an introduction to the technique and description of the advantages and pitfalls of its application to DOM fluorescence is presented. Additionally a MATLAB based tutorial and toolbox specific to PARAFAC analysis of DOM fluorescence is presented.",
+  "authors": [
+    "Colin Andrew Stedmon",
+    "Rasmus Bro"
+  ],
+  "year": 2008,
+  "doi": "10.4319/lom.2008.6.572b",
+  "source": "openalex",
+  "categories": [
+    "Dissolved organic carbon",
+    "Fluorescence",
+    "Chemometrics",
+    "Biological system",
+    "Chemistry",
+    "Organic matter",
+    "Environmental chemistry",
+    "Analytical Chemistry (journal)",
+    "Chromatography",
+    "Organic chemistry",
+    "Physics",
+    "Optics",
+    "Biology"
+  ],
+  "citation_count": 3023,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.4319/lom.2008.6.572b",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1599627005.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:01.791624+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1599627005",
+    "concepts": [
+      "Dissolved organic carbon",
+      "Fluorescence",
+      "Chemometrics",
+      "Biological system",
+      "Chemistry"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2042038416",
+  "title": "Oxidation of tetrahydrobiopterin leads to uncoupling of endothelial cell nitric oxide synthase in hypertension",
+  "abstract": "Tetrahydrobiopterin is a critical cofactor for the NO synthases, and in its absence these enzymes become \"uncoupled,\" producing reactive oxygen species (ROSs) rather than NO. In aortas of mice with deoxycorticosterone acetate-salt (DOCA-salt) hypertension, ROS production from NO synthase is markedly increased, and tetrahydrobiopterin oxidation is evident. Using mice deficient in the NADPH oxidase subunit p47(phox) and mice lacking either the endothelial or neuronal NO synthase, we obtained evidence that hypertension produces a cascade involving production of ROSs from the NADPH oxidase leading to oxidation of tetrahydrobiopterin and uncoupling of endothelial NO synthase (eNOS). This decreases NO production and increases ROS production from eNOS. Treatment of mice with oral tetrahydrobiopterin reduces vascular ROS production, increases NO production as determined by electron spin resonance measurements of nitrosyl hemoglobin, and blunts the increase in blood pressure due to DOCA-salt hypertension. Endothelium-dependent vasodilation is only minimally altered in vessels of mice with DOCA-salt hypertension but seems to be mediated by hydrogen peroxide released from uncoupled eNOS, since it is inhibited by catalase. Tetrahydrobiopterin oxidation may represent an important abnormality in hypertension. Treatment strategies that increase tetrahydrobiopterin or prevent its oxidation may prove useful in preventing vascular complications of this common disease.",
+  "authors": [
+    "Ulf Landmesser",
+    "Sergey Dikalov",
+    "Stephen Russ Price",
+    "Louise A. McCann",
+    "Tohru Fukai",
+    "Steven M. Holland",
+    "William E. Mitch",
+    "David Glenn Harrison"
+  ],
+  "year": 2003,
+  "doi": "10.1172/jci14172",
+  "source": "openalex",
+  "categories": [
+    "Tetrahydrobiopterin",
+    "Nitric oxide synthase",
+    "Endothelial nitric oxide synthase",
+    "ATP synthase",
+    "Nitric oxide",
+    "Chemistry",
+    "Nitric Oxide Synthase Type III",
+    "Biopterin",
+    "Biochemistry",
+    "Internal medicine",
+    "Endocrinology",
+    "Medicine",
+    "Enzyme",
+    "Enos"
+  ],
+  "citation_count": 1680,
+  "open_access_pdf_url": "http://www.jci.org/articles/view/14172/files/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2042038416.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:33.220159+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2042038416",
+    "concepts": [
+      "Tetrahydrobiopterin",
+      "Nitric oxide synthase",
+      "Endothelial nitric oxide synthase",
+      "ATP synthase",
+      "Nitric oxide"
+    ],
+    "oa_status": "bronze"
+  }
+}

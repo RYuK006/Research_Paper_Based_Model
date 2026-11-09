@@ -1,0 +1,62 @@
+{
+  "id": "openalex:W4407087473",
+  "title": "Bioaccumulation of microplastics in decedent human brains",
+  "abstract": "Rising global concentrations of environmental microplastics and nanoplastics (MNPs) drive concerns for human exposure and health outcomes. Complementary methods for the robust detection of tissue MNPs, including pyrolysis gas chromatography-mass spectrometry, attenuated total reflectance-Fourier transform infrared spectroscopy and electron microscopy with energy-dispersive spectroscopy, confirm the presence of MNPs in human kidney, liver and brain. MNPs in these organs primarily consist of polyethylene, with lesser but significant concentrations of other polymers. Brain tissues harbor higher proportions of polyethylene compared to the composition of the plastics in liver or kidney, and electron microscopy verified the nature of the isolated brain MNPs, which present largely as nanoscale shard-like fragments. Plastic concentrations in these decedent tissues were not influenced by age, sex, race/ethnicity or cause of death; the time of death (2016 versus 2024) was a significant factor, with increasing MNP concentrations over time in both liver and brain samples (P = 0.01). Finally, even greater accumulation of MNPs was observed in a cohort of decedent brains with documented dementia diagnosis, with notable deposition in cerebrovascular walls and immune cells. These results highlight a critical need to better understand the routes of exposure, uptake and clearance pathways and potential health consequences of plastics in human tissues, particularly in the brain.",
+  "authors": [
+    "Alexander J. Nihart",
+    "Marcus A. Garcia",
+    "Eliane El Hayek",
+    "Rui Liu",
+    "Marian Olewine",
+    "Josiah D. Kingston",
+    "Eliseo F. Castillo",
+    "Rama R. Gullapalli",
+    "Tamara A. Howard",
+    "Barry E. Bleske",
+    "Justin Scott",
+    "Jorge González-Estrella",
+    "Jessica Gross",
+    "M. Spilde",
+    "Natalie L. Adolphi",
+    "Daniel Fernando Gallego",
+    "Heather S. Jarrell",
+    "Gabrielle Dvorscak",
+    "Maria E. Zuluaga-Ruiz",
+    "Andrew B. West",
+    "Matthew J. Campen"
+  ],
+  "year": 2025,
+  "doi": "10.1038/s41591-024-03453-1",
+  "source": "openalex",
+  "categories": [
+    "Microplastics",
+    "Bioaccumulation",
+    "Kidney",
+    "Chemistry",
+    "Gel permeation chromatography",
+    "Human brain",
+    "Environmental chemistry",
+    "Physiology",
+    "Medicine",
+    "Polymer",
+    "Internal medicine",
+    "Organic chemistry",
+    "Psychiatry"
+  ],
+  "citation_count": 1094,
+  "open_access_pdf_url": "https://www.nature.com/articles/s41591-024-03453-1.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W4407087473.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:24.323326+00:00",
+  "raw_metadata": {
+    "openalex_id": "W4407087473",
+    "concepts": [
+      "Microplastics",
+      "Bioaccumulation",
+      "Kidney",
+      "Chemistry",
+      "Gel permeation chromatography"
+    ],
+    "oa_status": "hybrid"
+  }
+}

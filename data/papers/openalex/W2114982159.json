@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2114982159",
+  "title": "Th17 functions as an osteoclastogenic helper T cell subset that links T cell activation and bone destruction",
+  "abstract": "In autoimmune arthritis, traditionally classified as a T helper (Th) type 1 disease, the activation of T cells results in bone destruction mediated by osteoclasts, but how T cells enhance osteoclastogenesis despite the anti-osteoclastogenic effect of interferon (IFN)-gamma remains to be elucidated. Here, we examine the effect of various Th cell subsets on osteoclastogenesis and identify Th17, a specialized inflammatory subset, as an osteoclastogenic Th cell subset that links T cell activation and bone resorption. The interleukin (IL)-23-IL-17 axis, rather than the IL-12-IFN-gamma axis, is critical not only for the onset phase, but also for the bone destruction phase of autoimmune arthritis. Thus, Th17 is a powerful therapeutic target for the bone destruction associated with T cell activation.",
+  "authors": [
+    "Kojiro Sato",
+    "Ayako Suematsu",
+    "Kazuo Okamoto",
+    "Akira Yamaguchi",
+    "Yasuyuki Morishita",
+    "Yuho Kadono",
+    "Sakae Tanaka",
+    "Tatsuhiko Kodama",
+    "Shizuo Akira",
+    "Yoichiro Iwakura",
+    "Daniel J. Cua",
+    "Hiroshi Takayanagi"
+  ],
+  "year": 2006,
+  "doi": "10.1084/jem.20061775",
+  "source": "openalex",
+  "categories": [
+    "T cell",
+    "Bone resorption",
+    "Immunology",
+    "Interleukin 17",
+    "Interferon gamma",
+    "Osteoclast",
+    "Cell biology",
+    "Cancer research",
+    "Medicine",
+    "Chemistry",
+    "Biology",
+    "Cytokine",
+    "Immune system",
+    "Internal medicine",
+    "Receptor"
+  ],
+  "citation_count": 1574,
+  "open_access_pdf_url": "https://rupress.org/jem/article-pdf/203/12/2673/1723216/jem_20061775.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2114982159.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:41.984991+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2114982159",
+    "concepts": [
+      "T cell",
+      "Bone resorption",
+      "Immunology",
+      "Interleukin 17",
+      "Interferon gamma"
+    ],
+    "oa_status": "bronze"
+  }
+}

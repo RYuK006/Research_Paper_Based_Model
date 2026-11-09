@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W1978240589",
+  "title": "Microfluidic Mixing: A Review",
+  "abstract": "The aim of microfluidic mixing is to achieve a thorough and rapid mixing of multiple samples in microscale devices. In such devices, sample mixing is essentially achieved by enhancing the diffusion effect between the different species flows. Broadly speaking, microfluidic mixing schemes can be categorized as either \"active\", where an external energy force is applied to perturb the sample species, or \"passive\", where the contact area and contact time of the species samples are increased through specially-designed microchannel configurations. Many mixers have been proposed to facilitate this task over the past 10 years. Accordingly, this paper commences by providing a high level overview of the field of microfluidic mixing devices before describing some of the more significant proposals for active and passive mixers.",
+  "authors": [
+    "Chia‐Yen Lee",
+    "Chin‐Lung Chang",
+    "Yaonan Wang",
+    "Lung‐Ming Fu"
+  ],
+  "year": 2011,
+  "doi": "10.3390/ijms12053263",
+  "source": "openalex",
+  "categories": [
+    "Microfluidics",
+    "Microscale chemistry",
+    "Mixing (physics)",
+    "Microchannel",
+    "Sample (material)",
+    "Nanotechnology",
+    "Materials science",
+    "Computer science",
+    "Chemistry",
+    "Physics",
+    "Mathematics",
+    "Chromatography",
+    "Mathematics education",
+    "Quantum mechanics"
+  ],
+  "citation_count": 1144,
+  "open_access_pdf_url": "https://www.mdpi.com/1422-0067/12/5/3263/pdf?version=1403142472",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1978240589.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:14.656900+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1978240589",
+    "concepts": [
+      "Microfluidics",
+      "Microscale chemistry",
+      "Mixing (physics)",
+      "Microchannel",
+      "Sample (material)"
+    ],
+    "oa_status": "gold"
+  }
+}

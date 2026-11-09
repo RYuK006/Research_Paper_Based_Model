@@ -1,0 +1,42 @@
+{
+  "id": "openalex:W2039193709",
+  "title": "The PI3K‒PDK1 connection: more than just a road to PKB",
+  "abstract": "Phosphoinositide 3-kinases (PI3Ks) generate specific inositol lipids that have been implicated in the regulation of cell growth, proliferation, survival, differentiation and cytoskeletal changes. One of the best characterized targets of PI3K lipid products is the protein kinase Akt or protein kinase B (PKB). In quiescent cells, PKB resides in the cytosol in a low-activity conformation. Upon cellular stimulation, PKB is activated through recruitment to cellular membranes by PI3K lipid products and phosphorylation by 3'-phosphoinositide-dependent kinase-1 (PDK1). Here we review the mechanism by which PKB is activated and the downstream actions of this multifunctional kinase. We also discuss the evidence that PDK1 may be involved in the activation of protein kinases other than PKB, the mechanisms by which this activity of PDK1 could be regulated and the possibility that some of the currently postulated PKB substrates targets might in fact be phosphorylated by PDK1-regulated kinases other than PKB.",
+  "authors": [
+    "Bart Vanhaesebroeck",
+    "Dario R. Alessi"
+  ],
+  "year": 2000,
+  "doi": "10.1042/bj3460561",
+  "source": "openalex",
+  "categories": [
+    "Protein kinase B",
+    "Cell biology",
+    "PI3K/AKT/mTOR pathway",
+    "Kinase",
+    "Phosphorylation",
+    "Phosphoinositide 3-kinase",
+    "Cytosol",
+    "Chemistry",
+    "Biology",
+    "Signal transduction",
+    "Biochemistry",
+    "Enzyme"
+  ],
+  "citation_count": 1649,
+  "open_access_pdf_url": "https://portlandpress.com/biochemj/article-pdf/346/3/561/725999/bj3460561.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2039193709.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:37.996033+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2039193709",
+    "concepts": [
+      "Protein kinase B",
+      "Cell biology",
+      "PI3K/AKT/mTOR pathway",
+      "Kinase",
+      "Phosphorylation"
+    ],
+    "oa_status": "bronze"
+  }
+}

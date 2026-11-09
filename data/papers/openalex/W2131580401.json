@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2131580401",
+  "title": "Characterization of Nanomaterial Dispersion in Solution Prior to In Vitro Exposure Using Dynamic Light Scattering Technique",
+  "abstract": "The need to characterize nanoparticles in solution before assessing the in vitro toxicity is a high priority. Particle size, size distribution, particle morphology, particle composition, surface area, surface chemistry, and particle reactivity in solution are important factors which need to be defined to accurately assess nanoparticle toxicity. Currently, there are no well-defined techniques for characterization of wet nanomaterials in aqueous or biological solutions. Previously reported nanoparticle characterization techniques in aqueous or biological solutions have consisted of the use of ultra-high illumination light microscopy and disc centrifuge sedimentation; however, these techniques are limited by the measurement size range. The current study focuses on characterizing a wide range of nanomaterials using dynamic light scattering (DLS) and transmission electron microscopy, including metals, metal oxides, and carbon-based materials, in water and cell culture media, with and without serum. Cell viability and cell morphology studies were conducted in conjunction with DLS experiments to evaluate toxicological effects from observed agglomeration changes in the presence or absence of serum in cell culture media. Observations of material-specific surface properties were also recorded. It was also necessary to characterize the impact of sonication, which is implemented to aid in particle dispersion and solution mixture. Additionally, a stock solution of nanomaterials used for toxicology studies was analyzed for changes in agglomeration and zeta potential of the material over time. In summary, our results demonstrate that many metal and metal oxide nanomaterials agglomerate in solution and that depending upon the solution particle agglomeration is either agitated or mitigated. Corresponding toxicity data revealed that the addition of serum to cell culture media can, in some cases, have a significant effect on particle toxicity possibly due to changes in agglomeration or surface chemistry. It was also observed that sonication slightly reduces agglomeration and has minimal effect on particle surface charge. Finally, the stock solution experienced significant changes in particle agglomeration and surface charge over time.",
+  "authors": [
+    "Richard C. Murdock",
+    "Laura K. Braydich‐Stolle",
+    "Amanda M. Schrand",
+    "John J. Schlager",
+    "Saber M. Hussain"
+  ],
+  "year": 2007,
+  "doi": "10.1093/toxsci/kfm240",
+  "source": "openalex",
+  "categories": [
+    "Dynamic light scattering",
+    "Nanomaterials",
+    "Nanoparticle",
+    "Zeta potential",
+    "Particle size",
+    "Materials science",
+    "Nanotoxicology",
+    "Nanotechnology",
+    "Chemical engineering",
+    "Particle (ecology)",
+    "Dispersion (optics)",
+    "Chemistry",
+    "Optics",
+    "Engineering",
+    "Physics",
+    "Oceanography",
+    "Geology"
+  ],
+  "citation_count": 1111,
+  "open_access_pdf_url": "https://doi.org/10.1093/toxsci/kfm240",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2131580401.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:19.608061+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2131580401",
+    "concepts": [
+      "Dynamic light scattering",
+      "Nanomaterials",
+      "Nanoparticle",
+      "Zeta potential",
+      "Particle size"
+    ],
+    "oa_status": "closed"
+  }
+}

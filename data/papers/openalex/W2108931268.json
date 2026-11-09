@@ -1,0 +1,44 @@
+{
+  "id": "openalex:W2108931268",
+  "title": "Endogenous DNA damage in humans: a review of quantitative data",
+  "abstract": "DNA damage plays a major role in mutagenesis, carcinogenesis and ageing. The vast majority of mutations in human tissues are certainly of endogenous origin. A thorough knowledge of the types and prevalence of endogenous DNA damage is thus essential for an understanding of the interactions of endogenous processes with exogenous agents and the influence of damage of endogenous origin on the induction of cancer and other diseases. In particular, this seems important in risk evaluation concerning exogenous agents that also occur endogenously or that, although chemically different from endogenous ones, generate the same DNA adducts. This knowledge may also be crucial to the development of rational chemopreventive strategies. A list of endogenous DNA-damaging agents, processes and DNA adduct levels is presented. For the sake of comparison, DNA adduct levels are expressed in a standardized way, including the number of adducts per 10(6) nt. This list comprises numerous reactive oxygen species and products generated as a consequence (e.g. lipid peroxides), endogenous reactive chemicals (e.g. aldehydes and S-adenosylmethionine), and chemical DNA instability (e.g. depurination). The respective roles of endogenous versus exogenous DNA damage in carcinogenesis are discussed.",
+  "authors": [
+    "Rinne De Bont"
+  ],
+  "year": 2004,
+  "doi": "10.1093/mutage/geh025",
+  "source": "openalex",
+  "categories": [
+    "Endogeny",
+    "DNA damage",
+    "DNA",
+    "Depurination",
+    "DNA adduct",
+    "Mutagenesis",
+    "Carcinogenesis",
+    "Genome instability",
+    "DNA repair",
+    "Biology",
+    "Biochemistry",
+    "Chemistry",
+    "Mutation",
+    "Genetics",
+    "Gene"
+  ],
+  "citation_count": 1099,
+  "open_access_pdf_url": "https://doi.org/10.1093/mutage/geh025",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2108931268.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:24.234501+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2108931268",
+    "concepts": [
+      "Endogeny",
+      "DNA damage",
+      "DNA",
+      "Depurination",
+      "DNA adduct"
+    ],
+    "oa_status": "closed"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2766033847",
+  "title": "A look at the density functional theory zoo with the advanced GMTKN55 database for general main group thermochemistry, kinetics and noncovalent interactions",
+  "abstract": "We present the GMTKN55 benchmark database for general main group thermochemistry, kinetics and noncovalent interactions. Compared to its popular predecessor GMTKN30 [Goerigk and Grimme J. Chem. Theory Comput., 2011, 7, 291], it allows assessment across a larger variety of chemical problems-with 13 new benchmark sets being presented for the first time-and it also provides reference values of significantly higher quality for most sets. GMTKN55 comprises 1505 relative energies based on 2462 single-point calculations and it is accessible to the user community via a dedicated website. Herein, we demonstrate the importance of better reference values, and we re-emphasise the need for London-dispersion corrections in density functional theory (DFT) treatments of thermochemical problems, including Minnesota methods. We assessed 217 variations of dispersion-corrected and -uncorrected density functional approximations, and carried out a detailed analysis of 83 of them to identify robust and reliable approaches. Double-hybrid functionals are the most reliable approaches for thermochemistry and noncovalent interactions, and they should be used whenever technically feasible. These are, in particular, DSD-BLYP-D3(BJ), DSD-PBEP86-D3(BJ), and B2GPPLYP-D3(BJ). The best hybrids are ωB97X-V, M052X-D3(0), and ωB97X-D3, but we also recommend PW6B95-D3(BJ) as the best conventional global hybrid. At the meta-generalised-gradient (meta-GGA) level, the SCAN-D3(BJ) method can be recommended. Other meta-GGAs are outperformed by the GGA functionals revPBE-D3(BJ), B97-D3(BJ), and OLYP-D3(BJ). We note that many popular methods, such as B3LYP, are not part of our recommendations. In fact, with our results we hope to inspire a change in the user community's perception of common DFT methods. We also encourage method developers to use GMTKN55 for cross-validation studies of new methodologies.",
+  "authors": [
+    "Lars Goerigk",
+    "Andreas Hansen",
+    "Christoph Alexander Bauer",
+    "Stephan Ehrlich",
+    "Asim Najibi",
+    "Stefan Grimme"
+  ],
+  "year": 2017,
+  "doi": "10.1039/c7cp04913g",
+  "source": "openalex",
+  "categories": [
+    "Thermochemistry",
+    "Density functional theory",
+    "Benchmark (surveying)",
+    "Non-covalent interactions",
+    "Dispersion (optics)",
+    "Chemistry",
+    "Computer science",
+    "Computational chemistry",
+    "Thermodynamics",
+    "Database",
+    "Statistical physics",
+    "Physics",
+    "Molecule",
+    "Quantum mechanics",
+    "Organic chemistry",
+    "Geodesy",
+    "Geography",
+    "Hydrogen bond"
+  ],
+  "citation_count": 1928,
+  "open_access_pdf_url": "https://pubs.rsc.org/en/content/articlepdf/2017/cp/c7cp04913g",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2766033847.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:17.883305+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2766033847",
+    "concepts": [
+      "Thermochemistry",
+      "Density functional theory",
+      "Benchmark (surveying)",
+      "Non-covalent interactions",
+      "Dispersion (optics)"
+    ],
+    "oa_status": "hybrid"
+  }
+}

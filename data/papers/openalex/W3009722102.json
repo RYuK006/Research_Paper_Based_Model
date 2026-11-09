@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W3009722102",
+  "title": "A review on fundamentals for designing oxygen evolution electrocatalysts",
+  "abstract": "Electricity-driven water splitting can facilitate the storage of electrical energy in the form of hydrogen gas. As a half-reaction of electricity-driven water splitting, the oxygen evolution reaction (OER) is the major bottleneck due to the sluggish kinetics of this four-electron transfer reaction. Developing low-cost and robust OER catalysts is critical to solving this efficiency problem in water splitting. The catalyst design has to be built based on the fundamental understanding of the OER mechanism and the origin of the reaction overpotential. In this article, we summarize the recent progress in understanding OER mechanisms, which include the conventional adsorbate evolution mechanism (AEM) and lattice-oxygen-mediated mechanism (LOM) from both theoretical and experimental aspects. We start with the discussion on the AEM and its linked scaling relations among various reaction intermediates. The strategies to reduce overpotential based on the AEM and its derived descriptors are then introduced. To further reduce the OER overpotential, it is necessary to break the scaling relation of HOO* and HO* intermediates in conventional AEM to go beyond the activity limitation of the volcano relationship. Strategies such as stabilization of HOO*, proton acceptor functionality, and switching the OER pathway to LOM are discussed. The remaining questions on the OER and related perspectives are also presented at the end.",
+  "authors": [
+    "Jiajia Song",
+    "Chao Wei",
+    "Zhen‐Feng Huang",
+    "Chuntai Liu",
+    "Lin Zeng",
+    "Xin Wang",
+    "Zhichuan Jason Xu"
+  ],
+  "year": 2020,
+  "doi": "10.1039/c9cs00607a",
+  "source": "openalex",
+  "categories": [
+    "Oxygen evolution",
+    "Oxygen",
+    "Catalysis",
+    "Nanotechnology",
+    "Biochemical engineering",
+    "Materials science",
+    "Chemistry",
+    "Engineering",
+    "Physical chemistry",
+    "Electrochemistry",
+    "Organic chemistry",
+    "Electrode"
+  ],
+  "citation_count": 2951,
+  "open_access_pdf_url": "https://pubs.rsc.org/en/content/articlepdf/2020/cs/c9cs00607a",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3009722102.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:01.834587+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3009722102",
+    "concepts": [
+      "Oxygen evolution",
+      "Oxygen",
+      "Catalysis",
+      "Nanotechnology",
+      "Biochemical engineering"
+    ],
+    "oa_status": "bronze"
+  }
+}

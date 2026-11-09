@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2016168218",
+  "title": "Restoring the Density-Gradient Expansion for Exchange in Solids and Surfaces",
+  "abstract": "Popular modern generalized gradient approximations are biased toward the description of free-atom energies. Restoration of the first-principles gradient expansion for exchange over a wide range of density gradients eliminates this bias. We introduce a revised Perdew-Burke-Ernzerhof generalized gradient approximation that improves equilibrium properties of densely packed solids and their surfaces.",
+  "authors": [
+    "John P. Perdew",
+    "Adrienn Ruzsinszky",
+    "Gábor I. Csonka",
+    "Oleg A. Vydrov",
+    "Gustavo E. Scuseria",
+    "Lucian A. Constantin",
+    "Xiaolan Zhou",
+    "Kieron Burke"
+  ],
+  "year": 2008,
+  "doi": "10.1103/physrevlett.100.136406",
+  "source": "openalex",
+  "categories": [
+    "Range (aeronautics)",
+    "Density gradient",
+    "Concentration gradient",
+    "Atom (system on chip)",
+    "Physics",
+    "Statistical physics",
+    "Materials science",
+    "Quantum mechanics",
+    "Chemistry",
+    "Computer science",
+    "Environmental chemistry",
+    "Embedded system",
+    "Composite material"
+  ],
+  "citation_count": 12075,
+  "open_access_pdf_url": "https://arxiv.org/pdf/0707.2088",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2016168218.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:49.835519+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2016168218",
+    "concepts": [
+      "Range (aeronautics)",
+      "Density gradient",
+      "Concentration gradient",
+      "Atom (system on chip)",
+      "Physics"
+    ],
+    "oa_status": "green"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W2171742305",
+  "title": "High-Field Electrical Transport in Single-Wall Carbon Nanotubes",
+  "abstract": "Using low-resistance electrical contacts, we have measured the intrinsic high-field transport properties of metallic single-wall carbon nanotubes. Individual nanotubes appear to be able to carry currents with a density exceeding 10(9) A/cm(2). As the bias voltage is increased, the conductance drops dramatically due to scattering of electrons. We show that the current-voltage characteristics can be explained by considering optical or zone-boundary phonon emission as the dominant scattering mechanism at high field.",
+  "authors": [
+    "Zhen Yao",
+    "C. L. Kane",
+    "Cees Dekker"
+  ],
+  "year": 2000,
+  "doi": "10.1103/physrevlett.84.2941",
+  "source": "openalex",
+  "categories": [
+    "Carbon nanotube",
+    "Materials science",
+    "Conductance",
+    "Scattering",
+    "Ballistic conduction in single-walled carbon nanotubes",
+    "Electrical resistance and conductance",
+    "Electrical resistivity and conductivity",
+    "Electric field",
+    "Condensed matter physics",
+    "Field electron emission",
+    "Biasing",
+    "Electron",
+    "Electron transport chain",
+    "Phonon scattering",
+    "Phonon",
+    "Voltage",
+    "Optical properties of carbon nanotubes",
+    "Nanotechnology",
+    "Nanotube",
+    "Optics",
+    "Physics",
+    "Composite material",
+    "Chemistry",
+    "Biochemistry",
+    "Quantum mechanics"
+  ],
+  "citation_count": 1518,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/9911186",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2171742305.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:45.490724+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2171742305",
+    "concepts": [
+      "Carbon nanotube",
+      "Materials science",
+      "Conductance",
+      "Scattering",
+      "Ballistic conduction in single-walled carbon nanotubes"
+    ],
+    "oa_status": "green"
+  }
+}

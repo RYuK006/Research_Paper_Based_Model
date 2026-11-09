@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2153626991",
+  "title": "Role of the T cell in the genesis of angiotensin II–induced hypertension and vascular dysfunction",
+  "abstract": "Hypertension promotes atherosclerosis and is a major source of morbidity and mortality. We show that mice lacking T and B cells (RAG-1-/- mice) have blunted hypertension and do not develop abnormalities of vascular function during angiotensin II infusion or desoxycorticosterone acetate (DOCA)-salt. Adoptive transfer of T, but not B, cells restored these abnormalities. Angiotensin II is known to stimulate reactive oxygen species production via the nicotinamide adenosine dinucleotide phosphate (NADPH) oxidase in several cells, including some immune cells. Accordingly, adoptive transfer of T cells lacking the angiotensin type I receptor or a functional NADPH oxidase resulted in blunted angiotensin II-dependent hypertension and decreased aortic superoxide production. Angiotensin II increased T cell markers of activation and tissue homing in wild-type, but not NADPH oxidase-deficient, mice. Angiotensin II markedly increased T cells in the perivascular adipose tissue (periadventitial fat) and, to a lesser extent the adventitia. These cells expressed high levels of CC chemokine receptor 5 and were commonly double negative (CD3+CD4-CD8-). This infiltration was associated with an increase in intercellular adhesion molecule-1 and RANTES in the aorta. Hypertension also increased T lymphocyte production of tumor necrosis factor (TNF) alpha, and treatment with the TNFalpha antagonist etanercept prevented the hypertension and increase in vascular superoxide caused by angiotensin II. These studies identify a previously undefined role for T cells in the genesis of hypertension and support a role of inflammation in the basis of this prevalent disease. T cells might represent a novel therapeutic target for the treatment of high blood pressure.",
+  "authors": [
+    "Tomasz Jan Guzik",
+    "Nyssa E. Hoch",
+    "Kathryn A. Brown",
+    "Louise A. McCann",
+    "Ayaz M. Rahman",
+    "Sergey Dikalov",
+    "Jörg J. Goronzy",
+    "Cornelia M. Weyand",
+    "David Glenn Harrison"
+  ],
+  "year": 2007,
+  "doi": "10.1084/jem.20070657",
+  "source": "openalex",
+  "categories": [
+    "Angiotensin II",
+    "Endocrinology",
+    "Internal medicine",
+    "NADPH oxidase",
+    "Nicotinamide adenine dinucleotide phosphate",
+    "Adoptive cell transfer",
+    "Superoxide",
+    "Biology",
+    "Chemistry",
+    "Medicine",
+    "T cell",
+    "Immunology",
+    "Receptor",
+    "Immune system",
+    "Oxidase test",
+    "Biochemistry",
+    "Oxidative stress",
+    "Enzyme"
+  ],
+  "citation_count": 1754,
+  "open_access_pdf_url": "https://rupress.org/jem/article-pdf/204/10/2449/1724312/jem_20070657.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2153626991.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:26.148944+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2153626991",
+    "concepts": [
+      "Angiotensin II",
+      "Endocrinology",
+      "Internal medicine",
+      "NADPH oxidase",
+      "Nicotinamide adenine dinucleotide phosphate"
+    ],
+    "oa_status": "bronze"
+  }
+}

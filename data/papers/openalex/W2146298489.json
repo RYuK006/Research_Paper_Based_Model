@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2146298489",
+  "title": "The Cation−π Interaction",
+  "abstract": "The chemistry community now recognizes the cation-π interaction as a major force for molecular recognition, joining the hydrophobic effect, the hydrogen bond, and the ion pair in determining macromolecular structure and drug-receptor interactions. This Account provides the author's perspective on the intellectual origins and fundamental nature of the cation-π interaction. Early studies on cyclophanes established that water-soluble, cationic molecules would forego aqueous solvation to enter a hydrophobic cavity if that cavity was lined with π systems. Important gas phase studies established the fundamental nature of the cation-π interaction. The strength of the cation-π interaction (Li(+) binds to benzene with 38 kcal/mol of binding energy; NH4(+) with 19 kcal/mol) distinguishes it from the weaker polar-π interactions observed in the benzene dimer or water-benzene complexes. In addition to the substantial intrinsic strength of the cation-π interaction in gas phase studies, the cation-π interaction remains energetically significant in aqueous media and under biological conditions. Many studies have shown that cation-π interactions can enhance binding energies by 2-5 kcal/mol, making them competitive with hydrogen bonds and ion pairs in drug-receptor and protein-protein interactions. As with other noncovalent interactions involving aromatic systems, the cation-π interaction includes a substantial electrostatic component. The six (four) C(δ-)-H(δ+) bond dipoles of a molecule like benzene (ethylene) combine to produce a region of negative electrostatic potential on the face of the π system. Simple electrostatics facilitate a natural attraction of cations to the surface. The trend for (gas phase) binding energies is Li(+) > Na(+) > K(+) > Rb(+): as the ion gets larger the charge is dispersed over a larger sphere and binding interactions weaken, a classical electrostatic effect. On other hand, polarizability does not define these interactions. Cyclohexane is more polarizable than benzene but a decidedly poorer cation binder. Many studies have documented cation-π interactions in protein structures, where lysine or arginine side chains interact with phenylalanine, tyrosine, or tryptophan. In addition, countless studies have established the importance of the cation-π interaction in a range of biological processes. Our work has focused on molecular neurobiology, and we have shown that neurotransmitters generally use a cation-π interaction to bind to their receptors. We have also shown that many drug-receptor interactions involve cation-π interactions. A cation-π interaction plays a critical role in the binding of nicotine to ACh receptors in the brain, an especially significant case. Other researchers have established important cation-π interactions in the recognition of the \"histone code,\" in terpene biosynthesis, in chemical catalysis, and in many other systems.",
+  "authors": [
+    "Dennis A. Dougherty"
+  ],
+  "year": 2012,
+  "doi": "10.1021/ar300265y",
+  "source": "openalex",
+  "categories": [
+    "Chemistry",
+    "Hydrogen bond",
+    "Non-covalent interactions",
+    "Interaction energy",
+    "Solvation",
+    "Hydrophobic effect",
+    "Molecule",
+    "Chemical physics",
+    "Binding energy",
+    "Computational chemistry",
+    "Benzene",
+    "Aqueous solution",
+    "Electrostatics",
+    "Dimer",
+    "Crystallography",
+    "Physical chemistry",
+    "Organic chemistry",
+    "Physics",
+    "Nuclear physics"
+  ],
+  "citation_count": 1191,
+  "open_access_pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/3957424",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2146298489.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:08.432535+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2146298489",
+    "concepts": [
+      "Chemistry",
+      "Hydrogen bond",
+      "Non-covalent interactions",
+      "Interaction energy",
+      "Solvation"
+    ],
+    "oa_status": "green"
+  }
+}

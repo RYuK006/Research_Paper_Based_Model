@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W1769213404",
+  "title": "Synthesis and Electrochemistry of LiNi x Mn2 − x O 4",
+  "abstract": "has been synthesized using sol‐gel and solid‐state methods for 0 < x < 0.5. The electrochemical behavior of the samples was studied in coin‐type cells. When x = 0, the capacity of cells appears at 4.1 V. As x increases, the capacity of the 4.1 V plateau decreases as 1−2 x Li per formula unit, and a new plateau at 4.7 V appears. The capacity of the 4.7 V plateau increases as 2 x Li per formula unit, so that the total capacity of the samples (both the 4.1 and 4.7 V plateaus) is constant. This is taken as evidence that the oxidation state of Ni in these samples is +2, and therefore they can be written as . The 4.1 V plateau is related to the oxidation of to and the 4.7 V plateau to the oxidation of to . The effect of synthesis temperature, atmosphere, and cooling rate on the structure and electrochemical properties of is also studied on samples made by the sol‐gel method. samples made by heating gels at temperatures below 600°C in air are generally oxygen deficient, leading to Mn oxidation states significantly less than 4. samples heated above 650°C suffer due to disproportionation into with x < 0.5 and with z ≈ 0.2, which occurs above about 650°C. Pure materials can be made by extended heatings near 600°C or by slowly cooling materials heated at higher temperatures. made at 600°C has demonstrated good reversible capacity at 4.7 V in excess of 100 mAh/g for tens of cycles.",
+  "authors": [
+    "Qiming Zhong",
+    "Arman Bonakdarpour",
+    "Meijie Zhang",
+    "Yuan Gao",
+    "Jeff R. Dahn"
+  ],
+  "year": 1997,
+  "doi": "10.1149/1.1837386",
+  "source": "openalex",
+  "categories": [
+    "Disproportionation",
+    "Plateau (mathematics)",
+    "Electrochemistry",
+    "Formula unit",
+    "Analytical Chemistry (journal)",
+    "Materials science",
+    "Oxidation state",
+    "Oxygen",
+    "Chemistry",
+    "Crystallography",
+    "Electrode",
+    "Physical chemistry",
+    "Metallurgy",
+    "Crystal structure",
+    "Metal",
+    "Chromatography",
+    "Catalysis",
+    "Organic chemistry",
+    "Mathematical analysis",
+    "Mathematics"
+  ],
+  "citation_count": 1101,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1149/1.1837386/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1769213404.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:24.207301+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1769213404",
+    "concepts": [
+      "Disproportionation",
+      "Plateau (mathematics)",
+      "Electrochemistry",
+      "Formula unit",
+      "Analytical Chemistry (journal)"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "openalex:W1966922165",
+  "title": "Bile acids lower triglyceride levels via a pathway involving FXR, SHP, and SREBP-1c",
+  "abstract": "We explored the effects of bile acids on triglyceride (TG) homeostasis using a combination of molecular, cellular, and animal models. Cholic acid (CA) prevents hepatic TG accumulation, VLDL secretion, and elevated serum TG in mouse models of hypertriglyceridemia. At the molecular level, CA decreases hepatic expression of SREBP-1c and its lipogenic target genes. Through the use of mouse mutants for the short heterodimer partner (SHP) and liver X receptor (LXR) alpha and beta, we demonstrate the critical dependence of the reduction of SREBP-1c expression by either natural or synthetic farnesoid X receptor (FXR) agonists on both SHP and LXR alpha and LXR beta. These results suggest that strategies aimed at increasing FXR activity and the repressive effects of SHP should be explored to correct hypertriglyceridemia.",
+  "authors": [
+    "光博 渡辺",
+    "Sander M. Houten",
+    "Li Wang",
+    "Antonio Moschetta",
+    "David J. Mangelsdorf",
+    "Richard A. Heyman",
+    "David D. Moore",
+    "Johan H. Auwerx"
+  ],
+  "year": 2004,
+  "doi": "10.1172/jci21025",
+  "source": "openalex",
+  "categories": [
+    "Farnesoid X receptor",
+    "Small heterodimer partner",
+    "Liver X receptor",
+    "Hypertriglyceridemia",
+    "Cholic acid",
+    "Internal medicine",
+    "Chemistry",
+    "Chenodeoxycholic acid",
+    "Endocrinology",
+    "Triglyceride",
+    "Nuclear receptor",
+    "Very low-density lipoprotein",
+    "Sterol regulatory element-binding protein",
+    "Bile acid",
+    "Biology",
+    "Cholesterol",
+    "Lipoprotein",
+    "Biochemistry",
+    "Sterol",
+    "Medicine",
+    "Gene",
+    "Transcription factor"
+  ],
+  "citation_count": 1426,
+  "open_access_pdf_url": "http://www.jci.org/articles/view/21025/files/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1966922165.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:50.590732+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1966922165",
+    "concepts": [
+      "Farnesoid X receptor",
+      "Small heterodimer partner",
+      "Liver X receptor",
+      "Hypertriglyceridemia",
+      "Cholic acid"
+    ],
+    "oa_status": "bronze"
+  }
+}

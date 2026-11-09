@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W1963551001",
+  "title": "Spin Current and Magnetoelectric Effect in Noncollinear Magnets",
+  "abstract": "A new mechanism of the magnetoelectric effect based on the spin supercurrent is theoretically presented in terms of a microscopic electronic model for noncollinear magnets. The electric polarization ${\\stackrel{\\ensuremath{\\rightarrow}}{P}}_{ij}$ produced between the two magnetic moments ${\\stackrel{\\ensuremath{\\rightarrow}}{S}}_{i}$ and ${\\stackrel{\\ensuremath{\\rightarrow}}{S}}_{j}$ is given by $\\stackrel{\\ensuremath{\\rightarrow}}{P}\\ensuremath{\\propto}{\\stackrel{\\ensuremath{\\rightarrow}}{e}}_{ij}\\ifmmode\\times\\else\\texttimes\\fi{}({\\stackrel{\\ensuremath{\\rightarrow}}{S}}_{i}\\ifmmode\\times\\else\\texttimes\\fi{}{\\stackrel{\\ensuremath{\\rightarrow}}{S}}_{j})$ with ${\\stackrel{\\ensuremath{\\rightarrow}}{e}}_{ij}$ being the unit vector connecting the sites $i$ and $j$. Applications to the spiral spin structure and the gauge theoretical interpretation are discussed.",
+  "authors": [
+    "Hosho Katsura",
+    "Naoto Nagaosa",
+    "Alexander V. Balatsky"
+  ],
+  "year": 2005,
+  "doi": "10.1103/physrevlett.95.057205",
+  "source": "openalex",
+  "categories": [
+    "Physics",
+    "Condensed matter physics",
+    "Magnetoelectric effect",
+    "Magnet",
+    "Spin (aerodynamics)",
+    "Supercurrent",
+    "Polarization (electrochemistry)",
+    "Multiferroics",
+    "Superconductivity",
+    "Quantum mechanics",
+    "Ferroelectricity",
+    "Chemistry",
+    "Dielectric",
+    "Physical chemistry",
+    "Josephson effect",
+    "Thermodynamics"
+  ],
+  "citation_count": 2217,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0412319",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1963551001.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:12.617264+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1963551001",
+    "concepts": [
+      "Physics",
+      "Condensed matter physics",
+      "Magnetoelectric effect",
+      "Magnet",
+      "Spin (aerodynamics)"
+    ],
+    "oa_status": "green"
+  }
+}

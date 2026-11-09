@@ -1,0 +1,44 @@
+{
+  "id": "openalex:W1568084954",
+  "title": "Limit of blank, limit of detection and limit of quantitation.",
+  "abstract": "* Limit of Blank (LoB), Limit of Detection (LoD), and Limit of Quantitation (LoQ) are terms used to describe the smallest concentration of a measurand that can be reliably measured by an analytical procedure. * LoB is the highest apparent analyte concentration expected to be found when replicates of a blank sample containing no analyte are tested. LoB = mean(blank) + 1.645(SD(blank)). * LoD is the lowest analyte concentration likely to be reliably distinguished from the LoB and at which detection is feasible. LoD is determined by utilising both the measured LoB and test replicates of a sample known to contain a low concentration of analyte. * LoD = LoB + 1.645(SD (low concentration sample)). * LoQ is the lowest concentration at which the analyte can not only be reliably detected but at which some predefined goals for bias and imprecision are met. The LoQ may be equivalent to the LoD or it could be at a much higher concentration.",
+  "authors": [
+    "David Armbruster",
+    "Terry Pry"
+  ],
+  "year": 2008,
+  "doi": "10.1111/aji.13807",
+  "source": "openalex",
+  "categories": [
+    "Blank",
+    "Analyte",
+    "Detection limit",
+    "Chromatography",
+    "Limit (mathematics)",
+    "Analytical Chemistry (journal)",
+    "Chemistry",
+    "Sample (material)",
+    "Systematic error",
+    "Materials science",
+    "Mathematics",
+    "Statistics",
+    "Mathematical analysis",
+    "Composite material"
+  ],
+  "citation_count": 2074,
+  "open_access_pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/2556583",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1568084954.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:15.488717+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1568084954",
+    "concepts": [
+      "Blank",
+      "Analyte",
+      "Detection limit",
+      "Chromatography",
+      "Limit (mathematics)"
+    ],
+    "oa_status": "green"
+  }
+}

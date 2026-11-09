@@ -1,0 +1,39 @@
+{
+  "id": "openalex:W2054525948",
+  "title": "Cation-π interactions in structural biology",
+  "abstract": "Cation-pi interactions in protein structures are identified and evaluated by using an energy-based criterion for selecting significant sidechain pairs. Cation-pi interactions are found to be common among structures in the Protein Data Bank, and it is clearly demonstrated that, when a cationic sidechain (Lys or Arg) is near an aromatic sidechain (Phe, Tyr, or Trp), the geometry is biased toward one that would experience a favorable cation-pi interaction. The sidechain of Arg is more likely than that of Lys to be in a cation-pi interaction. Among the aromatics, a strong bias toward Trp is clear, such that over one-fourth of all tryptophans in the data bank experience an energetically significant cation-pi interaction.",
+  "authors": [
+    "Justin P. Gallivan",
+    "Dennis A. Dougherty"
+  ],
+  "year": 1999,
+  "doi": "10.1073/pnas.96.17.9459",
+  "source": "openalex",
+  "categories": [
+    "Cationic polymerization",
+    "Protein Data Bank",
+    "Chemistry",
+    "Pi",
+    "Crystallography",
+    "Protein structure",
+    "Stereochemistry",
+    "Biochemistry",
+    "Organic chemistry"
+  ],
+  "citation_count": 2021,
+  "open_access_pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/22230",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2054525948.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:15.634632+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2054525948",
+    "concepts": [
+      "Cationic polymerization",
+      "Protein Data Bank",
+      "Chemistry",
+      "Pi",
+      "Crystallography"
+    ],
+    "oa_status": "green"
+  }
+}

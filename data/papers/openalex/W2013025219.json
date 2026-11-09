@@ -1,0 +1,57 @@
+{
+  "id": "openalex:W2013025219",
+  "title": "Two-Dimensional Transition Metal Dichalcogenides under Electron Irradiation: Defect Production and Doping",
+  "abstract": "Using first-principles atomistic simulations, we study the response of atomically thin layers of transition metal dichalcogenides (TMDs)--a new class of two-dimensional inorganic materials with unique electronic properties--to electron irradiation. We calculate displacement threshold energies for atoms in 21 different compounds and estimate the corresponding electron energies required to produce defects. For a representative structure of MoS2, we carry out high-resolution transmission electron microscopy experiments and validate our theoretical predictions via observations of vacancy formation under exposure to an 80 keV electron beam. We further show that TMDs can be doped by filling the vacancies created by the electron beam with impurity atoms. Thereby, our results not only shed light on the radiation response of a system with reduced dimensionality, but also suggest new ways for engineering the electronic structure of TMDs.",
+  "authors": [
+    "Hannu‐Pekka Komsa",
+    "Jani Kotakoski",
+    "Simon Kurasch",
+    "Ossi Lehtinen",
+    "Ute A. Kaiser",
+    "Arkady V. Krasheninnikov"
+  ],
+  "year": 2012,
+  "doi": "10.1103/physrevlett.109.035503",
+  "source": "openalex",
+  "categories": [
+    "Materials science",
+    "Electron",
+    "Transition metal",
+    "Doping",
+    "Vacancy defect",
+    "Irradiation",
+    "Electron beam processing",
+    "Atomic physics",
+    "Electronic structure",
+    "Impurity",
+    "Transmission electron microscopy",
+    "Scanning transmission electron microscopy",
+    "Radiation damage",
+    "Molecular physics",
+    "Condensed matter physics",
+    "Nanotechnology",
+    "Physics",
+    "Optoelectronics",
+    "Chemistry",
+    "Nuclear physics",
+    "Quantum mechanics",
+    "Biochemistry",
+    "Catalysis"
+  ],
+  "citation_count": 1178,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1206.4407",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2013025219.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:12.085575+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2013025219",
+    "concepts": [
+      "Materials science",
+      "Electron",
+      "Transition metal",
+      "Doping",
+      "Vacancy defect"
+    ],
+    "oa_status": "green"
+  }
+}

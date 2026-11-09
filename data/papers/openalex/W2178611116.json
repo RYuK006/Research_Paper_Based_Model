@@ -1,0 +1,57 @@
+{
+  "id": "openalex:W2178611116",
+  "title": "Understanding electrochemical potentials of cathode materials in rechargeable batteries",
+  "abstract": "Presently, sustainable energy as well as efficient and economical energy conversion and storage technologies has become important work in light of the rising environmental issues and dependence on portable and uninterrupted power sources. Increasingly more researchers are focusing on harvesting and converting solar energy, mechanical vibration, waste heat, and wind to electricity. Electrical energy storage technologies play a significant role in the demand for green and sustainable energy. Rechargeable batteries or secondary batteries, such as Li-ion batteries, Na-ion batteries, and Mg-ion batteries, reversibly convert between electrical and chemical energy via redox reactions, thus storing the energy as chemical potential in their electrodes. The energy density of a rechargeable battery is determined collectively by the specific capacity of electrodes and the working voltage of the cell, which is the differential potential between the cathode and the anode. Over the past decades, a significant number of studies have focused on enhancing this specific capacity; however, studies to understand and manipulate the electrochemical potential of the electrode materials are limited. In this review, the material characteristics that determine and influence the electrochemical potentials of electrodes are discussed. In particular, the cathode materials that convert electricity and chemical potential through electrochemical intercalation reactions are investigated. In addition, we summarize the selection criteria for elements or compounds and the effect of the local atomic environment on the discharge potential, including the effects of site energy, defects, crystallinity, and microstructure, using LiMn 2 O 4 , V 2 O 5 , Mo 6 S 8 , LiFePO 4 , and LiCoO 2 as model samples for discussion.",
+  "authors": [
+    "Chaofeng Liu",
+    "Zachary G. Neale",
+    "Guozhong Cao"
+  ],
+  "year": 2015,
+  "doi": "10.1016/j.mattod.2015.10.009",
+  "source": "openalex",
+  "categories": [
+    "Anode",
+    "Cathode",
+    "Energy storage",
+    "Electrochemistry",
+    "Battery (electricity)",
+    "Materials science",
+    "Organic radical battery",
+    "Chemical energy",
+    "Nanotechnology",
+    "Renewable energy",
+    "Sustainable energy",
+    "Work (physics)",
+    "Electrode",
+    "Electric potential energy",
+    "Electrical engineering",
+    "Chemistry",
+    "Energy (signal processing)",
+    "Power (physics)",
+    "Mechanical engineering",
+    "Engineering",
+    "Physical chemistry",
+    "Quantum mechanics",
+    "Statistics",
+    "Mathematics",
+    "Physics",
+    "Organic chemistry"
+  ],
+  "citation_count": 1192,
+  "open_access_pdf_url": "https://www.sciencedirect.com/science/article/pii/S1369702115003181/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2178611116.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:08.425930+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2178611116",
+    "concepts": [
+      "Anode",
+      "Cathode",
+      "Energy storage",
+      "Electrochemistry",
+      "Battery (electricity)"
+    ],
+    "oa_status": "hybrid"
+  }
+}

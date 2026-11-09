@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2234054032",
+  "title": "A mixed-cation lead mixed-halide perovskite absorber for tandem solar cells",
+  "abstract": "Metal halide perovskite photovoltaic cells could potentially boost the efficiency of commercial silicon photovoltaic modules from ∼20 toward 30% when used in tandem architectures. An optimum perovskite cell optical band gap of ~1.75 electron volts (eV) can be achieved by varying halide composition, but to date, such materials have had poor photostability and thermal stability. Here we present a highly crystalline and compositionally photostable material, [HC(NH2)2](0.83)Cs(0.17)Pb(I(0.6)Br(0.4))3, with an optical band gap of ~1.74 eV, and we fabricated perovskite cells that reached open-circuit voltages of 1.2 volts and power conversion efficiency of over 17% on small areas and 14.7% on 0.715 cm(2) cells. By combining these perovskite cells with a 19%-efficient silicon cell, we demonstrated the feasibility of achieving >25%-efficient four-terminal tandem cells.",
+  "authors": [
+    "David P. McMeekin",
+    "Golnaz Sadoughi",
+    "Waqaas Rehman",
+    "Giles E. Eperon",
+    "Michael Saliba",
+    "Maximilian T. Hörantner",
+    "Amir A. Haghighirad",
+    "Nobuya Sakai",
+    "Lars Korte",
+    "B. Rech",
+    "Michael B. Johnston",
+    "Laura M. Herz",
+    "Henry James Snaith"
+  ],
+  "year": 2016,
+  "doi": "10.1126/science.aad5845",
+  "source": "openalex",
+  "categories": [
+    "Halide",
+    "Tandem",
+    "Perovskite (structure)",
+    "Lead (geology)",
+    "Materials science",
+    "Chemical engineering",
+    "Chemistry",
+    "Inorganic chemistry",
+    "Crystallography",
+    "Geology",
+    "Composite material",
+    "Engineering",
+    "Geomorphology"
+  ],
+  "citation_count": 3091,
+  "open_access_pdf_url": "https://ora.ox.ac.uk/objects/uuid:102c4936-5ad7-4293-8b79-48cfcd5feb49/files/m6a6072149f8bcafa7d685ecae71c3f1b",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2234054032.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:57.907851+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2234054032",
+    "concepts": [
+      "Halide",
+      "Tandem",
+      "Perovskite (structure)",
+      "Lead (geology)",
+      "Materials science"
+    ],
+    "oa_status": "green"
+  }
+}

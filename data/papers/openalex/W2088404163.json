@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2088404163",
+  "title": "Peroxisome Proliferator-activated Receptors α and γ Are Activated by Indomethacin and Other Non-steroidal Anti-inflammatory Drugs",
+  "abstract": "Indomethacin is a non-steroidal anti-inflammatory drug (NSAID) and cyclooxygenase inhibitor that is frequently used as a research tool to study the process of adipocyte differentiation. Treatment of various preadipocyte cell lines with micromolar concentrations of indomethacin in the presence of insulin promotes their terminal differentiation. However, the molecular basis for the adipogenic actions of indomethacin had remained unclear. In this report, we show that indomethacin binds and activates peroxisome proliferator-activated receptor gamma (PPARgamma), a ligand-activated transcription factor known to play a pivotal role in adipogenesis. The concentration of indomethacin required to activate PPARgamma is in good agreement with that required to induce the differentiation of C3H10T1/2 cells to adipocytes. We demonstrate that several other NSAIDs, including fenoprofen, ibuprofen, and flufenamic acid, are also PPARgamma ligands and induce adipocyte differentiation of C3H10T1/2 cells. Finally, we show that the same NSAIDs that activate PPARgamma are also efficacious activators of PPARalpha, a liver-enriched PPAR subtype that plays a key role in peroxisome proliferation. Interestingly, several NSAIDs have been reported to induce peroxisomal activity in hepatocytes both in vitro and in vivo. Our findings define a novel group of PPARgamma ligands and provide a molecular basis for the biological effects of these drugs on adipogenesis and peroxisome activity.",
+  "authors": [
+    "Jürgen M. Lehmann",
+    "James M. Lenhard",
+    "Beverly B. Oliver",
+    "GORDON M. RINGOLD",
+    "Steven A. Kliewer"
+  ],
+  "year": 1997,
+  "doi": "10.1074/jbc.272.6.3406",
+  "source": "openalex",
+  "categories": [
+    "Adipogenesis",
+    "Peroxisome",
+    "Adipocyte",
+    "Peroxisome proliferator-activated receptor",
+    "Receptor",
+    "Chemistry",
+    "Pharmacology",
+    "Troglitazone",
+    "Cyclooxygenase",
+    "Internal medicine",
+    "In vitro",
+    "Biochemistry",
+    "Endocrinology",
+    "Cell biology",
+    "Biology",
+    "Adipose tissue",
+    "Enzyme",
+    "Medicine"
+  ],
+  "citation_count": 1119,
+  "open_access_pdf_url": "http://www.jbc.org/article/S002192581978394X/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2088404163.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:19.492546+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2088404163",
+    "concepts": [
+      "Adipogenesis",
+      "Peroxisome",
+      "Adipocyte",
+      "Peroxisome proliferator-activated receptor",
+      "Receptor"
+    ],
+    "oa_status": "hybrid"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W2156241187",
+  "title": "Mitochondrial Complex I Inhibitor Rotenone Induces Apoptosis through Enhancing Mitochondrial Reactive Oxygen Species Production",
+  "abstract": "Inhibition of mitochondrial respiratory chain complex I by rotenone had been found to induce cell death in a variety of cells. However, the mechanism is still elusive. Because reactive oxygen species (ROS) play an important role in apoptosis and inhibition of mitochondrial respiratory chain complex I by rotenone was thought to be able to elevate mitochondrial ROS production, we investigated the relationship between rotenone-induced apoptosis and mitochondrial reactive oxygen species. Rotenone was able to induce mitochondrial complex I substrate-supported mitochondrial ROS production both in isolated mitochondria from HL-60 cells as well as in cultured cells. Rotenone-induced apoptosis was confirmed by DNA fragmentation, cytochrome c release, and caspase 3 activity. A quantitative correlation between rotenone-induced apoptosis and rotenone-induced mitochondrial ROS production was identified. Rotenone-induced apoptosis was inhibited by treatment with antioxidants (glutathione, N-acetylcysteine, and vitamin C). The role of rotenone-induced mitochondrial ROS in apoptosis was also confirmed by the finding that HT1080 cells overexpressing magnesium superoxide dismutase were more resistant to rotenone-induced apoptosis than control cells. These results suggest that rotenone is able to induce apoptosis via enhancing the amount of mitochondrial reactive oxygen species production.",
+  "authors": [
+    "Nianyu Li",
+    "Kathy Ragheb",
+    "Gretchen Lawler",
+    "Jennie Sturgis",
+    "Bartek P. Rajwa",
+    "Juan Andres Melendez",
+    "Joseph Paul Robinson"
+  ],
+  "year": 2003,
+  "doi": "10.1074/jbc.m210432200",
+  "source": "openalex",
+  "categories": [
+    "Rotenone",
+    "Reactive oxygen species",
+    "Mitochondrial ROS",
+    "Apoptosis",
+    "Mitochondrion",
+    "Biology",
+    "Mitochondrial respiratory chain",
+    "Cell biology",
+    "Cytochrome c",
+    "Biochemistry",
+    "Chemistry"
+  ],
+  "citation_count": 1463,
+  "open_access_pdf_url": "https://www.sciencedirect.com/science/article/pii/S0021925820864795/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2156241187.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:48.199960+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2156241187",
+    "concepts": [
+      "Rotenone",
+      "Reactive oxygen species",
+      "Mitochondrial ROS",
+      "Apoptosis",
+      "Mitochondrion"
+    ],
+    "oa_status": "hybrid"
+  }
+}

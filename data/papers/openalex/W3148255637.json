@@ -1,0 +1,38 @@
+{
+  "id": "openalex:W3148255637",
+  "title": "mRNA-lipid nanoparticle COVID-19 vaccines: Structure and stability",
+  "abstract": "A drawback of the current mRNA-lipid nanoparticle (LNP) COVID-19 vaccines is that they have to be stored at (ultra)low temperatures. Understanding the root cause of the instability of these vaccines may help to rationally improve mRNA-LNP product stability and thereby ease the temperature conditions for storage. In this review we discuss proposed structures of mRNA-LNPs, factors that impact mRNA-LNP stability and strategies to optimize mRNA-LNP product stability. Analysis of mRNA-LNP structures reveals that mRNA, the ionizable cationic lipid and water are present in the LNP core. The neutral helper lipids are mainly positioned in the outer, encapsulating, wall. mRNA hydrolysis is the determining factor for mRNA-LNP instability. It is currently unclear how water in the LNP core interacts with the mRNA and to what extent the degradation prone sites of mRNA are protected through a coat of ionizable cationic lipids. To improve the stability of mRNA-LNP vaccines, optimization of the mRNA nucleotide composition should be prioritized. Secondly, a better understanding of the milieu the mRNA is exposed to in the core of LNPs may help to rationalize adjustments to the LNP structure to preserve mRNA integrity. Moreover, drying techniques, such as lyophilization, are promising options still to be explored.",
+  "authors": [
+    "Linde Schoenmaker",
+    "Dominik Witzigmann",
+    "Jayesh A. Kulkarni",
+    "Rein Verbeke",
+    "Gideon F. A. Kersten",
+    "Wim Jiskoot",
+    "Daan J.A. Crommelin"
+  ],
+  "year": 2021,
+  "doi": "10.1016/j.ijpharm.2021.120586",
+  "source": "openalex",
+  "categories": [
+    "Messenger RNA",
+    "Chemistry",
+    "Biochemistry",
+    "Gene"
+  ],
+  "citation_count": 1631,
+  "open_access_pdf_url": "https://www.sciencedirect.com/science/article/pii/S0378517321003914/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3148255637.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:38.080471+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3148255637",
+    "concepts": [
+      "Messenger RNA",
+      "Chemistry",
+      "Biochemistry",
+      "Gene"
+    ],
+    "oa_status": "hybrid"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2143363730",
+  "title": "PDFfit2 and PDFgui: computer programs for studying nanostructure in crystals",
+  "abstract": "PDFfit2 is a program as well as a library for real-space refinement of crystal structures. It is capable of fitting a theoretical three-dimensional (3D) structure to atomic pair distribution function data and is ideal for nanoscale investigations. The fit system accounts for lattice constants, atomic positions and anisotropic atomic displacement parameters, correlated atomic motion, and experimental factors that may affect the data. The atomic positions and thermal coefficients can be constrained to follow the symmetry requirements of an arbitrary space group. The PDFfit2 engine is written in C++ and is accessible via Python, allowing it to inter-operate with other Python programs. PDFgui is a graphical interface built on the PDFfit2 engine. PDFgui organizes fits and simplifies many data analysis tasks, such as configuring and plotting multiple fits. PDFfit2 and PDFgui are freely available via the Internet.",
+  "authors": [
+    "Christopher L. Farrow",
+    "Pavol Juhás",
+    "J W Liu",
+    "D Bryndin",
+    "Emil S. Božin",
+    "Jacques Bloch",
+    "Thomas E. Proffen",
+    "Simon J. L. Billinge"
+  ],
+  "year": 2007,
+  "doi": "10.1088/0953-8984/19/33/335219",
+  "source": "openalex",
+  "categories": [
+    "Python (programming language)",
+    "Lattice (music)",
+    "Computer science",
+    "Anisotropy",
+    "Nanostructure",
+    "Thermal motion",
+    "Crystallography",
+    "Computational science",
+    "Physics",
+    "Programming language",
+    "Chemistry",
+    "Optics",
+    "Thermodynamics",
+    "Quantum mechanics",
+    "Acoustics"
+  ],
+  "citation_count": 1929,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1088/0953-8984/19/33/335219/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2143363730.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:17.877841+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2143363730",
+    "concepts": [
+      "Python (programming language)",
+      "Lattice (music)",
+      "Computer science",
+      "Anisotropy",
+      "Nanostructure"
+    ],
+    "oa_status": "bronze"
+  }
+}

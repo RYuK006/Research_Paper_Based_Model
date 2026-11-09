@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W2605821496",
+  "title": "The Digital Platform: A Research Agenda",
+  "abstract": "As digital platforms are transforming almost every industry today, they are slowly finding their way into the mainstream information systems (ISs) literature. Digital platforms are a challenging research object because of their distributed nature and intertwinement with institutions, markets and technologies. New research challenges arise as a result of the exponentially growing scale of platform innovation, the increasing complexity of platform architectures and the spread of digital platforms to many different industries. This paper develops a research agenda for digital platforms research in IS. We recommend researchers seek to (1) advance conceptual clarity by providing clear definitions that specify the unit of analysis, degree of digitality and the sociotechnical nature of digital platforms; (2) define the proper scoping of digital platform concepts by studying platforms on different architectural levels and in different industry settings; and (3) advance methodological rigour by employing embedded case studies, longitudinal studies, design research, data-driven modelling and visualisation techniques. Considering current developments in the business domain, we suggest six questions for further research: (1) Are platforms here to stay? (2) How should platforms be designed? (3) How do digital platforms transform industries? (4) How can data-driven approaches inform digital platforms research? (5) How should researchers develop theory for digital platforms? and (6) How do digital platforms affect everyday life?",
+  "authors": [
+    "Mark de Reuver",
+    "Carsten Sørensen",
+    "Rahul C. Basole"
+  ],
+  "year": 2017,
+  "doi": "10.1057/s41265-016-0033-3",
+  "source": "openalex",
+  "categories": [
+    "Rigour",
+    "Computer science",
+    "CLARITY",
+    "Mainstream",
+    "Data science",
+    "Sociotechnical system",
+    "Cloud computing",
+    "Interfacing",
+    "Digital forensics",
+    "Underpinning",
+    "Knowledge management",
+    "Engineering",
+    "Computer security",
+    "Philosophy",
+    "Biochemistry",
+    "Civil engineering",
+    "Mathematics",
+    "Theology",
+    "Computer hardware",
+    "Operating system",
+    "Geometry",
+    "Chemistry"
+  ],
+  "citation_count": 1953,
+  "open_access_pdf_url": "https://journals.sagepub.com/doi/pdf/10.1057/s41265-016-0033-3",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2605821496.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:17.829592+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2605821496",
+    "concepts": [
+      "Rigour",
+      "Computer science",
+      "CLARITY",
+      "Mainstream",
+      "Data science"
+    ],
+    "oa_status": "bronze"
+  }
+}

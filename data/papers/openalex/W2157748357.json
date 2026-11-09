@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2157748357",
+  "title": "Circular genome visualization and exploration using CGView",
+  "abstract": "UNLABELLED: CGView (Circular Genome Viewer) is a Java application and library for generating high-quality, zoomable maps of circular genomes. It converts XML or tab-delimited input into a graphical map (PNG, JPG or Scalable Vector Graphics format), complete with sequence features, labels, legends and footnotes. In addition to the default full view map, the program can generate a series of hyperlinked maps showing expanded views. The linked maps can be explored using any Web browser, allowing rapid genome browsing and facilitating data sharing. AVAILABILITY: CGView (the standalone application, library or applet), sample input, sample maps and documentation can be obtained from http://wishart.biology.ualberta.ca/cgview/ CONTACT: david.wishart@ualberta.ca.",
+  "authors": [
+    "Paul Stothard",
+    "David Scott Wishart"
+  ],
+  "year": 2004,
+  "doi": "10.1093/bioinformatics/bti054",
+  "source": "openalex",
+  "categories": [
+    "Scalable Vector Graphics",
+    "Visualization",
+    "Computer science",
+    "Java applet",
+    "Genome",
+    "Graphics",
+    "Documentation",
+    "Sample (material)",
+    "World Wide Web",
+    "XML",
+    "Computer graphics",
+    "Computer graphics (images)",
+    "Java",
+    "Information retrieval",
+    "Data mining",
+    "Biology",
+    "Programming language",
+    "Genetics",
+    "Chemistry",
+    "Gene",
+    "Chromatography"
+  ],
+  "citation_count": 1088,
+  "open_access_pdf_url": "https://academic.oup.com/bioinformatics/article-pdf/21/4/537/48965076/bioinformatics_21_4_537.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2157748357.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:24.416582+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2157748357",
+    "concepts": [
+      "Scalable Vector Graphics",
+      "Visualization",
+      "Computer science",
+      "Java applet",
+      "Genome"
+    ],
+    "oa_status": "bronze"
+  }
+}

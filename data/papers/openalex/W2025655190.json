@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2025655190",
+  "title": "Graphene Bilayer with a Twist: Electronic Structure",
+  "abstract": "We consider a graphene bilayer with a relative small angle rotation between the layers--a stacking defect often seen in the surface of graphite--and calculate the electronic structure near zero energy in a continuum approximation. Contrary to what happens in an AB stacked bilayer and in accord with observations in epitaxial graphene, we find: (a) the low energy dispersion is linear, as in a single layer, but the Fermi velocity can be significantly smaller than the single-layer value; (b) an external electric field, perpendicular to the layers, does not open an electronic gap.",
+  "authors": [
+    "J. M. B. Lopes dos Santos",
+    "Nuno M. R. Peres",
+    "A. H. Castro Neto"
+  ],
+  "year": 2007,
+  "doi": "10.1103/physrevlett.99.256802",
+  "source": "openalex",
+  "categories": [
+    "Bilayer graphene",
+    "Condensed matter physics",
+    "Graphene",
+    "Materials science",
+    "Scanning tunneling microscope",
+    "Bilayer",
+    "Stacking",
+    "Electronic structure",
+    "Fermi level",
+    "Fermi energy",
+    "Perpendicular",
+    "Graphite",
+    "Nanotechnology",
+    "Physics",
+    "Nuclear magnetic resonance",
+    "Geometry",
+    "Electron",
+    "Quantum mechanics",
+    "Chemistry",
+    "Biochemistry",
+    "Membrane",
+    "Mathematics",
+    "Composite material"
+  ],
+  "citation_count": 1552,
+  "open_access_pdf_url": "https://arxiv.org/pdf/0704.2128",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2025655190.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:42.055055+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2025655190",
+    "concepts": [
+      "Bilayer graphene",
+      "Condensed matter physics",
+      "Graphene",
+      "Materials science",
+      "Scanning tunneling microscope"
+    ],
+    "oa_status": "green"
+  }
+}

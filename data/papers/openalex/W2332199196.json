@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2332199196",
+  "title": "Theoretical Investigation of the Activity of Cobalt Oxides for the Electrochemical Oxidation of Water",
+  "abstract": "The presence of layered cobalt oxides has been identified experimentally in Co-based anodes under oxygen-evolving conditions. In this work, we report the results of theoretical investigations of the relative stability of layered and spinel bulk phases of Co oxides, as well as the stability of selected surfaces as a function of applied potential and pH. We then study the oxygen evolution reaction (OER) on these surfaces and obtain activity trends at experimentally relevant electro-chemical conditions. Our calculated volume Pourbaix diagram shows that β-CoOOH is the active phase where the OER occurs in alkaline media. We calculate relative surface stabilities and adsorbate coverages of the most stable low-index surfaces of β-CoOOH: (0001), (0112), and (1014). We find that at low applied potentials, the (1014) surface is the most stable, while the (0112) surface is the more stable at higher potentials. Next, we compare the theoretical overpotentials for all three surfaces and find that the (1014) surface is the most active one as characterized by an overpotential of η = 0.48 V. The high activity of the (1014) surface can be attributed to the observation that the resting state of Co in the active site is Co(3+) during the OER, whereas Co is in the Co(4+) state in the less active surfaces. Lastly, we demonstrate that the overpotential of the (1014) surface can be lowered further by surface substitution of Co by Ni. This finding could explain the experimentally observed enhancement in the OER activity of Ni(y)Co(1-y)O(x) thin films with increasing Ni content. All energetics in this work were obtained from density functional theory using the Hubbard-U correction.",
+  "authors": [
+    "Michal Bajdich",
+    "Mónica García‐Mota",
+    "Aleksandra Vojvodić",
+    "Jens K. Nørskov",
+    "Alexis T. Bell"
+  ],
+  "year": 2013,
+  "doi": "10.1021/ja405997s",
+  "source": "openalex",
+  "categories": [
+    "Overpotential",
+    "Chemistry",
+    "Oxygen evolution",
+    "Pourbaix diagram",
+    "Cobalt",
+    "Electrochemistry",
+    "Oxygen",
+    "Spinel",
+    "Inorganic chemistry",
+    "Oxidation state",
+    "Physical chemistry",
+    "Electrode",
+    "Catalysis",
+    "Metallurgy",
+    "Biochemistry",
+    "Organic chemistry",
+    "Materials science"
+  ],
+  "citation_count": 1414,
+  "open_access_pdf_url": "https://www.osti.gov/servlets/purl/1511371",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2332199196.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:50.675357+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2332199196",
+    "concepts": [
+      "Overpotential",
+      "Chemistry",
+      "Oxygen evolution",
+      "Pourbaix diagram",
+      "Cobalt"
+    ],
+    "oa_status": "green"
+  }
+}

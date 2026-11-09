@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2119855749",
+  "title": "Rock-Eval 6 Technology: Performances and Developments",
+  "abstract": "The Rock-Eval 6 apparatus is the latest version of the Rock-Eval product line, commercialized since 1996 by Vinci Technologies. The present work describes the methodology developed at IFP for reliable data acquisition and endorses the quality of geochemical parameters acquired with Rock-Eval 6. Data were obtained on 147 source rocks from various sedimentary basins, of different organic matter types and maturity stages. Intrinsic correlations for two different Rock-Eval 6 apparatus were performed and the obtained data set shows an excellent consistency and good reproducibility conditions for the whole set of Rock-Eval parameters. Complete recovery of total carbon (TC) by Rock-Eval 6 was confirmed by comparison with elemental analysis. In order to check the carbon partition (mineral vs. organic) determined by Rock-Eval 6, measurements of mineral carbon (MinC) and total organic carbon (TOC) were performed by alternative techniques. TOC measured by Rock-Eval 6 was compared to that obtained either by: the Leco apparatus for bulk rocks; elemental analysis for kerogens; and calculation from the mass balance determined after destruction of mineral matrix and the carbon concentration determined by elemental analysis on recovered kerogens for bulk rocks. The results display a good correlation for the whole concentration range (0-90 wt% TOC), when comparing elemental analyses and Rock-Eval 6 for source rocks and kerogens. However, comparison of Rock-Eval 6 with Leco data leads to larger deviations while correlation factors are still good. For a subset of kerogen samples, preparative pyrolysis was performed in order to confirm the value of 83 wt% for the organic carbon of the total S2 peak for any rock with any organic type and to check the absolute value of the S2 peak by gas chromatography analysis of pyrolysis by-product. MinC measured with Rock-Eval 6 was compared to that determined by: weight loss after HCl treatment; the acidimetry technique; and calculation after TC, mass balance from kerogen isolation and organic carbon measurement on kerogen by elemental analysis. The results display a good correlation for the whole concentration range (0-12 wt% MinC), when comparing elemental analyses and Rock-Eval 6. However, comparison of Rock-Eval 6 with acidimetry data leads to larger deviations while correlation factors are still good while comparison with weight loss is poor. As a whole an excellent reliability of TOC and MinC obtained by Rock-Eval 6 was demonstrated, and consequently, it is now possible to get at once the total organic and mineral carbon mass balance for a given rock. Recommendations are proposed regarding the standard samples and analytical methods selected for calibrating the Rock-Eval 6 over a large mineral and organic carbon range. Consistency between S2 and Tmax measured by Rock-Eval 2 and Rock-Eval 6 for Types I and II bulk rocks was also checked. A good correlation was obtained for S2, even though S2 values are slightlyhigher when measured with Rock-Eval 2. It was demonstrated that this is due to carrier gas (nitrogen vs. helium) by running measurements with a Rock-Eval 6 under helium, the difference ranging from 5 to 10 relative wt% for most studied samples. For Tmax correlation, data are much more scattered and as a general trend Tmax obtained by Rock-Eval 6 are higher than Tmax obtained by Rock-Eval 2 and the difference increases with Tmax: this is due to the fact that the probe measuring the temperature in the Rock-Eval 2 is located in the oven wall, consequently Tmax determination is highly dependent on the setup and calibration of the apparatus. A special attention was given for temperature measurement in the Rock-Eval 6, where the probe is in contact with the crucible containing the sample, leading to much more reliable data.",
+  "authors": [
+    "F. Béhar",
+    "V. Beaumont",
+    "Henrique Luiz de Barros Penteado"
+  ],
+  "year": 2001,
+  "doi": "10.2516/ogst:2001013",
+  "source": "openalex",
+  "categories": [
+    "Kerogen",
+    "Total organic carbon",
+    "Source rock",
+    "Organic matter",
+    "Mineralogy",
+    "Pyrolysis",
+    "Elemental analysis",
+    "Geology",
+    "Carbon fibers",
+    "Isotopes of carbon",
+    "Correlation coefficient",
+    "Chemistry",
+    "Environmental chemistry",
+    "Geomorphology",
+    "Mathematics",
+    "Structural basin",
+    "Statistics",
+    "Algorithm",
+    "Organic chemistry",
+    "Composite number"
+  ],
+  "citation_count": 1410,
+  "open_access_pdf_url": "https://ogst.ifpenergiesnouvelles.fr/articles/ogst/pdf/2001/02/behar_v56n2.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2119855749.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:50.691262+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2119855749",
+    "concepts": [
+      "Kerogen",
+      "Total organic carbon",
+      "Source rock",
+      "Organic matter",
+      "Mineralogy"
+    ],
+    "oa_status": "diamond"
+  }
+}

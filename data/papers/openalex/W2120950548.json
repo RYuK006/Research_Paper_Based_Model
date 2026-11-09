@@ -1,0 +1,44 @@
+{
+  "id": "openalex:W2120950548",
+  "title": "Intestinal Goblet Cells and Mucins in Health and Disease: Recent Insights and Progress",
+  "abstract": "The mucus layer coating the gastrointestinal tract is the front line of innate host defense, largely because of the secretory products of intestinal goblet cells. Goblet cells synthesize secretory mucin glycoproteins (MUC2) and bioactive molecules such as epithelial membrane-bound mucins (MUC1, MUC3, MUC17), trefoil factor peptides (TFF), resistin-like molecule beta (RELMbeta), and Fc-gamma binding protein (Fcgbp). The MUC2 mucin protein forms trimers by disulfide bonding in cysteine-rich amino terminal von Willebrand factor (vWF) domains, coupled with crosslinking provided by TFF and Fcgbp proteins with MUC2 vWF domains, resulting in a highly viscous extracellular layer. Colonization by commensal intestinal microbiota is limited to an outer \"loose\" mucus layer, and interacts with the diverse oligosaccharides of mucin glycoproteins, whereas an \"inner\" adherent mucus layer is largely devoid of bacteria. Defective mucus layers resulting from lack of MUC2 mucin, mutated Muc2 mucin vWF domains, or from deletion of core mucin glycosyltransferase enzymes in mice result in increased bacterial adhesion to the surface epithelium, increased intestinal permeability, and enhanced susceptibility to colitis caused by dextran sodium sulfate. Changes in mucin gene expression and mucin glycan structures occur in cancers of the intestine, contributing to diverse biologic properties involved in the development and progression of cancer. Further research is needed on identification and functional significance of various components of mucus layers and the complex interactions among mucus layers, microbiota, epithelial cells, and the underlying innate and adaptive immunity. Further elucidation of the regulatory mechanisms involved in mucin changes in cancer and inflammation may lead to the development of novel therapeutic approaches.",
+  "authors": [
+    "Young Shin Kim",
+    "Samuel B. Ho"
+  ],
+  "year": 2010,
+  "doi": "10.1007/s11894-010-0131-2",
+  "source": "openalex",
+  "categories": [
+    "Mucin",
+    "Mucus",
+    "Glycoprotein",
+    "Cell biology",
+    "Biology",
+    "Mucin 2",
+    "Goblet cell",
+    "Chemistry",
+    "Biochemistry",
+    "Epithelium",
+    "Gene expression",
+    "Ecology",
+    "Gene",
+    "Genetics"
+  ],
+  "citation_count": 1531,
+  "open_access_pdf_url": "https://link.springer.com/content/pdf/10.1007/s11894-010-0131-2.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2120950548.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:45.408476+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2120950548",
+    "concepts": [
+      "Mucin",
+      "Mucus",
+      "Glycoprotein",
+      "Cell biology",
+      "Biology"
+    ],
+    "oa_status": "hybrid"
+  }
+}

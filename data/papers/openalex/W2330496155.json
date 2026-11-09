@@ -1,0 +1,59 @@
+{
+  "id": "openalex:W2330496155",
+  "title": "Comparison of Upper Gastrointestinal Toxicity of Rofecoxib and Naproxen in Patients with Rheumatoid Arthritis",
+  "abstract": "BACKGROUND: Each year, clinical upper gastrointestinal events occur in 2 to 4 percent of patients who are taking nonselective nonsteroidal antiinflammatory drugs (NSAIDs). We assessed whether rofecoxib, a selective inhibitor of cyclooxygenase-2, would be associated with a lower incidence of clinically important upper gastrointestinal events than is the nonselective NSAID naproxen among patients with rheumatoid arthritis. METHODS: We randomly assigned 8076 patients who were at least 50 years of age (or at least 40 years of age and receiving long-term glucocorticoid therapy) and who had rheumatoid arthritis to receive either 50 mg of rofecoxib daily or 500 mg of naproxen twice daily. The primary end point was confirmed clinical upper gastrointestinal events (gastroduodenal perforation or obstruction, upper gastrointestinal bleeding, and symptomatic gastroduodenal ulcers). RESULTS: Rofecoxib and naproxen had similar efficacy against rheumatoid arthritis. During a median follow-up of 9.0 months, 2.1 confirmed gastrointestinal events per 100 patient-years occurred with rofecoxib, as compared with 4.5 per 100 patient-years with naproxen (relative risk, 0.5; 95 percent confidence interval, 0.3 to 0.6; P<0.001). The respective rates of complicated confirmed events (perforation, obstruction, and severe upper gastrointestinal bleeding) were 0.6 per 100 patient-years and 1.4 per 100 patient-years (relative risk, 0.4; 95 percent confidence interval, 0.2 to 0.8; P=0.005). The incidence of myocardial infarction was lower among patients in the naproxen group than among those in the rofecoxib group (0.1 percent vs. 0.4 percent; relative risk, 0.2; 95 percent confidence interval, 0.1 to 0.7); the overall mortality rate and the rate of death from cardiovascular causes were similar in the two groups. CONCLUSIONS: In patients with rheumatoid arthritis, treatment with rofecoxib, a selective inhibitor of cyclooxygenase-2, is associated with significantly fewer clinically important upper gastrointestinal events than treatment with naproxen, a nonselective inhibitor.",
+  "authors": [
+    "Claire Bombardier",
+    "Loren Laine",
+    "Alise S. Reicin",
+    "Deborah Shapiro",
+    "Rubén Burgos‐Vargas",
+    "Barry R. Davis",
+    "Richard Osborne Day",
+    "Marcos Bosi Ferraz",
+    "Christopher J. Hawkey",
+    "Marc C. Hochberg",
+    "Tore Kristian Kvien",
+    "Thomas J. Schnitzer"
+  ],
+  "year": 2000,
+  "doi": "10.1056/nejm200011233432103",
+  "source": "openalex",
+  "categories": [
+    "Rofecoxib",
+    "Medicine",
+    "Naproxen",
+    "Rheumatoid arthritis",
+    "Nonsteroidal",
+    "Cyclooxygenase",
+    "Incidence (geometry)",
+    "Internal medicine",
+    "Gastroenterology",
+    "Toxicity",
+    "Arthritis",
+    "Celecoxib",
+    "Pathology",
+    "Alternative medicine",
+    "Enzyme",
+    "Optics",
+    "Physics",
+    "Chemistry",
+    "Biochemistry"
+  ],
+  "citation_count": 3989,
+  "open_access_pdf_url": "https://www.nejm.org/doi/pdf/10.1056/NEJM200011233432103?articleTools=true",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2330496155.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:54.062537+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2330496155",
+    "concepts": [
+      "Rofecoxib",
+      "Medicine",
+      "Naproxen",
+      "Rheumatoid arthritis",
+      "Nonsteroidal"
+    ],
+    "oa_status": "bronze"
+  }
+}

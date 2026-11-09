@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W3081497074",
+  "title": "USAD",
+  "abstract": "The automatic supervision of IT systems is a current challenge at Orange. Given the size and complexity reached by its IT operations, the number of sensors needed to obtain measurements over time, used to infer normal and abnormal behaviors, has increased dramatically making traditional expert-based supervision methods slow or prone to errors. In this paper, we propose a fast and stable method called UnSupervised Anomaly Detection for multivariate time series (USAD) based on adversely trained autoencoders. Its autoencoder architecture makes it capable of learning in an unsupervised way. The use of adversarial training and its architecture allows it to isolate anomalies while providing fast training. We study the properties of our methods through experiments on five public datasets, thus demonstrating its robustness, training speed and high anomaly detection performance. Through a feasibility study using Orange's proprietary data we have been able to validate Orange's requirements on scalability, stability, robustness, training speed and high performance.",
+  "authors": [
+    "Julien Audibert",
+    "Pietro Michiardi A",
+    "Frédéric Guyard",
+    "Sébastien Marti",
+    "María A. Zuluaga"
+  ],
+  "year": 2020,
+  "doi": "10.1145/3394486.3403392",
+  "source": "openalex",
+  "categories": [
+    "Computer science",
+    "Autoencoder",
+    "Robustness (evolution)",
+    "Scalability",
+    "Anomaly detection",
+    "Artificial intelligence",
+    "Unsupervised learning",
+    "Machine learning",
+    "Orange (colour)",
+    "Architecture",
+    "Pattern recognition (psychology)",
+    "Data mining",
+    "Deep learning",
+    "Database",
+    "Biology",
+    "Horticulture",
+    "Art",
+    "Gene",
+    "Biochemistry",
+    "Visual arts",
+    "Chemistry"
+  ],
+  "citation_count": 1368,
+  "open_access_pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3394486.3403392",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3081497074.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:52.782565+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3081497074",
+    "concepts": [
+      "Computer science",
+      "Autoencoder",
+      "Robustness (evolution)",
+      "Scalability",
+      "Anomaly detection"
+    ],
+    "oa_status": "hybrid"
+  }
+}

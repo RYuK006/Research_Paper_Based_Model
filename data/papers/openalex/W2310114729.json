@@ -1,0 +1,57 @@
+{
+  "id": "openalex:W2310114729",
+  "title": "Global Estimates of Fine Particulate Matter using a Combined Geophysical-Statistical Method with Information from Satellites, Models, and Monitors",
+  "abstract": "We estimated global fine particulate matter (PM2.5) concentrations using information from satellite-, simulation- and monitor-based sources by applying a Geographically Weighted Regression (GWR) to global geophysically based satellite-derived PM2.5 estimates. Aerosol optical depth from multiple satellite products (MISR, MODIS Dark Target, MODIS and SeaWiFS Deep Blue, and MODIS MAIAC) was combined with simulation (GEOS-Chem) based upon their relative uncertainties as determined using ground-based sun photometer (AERONET) observations for 1998-2014. The GWR predictors included simulated aerosol composition and land use information. The resultant PM2.5 estimates were highly consistent (R(2) = 0.81) with out-of-sample cross-validated PM2.5 concentrations from monitors. The global population-weighted annual average PM2.5 concentrations were 3-fold higher than the 10 μg/m(3) WHO guideline, driven by exposures in Asian and African regions. Estimates in regions with high contributions from mineral dust were associated with higher uncertainty, resulting from both sparse ground-based monitoring, and challenging conditions for retrieval and simulation. This approach demonstrates that the addition of even sparse ground-based measurements to more globally continuous PM2.5 data sources can yield valuable improvements to PM2.5 characterization on a global scale.",
+  "authors": [
+    "Aaron van Donkelaar",
+    "Randall V. Martin",
+    "Michael D Brauer",
+    "Nai-Yung Christina Hsu",
+    "Ralph A. Kahn",
+    "R. C. Levy",
+    "Alexei Lyapustin",
+    "A. M. Sayer",
+    "David M. M Winker"
+  ],
+  "year": 2016,
+  "doi": "10.1021/acs.est.5b05833",
+  "source": "openalex",
+  "categories": [
+    "AERONET",
+    "Environmental science",
+    "Satellite",
+    "SeaWiFS",
+    "Particulates",
+    "Aerosol",
+    "Mineral dust",
+    "Remote sensing",
+    "Meteorology",
+    "Sun photometer",
+    "Geostationary orbit",
+    "Geography",
+    "Nutrient",
+    "Organic chemistry",
+    "Biology",
+    "Chemistry",
+    "Ecology",
+    "Engineering",
+    "Phytoplankton",
+    "Aerospace engineering"
+  ],
+  "citation_count": 1240,
+  "open_access_pdf_url": "https://mdsoar.org/bitstreams/9fbdc088-0f94-486e-b3c0-2cbd2c183412/download",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2310114729.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:02.807561+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2310114729",
+    "concepts": [
+      "AERONET",
+      "Environmental science",
+      "Satellite",
+      "SeaWiFS",
+      "Particulates"
+    ],
+    "oa_status": "green"
+  }
+}

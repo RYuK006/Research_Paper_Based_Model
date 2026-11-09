@@ -1,0 +1,44 @@
+{
+  "id": "openalex:W1973352373",
+  "title": "Fractional Schrödinger equation",
+  "abstract": "Some properties of the fractional Schrödinger equation are studied. We prove the Hermiticity of the fractional Hamilton operator and establish the parity conservation law for fractional quantum mechanics. As physical applications of the fractional Schrödinger equation we find the energy spectra of a hydrogenlike atom (fractional \"Bohr atom\") and of a fractional oscillator in the semiclassical approximation. An equation for the fractional probability current density is developed and discussed. We also discuss the relationships between the fractional and standard Schrödinger equations.",
+  "authors": [
+    "Nick Laskin"
+  ],
+  "year": 2002,
+  "doi": "10.1103/physreve.66.056108",
+  "source": "openalex",
+  "categories": [
+    "Bohr model",
+    "Semiclassical physics",
+    "Schrödinger equation",
+    "Fractional calculus",
+    "Mathematical physics",
+    "Physics",
+    "Quantum mechanics",
+    "Operator (biology)",
+    "Mathematics",
+    "Quantum",
+    "Chemistry",
+    "Biochemistry",
+    "Repressor",
+    "Transcription factor",
+    "Gene"
+  ],
+  "citation_count": 1610,
+  "open_access_pdf_url": "https://arxiv.org/pdf/quant-ph/0206098",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1973352373.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:41.789374+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1973352373",
+    "concepts": [
+      "Bohr model",
+      "Semiclassical physics",
+      "Schrödinger equation",
+      "Fractional calculus",
+      "Mathematical physics"
+    ],
+    "oa_status": "green"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W3158379422",
+  "title": "Interaction Region Indicator: A Simple Real Space Function Clearly Revealing Both Chemical Bonds and Weak Interactions**",
+  "abstract": "Abstract Graphically revealing interaction regions in a chemical system enables chemists to quickly recognize where significant interactions have formed. Reduced density gradient (RDG) has already been widely employed in literatures to visually exhibit weak interaction regions, in fact it also has the ability of revealing chemical bonding regions. Unfortunately, RDG cannot clearly show both types of the interactions at the same time. In this work, we propose a new real space function named interaction region indicator (IRI), which is a slight modification on RDG. We found IRI can reveal chemical bonding and weak interaction regions equally well, which brings great convenience in the study of various chemical systems as well as chemical reactions. IRI is also compared with atom‐in‐molecules (AIM) topology analysis of electron density, it is demonstrated that IRI has the ability to reveal additional interactions to provide chemists a more complete picture. In addition, we put forward a variant of IRI named IRI‐π, which is dedicated to reveal interactions of π electrons. It is found that IRI‐π can not only distinguish type of π interactions but also exhibit π‐interaction strength. IRI and IRI‐π have been efficiently implemented in our freely available Multiwfn wavefunction analysis code ( http://sobereva.com/multiwfn ), and are expected to become new useful members of computational chemists′ toolbox in studying chemical problems.",
+  "authors": [
+    "Tian Lu",
+    "Qinxue Chen"
+  ],
+  "year": 2021,
+  "doi": "10.1002/cmtd.202100007",
+  "source": "openalex",
+  "categories": [
+    "Chemical space",
+    "Toolbox",
+    "Function (biology)",
+    "Space (punctuation)",
+    "Simple (philosophy)",
+    "Chemical bond",
+    "Computer science",
+    "Wave function",
+    "Biological system",
+    "Chemical physics",
+    "Chemistry",
+    "Physics",
+    "Drug discovery",
+    "Atomic physics",
+    "Quantum mechanics",
+    "Programming language",
+    "Epistemology",
+    "Biochemistry",
+    "Biology",
+    "Operating system",
+    "Philosophy",
+    "Evolutionary biology"
+  ],
+  "citation_count": 2058,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cmtd.202100007",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3158379422.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:15.543775+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3158379422",
+    "concepts": [
+      "Chemical space",
+      "Toolbox",
+      "Function (biology)",
+      "Space (punctuation)",
+      "Simple (philosophy)"
+    ],
+    "oa_status": "gold"
+  }
+}

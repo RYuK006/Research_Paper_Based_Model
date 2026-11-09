@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2066978116",
+  "title": "Symmetry-dependent phonon renormalization in monolayer MoS 2 transistor",
+  "abstract": "A strong electron-phonon interaction which limits the electronic mobility of semiconductors can also have significant effects on phonon frequencies. The latter is the key to the use of Raman spectroscopy for nondestructive characterization of doping in graphene-based devices. Using in situ Raman scattering from a single-layer MoS${}_{2}$ electrochemically top-gated field-effect transistor (FET), we show softening and broadening of the ${A}_{1g}$ phonon with electron doping, whereas the other Raman-active ${E}_{2g}^{1}$ mode remains essentially inert. Confirming these results with first-principles density functional theory based calculations, we use group theoretical arguments to explain why the ${A}_{1g}$ mode specifically exhibits a strong sensitivity to electron doping. Our work opens up the use of Raman spectroscopy in probing the level of doping in single-layer MoS${}_{2}$-based FETs, which have a high on-off ratio and are of technological significance.",
+  "authors": [
+    "Biswanath Chakraborty",
+    "Achintya Bera",
+    "D. V. S. Muthu",
+    "Somnath Bhowmick",
+    "Umesh Vasudeo Waghmare",
+    "Ajay Kumar Sood"
+  ],
+  "year": 2012,
+  "doi": "10.1103/physrevb.85.161403",
+  "source": "openalex",
+  "categories": [
+    "Raman spectroscopy",
+    "Doping",
+    "Phonon",
+    "Condensed matter physics",
+    "Raman scattering",
+    "Materials science",
+    "Semiconductor",
+    "Graphene",
+    "Spectroscopy",
+    "Physics",
+    "Analytical Chemistry (journal)",
+    "Optoelectronics",
+    "Nanotechnology",
+    "Chemistry",
+    "Optics",
+    "Quantum mechanics",
+    "Chromatography"
+  ],
+  "citation_count": 1146,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1206.1758",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2066978116.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:14.634464+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2066978116",
+    "concepts": [
+      "Raman spectroscopy",
+      "Doping",
+      "Phonon",
+      "Condensed matter physics",
+      "Raman scattering"
+    ],
+    "oa_status": "green"
+  }
+}

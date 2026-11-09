@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W2151672477",
+  "title": "Inflammation, Oxidative Stress, and Obesity",
+  "abstract": "Obesity is a chronic disease of multifactorial origin and can be defined as an increase in the accumulation of body fat. Adipose tissue is not only a triglyceride storage organ, but studies have shown the role of white adipose tissue as a producer of certain bioactive substances called adipokines. Among adipokines, we find some inflammatory functions, such as Interleukin-6 (IL-6); other adipokines entail the functions of regulating food intake, therefore exerting a direct effect on weight control. This is the case of leptin, which acts on the limbic system by stimulating dopamine uptake, creating a feeling of fullness. However, these adipokines induce the production of reactive oxygen species (ROS), generating a process known as oxidative stress (OS). Because adipose tissue is the organ that secretes adipokines and these in turn generate ROS, adipose tissue is considered an independent factor for the generation of systemic OS. There are several mechanisms by which obesity produces OS. The first of these is the mitochondrial and peroxisomal oxidation of fatty acids, which can produce ROS in oxidation reactions, while another mechanism is over-consumption of oxygen, which generates free radicals in the mitochondrial respiratory chain that is found coupled with oxidative phosphorylation in mitochondria. Lipid-rich diets are also capable of generating ROS because they can alter oxygen metabolism. Upon the increase of adipose tissue, the activity of antioxidant enzymes such as superoxide dismutase (SOD), catalase (CAT), and glutathione peroxidase (GPx), was found to be significantly diminished. Finally, high ROS production and the decrease in antioxidant capacity leads to various abnormalities, among which we find endothelial dysfunction, which is characterized by a reduction in the bioavailability of vasodilators, particularly nitric oxide (NO), and an increase in endothelium-derived contractile factors, favoring atherosclerotic disease.",
+  "authors": [
+    "Alba Fernández-Sánchez",
+    "Eduardo Madrigal‐Santillán",
+    "Mirandeli Bautista",
+    "Jaime Esquivel-Soto",
+    "Ángel Morales‐González",
+    "César Esquivel-Chirino",
+    "Irene Durante-Montiel",
+    "Graciela Sánchez-Rivera",
+    "María del Carmen Valadez-Vega",
+    "José A. Morales‐González"
+  ],
+  "year": 2011,
+  "doi": "10.3390/ijms12053117",
+  "source": "openalex",
+  "categories": [
+    "Adipokine",
+    "Adipose tissue",
+    "Oxidative stress",
+    "Endocrinology",
+    "Reactive oxygen species",
+    "Internal medicine",
+    "Superoxide dismutase",
+    "White adipose tissue",
+    "Chemistry",
+    "Glutathione peroxidase",
+    "Leptin",
+    "Biology",
+    "Biochemistry",
+    "Medicine",
+    "Obesity"
+  ],
+  "citation_count": 1585,
+  "open_access_pdf_url": "https://www.mdpi.com/1422-0067/12/5/3117/pdf?version=1403142436",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2151672477.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:41.938637+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2151672477",
+    "concepts": [
+      "Adipokine",
+      "Adipose tissue",
+      "Oxidative stress",
+      "Endocrinology",
+      "Reactive oxygen species"
+    ],
+    "oa_status": "gold"
+  }
+}

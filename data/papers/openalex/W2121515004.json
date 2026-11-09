@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W2121515004",
+  "title": "The Curry Spice Curcumin Reduces Oxidative Damage and Amyloid Pathology in an Alzheimer Transgenic Mouse",
+  "abstract": "Inflammation in Alzheimer's disease (AD) patients is characterized by increased cytokines and activated microglia. Epidemiological studies suggest reduced AD risk associates with long-term use of nonsteroidal anti-inflammatory drugs (NSAIDs). Whereas chronic ibuprofen suppressed inflammation and plaque-related pathology in an Alzheimer transgenic APPSw mouse model (Tg2576), excessive use of NSAIDs targeting cyclooxygenase I can cause gastrointestinal, liver, and renal toxicity. One alternative NSAID is curcumin, derived from the curry spice turmeric. Curcumin has an extensive history as a food additive and herbal medicine in India and is also a potent polyphenolic antioxidant. To evaluate whether it could affect Alzheimer-like pathology in the APPSw mice, we tested a low (160 ppm) and a high dose of dietary curcumin (5000 ppm) on inflammation, oxidative damage, and plaque pathology. Low and high doses of curcumin significantly lowered oxidized proteins and interleukin-1beta, a proinflammatory cytokine elevated in the brains of these mice. With low-dose but not high-dose curcumin treatment, the astrocytic marker GFAP was reduced, and insoluble beta-amyloid (Abeta), soluble Abeta, and plaque burden were significantly decreased by 43-50%. However, levels of amyloid precursor (APP) in the membrane fraction were not reduced. Microgliosis was also suppressed in neuronal layers but not adjacent to plaques. In view of its efficacy and apparent low toxicity, this Indian spice component shows promise for the prevention of Alzheimer's disease.",
+  "authors": [
+    "Giselle P. Lim",
+    "Teresa Chu",
+    "Fusheng Yang",
+    "Walter K. Beech",
+    "Sally Ann Frautschy",
+    "Greg M. Cole"
+  ],
+  "year": 2001,
+  "doi": "10.1523/jneurosci.21-21-08370.2001",
+  "source": "openalex",
+  "categories": [
+    "Curcumin",
+    "Inflammation",
+    "Pharmacology",
+    "Proinflammatory cytokine",
+    "Presenilin",
+    "Medicine",
+    "Genetically modified mouse",
+    "Alzheimer's disease",
+    "Oxidative stress",
+    "Toxicity",
+    "Amyloid (mycology)",
+    "Pathology",
+    "Internal medicine",
+    "Endocrinology",
+    "Transgene",
+    "Chemistry",
+    "Biochemistry",
+    "Disease",
+    "Gene"
+  ],
+  "citation_count": 1543,
+  "open_access_pdf_url": "https://www.jneurosci.org/content/jneuro/21/21/8370.full.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2121515004.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:45.347857+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2121515004",
+    "concepts": [
+      "Curcumin",
+      "Inflammation",
+      "Pharmacology",
+      "Proinflammatory cytokine",
+      "Presenilin"
+    ],
+    "oa_status": "hybrid"
+  }
+}

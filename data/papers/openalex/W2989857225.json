@@ -1,0 +1,57 @@
+{
+  "id": "openalex:W2989857225",
+  "title": "Toward Improved Predictions in Ungauged Basins: Exploiting the Power of Machine Learning",
+  "abstract": "Abstract Long short‐term memory (LSTM) networks offer unprecedented accuracy for prediction in ungauged basins. We trained and tested several LSTMs on 531 basins from the CAMELS data set using k‐fold validation, so that predictions were made in basins that supplied no training data. The training and test data set included ∼30 years of daily rainfall‐runoff data from catchments in the United States ranging in size from 4 to 2,000 km 2 with aridity index from 0.22 to 5.20, and including 12 of the 13 IGPB vegetated land cover classifications. This effectively “ungauged” model was benchmarked over a 15‐year validation period against the Sacramento Soil Moisture Accounting (SAC‐SMA) model and also against the NOAA National Water Model reanalysis. SAC‐SMA was calibrated separately for each basin using 15 years of daily data. The out‐of‐sample LSTM had higher median Nash‐Sutcliffe Efficiencies across the 531 basins (0.69) than either the calibrated SAC‐SMA (0.64) or the National Water Model (0.58). This indicates that there is (typically) sufficient information in available catchment attributes data about similarities and differences between catchment‐level rainfall‐runoff behaviors to provide out‐of‐sample simulations that are generally more accurate than current models under ideal (i.e., calibrated) conditions. We found evidence that adding physical constraints to the LSTM models might improve simulations, which we suggest motivates future research related to physics‐guided machine learning.",
+  "authors": [
+    "Frederik Kratzert",
+    "Daniel Klotz",
+    "Mathew Herrnegger",
+    "Alden Keefe Sampson",
+    "Sepp Hochreiter",
+    "Grey Nearing"
+  ],
+  "year": 2019,
+  "doi": "10.1029/2019wr026065",
+  "source": "openalex",
+  "categories": [
+    "Drainage basin",
+    "Surface runoff",
+    "Structural basin",
+    "SMA*",
+    "Environmental science",
+    "Data set",
+    "Sample (material)",
+    "Hydrology (agriculture)",
+    "Set (abstract data type)",
+    "Machine learning",
+    "Computer science",
+    "Artificial intelligence",
+    "Geology",
+    "Cartography",
+    "Geography",
+    "Algorithm",
+    "Biology",
+    "Geotechnical engineering",
+    "Chemistry",
+    "Ecology",
+    "Programming language",
+    "Paleontology",
+    "Chromatography"
+  ],
+  "citation_count": 1089,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2019WR026065",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2989857225.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:24.407087+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2989857225",
+    "concepts": [
+      "Drainage basin",
+      "Surface runoff",
+      "Structural basin",
+      "SMA*",
+      "Environmental science"
+    ],
+    "oa_status": "hybrid"
+  }
+}

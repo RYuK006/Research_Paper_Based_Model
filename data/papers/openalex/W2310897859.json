@@ -1,0 +1,40 @@
+{
+  "id": "openalex:W2310897859",
+  "title": "Dose-rate conversion factors: update",
+  "abstract": "In the field of luminescence and electron spin resonance dating, dose rate conversion factors are widely used to convert concentrations of radioactive isotopes to dose rate values. These factors are derived from data provided by the National Nuclear Data Center of the Brookhaven National Laboratory, which are compiled in Evaluated Nuclear Structure Data Files (ENSDF) and Nuclear Wallet Cards. The recalculated dose rate conversion factors are a few percent higher than those previously published, except for beta and gamma emissions of the isotopes of the U-series decay chains.",
+  "authors": [
+    "Guillaume Guérin",
+    "Norbert Mercier",
+    "Grzegorz Adamiec"
+  ],
+  "year": 2011,
+  "doi": "10.26034/la.atl.2011.443",
+  "source": "openalex",
+  "categories": [
+    "National laboratory",
+    "Isotope",
+    "Dose rate",
+    "Radiochemistry",
+    "Nuclear physics",
+    "Environmental science",
+    "Physics",
+    "Chemistry",
+    "Engineering physics"
+  ],
+  "citation_count": 2397,
+  "open_access_pdf_url": "https://www.ancienttl.org/article/download/6707/5817",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2310897859.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:08.715965+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2310897859",
+    "concepts": [
+      "National laboratory",
+      "Isotope",
+      "Dose rate",
+      "Radiochemistry",
+      "Nuclear physics"
+    ],
+    "oa_status": "diamond"
+  }
+}

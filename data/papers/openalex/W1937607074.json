@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W1937607074",
+  "title": "Post‐translational modifications and activation of p53 by genotoxic stresses",
+  "abstract": "In unstressed cells, the tumor suppressor protein p53 is present in a latent state and is maintained at low levels through targeted degradation. A variety of genotoxic stresses initiate signaling pathways that transiently stabilize the p53 protein, cause it to accumulate in the nucleus, and activate it as a transcription factor. Activation leads either to growth arrest at the G1/S or G2/M transitions of the cell cycle or to apoptosis. Recent studies point to roles for multiple post-translational modifications in mediating these events in response to genotoxic stresses through several potentially interacting but distinct pathways. The approximately 100 amino-acid N-terminal and approximately 90 amino-acid C-terminal domains are highly modified by post-translational modifications. The N-terminus is heavily phosphorylated while the C-terminus contains phosphorylated, acetylated and sumoylated residues. Antibodies that recognize p53 only when it has been modified at specific sites have been developed, and studies with these reagents show that most known post-translational modifications are induced when cells are exposed to genotoxic stresses. These recent results, coupled with biochemical and genetic studies, suggest that N-terminal phosphorylations are important for stabilizing p53 and are crucial for acetylation of C-terminal sites, which in combination lead to the full p53-mediated response to genotoxic stresses. Modifications to the C-terminus inhibit the ability of this domain to negatively regulate sequence-specific DNA binding; additionally, they modulate the stability, the oligomerization state, the nuclear import/export process and the degree of ubiquitination of p53.",
+  "authors": [
+    "Ettore Appella",
+    "Carl W. Anderson"
+  ],
+  "year": 2001,
+  "doi": "10.1046/j.1432-1327.2001.02225.x",
+  "source": "openalex",
+  "categories": [
+    "Acetylation",
+    "DNA damage",
+    "Ubiquitin",
+    "Phosphorylation",
+    "Cell biology",
+    "DNA repair",
+    "SUMO protein",
+    "Amino acid",
+    "Biology",
+    "Cell cycle checkpoint",
+    "Transcription factor",
+    "Cell cycle",
+    "Apoptosis",
+    "Chemistry",
+    "DNA",
+    "Biochemistry",
+    "Gene"
+  ],
+  "citation_count": 1095,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1046/j.1432-1327.2001.02225.x",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1937607074.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:24.307030+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1937607074",
+    "concepts": [
+      "Acetylation",
+      "DNA damage",
+      "Ubiquitin",
+      "Phosphorylation",
+      "Cell biology"
+    ],
+    "oa_status": "bronze"
+  }
+}

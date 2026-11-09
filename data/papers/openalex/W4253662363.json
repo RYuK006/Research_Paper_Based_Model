@@ -1,0 +1,58 @@
+{
+  "id": "openalex:W4253662363",
+  "title": "A mechanism for gene conversion in fungi",
+  "abstract": "A mechanism for gene conversion is proposed which overcomes many of the difficulties that any copy choice model encounters. It is suggested that along with general genetic pairing of homologous genomes at meiosis, effective pairing over short regions of the genetic material occurs at the molecular level by the separation of the strands of the DNA double helices, followed by the annealing of strands from two homologous chromatids. If the annealed region happens to span a heterozygous site, mispairing of bases will occur. Such a situation may be analogous to that in DNA which is damaged by mutagens; the same or similar repair mechanisms may operate, and these, by adjusting the base sequences in order to restore normal base pairing, would bring about gene conversion in the absence of any genetic replication. The model indicates how precise breakage and rejoining of chromatids could occur in the vicinity of the conversion, so that conversion would frequently be accompanied by the recombination of outside markers. The model also proposes that the distance between two mutant sites on a fine structure map depends not so much on the frequency of a recombinational event occurring between them, but rather on the degree of inhibition of the processes of genetic pairing by the mutants themselves. The model will explain almost all the data in a formal way, and it has the advantage over copy choice mechanisms for gene conversion in (1) being compatible with semi-conservative replication of DNA, (2) not invoking DNA synthesis during or after genetic pairing, (3) providing a molecular mechanism for close specific pairing, (4) making it unnecessary to postulate sister strand exchange or a process akin to this, (5) suggesting why rates of gene conversion in opposite directions are sometimes unequal and (6) providing an explanation of the clustering of mutant sites, a basis for map expansion and for the apparently capricious departure of fine structure maps from additivity. Although the model proposed is a general rather than a specific one, it suggests that the process of conversion and intragenic recombination is more complex than is usually believed, since it depends on several interacting factors. Nevertheless, it is hoped that the introduction of a model with this complexity will help to stimulate specific experiments, and that these will provide definitive information which would never be obtained if simpler models of conversion and intragenic recombination were believed to explain the genetic data sufficiently well.",
+  "authors": [
+    "Robin Holliday"
+  ],
+  "year": 1964,
+  "doi": "10.1017/s0016672300001233",
+  "source": "openalex",
+  "categories": [
+    "Gene conversion",
+    "Genetics",
+    "Homologous recombination",
+    "Gene",
+    "DNA",
+    "Mutant",
+    "Homologous chromosome",
+    "Biology",
+    "Genetic recombination",
+    "Pairing",
+    "Base pair",
+    "Genome",
+    "Mechanism (biology)",
+    "Chromatid",
+    "Recombination",
+    "DNA replication",
+    "Chromosomal crossover",
+    "Computational biology",
+    "Model organism",
+    "Mutation",
+    "Meiosis",
+    "Chemistry",
+    "Allele",
+    "Genetic code",
+    "Branch migration",
+    "Saccharomyces cerevisiae",
+    "Biophysics",
+    "Cell biology",
+    "Mutagenesis"
+  ],
+  "citation_count": 1518,
+  "open_access_pdf_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E11586A6605C2A54C648BACEABECF954/S0016672300001233a.pdf/div-class-title-a-mechanism-for-gene-conversion-in-fungi-div.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W4253662363.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:45.493261+00:00",
+  "raw_metadata": {
+    "openalex_id": "W4253662363",
+    "concepts": [
+      "Gene conversion",
+      "Genetics",
+      "Homologous recombination",
+      "Gene",
+      "DNA"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W1990445317",
+  "title": "Cytokine Mechanisms of Central Sensitization: Distinct and Overlapping Role of Interleukin-1β, Interleukin-6, and Tumor Necrosis Factor-α in Regulating Synaptic and Neuronal Activity in the Superficial Spinal Cord",
+  "abstract": "Central sensitization, increased sensitivity in spinal cord dorsal horn neurons after injuries, plays an essential role in the induction and maintenance of chronic pain. However, synaptic mechanisms underlying central sensitization are incompletely known. Growing evidence suggests that proinflammatory cytokines (PICs), such as interleukin-1beta (IL-1beta), interleukin-6 (IL-6), and tumor necrosis factor-alpha (TNFalpha), are induced in the spinal cord under various injury conditions and contribute to pain hypersensitivity. Using patch-clamp recordings in lamina II neurons of isolated spinal cord slices, we compared the effects of IL-1beta, IL-6, and TNFalpha on excitatory and inhibitory synaptic transmission. Whereas TNFalpha enhanced the frequency of spontaneous EPSCs (sEPSCs), IL-6 reduced the frequency of spontaneous IPSCs (sIPSCs). Notably, IL-1beta both enhanced the frequency and amplitude of sEPSCs and reduced the frequency and amplitude of sIPSCs. Consistently, TNFalpha and IL-1beta enhanced AMPA- or NMDA-induced currents, and IL-1beta and IL-6 suppressed GABA- and glycine-induced currents. Furthermore, all the PICs increased cAMP response element-binding protein (CREB) phosphorylation in superficial dorsal horn neurons and produced heat hyperalgesia after spinal injection. Surprisingly, soluble IL-6 receptor (sIL-6R) produced initial decrease of sEPSCs, followed by increase of sEPSCs and CREB phosphorylation. Spinal injection of sIL-6R also induced heat hyperalgesia that was potentiated by coadministration with IL-6. Together, our data have demonstrated that PICs induce central sensitization and hyperalgesia via distinct and overlapping synaptic mechanisms in superficial dorsal horn neurons either by increasing excitatory synaptic transmission or by decreasing inhibitory synaptic transmission. PICs may further induce long-term synaptic plasticity through CREB-mediated gene transcription. Blockade of PIC signaling could be an effective way to suppress central sensitization and alleviate chronic pain.",
+  "authors": [
+    "Yasuhiko Kawasaki",
+    "Ling Zhang",
+    "Jen‐Kun Cheng",
+    "Ru‐Rong Ji"
+  ],
+  "year": 2008,
+  "doi": "10.1523/jneurosci.3338-07.2008",
+  "source": "openalex",
+  "categories": [
+    "Excitatory postsynaptic potential",
+    "Hyperalgesia",
+    "Neuroscience",
+    "AMPA receptor",
+    "Spinal cord",
+    "Inhibitory postsynaptic potential",
+    "Sensitization",
+    "Neurotransmission",
+    "Glutamate receptor",
+    "Chemistry",
+    "Medicine",
+    "Internal medicine",
+    "Biology",
+    "Nociception",
+    "Receptor"
+  ],
+  "citation_count": 1196,
+  "open_access_pdf_url": "https://www.jneurosci.org/content/jneuro/28/20/5189.full.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1990445317.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:08.354608+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1990445317",
+    "concepts": [
+      "Excitatory postsynaptic potential",
+      "Hyperalgesia",
+      "Neuroscience",
+      "AMPA receptor",
+      "Spinal cord"
+    ],
+    "oa_status": "hybrid"
+  }
+}

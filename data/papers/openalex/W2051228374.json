@@ -1,0 +1,42 @@
+{
+  "id": "openalex:W2051228374",
+  "title": "Graphical Evaluation of Blood-to-Brain Transfer Constants from Multiple-Time Uptake Data. Generalizations",
+  "abstract": "The method of graphical analysis for the evaluation of sequential data (e.g., tissue and blood concentrations over time) in which the test substance is irreversibly trapped in the system has been expanded. A simpler derivation of the original analysis is presented. General equations are derived that can be used to analyze tissue uptake data when the blood-plasma concentration of the test substance cannot be easily measured. In addition, general equations are derived for situations when trapping of the test substance is incomplete and for a combination of these two conditions. These derivations are independent of the actual configuration of the compartmental system being analyzed and show what information can be obtained for the period when the reversible compartments are in effective steady state with the blood. This approach is also shown to result in equations with at least one less nonlinear term than those derived from direct compartmental analysis. Specific applications of these equations are illustrated for a compartmental system with one reversible region (with or without reversible binding) and one irreversible region.",
+  "authors": [
+    "Clifford S. Patlak",
+    "Ronald G. Blasberg"
+  ],
+  "year": 1985,
+  "doi": "10.1038/jcbfm.1985.87",
+  "source": "openalex",
+  "categories": [
+    "Nonlinear system",
+    "Steady state (chemistry)",
+    "Biological system",
+    "Applied mathematics",
+    "Term (time)",
+    "Computer science",
+    "Mathematics",
+    "Chemistry",
+    "Physics",
+    "Physical chemistry",
+    "Biology",
+    "Quantum mechanics"
+  ],
+  "citation_count": 1688,
+  "open_access_pdf_url": "https://journals.sagepub.com/doi/pdf/10.1038/jcbfm.1985.87",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2051228374.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:33.200766+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2051228374",
+    "concepts": [
+      "Nonlinear system",
+      "Steady state (chemistry)",
+      "Biological system",
+      "Applied mathematics",
+      "Term (time)"
+    ],
+    "oa_status": "bronze"
+  }
+}

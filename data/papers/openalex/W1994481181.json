@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W1994481181",
+  "title": "Improving gas sensing properties of graphene by introducing dopants and defects: a first-principles study",
+  "abstract": "The interactions between four different graphenes (including pristine, B- or N-doped and defective graphenes) and small gas molecules (CO, NO, NO(2) and NH(3)) were investigated by using density functional computations to exploit their potential applications as gas sensors. The structural and electronic properties of the graphene-molecule adsorption adducts are strongly dependent on the graphene structure and the molecular adsorption configuration. All four gas molecules show much stronger adsorption on the doped or defective graphenes than that on the pristine graphene. The defective graphene shows the highest adsorption energy with CO, NO and NO(2) molecules, while the B-doped graphene gives the tightest binding with NH(3). Meanwhile, the strong interactions between the adsorbed molecules and the modified graphenes induce dramatic changes to graphene's electronic properties. The transport behavior of a gas sensor using B-doped graphene shows a sensitivity two orders of magnitude higher than that of pristine graphene. This work reveals that the sensitivity of graphene-based chemical gas sensors could be drastically improved by introducing the appropriate dopant or defect.",
+  "authors": [
+    "Yonghui Zhang",
+    "Ya-Bin Chen",
+    "Kai‐Ge Zhou",
+    "Caihong Liu",
+    "Jing Hui Zeng",
+    "Hao‐Li Zhang",
+    "Yong Peng"
+  ],
+  "year": 2009,
+  "doi": "10.1088/0957-4484/20/18/185504",
+  "source": "openalex",
+  "categories": [
+    "Graphene",
+    "Materials science",
+    "Dopant",
+    "Adsorption",
+    "Molecule",
+    "Chemical physics",
+    "Nanotechnology",
+    "Doping",
+    "Graphene nanoribbons",
+    "Chemical engineering",
+    "Physical chemistry",
+    "Organic chemistry",
+    "Optoelectronics",
+    "Chemistry",
+    "Engineering"
+  ],
+  "citation_count": 1336,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1088/0957-4484/20/18/185504/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1994481181.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:55.306063+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1994481181",
+    "concepts": [
+      "Graphene",
+      "Materials science",
+      "Dopant",
+      "Adsorption",
+      "Molecule"
+    ],
+    "oa_status": "bronze"
+  }
+}

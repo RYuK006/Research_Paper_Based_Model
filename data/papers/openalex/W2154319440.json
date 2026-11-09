@@ -1,0 +1,58 @@
+{
+  "id": "openalex:W2154319440",
+  "title": "Bio3d: an R package for the comparative analysis of protein structures",
+  "abstract": "UNLABELLED: An automated procedure for the analysis of homologous protein structures has been developed. The method facilitates the characterization of internal conformational differences and inter-conformer relationships and provides a framework for the analysis of protein structural evolution. The method is implemented in bio3d, an R package for the exploratory analysis of structure and sequence data. AVAILABILITY: The bio3d package is distributed with full source code as a platform-independent R package under a GPL2 license from: http://mccammon.ucsd.edu/~bgrant/bio3d/",
+  "authors": [
+    "Barry J. Grant",
+    "Ana P. C. Rodrigues",
+    "Karim M. ElSawy",
+    "James Andrew McCammon",
+    "Leo S. D. Caves"
+  ],
+  "year": 2006,
+  "doi": "10.1093/bioinformatics/btl461",
+  "source": "openalex",
+  "categories": [
+    "R package",
+    "Computer science",
+    "Software package",
+    "Sequence (biology)",
+    "Source code",
+    "Sequence analysis",
+    "Protein structure",
+    "Code (set theory)",
+    "License",
+    "Sequence alignment",
+    "Conformational isomerism",
+    "Computational biology",
+    "Software",
+    "Programming language",
+    "Peptide sequence",
+    "Set (abstract data type)",
+    "Chemistry",
+    "Operating system",
+    "Biology",
+    "Genetics",
+    "Biochemistry",
+    "Molecule",
+    "DNA",
+    "Organic chemistry",
+    "Gene"
+  ],
+  "citation_count": 2040,
+  "open_access_pdf_url": "https://academic.oup.com/bioinformatics/article-pdf/22/21/2695/48839366/bioinformatics_22_21_2695.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2154319440.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:15.584621+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2154319440",
+    "concepts": [
+      "R package",
+      "Computer science",
+      "Software package",
+      "Sequence (biology)",
+      "Source code"
+    ],
+    "oa_status": "hybrid"
+  }
+}

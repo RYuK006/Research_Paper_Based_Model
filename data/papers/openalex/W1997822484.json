@@ -1,0 +1,57 @@
+{
+  "id": "openalex:W1997822484",
+  "title": "Clearance of Alzheimer’s amyloid-β1-40 peptide from brain by LDL receptor–related protein-1 at the blood-brain barrier",
+  "abstract": "Elimination of amyloid-ss peptide (Ass) from the brain is poorly understood. After intracerebral microinjections in young mice, (125)I-Ass(1-40) was rapidly removed from the brain (t(1/2) </= 25 minutes), mainly by vascular transport across the blood-brain barrier (BBB). The efflux transport system for Ass(1-40) at the BBB was half saturated at 15.3 nM, and the maximal transport capacity was reached between 70 nM and 100 nM. Ass(1-40) clearance was substantially inhibited by the receptor-associated protein, and by antibodies against LDL receptor-related protein-1 (LRP-1) and alpha(2)-macroglobulin (alpha(2)M). As compared to adult wild-type mice, clearance was significantly reduced in young and old apolipoprotein E (apoE) knockout mice, and in old wild-type mice. There was no evidence that Ass was metabolized in brain interstitial fluid and degraded to smaller peptide fragments and amino acids before its transport across the BBB into the circulation. LRP-1, although abundant in brain microvessels in young mice, was downregulated in older animals, and this downregulation correlated with regional Ass accumulation in brains of Alzheimer's disease (AD) patients. We conclude that the BBB removes Ass from the brain largely via age-dependent, LRP-1-mediated transport that is influenced by alpha(2)M and/or apoE, and may be impaired in AD.",
+  "authors": [
+    "Masayoshi Shibata",
+    "Shinya Yamada",
+    "S. Ram Kumar",
+    "Miguel Calero",
+    "James R. Bading",
+    "Blas Frangione",
+    "David M. Holtzman",
+    "Carol A. Miller",
+    "Dudley K. Strickland",
+    "Jorge A. Ghiso",
+    "Berislav V. Zloković"
+  ],
+  "year": 2000,
+  "doi": "10.1172/jci10498",
+  "source": "openalex",
+  "categories": [
+    "Blood–brain barrier",
+    "Apolipoprotein E",
+    "Endocrinology",
+    "Internal medicine",
+    "Receptor",
+    "Downregulation and upregulation",
+    "Peptide",
+    "Chemistry",
+    "LDL receptor",
+    "Alzheimer's disease",
+    "Central nervous system",
+    "Biology",
+    "Medicine",
+    "Biochemistry",
+    "Lipoprotein",
+    "Cholesterol",
+    "Disease",
+    "Gene"
+  ],
+  "citation_count": 1448,
+  "open_access_pdf_url": "http://www.jci.org/articles/view/10498/files/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1997822484.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:48.275268+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1997822484",
+    "concepts": [
+      "Blood–brain barrier",
+      "Apolipoprotein E",
+      "Endocrinology",
+      "Internal medicine",
+      "Receptor"
+    ],
+    "oa_status": "bronze"
+  }
+}

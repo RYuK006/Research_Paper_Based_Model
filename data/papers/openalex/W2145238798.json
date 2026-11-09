@@ -1,0 +1,44 @@
+{
+  "id": "openalex:W2145238798",
+  "title": "The use of gold nanoparticles to enhance radiotherapy in mice",
+  "abstract": "Mice bearing subcutaneous EMT-6 mammary carcinomas received a single intravenous injection of 1.9 nm diameter gold particles (up to 2.7 g Au/kg body weight), which elevated concentrations of gold to 7 mg Au/g in tumours. Tumour-to-normal-tissue gold concentration ratios remained approximately 8:1 during several minutes of 250 kVp x-ray therapy. One-year survival was 86% versus 20% with x-rays alone and 0% with gold alone. The increase in tumours safely ablated was dependent on the amount of gold injected. The gold nanoparticles were apparently non-toxic to mice and were largely cleared from the body through the kidneys. This novel use of small gold nanoparticles permitted achievement of the high metal content in tumours necessary for significant high-Z radioenhancement.",
+  "authors": [
+    "James F. Hainfeld",
+    "Daniel N. Slatkin",
+    "Henry M. Smilowitz"
+  ],
+  "year": 2004,
+  "doi": "10.1088/0031-9155/49/18/n03",
+  "source": "openalex",
+  "categories": [
+    "Colloidal gold",
+    "Clearance",
+    "Body weight",
+    "Nuclear medicine",
+    "Radiation therapy",
+    "Nanoparticle",
+    "Medicine",
+    "Chemistry",
+    "Radiochemistry",
+    "Materials science",
+    "Internal medicine",
+    "Urology",
+    "Nanotechnology"
+  ],
+  "citation_count": 1694,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1088/0031-9155/49/18/N03/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2145238798.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:33.177358+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2145238798",
+    "concepts": [
+      "Colloidal gold",
+      "Clearance",
+      "Body weight",
+      "Nuclear medicine",
+      "Radiation therapy"
+    ],
+    "oa_status": "bronze"
+  }
+}

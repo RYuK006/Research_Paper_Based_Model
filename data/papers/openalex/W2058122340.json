@@ -1,0 +1,62 @@
+{
+  "id": "openalex:W2058122340",
+  "title": "Electric Field Effect in Atomically Thin Carbon Films",
+  "abstract": "We describe monocrystalline graphitic films, which are a few atoms thick but are nonetheless stable under ambient conditions, metallic, and of remarkably high quality. The films are found to be a two-dimensional semimetal with a tiny overlap between valence and conductance bands, and they exhibit a strong ambipolar electric field effect such that electrons and holes in concentrations up to 10(13) per square centimeter and with room-temperature mobilities of approximately 10,000 square centimeters per volt-second can be induced by applying gate voltage.",
+  "authors": [
+    "Kostya S. Novoselov",
+    "Andre K. Geim",
+    "Sergey V. Morozov",
+    "Da Jiang",
+    "Y. Zhang",
+    "S. V. Dubonos",
+    "I. V. Grigorieva",
+    "А. А. Firsov"
+  ],
+  "year": 2004,
+  "doi": "10.1126/science.1102896",
+  "source": "openalex",
+  "categories": [
+    "Electric field",
+    "Graphene",
+    "Materials science",
+    "Fullerene",
+    "Field-effect transistor",
+    "Carbon fibers",
+    "Nanotechnology",
+    "Ballistic conduction",
+    "Metal",
+    "Field (mathematics)",
+    "Thin film",
+    "Condensed matter physics",
+    "Transistor",
+    "Chemical physics",
+    "Optoelectronics",
+    "Chemistry",
+    "Physics",
+    "Composite material",
+    "Electron",
+    "Voltage",
+    "Composite number",
+    "Quantum mechanics",
+    "Metallurgy",
+    "Pure mathematics",
+    "Mathematics",
+    "Organic chemistry"
+  ],
+  "citation_count": 67323,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0410550",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2058122340.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:49.777786+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2058122340",
+    "concepts": [
+      "Electric field",
+      "Graphene",
+      "Materials science",
+      "Fullerene",
+      "Field-effect transistor"
+    ],
+    "oa_status": "green"
+  }
+}

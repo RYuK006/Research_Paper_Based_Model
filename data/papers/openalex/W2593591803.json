@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2593591803",
+  "title": "Deblur Rapidly Resolves Single-Nucleotide Community Sequence Patterns",
+  "abstract": "Deblur provides a rapid and sensitive means to assess ecological patterns driven by differentiation of closely related taxa. This algorithm provides a solution to the problem of identifying real ecological differences between taxa whose amplicons differ by a single base pair, is applicable in an automated fashion to large-scale sequencing data sets, and can integrate sequencing runs collected over time.",
+  "authors": [
+    "Amnon Amir",
+    "Daniel T. McDonald",
+    "Jose Antonio Navas-Molina",
+    "Evguenia Kopylova",
+    "James T. Morton",
+    "Zhenjiang Zech Xu",
+    "E. P. Kightley",
+    "Luke Thompson",
+    "Embriette R. Hyde",
+    "Antonio Gonzalez",
+    "Rob D. Knight"
+  ],
+  "year": 2017,
+  "doi": "10.1128/msystems.00191-16",
+  "source": "openalex",
+  "categories": [
+    "Amplicon",
+    "Operational taxonomic unit",
+    "Computational biology",
+    "Metagenomics",
+    "Chemistry",
+    "Biology",
+    "Gene",
+    "16S ribosomal RNA",
+    "Polymerase chain reaction",
+    "Biochemistry"
+  ],
+  "citation_count": 1910,
+  "open_access_pdf_url": "https://msystems.asm.org/content/msys/2/2/e00191-16.full.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2593591803.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:17.936656+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2593591803",
+    "concepts": [
+      "Amplicon",
+      "Operational taxonomic unit",
+      "Computational biology",
+      "Metagenomics",
+      "Chemistry"
+    ],
+    "oa_status": "gold"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2116823839",
+  "title": "Diffusional kurtosis imaging: The quantification of non‐gaussian water diffusion by means of magnetic resonance imaging",
+  "abstract": "A magnetic resonance imaging method is presented for quantifying the degree to which water diffusion in biologic tissues is non-Gaussian. Since tissue structure is responsible for the deviation of water diffusion from the Gaussian behavior typically observed in homogeneous solutions, this method provides a specific measure of tissue structure, such as cellular compartments and membranes. The method is an extension of conventional diffusion-weighted imaging that requires the use of somewhat higher b values and a modified image postprocessing procedure. In addition to the diffusion coefficient, the method provides an estimate for the excess kurtosis of the diffusion displacement probability distribution, which is a dimensionless metric of the departure from a Gaussian form. From the study of six healthy adult subjects, the excess diffusional kurtosis is found to be significantly higher in white matter than in gray matter, reflecting the structural differences between these two types of cerebral tissues. Diffusional kurtosis imaging is related to q-space imaging methods, but is less demanding in terms of imaging time, hardware requirements, and postprocessing effort. It may be useful for assessing tissue structure abnormalities associated with a variety of neuropathologies.",
+  "authors": [
+    "Jens H. Jensen",
+    "Joseph A. Helpern",
+    "Anita Ramani",
+    "Hanzhang Lu",
+    "Kyle Kaczynski"
+  ],
+  "year": 2005,
+  "doi": "10.1002/mrm.20508",
+  "source": "openalex",
+  "categories": [
+    "Kurtosis",
+    "Diffusion MRI",
+    "Nuclear magnetic resonance",
+    "Magnetic resonance imaging",
+    "Gaussian",
+    "Diffusion",
+    "Dimensionless quantity",
+    "Chemistry",
+    "Voxel",
+    "Biomedical engineering",
+    "Materials science",
+    "Biological system",
+    "Physics",
+    "Mathematics",
+    "Computer science",
+    "Artificial intelligence",
+    "Thermodynamics",
+    "Medicine",
+    "Radiology",
+    "Statistics",
+    "Biology",
+    "Computational chemistry"
+  ],
+  "citation_count": 2521,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/mrm.20508",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2116823839.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:04.349363+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2116823839",
+    "concepts": [
+      "Kurtosis",
+      "Diffusion MRI",
+      "Nuclear magnetic resonance",
+      "Magnetic resonance imaging",
+      "Gaussian"
+    ],
+    "oa_status": "bronze"
+  }
+}

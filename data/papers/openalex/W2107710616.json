@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2107710616",
+  "title": "Selected reaction monitoring for quantitative proteomics: a tutorial",
+  "abstract": "Systems biology relies on data sets in which the same group of proteins is consistently identified and precisely quantified across multiple samples, a requirement that is only partially achieved by current proteomics approaches. Selected reaction monitoring (SRM)-also called multiple reaction monitoring-is emerging as a technology that ideally complements the discovery capabilities of shotgun strategies by its unique potential for reliable quantification of analytes of low abundance in complex mixtures. In an SRM experiment, a predefined precursor ion and one of its fragments are selected by the two mass filters of a triple quadrupole instrument and monitored over time for precise quantification. A series of transitions (precursor/fragment ion pairs) in combination with the retention time of the targeted peptide can constitute a definitive assay. Typically, a large number of peptides are quantified during a single LC-MS experiment. This tutorial explains the application of SRM for quantitative proteomics, including the selection of proteotypic peptides and the optimization and validation of transitions. Furthermore, normalization and various factors affecting sensitivity and accuracy are discussed.",
+  "authors": [
+    "Vinzenz Lange",
+    "Paola Picotti",
+    "Bruno Domon",
+    "Ruedi H. Aebersold"
+  ],
+  "year": 2008,
+  "doi": "10.1038/msb.2008.61",
+  "source": "openalex",
+  "categories": [
+    "Proteomics",
+    "Selected reaction monitoring",
+    "Quantitative proteomics",
+    "Analyte",
+    "Normalization (sociology)",
+    "Computational biology",
+    "Mass spectrometry",
+    "Biology",
+    "Shotgun proteomics",
+    "Triple quadrupole mass spectrometer",
+    "Computer science",
+    "Tandem mass spectrometry",
+    "Biological system",
+    "Chromatography",
+    "Chemistry",
+    "Biochemistry",
+    "Gene",
+    "Anthropology",
+    "Sociology"
+  ],
+  "citation_count": 1439,
+  "open_access_pdf_url": "https://doi.org/10.1038/msb.2008.61",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2107710616.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:50.521503+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2107710616",
+    "concepts": [
+      "Proteomics",
+      "Selected reaction monitoring",
+      "Quantitative proteomics",
+      "Analyte",
+      "Normalization (sociology)"
+    ],
+    "oa_status": "gold"
+  }
+}

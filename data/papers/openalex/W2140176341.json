@@ -1,0 +1,44 @@
+{
+  "id": "openalex:W2140176341",
+  "title": "Rietveld refinement guidelines",
+  "abstract": "A set of general guidelines for structure refinement using the Rietveld (whole-profile) method has been formulated by the International Union of Crystallography Commission on Powder Diffraction. The practical rather than the theoretical aspects of each step in a typical Rietveld refinement are discussed with a view to guiding newcomers in the field. The focus is on X-ray powder diffraction data collected on a laboratory instrument, but features specific to data from neutron (both constant-wavelength and time-of-flight) and synchrotron radiation sources are also addressed. The topics covered include (i) data collection, (ii) background contribution, (iii) peak-shape function, (iv) refinement of profile parameters, (v) Fourier analysis with powder diffraction data, (vi) refinement of structural parameters, (vii) use of geometric restraints, (viii) calculation of e.s.d.'s, (ix) interpretation ofRvalues and (x) some common problems and possible solutions.",
+  "authors": [
+    "Lynne B. McCusker",
+    "ROBERT B. VON DREELE",
+    "David E. Cox",
+    "Daniel Louer",
+    "Paolo Scardi"
+  ],
+  "year": 1999,
+  "doi": "10.1107/s0021889898009856",
+  "source": "openalex",
+  "categories": [
+    "Rietveld refinement",
+    "Powder diffraction",
+    "Diffraction",
+    "Synchrotron radiation",
+    "Neutron diffraction",
+    "Synchrotron",
+    "Crystallography",
+    "Materials science",
+    "Physics",
+    "Chemistry",
+    "Optics"
+  ],
+  "citation_count": 2430,
+  "open_access_pdf_url": "http://journals.iucr.org/j/issues/1999/01/00/gl0561/gl0561.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2140176341.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:08.692029+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2140176341",
+    "concepts": [
+      "Rietveld refinement",
+      "Powder diffraction",
+      "Diffraction",
+      "Synchrotron radiation",
+      "Neutron diffraction"
+    ],
+    "oa_status": "bronze"
+  }
+}

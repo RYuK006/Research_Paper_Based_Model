@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W2000530877",
+  "title": "Observation of Resonance Condensation of Fermionic Atom Pairs",
+  "abstract": "We have observed condensation of fermionic atom pairs in the BCS-BEC crossover regime. A trapped gas of fermionic 40K atoms is evaporatively cooled to quantum degeneracy and then a magnetic-field Feshbach resonance is used to control the atom-atom interactions. The location of this resonance is precisely determined from low-density measurements of molecule dissociation. In order to search for condensation on either side of the resonance, we introduce a technique that pairwise projects fermionic atoms onto molecules; this enables us to measure the momentum distribution of fermionic atom pairs. The transition to condensation of fermionic atom pairs is mapped out as a function of the initial atom gas temperature T compared to the Fermi temperature T(F) for magnetic-field detunings on both the BCS and BEC sides of the resonance.",
+  "authors": [
+    "Cindy A. Regal",
+    "Markus Greiner",
+    "D. S. Jin"
+  ],
+  "year": 2004,
+  "doi": "10.1103/physrevlett.92.040403",
+  "source": "openalex",
+  "categories": [
+    "Feshbach resonance",
+    "Physics",
+    "Atom (system on chip)",
+    "Atomic physics",
+    "Resonance (particle physics)",
+    "Condensed matter physics",
+    "Condensation",
+    "Dissociation (chemistry)",
+    "Molecule",
+    "Quantum mechanics",
+    "Chemistry",
+    "Thermodynamics",
+    "Embedded system",
+    "Physical chemistry",
+    "Computer science"
+  ],
+  "citation_count": 1699,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0401554",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2000530877.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:33.153999+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2000530877",
+    "concepts": [
+      "Feshbach resonance",
+      "Physics",
+      "Atom (system on chip)",
+      "Atomic physics",
+      "Resonance (particle physics)"
+    ],
+    "oa_status": "green"
+  }
+}

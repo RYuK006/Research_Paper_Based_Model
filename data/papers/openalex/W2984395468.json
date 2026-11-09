@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2984395468",
+  "title": "The Acidic Tumor Microenvironment as a Driver of Cancer",
+  "abstract": "Acidic metabolic waste products accumulate in the tumor microenvironment because of high metabolic activity and insufficient perfusion. In tumors, the acidity of the interstitial space and the relatively well-maintained intracellular pH influence cancer and stromal cell function, their mutual interplay, and their interactions with the extracellular matrix. Tumor pH is spatially and temporally heterogeneous, and the fitness advantage of cancer cells adapted to extracellular acidity is likely particularly evident when they encounter less acidic tumor regions, for instance, during invasion. Through complex effects on genetic stability, epigenetics, cellular metabolism, proliferation, and survival, the compartmentalized pH microenvironment favors cancer development. Cellular selection exacerbates the malignant phenotype, which is further enhanced by acid-induced cell motility, extracellular matrix degradation, attenuated immune responses, and modified cellular and intercellular signaling. In this review, we discuss how the acidity of the tumor microenvironment influences each stage in cancer development, from dysplasia to full-blown metastatic disease.",
+  "authors": [
+    "Ebbe Boedtkjer",
+    "Stine F. Pedersen"
+  ],
+  "year": 2019,
+  "doi": "10.1146/annurev-physiol-021119-034627",
+  "source": "openalex",
+  "categories": [
+    "Tumor microenvironment",
+    "Extracellular matrix",
+    "Extracellular",
+    "Cancer cell",
+    "Stromal cell",
+    "Epigenetics",
+    "Cancer",
+    "Cell biology",
+    "Motility",
+    "Chemistry",
+    "Immune system",
+    "Intracellular",
+    "Biology",
+    "Cancer research",
+    "Biochemistry",
+    "Immunology",
+    "Genetics",
+    "Gene"
+  ],
+  "citation_count": 1277,
+  "open_access_pdf_url": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-physiol-021119-034627",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2984395468.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:00.499740+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2984395468",
+    "concepts": [
+      "Tumor microenvironment",
+      "Extracellular matrix",
+      "Extracellular",
+      "Cancer cell",
+      "Stromal cell"
+    ],
+    "oa_status": "bronze"
+  }
+}

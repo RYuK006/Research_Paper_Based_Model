@@ -1,0 +1,60 @@
+{
+  "id": "openalex:W2149841830",
+  "title": "Modular Self-Reconfigurable Robot Systems [Grand Challenges of Robotics]",
+  "abstract": "The field of modular self-reconfigurable robotic systems addresses the design, fabrication, motion planning, and control of autonomous kinematic machines with variable morphology. Modular self-reconfigurable systems have the promise of making significant technological advances to the field of robotics in general. Their promise of high versatility, high value, and high robustness may lead to a radical change in automation. Currently, a number of researchers have been addressing many of the challenges. While some progress has been made, it is clear that many challenges still exist. By illustrating several of the outstanding issues as grand challenges that have been collaboratively written by a large number of researchers in this field, this article has shown several of the key directions for the future of this growing field",
+  "authors": [
+    "Mark H. Yim",
+    "Wei‐Min Shen",
+    "Behnam Salemi",
+    "Daniela L. Rus",
+    "Mark Moll",
+    "Hod Lipson",
+    "Eric Klavins",
+    "Gregory S. Chirikjian"
+  ],
+  "year": 2007,
+  "doi": "10.1109/mra.2007.339623",
+  "source": "openalex",
+  "categories": [
+    "Modular design",
+    "Self-reconfiguring modular robot",
+    "Robotics",
+    "Robustness (evolution)",
+    "Automation",
+    "Artificial intelligence",
+    "Robot",
+    "Computer science",
+    "Field (mathematics)",
+    "Grand Challenges",
+    "Key (lock)",
+    "Systems engineering",
+    "Engineering",
+    "Control engineering",
+    "Robot control",
+    "Mobile robot",
+    "Mechanical engineering",
+    "Mathematics",
+    "Computer security",
+    "Operating system",
+    "Chemistry",
+    "Pure mathematics",
+    "Gene",
+    "Biochemistry"
+  ],
+  "citation_count": 1156,
+  "open_access_pdf_url": "https://resolver.caltech.edu/CaltechAUTHORS:20100504-112342513",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2149841830.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:14.537892+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2149841830",
+    "concepts": [
+      "Modular design",
+      "Self-reconfiguring modular robot",
+      "Robotics",
+      "Robustness (evolution)",
+      "Automation"
+    ],
+    "oa_status": "green"
+  }
+}

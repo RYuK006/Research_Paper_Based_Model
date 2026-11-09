@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2084266203",
+  "title": "RASPA: molecular simulation software for adsorption and diffusion in flexible nanoporous materials",
+  "abstract": "A new software package, RASPA, for simulating adsorption and diffusion of molecules in flexible nanoporous materials is presented. The code implements the latest state-of-the-art algorithms for molecular dynamics and Monte Carlo (MC) in various ensembles including symplectic/measure-preserving integrators, Ewald summation, configurational-bias MC, continuous fractional component MC, reactive MC and Baker's minimisation. We show example applications of RASPA in computing coexistence properties, adsorption isotherms for single and multiple components, self- and collective diffusivities, reaction systems and visualisation. The software is released under the GNU General Public License.",
+  "authors": [
+    "David Dubbeldam",
+    "Sofı́a Calero",
+    "Donald E. Ellis",
+    "Randall Q. Snurr"
+  ],
+  "year": 2015,
+  "doi": "10.1080/08927022.2015.1010082",
+  "source": "openalex",
+  "categories": [
+    "Integrator",
+    "Nanoporous",
+    "Adsorption",
+    "Software",
+    "Molecular dynamics",
+    "Kinetic Monte Carlo",
+    "Computer science",
+    "Monte Carlo method",
+    "Computational science",
+    "Statistical physics",
+    "Molecule",
+    "Materials science",
+    "Physical chemistry",
+    "Chemistry",
+    "Physics",
+    "Computational chemistry",
+    "Nanotechnology",
+    "Mathematics",
+    "Bandwidth (computing)",
+    "Programming language",
+    "Computer network",
+    "Statistics",
+    "Organic chemistry"
+  ],
+  "citation_count": 1987,
+  "open_access_pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/08927022.2015.1010082?needAccess=true",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2084266203.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:17.748052+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2084266203",
+    "concepts": [
+      "Integrator",
+      "Nanoporous",
+      "Adsorption",
+      "Software",
+      "Molecular dynamics"
+    ],
+    "oa_status": "bronze"
+  }
+}

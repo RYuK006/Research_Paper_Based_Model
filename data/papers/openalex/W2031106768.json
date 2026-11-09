@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2031106768",
+  "title": "Viewing the Shadow of the Black Hole at the Galactic Center",
+  "abstract": "In recent years, evidence for the existence of an ultracompact concentration of dark mass associated with the radio source Sagittarius A* in the Galactic center has become very strong. However, unambiguous proof that this object is indeed a black hole is still lacking. A defining characteristic of a black hole is the event horizon. To a distant observer, the event horizon casts a relatively large \"shadow\" with an apparent diameter of approximately 10 gravitational radii that is due to the bending of light by the black hole, and this shadow is nearly independent of the black hole spin or orientation. The predicted size ( approximately 30 µas) of this shadow for Sgr A* approaches the resolution of current radio interferometers. If the black hole is maximally spinning and viewed edge-on, then the shadow will be offset by approximately 8 µas from the center of mass and will be slightly flattened on one side. Taking into account the scatter broadening of the image in the interstellar medium and the finite achievable telescope resolution, we show that the shadow of Sgr A* may be observable with very long baseline interferometry at submillimeter wavelengths, assuming that the accretion flow is optically thin in this region of the spectrum. Hence, there exists a realistic expectation of imaging the event horizon of a black hole within the next few years.",
+  "authors": [
+    "Heino D. Falcke",
+    "Fulvio Melia",
+    "Eric Agol"
+  ],
+  "year": 2000,
+  "doi": "10.1086/312423",
+  "source": "openalex",
+  "categories": [
+    "Physics",
+    "Galactic Center",
+    "Astronomy",
+    "Astrophysics",
+    "Black hole (networking)",
+    "Shadow (psychology)",
+    "Intermediate-mass black hole",
+    "Center (category theory)",
+    "Stellar black hole",
+    "Galaxy",
+    "Chemistry",
+    "Computer network",
+    "Psychotherapist",
+    "Computer science",
+    "Routing (electronic design automation)",
+    "Crystallography",
+    "Psychology",
+    "Link-state routing protocol",
+    "Routing protocol"
+  ],
+  "citation_count": 1150,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1086/312423/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2031106768.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:14.602637+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2031106768",
+    "concepts": [
+      "Physics",
+      "Galactic Center",
+      "Astronomy",
+      "Astrophysics",
+      "Black hole (networking)"
+    ],
+    "oa_status": "bronze"
+  }
+}

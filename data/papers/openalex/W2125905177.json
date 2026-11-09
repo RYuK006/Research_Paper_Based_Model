@@ -1,0 +1,44 @@
+{
+  "id": "openalex:W2125905177",
+  "title": "The positive false discovery rate: a Bayesian interpretation and the q-value",
+  "abstract": "Multiple hypothesis testing is concerned with controlling the rate of false positives when testing several hypotheses simultaneously. One multiple hypothesis testing error measure is the false discovery rate (FDR), which is loosely defined to be the expected proportion of false positives among all significant hypotheses. The FDR is especially appropriate for exploratory analyses in which one is interested in finding several significant results among many tests. In this work, we introduce a modified version of the FDR called the \"positive false discoveryrate\" (pFDR). We discuss the advantages and disadvantages of the pFDR and investigate its statistical properties. When assuming the test statistics follow a mixture distribution, we show that the pFDR can be written as a Bayesian posterior probability and can be connected to classification theory. These properties remain asymptotically true under fairly general conditions, even under certain forms of dependence. Also, a new quantity called the \"$q$-value\" is introduced and investigated, which is a natural \"Bayesian posterior p-value,\" or rather the pFDR analogue of the p-value.",
+  "authors": [
+    "John D. Storey"
+  ],
+  "year": 2003,
+  "doi": "10.1214/aos/1074290335",
+  "source": "openalex",
+  "categories": [
+    "False discovery rate",
+    "Mathematics",
+    "Multiple comparisons problem",
+    "Bayesian probability",
+    "False positive paradox",
+    "Statistical hypothesis testing",
+    "Statistics",
+    "Posterior probability",
+    "p-value",
+    "Value (mathematics)",
+    "Prior probability",
+    "Econometrics",
+    "Gene",
+    "Chemistry",
+    "Biochemistry"
+  ],
+  "citation_count": 2200,
+  "open_access_pdf_url": "https://doi.org/10.1214/aos/1074290335",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2125905177.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:12.642155+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2125905177",
+    "concepts": [
+      "False discovery rate",
+      "Mathematics",
+      "Multiple comparisons problem",
+      "Bayesian probability",
+      "False positive paradox"
+    ],
+    "oa_status": "closed"
+  }
+}

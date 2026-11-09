@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2075711588",
+  "title": "Gaussian-4 theory",
+  "abstract": "The Gaussian-4 theory (G4 theory) for the calculation of energies of compounds containing first- (Li-F), second- (Na-Cl), and third-row main group (K, Ca, and Ga-Kr) atoms is presented. This theoretical procedure is the fourth in the Gaussian-n series of quantum chemical methods based on a sequence of single point energy calculations. The G4 theory modifies the Gaussian-3 (G3) theory in five ways. First, an extrapolation procedure is used to obtain the Hartree-Fock limit for inclusion in the total energy calculation. Second, the d-polarization sets are increased to 3d on the first-row atoms and to 4d on the second-row atoms, with reoptimization of the exponents for the latter. Third, the QCISD(T) method is replaced by the CCSD(T) method for the highest level of correlation treatment. Fourth, optimized geometries and zero-point energies are obtained with the B3LYP density functional. Fifth, two new higher level corrections are added to account for deficiencies in the energy calculations. The new method is assessed on the 454 experimental energies in the G305 test set [L. A. Curtiss, P. C. Redfern, and K. Raghavachari, J. Chem. Phys. 123, 124107 (2005)], and the average absolute deviation from experiment shows significant improvement from 1.13 kcal/mol (G3 theory) to 0.83 kcal/mol (G4 theory). The largest improvement is found for 79 nonhydrogen systems (2.10 kcal/mol for G3 versus 1.13 kcal/mol for G4). The contributions of the new features to this improvement are analyzed and the performance on different types of energies is discussed.",
+  "authors": [
+    "Larry A. Curtiss",
+    "Paul C. Redfern",
+    "Krishnan Raghavachari"
+  ],
+  "year": 2007,
+  "doi": "10.1063/1.2436888",
+  "source": "openalex",
+  "categories": [
+    "Extrapolation",
+    "Gaussian",
+    "Density functional theory",
+    "Basis set",
+    "Chemistry",
+    "Atomic physics",
+    "Exponent",
+    "Series (stratigraphy)",
+    "Computational chemistry",
+    "Quantum mechanics",
+    "Thermodynamics",
+    "Physics",
+    "Mathematics",
+    "Mathematical analysis",
+    "Linguistics",
+    "Philosophy",
+    "Biology",
+    "Paleontology"
+  ],
+  "citation_count": 2160,
+  "open_access_pdf_url": "https://zenodo.org/record/1232023",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2075711588.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:12.718462+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2075711588",
+    "concepts": [
+      "Extrapolation",
+      "Gaussian",
+      "Density functional theory",
+      "Basis set",
+      "Chemistry"
+    ],
+    "oa_status": "green"
+  }
+}

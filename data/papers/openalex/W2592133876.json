@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2592133876",
+  "title": "T cell costimulatory receptor CD28 is a primary target for PD-1–mediated inhibition",
+  "abstract": "Programmed cell death-1 (PD-1) is a coinhibitory receptor that suppresses T cell activation and is an important cancer immunotherapy target. Upon activation by its ligand PD-L1, PD-1 is thought to suppress signaling through the T cell receptor (TCR). By titrating PD-1 signaling in a biochemical reconstitution system, we demonstrate that the co-receptor CD28 is strongly preferred over the TCR as a target for dephosphorylation by PD-1-recruited Shp2 phosphatase. We also show that CD28, but not the TCR, is preferentially dephosphorylated in response to PD-1 activation by PD-L1 in an intact cell system. These results reveal that PD-1 suppresses T cell function primarily by inactivating CD28 signaling, suggesting that costimulatory pathways play key roles in regulating effector T cell function and responses to anti-PD-L1/PD-1 therapy.",
+  "authors": [
+    "Enfu Hui",
+    "Jeanne Cheung",
+    "Jing W. Zhu",
+    "Xiaolei Su",
+    "Marcus J. Taylor",
+    "Heidi Ackerly Wallweber",
+    "Dibyendu Kumar Sasmal",
+    "Jun Huang",
+    "Jeong M. Kim",
+    "Ira Mellman",
+    "Ronald D. Vale"
+  ],
+  "year": 2017,
+  "doi": "10.1126/science.aaf1292",
+  "source": "openalex",
+  "categories": [
+    "CD28",
+    "T-cell receptor",
+    "Dephosphorylation",
+    "T cell",
+    "Cell biology",
+    "Receptor",
+    "Signal transduction",
+    "Effector",
+    "Biology",
+    "Chemistry",
+    "Phosphorylation",
+    "Cancer research",
+    "Phosphatase",
+    "Immune system",
+    "Immunology",
+    "Biochemistry"
+  ],
+  "citation_count": 1721,
+  "open_access_pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2016/11/09/086652.full.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2592133876.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:33.071962+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2592133876",
+    "concepts": [
+      "CD28",
+      "T-cell receptor",
+      "Dephosphorylation",
+      "T cell",
+      "Cell biology"
+    ],
+    "oa_status": "green"
+  }
+}

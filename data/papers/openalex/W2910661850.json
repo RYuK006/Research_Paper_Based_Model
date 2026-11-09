@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2910661850",
+  "title": "Element Replacement Approach by Reaction with Lewis Acidic Molten Salts to Synthesize Nanolaminated MAX Phases and MXenes",
+  "abstract": "Nanolaminated materials are important because of their exceptional properties and wide range of applications. Here, we demonstrate a general approach to synthesizing a series of Zn-based MAX phases and Cl-terminated MXenes originating from the replacement reaction between the MAX phase and the late transition-metal halides. The approach is a top-down route that enables the late transitional element atom (Zn in the present case) to occupy the A site in the pre-existing MAX phase structure. Using this replacement reaction between the Zn element from molten ZnCl 2 and the Al element in MAX phase precursors (Ti 3 AlC 2, Ti 2 AlC, Ti 2 AlN, and V 2 AlC), novel MAX phases Ti 3 ZnC 2, Ti 2 ZnC, Ti 2 ZnN, and V 2 ZnC were synthesized. When employing excess ZnCl 2, Cl-terminated MXenes (such as Ti 3 C 2 Cl 2 and Ti 2 CCl 2 ) were derived by a subsequent exfoliation of Ti 3 ZnC 2 and Ti 2 ZnC due to the strong Lewis acidity of molten ZnCl 2 . These results indicate that A-site element replacement in traditional MAX phases by late transition-metal halides opens the door to explore MAX phases that are not thermodynamically stable at high temperature and would be difficult to synthesize through the commonly employed powder metallurgy approach. In addition, this is the first time that exclusively Cl-terminated MXenes were obtained, and the etching effect of Lewis acid in molten salts provides a green and viable route to preparing MXenes through an HF-free chemical approach.",
+  "authors": [
+    "Mian Li",
+    "Jun Lu",
+    "Kan Luo",
+    "Youbing Li",
+    "Keke Chang",
+    "Ke Chen",
+    "Jie Zhou",
+    "Johanna Rosén",
+    "Lars Hultman",
+    "Per Eklund",
+    "Per O. Å. Persson",
+    "Shiyu Du",
+    "Zhifang Chai",
+    "Zhengren Huang",
+    "Qing Huang"
+  ],
+  "year": 2019,
+  "doi": "10.1021/jacs.9b00574",
+  "source": "openalex",
+  "categories": [
+    "MXenes",
+    "Chemistry",
+    "Lewis acids and bases",
+    "Transition metal",
+    "Phase (matter)",
+    "Halide",
+    "Metal",
+    "Inorganic chemistry",
+    "Chemical engineering",
+    "Catalysis",
+    "Organic chemistry",
+    "Engineering"
+  ],
+  "citation_count": 1562,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1901.05120",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2910661850.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:42.021892+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2910661850",
+    "concepts": [
+      "MXenes",
+      "Chemistry",
+      "Lewis acids and bases",
+      "Transition metal",
+      "Phase (matter)"
+    ],
+    "oa_status": "green"
+  }
+}

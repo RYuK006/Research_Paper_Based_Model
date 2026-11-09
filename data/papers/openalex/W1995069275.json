@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W1995069275",
+  "title": "Evidence that metformin exerts its anti-diabetic effects through inhibition of complex 1 of the mitochondrial respiratory chain",
+  "abstract": "Although metformin is widely used for the treatment of non-insulin-dependent diabetes, its mode of action remains unclear. Here we provide evidence that its primary site of action is through a direct inhibition of complex 1 of the respiratory chain. Metformin(50 microM) inhibited mitochondrial oxidation of glutamate+malate in hepatoma cells by 13 and 30% after 24 and 60 h exposure respectively, but succinate oxidation was unaffected. Metformin also caused time-dependent inhibition of complex 1 in isolated mitochondria, whereas in sub-mitochondrial particles inhibition was immediate but required very high metformin concentrations (K(0.5),79 mM). These data are compatible with the slow membrane-potential-driven accumulation of the positively charged drug within the mitochondrial matrix leading to inhibition of complex 1. Metformin inhibition of gluconeogenesis from L-lactate in isolated rat hepatocytes was also time- and concentration-dependent, and accompanied by changes in metabolite levels similar to those induced by other inhibitors of gluconeogenesis acting on complex 1. Freeze-clamped livers from metformin-treated rats exhibited similar changes in metabolite concentrations. We conclude that the drug's pharmacological effects are mediated, at least in part, through a time-dependent, self-limiting inhibition of the respiratory chain that restrains hepatic gluconeogenesis while increasing glucose utilization in peripheral tissues. Lactic acidosis, an occasional side effect, canal so be explained in this way.",
+  "authors": [
+    "Mark R. Owen",
+    "Elena Doran",
+    "Andrew P. Halestrap"
+  ],
+  "year": 2000,
+  "doi": "10.1042/bj3480607",
+  "source": "openalex",
+  "categories": [
+    "Metformin",
+    "Gluconeogenesis",
+    "Metabolite",
+    "Respiratory chain",
+    "Mitochondrion",
+    "Lactic acidosis",
+    "Mitochondrial respiratory chain",
+    "Pharmacology",
+    "Biology",
+    "Endocrinology",
+    "Internal medicine",
+    "Mechanism of action",
+    "Chemistry",
+    "Biochemistry",
+    "Insulin",
+    "Metabolism",
+    "Medicine",
+    "In vitro"
+  ],
+  "citation_count": 2178,
+  "open_access_pdf_url": "https://portlandpress.com/biochemj/article-pdf/348/3/607/726851/bj3480607.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1995069275.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:12.673723+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1995069275",
+    "concepts": [
+      "Metformin",
+      "Gluconeogenesis",
+      "Metabolite",
+      "Respiratory chain",
+      "Mitochondrion"
+    ],
+    "oa_status": "bronze"
+  }
+}

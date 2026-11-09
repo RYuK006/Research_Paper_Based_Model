@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2158106881",
+  "title": "Diabetes and vascular disease: pathophysiology, clinical consequences, and medical therapy: part I",
+  "abstract": "Hyperglycemia and insulin resistance are key players in the development of atherosclerosis and its complications. A large body of evidence suggest that metabolic abnormalities cause overproduction of reactive oxygen species (ROS). In turn, ROS, via endothelial dysfunction and inflammation, play a major role in precipitating diabetic vascular disease. A better understanding of ROS-generating pathways may provide the basis to develop novel therapeutic strategies against vascular complications in this setting. Part I of this review will focus on the most current advances in the pathophysiological mechanisms of vascular disease: (i) emerging role of endothelium in obesity-induced insulin resistance; (ii) hyperglycemia-dependent microRNAs deregulation and impairment of vascular repair capacities; (iii) alterations of coagulation, platelet reactivity, and microparticle release; (iv) epigenetic-driven transcription of ROS-generating and proinflammatory genes. Taken together these novel insights point to the development of mechanism-based therapeutic strategies as a promising option to prevent cardiovascular complications in diabetes.",
+  "authors": [
+    "Francesco Paneni",
+    "Joshua A. Beckman",
+    "Mark A. Creager",
+    "Francesco Cosentino"
+  ],
+  "year": 2013,
+  "doi": "10.1093/eurheartj/eht149",
+  "source": "openalex",
+  "categories": [
+    "Medicine",
+    "Insulin resistance",
+    "Proinflammatory cytokine",
+    "Endothelial dysfunction",
+    "Diabetes mellitus",
+    "Pathophysiology",
+    "Disease",
+    "Bioinformatics",
+    "Vascular disease",
+    "Inflammation",
+    "Epigenetics",
+    "Endothelium",
+    "Reactive oxygen species",
+    "Immunology",
+    "Intensive care medicine",
+    "Internal medicine",
+    "Endocrinology",
+    "Gene",
+    "Cell biology",
+    "Biology",
+    "Chemistry",
+    "Biochemistry"
+  ],
+  "citation_count": 1455,
+  "open_access_pdf_url": "https://academic.oup.com/eurheartj/article-pdf/34/31/2436/17896397/eht149.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2158106881.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:48.249415+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2158106881",
+    "concepts": [
+      "Medicine",
+      "Insulin resistance",
+      "Proinflammatory cytokine",
+      "Endothelial dysfunction",
+      "Diabetes mellitus"
+    ],
+    "oa_status": "hybrid"
+  }
+}

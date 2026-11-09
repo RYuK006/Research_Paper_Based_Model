@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W2807588602",
+  "title": "Ultrafast neuronal imaging of dopamine dynamics with designed genetically encoded sensors",
+  "abstract": "Neuromodulatory systems exert profound influences on brain function. Understanding how these systems modify the operating mode of target circuits requires spatiotemporally precise measurement of neuromodulator release. We developed dLight1, an intensity-based genetically encoded dopamine indicator, to enable optical recording of dopamine dynamics with high spatiotemporal resolution in behaving mice. We demonstrated the utility of dLight1 by imaging dopamine dynamics simultaneously with pharmacological manipulation, electrophysiological or optogenetic stimulation, and calcium imaging of local neuronal activity. dLight1 enabled chronic tracking of learning-induced changes in millisecond dopamine transients in mouse striatum. Further, we used dLight1 to image spatially distinct, functionally heterogeneous dopamine transients relevant to learning and motor control in mouse cortex. We also validated our sensor design platform for developing norepinephrine, serotonin, melatonin, and opioid neuropeptide indicators.",
+  "authors": [
+    "Tommaso Patriarchi",
+    "Jounhong Ryan Cho",
+    "Katharina Merten",
+    "Mark W. Howe",
+    "Aaron Marley",
+    "Wei-Hong Xiong",
+    "Robert W. Folk",
+    "Gerard Joey Broussard",
+    "Ruqiang Liang",
+    "Min Jee Jang",
+    "Haining Zhong",
+    "Daniel A. Dombeck",
+    "Mark von Zastrow",
+    "Axel Nimmerjahn",
+    "Viviana Gradinaru",
+    "John T. Williams",
+    "Lin Tian"
+  ],
+  "year": 2018,
+  "doi": "10.1126/science.aat4422",
+  "source": "openalex",
+  "categories": [
+    "Dopamine",
+    "Neuroscience",
+    "Temporal resolution",
+    "Premovement neuronal activity",
+    "Biology",
+    "Chemistry",
+    "Physics",
+    "Optics"
+  ],
+  "citation_count": 1088,
+  "open_access_pdf_url": "http://europepmc.org/pmc/articles/PMC6287765",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2807588602.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:24.425687+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2807588602",
+    "concepts": [
+      "Dopamine",
+      "Neuroscience",
+      "Temporal resolution",
+      "Premovement neuronal activity",
+      "Biology"
+    ],
+    "oa_status": "green"
+  }
+}

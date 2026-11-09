@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W4211006056",
+  "title": "A comprehensive review of stationary energy storage devices for large scale renewable energy sources grid integration",
+  "abstract": "Currently, the energy grid is changing to fit the increasing energy demands but also to support the rapid penetration of renewable energy sources. As a result, energy storage devices emerge to add buffer capacity and to reinforce residential and commercial usage, as an attempt to improve the overall utilization of the available green energy. Although various research has been conducted in the field including photovoltaic and wind applications, the study on suitability identification of different storage devices for various stationary application types is still the gap observed which needs further study and verification. The review performed fills these gaps by investigating the current status and applicability of energy storage devices, and the most suitable type of storage technologies for grid support applications are identified. Moreover, various technical, economic and environmental impact evaluation criteria's are taken into consideration for the identification of their characteristics and potentials. The comprehensive review shows that, from the electrochemical storage category, the lithium-ion battery fits both low and medium-size applications with high power and energy density requirements. From the electrical storage categories, capacitors, supercapacitors, and superconductive magnetic energy storage devices are identified as appropriate for high power applications. Besides, thermal energy storage is identified as suitable in seasonal and bulk energy application areas. With proper identification of the application's requirement and based on the techno-economic, and environmental impact investigations of energy storage devices, the use of a hybrid solutions with a combination of various storage devices is found to be a viable solution in the sector.",
+  "authors": [
+    "Abraham Alem Kebede",
+    "Theodoros Kalogiannis",
+    "Joeri Van Mierlo",
+    "Maitane Berecibar"
+  ],
+  "year": 2022,
+  "doi": "10.1016/j.rser.2022.112213",
+  "source": "openalex",
+  "categories": [
+    "Energy storage",
+    "Renewable energy",
+    "Grid energy storage",
+    "Process engineering",
+    "Intermittent energy source",
+    "Supercapacitor",
+    "Electrical engineering",
+    "Photovoltaic system",
+    "Grid",
+    "Accumulator (cryptography)",
+    "Computer science",
+    "Reliability engineering",
+    "Engineering",
+    "Distributed generation",
+    "Power (physics)",
+    "Capacitance",
+    "Electrode",
+    "Geometry",
+    "Physics",
+    "Quantum mechanics",
+    "Mathematics",
+    "Physical chemistry",
+    "Chemistry",
+    "Algorithm"
+  ],
+  "citation_count": 1322,
+  "open_access_pdf_url": "https://www.sciencedirect.com/science/article/pii/S1364032122001368/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W4211006056.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:57.645925+00:00",
+  "raw_metadata": {
+    "openalex_id": "W4211006056",
+    "concepts": [
+      "Energy storage",
+      "Renewable energy",
+      "Grid energy storage",
+      "Process engineering",
+      "Intermittent energy source"
+    ],
+    "oa_status": "hybrid"
+  }
+}

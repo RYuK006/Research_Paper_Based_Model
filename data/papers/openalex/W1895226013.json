@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W1895226013",
+  "title": "Reactor antineutrino anomaly",
+  "abstract": "Recently, new reactor antineutrino spectra have been provided for $^{235}\\mathrm{U}$, $^{239}\\mathrm{Pu}$, $^{241}\\mathrm{Pu}$, and $^{238}\\mathrm{U}$, increasing the mean flux by about 3%. To a good approximation, this reevaluation applies to all reactor neutrino experiments. The synthesis of published experiments at reactor-detector distances $<100\\text{ }\\text{ }\\mathrm{m}$ leads to a ratio of observed event rate to predicted rate of $0.976\\ifmmode\\pm\\else\\textpm\\fi{}0.024$. With our new flux evaluation, this ratio shifts to $0.943\\ifmmode\\pm\\else\\textpm\\fi{}0.023$, leading to a deviation from unity at 98.6% C.L. which we call the reactor antineutrino anomaly. The compatibility of our results with the existence of a fourth nonstandard neutrino state driving neutrino oscillations at short distances is discussed. The combined analysis of reactor data, gallium solar neutrino calibration experiments, and MiniBooNE-$\\ensuremath{\\nu}$ data disfavors the no-oscillation hypothesis at 99.8% C.L. The oscillation parameters are such that $|\\ensuremath{\\Delta}{m}_{\\mathrm{new}}^{2}|>1.5\\text{ }\\text{ }{\\mathrm{eV}}^{2}$ (95%) and ${sin﻿}^{2}(2{\\ensuremath{\\theta}}_{\\mathrm{new}})=0.14\\ifmmode\\pm\\else\\textpm\\fi{}0.08$ (95%). Constraints on the ${\\ensuremath{\\theta}}_{13}$ neutrino mixing angle are revised.",
+  "authors": [
+    "G. Mention",
+    "M. Fechner",
+    "T. Lasserre",
+    "Th. A. Mueller",
+    "D. Lhuillier",
+    "M. Cribier",
+    "A. Letourneau"
+  ],
+  "year": 2011,
+  "doi": "10.1103/physrevd.83.073006",
+  "source": "openalex",
+  "categories": [
+    "MiniBooNE",
+    "Physics",
+    "Neutrino oscillation",
+    "Neutrino",
+    "Nuclear physics",
+    "Particle physics",
+    "Sterile neutrino",
+    "Oscillation (cell signaling)",
+    "Solar neutrino",
+    "Anomaly (physics)",
+    "Flux (metallurgy)",
+    "Solar neutrino problem",
+    "Chemistry",
+    "Condensed matter physics",
+    "Organic chemistry",
+    "Biochemistry"
+  ],
+  "citation_count": 1518,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1101.2755",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1895226013.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:45.488518+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1895226013",
+    "concepts": [
+      "MiniBooNE",
+      "Physics",
+      "Neutrino oscillation",
+      "Neutrino",
+      "Nuclear physics"
+    ],
+    "oa_status": "green"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2124082394",
+  "title": "Sample Size in Factor Analysis: The Role of Model Error",
+  "abstract": "This article examines effects of sample size and other design features on correspondence between factors obtained from analysis of sample data and those present in the population from which the samples were drawn. We extend earlier work on this question by examining these phenomena in the situation in which the common factor model does not hold exactly in the population. We present a theoretical framework for representing such lack of fit and examine its implications in the population and sample. Based on this approach we hypothesize that lack of fit of the model in the population will not, on the average, influence recovery of population factors in analysis of sample data, regardless of degree of model error and regardless of sample size. Rather, such recovery will be affected only by phenomena related to sampling error which have been studied previously. These hypotheses are investigated and verified in two sampling studies, one using artificial data and one using empirical data.",
+  "authors": [
+    "Robert C. MacCallum",
+    "Keith F. Widaman",
+    "Kristopher J. Preacher",
+    "Sehee Hong"
+  ],
+  "year": 2001,
+  "doi": "10.1207/s15327906mbr3604_06",
+  "source": "openalex",
+  "categories": [
+    "Sample (material)",
+    "Sample size determination",
+    "Statistics",
+    "Population",
+    "Sampling (signal processing)",
+    "Econometrics",
+    "Sampling error",
+    "Computer science",
+    "Mathematics",
+    "Observational error",
+    "Demography",
+    "Computer vision",
+    "Sociology",
+    "Chromatography",
+    "Chemistry",
+    "Filter (signal processing)"
+  ],
+  "citation_count": 1197,
+  "open_access_pdf_url": "https://www.tandfonline.com/doi/pdf/10.1207/S15327906MBR3604_06?needAccess=true&role=button",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2124082394.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:08.344322+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2124082394",
+    "concepts": [
+      "Sample (material)",
+      "Sample size determination",
+      "Statistics",
+      "Population",
+      "Sampling (signal processing)"
+    ],
+    "oa_status": "bronze"
+  }
+}

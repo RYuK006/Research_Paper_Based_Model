@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W4220900610",
+  "title": "Detection of microplastics in human lung tissue using μFTIR spectroscopy",
+  "abstract": "Airborne microplastics (MPs) have been sampled globally, and their concentration is known to increase in areas of high human population and activity, especially indoors. Respiratory symptoms and disease following exposure to occupational levels of MPs within industry settings have also been reported. It remains to be seen whether MPs from the environment can be inhaled, deposited and accumulated within the human lungs. This study analysed digested human lung tissue samples (n = 13) using μFTIR spectroscopy (size limitation of 3 μm) to detect and characterise any MPs present. In total, 39 MPs were identified within 11 of the 13 lung tissue samples with an average of 1.42 ± 1.50 MP/g of tissue (expressed as 0.69 ± 0.84 MP/g after background subtraction adjustments). The MP levels within tissue samples were significantly higher than those identified within combined procedural/laboratory blanks (n = 9 MPs, with a mean ± SD of 0.53 ± 1.07, p = 0.001). Of the MPs detected, 12 polymer types were identified with polypropylene, PP (23%), polyethylene terephthalate, PET (18%) and resin (15%) the most abundant. MPs (unadjusted) were identified within all regions of the lung categorised as upper (0.80 ± 0.96 MP/g), middle/lingular (0.41 ± 0.37 MP/g), and with significantly higher levels detected in the lower (3.12 ± 1.30 MP/g) region compared with the upper (p = 0.026) and mid (p = 0.038) lung regions. After subtracting blanks, these levels became 0.23 ± 0.28, 0.33 ± 0.37 and 1.65 ± 0.88 MP/g respectively. The study demonstrates the highest level of contamination control and reports unadjusted values alongside different contamination adjustment techniques. These results support inhalation as a route of exposure for environmental MPs, and this characterisation of types and levels can now inform realistic conditions for laboratory exposure experiments, with the aim of determining health impacts.",
+  "authors": [
+    "Lauren C. Jenner",
+    "Jeanette M. Rotchell",
+    "Robert T. Bennett",
+    "Michael Edward Cowen",
+    "Vasileios Tentzeris",
+    "Laura R. Sadofsky"
+  ],
+  "year": 2022,
+  "doi": "10.1016/j.scitotenv.2022.154907",
+  "source": "openalex",
+  "categories": [
+    "Microplastics",
+    "Lung",
+    "Fourier transform infrared spectroscopy",
+    "Human lung",
+    "Population",
+    "Polyethylene terephthalate",
+    "Respiratory system",
+    "Chemistry",
+    "Chromatography",
+    "Internal medicine",
+    "Environmental chemistry",
+    "Medicine",
+    "Materials science",
+    "Quantum mechanics",
+    "Composite material",
+    "Physics",
+    "Environmental health"
+  ],
+  "citation_count": 1635,
+  "open_access_pdf_url": "https://www.sciencedirect.com/science/article/pii/S0048969722020009/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W4220900610.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:38.044913+00:00",
+  "raw_metadata": {
+    "openalex_id": "W4220900610",
+    "concepts": [
+      "Microplastics",
+      "Lung",
+      "Fourier transform infrared spectroscopy",
+      "Human lung",
+      "Population"
+    ],
+    "oa_status": "hybrid"
+  }
+}

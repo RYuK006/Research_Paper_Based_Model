@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2124312719",
+  "title": "Direct Proinflammatory Effect of C-Reactive Protein on Human Endothelial Cells",
+  "abstract": "BACKGROUND: The acute-phase reactant C-reactive protein (CRP) is an important risk factor for coronary heart disease. However, the possible effects of CRP on vascular cells are not known. METHODS AND RESULTS: We tested the effects of CRP on expression of adhesion molecules in both human umbilical vein and coronary artery endothelial cells. Expression of vascular cell adhesion molecule (VCAM-1), intercellular adhesion molecule (ICAM-1), and E-selectin was assessed by flow cytometry. Incubation with recombinant human CRP (10 microg/mL) for 24 hours induced an approximately 10-fold increase in expression of ICAM-1 and a significant expression of VCAM-1, whereas a 6-hour incubation induced significant E-selectin expression. Adhesion molecule induction was similar to that observed in endothelial cells activated with interleukin-1beta. In coronary artery endothelial cells, induction of ICAM-1 and VCAM-1 was already present at 5 microg/mL and reached a maximum at 50 microg/mL, at which point a substantial increase in expression of E-selectin was also evident. The CRP effect was dependent on presence of human serum in the culture medium, because no effect was seen in cells cultured with serum-free medium. In contrast, interleukin-1beta was able to induce adhesion molecule expression in the absence of human serum. CONCLUSIONS: CRP induces adhesion molecule expression in human endothelial cells in the presence of serum. These findings support the hypothesis that CRP may play a direct role in promoting the inflammatory component of atherosclerosis and present a potential target for the treatment of atherosclerosis.",
+  "authors": [
+    "Vincenzo Pasceri",
+    "James T. Willerson",
+    "Edward T.H. Yeh"
+  ],
+  "year": 2000,
+  "doi": "10.1161/01.cir.102.18.2165",
+  "source": "openalex",
+  "categories": [
+    "Cell adhesion molecule",
+    "E-selectin",
+    "Medicine",
+    "Umbilical vein",
+    "Proinflammatory cytokine",
+    "Endothelial activation",
+    "Selectin",
+    "Intercellular Adhesion Molecule-1",
+    "Endothelium",
+    "Cell adhesion",
+    "Endothelial stem cell",
+    "Intercellular adhesion molecule",
+    "Immunology",
+    "Inflammation",
+    "Soluble cell adhesion molecules",
+    "Flow cytometry",
+    "Adhesion",
+    "Molecular biology",
+    "Internal medicine",
+    "In vitro",
+    "Biology",
+    "Chemistry",
+    "Biochemistry",
+    "Organic chemistry"
+  ],
+  "citation_count": 1946,
+  "open_access_pdf_url": "https://www.ahajournals.org/doi/pdf/10.1161/01.CIR.102.18.2165",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2124312719.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:17.838248+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2124312719",
+    "concepts": [
+      "Cell adhesion molecule",
+      "E-selectin",
+      "Medicine",
+      "Umbilical vein",
+      "Proinflammatory cytokine"
+    ],
+    "oa_status": "bronze"
+  }
+}

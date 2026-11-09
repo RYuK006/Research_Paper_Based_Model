@@ -1,0 +1,57 @@
+{
+  "id": "openalex:W1600525795",
+  "title": "Differential Presynaptic Localization of Metabotropic Glutamate Receptor Subtypes in the Rat Hippocampus",
+  "abstract": "Neurotransmission in the hippocampus is modulated variously through presynaptic metabotropic glutamate receptors (mGluRs). To establish the precise localization of presynaptic mGluRs in the rat hippocampus, we used subtype-specific antibodies for eight mGluRs (mGluR1-mGluR8) for immunohistochemistry combined with lesioning of the three major hippocampal pathways: the perforant path, mossy fiber, and Schaffer collateral. Immunoreactivity for group II (mGluR2) and group III (mGluR4a, mGluR7a, mGluR7b, and mGluR8) mGluRs was predominantly localized to presynaptic elements, whereas that for group I mGluRs (mGluR1 and mGluR5) was localized to postsynaptic elements. The medial perforant path was strongly immunoreactive for mGluR2 and mGluR7a throughout the hippocampus, and the lateral perforant path was prominently immunoreactive for mGluR8 in the dentate gyrus and CA3 area. The mossy fiber was labeled for mGluR2, mGluR7a, and mGluR7b, whereas the Schaffer collateral was labeled only for mGluR7a. Electron microscopy further revealed the spatial segregation of group II and group III mGluRs within presynaptic elements. Immunolabeling for the group III receptors was predominantly observed in presynaptic active zones of asymmetrical and symmetrical synapses, whereas that for the group II receptor (mGluR2) was found in preterminal rather than terminal portions of axons. Target cell-specific segregation of receptors, first reported for mGluR7a (Shigemoto et al,., 1996), was also apparent for the other group III mGluRs, suggesting that transmitter release is differentially regulated by 2-amino-4-phosphonobutyrate-sensitive mGluRs in individual synapses on single axons according to the identity of postsynaptic neurons.",
+  "authors": [
+    "Ryuichi Shigemoto",
+    "Ayae Kinoshita",
+    "Eiki Wada",
+    "Sakashi Nomura",
+    "Hitoshi Ohishi",
+    "Masahiko Takada",
+    "Peter Josef Flor",
+    "Akio Neki",
+    "Takaaki Abe",
+    "Shigetada Nakanishi",
+    "Noboru Mizuno"
+  ],
+  "year": 1997,
+  "doi": "10.1523/jneurosci.17-19-07503.1997",
+  "source": "openalex",
+  "categories": [
+    "Metabotropic glutamate receptor",
+    "Perforant path",
+    "Neuroscience",
+    "Schaffer collateral",
+    "Metabotropic glutamate receptor 2",
+    "Postsynaptic potential",
+    "Mossy fiber (hippocampus)",
+    "Biology",
+    "Entorhinal cortex",
+    "Perforant Pathway",
+    "Hippocampus",
+    "Dentate gyrus",
+    "Glutamate receptor",
+    "Chemistry",
+    "Excitatory postsynaptic potential",
+    "Receptor",
+    "Biochemistry",
+    "Inhibitory postsynaptic potential"
+  ],
+  "citation_count": 1126,
+  "open_access_pdf_url": "https://www.jneurosci.org/content/jneuro/17/19/7503.full.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1600525795.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:17.026773+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1600525795",
+    "concepts": [
+      "Metabotropic glutamate receptor",
+      "Perforant path",
+      "Neuroscience",
+      "Schaffer collateral",
+      "Metabotropic glutamate receptor 2"
+    ],
+    "oa_status": "hybrid"
+  }
+}

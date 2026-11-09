@@ -1,0 +1,57 @@
+{
+  "id": "openalex:W1975556592",
+  "title": "Immune-responsive gene 1 protein links metabolism to immunity by catalyzing itaconic acid production",
+  "abstract": "Immunoresponsive gene 1 (Irg1) is highly expressed in mammalian macrophages during inflammation, but its biological function has not yet been elucidated. Here, we identify Irg1 as the gene coding for an enzyme producing itaconic acid (also known as methylenesuccinic acid) through the decarboxylation of cis-aconitate, a tricarboxylic acid cycle intermediate. Using a gain-and-loss-of-function approach in both mouse and human immune cells, we found Irg1 expression levels correlating with the amounts of itaconic acid, a metabolite previously proposed to have an antimicrobial effect. We purified IRG1 protein and identified its cis-aconitate decarboxylating activity in an enzymatic assay. Itaconic acid is an organic compound that inhibits isocitrate lyase, the key enzyme of the glyoxylate shunt, a pathway essential for bacterial growth under specific conditions. Here we show that itaconic acid inhibits the growth of bacteria expressing isocitrate lyase, such as Salmonella enterica and Mycobacterium tuberculosis. Furthermore, Irg1 gene silencing in macrophages resulted in significantly decreased intracellular itaconic acid levels as well as significantly reduced antimicrobial activity during bacterial infections. Taken together, our results demonstrate that IRG1 links cellular metabolism with immune defense by catalyzing itaconic acid production.",
+  "authors": [
+    "Alessandro Michelucci",
+    "Thekla Cordes",
+    "Jenny Ghelfi",
+    "Arnaud Pailot",
+    "Norbert Reiling",
+    "Oliver Goldmann",
+    "Tina M. Binz",
+    "André Wegner",
+    "Aravind Tallam",
+    "Antonio Rausell",
+    "Manuel Buttini",
+    "Carole L. Linster",
+    "Eva Medina",
+    "Rudi Balling",
+    "Karsten Hiller"
+  ],
+  "year": 2013,
+  "doi": "10.1073/pnas.1218599110",
+  "source": "openalex",
+  "categories": [
+    "Isocitrate lyase",
+    "Itaconic acid",
+    "Glyoxylate cycle",
+    "Biology",
+    "Immune system",
+    "Biochemistry",
+    "Aconitase",
+    "Enzyme",
+    "Microbiology",
+    "Chemistry",
+    "Immunology",
+    "Polymer",
+    "Copolymer",
+    "Organic chemistry"
+  ],
+  "citation_count": 1215,
+  "open_access_pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/3651434",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1975556592.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:04.688504+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1975556592",
+    "concepts": [
+      "Isocitrate lyase",
+      "Itaconic acid",
+      "Glyoxylate cycle",
+      "Biology",
+      "Immune system"
+    ],
+    "oa_status": "green"
+  }
+}

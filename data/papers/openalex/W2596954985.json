@@ -1,0 +1,62 @@
+{
+  "id": "openalex:W2596954985",
+  "title": "Weyl Semimetals as Hydrogen Evolution Catalysts",
+  "abstract": "The search for highly efficient and low-cost catalysts is one of the main driving forces in catalytic chemistry. Current strategies for the catalyst design focus on increasing the number and activity of local catalytic sites, such as the edge sites of molybdenum disulfides in the hydrogen evolution reaction (HER). Here, the study proposes and demonstrates a different principle that goes beyond local site optimization by utilizing topological electronic states to spur catalytic activity. For HER, excellent catalysts have been found among the transition-metal monopnictides-NbP, TaP, NbAs, and TaAs-which are recently discovered to be topological Weyl semimetals. Here the study shows that the combination of robust topological surface states and large room temperature carrier mobility, both of which originate from bulk Dirac bands of the Weyl semimetal, is a recipe for high activity HER catalysts. This approach has the potential to go beyond graphene based composite photocatalysts where graphene simply provides a high mobility medium without any active catalytic sites that have been found in these topological materials. Thus, the work provides a guiding principle for the discovery of novel catalysts from the emerging field of topological materials.",
+  "authors": [
+    "Catherine R. Rajamathi",
+    "Uttam Gupta",
+    "Nitesh Kumar",
+    "Hao Yang",
+    "Yan Sun",
+    "Vicky Süß",
+    "Chandra Shekhar",
+    "Marcus Peter Schmidt",
+    "H. Blumtritt",
+    "P. Werner",
+    "Binghai Yan",
+    "S. Parkin",
+    "Claudia Felser",
+    "C. N. R. Rao"
+  ],
+  "year": 2017,
+  "doi": "10.1002/adma.201606202",
+  "source": "openalex",
+  "categories": [
+    "Catalysis",
+    "Graphene",
+    "Semimetal",
+    "Dirac (video compression format)",
+    "Topology (electrical circuits)",
+    "Materials science",
+    "Molybdenum",
+    "Hydrogen",
+    "Nanotechnology",
+    "Transition metal",
+    "Band gap",
+    "Chemistry",
+    "Physics",
+    "Optoelectronics",
+    "Quantum mechanics",
+    "Organic chemistry",
+    "Neutrino",
+    "Combinatorics",
+    "Metallurgy",
+    "Mathematics"
+  ],
+  "citation_count": 1362,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1608.03783",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2596954985.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:55.108592+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2596954985",
+    "concepts": [
+      "Catalysis",
+      "Graphene",
+      "Semimetal",
+      "Dirac (video compression format)",
+      "Topology (electrical circuits)"
+    ],
+    "oa_status": "green"
+  }
+}

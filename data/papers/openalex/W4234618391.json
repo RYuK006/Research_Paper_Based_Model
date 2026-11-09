@@ -1,0 +1,58 @@
+{
+  "id": "openalex:W4234618391",
+  "title": "Particle Morphology and Density Characterization by Combined Mobility and Aerodynamic Diameter Measurements. Part 1: Theory",
+  "abstract": "Different on-line submicron particle sizing techniques report different \"equivalent diameters.\"For example, differential mobility analyzers (DMAs) report electrical mobility diameter (dill)' while a number of recently developed instruments (such as the Aerodyne aerosol mass spectrometer, or AMS) measure vacuum aerodynamic diameter (d va ).Particle density and physical morphology (shape ) have important effects on diameter measurements.Here a framework is presented for combining the information content of different equivalent diameter measurements into a single coherent mathematical description of the particles.We first present a review of the mathematical formulations used in the literature and their relationships.We then show that combining dill and d va measurements for the same particle population allows the placing of constraints on particle density, dynamic shape factor (X ), and fraction of internal void space .The amount of information that can be deduced from the combination of dill and d va measurements for various particle types is shown.With additional measurements andlor some assumptions, all relevant parameters can be determined.Specifically, particle mass can be determined from dill and d va measurements if the particle density is known and an assumption about X is made.Even if X and density are not known, particle mass can be estimated within about a factor of 2 from dill and d va measurements alone .The mass of a fractal particle can also be estimated under certain conditions.The meaning of various definitions",
+  "authors": [
+    "P. F. DeCarlo",
+    "Jay Gates Slowik",
+    "Douglas R. Worsnop",
+    "P. Davidovits",
+    "Jose Luis Jimenez"
+  ],
+  "year": 2004,
+  "doi": "10.1080/02786826.2004.10399461",
+  "source": "openalex",
+  "categories": [
+    "Particle (ecology)",
+    "Particle density",
+    "Aerosol",
+    "Characterization (materials science)",
+    "Shape factor",
+    "Fractal dimension",
+    "Computational physics",
+    "Electrical mobility",
+    "Context (archaeology)",
+    "Chemistry",
+    "Mechanics",
+    "Physics",
+    "Materials science",
+    "Nanotechnology",
+    "Fractal",
+    "Mathematics",
+    "Geometry",
+    "Thermodynamics",
+    "Mathematical analysis",
+    "Meteorology",
+    "Volume (thermodynamics)",
+    "Geology",
+    "Paleontology",
+    "Oceanography",
+    "Biology"
+  ],
+  "citation_count": 1310,
+  "open_access_pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/027868290903907?needAccess=true&role=button",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W4234618391.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:57.742792+00:00",
+  "raw_metadata": {
+    "openalex_id": "W4234618391",
+    "concepts": [
+      "Particle (ecology)",
+      "Particle density",
+      "Aerosol",
+      "Characterization (materials science)",
+      "Shape factor"
+    ],
+    "oa_status": "bronze"
+  }
+}

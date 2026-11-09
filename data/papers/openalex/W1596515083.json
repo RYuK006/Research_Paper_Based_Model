@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W1596515083",
+  "title": "The control of the false discovery rate in multiple testing under dependency",
+  "abstract": "Benjamini and Hochberg suggest that the false discovery rate may be the appropriate error rate to control in many applied multiple testing problems. A simple procedure was given there as an FDR controlling procedure for independent test statistics and was shown to be much more powerful than comparable procedures which control the traditional familywise error rate. We prove that this same procedure also controls the false discovery rate when the test statistics have positive regression dependency on each of the test statistics corresponding to the true null hypotheses. This condition for positive dependency is general enough to cover many problems of practical interest, including the comparisons of many treatments with a single control, multivariate normal test statistics with positive correlation matrix and multivariate $t$. Furthermore, the test statistics may be discrete, and the tested hypotheses composite without posing special difficulties. For all other forms of dependency, a simple conservative modification of the procedure controls the false discovery rate. Thus the range of problems for which a procedure with proven FDR control can be offered is greatly increased.",
+  "authors": [
+    "Yoav Benjamini",
+    "Daniel Yekutieli"
+  ],
+  "year": 2001,
+  "doi": "10.1214/aos/1013699998",
+  "source": "openalex",
+  "categories": [
+    "False discovery rate",
+    "Multiple comparisons problem",
+    "Statistics",
+    "Mathematics",
+    "Dependency (UML)",
+    "Statistical hypothesis testing",
+    "Multivariate statistics",
+    "Null hypothesis",
+    "Type I and type II errors",
+    "Simple (philosophy)",
+    "Computer science",
+    "Artificial intelligence",
+    "Chemistry",
+    "Biochemistry",
+    "Gene",
+    "Philosophy",
+    "Epistemology"
+  ],
+  "citation_count": 10574,
+  "open_access_pdf_url": "https://doi.org/10.1214/aos/1013699998",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1596515083.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:49.857558+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1596515083",
+    "concepts": [
+      "False discovery rate",
+      "Multiple comparisons problem",
+      "Statistics",
+      "Mathematics",
+      "Dependency (UML)"
+    ],
+    "oa_status": "closed"
+  }
+}

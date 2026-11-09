@@ -1,0 +1,57 @@
+{
+  "id": "openalex:W2092078486",
+  "title": "Graphical Evaluation of Blood-to-Brain Transfer Constants from Multiple-Time Uptake Data",
+  "abstract": "A theoretical model of blood-brain exchange is developed and a procedure is derived that can be used for graphing multiple-time tissue uptake data and determining whether a unidirectional transfer process was dominant during part or all of the experimental period. If the graph indicates unidirectionality of uptake, then an influx constant (Ki) can be calculated. The model is general, assumes linear transfer kinetics, and consists of a blood-plasma compartment, a reversible tissue region with an arbitrary number of compartments, and one or more irreversible tissue regions. The solution of the equations for this model shows that a graph of the ratio of the total tissue solute concentration at the times of sampling to the plasma concentration at the respective times (Cp) versus the ratio of the arterial plasma concentration-time integral to Cp should be drawn. If the data are consistent with this model, then this graph will yield a curve that eventually becomes linear, with a slope of Ki and an ordinate intercept less than or equal to the vascular plus steady-state space of the reversible tissue region.",
+  "authors": [
+    "Clifford S. Patlak",
+    "Ronald G. Blasberg",
+    "Joseph D. Fenstermacher"
+  ],
+  "year": 1983,
+  "doi": "10.1038/jcbfm.1983.1",
+  "source": "openalex",
+  "categories": [
+    "Plasma",
+    "Compartment (ship)",
+    "Graph",
+    "Kinetics",
+    "Brain tissue",
+    "Steady state (chemistry)",
+    "Constant (computer programming)",
+    "Time constant",
+    "Chemistry",
+    "Sampling (signal processing)",
+    "Biological system",
+    "Mathematics",
+    "Physics",
+    "Anatomy",
+    "Computer science",
+    "Combinatorics",
+    "Physical chemistry",
+    "Optics",
+    "Geology",
+    "Biology",
+    "Engineering",
+    "Detector",
+    "Programming language",
+    "Electrical engineering",
+    "Oceanography",
+    "Quantum mechanics"
+  ],
+  "citation_count": 3576,
+  "open_access_pdf_url": "https://journals.sagepub.com/doi/pdf/10.1038/jcbfm.1983.1",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2092078486.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:57.673077+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2092078486",
+    "concepts": [
+      "Plasma",
+      "Compartment (ship)",
+      "Graph",
+      "Kinetics",
+      "Brain tissue"
+    ],
+    "oa_status": "bronze"
+  }
+}

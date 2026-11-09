@@ -1,0 +1,59 @@
+{
+  "id": "openalex:W2021591445",
+  "title": "Pharmaceuticals and Endocrine Disrupting Compounds in U.S. Drinking Water",
+  "abstract": "The drinking water for more than 28 million people was screened for a diverse group of pharmaceuticals, potential endocrine disrupting compounds (EDCs), and other unregulated organic contaminants. Source water, finished drinking water, and distribution system (tap) water from 19 U.S. water utilities was analyzed for 51 compounds between 2006 and 2007. The 11 most frequently detected compounds were atenolol, atrazine, carbamazepine, estrone, gemfibrozil, meprobamate, naproxen, phenytoin, sulfamethoxazole, TCEP, and trimethoprim. Median concentrations of these compounds were less than 10 ng/L, except for sulfamethoxazole in source water (12 ng/L), TCEP in source water (120 ng/L), and atrazine in source, finished, and distribution system water (32, 49, and 49 ng/L). Atrazine was detected in source waters far removed from agricultural application where wastewater was the only known source of organic contaminants. The occurrence of compounds in finished drinking water was controlled by the type of chemical oxidation (ozone or chlorine) used at each plant. At one drinking water treatment plant, summed monthly concentrations of the detected analytes in source and finished water are reported. Atenolol, atrazine, DEET, estrone, meprobamate, and trimethoprim can serve as indicator compounds representing potential contamination from other pharmaceuticals and EDCs and can gauge the efficacy of treatment processes.",
+  "authors": [
+    "Mark J. Benotti",
+    "Rebecca A. Trenholm",
+    "Brett J. Vanderford",
+    "Janie C. Holady",
+    "Benjamin D. Stanford",
+    "Shane A. Snyder"
+  ],
+  "year": 2008,
+  "doi": "10.1021/es801845a",
+  "source": "openalex",
+  "categories": [
+    "Atrazine",
+    "Environmental chemistry",
+    "Chemistry",
+    "Triclosan",
+    "Contamination",
+    "Wastewater",
+    "Trimethoprim",
+    "Estrone",
+    "Water treatment",
+    "Triclocarban",
+    "Tap water",
+    "Bromoform",
+    "Pesticide",
+    "Environmental science",
+    "Environmental engineering",
+    "Chromatography",
+    "Chloroform",
+    "Antibiotics",
+    "Biochemistry",
+    "Agronomy",
+    "Biology",
+    "Pathology",
+    "Hormone",
+    "Medicine",
+    "Ecology"
+  ],
+  "citation_count": 1726,
+  "open_access_pdf_url": "https://pubs.acs.org/doi/pdf/10.1021/es801845a",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2021591445.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:33.047164+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2021591445",
+    "concepts": [
+      "Atrazine",
+      "Environmental chemistry",
+      "Chemistry",
+      "Triclosan",
+      "Contamination"
+    ],
+    "oa_status": "hybrid"
+  }
+}

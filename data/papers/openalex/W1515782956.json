@@ -1,0 +1,41 @@
+{
+  "id": "openalex:W1515782956",
+  "title": "Estimation of the Warfarin Dose with Clinical and Pharmacogenetic Data",
+  "abstract": "BACKGROUND: Genetic variability among patients plays an important role in determining the dose of warfarin that should be used when oral anticoagulation is initiated, but practical methods of using genetic information have not been evaluated in a diverse and large population. We developed and used an algorithm for estimating the appropriate warfarin dose that is based on both clinical and genetic data from a broad population base. METHODS: Clinical and genetic data from 4043 patients were used to create a dose algorithm that was based on clinical variables only and an algorithm in which genetic information was added to the clinical variables. In a validation cohort of 1009 subjects, we evaluated the potential clinical value of each algorithm by calculating the percentage of patients whose predicted dose of warfarin was within 20% of the actual stable therapeutic dose; we also evaluated other clinically relevant indicators. RESULTS: In the validation cohort, the pharmacogenetic algorithm accurately identified larger proportions of patients who required 21 mg of warfarin or less per week and of those who required 49 mg or more per week to achieve the target international normalized ratio than did the clinical algorithm (49.4% vs. 33.3%, P<0.001, among patients requiring < or = 21 mg per week; and 24.8% vs. 7.2%, P<0.001, among those requiring > or = 49 mg per week). CONCLUSIONS: The use of a pharmacogenetic algorithm for estimating the appropriate initial dose of warfarin produces recommendations that are significantly closer to the required stable therapeutic dose than those derived from a clinical algorithm or a fixed-dose approach. The greatest benefits were observed in the 46.2% of the population that required 21 mg or less of warfarin per week or 49 mg or more per week for therapeutic anticoagulation.",
+  "authors": [
+    "The International Warfarin Pharmacogenetics Consortium"
+  ],
+  "year": 2009,
+  "doi": "10.1056/nejmoa0809329",
+  "source": "openalex",
+  "categories": [
+    "Warfarin",
+    "Medicine",
+    "Pharmacogenetics",
+    "Population",
+    "Cohort",
+    "Internal medicine",
+    "Atrial fibrillation",
+    "Genotype",
+    "Biochemistry",
+    "Environmental health",
+    "Gene",
+    "Chemistry"
+  ],
+  "citation_count": 1587,
+  "open_access_pdf_url": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa0809329?articleTools=true",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1515782956.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:41.920883+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1515782956",
+    "concepts": [
+      "Warfarin",
+      "Medicine",
+      "Pharmacogenetics",
+      "Population",
+      "Cohort"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W4249866455",
+  "title": "Generalized-ICP",
+  "abstract": "In this paper we combine the Iterative Closest Point ('ICP') and 'point-to-plane ICP' algorithms into a single probabilistic framework.We then use this framework to model locally planar surface structure from both scans instead of just the \"model\" scan as is typically done with the point-to-plane method.This can be thought of as 'plane-to-plane'.The new approach is tested with both simulated and real-world data and is shown to outperform both standard ICP and point-to-plane.Furthermore, the new approach is shown to be more robust to incorrect correspondences, and thus makes it easier to tune the maximum match distance parameter present in most variants of ICP.In addition to the demonstrated performance improvement, the proposed model allows for more expressive probabilistic models to be incorporated into the ICP framework.While maintaining the speed and simplicity of ICP, the Generalized-ICP could also allow for the addition of outlier terms, measurement noise, and other probabilistic techniques to increase robustness.",
+  "authors": [
+    "A. Segal",
+    "D. Haehnel",
+    "Sebastian Thrun"
+  ],
+  "year": 2009,
+  "doi": "10.15607/rss.2009.v.021",
+  "source": "openalex",
+  "categories": [
+    "Robustness (evolution)",
+    "Probabilistic logic",
+    "Iterative closest point",
+    "Outlier",
+    "Algorithm",
+    "Computer science",
+    "Planar",
+    "Statistical model",
+    "Plane (geometry)",
+    "Noise (video)",
+    "Point (geometry)",
+    "Artificial intelligence",
+    "Mathematics",
+    "Point cloud",
+    "Geometry",
+    "Biochemistry",
+    "Computer graphics (images)",
+    "Image (mathematics)",
+    "Chemistry",
+    "Gene"
+  ],
+  "citation_count": 1614,
+  "open_access_pdf_url": "https://doi.org/10.15607/rss.2009.v.021",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W4249866455.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:38.167086+00:00",
+  "raw_metadata": {
+    "openalex_id": "W4249866455",
+    "concepts": [
+      "Robustness (evolution)",
+      "Probabilistic logic",
+      "Iterative closest point",
+      "Outlier",
+      "Algorithm"
+    ],
+    "oa_status": "bronze"
+  }
+}

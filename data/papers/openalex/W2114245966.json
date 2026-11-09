@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2114245966",
+  "title": "Exploiting lymphatic transport and complement activation in nanoparticle vaccines",
+  "abstract": "Antigen targeting and adjuvancy schemes that respectively facilitate delivery of antigen to dendritic cells and elicit their activation have been explored in vaccine development. Here we investigate whether nanoparticles can be used as a vaccine platform by targeting lymph node-residing dendritic cells via interstitial flow and activating these cells by in situ complement activation. After intradermal injection, interstitial flow transported ultra-small nanoparticles (25 nm) highly efficiently into lymphatic capillaries and their draining lymph nodes, targeting half of the lymph node-residing dendritic cells, whereas 100-nm nanoparticles were only 10% as efficient. The surface chemistry of these nanoparticles activated the complement cascade, generating a danger signal in situ and potently activating dendritic cells. Using nanoparticles conjugated to the model antigen ovalbumin, we demonstrate generation of humoral and cellular immunity in mice in a size- and complement-dependent manner.",
+  "authors": [
+    "Sai T. Reddy",
+    "André J. van der Vlies",
+    "Eleonora Simeoni",
+    "Véronique Angeli",
+    "Gwendalyn J. Randolph",
+    "Conlin P. O’Neil",
+    "Leslie K Lee",
+    "Melody A. Swartz",
+    "Jeffrey A. Hubbell"
+  ],
+  "year": 2007,
+  "doi": "10.1038/nbt1332",
+  "source": "openalex",
+  "categories": [
+    "Ovalbumin",
+    "Lymph node",
+    "Complement system",
+    "Lymph",
+    "Dendritic cell",
+    "Lymphatic system",
+    "Antigen-presenting cell",
+    "Follicular dendritic cells",
+    "Acquired immune system",
+    "Chemistry",
+    "Antigen",
+    "Cell biology",
+    "Immune system",
+    "Immunology",
+    "Biology",
+    "T cell",
+    "Medicine",
+    "Pathology"
+  ],
+  "citation_count": 1378,
+  "open_access_pdf_url": "https://www.nature.com/articles/nbt1332.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2114245966.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:52.685193+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2114245966",
+    "concepts": [
+      "Ovalbumin",
+      "Lymph node",
+      "Complement system",
+      "Lymph",
+      "Dendritic cell"
+    ],
+    "oa_status": "bronze"
+  }
+}

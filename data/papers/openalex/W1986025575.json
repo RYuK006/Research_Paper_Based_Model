@@ -1,0 +1,44 @@
+{
+  "id": "openalex:W1986025575",
+  "title": "QM/MM: what have we learned, where are we, and where do we go from here?",
+  "abstract": "This paper briefly reviews the current status of the most popular methods for combined quantum mechanical/molecular mechanical (QM/MM) calculations, including their advantages and disadvantages. There is a special emphasis on very general link-atom methods and various ways to treat the charge near the boundary. Mechanical and electric embedding are contrasted. We consider methods applicable to gas-phase organic chemistry, liquid-phase organic and organometallic chemistry, biochemistry, and solid-state chemistry. Then we review some recent tests of QM/MM methods and summarize what we learn about QM/MM from these studies. We also discuss some available software. Finally, we present a few comments about future directions of research in this exciting area, where we focus on more intimate blends of QM with MM.",
+  "authors": [
+    "Hai Lin",
+    "Donald G. Truhlar"
+  ],
+  "year": 2006,
+  "doi": "10.1007/s00214-006-0143-z",
+  "source": "openalex",
+  "categories": [
+    "Embedding",
+    "QM/MM",
+    "Gas phase",
+    "Focus (optics)",
+    "Chemistry",
+    "Nanotechnology",
+    "Computer science",
+    "Computational chemistry",
+    "Physics",
+    "Materials science",
+    "Physical chemistry",
+    "Molecular dynamics",
+    "Artificial intelligence",
+    "Optics"
+  ],
+  "citation_count": 1214,
+  "open_access_pdf_url": "https://link.springer.com/content/pdf/10.1007/s00214-006-0143-z.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1986025575.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:04.697641+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1986025575",
+    "concepts": [
+      "Embedding",
+      "QM/MM",
+      "Gas phase",
+      "Focus (optics)",
+      "Chemistry"
+    ],
+    "oa_status": "hybrid"
+  }
+}

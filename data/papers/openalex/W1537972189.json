@@ -1,0 +1,44 @@
+{
+  "id": "openalex:W1537972189",
+  "title": "Estimating the mean and variance from the median, range, and the size of a sample",
+  "abstract": "BACKGROUND: Usually the researchers performing meta-analysis of continuous outcomes from clinical trials need their mean value and the variance (or standard deviation) in order to pool data. However, sometimes the published reports of clinical trials only report the median, range and the size of the trial. METHODS: In this article we use simple and elementary inequalities and approximations in order to estimate the mean and the variance for such trials. Our estimation is distribution-free, i.e., it makes no assumption on the distribution of the underlying data. RESULTS: We found two simple formulas that estimate the mean using the values of the median (m), low and high end of the range (a and b, respectively), and n (the sample size). Using simulations, we show that median can be used to estimate mean when the sample size is larger than 25. For smaller samples our new formula, devised in this paper, should be used. We also estimated the variance of an unknown sample using the median, low and high end of the range, and the sample size. Our estimate is performing as the best estimate in our simulations for very small samples (n < or = 15). For moderately sized samples (15 < n < or = 70), our simulations show that the formula range/4 is the best estimator for the standard deviation (variance). For large samples (n > 70), the formula range/6 gives the best estimator for the standard deviation (variance). We also include an illustrative example of the potential value of our method using reports from the Cochrane review on the role of erythropoietin in anemia due to malignancy. CONCLUSION: Using these formulas, we hope to help meta-analysts use clinical trials in their analysis even when not all of the information is available and/or reported.",
+  "authors": [
+    "S. Hozo",
+    "Benjamin Djulbegović",
+    "Iztok Hozo"
+  ],
+  "year": 2005,
+  "doi": "10.1186/1471-2288-5-13",
+  "source": "openalex",
+  "categories": [
+    "Statistics",
+    "Sample size determination",
+    "Range (aeronautics)",
+    "Variance (accounting)",
+    "Sample (material)",
+    "Medicine",
+    "Mathematics",
+    "Composite material",
+    "Accounting",
+    "Chromatography",
+    "Materials science",
+    "Business",
+    "Chemistry"
+  ],
+  "citation_count": 9159,
+  "open_access_pdf_url": "https://bmcmedresmethodol.biomedcentral.com/counter/pdf/10.1186/1471-2288-5-13",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1537972189.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:49.883752+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1537972189",
+    "concepts": [
+      "Statistics",
+      "Sample size determination",
+      "Range (aeronautics)",
+      "Variance (accounting)",
+      "Sample (material)"
+    ],
+    "oa_status": "gold"
+  }
+}

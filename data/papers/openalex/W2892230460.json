@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2892230460",
+  "title": "Ammonia for power",
+  "abstract": "A potential enabler of a low carbon economy is the energy vector hydrogen. However, issues associated with hydrogen storage and distribution are currently a barrier for its implementation. Hence, other indirect storage media such as ammonia and methanol are currently being considered. Of these, ammonia is a carbon free carrier which offers high energy density; higher than compressed air. Hence, it is proposed that ammonia, with its established transportation network and high flexibility, could provide a practical next generation system for energy transportation, storage and use for power generation. Therefore, this review highlights previous influential studies and ongoing research to use this chemical as a viable energy vector for power applications, emphasizing the challenges that each of the reviewed technologies faces before implementation and commercial deployment is achieved at a larger scale. The review covers technologies such as ammonia in cycles either for power or CO2 removal, fuel cells, reciprocating engines, gas turbines and propulsion technologies, with emphasis on the challenges of using the molecule and current understanding of the fundamental combustion patterns of ammonia blends.",
+  "authors": [
+    "Agustín Valera-Medina",
+    "Hua Xiao",
+    "Martin O. Jones",
+    "William I. F. David",
+    "Phil J. Bowen"
+  ],
+  "year": 2018,
+  "doi": "10.1016/j.pecs.2018.07.001",
+  "source": "openalex",
+  "categories": [
+    "Flexibility (engineering)",
+    "Energy carrier",
+    "Process engineering",
+    "Energy storage",
+    "Ammonia",
+    "Fossil fuel",
+    "Renewable energy",
+    "Hydrogen storage",
+    "Environmental science",
+    "Biochemical engineering",
+    "Computer science",
+    "Waste management",
+    "Hydrogen",
+    "Engineering",
+    "Power (physics)",
+    "Chemistry",
+    "Electrical engineering",
+    "Quantum mechanics",
+    "Physics",
+    "Statistics",
+    "Mathematics",
+    "Organic chemistry"
+  ],
+  "citation_count": 2901,
+  "open_access_pdf_url": "https://www.sciencedirect.com/science/article/pii/S0360128517302320/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2892230460.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:01.860330+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2892230460",
+    "concepts": [
+      "Flexibility (engineering)",
+      "Energy carrier",
+      "Process engineering",
+      "Energy storage",
+      "Ammonia"
+    ],
+    "oa_status": "hybrid"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W2138584262",
+  "title": "Bacterial adhesion and biofilms on surfaces",
+  "abstract": "Bacterial adhesion has become a significant problem in industry and in the domicile, and much research has been done for deeper understanding of the processes involved. A generic biological model of bacterial adhesion and population growth called the bacterial biofilm growth cycle, has been described and modified many times. The biofilm growth cycle encompasses bacterial adhesion at all levels, starting with the initial physical attraction of bacteria to a substrate, and ending with the eventual liberation of cell clusters from the biofilm matrix. When describing bacterial adhesion one is simply describing one or more stages of biofilm development, neglecting the fact that the population may not reach maturity. This article provides an overview of bacterial adhesion, cites examples of how bacterial adhesion affects industry and summarises methods and instrumentation used to improve our understanding of the adhesive properties of bacteria.",
+  "authors": [
+    "Trevor Roger Garrett",
+    "Manmohan Bhakoo",
+    "Zhibing Zhang"
+  ],
+  "year": 2008,
+  "doi": "10.1016/j.pnsc.2008.04.001",
+  "source": "openalex",
+  "categories": [
+    "Biofilm",
+    "Adhesion",
+    "Bacteria",
+    "Bacterial growth",
+    "Population",
+    "Bacterial cell structure",
+    "Microbiology",
+    "Bacterial strain",
+    "Biology",
+    "Nanotechnology",
+    "Chemistry",
+    "Materials science",
+    "Genetics",
+    "Medicine",
+    "Environmental health",
+    "Organic chemistry"
+  ],
+  "citation_count": 1218,
+  "open_access_pdf_url": "https://www.sciencedirect.com/science/article/pii/S1002007108002049/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2138584262.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:04.655494+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2138584262",
+    "concepts": [
+      "Biofilm",
+      "Adhesion",
+      "Bacteria",
+      "Bacterial growth",
+      "Population"
+    ],
+    "oa_status": "hybrid"
+  }
+}

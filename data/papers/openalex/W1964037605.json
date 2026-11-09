@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W1964037605",
+  "title": "Activation of Hypoxia-inducible Transcription Factor Depends Primarily upon Redox-sensitive Stabilization of Its α Subunit",
+  "abstract": "Hypoxia-inducible factor 1 (HIF-1) is a heterodimeric transcription factor that is critical for hypoxic induction of a number of physiologically important genes. We present evidence that regulation of HIF-1 activity is primarily determined by the stability of the HIF-1alpha protein. Both HIF-1alpha and HIF-1beta mRNAs were constitutively expressed in HeLa and Hep3B cells with no significant induction by hypoxia. However, the HIF-1alpha protein was barely detectable in normoxic cells, even when HIF-1alpha was overexpressed, but was highly induced in hypoxic cells, whereas HIF-1beta protein levels remained constant, regardless of pO2. Hypoxia-induced HIF-1 binding as well as the HIF-1alpha protein were rapidly and drastically decreased in vivo following an abrupt increase to normal oxygen tension. Moreover, short pre-exposure of cells to hydrogen peroxide selectively prevented hypoxia-induced HIF-1 binding via blocking accumulation of HIF-1alpha protein, whereas treatment of hypoxic cell extracts with H2O2 had no effect on HIF-1 binding. These observations suggest that an intact redox-dependent signaling pathway is required for destablization of the HIF-1alpha protein. In hypoxic cell extracts, HIF-1 DNA binding was reversibly abolished by sulfhydryl oxidation. Furthermore, the addition of reduced thioredoxin to cell extracts enhanced HIF-1 DNA binding. Consistent with these results, overexpression of thioredoxin and Ref-1 significantly potentiated hypoxia-induced expression of a reporter construct containing the wild-type HIF-1 binding site. These experiments indicate that activation of HIF-1 involves redox-dependent stabilization of HIF-1alpha protein.",
+  "authors": [
+    "Eric L. Huang",
+    "Zoltan Pierre Arany",
+    "David M. Livingston",
+    "H. Franklin Bunn"
+  ],
+  "year": 1996,
+  "doi": "10.1074/jbc.271.50.32253",
+  "source": "openalex",
+  "categories": [
+    "Redox",
+    "Transcription factor",
+    "Protein subunit",
+    "Hypoxia-Inducible Factor 1",
+    "Chemistry",
+    "Hypoxia (environmental)",
+    "Cell biology",
+    "Transcription (linguistics)",
+    "Hypoxia-inducible factors",
+    "Biophysics",
+    "Biochemistry",
+    "Biology",
+    "Oxygen",
+    "Gene",
+    "Inorganic chemistry",
+    "Linguistics",
+    "Philosophy",
+    "Organic chemistry"
+  ],
+  "citation_count": 1203,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925819789078/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1964037605.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:08.260938+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1964037605",
+    "concepts": [
+      "Redox",
+      "Transcription factor",
+      "Protein subunit",
+      "Hypoxia-Inducible Factor 1",
+      "Chemistry"
+    ],
+    "oa_status": "hybrid"
+  }
+}

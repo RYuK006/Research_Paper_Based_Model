@@ -1,0 +1,45 @@
+{
+  "id": "openalex:W1988448057",
+  "title": "Group lending, repayment incentives and social collateral",
+  "abstract": "In this paper, we investigate the impact on repayment rates of lending to groups which are made jointly liable for repayment. This type of scheme, especially in the guise of the Grameen Bank in Bangladesh, has received increasing attention. We set up and analyze the ‘repayment game’ which group lending gives rise to. Our analysis suggests that such schemes have both positive and negative effects on repayment rates. The positive effect is that successful group members may have an incentive to repay the loans of group members whose projects have yielded insufficient return to make repayment worthwhile. The negative effect arises when the whole group defaults, even when some members would have repaid under individual lending. We also show how group lending may harness social collateral, which serves to mitigate its negative effect.",
+  "authors": [
+    "Timothy J. Besley",
+    "Stephen Coate"
+  ],
+  "year": 1995,
+  "doi": "10.1016/0304-3878(94)00045-e",
+  "source": "openalex",
+  "categories": [
+    "Collateral",
+    "Incentive",
+    "Default",
+    "Group (periodic table)",
+    "Economics",
+    "Business",
+    "Set (abstract data type)",
+    "Monetary economics",
+    "Actuarial science",
+    "Microeconomics",
+    "Finance",
+    "Programming language",
+    "Chemistry",
+    "Organic chemistry",
+    "Computer science"
+  ],
+  "citation_count": 1229,
+  "open_access_pdf_url": "https://www.sciencedirect.com/science/article/pii/030438789400045E/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1988448057.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:04.539463+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1988448057",
+    "concepts": [
+      "Collateral",
+      "Incentive",
+      "Default",
+      "Group (periodic table)",
+      "Economics"
+    ],
+    "oa_status": "hybrid"
+  }
+}

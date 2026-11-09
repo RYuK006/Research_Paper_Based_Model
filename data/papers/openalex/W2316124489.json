@@ -1,0 +1,60 @@
+{
+  "id": "openalex:W2316124489",
+  "title": "Opening the Gate: Framework Flexibility in ZIF-8 Explored by Experiments and Simulations",
+  "abstract": "ZIF-8 is a zeolitic imidazole-based metal-organic framework with large cavities interconnected by narrow windows. Because the small size of the windows, it allows in principle for molecular sieving of gases such as H(2) and CH(4). However, the unexpected adsorption of large molecules on ZIF-8 suggests the existence of structural flexibility. ZIF-8 flexibility is explored in this work combining different experimental techniques with molecular simulation. We show that the ZIF-8 structure is modified by gas adsorption uptake in the same way as it is at a very high pressure (i.e., 14,700 bar) due to a swing effect in the imidazolate linkers, giving access to the porosity. Tuning the flexibility, and so the opening of the small windows, has a further impact on the design of advanced molecular sieving membrane materials for gas separation, adjusting the access of fluids to the porous network.",
+  "authors": [
+    "David Fairen‐Jiménez",
+    "Stephen A. Moggach",
+    "Michael T. Wharmby",
+    "Paul A. Wright",
+    "Simon Parsons",
+    "Tina Düren"
+  ],
+  "year": 2011,
+  "doi": "10.1021/ja202154j",
+  "source": "openalex",
+  "categories": [
+    "Zeolitic imidazolate framework",
+    "Chemistry",
+    "Imidazolate",
+    "Flexibility (engineering)",
+    "Imidazole",
+    "Porosity",
+    "Metal-organic framework",
+    "Adsorption",
+    "Pressure swing adsorption",
+    "Bar (unit)",
+    "Molecular dynamics",
+    "Membrane",
+    "Molecule",
+    "Nanotechnology",
+    "Chemical engineering",
+    "Inorganic chemistry",
+    "Computational chemistry",
+    "Physical chemistry",
+    "Organic chemistry",
+    "Materials science",
+    "Statistics",
+    "Meteorology",
+    "Biochemistry",
+    "Engineering",
+    "Physics",
+    "Mathematics"
+  ],
+  "citation_count": 1224,
+  "open_access_pdf_url": "https://www.research.ed.ac.uk/en/publications/18138df3-a74f-4ea5-bd9b-f46fbcbd12ef",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2316124489.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:04.597507+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2316124489",
+    "concepts": [
+      "Zeolitic imidazolate framework",
+      "Chemistry",
+      "Imidazolate",
+      "Flexibility (engineering)",
+      "Imidazole"
+    ],
+    "oa_status": "green"
+  }
+}

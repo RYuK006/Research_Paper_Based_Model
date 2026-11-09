@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2034817948",
+  "title": "Spextool: A Spectral Extraction Package for SpeX, a 0.8–5.5 Micron Cross‐Dispersed Spectrograph",
+  "abstract": "We describe an IDL‐based package for the reduction of spectral data obtained with SpeX, a medium‐resolution, 0.8–5.5 μm cross‐dispersed spectrograph and imager for the NASA Infrared Telescope Facility. The package, called Spextool, carries out all the procedures necessary to produce fully reduced spectra including preparation of calibration frames, processing and extraction of spectra from science frames, wavelength calibration of spectra, and flux calibration of spectra. The package incorporates an \"optimal extraction\" algorithm for point‐source data and also generates realistic error arrays associated with the extracted spectra. Because it is fairly quick and easy to use, requiring minimal user interaction, Spextool can be run by observers at the telescope to estimate the signal‐to‐noise ratio of their data. We describe the procedures incorporated into Spextool and show examples of extracted spectra.",
+  "authors": [
+    "Michael C. Cushing",
+    "William D. Vacca",
+    "John T. Rayner"
+  ],
+  "year": 2004,
+  "doi": "10.1086/382907",
+  "source": "openalex",
+  "categories": [
+    "Spectrograph",
+    "Telescope",
+    "Calibration",
+    "Spectral line",
+    "Data reduction",
+    "Spectral resolution",
+    "Reduction (mathematics)",
+    "Optics",
+    "Extraction (chemistry)",
+    "Wavelength",
+    "Physics",
+    "Remote sensing",
+    "Computer science",
+    "Astronomy",
+    "Chromatography",
+    "Quantum mechanics",
+    "Geometry",
+    "Geology",
+    "Data mining",
+    "Mathematics",
+    "Chemistry"
+  ],
+  "citation_count": 1241,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1086/382907/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2034817948.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:02.786132+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2034817948",
+    "concepts": [
+      "Spectrograph",
+      "Telescope",
+      "Calibration",
+      "Spectral line",
+      "Data reduction"
+    ],
+    "oa_status": "bronze"
+  }
+}

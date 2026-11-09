@@ -1,0 +1,59 @@
+{
+  "id": "openalex:W2124637492",
+  "title": "Statistical mechanics of complex networks",
+  "abstract": "Complex networks describe a wide range of systems in nature and society. Frequently cited examples include the cell, a network of chemicals linked by chemical reactions, and the Internet, a network of routers and computers connected by physical links. While traditionally these systems have been modeled as random graphs, it is increasingly recognized that the topology and evolution of real networks are governed by robust organizing principles. This article reviews the recent advances in the field of complex networks, focusing on the statistical mechanics of network topology and dynamics. After reviewing the empirical data that motivated the recent interest in networks, the authors discuss the main models and analytical tools, covering random graphs, small-world and scale-free networks, the emerging theory of evolving networks, and the interplay between topology and the network's robustness against failures and attacks.",
+  "authors": [
+    "Réka Albert",
+    "Albert-Ĺaszló Barabási"
+  ],
+  "year": 2002,
+  "doi": "10.1103/revmodphys.74.47",
+  "source": "openalex",
+  "categories": [
+    "Complex network",
+    "Statistical mechanics",
+    "Network topology",
+    "Random graph",
+    "Interdependent networks",
+    "Evolving networks",
+    "Robustness (evolution)",
+    "Scale-free network",
+    "Network formation",
+    "Topology (electrical circuits)",
+    "Hierarchical network model",
+    "Network science",
+    "Network dynamics",
+    "Computer science",
+    "Preferential attachment",
+    "Theoretical computer science",
+    "The Internet",
+    "Distributed computing",
+    "Physics",
+    "Statistical physics",
+    "Computer network",
+    "Graph",
+    "World Wide Web",
+    "Mathematics",
+    "Chemistry",
+    "Gene",
+    "Discrete mathematics",
+    "Biochemistry",
+    "Combinatorics"
+  ],
+  "citation_count": 20553,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0106096",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2124637492.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:49.809814+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2124637492",
+    "concepts": [
+      "Complex network",
+      "Statistical mechanics",
+      "Network topology",
+      "Random graph",
+      "Interdependent networks"
+    ],
+    "oa_status": "green"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W2161545566",
+  "title": "Cell Contact–Dependent Immunosuppression by Cd4+Cd25+Regulatory T Cells Is Mediated by Cell Surface–Bound Transforming Growth Factor β",
+  "abstract": "CD4(+)CD25(+) T cells have been identified as a population of immunoregulatory T cells, which mediate suppression of CD4(+)CD25(-) T cells by cell-cell contact and not secretion of suppressor cytokines. In this study, we demonstrated that CD4(+)CD25(+) T cells do produce high levels of transforming growth factor (TGF)-beta1 and interleukin (IL)-10 compared with CD4(+)CD25(-) T cells when stimulated by plate-bound anti-CD3 and soluble anti-CD28 and/or IL-2, and secretion of TGF-beta1 (but not other cytokines), is further enhanced by costimulation via cytotoxic T lymphocyte-associated antigen (CTLA)-4. As in prior studies, we found that CD4(+)CD25(+) T cells suppress proliferation of CD4(+)CD25(-) T cells; however, we observed here that such suppression is abolished by the presence of anti-TGF-beta. In addition, we found that CD4(+)CD25(+) T cells suppress B cell immunoglobulin production and that anti-TGF-beta again abolishes such suppression. Finally, we found that stimulated CD4(+)CD25(+) T cells but not CD4(+)CD25(-) T cells express high and persistent levels of TGF-beta1 on the cell surface. This, plus the fact that we could find no evidence that a soluble factor mediates suppression, strongly suggests that CD4(+)CD25(+) T cells exert immunosuppression by a cell-cell interaction involving cell surface TGF-beta1.",
+  "authors": [
+    "Kazuhiko Nakamura",
+    "Atsushi Kitani",
+    "Warren Strober"
+  ],
+  "year": 2001,
+  "doi": "10.1084/jem.194.5.629",
+  "source": "openalex",
+  "categories": [
+    "Immunosuppression",
+    "Transforming growth factor",
+    "IL-2 receptor",
+    "Cell biology",
+    "Cell",
+    "Cell growth",
+    "Regulatory T cell",
+    "Growth factor",
+    "T cell",
+    "Chemistry",
+    "Cancer research",
+    "Biology",
+    "Immunology",
+    "Immune system",
+    "Receptor",
+    "Biochemistry"
+  ],
+  "citation_count": 1626,
+  "open_access_pdf_url": "http://jem.rupress.org/content/jem/194/5/629.full.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2161545566.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:38.114968+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2161545566",
+    "concepts": [
+      "Immunosuppression",
+      "Transforming growth factor",
+      "IL-2 receptor",
+      "Cell biology",
+      "Cell"
+    ],
+    "oa_status": "bronze"
+  }
+}

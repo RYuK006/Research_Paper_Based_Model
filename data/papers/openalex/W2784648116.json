@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2784648116",
+  "title": "Soft Robotic Grippers",
+  "abstract": "Advances in soft robotics, materials science, and stretchable electronics have enabled rapid progress in soft grippers. Here, a critical overview of soft robotic grippers is presented, covering different material sets, physical principles, and device architectures. Soft gripping can be categorized into three technologies, enabling grasping by: a) actuation, b) controlled stiffness, and c) controlled adhesion. A comprehensive review of each type is presented. Compared to rigid grippers, end-effectors fabricated from flexible and soft components can often grasp or manipulate a larger variety of objects. Such grippers are an example of morphological computation, where control complexity is greatly reduced by material softness and mechanical compliance. Advanced materials and soft components, in particular silicone elastomers, shape memory materials, and active polymers and gels, are increasingly investigated for the design of lighter, simpler, and more universal grippers, using the inherent functionality of the materials. Embedding stretchable distributed sensors in or on soft grippers greatly enhances the ways in which the grippers interact with objects. Challenges for soft grippers include miniaturization, robustness, speed, integration of sensing, and control. Improved materials, processing methods, and sensing play an important role in future research.",
+  "authors": [
+    "Jun Shintake",
+    "Vito Cacucciolo",
+    "Dario Floreano",
+    "Herbert R. Shea"
+  ],
+  "year": 2018,
+  "doi": "10.1002/adma.201707035",
+  "source": "openalex",
+  "categories": [
+    "Grippers",
+    "Soft robotics",
+    "Materials science",
+    "GRASP",
+    "Miniaturization",
+    "Computer science",
+    "Soft materials",
+    "Mechanical engineering",
+    "Robot",
+    "Robustness (evolution)",
+    "Nanotechnology",
+    "Artificial intelligence",
+    "Engineering",
+    "Programming language",
+    "Biochemistry",
+    "Gene",
+    "Chemistry"
+  ],
+  "citation_count": 2048,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adma.201707035",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2784648116.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:15.563405+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2784648116",
+    "concepts": [
+      "Grippers",
+      "Soft robotics",
+      "Materials science",
+      "GRASP",
+      "Miniaturization"
+    ],
+    "oa_status": "hybrid"
+  }
+}

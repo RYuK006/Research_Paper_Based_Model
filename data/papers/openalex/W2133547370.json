@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2133547370",
+  "title": "Butyrate inhibits inflammatory responses through NFκB inhibition: implications for Crohn's disease",
+  "abstract": "BACKGROUND/AIM: Proinflammatory cytokines are key factors in the pathogenesis of Crohn's disease (CD). Activation of nuclear factor kappa B (NFkappaB), which is involved in their gene transcription, is increased in the intestinal mucosa of CD patients. As butyrate enemas may be beneficial in treating colonic inflammation, we investigated if butyrate promotes this effect by acting on proinflammatory cytokine expression. METHODS: Intestinal biopsy specimens, isolated lamina propria cells (LPMC), and peripheral blood mononuclear cells (PBMC) were cultured with or without butyrate for assessment of secretion of tumour necrosis factor (TNF) and mRNA levels. NFkappaB p65 activation was determined by immunofluorescence and gene reporter experiments. Levels of NFkappaB inhibitory protein (IkappaBalpha) were analysed by western blotting. The in vivo efficacy of butyrate was assessed in rats with trinitrobenzene sulphonic acid (TNBS) induced colitis. RESULTS: Butyrate decreased TNF production and proinflammatory cytokine mRNA expression by intestinal biopsies and LPMC from CD patients. Butyrate abolished lipopolysaccharide (LPS) induced expression of cytokines by PBMC and transmigration of NFkappaB from the cytoplasm to the nucleus. LPS induced NFkappaB transcriptional activity was decreased by butyrate while IkappaBalpha levels were stable. Butyrate treatment also improved TNBS induced colitis. CONCLUSIONS: Butyrate decreases proinflammatory cytokine expression via inhibition of NFkappaB activation and IkappaBalpha degradation. These anti-inflammatory properties provide a rationale for assessing butyrate in the treatment of CD.",
+  "authors": [
+    "J-P Segain",
+    "Diane Raingeard de la Blétière",
+    "A Bourreille",
+    "V Leray",
+    "Nadine Gervois",
+    "C Rosales",
+    "Laurent Ferrier",
+    "C Bonnet",
+    "Hervé M. Blottière",
+    "J-P Galmiche"
+  ],
+  "year": 2000,
+  "doi": "10.1136/gut.47.3.397",
+  "source": "openalex",
+  "categories": [
+    "Proinflammatory cytokine",
+    "Butyrate",
+    "Tumor necrosis factor alpha",
+    "Cytokine",
+    "Lamina propria",
+    "Lipopolysaccharide",
+    "Inflammation",
+    "Immunology",
+    "Peripheral blood mononuclear cell",
+    "Biology",
+    "Medicine",
+    "Chemistry",
+    "Pathology",
+    "Biochemistry",
+    "In vitro",
+    "Epithelium",
+    "Fermentation"
+  ],
+  "citation_count": 1356,
+  "open_access_pdf_url": "https://gut.bmj.com/content/gutjnl/47/3/397.full.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2133547370.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:55.135961+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2133547370",
+    "concepts": [
+      "Proinflammatory cytokine",
+      "Butyrate",
+      "Tumor necrosis factor alpha",
+      "Cytokine",
+      "Lamina propria"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2148099625",
+  "title": "Fine-Particulate Air Pollution and Life Expectancy in the United States",
+  "abstract": "BACKGROUND: Exposure to fine-particulate air pollution has been associated with increased morbidity and mortality, suggesting that sustained reductions in pollution exposure should result in improved life expectancy. This study directly evaluated the changes in life expectancy associated with differential changes in fine particulate air pollution that occurred in the United States during the 1980s and 1990s. METHODS: We compiled data on life expectancy, socioeconomic status, and demographic characteristics for 211 county units in the 51 U.S. metropolitan areas with matching data on fine-particulate air pollution for the late 1970s and early 1980s and the late 1990s and early 2000s. Regression models were used to estimate the association between reductions in pollution and changes in life expectancy, with adjustment for changes in socioeconomic and demographic variables and in proxy indicators for the prevalence of cigarette smoking. RESULTS: A decrease of 10 microg per cubic meter in the concentration of fine particulate matter was associated with an estimated increase in mean (+/-SE) life expectancy of 0.61+/-0.20 year (P=0.004). The estimated effect of reduced exposure to pollution on life expectancy was not highly sensitive to adjustment for changes in socioeconomic, demographic, or proxy variables for the prevalence of smoking or to the restriction of observations to relatively large counties. Reductions in air pollution accounted for as much as 15% of the overall increase in life expectancy in the study areas. CONCLUSIONS: A reduction in exposure to ambient fine-particulate air pollution contributed to significant and measurable improvements in life expectancy in the United States.",
+  "authors": [
+    "C. Arden Pope",
+    "Majid Ezzati",
+    "Douglas W. Dockery"
+  ],
+  "year": 2009,
+  "doi": "10.1056/nejmsa0805646",
+  "source": "openalex",
+  "categories": [
+    "Life expectancy",
+    "Particulates",
+    "Socioeconomic status",
+    "Air pollution",
+    "Particulate pollution",
+    "Environmental health",
+    "Pollution",
+    "Proxy (statistics)",
+    "Environmental science",
+    "Demography",
+    "Medicine",
+    "Population",
+    "Statistics",
+    "Mathematics",
+    "Chemistry",
+    "Biology",
+    "Ecology",
+    "Sociology",
+    "Organic chemistry"
+  ],
+  "citation_count": 2281,
+  "open_access_pdf_url": "https://www.nejm.org/doi/pdf/10.1056/NEJMsa0805646?articleTools=true",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2148099625.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:08.837048+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2148099625",
+    "concepts": [
+      "Life expectancy",
+      "Particulates",
+      "Socioeconomic status",
+      "Air pollution",
+      "Particulate pollution"
+    ],
+    "oa_status": "bronze"
+  }
+}

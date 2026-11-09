@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W2053340393",
+  "title": "Double Layer in Ionic Liquids: Overscreening versus Crowding",
+  "abstract": "We develop a simple Landau-Ginzburg-type continuum theory of solvent-free ionic liquids and use it to predict the structure of the electrical double layer. The model captures overscreening from short-range correlations, dominant at small voltages, and steric constraints of finite ion sizes, which prevail at large voltages. Increasing the voltage gradually suppresses overscreening in favor of the crowding of counterions in a condensed inner layer near the electrode. This prediction, the ion profiles, and the capacitance-voltage dependence are consistent with recent computer simulations and experiments on room-temperature ionic liquids, using a correlation length of order the ion size.",
+  "authors": [
+    "Martin Z. Bazant",
+    "Brian D. Storey",
+    "Alexei A. Kornyshev"
+  ],
+  "year": 2011,
+  "doi": "10.1103/physrevlett.106.046102",
+  "source": "openalex",
+  "categories": [
+    "Ionic bonding",
+    "Capacitance",
+    "Counterion",
+    "Ion",
+    "Materials science",
+    "Voltage",
+    "Ionic liquid",
+    "Electrode",
+    "Steric effects",
+    "Chemical physics",
+    "Physics",
+    "Chemistry",
+    "Quantum mechanics",
+    "Biochemistry",
+    "Stereochemistry",
+    "Catalysis"
+  ],
+  "citation_count": 1115,
+  "open_access_pdf_url": "http://link.aps.org/pdf/10.1103/PhysRevLett.106.046102",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2053340393.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:19.551511+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2053340393",
+    "concepts": [
+      "Ionic bonding",
+      "Capacitance",
+      "Counterion",
+      "Ion",
+      "Materials science"
+    ],
+    "oa_status": "bronze"
+  }
+}

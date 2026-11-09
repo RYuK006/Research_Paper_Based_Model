@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2024335963",
+  "title": "Porous media equivalents for networks of discontinuous fractures",
+  "abstract": "The theory of flow through fractured rock and homogeneous anisotropic porous media is used to determine when a fractured rock behaves as a continuum. A fractured rock can be said to behave like an equivalent porous medium when (1) there is an insignificant change in the value of the equivalent permeability with a small addition or subtraction to the test volume and (2) an equivalent permeability tensor exists which predicts the correct flux when the direction of a constant gradient is changed. Field studies of fracture geometry are reviewed and a realistic, two‐dimensional fracture system model is developed. The shape, size, orientation, and location of fractures in an impermeable matrix are random variables in the model. These variables are randomly distributed according to field data currently available in the literature. The fracture system models are subjected to simulated flow tests. The results of the flow tests are plotted as permeability ‘ellipses.’ The size and shape of these permeability ellipses show that fractured rock does not always behave as a homogeneous, anisotropic porous medium with a symmetric permeability tensor. Fracture systems behave more like porous media when (1) fracture density is increased, (2) apertures are constant rather than distributed, (3) orientations are distributed rather than constant, and (4) larger sample sizes are tested. Preliminary results indicate the use of this new tool, when perfected, will greatly enhance our ability to analyze field data on fractured rock systems. The tool can be used to distinguish between fractured systems which can be treated as porous media and fractured systems which must be treated as a collection of discrete fracture flow paths.",
+  "authors": [
+    "J.C.S. Long",
+    "J.S. Remer",
+    "C. R. Wilson",
+    "P.A. Witherspoon"
+  ],
+  "year": 1982,
+  "doi": "10.1029/wr018i003p00645",
+  "source": "openalex",
+  "categories": [
+    "Permeability (electromagnetism)",
+    "Porous medium",
+    "Anisotropy",
+    "Ellipse",
+    "Geology",
+    "Mechanics",
+    "Representative elementary volume",
+    "Porosity",
+    "Geotechnical engineering",
+    "Geometry",
+    "Fracture (geology)",
+    "Homogeneous",
+    "Mineralogy",
+    "Materials science",
+    "Mathematics",
+    "Composite material",
+    "Physics",
+    "Statistical physics",
+    "Optics",
+    "Chemistry",
+    "Biochemistry",
+    "Microstructure",
+    "Membrane"
+  ],
+  "citation_count": 1112,
+  "open_access_pdf_url": "https://www.osti.gov/servlets/purl/1149587",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2024335963.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:19.586475+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2024335963",
+    "concepts": [
+      "Permeability (electromagnetism)",
+      "Porous medium",
+      "Anisotropy",
+      "Ellipse",
+      "Geology"
+    ],
+    "oa_status": "green"
+  }
+}

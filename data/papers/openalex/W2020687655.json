@@ -1,0 +1,43 @@
+{
+  "id": "openalex:W2020687655",
+  "title": "Interactions between Light Waves in a Nonlinear Dielectric",
+  "abstract": "The induced nonlinear electric dipole and higher moments in an atomic system, irradiated simultaneously by two or three light waves, are calculated by quantum-mechanical perturbation theory. Terms quadratic and cubic in the field amplitudes are included. An important permutation symmetry relation for the nonlinear polarizability is derived and its frequency dependence is discussed. The nonlinear microscopic properties are related to an effective macroscopic nonlinear polarization, which may be incorporated into Maxwell's equations for an infinite, homogeneous, anisotropic, nonlinear, dielectric medium. Energy and power relationships are derived for the nonlinear dielectric which correspond to the Manley-Rowe relations in the theory of parametric amplifiers. Explicit solutions are obtained for the coupled amplitude equations, which describe the interaction between a plane light wave and its second harmonic or the interaction between three plane electromagnetic waves, which satisfy the energy relationship ${\\ensuremath{\\omega}}_{3}={\\ensuremath{\\omega}}_{1}+{\\ensuremath{\\omega}}_{2}$, and the approximate momentum relationship ${\\mathrm{k}}_{3}={\\mathrm{k}}_{1}+{\\mathrm{k}}_{2}+\\ensuremath{\\Delta}\\mathrm{k}$. Third-harmonic generation and interaction between more waves is mentioned. Applications of the theory to the dc and microwave Kerr effect, light modulation, harmonic generation, and parametric conversion are discussed.",
+  "authors": [
+    "John A. Armstrong",
+    "N. Bloembergen",
+    "Jacques Ducuing",
+    "P. S. Pershan"
+  ],
+  "year": 1962,
+  "doi": "10.1103/physrev.127.1918",
+  "source": "openalex",
+  "categories": [
+    "Physics",
+    "Nonlinear system",
+    "Plane wave",
+    "Quantum mechanics",
+    "Electromagnetic radiation",
+    "Polarization (electrochemistry)",
+    "Omega",
+    "Quantum electrodynamics",
+    "Condensed matter physics",
+    "Chemistry",
+    "Physical chemistry"
+  ],
+  "citation_count": 4434,
+  "open_access_pdf_url": "http://link.aps.org/pdf/10.1103/PhysRev.127.1918",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2020687655.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:53.959975+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2020687655",
+    "concepts": [
+      "Physics",
+      "Nonlinear system",
+      "Plane wave",
+      "Quantum mechanics",
+      "Electromagnetic radiation"
+    ],
+    "oa_status": "bronze"
+  }
+}

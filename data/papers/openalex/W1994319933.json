@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W1994319933",
+  "title": "Emerging memories: resistive switching mechanisms and current status",
+  "abstract": "The resistance switching behaviour of several materials has recently attracted considerable attention for its application in non-volatile memory (NVM) devices, popularly described as resistive random access memories (RRAMs). RRAM is a type of NVM that uses a material(s) that changes the resistance when a voltage is applied. Resistive switching phenomena have been observed in many oxides: (i) binary transition metal oxides (TMOs), e.g. TiO(2), Cr(2)O(3), FeO(x) and NiO; (ii) perovskite-type complex TMOs that are variously functional, paraelectric, ferroelectric, multiferroic and magnetic, e.g. (Ba,Sr)TiO(3), Pb(Zr(x) Ti(1-x))O(3), BiFeO(3) and Pr(x)Ca(1-x)MnO(3); (iii) large band gap high-k dielectrics, e.g. Al(2)O(3) and Gd(2)O(3); (iv) graphene oxides. In the non-oxide category, higher chalcogenides are front runners, e.g. In(2)Se(3) and In(2)Te(3). Hence, the number of materials showing this technologically interesting behaviour for information storage is enormous. Resistive switching in these materials can form the basis for the next generation of NVM, i.e. RRAM, when current semiconductor memory technology reaches its limit in terms of density. RRAMs may be the high-density and low-cost NVMs of the future. A review on this topic is of importance to focus concentration on the most promising materials to accelerate application into the semiconductor industry. This review is a small effort to realize the ambitious goal of RRAMs. Its basic focus is on resistive switching in various materials with particular emphasis on binary TMOs. It also addresses the current understanding of resistive switching behaviour. Moreover, a brief comparison between RRAMs and memristors is included. The review ends with the current status of RRAMs in terms of stability, scalability and switching speed, which are three important aspects of integration onto semiconductors.",
+  "authors": [
+    "Doo Seok Jeong",
+    "Reji Thomas",
+    "Ram S. Katiyar",
+    "James Floyd Scott",
+    "H. Kohlstedt",
+    "A. Petraru",
+    "Cheol Seong Hwang"
+  ],
+  "year": 2012,
+  "doi": "10.1088/0034-4885/75/7/076502",
+  "source": "openalex",
+  "categories": [
+    "Resistive random-access memory",
+    "Non-volatile memory",
+    "Non-blocking I/O",
+    "Dielectric",
+    "Optoelectronics",
+    "Ferroelectricity",
+    "Resistive touchscreen",
+    "Oxide",
+    "Nanotechnology",
+    "Graphene",
+    "Semiconductor",
+    "Materials science",
+    "Voltage",
+    "Engineering physics",
+    "Electrical engineering",
+    "Physics",
+    "Chemistry",
+    "Metallurgy",
+    "Biochemistry",
+    "Catalysis",
+    "Engineering"
+  ],
+  "citation_count": 1120,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1088/0034-4885/75/7/076502/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1994319933.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:17.085663+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1994319933",
+    "concepts": [
+      "Resistive random-access memory",
+      "Non-volatile memory",
+      "Non-blocking I/O",
+      "Dielectric",
+      "Optoelectronics"
+    ],
+    "oa_status": "bronze"
+  }
+}

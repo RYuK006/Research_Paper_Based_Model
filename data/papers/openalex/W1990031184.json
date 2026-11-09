@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W1990031184",
+  "title": "Liver Failure and Death after Exposure to Microcystins at a Hemodialysis Center in Brazil",
+  "abstract": "BACKGROUND: Hemodialysis is a common but potentially hazardous procedure. From February 17 to 20, 1996, 116 of 130 patients (89 percent) at a dialysis center (dialysis center A) in Caruaru, Brazil, had visual disturbances, nausea, and vomiting associated with hemodialysis. By March 24, 26 of the patients had died of acute liver failure. METHODS: A case patient was defined as any patient undergoing dialysis at dialysis center A or Caruaru's other dialysis center (dialysis center B) during February 1996 who had acute liver failure. To determine the risk factors for and the source of the outbreak, we conducted a cohort study of the 130 patients at dialysis center A and the 47 patients at dialysis center B, reviewed the centers' water supplies, and collected water, patients' serum, and postmortem liver tissue for microcystin assays. RESULTS: One hundred one patients (all at dialysis center A) met the case definition, and 50 died. Affected patients who died were older than those who survived (median age, 47 vs. 35 years, P<0.001). Furthermore, all 17 patients undergoing dialysis on the Tuesday-, Thursday-, and Saturday-night schedule became ill, and 13 of them (76 percent) died. Both centers received water from a nearby reservoir. However, the water supplied to dialysis center B was treated, filtered, and chlorinated, whereas the water supplied to dialysis center A was not. Microcystins produced by cyanobacteria were detected in water from the reservoir and from dialysis center A and in serum and liver tissue of case patients. CONCLUSIONS: Water used for hemodialysis can contain toxic materials, and its quality should therefore be carefully monitored.",
+  "authors": [
+    "Elise M. Jochimsen",
+    "Wayne W. Carmichael",
+    "Jisi An",
+    "Denise M. Cardo",
+    "Susan Temporado Cookson",
+    "Christianne E. M. Holmes",
+    "M. Bernade Antunes",
+    "Djalma Agripino de Melo Filho",
+    "Tereza Maciel Lyra",
+    "Victorino Spinelli Toscano Barreto",
+    "Sandra M. F. O. Azevedo",
+    "William Robert Jarvis"
+  ],
+  "year": 1998,
+  "doi": "10.1056/nejm199803263381304",
+  "source": "openalex",
+  "categories": [
+    "Hemodialysis",
+    "Medicine",
+    "Vomiting",
+    "Dialysis",
+    "Nausea",
+    "Liver failure",
+    "Center (category theory)",
+    "Intensive care medicine",
+    "Internal medicine",
+    "Surgery",
+    "Chemistry",
+    "Crystallography"
+  ],
+  "citation_count": 1118,
+  "open_access_pdf_url": "https://www.nejm.org/doi/pdf/10.1056/NEJM199803263381304?articleTools=true",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1990031184.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:19.501592+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1990031184",
+    "concepts": [
+      "Hemodialysis",
+      "Medicine",
+      "Vomiting",
+      "Dialysis",
+      "Nausea"
+    ],
+    "oa_status": "bronze"
+  }
+}

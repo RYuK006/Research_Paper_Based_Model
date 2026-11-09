@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W1501374473",
+  "title": "Guide to best practices for ocean CO2 measurement.",
+  "abstract": "CHAP 1 - Introduction to the Guide CHAP 2 - Solution chemistry of carbon dioxide in sea water CHAP 3 - Quality assurance CHAP 4 - Recommended standard operating procedures (SOPs) SOP 1 - Water sampling for the parameters of the oceanic carbon dioxide system SOP 2 - Determination of total dissolved inorganic carbon in sea water SOP 3a - Determination of total alkalinity in sea water using a closed-cell titration SOP 3b - Determination of total alkalinity in sea water using an open-cell titration SOP 4 - Determination of p(CO2) in air that is in equilibrium with a discrete sample of sea water SOP 5 - Determination of p(CO2) in air that is in equilibrium with a continuous stream of sea water SOP 6a - Determination of the pH of sea water using a glass/reference electrode cell SOP 6b - Determination of the pH of sea water using the indicator dye m-cresol purple SOP 7 - Determination of dissolved organic carbon and total dissolved nitrogen in sea water SOP 7 en Español - Determinacion de carbono organico disuelto y nitrogeno total disuelto en agua de marSOP 11 - Gravimetric calibration of the volume of a gas loop using water SOP 12 - Gravimetric calibration of volume delivered using water SOP 13 - Gravimetric calibration of volume contained using water SOP 14 - Procedure for preparing sodium carbonate solutions for the calibration of coulometric CT measurements SOP 21 - Applying air buoyancy corrections SOP 22 - Preparation of control charts SOP 23 - Statistical techniques used in quality assessment SOP 24 - Calculation of the fugacity of carbon dioxide in the pure gas or in air CHAP 5 - Physical and thermodynamic data Errata - to the hard copy of the Guide to best practices for ocean CO2 measurements",
+  "authors": [
+    "Andrew G. Dickson",
+    "et, al"
+  ],
+  "year": 2021,
+  "doi": "10.25607/obp-1342",
+  "source": "openalex",
+  "categories": [
+    "Alkalinity",
+    "Seawater",
+    "Gravimetric analysis",
+    "Carbon dioxide",
+    "Total inorganic carbon",
+    "Water quality",
+    "Environmental science",
+    "Coulometry",
+    "Dilution",
+    "Calibration",
+    "Chemistry",
+    "Dissolved organic carbon",
+    "Environmental engineering",
+    "Environmental chemistry",
+    "Oceanography",
+    "Electrode",
+    "Geology",
+    "Thermodynamics",
+    "Organic chemistry",
+    "Physical chemistry",
+    "Electrochemistry",
+    "Physics",
+    "Ecology",
+    "Mathematics",
+    "Statistics",
+    "Biology"
+  ],
+  "citation_count": 2341,
+  "open_access_pdf_url": "http://hdl.handle.net/1834/19315",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1501374473.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:08.758113+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1501374473",
+    "concepts": [
+      "Alkalinity",
+      "Seawater",
+      "Gravimetric analysis",
+      "Carbon dioxide",
+      "Total inorganic carbon"
+    ],
+    "oa_status": "green"
+  }
+}

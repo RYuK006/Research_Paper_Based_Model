@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2467288387",
+  "title": "The State of Applied Econometrics: Causality and Policy Evaluation",
+  "abstract": "In this paper, we discuss recent developments in econometrics that we view as important for empirical researchers working on policy evaluation questions. We focus on three main areas, in each case, highlighting recommendations for applied work. First, we discuss new research on identification strategies in program evaluation, with particular focus on synthetic control methods, regression discontinuity, external validity, and the causal interpretation of regression methods. Second, we discuss various forms of supplementary analyses, including placebo analyses as well as sensitivity and robustness analyses, intended to make the identification strategies more credible. Third, we discuss some implications of recent advances in machine learning methods for causal effects, including methods to adjust for differences between treated and control units in high-dimensional settings, and methods for identifying and estimating heterogenous treatment effects.",
+  "authors": [
+    "Susan Carleton Athey",
+    "Guido W. Imbens"
+  ],
+  "year": 2017,
+  "doi": "10.1257/jep.31.2.3",
+  "source": "openalex",
+  "categories": [
+    "Causality (physics)",
+    "Regression discontinuity design",
+    "Identification (biology)",
+    "Robustness (evolution)",
+    "Econometrics",
+    "Regression",
+    "Computer science",
+    "Causal inference",
+    "Instrumental variable",
+    "Regression analysis",
+    "Machine learning",
+    "Economics",
+    "Mathematics",
+    "Statistics",
+    "Botany",
+    "Quantum mechanics",
+    "Chemistry",
+    "Biology",
+    "Biochemistry",
+    "Physics",
+    "Gene"
+  ],
+  "citation_count": 1488,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1607.00699",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2467288387.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:48.124547+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2467288387",
+    "concepts": [
+      "Causality (physics)",
+      "Regression discontinuity design",
+      "Identification (biology)",
+      "Robustness (evolution)",
+      "Econometrics"
+    ],
+    "oa_status": "green"
+  }
+}

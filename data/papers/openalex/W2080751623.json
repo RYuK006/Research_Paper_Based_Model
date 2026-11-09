@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2080751623",
+  "title": "Evidence for a Partially Folded Intermediate in α-Synuclein Fibril Formation",
+  "abstract": "Intracellular proteinaceous aggregates (Lewy bodies and Lewy neurites) of alpha-synuclein are hallmarks of neurodegenerative diseases such as Parkinson's disease, dementia with Lewy bodies, and multiple systemic atrophy. However, the molecular mechanisms underlying alpha-synuclein aggregation into such filamentous inclusions remain unknown. An intriguing aspect of this problem is that alpha-synuclein is a natively unfolded protein, with little or no ordered structure under physiological conditions. This raises the question of how an essentially disordered protein is transformed into highly organized fibrils. In the search for an answer to this question, we have investigated the effects of pH and temperature on the structural properties and fibrillation kinetics of human recombinant alpha-synuclein. Either a decrease in pH or an increase in temperature transformed alpha-synuclein into a partially folded conformation. The presence of this intermediate is strongly correlated with the enhanced formation of alpha-synuclein fibrils. We propose a model for the fibrillation of alpha-synuclein in which the first step is the conformational transformation of the natively unfolded protein into the aggregation-competent partially folded intermediate.",
+  "authors": [
+    "Vladimir Nikolaevich Uversky",
+    "Jie Li",
+    "Anthony L. Fink"
+  ],
+  "year": 2001,
+  "doi": "10.1074/jbc.m010907200",
+  "source": "openalex",
+  "categories": [
+    "Dementia with Lewy bodies",
+    "Fibril",
+    "Lewy body",
+    "Alpha-synuclein",
+    "Protein aggregation",
+    "Protein folding",
+    "Biophysics",
+    "Neurite",
+    "Chemistry",
+    "Parkinson's disease",
+    "Inclusion bodies",
+    "Intracellular",
+    "Amyloid (mycology)",
+    "Neuroscience",
+    "Biology",
+    "Dementia",
+    "Biochemistry",
+    "Medicine",
+    "Disease",
+    "Pathology",
+    "Recombinant DNA",
+    "In vitro",
+    "Inorganic chemistry",
+    "Gene"
+  ],
+  "citation_count": 1113,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925819345065/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2080751623.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:19.576180+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2080751623",
+    "concepts": [
+      "Dementia with Lewy bodies",
+      "Fibril",
+      "Lewy body",
+      "Alpha-synuclein",
+      "Protein aggregation"
+    ],
+    "oa_status": "hybrid"
+  }
+}

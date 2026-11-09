@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2155039075",
+  "title": "Biomass burning emissions estimated with a global fire assimilation system based on observed fire radiative power",
+  "abstract": "Abstract. The Global Fire Assimilation System (GFASv1.0) calculates biomass burning emissions by assimilating Fire Radiative Power (FRP) observations from the MODIS instruments onboard the Terra and Aqua satellites. It corrects for gaps in the observations, which are mostly due to cloud cover, and filters spurious FRP observations of volcanoes, gas flares and other industrial activity. The combustion rate is subsequently calculated with land cover-specific conversion factors. Emission factors for 40 gas-phase and aerosol trace species have been compiled from a literature survey. The corresponding daily emissions have been calculated on a global 0.5° × 0.5° grid from 2003 to the present. General consistency with the Global Fire Emission Database version 3.1 (GFED3.1) within its accuracy is achieved while maintaining the advantages of an FRP-based approach: GFASv1.0 makes use of the quantitative information on the combustion rate that is contained in the observations, and it detects fires in real time at high spatial and temporal resolution. GFASv1.0 indicates omission errors in GFED3.1 due to undetected small fires. It also exhibits slightly longer fire seasons in South America and North Africa and a slightly shorter fire season in Southeast Asia. GFASv1.0 has already been used for atmospheric reactive gas simulations in an independent study, which found good agreement with atmospheric observations. We have performed simulations of the atmospheric aerosol distribution with and without the assimilation of MODIS aerosol optical depth (AOD). They indicate that the emissions of particulate matter need to be boosted with a factor of 2–4 to reproduce the global distribution of organic matter and black carbon. This discrepancy is also evident in the comparison of previously published top-down and bottom-up estimates. For the time being, a global enhancement of the particulate matter emissions by 3.4 is recommended. Validation with independent AOD and PM10 observations recorded during the Russian fires in summer 2010 show that the global Monitoring Atmospheric Composition and Change (MACC) aerosol model with GFASv1.0 aerosol emissions captures the smoke plume evolution well when organic matter and black carbon are enhanced by the recommended factor. In conjunction with the assimilation of MODIS AOD, the use of GFASv1.0 with enhanced emission factors quantitatively improves the forecast of the aerosol load near the surface sufficiently to allow air quality warnings with a lead time of up to four days.",
+  "authors": [
+    "Johannes W. Kaiser",
+    "Angelika Heil",
+    "Meinrat Otto Andreae",
+    "Angela Benedetti",
+    "N. Chubarova",
+    "L. Jones",
+    "J.-J. Morcrette",
+    "Miha Razinger",
+    "Martin G. Schultz",
+    "Martin Suttie",
+    "Guido R. van der Werf"
+  ],
+  "year": 2012,
+  "doi": "10.5194/bg-9-527-2012",
+  "source": "openalex",
+  "categories": [
+    "Environmental science",
+    "Trace gas",
+    "Aerosol",
+    "Biomass burning",
+    "Atmospheric sciences",
+    "Radiative transfer",
+    "Combustion",
+    "Data assimilation",
+    "Meteorology",
+    "Climatology",
+    "Geology",
+    "Geography",
+    "Quantum mechanics",
+    "Organic chemistry",
+    "Chemistry",
+    "Physics"
+  ],
+  "citation_count": 1688,
+  "open_access_pdf_url": "https://bg.copernicus.org/articles/9/527/2012/bg-9-527-2012.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2155039075.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:33.202656+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2155039075",
+    "concepts": [
+      "Environmental science",
+      "Trace gas",
+      "Aerosol",
+      "Biomass burning",
+      "Atmospheric sciences"
+    ],
+    "oa_status": "gold"
+  }
+}

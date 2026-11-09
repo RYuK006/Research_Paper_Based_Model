@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2885185669",
+  "title": "SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing",
+  "abstract": "This paper describes SentencePiece, a language-independent subword tokenizer and detokenizer designed for Neural-based text processing, including Neural Machine Translation.It provides open-source C++ and Python implementations for subword units.While existing subword segmentation tools assume that the input is pre-tokenized into word sequences, SentencePiece can train subword models directly from raw sentences, which allows us to make a purely end-to-end and language independent system.We perform a validation experiment of NMT on English-Japanese machine translation, and find that it is possible to achieve comparable accuracy to direct subword training from raw sentences.We also compare the performance of subword training and segmentation with various configurations.SentencePiece is available under the Apache 2 license at https://github.com/google/sentencepiece.",
+  "authors": [
+    "Taku Kudo",
+    "John T. E. Richardson"
+  ],
+  "year": 2018,
+  "doi": "10.18653/v1/d18-2012",
+  "source": "openalex",
+  "categories": [
+    "Computer science",
+    "Machine translation",
+    "Python (programming language)",
+    "Natural language processing",
+    "Artificial intelligence",
+    "License",
+    "Implementation",
+    "Segmentation",
+    "Simple (philosophy)",
+    "Translation (biology)",
+    "Speech recognition",
+    "Programming language",
+    "Biochemistry",
+    "Operating system",
+    "Chemistry",
+    "Epistemology",
+    "Messenger RNA",
+    "Gene",
+    "Philosophy"
+  ],
+  "citation_count": 3794,
+  "open_access_pdf_url": "https://www.aclweb.org/anthology/D18-2012.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2885185669.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:54.120643+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2885185669",
+    "concepts": [
+      "Computer science",
+      "Machine translation",
+      "Python (programming language)",
+      "Natural language processing",
+      "Artificial intelligence"
+    ],
+    "oa_status": "hybrid"
+  }
+}

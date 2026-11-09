@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2024261075",
+  "title": "Quantifying Defects in Graphene via Raman Spectroscopy at Different Excitation Energies",
+  "abstract": "We present a Raman study of Ar(+)-bombarded graphene samples with increasing ion doses. This allows us to have a controlled, increasing, amount of defects. We find that the ratio between the D and G peak intensities, for a given defect density, strongly depends on the laser excitation energy. We quantify this effect and present a simple equation for the determination of the point defect density in graphene via Raman spectroscopy for any visible excitation energy. We note that, for all excitations, the D to G intensity ratio reaches a maximum for an interdefect distance ∼3 nm. Thus, a given ratio could correspond to two different defect densities, above or below the maximum. The analysis of the G peak width and its dispersion with excitation energy solves this ambiguity.",
+  "authors": [
+    "Luiz Gustavo Cançado",
+    "Ado Jório",
+    "Erlon H. Martins Ferreira",
+    "Fernando Loureiro Stavale Junior",
+    "Carlos A. Achete",
+    "Rodrigo B. Capaz",
+    "Marcus V. O. Moutinho",
+    "Antonio Lombardo",
+    "Tero S. Kulmala",
+    "Andrea Carlo Ferrari"
+  ],
+  "year": 2011,
+  "doi": "10.1021/nl201432g",
+  "source": "openalex",
+  "categories": [
+    "Excitation",
+    "Raman spectroscopy",
+    "Graphene",
+    "Spectroscopy",
+    "Materials science",
+    "Atomic physics",
+    "Dispersion (optics)",
+    "Molecular physics",
+    "Ion",
+    "Laser",
+    "Chemistry",
+    "Physics",
+    "Optics",
+    "Nanotechnology",
+    "Organic chemistry",
+    "Quantum mechanics"
+  ],
+  "citation_count": 3770,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1105.0175",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2024261075.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:54.127949+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2024261075",
+    "concepts": [
+      "Excitation",
+      "Raman spectroscopy",
+      "Graphene",
+      "Spectroscopy",
+      "Materials science"
+    ],
+    "oa_status": "green"
+  }
+}

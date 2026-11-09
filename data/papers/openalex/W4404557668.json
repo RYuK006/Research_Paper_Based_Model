@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W4404557668",
+  "title": "Heavy metals: toxicity and human health effects",
+  "abstract": "Abstract Heavy metals are naturally occurring components of the Earth’s crust and persistent environmental pollutants. Human exposure to heavy metals occurs via various pathways, including inhalation of air/dust particles, ingesting contaminated water or soil, or through the food chain. Their bioaccumulation may lead to diverse toxic effects affecting different body tissues and organ systems. The toxicity of heavy metals depends on the properties of the given metal, dose, route, duration of exposure (acute or chronic), and extent of bioaccumulation. The detrimental impacts of heavy metals on human health are largely linked to their capacity to interfere with antioxidant defense mechanisms, primarily through their interaction with intracellular glutathione (GSH) or sulfhydryl groups (R-SH) of antioxidant enzymes such as superoxide dismutase (SOD), catalase, glutathione peroxidase (GPx), glutathione reductase (GR), and other enzyme systems. Although arsenic (As) is believed to bind directly to critical thiols, alternative hydrogen peroxide production processes have also been postulated. Heavy metals are known to interfere with signaling pathways and affect a variety of cellular processes, including cell growth, proliferation, survival, metabolism, and apoptosis. For example, cadmium can affect the BLC-2 family of proteins involved in mitochondrial death via the overexpression of antiapoptotic Bcl-2 and the suppression of proapoptotic (BAX, BAK) mechanisms, thus increasing the resistance of various cells to undergo malignant transformation. Nuclear factor erythroid 2-related factor 2 (Nrf2) is an important regulator of antioxidant enzymes, the level of oxidative stress, and cellular resistance to oxidants and has been shown to act as a double-edged sword in response to arsenic-induced oxidative stress. Another mechanism of significant health threats and heavy metal (e.g., Pb) toxicity involves the substitution of essential metals (e.g., calcium (Ca), copper (Cu), and iron (Fe)) with structurally similar heavy metals (e.g., cadmium (Cd) and lead (Pb)) in the metal-binding sites of proteins. Displaced essential redox metals (copper, iron, manganese) from their natural metal-binding sites can catalyze the decomposition of hydrogen peroxide via the Fenton reaction and generate damaging ROS such as hydroxyl radicals, causing damage to lipids, proteins, and DNA. Conversely, some heavy metals, such as cadmium, can suppress the synthesis of nitric oxide radical (NO · ), manifested by altered vasorelaxation and, consequently, blood pressure regulation. Pb-induced oxidative stress has been shown to be indirectly responsible for the depletion of nitric oxide due to its interaction with superoxide radical (O 2 ·− ), resulting in the formation of a potent biological oxidant, peroxynitrite (ONOO − ). This review comprehensively discusses the mechanisms of heavy metal toxicity and their health effects. Aluminum (Al), cadmium (Cd), arsenic (As), mercury (Hg), lead (Pb), and chromium (Cr) and their roles in the development of gastrointestinal, pulmonary, kidney, reproductive, neurodegenerative (Alzheimer’s and Parkinson’s diseases), cardiovascular, and cancer (e.g. renal, lung, skin, stomach) diseases are discussed. A short account is devoted to the detoxification of heavy metals by chelation via the use of ethylenediaminetetraacetic acid ( EDTA), dimercaprol (BAL), 2,3-dimercaptosuccinic acid (DMSA), 2,3-dimercapto-1-propane sulfonic acid (DMPS), and penicillamine chelators.",
+  "authors": [
+    "Klaudia Jomová",
+    "Suliman Yousef Alomar",
+    "Eugenie Nepovimová",
+    "Kamil Kuča",
+    "Marián Valko"
+  ],
+  "year": 2024,
+  "doi": "10.1007/s00204-024-03903-2",
+  "source": "openalex",
+  "categories": [
+    "Superoxide dismutase",
+    "Catalase",
+    "Glutathione",
+    "Glutathione reductase",
+    "Chemistry",
+    "Antioxidant",
+    "Glutathione peroxidase",
+    "Bioaccumulation",
+    "Oxidative stress",
+    "Biochemistry",
+    "Cell biology",
+    "Biology",
+    "Environmental chemistry",
+    "Enzyme"
+  ],
+  "citation_count": 1229,
+  "open_access_pdf_url": "https://link.springer.com/content/pdf/10.1007/s00204-024-03903-2.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W4404557668.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:04.547030+00:00",
+  "raw_metadata": {
+    "openalex_id": "W4404557668",
+    "concepts": [
+      "Superoxide dismutase",
+      "Catalase",
+      "Glutathione",
+      "Glutathione reductase",
+      "Chemistry"
+    ],
+    "oa_status": "hybrid"
+  }
+}

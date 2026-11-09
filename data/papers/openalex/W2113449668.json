@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2113449668",
+  "title": "Modeling of Galvanostatic Charge and Discharge of the Lithium/Polymer/Insertion Cell",
+  "abstract": "The galvanostatic charge and discharge of a lithium anode/solid polymer separator/insertion cathode cell is modeled using concentrated solution theory. The model is general enough to include a wide range of polymeric separator materials, lithium salts, and composite insertion cathodes. Insertion of lithium into the active cathode material is simulated using superposition, thus greatly simplifying the numerical calculations. Variable physical properties are permitted in the model. The results of a simulation of the charge/discharge behavior of the system are presented. Criteria are established to assess the importance of diffusion in the solid matrix and transport in the electrolyte. Consideration is also given to various procedures for optimization of the utilization of active cathode material.",
+  "authors": [
+    "Marc Doyle",
+    "Thomas F. Fuller",
+    "John Newman"
+  ],
+  "year": 1993,
+  "doi": "10.1149/1.2221597",
+  "source": "openalex",
+  "categories": [
+    "Separator (oil production)",
+    "Cathode",
+    "Anode",
+    "Electrolyte",
+    "Materials science",
+    "Lithium (medication)",
+    "Polymer",
+    "Superposition principle",
+    "Electrode",
+    "Chemistry",
+    "Composite material",
+    "Thermodynamics",
+    "Physical chemistry",
+    "Physics",
+    "Quantum mechanics",
+    "Medicine",
+    "Endocrinology"
+  ],
+  "citation_count": 4431,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1149/1.2221597/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2113449668.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:53.962323+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2113449668",
+    "concepts": [
+      "Separator (oil production)",
+      "Cathode",
+      "Anode",
+      "Electrolyte",
+      "Materials science"
+    ],
+    "oa_status": "bronze"
+  }
+}

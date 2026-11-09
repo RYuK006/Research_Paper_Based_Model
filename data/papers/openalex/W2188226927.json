@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W2188226927",
+  "title": "Staple: Complementary Learners for Real-Time Tracking",
+  "abstract": "Correlation Filter-based trackers have recently achieved excellent performance, showing great robustness to challenging situations exhibiting motion blur and illumination changes. However, since the model that they learn depends strongly on the spatial layout of the tracked object, they are notoriously sensitive to deformation. Models based on colour statistics have complementary traits: they cope well with variation in shape, but suffer when illumination is not consistent throughout a sequence. Moreover, colour distributions alone can be insufficiently discriminative. In this paper, we show that a simple tracker combining complementary cues in a ridge regression framework can operate faster than 80 FPS and outperform not only all entries in the popular VOT14 competition, but also recent and far more sophisticated trackers according to multiple benchmarks.",
+  "authors": [
+    "Luca Bertinetto",
+    "Jack Valmadre",
+    "Stuart Golodetz",
+    "Ondřej Mikšík",
+    "Philip H. S. Torr"
+  ],
+  "year": 2016,
+  "doi": "10.1109/cvpr.2016.156",
+  "source": "openalex",
+  "categories": [
+    "BitTorrent tracker",
+    "Discriminative model",
+    "Robustness (evolution)",
+    "Computer science",
+    "Artificial intelligence",
+    "Computer vision",
+    "Motion blur",
+    "Pattern recognition (psychology)",
+    "Eye tracking",
+    "Image (mathematics)",
+    "Gene",
+    "Chemistry",
+    "Biochemistry"
+  ],
+  "citation_count": 1829,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1512.01355",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2188226927.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:22.318625+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2188226927",
+    "concepts": [
+      "BitTorrent tracker",
+      "Discriminative model",
+      "Robustness (evolution)",
+      "Computer science",
+      "Artificial intelligence"
+    ],
+    "oa_status": "green"
+  }
+}

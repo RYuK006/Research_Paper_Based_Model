@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W2766820812",
+  "title": "Vitamin C and Immune Function",
+  "abstract": "Vitamin C is an essential micronutrient for humans, with pleiotropic functions related to its ability to donate electrons. It is a potent antioxidant and a cofactor for a family of biosynthetic and gene regulatory enzymes. Vitamin C contributes to immune defense by supporting various cellular functions of both the innate and adaptive immune system. Vitamin C supports epithelial barrier function against pathogens and promotes the oxidant scavenging activity of the skin, thereby potentially protecting against environmental oxidative stress. Vitamin C accumulates in phagocytic cells, such as neutrophils, and can enhance chemotaxis, phagocytosis, generation of reactive oxygen species, and ultimately microbial killing. It is also needed for apoptosis and clearance of the spent neutrophils from sites of infection by macrophages, thereby decreasing necrosis/NETosis and potential tissue damage. The role of vitamin C in lymphocytes is less clear, but it has been shown to enhance differentiation and proliferation of B- and T-cells, likely due to its gene regulating effects. Vitamin C deficiency results in impaired immunity and higher susceptibility to infections. In turn, infections significantly impact on vitamin C levels due to enhanced inflammation and metabolic requirements. Furthermore, supplementation with vitamin C appears to be able to both prevent and treat respiratory and systemic infections. Prophylactic prevention of infection requires dietary vitamin C intakes that provide at least adequate, if not saturating plasma levels (i.e., 100-200 mg/day), which optimize cell and tissue levels. In contrast, treatment of established infections requires significantly higher (gram) doses of the vitamin to compensate for the increased inflammatory response and metabolic demand.",
+  "authors": [
+    "Anitra C. Carr",
+    "Silvia Maggini"
+  ],
+  "year": 2017,
+  "doi": "10.3390/nu9111211",
+  "source": "openalex",
+  "categories": [
+    "Immune system",
+    "Inflammation",
+    "Vitamin",
+    "Biology",
+    "Respiratory burst",
+    "Immunology",
+    "Vitamin C",
+    "Innate immune system",
+    "Oxidative stress",
+    "Vitamin E",
+    "Immunity",
+    "Acquired immune system",
+    "Micronutrient",
+    "Antioxidant",
+    "Chemistry",
+    "Biochemistry",
+    "Organic chemistry"
+  ],
+  "citation_count": 2237,
+  "open_access_pdf_url": "https://www.mdpi.com/2072-6643/9/11/1211/pdf?version=1509788155",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2766820812.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:12.595937+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2766820812",
+    "concepts": [
+      "Immune system",
+      "Inflammation",
+      "Vitamin",
+      "Biology",
+      "Respiratory burst"
+    ],
+    "oa_status": "gold"
+  }
+}

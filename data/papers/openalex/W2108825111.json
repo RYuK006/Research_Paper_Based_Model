@@ -1,0 +1,35 @@
+{
+  "id": "openalex:W2108825111",
+  "title": "1α,25-Dihydroxyvitamin D3 Has a Direct Effect on Naive CD4+ T Cells to Enhance the Development of Th2 Cells",
+  "abstract": "1alpha,25-Dihydroxyvitamin D3 (vitD3) is an immunoregulatory hormone with beneficial effects on Th1 mediated autoimmune diseases. Although the inhibitory effects of vitD3 on macrophages and dendritic cells are well documented, any direct effects of vitD3 on Th cell development are not clearly defined. Using CD4(+)Mel14(+) T cells derived from mice on a BALB/c and a C57BL/6 genetic background we examined the effect of vitD3 on Th cell development. We demonstrated that vitD3 affects Th cell polarization by inhibiting Th1 (IFN-gamma production) and augmenting Th2 cell development (IL-4, IL-5, and IL-10 production). These effects were observed in cultures driven with splenic APC and Ag, as well as with anti-CD3 and anti-CD28 alone, indicating that CD4(+) cells can also be direct targets for vitD3. The enhanced Th2 development by vitD3 was found in both BALB/c and C57BL/6 mice. An increased expression of the Th2-specific transcription factors GATA-3 and c-maf correlated with the increased production of Th2 cytokines after vitD3 treatment. The vitD3-induced effects were largely mediated via IL-4, because neutralization of IL-4 almost completely abrogated the augmented Th2 cell development after vitD3 treatment. These findings suggest that vitD3 acts directly on Th cells and can, in the absence of APC, enhance the development of a Th2 phenotype and augment the expression of the transcription factors c-maf and GATA-3. Our findings suggest that the beneficial effects of vitD3 in autoimmune diseases and transplantation operate through prevention of strong Th1 responses via the action on the APC, while simultaneously directly acting on the T cell to enhance Th2 cell development.",
+  "authors": [
+    "André Boonstra",
+    "Franck J. Barrat",
+    "Chad Crain",
+    "Victoria L. Heath",
+    "Huub F. J. Savelkoul",
+    "Anne O’Garra"
+  ],
+  "year": 2001,
+  "doi": "10.4049/jimmunol.167.9.4974",
+  "source": "openalex",
+  "categories": [
+    "Chemistry",
+    "Cell biology",
+    "Biology"
+  ],
+  "citation_count": 1140,
+  "open_access_pdf_url": "https://journals.aai.org/jimmunol/article-pdf/167/9/4974/1143493/4974.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2108825111.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:16.920659+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2108825111",
+    "concepts": [
+      "Chemistry",
+      "Cell biology",
+      "Biology"
+    ],
+    "oa_status": "bronze"
+  }
+}

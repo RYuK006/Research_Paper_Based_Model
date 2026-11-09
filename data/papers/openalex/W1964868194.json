@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W1964868194",
+  "title": "Carbon nanotubes as multifunctional biological transporters and near-infrared agents for selective cancer cell destruction",
+  "abstract": "Biological systems are known to be highly transparent to 700- to 1,100-nm near-infrared (NIR) light. It is shown here that the strong optical absorbance of single-walled carbon nanotubes (SWNTs) in this special spectral window, an intrinsic property of SWNTs, can be used for optical stimulation of nanotubes inside living cells to afford multifunctional nanotube biological transporters. For oligonucleotides transported inside living cells by nanotubes, the oligos can translocate into cell nucleus upon endosomal rupture triggered by NIR laser pulses. Continuous NIR radiation can cause cell death because of excessive local heating of SWNT in vitro. Selective cancer cell destruction can be achieved by functionalization of SWNT with a folate moiety, selective internalization of SWNTs inside cells labeled with folate receptor tumor markers, and NIR-triggered cell death, without harming receptor-free normal cells. Thus, the transporting capabilities of carbon nanotubes combined with suitable functionalization chemistry and their intrinsic optical properties can lead to new classes of novel nanomaterials for drug delivery and cancer therapy.",
+  "authors": [
+    "Nadine Wong Shi Kam",
+    "Michael J. O’Connell",
+    "Jeffrey A. Wisdom",
+    "Hongjie Dai"
+  ],
+  "year": 2005,
+  "doi": "10.1073/pnas.0502680102",
+  "source": "openalex",
+  "categories": [
+    "Carbon nanotube",
+    "Surface modification",
+    "Cancer cell",
+    "Nanotechnology",
+    "Drug delivery",
+    "Materials science",
+    "Nanomaterials",
+    "Biophysics",
+    "Chemistry",
+    "Cancer",
+    "Physical chemistry",
+    "Internal medicine",
+    "Biology",
+    "Medicine"
+  ],
+  "citation_count": 2322,
+  "open_access_pdf_url": "http://europepmc.org/pmc/articles/PMC1187972",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1964868194.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:08.783429+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1964868194",
+    "concepts": [
+      "Carbon nanotube",
+      "Surface modification",
+      "Cancer cell",
+      "Nanotechnology",
+      "Drug delivery"
+    ],
+    "oa_status": "green"
+  }
+}

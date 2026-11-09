@@ -1,0 +1,59 @@
+{
+  "id": "openalex:W2606142660",
+  "title": "LigParGen web server: an automatic OPLS-AA parameter generator for organic ligands",
+  "abstract": "The accurate calculation of protein/nucleic acid-ligand interactions or condensed phase properties by force field-based methods require a precise description of the energetics of intermolecular interactions. Despite the progress made in force fields, small molecule parameterization remains an open problem due to the magnitude of the chemical space; the most critical issue is the estimation of a balanced set of atomic charges with the ability to reproduce experimental properties. The LigParGen web server provides an intuitive interface for generating OPLS-AA/1.14*CM1A(-LBCC) force field parameters for organic ligands, in the formats of commonly used molecular dynamics and Monte Carlo simulation packages. This server has high value for researchers interested in studying any phenomena based on intermolecular interactions with ligands via molecular mechanics simulations. It is free and open to all at jorgensenresearch.com/ligpargen, and has no login requirements.",
+  "authors": [
+    "Leela S. Dodda",
+    "Israel Cabeza de Vaca",
+    "Julian Tirado‐Rives",
+    "William L. Jorgensen"
+  ],
+  "year": 2017,
+  "doi": "10.1093/nar/gkx312",
+  "source": "openalex",
+  "categories": [
+    "OPLS",
+    "Force field (fiction)",
+    "Web server",
+    "Molecular dynamics",
+    "Intermolecular force",
+    "Molecular mechanics",
+    "Biological system",
+    "Computer science",
+    "Monte Carlo method",
+    "Nucleic acid",
+    "Statistical physics",
+    "Biology",
+    "Bioinformatics",
+    "Computational science",
+    "Chemical physics",
+    "Molecule",
+    "Computational chemistry",
+    "Physics",
+    "Artificial intelligence",
+    "The Internet",
+    "Chemistry",
+    "Operating system",
+    "Mathematics",
+    "Quantum mechanics",
+    "Biochemistry",
+    "Water model",
+    "Statistics"
+  ],
+  "citation_count": 1809,
+  "open_access_pdf_url": "https://academic.oup.com/nar/article-pdf/45/W1/W331/23740908/gkx312.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2606142660.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:22.389752+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2606142660",
+    "concepts": [
+      "OPLS",
+      "Force field (fiction)",
+      "Web server",
+      "Molecular dynamics",
+      "Intermolecular force"
+    ],
+    "oa_status": "gold"
+  }
+}

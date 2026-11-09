@@ -1,0 +1,45 @@
+{
+  "id": "openalex:W2801783434",
+  "title": "CRISPR-Cas12a-assisted nucleic acid detection",
+  "abstract": "Today, the need for time-effective and cost-effective nucleic acid detection methods is still growing in fields such as human genotyping and pathogen detection. Using synthetic biomolecular components, many methods have been developed for fast nucleic acid detection 1 , 2 , 3 ; however, they may not be able to satisfy specificity, sensitivity, speed, cost and simplicity at the same time. Recently, a very promising CRISPR-based diagnostic (CRISPR-Dx) (namely SHERLOCK) was established, which was based on the collateral effect of an RNA-guided and RNA-targeting CRISPR effector, Cas13a 4 . SHERLOCK is of high sensitivity and specificity, and is very convenient in detection of target RNA. However, to detect DNA sequences, in vitro transcription of DNA to RNA must be conducted prior to the SHERLOCK test, which could be inconvenient.",
+  "authors": [
+    "Shiyuan Li",
+    "Qiuxiang Cheng",
+    "Jing-Man Wang",
+    "Xiaoyan Li",
+    "Zilong Zhang",
+    "Ruibing Cao",
+    "Rui-Bing Cao",
+    "Guo-Ping Zhao",
+    "Jin Wang"
+  ],
+  "year": 2018,
+  "doi": "10.1038/s41421-018-0028-z",
+  "source": "openalex",
+  "categories": [
+    "CRISPR",
+    "Nucleic acid",
+    "Nucleic acid detection",
+    "Chemistry",
+    "Computational biology",
+    "Biology",
+    "Biochemistry",
+    "Gene"
+  ],
+  "citation_count": 1557,
+  "open_access_pdf_url": "https://www.nature.com/articles/s41421-018-0028-z.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2801783434.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:42.040415+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2801783434",
+    "concepts": [
+      "CRISPR",
+      "Nucleic acid",
+      "Nucleic acid detection",
+      "Chemistry",
+      "Computational biology"
+    ],
+    "oa_status": "gold"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W2166535858",
+  "title": "Technical Note: Downscaling RCM precipitation to the station scale using statistical transformations – a comparison of methods",
+  "abstract": "Abstract. The impact of climate change on water resources is usually assessed at the local scale. However, regional climate models (RCMs) are known to exhibit systematic biases in precipitation. Hence, RCM simulations need to be post-processed in order to produce reliable estimates of local scale climate. Popular post-processing approaches are based on statistical transformations, which attempt to adjust the distribution of modelled data such that it closely resembles the observed climatology. However, the diversity of suggested methods renders the selection of optimal techniques difficult and therefore there is a need for clarification. In this paper, statistical transformations for post-processing RCM output are reviewed and classified into (1) distribution derived transformations, (2) parametric transformations and (3) nonparametric transformations, each differing with respect to their underlying assumptions. A real world application, using observations of 82 precipitation stations in Norway, showed that nonparametric transformations have the highest skill in systematically reducing biases in RCM precipitation.",
+  "authors": [
+    "Lukas Gudmundsson",
+    "John Bjørnar Bremnes",
+    "Jan Erik Haugen",
+    "Torill Engen-Skaugen"
+  ],
+  "year": 2012,
+  "doi": "10.5194/hess-16-3383-2012",
+  "source": "openalex",
+  "categories": [
+    "Downscaling",
+    "Precipitation",
+    "Nonparametric statistics",
+    "Scale (ratio)",
+    "Climate change",
+    "Climate model",
+    "Computer science",
+    "Transformation (genetics)",
+    "Selection (genetic algorithm)",
+    "Environmental science",
+    "Parametric statistics",
+    "Climatology",
+    "Econometrics",
+    "Meteorology",
+    "Statistics",
+    "Mathematics",
+    "Geography",
+    "Artificial intelligence",
+    "Geology",
+    "Cartography",
+    "Oceanography",
+    "Chemistry",
+    "Gene",
+    "Biochemistry"
+  ],
+  "citation_count": 1405,
+  "open_access_pdf_url": "https://hess.copernicus.org/articles/16/3383/2012/hess-16-3383-2012.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2166535858.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:50.722547+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2166535858",
+    "concepts": [
+      "Downscaling",
+      "Precipitation",
+      "Nonparametric statistics",
+      "Scale (ratio)",
+      "Climate change"
+    ],
+    "oa_status": "gold"
+  }
+}

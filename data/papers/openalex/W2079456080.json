@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2079456080",
+  "title": "Correlating hydrogen oxidation and evolution activity on platinum at different pH with measured hydrogen binding energy",
+  "abstract": "The hydrogen oxidation/evolution reactions are two of the most fundamental reactions in distributed renewable electrochemical energy conversion and storage systems. The identification of the reaction descriptor is therefore of critical importance for the rational catalyst design and development. Here we report the correlation between hydrogen oxidation/evolution activity and experimentally measured hydrogen binding energy for polycrystalline platinum examined in several buffer solutions in a wide range of electrolyte pH from 0 to 13. The hydrogen oxidation/evolution activity obtained using the rotating disk electrode method is found to decrease with the pH, while the hydrogen binding energy, obtained from cyclic voltammograms, linearly increases with the pH. Correlating the hydrogen oxidation/evolution activity to the hydrogen binding energy renders a monotonic decreasing hydrogen oxidation/evolution activity with the hydrogen binding energy, strongly supporting the hypothesis that hydrogen binding energy is the sole reaction descriptor for the hydrogen oxidation/evolution activity on monometallic platinum. Hydrogen oxidation and evolution are two of the key reactions in renewable energy conversion and storage devices. Here, the authors report the correlation between reaction rate and measured hydrogen binding energy for polycrystalline platinum in buffer solutions ranging from pH 0 to 13.",
+  "authors": [
+    "Wenchao Sheng",
+    "Zhongbin Zhuang",
+    "Min‐Rui Gao",
+    "Jie Zheng",
+    "Jingguang G. Chen",
+    "Yushan S. Yan"
+  ],
+  "year": 2015,
+  "doi": "10.1038/ncomms6848",
+  "source": "openalex",
+  "categories": [
+    "Platinum",
+    "Hydrogen",
+    "Electrochemistry",
+    "Binding energy",
+    "Chemistry",
+    "Catalysis",
+    "Hydrogen production",
+    "Standard hydrogen electrode",
+    "Hydrogen fuel",
+    "Inorganic chemistry",
+    "Activation energy",
+    "Electrolyte",
+    "Materials science",
+    "Electrode",
+    "Physical chemistry",
+    "Biochemistry",
+    "Organic chemistry",
+    "Working electrode",
+    "Atomic physics",
+    "Physics"
+  ],
+  "citation_count": 1155,
+  "open_access_pdf_url": "https://www.nature.com/articles/ncomms6848.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2079456080.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:14.546342+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2079456080",
+    "concepts": [
+      "Platinum",
+      "Hydrogen",
+      "Electrochemistry",
+      "Binding energy",
+      "Chemistry"
+    ],
+    "oa_status": "gold"
+  }
+}

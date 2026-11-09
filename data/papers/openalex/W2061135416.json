@@ -1,0 +1,59 @@
+{
+  "id": "openalex:W2061135416",
+  "title": "Diffuse optics for tissue monitoring and tomography",
+  "abstract": "This review describes the diffusion model for light transport in tissues and the medical applications of diffuse light. Diffuse optics is particularly useful for measurement of tissue hemodynamics, wherein quantitative assessment of oxy- and deoxy-hemoglobin concentrations and blood flow are desired. The theoretical basis for near-infrared or diffuse optical spectroscopy (NIRS or DOS, respectively) is developed, and the basic elements of diffuse optical tomography (DOT) are outlined. We also discuss diffuse correlation spectroscopy (DCS), a technique whereby temporal correlation functions of diffusing light are transported through tissue and are used to measure blood flow. Essential instrumentation is described, and representative brain and breast functional imaging and monitoring results illustrate the workings of these new tissue diagnostics.",
+  "authors": [
+    "Turgut Durduran",
+    "Regine Choe",
+    "Wesley B. Baker",
+    "Arjun G. Yodh"
+  ],
+  "year": 2010,
+  "doi": "10.1088/0034-4885/73/7/076701",
+  "source": "openalex",
+  "categories": [
+    "Diffuse optical imaging",
+    "Physics",
+    "Photon diffusion",
+    "Optics",
+    "Blood flow",
+    "Diffuse reflection",
+    "Instrumentation (computer programming)",
+    "Diffuse reflectance infrared fourier transform",
+    "Diffusion",
+    "Tomography",
+    "Spectroscopy",
+    "Optical tomography",
+    "Measure (data warehouse)",
+    "Biomedical engineering",
+    "Medical physics",
+    "Medicine",
+    "Radiology",
+    "Light source",
+    "Computer science",
+    "Chemistry",
+    "Biochemistry",
+    "Database",
+    "Operating system",
+    "Photocatalysis",
+    "Quantum mechanics",
+    "Catalysis",
+    "Thermodynamics"
+  ],
+  "citation_count": 1210,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1088/0034-4885/73/7/076701/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2061135416.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:08.192445+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2061135416",
+    "concepts": [
+      "Diffuse optical imaging",
+      "Physics",
+      "Photon diffusion",
+      "Optics",
+      "Blood flow"
+    ],
+    "oa_status": "bronze"
+  }
+}

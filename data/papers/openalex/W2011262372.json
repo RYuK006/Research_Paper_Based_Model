@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2011262372",
+  "title": "The gene encoding the iron regulatory peptide hepcidin is regulated by anemia, hypoxia, and inflammation",
+  "abstract": "The present study was aimed at determining whether hepcidin, a recently identified peptide involved in iron metabolism, plays a role in conditions associated with both iron overload and iron deficiency. Hepcidin mRNA levels were assessed in two models of anemia, acute hemolysis provoked by phenylhydrazine and bleeding provoked by repeated phlebotomies. Hepcidin response to hypoxia was also studied, both ex vivo, in human hepatoma cells, and in vivo. Anemia and hypoxia were associated with a dramatic decrease in liver hepcidin gene expression, which may account for the increase in iron release from reticuloendothelial cells and increase in iron absorption frequently observed in these situations. A single injection of turpentine for 16 hours induced a sixfold increase in liver hepcidin mRNA levels and a twofold decrease in serum iron. The hyposideremic effect of turpentine was completely blunted in hepcidin-deficient mice, revealing hepcidin participation in anemia of inflammatory states. These modifications of hepcidin gene expression further suggest a key role for hepcidin in iron homeostasis under various pathophysiological conditions, which may support the pharmaceutical use of hepcidin agonists and antagonists in various iron homeostasis disorders.",
+  "authors": [
+    "Gaël Nicolas",
+    "Caroline Chauvet",
+    "Lydie Viatte",
+    "Jean Louis Danan",
+    "Xavier A. Bigard",
+    "Isabelle Devaux",
+    "Carole Beaumont",
+    "Axel Kahn",
+    "Sophie Vaulont"
+  ],
+  "year": 2002,
+  "doi": "10.1172/jci0215686",
+  "source": "openalex",
+  "categories": [
+    "Hepcidin",
+    "Endocrinology",
+    "Anemia",
+    "Hypoxia (environmental)",
+    "Internal medicine",
+    "Inflammation",
+    "Erythropoiesis",
+    "Erythropoietin",
+    "Homeostasis",
+    "Immunology",
+    "Chemistry",
+    "Biology",
+    "Medicine",
+    "Oxygen",
+    "Organic chemistry"
+  ],
+  "citation_count": 1612,
+  "open_access_pdf_url": "http://www.jci.org/articles/view/15686/files/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2011262372.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:38.181116+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2011262372",
+    "concepts": [
+      "Hepcidin",
+      "Endocrinology",
+      "Anemia",
+      "Hypoxia (environmental)",
+      "Internal medicine"
+    ],
+    "oa_status": "bronze"
+  }
+}

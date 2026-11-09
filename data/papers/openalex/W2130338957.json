@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2130338957",
+  "title": "Global data set of biogenic VOC emissions calculated by the MEGAN model over the last 30 years",
+  "abstract": "Abstract. The Model of Emissions of Gases and Aerosols from Nature (MEGANv2.1) together with the Modern-Era Retrospective Analysis for Research and Applications (MERRA) meteorological fields were used to create a global emission dataset of biogenic volatile organic compounds (BVOC) available on a monthly basis for the time period of 1980–2010. This dataset is called MEGAN-MACC. The model estimated mean annual total BVOC emission of 760 Tg (C) yr−1 consisting of isoprene (70%), monoterpenes (11%), methanol (6%), acetone (3%), sesquiterpenes (2.5%) and other BVOC species each contributing less than 2%. Several sensitivity model runs were performed to study the impact of different model input and model settings on isoprene estimates and resulted in differences of up to ±17% of the reference isoprene total. A greater impact was observed for a sensitivity run applying parameterization of soil moisture deficit that led to a 50% reduction of isoprene emissions on a global scale, most significantly in specific regions of Africa, South America and Australia. MEGAN-MACC estimates are comparable to results of previous studies. More detailed comparison with other isoprene inventories indicated significant spatial and temporal differences between the datasets especially for Australia, Southeast Asia and South America. MEGAN-MACC estimates of isoprene, α-pinene and group of monoterpenes showed a reasonable agreement with surface flux measurements at sites located in tropical forests in the Amazon and Malaysia. The model was able to capture the seasonal variation of isoprene emissions in the Amazon forest.",
+  "authors": [
+    "Kateřina Šindelářová",
+    "Claire Granier",
+    "Idir Bouarar",
+    "Alex Guenther",
+    "Simone Tilmes",
+    "Trisevgeni Stavrakou",
+    "Jean‐François Müller",
+    "Uwe Kühn",
+    "P. Stefani",
+    "Wolfgang Knorr"
+  ],
+  "year": 2014,
+  "doi": "10.5194/acp-14-9317-2014",
+  "source": "openalex",
+  "categories": [
+    "Isoprene",
+    "Environmental science",
+    "Atmospheric sciences",
+    "Climatology",
+    "Volatile organic compound",
+    "Chemical transport model",
+    "Aerosol",
+    "Meteorology",
+    "Chemistry",
+    "Geography",
+    "Polymer",
+    "Organic chemistry",
+    "Geology",
+    "Copolymer"
+  ],
+  "citation_count": 1264,
+  "open_access_pdf_url": "https://acp.copernicus.org/articles/14/9317/2014/acp-14-9317-2014.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2130338957.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:00.640433+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2130338957",
+    "concepts": [
+      "Isoprene",
+      "Environmental science",
+      "Atmospheric sciences",
+      "Climatology",
+      "Volatile organic compound"
+    ],
+    "oa_status": "gold"
+  }
+}

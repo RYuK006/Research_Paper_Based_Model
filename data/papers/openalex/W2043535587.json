@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2043535587",
+  "title": "Van der Waals density functional: Self-consistent potential and the nature of the van der Waals bond",
+  "abstract": "We derive the exchange-correlation potential corresponding to the nonlocal van der Waals density functional [M. Dion, H. Rydberg, E. Schr\\\"oder, D. C. Langreth, and B. I. Lundqvist, Phys. Rev. Lett. 92, 246401 (2004)]. We use this potential for a self-consistent calculation of the ground state properties of a number of van der Waals complexes as well as crystalline silicon. For the latter, where little or no van der Waals interaction is expected, we find that the results are mostly determined by semilocal exchange and correlation as in standard generalized gradient approximations (GGA), with the fully nonlocal term giving little effect. On the other hand, our results for the van der Waals complexes show that the self-consistency has little effect on the atomic interaction energy and structure at equilibrium distances. This finding validates previous calculations with the same functional that treated the fully nonlocal term as a post-GGA perturbation. A comparison of our results with wave-function calculations demonstrates the usefulness of our approach. The exchange-correlation potential also allows us to calculate Hellmann-Feynman forces, hence providing the means for efficient geometry relaxations as well as unleashing the potential use of other standard techniques that depend on the self-consistent charge distribution. The nature of the van der Waals bond is discussed in terms of the self-consistent bonding charge.",
+  "authors": [
+    "Timo Thonhauser",
+    "Valentino R. Cooper",
+    "Li Shen",
+    "Aaron Puzder",
+    "Per Hyldgaard",
+    "David C. Langreth"
+  ],
+  "year": 2007,
+  "doi": "10.1103/physrevb.76.125112",
+  "source": "openalex",
+  "categories": [
+    "van der Waals force",
+    "Van der Waals strain",
+    "Van der Waals surface",
+    "Van der Waals radius",
+    "Chemistry",
+    "Theorem of corresponding states",
+    "Physics",
+    "Rydberg formula",
+    "Quantum mechanics",
+    "DLVO theory",
+    "Density functional theory",
+    "Atomic physics",
+    "Ionization",
+    "Physical chemistry",
+    "Molecule",
+    "Colloid",
+    "Ion"
+  ],
+  "citation_count": 1245,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0703442",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2043535587.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:02.747546+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2043535587",
+    "concepts": [
+      "van der Waals force",
+      "Van der Waals strain",
+      "Van der Waals surface",
+      "Van der Waals radius",
+      "Chemistry"
+    ],
+    "oa_status": "green"
+  }
+}

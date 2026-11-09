@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W4409147637",
+  "title": "Mastering diverse control tasks through world models",
+  "abstract": "Abstract Developing a general algorithm that learns to solve tasks across a wide range of applications has been a fundamental challenge in artificial intelligence. Although current reinforcement-learning algorithms can be readily applied to tasks similar to what they have been developed for, configuring them for new application domains requires substantial human expertise and experimentation 1,2 . Here we present the third generation of Dreamer, a general algorithm that outperforms specialized methods across over 150 diverse tasks, with a single configuration. Dreamer learns a model of the environment and improves its behaviour by imagining future scenarios. Robustness techniques based on normalization, balancing and transformations enable stable learning across domains. Applied out of the box, Dreamer is, to our knowledge, the first algorithm to collect diamonds in Minecraft from scratch without human data or curricula. This achievement has been posed as a substantial challenge in artificial intelligence that requires exploring farsighted strategies from pixels and sparse rewards in an open world 3 . Our work allows solving challenging control problems without extensive experimentation, making reinforcement learning broadly applicable.",
+  "authors": [
+    "Danijar Hafner",
+    "Jurgis Pašukonis",
+    "Jimmy Lei Ba",
+    "Timothy Lillicrap"
+  ],
+  "year": 2025,
+  "doi": "10.1038/s41586-025-08744-2",
+  "source": "openalex",
+  "categories": [
+    "Computer science",
+    "Scratch",
+    "Reinforcement learning",
+    "Artificial intelligence",
+    "Robustness (evolution)",
+    "Normalization (sociology)",
+    "Machine learning",
+    "Control (management)",
+    "Programming language",
+    "Sociology",
+    "Biochemistry",
+    "Chemistry",
+    "Gene",
+    "Anthropology"
+  ],
+  "citation_count": 1871,
+  "open_access_pdf_url": "https://doi.org/10.1038/s41586-025-08744-2",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W4409147637.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:22.209367+00:00",
+  "raw_metadata": {
+    "openalex_id": "W4409147637",
+    "concepts": [
+      "Computer science",
+      "Scratch",
+      "Reinforcement learning",
+      "Artificial intelligence",
+      "Robustness (evolution)"
+    ],
+    "oa_status": "hybrid"
+  }
+}

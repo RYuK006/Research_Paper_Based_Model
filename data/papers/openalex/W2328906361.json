@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2328906361",
+  "title": "Applied Topological Analysis of Crystal Structures with the Program Package ToposPro",
+  "abstract": "High Resolution Image Download MS PowerPoint Slide Basic concepts of computer topological analysis of crystal structures realized in the current version of the program package ToposPro are considered. Applications of the ToposPro methods to various classes of chemical compounds—coordination polymers, molecular crystals, supramolecular ensembles, inorganic ionic compounds, intermetallics, fast-ion conductors, microporous materials—are illustrated by many examples. It is shown that chemically and crystallographically different structures can be automatically treated in a similar way with the ToposPro approaches.",
+  "authors": [
+    "Vladislav A. Blatov",
+    "Alexander P. Shevchenko",
+    "Davide Maria Proserpio"
+  ],
+  "year": 2014,
+  "doi": "10.1021/cg500498k",
+  "source": "openalex",
+  "categories": [
+    "Microporous material",
+    "Supramolecular chemistry",
+    "Ionic bonding",
+    "Intermetallic",
+    "Crystal structure",
+    "Crystal (programming language)",
+    "Topology (electrical circuits)",
+    "Ion",
+    "Materials science",
+    "Chemistry",
+    "Nanotechnology",
+    "Crystallography",
+    "Computer science",
+    "Mathematics",
+    "Organic chemistry",
+    "Combinatorics",
+    "Programming language",
+    "Alloy"
+  ],
+  "citation_count": 3178,
+  "open_access_pdf_url": "https://pubs.acs.org/doi/pdf/10.1021/cg500498k",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2328906361.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:57.837232+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2328906361",
+    "concepts": [
+      "Microporous material",
+      "Supramolecular chemistry",
+      "Ionic bonding",
+      "Intermetallic",
+      "Crystal structure"
+    ],
+    "oa_status": "hybrid"
+  }
+}

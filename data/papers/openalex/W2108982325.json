@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W2108982325",
+  "title": "The magnetotelluric phase tensor",
+  "abstract": "The phase relationships contained in the magnetotelluric (MT) impedance tensor are shown to be a second-rank tensor. This tensor expresses how the phase relationships change with polarization in the general case where the conductivity structure is 3-D. Where galvanic effects produced by heterogeneities in near-surface conductivity distort the regional MT response the phase tensor preserves the regional phase information. Calculation of the phase tensor requires no assumption about the dimensionality of the underlying conductivity distribution and is applicable where both the heterogeneity and regional structure are 3-D. For 1-D regional conductivity structures, the phase tensor is characterized by a single coordinate invariant phase equal to the 1-D impedance tensor phase. If the regional conductivity structure is 2-D, the phase tensor is symmetric with one of its principal axes aligned parallel to the strike axis of the regional structure. In the 2-D case, the principal values (coordinate invariants) of the phase tensor are the transverse electric and magnetic polarization phases. The orientation of the phase tensor′s principal axes can be determined directly from the impedance tensor components in both 2-D and 3-D situations. In the 3-D case, the phase tensor is non-symmetric and has a third coordinate invariant that is a distortion-free measure of the asymmetry of the regional MT response. The phase tensor can be depicted graphically as an ellipse, the major and minor axes representing the principal axes of the tensor. 3-D model studies show that the orientations of the phase tensor principal axes reflect lateral variations (gradients) in the underlying regional conductivity structure. Maps of the phase tensor ellipses provide a method of visualizing this variation.",
+  "authors": [
+    "T. Grant Caldwell",
+    "Hugh M. Bibby",
+    "Colin Brown"
+  ],
+  "year": 2004,
+  "doi": "10.1111/j.1365-246x.2004.02281.x",
+  "source": "openalex",
+  "categories": [
+    "Magnetotellurics",
+    "Tensor (intrinsic definition)",
+    "Curse of dimensionality",
+    "Phase (matter)",
+    "Conductivity",
+    "Polarization (electrochemistry)",
+    "Geology",
+    "Geophysics",
+    "Electrical resistivity and conductivity",
+    "Physics",
+    "Geometry",
+    "Mathematics",
+    "Chemistry",
+    "Quantum mechanics",
+    "Statistics",
+    "Physical chemistry"
+  ],
+  "citation_count": 1192,
+  "open_access_pdf_url": "https://academic.oup.com/gji/article-pdf/158/2/457/5907514/158-2-457.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2108982325.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:08.421191+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2108982325",
+    "concepts": [
+      "Magnetotellurics",
+      "Tensor (intrinsic definition)",
+      "Curse of dimensionality",
+      "Phase (matter)",
+      "Conductivity"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "openalex:W2063617352",
+  "title": "A Novel Mammalian Iron-regulated Protein Involved in Intracellular Iron Metabolism",
+  "abstract": "We have isolated and characterized a novel iron-regulated gene that is homologous to the divalent metal transporter 1 family of metal transporters. This gene, termed metal transporter protein (mtp1), is expressed in tissues involved in body iron homeostasis including the developing and mature reticuloendothelial system, the duodenum, and the pregnant uterus. MTP1 is also expressed in muscle and central nervous system cells in the embryo. At the subcellular level, MTP1 is localized to the basolateral membrane of the duodenal epithelial cell and a cytoplasmic compartment of reticuloendothelial system cells. Overexpression of MTP1 in tissue culture cells results in intracellular iron depletion. In the adult mouse, MTP1 expression in the liver and duodenum are reciprocally regulated. Iron deficiency induces MTP1 expression in the duodenum but down-regulates expression in the liver. These data indicate that MTP1 is an iron-regulated membrane-spanning protein that is involved in intracellular iron metabolism.",
+  "authors": [
+    "Sherry L. Abboud",
+    "David J. Haile"
+  ],
+  "year": 2000,
+  "doi": "10.1074/jbc.m000713200",
+  "source": "openalex",
+  "categories": [
+    "Intracellular",
+    "Cell biology",
+    "Chemistry",
+    "Mononuclear phagocyte system",
+    "Transporter",
+    "Homeostasis",
+    "Cytoplasm",
+    "Solute carrier family",
+    "Biochemistry",
+    "Biology",
+    "Gene",
+    "Immunology"
+  ],
+  "citation_count": 1279,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925819800674/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2063617352.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:00.470419+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2063617352",
+    "concepts": [
+      "Intracellular",
+      "Cell biology",
+      "Chemistry",
+      "Mononuclear phagocyte system",
+      "Transporter"
+    ],
+    "oa_status": "hybrid"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2059605663",
+  "title": "Reaction path Hamiltonian for polyatomic molecules",
+  "abstract": "The reaction path on the potential energy surface of a polyatomic molecule is the steepest descent path (if mass-weighted Cartesian coordinates are used) connecting saddle points and minima. For an N-atom system in 3d space it is shown how the 3N-6 internal coordinates can be chosen to be the reaction coordinate s, the arc length along the reaction path, plus (3N-7) normal coordinates that describe vibrations orthogonal to the reaction path. The classical (and quantum) Hamiltonian is derived in terms of these coordinates and their conjugate momenta for the general case of an N atom system with a given nonzero value of the total angular momentum. One of the important facts that makes this analysis feasible (and therefore interesting) is that all the quantities necessary to construct this Hamiltonian, and thus permit dynamical studies, are obtainable from a relatively modest number of ab initio quantum chemistry calculations of the potential energy surface. As a simple example, it is shown how the effects of reaction path curvature can be incorporated in the vibrationally adiabatic approximation, and application to the collinear and 3 dH+H2→H2+H reaction shows that the tunneling probabilities given within this approximation are considerably improved when these curvature effects are included.",
+  "authors": [
+    "William Hughes Miller",
+    "Nicholas Charles Handy",
+    "John E. Adams"
+  ],
+  "year": 1980,
+  "doi": "10.1063/1.438959",
+  "source": "openalex",
+  "categories": [
+    "Hamiltonian (control theory)",
+    "Potential energy surface",
+    "Reaction coordinate",
+    "Polyatomic ion",
+    "Potential energy",
+    "Saddle point",
+    "Quantum mechanics",
+    "Physics",
+    "Ab initio",
+    "Classical mechanics",
+    "Semiclassical physics",
+    "Adiabatic process",
+    "Quantum",
+    "Curvature",
+    "Angular momentum",
+    "Chemistry",
+    "Computational chemistry",
+    "Molecule",
+    "Geometry",
+    "Mathematics",
+    "Mathematical optimization"
+  ],
+  "citation_count": 1439,
+  "open_access_pdf_url": "https://escholarship.org/content/qt5m84z00g/qt5m84z00g.pdf?t=p21nwj",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2059605663.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:50.517340+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2059605663",
+    "concepts": [
+      "Hamiltonian (control theory)",
+      "Potential energy surface",
+      "Reaction coordinate",
+      "Polyatomic ion",
+      "Potential energy"
+    ],
+    "oa_status": "green"
+  }
+}

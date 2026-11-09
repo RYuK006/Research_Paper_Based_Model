@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2021759214",
+  "title": "P-glycoprotein in the blood-brain barrier of mice influences the brain penetration and pharmacological activity of many drugs.",
+  "abstract": "The mouse mdr1a (also called mdr3) P-GP is abundant in the blood-brain barrier, and its absence in mdr1a (-/-) mice leads to highly increased levels of the drugs ivermectin, vinblastine, digoxin, and cyclosporin A in the brain. We show here that the drugs loperamide, domperidone, and ondansetron are transported substrates for the mouse mdr1a P-GP and its human homologue MDR1. Phenytoin is a relatively weaker substrate for each, and the drugs haloperidol, clozapine, and flunitrazepam are transported hardly or not at all. Tissue distribution studies demonstrated that the relative brain penetration of radiolabeled ondansetron and loperamide (and their metabolites) is increased four- and sevenfold, respectively, in mdr1a (-/-) mice. A pilot toxicity study with oral loperamide showed that this peripherally acting antidiarrheal agent gains potent opiatelike activity in the central nervous system of mdr1a (-/-) mice. mdr1a (-/-) mice also showed increased sensitivity to neurolepticlike side effects of oral domperidone. These results point to the possible role that the drug-transporting P-GP(s) may play in the clinical use of many drugs, especially those with potential targets in the central nervous system.",
+  "authors": [
+    "Alfred H. Schinkel",
+    "Els Wagenaar",
+    "Carla A.A.M. Mol",
+    "Liesbeth van Deemter"
+  ],
+  "year": 1996,
+  "doi": "10.1172/jci118699",
+  "source": "openalex",
+  "categories": [
+    "Loperamide",
+    "Pharmacology",
+    "P-glycoprotein",
+    "Blood–brain barrier",
+    "Central nervous system",
+    "Domperidone",
+    "Therapeutic index",
+    "Medicine",
+    "Drug",
+    "Chemistry",
+    "Internal medicine",
+    "Dopamine",
+    "Multiple drug resistance",
+    "Biochemistry",
+    "Diarrhea",
+    "Antibiotics"
+  ],
+  "citation_count": 1280,
+  "open_access_pdf_url": "http://www.jci.org/articles/view/118699/files/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2021759214.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:00.461844+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2021759214",
+    "concepts": [
+      "Loperamide",
+      "Pharmacology",
+      "P-glycoprotein",
+      "Blood–brain barrier",
+      "Central nervous system"
+    ],
+    "oa_status": "bronze"
+  }
+}

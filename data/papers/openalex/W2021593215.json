@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2021593215",
+  "title": "The heterogeneity statistic I2 can be biased in small meta-analyses",
+  "abstract": "BACKGROUND: Estimated effects vary across studies, partly because of random sampling error and partly because of heterogeneity. In meta-analysis, the fraction of variance that is due to heterogeneity is estimated by the statistic I(2). We calculate the bias of I(2), focusing on the situation where the number of studies in the meta-analysis is small. Small meta-analyses are common; in the Cochrane Library, the median number of studies per meta-analysis is 7 or fewer. METHODS: We use Mathematica software to calculate the expectation and bias of I(2). RESULTS: I(2) has a substantial bias when the number of studies is small. The bias is positive when the true fraction of heterogeneity is small, but the bias is typically negative when the true fraction of heterogeneity is large. For example, with 7 studies and no true heterogeneity, I(2) will overestimate heterogeneity by an average of 12 percentage points, but with 7 studies and 80 percent true heterogeneity, I(2) can underestimate heterogeneity by an average of 28 percentage points. Biases of 12-28 percentage points are not trivial when one considers that, in the Cochrane Library, the median I(2) estimate is 21 percent. CONCLUSIONS: The point estimate I(2) should be interpreted cautiously when a meta-analysis has few studies. In small meta-analyses, confidence intervals should supplement or replace the biased point estimate I(2).",
+  "authors": [
+    "Paul T. von Hippel"
+  ],
+  "year": 2015,
+  "doi": "10.1186/s12874-015-0024-z",
+  "source": "openalex",
+  "categories": [
+    "Meta-analysis",
+    "Statistics",
+    "Publication bias",
+    "Study heterogeneity",
+    "Confidence interval",
+    "Point estimation",
+    "Statistic",
+    "Sample size determination",
+    "Fraction (chemistry)",
+    "Econometrics",
+    "Random effects model",
+    "Mathematics",
+    "Variance (accounting)",
+    "Medicine",
+    "Internal medicine",
+    "Economics",
+    "Organic chemistry",
+    "Accounting",
+    "Chemistry"
+  ],
+  "citation_count": 1263,
+  "open_access_pdf_url": "https://doi.org/10.1186/s12874-015-0024-z",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2021593215.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:00.649933+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2021593215",
+    "concepts": [
+      "Meta-analysis",
+      "Statistics",
+      "Publication bias",
+      "Study heterogeneity",
+      "Confidence interval"
+    ],
+    "oa_status": "gold"
+  }
+}

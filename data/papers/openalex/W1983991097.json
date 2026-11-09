@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W1983991097",
+  "title": "The miR-200 Family Inhibits Epithelial-Mesenchymal Transition and Cancer Cell Migration by Direct Targeting of E-cadherin Transcriptional Repressors ZEB1 and ZEB2",
+  "abstract": "MicroRNAs are small non-coding RNA molecules that can regulate gene expression by interacting with multiple mRNAs and inducing either translation suppression or degradation of mRNA. Recently, several miRNAs were identified as either promoters or suppressors of metastasis. However, it is unclear in which step(s) of the multistep metastatic cascade these miRNAs play a defined functional role. To study the functional importance of miRNAs in epithelial-mesenchymal transition (EMT), a process thought to initiate metastasis by enhancing the motility of tumor cells, we used a well established in vitro EMT assay: transforming growth factor-beta-induced EMT in NMuMG murine mammary epithelial cells. We found that members of the miR-200 family, organized as two clusters in the genome, were repressed during EMT. Overexpression of each miRNA individually or as clusters in NMuMG cells hindered EMT by enhancing E-cadherin expression through direct targeting of ZEB1 and ZEB2, which encode transcriptional repressors of E-cadherin. In the 4TO7 mouse carcinoma cell line, which expresses low levels of endogenous E-cadherin and displays a mesenchymal phenotype, ectopic expression of the miR-200 family miRNAs significantly increased E-cadherin expression and altered cell morphology to an epithelial phenotype. Furthermore, ectopic expression of each miR-200 miRNA cluster significantly reduced the in vitro motility of 4TO7 cells in migration assays. These results suggested that loss of expression of the miR-200 family members may play a critical role in the repression of E-cadherin by ZEB1 and ZEB2 during EMT, thereby enhancing migration and invasion during cancer progression.",
+  "authors": [
+    "Manav Korpal",
+    "Esther S. Lee",
+    "Guohong Hu",
+    "Yibin Kang"
+  ],
+  "year": 2008,
+  "doi": "10.1074/jbc.c800074200",
+  "source": "openalex",
+  "categories": [
+    "Cadherin",
+    "Epithelial–mesenchymal transition",
+    "Repressor",
+    "Transition (genetics)",
+    "Cancer research",
+    "Cell biology",
+    "Cell",
+    "Cell migration",
+    "Cancer",
+    "Mesenchymal stem cell",
+    "microRNA",
+    "Biology",
+    "Chemistry",
+    "Gene",
+    "Genetics",
+    "Transcription factor"
+  ],
+  "citation_count": 1674,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925820715073/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1983991097.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:33.239255+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1983991097",
+    "concepts": [
+      "Cadherin",
+      "Epithelial–mesenchymal transition",
+      "Repressor",
+      "Transition (genetics)",
+      "Cancer research"
+    ],
+    "oa_status": "hybrid"
+  }
+}

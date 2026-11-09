@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W2018602999",
+  "title": "Modulation of Osteoclast Differentiation and Function by the New Members of the Tumor Necrosis Factor Receptor and Ligand Families",
+  "abstract": "Osteoblasts/stromal cells are essentially involved in osteoclast differentiation and function through cell-to-cell contact (Fig. 8). Although many attempts have been made to elucidate the mechanism of the so-called \"microenvironment provided by osteoblasts/stromal cells,\" (5-8) it has remained an open question until OPG and its binding molecule were cloned. The serial discovery of the new members of the TNF receptor-ligand family members has confirmed the idea that osteoclast differentiation and function are regulated by osteoblasts/stromal cells. RANKL, which has also been called ODF, TRANCE, or OPGL, is a member of the TNF ligand family. Expression of RANKL mRNA in osteoblasts/stromal cells is up-regulated by osteotropic factors such as 1 alpha, 25(OH)2D3, PTH, and IL-11. Osteoclast precursors express RANK, a TNF receptor family member, recognize RANKL through cell-to-cell interaction with osteoblasts/stromal cells, and differentiate into pOCs in the presence of M-CSF. RANKL is also involved in the survival and fusion of pOCs and activation of mature osteoclasts. OPG, which has also been called OCIF or TR1, is a soluble receptor for RANKL and acts as a decoy receptor in the RANK-RANKL signaling system (Fig. 8). In conclusion, osteoblasts/stromal cells are involved in all of the processes of osteoclast development, such as differentiation, survival, fusion, and activation of osteoclasts (Fig. 8). Osteoblasts/stromal cells can now be replaced with RANKL and M-CSF in dealing with the whole life of osteoclasts. RANKL, RANK, and OPG are three key molecules that regulate osteoclast recruitment and function. Further studies on these key molecules will elucidate the molecular mechanism of the regulation of osteoclastic bone resorption. This line of studies will establish new ways to treat several metabolic bone diseases caused by abnormal osteoclast recruitment and functions such as osteopetrosis, osteoporosis, metastatic bone disease, Paget's disease, rheumatoid arthritis, and periodontal bone disease.",
+  "authors": [
+    "Tatsuo Suda",
+    "Naoyuki Takahashi",
+    "Nobuyuki Udagawa",
+    "Eijiro Jimi",
+    "Matthew T. Gillespie",
+    "T. John Martin"
+  ],
+  "year": 1999,
+  "doi": "10.1210/edrv.20.3.0367",
+  "source": "openalex",
+  "categories": [
+    "RANKL",
+    "Osteoclast",
+    "Stromal cell",
+    "Cell biology",
+    "RANK Ligand",
+    "Osteoprotegerin",
+    "Chemistry",
+    "Cancer research",
+    "Cellular differentiation",
+    "Tumor necrosis factor alpha",
+    "Bone resorption",
+    "Internal medicine",
+    "Receptor",
+    "Endocrinology",
+    "Biology",
+    "Medicine",
+    "Biochemistry",
+    "Activator (genetics)",
+    "Gene"
+  ],
+  "citation_count": 2345,
+  "open_access_pdf_url": "https://doi.org/10.1210/edrv.20.3.0367",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2018602999.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:08.755837+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2018602999",
+    "concepts": [
+      "RANKL",
+      "Osteoclast",
+      "Stromal cell",
+      "Cell biology",
+      "RANK Ligand"
+    ],
+    "oa_status": "closed"
+  }
+}

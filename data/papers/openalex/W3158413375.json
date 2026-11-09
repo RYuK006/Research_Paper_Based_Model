@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W3158413375",
+  "title": "Integrating Sensing and Communications for Ubiquitous IoT: Applications, Trends, and Challenges",
+  "abstract": "Recent advances in wireless communication and solid-state circuits together with the enormous demands of sensing ability have given rise to a new enabling technology, integrated (radar) sensing and communication (ISAC). ISAC captures two main advantages over dedicated sensing and communication functionalities: integration gain to efficiently utilize congested wireless/hardware resources, and even more interesting, coordination gain to balance dual-functional performance or/and perform mutual assistance. Triggered by ISAC, we are also witnessing a paradigm shift in the ubiquitous IoT architecture, in which the sensing and communication layers are tending to partially converge into a new layer, namely, the signaling layer. In this article, we first attempt to introduce a definition of ISAC, analyze the various influencing forces, and present several novel use cases. Then we complement the understanding of the signaling layer by presenting several key benefits in the IoT era. We classify existing dominant ISAC solutions based on the layers in which integration is applied. Finally, several challenges and opportunities are identified. We hope that this overview article will serve as a primary starting point for new researchers and offer a bird's-eye view of the existing ISAC-related advances.",
+  "authors": [
+    "Yuanhao Cui",
+    "Fan Liu",
+    "Xiaojun Jing",
+    "Junsheng Mu"
+  ],
+  "year": 2021,
+  "doi": "10.1109/mnet.010.2100152",
+  "source": "openalex",
+  "categories": [
+    "Computer science",
+    "Key (lock)",
+    "Wireless",
+    "Paradigm shift",
+    "State (computer science)",
+    "Layer (electronics)",
+    "Telecommunications",
+    "Internet of Things",
+    "Computer architecture",
+    "Dual (grammatical number)",
+    "Distributed computing",
+    "Data science",
+    "Embedded system",
+    "Computer security",
+    "Philosophy",
+    "Art",
+    "Chemistry",
+    "Algorithm",
+    "Organic chemistry",
+    "Literature",
+    "Epistemology"
+  ],
+  "citation_count": 1172,
+  "open_access_pdf_url": "https://arxiv.org/pdf/2104.11457",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3158413375.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:12.180994+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3158413375",
+    "concepts": [
+      "Computer science",
+      "Key (lock)",
+      "Wireless",
+      "Paradigm shift",
+      "State (computer science)"
+    ],
+    "oa_status": "green"
+  }
+}

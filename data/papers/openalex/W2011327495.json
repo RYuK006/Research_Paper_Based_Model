@@ -1,0 +1,45 @@
+{
+  "id": "openalex:W2011327495",
+  "title": "Cyclooxygenase Inhibitors and the Antiplatelet Effects of Aspirin",
+  "abstract": "BACKGROUND: Patients with arthritis and vascular disease may receive both low-dose aspirin and other nonsteroidal antiinflammatory drugs. We therefore investigated potential interactions between aspirin and commonly prescribed arthritis therapies METHODS: We administered the following combinations of drugs for six days: aspirin (81 mg every morning) two hours before ibuprofen (400 mg every morning) and the same medications in the reverse order; aspirin two hours before acetaminophen (1000 mg every morning) and the same medications in the reverse order; aspirin two hours before the cyclooxygenase-2 inhibitor rofecoxib (25 mg every morning) and the same medications in the reverse order; enteric-coated aspirin two hours before ibuprofen (400 mg three times a day); and enteric-coated aspirin two hours before delayed-release diclofenac (75 mg twice daily) RESULTS: Serum thromboxane B(2) levels (an index of cyclooxygenase-1 activity in platelets) and platelet aggregation were maximally inhibited 24 hours after the administration of aspirin on day 6 in the subjects who took aspirin before a single daily dose of any other drug, as well as in those who took rofecoxib or acetaminophen before taking aspirin. In contrast, inhibition of serum thromboxane B(2) formation and platelet aggregation by aspirin was blocked when a single daily dose of ibuprofen was given before aspirin, as well as when multiple daily doses of ibuprofen were given. The concomitant administration of rofecoxib, acetaminophen, or diclofenac did not affect the pharmacodynamics of aspirin CONCLUSIONS: The concomitant administration of ibuprofen but not rofecoxib, acetaminophen, or diclofenac antagonizes the irreversible platelet inhibition induced by aspirin. Treatment with ibuprofen in patients with increased cardiovascular risk may limit the cardioprotective effects of aspirin.",
+  "authors": [
+    "Francesca Catella-Lawson",
+    "Muredach P. Reilly",
+    "Shiv C. Kapoor",
+    "Andrew J. Cucchiara",
+    "Susan DeMarco",
+    "Barbara Tournier",
+    "Sachin N. Vyas",
+    "Garret A. FitzGerald"
+  ],
+  "year": 2001,
+  "doi": "10.1056/nejmoa003199",
+  "source": "openalex",
+  "categories": [
+    "Medicine",
+    "Aspirin",
+    "Cyclooxygenase",
+    "Pharmacology",
+    "Platelet aggregation inhibitor",
+    "Internal medicine",
+    "Enzyme",
+    "Biochemistry",
+    "Chemistry"
+  ],
+  "citation_count": 1400,
+  "open_access_pdf_url": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa003199?articleTools=true",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2011327495.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:52.469058+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2011327495",
+    "concepts": [
+      "Medicine",
+      "Aspirin",
+      "Cyclooxygenase",
+      "Pharmacology",
+      "Platelet aggregation inhibitor"
+    ],
+    "oa_status": "bronze"
+  }
+}

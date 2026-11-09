@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2083119809",
+  "title": "Butyrate and Propionate Protect against Diet-Induced Obesity and Regulate Gut Hormones via Free Fatty Acid Receptor 3-Independent Mechanisms",
+  "abstract": "Short-chain fatty acids (SCFAs), primarily acetate, propionate, and butyrate, are metabolites formed by gut microbiota from complex dietary carbohydrates. Butyrate and acetate were reported to protect against diet-induced obesity without causing hypophagia, while propionate was shown to reduce food intake. However, the underlying mechanisms for these effects are unclear. It was suggested that SCFAs may regulate gut hormones via their endogenous receptors Free fatty acid receptors 2 (FFAR2) and 3 (FFAR3), but direct evidence is lacking. We examined the effects of SCFA administration in mice, and show that butyrate, propionate, and acetate all protected against diet-induced obesity and insulin resistance. Butyrate and propionate, but not acetate, induce gut hormones and reduce food intake. As FFAR3 is the common receptor activated by butyrate and propionate, we examined these effects in FFAR3-deficient mice. The effects of butyrate and propionate on body weight and food intake are independent of FFAR3. In addition, FFAR3 plays a minor role in butyrate stimulation of Glucagon-like peptide-1, and is not required for butyrate- and propionate-dependent induction of Glucose-dependent insulinotropic peptide. Finally, FFAR3-deficient mice show normal body weight and glucose homeostasis. Stimulation of gut hormones and food intake inhibition by butyrate and propionate may represent a novel mechanism by which gut microbiota regulates host metabolism. These effects are largely intact in FFAR3-deficient mice, indicating additional mediators are required for these beneficial effects.",
+  "authors": [
+    "Hua V. Lin",
+    "Andrea Frassetto",
+    "Edward J. Kowalik",
+    "Andrea R. Nawrocki",
+    "Mofei M. Lu",
+    "Jennifer R. Kosinski",
+    "James A. Hubert",
+    "Daphne Szeto",
+    "Xiaorui Yao",
+    "Gail Forrest",
+    "Donald J. Marsh"
+  ],
+  "year": 2012,
+  "doi": "10.1371/journal.pone.0035240",
+  "source": "openalex",
+  "categories": [
+    "Butyrate",
+    "Propionate",
+    "Endocrinology",
+    "Internal medicine",
+    "Gut flora",
+    "Hormone",
+    "Short-chain fatty acid",
+    "Chemistry",
+    "Glucose homeostasis",
+    "Biology",
+    "Insulin",
+    "Biochemistry",
+    "Insulin resistance",
+    "Medicine",
+    "Fermentation"
+  ],
+  "citation_count": 1427,
+  "open_access_pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0035240&type=printable",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2083119809.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:50.586595+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2083119809",
+    "concepts": [
+      "Butyrate",
+      "Propionate",
+      "Endocrinology",
+      "Internal medicine",
+      "Gut flora"
+    ],
+    "oa_status": "gold"
+  }
+}

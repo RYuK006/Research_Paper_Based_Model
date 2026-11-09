@@ -1,0 +1,63 @@
+{
+  "id": "openalex:W2997323331",
+  "title": "GTP Cyclohydrolase 1/Tetrahydrobiopterin Counteract Ferroptosis through Lipid Remodeling",
+  "abstract": "High Resolution Image Download MS PowerPoint Slide Ferroptosis is an iron-dependent form of regulated cell death linking iron, lipid, and glutathione levels to degenerative processes and tumor suppression. By performing a genome-wide activation screen, we identified a cohort of genes antagonizing ferroptotic cell death, including GTP cyclohydrolase-1 (GCH1) and its metabolic derivatives tetrahydrobiopterin/dihydrobiopterin (BH 4 /BH 2 ). Synthesis of BH 4 /BH 2 by GCH1-expressing cells caused lipid remodeling, suppressing ferroptosis by selectively preventing depletion of phospholipids with two polyunsaturated fatty acyl tails. GCH1 expression level in cancer cell lines stratified susceptibility to ferroptosis, in accordance with its expression in human tumor samples. The GCH1-BH 4 -phospholipid axis acts as a master regulator of ferroptosis resistance, controlling endogenous production of the antioxidant BH 4, abundance of CoQ 10, and peroxidation of unusual phospholipids with two polyunsaturated fatty acyl tails. This demonstrates a unique mechanism of ferroptosis protection that is independent of the GPX4/glutathione system.",
+  "authors": [
+    "Vanessa A. N. Kraft",
+    "Carla T. Bezjian",
+    "Susanne Pfeiffer",
+    "Larissa Ringelstetter",
+    "Constanze Müller",
+    "Fereshteh Zandkarimi",
+    "Juliane Merl‐Pham",
+    "Xuanwen Bao",
+    "Nataša Anastasov",
+    "Johanna Kössl",
+    "Stefanie Brandner",
+    "Jacob D. Daniels",
+    "Philippe Schmitt‐Kopplin",
+    "Stefanie M. Hauck",
+    "Brent R. Stockwell",
+    "Kamyar Hadian",
+    "Joel Schick"
+  ],
+  "year": 2019,
+  "doi": "10.1021/acscentsci.9b01063",
+  "source": "openalex",
+  "categories": [
+    "Tetrahydrobiopterin",
+    "GPX4",
+    "Programmed cell death",
+    "Glutathione",
+    "Lipid peroxidation",
+    "Cell biology",
+    "GTP cyclohydrolase I",
+    "Chemistry",
+    "Biopterin",
+    "Biochemistry",
+    "Phospholipid",
+    "Biology",
+    "Oxidative stress",
+    "Nitric oxide synthase",
+    "Apoptosis",
+    "Enzyme",
+    "Membrane",
+    "Glutathione peroxidase"
+  ],
+  "citation_count": 1367,
+  "open_access_pdf_url": "https://doi.org/10.1021/acscentsci.9b01063",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2997323331.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:55.077632+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2997323331",
+    "concepts": [
+      "Tetrahydrobiopterin",
+      "GPX4",
+      "Programmed cell death",
+      "Glutathione",
+      "Lipid peroxidation"
+    ],
+    "oa_status": "diamond"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W3122720032",
+  "title": "Large–Sample Evidence on the Debt Covenant Hypothesis",
+  "abstract": "We use Dealscan, a database of private corporate lending agreements, to provide large-sample tests of the debt covenant hypothesis. Dealscan offers several advantages over the data available in previous debt covenant studies, principally through much larger sample sizes, more representative samples, and the availability of extensive actual covenant detail. These data advantages allow us to construct powerful tests, in which we find clear support for the debt covenant hypothesis. Apart from direct tests of the debt covenant hypothesis, we exploit these data to provide broad evidence on the economic role of debt covenants. Specifically, we find that private lenders use debt covenants as \"trip wires\" for borrowers, that private debt covenants are set tightly, and that technical violations occur relatively often, in about 30% of all loans. We also find that violations are not necessarily associated with financial distress, consistent with the idea that the consequences of violation vary considerably depending on the borrowers' economic circumstances, and that violations are often waived for healthy firms. Finally, since we measure covenant slack directly, we report evidence that the extensively-used leverage variable is a relatively poor proxy for closeness to covenants.",
+  "authors": [
+    "Ilia D. Dichev",
+    "Douglas J. Skinner"
+  ],
+  "year": 2002,
+  "doi": "10.1111/1475-679x.00083",
+  "source": "openalex",
+  "categories": [
+    "Covenant",
+    "Closeness",
+    "Debt",
+    "Leverage (statistics)",
+    "Proxy (statistics)",
+    "Business",
+    "Sample (material)",
+    "Monetary economics",
+    "Economics",
+    "Econometrics",
+    "Finance",
+    "Statistics",
+    "Mathematics",
+    "Political science",
+    "Chromatography",
+    "Chemistry",
+    "Law",
+    "Mathematical analysis"
+  ],
+  "citation_count": 1224,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1475-679X.00083",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3122720032.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:04.599910+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3122720032",
+    "concepts": [
+      "Covenant",
+      "Closeness",
+      "Debt",
+      "Leverage (statistics)",
+      "Proxy (statistics)"
+    ],
+    "oa_status": "bronze"
+  }
+}

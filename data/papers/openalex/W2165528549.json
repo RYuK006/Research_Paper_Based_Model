@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2165528549",
+  "title": "SUPERFLIP – a computer program for the solution of crystal structures by charge flipping in arbitrary dimensions",
+  "abstract": "SUPERFLIP is a computer program that can solve crystal structures from diffraction data using the recently developed charge-flipping algorithm. It can solve periodic structures, incommensurately modulated structures and quasicrystals from X-ray and neutron diffraction data. Structure solution from powder diffraction data is supported by combining the charge-flipping algorithm with a histogram-matching procedure. SUPERFLIP is written in Fortran90 and is distributed as a source code and as precompiled binaries. It has been successfully compiled and tested on a variety of operating systems.",
+  "authors": [
+    "Lukáš Palatinus",
+    "G. Chapuis"
+  ],
+  "year": 2007,
+  "doi": "10.1107/s0021889807029238",
+  "source": "openalex",
+  "categories": [
+    "Charge (physics)",
+    "Diffraction",
+    "Source code",
+    "Matching (statistics)",
+    "Neutron diffraction",
+    "Powder diffraction",
+    "Histogram",
+    "Algorithm",
+    "Computer program",
+    "Code (set theory)",
+    "Computer science",
+    "Crystal (programming language)",
+    "Crystal structure",
+    "Crystallography",
+    "Computational physics",
+    "Physics",
+    "Optics",
+    "Chemistry",
+    "Image (mathematics)",
+    "Mathematics",
+    "Programming language",
+    "Quantum mechanics",
+    "Artificial intelligence",
+    "Set (abstract data type)",
+    "Statistics"
+  ],
+  "citation_count": 4369,
+  "open_access_pdf_url": "http://journals.iucr.org/j/issues/2007/04/00/db5026/db5026.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2165528549.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:53.977911+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2165528549",
+    "concepts": [
+      "Charge (physics)",
+      "Diffraction",
+      "Source code",
+      "Matching (statistics)",
+      "Neutron diffraction"
+    ],
+    "oa_status": "bronze"
+  }
+}

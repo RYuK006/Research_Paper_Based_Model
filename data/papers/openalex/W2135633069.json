@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W2135633069",
+  "title": "Hypercholesterolemia increases endothelial superoxide anion production.",
+  "abstract": "Indirect evidence suggests accelerated degradation of endothelium-derived nitric oxide (ENDO) by superoxide anion (O2-) in hypercholesterolemic vessels (HV). To directly measure O2- production by normal vessels (NV) and HV, we used an assay for O2- based on the chemiluminescence (CL) of lucigenin (L). HV (1 mo cholesterol-fed rabbits) produced threefold more O2- than NV (1.47 +/- 0.20 nM/mg tissue/min, n = 7 vs. 0.52 +/- 0.05 nmol/mg tissue/min, n = 8, P < 0.001). Endothelial removal increased O2- production in NV (0.73 +/- 0.08, n = 6, P < 0.05), while decreasing it in HV (0.76 +/- 0.15, n = 5, P < 0.05). There was no difference between denuded HV and denuded NV. Oxypurinol, a noncompetitive inhibitor of xanthine oxidase, normalized O2- production in HV, but had no effect in NV. In separate isometric tension studies treatment with oxypurinol improved acetylcholine induced relaxations in HV, while having no effect on responses in normal vessels. Oxypurinol did not alter relaxations to nitroprusside. Thus, the endothelium is a source of O2- in hypercholesterolemia probably via xanthine oxidase activation. Increased endothelial O2- production in HV may inactivate endothelium-derived nitric oxide and provide a source for other oxygen radicals, contributing to the early atherosclerotic process.",
+  "authors": [
+    "Y Ohara",
+    "Timothy E. Peterson",
+    "David Glenn Harrison"
+  ],
+  "year": 1993,
+  "doi": "10.1172/jci116491",
+  "source": "openalex",
+  "categories": [
+    "Superoxide",
+    "Xanthine oxidase",
+    "Lucigenin",
+    "Chemistry",
+    "Nitric oxide",
+    "Endothelium",
+    "Allopurinol",
+    "Reactive oxygen species",
+    "Sodium nitroprusside",
+    "Biochemistry",
+    "Internal medicine",
+    "Endocrinology",
+    "Enzyme",
+    "Biology",
+    "Medicine",
+    "Organic chemistry"
+  ],
+  "citation_count": 1764,
+  "open_access_pdf_url": "http://www.jci.org/articles/view/116491/files/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2135633069.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:26.115479+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2135633069",
+    "concepts": [
+      "Superoxide",
+      "Xanthine oxidase",
+      "Lucigenin",
+      "Chemistry",
+      "Nitric oxide"
+    ],
+    "oa_status": "bronze"
+  }
+}

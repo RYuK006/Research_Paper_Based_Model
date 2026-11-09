@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W4396723768",
+  "title": "Augmenting large language models with chemistry tools",
+  "abstract": "Large language models (LLMs) have shown strong performance in tasks across domains but struggle with chemistry-related problems. These models also lack access to external knowledge sources, limiting their usefulness in scientific applications. We introduce ChemCrow, an LLM chemistry agent designed to accomplish tasks across organic synthesis, drug discovery and materials design. By integrating 18 expert-designed tools and using GPT-4 as the LLM, ChemCrow augments the LLM performance in chemistry, and new capabilities emerge. Our agent autonomously planned and executed the syntheses of an insect repellent and three organocatalysts and guided the discovery of a novel chromophore. Our evaluation, including both LLM and expert assessments, demonstrates ChemCrow's effectiveness in automating a diverse set of chemical tasks. Our work not only aids expert chemists and lowers barriers for non-experts but also fosters scientific advancement by bridging the gap between experimental and computational chemistry.",
+  "authors": [
+    "Andres M Bran",
+    "Sam Cox",
+    "Oliver Tobias Schilter",
+    "Carlo Baldassari",
+    "Andrew D. White",
+    "Philippe Schwaller"
+  ],
+  "year": 2024,
+  "doi": "10.1038/s42256-024-00832-8",
+  "source": "openalex",
+  "categories": [
+    "Limiting",
+    "Bridging (networking)",
+    "Computer science",
+    "Set (abstract data type)",
+    "Drug discovery",
+    "Nanotechnology",
+    "Data science",
+    "Chemistry",
+    "Engineering",
+    "Programming language",
+    "Materials science",
+    "Biochemistry",
+    "Mechanical engineering",
+    "Computer network"
+  ],
+  "citation_count": 1598,
+  "open_access_pdf_url": "https://www.nature.com/articles/s42256-024-00832-8.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W4396723768.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:41.863744+00:00",
+  "raw_metadata": {
+    "openalex_id": "W4396723768",
+    "concepts": [
+      "Limiting",
+      "Bridging (networking)",
+      "Computer science",
+      "Set (abstract data type)",
+      "Drug discovery"
+    ],
+    "oa_status": "hybrid"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2028815089",
+  "title": "Proposed Experiment to Test Local Hidden-Variable Theories",
+  "abstract": "A theorem of Bell, proving that certain predictions of quantum mechanics are inconsistent with the entire family of local hidden-variable theories, is generalized so as to apply to realizable experiments. A proposed extension of the experiment of Kocher and Commins, on the polarization correlation of a pair of optical photons, will provide a decisive test between quantum mechanics and local hidden-variable theories.",
+  "authors": [
+    "John F. Clauser",
+    "Michael Horne",
+    "Abner Shimony",
+    "Richard A. Holt"
+  ],
+  "year": 1969,
+  "doi": "10.1103/physrevlett.23.880",
+  "source": "openalex",
+  "categories": [
+    "Hidden variable theory",
+    "Physics",
+    "Local hidden variable theory",
+    "Extension (predicate logic)",
+    "Photon",
+    "Variable (mathematics)",
+    "Quantum mechanics",
+    "Polarization (electrochemistry)",
+    "Quantum nonlocality",
+    "Quantum",
+    "Theoretical physics",
+    "Statistical physics",
+    "Classical mechanics",
+    "Mathematics",
+    "Computer science",
+    "Quantum entanglement",
+    "Mathematical analysis",
+    "Physical chemistry",
+    "Chemistry",
+    "Programming language"
+  ],
+  "citation_count": 7738,
+  "open_access_pdf_url": "http://link.aps.org/pdf/10.1103/PhysRevLett.23.880",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2028815089.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:49.938810+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2028815089",
+    "concepts": [
+      "Hidden variable theory",
+      "Physics",
+      "Local hidden variable theory",
+      "Extension (predicate logic)",
+      "Photon"
+    ],
+    "oa_status": "bronze"
+  }
+}

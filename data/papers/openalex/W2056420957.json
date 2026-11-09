@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W2056420957",
+  "title": "Application of A‐C Techniques to the Study of Lithium Diffusion in Tungsten Trioxide Thin Films",
+  "abstract": "The small signal a‐c impedance of the cell has been measured at room temperature as a function of frequency from to at various open‐circuit voltages. The diffusion equations have been solved for the appropriate finite boundary conditions, and analysis of the impedance data by the complex plane method yields values for the chemical diffusion coefficient, the component diffusion coefficient, the partial ionic conductivity of lithium, and the thermodynamic enhancement factor for as a function of . The films of were prepared by vacuum evaporation and were largely amorphous to x‐rays. The chemical diffusion coefficient has a value of at , increasing to at . At short times the interfacial charge transfer reaction is important, but at longer times the rate of lithium injection is determined by the diffusion kinetics.",
+  "authors": [
+    "C. Ho",
+    "I. D. Raistrick",
+    "Robert A. Huggins"
+  ],
+  "year": 1980,
+  "doi": "10.1149/1.2129668",
+  "source": "openalex",
+  "categories": [
+    "Diffusion",
+    "Tungsten trioxide",
+    "Lithium (medication)",
+    "Grain boundary diffusion coefficient",
+    "Amorphous solid",
+    "Chemistry",
+    "Ionic bonding",
+    "Analytical Chemistry (journal)",
+    "Ionic conductivity",
+    "Thin film",
+    "Thermodynamics",
+    "Tungsten",
+    "Materials science",
+    "Physical chemistry",
+    "Electrode",
+    "Ion",
+    "Grain boundary",
+    "Organic chemistry",
+    "Nanotechnology",
+    "Physics",
+    "Crystallography",
+    "Electrolyte",
+    "Medicine",
+    "Endocrinology",
+    "Microstructure"
+  ],
+  "citation_count": 1253,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1149/1.2129668/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2056420957.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:02.617572+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2056420957",
+    "concepts": [
+      "Diffusion",
+      "Tungsten trioxide",
+      "Lithium (medication)",
+      "Grain boundary diffusion coefficient",
+      "Amorphous solid"
+    ],
+    "oa_status": "bronze"
+  }
+}

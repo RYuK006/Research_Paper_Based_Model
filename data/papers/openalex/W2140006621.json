@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W2140006621",
+  "title": "OpenFluor– an online spectral library of auto-fluorescence by organic compounds in the environment",
+  "abstract": "An online repository of published organic fluorescence spectra has been developed, which can be searched for quantitative matches with any set of unknown spectra.",
+  "authors": [
+    "Kathleen R. Murphy",
+    "Colin Andrew Stedmon",
+    "Philip Wenig",
+    "Rasmus Bro"
+  ],
+  "year": 2013,
+  "doi": "10.1039/c3ay41935e",
+  "source": "openalex",
+  "categories": [
+    "Fluorescence",
+    "Set (abstract data type)",
+    "Chemistry",
+    "Spectral line",
+    "Spectral analysis",
+    "Computer science",
+    "Environmental chemistry",
+    "Analytical Chemistry (journal)",
+    "Information retrieval",
+    "Physics",
+    "Spectroscopy",
+    "Optics",
+    "Astronomy",
+    "Programming language",
+    "Quantum mechanics"
+  ],
+  "citation_count": 1156,
+  "open_access_pdf_url": "https://pubs.rsc.org/en/content/articlepdf/2014/ay/c3ay41935e",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2140006621.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:14.536032+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2140006621",
+    "concepts": [
+      "Fluorescence",
+      "Set (abstract data type)",
+      "Chemistry",
+      "Spectral line",
+      "Spectral analysis"
+    ],
+    "oa_status": "hybrid"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "openalex:W2074868396",
+  "title": "Review on the science and technology of water desalination by capacitive deionization",
+  "abstract": "Porous carbon electrodes have significant potential for energy-efficient water desalination using a promising technology called Capacitive Deionization (CDI). In CDI, salt ions are removed from brackish water upon applying an electrical voltage difference between two porous electrodes, in which the ions will be temporarily immobilized. These electrodes are made of porous carbons optimized for salt storage capacity and ion and electron transport. We review the science and technology of CDI and describe the range of possible electrode materials and the various approaches to the testing of materials and devices. We summarize the range of options for CDI-designs and possible operational modes, and describe the various theoretical–conceptual approaches to understand the phenomenon of CDI.",
+  "authors": [
+    "S. Porada",
+    "Ruifeng Zhao",
+    "Albert van der Wal",
+    "Volker Presser",
+    "Pieter Maarten Biesheuvel"
+  ],
+  "year": 2013,
+  "doi": "10.1016/j.pmatsci.2013.03.005",
+  "source": "openalex",
+  "categories": [
+    "Capacitive deionization",
+    "Desalination",
+    "Materials science",
+    "Electrode",
+    "Porosity",
+    "Nanotechnology",
+    "Brackish water",
+    "Capacitive sensing",
+    "Ion",
+    "Energy storage",
+    "Range (aeronautics)",
+    "Process engineering",
+    "Chemical engineering",
+    "Membrane",
+    "Composite material",
+    "Electrical engineering",
+    "Engineering",
+    "Chemistry",
+    "Physical chemistry",
+    "Organic chemistry",
+    "Physics",
+    "Biochemistry",
+    "Salinity",
+    "Power (physics)",
+    "Biology",
+    "Ecology",
+    "Quantum mechanics"
+  ],
+  "citation_count": 2188,
+  "open_access_pdf_url": "https://www.sciencedirect.com/science/article/pii/S0079642513000340/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2074868396.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:12.657191+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2074868396",
+    "concepts": [
+      "Capacitive deionization",
+      "Desalination",
+      "Materials science",
+      "Electrode",
+      "Porosity"
+    ],
+    "oa_status": "hybrid"
+  }
+}

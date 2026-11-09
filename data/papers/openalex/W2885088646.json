@@ -1,0 +1,62 @@
+{
+  "id": "openalex:W2885088646",
+  "title": "High efficiency planar-type perovskite solar cells with negligible hysteresis using EDTA-complexed SnO2",
+  "abstract": "Abstract Even though the mesoporous-type perovskite solar cell (PSC) is known for high efficiency, its planar-type counterpart exhibits lower efficiency and hysteretic response. Herein, we report success in suppressing hysteresis and record efficiency for planar-type devices using EDTA-complexed tin oxide (SnO2) electron-transport layer. The Fermi level of EDTA-complexed SnO2 is better matched with the conduction band of perovskite, leading to high open-circuit voltage. Its electron mobility is about three times larger than that of the SnO2. The record power conversion efficiency of planar-type PSCs with EDTA-complexed SnO2 increases to 21.60% (certified at 21.52% by Newport) with negligible hysteresis. Meanwhile, the low-temperature processed EDTA-complexed SnO2 enables 18.28% efficiency for a flexible device. Moreover, the unsealed PSCs with EDTA-complexed SnO2 degrade only by 8% exposed in an ambient atmosphere after 2880 h, and only by 14% after 120 h under irradiation at 100 mW cm−2.",
+  "authors": [
+    "Dong Fang Yang",
+    "Ruixia Yang",
+    "Kai Wang",
+    "Congcong Wu",
+    "Xuejie Zhu",
+    "Jiangshan Feng",
+    "Xiaodong Ren",
+    "Guojia Fang",
+    "Shashank Priya",
+    "Shengzhong Frank Liu"
+  ],
+  "year": 2018,
+  "doi": "10.1038/s41467-018-05760-x",
+  "source": "openalex",
+  "categories": [
+    "Energy conversion efficiency",
+    "Perovskite (structure)",
+    "Hysteresis",
+    "Materials science",
+    "Perovskite solar cell",
+    "Mesoporous material",
+    "Planar",
+    "Tin oxide",
+    "Optoelectronics",
+    "Tin",
+    "Layer (electronics)",
+    "Nanotechnology",
+    "Chemical engineering",
+    "Chemistry",
+    "Crystallography",
+    "Catalysis",
+    "Condensed matter physics",
+    "Computer graphics (images)",
+    "Computer science",
+    "Engineering",
+    "Physics",
+    "Biochemistry",
+    "Metallurgy",
+    "Doping"
+  ],
+  "citation_count": 1410,
+  "open_access_pdf_url": "https://www.nature.com/articles/s41467-018-05760-x.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2885088646.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:50.695729+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2885088646",
+    "concepts": [
+      "Energy conversion efficiency",
+      "Perovskite (structure)",
+      "Hysteresis",
+      "Materials science",
+      "Perovskite solar cell"
+    ],
+    "oa_status": "gold"
+  }
+}

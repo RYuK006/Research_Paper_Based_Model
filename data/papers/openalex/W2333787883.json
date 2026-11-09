@@ -1,0 +1,57 @@
+{
+  "id": "openalex:W2333787883",
+  "title": "The ReaxFF reactive force-field: development, applications and future directions",
+  "abstract": "Abstract The reactive force-field (ReaxFF) interatomic potential is a powerful computational tool for exploring, developing and optimizing material properties. Methods based on the principles of quantum mechanics (QM), while offering valuable theoretical guidance at the electronic level, are often too computationally intense for simulations that consider the full dynamic evolution of a system. Alternatively, empirical interatomic potentials that are based on classical principles require significantly fewer computational resources, which enables simulations to better describe dynamic processes over longer timeframes and on larger scales. Such methods, however, typically require a predefined connectivity between atoms, precluding simulations that involve reactive events. The ReaxFF method was developed to help bridge this gap. Approaching the gap from the classical side, ReaxFF casts the empirical interatomic potential within a bond-order formalism, thus implicitly describing chemical bonding without expensive QM calculations. This article provides an overview of the development, application, and future directions of the ReaxFF method.",
+  "authors": [
+    "Thomas Patrick Senftle",
+    "Sungwook Leo Hong",
+    "Md Mahbubul Islam",
+    "Sudhir B. Kylasa",
+    "Yuanxia Zheng",
+    "Yun Kyung Shin",
+    "Chad E. Junkermeier",
+    "Roman Engel‐Herbert",
+    "Michael  John Janik",
+    "Hasan Metin Aktulga",
+    "Toon Verstraelen",
+    "Ananth Y. Grama",
+    "Adri C. T. van Duin"
+  ],
+  "year": 2016,
+  "doi": "10.1038/npjcompumats.2015.11",
+  "source": "openalex",
+  "categories": [
+    "ReaxFF",
+    "Force field (fiction)",
+    "Molecular dynamics",
+    "Computer science",
+    "Formalism (music)",
+    "Statistical physics",
+    "Nanotechnology",
+    "Interatomic potential",
+    "Computational chemistry",
+    "Chemistry",
+    "Materials science",
+    "Physics",
+    "Artificial intelligence",
+    "Visual arts",
+    "Art",
+    "Musical"
+  ],
+  "citation_count": 2405,
+  "open_access_pdf_url": "https://www.nature.com/articles/npjcompumats201511.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2333787883.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:08.712273+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2333787883",
+    "concepts": [
+      "ReaxFF",
+      "Force field (fiction)",
+      "Molecular dynamics",
+      "Computer science",
+      "Formalism (music)"
+    ],
+    "oa_status": "gold"
+  }
+}

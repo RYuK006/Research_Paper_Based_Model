@@ -1,0 +1,45 @@
+{
+  "id": "openalex:W1730237872",
+  "title": "Automatic quantitation of localized in vivo1H spectra with LCModel",
+  "abstract": "Abstract The LCModel method analyzes an in vivo spectrum as a Linear Combination of Model in vitro spectra from individual metabolite solutions. Complete model spectra, rather than individual resonances, are used in order to incorporate maximum prior information into the analysis. A nearly model‐free constrained regularization method automatically accounts for the baseline and lineshape in vivo without imposing a restrictive parameterized form on them. LCModel is automatic (non‐interactive) with no subjective input. Approximately maximum‐likelihood estimates of the metabolite concentrations and their uncertainties (Cramér‐Rao lower bounds) are obtained. LCModel analyses of spectra from users with fields from 1.5 to 9.4 T and a wide range of sequences, particularly with short TE, are used here to illustrate the capabilities and limitations of LCModel and proton MRS. Copyright © 2001 John Wiley & Sons, Ltd. Abbreviations used: Ala alanine Asp aspartate Cr creatine GABA γ‐aminobutyric acid Glc glucose Gln glutamine Glu glutamate GPC glycerophosphocholine GSH glutathione Ins myo‐inositol Lac lactate NAA N‐acetylaspartate NAAG N‐acetylaspartylglutamate PC phosphocholine PCr phosphocreatine PE phosphoethanolamine Scyllo scyllo‐inositol S/N signal‐to‐noise ratio Tau taurine.",
+  "authors": [
+    "Stephen W. Provencher"
+  ],
+  "year": 2001,
+  "doi": "10.1002/nbm.698",
+  "source": "openalex",
+  "categories": [
+    "Metabolite",
+    "Phosphocreatine",
+    "Chemistry",
+    "Glutamine",
+    "In vivo",
+    "Taurine",
+    "Phosphocholine",
+    "Biochemistry",
+    "Amino acid",
+    "Biology",
+    "Phospholipid",
+    "Endocrinology",
+    "Phosphatidylcholine",
+    "Energy metabolism",
+    "Biotechnology",
+    "Membrane"
+  ],
+  "citation_count": 1667,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/nbm.698",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1730237872.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:33.266858+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1730237872",
+    "concepts": [
+      "Metabolite",
+      "Phosphocreatine",
+      "Chemistry",
+      "Glutamine",
+      "In vivo"
+    ],
+    "oa_status": "bronze"
+  }
+}

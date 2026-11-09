@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W2042422091",
+  "title": "An Energy Budget for Signaling in the Grey Matter of the Brain",
+  "abstract": "Anatomic and physiologic data are used to analyze the energy expenditure on different components of excitatory signaling in the grey matter of rodent brain. Action potentials and postsynaptic effects of glutamate are predicted to consume much of the energy (47% and 34%, respectively), with the resting potential consuming a smaller amount (13%), and glutamate recycling using only 3%. Energy usage depends strongly on action potential rate--an increase in activity of 1 action potential/cortical neuron/s will raise oxygen consumption by 145 mL/100 g grey matter/h. The energy expended on signaling is a large fraction of the total energy used by the brain; this favors the use of energy efficient neural codes and wiring patterns. Our estimates of energy usage predict the use of distributed codes, with <or=15% of neurons simultaneously active, to reduce energy consumption and allow greater computing power from a fixed number of neurons. Functional magnetic resonance imaging signals are likely to be dominated by changes in energy usage associated with synaptic currents and action potential propagation.",
+  "authors": [
+    "David Attwell",
+    "Simon B. Laughlin"
+  ],
+  "year": 2001,
+  "doi": "10.1097/00004647-200110000-00001",
+  "source": "openalex",
+  "categories": [
+    "Excitatory postsynaptic potential",
+    "Neuroscience",
+    "Glutamate receptor",
+    "Grey matter",
+    "Postsynaptic potential",
+    "Action potential",
+    "Neuron",
+    "Energy consumption",
+    "Energy budget",
+    "Action (physics)",
+    "Energy (signal processing)",
+    "Computer science",
+    "Electrophysiology",
+    "Biological system",
+    "Chemistry",
+    "Inhibitory postsynaptic potential",
+    "Physics",
+    "Biology",
+    "Magnetic resonance imaging",
+    "Ecology",
+    "Biochemistry",
+    "Medicine",
+    "White matter",
+    "Receptor",
+    "Quantum mechanics",
+    "Radiology"
+  ],
+  "citation_count": 3705,
+  "open_access_pdf_url": "https://journals.sagepub.com/doi/pdf/10.1097/00004647-200110000-00001",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2042422091.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:54.155053+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2042422091",
+    "concepts": [
+      "Excitatory postsynaptic potential",
+      "Neuroscience",
+      "Glutamate receptor",
+      "Grey matter",
+      "Postsynaptic potential"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W2574872930",
+  "title": "OpenNMT: Open-Source Toolkit for Neural Machine Translation",
+  "abstract": "We describe an open-source toolkit for neural machine translation (NMT).The toolkit prioritizes efficiency, modularity, and extensibility with the goal of supporting NMT research into model architectures, feature representations, and source modalities, while maintaining competitive performance and reasonable training requirements.The toolkit consists of modeling and translation support, as well as detailed pedagogical documentation about the underlying techniques.",
+  "authors": [
+    "Guillaume Klein",
+    "Yoon Kim",
+    "Yuntian Deng",
+    "Jean Sénellart",
+    "Alexander M. Rush"
+  ],
+  "year": 2017,
+  "doi": "10.18653/v1/p17-4012",
+  "source": "openalex",
+  "categories": [
+    "Modularity (biology)",
+    "Computer science",
+    "Documentation",
+    "Machine translation",
+    "Extensibility",
+    "Open source",
+    "Translation (biology)",
+    "Artificial intelligence",
+    "Modalities",
+    "Feature (linguistics)",
+    "Software engineering",
+    "Programming language",
+    "Software",
+    "Philosophy",
+    "Linguistics",
+    "Genetics",
+    "Biochemistry",
+    "Gene",
+    "Biology",
+    "Sociology",
+    "Chemistry",
+    "Messenger RNA",
+    "Social science"
+  ],
+  "citation_count": 1916,
+  "open_access_pdf_url": "https://www.aclweb.org/anthology/P17-4012.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2574872930.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:17.918116+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2574872930",
+    "concepts": [
+      "Modularity (biology)",
+      "Computer science",
+      "Documentation",
+      "Machine translation",
+      "Extensibility"
+    ],
+    "oa_status": "hybrid"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W3135970545",
+  "title": "A survey on adversarial attacks and defences",
+  "abstract": "Abstract Deep learning has evolved as a strong and efficient framework that can be applied to a broad spectrum of complex learning problems which were difficult to solve using the traditional machine learning techniques in the past. The advancement of deep learning has been so radical that today it can surpass human‐level performance. As a consequence, deep learning is being extensively used in most of the recent day‐to‐day applications. However, efficient deep learning systems can be jeopardised by using crafted adversarial samples, which may be imperceptible to the human eye, but can lead the model to misclassify the output. In recent times, different types of adversaries based on their threat model leverage these vulnerabilities to compromise a deep learning system where adversaries have high incentives. Hence, it is extremely important to provide robustness to deep learning algorithms against these adversaries. However, there are only a few strong countermeasures which can be used in all types of attack scenarios to design a robust deep learning system. Herein, the authors attempt to provide a detailed discussion on different types of adversarial attacks with various threat models and also elaborate on the efficiency and challenges of recent countermeasures against them.",
+  "authors": [
+    "Anirban Chakraborty",
+    "Manaar Alam",
+    "Vishal Dey",
+    "Anupam Chattopadhyay",
+    "Debdeep Mukhopadhyay"
+  ],
+  "year": 2021,
+  "doi": "10.1049/cit2.12028",
+  "source": "openalex",
+  "categories": [
+    "Adversarial system",
+    "Deep learning",
+    "Leverage (statistics)",
+    "Computer science",
+    "Artificial intelligence",
+    "Robustness (evolution)",
+    "Compromise",
+    "Adversarial machine learning",
+    "Incentive",
+    "Machine learning",
+    "Computer security",
+    "Risk analysis (engineering)",
+    "Data science",
+    "Business",
+    "Social science",
+    "Biochemistry",
+    "Gene",
+    "Chemistry",
+    "Sociology",
+    "Economics",
+    "Microeconomics"
+  ],
+  "citation_count": 1238,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1049/cit2.12028",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3135970545.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:02.826986+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3135970545",
+    "concepts": [
+      "Adversarial system",
+      "Deep learning",
+      "Leverage (statistics)",
+      "Computer science",
+      "Artificial intelligence"
+    ],
+    "oa_status": "gold"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2064650699",
+  "title": "Statistical Properties of New Neutrality Tests Against Population Growth",
+  "abstract": "A number of statistical tests for detecting population growth are described. We compared the statistical power of these tests with that of others available in the literature. The tests evaluated fall into three categories: those tests based on the distribution of the mutation frequencies, on the haplotype distribution, and on the mismatch distribution. We found that, for an extensive variety of cases, the most powerful tests for detecting population growth are Fu's F(S) test and the newly developed R(2) test. The behavior of the R(2) test is superior for small sample sizes, whereas F(S) is better for large sample sizes. We also show that some popular statistics based on the mismatch distribution are very conservative.",
+  "authors": [
+    "Sebastian Ernesto Ramos-Onsins",
+    "Julio Rozas"
+  ],
+  "year": 2002,
+  "doi": "10.1093/oxfordjournals.molbev.a004034",
+  "source": "openalex",
+  "categories": [
+    "Biology",
+    "Statistical hypothesis testing",
+    "Statistics",
+    "Population",
+    "Statistical power",
+    "Sample size determination",
+    "Distribution (mathematics)",
+    "Sample (material)",
+    "Neutrality",
+    "Evolutionary biology",
+    "Mathematics",
+    "Demography",
+    "Sociology",
+    "Epistemology",
+    "Philosophy",
+    "Mathematical analysis",
+    "Chemistry",
+    "Chromatography"
+  ],
+  "citation_count": 2162,
+  "open_access_pdf_url": "https://academic.oup.com/mbe/article-pdf/19/12/2092/23454256/mbev_19_12_2092.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2064650699.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:12.712402+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2064650699",
+    "concepts": [
+      "Biology",
+      "Statistical hypothesis testing",
+      "Statistics",
+      "Population",
+      "Statistical power"
+    ],
+    "oa_status": "bronze"
+  }
+}

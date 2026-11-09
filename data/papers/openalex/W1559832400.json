@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W1559832400",
+  "title": "Growth of Rhodococcus sp. strain BCP1 on gaseous n-alkanes: new metabolic insights and transcriptional analysis of two soluble di-iron monooxygenase genes",
+  "abstract": "Rhodococcus sp. strain BCP1 was initially isolated for its ability to grow on gaseous n-alkanes, which act as inducers for the co-metabolic degradation of low-chlorinated compounds. Here, both molecular and metabolic features of BCP1 cells grown on gaseous and short-chain n-alkanes (up to n-heptane) were examined in detail. We show that propane metabolism generated terminal and sub-terminal oxidation products such as 1- and 2-propanol, whereas 1-butanol was the only terminal oxidation product detected from n-butane metabolism. Two gene clusters, prmABCD and smoABCD-coding for Soluble Di-Iron Monooxgenases (SDIMOs) involved in gaseous n-alkanes oxidation-were detected in the BCP1 genome. By means of Reverse Transcriptase-quantitative PCR (RT-qPCR) analysis, a set of substrates inducing the expression of the sdimo genes in BCP1 were assessed as well as their transcriptional repression in the presence of sugars, organic acids, or during the cell growth on rich medium (Luria-Bertani broth). The transcriptional start sites of both the sdimo gene clusters were identified by means of primer extension experiments. Finally, proteomic studies revealed changes in the protein pattern induced by growth on gaseous- (n-butane) and/or liquid (n-hexane) short-chain n-alkanes as compared to growth on succinate. Among the differently expressed protein spots, two chaperonins and an isocytrate lyase were identified along with oxidoreductases involved in oxidation reactions downstream of the initial monooxygenase reaction step.",
+  "authors": [
+    "Martina Cappelletti",
+    "Alessandro Presentato",
+    "Giorgio Milazzo",
+    "Raymond Joseph Turner",
+    "Stefano Fedi",
+    "Dario Frascari",
+    "Davide Zannoni"
+  ],
+  "year": 2015,
+  "doi": "10.3389/fmicb.2015.00393",
+  "source": "openalex",
+  "categories": [
+    "Monooxygenase",
+    "Biochemistry",
+    "Chemistry",
+    "Gene",
+    "Metabolism",
+    "Operon",
+    "Rhodococcus",
+    "Biology",
+    "Enzyme",
+    "Mutant",
+    "Cytochrome P450"
+  ],
+  "citation_count": 1783,
+  "open_access_pdf_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2015.00393/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1559832400.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:26.058769+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1559832400",
+    "concepts": [
+      "Monooxygenase",
+      "Biochemistry",
+      "Chemistry",
+      "Gene",
+      "Metabolism"
+    ],
+    "oa_status": "gold"
+  }
+}

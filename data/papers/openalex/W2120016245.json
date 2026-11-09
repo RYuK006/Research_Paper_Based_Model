@@ -1,0 +1,57 @@
+{
+  "id": "openalex:W2120016245",
+  "title": "Multiplexed Protein Quantitation in Saccharomyces cerevisiae Using Amine-reactive Isobaric Tagging Reagents",
+  "abstract": "We describe here a multiplexed protein quantitation strategy that provides relative and absolute measurements of proteins in complex mixtures. At the core of this methodology is a multiplexed set of isobaric reagents that yield amine-derivatized peptides. The derivatized peptides are indistinguishable in MS, but exhibit intense low-mass MS/MS signature ions that support quantitation. In this study, we have examined the global protein expression of a wild-type yeast strain and the isogenic upf1Delta and xrn1Delta mutant strains that are defective in the nonsense-mediated mRNA decay and the general 5' to 3' decay pathways, respectively. We also demonstrate the use of 4-fold multiplexing to enable relative protein measurements simultaneously with determination of absolute levels of a target protein using synthetic isobaric peptide standards. We find that inactivation of Upf1p and Xrn1p causes common as well as unique effects on protein expression.",
+  "authors": [
+    "Philip L. Ross",
+    "Yulin Huang",
+    "Jason Marchese",
+    "Brian Williamson",
+    "Kenneth C. Parker",
+    "Stephen J. Hattan",
+    "Nikita Khainovski",
+    "Sasi Pillai",
+    "Subhakar Dey",
+    "Scott B. Daniels",
+    "Subhasish Purkayastha",
+    "Péter Juhász",
+    "Stephen A. Martin",
+    "Michael Bartlet‐Jones",
+    "Feng He",
+    "Allan Jacobson",
+    "Darryl Pappin"
+  ],
+  "year": 2004,
+  "doi": "10.1074/mcp.m400129-mcp200",
+  "source": "openalex",
+  "categories": [
+    "Isobaric labeling",
+    "Chemistry",
+    "Isobaric process",
+    "Quantitative proteomics",
+    "Peptide",
+    "Mutant",
+    "Biochemistry",
+    "Chromatography",
+    "Proteomics",
+    "Gene",
+    "Physics",
+    "Thermodynamics"
+  ],
+  "citation_count": 4448,
+  "open_access_pdf_url": "http://www.mcponline.org/article/S153594762032939X/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2120016245.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:53.955994+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2120016245",
+    "concepts": [
+      "Isobaric labeling",
+      "Chemistry",
+      "Isobaric process",
+      "Quantitative proteomics",
+      "Peptide"
+    ],
+    "oa_status": "hybrid"
+  }
+}

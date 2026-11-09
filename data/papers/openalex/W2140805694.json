@@ -1,0 +1,59 @@
+{
+  "id": "openalex:W2140805694",
+  "title": "Asian emissions in 2006 for the NASA INTEX-B mission",
+  "abstract": "Abstract. A new inventory of air pollutant emissions in Asia in the year 2006 is developed to support the Intercontinental Chemical Transport Experiment-Phase B (INTEX-B) funded by the National Aeronautics and Space Administration (NASA). Emissions are estimated for all major anthropogenic sources, excluding biomass burning. We estimate total Asian anthropogenic emissions in the year 2006 as follows: 47.1 Tg SO2, 36.7 Tg NOx, 298.2 Tg CO, 54.6 Tg NMVOC, 29.2 Tg PM10, 22.2 Tg PM2.5, 2.97 Tg BC, and 6.57 Tg OC. We emphasize emissions from China because they dominate the Asia pollutant outflow to the Pacific and the increase of emissions from China since 2000 is of great concern. We have implemented a~series of improved methodologies to gain a better understanding of emissions from China, including a detailed technology-based approach, a dynamic methodology representing rapid technology renewal, critical examination of energy statistics, and a new scheme of NMVOC speciation for model-ready emissions. We estimate China's anthropogenic emissions in the year 2006 to be as follows: 31.0 Tg SO2, 20.8 Tg NOx, 166.9 Tg CO, 23.2 Tg NMVOC, 18.2 Tg PM10, 13.3 Tg PM2.5, 1.8 Tg BC, and 3.2 Tg OC. We have also estimated 2001 emissions for China using the same methodology and found that all species show an increasing trend during 2001–2006: 36% increase for SO2, 55% for NOx, 18% for CO, 29% for VOC, 13% for PM10, and 14% for PM2.5, BC, and OC. Emissions are gridded at a resolution of 30 min×30 min and can be accessed at our web site (http://mic.greenresource.cn/intex-b2006).",
+  "authors": [
+    "Q. Zhang",
+    "David G. Streets",
+    "Gregory R. Carmichael",
+    "Kebin He",
+    "Hong Huo",
+    "Akiyoshi Kannari",
+    "Zbigniew Klimont",
+    "I. S. Park",
+    "M. Shekar Reddy",
+    "Joshua S. Fu",
+    "D. Chen",
+    "L. Duan",
+    "Yu Lei",
+    "L. T. Wang",
+    "Zhiliang Yao"
+  ],
+  "year": 2009,
+  "doi": "10.5194/acp-9-5131-2009",
+  "source": "openalex",
+  "categories": [
+    "Environmental science",
+    "NOx",
+    "China",
+    "Emission inventory",
+    "Biomass burning",
+    "Meteorology",
+    "Pollutant",
+    "Aerosol",
+    "Atmospheric sciences",
+    "Air quality index",
+    "Geography",
+    "Combustion",
+    "Chemistry",
+    "Physics",
+    "Organic chemistry",
+    "Archaeology"
+  ],
+  "citation_count": 1994,
+  "open_access_pdf_url": "https://acp.copernicus.org/articles/9/5131/2009/acp-9-5131-2009.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2140805694.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:17.727418+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2140805694",
+    "concepts": [
+      "Environmental science",
+      "NOx",
+      "China",
+      "Emission inventory",
+      "Biomass burning"
+    ],
+    "oa_status": "gold"
+  }
+}

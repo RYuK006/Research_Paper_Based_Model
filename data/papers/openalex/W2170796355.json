@@ -1,0 +1,59 @@
+{
+  "id": "openalex:W2170796355",
+  "title": "Size-Dependent Optical Properties of Colloidal PbS Quantum Dots",
+  "abstract": "We quantitatively investigate the size-dependent optical properties of colloidal PbS nanocrystals or quantum dots (Qdots), by combining the Qdot absorbance spectra with detailed elemental analysis of the Qdot suspensions. At high energies, the molar extinction coefficient epsilon increases with the Qdot volume d(3) and agrees with theoretical calculations using the Maxwell-Garnett effective medium theory and bulk values for the Qdot dielectric function. This demonstrates that quantum confinement has no influence on epsilon in this spectral range, and it provides an accurate method to calculate the Qdot concentration. Around the band gap, epsilon only increases with d(1.3), and values are comparable to the epsilon of PbSe Qdots. The data are related to the oscillator strength f(if) of the band gap transition and results agree well with theoretical tight-binding calculations, predicting a linear dependence of f(if) on d. For both PbS and PbSe Qdots, the exciton lifetime tau is calculated from f(if). We find values ranging between 1 and 3 mus, in agreement with experimental literature data from time-resolved luminescence spectroscopy. Our results provide a thorough general framework to calculate and understand the optical properties of suspended colloidal quantum dots. Most importantly, it highlights the significance of the local field factor in these systems.",
+  "authors": [
+    "Iwan Moreels",
+    "Karel Lambert",
+    "Dries Smeets",
+    "David De Muynck",
+    "Tom Nollet",
+    "José C. Martins",
+    "Frank Vanhaecke",
+    "A. Vantomme",
+    "Christophe Delerue",
+    "G. Allan",
+    "Zeger Hens"
+  ],
+  "year": 2009,
+  "doi": "10.1021/nn900863a",
+  "source": "openalex",
+  "categories": [
+    "Quantum dot",
+    "Exciton",
+    "Materials science",
+    "Nanocrystal",
+    "Molar absorptivity",
+    "Colloid",
+    "Absorbance",
+    "Oscillator strength",
+    "Spectroscopy",
+    "Molecular physics",
+    "Band gap",
+    "Spectral line",
+    "Condensed matter physics",
+    "Nanotechnology",
+    "Physics",
+    "Optics",
+    "Optoelectronics",
+    "Chemistry",
+    "Quantum mechanics",
+    "Physical chemistry"
+  ],
+  "citation_count": 1266,
+  "open_access_pdf_url": "https://biblio.ugent.be/publication/780823/file/788711.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2170796355.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:00.620236+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2170796355",
+    "concepts": [
+      "Quantum dot",
+      "Exciton",
+      "Materials science",
+      "Nanocrystal",
+      "Molar absorptivity"
+    ],
+    "oa_status": "green"
+  }
+}

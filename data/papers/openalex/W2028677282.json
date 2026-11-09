@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2028677282",
+  "title": "Size effects in materials due to microstructural and dimensional constraints: a comparative review",
+  "abstract": "Effects of size on predominantly mechanical properties of materials are reviewed at a first-order level. Microstructural constraints, e.g. due to second-phase particles and grain boundaries, and dimensional constraints in small-scale materials such as thin films are distinguished. Phenomena addressed are particle strengthening in plasticity, creep and magnetism, grain size strengthening and the limits to Hall–Petch behavior as well as the yielding of thin films and multilayers. Important aspects can be understood from the point-of-view of the interaction of a characteristic length (which may be as diverse as the dislocation radius of curvature at a given stress or the magnetic exchange length) with a size parameter (grain or particle size, or film thickness). It is demonstrated that such an approach can reveal interesting analogies between otherwise very different properties of materials.",
+  "authors": [
+    "Eduard Arzt"
+  ],
+  "year": 1998,
+  "doi": "10.1016/s1359-6454(98)00231-6",
+  "source": "openalex",
+  "categories": [
+    "Materials science",
+    "Grain size",
+    "Grain boundary strengthening",
+    "Dislocation",
+    "Creep",
+    "Grain boundary",
+    "Magnetism",
+    "Condensed matter physics",
+    "Length scale",
+    "Particle size",
+    "Curvature",
+    "Composite material",
+    "Microstructure",
+    "Mechanics",
+    "Geometry",
+    "Physics",
+    "Physical chemistry",
+    "Mathematics",
+    "Chemistry"
+  ],
+  "citation_count": 1197,
+  "open_access_pdf_url": "https://www.sciencedirect.com/science/article/pii/S1359645498002316/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2028677282.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:08.324042+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2028677282",
+    "concepts": [
+      "Materials science",
+      "Grain size",
+      "Grain boundary strengthening",
+      "Dislocation",
+      "Creep"
+    ],
+    "oa_status": "hybrid"
+  }
+}

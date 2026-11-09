@@ -1,0 +1,59 @@
+{
+  "id": "openalex:W1990646419",
+  "title": "Application of spheroid models to account for aerosol particle nonsphericity in remote sensing of desert dust",
+  "abstract": "The possibility of using shape mixtures of randomly oriented spheroids for modeling desert dust aerosol light scattering is discussed. For reducing calculation time, look‐up tables were simulated for quadrature coefficients employed in the numerical integration of spheroid optical properties over size and shape. The calculations were done for 25 bins of the spheroid axis ratio ranging from ∼0.3 (flattened spheroids) to ∼3.0 (elongated spheroids) and for 41 narrow size bins covering the size parameter range from ∼0.012 to ∼625. The look‐up tables were arranged into a software package, which allows fast, accurate, and flexible modeling of scattering by randomly oriented spheroids with different size and shape distributions. In order to evaluate spheroid model and explore the possibility of aerosol shape identification, the software tool has been integrated into inversion algorithms for retrieving detailed aerosol properties from laboratory or remote sensing polarimetric measurements of light scattering. The application of this retrieval technique to laboratory measurements by Volten et al. (2001) has shown that spheroids can closely reproduce mineral dust light scattering matrices. The spheroid model was utilized for retrievals of aerosol properties from atmospheric radiation measured by AERONET ground‐based Sun/sky‐radiometers. It is shown that mixtures of spheroids allow rather accurate fitting of measured spectral and angular dependencies of observed intensity and polarization. Moreover, it is shown that for aerosol mixtures with a significant fraction of coarse‐mode particles (radii ≥ ∼1 μm), the nonsphericity of aerosol particles can be detected as part of AERONET retrievals. The retrieval results indicate that nonspherical particles with aspect ratios ∼1.5 and higher dominate in desert dust plumes, while in the case of background maritime aerosol spherical particles are dominant. Finally, the potential of using AERONET derived spheroid mixtures for modeling the effects of aerosol particle nonsphericity in other remote sensing techniques is discussed. For example, the variability of lidar measurements (extinction to backscattering ratio and signal depolarization ratio) is illustrated and analyzed. Also, some potentially important differences in the sensitivity of angular light scattering to parameters of nonspherical versus spherical aerosols are revealed and discussed.",
+  "authors": [
+    "Оleg Dubovik",
+    "A. Sinyuk",
+    "Tatyana Lapyonok",
+    "BRENT N. HOLBEN",
+    "Michael I. Mishchenko",
+    "Ping Xian Yang",
+    "Tom F. Eck",
+    "H. Volten",
+    "Olga Muñoz",
+    "Ben Veihelmann",
+    "Wim J. van der Zande",
+    "Jean‐François Léon",
+    "Michael Sorokin",
+    "I. Slutsker"
+  ],
+  "year": 2006,
+  "doi": "10.1029/2005jd006619",
+  "source": "openalex",
+  "categories": [
+    "AERONET",
+    "Aerosol",
+    "Spheroid",
+    "Single-scattering albedo",
+    "Mineral dust",
+    "Scattering",
+    "Radiometer",
+    "Physics",
+    "Computational physics",
+    "Remote sensing",
+    "Environmental science",
+    "Optics",
+    "Meteorology",
+    "Geology",
+    "Chemistry",
+    "In vitro",
+    "Biochemistry"
+  ],
+  "citation_count": 1697,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2005JD006619",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1990646419.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:33.163416+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1990646419",
+    "concepts": [
+      "AERONET",
+      "Aerosol",
+      "Spheroid",
+      "Single-scattering albedo",
+      "Mineral dust"
+    ],
+    "oa_status": "bronze"
+  }
+}

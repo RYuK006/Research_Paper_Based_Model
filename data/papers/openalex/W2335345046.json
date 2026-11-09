@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W2335345046",
+  "title": "Phase separation of signaling molecules promotes T cell receptor signal transduction",
+  "abstract": "Activation of various cell surface receptors triggers the reorganization of downstream signaling molecules into micrometer- or submicrometer-sized clusters. However, the functional consequences of such clustering have been unclear. We biochemically reconstituted a 12-component signaling pathway on model membranes, beginning with T cell receptor (TCR) activation and ending with actin assembly. When TCR phosphorylation was triggered, downstream signaling proteins spontaneously separated into liquid-like clusters that promoted signaling outputs both in vitro and in human Jurkat T cells. Reconstituted clusters were enriched in kinases but excluded phosphatases and enhanced actin filament assembly by recruiting and organizing actin regulators. These results demonstrate that protein phase separation can create a distinct physical and biochemical compartment that facilitates signaling.",
+  "authors": [
+    "Xiaolei Su",
+    "Jonathon A. Ditlev",
+    "Enfu Hui",
+    "Wenmin Xing",
+    "Sudeep Banjade",
+    "Julia Okrut",
+    "David King",
+    "Jack Taunton",
+    "Michael K. Rosen",
+    "Ronald D. Vale"
+  ],
+  "year": 2016,
+  "doi": "10.1126/science.aad9964",
+  "source": "openalex",
+  "categories": [
+    "Cell biology",
+    "Jurkat cells",
+    "Signal transduction",
+    "T-cell receptor",
+    "Phosphorylation",
+    "Actin",
+    "Cell signaling",
+    "Receptor",
+    "Actin cytoskeleton",
+    "Kinase",
+    "Biology",
+    "Chemistry",
+    "Cell",
+    "Cytoskeleton",
+    "T cell",
+    "Biochemistry",
+    "Immunology",
+    "Immune system"
+  ],
+  "citation_count": 1259,
+  "open_access_pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/4892427",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2335345046.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:00.716393+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2335345046",
+    "concepts": [
+      "Cell biology",
+      "Jurkat cells",
+      "Signal transduction",
+      "T-cell receptor",
+      "Phosphorylation"
+    ],
+    "oa_status": "green"
+  }
+}

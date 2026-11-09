@@ -1,0 +1,44 @@
+{
+  "id": "openalex:W2080539324",
+  "title": "Bio-energy in the black",
+  "abstract": "At best, common renewable energy strategies can only offset fossil fuel emissions of CO2 – they cannot reverse climate change. One promising approach to lowering CO2 in the atmosphere while producing energy is biochar bio-energy, based on low-temperature pyrolysis. This technology relies on capturing the off-gases from thermal decomposition of wood or grasses to produce heat, electricity, or biofuels. Biochar is a major by-product of this pyrolysis, and has remarkable environmental properties. In soil, biochar was shown to persist longer and to retain cations better than other forms of soil organic matter. The precise half-life of biochar is still disputed, however, and this will have important implications for the value of the technology, particularly in carbon trading. Furthermore, the cation retention of fresh biochar is relatively low compared to aged biochar in soil, and it is not clear under what conditions, and over what period of time, biochar develops its adsorbing properties. Research is still needed to maximize the favorable attributes of biochar and to fully evaluate environmental risks, but this technology has the potential to provide an important carbon sink and to reduce environmental pollution by fertilizers.",
+  "authors": [
+    "Johannes C. Lehmann"
+  ],
+  "year": 2007,
+  "doi": "10.1890/1540-9295(2007)5[381:bitb]2.0.co;2",
+  "source": "openalex",
+  "categories": [
+    "Biochar",
+    "Pyrolysis",
+    "Environmental science",
+    "Fossil fuel",
+    "Slash-and-char",
+    "Renewable energy",
+    "Biofuel",
+    "Carbon sequestration",
+    "Waste management",
+    "Chemistry",
+    "Carbon dioxide",
+    "Ecology",
+    "Biology",
+    "Organic chemistry",
+    "Engineering"
+  ],
+  "citation_count": 1773,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1890/1540-9295%282007%295%5B381%3ABITB%5D2.0.CO%3B2",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2080539324.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:26.086547+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2080539324",
+    "concepts": [
+      "Biochar",
+      "Pyrolysis",
+      "Environmental science",
+      "Fossil fuel",
+      "Slash-and-char"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W2113154377",
+  "title": "Organic aerosol components observed in Northern Hemispheric datasets from Aerosol Mass Spectrometry",
+  "abstract": "Abstract. In this study we present results from the factor analysis of 43 aerosol mass spectrometer (AMS) datasets and provide an overview of worldwide organic aerosol (OA) components and their evolution in the atmosphere. At most sites, the OA can be separated into oxygenated OA (OOA), hydrocarbon-like OA (HOA), and sometimes other components such as biomass burning OA (BBOA). In many analyses, the OOA can be further deconvolved into low-volatility OOA (LV-OOA) and semi-volatile OOA (SV-OOA). A wide range of f44 (ratio of m/z 44 to total signal in the component mass spectrum) and O:C ratios are observed for both LV-OOA (0.17±0.04, 0.73±0.14) and SV-OOA (0.07±0.04, 0.35±0.14) components, reflecting the fact that there is a continuum of OOA properties in ambient aerosol. Differences in the mass spectra of these components are characterized in terms of the two main ions m/z 44 (CO2+) and m/z 43 (mostly C2H3O+). The LV-OOA component spectra have higher f44 and lower f43 than SV-OOA. The OOA components (OOA, LV-OOA, and SV-OOA) from all sites cluster within a well defined triangular region in the f44 vs. f43 space, which can be used as a standardized means of comparing and characterizing any OOA components (laboratory or ambient) observed with the AMS. Examination of the OOA components in this triangular space indicates that OOA component spectra become increasingly similar to each other and to fulvic acid and HULIS sample spectra as f44 (a surrogate for O:C and an indicator of photochemical aging) increases. This indicates that ambient OA converges towards highly aged LV-OOA with atmospheric oxidation. The common features of the transformation between SV-OOA and LV-OOA at multiple sites potentially enables a simplified description of the oxidation of OA in the atmosphere. Comparison of laboratory SOA data with ambient OOA indicates that laboratory SOA are more similar to SV-OOA, and rarely become as oxidized as ambient LV-OOA, likely due to the higher loadings employed in the experiments and/or limited oxidant exposure in most chamber experiments.",
+  "authors": [
+    "N. L. Ng",
+    "Manjula R. Canagaratna",
+    "Q. Zhang",
+    "Jose Luis Jimenez",
+    "Jing Tian",
+    "Ingrid M. Ulbrich",
+    "Jesse H. Kroll",
+    "Kenneth S. Docherty",
+    "P. S. Chhabra",
+    "R. Bahreini",
+    "S. M. Murphy",
+    "John H. Seinfeld",
+    "L. Hildebrandt",
+    "Neil M. Donahue",
+    "P. F. DeCarlo",
+    "V. A. Lanz",
+    "Andrê S. H. Prévôt",
+    "E. Dinar",
+    "Yinon Rudich",
+    "Douglas R. Worsnop"
+  ],
+  "year": 2010,
+  "doi": "10.5194/acp-10-4625-2010",
+  "source": "openalex",
+  "categories": [
+    "Aerosol",
+    "Mass spectrometry",
+    "Mass spectrum",
+    "Chemistry",
+    "Analytical Chemistry (journal)",
+    "Environmental chemistry",
+    "Chromatography",
+    "Organic chemistry"
+  ],
+  "citation_count": 1116,
+  "open_access_pdf_url": "https://acp.copernicus.org/articles/10/4625/2010/acp-10-4625-2010.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2113154377.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:19.539653+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2113154377",
+    "concepts": [
+      "Aerosol",
+      "Mass spectrometry",
+      "Mass spectrum",
+      "Chemistry",
+      "Analytical Chemistry (journal)"
+    ],
+    "oa_status": "gold"
+  }
+}

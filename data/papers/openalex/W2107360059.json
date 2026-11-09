@@ -1,0 +1,58 @@
+{
+  "id": "openalex:W2107360059",
+  "title": "Linear-Scaling ab-initio Calculations for Large and Complex Systems",
+  "abstract": "A brief review of the Siesta project is presented in the context of linear-scaling density-functional methods for electronic-structure calculations and molecular-dynamics simulations of systems with a large number of atoms. Applications of the method to different systems are reviewed, including carbon nanotubes, gold nanostructures, adsorbates on silicon surfaces, and nucleic acids. Also, progress in atomic-orbital bases adapted to linear-scaling methodology is presented.",
+  "authors": [
+    "Emilio Artacho",
+    "Daniel Sánchez‐Portal",
+    "Pablo Ordejón",
+    "A. Garc�a",
+    "José M. Soler"
+  ],
+  "year": 1999,
+  "doi": "10.1002/(sici)1521-3951(199909)215:1<809::aid-pssb809>3.0.co;2-0",
+  "source": "openalex",
+  "categories": [
+    "SIESTA (computer program)",
+    "Scaling",
+    "Ab initio",
+    "Linear scale",
+    "Context (archaeology)",
+    "Statistical physics",
+    "Carbon nanotube",
+    "Density functional theory",
+    "Silicon",
+    "Ab initio quantum chemistry methods",
+    "Physics",
+    "Materials science",
+    "Computational chemistry",
+    "Nanotechnology",
+    "Chemical physics",
+    "Chemistry",
+    "Quantum mechanics",
+    "Molecule",
+    "Mathematics",
+    "Optoelectronics",
+    "Geometry",
+    "Geography",
+    "Geodesy",
+    "Paleontology",
+    "Biology"
+  ],
+  "citation_count": 1089,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/9904159",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2107360059.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:24.356699+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2107360059",
+    "concepts": [
+      "SIESTA (computer program)",
+      "Scaling",
+      "Ab initio",
+      "Linear scale",
+      "Context (archaeology)"
+    ],
+    "oa_status": "green"
+  }
+}

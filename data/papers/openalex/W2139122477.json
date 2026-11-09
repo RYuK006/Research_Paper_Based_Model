@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W2139122477",
+  "title": "MethPrimer: designing primers for methylation PCRs",
+  "abstract": "Abstract Motivation: DNA methylation is an epigenetic mechanism of gene regulation. Bisulfite- conversion-based PCR methods, such as bisulfite sequencing PCR (BSP) and methylation specific PCR (MSP), remain the most commonly used techniques for methylation mapping. Existing primer design programs developed for standard PCR cannot handle primer design for bisulfite-conversion-based PCRs due to changes in DNA sequence context caused by bisulfite treatment and many special constraints both on the primers and the region to be amplified for such experiments. Therefore, the present study was designed to develop a program for such applications. Results: MethPrimer, based on Primer3, is a program for designing PCR primers for methylation mapping. It first takes a DNA sequence as its input and searches the sequence for potential CpG islands. Primers are then picked around the predicted CpG islands or around regions specified by users. MethPrimer can design primers for BSP and MSP. Results of primer selection are delivered through a web browser in text and in graphic view. Availability: MethPrimer is freely accessible at the following Web address http://itsa.ucsf.edu/~urolab/methprimer Contact: longli@itsa.ucsf.eduurologylab@aol.com * To whom correspondence should be addressed.",
+  "authors": [
+    "Long-Cheng Li",
+    "Rajvir Dahiya"
+  ],
+  "year": 2002,
+  "doi": "10.1093/bioinformatics/18.11.1427",
+  "source": "openalex",
+  "categories": [
+    "Bisulfite sequencing",
+    "Primer (cosmetics)",
+    "Bisulfite",
+    "DNA methylation",
+    "CpG site",
+    "Context (archaeology)",
+    "Methylation",
+    "Illumina Methylation Assay",
+    "Biology",
+    "Computational biology",
+    "In silico PCR",
+    "Epigenetics",
+    "Genetics",
+    "DNA sequencing",
+    "Polymerase chain reaction",
+    "DNA",
+    "Molecular biology",
+    "Gene",
+    "Multiplex polymerase chain reaction",
+    "Chemistry",
+    "Gene expression",
+    "Paleontology",
+    "Organic chemistry"
+  ],
+  "citation_count": 2739,
+  "open_access_pdf_url": "https://academic.oup.com/bioinformatics/article-pdf/18/11/1427/426887/181427.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2139122477.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:01.984479+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2139122477",
+    "concepts": [
+      "Bisulfite sequencing",
+      "Primer (cosmetics)",
+      "Bisulfite",
+      "DNA methylation",
+      "CpG site"
+    ],
+    "oa_status": "bronze"
+  }
+}

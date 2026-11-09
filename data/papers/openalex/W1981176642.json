@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W1981176642",
+  "title": "Mapping complex tissue architecture with diffusion spectrum magnetic resonance imaging",
+  "abstract": "Methods are presented to map complex fiber architectures in tissues by imaging the 3D spectra of tissue water diffusion with MR. First, theoretical considerations show why and under what conditions diffusion contrast is positive. Using this result, spin displacement spectra that are conventionally phase-encoded can be accurately reconstructed by a Fourier transform of the measured signal's modulus. Second, studies of in vitro and in vivo samples demonstrate correspondence between the orientational maxima of the diffusion spectrum and those of the fiber orientation density at each location. In specimens with complex muscular tissue, such as the tongue, diffusion spectrum images show characteristic local heterogeneities of fiber architectures, including angular dispersion and intersection. Cerebral diffusion spectra acquired in normal human subjects resolve known white matter tracts and tract intersections. Finally, the relation between the presented model-free imaging technique and other available diffusion MRI schemes is discussed.",
+  "authors": [
+    "Van Jay Wedeen",
+    "Patric Hagmann",
+    "Wen‐Yih Isaac Tseng",
+    "Timothy G. Reese",
+    "Robert M. Weisskoff"
+  ],
+  "year": 2005,
+  "doi": "10.1002/mrm.20642",
+  "source": "openalex",
+  "categories": [
+    "Diffusion MRI",
+    "Diffusion",
+    "Nuclear magnetic resonance",
+    "Phase (matter)",
+    "Spectral line",
+    "Magnetic resonance imaging",
+    "Orientation (vector space)",
+    "Fourier transform",
+    "Optics",
+    "Chemistry",
+    "Physics",
+    "Geometry",
+    "Mathematics",
+    "Radiology",
+    "Astronomy",
+    "Thermodynamics",
+    "Quantum mechanics",
+    "Organic chemistry",
+    "Medicine"
+  ],
+  "citation_count": 1363,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/mrm.20642",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1981176642.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:55.102291+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1981176642",
+    "concepts": [
+      "Diffusion MRI",
+      "Diffusion",
+      "Nuclear magnetic resonance",
+      "Phase (matter)",
+      "Spectral line"
+    ],
+    "oa_status": "bronze"
+  }
+}

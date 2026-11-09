@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W2265160803",
+  "title": "The synergetic effect of lithium polysulfide and lithium nitrate to prevent lithium dendrite growth",
+  "abstract": "Lithium metal has shown great promise as an anode material for high-energy storage systems, owing to its high theoretical specific capacity and low negative electrochemical potential. Unfortunately, uncontrolled dendritic and mossy lithium growth, as well as electrolyte decomposition inherent in lithium metal-based batteries, cause safety issues and low Coulombic efficiency. Here we demonstrate that the growth of lithium dendrites can be suppressed by exploiting the reaction between lithium and lithium polysulfide, which has long been considered as a critical flaw in lithium–sulfur batteries. We show that a stable and uniform solid electrolyte interphase layer is formed due to a synergetic effect of both lithium polysulfide and lithium nitrate as additives in ether-based electrolyte, preventing dendrite growth and minimizing electrolyte decomposition. Our findings allow for re-evaluation of the reactions regarding lithium polysulfide, lithium nitrate and lithium metal, and provide insights into solving the problems associated with lithium metal anodes. Lithium dendrite growth is a serious hazard in battery operations. Here, the authors show that when using lithium polysulfide and lithium nitrate as additives in ether-based electrolyte, a stable and uniform solid electrolyte interphase forms on the lithium surface, which prevents dendrite growth.",
+  "authors": [
+    "Weiyang Li",
+    "Hong‐Bin Yao",
+    "Kai Yan",
+    "Guangyuan Wesley Zheng",
+    "Zheng Liang",
+    "Yet‐Ming Chiang",
+    "Yi Cui"
+  ],
+  "year": 2015,
+  "doi": "10.1038/ncomms8436",
+  "source": "openalex",
+  "categories": [
+    "Polysulfide",
+    "Lithium (medication)",
+    "Electrolyte",
+    "Lithium nitrate",
+    "Anode",
+    "Faraday efficiency",
+    "Materials science",
+    "Electrochemistry",
+    "Lithium vanadium phosphate battery",
+    "Inorganic chemistry",
+    "Dendrite (mathematics)",
+    "Chemistry",
+    "Ion",
+    "Organic chemistry",
+    "Electrode",
+    "Ionic bonding",
+    "Physical chemistry",
+    "Medicine",
+    "Mathematics",
+    "Geometry",
+    "Endocrinology"
+  ],
+  "citation_count": 1551,
+  "open_access_pdf_url": "https://www.nature.com/articles/ncomms8436.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2265160803.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:42.066420+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2265160803",
+    "concepts": [
+      "Polysulfide",
+      "Lithium (medication)",
+      "Electrolyte",
+      "Lithium nitrate",
+      "Anode"
+    ],
+    "oa_status": "gold"
+  }
+}

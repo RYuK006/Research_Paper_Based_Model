@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2041034845",
+  "title": "Nitric oxide production contributes to the angiogenic properties of vascular endothelial growth factor in human endothelial cells.",
+  "abstract": "Vascular endothelial growth factor (VEGF) is a regulator of vasculogenesis and angiogenesis. To investigate the role of nitric oxide (NO) in VEGF-induced proliferation and in vitro angiogenesis, human umbilical vein endothelial cells (HUVEC) were used. VEGF stimulated the growth of HUVEC in an NO-dependent manner. In addition, VEGF promoted the NO-dependent formation of network-like structures in HUVEC cultured in three dimensional (3D) collagen gels. Exposure of cells to VEGF led to a concentration-dependent increase in cGMP levels, an indicator of NO production, that was inhibited by nitro-L-arginine methyl ester. VEGF-stimulated NO production required activation of tyrosine kinases and increases in intracellular calcium, since tyrosine kinase inhibitors and calcium chelators attenuated VEGF-induced NO release. Moreover, two chemically distinct phosphoinositide 3 kinase (PI-3K) inhibitors attenuated NO release after VEGF stimulation. In addition, HUVEC incubated with VEGF for 24 h showed an increase in the amount of endothelial NO synthase (eNOS) protein and the release of NO. In summary, both short- and long-term exposure of human EC to VEGF stimulates the release of biologically active NO. While long-term exposure increases eNOS protein levels, short-term stimulation with VEGF promotes NO release through mechanisms involving tyrosine and PI-3K kinases, suggesting that NO mediates aspects of VEGF signaling required for EC proliferation and organization in vitro.",
+  "authors": [
+    "Andreas Papapetropoulos",
+    "Guillermo García‐Cardeña",
+    "Joseph A. Madri",
+    "William C. Sessa"
+  ],
+  "year": 1997,
+  "doi": "10.1172/jci119868",
+  "source": "openalex",
+  "categories": [
+    "Angiogenesis",
+    "Vascular endothelial growth factor",
+    "Cell biology",
+    "Nitric oxide",
+    "Umbilical vein",
+    "Vascular endothelial growth factor A",
+    "Tyrosine kinase",
+    "Vasculogenesis",
+    "Chemistry",
+    "Enos",
+    "Biology",
+    "Endothelial stem cell",
+    "Signal transduction",
+    "Endocrinology",
+    "In vitro",
+    "Biochemistry",
+    "Nitric oxide synthase",
+    "Cancer research",
+    "VEGF receptors"
+  ],
+  "citation_count": 1194,
+  "open_access_pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/508526",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2041034845.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:08.402525+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2041034845",
+    "concepts": [
+      "Angiogenesis",
+      "Vascular endothelial growth factor",
+      "Cell biology",
+      "Nitric oxide",
+      "Umbilical vein"
+    ],
+    "oa_status": "green"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W2146273335",
+  "title": "Strong Control, Conservative Point Estimation and Simultaneous Conservative Consistency of False Discovery Rates: A Unified Approach",
+  "abstract": "Summary The false discovery rate (FDR) is a multiple hypothesis testing quantity that describes the expected proportion of false positive results among all rejected null hypotheses. Benjamini and Hochberg introduced this quantity and proved that a particular step-up p-value method controls the FDR. Storey introduced a point estimate of the FDR for fixed significance regions. The former approach conservatively controls the FDR at a fixed predetermined level, and the latter provides a conservatively biased estimate of the FDR for a fixed predetermined significance region. In this work, we show in both finite sample and asymptotic settings that the goals of the two approaches are essentially equivalent. In particular, the FDR point estimates can be used to define valid FDR controlling procedures. In the asymptotic setting, we also show that the point estimates can be used to estimate the FDR conservatively over all significance regions simultaneously, which is equivalent to controlling the FDR at all levels simultaneously. The main tool that we use is to translate existing FDR methods into procedures involving empirical processes. This simplifies finite sample proofs, provides a framework for asymptotic results and proves that these procedures are valid even under certain forms of dependence.",
+  "authors": [
+    "John D. Storey",
+    "Jonathan Taylor",
+    "David Siegmund"
+  ],
+  "year": 2003,
+  "doi": "10.1111/j.1467-9868.2004.00439.x",
+  "source": "openalex",
+  "categories": [
+    "False discovery rate",
+    "Multiple comparisons problem",
+    "Consistency (knowledge bases)",
+    "Mathematics",
+    "Null hypothesis",
+    "Mathematical proof",
+    "Point (geometry)",
+    "Point estimation",
+    "Asymptotic analysis",
+    "Sample (material)",
+    "Statistics",
+    "Sample size determination",
+    "Null (SQL)",
+    "Algorithm",
+    "Computer science",
+    "Data mining",
+    "Discrete mathematics",
+    "Gene",
+    "Chemistry",
+    "Geometry",
+    "Biochemistry",
+    "Chromatography"
+  ],
+  "citation_count": 1375,
+  "open_access_pdf_url": "https://doi.org/10.1111/j.1467-9868.2004.00439.x",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2146273335.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:52.708434+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2146273335",
+    "concepts": [
+      "False discovery rate",
+      "Multiple comparisons problem",
+      "Consistency (knowledge bases)",
+      "Mathematics",
+      "Null hypothesis"
+    ],
+    "oa_status": "closed"
+  }
+}

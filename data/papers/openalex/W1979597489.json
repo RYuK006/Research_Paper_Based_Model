@@ -1,0 +1,41 @@
+{
+  "id": "openalex:W1979597489",
+  "title": "Seven Golden Rules for heuristic filtering of molecular formulas obtained by accurate mass spectrometry",
+  "abstract": "BACKGROUND: Structure elucidation of unknown small molecules by mass spectrometry is a challenge despite advances in instrumentation. The first crucial step is to obtain correct elemental compositions. In order to automatically constrain the thousands of possible candidate structures, rules need to be developed to select the most likely and chemically correct molecular formulas. RESULTS: An algorithm for filtering molecular formulas is derived from seven heuristic rules: (1) restrictions for the number of elements, (2) LEWIS and SENIOR chemical rules, (3) isotopic patterns, (4) hydrogen/carbon ratios, (5) element ratio of nitrogen, oxygen, phosphor, and sulphur versus carbon, (6) element ratio probabilities and (7) presence of trimethylsilylated compounds. Formulas are ranked according to their isotopic patterns and subsequently constrained by presence in public chemical databases. The seven rules were developed on 68,237 existing molecular formulas and were validated in four experiments. First, 432,968 formulas covering five million PubChem database entries were checked for consistency. Only 0.6% of these compounds did not pass all rules. Next, the rules were shown to effectively reducing the complement all eight billion theoretically possible C, H, N, S, O, P-formulas up to 2000 Da to only 623 million most probable elemental compositions. Thirdly 6,000 pharmaceutical, toxic and natural compounds were selected from DrugBank, TSCA and DNP databases. The correct formulas were retrieved as top hit at 80-99% probability when assuming data acquisition with complete resolution of unique compounds and 5% absolute isotope ratio deviation and 3 ppm mass accuracy. Last, some exemplary compounds were analyzed by Fourier transform ion cyclotron resonance mass spectrometry and by gas chromatography-time of flight mass spectrometry. In each case, the correct formula was ranked as top hit when combining the seven rules with database queries. CONCLUSION: The seven rules enable an automatic exclusion of molecular formulas which are either wrong or which contain unlikely high or low number of elements. The correct molecular formula is assigned with a probability of 98% if the formula exists in a compound database. For truly novel compounds that are not present in databases, the correct formula is found in the first three hits with a probability of 65-81%. Corresponding software and supplemental data are available for downloads from the authors' website.",
+  "authors": [
+    "Tobias Kind",
+    "Oliver Fiehn"
+  ],
+  "year": 2007,
+  "doi": "10.1186/1471-2105-8-105",
+  "source": "openalex",
+  "categories": [
+    "PubChem",
+    "Mass spectrometry",
+    "Chemistry",
+    "Computer science",
+    "Heuristic",
+    "Algorithm",
+    "Data mining",
+    "Database",
+    "Organic chemistry",
+    "Chromatography",
+    "Artificial intelligence"
+  ],
+  "citation_count": 1251,
+  "open_access_pdf_url": "https://link.springer.com/content/pdf/10.1186/1471-2105-8-105.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1979597489.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:02.676208+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1979597489",
+    "concepts": [
+      "PubChem",
+      "Mass spectrometry",
+      "Chemistry",
+      "Computer science",
+      "Heuristic"
+    ],
+    "oa_status": "gold"
+  }
+}

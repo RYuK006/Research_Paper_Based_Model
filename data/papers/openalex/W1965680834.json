@@ -1,0 +1,40 @@
+{
+  "id": "openalex:W1965680834",
+  "title": "On the Shortest Spanning Subtree of a Graph and the Traveling Salesman Problem",
+  "abstract": "7. A. Kurosh, Ringtheoretische Probleme die mit dem Burnsideschen Problem uber periodische Gruppen in Zussammenhang stehen, Bull. Acad. Sei. URSS, Ser. Math. vol. 5 (1941) pp. 233-240. 8. J. Levitzki, On the radical of a general ring, Bull. Amer. Math. Soc. vol. 49 (1943) pp. 462^66. 9. -, On three problems concerning nil rings, Bull. Amer. Math. Soc. vol. 49 (1943) pp. 913-919. 10. -, On the structure of algebraic algebras and related rings, Trans. Amer. Math. Soc. vol. 74 (1953) pp. 384-409.",
+  "authors": [
+    "Joseph B. Kruskal"
+  ],
+  "year": 1956,
+  "doi": "10.1090/s0002-9939-1956-0078686-7",
+  "source": "openalex",
+  "categories": [
+    "Mathematics",
+    "Combinatorics",
+    "Ring (chemistry)",
+    "Graph",
+    "Algebraic number",
+    "Travelling salesman problem",
+    "Discrete mathematics",
+    "Mathematical optimization",
+    "Chemistry",
+    "Mathematical analysis",
+    "Organic chemistry"
+  ],
+  "citation_count": 5562,
+  "open_access_pdf_url": "https://www.ams.org/proc/1956-007-01/S0002-9939-1956-0078686-7/S0002-9939-1956-0078686-7.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1965680834.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:52.200289+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1965680834",
+    "concepts": [
+      "Mathematics",
+      "Combinatorics",
+      "Ring (chemistry)",
+      "Graph",
+      "Algebraic number"
+    ],
+    "oa_status": "bronze"
+  }
+}

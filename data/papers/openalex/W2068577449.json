@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2068577449",
+  "title": "DNA Topoisomerases and Their Poisoning by Anticancer and Antibacterial Drugs",
+  "abstract": "DNA topoisomerases are the targets of important anticancer and antibacterial drugs. Camptothecins and novel noncamptothecins in clinical development (indenoisoquinolines and ARC-111) target eukaryotic type IB topoisomerases (Top1), whereas human type IIA topoisomerases (Top2alpha and Top2beta) are the targets of the widely used anticancer agents etoposide, anthracyclines (doxorubicin, daunorubicin), and mitoxantrone. Bacterial type II topoisomerases (gyrase and Topo IV) are the targets of quinolones and aminocoumarin antibiotics. This review focuses on the molecular and biochemical characteristics of topoisomerases and their inhibitors. We also discuss the common mechanism of action of topoisomerase poisons by interfacial inhibition and trapping of topoisomerase cleavage complexes.",
+  "authors": [
+    "Yves G. Pommier",
+    "Elisabetta Leo",
+    "Hongliang Zhang",
+    "Christophe Marchand"
+  ],
+  "year": 2010,
+  "doi": "10.1016/j.chembiol.2010.04.012",
+  "source": "openalex",
+  "categories": [
+    "Topoisomerase",
+    "Etoposide",
+    "DNA gyrase",
+    "Topoisomerase inhibitor",
+    "Daunorubicin",
+    "Mitoxantrone",
+    "Teniposide",
+    "Biology",
+    "Doxorubicin",
+    "Camptothecin",
+    "DNA",
+    "Topoisomerase IV",
+    "Pharmacology",
+    "Biochemistry",
+    "Chemistry",
+    "Escherichia coli",
+    "Genetics",
+    "Chemotherapy",
+    "Gene"
+  ],
+  "citation_count": 1920,
+  "open_access_pdf_url": "https://www.sciencedirect.com/science/article/pii/S1074552110001614/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2068577449.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:17.912940+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2068577449",
+    "concepts": [
+      "Topoisomerase",
+      "Etoposide",
+      "DNA gyrase",
+      "Topoisomerase inhibitor",
+      "Daunorubicin"
+    ],
+    "oa_status": "hybrid"
+  }
+}

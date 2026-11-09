@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2328699841",
+  "title": "Ti3C2 MXene as a High Capacity Electrode Material for Metal (Li, Na, K, Ca) Ion Batteries",
+  "abstract": "Two-dimensional (2-D) materials are capable of handling high rates of charge in batteries since metal ions do not need to diffuse in a 3-D lattice structure. However, graphene, which is the most well-studied 2-D material, is known to have no Li capacity. Here, adsorption of Li, as well as Na, K, and Ca, on Ti3C2, one representative MXene, is predicted by first-principles density functional calculations. In our study, we observed that these alkali atoms exhibit different adsorption energies depending on the coverage. The adsorption energies of Na, K, and Ca decrease as coverage increases, while Li shows little sensitivity to variance in coverage. This observed relationship between adsorption energies and coverage of alkali ions on Ti3C2 can be explained by their effective ionic radii. A larger effective ionic radius increases interaction between alkali atoms, thus lower coverage is obtained. Our calculated capacities for Li, Na, K, and Ca on Ti3C2 are 447.8, 351.8, 191.8, and 319.8 mAh/g, respectively. Compared to materials currently used in high-rate Li and Na ion battery anodes, MXene shows promise in increasing overall battery performance.",
+  "authors": [
+    "Dequan Er",
+    "Junwen Li",
+    "Michael Naguib",
+    "Yury G. Gogotsi",
+    "Vivek B. Shenoy"
+  ],
+  "year": 2014,
+  "doi": "10.1021/am501144q",
+  "source": "openalex",
+  "categories": [
+    "Materials science",
+    "Ionic radius",
+    "Alkali metal",
+    "Ion",
+    "Adsorption",
+    "Ionic bonding",
+    "Atomic radius",
+    "Anode",
+    "Metal",
+    "Battery (electricity)",
+    "Density functional theory",
+    "Electrode",
+    "Inorganic chemistry",
+    "Physical chemistry",
+    "Computational chemistry",
+    "Thermodynamics",
+    "Metallurgy",
+    "Chemistry",
+    "Organic chemistry",
+    "Physics",
+    "Power (physics)"
+  ],
+  "citation_count": 1542,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1312.3615",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2328699841.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:45.353170+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2328699841",
+    "concepts": [
+      "Materials science",
+      "Ionic radius",
+      "Alkali metal",
+      "Ion",
+      "Adsorption"
+    ],
+    "oa_status": "green"
+  }
+}

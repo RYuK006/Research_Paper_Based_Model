@@ -1,0 +1,43 @@
+{
+  "id": "openalex:W2088447333",
+  "title": "Dynamics of viscoplastic deformation in amorphous solids",
+  "abstract": "We propose a dynamical theory of low-temperature shear deformation in amorphous solids. Our analysis is based on molecular-dynamics simulations of a two-dimensional, two-component noncrystalline system. These numerical simulations reveal behavior typical of metallic glasses and other viscoplastic materials, specifically, reversible elastic deformation at small applied stresses, irreversible plastic deformation at larger stresses, a stress threshold above which unbounded plastic flow occurs, and a strong dependence of the state of the system on the history of past deformations. Microscopic observations suggest that a dynamically complete description of the macroscopic state of this deforming body requires specifying, in addition to stress and strain, certain average features of a population of two-state shear transformation zones. Our introduction of these state variables into the constitutive equations for this system is an extension of earlier models of creep in metallic glasses. In the treatment presented here, we specialize to temperatures far below the glass transition and postulate that irreversible motions are governed by local entropic fluctuations in the volumes of the transformation zones. In most respects, our theory is in good quantitative agreement with the rich variety of phenomena seen in the simulations.",
+  "authors": [
+    "Michael L. Falk",
+    "James S. Langer"
+  ],
+  "year": 1998,
+  "doi": "10.1103/physreve.57.7192",
+  "source": "openalex",
+  "categories": [
+    "Viscoplasticity",
+    "Amorphous solid",
+    "Dynamics (music)",
+    "Materials science",
+    "Deformation (meteorology)",
+    "Composite material",
+    "Physics",
+    "Thermodynamics",
+    "Crystallography",
+    "Chemistry",
+    "Constitutive equation",
+    "Finite element method",
+    "Acoustics"
+  ],
+  "citation_count": 2244,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/9712114",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2088447333.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:12.573565+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2088447333",
+    "concepts": [
+      "Viscoplasticity",
+      "Amorphous solid",
+      "Dynamics (music)",
+      "Materials science",
+      "Deformation (meteorology)"
+    ],
+    "oa_status": "green"
+  }
+}

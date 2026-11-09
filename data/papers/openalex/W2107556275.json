@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2107556275",
+  "title": "Programmed cell death 1 forms negative costimulatory microclusters that directly inhibit T cell receptor signaling by recruiting phosphatase SHP2",
+  "abstract": "Programmed cell death 1 (PD-1) is a negative costimulatory receptor critical for the suppression of T cell activation in vitro and in vivo. Single cell imaging elucidated a molecular mechanism of PD-1-mediated suppression. PD-1 becomes clustered with T cell receptors (TCRs) upon binding to its ligand PD-L1 and is transiently associated with the phosphatase SHP2 (Src homology 2 domain-containing tyrosine phosphatase 2). These negative costimulatory microclusters induce the dephosphorylation of the proximal TCR signaling molecules. This results in the suppression of T cell activation and blockade of the TCR-induced stop signal. In addition to PD-1 clustering, PD-1-TCR colocalization within microclusters is required for efficient PD-1-mediated suppression. This inhibitory mechanism also functions in PD-1(hi) T cells generated in vivo and can be overridden by a neutralizing anti-PD-L1 antibody. Therefore, PD-1 microcluster formation is important for regulation of T cell activation.",
+  "authors": [
+    "Tadashi Yokosuka",
+    "Masako Takamatsu",
+    "Wakana Kobayashi",
+    "Akiko Soneda Hashimoto",
+    "Miyuki Azuma",
+    "Takashi Saito"
+  ],
+  "year": 2012,
+  "doi": "10.1084/jem.20112741",
+  "source": "openalex",
+  "categories": [
+    "T-cell receptor",
+    "Cell biology",
+    "Protein tyrosine phosphatase",
+    "T cell",
+    "Dephosphorylation",
+    "Signal transduction",
+    "Receptor",
+    "Biology",
+    "Phosphorylation",
+    "Molecular biology",
+    "Tyrosine phosphorylation",
+    "Chemistry",
+    "Phosphatase",
+    "Immune system",
+    "Biochemistry",
+    "Immunology"
+  ],
+  "citation_count": 1196,
+  "open_access_pdf_url": "http://jem.rupress.org/content/jem/209/6/1201.full.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2107556275.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:08.363241+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2107556275",
+    "concepts": [
+      "T-cell receptor",
+      "Cell biology",
+      "Protein tyrosine phosphatase",
+      "T cell",
+      "Dephosphorylation"
+    ],
+    "oa_status": "bronze"
+  }
+}

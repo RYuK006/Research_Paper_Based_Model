@@ -1,0 +1,44 @@
+{
+  "id": "openalex:W2140992384",
+  "title": "The structure of proteins: Two hydrogen-bonded helical configurations of the polypeptide chain",
+  "abstract": "During the past fifteen years we have been attacking the problem of the structure of proteins in several ways. One of these ways is the complete and accurate determination of the crystal structure of amino acids, peptides, and other simple substances related to proteins, in order that information about interatomic distances, bond angles, and other configurational parameters might be obtained that would permit the reliable prediction of reasonable configurations for the polypeptide chain. We have now used this information to construct two reasonable hydrogen-bonded helical configurations for the polypeptide chain; we think that it is likely that these configurations constitute an important part of the structure of both fibrous and globular proteins, as well as of synthetic polypeptides. A letter announcing their discovery was published last year [1]. \\n \\nThe problem that we have set ourselves is that of finding all hydrogen-bonded structures for a single polypeptide chain, in which the residues are equivalent (except for the differences in the side chain R). An amino acid residue (other than glycine) has no symmetry elements. The general operation of conversion of one residue of a single chain into a second residue equivalent to the first is accordingly a rotation about an axis accompanied by translation along the axis. Hence the only configurations for a chain compatible with our postulate of equivalence of the residues are helical configurations. For rotational angle 180° the helical configurations may degenerate to a simple chain with all of the principal atoms, C, C' (the carbonyl carbon), N, and O, in the same plane.",
+  "authors": [
+    "Linus Carl Pauling",
+    "Robert B. Corey",
+    "H. R. Branson"
+  ],
+  "year": 1951,
+  "doi": "10.1073/pnas.37.4.205",
+  "source": "openalex",
+  "categories": [
+    "Polypeptide chain",
+    "Chain (unit)",
+    "Chemistry",
+    "Protein structure",
+    "Hydrogen",
+    "Biophysics",
+    "Crystallography",
+    "Biochemistry",
+    "Biology",
+    "Amino acid",
+    "Physics",
+    "Organic chemistry",
+    "Astronomy"
+  ],
+  "citation_count": 3008,
+  "open_access_pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1063337/pdf/pnas01565-0017.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2140992384.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:01.801198+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2140992384",
+    "concepts": [
+      "Polypeptide chain",
+      "Chain (unit)",
+      "Chemistry",
+      "Protein structure",
+      "Hydrogen"
+    ],
+    "oa_status": "green"
+  }
+}

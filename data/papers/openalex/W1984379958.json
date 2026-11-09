@@ -1,0 +1,57 @@
+{
+  "id": "openalex:W1984379958",
+  "title": "Why is anatase a better photocatalyst than rutile? - Model studies on epitaxial TiO2 films",
+  "abstract": "The prototypical photocatalyst TiO2 exists in different polymorphs, the most common forms are the anatase- and rutile-crystal structures. Generally, anatase is more active than rutile, but no consensus exists to explain this difference. Here we demonstrate that it is the bulk transport of excitons to the surface that contributes to the difference. Utilizing high -quality epitaxial TiO2 films of the two polymorphs we evaluate the photocatalytic activity as a function of TiO2-film thickness. For anatase the activity increases for films up to ~5 nm thick, while rutile films reach their maximum activity for ~2.5 nm films already. This shows that charge carriers excited deeper in the bulk contribute to surface reactions in anatase than in rutile. Furthermore, we measure surface orientation dependent activity on rutile single crystals. The pronounced orientation-dependent activity can also be correlated to anisotropic bulk charge carrier mobility, suggesting general importance of bulk charge diffusion for explaining photocatalytic anisotropies.",
+  "authors": [
+    "Tim Luttrell",
+    "Sandamali Halpegamage",
+    "Junguang Tao",
+    "Alan R. Kramer",
+    "Eli A. Sutter",
+    "Matthias Batzill"
+  ],
+  "year": 2014,
+  "doi": "10.1038/srep04043",
+  "source": "openalex",
+  "categories": [
+    "Anatase",
+    "Rutile",
+    "Photocatalysis",
+    "Materials science",
+    "Epitaxy",
+    "Charge carrier",
+    "Anisotropy",
+    "Crystal (programming language)",
+    "Chemical engineering",
+    "Exciton",
+    "Chemical physics",
+    "Nanotechnology",
+    "Optoelectronics",
+    "Condensed matter physics",
+    "Optics",
+    "Chemistry",
+    "Catalysis",
+    "Physics",
+    "Organic chemistry",
+    "Computer science",
+    "Layer (electronics)",
+    "Engineering",
+    "Programming language"
+  ],
+  "citation_count": 1604,
+  "open_access_pdf_url": "https://www.nature.com/articles/srep04043.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1984379958.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:41.841267+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1984379958",
+    "concepts": [
+      "Anatase",
+      "Rutile",
+      "Photocatalysis",
+      "Materials science",
+      "Epitaxy"
+    ],
+    "oa_status": "gold"
+  }
+}

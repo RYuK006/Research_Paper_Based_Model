@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W3024570138",
+  "title": "NetMHCpan-4.1 and NetMHCIIpan-4.0: improved predictions of MHC antigen presentation by concurrent motif deconvolution and integration of MS MHC eluted ligand data",
+  "abstract": "Major histocompatibility complex (MHC) molecules are expressed on the cell surface, where they present peptides to T cells, which gives them a key role in the development of T-cell immune responses. MHC molecules come in two main variants: MHC Class I (MHC-I) and MHC Class II (MHC-II). MHC-I predominantly present peptides derived from intracellular proteins, whereas MHC-II predominantly presents peptides from extracellular proteins. In both cases, the binding between MHC and antigenic peptides is the most selective step in the antigen presentation pathway. Therefore, the prediction of peptide binding to MHC is a powerful utility to predict the possible specificity of a T-cell immune response. Commonly MHC binding prediction tools are trained on binding affinity or mass spectrometry-eluted ligands. Recent studies have however demonstrated how the integration of both data types can boost predictive performances. Inspired by this, we here present NetMHCpan-4.1 and NetMHCIIpan-4.0, two web servers created to predict binding between peptides and MHC-I and MHC-II, respectively. Both methods exploit tailored machine learning strategies to integrate different training data types, resulting in state-of-the-art performance and outperforming their competitors. The servers are available at http://www.cbs.dtu.dk/services/NetMHCpan-4.1/ and http://www.cbs.dtu.dk/services/NetMHCIIpan-4.0/.",
+  "authors": [
+    "Birkir Reynisson",
+    "Bruno Alvarez",
+    "Sinu Paul",
+    "Bjoern Peters",
+    "Morten Nielsen"
+  ],
+  "year": 2020,
+  "doi": "10.1093/nar/gkaa379",
+  "source": "openalex",
+  "categories": [
+    "Biology",
+    "Major histocompatibility complex",
+    "Antigen processing",
+    "Deconvolution",
+    "Antigen",
+    "Antigen presentation",
+    "Computational biology",
+    "Elution",
+    "MHC restriction",
+    "MHC class I",
+    "Genetics",
+    "T cell",
+    "Immune system",
+    "Chromatography",
+    "Computer science",
+    "Chemistry",
+    "Algorithm"
+  ],
+  "citation_count": 2397,
+  "open_access_pdf_url": "https://academic.oup.com/nar/article-pdf/48/W1/W449/33433048/gkaa379.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3024570138.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:08.717859+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3024570138",
+    "concepts": [
+      "Biology",
+      "Major histocompatibility complex",
+      "Antigen processing",
+      "Deconvolution",
+      "Antigen"
+    ],
+    "oa_status": "gold"
+  }
+}

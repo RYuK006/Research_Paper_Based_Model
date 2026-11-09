@@ -1,0 +1,38 @@
+{
+  "id": "openalex:W2043054174",
+  "title": "A general introduction to the biochemistry of mitochondrial fatty acid β‐oxidation",
+  "abstract": "Over the years, the mitochondrial fatty acid β-oxidation (FAO) pathway has been characterised at the biochemical level as well as the molecular biological level. FAO plays a pivotal role in energy homoeostasis, but it competes with glucose as the primary oxidative substrate. The mechanisms behind this so-called glucose-fatty acid cycle operate at the hormonal, transcriptional and biochemical levels. Inherited defects for most of the FAO enzymes have been identified and characterised and are currently included in neonatal screening programmes. Symptoms range from hypoketotic hypoglycaemia to skeletal and cardiac myopathies. The pathophysiology of these diseases is still not completely understood, hampering optimal treatment. Studies of patients and mouse models will contribute to our understanding of the pathogenesis and will ultimately lead to better treatment.",
+  "authors": [
+    "Sander M. Houten",
+    "Ronald J. A. Wanders"
+  ],
+  "year": 2010,
+  "doi": "10.1007/s10545-010-9061-2",
+  "source": "openalex",
+  "categories": [
+    "Beta oxidation",
+    "Biochemistry",
+    "Human genetics",
+    "Chemistry",
+    "Oxidation reduction",
+    "Mitochondrion",
+    "Fatty acid",
+    "Gene"
+  ],
+  "citation_count": 1097,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1007/s10545-010-9061-2",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2043054174.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:24.273723+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2043054174",
+    "concepts": [
+      "Beta oxidation",
+      "Biochemistry",
+      "Human genetics",
+      "Chemistry",
+      "Oxidation reduction"
+    ],
+    "oa_status": "hybrid"
+  }
+}

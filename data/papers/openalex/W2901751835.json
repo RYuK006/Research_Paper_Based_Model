@@ -1,0 +1,59 @@
+{
+  "id": "openalex:W2901751835",
+  "title": "ATOM: Accurate Tracking by Overlap Maximization",
+  "abstract": "While recent years have witnessed astonishing improvements in visual tracking robustness, the advancements in tracking accuracy have been limited. As the focus has been directed towards the development of powerful classifiers, the problem of accurate target state estimation has been largely overlooked. In fact, most trackers resort to a simple multi-scale search in order to estimate the target bounding box. We argue that this approach is fundamentally limited since target estimation is a complex task, requiring high-level knowledge about the object. We address this problem by proposing a novel tracking architecture, consisting of dedicated target estimation and classification components. High level knowledge is incorporated into the target estimation through extensive offline learning. Our target estimation component is trained to predict the overlap between the target object and an estimated bounding box. By carefully integrating target-specific information, our approach achieves previously unseen bounding box accuracy. We further introduce a classification component that is trained online to guarantee high discriminative power in the presence of distractors. Our final tracking framework sets a new state-of-the-art on five challenging benchmarks. On the new large-scale TrackingNet dataset, our tracker ATOM achieves a relative gain of 15% over the previous best approach, while running at over 30 FPS. Code and models are available at https://github.com/visionml/pytracking.",
+  "authors": [
+    "Martin Danelljan",
+    "Goutam Bhat",
+    "Fahad Shahbaz Khan",
+    "Michael Felsberg"
+  ],
+  "year": 2019,
+  "doi": "10.1109/cvpr.2019.00479",
+  "source": "openalex",
+  "categories": [
+    "Minimum bounding box",
+    "Computer science",
+    "Discriminative model",
+    "Robustness (evolution)",
+    "Artificial intelligence",
+    "BitTorrent tracker",
+    "Bounding overwatch",
+    "Machine learning",
+    "Video tracking",
+    "Maximization",
+    "Tracking (education)",
+    "Component (thermodynamics)",
+    "Pattern recognition (psychology)",
+    "Object detection",
+    "Object (grammar)",
+    "Computer vision",
+    "Eye tracking",
+    "Mathematics",
+    "Image (mathematics)",
+    "Mathematical optimization",
+    "Thermodynamics",
+    "Biochemistry",
+    "Pedagogy",
+    "Physics",
+    "Psychology",
+    "Gene",
+    "Chemistry"
+  ],
+  "citation_count": 1613,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1811.07628",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2901751835.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:38.176518+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2901751835",
+    "concepts": [
+      "Minimum bounding box",
+      "Computer science",
+      "Discriminative model",
+      "Robustness (evolution)",
+      "Artificial intelligence"
+    ],
+    "oa_status": "green"
+  }
+}

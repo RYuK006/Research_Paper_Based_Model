@@ -1,0 +1,58 @@
+{
+  "id": "openalex:W2148726772",
+  "title": "Blockade of Microglial Activation Is Neuroprotective in the 1-Methyl-4-Phenyl-1,2,3,6-Tetrahydropyridine Mouse Model of Parkinson Disease",
+  "abstract": "1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP) damages the nigrostriatal dopaminergic pathway as seen in Parkinson's disease (PD), a common neurodegenerative disorder with no effective protective treatment. Consistent with a role of glial cells in PD neurodegeneration, here we show that minocycline, an approved tetracycline derivative that inhibits microglial activation independently of its antimicrobial properties, mitigates both the demise of nigrostriatal dopaminergic neurons and the formation of nitrotyrosine produced by MPTP. In addition, we show that minocycline not only prevents MPTP-induced activation of microglia but also the formation of mature interleukin-1beta and the activation of NADPH-oxidase and inducible nitric oxide synthase (iNOS), three key microglial-derived cytotoxic mediators. Previously, we demonstrated that ablation of iNOS attenuates MPTP-induced neurotoxicity. Now, we demonstrate that iNOS is not the only microglial-related culprit implicated in MPTP-induced toxicity because mutant iNOS-deficient mice treated with minocycline are more resistant to this neurotoxin than iNOS-deficient mice not treated with minocycline. This study demonstrates that microglial-related inflammatory events play a significant role in the MPTP neurotoxic process and suggests that minocycline may be a valuable neuroprotective agent for the treatment of PD.",
+  "authors": [
+    "Du Chu Wu",
+    "Vernice R. Jackson-Lewis",
+    "Miquel Vila",
+    "Kim Tieu",
+    "Peter Teismann",
+    "Caryn Vadseth",
+    "Dong‐Kug Choi",
+    "Harry Ischiropoulos",
+    "Serge Przedborski"
+  ],
+  "year": 2002,
+  "doi": "10.1523/jneurosci.22-05-01763.2002",
+  "source": "openalex",
+  "categories": [
+    "MPTP",
+    "Neuroprotection",
+    "Minocycline",
+    "Microglia",
+    "Neurotoxin",
+    "Pharmacology",
+    "Neurodegeneration",
+    "Neurotoxicity",
+    "Dopaminergic",
+    "Chemistry",
+    "Neuroscience",
+    "Medicine",
+    "Dopamine",
+    "Biology",
+    "Immunology",
+    "Internal medicine",
+    "Biochemistry",
+    "Toxicity",
+    "Inflammation",
+    "Disease",
+    "Antibiotics"
+  ],
+  "citation_count": 1195,
+  "open_access_pdf_url": "https://www.jneurosci.org/content/jneuro/22/5/1763.full.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2148726772.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:08.379063+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2148726772",
+    "concepts": [
+      "MPTP",
+      "Neuroprotection",
+      "Minocycline",
+      "Microglia",
+      "Neurotoxin"
+    ],
+    "oa_status": "bronze"
+  }
+}

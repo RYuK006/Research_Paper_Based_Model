@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2007101051",
+  "title": "Ocean color chlorophyll algorithms for SeaWiFS",
+  "abstract": "A large data set containing coincident in situ chlorophyll and remote sensing reflectance measurements was used to evaluate the accuracy, precision, and suitability of a wide variety of ocean color chlorophyll algorithms for use by SeaWiFS (Sea‐viewing Wide Field‐of‐view Sensor). The radiance‐chlorophyll data were assembled from various sources during the SeaWiFS Bio‐optical Algorithm Mini‐Workshop (SeaBAM) and is composed of 919 stations encompassing chlorophyll concentrations between 0.019 and 32.79 μg L −1 . Most of the observations are from Case I nonpolar waters, and ∼20 observations are from more turbid coastal waters. A variety of statistical and graphical criteria were used to evaluate the performances of 2 semianalytic and 15 empirical chlorophyll/pigment algorithms subjected to the SeaBAM data. The empirical algorithms generally performed better than the semianalytic. Cubic polynomial formulations were generally superior to other kinds of equations. Empirical algorithms with increasing complexity (number of coefficients and wavebands), were calibrated to the SeaBAM data, and evaluated to illustrate the relative merits of different formulations. The ocean chlorophyll 2 algorithm (OC2), a modified cubic polynomial (MCP) function which uses Rrs490/Rrs555, well simulates the sigmoidal pattern evident between log‐transformed radiance ratios and chlorophyll, and has been chosen as the at‐launch SeaWiFS operational chlorophyll a algorithm. Improved performance was obtained using the ocean chlorophyll 4 algorithm (OC4), a four‐band (443, 490, 510, 555 nm), maximum band ratio formulation. This maximum band ratio (MBR) is a new approach in empirical ocean color algorithms and has the potential advantage of maintaining the highest possible satellite sensor signal: noise ratio over a 3‐orders‐of‐magnitude range in chlorophyll concentration.",
+  "authors": [
+    "John E. O’Reilly",
+    "Stéphane Maritorena",
+    "B. Greg Mitchell",
+    "David A. Siegel",
+    "Kendall L. Carder",
+    "Sara A. Garver",
+    "Mati Kahru",
+    "Charles R. McClain"
+  ],
+  "year": 1998,
+  "doi": "10.1029/98jc02160",
+  "source": "openalex",
+  "categories": [
+    "SeaWiFS",
+    "Radiance",
+    "Ocean color",
+    "Algorithm",
+    "Remote sensing",
+    "Environmental science",
+    "Chlorophyll",
+    "Chlorophyll a",
+    "Computer science",
+    "Physics",
+    "Geology",
+    "Phytoplankton",
+    "Chemistry",
+    "Satellite",
+    "Biochemistry",
+    "Astronomy",
+    "Nutrient",
+    "Organic chemistry"
+  ],
+  "citation_count": 2531,
+  "open_access_pdf_url": "https://digitalcommons.usf.edu/context/msc_facpub/article/1005/viewcontent/Ocean_Color_Chlorophyll_Algorithms_for_SEAWIFS.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2007101051.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:04.341286+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2007101051",
+    "concepts": [
+      "SeaWiFS",
+      "Radiance",
+      "Ocean color",
+      "Algorithm",
+      "Remote sensing"
+    ],
+    "oa_status": "green"
+  }
+}

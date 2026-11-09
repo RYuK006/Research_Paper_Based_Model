@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2520345180",
+  "title": "Opposite Effects of mGluR1a and mGluR5 Activation on Nucleus Accumbens Medium Spiny Neuron Dendritic Spine Density",
+  "abstract": "The group I metabotropic glutamate receptors (mGluR1a and mGluR5) are important modulators of neuronal structure and function. Although these receptors share common signaling pathways, they are capable of having distinct effects on cellular plasticity. We investigated the individual effects of mGluR1a or mGluR5 activation on dendritic spine density in medium spiny neurons in the nucleus accumbens (NAc), which has become relevant with the potential use of group I mGluR based therapeutics in the treatment of drug addiction. We found that systemic administration of mGluR subtype-specific positive allosteric modulators had opposite effects on dendritic spine densities. Specifically, mGluR5 positive modulation decreased dendritic spine densities in the NAc shell and core, but was without effect in the dorsal striatum, whereas increased spine densities in the NAc were observed with mGluR1a positive modulation. Additionally, direct activation of mGluR5 via CHPG administration into the NAc also decreased the density of dendritic spines. These data provide insight on the ability of group I mGluRs to induce structural plasticity in the NAc and demonstrate that the group I mGluRs are capable of producing not just distinct, but opposing, effects on dendritic spine density.",
+  "authors": [
+    "Kellie S. Gross",
+    "Dieter D. Brandner",
+    "Luis A. Martinez",
+    "Michael Foster Olive",
+    "Robert L. Meisel",
+    "Paul G. Mermelstein"
+  ],
+  "year": 2016,
+  "doi": "10.1371/journal.pone.0162755",
+  "source": "openalex",
+  "categories": [
+    "Dendritic spine",
+    "Medium spiny neuron",
+    "Metabotropic glutamate receptor",
+    "Nucleus accumbens",
+    "Metabotropic glutamate receptor 5",
+    "Striatum",
+    "SPINE (molecular biology)",
+    "Glutamate receptor",
+    "Metabotropic receptor",
+    "Neuroscience",
+    "Biology",
+    "Chemistry",
+    "Receptor",
+    "Cell biology",
+    "Dopamine",
+    "Biochemistry",
+    "Hippocampal formation"
+  ],
+  "citation_count": 1609,
+  "open_access_pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0162755&type=printable",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2520345180.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:41.807563+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2520345180",
+    "concepts": [
+      "Dendritic spine",
+      "Medium spiny neuron",
+      "Metabotropic glutamate receptor",
+      "Nucleus accumbens",
+      "Metabotropic glutamate receptor 5"
+    ],
+    "oa_status": "gold"
+  }
+}

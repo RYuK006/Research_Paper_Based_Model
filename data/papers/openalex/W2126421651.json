@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W2126421651",
+  "title": "Control of Graphene's Properties by Reversible Hydrogenation: Evidence for Graphane",
+  "abstract": "Although graphite is known as one of the most chemically inert materials, we have found that graphene, a single atomic plane of graphite, can react with atomic hydrogen, which transforms this highly conductive zero-overlap semimetal into an insulator. Transmission electron microscopy reveals that the obtained graphene derivative (graphane) is crystalline and retains the hexagonal lattice, but its period becomes markedly shorter than that of graphene. The reaction with hydrogen is reversible, so that the original metallic state, the lattice spacing, and even the quantum Hall effect can be restored by annealing. Our work illustrates the concept of graphene as a robust atomic-scale scaffold on the basis of which new two-dimensional crystals with designed electronic and other properties can be created by attaching other atoms and molecules.",
+  "authors": [
+    "Daniel Cunha Elias",
+    "Rahul R. Nair",
+    "TARIQ M. G. MOHIUDDIN",
+    "Sergey V. Morozov",
+    "Peter Blake",
+    "Matthew P. Halsall",
+    "Andrea Carlo Ferrari",
+    "Danil W. Boukhvalov",
+    "Mikhail I. Katsnelson",
+    "Andre K. Geim",
+    "Kostya S. Novoselov"
+  ],
+  "year": 2009,
+  "doi": "10.1126/science.1167130",
+  "source": "openalex",
+  "categories": [
+    "Graphene",
+    "Graphane",
+    "Materials science",
+    "Graphite",
+    "Atomic units",
+    "Nanotechnology",
+    "Chemical physics",
+    "Hexagonal lattice",
+    "Graphene nanoribbons",
+    "Hydrogen",
+    "Condensed matter physics",
+    "Chemistry",
+    "Physics",
+    "Composite material",
+    "Organic chemistry",
+    "Antiferromagnetism",
+    "Quantum mechanics"
+  ],
+  "citation_count": 4168,
+  "open_access_pdf_url": "https://research.manchester.ac.uk/en/publications/491b0096-559c-4620-9afb-d7aecd953312",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2126421651.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:54.016322+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2126421651",
+    "concepts": [
+      "Graphene",
+      "Graphane",
+      "Materials science",
+      "Graphite",
+      "Atomic units"
+    ],
+    "oa_status": "green"
+  }
+}

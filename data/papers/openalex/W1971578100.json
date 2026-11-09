@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W1971578100",
+  "title": "Fluorescent Carbon Nanoparticles: Synthesis, Characterization, and Bioimaging Application",
+  "abstract": "Fluorescent carbon nanoparticles (CNPs) 2−6 nm in size with a quantum yield of about ∼3% were synthesized via nitric acid oxidation of carbon soot, and this approach can be used for milligram-scale synthesis of these water-soluble particles. These CNPs are nanocrystalline with a predominantly graphitic structure and show green fluorescence under UV exposure. Nitric acid oxidation induces nitrogen and oxygen incorporation into soot particles, which afforded water solubility and a light-emitting property; the isolation of small particles from a mixture of different sized particles improved the fluorescence quantum yield. These CNPs show encouraging cell-imaging applications. They enter into cells without any further functionalization, and the fluorescence property of these particles can be used for fluorescence-based cell imaging applications.",
+  "authors": [
+    "Sekhar C. Ray",
+    "Arindam Saha",
+    "Nikhil Ranjan Jana",
+    "Rupa Sarkar"
+  ],
+  "year": 2009,
+  "doi": "10.1021/jp905912n",
+  "source": "openalex",
+  "categories": [
+    "Fluorescence",
+    "Quantum yield",
+    "Carbon fibers",
+    "Nanoparticle",
+    "Soot",
+    "Nitric acid",
+    "Nanocrystalline material",
+    "Materials science",
+    "Surface modification",
+    "Nanotechnology",
+    "Chemical engineering",
+    "Chemistry",
+    "Photochemistry",
+    "Inorganic chemistry",
+    "Organic chemistry",
+    "Combustion",
+    "Physical chemistry",
+    "Engineering",
+    "Composite material",
+    "Quantum mechanics",
+    "Physics",
+    "Composite number"
+  ],
+  "citation_count": 1202,
+  "open_access_pdf_url": "https://arxiv.org/pdf/0909.4622",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1971578100.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:08.265051+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1971578100",
+    "concepts": [
+      "Fluorescence",
+      "Quantum yield",
+      "Carbon fibers",
+      "Nanoparticle",
+      "Soot"
+    ],
+    "oa_status": "green"
+  }
+}

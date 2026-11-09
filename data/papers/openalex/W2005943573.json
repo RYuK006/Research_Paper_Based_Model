@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2005943573",
+  "title": "Paracrine Factors of Mesenchymal Stem Cells Recruit Macrophages and Endothelial Lineage Cells and Enhance Wound Healing",
+  "abstract": "Bone marrow derived mesenchymal stem cells (BM-MSCs) have been shown to enhance wound healing; however, the mechanisms involved are barely understood. In this study, we examined paracrine factors released by BM-MSCs and their effects on the cells participating in wound healing compared to those released by dermal fibroblasts. Analyses of BM-MSCs with Real-Time PCR and of BM-MSC-conditioned medium by antibody-based protein array and ELISA indicated that BM-MSCs secreted distinctively different cytokines and chemokines, such as greater amounts of VEGF-alpha, IGF-1, EGF, keratinocyte growth factor, angiopoietin-1, stromal derived factor-1, macrophage inflammatory protein-1alpha and beta and erythropoietin, compared to dermal fibroblasts. These molecules are known to be important in normal wound healing. BM-MSC-conditioned medium significantly enhanced migration of macrophages, keratinocytes and endothelial cells and proliferation of keratinocytes and endothelial cells compared to fibroblast-conditioned medium. Moreover, in a mouse model of excisional wound healing, where concentrated BM-MSC-conditioned medium was applied, accelerated wound healing occurred compared to administration of pre-conditioned or fibroblast-conditioned medium. Analysis of cell suspensions derived from the wound by FACS showed that wounds treated with BM-MSC-conditioned medium had increased proportions of CD4/80-positive macrophages and Flk-1-, CD34- or c-kit-positive endothelial (progenitor) cells compared to wounds treated with pre-conditioned medium or fibroblast-conditioned medium. Consistent with the above findings, immunohistochemical analysis of wound sections showed that wounds treated with BM-MSC-conditioned medium had increased abundance of macrophages. Our results suggest that factors released by BM-MSCs recruit macrophages and endothelial lineage cells into the wound thus enhancing wound healing.",
+  "authors": [
+    "Liwen Chen",
+    "Edward E. Tredget",
+    "Philip Yuguang Wu",
+    "Yaojiong Wu"
+  ],
+  "year": 2008,
+  "doi": "10.1371/journal.pone.0001886",
+  "source": "openalex",
+  "categories": [
+    "Mesenchymal stem cell",
+    "Wound healing",
+    "Paracrine signalling",
+    "Cell biology",
+    "CD34",
+    "Stromal cell",
+    "Fibroblast",
+    "Progenitor cell",
+    "Immunology",
+    "Stem cell",
+    "Bone marrow",
+    "Biology",
+    "Chemistry",
+    "Medicine",
+    "Cancer research",
+    "Cell culture",
+    "Internal medicine",
+    "Receptor",
+    "Genetics"
+  ],
+  "citation_count": 1655,
+  "open_access_pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0001886&type=printable",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2005943573.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:37.975239+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2005943573",
+    "concepts": [
+      "Mesenchymal stem cell",
+      "Wound healing",
+      "Paracrine signalling",
+      "Cell biology",
+      "CD34"
+    ],
+    "oa_status": "gold"
+  }
+}

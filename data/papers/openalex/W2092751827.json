@@ -1,0 +1,44 @@
+{
+  "id": "openalex:W2092751827",
+  "title": "Molecular modeling of protein-glycosaminoglycan interactions.",
+  "abstract": "Forty-nine regions in 21 proteins were identified as potential heparin-binding sites based on the sequence organizations of their basic and nonbasic residues. Twelve known heparin-binding sequences in vitronectin, apolipoproteins E and B-100, and platelet factor 4 were used to formulate two search strings for identifying potential heparin-binding regions in other proteins. Consensus sequences for glycosaminoglycan recognition were determined as [-X-B-B-X-B-X-] and [-X-B-B-B-X-X-B-X-] where B is the probability of a basic residue and X is a hydropathic residue. Predictions were then made as to the heparin-binding domains in endothelial cell growth factor, purpurin, and antithrombin-III. Many of the natural sequences conforming to these consensus motifs show prominent amphipathic periodicities having both alpha-helical and beta-strand conformations as determined by predictive algorithms and circular dichroism studies. The heparin-binding domain of vitronectin was modeled and formed a hydrophilic pocket that wrapped around and folded over a heparin octasaccharide, yielding a complementary structure. We suggest that these consensus sequence elements form potential nucleation sites for the recognition of polyanions in proteins and may provide a useful guide in identifying heparin-binding regions in other proteins. The possible relevance of protein-glycosaminoglycans interactions in atherosclerosis is discussed.",
+  "authors": [
+    "A D Cardin",
+    "Herschel J. R. Weintraub"
+  ],
+  "year": 1989,
+  "doi": "10.1161/01.atv.9.1.21",
+  "source": "openalex",
+  "categories": [
+    "Vitronectin",
+    "Heparin",
+    "Consensus sequence",
+    "Chemistry",
+    "Glycosaminoglycan",
+    "Binding site",
+    "Antithrombin",
+    "Circular dichroism",
+    "Plasma protein binding",
+    "Biochemistry",
+    "Peptide sequence",
+    "Receptor",
+    "Integrin",
+    "Gene"
+  ],
+  "citation_count": 1321,
+  "open_access_pdf_url": "https://www.ahajournals.org/doi/pdf/10.1161/01.ATV.9.1.21",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2092751827.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:57.652102+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2092751827",
+    "concepts": [
+      "Vitronectin",
+      "Heparin",
+      "Consensus sequence",
+      "Chemistry",
+      "Glycosaminoglycan"
+    ],
+    "oa_status": "diamond"
+  }
+}

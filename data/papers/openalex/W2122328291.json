@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W2122328291",
+  "title": "Alzheimer's Disease Neuroimaging Initiative (ADNI)",
+  "abstract": "BACKGROUND: Neuroimaging measures and chemical biomarkers may be important indices of clinical progression in normal aging and mild cognitive impairment (MCI) and need to be evaluated longitudinally. OBJECTIVE: To characterize cross-sectionally and longitudinally clinical measures in normal controls, subjects with MCI, and subjects with mild Alzheimer disease (AD) to enable the assessment of the utility of neuroimaging and chemical biomarker measures. METHODS: A total of 819 subjects (229 cognitively normal, 398 with MCI, and 192 with AD) were enrolled at baseline and followed for 12 months using standard cognitive and functional measures typical of clinical trials. RESULTS: The subjects with MCI were more memory impaired than the cognitively normal subjects but not as impaired as the subjects with AD. Nonmemory cognitive measures were only minimally impaired in the subjects with MCI. The subjects with MCI progressed to dementia in 12 months at a rate of 16.5% per year. Approximately 50% of the subjects with MCI were on antidementia therapies. There was minimal movement on the Alzheimer's Disease Assessment Scale-Cognitive Subscale for the normal control subjects, slight movement for the subjects with MCI of 1.1, and a modest change for the subjects with AD of 4.3. Baseline CSF measures of Abeta-42 separated the 3 groups as expected and successfully predicted the 12-month change in cognitive measures. CONCLUSION: The Alzheimer's Disease Neuroimaging Initiative has successfully recruited cohorts of cognitively normal subjects, subjects with mild cognitive impairment (MCI), and subjects with Alzheimer disease with anticipated baseline characteristics. The 12-month progression rate of MCI was as predicted, and the CSF measures heralded progression of clinical measures over 12 months.",
+  "authors": [
+    "Ronald Carl Petersen",
+    "Paul S. S Aisen",
+    "Laurel A. Beckett",
+    "Michael Donohue",
+    "Anthony C. Gamst",
+    "Danielle Jenine Harvey",
+    "Clifford R. Jack",
+    "William J. Jagust",
+    "Leslie M. J. Shaw",
+    "Arthur W. Toga",
+    "John Q. Trojanowski",
+    "Michael Walter Weiner"
+  ],
+  "year": 2009,
+  "doi": "10.1212/wnl.0b013e3181cb3e25",
+  "source": "openalex",
+  "categories": [
+    "Neuroimaging",
+    "Dementia",
+    "Alzheimer's disease",
+    "Alzheimer's Disease Neuroimaging Initiative",
+    "Cognition",
+    "Disease",
+    "Biomarker",
+    "Psychology",
+    "Medicine",
+    "Internal medicine",
+    "Clinical trial",
+    "Cognitive impairment",
+    "Cognitive decline",
+    "Psychiatry",
+    "Chemistry",
+    "Biochemistry"
+  ],
+  "citation_count": 2656,
+  "open_access_pdf_url": "https://n.neurology.org/content/neurology/74/3/201.full.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2122328291.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:04.202323+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2122328291",
+    "concepts": [
+      "Neuroimaging",
+      "Dementia",
+      "Alzheimer's disease",
+      "Alzheimer's Disease Neuroimaging Initiative",
+      "Cognition"
+    ],
+    "oa_status": "bronze"
+  }
+}

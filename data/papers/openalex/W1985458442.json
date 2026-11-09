@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W1985458442",
+  "title": "HIF-1 mediates metabolic responses to intratumoral hypoxia and oncogenic mutations",
+  "abstract": "Hypoxia occurs frequently in human cancers and induces adaptive changes in cell metabolism that include a switch from oxidative phosphorylation to glycolysis, increased glycogen synthesis, and a switch from glucose to glutamine as the major substrate for fatty acid synthesis. This broad metabolic reprogramming is coordinated at the transcriptional level by HIF-1, which functions as a master regulator to balance oxygen supply and demand. HIF-1 is also activated in cancer cells by tumor suppressor (e.g., VHL) loss of function and oncogene gain of function (leading to PI3K/AKT/mTOR activity) and mediates metabolic alterations that drive cancer progression and resistance to therapy. Inhibitors of HIF-1 or metabolic enzymes may impair the metabolic flexibility of cancer cells and make them more sensitive to anticancer drugs.",
+  "authors": [
+    "Gregg L. Semenza"
+  ],
+  "year": 2013,
+  "doi": "10.1172/jci67230",
+  "source": "openalex",
+  "categories": [
+    "PI3K/AKT/mTOR pathway",
+    "Biology",
+    "Glycolysis",
+    "Cancer cell",
+    "Oxidative phosphorylation",
+    "Glutamine",
+    "Protein kinase B",
+    "Hypoxia (environmental)",
+    "Cancer research",
+    "Tumor progression",
+    "Cell biology",
+    "Cancer",
+    "Metabolism",
+    "Chemistry",
+    "Phosphorylation",
+    "Biochemistry",
+    "Signal transduction",
+    "Amino acid",
+    "Organic chemistry",
+    "Genetics",
+    "Oxygen"
+  ],
+  "citation_count": 1384,
+  "open_access_pdf_url": "http://www.jci.org/articles/view/67230/files/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1985458442.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:52.610868+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1985458442",
+    "concepts": [
+      "PI3K/AKT/mTOR pathway",
+      "Biology",
+      "Glycolysis",
+      "Cancer cell",
+      "Oxidative phosphorylation"
+    ],
+    "oa_status": "bronze"
+  }
+}

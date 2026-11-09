@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W2093771834",
+  "title": "Heterogeneous Catalyst Deactivation and Regeneration: A Review",
+  "abstract": "Deactivation of heterogeneous catalysts is a ubiquitous problem that causes loss of catalytic rate with time. This review on deactivation and regeneration of heterogeneous catalysts classifies deactivation by type (chemical, thermal, and mechanical) and by mechanism (poisoning, fouling, thermal degradation, vapor formation, vapor-solid and solid-solid reactions, and attrition/crushing). The key features and considerations for each of these deactivation types is reviewed in detail with reference to the latest literature reports in these areas. Two case studies on the deactivation mechanisms of catalysts used for cobalt Fischer-Tropsch and selective catalytic reduction are considered to provide additional depth in the topics of sintering, coking, poisoning, and fouling. Regeneration considerations and options are also briefly discussed for each deactivation mechanism.",
+  "authors": [
+    "Morris D. Argyle",
+    "Calvin H. Bartholomew"
+  ],
+  "year": 2015,
+  "doi": "10.3390/catal5010145",
+  "source": "openalex",
+  "categories": [
+    "Fouling",
+    "Catalysis",
+    "Sintering",
+    "Catalyst poisoning",
+    "Attrition",
+    "Chemical engineering",
+    "Materials science",
+    "Chemistry",
+    "Catalyst support",
+    "Metallurgy",
+    "Organic chemistry",
+    "Engineering",
+    "Biochemistry",
+    "Membrane",
+    "Medicine",
+    "Dentistry"
+  ],
+  "citation_count": 1942,
+  "open_access_pdf_url": "https://www.mdpi.com/2073-4344/5/1/145/pdf?version=1424943860",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2093771834.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:17.846434+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2093771834",
+    "concepts": [
+      "Fouling",
+      "Catalysis",
+      "Sintering",
+      "Catalyst poisoning",
+      "Attrition"
+    ],
+    "oa_status": "gold"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "openalex:W2070033465",
+  "title": "Multiscale phenomena: Green's functions, the Dirichlet-to-Neumann formulation, subgrid scale models, bubbles and the origins of stabilized methods",
+  "abstract": "An approach is developed for deriving variational methods capable of representing multiscale phenomena. The ideas are first illustrated on the exterior problem for the Helmholtz equation. This leads to the well-known Dirichlet-to-Neumann formulation. Next, a class of subgrid scale models is developed and the relationships to ‘bubble function’ methods and stabilized methods are established. It is shown that both the latter methods are approximate subgrid scale models. The identification for stabilized methods leads to an analytical formula for τ, the ‘intrinsic time scale’, whose origins have been a mystery heretofore.",
+  "authors": [
+    "Thomas J.R. Hughes"
+  ],
+  "year": 1995,
+  "doi": "10.1016/0045-7825(95)00844-9",
+  "source": "openalex",
+  "categories": [
+    "Dirichlet distribution",
+    "Scale (ratio)",
+    "Helmholtz free energy",
+    "Mathematics",
+    "Multiscale modeling",
+    "Applied mathematics",
+    "Mathematical analysis",
+    "Statistical physics",
+    "Boundary value problem",
+    "Physics",
+    "Chemistry",
+    "Quantum mechanics",
+    "Computational chemistry"
+  ],
+  "citation_count": 1861,
+  "open_access_pdf_url": "https://www.sciencedirect.com/science/article/pii/0045782595008449/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2070033465.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:22.239512+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2070033465",
+    "concepts": [
+      "Dirichlet distribution",
+      "Scale (ratio)",
+      "Helmholtz free energy",
+      "Mathematics",
+      "Multiscale modeling"
+    ],
+    "oa_status": "hybrid"
+  }
+}

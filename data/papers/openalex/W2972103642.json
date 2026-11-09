@@ -1,0 +1,58 @@
+{
+  "id": "openalex:W2972103642",
+  "title": "Energy Storage Data Reporting in Perspective—Guidelines for Interpreting the Performance of Electrochemical Energy Storage Systems",
+  "abstract": "Abstract Due to the tremendous importance of electrochemical energy storage, numerous new materials and electrode architectures for batteries and supercapacitors have emerged in recent years. Correctly characterizing these systems requires considerable time, effort, and experience to ensure proper metrics are reported. Many new nanomaterials show electrochemical behavior somewhere in between conventional double‐layer capacitor and battery electrode materials, making their characterization a non‐straightforward task. It is understandable that some researchers may be misinformed about how to rigorously characterize their materials and devices, which can result in inflation of their reported data. This is not uncommon considering the current state of the field nearly requires record breaking performance for publication in high‐impact journals. Incorrect characterization and data reporting misleads both the materials and device development communities, and it is the shared responsibility of the community to follow rigorous reporting methodologies to ensure published results are reliable to ensure constructive progress. This tutorial aims to clarify the main causes of inaccurate data reporting and to give examples of how researchers should proceed. The best practices for measuring and reporting metrics such as capacitance, capacity, coulombic and energy efficiencies, electrochemical impedance, and the energy and power densities of capacitive and pseudocapacitive materials are discussed.",
+  "authors": [
+    "Tyler S. Mathis",
+    "Narendra Kurra",
+    "Xuehang Wang",
+    "David Pinto",
+    "Patrice Simon",
+    "Yury G. Gogotsi"
+  ],
+  "year": 2019,
+  "doi": "10.1002/aenm.201902007",
+  "source": "openalex",
+  "categories": [
+    "Supercapacitor",
+    "Energy storage",
+    "Electrochemical energy storage",
+    "Characterization (materials science)",
+    "Computer science",
+    "Electrochemical energy conversion",
+    "Battery (electricity)",
+    "Materials science",
+    "Capacitor",
+    "Nanotechnology",
+    "Task (project management)",
+    "Capacitance",
+    "Data science",
+    "Systems engineering",
+    "Power (physics)",
+    "Electrical engineering",
+    "Electrochemistry",
+    "Electrode",
+    "Voltage",
+    "Quantum mechanics",
+    "Physical chemistry",
+    "Chemistry",
+    "Physics",
+    "Engineering"
+  ],
+  "citation_count": 1501,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aenm.201902007",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2972103642.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:45.581845+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2972103642",
+    "concepts": [
+      "Supercapacitor",
+      "Energy storage",
+      "Electrochemical energy storage",
+      "Characterization (materials science)",
+      "Computer science"
+    ],
+    "oa_status": "bronze"
+  }
+}

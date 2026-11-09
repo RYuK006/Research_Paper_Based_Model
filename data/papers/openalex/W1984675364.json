@@ -1,0 +1,39 @@
+{
+  "id": "openalex:W1984675364",
+  "title": "The equilibrium partition function and base pair binding probabilities for RNA secondary structure",
+  "abstract": "A novel application of dynamic programming to the folding problem for RNA enables one to calculate the full equilibrium partition function for secondary structure and the probabilities of various substructures. In particular, both the partition function and the probabilities of all base pairs are computed by a recursive scheme of polynomial order N3 in the sequence length N. The temperature dependence of the partition function gives information about melting behavior for the secondary structure. The pair binding probabilities, the computation of which depends on the partition function, are visually summarized in a \"box matrix\" display and this provides a useful tool for examining the full ensemble of probable alternative equilibrium structures. The calculation of this ensemble representation allows a proper application and assessment of the predictive power of the secondary structure method, and yields important information on alternatives and intermediates in addition to local information about base pair opening and slippage. The results are illustrated for representative tRNA, 5S RNA, and self-replicating and self-splicing RNA molecules, and allow a direct comparison with enzymatic structure probes. The effect of changes in the thermodynamic parameters on the equilibrium ensemble provides a further sensitivity check to the predictions.",
+  "authors": [
+    "John S. McCaskill"
+  ],
+  "year": 1990,
+  "doi": "10.1002/bip.360290621",
+  "source": "openalex",
+  "categories": [
+    "Partition function (quantum field theory)",
+    "Chemistry",
+    "Protein secondary structure",
+    "Nucleic acid secondary structure",
+    "Statistical physics",
+    "RNA",
+    "Physics",
+    "Quantum mechanics",
+    "Biochemistry",
+    "Gene"
+  ],
+  "citation_count": 1319,
+  "open_access_pdf_url": "http://hdl.handle.net/11858/00-001M-0000-0013-0DE3-9",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1984675364.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:57.673008+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1984675364",
+    "concepts": [
+      "Partition function (quantum field theory)",
+      "Chemistry",
+      "Protein secondary structure",
+      "Nucleic acid secondary structure",
+      "Statistical physics"
+    ],
+    "oa_status": "green"
+  }
+}

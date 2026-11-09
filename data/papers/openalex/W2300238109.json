@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2300238109",
+  "title": "Quantum thermalization through entanglement in an isolated many-body system",
+  "abstract": "Statistical mechanics relies on the maximization of entropy in a system at thermal equilibrium. However, an isolated quantum many-body system initialized in a pure state remains pure during Schrödinger evolution, and in this sense it has static, zero entropy. We experimentally studied the emergence of statistical mechanics in a quantum state and observed the fundamental role of quantum entanglement in facilitating this emergence. Microscopy of an evolving quantum system indicates that the full quantum state remains pure, whereas thermalization occurs on a local scale. We directly measured entanglement entropy, which assumes the role of the thermal entropy in thermalization. The entanglement creates local entropy that validates the use of statistical physics for local observables. Our measurements are consistent with the eigenstate thermalization hypothesis.",
+  "authors": [
+    "Adam M. Kaufman",
+    "M. Eric Tai",
+    "Alexander Lukin",
+    "Matthew Rispoli",
+    "Robert Schittko",
+    "Philipp M. Preiss",
+    "Markus Greiner"
+  ],
+  "year": 2016,
+  "doi": "10.1126/science.aaf6725",
+  "source": "openalex",
+  "categories": [
+    "Quantum entanglement",
+    "Thermalisation",
+    "Physics",
+    "Quantum mechanics",
+    "Quantum discord",
+    "Quantum",
+    "Rubidium",
+    "Optical lattice",
+    "Quantum tunnelling",
+    "Entropy (arrow of time)",
+    "Chemistry",
+    "Superfluidity",
+    "Organic chemistry",
+    "Potassium"
+  ],
+  "citation_count": 1144,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1603.04409",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2300238109.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:14.669273+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2300238109",
+    "concepts": [
+      "Quantum entanglement",
+      "Thermalisation",
+      "Physics",
+      "Quantum mechanics",
+      "Quantum discord"
+    ],
+    "oa_status": "green"
+  }
+}

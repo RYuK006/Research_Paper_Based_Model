@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W4245689640",
+  "title": "Anaerobic ammonium oxidation discovered in a denitrifying fluidized bed reactor",
+  "abstract": "Until now, oxidation of ammonium has only been known to proceed under aerobic conditions.Recently, we observed that NH: was disappearing from a denitrifying fluidized bed reactor treating effluent from a methanogenic reactor.Both nitrate and ammonium consumption increased with concomitant gas production.A maximum ammonium removal rate of 0.4 kg N. me3 .d-' (1.2 mM/h) was observed.The evidence for this anaerobic ammonium oxidation was based on nitrogen and redox balances in continuous-flow experiments.It was shown that for the oxidation of 5 mol ammonium, 3 mol nitrate were required, resulting in the formation of 4 mol dinitrogen gas, Subsequent batch experiments confirmed that the NH: conversion was nitrate dependent.It was concluded that anaerobic ammonium oxidation is a new process in which ammonium is oxidized with nitrate serving as the electron acceptor under anaerobic conditions, producing dinitrogen gas.This biological process has been given the name 'Anammox' (anaerobic ammonium oxidation), and has been patented.",
+  "authors": [
+    "A. Mulder",
+    "Astrid A. van de Graaf",
+    "Lesley A. Robertson",
+    "J. Gijs Kuenen"
+  ],
+  "year": 1995,
+  "doi": "10.1111/j.1574-6941.1995.tb00281.x",
+  "source": "openalex",
+  "categories": [
+    "Anammox",
+    "Denitrifying bacteria",
+    "Ammonium",
+    "Anaerobic exercise",
+    "Nitrate",
+    "Denitrification",
+    "Inorganic chemistry",
+    "Effluent",
+    "Ammonia",
+    "Nitrogen",
+    "Fluidized bed",
+    "Redox",
+    "Chemistry",
+    "Nuclear chemistry",
+    "Environmental chemistry",
+    "Biology",
+    "Waste management",
+    "Organic chemistry",
+    "Engineering",
+    "Physiology"
+  ],
+  "citation_count": 1938,
+  "open_access_pdf_url": "https://academic.oup.com/femsec/article-pdf/16/3/177/18088399/16-3-177.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W4245689640.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:17.854998+00:00",
+  "raw_metadata": {
+    "openalex_id": "W4245689640",
+    "concepts": [
+      "Anammox",
+      "Denitrifying bacteria",
+      "Ammonium",
+      "Anaerobic exercise",
+      "Nitrate"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "openalex:W2102964449",
+  "title": "The Orphan G Protein-coupled Receptor GPR40 Is Activated by Medium and Long Chain Fatty Acids",
+  "abstract": "GPR40 is a member of a subfamily of homologous G protein-coupled receptors that include GPR41 and GPR43 and that have no current function or ligand ascribed. Ligand fishing experiments in HEK293 cells expressing human GPR40 revealed that a range of saturated and unsaturated carboxylic acids with carbon chain lengths greater than six were able to induce an elevation of [Ca(2+)](i), measured using a fluorometric imaging plate reader. 5,8,11-Eicosatriynoic acid was the most potent fatty acid tested, with a pEC(50) of 5.7. G protein coupling of GPR40 was examined in Chinese hamster ovary cells expressing the G alpha(q/i)-responsive Gal4-Elk1 reporter system. Expression of human GPR40 led to a constitutive induction of luciferase activity, which was further increased by exposure of the cells to eicosatriynoic acid. Neither the constitutive nor ligand-mediated luciferase induction was inhibited by pertussis toxin treatment, suggesting that GPR40 was coupled to G alpha(q/11.) Expression analysis by quantitative reverse transcription-PCR showed that GPR40 was specifically expressed in brain and pancreas, with expression in rodent pancreas being localized to insulin-producing beta-cells. These data suggest that some of the physiological effects of fatty acids in pancreatic islets and brain may be mediated through a cell-surface receptor.",
+  "authors": [
+    "Celia P. Briscoe",
+    "Mohammad Tadayyon",
+    "John L. Andrews",
+    "William G. Benson",
+    "Jon K. Chambers",
+    "Michelle M. Eilert",
+    "Catherine Elizabeth Ellis",
+    "Nabil A. Elshourbagy",
+    "Aaron S. Goetz",
+    "Dana T. Minnick",
+    "Paul R. Murdock",
+    "Howard R. Sauls",
+    "Usman Shabon",
+    "Lisa D. Spinage",
+    "Jay C. Strum",
+    "Philip G. Szekeres",
+    "K. B. Tan",
+    "James M. Way",
+    "Diane M. Ignar",
+    "Shelagh Wilson",
+    "Alison I. Muir"
+  ],
+  "year": 2003,
+  "doi": "10.1074/jbc.m211495200",
+  "source": "openalex",
+  "categories": [
+    "Free fatty acid receptor 1",
+    "Receptor",
+    "Ligand (biochemistry)",
+    "Biochemistry",
+    "Biology",
+    "Chemistry",
+    "Molecular biology",
+    "Agonist"
+  ],
+  "citation_count": 1126,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925819324147/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2102964449.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:17.031553+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2102964449",
+    "concepts": [
+      "Free fatty acid receptor 1",
+      "Receptor",
+      "Ligand (biochemistry)",
+      "Biochemistry",
+      "Biology"
+    ],
+    "oa_status": "hybrid"
+  }
+}

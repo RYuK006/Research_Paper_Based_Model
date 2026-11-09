@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2050695214",
+  "title": "Dynamic Molecular Structure of Plant Biomass-Derived Black Carbon (Biochar)",
+  "abstract": "Char black carbon (BC), the solid residue of incomplete combustion, is continuously being added to soils and sediments due to natural vegetation fires, anthropogenic pollution, and new strategies for carbon sequestration (\"biochar\"). Here we present a molecular-level assessment of the physical organization and chemical complexity of biomass-derived chars and, specifically, that of aromatic carbon in char structures. Brunauer-Emmett-Teller (BET)-N(2) surface area (SA), X-ray diffraction (XRD), synchrotron-based near-edge X-ray absorption fine structure (NEXAFS), and Fourier transform infrared (FT-IR) spectroscopy are used to show how two plant materials (wood and grass) undergo analogous but quantitatively different physical-chemical transitions as charring temperature increases from 100 to 700 degrees C. These changes suggest the existence of four distinct categories of char consisting of a unique mixture of chemical phases and physical states: (i) in transition chars, the crystalline character of the precursor materials is preserved; (ii) in amorphous chars, the heat-altered molecules and incipient aromatic polycondensates are randomly mixed; (iii) composite chars consist of poorly ordered graphene stacks embedded in amorphous phases; and (iv) turbostratic chars are dominated by disordered graphitic crystallites. Molecular variations among the different char categories likely translate into differences in their ability to persist in the environment and function as environmental sorbents.",
+  "authors": [
+    "Marco Keiluweit",
+    "Peter Nico",
+    "Mark G. Johnson",
+    "Markus Kleber"
+  ],
+  "year": 2010,
+  "doi": "10.1021/es9031419",
+  "source": "openalex",
+  "categories": [
+    "Char",
+    "Biochar",
+    "Amorphous solid",
+    "Carbon black",
+    "Charring",
+    "Carbon fibers",
+    "Chemical engineering",
+    "Materials science",
+    "XANES",
+    "Chemistry",
+    "Amorphous carbon",
+    "Crystallite",
+    "Combustion",
+    "Pyrolysis",
+    "Organic chemistry",
+    "Spectroscopy",
+    "Composite number",
+    "Crystallography",
+    "Composite material",
+    "Quantum mechanics",
+    "Physics",
+    "Natural rubber",
+    "Engineering"
+  ],
+  "citation_count": 3329,
+  "open_access_pdf_url": "https://www.osti.gov/servlets/purl/981343",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2050695214.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:57.772800+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2050695214",
+    "concepts": [
+      "Char",
+      "Biochar",
+      "Amorphous solid",
+      "Carbon black",
+      "Charring"
+    ],
+    "oa_status": "green"
+  }
+}

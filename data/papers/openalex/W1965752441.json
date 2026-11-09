@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W1965752441",
+  "title": "An all-electron numerical method for solving the local density functional for polyatomic molecules",
+  "abstract": "A method for accurate and efficient local density functional calculations (LDF) on molecules is described and presented with results. The method, Dmol for short, uses fast convergent three-dimensional numerical integrations to calculate the matrix elements occurring in the Ritz variation method. The flexibility of the integration technique opens the way to use the most efficient variational basis sets. A practical choice of numerical basis sets is shown with a built-in capability to reach the LDF dissociation limit exactly. Dmol includes also an efficient, exact approach for calculating the electrostatic potential. Results on small molecules illustrate present accuracy and error properties of the method. Computational effort for this method grows to leading order with the cube of the molecule size. Except for the solution of an algebraic eigenvalue problem the method can be refined to quadratic growth for large molecules.",
+  "authors": [
+    "B. Delley"
+  ],
+  "year": 1990,
+  "doi": "10.1063/1.458452",
+  "source": "openalex",
+  "categories": [
+    "Eigenvalues and eigenvectors",
+    "Ritz method",
+    "Basis (linear algebra)",
+    "Polyatomic ion",
+    "Numerical analysis",
+    "Density functional theory",
+    "Limit (mathematics)",
+    "Quadratic equation",
+    "Algebraic number",
+    "Molecule",
+    "Applied mathematics",
+    "Mathematics",
+    "Computational chemistry",
+    "Physics",
+    "Quantum mechanics",
+    "Mathematical analysis",
+    "Chemistry",
+    "Boundary value problem",
+    "Geometry"
+  ],
+  "citation_count": 10539,
+  "open_access_pdf_url": "https://pubs.aip.org/aip/jcp/article-pdf/92/1/508/11172635/508_1_online.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1965752441.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:49.859939+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1965752441",
+    "concepts": [
+      "Eigenvalues and eigenvectors",
+      "Ritz method",
+      "Basis (linear algebra)",
+      "Polyatomic ion",
+      "Numerical analysis"
+    ],
+    "oa_status": "bronze"
+  }
+}

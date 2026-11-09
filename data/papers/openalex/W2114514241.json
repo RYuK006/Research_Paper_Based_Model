@@ -1,0 +1,60 @@
+{
+  "id": "openalex:W2114514241",
+  "title": "Evaluated Kinetic Data for Combustion Modeling. Supplement I",
+  "abstract": "This compilation updates and expands a previous evaluation of kinetic data on elementary, homogeneous, gas phase reactions of neutral species involved in combustion systems [J. Phys. Chem. Ref. Data 21, 411 (1992)]. The work has been carried out under the auspices of the European Community Energy Research and Development Program. Data sheets are presented for some 78 reactions and two tables in which preferred rate parameters are presented for reactions of ethyl, i-propyl, t-butyl, and allyl radicals are given. Each data sheet sets our relevant thermodynamic data, experimental kinetic data, references, and recommended rate parameters with their error limits. A table summarizing the recommended rate data is also given. The new reactions fall into two categories: first, to expand the previous compilation relating largely to the combustion in air of methane, ethane and aromatic compounds; and second, provide data for some of the key radicals involved in the combustion of higher alkanes.",
+  "authors": [
+    "Donald L. Baulch",
+    "Carlos J. Cobos",
+    "R. A. Cox",
+    "Peter Frank",
+    "Garry D. Hayman",
+    "Th. Just",
+    "J. A. Kerr",
+    "Tim P. Murrells",
+    "Michael J. Pilling",
+    "Juergen H. Troe",
+    "Raymond W. Walker",
+    "J. Warnatz"
+  ],
+  "year": 1994,
+  "doi": "10.1063/1.555953",
+  "source": "openalex",
+  "categories": [
+    "Chemistry",
+    "Combustion",
+    "Kinetic energy",
+    "Methane",
+    "Radical",
+    "Homogeneous",
+    "Thermodynamics",
+    "Table (database)",
+    "Work (physics)",
+    "Gas phase",
+    "Experimental data",
+    "Computational chemistry",
+    "Physical chemistry",
+    "Organic chemistry",
+    "Database",
+    "Computer science",
+    "Physics",
+    "Statistics",
+    "Quantum mechanics",
+    "Mathematics"
+  ],
+  "citation_count": 1625,
+  "open_access_pdf_url": "https://pubs.aip.org/aip/jpr/article-pdf/23/6/847/11849179/847_1_online.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2114514241.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:38.124098+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2114514241",
+    "concepts": [
+      "Chemistry",
+      "Combustion",
+      "Kinetic energy",
+      "Methane",
+      "Radical"
+    ],
+    "oa_status": "bronze"
+  }
+}

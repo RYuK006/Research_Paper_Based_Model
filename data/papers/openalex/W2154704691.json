@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2154704691",
+  "title": "The Effect of Air Pollution on Lung Development from 10 to 18 Years of Age",
+  "abstract": "BACKGROUND: Whether exposure to air pollution adversely affects the growth of lung function during the period of rapid lung development that occurs between the ages of 10 and 18 years is unknown. METHODS: In this prospective study, we recruited 1759 children (average age, 10 years) from schools in 12 southern California communities and measured lung function annually for eight years. The rate of attrition was approximately 10 percent per year. The communities represented a wide range of ambient exposures to ozone, acid vapor, nitrogen dioxide, and particulate matter. Linear regression was used to examine the relationship of air pollution to the forced expiratory volume in one second (FEV(1)) and other spirometric measures. RESULTS: Over the eight-year period, deficits in the growth of FEV(1) were associated with exposure to nitrogen dioxide (P=0.005), acid vapor (P=0.004), particulate matter with an aerodynamic diameter of less than 2.5 microm (PM(2.5)) (P=0.04), and elemental carbon (P=0.007), even after adjustment for several potential confounders and effect modifiers. Associations were also observed for other spirometric measures. Exposure to pollutants was associated with clinically and statistically significant deficits in the FEV(1) attained at the age of 18 years. For example, the estimated proportion of 18-year-old subjects with a low FEV(1) (defined as a ratio of observed to expected FEV(1) of less than 80 percent) was 4.9 times as great at the highest level of exposure to PM(2.5) as at the lowest level of exposure (7.9 percent vs. 1.6 percent, P=0.002). CONCLUSIONS: The results of this study indicate that current levels of air pollution have chronic, adverse effects on lung development in children from the age of 10 to 18 years, leading to clinically significant deficits in attained FEV(1) as children reach adulthood.",
+  "authors": [
+    "W. James Gauderman",
+    "Edward L. Avol",
+    "Frank D. Gilliland",
+    "Hita Vora",
+    "Duncan C. Thomas",
+    "Kiros T Berhane",
+    "Rob McConnell",
+    "Nino Künzli",
+    "Fred W. Lurmann",
+    "Edward B. Rappaport",
+    "Helene G. Margolis",
+    "David V. Bates",
+    "John M. Peters"
+  ],
+  "year": 2004,
+  "doi": "10.1056/nejmoa040610",
+  "source": "openalex",
+  "categories": [
+    "Medicine",
+    "Air pollution",
+    "Environmental health",
+    "Lung",
+    "Intensive care medicine",
+    "Internal medicine",
+    "Organic chemistry",
+    "Chemistry"
+  ],
+  "citation_count": 1462,
+  "open_access_pdf_url": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa040610?articleTools=true",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2154704691.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:48.209411+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2154704691",
+    "concepts": [
+      "Medicine",
+      "Air pollution",
+      "Environmental health",
+      "Lung",
+      "Intensive care medicine"
+    ],
+    "oa_status": "bronze"
+  }
+}

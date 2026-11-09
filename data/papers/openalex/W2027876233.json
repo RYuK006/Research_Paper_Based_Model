@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W2027876233",
+  "title": "The role of surface charge in cellular uptake and cytotoxicity of medical nanoparticles",
+  "abstract": "Many types of nanoparticles (NPs) are tested for use in medical products, particularly in imaging and gene and drug delivery. For these applications, cellular uptake is usually a prerequisite and is governed in addition to size by surface characteristics such as hydrophobicity and charge. Although positive charge appears to improve the efficacy of imaging, gene transfer, and drug delivery, a higher cytotoxicity of such constructs has been reported. This review summarizes findings on the role of surface charge on cytotoxicity in general, action on specific cellular targets, modes of toxic action, cellular uptake, and intracellular localization of NPs. Effects of serum and intercell type differences are addressed. Cationic NPs cause more pronounced disruption of plasma-membrane integrity, stronger mitochondrial and lysosomal damage, and a higher number of autophagosomes than anionic NPs. In general, nonphagocytic cells ingest cationic NPs to a higher extent, but charge density and hydrophobicity are equally important; phagocytic cells preferentially take up anionic NPs. Cells do not use different uptake routes for cationic and anionic NPs, but high uptake rates are usually linked to greater biological effects. The different uptake preferences of phagocytic and nonphagocytic cells for cationic and anionic NPs may influence the efficacy and selectivity of NPs for drug delivery and imaging.",
+  "authors": [
+    "Eleonore Fröhlich"
+  ],
+  "year": 2012,
+  "doi": "10.2147/ijn.s36111",
+  "source": "openalex",
+  "categories": [
+    "Endocytosis",
+    "Cytotoxicity",
+    "Biophysics",
+    "Cationic polymerization",
+    "Intracellular",
+    "Surface charge",
+    "Drug delivery",
+    "Nanoparticle",
+    "Gene delivery",
+    "Dendrimer",
+    "Chemistry",
+    "Cell membrane",
+    "Drug carrier",
+    "Membrane",
+    "In vitro",
+    "Cell",
+    "Nanotechnology",
+    "Materials science",
+    "Transfection",
+    "Biochemistry",
+    "Biology",
+    "Organic chemistry",
+    "Physical chemistry",
+    "Gene"
+  ],
+  "citation_count": 2561,
+  "open_access_pdf_url": "https://www.dovepress.com/getfile.php?fileID=14389",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2027876233.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:04.306129+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2027876233",
+    "concepts": [
+      "Endocytosis",
+      "Cytotoxicity",
+      "Biophysics",
+      "Cationic polymerization",
+      "Intracellular"
+    ],
+    "oa_status": "gold"
+  }
+}

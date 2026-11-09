@@ -1,0 +1,42 @@
+{
+  "id": "openalex:W2040077883",
+  "title": "Emerging Device Applications for Semiconducting Two-Dimensional Transition Metal Dichalcogenides",
+  "abstract": "With advances in exfoliation and synthetic techniques, atomically thin films of semiconducting transition metal dichalcogenides have recently been isolated and characterized. Their two-dimensional structure, coupled with a direct band gap in the visible portion of the electromagnetic spectrum, suggests suitability for digital electronics and optoelectronics. Toward that end, several classes of high-performance devices have been reported along with significant progress in understanding their physical properties. Here, we present a review of the architecture, operating principles, and physics of electronic and optoelectronic devices based on ultrathin transition metal dichalcogenide semiconductors. By critically assessing and comparing the performance of these devices with competing technologies, the merits and shortcomings of this emerging class of electronic materials are identified, thereby providing a roadmap for future development.",
+  "authors": [
+    "Deep Jariwala",
+    "Vinod Kumar Sangwan",
+    "Lincoln J. Lauhon",
+    "Tobin Jay Marks",
+    "Mark C. Hersam"
+  ],
+  "year": 2014,
+  "doi": "10.1021/nn500064s",
+  "source": "openalex",
+  "categories": [
+    "Materials science",
+    "Transition metal",
+    "Nanotechnology",
+    "Engineering physics",
+    "Optoelectronics",
+    "Physics",
+    "Chemistry",
+    "Catalysis",
+    "Biochemistry"
+  ],
+  "citation_count": 2766,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1402.0047",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2040077883.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:01.956952+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2040077883",
+    "concepts": [
+      "Materials science",
+      "Transition metal",
+      "Nanotechnology",
+      "Engineering physics",
+      "Optoelectronics"
+    ],
+    "oa_status": "green"
+  }
+}

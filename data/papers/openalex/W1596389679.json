@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W1596389679",
+  "title": "Omega‐3 polyunsaturated fatty acids and inflammatory processes: nutrition or pharmacology?",
+  "abstract": "Eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA) are n-3 fatty acids found in oily fish and fish oil supplements. These fatty acids are able to inhibit partly a number of aspects of inflammation including leucocyte chemotaxis, adhesion molecule expression and leucocyte-endothelial adhesive interactions, production of eicosanoids like prostaglandins and leukotrienes from the n-6 fatty acid arachidonic acid, production of inflammatory cytokines and T cell reactivity. In parallel, EPA gives rise to eicosanoids that often have lower biological potency than those produced from arachidonioc acid and EPA and DHA give rise to anti-inflammatory and inflammation resolving resolvins and protectins. Mechanisms underlying the anti-inflammatory actions of n-3 fatty acids include altered cell membrane phospholipid fatty acid composition, disruption of lipid rafts, inhibition of activation of the pro-inflammatory transcription factor nuclear factor kappa B so reducing expression of inflammatory genes, activation of the anti-inflammatory transcription factor NR1C3 (i.e. peroxisome proliferator activated receptor γ) and binding to the G protein coupled receptor GPR120. These mechanisms are interlinked. In adult humans, an EPA plus DHA intake greater than 2 g day⁻¹ seems to be required to elicit anti-inflammatory actions, but few dose finding studies have been performed. Animal models demonstrate benefit from n-3 fatty acids in rheumatoid arthritis (RA), inflammatory bowel disease (IBD) and asthma. Clinical trials of fish oil in patients with RA demonstrate benefit supported by meta-analyses of the data. Clinical trails of fish oil in patients with IBD and asthma are inconsistent with no overall clear evidence of efficacy.",
+  "authors": [
+    "Philip C. Calder"
+  ],
+  "year": 2012,
+  "doi": "10.1111/j.1365-2125.2012.04374.x",
+  "source": "openalex",
+  "categories": [
+    "Fish oil",
+    "Eicosapentaenoic acid",
+    "Docosahexaenoic acid",
+    "Polyunsaturated fatty acid",
+    "GPR120",
+    "Arachidonic acid",
+    "Inflammation",
+    "Eicosanoid",
+    "Pharmacology",
+    "Lipid signaling",
+    "CYP2C8",
+    "Fatty acid",
+    "Biochemistry",
+    "Chemistry",
+    "Biology",
+    "Receptor",
+    "Immunology",
+    "G protein-coupled receptor",
+    "Metabolism",
+    "Fishery",
+    "Fish <Actinopterygii>",
+    "Cytochrome P450",
+    "Enzyme",
+    "CYP3A4"
+  ],
+  "citation_count": 1429,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1365-2125.2012.04374.x",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1596389679.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:50.575821+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1596389679",
+    "concepts": [
+      "Fish oil",
+      "Eicosapentaenoic acid",
+      "Docosahexaenoic acid",
+      "Polyunsaturated fatty acid",
+      "GPR120"
+    ],
+    "oa_status": "bronze"
+  }
+}

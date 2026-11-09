@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2969778829",
+  "title": "SLM lattice structures: Properties, performance, applications and challenges",
+  "abstract": "Additive manufacturing (AM), particularly Selective Laser Melting (SLM) has enabled development of lattice structures with unique properties. Through control of various parameters lattice structures can produce unique mechanical, electrical, thermal and acoustic properties, and have received much research attention. Despite the increasing volume of published data on the mechanical response of specific SLM lattice structures, there exists no overarching analysis. This work addresses this identified deficiency by providing a comprehensive summary of the experimental data reported on the mechanical response of SLM lattice structures. The design, fabrication and performance of SLM lattice structures are reviewed and the quality of data reported is analysed to inform best-practice for future studies. This comprehensive data summary enables meta-analysis of the reported mechanical performance of SLM lattice structures, providing insight into the bounds of their technical capabilities. Correlations were identified between the relative density and mechanical properties of many unit cell topologies consistent with the predictions of the Gibson-Ashby model, indicating its usefulness in describing and predicting the behaviour of SLM lattice structures. This review provides designers with a compiled resource of experimental data and design for AM tools to inform future design applications of SLM lattice structures and facilitates their further commercial adoption.",
+  "authors": [
+    "Tobias Maconachie",
+    "Martin Leary",
+    "Bill Lozanovski",
+    "Xuezhe Zhang",
+    "Ma Qian",
+    "Omar Faruque",
+    "Milan Brandt"
+  ],
+  "year": 2019,
+  "doi": "10.1016/j.matdes.2019.108137",
+  "source": "openalex",
+  "categories": [
+    "Selective laser melting",
+    "Materials science",
+    "Lattice (music)",
+    "Fabrication",
+    "Crystal structure",
+    "Thermal",
+    "Nanotechnology",
+    "Computer science",
+    "Mechanical engineering",
+    "Composite material",
+    "Engineering",
+    "Crystallography",
+    "Thermodynamics",
+    "Physics",
+    "Acoustics",
+    "Microstructure",
+    "Chemistry",
+    "Alternative medicine",
+    "Pathology",
+    "Medicine"
+  ],
+  "citation_count": 1544,
+  "open_access_pdf_url": "https://www.sciencedirect.com/science/article/pii/S0264127519305751/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2969778829.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:45.341583+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2969778829",
+    "concepts": [
+      "Selective laser melting",
+      "Materials science",
+      "Lattice (music)",
+      "Fabrication",
+      "Crystal structure"
+    ],
+    "oa_status": "gold"
+  }
+}

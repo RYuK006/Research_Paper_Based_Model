@@ -1,0 +1,58 @@
+{
+  "id": "openalex:W1976849993",
+  "title": "Organic semiconductors: A theoretical characterization of the basic parameters governing charge transport",
+  "abstract": "Organic semiconductors based on pi-conjugated oligomers and polymers constitute the active elements in new generations of plastic (opto)electronic devices. The performance of these devices depends largely on the efficiency of the charge-transport processes; at the microscopic level, one of the major parameters governing the transport properties is the amplitude of the electronic transfer integrals between adjacent oligomer or polymer chains. Here, quantum-chemical calculations are performed on model systems to address the way transfer integrals between adjacent chains are affected by the nature and relative positions of the interacting units. Compounds under investigation include oligothienylenes, hexabenzocoronene, oligoacenes, and perylene. It is shown that the amplitude of the transfer integrals is extremely sensitive to the molecular packing. Interestingly, in contrast to conventional wisdom, specific arrangements can lead to electron mobilities that are larger than hole mobilities, which is, for instance, the case of perylene.",
+  "authors": [
+    "Jean‐Luc Brédas",
+    "J. P. Calbert",
+    "Demétrio A. da Silva Filho",
+    "Jérôme Cornil"
+  ],
+  "year": 2002,
+  "doi": "10.1073/pnas.092143399",
+  "source": "openalex",
+  "categories": [
+    "Perylene",
+    "Organic semiconductor",
+    "Oligomer",
+    "Charge (physics)",
+    "Chemical physics",
+    "Semiconductor",
+    "Polymer",
+    "Electron transport chain",
+    "Charge carrier",
+    "Characterization (materials science)",
+    "Materials science",
+    "Electron",
+    "Conjugated system",
+    "Transfer (computing)",
+    "Chemistry",
+    "Condensed matter physics",
+    "Physics",
+    "Molecule",
+    "Nanotechnology",
+    "Optoelectronics",
+    "Quantum mechanics",
+    "Polymer chemistry",
+    "Organic chemistry",
+    "Computer science",
+    "Parallel computing",
+    "Biochemistry"
+  ],
+  "citation_count": 1298,
+  "open_access_pdf_url": "http://europepmc.org/pmc/articles/PMC122857",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1976849993.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:57.833555+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1976849993",
+    "concepts": [
+      "Perylene",
+      "Organic semiconductor",
+      "Oligomer",
+      "Charge (physics)",
+      "Chemical physics"
+    ],
+    "oa_status": "green"
+  }
+}

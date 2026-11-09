@@ -1,0 +1,60 @@
+{
+  "id": "openalex:W2168632005",
+  "title": "ABT-263: A Potent and Orally Bioavailable Bcl-2 Family Inhibitor",
+  "abstract": "Overexpression of the prosurvival Bcl-2 family members (Bcl-2, Bcl-xL, and Mcl-1) is commonly associated with tumor maintenance, progression, and chemoresistance. We previously reported the discovery of ABT-737, a potent, small-molecule Bcl-2 family protein inhibitor. A major limitation of ABT-737 is that it is not orally bioavailable, which would limit chronic single agent therapy and flexibility to dose in combination regimens. Here we report the biological properties of ABT-263, a potent, orally bioavailable Bad-like BH3 mimetic (K(i)'s of <1 nmol/L for Bcl-2, Bcl-xL, and Bcl-w). The oral bioavailability of ABT-263 in preclinical animal models is 20% to 50%, depending on formulation. ABT-263 disrupts Bcl-2/Bcl-xL interactions with pro-death proteins (e.g., Bim), leading to the initiation of apoptosis within 2 hours posttreatment. In human tumor cells, ABT-263 induces Bax translocation, cytochrome c release, and subsequent apoptosis. Oral administration of ABT-263 alone induces complete tumor regressions in xenograft models of small-cell lung cancer and acute lymphoblastic leukemia. In xenograft models of aggressive B-cell lymphoma and multiple myeloma where ABT-263 exhibits modest or no single agent activity, it significantly enhances the efficacy of clinically relevant therapeutic regimens. These data provide the rationale for clinical trials evaluating ABT-263 in small-cell lung cancer and B-cell malignancies. The oral efficacy of ABT-263 should provide dosing flexibility to maximize clinical utility both as a single agent and in combination regimens.",
+  "authors": [
+    "Christin Tse",
+    "Alexander R. Shoemaker",
+    "Jessica Adickes",
+    "Mark G. Anderson",
+    "Jun Chen",
+    "Sha S Jin",
+    "Eric Feral Johnson",
+    "Kennan C. Marsh",
+    "Michael J. Mitten",
+    "Paul M. Nimmer",
+    "Lisa Roberts",
+    "Stephen K. Tahir",
+    "Xiao Hong Yu",
+    "Xiufen Yang",
+    "Haichao Zhang",
+    "Stephen W. Fesik",
+    "Saul H. Rosenberg",
+    "Steven W. Elmore"
+  ],
+  "year": 2008,
+  "doi": "10.1158/0008-5472.can-07-5836",
+  "source": "openalex",
+  "categories": [
+    "Pharmacology",
+    "Bioavailability",
+    "Medicine",
+    "Cancer",
+    "Apoptosis",
+    "Multiple myeloma",
+    "Cancer research",
+    "Lung cancer",
+    "Bcl-2 family",
+    "Programmed cell death",
+    "Immunology",
+    "Chemistry",
+    "Internal medicine",
+    "Biochemistry"
+  ],
+  "citation_count": 2035,
+  "open_access_pdf_url": "https://aacrjournals.org/cancerres/article-pdf/68/9/3421/2602916/3421.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2168632005.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:15.596000+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2168632005",
+    "concepts": [
+      "Pharmacology",
+      "Bioavailability",
+      "Medicine",
+      "Cancer",
+      "Apoptosis"
+    ],
+    "oa_status": "bronze"
+  }
+}

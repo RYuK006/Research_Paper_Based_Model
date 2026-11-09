@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W1970965314",
+  "title": "ATM Activation by Oxidative Stress",
+  "abstract": "The ataxia-telangiectasia mutated (ATM) protein kinase is activated by DNA double-strand breaks (DSBs) through the Mre11-Rad50-Nbs1 (MRN) DNA repair complex and orchestrates signaling cascades that initiate the DNA damage response. Cells lacking ATM are also hypersensitive to insults other than DSBs, particularly oxidative stress. We show that oxidation of ATM directly induces ATM activation in the absence of DNA DSBs and the MRN complex. The oxidized form of ATM is a disulfide-cross-linked dimer, and mutation of a critical cysteine residue involved in disulfide bond formation specifically blocked activation through the oxidation pathway. Identification of this pathway explains observations of ATM activation under conditions of oxidative stress and shows that ATM is an important sensor of reactive oxygen species in human cells.",
+  "authors": [
+    "Zhi Guo",
+    "Sergei Kozlov",
+    "Martin Francis Lavin",
+    "Maria D. Person",
+    "Tanya T. Paull"
+  ],
+  "year": 2010,
+  "doi": "10.1126/science.1192912",
+  "source": "openalex",
+  "categories": [
+    "DNA damage",
+    "Oxidative stress",
+    "Chemistry",
+    "DNA",
+    "Ataxia-telangiectasia",
+    "Cell biology",
+    "DNA repair",
+    "Cysteine",
+    "Reactive oxygen species",
+    "Oxidative phosphorylation",
+    "Signal transduction",
+    "Mutation",
+    "Biochemistry",
+    "Molecular biology",
+    "Biology",
+    "Gene",
+    "Enzyme"
+  ],
+  "citation_count": 1111,
+  "open_access_pdf_url": "https://repositories.lib.utexas.edu/bitstreams/638811aa-0155-48b3-b9af-994e2c78d374/download",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1970965314.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:19.598575+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1970965314",
+    "concepts": [
+      "DNA damage",
+      "Oxidative stress",
+      "Chemistry",
+      "DNA",
+      "Ataxia-telangiectasia"
+    ],
+    "oa_status": "green"
+  }
+}

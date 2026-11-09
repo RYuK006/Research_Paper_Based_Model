@@ -1,0 +1,62 @@
+{
+  "id": "openalex:W2805801953",
+  "title": "Highly nitrogen doped carbon nanofibers with superior rate capability and cyclability for potassium ion batteries",
+  "abstract": "Abstract Potassium-ion batteries are a promising alternative to lithium-ion batteries. However, it is challenging to achieve fast charging/discharging and long cycle life with the current electrode materials because of the sluggish potassiation kinetics. Here we report a soft carbon anode, namely highly nitrogen-doped carbon nanofibers, with superior rate capability and cyclability. The anode delivers reversible capacities of 248 mAh g –1 at 25 mA g –1 and 101 mAh g –1 at 20 A g –1 , and retains 146 mAh g –1 at 2 A g –1 after 4000 cycles. Surface-dominated K-storage is verified by quantitative kinetics analysis and theoretical investigation. A full cell coupling the anode and Prussian blue cathode delivers a reversible capacity of 195 mAh g –1 at 0.2 A g –1 . Considering the cost-effectiveness and material sustainability, our work may shed some light on searching for K-storage materials with high performance.",
+  "authors": [
+    "Yang Xu",
+    "Chenglin Zhang",
+    "Min Zhou",
+    "Qun Fu",
+    "Chengxi Zhao",
+    "Minghong Wu",
+    "Yong Lei"
+  ],
+  "year": 2018,
+  "doi": "10.1038/s41467-018-04190-z",
+  "source": "openalex",
+  "categories": [
+    "Anode",
+    "Materials science",
+    "Cathode",
+    "Prussian blue",
+    "Nanofiber",
+    "Carbon fibers",
+    "Carbon nanofiber",
+    "Lithium (medication)",
+    "Potassium",
+    "Chemical engineering",
+    "Kinetics",
+    "Nitrogen",
+    "Electrode",
+    "Nanotechnology",
+    "Electrochemistry",
+    "Chemistry",
+    "Composite material",
+    "Carbon nanotube",
+    "Composite number",
+    "Organic chemistry",
+    "Medicine",
+    "Physics",
+    "Metallurgy",
+    "Endocrinology",
+    "Engineering",
+    "Physical chemistry",
+    "Quantum mechanics"
+  ],
+  "citation_count": 1147,
+  "open_access_pdf_url": "https://www.nature.com/articles/s41467-018-04190-z.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2805801953.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:14.631798+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2805801953",
+    "concepts": [
+      "Anode",
+      "Materials science",
+      "Cathode",
+      "Prussian blue",
+      "Nanofiber"
+    ],
+    "oa_status": "gold"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "openalex:W2970565007",
+  "title": "Electrolyte selection for supercapacitive devices: a critical review",
+  "abstract": "Electrolytes are one of the vital constituents of electrochemical energy storage devices and their physical and chemical properties play an important role in these devices' performance, including capacity, power density, rate performance, cyclability and safety. This article reviews the current state of understanding of the electrode-electrolyte interaction in supercapacitors and battery-supercapacitor hybrid devices. The article discusses factors that affect the overall performance of the devices such as the ionic conductivity, mobility, diffusion coefficient, radius of bare and hydrated spheres, ion solvation, viscosity, dielectric constant, electrochemical stability, thermal stability and dispersion interaction. The requirements needed to design better electrolytes and the challenges that still need to be addressed for building better supercapacitive devices for the competitive energy storage market have also been highlighted.",
+  "authors": [
+    "Bhupender Pal",
+    "Shengyuan Yang",
+    "S. Ramesh",
+    "Venkataraman Thangadurai",
+    "Rajan Jose"
+  ],
+  "year": 2019,
+  "doi": "10.1039/c9na00374f",
+  "source": "openalex",
+  "categories": [
+    "Electrolyte",
+    "Selection (genetic algorithm)",
+    "Materials science",
+    "Function (biology)",
+    "Nanotechnology",
+    "Computer science",
+    "Electrode",
+    "Chemistry",
+    "Biology",
+    "Artificial intelligence",
+    "Evolutionary biology",
+    "Physical chemistry"
+  ],
+  "citation_count": 1346,
+  "open_access_pdf_url": "https://pubs.rsc.org/en/content/articlepdf/2019/na/c9na00374f",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2970565007.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:55.228676+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2970565007",
+    "concepts": [
+      "Electrolyte",
+      "Selection (genetic algorithm)",
+      "Materials science",
+      "Function (biology)",
+      "Nanotechnology"
+    ],
+    "oa_status": "gold"
+  }
+}

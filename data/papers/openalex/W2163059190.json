@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2163059190",
+  "title": "A scalable content-addressable network",
+  "abstract": "Hash tables - which map \"keys\" onto \"values\" - are an essential building block in modern software systems. We believe a similar functionality would be equally valuable to large distributed systems. In this paper, we introduce the concept of a Content-Addressable Network (CAN) as a distributed infrastructure that provides hash table-like functionality on Internet-like scales. The CAN is scalable, fault-tolerant and completely self-organizing, and we demonstrate its scalability, robustness and low-latency properties through simulation.",
+  "authors": [
+    "Sylvia Ratnasamy",
+    "Paul Francis",
+    "Mark James Handley",
+    "Richard M. Karp",
+    "Scott J. Shenker"
+  ],
+  "year": 2001,
+  "doi": "10.1145/383059.383072",
+  "source": "openalex",
+  "categories": [
+    "Computer science",
+    "Scalability",
+    "Distributed hash table",
+    "Distributed computing",
+    "Hash table",
+    "Hash function",
+    "Robustness (evolution)",
+    "Fault tolerance",
+    "Latency (audio)",
+    "Computer network",
+    "The Internet",
+    "Database",
+    "Operating system",
+    "Computer security",
+    "Telecommunications",
+    "Biochemistry",
+    "Chemistry",
+    "Gene"
+  ],
+  "citation_count": 6475,
+  "open_access_pdf_url": "https://dl.acm.org/doi/pdf/10.1145/383059.383072",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2163059190.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:52.120668+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2163059190",
+    "concepts": [
+      "Computer science",
+      "Scalability",
+      "Distributed hash table",
+      "Distributed computing",
+      "Hash table"
+    ],
+    "oa_status": "bronze"
+  }
+}

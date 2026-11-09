@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W1964959571",
+  "title": "Targeting lactate metabolism for cancer therapeutics",
+  "abstract": "Lactate, once considered a waste product of glycolysis, has emerged as a critical regulator of cancer development, maintenance, and metastasis.Indeed, tumor lactate levels correlate with increased metastasis, tumor recurrence, and poor outcome.Lactate mediates cancer cell intrinsic effects on metabolism and has additional non-tumor cell autonomous effects that drive tumorigenesis.Tumor cells can metabolize lactate as an energy source and shuttle lactate to neighboring cancer cells, adjacent stroma, and vascular endothelial cells, which induces metabolic reprogramming.Lactate also plays roles in promoting tumor inflammation and in functioning as a signaling molecule that stimulates tumor angiogenesis.Here we review the mechanisms of lactate production and transport and highlight emerging evidence indicating that targeting lactate metabolism is a promising approach for cancer therapeutics. Lactate homeostasis in cancer cellsCancer cells are programmed to rely on aerobic glycolysis to support their proliferation and anabolic growth, an observation known as the Warburg effect (1, 2).Aerobic glycolysis rapidly generates ATP and diverts carbon from glucose into precursors for the synthesis of nucleotides, proteins, and lipids.As a consequence of this switch, glucose is preferentially catabolized to lactate, rather than fully metabolized to carbon dioxide via mitochondrial oxidative phosphorylation (OXPHOS).Glutamine catabolism by cancer cells also supports anabolic growth, sustains TCA cycle intermediates, and regulates redox homeostasis (3-5).These activities augment lactate production, albeit to a lesser extent than the lactate derived from glucose catabolism.Specifically, glutaminase (GLS) directs the conversion of glutamine to glutamate, which is then converted to α-ketoglutarate (αKG) by glutamate dehydrogenase that enters the TCA cycle.Malate that is then generated from αKG can exit the TCA cycle and be converted to pyruvate by malic enzyme (ME), which contributes to redox homeostasis via NADPH production.An alternate use of glutamine in pancreatic ductal carcinomas involves the transamination of glutamate and oxaloacetate (OAA) to αKG and aspartate (5).Aspartate exits the mitochondria and is transaminated back to OAA and glutamate; OAA is then converted to malate and subsequently to pyruvate.Finally, pyruvate is converted to lactate by the enzyme lactate dehydrogenase A (LDHA, Figure 1).Oncogenic lesions in cancer drive the switch to aerobic glycolysis and lactate production by inducing the expression and activation of several glycolytic enzymes (Figure 1).First, aberrant PI3K/AKT signaling induces the expression and cell surface expression of high-affinity glucose transporters (i.e., GLUT1 and GLUT4) and the activation of hexokinase 2 (HK2) and 6-phosphofructokinase 1 (PFK1) (6-8).Second, the transcriptional oncoproteins MYC and HIF-1α induce the expression of several glycolytic enzymes, including HK2, glucose-6-phosphate isomerase (GPI), PFK1, aldolase (ALDO), fructose bisphosphate (FBP), triose phosphate isomerase (TPI), GAPDH, phosphoglycerate kinase (PGK1), enolase 1 (ENO1), pyruvate kinase, muscle (PKM), and LDHA (9-12).In addition, MYC augments glutamine catabolism by inducing the LDH and its roles in tumorigenesis LDH mediates bidirectional conversion of pyruvate and lactate and is an emerging anticancer target (Figure 2).LDH is a tetramer composed of two different subunits, LDHA and LDHB, which Conflict of interest: The authors have declared that no conflict of interest exists.",
+  "authors": [
+    "Joanne R. Doherty",
+    "John L. Cleveland"
+  ],
+  "year": 2013,
+  "doi": "10.1172/jci69741",
+  "source": "openalex",
+  "categories": [
+    "Warburg effect",
+    "Angiogenesis",
+    "Metastasis",
+    "Cancer cell",
+    "Carcinogenesis",
+    "Cancer",
+    "Glycolysis",
+    "Biology",
+    "Cancer research",
+    "Reprogramming",
+    "Tumor microenvironment",
+    "Chemistry",
+    "Metabolism",
+    "Cell",
+    "Biochemistry",
+    "Tumor cells",
+    "Genetics"
+  ],
+  "citation_count": 1194,
+  "open_access_pdf_url": "http://www.jci.org/articles/view/69741/files/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1964959571.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:08.393856+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1964959571",
+    "concepts": [
+      "Warburg effect",
+      "Angiogenesis",
+      "Metastasis",
+      "Cancer cell",
+      "Carcinogenesis"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2105582942",
+  "title": "One path to acoustic cloaking",
+  "abstract": "A complete analysis of coordinate transformations in elastic media by Milton et al has shown that, in general, the equations of motion are not form invariant and thus do not admit transformation-type solutions of the type discovered by Pendry et al for electromagnetics. However, in a two-dimensional (2D) geometry, the acoustic equations in a fluid are identical in form to the single polarization Maxwell equations via a variable exchange that also preserves boundary conditions. We confirm the existence of transformation-type solutions for the 2D acoustic equations with anisotropic mass via time harmonic simulations of acoustic cloaking. We discuss the possibilities of experimentally demonstrating acoustic cloaking and analyse why this special equivalence of acoustics and electromagnetics occurs only in 2D.",
+  "authors": [
+    "Steven A. Cummer",
+    "David Schurig"
+  ],
+  "year": 2007,
+  "doi": "10.1088/1367-2630/9/3/045",
+  "source": "openalex",
+  "categories": [
+    "Cloaking",
+    "Physics",
+    "Polarization (electrochemistry)",
+    "Invariant (physics)",
+    "Maxwell's equations",
+    "Electromagnetics",
+    "Classical mechanics",
+    "Mathematical analysis",
+    "Boundary value problem",
+    "Coordinate system",
+    "Mathematical physics",
+    "Geometry",
+    "Optics",
+    "Metamaterial",
+    "Quantum mechanics",
+    "Mathematics",
+    "Physical chemistry",
+    "Chemistry",
+    "Engineering physics"
+  ],
+  "citation_count": 1097,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1088/1367-2630/9/3/045/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2105582942.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:24.280763+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2105582942",
+    "concepts": [
+      "Cloaking",
+      "Physics",
+      "Polarization (electrochemistry)",
+      "Invariant (physics)",
+      "Maxwell's equations"
+    ],
+    "oa_status": "gold"
+  }
+}

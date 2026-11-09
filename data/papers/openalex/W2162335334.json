@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2162335334",
+  "title": "Electrochemical Biosensors: Recommended Definitions and Classification",
+  "abstract": "Abstract Two Divisions of the International Union of Pure and Applied Chemistry (IUPAC), namely Physical Chemistry (Commission I.7 on Biophysical Chemistry formerly Steering Committee on Biophysical Chemistry) and Analytical Chemistry (Commission V.5 on Electroanalytical Chemistry) have prepared recommendations on the definition, classification and nomenclature related to electrochemical biosensors; these recommendations could, in the future, be extended to other types of biosensors. An electrochemical biosensor is a self-contained integrated device , which is capable of providing specific quantitative or semi-quantitative analytical information using a biological recognition element (biochemical receptor) which is retained in direct spatial contact with an electrochemical transduction element . Because of their ability to be repeatedly calibrated, we recommend that a biosensor should be clearly distinguished from a bioanalytical system, which requires additional processing steps, such as reagent addition. A device which is both disposable after one measurement, i.e., single use, and unable to monitor the analyte concentration continuously or after rapid and reproducible regeneration should be designated a single use biosensor. Biosensors may be classified according to the biological specificity-conferring mechanism or, alternatively, to the mode of physico-chemical signal transduction . The biological recognition element may be based on a chemical reaction catalysed by, or on an equilibrium reaction with macromolecules that have been isolated, engineered or present in their original biological environment. In the latter cases, equilibrium is generally reached and there is no further, if any, net consumption of analyte(s) by the immobilized biocomplexing agent incorporated into the sensor. Biosensors may be further classified according to the analytes or reactions that they monitor: direct monitoring of analyte concentration or of reactions producing or consuming such analytes; alternatively, an indirect monitoring of inhibitor or activator of the biological recognition element (biochemical receptor) may be achieved. A rapid proliferation of biosensors and their diversity has led to a lack of rigour in defining their performance criteria . Although each biosensor can only truly be evaluated for a particular application, it is still useful to examine how standard protocols for performance criteria may be defined in accordance with standard IUPAC protocols or definitions. These criteria are recommended for authors, referees and educators and include calibration characteristics (sensitivity, operational and linear concentration range, detection and quantitative determination limits), selectivity, steady-state and transient response times, sample throughput, reproducibility, stability and lifetime.",
+  "authors": [
+    "Daniel R. Thévenot",
+    "Katalin Tóth",
+    "Richard A. Durst",
+    "George S. Wilson"
+  ],
+  "year": 1999,
+  "doi": "10.1351/pac199971122333",
+  "source": "openalex",
+  "categories": [
+    "Biosensor",
+    "Chemical nomenclature",
+    "Analyte",
+    "Chemistry",
+    "Bioanalysis",
+    "Aptamer",
+    "Nanotechnology",
+    "Biochemical engineering",
+    "Combinatorial chemistry",
+    "Biochemistry",
+    "Chromatography",
+    "Organic chemistry",
+    "Materials science",
+    "Genetics",
+    "Biology",
+    "Engineering"
+  ],
+  "citation_count": 1196,
+  "open_access_pdf_url": "https://www.degruyter.com/document/doi/10.1351/pac199971122333/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2162335334.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:08.365951+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2162335334",
+    "concepts": [
+      "Biosensor",
+      "Chemical nomenclature",
+      "Analyte",
+      "Chemistry",
+      "Bioanalysis"
+    ],
+    "oa_status": "bronze"
+  }
+}

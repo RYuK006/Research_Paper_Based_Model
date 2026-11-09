@@ -1,0 +1,60 @@
+{
+  "id": "openalex:W2035421462",
+  "title": "The Orphan G Protein-coupled Receptors GPR41 and GPR43 Are Activated by Propionate and Other Short Chain Carboxylic Acids",
+  "abstract": "GPR41 and GPR43 are related members of a homologous family of orphan G protein-coupled receptors that are tandemly encoded at a single chromosomal locus in both humans and mice. We identified the acetate anion as an agonist of human GPR43 during routine ligand bank screening in yeast. This activity was confirmed after transient transfection of GPR43 into mammalian cells using Ca(2+) mobilization and [(35)S]guanosine 5'-O-(3-thiotriphosphate) binding assays and by coexpression with GIRK G protein-regulated potassium channels in Xenopus laevis oocytes. Other short chain carboxylic acid anions such as formate, propionate, butyrate, and pentanoate also had agonist activity. GPR41 is related to GPR43 (52% similarity; 43% identity) and was activated by similar ligands but with differing specificity for carbon chain length, with pentanoate being the most potent agonist. A third family member, GPR42, is most likely a recent gene duplication of GPR41 and may be a pseudogene. GPR41 was expressed primarily in adipose tissue, whereas the highest levels of GPR43 were found in immune cells. The identity of the cognate physiological ligands for these receptors is not clear, although propionate is known to occur in vivo at high concentrations under certain pathophysiological conditions.",
+  "authors": [
+    "Andrew J. Brown",
+    "Susan M. Goldsworthy",
+    "Ashley A. Barnes",
+    "Michelle M. Eilert",
+    "Lili Tcheang",
+    "Dion A. Daniels",
+    "Alison I. Muir",
+    "Mark J Wigglesworth",
+    "Ian J. Kinghorn",
+    "Neil J. Fraser",
+    "Nicholas B. Pike",
+    "Jay C. Strum",
+    "Klaudia M. Steplewski",
+    "Paul R. Murdock",
+    "Julie C. Holder",
+    "Fiona H. Marshall",
+    "Philip G. Szekeres",
+    "Shelagh Wilson",
+    "Diane M. Ignar",
+    "S.M. Foord",
+    "Alan Wise",
+    "Simon J. Dowell"
+  ],
+  "year": 2003,
+  "doi": "10.1074/jbc.m211609200",
+  "source": "openalex",
+  "categories": [
+    "Receptor",
+    "Biology",
+    "Biochemistry",
+    "Xenopus",
+    "Agonist",
+    "G protein-coupled inwardly-rectifying potassium channel",
+    "Molecular biology",
+    "Chemistry",
+    "G protein",
+    "Gene"
+  ],
+  "citation_count": 2479,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925819324159/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2035421462.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:04.413850+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2035421462",
+    "concepts": [
+      "Receptor",
+      "Biology",
+      "Biochemistry",
+      "Xenopus",
+      "Agonist"
+    ],
+    "oa_status": "hybrid"
+  }
+}

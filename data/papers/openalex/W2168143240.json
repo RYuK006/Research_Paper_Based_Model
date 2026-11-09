@@ -1,0 +1,44 @@
+{
+  "id": "openalex:W2168143240",
+  "title": "Interpretation of organic components from Positive Matrix Factorization of aerosol mass spectrometric data",
+  "abstract": "Abstract. The organic aerosol (OA) dataset from an Aerodyne Aerosol Mass Spectrometer (Q-AMS) collected at the Pittsburgh Air Quality Study (PAQS) in September 2002 was analyzed with Positive Matrix Factorization (PMF). Three components – hydrocarbon-like organic aerosol OA (HOA), a highly-oxygenated OA (OOA-1) that correlates well with sulfate, and a less-oxygenated, semi-volatile OA (OOA-2) that correlates well with nitrate and chloride – are identified and interpreted as primary combustion emissions, aged SOA, and semivolatile, less aged SOA, respectively. The complexity of interpreting the PMF solutions of unit mass resolution (UMR) AMS data is illustrated by a detailed analysis of the solutions as a function of number of components and rotational forcing. A public web-based database of AMS spectra has been created to aid this type of analysis. Realistic synthetic data is also used to characterize the behavior of PMF for choosing the best number of factors, and evaluating the rotations of non-unique solutions. The ambient and synthetic data indicate that the variation of the PMF quality of fit parameter (Q, a normalized chi-squared metric) vs. number of factors in the solution is useful to identify the minimum number of factors, but more detailed analysis and interpretation are needed to choose the best number of factors. The maximum value of the rotational matrix is not useful for determining the best number of factors. In synthetic datasets, factors are \"split\" into two or more components when solving for more factors than were used in the input. Elements of the \"splitting\" behavior are observed in solutions of real datasets with several factors. Significant structure remains in the residual of the real dataset after physically-meaningful factors have been assigned and an unrealistic number of factors would be required to explain the remaining variance. This residual structure appears to be due to variability in the spectra of the components (especially OOA-2 in this case), which is likely to be a key limit of the retrievability of components from AMS datasets using PMF and similar methods that need to assume constant component mass spectra. Methods for characterizing and dealing with this variability are needed. Interpretation of PMF factors must be done carefully. Synthetic data indicate that PMF internal diagnostics and similarity to available source component spectra together are not sufficient for identifying factors. It is critical to use correlations between factor and external measurement time series and other criteria to support factor interpretations. True components with <5% of the mass are unlikely to be retrieved accurately. Results from this study may be useful for interpreting the PMF analysis of data from other aerosol mass spectrometers. Researchers are urged to analyze future datasets carefully, including synthetic analyses, and to evaluate whether the conclusions made here apply to their datasets.",
+  "authors": [
+    "Ingrid M. Ulbrich",
+    "Manjula R. Canagaratna",
+    "Q. Zhang",
+    "Douglas R. Worsnop",
+    "Jose Luis Jimenez"
+  ],
+  "year": 2009,
+  "doi": "10.5194/acp-9-2891-2009",
+  "source": "openalex",
+  "categories": [
+    "Aerosol",
+    "Chemistry",
+    "Matrix (chemical analysis)",
+    "Mass spectrometry",
+    "Metric (unit)",
+    "Analytical Chemistry (journal)",
+    "Environmental chemistry",
+    "Chromatography",
+    "Organic chemistry",
+    "Operations management",
+    "Economics"
+  ],
+  "citation_count": 1627,
+  "open_access_pdf_url": "https://acp.copernicus.org/articles/9/2891/2009/acp-9-2891-2009.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2168143240.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:38.107605+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2168143240",
+    "concepts": [
+      "Aerosol",
+      "Chemistry",
+      "Matrix (chemical analysis)",
+      "Mass spectrometry",
+      "Metric (unit)"
+    ],
+    "oa_status": "gold"
+  }
+}

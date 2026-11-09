@@ -1,0 +1,43 @@
+{
+  "id": "openalex:W2160437934",
+  "title": "Photosynthetic carbon assimilation and associated metabolism in relation to water deficits in higher plants",
+  "abstract": "Experimental studies on CO2 assimilation of mesophytic C3 plants in relation to relative water content (RWC) are discussed. Decreasing RWC slows the actual rate of photosynthetic CO2 assimilation (A) and decreases the potential rate (Apot). Generally, as RWC falls from c. 100 to c. 75%, the stomatal conductance (gs) decreases, and with it A. However, there are two general types of relation of Apot to RWC, which are called Type 1 and Type 2. Type 1 has two main phases. As RWC decreases from 100 to c. 75%, Apot is unaffected, but decreasing stomatal conductance (gs) results in smaller A, and lower CO2 concentration inside the leaf (Ci) and in the chloroplast (Cc), the latter falling possibly to the compensation point. Down-regulation of electron transport occurs by energy quenching mechanisms, and changes in carbohydrate and nitrogen metabolism are considered acclimatory, caused by low Ci and reversible by elevated CO2. Below 75% RWC, there is metabolic inhibition of Apot, inhibition of A then being partly (but progressively less) reversible by elevated CO2; gs regulates A progressively less, and Ci and CO2 compensation point, Gamma rise. It is suggested that this is the true stress phase, where the decrease in Apot is caused by decreased ATP synthesis and a consequent decreased synthesis of RuBP. In the Type 2 response, Apot decreases progressively at RWC 100 to 75%, with A being progressively less restored to the unstressed value by elevated CO2. Decreased gs leads to a lower Ci and Cc but they probably do not reach compensation point: gs becomes progressively less important and metabolic limitations more important as RWC falls. The primary effect of low RWC on Apot is most probably caused by limited RuBP synthesis, as a result of decreased ATP synthesis, either through inhibition of Coupling Factor activity or amount due to increased ion concentration. Carbohydrate synthesis and accumulation decrease. Type 2 response is considered equivalent to Type 1 at RWC below c. 75%, with Apot inhibited by limited ATP and RuBP synthesis, respiratory metabolism dominates and Ci and Gamma rise. The importance of inhibited ATP synthesis as a primary cause of decreasing Apot is discussed. Factors determining the Type 1 and Type 2 responses are unknown. Electron transport is maintained (but down-regulated) in Types 1 and 2 over a wide range of RWC, and a large reduced/oxidized adenylate ratio results. Metabolic imbalance results in amino acid accumulation and decreased and altered protein synthesis. These conditions profoundly affect cell functions and ultimately cause cell death. Type 1 and 2 responses may reflect differences in gs and in sensitivity of metabolism to decreasing RWC.",
+  "authors": [
+    "D. W. Lawlor",
+    "Gabriel Cornic"
+  ],
+  "year": 2002,
+  "doi": "10.1046/j.0016-8025.2001.00814.x",
+  "source": "openalex",
+  "categories": [
+    "Photosynthesis",
+    "Chemistry",
+    "Compensation point",
+    "Stomatal conductance",
+    "Water content",
+    "Metabolism",
+    "Botany",
+    "Horticulture",
+    "Transpiration",
+    "Biology",
+    "Biochemistry",
+    "Geotechnical engineering",
+    "Engineering"
+  ],
+  "citation_count": 2018,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1046/j.0016-8025.2001.00814.x",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2160437934.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:15.637339+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2160437934",
+    "concepts": [
+      "Photosynthesis",
+      "Chemistry",
+      "Compensation point",
+      "Stomatal conductance",
+      "Water content"
+    ],
+    "oa_status": "hybrid"
+  }
+}

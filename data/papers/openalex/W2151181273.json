@@ -1,0 +1,60 @@
+{
+  "id": "openalex:W2151181273",
+  "title": "Description and evaluation of the Model for Ozone and Related chemical Tracers, version 4 (MOZART-4)",
+  "abstract": "Abstract. The Model for Ozone and Related chemical Tracers, version 4 (MOZART-4) is an offline global chemical transport model particularly suited for studies of the troposphere. The updates of the model from its previous version MOZART-2 are described, including an expansion of the chemical mechanism to include more detailed hydrocarbon chemistry and bulk aerosols. Online calculations of a number of processes, such as dry deposition, emissions of isoprene and monoterpenes and photolysis frequencies, are now included. Results from an eight-year simulation (2000–2007) are presented and evaluated. The MOZART-4 source code and standard input files are available for download from the NCAR Community Data Portal (http://cdp.ucar.edu).",
+  "authors": [
+    "L. K. Emmons",
+    "Sarah Walters",
+    "Peter Hess",
+    "Jean‐François Lamarque",
+    "Gabriele G. Pfister",
+    "David Fillmore",
+    "Claire Granier",
+    "Alex Guenther",
+    "Douglas Edward Kinnison",
+    "Thomas Laepple",
+    "John J. Orlando",
+    "Xuexi Tie",
+    "Geoffrey S. Tyndall",
+    "Christine Wiedinmyer",
+    "Steven L. Baughcum",
+    "S. Kloster"
+  ],
+  "year": 2010,
+  "doi": "10.5194/gmd-3-43-2010",
+  "source": "openalex",
+  "categories": [
+    "MOZART",
+    "Isoprene",
+    "Troposphere",
+    "Meteorology",
+    "Chemical transport model",
+    "Ozone",
+    "Atmospheric chemistry",
+    "Atmospheric sciences",
+    "Ozone layer",
+    "Environmental science",
+    "Astrobiology",
+    "Chemistry",
+    "Physics",
+    "Organic chemistry",
+    "Polymer",
+    "Copolymer"
+  ],
+  "citation_count": 1929,
+  "open_access_pdf_url": "https://doi.org/10.5194/gmd-3-43-2010",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2151181273.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:17.880437+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2151181273",
+    "concepts": [
+      "MOZART",
+      "Isoprene",
+      "Troposphere",
+      "Meteorology",
+      "Chemical transport model"
+    ],
+    "oa_status": "gold"
+  }
+}

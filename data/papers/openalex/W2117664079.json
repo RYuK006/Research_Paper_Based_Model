@@ -1,0 +1,57 @@
+{
+  "id": "openalex:W2117664079",
+  "title": "Dendritic spines of CA 1 pyramidal cells in the rat hippocampus: serial electron microscopy with reference to their biophysical characteristics",
+  "abstract": "Serial electron microscopy and 3-D reconstructions of dendritic spines from hippocampal area CA 1 dendrites were obtained to evaluate 2 questions about relationships between spine geometry and synaptic efficacy. First, under what biophysical conditions are the spine necks likely to reduce the magnitude of charge transferred from the synapses on the spine heads to the recipient dendrite? Simulation software provided by Charles Wilson (1984) was used to determine that if synaptic conductance is 1 nS or less, only 1% of the hippocampal spine necks are sufficiently thin and long to reduce charge transfer by more than 10%. If synaptic conductance approaches 5 nS, however, 33% of the hippocampal spine necks are sufficiently thin and long to reduce charge transfer by more than 10%. Second, is spine geometry associated with other anatomical indicators of synaptic efficacy, including the area of the postsynaptic density and the number of vesicles in the presynaptic axon? Reconstructed spines were graphically edited into head and neck compartments, and their dimensions were measured, the areas of the postsynaptic densities (PSD) were measured, and all of the vesicles in the presynaptic axonal varicosities were counted. The dimensions of the spine head were well correlated with the area of PSD and the number of vesicles in the presynaptic axonal varicosity. Spine neck diameter and length were not correlated with PSD area, head volume, or the number of vesicles. These results suggest that the dimensions of the spine head, but not the spine neck, reflect differences in synaptic efficacy. We suggest that the constricted necks of hippocampal dendritic spines might reduce diffusion of activated molecules to neighboring synapses, thereby attributing specificity to activated or potentiated synapses.",
+  "authors": [
+    "Kristen M. Harris",
+    "JK Stevens"
+  ],
+  "year": 1989,
+  "doi": "10.1523/jneurosci.09-08-02982.1989",
+  "source": "openalex",
+  "categories": [
+    "Dendritic spine",
+    "Postsynaptic potential",
+    "SPINE (molecular biology)",
+    "Synaptic vesicle",
+    "Dendrite (mathematics)",
+    "Hippocampal formation",
+    "Vesicle",
+    "Axon",
+    "Neuroscience",
+    "Postsynaptic density",
+    "Hippocampus",
+    "Synapse",
+    "Biophysics",
+    "Anatomy",
+    "Chemistry",
+    "Electron microscope",
+    "Biology",
+    "Excitatory postsynaptic potential",
+    "Geometry",
+    "Physics",
+    "Inhibitory postsynaptic potential",
+    "Optics",
+    "Cell biology",
+    "Membrane",
+    "Biochemistry",
+    "Mathematics",
+    "Receptor"
+  ],
+  "citation_count": 1089,
+  "open_access_pdf_url": "https://www.jneurosci.org/content/jneuro/9/8/2982.full.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2117664079.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:24.362871+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2117664079",
+    "concepts": [
+      "Dendritic spine",
+      "Postsynaptic potential",
+      "SPINE (molecular biology)",
+      "Synaptic vesicle",
+      "Dendrite (mathematics)"
+    ],
+    "oa_status": "hybrid"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "openalex:W2131495509",
+  "title": "The Matrisome: In Silico Definition and In Vivo Characterization by Proteomics of Normal and Tumor Extracellular Matrices",
+  "abstract": "The extracellular matrix (ECM) is a complex meshwork of cross-linked proteins providing both biophysical and biochemical cues that are important regulators of cell proliferation, survival, differentiation, and migration. We present here a proteomic strategy developed to characterize the in vivo ECM composition of normal tissues and tumors using enrichment of protein extracts for ECM components and subsequent analysis by mass spectrometry. In parallel, we have developed a bioinformatic approach to predict the in silico \"matrisome\" defined as the ensemble of ECM proteins and associated factors. We report the characterization of the extracellular matrices of murine lung and colon, each comprising more than 100 ECM proteins and each presenting a characteristic signature. Moreover, using human tumor xenografts in mice, we show that both tumor cells and stromal cells contribute to the production of the tumor matrix and that tumors of differing metastatic potential differ in both the tumor- and the stroma-derived ECM components. The strategy we describe and illustrate here can be broadly applied and, to facilitate application of these methods by others, we provide resources including laboratory protocols, inventories of ECM domains and proteins, and instructions for bioinformatically deriving the human and mouse matrisome.",
+  "authors": [
+    "Alexandra Naba",
+    "Karl R. Clauser",
+    "Sebastian Hoersch",
+    "Hui Liu",
+    "Steven A. Carr",
+    "Richard O. Hynes"
+  ],
+  "year": 2011,
+  "doi": "10.1074/mcp.m111.014647",
+  "source": "openalex",
+  "categories": [
+    "In silico",
+    "Proteomics",
+    "In vivo",
+    "Computational biology",
+    "Biology",
+    "Chemistry",
+    "Biochemistry",
+    "Genetics",
+    "Gene"
+  ],
+  "citation_count": 1388,
+  "open_access_pdf_url": "https://www.mcponline.org/content/mcprot/11/4/M111.014647.full.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2131495509.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:52.566117+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2131495509",
+    "concepts": [
+      "In silico",
+      "Proteomics",
+      "In vivo",
+      "Computational biology",
+      "Biology"
+    ],
+    "oa_status": "hybrid"
+  }
+}

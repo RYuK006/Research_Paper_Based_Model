@@ -1,0 +1,44 @@
+{
+  "id": "openalex:W2170448114",
+  "title": "Cadmium, Environmental Exposure, and Health Outcomes",
+  "abstract": "OBJECTIVES: We provide an update of the issues surrounding health risk assessment of exposure to cadmium in food. DATA SOURCES: We reviewed epidemiologic studies published between 2004 and 2009 concerning the bioavailability of cadmium in food, assessment of exposure, and body burden estimate, along with exposure-related effects in nonoccupationally exposed populations. DATA EXTRACTION AND SYNTHESIS: Bioavailability of ingested cadmium has been confirmed in studies of persons with elevated dietary exposure, and the findings have been strengthened by the substantial amounts of cadmium accumulated in kidneys, eyes, and other tissues and organs of environmentally exposed individuals. We hypothesized that such accumulation results from the efficient absorption and systemic transport of cadmium, employing multiple transporters that are used for the body's acquisition of calcium, iron, zinc, and manganese. Adverse effects of cadmium on kidney and bone have been observed in environmentally exposed populations at frequencies higher than those predicted from models of exposure. Increasing evidence implicates cadmium in the risk of diseases that involve other tissues and organ systems at cadmium concentrations that do not produce effects on bone or renal function. CONCLUSIONS: Population data raise concerns about the validity of the current safe intake level that uses the kidney as the sole target in assessing the health risk from ingested cadmium. The data also question the validity of incorporating the default 5% absorption rate in the threshold-type risk assessment model, known as the provisional tolerable weekly intake (PTWI), to derive a safe intake level for cadmium.",
+  "authors": [
+    "Soisungwan Satarug",
+    "Scott H. Garrett",
+    "Mary Ann Sens",
+    "Donald A. Sens"
+  ],
+  "year": 2009,
+  "doi": "10.1289/ehp.0901234",
+  "source": "openalex",
+  "categories": [
+    "Cadmium",
+    "Bioavailability",
+    "CADMIUM EXPOSURE",
+    "Environmental health",
+    "Physiology",
+    "Population",
+    "Medicine",
+    "Toxicology",
+    "Chemistry",
+    "Biology",
+    "Pharmacology",
+    "Organic chemistry"
+  ],
+  "citation_count": 1213,
+  "open_access_pdf_url": "https://ehp.niehs.nih.gov/doi/epdf/10.1289/ehp.0901234",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2170448114.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:04.720465+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2170448114",
+    "concepts": [
+      "Cadmium",
+      "Bioavailability",
+      "CADMIUM EXPOSURE",
+      "Environmental health",
+      "Physiology"
+    ],
+    "oa_status": "gold"
+  }
+}

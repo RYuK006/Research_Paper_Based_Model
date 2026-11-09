@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W2136564762",
+  "title": "Absence of the mdr1a P-Glycoprotein in mice affects tissue distribution and pharmacokinetics of dexamethasone, digoxin, and cyclosporin A.",
+  "abstract": "We have previously shown that absence of the mouse mdr1a (also called mdr3) P-glycoprotein in mdr1a (-/-) \"knockout\" mice has a profound effect on the tissue distribution and elimination of vinblastine and ivermectin, and hence on the toxicity of these compounds. We show here that the mouse mdr1a and the human MDR1 P-glycoprotein actively transport ivermectin, dexamethasone, digoxin, and cyclosporin A and, to a lesser extent, morphine across a polarized kidney epithelial cell layer in vitro. Injection of these radio-labeled drugs in mdr1a (-/-) and wild-type mice resulted in markedly (20- to 50-fold) higher levels of radioactivity in mdr1a (-/-) brain for digoxin and cyclosporin A, with more moderate effects for dexamethasone (2- to 3-fold) and morphine (1.7-fold). Digoxin and cyclosporin A were also more slowly eliminated from mdr1a (-/-) mice. Our findings show that P-glycoprotein can be a major determinant for the pharmacology of several medically important drugs other than anti-cancer agents, especially in the blood-brain barrier. These results may explain a range of pharmacological interactions observed between various drugs in patients.",
+  "authors": [
+    "Alfred H. Schinkel",
+    "Els Wagenaar",
+    "Liesbeth van Deemter",
+    "Carla A.A.M. Mol",
+    "Piet Borst"
+  ],
+  "year": 1995,
+  "doi": "10.1172/jci118214",
+  "source": "openalex",
+  "categories": [
+    "P-glycoprotein",
+    "Digoxin",
+    "Pharmacology",
+    "Pharmacokinetics",
+    "Dexamethasone",
+    "Distribution (mathematics)",
+    "Vinblastine",
+    "Kidney",
+    "Chemistry",
+    "Endocrinology",
+    "Biology",
+    "Internal medicine",
+    "Medicine",
+    "Chemotherapy",
+    "Multiple drug resistance",
+    "Biochemistry",
+    "Antibiotics",
+    "Heart failure",
+    "Mathematics",
+    "Mathematical analysis"
+  ],
+  "citation_count": 1114,
+  "open_access_pdf_url": "http://www.jci.org/articles/view/118214/files/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2136564762.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:19.561011+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2136564762",
+    "concepts": [
+      "P-glycoprotein",
+      "Digoxin",
+      "Pharmacology",
+      "Pharmacokinetics",
+      "Dexamethasone"
+    ],
+    "oa_status": "bronze"
+  }
+}

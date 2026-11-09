@@ -1,0 +1,58 @@
+{
+  "id": "openalex:W3034600949",
+  "title": "StarGAN v2: Diverse Image Synthesis for Multiple Domains",
+  "abstract": "A good image-to-image translation model should learn a mapping between different visual domains while satisfying the following properties: 1) diversity of generated images and 2) scalability over multiple domains. Existing methods address either of the issues, having limited diversity or multiple models for all domains. We propose StarGAN v2, a single framework that tackles both and shows significantly improved results over the baselines. Experiments on CelebA-HQ and a new animal faces dataset (AFHQ) validate our superiority in terms of visual quality, diversity, and scalability. To better assess image-to-image translation models, we release AFHQ, high-quality animal faces with large inter- and intra-domain differences. The code, pretrained models, and dataset are available at https://github.com/clovaai/stargan-v2.",
+  "authors": [
+    "Yunjey Choi",
+    "Youngjung Uh",
+    "Jaejun Yoo",
+    "Jung-Woo Ha"
+  ],
+  "year": 2020,
+  "doi": "10.1109/cvpr42600.2020.00821",
+  "source": "openalex",
+  "categories": [
+    "Scalability",
+    "Computer science",
+    "Image (mathematics)",
+    "Translation (biology)",
+    "Code (set theory)",
+    "Image translation",
+    "Artificial intelligence",
+    "Domain (mathematical analysis)",
+    "Image quality",
+    "Quality (philosophy)",
+    "Diversity (politics)",
+    "Computer vision",
+    "Pattern recognition (psychology)",
+    "Mathematics",
+    "Programming language",
+    "Set (abstract data type)",
+    "Database",
+    "Mathematical analysis",
+    "Biochemistry",
+    "Epistemology",
+    "Messenger RNA",
+    "Chemistry",
+    "Sociology",
+    "Anthropology",
+    "Philosophy",
+    "Gene"
+  ],
+  "citation_count": 1737,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1912.01865",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3034600949.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:26.210910+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3034600949",
+    "concepts": [
+      "Scalability",
+      "Computer science",
+      "Image (mathematics)",
+      "Translation (biology)",
+      "Code (set theory)"
+    ],
+    "oa_status": "green"
+  }
+}

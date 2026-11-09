@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W1990021520",
+  "title": "Diatoms and pH reconstruction",
+  "abstract": "Abstract Palaeolimnological diatom data comprise counts of many species expressed as percentages for each sample. Reconstruction of past lake-water pH from such data involves two steps; (i) regression, where responses of modern diatom abundances to pH are modelled and (ii) calibration where the modelled responses are used to infer pH from diatom assemblages preserved in lake sediments. In view of the highly multivariate nature of diatom data, the strongly nonlinear response of diatoms to pH, and the abundance of zero values in the data, a compromise between ecological realism and computational feasability is essential. The two numerical approaches used are (i) the computationally demanding but formal statistical approach of maximum likelihood (m l) Gaussian logit regression and calibration and (ii) the computationally straightforward but heuristic approach of weighted averaging (w a ) regression and calibration. When the Surface Water Acidification Project (SWAP) modern training set of 178 lakes is reduced by data-screening to 167 lakes, w a gives superior results in terms of lowest root mean squared errors of prediction in cross-validation. Bootstrapping is also used to derive prediction errors, not only for the training set as a whole but also for individual pH reconstructions by WA for stratigraphic samples from Round Loch of Glenhead, southwest Scotland covering the last 10000 years. These reconstructions are evaluated in terms of lack-of-fit to pH and analogue measures and are interpreted in terms of rate of change by using bootstrapping of the reconstructed pH time-series.",
+  "authors": [
+    "H. J. B. Birks",
+    "C.j.f. Ter Braak",
+    "J. M. Line",
+    "Steve Juggins",
+    "Tony Stevenson"
+  ],
+  "year": 1990,
+  "doi": "10.1098/rstb.1990.0062",
+  "source": "openalex",
+  "categories": [
+    "Bootstrapping (finance)",
+    "Diatom",
+    "Calibration",
+    "Statistics",
+    "Multivariate statistics",
+    "Gaussian",
+    "Data set",
+    "Regression",
+    "Mathematics",
+    "Computer science",
+    "Algorithm",
+    "Geology",
+    "Econometrics",
+    "Chemistry",
+    "Oceanography",
+    "Computational chemistry"
+  ],
+  "citation_count": 1111,
+  "open_access_pdf_url": "https://edepot.wur.nl/248789",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1990021520.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:19.600601+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1990021520",
+    "concepts": [
+      "Bootstrapping (finance)",
+      "Diatom",
+      "Calibration",
+      "Statistics",
+      "Multivariate statistics"
+    ],
+    "oa_status": "green"
+  }
+}

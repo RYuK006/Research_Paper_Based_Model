@@ -1,0 +1,44 @@
+{
+  "id": "openalex:W1968908922",
+  "title": "Galanin — a novel biologically active peptide from porcine intestine",
+  "abstract": "The isolation of a novel biologically active peptide, designated galanin, is described. The peptide was discovered by the detection of its C-terminal amide structure in porcine intestinal extract using a chemical method. It was found that galanin consists of 29 amino acids and the complete amino acid sequence is: Gly-Trp-Thr-Leu-Asn-Ser-Ala-Gly-Tyr-Leu-Leu-Gly-Pro-His-Ala-Ile-Asp-Asn-His -Arg-Ser -Phe-His-Asp-Lys-Tyr-Gly-Leu-Ala-NH2. Galanin was found to contract smooth muscle preparations from the rat and to cause a mild and sustained hyperglycemia in dog.",
+  "authors": [
+    "Kazuhiko Tatemoto",
+    "Åke Rökaeus",
+    "Hans Jörnvall",
+    "Thomas J. McDonald",
+    "Viktor Mutt"
+  ],
+  "year": 1983,
+  "doi": "10.1016/0014-5793(83)80033-7",
+  "source": "openalex",
+  "categories": [
+    "Galanin",
+    "Peptide",
+    "Amino acid",
+    "Chemistry",
+    "Neuropeptide",
+    "Biological activity",
+    "Biochemistry",
+    "Peptide sequence",
+    "In vitro",
+    "Receptor",
+    "Gene"
+  ],
+  "citation_count": 1486,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1016/0014-5793%2883%2980033-7",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1968908922.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:48.131373+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1968908922",
+    "concepts": [
+      "Galanin",
+      "Peptide",
+      "Amino acid",
+      "Chemistry",
+      "Neuropeptide"
+    ],
+    "oa_status": "bronze"
+  }
+}

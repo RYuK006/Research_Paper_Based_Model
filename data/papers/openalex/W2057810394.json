@@ -1,0 +1,39 @@
+{
+  "id": "openalex:W2057810394",
+  "title": "Evaluation of the probe 2',7'-dichlorofluorescin as an indicator of reactive oxygen species formation and oxidative stress",
+  "abstract": "The use of dichlorofluorescin (DCFH) as a measure of reactive oxygen species was studied in aqueous media. Hydrogen peroxide oxidized DCFH to fluorescent dichlorofluorescein (DCF), and the oxidation was amplified by the addition of ferrous iron. Hydrogen peroxide-induced DCF formation in the presence of ferrous iron was completely inhibited by deferoxamine and partially inhibited by ethylenediaminetetraacetic acid, but was augmented by diethylenetriaminepentaacetic acid. Iron-peroxide-induced oxidation of DCFH was partially inhibited by catalase but not by horseradish peroxidase. Nonchelated iron-peroxide oxidation of DCFH was partially inhibited by several hydroxyl radical scavengers, but was independent of the scavenger concentration, and this suggests that free hydroxyl radical is not involved in the oxidation of DCFH in this system. Superoxide anion did not directly oxidize DCFH. Data suggest that H2O2-Fe(2+)-derived oxidant is mainly responsible for the nonenzymatic oxidation of DCFH. In addition, peroxidase alone and oxidants formed during the reduction of H2O2 by peroxidase oxidize DCFH. Since DCFH oxidation may be derived from several reactive intermediates, interpretation of specific reactive oxygen species involved in biological systems should be approached with caution. However, DCFH remains an attractive probe as an overall index of oxidative stress in toxicological phenomena.",
+  "authors": [
+    "Carl P. LeBel",
+    "Harry Ischiropoulos",
+    "Stephen Claude Bondy"
+  ],
+  "year": 1992,
+  "doi": "10.1021/tx00026a012",
+  "source": "openalex",
+  "categories": [
+    "Citation",
+    "Icon",
+    "Reactive oxygen species",
+    "Computer science",
+    "Chemistry",
+    "Library science",
+    "Biochemistry",
+    "Programming language"
+  ],
+  "citation_count": 2714,
+  "open_access_pdf_url": "http://www.escholarship.org/uc/item/19r571vt",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2057810394.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:01.998685+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2057810394",
+    "concepts": [
+      "Citation",
+      "Icon",
+      "Reactive oxygen species",
+      "Computer science",
+      "Chemistry"
+    ],
+    "oa_status": "green"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W1900806927",
+  "title": "Molecular cloning, functional properties, and distribution of rat brain alpha 7: a nicotinic cation channel highly permeable to calcium",
+  "abstract": "A full-length clone coding for the rat alpha 7 nicotinic receptor subunit was isolated from an adult brain cDNA library and expressed in Xenopus oocytes. A significant proportion of the current through alpha 7-channels is carried by Ca2+. This Ca2+ influx then activates a Ca(2+)-dependent Cl- conductance, which is blocked by the chloride channel blockers niflumic and fluflenamic acid. Increasing the external NaCl concentration caused the reversal potentials for the alpha 7-channels and the Ca(2+)-dependent Cl- channels to be shifted in opposite directions. Under these conditions, agonist application activates a biphasic current with an initial inward current through alpha 7-channels followed by a niflumic acid- and fluflenamic acid-blockable outward current through Ca(2+)-dependent Cl- channels. A relative measure of the Ca2+ permeability was made by measuring the shift in the reversal potential caused by adding 10 mM Ca2+ to the external solution. Measurements made in the absence of Cl-, to avoid artifactual current through Ca(2+)-activated Cl- channels, indicate that alpha 7-homooligomeric channels have a greater relative Ca2+ permeability than the other nicotinic ACh receptors. Furthermore, alpha 7-channels have an even greater relative Ca2+ permeability than the NMDA subtype of glutamate receptors. High levels of alpha 7-transcripts were localized by in situ hybridization in the olfactory areas, the hippocampus, the hypothalamus, the amygdala, and the cerebral cortex. These results imply that alpha 7-containing receptors may play a role in activating calcium-dependent mechanisms in specific neuronal populations of the adult rat limbic system.",
+  "authors": [
+    "Philippe Séguéla",
+    "Jacques I. Wadiche",
+    "Kelly Dineley‐Miller",
+    "JA Dani",
+    "Patrick Jw"
+  ],
+  "year": 1993,
+  "doi": "10.1523/jneurosci.13-02-00596.1993",
+  "source": "openalex",
+  "categories": [
+    "Reversal potential",
+    "Nicotinic agonist",
+    "Niflumic acid",
+    "Chemistry",
+    "Biophysics",
+    "Voltage-dependent calcium channel",
+    "Nicotinic acetylcholine receptor",
+    "Endocrinology",
+    "Internal medicine",
+    "Neuroscience",
+    "Receptor",
+    "Calcium",
+    "Biology",
+    "Biochemistry",
+    "Patch clamp",
+    "Medicine",
+    "Organic chemistry"
+  ],
+  "citation_count": 1452,
+  "open_access_pdf_url": "https://www.jneurosci.org/content/jneuro/13/2/596.full.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1900806927.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:48.262049+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1900806927",
+    "concepts": [
+      "Reversal potential",
+      "Nicotinic agonist",
+      "Niflumic acid",
+      "Chemistry",
+      "Biophysics"
+    ],
+    "oa_status": "hybrid"
+  }
+}

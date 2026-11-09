@@ -1,0 +1,60 @@
+{
+  "id": "openalex:W2110555227",
+  "title": "IL-17 in synovial fluids from patients with rheumatoid arthritis is a potent stimulator of osteoclastogenesis",
+  "abstract": "IL-17 is a newly discovered T cell-derived cytokine whose role in osteoclast development has not been fully elucidated. Treatment of cocultures of mouse hemopoietic cells and primary osteoblasts with recombinant human IL-17 induced the formation of multinucleated cells, which satisfied major criteria of osteoclasts, including tartrate-resistant acid phosphatase activity, calcitonin receptors, and pit formation on dentine slices. Direct interaction between osteoclast progenitors and osteoblasts was required for IL-17-induced osteoclastogenesis, which was completely inhibited by adding indomethacin or NS398, a selective inhibitor of cyclooxgenase-2 (COX-2). Adding IL-17 increased prostaglandin E2 (PGE2) synthesis in cocultures of bone marrow cells and osteoblasts and in single cultures of osteoblasts, but not in single cultures of bone marrow cells. In addition, IL-17 dose-dependently induced expression of osteoclast differentiation factor (ODF) mRNA in osteoblasts. ODF is a membrane-associated protein that transduces an essential signal(s) to osteoclast progenitors for differentiation into osteoclasts. Osteoclastogenesis inhibitory factor (OCIF), a decoy receptor of ODF, completely inhibited IL-17-induced osteoclast differentiation in the cocultures. Levels of IL-17 in synovial fluids were significantly higher in rheumatoid arthritis (RA) patients than osteoarthritis (OA) patients. Anti-IL-17 antibody significantly inhibited osteoclast formation induced by culture media of RA synovial tissues. These findings suggest that IL-17 first acts on osteoblasts, which stimulates both COX-2-dependent PGE2 synthesis and ODF gene expression, which in turn induce differentiation of osteoclast progenitors into mature osteoclasts, and that IL-17 is a crucial cytokine for osteoclastic bone resorption in RA patients.",
+  "authors": [
+    "Shigeru Kotake",
+    "Nobuyuki Udagawa",
+    "Naoyuki Takahashi",
+    "Kenichiro Matsuzaki",
+    "Kanami Itoh",
+    "Shigeru Ishiyama",
+    "Seiji Saito",
+    "Kazuhiko Inoue",
+    "Naoyuki Kamatani",
+    "Matthew T. Gillespie",
+    "Thomas John Martin",
+    "Tatsuo Suda"
+  ],
+  "year": 1999,
+  "doi": "10.1172/jci5703",
+  "source": "openalex",
+  "categories": [
+    "Osteoclast",
+    "Chemistry",
+    "Cell biology",
+    "Bone resorption",
+    "Progenitor cell",
+    "Bone marrow",
+    "Prostaglandin E2",
+    "Cytokine",
+    "Osteoblast",
+    "Multinucleate",
+    "Haematopoiesis",
+    "Internal medicine",
+    "Endocrinology",
+    "Receptor",
+    "Immunology",
+    "Medicine",
+    "Stem cell",
+    "Biology",
+    "In vitro",
+    "Biochemistry"
+  ],
+  "citation_count": 1709,
+  "open_access_pdf_url": "http://www.jci.org/articles/view/5703/files/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2110555227.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:33.110636+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2110555227",
+    "concepts": [
+      "Osteoclast",
+      "Chemistry",
+      "Cell biology",
+      "Bone resorption",
+      "Progenitor cell"
+    ],
+    "oa_status": "bronze"
+  }
+}

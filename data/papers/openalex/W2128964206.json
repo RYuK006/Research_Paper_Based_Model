@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W2128964206",
+  "title": "Database indexing for production MegaBLAST searches",
+  "abstract": "MOTIVATION: The BLAST software package for sequence comparison speeds up homology search by preprocessing a query sequence into a lookup table. Numerous research studies have suggested that preprocessing the database instead would give better performance. However, production usage of sequence comparison methods that preprocess the database has been limited to programs such as BLAT and SSAHA that are designed to find matches when query and database subsequences are highly similar. RESULTS: We developed a new version of the MegaBLAST module of BLAST that does the initial phase of finding short seeds for matches by searching a database index. We also developed a program makembindex that preprocesses the database into a data structure for rapid seed searching. We show that the new 'indexed MegaBLAST' is faster than the 'non-indexed' version for most practical uses. We show that indexed MegaBLAST is faster than miBLAST, another implementation of BLAST nucleotide searching with a preprocessed database, for most of the 200 queries we tested. To deploy indexed MegaBLAST as part of NCBI'sWeb BLAST service, the storage of databases and the queueing mechanism were modified, so that some machines are now dedicated to serving queries for a specific database. The response time for such Web queries is now faster than it was when each computer handled queries for multiple databases. AVAILABILITY: The code for indexed MegaBLAST is part of the blastn program in the NCBI C++ toolkit. The preprocessor program makembindex is also in the toolkit. Indexed MegaBLAST has been used in production on NCBI's Web BLAST service to search one version of the human and mouse genomes since October 2007. The Linux command-line executables for blastn and makembindex, documentation, and some query sets used to carry out the tests described below are available in the directory: ftp://ftp.ncbi.nlm.nih.gov/pub/agarwala/indexed_megablast [corrected] SUPPLEMENTARY INFORMATION: Supplementary data are available at Bioinformatics online.",
+  "authors": [
+    "Aleksandr O. Morgulis",
+    "George Coulouris",
+    "Yan Raytselis",
+    "Thomas Madden",
+    "Richa Agarwala",
+    "Alejandro A. Schäffer"
+  ],
+  "year": 2008,
+  "doi": "10.1093/bioinformatics/btn554",
+  "source": "openalex",
+  "categories": [
+    "Computer science",
+    "Database",
+    "Search engine indexing",
+    "Preprocessor",
+    "Sequence database",
+    "Information retrieval",
+    "Database index",
+    "Data mining",
+    "Programming language",
+    "Biochemistry",
+    "Gene",
+    "Chemistry"
+  ],
+  "citation_count": 1395,
+  "open_access_pdf_url": "https://academic.oup.com/bioinformatics/article-pdf/24/24/2942/49056005/bioinformatics_24_24_2942.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2128964206.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:52.496712+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2128964206",
+    "concepts": [
+      "Computer science",
+      "Database",
+      "Search engine indexing",
+      "Preprocessor",
+      "Sequence database"
+    ],
+    "oa_status": "bronze"
+  }
+}

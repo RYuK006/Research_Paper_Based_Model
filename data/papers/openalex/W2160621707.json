@@ -1,0 +1,43 @@
+{
+  "id": "openalex:W2160621707",
+  "title": "Telomere measurement by quantitative PCR",
+  "abstract": "It has long been presumed impossible to measure telomeres in vertebrate DNA by PCR amplification with oligonucleotide primers designed to hybridize to the TTAGGG and CCCTAA repeats, because only primer dimer-derived products are expected. Here we present a primer pair that eliminates this problem, allowing simple and rapid measurement of telomeres in a closed tube, fluorescence-based assay. This assay will facilitate investigations of the biology of telomeres and the roles they play in the molecular pathophysiology of diseases and aging.",
+  "authors": [
+    "Richard Cawthon"
+  ],
+  "year": 2002,
+  "doi": "10.1093/nar/30.10.e47",
+  "source": "openalex",
+  "categories": [
+    "Biology",
+    "Telomere",
+    "Primer (cosmetics)",
+    "Oligonucleotide",
+    "DNA",
+    "Genetics",
+    "Primer dimer",
+    "Molecular biology",
+    "Polymerase chain reaction",
+    "Computational biology",
+    "Gene",
+    "Multiplex polymerase chain reaction",
+    "Chemistry",
+    "Organic chemistry"
+  ],
+  "citation_count": 3538,
+  "open_access_pdf_url": "https://academic.oup.com/nar/article-pdf/30/10/e47/3913747/gnf046.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2160621707.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:57.686530+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2160621707",
+    "concepts": [
+      "Biology",
+      "Telomere",
+      "Primer (cosmetics)",
+      "Oligonucleotide",
+      "DNA"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2102895650",
+  "title": "Sample size used to validate a scale: a review of publications on newly-developed patient reported outcomes measures",
+  "abstract": "BACKGROUND: Although recommended for use in studies investigating falls in the elderly, the European Quality of Life Group instrument, EQ-5D, has not been widely used to assess the impact of falls on quality of life. The aim of this study was to investigate the association of single and frequent falls with EQ-5D rated quality of life in a sample of German community-dwelling seniors in primary care suffering a variety of concurrent chronic diseases and conditions. METHODS: In a cross-sectional study, a sample of community-dwelling seniors aged ≥ 72 years was interviewed by means of a standardised telephone interview. According to the number of self-reported falls within twelve months prior to interview, participants were categorised into one of three fall categories: no fall vs. one fall vs. two or more falls within twelve months. EQ-5D values as well as other characteristics were compared across the fall categories. Adjustments for a variety of concurrent chronic diseases and conditions and further variables were made by using multiple linear regression analysis, with EQ-5D being the target variable. RESULTS: In total, 1,792 participants (median age 77 years; 53% female) were analysed. The EQ-5D differed between fall categories. Participants reporting no fall had a mean EQ-5D score of 81.1 (standard deviation [s.d.]: 15.4, median: 78.3), while participants reporting one fall (n = 265; 14.8%) and participants with two or more falls (n = 117; 6.5%) had mean total scores of 77.0 (s.d.: 15.8, median: 78.3; mean difference to participants without a fall: -4.1, p < 0.05) and 72.1 (s.d.: 17.6, median: 72.5; mean difference: -9.0, p < 0.05), respectively. The mean difference between participants with one fall and participants with two or more falls was -4.9 (p < 0.05). Under adjustment for a variety of chronic diseases and conditions, the mean decrease in the total EQ-5D score was about -1.0 score point for one fall and about -2.5 points for two or more falls within twelve months. In quantity, this decrease is comparable to other chronic diseases adjusted for. Among the variables with the greatest negative association with EQ-5D ratings in multivariate analysis were depression and fear of falling. CONCLUSIONS: The findings suggest that falls are negatively associated with EQ-5D rated quality of life independent of a variety of chronic diseases and conditions.",
+  "authors": [
+    "Emmanuelle Anthoine",
+    "Leïla Moret",
+    "Antoine Regnault",
+    "Véronique Sebille",
+    "Jean-Benoît Hardouin"
+  ],
+  "year": 2014,
+  "doi": "10.1186/s12955-014-0176-2",
+  "source": "openalex",
+  "categories": [
+    "Sample size determination",
+    "Scale (ratio)",
+    "Sample (material)",
+    "Construct validity",
+    "Statistics",
+    "Psychometrics",
+    "Data extraction",
+    "Psychology",
+    "Medicine",
+    "MEDLINE",
+    "Clinical psychology",
+    "Mathematics",
+    "Geography",
+    "Cartography",
+    "Law",
+    "Chemistry",
+    "Political science",
+    "Chromatography"
+  ],
+  "citation_count": 1219,
+  "open_access_pdf_url": "https://hqlo.biomedcentral.com/track/pdf/10.1186/s12955-014-0176-2",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2102895650.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:04.639516+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2102895650",
+    "concepts": [
+      "Sample size determination",
+      "Scale (ratio)",
+      "Sample (material)",
+      "Construct validity",
+      "Statistics"
+    ],
+    "oa_status": "gold"
+  }
+}

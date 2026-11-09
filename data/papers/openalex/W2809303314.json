@@ -1,0 +1,43 @@
+{
+  "id": "openalex:W2809303314",
+  "title": "The Molecular Basis of G Protein–Coupled Receptor Activation",
+  "abstract": "G protein-coupled receptors (GPCRs) mediate the majority of cellular responses to external stimuli. Upon activation by a ligand, the receptor binds to a partner heterotrimeric G protein and promotes exchange of GTP for GDP, leading to dissociation of the G protein into α and βγ subunits that mediate downstream signals. GPCRs can also activate distinct signaling pathways through arrestins. Active states of GPCRs form by small rearrangements of the ligand-binding, or orthosteric, site that are amplified into larger conformational changes. Molecular understanding of the allosteric coupling between ligand binding and G protein or arrestin interaction is emerging from structures of several GPCRs crystallized in inactive and active states, spectroscopic data, and computer simulations. The coupling is loose, rather than concerted, and agonist binding does not fully stabilize the receptor in an active conformation. Distinct intermediates whose populations are shifted by ligands of different efficacies underlie the complex pharmacology of GPCRs.",
+  "authors": [
+    "William I. Weis",
+    "Brian K. Kobilka"
+  ],
+  "year": 2018,
+  "doi": "10.1146/annurev-biochem-060614-033910",
+  "source": "openalex",
+  "categories": [
+    "G protein-coupled receptor",
+    "Heterotrimeric G protein",
+    "Allosteric regulation",
+    "G protein",
+    "Chemistry",
+    "G beta-gamma complex",
+    "Receptor",
+    "Biophysics",
+    "Ligand (biochemistry)",
+    "Signal transduction",
+    "Stereochemistry",
+    "Biochemistry",
+    "Biology"
+  ],
+  "citation_count": 1268,
+  "open_access_pdf_url": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-biochem-060614-033910",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2809303314.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:00.603292+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2809303314",
+    "concepts": [
+      "G protein-coupled receptor",
+      "Heterotrimeric G protein",
+      "Allosteric regulation",
+      "G protein",
+      "Chemistry"
+    ],
+    "oa_status": "bronze"
+  }
+}

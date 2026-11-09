@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W3131439703",
+  "title": "Metabolism pathways of arachidonic acids: mechanisms and potential therapeutic targets",
+  "abstract": "The arachidonic acid (AA) pathway plays a key role in cardiovascular biology, carcinogenesis, and many inflammatory diseases, such as asthma, arthritis, etc. Esterified AA on the inner surface of the cell membrane is hydrolyzed to its free form by phospholipase A2 (PLA2), which is in turn further metabolized by cyclooxygenases (COXs) and lipoxygenases (LOXs) and cytochrome P450 (CYP) enzymes to a spectrum of bioactive mediators that includes prostanoids, leukotrienes (LTs), epoxyeicosatrienoic acids (EETs), dihydroxyeicosatetraenoic acid (diHETEs), eicosatetraenoic acids (ETEs), and lipoxins (LXs). Many of the latter mediators are considered to be novel preventive and therapeutic targets for cardiovascular diseases (CVD), cancers, and inflammatory diseases. This review sets out to summarize the physiological and pathophysiological importance of the AA metabolizing pathways and outline the molecular mechanisms underlying the actions of AA related to its three main metabolic pathways in CVD and cancer progression will provide valuable insight for developing new therapeutic drugs for CVD and anti-cancer agents such as inhibitors of EETs or 2J2. Thus, we herein present a synopsis of AA metabolism in human health, cardiovascular and cancer biology, and the signaling pathways involved in these processes. To explore the role of the AA metabolism and potential therapies, we also introduce the current newly clinical studies targeting AA metabolisms in the different disease conditions.",
+  "authors": [
+    "Bei Wang",
+    "Lujin Wu",
+    "Jing Chen",
+    "Lingli Dong",
+    "Chen Chen",
+    "Wen Zheng",
+    "Jiong Hu",
+    "Ingrid Fleming",
+    "Dao Wen Wang"
+  ],
+  "year": 2021,
+  "doi": "10.1038/s41392-020-00443-w",
+  "source": "openalex",
+  "categories": [
+    "Metabolism",
+    "Computational biology",
+    "Metabolic pathway",
+    "Arachidonic acid metabolism",
+    "Chemistry",
+    "Biology",
+    "Bioinformatics",
+    "Biochemistry",
+    "Arachidonic acid",
+    "Enzyme"
+  ],
+  "citation_count": 1508,
+  "open_access_pdf_url": "https://www.nature.com/articles/s41392-020-00443-w.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3131439703.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:45.546185+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3131439703",
+    "concepts": [
+      "Metabolism",
+      "Computational biology",
+      "Metabolic pathway",
+      "Arachidonic acid metabolism",
+      "Chemistry"
+    ],
+    "oa_status": "gold"
+  }
+}

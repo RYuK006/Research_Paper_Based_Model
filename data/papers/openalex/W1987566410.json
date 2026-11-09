@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W1987566410",
+  "title": "Dual Role of 3-Methyladenine in Modulation of Autophagy via Different Temporal Patterns of Inhibition on Class I and III Phosphoinositide 3-Kinase",
+  "abstract": "A group of phosphoinositide 3-kinase (PI3K) inhibitors, such as 3-methyladenine (3-MA) and wortmannin, have been widely used as autophagy inhibitors based on their inhibitory effect on class III PI3K activity, which is known to be essential for induction of autophagy. In this study, we systematically examined and compared the effects of these two inhibitors on autophagy under both nutrient-rich and deprivation conditions. To our surprise, 3-MA is found to promote autophagy flux when treated under nutrient-rich conditions with a prolonged period of treatment, whereas it is still capable of suppressing starvation-induced autophagy. We first observed that there are marked increases of the autophagic markers in cells treated with 3-MA in full medium for a prolonged period of time (up to 9 h). Second, we provide convincing evidence that the increase of autophagic markers is the result of enhanced autophagic flux, not due to suppression of maturation of autophagosomes or lysosomal function. More importantly, we found that the autophagy promotion activity of 3-MA is due to its differential temporal effects on class I and class III PI3K; 3-MA blocks class I PI3K persistently, whereas its suppressive effect on class III PI3K is transient. Because 3-MA has been widely used as an autophagy inhibitor in the literature, understanding the dual role of 3-MA in autophagy thus suggests that caution should be exercised in the application of 3-MA in autophagy study.",
+  "authors": [
+    "Youtong Wu",
+    "Huiling Tan",
+    "Guanghou Shui",
+    "Chantal Bauvy",
+    "Qing Huang",
+    "Markus Rene Wenk",
+    "Choon Nam Ong",
+    "Patrice Codogno",
+    "Han‐Ming Shen"
+  ],
+  "year": 2010,
+  "doi": "10.1074/jbc.m109.080796",
+  "source": "openalex",
+  "categories": [
+    "Autophagy",
+    "Wortmannin",
+    "Phosphoinositide 3-kinase",
+    "PI3K/AKT/mTOR pathway",
+    "Cell biology",
+    "Biology",
+    "Flux (metallurgy)",
+    "Chemistry",
+    "Apoptosis",
+    "Signal transduction",
+    "Biochemistry",
+    "Organic chemistry"
+  ],
+  "citation_count": 1152,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925820747447/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1987566410.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:14.566218+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1987566410",
+    "concepts": [
+      "Autophagy",
+      "Wortmannin",
+      "Phosphoinositide 3-kinase",
+      "PI3K/AKT/mTOR pathway",
+      "Cell biology"
+    ],
+    "oa_status": "hybrid"
+  }
+}

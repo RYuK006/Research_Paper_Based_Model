@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W1979054322",
+  "title": "Terahertz Metamaterials for Linear Polarization Conversion and Anomalous Refraction",
+  "abstract": "Polarization is one of the basic properties of electromagnetic waves conveying valuable information in signal transmission and sensitive measurements. Conventional methods for advanced polarization control impose demanding requirements on material properties and attain only limited performance. We demonstrated ultrathin, broadband, and highly efficient metamaterial-based terahertz polarization converters that are capable of rotating a linear polarization state into its orthogonal one. On the basis of these results, we created metamaterial structures capable of realizing near-perfect anomalous refraction. Our work opens new opportunities for creating high-performance photonic devices and enables emergent metamaterial functionalities for applications in the technologically difficult terahertz-frequency regime.",
+  "authors": [
+    "Nathaniel K. Grady",
+    "Jane E. Heyes",
+    "Dibakar Roy Chowdhury",
+    "Yong Zeng",
+    "Matthew T. Reiten",
+    "Abul K. Azad",
+    "Antoinette J. Taylor",
+    "Diego A. R. Dalvit",
+    "Hou‐Tong Chen"
+  ],
+  "year": 2013,
+  "doi": "10.1126/science.1235399",
+  "source": "openalex",
+  "categories": [
+    "Metamaterial",
+    "Terahertz radiation",
+    "Broadband",
+    "Polarization (electrochemistry)",
+    "Converters",
+    "Photonic metamaterial",
+    "Negative refraction",
+    "Optics",
+    "Electromagnetic radiation",
+    "Photonics",
+    "Optoelectronics",
+    "Linear polarization",
+    "Materials science",
+    "Physics",
+    "Laser",
+    "Quantum mechanics",
+    "Physical chemistry",
+    "Chemistry",
+    "Voltage"
+  ],
+  "citation_count": 2032,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1308.3194",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1979054322.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:15.601325+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1979054322",
+    "concepts": [
+      "Metamaterial",
+      "Terahertz radiation",
+      "Broadband",
+      "Polarization (electrochemistry)",
+      "Converters"
+    ],
+    "oa_status": "green"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "openalex:W2342423058",
+  "title": "CD19 CAR–T cells of defined CD4+:CD8+ composition in adult B cell ALL patients",
+  "abstract": "BACKGROUND: T cells that have been modified to express a CD19-specific chimeric antigen receptor (CAR) have antitumor activity in B cell malignancies; however, identification of the factors that determine toxicity and efficacy of these T cells has been challenging in prior studies in which phenotypically heterogeneous CAR-T cell products were prepared from unselected T cells. METHODS: We conducted a clinical trial to evaluate CD19 CAR-T cells that were manufactured from defined CD4+ and CD8+ T cell subsets and administered in a defined CD4+:CD8+ composition to adults with B cell acute lymphoblastic leukemia after lymphodepletion chemotherapy. RESULTS: The defined composition product was remarkably potent, as 27 of 29 patients (93%) achieved BM remission, as determined by flow cytometry. We established that high CAR-T cell doses and tumor burden increase the risks of severe cytokine release syndrome and neurotoxicity. Moreover, we identified serum biomarkers that allow testing of early intervention strategies in patients at the highest risk of toxicity. Risk-stratified CAR-T cell dosing based on BM disease burden decreased toxicity. CD8+ T cell-mediated anti-CAR transgene product immune responses developed after CAR-T cell infusion in some patients, limited CAR-T cell persistence, and increased relapse risk. Addition of fludarabine to the lymphodepletion regimen improved CAR-T cell persistence and disease-free survival. CONCLUSION: Immunotherapy with a CAR-T cell product of defined composition enabled identification of factors that correlated with CAR-T cell expansion, persistence, and toxicity and facilitated design of lymphodepletion and CAR-T cell dosing strategies that mitigated toxicity and improved disease-free survival. TRIAL REGISTRATION: ClinicalTrials.gov NCT01865617. FUNDING: R01-CA136551; Life Science Development Fund; Juno Therapeutics; Bezos Family Foundation.",
+  "authors": [
+    "Cameron John Turtle",
+    "Laïla‐Aïcha Hanafi",
+    "Carolina Berger",
+    "Theodore A. Gooley",
+    "Sindhu Cherian",
+    "Michael Hudecek",
+    "Daniel Sommermeyer",
+    "Katherine Melville",
+    "Barbara Pender",
+    "Tanya M Budiarto",
+    "Emily M. Robinson",
+    "Natalia N Steevens",
+    "Colette N. Chaney",
+    "Lorinda A. Soma",
+    "Xueyan Chen",
+    "Cecilia C.S. Yeung",
+    "Brent Lee Wood",
+    "Daniel Li",
+    "Jianhong Cao",
+    "Shelly Heimfeld",
+    "Michael C. Jensen",
+    "Stanley R. Riddell",
+    "David G. Maloney"
+  ],
+  "year": 2016,
+  "doi": "10.1172/jci85309",
+  "source": "openalex",
+  "categories": [
+    "CD19",
+    "CD8",
+    "Composition (language)",
+    "Immunology",
+    "Chemistry",
+    "Biology",
+    "Antigen",
+    "Art",
+    "Literature"
+  ],
+  "citation_count": 2144,
+  "open_access_pdf_url": "http://www.jci.org/articles/view/85309/files/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2342423058.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:12.740667+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2342423058",
+    "concepts": [
+      "CD19",
+      "CD8",
+      "Composition (language)",
+      "Immunology",
+      "Chemistry"
+    ],
+    "oa_status": "bronze"
+  }
+}

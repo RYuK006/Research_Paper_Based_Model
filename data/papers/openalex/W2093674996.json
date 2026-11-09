@@ -1,0 +1,61 @@
+{
+  "id": "openalex:W2093674996",
+  "title": "Heterogeneous ice nucleation on atmospheric aerosols: a review of results from laboratory experiments",
+  "abstract": "Abstract. A small subset of the atmospheric aerosol population has the ability to induce ice formation at conditions under which ice would not form without them (heterogeneous ice nucleation). While no closed theoretical description of this process and the requirements for good ice nuclei is available, numerous studies have attempted to quantify the ice nucleation ability of different particles empirically in laboratory experiments. In this article, an overview of these results is provided. Ice nucleation onset conditions for various mineral dust, soot, biological, organic and ammonium sulphate particles are summarized. Typical temperature-supersaturation regions can be identified for the onset of ice nucleation of these different particle types, but the various particle sizes and activated fractions reported in different studies have to be taken into account when comparing results obtained with different methodologies. When intercomparing only data obtained under the same conditions, it is found that dust mineralogy is not a consistent predictor of higher or lower ice nucleation ability. However, the broad majority of studies agrees on a reduction of deposition nucleation by various coatings on mineral dust. The ice nucleation active surface site (INAS) density is discussed as a normalized measure for ice nucleation activity. For most immersion and condensation freezing measurements on mineral dust, estimates of the temperature-dependent INAS density agree within about two orders of magnitude. For deposition nucleation on dust, the spread is significantly larger, but a general trend of increasing INAS densities with increasing supersaturation is found. For soot, the presently available results are divergent. Estimated average INAS densities are high for ice-nucleation active bacteria at high subzero temperatures. At the same time, it is shown that some other biological aerosols, like certain pollen grains and fungal spores, are not intrinsically better ice nuclei than dust, but owe their high ice nucleation onsets to their large sizes. Surface-area-dependent parameterizations of heterogeneous ice nucleation are discussed. For immersion freezing on mineral dust, fitted INAS densities are available, but should not be used outside the temperature interval of the data they were based on. Classical nucleation theory, if employed with one fitted contact angle, does not reproduce the observed temperature dependence for immersion nucleation, temperature and supersaturation dependence for deposition nucleation, and time dependence.",
+  "authors": [
+    "Corinna Hoose",
+    "Ottmar Möhler"
+  ],
+  "year": 2012,
+  "doi": "10.5194/acp-12-9817-2012",
+  "source": "openalex",
+  "categories": [
+    "Nucleation",
+    "Ice nucleus",
+    "Supersaturation",
+    "Aerosol",
+    "Soot",
+    "Sea ice growth processes",
+    "Chemistry",
+    "Ice crystals",
+    "Particle (ecology)",
+    "Mineral dust",
+    "Deposition (geology)",
+    "Cloud condensation nuclei",
+    "Ammonium sulfate",
+    "Condensation",
+    "Atmospheric sciences",
+    "Chemical physics",
+    "Mineralogy",
+    "Meteorology",
+    "Geology",
+    "Arctic ice pack",
+    "Sea ice",
+    "Climatology",
+    "Physical chemistry",
+    "Physics",
+    "Chromatography",
+    "Geomorphology",
+    "Antarctic sea ice",
+    "Combustion",
+    "Organic chemistry",
+    "Sediment",
+    "Oceanography"
+  ],
+  "citation_count": 1339,
+  "open_access_pdf_url": "https://doi.org/10.5194/acp-12-9817-2012",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2093674996.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:55.284210+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2093674996",
+    "concepts": [
+      "Nucleation",
+      "Ice nucleus",
+      "Supersaturation",
+      "Aerosol",
+      "Soot"
+    ],
+    "oa_status": "gold"
+  }
+}

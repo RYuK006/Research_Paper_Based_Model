@@ -1,0 +1,62 @@
+{
+  "id": "openalex:W2091723288",
+  "title": "Metabolic Imaging of Patients with Prostate Cancer Using Hyperpolarized [1- 13 C]Pyruvate",
+  "abstract": "This first-in-man imaging study evaluated the safety and feasibility of hyperpolarized [1-¹³C]pyruvate as an agent for noninvasively characterizing alterations in tumor metabolism for patients with prostate cancer. Imaging living systems with hyperpolarized agents can result in more than 10,000-fold enhancement in signal relative to conventional magnetic resonance (MR) imaging. When combined with the rapid acquisition of in vivo ¹³C MR data, it is possible to evaluate the distribution of agents such as [1-¹³C]pyruvate and its metabolic products lactate, alanine, and bicarbonate in a matter of seconds. Preclinical studies in cancer models have detected elevated levels of hyperpolarized [1-¹³C]lactate in tumor, with the ratio of [1-¹³C]lactate/[1-¹³C]pyruvate being increased in high-grade tumors and decreased after successful treatment. Translation of this technology into humans was achieved by modifying the instrument that generates the hyperpolarized agent, constructing specialized radio frequency coils to detect ¹³C nuclei, and developing new pulse sequences to efficiently capture the signal. The study population comprised patients with biopsy-proven prostate cancer, with 31 subjects being injected with hyperpolarized [1-¹³C]pyruvate. The median time to deliver the agent was 66 s, and uptake was observed about 20 s after injection. No dose-limiting toxicities were observed, and the highest dose (0.43 ml/kg of 230 mM agent) gave the best signal-to-noise ratio for hyperpolarized [1-¹³C]pyruvate. The results were extremely promising in not only confirming the safety of the agent but also showing elevated [1-¹³C]lactate/[1-¹³C]pyruvate in regions of biopsy-proven cancer. These findings will be valuable for noninvasive cancer diagnosis and treatment monitoring in future clinical trials.",
+  "authors": [
+    "Sarah J. Nelson",
+    "John V. Kurhanewicz",
+    "Daniel B. Vigneron",
+    "Peder E. Z. Larson",
+    "Andrea Lynne Harzstark",
+    "Marcus Ferrone",
+    "Mark Van Criekinge",
+    "Jose W. Chang",
+    "Robert Bok",
+    "Ilwoo Park",
+    "Galen D. Reed",
+    "Lucas E. Carvajal",
+    "Eric Jay Small",
+    "Pamela N. Münster",
+    "VIVIAN K. WEINBERG",
+    "Jan Henrik Ardenkjær‐Larsen",
+    "Albert P. Chen",
+    "Ralph E. Hurd",
+    "Liv-Ingrid Ødegårdstuen",
+    "Fraser J. L. Robb",
+    "James S. Tropp",
+    "Jonathan Murray"
+  ],
+  "year": 2013,
+  "doi": "10.1126/scitranslmed.3006070",
+  "source": "openalex",
+  "categories": [
+    "Prostate cancer",
+    "Prostate",
+    "Medicine",
+    "Hyperpolarization (physics)",
+    "Cancer",
+    "Nuclear medicine",
+    "Cancer research",
+    "Chemistry",
+    "Nuclear magnetic resonance",
+    "Internal medicine",
+    "Nuclear magnetic resonance spectroscopy",
+    "Physics"
+  ],
+  "citation_count": 1312,
+  "open_access_pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/4201045",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2091723288.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:57.724046+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2091723288",
+    "concepts": [
+      "Prostate cancer",
+      "Prostate",
+      "Medicine",
+      "Hyperpolarization (physics)",
+      "Cancer"
+    ],
+    "oa_status": "green"
+  }
+}

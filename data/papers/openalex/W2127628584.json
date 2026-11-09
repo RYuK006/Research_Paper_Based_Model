@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2127628584",
+  "title": "Spontaneous polarization and piezoelectric constants of III-V nitrides",
+  "abstract": "The spontaneous polarization, dynamical Born charges, and piezoelectric constants of the III-V nitrides AlN, GaN, and InN are studied ab initio using the Berry-phase approach to polarization in solids. The piezoelectric constants are found to be up to ten times larger than in conventional III-V and II-VI semiconductor compounds, and comparable to those of ZnO. Further properties at variance with those of conventional III-V compounds are the sign of the piezoelectric constants (positive as in II-VI compounds) and the very large spontaneous polarization.",
+  "authors": [
+    "Fabio Bernardini",
+    "Vincenzo Fiorentini",
+    "David H. Vanderbilt"
+  ],
+  "year": 1997,
+  "doi": "10.1103/physrevb.56.r10024",
+  "source": "openalex",
+  "categories": [
+    "Piezoelectricity",
+    "Polarization (electrochemistry)",
+    "Ab initio",
+    "Nitride",
+    "Materials science",
+    "Semiconductor",
+    "Piezoelectric coefficient",
+    "Condensed matter physics",
+    "Chemistry",
+    "Computational chemistry",
+    "Optoelectronics",
+    "Physical chemistry",
+    "Physics",
+    "Nanotechnology",
+    "Composite material",
+    "Organic chemistry",
+    "Layer (electronics)"
+  ],
+  "citation_count": 3224,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/9705105",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2127628584.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:57.826781+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2127628584",
+    "concepts": [
+      "Piezoelectricity",
+      "Polarization (electrochemistry)",
+      "Ab initio",
+      "Nitride",
+      "Materials science"
+    ],
+    "oa_status": "green"
+  }
+}

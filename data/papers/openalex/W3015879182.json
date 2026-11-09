@@ -1,0 +1,43 @@
+{
+  "id": "openalex:W3015879182",
+  "title": "Electrically Conductive Metal–Organic Frameworks",
+  "abstract": "Metal-organic frameworks (MOFs) are intrinsically porous extended solids formed by coordination bonding between organic ligands and metal ions or clusters. High electrical conductivity is rare in MOFs, yet it allows for diverse applications in electrocatalysis, charge storage, and chemiresistive sensing, among others. In this Review, we discuss the efforts undertaken so far to achieve efficient charge transport in MOFs. We focus on four common strategies that have been harnessed toward high conductivities. In the \"through-bond\" approach, continuous chains of coordination bonds between the metal centers and ligands' functional groups create charge transport pathways. In the \"extended conjugation\" approach, the metals and entire ligands form large delocalized systems. The \"through-space\" approach harnesses the π-π stacking interactions between organic moieties. The \"guest-promoted\" approach utilizes the inherent porosity of MOFs and host-guest interactions. Studies utilizing less defined transport pathways are also evaluated. For each approach, we give a systematic overview of the structures and transport properties of relevant materials. We consider the benefits and limitations of strategies developed thus far and provide an overview of outstanding challenges in conductive MOFs.",
+  "authors": [
+    "Lilia S. Xie",
+    "Grigorii Skorupskii",
+    "Mircea Dincă"
+  ],
+  "year": 2020,
+  "doi": "10.1021/acs.chemrev.9b00766",
+  "source": "openalex",
+  "categories": [
+    "Delocalized electron",
+    "Stacking",
+    "Metal-organic framework",
+    "Chemistry",
+    "Nanotechnology",
+    "Electrical conductor",
+    "Porosity",
+    "Metal",
+    "Materials science",
+    "Organic chemistry",
+    "Composite material",
+    "Adsorption"
+  ],
+  "citation_count": 2041,
+  "open_access_pdf_url": "https://pubs.acs.org/doi/pdf/10.1021/acs.chemrev.9b00766",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3015879182.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:15.582252+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3015879182",
+    "concepts": [
+      "Delocalized electron",
+      "Stacking",
+      "Metal-organic framework",
+      "Chemistry",
+      "Nanotechnology"
+    ],
+    "oa_status": "hybrid"
+  }
+}

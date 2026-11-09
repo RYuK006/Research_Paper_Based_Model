@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2271272206",
+  "title": "Generation of superoxide anion by the NADH dehydrogenase of bovine heart mitochondria",
+  "abstract": "Submitochondrial particles from bovine heart in which NADH dehydrogenase is reduced by either addition of NADH and rotenone or by reversed electron transfer generate 0.9 +/- 0.1 nmol of O2-/min per mg of protein at pH 7.4 and at 30 degrees C. When NADH is used as substrate, rotenone, antimycin and cyanide increase O2- production. In NADH- and antimycin-supplemented submitochondrial particles, rotenone has a biphasic effect: it increases O2- production at the NADH dehydrogenase and it inhibits O2- production at the ubiquinone-cytochrome b site. The generation of O2- by the rotenone, the uncoupler carbonyl cyanide rho-trifluoromethoxyphenylhydrazone and oligomycin at concentrations similar to those required to inhibit energy-dependent succinate-NAD reductase. Cyanide did not affect O2- generation at the NADH dehydrogenase, but inhibited O2- production at the ubiquinone-cytochrome b site. Production of O2- at the NADH dehydrogenase is about 50% of the O2- generation but the ubiquinone-cytochrome b area at pH 7.4. Additivity of the two mitochondrial sites of O2- generation was observed over the pH range from 7.0 to 8.8. AN O2- -dependent autocatalytic process that requires NADH, submitochondrial particles and adrenaline is described.",
+  "authors": [
+    "Julio F. Turrens",
+    "Alejandro D. Boveris"
+  ],
+  "year": 1980,
+  "doi": "10.1042/bj1910421",
+  "source": "openalex",
+  "categories": [
+    "Submitochondrial particle",
+    "NADH dehydrogenase",
+    "Rotenone",
+    "Oligomycin",
+    "Biochemistry",
+    "Antimycin A",
+    "Chemistry",
+    "NAD+ kinase",
+    "Cyanide",
+    "Cytochrome c",
+    "Superoxide",
+    "Dehydrogenase",
+    "Electron transport chain",
+    "Mitochondrion",
+    "Enzyme",
+    "Organic chemistry",
+    "ATPase",
+    "Gene",
+    "Protein subunit"
+  ],
+  "citation_count": 1611,
+  "open_access_pdf_url": "https://portlandpress.com/biochemj/article-pdf/191/2/421/575334/bj1910421.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2271272206.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:41.786729+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2271272206",
+    "concepts": [
+      "Submitochondrial particle",
+      "NADH dehydrogenase",
+      "Rotenone",
+      "Oligomycin",
+      "Biochemistry"
+    ],
+    "oa_status": "bronze"
+  }
+}

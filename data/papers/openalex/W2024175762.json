@@ -1,0 +1,45 @@
+{
+  "id": "openalex:W2024175762",
+  "title": "PLATON SQUEEZE: a tool for the calculation of the disordered solvent contribution to the calculated structure factors",
+  "abstract": "The completion of a crystal structure determination is often hampered by the presence of embedded solvent molecules or ions that are seriously disordered. Their contribution to the calculated structure factors in the least-squares refinement of a crystal structure has to be included in some way. Traditionally, an atomistic solvent disorder model is attempted. Such an approach is generally to be preferred, but it does not always lead to a satisfactory result and may even be impossible in cases where channels in the structure are filled with continuous electron density. This paper documents the SQUEEZE method as an alternative means of addressing the solvent disorder issue. It conveniently interfaces with the 2014 version of the least-squares refinement program SHELXL [Sheldrick (2015). Acta Cryst. C71. In the press] and other refinement programs that accept externally provided fixed contributions to the calculated structure factors. The PLATON SQUEEZE tool calculates the solvent contribution to the structure factors by back-Fourier transformation of the electron density found in the solvent-accessible region of a phase-optimized difference electron-density map. The actual least-squares structure refinement is delegated to, for example, SHELXL. The current versions of PLATON SQUEEZE and SHELXL now address several of the unnecessary complications with the earlier implementation of the SQUEEZE procedure that were a necessity because least-squares refinement with the now superseded SHELXL97 program did not allow for the input of fixed externally provided contributions to the structure-factor calculation. It is no longer necessary to subtract the solvent contribution temporarily from the observed intensities to be able to use SHELXL for the least-squares refinement, since that program now accepts the solvent contribution from an external file (.fab file) if the ABIN instruction is used. In addition, many twinned structures containing disordered solvents are now also treatable by SQUEEZE. The details of a SQUEEZE calculation are now automatically included in the CIF archive file, along with the unmerged reflection data. The current implementation of the SQUEEZE procedure is described, and discussed and illustrated with three examples. Two of them are based on the reflection data of published structures and one on synthetic reflection data generated for a published structure.",
+  "authors": [
+    "Anton L. Spek"
+  ],
+  "year": 2014,
+  "doi": "10.1107/s2053229614024929",
+  "source": "openalex",
+  "categories": [
+    "Solvent",
+    "Crystal structure",
+    "Electron density",
+    "Least-squares function approximation",
+    "Chemistry",
+    "Statistical physics",
+    "Electron",
+    "Computational chemistry",
+    "Computer science",
+    "Crystallography",
+    "Physics",
+    "Mathematics",
+    "Quantum mechanics",
+    "Statistics",
+    "Organic chemistry",
+    "Estimator"
+  ],
+  "citation_count": 3889,
+  "open_access_pdf_url": "http://journals.iucr.org/c/issues/2015/01/00/ln3172/ln3172.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2024175762.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:54.095391+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2024175762",
+    "concepts": [
+      "Solvent",
+      "Crystal structure",
+      "Electron density",
+      "Least-squares function approximation",
+      "Chemistry"
+    ],
+    "oa_status": "bronze"
+  }
+}

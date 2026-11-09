@@ -1,0 +1,41 @@
+{
+  "id": "openalex:W2886401819",
+  "title": "Microbial tryptophan catabolites in health and disease",
+  "abstract": "Accumulating evidence implicates metabolites produced by gut microbes as crucial mediators of diet-induced host-microbial cross-talk. Here, we review emerging data suggesting that microbial tryptophan catabolites resulting from proteolysis are influencing host health. These metabolites are suggested to activate the immune system through binding to the aryl hydrocarbon receptor (AHR), enhance the intestinal epithelial barrier, stimulate gastrointestinal motility, as well as secretion of gut hormones, exert anti-inflammatory, anti-oxidative or toxic effects in systemic circulation, and putatively modulate gut microbial composition. Tryptophan catabolites thus affect various physiological processes and may contribute to intestinal and systemic homeostasis in health and disease.",
+  "authors": [
+    "Henrik Munch Roager",
+    "Tine Rask Licht"
+  ],
+  "year": 2018,
+  "doi": "10.1038/s41467-018-05470-4",
+  "source": "openalex",
+  "categories": [
+    "Tryptophan",
+    "Chemistry",
+    "Disease",
+    "Tryptophan Metabolism",
+    "Microbiology",
+    "Biochemistry",
+    "Computational biology",
+    "Biology",
+    "Medicine",
+    "Amino acid",
+    "Internal medicine"
+  ],
+  "citation_count": 2321,
+  "open_access_pdf_url": "https://www.nature.com/articles/s41467-018-05470-4.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2886401819.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:08.787530+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2886401819",
+    "concepts": [
+      "Tryptophan",
+      "Chemistry",
+      "Disease",
+      "Tryptophan Metabolism",
+      "Microbiology"
+    ],
+    "oa_status": "gold"
+  }
+}

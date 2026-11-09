@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W3013490518",
+  "title": "Stability of SARS-CoV-2 in different environmental conditions",
+  "abstract": "Stability of SARS-CoV-2 in different environmental conditions.",
+  "authors": [
+    "Alex W. H. Chin",
+    "Julie T. S. Chu",
+    "Mahen R A Perera",
+    "Kenrie P. Y. Hui",
+    "Hui‐Ling Yen",
+    "Michael C. W. Chan",
+    "Malik J. S. Peiris",
+    "Leo L. M. Poon"
+  ],
+  "year": 2020,
+  "doi": "10.1016/s2666-5247(20)30003-3",
+  "source": "openalex",
+  "categories": [
+    "Infectivity",
+    "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)",
+    "Virus",
+    "Sars virus",
+    "Coronavirus disease 2019 (COVID-19)",
+    "Viral load",
+    "Virology",
+    "Titer",
+    "Coronavirus",
+    "Chemistry",
+    "Medicine",
+    "Infectious disease (medical specialty)",
+    "Internal medicine",
+    "Disease"
+  ],
+  "citation_count": 2011,
+  "open_access_pdf_url": "http://www.thelancet.com/article/S2666524720300033/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3013490518.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:17.650251+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3013490518",
+    "concepts": [
+      "Infectivity",
+      "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)",
+      "Virus",
+      "Sars virus",
+      "Coronavirus disease 2019 (COVID-19)"
+    ],
+    "oa_status": "gold"
+  }
+}

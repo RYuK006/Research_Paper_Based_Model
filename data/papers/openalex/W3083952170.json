@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W3083952170",
+  "title": "Osteoblast-Osteoclast Communication and Bone Homeostasis",
+  "abstract": "Bone remodeling is tightly regulated by a cross-talk between bone-forming osteoblasts and bone-resorbing osteoclasts. Osteoblasts and osteoclasts communicate with each other to regulate cellular behavior, survival and differentiation through direct cell-to-cell contact or through secretory proteins. A direct interaction between osteoblasts and osteoclasts allows bidirectional transduction of activation signals through EFNB2-EPHB4, FASL-FAS or SEMA3A-NRP1, regulating differentiation and survival of osteoblasts or osteoclasts. Alternatively, osteoblasts produce a range of different secretory molecules, including M-CSF, RANKL/OPG, WNT5A, and WNT16, that promote or suppress osteoclast differentiation and development. Osteoclasts also influence osteoblast formation and differentiation through secretion of soluble factors, including S1P, SEMA4D, CTHRC1 and C3. Here we review the current knowledge regarding membrane bound- and soluble factors governing cross-talk between osteoblasts and osteoclasts.",
+  "authors": [
+    "Jung‐Min Kim",
+    "Chujiao Lin",
+    "Zheni Stavre",
+    "Matthew Blake Greenblatt",
+    "Jae‐Hyuck Shim"
+  ],
+  "year": 2020,
+  "doi": "10.3390/cells9092073",
+  "source": "openalex",
+  "categories": [
+    "Osteoclast",
+    "RANKL",
+    "Osteoblast",
+    "Cell biology",
+    "Chemistry",
+    "Bone remodeling",
+    "Cellular differentiation",
+    "Signal transduction",
+    "Endocrinology",
+    "Biology",
+    "Receptor",
+    "Activator (genetics)",
+    "In vitro",
+    "Biochemistry",
+    "Gene"
+  ],
+  "citation_count": 1254,
+  "open_access_pdf_url": "https://www.mdpi.com/2073-4409/9/9/2073/pdf?version=1600045248",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3083952170.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:02.587894+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3083952170",
+    "concepts": [
+      "Osteoclast",
+      "RANKL",
+      "Osteoblast",
+      "Cell biology",
+      "Chemistry"
+    ],
+    "oa_status": "gold"
+  }
+}

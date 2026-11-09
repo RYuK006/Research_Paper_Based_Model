@@ -1,0 +1,44 @@
+{
+  "id": "openalex:W2100130392",
+  "title": "The Log of Gravity",
+  "abstract": "Abstract Although economists have long been aware of Jensen's inequality, many econometric applications have neglected an important implication of it: under heteroskedasticity, the parameters of log-linearized models estimated by OLS lead to biased estimates of the true elasticities. We explain why this problem arises and propose an appropriate estimator. Our criticism of conventional practices and the proposed solution extend to a broad range of applications where log-linearized equations are estimated. We develop the argument using one particular illustration, the gravity equation for trade. We find significant differences between estimates obtained with the proposed estimator and those obtained with the traditional method.",
+  "authors": [
+    "João Santos Silva",
+    "Silvana Tenreyro"
+  ],
+  "year": 2006,
+  "doi": "10.1162/rest.88.4.641",
+  "source": "openalex",
+  "categories": [
+    "Estimator",
+    "Heteroscedasticity",
+    "Econometrics",
+    "Range (aeronautics)",
+    "Economics",
+    "Argument (complex analysis)",
+    "Mathematics",
+    "Mathematical economics",
+    "Applied mathematics",
+    "Statistics",
+    "Materials science",
+    "Biochemistry",
+    "Composite material",
+    "Chemistry"
+  ],
+  "citation_count": 6620,
+  "open_access_pdf_url": "https://direct.mit.edu/rest/article-pdf/88/4/641/1982805/rest.88.4.641.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2100130392.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:52.108160+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2100130392",
+    "concepts": [
+      "Estimator",
+      "Heteroscedasticity",
+      "Econometrics",
+      "Range (aeronautics)",
+      "Economics"
+    ],
+    "oa_status": "hybrid"
+  }
+}

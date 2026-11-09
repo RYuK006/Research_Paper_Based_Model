@@ -1,0 +1,45 @@
+{
+  "id": "openalex:W2028239901",
+  "title": "Human bone marrow stromal cells inhibit allogeneic T-cell responses by indoleamine 2,3-dioxygenase–mediated tryptophan degradation",
+  "abstract": "Marrow stromal cells (MSCs) inhibit allogeneic T-cell responses, yet the molecular mechanism mediating this immunosuppressive effect of MSCs remains controversial. Recently, expression of indoleamine 2,3-dioxygenase (IDO), which is induced by interferon-gamma (IFN-gamma) and catalyzes the conversion from tryptophan to kynurenine, has been identified as a T-cell inhibitory effector pathway in professional antigen-presenting cells. Here we show that human MSCs express IDO protein and exhibit functional IDO activity upon stimulation with IFN-gamma. MSCs inhibit allogeneic T-cell responses in mixed lymphocyte reactions (MLRs). Concomitantly, IDO activity resulting in tryptophan depletion and kynurenine production is detected in MSC/MLR coculture supernatants. Addition of tryptophan significantly restores allogeneic T-cell proliferation, thus identifying IDO-mediated tryptophan catabolism as a novel T-cell inhibitory effector mechanism in human MSCs. As IDO-mediated T-cell inhibition depends on MSC activation, modulation of IDO activity might alter the immunosuppressive properties of MSCs in different therapeutic applications.",
+  "authors": [
+    "Roland Meisel",
+    "Andree Zibert",
+    "Maurice D. Laryea",
+    "Ulrich Göbel",
+    "Walter Däubener",
+    "Dagmar Dilloo"
+  ],
+  "year": 2004,
+  "doi": "10.1182/blood-2003-11-3909",
+  "source": "openalex",
+  "categories": [
+    "Indoleamine 2,3-dioxygenase",
+    "Stromal cell",
+    "Bone marrow",
+    "Tryptophan",
+    "Immunology",
+    "Chemistry",
+    "Cancer research",
+    "Biology",
+    "Medicine",
+    "Biochemistry",
+    "Amino acid"
+  ],
+  "citation_count": 1675,
+  "open_access_pdf_url": "https://ashpublications.org/blood/article-pdf/103/12/4619/1697947/zh801204004619.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2028239901.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:33.231247+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2028239901",
+    "concepts": [
+      "Indoleamine 2,3-dioxygenase",
+      "Stromal cell",
+      "Bone marrow",
+      "Tryptophan",
+      "Immunology"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2163005196",
+  "title": "Activation of the p62‐Keap1‐NRF2 pathway protects against ferroptosis in hepatocellular carcinoma cells",
+  "abstract": "UNLABELLED: Ferroptosis is a recently recognized form of regulated cell death caused by an iron-dependent accumulation of lipid reactive oxygen species. However, the molecular mechanisms regulating ferroptosis remain obscure. Here, we report that nuclear factor erythroid 2-related factor 2 (NRF2) plays a central role in protecting hepatocellular carcinoma (HCC) cells against ferroptosis. Upon exposure to ferroptosis-inducing compounds (e.g., erastin, sorafenib, and buthionine sulfoximine), p62 expression prevented NRF2 degradation and enhanced subsequent NRF2 nuclear accumulation through inactivation of Kelch-like ECH-associated protein 1. Additionally, nuclear NRF2 interacted with transcriptional coactivator small v-maf avian musculoaponeurotic fibrosarcoma oncogene homolog proteins such as MafG and then activated transcription of quinone oxidoreductase-1, heme oxygenase-1, and ferritin heavy chain-1. Knockdown of p62, quinone oxidoreductase-1, heme oxygenase-1, and ferritin heavy chain-1 by RNA interference in HCC cells promoted ferroptosis in response to erastin and sorafenib. Furthermore, genetic or pharmacologic inhibition of NRF2 expression/activity in HCC cells increased the anticancer activity of erastin and sorafenib in vitro and in tumor xenograft models. CONCLUSION: These findings demonstrate novel molecular mechanisms and signaling pathways of ferroptosis; the status of NRF2 is a key factor that determines the therapeutic response to ferroptosis-targeted therapies in HCC cells.",
+  "authors": [
+    "Xiaofang Sun",
+    "Zhanhui Ou",
+    "Ruochan Chen",
+    "Xiaohua Niu",
+    "De Chen",
+    "Rui Kang",
+    "Daolin Tang"
+  ],
+  "year": 2015,
+  "doi": "10.1002/hep.28251",
+  "source": "openalex",
+  "categories": [
+    "KEAP1",
+    "Gene knockdown",
+    "Cancer research",
+    "Transcription factor",
+    "Sorafenib",
+    "Chemistry",
+    "Heme oxygenase",
+    "Ferritin",
+    "Heme",
+    "Hepatocellular carcinoma",
+    "Biology",
+    "Cell biology",
+    "Biochemistry",
+    "Apoptosis",
+    "Gene",
+    "Enzyme"
+  ],
+  "citation_count": 2031,
+  "open_access_pdf_url": "https://aasldpubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/hep.28251",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2163005196.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:15.604031+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2163005196",
+    "concepts": [
+      "KEAP1",
+      "Gene knockdown",
+      "Cancer research",
+      "Transcription factor",
+      "Sorafenib"
+    ],
+    "oa_status": "bronze"
+  }
+}

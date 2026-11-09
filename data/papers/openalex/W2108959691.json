@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2108959691",
+  "title": "Linking Crystallographic Model and Data Quality",
+  "abstract": "Finessing Crystal Analysis Protein crystallography has revolutionized our understanding of a whole variety of biological processes (see the Perspective by Evans ). In crystallography, the measure of agreement between the data and the calculated model is not on the same scale as the measure of data quality, making it challenging to choose an optimal high resolution limit beyond which the data should be discarded. Now, Karplus and Diederichs (p. 1030 ) introduce a statistical model that assesses agreement of model and data accuracy on the same scale. Determining the structures of biological macromolecules by x-ray crystallography requires solving the phase problem. The two techniques that dominate phase evaluation (multi- and single-wavelength anomalous diffraction) rely on element-specific scattering from incorporated heavy atoms. Liu et al. (p. 1033 ) present procedures for routine structure determination of native proteins with no heavy atom incorporation. The technique, which relies on combining data from multiple crystals, was used to determine the structures of four native proteins, including a 1200-residue complex.",
+  "authors": [
+    "P. Andrew Karplus",
+    "Kay Diederichs"
+  ],
+  "year": 2012,
+  "doi": "10.1126/science.1218231",
+  "source": "openalex",
+  "categories": [
+    "Anomalous scattering",
+    "Diffraction",
+    "Measure (data warehouse)",
+    "Protein crystallization",
+    "Crystallography",
+    "Experimental data",
+    "Resolution (logic)",
+    "Scale (ratio)",
+    "Limit (mathematics)",
+    "Computer science",
+    "Statistical physics",
+    "Biological system",
+    "Chemistry",
+    "Data mining",
+    "Physics",
+    "Mathematics",
+    "Statistics",
+    "Optics",
+    "Thermodynamics",
+    "Biology",
+    "Artificial intelligence",
+    "Crystallization",
+    "Quantum mechanics",
+    "Mathematical analysis"
+  ],
+  "citation_count": 1811,
+  "open_access_pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/3457925",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2108959691.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:22.383148+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2108959691",
+    "concepts": [
+      "Anomalous scattering",
+      "Diffraction",
+      "Measure (data warehouse)",
+      "Protein crystallization",
+      "Crystallography"
+    ],
+    "oa_status": "green"
+  }
+}

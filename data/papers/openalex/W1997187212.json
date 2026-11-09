@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W1997187212",
+  "title": "Separation of chlorophylls and carotenoids from marine phytoplankton:a new HPLC method using a reversed phase C8 column and pyridine-containing mobile phases",
+  "abstract": "A high-performance liquid chromatographic (HPLC) method based on a reversed-phase C8 column and pyridine-containing mobile phases was developed for the simultaneous separation of chlorophylls and carotenoids.The method is selective enough to resolve monovinyl (MV) and divinyl (DV) pairs of polar chlorophylls and DV chlorophyll a (chl a ) (the marker pigment for the prokaryote Prochlorococcus marinus) from chl a (the MV analogue).Only the pair DV chl alchl b was not resolved.This resolution capability for chlorophylls was only prev~ously achieved using polymeric C),, columns in combination with ammonium acetate or pyridine-containing mobile phases.The proposed method also allows the separation of taxon-specific carotenoids belonging to 8 algal classes, including some critical pigment pairs for previous HPLC methods using C,, columns.The method employs a binary gradient, so it can be used with both low-pressure and high-pressure mixing instruments.Method transferability was tested using 3 HPLC systems.Only a slight adjustment of gradient profile was required to obtain similar results with HPLC equipment having different dwell volumes.The selectivity of the method towards some recently discovered chlorophyll and carotenoid pigments makes it especially suitable for studying not only fleld samples, but also for re-examining the pigment composition of different algal classes.",
+  "authors": [
+    "M. Zapata",
+    "Francisco Rodríguez",
+    "José L. Garrido"
+  ],
+  "year": 2000,
+  "doi": "10.3354/meps195029",
+  "source": "openalex",
+  "categories": [
+    "Chromatography",
+    "Phytoplankton",
+    "High-performance liquid chromatography",
+    "Peridinin",
+    "Fucoxanthin",
+    "Carotenoid",
+    "Water column",
+    "Chemistry",
+    "Chlorophyll",
+    "Chlorophyll a",
+    "Biology",
+    "Botany",
+    "Biochemistry",
+    "Ecology",
+    "Organic chemistry",
+    "Nutrient"
+  ],
+  "citation_count": 1167,
+  "open_access_pdf_url": "https://www.int-res.com/articles/meps/195/m195p029.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1997187212.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:12.219389+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1997187212",
+    "concepts": [
+      "Chromatography",
+      "Phytoplankton",
+      "High-performance liquid chromatography",
+      "Peridinin",
+      "Fucoxanthin"
+    ],
+    "oa_status": "bronze"
+  }
+}

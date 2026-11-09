@@ -1,0 +1,42 @@
+{
+  "id": "openalex:W2121438091",
+  "title": "Kinetics of Water Loss from Cells at Subzero Temperatures and the Likelihood of Intracellular Freezing",
+  "abstract": "The survival of various cells subjected to low temperature exposure is higher when they are cooled slowly. This increase is consistent with the view that slow cooling decreases the probability of intracellular freezing by permitting water to leave the cell rapidly enough to keep the protoplasm at its freezing point. The present study derives a quantitative relation between the amount of water in a cell and temperature. The relation is a differential equation involving cooling rate, surface-volume ratio, membrane permeability to water, and the temperature coefficient of the permeability constant. Numerical solutions to this equation give calculated water contents which permit predictions as to the likelihood of intracellular ice formation. Both the calculated water contents and the predictions on internal freezing are consistent with the experimental observations of several investigators.",
+  "authors": [
+    "Peter Mazur"
+  ],
+  "year": 1963,
+  "doi": "10.1085/jgp.47.2.347",
+  "source": "openalex",
+  "categories": [
+    "Intracellular",
+    "Chemistry",
+    "Permeability (electromagnetism)",
+    "Freezing point",
+    "Thermodynamics",
+    "Protoplasm",
+    "Membrane permeability",
+    "Biophysics",
+    "Membrane",
+    "Cytoplasm",
+    "Physics",
+    "Biology",
+    "Biochemistry"
+  ],
+  "citation_count": 1122,
+  "open_access_pdf_url": "https://rupress.org/jgp/article-pdf/47/2/347/1243075/347.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2121438091.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:17.059881+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2121438091",
+    "concepts": [
+      "Intracellular",
+      "Chemistry",
+      "Permeability (electromagnetism)",
+      "Freezing point",
+      "Thermodynamics"
+    ],
+    "oa_status": "bronze"
+  }
+}

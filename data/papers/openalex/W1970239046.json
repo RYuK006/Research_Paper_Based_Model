@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W1970239046",
+  "title": "Amphipathic polyethyleneglycols effectively prolong the circulation time of liposomes",
+  "abstract": "Incorporation of dioleoyl N-(monomethoxy polyethyleneglycol succinyl)phosphatidylethanolamine (PEG-PE) into large unilamellar liposomes composed of egg phosphatidylcholine:cholesterol (1:1) does not significantly increase the content leakage when the liposomes are exposed to 90% human serum at 37 degrees C, yet the liposomes show a significant increase in the blood circulation half-life (t1/2 = 5 h) as compared to those without PEG-PE(t1/2 less than 30 min). The PEG-PE's activity to prolong the circulation time of liposomes is greater than that of the ganglioside GM1, a well-described glycolipid with this activity. Another amphipathic PEG derivative, PEG stearate, also prolongs the liposome circulation time, although its activity is less than that of GM1. Amphipathic PEGs may be useful for the sustained release and the targeted drug delivery by liposomes.",
+  "authors": [
+    "Alexander L. Klibanov",
+    "Kazuo Maruyama",
+    "Vladimir P. Torchilin",
+    "Leaf Huang"
+  ],
+  "year": 1990,
+  "doi": "10.1016/0014-5793(90)81016-h",
+  "source": "openalex",
+  "categories": [
+    "Liposome",
+    "PEG ratio",
+    "Chemistry",
+    "Amphiphile",
+    "Ganglioside",
+    "Blood circulation",
+    "Stearate",
+    "Biochemistry",
+    "Pharmacology",
+    "Biology",
+    "Medicine",
+    "Organic chemistry",
+    "Economics",
+    "Traditional medicine",
+    "Finance",
+    "Polymer",
+    "Copolymer"
+  ],
+  "citation_count": 2059,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1016/0014-5793%2890%2981016-H",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1970239046.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:15.541394+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1970239046",
+    "concepts": [
+      "Liposome",
+      "PEG ratio",
+      "Chemistry",
+      "Amphiphile",
+      "Ganglioside"
+    ],
+    "oa_status": "bronze"
+  }
+}

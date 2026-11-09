@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2120185412",
+  "title": "The origin of high efficiency in low-temperature solution-processable bilayer organometal halide hybrid solar cells",
+  "abstract": "This work reports a study into the origin of the high efficiency in solution-processable bilayer solar cells based on methylammonium lead iodide (CH3NH3PbI3) and [6,6]-phenyl-C61-butyric acid methyl ester (PC61BM). Our cell has a power conversion efficiency (PCE) of 5.2% under simulated AM 1.5G irradiation (100 mW cm−2) and an internal quantum efficiency of close to 100%, which means that nearly all the absorbed photons are converted to electrons and are efficiently collected at the electrodes. This implies that the exciton diffusion, charge transfer and charge collection are highly efficient. The high exciton diffusion efficiency is enabled by the long diffusion length of CH3NH3PbI3 relative to its thickness. Furthermore, the low exciton binding energy of CH3NH3PbI3 implies that exciton splitting at the CH3NH3PbI3/PC61BM interface is very efficient. With further increase in CH3NH3PbI3 thickness, a higher PCE of 7.4% could be obtained. This is the highest efficiency attained for low temperature solution-processable bilayer solar cells to date.",
+  "authors": [
+    "Shuangyong Sun",
+    "Teddy Salim",
+    "Nripan Mathews",
+    "Martial Duchamp",
+    "Chris Boothroyd",
+    "Guichuan Xing",
+    "Tze Chien Sum",
+    "Yeng Ming Lam"
+  ],
+  "year": 2013,
+  "doi": "10.1039/c3ee43161d",
+  "source": "openalex",
+  "categories": [
+    "Exciton",
+    "Bilayer",
+    "Energy conversion efficiency",
+    "Quantum efficiency",
+    "Halide",
+    "Diffusion",
+    "Materials science",
+    "Iodide",
+    "Solar cell",
+    "Photochemistry",
+    "Optoelectronics",
+    "Chemical physics",
+    "Chemistry",
+    "Inorganic chemistry",
+    "Membrane",
+    "Condensed matter physics",
+    "Physics",
+    "Thermodynamics",
+    "Biochemistry"
+  ],
+  "citation_count": 1123,
+  "open_access_pdf_url": "https://pubs.rsc.org/en/content/articlepdf/2014/ee/c3ee43161d",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2120185412.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:17.048934+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2120185412",
+    "concepts": [
+      "Exciton",
+      "Bilayer",
+      "Energy conversion efficiency",
+      "Quantum efficiency",
+      "Halide"
+    ],
+    "oa_status": "hybrid"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2028248159",
+  "title": "Selective Enrichment of Tetraspan Proteins on the Internal Vesicles of Multivesicular Endosomes and on Exosomes Secreted by Human B-lymphocytes",
+  "abstract": "Association of major histocompatibility complex (MHC) class II molecules with peptides occurs in a series of endocytic vacuoles, termed MHC class II-enriched compartments (MIICs). Morphological criteria have defined several types of MIICs, including multivesicular MIICs, which are composed of 50-60-nm vesicles surrounded by a limiting membrane. Multivesicular MIICs can fuse with the plasma membrane, thereby releasing their internal vesicles into the extracellular space. The externalized vesicles, termed exosomes, carry MHC class II and can stimulate T-cells in vitro. In this study, we show that exosomes are enriched in the co-stimulatory molecule CD86 and in several tetraspan proteins, including CD37, CD53, CD63, CD81, and CD82. Interestingly, subcellular localization of these molecules revealed that they were concentrated on the internal membranes of multivesicular MIICs. In contrast to the tetraspans, other membrane proteins of MIICs, such as HLA-DM, Lamp-1, and Lamp-2, were mainly localized to the limiting membrane and were hardly detectable on the internal membranes of MIICs nor on exosomes. Because internal vesicles of multivesicular MIICs are thought to originate from inward budding of the limiting membrane, the differential distribution of membrane proteins on the internal and limiting membranes of MIICs has to be driven by active protein sorting.",
+  "authors": [
+    "Jean-Michel Escola",
+    "Monique J. Kleijmeer",
+    "Willem Stoorvogel",
+    "Janice M. Griffith",
+    "Osamu Yoshie",
+    "Hans J. Geuze"
+  ],
+  "year": 1998,
+  "doi": "10.1074/jbc.273.32.20121",
+  "source": "openalex",
+  "categories": [
+    "Endosome",
+    "Cell biology",
+    "Endocytic cycle",
+    "Vesicle",
+    "Vacuole",
+    "Microvesicles",
+    "Biology",
+    "Membrane protein",
+    "Chemistry",
+    "Membrane",
+    "Biochemistry",
+    "Endocytosis",
+    "Intracellular",
+    "Cytoplasm",
+    "Cell",
+    "microRNA",
+    "Gene"
+  ],
+  "citation_count": 1274,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925818490345/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2028248159.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:00.512648+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2028248159",
+    "concepts": [
+      "Endosome",
+      "Cell biology",
+      "Endocytic cycle",
+      "Vesicle",
+      "Vacuole"
+    ],
+    "oa_status": "hybrid"
+  }
+}

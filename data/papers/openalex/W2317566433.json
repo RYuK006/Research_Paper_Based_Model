@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W2317566433",
+  "title": "Disclosing the Complex Structure of UiO-66 Metal Organic Framework: A Synergic Combination of Experiment and Theory",
+  "abstract": "Through a combined use of experimental and theoretical approaches such as XRPD, EXAFS, IR, and UV−vis spectroscopies and ab initio periodic DFT calculations, we report a detailed characterization of structural, vibrational, and electronic properties of UiO-66 (Zr-BDC MOF) in its hydroxylated and dehydroxylated forms. The stability of the materials with respect to the most common solvents, acids, and bases is determined by combining XRPD and TGA/MS techniques. The structures of the two forms of UiO-66 are refined through an interactive XRPD/EXAFS approach and validated by ab initio calculations. Experimental and calculated IR spectra are reported and compared to enlighten the nature of vibrational modes upon dehydroxylation and to show the complete reversibility of the dehydration/hydration phenomenon. Experimental and calculated band gaps are also reported and compared. In this work, we show the necessity to combine, in a synergic way, different experimental techniques and periodic ab initio approaches to disclose and fully understand the nature of complex novel materials such as UiO-66 on structural, vibrational, and electronic grounds. The correct structure refinement could not be possible using one of these three approaches alone, in particular, XRPD data were unable to detect an important distortion of the Zr 6 O 6 units of the dehydrated material that was, however, foreseen in the ab initio calculations and measured in the EXAFS spectra.",
+  "authors": [
+    "Loredana Valenzano",
+    "Bartolomeo Civalleri",
+    "Sachin Chavan",
+    "Silvia Bordiga",
+    "Merete Hellner Nilsen",
+    "Søren Jakobsen",
+    "Karl Petter Lillerud",
+    "Carlo Lamberti"
+  ],
+  "year": 2011,
+  "doi": "10.1021/cm1022882",
+  "source": "openalex",
+  "categories": [
+    "Ab initio",
+    "Extended X-ray absorption fine structure",
+    "Chemistry",
+    "Powder diffraction",
+    "Ab initio quantum chemistry methods",
+    "Density functional theory",
+    "Computational chemistry",
+    "Infrared spectroscopy",
+    "Electronic structure",
+    "Physical chemistry",
+    "Crystallography",
+    "Molecule",
+    "Materials science",
+    "Absorption spectroscopy",
+    "Organic chemistry",
+    "Physics",
+    "Quantum mechanics"
+  ],
+  "citation_count": 1950,
+  "open_access_pdf_url": "https://iris.unito.it/bitstream/2318/85605/5/OpenAcces_UiO66Structure_revis_NoCode.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2317566433.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:17.832717+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2317566433",
+    "concepts": [
+      "Ab initio",
+      "Extended X-ray absorption fine structure",
+      "Chemistry",
+      "Powder diffraction",
+      "Ab initio quantum chemistry methods"
+    ],
+    "oa_status": "green"
+  }
+}

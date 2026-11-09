@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W2167033587",
+  "title": "Identification of Ubiquitin Ligases Required for Skeletal Muscle Atrophy",
+  "abstract": "Skeletal muscle adapts to decreases in activity and load by undergoing atrophy. To identify candidate molecular mediators of muscle atrophy, we performed transcript profiling. Although many genes were up-regulated in a single rat model of atrophy, only a small subset was universal in all atrophy models. Two of these genes encode ubiquitin ligases: Muscle RING Finger 1 (MuRF1), and a gene we designate Muscle Atrophy F-box (MAFbx), the latter being a member of the SCF family of E3 ubiquitin ligases. Overexpression of MAFbx in myotubes produced atrophy, whereas mice deficient in either MAFbx or MuRF1 were found to be resistant to atrophy. These proteins are potential drug targets for the treatment of muscle atrophy.",
+  "authors": [
+    "Sue C. Bodine",
+    "Esther Latres",
+    "Susanne Baumhueter",
+    "Venus Ka-Man Lai",
+    "Lorna Nuñez",
+    "Brian A. Clarke",
+    "William T. Poueymirou",
+    "Frank J. Panaro",
+    "Erqian Na",
+    "Kumar Dharmarajan",
+    "Zhen‐Qiang Pan",
+    "David M. Valenzuela",
+    "Thomas M. DeChiara",
+    "Trevor N. Stitt",
+    "George D. Yancopoulos",
+    "David J. Glass"
+  ],
+  "year": 2001,
+  "doi": "10.1126/science.1065874",
+  "source": "openalex",
+  "categories": [
+    "Atrophy",
+    "Ubiquitin",
+    "Muscle atrophy",
+    "Myogenesis",
+    "Skeletal muscle",
+    "Biology",
+    "Gene",
+    "Ubiquitin ligase",
+    "Cell biology",
+    "Chemistry",
+    "Genetics",
+    "Endocrinology"
+  ],
+  "citation_count": 3597,
+  "open_access_pdf_url": "https://www.science.org/cms/asset/8e82638d-6724-42cf-a47a-50ccd7ce7ff6/pap.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2167033587.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:57.670496+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2167033587",
+    "concepts": [
+      "Atrophy",
+      "Ubiquitin",
+      "Muscle atrophy",
+      "Myogenesis",
+      "Skeletal muscle"
+    ],
+    "oa_status": "bronze"
+  }
+}

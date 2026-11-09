@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2097643786",
+  "title": "Ghrelin Causes Hyperphagia and Obesity in Rats",
+  "abstract": "Ghrelin, a circulating growth hormone-releasing peptide derived from the stomach, stimulates food intake. The lowest systemically effective orexigenic dose of ghrelin was investigated and the resulting plasma ghrelin concentration was compared with that during fasting. The lowest dose of ghrelin that produced a significant stimulation of feeding after intraperitoneal injection was 1 nmol. The plasma ghrelin concentration after intraperitoneal injection of 1 nmol of ghrelin (2.83 +/- 0.13 pmol/ml at 60 min postinjection) was not significantly different from that occurring after a 24-h fast (2.79 +/- 0.32 pmol/ml). After microinjection into defined hypothalamic sites, ghrelin (30 pmol) stimulated food intake most markedly in the arcuate nucleus (Arc) (0-1 h food intake, 427 +/- 43% of control; P < 0.001 vs. control, P < 0.01 vs. all other nuclei), which is potentially accessible to the circulation. After chronic systemic or intracerebroventricular (ICV) administration of ghrelin for 7 days, cumulative food intake was increased (intraperitoneal ghrelin 13.6 +/- 3.4 g greater than saline-treated, P < 0.01; ICV ghrelin 19.6 +/- 5.5 g greater than saline-treated, P < 0.05). This was associated with excess weight gain (intraperitoneal ghrelin 21.7 +/- 1.4 g vs. saline 10.6 +/- 1.9 g, P < 0.001; ICV ghrelin 15.3 +/- 4.3 g vs. saline 2.2 +/- 3.8 g, P < 0.05) and adiposity. These data provide evidence that ghrelin is important in long-term control of food intake and body weight and that circulating ghrelin at fasting concentrations may stimulate food intake.",
+  "authors": [
+    "Alison Wren",
+    "Caroline J. Small",
+    "Caroline R. Abbott",
+    "Waljit Singh Dhillo",
+    "Leighton Seal",
+    "Mark A. Cohen",
+    "Rachel Louise Batterham",
+    "Shahrad Taheri",
+    "Sarah A. Stanley",
+    "Mohammad A. Ghatei",
+    "Stephen Robert Bloom"
+  ],
+  "year": 2001,
+  "doi": "10.2337/diabetes.50.11.2540",
+  "source": "openalex",
+  "categories": [
+    "Ghrelin",
+    "Orexigenic",
+    "Internal medicine",
+    "Endocrinology",
+    "Intraperitoneal injection",
+    "Saline",
+    "Appetite",
+    "Stimulation",
+    "Chemistry",
+    "Stomach",
+    "Medicine",
+    "Hormone",
+    "Neuropeptide",
+    "Receptor",
+    "Neuropeptide Y receptor"
+  ],
+  "citation_count": 1124,
+  "open_access_pdf_url": "https://diabetesjournals.org/diabetes/article-pdf/50/11/2540/339793/db1101002540.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2097643786.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:17.041869+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2097643786",
+    "concepts": [
+      "Ghrelin",
+      "Orexigenic",
+      "Internal medicine",
+      "Endocrinology",
+      "Intraperitoneal injection"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W2161339576",
+  "title": "Detecting the number of clusters of individuals using the software structure : a simulation study",
+  "abstract": "The identification of genetically homogeneous groups of individuals is a long standing issue in population genetics. A recent Bayesian algorithm implemented in the software STRUCTURE allows the identification of such groups. However, the ability of this algorithm to detect the true number of clusters (K) in a sample of individuals when patterns of dispersal among populations are not homogeneous has not been tested. The goal of this study is to carry out such tests, using various dispersal scenarios from data generated with an individual-based model. We found that in most cases the estimated 'log probability of data' does not provide a correct estimation of the number of clusters, K. However, using an ad hoc statistic DeltaK based on the rate of change in the log probability of data between successive K values, we found that STRUCTURE accurately detects the uppermost hierarchical level of structure for the scenarios we tested. As might be expected, the results are sensitive to the type of genetic marker used (AFLP vs. microsatellite), the number of loci scored, the number of populations sampled, and the number of individuals typed in each sample.",
+  "authors": [
+    "Guillaume Evanno",
+    "Sébastien Regnaut",
+    "Jérôme Goudet"
+  ],
+  "year": 2005,
+  "doi": "10.1111/j.1365-294x.2005.02553.x",
+  "source": "openalex",
+  "categories": [
+    "Biology",
+    "Statistic",
+    "Bayesian probability",
+    "Homogeneous",
+    "Biological dispersal",
+    "Statistics",
+    "Identification (biology)",
+    "Microsatellite",
+    "Software",
+    "Population",
+    "Sample (material)",
+    "Sample size determination",
+    "Evolutionary biology",
+    "Genetics",
+    "Computer science",
+    "Mathematics",
+    "Ecology",
+    "Demography",
+    "Gene",
+    "Sociology",
+    "Allele",
+    "Combinatorics",
+    "Chemistry",
+    "Programming language",
+    "Chromatography"
+  ],
+  "citation_count": 22284,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1365-294X.2005.02553.x",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2161339576.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:49.807850+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2161339576",
+    "concepts": [
+      "Biology",
+      "Statistic",
+      "Bayesian probability",
+      "Homogeneous",
+      "Biological dispersal"
+    ],
+    "oa_status": "bronze"
+  }
+}

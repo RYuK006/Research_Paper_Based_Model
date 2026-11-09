@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W3091745167",
+  "title": "Per- and Polyfluoroalkyl Substance Toxicity and Human Health Review: Current State of Knowledge and Strategies for Informing Future Research",
+  "abstract": "Abstract Reports of environmental and human health impacts of per- and polyfluoroalkyl substances (PFAS) have greatly increased in the peer-reviewed literature. The goals of the present review are to assess the state of the science regarding toxicological effects of PFAS and to develop strategies for advancing knowledge on the health effects of this large family of chemicals. Currently, much of the toxicity data available for PFAS are for a handful of chemicals, primarily legacy PFAS such as perfluorooctanoic acid and perfluorooctane sulfonate. Epidemiological studies have revealed associations between exposure to specific PFAS and a variety of health effects, including altered immune and thyroid function, liver disease, lipid and insulin dysregulation, kidney disease, adverse reproductive and developmental outcomes, and cancer. Concordance with experimental animal data exists for many of these effects. However, information on modes of action and adverse outcome pathways must be expanded, and profound differences in PFAS toxicokinetic properties must be considered in understanding differences in responses between the sexes and among species and life stages. With many health effects noted for a relatively few example compounds and hundreds of other PFAS in commerce lacking toxicity data, more contemporary and high-throughput approaches such as read-across, molecular dynamics, and protein modeling are proposed to accelerate the development of toxicity information on emerging and legacy PFAS, individually and as mixtures. In addition, an appropriate degree of precaution, given what is already known from the PFAS examples noted, may be needed to protect human health. Environ Toxicol Chem 2021;40:606–630. © 2020 SETAC Abstract Many health effects have been reported in association with or due to per- and polyfluoroalkyl substance (PFAS) exposures in humans and toxicologic models. Species concordance of effects is evident for a handful of legacy PFAS. With hundreds of PFAS in commerce that lack exposure and health effects data, contemporary and novel methods must be implemented to inform exposed communities, risk assessors, and concerned citizens and prioritize those most likely to affect human health.",
+  "authors": [
+    "Suzanne E. Fenton",
+    "ALAN M. DUCATMAN",
+    "Alan R. Boobis",
+    "Jamie C. DeWitt",
+    "Christopher S. Lau",
+    "Carla A. Ng",
+    "James S. Smith",
+    "Stephen M. Roberts"
+  ],
+  "year": 2020,
+  "doi": "10.1002/etc.4890",
+  "source": "openalex",
+  "categories": [
+    "Perfluorooctanoic acid",
+    "Adverse Outcome Pathway",
+    "Perfluorooctane",
+    "Human health",
+    "Toxicity",
+    "Disease",
+    "Environmental health",
+    "Medicine",
+    "Biology",
+    "Chemistry",
+    "Computational biology",
+    "Environmental chemistry",
+    "Pathology",
+    "Sulfonate",
+    "Internal medicine",
+    "Organic chemistry",
+    "Sodium"
+  ],
+  "citation_count": 2596,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/etc.4890",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3091745167.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:04.265329+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3091745167",
+    "concepts": [
+      "Perfluorooctanoic acid",
+      "Adverse Outcome Pathway",
+      "Perfluorooctane",
+      "Human health",
+      "Toxicity"
+    ],
+    "oa_status": "bronze"
+  }
+}

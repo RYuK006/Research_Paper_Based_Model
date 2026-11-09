@@ -1,0 +1,57 @@
+{
+  "id": "openalex:W2035775871",
+  "title": "Optimizing fluorescent in situ hybridization with rRNA‐targeted oligonucleotide probes for flow cytometric identification of microorganisms",
+  "abstract": "A combination of fluorescent rRNA-targeted oligonucleotide probes (\"phylogenetic stains\") and flow cytometry was used for a high resolution automated analysis of mixed microbial populations. Fixed cells of bacteria and yeasts were hybridized in suspension with fluorescein- or tetramethylrhodamine-labeled oligonucleotide probes complementary to group-specific regions of the 16S ribosomal RNA (rRNA) molecules. Quantifying probe-conferred cell fluorescence by flow cytometry, we could discriminate between target and nontarget cell populations. We critically examined changes of the hybridization conditions, kinetics of the hybridization, and posthybridization treatments. Intermediate probe concentrations, addition of detergent to the hybridization buffer, and a posthybridization washing step were found to increase the signal to noise ratio. We could demonstrate a linear correlation between growth rate and probe-conferred fluorescence of Escherichia coli and Pseudomonas cepacia cells. Oligonucleotides labeled with multiple fluorochromes showed elevated levels of nonspecific binding and therefore could not be used to lower the detection limits, which still restrict studies with fluorescing rRNA-targeted oligonucleotide probes to well-growing microbial cells. Two probes of different specificities--one labeled with fluorescein, the other with tetramethylrhodamine--could be applied simultaneously for dual color analysis.",
+  "authors": [
+    "Günter Wallner",
+    "Rudolf Amann",
+    "Wolfgang Beisker"
+  ],
+  "year": 1993,
+  "doi": "10.1002/cyto.990140205",
+  "source": "openalex",
+  "categories": [
+    "Oligonucleotide",
+    "Flow cytometry",
+    "Biology",
+    "Oligomer restriction",
+    "Molecular biology",
+    "Ribosomal RNA",
+    "Fluorescence in situ hybridization",
+    "Fluorescein",
+    "Molecular probe",
+    "16S ribosomal RNA",
+    "In situ",
+    "In situ hybridization",
+    "Fluorescence",
+    "Bacteria",
+    "Escherichia coli",
+    "Microbiology",
+    "Chemistry",
+    "Biochemistry",
+    "DNA",
+    "Chromosome",
+    "Gene",
+    "Genetics",
+    "Gene expression",
+    "Physics",
+    "Organic chemistry",
+    "Quantum mechanics"
+  ],
+  "citation_count": 1225,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cyto.990140205",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2035775871.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:04.573222+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2035775871",
+    "concepts": [
+      "Oligonucleotide",
+      "Flow cytometry",
+      "Biology",
+      "Oligomer restriction",
+      "Molecular biology"
+    ],
+    "oa_status": "bronze"
+  }
+}

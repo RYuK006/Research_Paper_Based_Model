@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2077731318",
+  "title": "Bafilomycin A1 Prevents Maturation of Autophagic Vacuoles by Inhibiting Fusion between Autophagosomes and Lysosomes in Rat Hepatoma Cell Line, H-4-II-E Cells.",
+  "abstract": "We studied the effects of bafilomycin A1, a potent and specific inhibitor of vacuolar H+ ATPase (V-ATPase), on the process of autophagy in rat hepatoma cell line, H-4-II-E cells. To induce autophagy, cells were transferred from Dulbecco's modified Eagle medium containing 12% fetal calf serum into Hanks' balanced salt solution. When bafilomycin A1 was added to Hanks' balanced salt solution, endogenous protein degradation was strongly inhibited and numerous autophagosomes accumulated in H-4-II-E cells, whereas autolysosomes decreased in number. Acid phosphatase activity was not detected in the autophagosomes which accumulated in the presence of bafilomycin A1, suggesting that fusion between autophagosomes and lysosomes was disturbed by this drug. Inhibition of the fusion was reversible, and the autophagosomes changed into autolysosomes after the removal of the inhibitor. Bafilomycin A1 also prevented the appearance of endocytosed HRP in autophagic vacuoles. These results suggested that acidification of the lumenal space of autophagosomes or lysosomes by V-ATPase is important for the fusion between autophagosomes and lysosomes.",
+  "authors": [
+    "Akitsugu Yamamoto",
+    "Yoshihiro Tagawa",
+    "Tamotsu Yoshimori",
+    "Yoshinori Moriyama",
+    "Ryuichi Masaki",
+    "Yutaka Tashiro"
+  ],
+  "year": 1998,
+  "doi": "10.1247/csf.23.33",
+  "source": "openalex",
+  "categories": [
+    "Bafilomycin",
+    "Vacuole",
+    "Autophagy",
+    "Cell biology",
+    "Cell fusion",
+    "Chemistry",
+    "Balanced salt solution",
+    "Cell culture",
+    "ATPase",
+    "V-ATPase",
+    "Biology",
+    "Biochemistry",
+    "Cell",
+    "Cytoplasm",
+    "Enzyme",
+    "Apoptosis",
+    "Genetics",
+    "Organic chemistry"
+  ],
+  "citation_count": 1347,
+  "open_access_pdf_url": "https://www.jstage.jst.go.jp/article/csf1975/23/1/23_1_33/_pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2077731318.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:55.211491+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2077731318",
+    "concepts": [
+      "Bafilomycin",
+      "Vacuole",
+      "Autophagy",
+      "Cell biology",
+      "Cell fusion"
+    ],
+    "oa_status": "bronze"
+  }
+}

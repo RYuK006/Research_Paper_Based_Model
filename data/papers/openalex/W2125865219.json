@@ -1,0 +1,40 @@
+{
+  "id": "openalex:W2125865219",
+  "title": "A Kernel Method for the Two-Sample-Problem",
+  "abstract": "We propose a framework for analyzing and comparing distributions, allowing us to design statistical tests to determine if two samples are drawn from different distributions. Our test statistic is the largest difference in expectations over functions in the unit ball of a reproducing kernel Hilbert space (RKHS). We present two tests based on large deviation bounds for the test statistic, while a third is based on the asymptotic distribution of this statistic. The test statistic can be computed in quadratic time, although efficient linear time approximations are available. Several classical metrics on distributions are recovered when the function space used to compute the difference in expectations is allowed to be more general (eg. a Banach space). We apply our two-sample tests to a variety of problems, including attribute matching for databases using the Hungarian marriage method, where they perform strongly. Excellent performance is also obtained when comparing distributions over graphs, for which these are the first such tests.",
+  "authors": [
+    "Arthur Gretton",
+    "Karsten Michael Borgwardt",
+    "Malte J. Rasch",
+    "Bernhard Schölkopf",
+    "Alexander Johannes Smola"
+  ],
+  "year": 2007,
+  "doi": "10.7551/mitpress/7503.003.0069",
+  "source": "openalex",
+  "categories": [
+    "Computer science",
+    "Kernel (algebra)",
+    "Sample (material)",
+    "Mathematics",
+    "Chromatography",
+    "Chemistry",
+    "Pure mathematics"
+  ],
+  "citation_count": 2273,
+  "open_access_pdf_url": "https://arxiv.org/pdf/0805.2368",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2125865219.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:08.851932+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2125865219",
+    "concepts": [
+      "Computer science",
+      "Kernel (algebra)",
+      "Sample (material)",
+      "Mathematics",
+      "Chromatography"
+    ],
+    "oa_status": "green"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "openalex:W1809795104",
+  "title": "Reperfusion injury and reactive oxygen species: The evolution of a concept",
+  "abstract": "Reperfusion injury, the paradoxical tissue response that is manifested by blood flow-deprived and oxygen-starved organs following the restoration of blood flow and tissue oxygenation, has been a focus of basic and clinical research for over 4-decades. While a variety of molecular mechanisms have been proposed to explain this phenomenon, excess production of reactive oxygen species (ROS) continues to receive much attention as a critical factor in the genesis of reperfusion injury. As a consequence, considerable effort has been devoted to identifying the dominant cellular and enzymatic sources of excess ROS production following ischemia-reperfusion (I/R). Of the potential ROS sources described to date, xanthine oxidase, NADPH oxidase (Nox), mitochondria, and uncoupled nitric oxide synthase have gained a status as the most likely contributors to reperfusion-induced oxidative stress and represent priority targets for therapeutic intervention against reperfusion-induced organ dysfunction and tissue damage. Although all four enzymatic sources are present in most tissues and are likely to play some role in reperfusion injury, priority and emphasis has been given to specific ROS sources that are enriched in certain tissues, such as xanthine oxidase in the gastrointestinal tract and mitochondria in the metabolically active heart and brain. The possibility that multiple ROS sources contribute to reperfusion injury in most tissues is supported by evidence demonstrating that redox-signaling enables ROS produced by one enzymatic source (e.g., Nox) to activate and enhance ROS production by a second source (e.g., mitochondria). This review provides a synopsis of the evidence implicating ROS in reperfusion injury, the clinical implications of this phenomenon, and summarizes current understanding of the four most frequently invoked enzymatic sources of ROS production in post-ischemic tissue.",
+  "authors": [
+    "Daniel Neil Granger",
+    "Peter R. Kvietys"
+  ],
+  "year": 2015,
+  "doi": "10.1016/j.redox.2015.08.020",
+  "source": "openalex",
+  "categories": [
+    "Xanthine oxidase",
+    "Reactive oxygen species",
+    "Reperfusion injury",
+    "Mitochondrion",
+    "Mitochondrial ROS",
+    "Oxidative stress",
+    "Cell biology",
+    "Ischemia",
+    "NADPH oxidase",
+    "Biology",
+    "Chemistry",
+    "Biochemistry",
+    "Medicine",
+    "Enzyme",
+    "Internal medicine"
+  ],
+  "citation_count": 1550,
+  "open_access_pdf_url": "https://www.sciencedirect.com/science/article/pii/S221323171500110X/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1809795104.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:45.307805+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1809795104",
+    "concepts": [
+      "Xanthine oxidase",
+      "Reactive oxygen species",
+      "Reperfusion injury",
+      "Mitochondrion",
+      "Mitochondrial ROS"
+    ],
+    "oa_status": "gold"
+  }
+}

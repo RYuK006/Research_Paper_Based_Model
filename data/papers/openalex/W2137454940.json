@@ -1,0 +1,58 @@
+{
+  "id": "openalex:W2137454940",
+  "title": "CAESAR models for developmental toxicity",
+  "abstract": "BACKGROUND: The new REACH legislation requires assessment of a large number of chemicals in the European market for several endpoints. Developmental toxicity is one of the most difficult endpoints to assess, on account of the complexity, length and costs of experiments. Following the encouragement of QSAR (in silico) methods provided in the REACH itself, the CAESAR project has developed several models. RESULTS: Two QSAR models for developmental toxicity have been developed, using different statistical/mathematical methods. Both models performed well. The first makes a classification based on a random forest algorithm, while the second is based on an adaptive fuzzy partition algorithm. The first model has been implemented and inserted into the CAESAR on-line application, which is java-based software that allows everyone to freely use the models. CONCLUSIONS: The CAESAR QSAR models have been developed with the aim to minimize false negatives in order to make them more usable for REACH. The CAESAR on-line application ensures that both industry and regulators can easily access and use the developmental toxicity model (as well as the models for the other four endpoints).",
+  "authors": [
+    "Antonio Cassano",
+    "Alberto Manganaro",
+    "Todd M. Martin",
+    "Douglas Young",
+    "Nadège Piclin",
+    "Marco Pintore",
+    "Davide Bigoni",
+    "Emilio Benfenati"
+  ],
+  "year": 2010,
+  "doi": "10.1186/1752-153x-4-s1-s4",
+  "source": "openalex",
+  "categories": [
+    "Quantitative structure–activity relationship",
+    "USable",
+    "Developmental toxicity",
+    "Computer science",
+    "In silico",
+    "Chemical toxicity",
+    "Software",
+    "Machine learning",
+    "Java",
+    "Artificial intelligence",
+    "Toxicity",
+    "Data mining",
+    "Programming language",
+    "Chemistry",
+    "Biology",
+    "World Wide Web",
+    "Pregnancy",
+    "Genetics",
+    "Biochemistry",
+    "Organic chemistry",
+    "Gene",
+    "Gestation"
+  ],
+  "citation_count": 1594,
+  "open_access_pdf_url": "https://bmcchem.biomedcentral.com/counter/pdf/10.1186/1752-153X-4-S1-S4",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2137454940.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:41.874595+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2137454940",
+    "concepts": [
+      "Quantitative structure–activity relationship",
+      "USable",
+      "Developmental toxicity",
+      "Computer science",
+      "In silico"
+    ],
+    "oa_status": "gold"
+  }
+}

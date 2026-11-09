@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2067726355",
+  "title": "Global evaluation of the Collection 5 MODIS dark-target aerosol products over land",
+  "abstract": "Abstract. NASA's MODIS sensors have been observing the Earth from polar orbit, from Terra since early 2000 and from Aqua since mid 2002. We have applied a consistent retrieval and processing algorithm to both sensors to derive the Collection 5 (C005) dark-target aerosol products over land. Here, we co-locate the MODIS field of view aerosol retrievals with Level 2 AERONET sunphotometer measurements at over 300 sites, and find 85 000 matched pairs that represent mutually cloud-free conditions. From these collocations, we validate the total aerosol optical depth (AOD or τ) product, and define the expected error (EE) as ±(0.05+0.15τ). Since we find that >66% (one standard deviation) of MODIS AOD values compare to AERONET within EE, we can consider global AOD to be validated. However, MODIS does not compare as well to AERONET at particular sites and seasons. There are residual biases that are correlated with Ångstrom exponent, scattering angles, and scene reflectance conditions, resulting from assumptions about the aerosol optical properties and surface conditions that are not accurate everywhere. Although we conclude that the AOD over land is globally quantitative, MODIS-derived parameters of aerosol size over land (Ångström exponent, fine AOD) are not. When separating data into those derived from Terra versus those from Aqua, scatterplots to AERONET are nearly indistinguishable. However, while Aqua is stable, Terra shows a slight trend in its bias with respect to AERONET; overestimating (by ~0.005) before 2004, and underestimating by similar magnitude after. This suggests small, but significant calibration uncertainties of <2%, which could lead to spurious long-term aerosol trends.",
+  "authors": [
+    "R. C. Levy",
+    "Lorraine A. Remer",
+    "Richard G. Kleidman",
+    "Shana Mattoo",
+    "Charles M. Ichoku",
+    "Ralph A. Kahn",
+    "T. F. Eck"
+  ],
+  "year": 2010,
+  "doi": "10.5194/acp-10-10399-2010",
+  "source": "openalex",
+  "categories": [
+    "AERONET",
+    "Aerosol",
+    "Environmental science",
+    "Deep blue",
+    "Remote sensing",
+    "Spurious relationship",
+    "Meteorology",
+    "Angstrom exponent",
+    "Land cover",
+    "Atmospheric sciences",
+    "Mathematics",
+    "Geography",
+    "Physics",
+    "Statistics",
+    "Land use",
+    "Chemistry",
+    "Photochemistry",
+    "Civil engineering",
+    "Engineering"
+  ],
+  "citation_count": 1244,
+  "open_access_pdf_url": "https://acp.copernicus.org/articles/10/10399/2010/acp-10-10399-2010.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2067726355.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:02.761552+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2067726355",
+    "concepts": [
+      "AERONET",
+      "Aerosol",
+      "Environmental science",
+      "Deep blue",
+      "Remote sensing"
+    ],
+    "oa_status": "gold"
+  }
+}

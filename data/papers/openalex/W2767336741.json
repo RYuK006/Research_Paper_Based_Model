@@ -1,0 +1,38 @@
+{
+  "id": "openalex:W2767336741",
+  "title": "Emerging functions of the EGFR in cancer",
+  "abstract": "The physiological function of the epidermal growth factor receptor (EGFR) is to regulate epithelial tissue development and homeostasis. In pathological settings, mostly in lung and breast cancer and in glioblastoma, the EGFR is a driver of tumorigenesis. Inappropriate activation of the EGFR in cancer mainly results from amplification and point mutations at the genomic locus, but transcriptional upregulation or ligand overproduction due to autocrine/paracrine mechanisms has also been described. Moreover, the EGFR is increasingly recognized as a biomarker of resistance in tumors, as its amplification or secondary mutations have been found to arise under drug pressure. This evidence, in addition to the prominent function that this receptor plays in normal epithelia, has prompted intense investigations into the role of the EGFR both at physiological and at pathological level. Despite the large body of knowledge obtained over the last two decades, previously unrecognized (herein defined as 'noncanonical') functions of the EGFR are currently emerging. Here, we will initially review the canonical ligand-induced EGFR signaling pathway, with particular emphasis to its regulation by endocytosis and subversion in human tumors. We will then focus on the most recent advances in uncovering noncanonical EGFR functions in stress-induced trafficking, autophagy, and energy metabolism, with a perspective on future therapeutic applications.",
+  "authors": [
+    "Sara Sigismund",
+    "Daniele Avanzato",
+    "Letizia Lanzetti"
+  ],
+  "year": 2017,
+  "doi": "10.1002/1878-0261.12155",
+  "source": "openalex",
+  "categories": [
+    "Cancer research",
+    "Cancer",
+    "Medicine",
+    "Computational biology",
+    "Biology",
+    "Chemistry",
+    "Internal medicine"
+  ],
+  "citation_count": 1552,
+  "open_access_pdf_url": "https://febs.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/1878-0261.12155",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2767336741.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:42.059151+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2767336741",
+    "concepts": [
+      "Cancer research",
+      "Cancer",
+      "Medicine",
+      "Computational biology",
+      "Biology"
+    ],
+    "oa_status": "gold"
+  }
+}

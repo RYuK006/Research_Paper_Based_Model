@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2963913216",
+  "title": "How Many Participants Do We Have to Include in Properly Powered Experiments? A Tutorial of Power Analysis with Reference Tables",
+  "abstract": "Given that an effect size of d = .4 is a good first estimate of the smallest effect size of interest in psychological research, we already need over 50 participants for a simple comparison of two within-participants conditions if we want to run a study with 80% power. This is more than current practice. In addition, as soon as a between-groups variable or an interaction is involved, numbers of 100, 200, and even more participants are needed. As long as we do not accept these facts, we will keep on running underpowered studies with unclear results. Addressing the issue requires a change in the way research is evaluated by supervisors, examiners, reviewers, and editors. The present paper describes reference numbers needed for the designs most often used by psychologists, including single-variable between-groups and repeated-measures designs with two and three levels, two-factor designs involving two repeated-measures variables or one between-groups variable and one repeated-measures variable (split-plot design). The numbers are given for the traditional, frequentist analysis with p < .05 and Bayesian analysis with BF > 10. These numbers provide researchers with a standard to determine (and justify) the sample size of an upcoming study. The article also describes how researchers can improve the power of their study by including multiple observations per condition per participant.",
+  "authors": [
+    "Marc Brysbaert"
+  ],
+  "year": 2019,
+  "doi": "10.5334/joc.72",
+  "source": "openalex",
+  "categories": [
+    "Frequentist inference",
+    "Variable (mathematics)",
+    "Sample size determination",
+    "Computer science",
+    "Sample (material)",
+    "Statistics",
+    "Research design",
+    "Statistical power",
+    "Power (physics)",
+    "Repeated measures design",
+    "Psychology",
+    "Bayesian probability",
+    "Mathematics",
+    "Bayesian inference",
+    "Mathematical analysis",
+    "Physics",
+    "Chemistry",
+    "Chromatography",
+    "Quantum mechanics"
+  ],
+  "citation_count": 1122,
+  "open_access_pdf_url": "http://www.journalofcognition.org/articles/10.5334/joc.72/galley/167/download/",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2963913216.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:17.066598+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2963913216",
+    "concepts": [
+      "Frequentist inference",
+      "Variable (mathematics)",
+      "Sample size determination",
+      "Computer science",
+      "Sample (material)"
+    ],
+    "oa_status": "gold"
+  }
+}

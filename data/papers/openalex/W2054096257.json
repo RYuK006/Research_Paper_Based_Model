@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W2054096257",
+  "title": "A High Phase-Space-Density Gas of Polar Molecules",
+  "abstract": "A quantum gas of ultracold polar molecules, with long-range and anisotropic interactions, not only would enable explorations of a large class of many-body physics phenomena but also could be used for quantum information processing. We report on the creation of an ultracold dense gas of potassium-rubidium (40K87Rb) polar molecules. Using a single step of STIRAP (stimulated Raman adiabatic passage) with two-frequency laser irradiation, we coherently transfer extremely weakly bound KRb molecules to the rovibrational ground state of either the triplet or the singlet electronic ground molecular potential. The polar molecular gas has a peak density of 10(12) per cubic centimeter and an expansion-determined translational temperature of 350 nanokelvin. The polar molecules have a permanent electric dipole moment, which we measure with Stark spectroscopy to be 0.052(2) Debye (1 Debye = 3.336 x 10(-30) coulomb-meters) for the triplet rovibrational ground state and 0.566(17) Debye for the singlet rovibrational ground state.",
+  "authors": [
+    "Kang-Kuen Ni",
+    "Silke Ospelkaus",
+    "Marcio H. G. de Miranda",
+    "Asaf Pe’er",
+    "Brian Neyenhuis",
+    "J. J. Zirbel",
+    "Svetlana Kotochigova",
+    "Paul S. Julienne",
+    "D. S. Jin",
+    "Jun Ye"
+  ],
+  "year": 2008,
+  "doi": "10.1126/science.1163861",
+  "source": "openalex",
+  "categories": [
+    "Polar",
+    "Gas phase",
+    "Space (punctuation)",
+    "Chemical physics",
+    "Chemical polarity",
+    "Molecule",
+    "Phase (matter)",
+    "Astrobiology",
+    "Physics",
+    "Chemistry",
+    "Computer science",
+    "Thermodynamics",
+    "Astronomy",
+    "Quantum mechanics",
+    "Operating system"
+  ],
+  "citation_count": 1828,
+  "open_access_pdf_url": "https://arxiv.org/pdf/0808.2963",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2054096257.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:22.325235+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2054096257",
+    "concepts": [
+      "Polar",
+      "Gas phase",
+      "Space (punctuation)",
+      "Chemical physics",
+      "Chemical polarity"
+    ],
+    "oa_status": "green"
+  }
+}

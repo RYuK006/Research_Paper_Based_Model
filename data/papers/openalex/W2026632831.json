@@ -1,0 +1,62 @@
+{
+  "id": "openalex:W2026632831",
+  "title": "Pore-scale imaging and modelling",
+  "abstract": "Pore-scale imaging and modelling – digital core analysis – is becoming a routine service in the oil and gas industry, and has potential applications in contaminant transport and carbon dioxide storage. This paper briefly describes the underlying technology, namely imaging of the pore space of rocks from the nanometre scale upwards, coupled with a suite of different numerical techniques for simulating single and multiphase flow and transport through these images. Three example applications are then described, illustrating the range of scientific problems that can be tackled: dispersion in different rock samples that predicts the anomalous transport behaviour characteristic of highly heterogeneous carbonates; imaging of super-critical carbon dioxide in sandstone to demonstrate the possibility of capillary trapping in geological carbon storage; and the computation of relative permeability for mixed-wet carbonates and implications for oilfield waterflood recovery. The paper concludes by discussing limitations and challenges, including finding representative samples, imaging and simulating flow and transport in pore spaces over many orders of magnitude in size, the determination of wettability, and upscaling to the field scale. We conclude that pore-scale modelling is likely to become more widely applied in the oil industry including assessment of unconventional oil and gas resources. It has the potential to transform our understanding of multiphase flow processes, facilitating more efficient oil and gas recovery, effective contaminant removal and safe carbon dioxide storage.",
+  "authors": [
+    "Martin Julian Blunt",
+    "Branko Bijeljic",
+    "Hu Dong",
+    "Oussama Gharbi",
+    "Stefan Iglauer",
+    "Peyman Mostaghimi",
+    "Adriana Paluszny",
+    "Christopher H. Pentland"
+  ],
+  "year": 2012,
+  "doi": "10.1016/j.advwatres.2012.03.003",
+  "source": "openalex",
+  "categories": [
+    "Multiphase flow",
+    "Petroleum engineering",
+    "Enhanced oil recovery",
+    "Carbon sequestration",
+    "Characterisation of pore space in soil",
+    "Relative permeability",
+    "Scale (ratio)",
+    "Carbon capture and storage (timeline)",
+    "Permeability (electromagnetism)",
+    "Capillary action",
+    "Environmental science",
+    "Carbon dioxide",
+    "Geology",
+    "Materials science",
+    "Geotechnical engineering",
+    "Chemistry",
+    "Mechanics",
+    "Porosity",
+    "Oceanography",
+    "Biochemistry",
+    "Membrane",
+    "Organic chemistry",
+    "Composite material",
+    "Climate change",
+    "Physics",
+    "Quantum mechanics"
+  ],
+  "citation_count": 2083,
+  "open_access_pdf_url": "https://www.sciencedirect.com/science/article/pii/S0309170812000528/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2026632831.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:15.466874+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2026632831",
+    "concepts": [
+      "Multiphase flow",
+      "Petroleum engineering",
+      "Enhanced oil recovery",
+      "Carbon sequestration",
+      "Characterisation of pore space in soil"
+    ],
+    "oa_status": "hybrid"
+  }
+}

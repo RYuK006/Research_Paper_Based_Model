@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W2007856779",
+  "title": "The [18F]fluorodeoxyglucose method for the measurement of local cerebral glucose utilization in man.",
+  "abstract": "A method has been developed to measure local glucose consumption in the various structures of the brain in man with three-dimensional resolution. [18F]-2-deoxy-2-fluoro-D-glucose is used as a tracer for the exchange of glucose between plasma and brain and its phosphorylation by hexokinase in the tissue. A mathematical model and derived operational equation are used which enable local cerebral glucose consumption to be calculated in terms of the following measurable variables. An intravenous bolus of [18F]-2-deoxy-2-fluoro-D-glucose is given and the arterial specific activity monitored for a predetermined period of from 30 to 120 minutes. Starting at 30 minutes, the activity in a series of sections through the brain is determined with three-dimensional resolution by an emission tomographic scanner. The method was used to measure local cerebral glucose consumption in two normal volunteers. The values in gray matter structures range from 5.79 mg/100 g per minute in the cerebellar cortex to 10.27 in the visual cortex, whereas, in white matter structures, the values range from 3.64 mg/100 g per minute in the corpus callosum to 4.22 in the occipital lobe. Average values for gray matter, white matter, and whole brain metabolic rates, calculated as a weighted average based on the approximate volume of each structure, are 8.05, 3.80, and 5.90 mg/100 g per minute, respectively. The value of 5.9 mg/100 g per minute compares favorably with values previously reported.",
+  "authors": [
+    "Martin Reivich",
+    "D Kuhl",
+    "Alfred P. Wolf",
+    "Joel H Greenberg",
+    "Michael E. Phelps",
+    "T. Ido",
+    "V Casella",
+    "Joanna S. Fowler",
+    "E Hoffman",
+    "Abass A. Alavi",
+    "Prantika Som",
+    "Louis Sokoloff"
+  ],
+  "year": 1979,
+  "doi": "10.1161/01.res.44.1.127",
+  "source": "openalex",
+  "categories": [
+    "White matter",
+    "Nuclear medicine",
+    "Corpus callosum",
+    "Fluorodeoxyglucose",
+    "Cerebral cortex",
+    "Bolus (digestion)",
+    "Cerebellar cortex",
+    "Chemistry",
+    "Positron emission tomography",
+    "Endocrinology",
+    "Internal medicine",
+    "Cerebellum",
+    "Medicine",
+    "Anatomy",
+    "Magnetic resonance imaging",
+    "Radiology"
+  ],
+  "citation_count": 1236,
+  "open_access_pdf_url": "https://www.ahajournals.org/doi/pdf/10.1161/01.RES.44.1.127",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2007856779.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:02.835240+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2007856779",
+    "concepts": [
+      "White matter",
+      "Nuclear medicine",
+      "Corpus callosum",
+      "Fluorodeoxyglucose",
+      "Cerebral cortex"
+    ],
+    "oa_status": "bronze"
+  }
+}

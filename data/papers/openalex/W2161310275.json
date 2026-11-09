@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W2161310275",
+  "title": "Absorption spectral slopes and slope ratios as indicators of molecular weight, source, and photobleaching of chromophoric dissolved organic matter",
+  "abstract": "A new approach for parameterizing dissolved organic matter (DOM) ultraviolet‐visible absorption spectra is presented. Two distinct spectral slope regions (275‐295 nm and 350‐400 nm) within log‐transformed absorption spectra were used to compare DOM from contrasting water types, ranging from wetlands (Great Dismal Swamp and Suwannee River) to photobleached oceanic water (Atlantic Ocean). On the basis of DOM size‐fractionation studies (ultrafiltration and gel filtration chromatography), the slope of the 275‐295‐nm region and the ratio of these slopes ( S R ; 275‐295‐nm slope : 350‐400‐nm slope) were related to DOM molecular weight (MW) and to photochemically induced shifts in MW. Dark aerobic microbial alteration of chromophoric DOM (CDOM) resulted in spectral slope changes opposite of those caused by photochemistry. Along an axial transect in the Delaware Estuary, large variations in S R were measured, probably due to mixing, photodegradation, and microbial alteration of CDOM as terrestrially derived DOM transited through the estuary. Further, S R varied by over a factor of 13 between DOM‐rich wetland waters and Sargasso Sea surface waters. Currently, there is no consensus on a wavelength range for log‐transformed absorption spectra. We propose that the 275‐295‐nm slope be routinely reported in future DOM studies, as it can be measured with high precision, it facilitates comparison among dissimilar water types including CDOM‐rich wetland and CDOM‐poor marine waters, and it appears to be a good proxy for DOM MW.",
+  "authors": [
+    "John Robert Helms",
+    "Aron Stubbins",
+    "Jason D. Ritchie",
+    "Elizabeth C. Minor",
+    "David J. Kieber",
+    "Kenneth Mopper"
+  ],
+  "year": 2008,
+  "doi": "10.4319/lo.2008.53.3.0955",
+  "source": "openalex",
+  "categories": [
+    "Colored dissolved organic matter",
+    "Dissolved organic carbon",
+    "Spectral slope",
+    "Estuary",
+    "Environmental chemistry",
+    "Photobleaching",
+    "Environmental science",
+    "Chemistry",
+    "Seawater",
+    "Oceanography",
+    "Spectral line",
+    "Geology",
+    "Nutrient",
+    "Phytoplankton",
+    "Fluorescence",
+    "Physics",
+    "Astronomy",
+    "Organic chemistry",
+    "Quantum mechanics"
+  ],
+  "citation_count": 3070,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.4319/lo.2008.53.3.0955",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2161310275.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:01.778589+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2161310275",
+    "concepts": [
+      "Colored dissolved organic matter",
+      "Dissolved organic carbon",
+      "Spectral slope",
+      "Estuary",
+      "Environmental chemistry"
+    ],
+    "oa_status": "bronze"
+  }
+}

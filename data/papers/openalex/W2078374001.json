@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2078374001",
+  "title": "Conformer Generation with OMEGA: Algorithm and Validation Using High Quality Structures from the Protein Databank and Cambridge Structural Database",
+  "abstract": "Here, we present the algorithm and validation for OMEGA, a systematic, knowledge-based conformer generator. The algorithm consists of three phases: assembly of an initial 3D structure from a library of fragments; exhaustive enumeration of all rotatable torsions using values drawn from a knowledge-based list of angles, thereby generating a large set of conformations; and sampling of this set by geometric and energy criteria. Validation of conformer generators like OMEGA has often been undertaken by comparing computed conformer sets to experimental molecular conformations from crystallography, usually from the Protein Databank (PDB). Such an approach is fraught with difficulty due to the systematic problems with small molecule structures in the PDB. Methods are presented to identify a diverse set of small molecule structures from cocomplexes in the PDB that has maximal reliability. A challenging set of 197 high quality, carefully selected ligand structures from well-solved models was obtained using these methods. This set will provide a sound basis for comparison and validation of conformer generators in the future. Validation results from this set are compared to the results using structures of a set of druglike molecules extracted from the Cambridge Structural Database (CSD). OMEGA is found to perform very well in reproducing the crystallographic conformations from both these data sets using two complementary metrics of success.",
+  "authors": [
+    "Paul C. D. Hawkins",
+    "A. Geoffrey Skillman",
+    "Gregory L. Warren",
+    "Benjamin A. Ellingson",
+    "Matthew T. Stahl"
+  ],
+  "year": 2010,
+  "doi": "10.1021/ci100031x",
+  "source": "openalex",
+  "categories": [
+    "Conformational isomerism",
+    "Protein Data Bank (RCSB PDB)",
+    "Protein Data Bank",
+    "Set (abstract data type)",
+    "Generator (circuit theory)",
+    "Algorithm",
+    "Computer science",
+    "Omega",
+    "Database",
+    "Data mining",
+    "Protein structure",
+    "Molecule",
+    "Chemistry",
+    "Physics",
+    "Stereochemistry",
+    "Programming language",
+    "Thermodynamics",
+    "Quantum mechanics",
+    "Power (physics)",
+    "Organic chemistry",
+    "Biochemistry"
+  ],
+  "citation_count": 1666,
+  "open_access_pdf_url": "https://pubs.acs.org/doi/pdf/10.1021/ci100031x",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2078374001.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:37.923655+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2078374001",
+    "concepts": [
+      "Conformational isomerism",
+      "Protein Data Bank (RCSB PDB)",
+      "Protein Data Bank",
+      "Set (abstract data type)",
+      "Generator (circuit theory)"
+    ],
+    "oa_status": "hybrid"
+  }
+}

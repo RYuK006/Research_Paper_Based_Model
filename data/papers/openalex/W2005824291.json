@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2005824291",
+  "title": "An Asymmetric Hybrid Nonaqueous Energy Storage Cell",
+  "abstract": "A nonaqueous asymmetric electrochemical cell technology is presented where the positive electrode stores charge through a reversible nonfaradaic or pseudocapacitive reaction of anions on the surface of an activated carbon positive electrode. The negative electrode is a crystalline intercalation compound which supports the fast reversible intercalation of lithium ions. Using a positive electrode material of activated carbon and newly developed negative electrode material of nanostructured we obtain a cell which exhibits a sloping voltage profile from 3 to 1.5 V, 90% capacity utilization at 10C charge/discharge rates, and 10-15% capacity loss after 5000 cycles. Electrolyte oxidation on the activated carbon positive electrode was characterized in a Li metal asymmetric hybrid cell by cyclic voltammetry. Oxidation during the anodic scan was found to decrease significantly after surface passivation at high voltage and elevated temperatures. We also introduce the asymmetric hybrid technology in a bonded flat plate plastic cell configuration where packaged energy densities were calculated to be in excess of 20 Wh/kg. In addition, a practical method for three-electrode analysis of Li cells by use of a Ag quasi-reference electrode wire is discussed. © 2001 Telcordia Technologies. All rights reserved.",
+  "authors": [
+    "Glenn G. Amatucci",
+    "Fadwa Badway",
+    "A. Du Pasquier",
+    "Tao Zheng"
+  ],
+  "year": 2001,
+  "doi": "10.1149/1.1383553",
+  "source": "openalex",
+  "categories": [
+    "Electrode",
+    "Electrolyte",
+    "Intercalation (chemistry)",
+    "Materials science",
+    "Electrochemistry",
+    "Cyclic voltammetry",
+    "Passivation",
+    "Anode",
+    "Half-cell",
+    "Lithium (medication)",
+    "Chemical engineering",
+    "Palladium-hydrogen electrode",
+    "Inorganic chemistry",
+    "Working electrode",
+    "Analytical Chemistry (journal)",
+    "Chemistry",
+    "Nanotechnology",
+    "Physical chemistry",
+    "Organic chemistry",
+    "Layer (electronics)",
+    "Endocrinology",
+    "Engineering",
+    "Medicine"
+  ],
+  "citation_count": 1202,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1149/1.1383553/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2005824291.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:08.267194+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2005824291",
+    "concepts": [
+      "Electrode",
+      "Electrolyte",
+      "Intercalation (chemistry)",
+      "Materials science",
+      "Electrochemistry"
+    ],
+    "oa_status": "bronze"
+  }
+}

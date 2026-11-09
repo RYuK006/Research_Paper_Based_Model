@@ -1,0 +1,42 @@
+{
+  "id": "openalex:W2012544830",
+  "title": "An Investigation of the Mechanical Properties of Materials at very High Rates of Loading",
+  "abstract": "A method of determining the stress-strain relation of materials when stresses are applied for times of the order of 20 microseconds is described. The apparatus employed was a modification of the Hopkinson pressure bar, and detonators were used to produce large transient stresses. Thin specimens of rubbers, plastics and metals were investigated and the compressions produced were as high as 20% with the softer materials. It was found that whilst Perspex recovered almost as soon as the stress was removed, rubbers and polythene showed delayed recovery, and copper and lead showed irrecoverable flow. The phenomenon of delayed recovery is discussed in terms of the theory of mechanical relaxation and memory effects in the material.",
+  "authors": [
+    "H. Kolsky"
+  ],
+  "year": 1949,
+  "doi": "10.1088/0370-1301/62/11/302",
+  "source": "openalex",
+  "categories": [
+    "Materials science",
+    "Composite material",
+    "Stress relaxation",
+    "Split-Hopkinson pressure bar",
+    "Detonator",
+    "Stress (linguistics)",
+    "Strain rate",
+    "Explosive material",
+    "Creep",
+    "Chemistry",
+    "Organic chemistry",
+    "Linguistics",
+    "Philosophy"
+  ],
+  "citation_count": 3106,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1088/0370-1301/62/11/302/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2012544830.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:57.895126+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2012544830",
+    "concepts": [
+      "Materials science",
+      "Composite material",
+      "Stress relaxation",
+      "Split-Hopkinson pressure bar",
+      "Detonator"
+    ],
+    "oa_status": "bronze"
+  }
+}

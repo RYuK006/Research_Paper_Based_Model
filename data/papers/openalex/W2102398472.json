@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2102398472",
+  "title": "Review of the stability of biochar in soils: predictability of O:C molar ratios",
+  "abstract": "Biochar is not a structured homogeneous material; rather it possesses a range of chemical structures and a heterogeneous elemental composition. This variability is based on the conditions of pyrolysis and the biomass parent material, with biochar spanning the range of various forms of black carbon. Thereby, this variability induces a broad spectrum in the observed rates of reactivity and, correspondingly, the overall chemical and microbial stability. From evaluating the current biochar and black carbon degradation studies, there is the suggestion of an overall relationship in biochar stability as a function of the molar ratio of oxygen to carbon (O:C) in the resulting black carbon. In general, a molar ratio of O:C lower than 0.2 appears to provide, at minimum, a 1000-year biochar half-life. The O:C ratio is a function of production temperature, but also accounts for other impacts (e.g., parent material and post-production conditioning/oxidation) that are not captured solely with production temperature. Therefore, the O:C ratio could provide a more robust indicator of biochar stability than production parameters (e.g., pyrolysis temperature and biomass type) or volatile matter determinations.",
+  "authors": [
+    "Kurt Arnold Spokas"
+  ],
+  "year": 2010,
+  "doi": "10.4155/cmt.10.32",
+  "source": "openalex",
+  "categories": [
+    "Biochar",
+    "Pyrolysis",
+    "Carbon fibers",
+    "Biomass (ecology)",
+    "Carbon black",
+    "Molar ratio",
+    "Soil water",
+    "Chemistry",
+    "Environmental chemistry",
+    "Chemical engineering",
+    "Environmental science",
+    "Materials science",
+    "Soil science",
+    "Organic chemistry",
+    "Agronomy",
+    "Catalysis",
+    "Natural rubber",
+    "Composite material",
+    "Composite number",
+    "Engineering",
+    "Biology"
+  ],
+  "citation_count": 1199,
+  "open_access_pdf_url": "https://www.tandfonline.com/doi/pdf/10.4155/cmt.10.32?needAccess=true",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2102398472.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:08.296967+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2102398472",
+    "concepts": [
+      "Biochar",
+      "Pyrolysis",
+      "Carbon fibers",
+      "Biomass (ecology)",
+      "Carbon black"
+    ],
+    "oa_status": "bronze"
+  }
+}

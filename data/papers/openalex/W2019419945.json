@@ -1,0 +1,35 @@
+{
+  "id": "openalex:W2019419945",
+  "title": "Regulation of Inflammation by Short Chain Fatty Acids",
+  "abstract": "The short chain fatty acids (SCFAs) acetate (C(2)), propionate (C(3)) and butyrate (C(4)) are the main metabolic products of anaerobic bacteria fermentation in the intestine. In addition to their important role as fuel for intestinal epithelial cells, SCFAs modulate different processes in the gastrointestinal (GI) tract such as electrolyte and water absorption. These fatty acids have been recognized as potential mediators involved in the effects of gut microbiota on intestinal immune function. SCFAs act on leukocytes and endothelial cells through at least two mechanisms: activation of GPCRs (GPR41 and GPR43) and inhibiton of histone deacetylase (HDAC). SCFAs regulate several leukocyte functions including production of cytokines (TNF-α, IL-2, IL-6 and IL-10), eicosanoids and chemokines (e.g., MCP-1 and CINC-2). The ability of leukocytes to migrate to the foci of inflammation and to destroy microbial pathogens also seems to be affected by the SCFAs. In this review, the latest research that describes how SCFAs regulate the inflammatory process is presented. The effects of these fatty acids on isolated cells (leukocytes, endothelial and intestinal epithelial cells) and, particularly, on the recruitment and activation of leukocytes are discussed. Therapeutic application of these fatty acids for the treatment of inflammatory pathologies is also highlighted.",
+  "authors": [
+    "Marco Aurélio Ramirez Vinolo",
+    "Hosana Gomes Rodrigues",
+    "Renato Tadeu Nachbar",
+    "Rui Curi"
+  ],
+  "year": 2011,
+  "doi": "10.3390/nu3100858",
+  "source": "openalex",
+  "categories": [
+    "Inflammation",
+    "Chemistry",
+    "Medicine",
+    "Immunology"
+  ],
+  "citation_count": 1770,
+  "open_access_pdf_url": "https://www.mdpi.com/2072-6643/3/10/858/pdf?version=1318584908",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2019419945.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:26.091990+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2019419945",
+    "concepts": [
+      "Inflammation",
+      "Chemistry",
+      "Medicine",
+      "Immunology"
+    ],
+    "oa_status": "gold"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2046439097",
+  "title": "Topological Entanglement Entropy",
+  "abstract": "We formulate a universal characterization of the many-particle quantum entanglement in the ground state of a topologically ordered two-dimensional medium with a mass gap. We consider a disk in the plane, with a smooth boundary of length L, large compared to the correlation length. In the ground state, by tracing out all degrees of freedom in the exterior of the disk, we obtain a marginal density operator rho for the degrees of freedom in the interior. The von Neumann entropy of rho, a measure of the entanglement of the interior and exterior variables, has the form S(rho) = alphaL - gamma + ..., where the ellipsis represents terms that vanish in the limit L --> infinity. We show that - gamma is a universal constant characterizing a global feature of the entanglement in the ground state. Using topological quantum field theory methods, we derive a formula for gamma in terms of properties of the superselection sectors of the medium.",
+  "authors": [
+    "Alexei Kitaev",
+    "John P. Preskill"
+  ],
+  "year": 2006,
+  "doi": "10.1103/physrevlett.96.110404",
+  "source": "openalex",
+  "categories": [
+    "Quantum entanglement",
+    "Physics",
+    "Von Neumann entropy",
+    "Topological entropy in physics",
+    "Ground state",
+    "Entropy (arrow of time)",
+    "Mass gap",
+    "Quantum mechanics",
+    "Operator (biology)",
+    "Quantum",
+    "Topology (electrical circuits)",
+    "Mathematical physics",
+    "Mathematics",
+    "Topological quantum number",
+    "Combinatorics",
+    "Biochemistry",
+    "Repressor",
+    "Chemistry",
+    "Transcription factor",
+    "Gene"
+  ],
+  "citation_count": 2570,
+  "open_access_pdf_url": "https://arxiv.org/pdf/hep-th/0510092",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2046439097.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:04.294471+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2046439097",
+    "concepts": [
+      "Quantum entanglement",
+      "Physics",
+      "Von Neumann entropy",
+      "Topological entropy in physics",
+      "Ground state"
+    ],
+    "oa_status": "green"
+  }
+}

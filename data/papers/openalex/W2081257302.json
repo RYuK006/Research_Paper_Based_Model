@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2081257302",
+  "title": "Finite Unitary Reflection Groups",
+  "abstract": "Any finite group of linear transformations onnvariables leaves invariant a positive definite Hermitian form, and can therefore be expressed, after a suitable change of variables, as a group of unitary transformations (5, p. 257). Such a group may be thought of as a group of congruent transformations, keeping the origin fixed, in a unitary space Unofndimensions, in which the points are specified by complex vectors withncomponents, and the distance between two points is the norm of the difference between their corresponding vectors.",
+  "authors": [
+    "Geoffrey C. Shephard",
+    "J. A. Todd"
+  ],
+  "year": 1954,
+  "doi": "10.4153/cjm-1954-028-3",
+  "source": "openalex",
+  "categories": [
+    "Mathematics",
+    "Unitary state",
+    "Hermitian matrix",
+    "Pure mathematics",
+    "Invariant (physics)",
+    "Group (periodic table)",
+    "Unitary group",
+    "Sesquilinear form",
+    "Norm (philosophy)",
+    "Positive-definite matrix",
+    "Algebra over a field",
+    "Eigenvalues and eigenvectors",
+    "Organic chemistry",
+    "Political science",
+    "Mathematical physics",
+    "Physics",
+    "Quantum mechanics",
+    "Chemistry",
+    "Law"
+  ],
+  "citation_count": 1153,
+  "open_access_pdf_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/4A59731DC35C3FEC99F39EB2C009FE3E/S0008414X00023725a.pdf/div-class-title-finite-unitary-reflection-groups-div.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2081257302.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:14.561354+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2081257302",
+    "concepts": [
+      "Mathematics",
+      "Unitary state",
+      "Hermitian matrix",
+      "Pure mathematics",
+      "Invariant (physics)"
+    ],
+    "oa_status": "bronze"
+  }
+}

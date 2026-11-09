@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W1996352962",
+  "title": "Postsynthetic Modifications of Iron-Carboxylate Nanoscale Metal−Organic Frameworks for Imaging and Drug Delivery",
+  "abstract": "Fe(III)-carboxylate nanoscale metal-organic frameworks (NMOFs) with the MIL-101 structure were synthesized using a solvothermal technique with microwave heating. The approximately 200 nm particles were characterized using a variety of methods, including SEM, PXRD, nitrogen adsorption measurements, TGA, and EDX. By replacing a percentage of the bridging ligand (terephthalic acid) with 2-amino terephthalic acid, amine groups were incorporated into the framework to provide sites for covalent attachment of biologically relevant cargoes while still maintaining the MIL-101 structure. In proof-of-concept experiments, an optical contrast agent (a BODIPY dye) and an ethoxysuccinato-cisplatin anticancer prodrug were successfully incorporated into the Fe(III)-carboxylate NMOFs via postsynthetic modifications of the as-synthesized particles. These cargoes are released upon the degradation of the NMOF frameworks, and the rate of cargo release was controlled by coating the NMOF particles with a silica shell. Potential utility of the new NMOF-based nanodelivery vehicles for optical imaging and anticancer therapy was demonstrated in vitro using HT-29 human colon adenocarcinoma cells.",
+  "authors": [
+    "Kathryn M. L. Taylor-Pashow",
+    "Joseph Della Rocca",
+    "Zhigang Xie",
+    "Sylvie Tran",
+    "Wenbin Lin"
+  ],
+  "year": 2009,
+  "doi": "10.1021/ja906198y",
+  "source": "openalex",
+  "categories": [
+    "Chemistry",
+    "Metal-organic framework",
+    "Carboxylate",
+    "Terephthalic acid",
+    "Drug delivery",
+    "Covalent bond",
+    "Nanotechnology",
+    "Nuclear chemistry",
+    "Adsorption",
+    "Combinatorial chemistry",
+    "Polymer chemistry",
+    "Organic chemistry",
+    "Polyester",
+    "Materials science"
+  ],
+  "citation_count": 1542,
+  "open_access_pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/2760011",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1996352962.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:45.350715+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1996352962",
+    "concepts": [
+      "Chemistry",
+      "Metal-organic framework",
+      "Carboxylate",
+      "Terephthalic acid",
+      "Drug delivery"
+    ],
+    "oa_status": "green"
+  }
+}

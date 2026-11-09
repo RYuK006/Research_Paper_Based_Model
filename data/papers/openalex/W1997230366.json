@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W1997230366",
+  "title": "Evolution of Electronic Structure in Atomically Thin Sheets of WS 2 and WSe 2",
+  "abstract": "Geometrical confinement effect in exfoliated sheets of layered materials leads to significant evolution of energy dispersion in mono- to few-layer thickness regime. Molybdenum disulfide (MoS(2)) was recently found to exhibit indirect-to-direct gap transition when the thickness is reduced to a single monolayer. Emerging photoluminescence (PL) from monolayer MoS(2) opens up opportunities for a range of novel optoelectronic applications of the material. Here we report differential reflectance and PL spectra of mono- to few-layer WS(2) and WSe(2) that indicate that the band structure of these materials undergoes similar indirect-to-direct gap transition when thinned to a single monolayer. The transition is evidenced by distinctly enhanced PL peak centered at 630 and 750 nm in monolayer WS(2) and WSe(2), respectively. Few-layer flakes are found to exhibit comparatively strong indirect gap emission along with direct gap hot electron emission, suggesting high quality of synthetic crystals prepared by a chemical vapor transport method. Fine absorption and emission features and their thickness dependence suggest a strong effect of Se p-orbitals on the d electron band structure as well as interlayer coupling in WSe(2).",
+  "authors": [
+    "Weijie Zhao",
+    "Zohreh Ghorannevis",
+    "Leiqiang Chu",
+    "Minglin Toh",
+    "Christian Kloc",
+    "Ping‐Heng Tan",
+    "Goki Eda"
+  ],
+  "year": 2012,
+  "doi": "10.1021/nn305275h",
+  "source": "openalex",
+  "categories": [
+    "Photoluminescence",
+    "Materials science",
+    "Monolayer",
+    "Exciton",
+    "Band gap",
+    "Direct and indirect band gaps",
+    "Optoelectronics",
+    "Quantum yield",
+    "Molecular physics",
+    "Condensed matter physics",
+    "Nanotechnology",
+    "Optics",
+    "Chemistry",
+    "Physics",
+    "Fluorescence"
+  ],
+  "citation_count": 2153,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1212.5415",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1997230366.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:12.730683+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1997230366",
+    "concepts": [
+      "Photoluminescence",
+      "Materials science",
+      "Monolayer",
+      "Exciton",
+      "Band gap"
+    ],
+    "oa_status": "green"
+  }
+}

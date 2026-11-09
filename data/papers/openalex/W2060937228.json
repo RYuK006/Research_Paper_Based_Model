@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2060937228",
+  "title": "First-principles prediction of redox potentials in transition-metal compounds with LDA + U",
+  "abstract": "First-principles calculations within the local density approximation (LDA) or generalized gradient approximation (GGA), though very successful, are known to underestimate redox potentials, such as those at which lithium intercalates in transition metal compounds. We argue that this inaccuracy is related to the lack of cancellation of electron self-interaction errors in LDA/GGA and can be improved by using the $\\mathrm{DFT}+U$ method with a self-consistent evaluation of the $U$ parameter. We show that, using this approach, the experimental lithium intercalation voltages of a number of transition metal compounds, including the olivine ${\\mathrm{Li}}_{x}{\\mathrm{MPO}}_{4}$ ($\\mathrm{M}=\\mathrm{Mn}$, Fe Co, Ni), layered ${\\mathrm{Li}}_{x}{\\mathrm{MO}}_{2}$ ($x=\\mathrm{Co}$, Ni) and spinel-like ${\\mathrm{Li}}_{x}{\\mathrm{M}}_{2}{\\mathrm{O}}_{4}$ ($\\mathrm{M}=\\mathrm{Mn}$, Co), can be reproduced accurately.",
+  "authors": [
+    "F. Zhou",
+    "Matteo Cococcioni",
+    "Chris A. Marianetti",
+    "Dane D. Morgan",
+    "Gerd Ceder"
+  ],
+  "year": 2004,
+  "doi": "10.1103/physrevb.70.235121",
+  "source": "openalex",
+  "categories": [
+    "Intercalation (chemistry)",
+    "Lithium (medication)",
+    "Spinel",
+    "Redox",
+    "Transition metal",
+    "Olivine",
+    "Metal",
+    "Materials science",
+    "Physical chemistry",
+    "Chemistry",
+    "Inorganic chemistry",
+    "Mineralogy",
+    "Metallurgy",
+    "Endocrinology",
+    "Medicine",
+    "Catalysis",
+    "Biochemistry"
+  ],
+  "citation_count": 1099,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0406382",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2060937228.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:24.231871+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2060937228",
+    "concepts": [
+      "Intercalation (chemistry)",
+      "Lithium (medication)",
+      "Spinel",
+      "Redox",
+      "Transition metal"
+    ],
+    "oa_status": "green"
+  }
+}

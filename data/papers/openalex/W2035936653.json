@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2035936653",
+  "title": "PD 098059 Is a Specific Inhibitor of the Activation of Mitogen-activated Protein Kinase Kinase in Vitro and in Vivo",
+  "abstract": "PD 098059 has been shown previously to inhibit the dephosphorylated form of mitogen-activated protein kinase kinase-1 (MAPKK1) and a mutant MAPKK1(S217E,S221E), which has low levels of constitutive activity (Dudley, D. T., Pang, L., Decker, S. J., Bridges, A. J., and Saltiel, A. R. (1995) Proc. Natl. Acad. Sci. U.S.A. 92, 7686-7689). Here we report that PD 098059 does not inhibit Raf-activated MAPKK1 but that it prevents the activation of MAPKK1 by Raf or MEK kinase in vitro at concentrations (IC50 = 2-7 microM) similar to those concentrations that inhibit dephosphorylated MAPKK1 or MAPKK1(S217E,S221E). PD 098059 inhibited the activation of MAPKK2 by Raf with a much higher IC50 value (50 microM) and did not inhibit the phosphorylation of other Raf or MEK kinase substrates, indicating that it exerts its effect by binding to the inactive form of MAPKK1. PD 098059 also acts as a specific inhibitor of the activation of MAPKK in Swiss 3T3 cells, suppressing by 80-90% its activation by a variety of agonists. The high degree of specificity of PD 098059 in vitro and in vivo is indicated by its failure to inhibit 18 protein Ser/Thr kinases (including two other MAPKK homologues) in vitro by its failure to inhibit the in vivo activation of MAPKK and MAP kinase homologues that participate in stress and interleukin-1-stimulated kinase cascades in KB and PC12 cells, and by lack of inhibition of the activation of p70 S6 kinase by insulin or epidermal growth factor in Swiss 3T3 cells. PD 098059 (50 microM) inhibited the activation of p42MAPK and isoforms of MAP kinase-activated protein kinase-1 in Swiss 3T3 cells, but the extent of inhibition depended on how potently c-Raf and MAPKK were activated by any particular agonist and demonstrated the enormous amplification potential of this kinase cascade. PD 098059 not only failed to inhibit the activation of Raf by platelet-derived growth factor, serum, insulin, and phorbol esters in Swiss 3T3 cells but actually enhanced Raf activity. The rate of activation of Raf by platelet-derived growth factor was increased 3-fold, and the subsequent inactivation that occurred after 10 min was prevented. These results indicate that the activation of Raf is suppressed and that its inactivation is accelerated by a downstream component(s) of the MAP kinase pathway.",
+  "authors": [
+    "Dario R. Alessi",
+    "Ana Cuenda",
+    "Philip Cohen",
+    "David T. Dudley",
+    "Alan R. Saltiel"
+  ],
+  "year": 1995,
+  "doi": "10.1074/jbc.270.46.27489",
+  "source": "openalex",
+  "categories": [
+    "Kinase",
+    "Mitogen-activated protein kinase kinase",
+    "In vivo",
+    "Protein kinase A",
+    "MAP kinase kinase kinase",
+    "In vitro",
+    "Mitogen-activated protein kinase",
+    "Cell biology",
+    "P70-S6 Kinase 1",
+    "Phosphorylation",
+    "Chemistry",
+    "Molecular biology",
+    "Biology",
+    "Biochemistry",
+    "Protein kinase B",
+    "Biotechnology"
+  ],
+  "citation_count": 3374,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925818879807/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2035936653.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:57.763639+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2035936653",
+    "concepts": [
+      "Kinase",
+      "Mitogen-activated protein kinase kinase",
+      "In vivo",
+      "Protein kinase A",
+      "MAP kinase kinase kinase"
+    ],
+    "oa_status": "hybrid"
+  }
+}

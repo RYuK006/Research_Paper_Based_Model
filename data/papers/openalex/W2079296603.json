@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2079296603",
+  "title": "Covalent adaptable networks: smart, reconfigurable and responsive network systems",
+  "abstract": "Covalently crosslinked materials, classically referred to as thermosets, represent a broad class of elastic materials that readily retain their shape and molecular architecture through covalent bonds that are ubiquitous throughout the network structure. These materials, in particular in their swollen gel state, have been widely used as stimuli responsive materials with their ability to change volume in response to changes in temperature, pH, or other solvent conditions and have also been used in shape memory applications. However, the existence of a permanent, unalterable shape and structure dictated by the covalently crosslinked structure has dramatically limited their abilities in this and many other areas. These materials are not generally reconfigurable, recyclable, reprocessable, and have limited ability to alter permanently their stress state, topography, topology, or structure. Recently, a new paradigm has been explored in crosslinked polymers - that of covalent adaptable networks (CANs) in which covalently crosslinked networks are formed such that triggerable, reversible chemical structures persist throughout the network. These reversible covalent bonds can be triggered through molecular triggers, light or other incident radiation, or temperature changes. Upon application of this stimulus, rather than causing a temporary shape change, the CAN structure responds by permanently adjusting its structure through either reversible addition/condensation or through reversible bond exchange mechanisms, either of which allow the material to essentially reequilibrate to its new state and condition. Here, we provide a tutorial review on these materials and their responsiveness to applied stimuli. In particular, we review the broad classification of these materials, the nature of the chemical bonds that enable the adaptable structure, how the properties of these materials depend on the reversible structure, and how the application of a stimulus causes these materials to alter their shape, topography, and properties.",
+  "authors": [
+    "Christopher J. Kloxin",
+    "Christopher N. Bowman"
+  ],
+  "year": 2013,
+  "doi": "10.1039/c3cs60046g",
+  "source": "openalex",
+  "categories": [
+    "Covalent bond",
+    "Network covalent bonding",
+    "Smart material",
+    "Dynamic covalent chemistry",
+    "Nanotechnology",
+    "Polymer",
+    "Materials science",
+    "Smart polymer",
+    "Molecular switch",
+    "Molecule",
+    "Chemical bond",
+    "Network structure",
+    "Polymer science",
+    "Chemical physics",
+    "Chemistry",
+    "Computer science",
+    "Organic chemistry",
+    "Composite material",
+    "Supramolecular chemistry",
+    "Machine learning"
+  ],
+  "citation_count": 1418,
+  "open_access_pdf_url": "https://pubs.rsc.org/en/content/articlepdf/2013/cs/c3cs60046g",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2079296603.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:50.643525+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2079296603",
+    "concepts": [
+      "Covalent bond",
+      "Network covalent bonding",
+      "Smart material",
+      "Dynamic covalent chemistry",
+      "Nanotechnology"
+    ],
+    "oa_status": "hybrid"
+  }
+}

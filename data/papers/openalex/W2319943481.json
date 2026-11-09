@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2319943481",
+  "title": "On the application of the tolerance factor to inorganic and hybrid halide perovskites: a revised system",
+  "abstract": "The tolerance factor is a widely used predictor of perovskite stability. The recent interest in hybrid perovskites for use as solar cell absorbers has lead to application of the tolerance factor to these materials as a way to explain and predict structure. Here we critically assess the suitability of the tolerance factor for halide perovskites. We show that the tolerance factor fails to accurately predict the stability of the 32 known inorganic iodide perovskites, and propose an alternative method. We introduce a revised set of ionic radii for cations that is anion dependent, this revision is necessary due to increased covalency in metal-halide bonds for heavier halides compared with the metal-oxide and fluoride bonds used to calculate Shannon radii. We also employ a 2D structural map to account for the size requirements of the halide anions. Together these measures yield a simple system which may assist in the search for new hybrid and inorganic perovskites.",
+  "authors": [
+    "Will Travis",
+    "Emily N. K. Glover",
+    "Hugo A. Bronstein",
+    "David O. Scanlon",
+    "Robert G. Palgrave"
+  ],
+  "year": 2016,
+  "doi": "10.1039/c5sc04845a",
+  "source": "openalex",
+  "categories": [
+    "Halide",
+    "Ionic radius",
+    "Perovskite (structure)",
+    "Iodide",
+    "Metal",
+    "Inorganic chemistry",
+    "Fluoride",
+    "Ionic bonding",
+    "Yield (engineering)",
+    "Oxide",
+    "Metal halides",
+    "Chemistry",
+    "Materials science",
+    "Chemical physics",
+    "Ion",
+    "Crystallography",
+    "Organic chemistry",
+    "Metallurgy"
+  ],
+  "citation_count": 1211,
+  "open_access_pdf_url": "https://pubs.rsc.org/en/content/articlepdf/2016/sc/c5sc04845a",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2319943481.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:04.764705+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2319943481",
+    "concepts": [
+      "Halide",
+      "Ionic radius",
+      "Perovskite (structure)",
+      "Iodide",
+      "Metal"
+    ],
+    "oa_status": "diamond"
+  }
+}

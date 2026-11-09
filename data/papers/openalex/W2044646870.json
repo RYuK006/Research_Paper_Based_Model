@@ -1,0 +1,38 @@
+{
+  "id": "openalex:W2044646870",
+  "title": "Bacterial lipolytic enzymes: classification and properties",
+  "abstract": "Knowledge of bacterial lipolytic enzymes is increasing at a rapid and exciting rate. To obtain an overview of this industrially very important class of enzymes and their characteristics, we have collected and classified the information available from protein and nucleotide databases. Here we propose an updated and extensive classification of bacterial esterases and lipases based mainly on a comparison of their amino acid sequences and some fundamental biological properties. These new insights result in the identification of eight different families with the largest being further divided into six subfamilies. Moreover, the classification enables us to predict (1) important structural features such as residues forming the catalytic site or the presence of disulphide bonds, (2) types of secretion mechanism and requirement for lipase-specific foldases, and (3) the potential relationship to other enzyme families. This work will therefore contribute to a faster identification and to an easier characterization of novel bacterial lipolytic enzymes.",
+  "authors": [
+    "J. L. Arpigny",
+    "Karl‐Erich Jaeger"
+  ],
+  "year": 1999,
+  "doi": "10.1042/bj3430177",
+  "source": "openalex",
+  "categories": [
+    "Lipase",
+    "Enzyme",
+    "Biochemistry",
+    "Identification (biology)",
+    "Computational biology",
+    "Biology",
+    "Chemistry",
+    "Ecology"
+  ],
+  "citation_count": 1244,
+  "open_access_pdf_url": "https://portlandpress.com/biochemj/article-pdf/343/1/177/795092/bj3430177.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2044646870.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:02.759310+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2044646870",
+    "concepts": [
+      "Lipase",
+      "Enzyme",
+      "Biochemistry",
+      "Identification (biology)",
+      "Computational biology"
+    ],
+    "oa_status": "bronze"
+  }
+}

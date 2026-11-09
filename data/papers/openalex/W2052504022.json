@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2052504022",
+  "title": "Recombination in polymer-fullerene bulk heterojunction solar cells",
+  "abstract": "Recombination of photogenerated charge carriers in polymer bulk heterojunction (BHJ) solar cells reduces the short circuit current $({J}_{sc})$ and the fill factor (FF). Identifying the mechanism of recombination is, therefore, fundamentally important for increasing the power conversion efficiency. Light intensity and temperature-dependent current-voltage measurements on polymer BHJ cells made from a variety of different semiconducting polymers and fullerenes show that the recombination kinetics are voltage dependent and evolve from first-order recombination at short circuit to bimolecular recombination at open circuit as a result of increasing the voltage-dependent charge carrier density in the cell. The ``missing 0.3 V'' inferred from comparison of the band gaps of the bulk heterojunction materials and the measured open-circuit voltage at room-temperature results from the temperature dependence of the quasi-Fermi levels in the polymer and fullerene domains---a conclusion based on the fundamental statistics of fermions.",
+  "authors": [
+    "Sarah R. Cowan",
+    "Anshuman Roy",
+    "Alan J. Heeger"
+  ],
+  "year": 2010,
+  "doi": "10.1103/physrevb.82.245207",
+  "source": "openalex",
+  "categories": [
+    "Open-circuit voltage",
+    "Polymer solar cell",
+    "Materials science",
+    "Fullerene",
+    "Recombination",
+    "Optoelectronics",
+    "Charge carrier",
+    "Polymer",
+    "Heterojunction",
+    "Solar cell",
+    "Voltage",
+    "Chemical physics",
+    "Chemistry",
+    "Physics",
+    "Gene",
+    "Quantum mechanics",
+    "Organic chemistry",
+    "Composite material",
+    "Biochemistry"
+  ],
+  "citation_count": 2096,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1010.5021",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2052504022.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:15.436415+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2052504022",
+    "concepts": [
+      "Open-circuit voltage",
+      "Polymer solar cell",
+      "Materials science",
+      "Fullerene",
+      "Recombination"
+    ],
+    "oa_status": "green"
+  }
+}

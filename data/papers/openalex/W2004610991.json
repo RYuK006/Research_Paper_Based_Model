@@ -1,0 +1,58 @@
+{
+  "id": "openalex:W2004610991",
+  "title": "Self-Motile Colloidal Particles: From Directed Propulsion to Random Walk",
+  "abstract": "The motion of an artificial microscale swimmer that uses a chemical reaction catalyzed on its own surface to achieve autonomous propulsion is fully characterized experimentally. It is shown that at short times it has a substantial component of directed motion, with a velocity that depends on the concentration of fuel molecules. At longer times, the motion reverts to a random walk with a substantially enhanced diffusion coefficient. Our results suggest strategies for designing artificial chemotactic systems.",
+  "authors": [
+    "Jonathan R. Howse",
+    "Richard Jones",
+    "Anthony John Ryan",
+    "Tim D. Gough",
+    "Reza Vafabakhsh",
+    "Ramin Golestanian"
+  ],
+  "year": 2007,
+  "doi": "10.1103/physrevlett.99.048102",
+  "source": "openalex",
+  "categories": [
+    "Propulsion",
+    "Random walk",
+    "Microscale chemistry",
+    "Motion (physics)",
+    "Active matter",
+    "Diffusion",
+    "Component (thermodynamics)",
+    "Brownian motion",
+    "Colloid",
+    "Chemical physics",
+    "Physics",
+    "Statistical physics",
+    "Materials science",
+    "Nanotechnology",
+    "Classical mechanics",
+    "Chemistry",
+    "Thermodynamics",
+    "Physical chemistry",
+    "Mathematics",
+    "Quantum mechanics",
+    "Statistics",
+    "Biology",
+    "Cell biology",
+    "Mathematics education"
+  ],
+  "citation_count": 2237,
+  "open_access_pdf_url": "https://arxiv.org/pdf/0706.4406",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2004610991.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:12.591646+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2004610991",
+    "concepts": [
+      "Propulsion",
+      "Random walk",
+      "Microscale chemistry",
+      "Motion (physics)",
+      "Active matter"
+    ],
+    "oa_status": "green"
+  }
+}

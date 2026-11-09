@@ -1,0 +1,45 @@
+{
+  "id": "openalex:W1913780655",
+  "title": "Anti–PD-1/PD-L1 therapy of human cancer: past, present, and future",
+  "abstract": "Major progress has been made toward our understanding of the programmed death-1/programmed death ligand-1 (PD-1/PD-L1) pathway (referred to as the PD pathway). mAbs are already being used to block the PD pathway to treat human cancers (anti-PD therapy), especially advanced solid tumors. This therapy is based on principles that were discovered through basic research more than a decade ago, but the great potential of this pathway to treat a broad spectrum of advanced human cancers is just now becoming apparent. In this Review, we will briefly review the history and development of anti-PD therapy, from the original benchwork to the most up-to-date clinical results. We will then focus the discussion on three basic principles that define this unique therapeutic approach and highlight how anti-PD therapy is distinct from other immunotherapeutic approaches, namely tumor site immune modulation, targeting tumor-induced immune defects, and repairing ongoing (rather than generating de novo) tumor immunity. We believe that these fundamental principles set the standard for future immunotherapies and will guide our efforts to develop more efficacious and less toxic immune therapeutics to treat human cancers.",
+  "authors": [
+    "Lieping Chen",
+    "Xue Na Han"
+  ],
+  "year": 2015,
+  "doi": "10.1172/jci80011",
+  "source": "openalex",
+  "categories": [
+    "Medicine",
+    "Cancer therapy",
+    "Immune system",
+    "Immunotherapy",
+    "Cancer",
+    "PD-L1",
+    "Immune modulation",
+    "Broad spectrum",
+    "Immunology",
+    "Cancer research",
+    "Bioinformatics",
+    "Biology",
+    "Internal medicine",
+    "Chemistry",
+    "Combinatorial chemistry"
+  ],
+  "citation_count": 1455,
+  "open_access_pdf_url": "http://www.jci.org/articles/view/80011/files/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1913780655.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:48.243610+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1913780655",
+    "concepts": [
+      "Medicine",
+      "Cancer therapy",
+      "Immune system",
+      "Immunotherapy",
+      "Cancer"
+    ],
+    "oa_status": "bronze"
+  }
+}

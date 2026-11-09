@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2160474674",
+  "title": "Gas exchange measurements, what can they tell us about the underlying limitations to photosynthesis? Procedures and sources of error",
+  "abstract": "The principles, equipment and procedures for measuring leaf and canopy gas exchange have been described previously as has chlorophyll fluorescence. Simultaneous measurement of the responses of leaf gas exchange and modulated chlorophyll fluorescence to light and CO2 concentration now provide a means to determine a wide range of key biochemical and biophysical limitations on photo synthesis in vivo. Here the mathematical frameworks and practical procedures for determining these parameters in vivo are consolidated. Leaf CO2 uptake (A) versus intercellular CO2 concentration (Ci) curves may now be routinely obtained from commercial gas exchange systems. The potential pitfalls, and means to avoid these, are examined. Calculation of in vivo maximum rates of ribulose-1,5-bisphosphate (RuBP) carboxylase/oxygenase (Rubisco) carboxylation (Vc,max), electron transport driving regeneration of RuBP (Jmax), and triose-phosphate utilization (VTPU) are explained; these three parameters are now widely assumed to represent the major limitations to light-saturated photosynthesis. Precision in determining these in intact leaves is improved by the simultaneous measurement of electron transport via modulated chlorophyll fluorescence. The A/Ci response also provides a simple practical method for quantifying the limitation that stomata impose on CO2 assimilation. Determining the rate of photorespiratory release of oxygen (Rl) has previously only been possible by isotopic methods, now, by combining gas exchange and fluorescence measurements, Rl may be determined simply and routinely in the field. The physical diffusion of CO2 from the intercellular air space to the site of Rubisco in C3 leaves has long been suspected of being a limitation on photosynthesis, but it has commonly been ignored because of the lack of a practical method for its determination. Again combining gas exchange and fluorescence provides a means to determine mesophyll conductance. This method is described and provides insights into the magnitude and basis of this limitation.",
+  "authors": [
+    "Stephen P. Long"
+  ],
+  "year": 2003,
+  "doi": "10.1093/jxb/erg262",
+  "source": "openalex",
+  "categories": [
+    "Photosynthesis",
+    "RuBisCO",
+    "Photorespiration",
+    "Chlorophyll fluorescence",
+    "Electron transport chain",
+    "Carboxylation",
+    "Canopy",
+    "Chlorophyll",
+    "Chemistry",
+    "Biological system",
+    "Fluorescence",
+    "Biophysics",
+    "Botany",
+    "Environmental science",
+    "Biochemistry",
+    "Biology",
+    "Physics",
+    "Optics",
+    "Catalysis"
+  ],
+  "citation_count": 1274,
+  "open_access_pdf_url": "https://academic.oup.com/jxb/article-pdf/54/392/2393/1721442/erg262.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2160474674.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:00.519955+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2160474674",
+    "concepts": [
+      "Photosynthesis",
+      "RuBisCO",
+      "Photorespiration",
+      "Chlorophyll fluorescence",
+      "Electron transport chain"
+    ],
+    "oa_status": "bronze"
+  }
+}

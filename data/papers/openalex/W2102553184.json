@@ -1,0 +1,59 @@
+{
+  "id": "openalex:W2102553184",
+  "title": "Aerosol properties over bright-reflecting source regions",
+  "abstract": "Retrieving aerosol properties from satellite remote sensing over a bright surface is a challenging problem in the research of atmospheric and land applications. In this paper we propose a new approach to retrieve aerosol properties over surfaces such as arid, semiarid, and urban areas, where the surface reflectance is usually very bright in the red part of visible spectrum and in the near infrared, but is much darker in the blue spectral region (i.e., wavelength <500 nm). In order to infer atmospheric properties from these data, a global surface reflectance database of 0.1/spl deg/ latitude by 0.1/spl deg/ longitude resolution was constructed over bright surfaces for visible wavelengths using the minimum reflectivity technique (e.g., finding the clearest scene during each season for a given location). The aerosol optical thickness and aerosol type are then determined simultaneously in the algorithm using lookup tables to match the satellite observed spectral radiances. Examples of aerosol optical thickness derived using this algorithm over the Sahara Desert and Arabian Peninsula reveal various dust sources, which are important contributors to airborne dust transported over long distances. Comparisons of the satellite inferred aerosol optical thickness and the values from ground-based Aerosol Robotic Network (AERONET) sun/sky radiometer measurements indicate good agreement (i.e., within 30%) over the sites in Nigeria and Saudi Arabia. This new algorithm, when applied to Moderate Resolution Imaging Spectroradiometer (MODIS), Sea-viewing Wide Field of view Sensor (SeaWiFS), and Global Imager (GLI) satellite data, will provide high spatial resolution (/spl sim/1 km) global information of aerosol optical thickness over bright surfaces on a daily basis.",
+  "authors": [
+    "N. C. Hsu",
+    "Si‐Chee Tsay",
+    "Michael D. King",
+    "J. R. Herman"
+  ],
+  "year": 2004,
+  "doi": "10.1109/tgrs.2004.824067",
+  "source": "openalex",
+  "categories": [
+    "Aerosol",
+    "AERONET",
+    "Remote sensing",
+    "SeaWiFS",
+    "Moderate-resolution imaging spectroradiometer",
+    "Satellite",
+    "Environmental science",
+    "Radiometer",
+    "Spectroradiometer",
+    "Atmospheric correction",
+    "Ocean color",
+    "Longitude",
+    "Spectral bands",
+    "Atmospheric optics",
+    "Latitude",
+    "Meteorology",
+    "Reflectivity",
+    "Geology",
+    "Geography",
+    "Physics",
+    "Optics",
+    "Organic chemistry",
+    "Chemistry",
+    "Phytoplankton",
+    "Geodesy",
+    "Astronomy",
+    "Nutrient"
+  ],
+  "citation_count": 1306,
+  "open_access_pdf_url": "https://mdsoar.org/bitstreams/3a0645fc-e33a-4778-b121-5aff3b2227a1/download",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2102553184.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:57.778603+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2102553184",
+    "concepts": [
+      "Aerosol",
+      "AERONET",
+      "Remote sensing",
+      "SeaWiFS",
+      "Moderate-resolution imaging spectroradiometer"
+    ],
+    "oa_status": "green"
+  }
+}

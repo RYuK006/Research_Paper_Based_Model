@@ -1,0 +1,40 @@
+{
+  "id": "openalex:W2736178248",
+  "title": "Analyzing Reaction Rates with the Distortion/Interaction‐Activation Strain Model",
+  "abstract": "The activation strain or distortion/interaction model is a tool to analyze activation barriers that determine reaction rates. For bimolecular reactions, the activation energies are the sum of the energies to distort the reactants into geometries they have in transition states plus the interaction energies between the two distorted molecules. The energy required to distort the molecules is called the activation strain or distortion energy. This energy is the principal contributor to the activation barrier. The transition state occurs when this activation strain is overcome by the stabilizing interaction energy. Following the changes in these energies along the reaction coordinate gives insights into the factors controlling reactivity. This model has been applied to reactions of all types in both organic and inorganic chemistry, including substitutions and eliminations, cycloadditions, and several types of organometallic reactions.",
+  "authors": [
+    "F. Matthias Bickelhaupt",
+    "Kendall N. Houk"
+  ],
+  "year": 2017,
+  "doi": "10.1002/anie.201701486",
+  "source": "openalex",
+  "categories": [
+    "Distortion (music)",
+    "Strain (injury)",
+    "Materials science",
+    "Chemistry",
+    "Computer science",
+    "Medicine",
+    "Internal medicine",
+    "Telecommunications",
+    "Bandwidth (computing)",
+    "Amplifier"
+  ],
+  "citation_count": 1738,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/anie.201701486",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2736178248.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:26.200602+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2736178248",
+    "concepts": [
+      "Distortion (music)",
+      "Strain (injury)",
+      "Materials science",
+      "Chemistry",
+      "Computer science"
+    ],
+    "oa_status": "hybrid"
+  }
+}

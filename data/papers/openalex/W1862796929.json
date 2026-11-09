@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W1862796929",
+  "title": "A study of cleaning procedures used for foraminiferal Mg/Ca paleothermometry",
+  "abstract": "The various cleaning steps required for preparation of foraminiferal samples for Mg/Ca (and Sr/Ca) analysis are evaluated for their relative importance and effects on measured elemental ratios. It is shown that the removal of silicate contamination is the most important step for the measurement of Mg/Ca ratios. In an example, bulk sample Mg/Ca decreases from 10.5 to 2.5 mmol mol −1 during clay removal. Oxidation of organic material causes a lowering of sample Mg/Ca in the order of 10% or approximately 1°C when converted to temperature. Use of dilute acid leaching to remove adsorbed contaminants causes partial dissolution of the sample carbonate and a corresponding decrease in Mg/Ca. Reductive treatment also causes dissolution of the sample and a decrease in the Mg/Ca ratio of up to 10–15%. Sample preparation for Sr/Ca analysis does not require the same degree of rigor as is necessary for Mg/Ca work. The “within‐run” reproducibility of the method described here for G. ruber in a core‐top sample from the Arabian Sea was ±1.8% (mean sample ratio was 4.72 mmol mol −1 ). When converted to temperature, this becomes 28 ± 0.2°C. The equivalent result for Sr/Ca was ±0.5% (mean ratio = 1.44 mmol mol −1 ).",
+  "authors": [
+    "Stephen Barker",
+    "Mervyn J. Greaves",
+    "Harry Elderfield"
+  ],
+  "year": 2003,
+  "doi": "10.1029/2003gc000559",
+  "source": "openalex",
+  "categories": [
+    "Dissolution",
+    "Carbonate",
+    "Reproducibility",
+    "Analytical Chemistry (journal)",
+    "Silicate",
+    "Leaching (pedology)",
+    "Mineralogy",
+    "Contamination",
+    "Sample preparation",
+    "Chemistry",
+    "Geology",
+    "Environmental chemistry",
+    "Chromatography",
+    "Soil water",
+    "Biology",
+    "Organic chemistry",
+    "Ecology",
+    "Physical chemistry",
+    "Soil science"
+  ],
+  "citation_count": 1097,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2003GC000559",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1862796929.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:24.265139+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1862796929",
+    "concepts": [
+      "Dissolution",
+      "Carbonate",
+      "Reproducibility",
+      "Analytical Chemistry (journal)",
+      "Silicate"
+    ],
+    "oa_status": "bronze"
+  }
+}

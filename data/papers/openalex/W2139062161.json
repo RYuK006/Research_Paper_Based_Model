@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2139062161",
+  "title": "Ab initio random structure searching",
+  "abstract": "It is essential to know the arrangement of the atoms in a material in order to compute and understand its properties. Searching for stable structures of materials using first-principles electronic structure methods, such as density-functional-theory (DFT), is a rapidly growing field. Here we describe our simple, elegant and powerful approach to searching for structures with DFT, which we call ab initio random structure searching (AIRSS). Applications to discovering the structures of solids, point defects, surfaces, and clusters are reviewed. New results for iron clusters on graphene, silicon clusters, polymeric nitrogen, hydrogen-rich lithium hydrides, and boron are presented.",
+  "authors": [
+    "Chris J. Pickard",
+    "Richard J. Needs"
+  ],
+  "year": 2011,
+  "doi": "10.1088/0953-8984/23/5/053201",
+  "source": "openalex",
+  "categories": [
+    "Ab initio",
+    "Density functional theory",
+    "Electronic structure",
+    "Lithium (medication)",
+    "Graphene",
+    "Materials science",
+    "Hydrogen storage",
+    "Computational chemistry",
+    "Ab initio quantum chemistry methods",
+    "Chemical physics",
+    "Hydrogen",
+    "Statistical physics",
+    "Nanotechnology",
+    "Chemistry",
+    "Molecule",
+    "Physics",
+    "Quantum mechanics",
+    "Medicine",
+    "Endocrinology"
+  ],
+  "citation_count": 1318,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1088/0953-8984/23/5/053201/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2139062161.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:57.684195+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2139062161",
+    "concepts": [
+      "Ab initio",
+      "Density functional theory",
+      "Electronic structure",
+      "Lithium (medication)",
+      "Graphene"
+    ],
+    "oa_status": "bronze"
+  }
+}

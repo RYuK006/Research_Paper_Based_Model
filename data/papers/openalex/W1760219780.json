@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W1760219780",
+  "title": "Phospholipid Fatty Acid Composition, Biomass, and Activity of Microbial Communities from Two Soil Types Experimentally Exposed to Different Heavy Metals",
+  "abstract": "The phospholipid fatty acid (PLFA) pattern was analyzed in a forest humus and in an arable soil experimentally polluted with Cd, Cu, Ni, Pb, or Zn at different concentrations. In both soil types, there were gradual changes in the PLFA patterns for the different levels of metal contamination. The changes in the forest soil were similar irrespective of which metal was used, while in the arable soil the changes due to Cu contamination differed from those due to the other metals. Several PLFAs reacted similarly to the metal amendments in the two soil types, while others showed different responses. In both soils, the metal pollution resulted in a decrease in the iso-branched PLFAs i15:0 and i17:0 and in the monounsaturated 16:1omega5 and 16:1omega7c fatty acids, while increases were found for i16:0, the branched br17:0 and br18:0, and the cyclopropane cy17:0 fatty acids. In the forest soil, the methyl branched PLFAs 10Me16:0, 10Me17:0, and 10Me18:0 increased in metal-polluted soils, indicating an increase in actinomycetes, while in the arable soil a decrease was found for 10Me16:0 and 10Me18:0 in response to most metals. The bacterial PLFAs 15:0 and 17:0 increased in all metal-contaminated samples in the arable soil, while they were unaffected in the forest soil. Fatty acid 18:2omega6, which is considered to be predominantly of fungal origin, increased in the arable soil, except in the Cu-amended samples, in which it decreased instead. Effects on the PLFA patterns were found at levels of metal contamination similar to or lower than those at which effects on ATP content, soil respiration, or total amount of PLFAs had occurred.",
+  "authors": [
+    "Åsa Frostegård",
+    "Anders Tunlid",
+    "Erland Bååth"
+  ],
+  "year": 1993,
+  "doi": "10.1128/aem.59.11.3605-3617.1993",
+  "source": "openalex",
+  "categories": [
+    "Arable land",
+    "Soil water",
+    "Environmental chemistry",
+    "Humus",
+    "Biomass (ecology)",
+    "Soil contamination",
+    "Chemistry",
+    "Fatty acid",
+    "Composition (language)",
+    "Metal",
+    "Agronomy",
+    "Soil test",
+    "Contamination",
+    "Biology",
+    "Ecology",
+    "Biochemistry",
+    "Agriculture",
+    "Philosophy",
+    "Linguistics",
+    "Organic chemistry"
+  ],
+  "citation_count": 1349,
+  "open_access_pdf_url": "https://aem.asm.org/content/aem/59/11/3605.full.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1760219780.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:55.192236+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1760219780",
+    "concepts": [
+      "Arable land",
+      "Soil water",
+      "Environmental chemistry",
+      "Humus",
+      "Biomass (ecology)"
+    ],
+    "oa_status": "bronze"
+  }
+}

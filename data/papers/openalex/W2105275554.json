@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2105275554",
+  "title": "Loop-mediated isothermal amplification of DNA",
+  "abstract": "We have developed a novel method, termed loop-mediated isothermal amplification (LAMP), that amplifies DNA with high specificity, efficiency and rapidity under isothermal conditions. This method employs a DNA polymerase and a set of four specially designed primers that recognize a total of six distinct sequences on the target DNA. An inner primer containing sequences of the sense and antisense strands of the target DNA initiates LAMP. The following strand displacement DNA synthesis primed by an outer primer releases a single-stranded DNA. This serves as template for DNA synthesis primed by the second inner and outer primers that hybridize to the other end of the target, which produces a stem-loop DNA structure. In subsequent LAMP cycling one inner primer hybridizes to the loop on the product and initiates displacement DNA synthesis, yielding the original stem-loop DNA and a new stem-loop DNA with a stem twice as long. The cycling reaction continues with accumulation of 10(9) copies of target in less than an hour. The final products are stem-loop DNAs with several inverted repeats of the target and cauliflower-like structures with multiple loops formed by annealing between alternately inverted repeats of the target in the same strand. Because LAMP recognizes the target by six distinct sequences initially and by four distinct sequences afterwards, it is expected to amplify the target sequence with high selectivity.",
+  "authors": [
+    "Tsugunori Notomi"
+  ],
+  "year": 2000,
+  "doi": "10.1093/nar/28.12.e63",
+  "source": "openalex",
+  "categories": [
+    "Biology",
+    "Loop-mediated isothermal amplification",
+    "Primer (cosmetics)",
+    "D-loop",
+    "DNA",
+    "Multiple displacement amplification",
+    "DNA polymerase",
+    "Molecular biology",
+    "Stem-loop",
+    "DNA clamp",
+    "Genetics",
+    "Polymerase chain reaction",
+    "Gene",
+    "RNA",
+    "Reverse transcriptase",
+    "DNA extraction",
+    "Chemistry",
+    "Mitochondrial DNA",
+    "Organic chemistry"
+  ],
+  "citation_count": 8952,
+  "open_access_pdf_url": "https://academic.oup.com/nar/article-pdf/28/12/e63/9904593/2800e63.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2105275554.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:49.892229+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2105275554",
+    "concepts": [
+      "Biology",
+      "Loop-mediated isothermal amplification",
+      "Primer (cosmetics)",
+      "D-loop",
+      "DNA"
+    ],
+    "oa_status": "bronze"
+  }
+}

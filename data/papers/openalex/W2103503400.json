@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2103503400",
+  "title": "HKL -3000: the integration of data reduction and structure solution – from diffraction images to an initial model in minutes",
+  "abstract": "A new approach that integrates data collection, data reduction, phasing and model building significantly accelerates the process of structure determination and on average minimizes the number of data sets and synchrotron time required for structure solution. Initial testing of the HKL-3000 system (the beta version was named HKL-2000_ph) with more than 140 novel structure determinations has proven its high value for MAD/SAD experiments. The heuristics for choosing the best computational strategy at different data resolution limits of phasing signal and crystal diffraction are being optimized. The typical end result is an interpretable electron-density map with a partially built structure and, in some cases, an almost complete refined model. The current development is oriented towards very fast structure solution in order to provide feedback during the diffraction experiment. Work is also proceeding towards improving the quality of phasing calculation and model building.",
+  "authors": [
+    "Wladek Minor",
+    "M. Cymborowski",
+    "Zbyszek Otwinowski",
+    "M. Chruszcz"
+  ],
+  "year": 2006,
+  "doi": "10.1107/s0907444906019949",
+  "source": "openalex",
+  "categories": [
+    "Phaser",
+    "Diffraction",
+    "Heuristics",
+    "Reduction (mathematics)",
+    "Algorithm",
+    "Data structure",
+    "Data reduction",
+    "Computer science",
+    "Process (computing)",
+    "Resolution (logic)",
+    "Crystal structure",
+    "Crystallography",
+    "Optics",
+    "Mathematics",
+    "Physics",
+    "Mathematical optimization",
+    "Chemistry",
+    "Data mining",
+    "Artificial intelligence",
+    "Geometry",
+    "Programming language",
+    "Operating system"
+  ],
+  "citation_count": 2097,
+  "open_access_pdf_url": "http://journals.iucr.org/d/issues/2006/08/00/dz5080/dz5080.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2103503400.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:15.428831+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2103503400",
+    "concepts": [
+      "Phaser",
+      "Diffraction",
+      "Heuristics",
+      "Reduction (mathematics)",
+      "Algorithm"
+    ],
+    "oa_status": "hybrid"
+  }
+}

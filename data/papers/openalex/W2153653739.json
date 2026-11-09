@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2153653739",
+  "title": "Statistical phrase-based translation",
+  "abstract": "We propose a new phrase-based translation model and decoding algorithm that enables us to evaluate and compare several, previously proposed phrase-based translation models. Within our framework, we carry out a large number of experiments to understand better and explain why phrase-based models out-perform word-based models. Our empirical results, which hold for all examined language pairs, suggest that the highest levels of performance can be obtained through relatively simple means: heuristic learning of phrase translations from word-based alignments and lexical weighting of phrase translations. Surprisingly, learning phrases longer than three words and learning phrases from high-accuracy word-level alignment models does not have a strong impact on performance. Learning only syntactically motivated phrases degrades the performance of our systems.",
+  "authors": [
+    "Philipp Koehn",
+    "Franz Josef Och",
+    "Daniel Marcu"
+  ],
+  "year": 2003,
+  "doi": "10.3115/1073445.1073462",
+  "source": "openalex",
+  "categories": [
+    "Phrase",
+    "Computer science",
+    "Natural language processing",
+    "Artificial intelligence",
+    "Word (group theory)",
+    "Machine translation",
+    "Translation (biology)",
+    "Heuristic",
+    "Weighting",
+    "Speech recognition",
+    "Linguistics",
+    "Chemistry",
+    "Gene",
+    "Radiology",
+    "Philosophy",
+    "Medicine",
+    "Messenger RNA",
+    "Biochemistry"
+  ],
+  "citation_count": 3307,
+  "open_access_pdf_url": "https://dl.acm.org/doi/pdf/10.3115/1073445.1073462",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2153653739.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:57.784971+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2153653739",
+    "concepts": [
+      "Phrase",
+      "Computer science",
+      "Natural language processing",
+      "Artificial intelligence",
+      "Word (group theory)"
+    ],
+    "oa_status": "bronze"
+  }
+}

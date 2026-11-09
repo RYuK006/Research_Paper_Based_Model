@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2083278580",
+  "title": "Endoplasmic Reticulum Stress and Oxidative Stress: A Vicious Cycle or a Double-Edged Sword?",
+  "abstract": "The endoplasmic reticulum (ER) is a well-orchestrated protein-folding machine composed of protein chaperones, proteins that catalyze protein folding, and sensors that detect the presence of misfolded or unfolded proteins. A sensitive surveillance mechanism exists to prevent misfolded proteins from transiting the secretory pathway and ensures that persistently misfolded proteins are directed toward a degradative pathway. The unfolded protein response (UPR) is an intracellular signaling pathway that coordinates ER protein-folding demand with protein-folding capacity and is essential to adapt to homeostatic alterations that cause protein misfolding. These include changes in intraluminal calcium, altered glycosylation, nutrient deprivation, pathogen infection, expression of folding-defective proteins, and changes in redox status. The ER provides a unique oxidizing folding-environment that favors the formation of the disulfide bonds. Accumulating evidence suggests that protein folding and generation of reactive oxygen species (ROS) as a byproduct of protein oxidation in the ER are closely linked events. It has also become apparent that activation of the UPR on exposure to oxidative stress is an adaptive mechanism to preserve cell function and survival. Persistent oxidative stress and protein misfolding initiate apoptotic cascades and are now known to play predominant roles in the pathogenesis of multiple human diseases including diabetes, atherosclerosis, and neurodegenerative diseases.",
+  "authors": [
+    "Jyoti Dhar Malhotra",
+    "Randal J. Kaufman"
+  ],
+  "year": 2007,
+  "doi": "10.1089/ars.2007.1782",
+  "source": "openalex",
+  "categories": [
+    "Endoplasmic reticulum",
+    "Unfolded protein response",
+    "Protein folding",
+    "Cell biology",
+    "Protein disulfide-isomerase",
+    "Endoplasmic-reticulum-associated protein degradation",
+    "Proteostasis",
+    "Oxidative stress",
+    "Foldase",
+    "Chaperone (clinical)",
+    "Biology",
+    "Biochemistry",
+    "Chemistry",
+    "Gene",
+    "Escherichia coli",
+    "Pathology",
+    "GroEL",
+    "Medicine"
+  ],
+  "citation_count": 1588,
+  "open_access_pdf_url": "https://hdl.handle.net/2027.42/63268",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2083278580.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:41.912976+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2083278580",
+    "concepts": [
+      "Endoplasmic reticulum",
+      "Unfolded protein response",
+      "Protein folding",
+      "Cell biology",
+      "Protein disulfide-isomerase"
+    ],
+    "oa_status": "green"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "openalex:W1988848089",
+  "title": "AMP-Activated Protein Kinase in Metabolic Control and Insulin Signaling",
+  "abstract": "The AMP-activated protein kinase (AMPK) system acts as a sensor of cellular energy status that is conserved in all eukaryotic cells. It is activated by increases in the cellular AMP:ATP ratio caused by metabolic stresses that either interfere with ATP production (eg, deprivation for glucose or oxygen) or that accelerate ATP consumption (eg, muscle contraction). Activation in response to increases in AMP involves phosphorylation by an upstream kinase, the tumor suppressor LKB1. In certain cells (eg, neurones, endothelial cells, and lymphocytes), AMPK can also be activated by a Ca(2+)-dependent and AMP-independent process involving phosphorylation by an alternate upstream kinase, CaMKKbeta. Once activated, AMPK switches on catabolic pathways that generate ATP, while switching off ATP-consuming processes such as biosynthesis and cell growth and proliferation. The AMPK complex contains 3 subunits, with the alpha subunit being catalytic, the beta subunit containing a glycogen-sensing domain, and the gamma subunits containing 2 regulatory sites that bind the activating and inhibitory nucleotides AMP and ATP. Although it may have evolved to respond to metabolic stress at the cellular level, hormones and cytokines such as insulin, leptin, and adiponectin can interact with the system, and it now appears to play a key role in maintaining energy balance at the whole body level. The AMPK system may be partly responsible for the health benefits of exercise and is the target for the antidiabetic drug metformin. It is a key player in the development of new treatments for obesity, type 2 diabetes, and the metabolic syndrome.",
+  "authors": [
+    "Mhairi C. Towler",
+    "David Grahame Hardie"
+  ],
+  "year": 2007,
+  "doi": "10.1161/01.res.0000256090.42690.05",
+  "source": "openalex",
+  "categories": [
+    "AMPK",
+    "AMP-activated protein kinase",
+    "Protein kinase A",
+    "Cell biology",
+    "Biology",
+    "Phosphorylation",
+    "Chemistry",
+    "Biochemistry",
+    "Endocrinology"
+  ],
+  "citation_count": 1262,
+  "open_access_pdf_url": "https://www.ahajournals.org/doi/pdf/10.1161/01.RES.0000256090.42690.05",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1988848089.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:00.667268+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1988848089",
+    "concepts": [
+      "AMPK",
+      "AMP-activated protein kinase",
+      "Protein kinase A",
+      "Cell biology",
+      "Biology"
+    ],
+    "oa_status": "bronze"
+  }
+}

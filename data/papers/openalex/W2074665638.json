@@ -1,0 +1,58 @@
+{
+  "id": "openalex:W2074665638",
+  "title": "Quick iterative scheme for the calculation of transfer matrices: application to Mo (100)",
+  "abstract": "The transfer matrix of a solid described by the stacking of principal layers is obtained by an iterative procedure which takes into account 2\" layers after n iterations, in contrast to usual schemes where each iteration includes just one more layer. The Green function and density of states at the surface of the corresponding semi-infinite crystal are then given by well known formulae in terms of the transfer matrix. This method, especially convenient near singularities, is applied to the calculation of the spectral as well as the total densities of states for the (100) face of molybdenum. The Slater-Koster algorithm for the calculation of tight-binding parameters is used with a basis of nine orbitals per atom (4d, 5s, 5p). Surface states and resonances are first identified and then analysed into orbital components to find their dominant symmetry. Their evolution along the main symmetry lines of the two-dimensional Brillouin zone is given explicitly. The surface-state peak just below the Fermi level (Swanson hump) is not obtained. This is traced to the difficulty in placing an appropriate boundary condition at the surface with the tight-binding parameterisation scheme.",
+  "authors": [
+    "María P. López-Sancho",
+    "J M Lopez Sancho",
+    "J. Rubio"
+  ],
+  "year": 1984,
+  "doi": "10.1088/0305-4608/14/5/016",
+  "source": "openalex",
+  "categories": [
+    "Brillouin zone",
+    "Atomic orbital",
+    "Symmetry (geometry)",
+    "Surface (topology)",
+    "Tight binding",
+    "Wave function",
+    "Matrix (chemical analysis)",
+    "Transfer matrix",
+    "Gravitational singularity",
+    "Boundary (topology)",
+    "Atom (system on chip)",
+    "Crystal (programming language)",
+    "Density of states",
+    "Basis (linear algebra)",
+    "Mathematics",
+    "Physics",
+    "Electronic structure",
+    "Quantum mechanics",
+    "Mathematical analysis",
+    "Geometry",
+    "Chemistry",
+    "Computer vision",
+    "Electron",
+    "Computer science",
+    "Programming language",
+    "Chromatography",
+    "Embedded system"
+  ],
+  "citation_count": 1205,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1088/0305-4608/14/5/016/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2074665638.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:08.227168+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2074665638",
+    "concepts": [
+      "Brillouin zone",
+      "Atomic orbital",
+      "Symmetry (geometry)",
+      "Surface (topology)",
+      "Tight binding"
+    ],
+    "oa_status": "bronze"
+  }
+}

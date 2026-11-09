@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2009034382",
+  "title": "Recognition of lipopolysaccharide pattern by TLR4 complexes",
+  "abstract": "Lipopolysaccharide (LPS) is a major component of the outer membrane of Gram-negative bacteria. Minute amounts of LPS released from infecting pathogens can initiate potent innate immune responses that prime the immune system against further infection. However, when the LPS response is not properly controlled it can lead to fatal septic shock syndrome. The common structural pattern of LPS in diverse bacterial species is recognized by a cascade of LPS receptors and accessory proteins, LPS binding protein (LBP), CD14 and the Toll-like receptor4 (TLR4)–MD-2 complex. The structures of these proteins account for how our immune system differentiates LPS molecules from structurally similar host molecules. They also provide insights useful for discovery of anti-sepsis drugs. In this review, we summarize these structures and describe the structural basis of LPS recognition by LPS receptors and accessory proteins. The three-dimensional structure of molecules critical to innate immunity might inform the design of drugs that promote antipathogen defenses, while preventing inappropriate inflammatory responses that potentially lead to septic shock. A review by Beom Seok Park from Eulji University and Jie-Oh Lee from the Korea Advanced Institute of Science and Technology outlines current structural understanding of how the toll-like receptor (TLR)-containing TLR4-MD-2 complex initiates part of the innate immune response by recognizing bacterial lipopolysaccaride. Several TLR proteins each recognize other pathogen-derived ligands. The structures of six such human TLRs complexed with their ligands, and the structure of the TLR4-MD-2 complex bound to an antagonist, are helping to explain in very specific molecular detail how the recognition of pathogen-derived molecules triggers inflammation, and thus how drugs might control that process.",
+  "authors": [
+    "Beom Seok Park",
+    "Jie‐Oh Lee"
+  ],
+  "year": 2013,
+  "doi": "10.1038/emm.2013.97",
+  "source": "openalex",
+  "categories": [
+    "Innate immune system",
+    "TLR4",
+    "Lipopolysaccharide",
+    "CD14",
+    "Immune system",
+    "Receptor",
+    "Pattern recognition receptor",
+    "Toll-like receptor",
+    "Bacterial outer membrane",
+    "Pathogen-associated molecular pattern",
+    "Biology",
+    "TLR2",
+    "Cell biology",
+    "Lipid A",
+    "Immunology",
+    "Microbiology",
+    "Chemistry",
+    "Biochemistry",
+    "Escherichia coli",
+    "Gene"
+  ],
+  "citation_count": 1276,
+  "open_access_pdf_url": "https://www.nature.com/articles/emm201397.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2009034382.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:00.503012+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2009034382",
+    "concepts": [
+      "Innate immune system",
+      "TLR4",
+      "Lipopolysaccharide",
+      "CD14",
+      "Immune system"
+    ],
+    "oa_status": "gold"
+  }
+}

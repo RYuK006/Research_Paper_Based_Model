@@ -1,0 +1,58 @@
+{
+  "id": "openalex:W2107869090",
+  "title": "The Human Urine Metabolome",
+  "abstract": "Urine has long been a \"favored\" biofluid among metabolomics researchers. It is sterile, easy-to-obtain in large volumes, largely free from interfering proteins or lipids and chemically complex. However, this chemical complexity has also made urine a particularly difficult substrate to fully understand. As a biological waste material, urine typically contains metabolic breakdown products from a wide range of foods, drinks, drugs, environmental contaminants, endogenous waste metabolites and bacterial by-products. Many of these compounds are poorly characterized and poorly understood. In an effort to improve our understanding of this biofluid we have undertaken a comprehensive, quantitative, metabolome-wide characterization of human urine. This involved both computer-aided literature mining and comprehensive, quantitative experimental assessment/validation. The experimental portion employed NMR spectroscopy, gas chromatography mass spectrometry (GC-MS), direct flow injection mass spectrometry (DFI/LC-MS/MS), inductively coupled plasma mass spectrometry (ICP-MS) and high performance liquid chromatography (HPLC) experiments performed on multiple human urine samples. This multi-platform metabolomic analysis allowed us to identify 445 and quantify 378 unique urine metabolites or metabolite species. The different analytical platforms were able to identify (quantify) a total of: 209 (209) by NMR, 179 (85) by GC-MS, 127 (127) by DFI/LC-MS/MS, 40 (40) by ICP-MS and 10 (10) by HPLC. Our use of multiple metabolomics platforms and technologies allowed us to identify several previously unknown urine metabolites and to substantially enhance the level of metabolome coverage. It also allowed us to critically assess the relative strengths and weaknesses of different platforms or technologies. The literature review led to the identification and annotation of another 2206 urinary compounds and was used to help guide the subsequent experimental studies. An online database containing the complete set of 2651 confirmed human urine metabolite species, their structures (3079 in total), concentrations, related literature references and links to their known disease associations are freely available at http://www.urinemetabolome.ca.",
+  "authors": [
+    "Souhaila Bouatra",
+    "Farid Aziat",
+    "Rupasri Mandal",
+    "An Chi Guo",
+    "Michael R. Wilson",
+    "Craig Knox",
+    "Trent C. Bjorndahl",
+    "Ramanarayan Krishnamurthy",
+    "Fozia Saleem",
+    "Philip Liu",
+    "Zerihun Teklemariam Dame",
+    "Jenna Poelzer",
+    "Jessica Huynh",
+    "Faizath S. Yallou",
+    "Nikolaos Psychogios",
+    "Edison Dong",
+    "Ralf Bogumil",
+    "Cornelia Röhring",
+    "David Scott Wishart"
+  ],
+  "year": 2013,
+  "doi": "10.1371/journal.pone.0073076",
+  "source": "openalex",
+  "categories": [
+    "Metabolome",
+    "Metabolomics",
+    "Metabolite",
+    "Urine",
+    "Chromatography",
+    "Mass spectrometry",
+    "Chemistry",
+    "Gas chromatography–mass spectrometry",
+    "Inductively coupled plasma mass spectrometry",
+    "Liquid chromatography–mass spectrometry",
+    "Biochemistry"
+  ],
+  "citation_count": 1524,
+  "open_access_pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0073076&type=printable",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2107869090.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:45.457144+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2107869090",
+    "concepts": [
+      "Metabolome",
+      "Metabolomics",
+      "Metabolite",
+      "Urine",
+      "Chromatography"
+    ],
+    "oa_status": "gold"
+  }
+}

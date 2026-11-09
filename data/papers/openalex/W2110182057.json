@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2110182057",
+  "title": "Angiotensin II stimulates NADH and NADPH oxidase activity in cultured vascular smooth muscle cells.",
+  "abstract": "The signaling pathways involved in the long-term metabolic effects of angiotensin II (Ang II) in vascular smooth muscle cells are incompletely understood but include the generation of molecules likely to affect oxidase activity. We examined the ability of Ang II to stimulate superoxide anion formation and investigated the identity of the oxidases responsible for its production. Treatment of vascular smooth muscle cells with Ang II for 4 to 6 hours caused a 2.7 +/- 0.4-fold increase in intracellular superoxide anion formation as detected by lucigenin assay. This superoxide appeared to result from activation of both the NADPH and NADH oxidases. NADPH oxidase activity increased from 3.23 +/- 0.61 to 11.80 +/- 1.72 nmol O2-/min per milligram protein after 4 hours of Ang II, whereas NADH oxidase activity increased from 16.76 +/- 2.13 to 45.00 +/- 4.57 nmol O2-/min per milligram protein. The NADPH oxidase activity was stimulated by exogenous phosphatidic and arachidonic acids and was partially inhibited by the specific inhibitor diphenylene iodinium. NADH oxidase activity was increased by arachidonic and linoleic acids, was insensitive to exogenous phosphatidic acid, and was inhibited by high concentrations of quinacrine. Both of these oxidases appear to reside in the plasma membrane, on the basis of migration of the activity after cellular fractionation and their apparent insensitivity to the mitochondrial poison KCN. These observations suggest that Ang II specifically activates enzyme systems that promote superoxide generation and raise the possibility that these pathways function as second messengers for long-term responses, such as hypertrophy or hyperplasia.",
+  "authors": [
+    "Kathy K. Griendling",
+    "C A Minieri",
+    "Jeremy D. Ollerenshaw",
+    "R. Wayne Alexander"
+  ],
+  "year": 1994,
+  "doi": "10.1161/01.res.74.6.1141",
+  "source": "openalex",
+  "categories": [
+    "Superoxide",
+    "NADPH oxidase",
+    "Angiotensin II",
+    "Vascular smooth muscle",
+    "Biochemistry",
+    "Arachidonic acid",
+    "Oxidase test",
+    "Phosphatidic acid",
+    "Chemistry",
+    "Intracellular",
+    "Enzyme",
+    "Biology",
+    "Endocrinology",
+    "Receptor",
+    "Phospholipid",
+    "Membrane",
+    "Smooth muscle"
+  ],
+  "citation_count": 2742,
+  "open_access_pdf_url": "https://www.ahajournals.org/doi/pdf/10.1161/01.RES.74.6.1141",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2110182057.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:01.979864+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2110182057",
+    "concepts": [
+      "Superoxide",
+      "NADPH oxidase",
+      "Angiotensin II",
+      "Vascular smooth muscle",
+      "Biochemistry"
+    ],
+    "oa_status": "bronze"
+  }
+}

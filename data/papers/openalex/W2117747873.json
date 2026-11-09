@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W2117747873",
+  "title": "Denaturant m values and heat capacity changes: Relation to changes in accessible surface areas of protein unfolding",
+  "abstract": "Denaturant m values, the dependence of the free energy of unfolding on denaturant concentration, have been collected for a large set of proteins. The m value correlates very strongly with the amount of protein surface exposed to solvent upon unfolding, with linear correlation coefficients of R = 0.84 for urea and R = 0.87 for guanidine hydrochloride. These correlations improve to R = 0.90 when the effect of disulfide bonds on the accessible area of the unfolded protein is included. A similar dependence on accessible surface area has been found previously for the heat capacity change (delta Cp), which is confirmed here for our set of proteins. Denaturant m values and heat capacity changes also correlate well with each other. For proteins that undergo a simple two-state unfolding mechanism, the amount of surface exposed to solvent upon unfolding is a main structural determinant for both m values and delta Cp.",
+  "authors": [
+    "Jeffrey K. Myers",
+    "C. Nick Pace",
+    "J. Martin Scholtz"
+  ],
+  "year": 1995,
+  "doi": "10.1002/pro.5560041020",
+  "source": "openalex",
+  "categories": [
+    "Guanidine",
+    "Accessible surface area",
+    "Heat capacity",
+    "Chemistry",
+    "Surface protein",
+    "Thermodynamics",
+    "Crystallography",
+    "Solvent",
+    "Urea",
+    "Protein folding",
+    "Computational chemistry",
+    "Biochemistry",
+    "Biology",
+    "Virology",
+    "Physics"
+  ],
+  "citation_count": 1721,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/pro.5560041020",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2117747873.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:33.069241+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2117747873",
+    "concepts": [
+      "Guanidine",
+      "Accessible surface area",
+      "Heat capacity",
+      "Chemistry",
+      "Surface protein"
+    ],
+    "oa_status": "bronze"
+  }
+}

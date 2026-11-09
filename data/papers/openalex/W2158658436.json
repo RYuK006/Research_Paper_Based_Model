@@ -1,0 +1,59 @@
+{
+  "id": "openalex:W2158658436",
+  "title": "A Diarylquinoline Drug Active on the ATP Synthase of Mycobacterium tuberculosis",
+  "abstract": "The incidence of tuberculosis has been increasing substantially on a worldwide basis over the past decade, but no tuberculosis-specific drugs have been discovered in 40 years. We identified a diarylquinoline, R207910, that potently inhibits both drug-sensitive and drug-resistant Mycobacterium tuberculosis in vitro (minimum inhibitory concentration 0.06 mug/ml). In mice, R207910 exceeded the bactericidal activities of isoniazid and rifampin by at least 1 log unit. Substitution of drugs included in the World Health Organization's first-line tuberculosis treatment regimen (rifampin, isoniazid, and pyrazinamide) with R207910 accelerated bactericidal activity, leading to complete culture conversion after 2 months of treatment in some combinations. A single dose of R207910 inhibited mycobacterial growth for 1 week. Plasma levels associated with efficacy in mice were well tolerated in healthy human volunteers. Mutants selected in vitro suggest that the drug targets the proton pump of adenosine triphosphate (ATP) synthase.",
+  "authors": [
+    "Koen Andries",
+    "Peter Verhasselt",
+    "Jérôme Guillemont",
+    "Hinrich W. H. Göhlmann",
+    "Jean‐Marc Neefs",
+    "Hans Winkler",
+    "Jef Van Gestel",
+    "Philip Timmerman",
+    "Min Zhu",
+    "Ennis Lee",
+    "Peter Williams",
+    "Didier de Chaffoy de Courcelles",
+    "Emma Huitric",
+    "Sven Hoffner",
+    "Emmanuelle Cambau",
+    "C. Truffot-Pernot",
+    "Nacer Lounis",
+    "Vincent Jarlier"
+  ],
+  "year": 2004,
+  "doi": "10.1126/science.1106753",
+  "source": "openalex",
+  "categories": [
+    "Pyrazinamide",
+    "Bedaquiline",
+    "Mycobacterium tuberculosis",
+    "Isoniazid",
+    "Tuberculosis",
+    "Pharmacology",
+    "Rifampicin",
+    "Drug",
+    "Microbiology",
+    "Medicine",
+    "Chemistry",
+    "Biology",
+    "Pathology"
+  ],
+  "citation_count": 2173,
+  "open_access_pdf_url": "https://www.science.org/cms/asset/5f67db1e-240f-4d4b-b309-423c746cb84c/pap.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2158658436.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:12.688704+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2158658436",
+    "concepts": [
+      "Pyrazinamide",
+      "Bedaquiline",
+      "Mycobacterium tuberculosis",
+      "Isoniazid",
+      "Tuberculosis"
+    ],
+    "oa_status": "bronze"
+  }
+}

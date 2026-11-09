@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2952814763",
+  "title": "Synthetic Difference-in-Differences",
+  "abstract": "We present a new estimator for causal effects with panel data that builds on insights behind the widely used difference-in-differences and synthetic control methods. Relative to these methods we find, both theoretically and empirically, that this “synthetic difference-in-differences” estimator has desirable robustness properties, and that it performs well in settings where the conventional estimators are commonly used in practice. We study the asymptotic behavior of the estimator when the systematic part of the outcome model includes latent unit factors interacted with latent time factors, and we present conditions for consistency and asymptotic normality. (JEL C23, H25, H71, I18, L66)",
+  "authors": [
+    "Dmitry Arkhangelsky",
+    "Susan Carleton Athey",
+    "David A. Hirshberg",
+    "Guido W. Imbens",
+    "Stefan Wager"
+  ],
+  "year": 2021,
+  "doi": "10.1257/aer.20190159",
+  "source": "openalex",
+  "categories": [
+    "Estimator",
+    "Econometrics",
+    "Robustness (evolution)",
+    "Consistency (knowledge bases)",
+    "Asymptotic distribution",
+    "Normality",
+    "Mathematics",
+    "Statistics",
+    "Difference in differences",
+    "Robust statistics",
+    "Computer science",
+    "Applied mathematics",
+    "Artificial intelligence",
+    "Biochemistry",
+    "Gene",
+    "Chemistry"
+  ],
+  "citation_count": 1602,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1812.09970",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2952814763.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:41.851067+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2952814763",
+    "concepts": [
+      "Estimator",
+      "Econometrics",
+      "Robustness (evolution)",
+      "Consistency (knowledge bases)",
+      "Asymptotic distribution"
+    ],
+    "oa_status": "green"
+  }
+}

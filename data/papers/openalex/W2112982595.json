@@ -1,0 +1,43 @@
+{
+  "id": "openalex:W2112982595",
+  "title": "Quantification of mRNA using real-time reverse transcription PCR (RT-PCR): trends and problems",
+  "abstract": "The fluorescence-based real-time reverse transcription PCR (RT-PCR) is widely used for the quantification of steady-state mRNA levels and is a critical tool for basic research, molecular medicine and biotechnology. Assays are easy to perform, capable of high throughput, and can combine high sensitivity with reliable specificity. The technology is evolving rapidly with the introduction of new enzymes, chemistries and instrumentation. However, while real-time RT-PCR addresses many of the difficulties inherent in conventional RT-PCR, it has become increasingly clear that it engenders new problems that require urgent attention. Therefore, in addition to providing a snapshot of the state-of-the-art in real-time RT-PCR, this review has an additional aim: it will describe and discuss critically some of the problems associated with interpreting results that are numerical and lend themselves to statistical analysis, yet whose accuracy is significantly affected by reagent and operator variability.",
+  "authors": [
+    "Stephen Andrew Bustin"
+  ],
+  "year": 2002,
+  "doi": "10.1677/jme.0.0290023",
+  "source": "openalex",
+  "categories": [
+    "Snapshot (computer storage)",
+    "Real-time polymerase chain reaction",
+    "Computational biology",
+    "Reverse transcription polymerase chain reaction",
+    "Computer science",
+    "Reverse transcriptase",
+    "Messenger RNA",
+    "Biology",
+    "Bioinformatics",
+    "Chemistry",
+    "Polymerase chain reaction",
+    "Genetics",
+    "Gene",
+    "Operating system"
+  ],
+  "citation_count": 2562,
+  "open_access_pdf_url": "https://jme.bioscientifica.com/downloadpdf/journals/jme/29/1/23.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2112982595.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:04.303305+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2112982595",
+    "concepts": [
+      "Snapshot (computer storage)",
+      "Real-time polymerase chain reaction",
+      "Computational biology",
+      "Reverse transcription polymerase chain reaction",
+      "Computer science"
+    ],
+    "oa_status": "bronze"
+  }
+}

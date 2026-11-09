@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2003757926",
+  "title": "Hole Compensation Mechanism of P-Type GaN Films",
+  "abstract": "Low-resistivity p-type GaN films, which were obtained by N2-ambient thermal annealing or low-energy electron-beam irradiation (LEEBI) treatment, showed a resistivity as high as 1×106 Ω·cm after NH3-ambient thermal annealing at temperatures above 600°C. In the case of N2-ambient thermal annealing at temperatures between room temperature and 1000°C, the low-resistivity p-type GaN films showed no change in resistivity, which was almost constant between 2 Ω·cm and 8 Ω·cm. These results indicate that atomic hydrogen produced by NH3 dissociation at temperatures above 400°C is related to the hole compensation mechanism. A hydrogenation process whereby acceptor-H neutral complexes are formed in p-type GaN films was proposed. The formation of acceptor-H neutral complexes causes hole compensation, and deep-level and weak blue emissions in photoluminescence.",
+  "authors": [
+    "Shuji Nakamura",
+    "Naruhito Iwasa",
+    "Masayuki Senoh",
+    "Takashi Mukai"
+  ],
+  "year": 1992,
+  "doi": "10.1143/jjap.31.1258",
+  "source": "openalex",
+  "categories": [
+    "Electrical resistivity and conductivity",
+    "Annealing (glass)",
+    "Acceptor",
+    "Materials science",
+    "Photoluminescence",
+    "Analytical Chemistry (journal)",
+    "Dissociation (chemistry)",
+    "Hydrogen",
+    "Activation energy",
+    "Wide-bandgap semiconductor",
+    "Irradiation",
+    "Chemistry",
+    "Optoelectronics",
+    "Condensed matter physics",
+    "Physical chemistry",
+    "Metallurgy",
+    "Organic chemistry",
+    "Chromatography",
+    "Electrical engineering",
+    "Nuclear physics",
+    "Physics",
+    "Engineering"
+  ],
+  "citation_count": 1097,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1143/JJAP.31.1258/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2003757926.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:24.270930+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2003757926",
+    "concepts": [
+      "Electrical resistivity and conductivity",
+      "Annealing (glass)",
+      "Acceptor",
+      "Materials science",
+      "Photoluminescence"
+    ],
+    "oa_status": "bronze"
+  }
+}

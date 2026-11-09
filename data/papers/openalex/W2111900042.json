@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2111900042",
+  "title": "Host Recognition of Bacterial Muramyl Dipeptide Mediated through NOD2",
+  "abstract": "NOD2, a protein associated with susceptibility to Crohn's disease, confers responsiveness to bacterial preparations of lipopolysaccharide and peptidoglycan, but the precise moiety recognized remains elusive. Biochemical and functional analyses identified muramyl dipeptide (MurNAc-L-Ala-D-isoGln) derived from peptidoglycan as the essential structure in bacteria recognized by NOD2. Replacement of L-Ala for D-Ala or D-isoGln for L-isoGln eliminated the ability of muramyl dipeptide to stimulate NOD2, indicating stereoselective recognition. Muramyl dipeptide was recognized by NOD2 but not by TLR2 or co-expression of TLR2 with TLR1 or TLR6. NOD2 mutants associated with susceptibility to Crohn's disease were deficient in their recognition of muramyl dipeptide. Notably, peripheral blood mononuclear cells from individuals homozygous for the major disease-associated L1007fsinsC NOD2 mutation responded to lipopolysaccharide but not to synthetic muramyl dipeptide. Thus, NOD2 mediates the host response to bacterial muropeptides derived from peptidoglycan, an activity that is important for protection against Crohn's disease. Because muramyl dipeptide is the essential structure of peptidoglycan required for adjuvant activity, these results also have implications for understanding adjuvant function and effective vaccine development.",
+  "authors": [
+    "Naohiro Inohara",
+    "Yasunori Ogura",
+    "Ana Fontalba",
+    "Olga Gutierrez",
+    "Fernando Pons",
+    "Javier Crespo",
+    "Koichi Fukase",
+    "Seiichi Inamura",
+    "Shoichi Kusumoto",
+    "Masahito Hashimoto",
+    "Simon J. Foster",
+    "Anthony P. Moran",
+    "José L. Fernández-Luna",
+    "Gabriel Núñez"
+  ],
+  "year": 2003,
+  "doi": "10.1074/jbc.c200673200",
+  "source": "openalex",
+  "categories": [
+    "Muramyl dipeptide",
+    "NOD2",
+    "Dipeptide",
+    "Microbiology",
+    "Host (biology)",
+    "Chemistry",
+    "Biology",
+    "Immune system",
+    "Immunology",
+    "Innate immune system",
+    "Biochemistry",
+    "Amino acid",
+    "Ecology"
+  ],
+  "citation_count": 1717,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925820865296/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2111900042.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:33.089298+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2111900042",
+    "concepts": [
+      "Muramyl dipeptide",
+      "NOD2",
+      "Dipeptide",
+      "Microbiology",
+      "Host (biology)"
+    ],
+    "oa_status": "hybrid"
+  }
+}

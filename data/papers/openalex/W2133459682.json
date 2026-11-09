@@ -1,0 +1,42 @@
+{
+  "id": "openalex:W2133459682",
+  "title": "Meteor Universal: Language Specific Translation Evaluation for Any Target Language",
+  "abstract": "This paper describes Meteor Universal, released for the 2014 ACL Workshop on Statistical Machine Translation.Meteor Universal brings language specific evaluation to previously unsupported target languages by (1) automatically extracting linguistic resources (paraphrase tables and function word lists) from the bitext used to train MT systems and (2) using a universal parameter set learned from pooling human judgments of translation quality from several language directions.Meteor Universal is shown to significantly outperform baseline BLEU on two new languages, Russian (WMT13) and Hindi (WMT14).",
+  "authors": [
+    "Michael Denkowski",
+    "Alon Lavie"
+  ],
+  "year": 2014,
+  "doi": "10.3115/v1/w14-3348",
+  "source": "openalex",
+  "categories": [
+    "Meteor (satellite)",
+    "Computer science",
+    "Translation (biology)",
+    "Machine translation",
+    "Natural language processing",
+    "Artificial intelligence",
+    "Meteorology",
+    "Geography",
+    "Chemistry",
+    "Messenger RNA",
+    "Gene",
+    "Biochemistry"
+  ],
+  "citation_count": 2023,
+  "open_access_pdf_url": "https://aclanthology.org/W14-3348.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2133459682.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:15.628328+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2133459682",
+    "concepts": [
+      "Meteor (satellite)",
+      "Computer science",
+      "Translation (biology)",
+      "Machine translation",
+      "Natural language processing"
+    ],
+    "oa_status": "hybrid"
+  }
+}

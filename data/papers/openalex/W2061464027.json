@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2061464027",
+  "title": "Intracellular temperature mapping with a fluorescent polymeric thermometer and fluorescence lifetime imaging microscopy",
+  "abstract": "Cellular functions are fundamentally regulated by intracellular temperature, which influences biochemical reactions inside a cell. Despite the important contributions to biological and medical applications that it would offer, intracellular temperature mapping has not been achieved. Here we demonstrate the first intracellular temperature mapping based on a fluorescent polymeric thermometer and fluorescence lifetime imaging microscopy. The spatial and temperature resolutions of our thermometry were at the diffraction limited level (200 nm) and 0.18–0.58 °C. The intracellular temperature distribution we observed indicated that the nucleus and centrosome of a COS7 cell, both showed a significantly higher temperature than the cytoplasm and that the temperature gap between the nucleus and the cytoplasm differed depending on the cell cycle. The heat production from mitochondria was also observed as a proximal local temperature increase. These results showed that our new intracellular thermometry could determine an intrinsic relationship between the temperature and organelle function. Intracellular temperature mapping has not previously been achieved. Now, a fluorescent polymeric thermometer has been developed that can be used in combination with fluorescence-lifetime imaging microscopy to allow thermometry with spatial and temperature resolutions of 200 nm and 0.18–0.58 ° C.",
+  "authors": [
+    "Kohki Okabe",
+    "Noriko Inada",
+    "Chie Gota",
+    "Yoshie Harada",
+    "Takashi Funatsu",
+    "Seiichi Uchiyama"
+  ],
+  "year": 2012,
+  "doi": "10.1038/ncomms1714",
+  "source": "openalex",
+  "categories": [
+    "Intracellular",
+    "Cytoplasm",
+    "Thermometer",
+    "Microscopy",
+    "Fluorescence microscope",
+    "Fluorescence",
+    "Biophysics",
+    "Organelle",
+    "Centrosome",
+    "Nucleus",
+    "Fluorescence-lifetime imaging microscopy",
+    "Materials science",
+    "Chemistry",
+    "Cell biology",
+    "Cell",
+    "Biology",
+    "Biochemistry",
+    "Cell cycle",
+    "Optics",
+    "Physics",
+    "Quantum mechanics"
+  ],
+  "citation_count": 1212,
+  "open_access_pdf_url": "https://www.nature.com/articles/ncomms1714.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2061464027.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:04.722899+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2061464027",
+    "concepts": [
+      "Intracellular",
+      "Cytoplasm",
+      "Thermometer",
+      "Microscopy",
+      "Fluorescence microscope"
+    ],
+    "oa_status": "hybrid"
+  }
+}

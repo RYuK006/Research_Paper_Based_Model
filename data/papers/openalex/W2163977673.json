@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2163977673",
+  "title": "Conservative Fragments in Bacterial 16S rRNA Genes and Primer Design for 16S Ribosomal DNA Amplicons in Metagenomic Studies",
+  "abstract": "Bacterial 16S ribosomal DNA (rDNA) amplicons have been widely used in the classification of uncultured bacteria inhabiting environmental niches. Primers targeting conservative regions of the rDNAs are used to generate amplicons of variant regions that are informative in taxonomic assignment. One problem is that the percentage coverage and application scope of the primers used in previous studies are largely unknown. In this study, conservative fragments of available rDNA sequences were first mined and then used to search for candidate primers within the fragments by measuring the coverage rate defined as the percentage of bacterial sequences containing the target. Thirty predicted primers with a high coverage rate (>90%) were identified, which were basically located in the same conservative regions as known primers in previous reports, whereas 30% of the known primers were associated with a coverage rate of <90%. The application scope of the primers was also examined by calculating the percentages of failed detections in bacterial phyla. Primers A519-539, E969-983, E1063-1081, U515 and E517, are highly recommended because of their high coverage in almost all phyla. As expected, the three predominant phyla, Firmicutes, Gemmatimonadetes and Proteobacteria, are best covered by the predicted primers. The primers recommended in this report shall facilitate a comprehensive and reliable survey of bacterial diversity in metagenomic studies.",
+  "authors": [
+    "Yong Wang",
+    "Pei‐Yuan Qian"
+  ],
+  "year": 2009,
+  "doi": "10.1371/journal.pone.0007401",
+  "source": "openalex",
+  "categories": [
+    "Amplicon",
+    "Biology",
+    "Metagenomics",
+    "Phylum",
+    "16S ribosomal RNA",
+    "Ribosomal RNA",
+    "Proteobacteria",
+    "Primer (cosmetics)",
+    "Firmicutes",
+    "Bacterial phyla",
+    "Genetics",
+    "Ribosomal DNA",
+    "Computational biology",
+    "Polymerase chain reaction",
+    "Gene",
+    "Phylogenetics",
+    "Chemistry",
+    "Organic chemistry"
+  ],
+  "citation_count": 1333,
+  "open_access_pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0007401&type=printable",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2163977673.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:55.322839+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2163977673",
+    "concepts": [
+      "Amplicon",
+      "Biology",
+      "Metagenomics",
+      "Phylum",
+      "16S ribosomal RNA"
+    ],
+    "oa_status": "gold"
+  }
+}

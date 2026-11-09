@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2101836973",
+  "title": "Survey and synthesis of intra‐ and interspecific variation in stomatal sensitivity to vapour pressure deficit",
+  "abstract": "ABSTRACT Responses of stomatal conductance ( g s ) to increasing vapour pressure deficit ( D ) generally follow an exponential decrease described equally well by several empirical functions. However, the magnitude of the decrease – the stomatal sensitivity – varies considerably both within and between species. Here we analysed data from a variety of sources employing both porometric and sap flux estimates of g s to evaluate the hypothesis that stomatal sensitivity is proportional to the magnitude of g s at low D ( ≤ 1 kPa). To test this relationship we used the function g s = g sref – m · ln D where m is the stomatal sensitivity and g sref = g s at D = 1 kPa. Regardless of species or methodology, m was highly correlated with g sref (average r 2 = 0·75) with a slope of approximately 0·6. We demonstrate that this empirical slope is consistent with the theoretical slope derived from a simple hydraulic model that assumes stomatal regulation of leaf water potential. The theoretical slope is robust to deviations from underlying assumptions and variation in model parameters. The relationships within and among species are close to theoretical predictions, regardless of whether the analysis is based on porometric measurements of g s in relation to leaf‐surface D ( D s ), or on sap flux‐based stomatal conductance of whole trees ( G Si ), or stand‐level stomatal conductance ( G S ) in relation to D . Thus, individuals, species, and stands with high stomatal conductance at low D show a greater sensitivity to D , as required by the role of stomata in regulating leaf water potential.",
+  "authors": [
+    "Ram Oren G",
+    "John S. Sperry",
+    "Gabriel George Katul",
+    "Diane E. Pataki",
+    "Brent E. Ewers",
+    "Nathan G. Phillips",
+    "Karina V. R. Schäfer"
+  ],
+  "year": 1999,
+  "doi": "10.1046/j.1365-3040.1999.00513.x",
+  "source": "openalex",
+  "categories": [
+    "Stomatal conductance",
+    "Vapour Pressure Deficit",
+    "Conductance",
+    "Sensitivity (control systems)",
+    "Interspecific competition",
+    "Flux (metallurgy)",
+    "Mathematics",
+    "Atmospheric sciences",
+    "Botany",
+    "Chemistry",
+    "Horticulture",
+    "Biology",
+    "Transpiration",
+    "Physics",
+    "Photosynthesis",
+    "Combinatorics",
+    "Organic chemistry",
+    "Electronic engineering",
+    "Engineering"
+  ],
+  "citation_count": 1301,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1046/j.1365-3040.1999.00513.x",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2101836973.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:57.819913+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2101836973",
+    "concepts": [
+      "Stomatal conductance",
+      "Vapour Pressure Deficit",
+      "Conductance",
+      "Sensitivity (control systems)",
+      "Interspecific competition"
+    ],
+    "oa_status": "bronze"
+  }
+}

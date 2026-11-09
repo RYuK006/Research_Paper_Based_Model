@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W3023969750",
+  "title": "First-principles study of spontaneous polarization in multiferroic Bi Fe O 3",
+  "abstract": "The ground-state structural and electronic properties of ferroelectric $\\mathrm{Bi}\\mathrm{Fe}{\\mathrm{O}}_{3}$ are calculated using density functional theory within the local spin-density approximation (LSDA) and the $\\mathrm{LSDA}+U$ method. The crystal structure is computed to be rhombohedral with space group $R3c$, and the electronic structure is found to be insulating and antiferromagnetic, both in excellent agreement with available experiments. A large ferroelectric polarization of $90--100\\phantom{\\rule{0.3em}{0ex}}\\ensuremath{\\mu}\\mathrm{C}∕{\\mathrm{cm}}^{2}$ is predicted, consistent with the large atomic displacements in the ferroelectric phase and with recent experimental reports, but differing by an order of magnitude from early experiments. One possible explanation is that the latter may have suffered from large leakage currents. However, both past and contemporary measurements are shown to be consistent with the modern theory of polarization, suggesting that the range of reported polarizations may instead correspond to distinct switching paths in structural space. Modern measurements on well-characterized bulk samples are required to confirm this interpretation.",
+  "authors": [
+    "Jeffrey B. Neaton",
+    "Claude Ederer",
+    "Umesh Vasudeo Waghmare",
+    "Nicola A. Spaldin",
+    "K. M. Rabe"
+  ],
+  "year": 2005,
+  "doi": "10.1103/physrevb.71.014113",
+  "source": "openalex",
+  "categories": [
+    "Ferroelectricity",
+    "Antiferromagnetism",
+    "Multiferroics",
+    "Polarization (electrochemistry)",
+    "Condensed matter physics",
+    "Ground state",
+    "Density functional theory",
+    "Physics",
+    "Materials science",
+    "Crystallography",
+    "Quantum mechanics",
+    "Chemistry",
+    "Physical chemistry",
+    "Dielectric"
+  ],
+  "citation_count": 1475,
+  "open_access_pdf_url": "http://link.aps.org/pdf/10.1103/PhysRevB.71.014113",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3023969750.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:48.171871+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3023969750",
+    "concepts": [
+      "Ferroelectricity",
+      "Antiferromagnetism",
+      "Multiferroics",
+      "Polarization (electrochemistry)",
+      "Condensed matter physics"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W4281665512",
+  "title": "TrackMate 7: integrating state-of-the-art segmentation algorithms into tracking pipelines",
+  "abstract": "TrackMate is an automated tracking software used to analyze bioimages and distributed as a Fiji plugin. Here we introduce a new version of TrackMate rewritten to improve performance and usability, and integrating several popular machine and deep learning algorithms to improve versatility. We illustrate how these new components can be used to efficiently track objects from brightfield and fluorescence microscopy images across a wide range of bio-imaging experiments.",
+  "authors": [
+    "Dmitry Ershov",
+    "Minh-Son Phan",
+    "Joanna W. Pylvänäinen",
+    "Stéphane U. Rigaud",
+    "Laure Le Blanc",
+    "Arthur Charles‐Orszag",
+    "James R. W. Conway",
+    "Romain F. Laine",
+    "Nathan H. Roy",
+    "Daria Bonazzi",
+    "Guillaume Duménil",
+    "Guillaume Jacquemet",
+    "Jean-Yves Tinévez"
+  ],
+  "year": 2022,
+  "doi": "10.1038/s41592-022-01507-1",
+  "source": "openalex",
+  "categories": [
+    "Segmentation",
+    "Pipeline transport",
+    "Computer science",
+    "Tracking (education)",
+    "State (computer science)",
+    "Algorithm",
+    "Pipeline (software)",
+    "Artificial intelligence",
+    "Computer vision",
+    "Data mining",
+    "Chemistry",
+    "Programming language",
+    "Pedagogy",
+    "Organic chemistry",
+    "Psychology"
+  ],
+  "citation_count": 1318,
+  "open_access_pdf_url": "https://doi.org/10.1038/s41592-022-01507-1",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W4281665512.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:57.692263+00:00",
+  "raw_metadata": {
+    "openalex_id": "W4281665512",
+    "concepts": [
+      "Segmentation",
+      "Pipeline transport",
+      "Computer science",
+      "Tracking (education)",
+      "State (computer science)"
+    ],
+    "oa_status": "hybrid"
+  }
+}

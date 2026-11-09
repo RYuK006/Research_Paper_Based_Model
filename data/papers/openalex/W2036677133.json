@@ -1,0 +1,43 @@
+{
+  "id": "openalex:W2036677133",
+  "title": "Identification of the cis-Acting Endoplasmic Reticulum Stress Response Element Responsible for Transcriptional Induction of Mammalian Glucose-regulated Proteins",
+  "abstract": "When unfolded proteins accumulate in the endoplasmic reticulum (ER), transcription of glucose-regulated proteins (GRPs) representing ER-resident molecular chaperones is markedly induced via the unfolded protein response (UPR) pathway. In contrast to recent progress in the analysis of yeast UPR, both cis-acting elements and transactivators responsible for mammalian UPR have remained obscure. Here, we analyzed the promoter regions of human GRP78, GRP94, and calreticulin genes and identified a novel element designated the ER stress response element (ERSE). ERSE, with a consensus of CCAATN9CCACG, was shown to be necessary and sufficient for induction of these GRPs. Using yeast one-hybrid screening, we isolated a human cDNA encoding a basic leucine zipper (bZIP) protein, ATF6, as a putative ERSE-binding protein. When overexpressed in HeLa cells, ATF6 enhanced transcription of GRP genes in an ERSE-dependent manner, whereas CREB-RP, another bZIP protein closely related to ATF6, specifically inhibited GRP induction. Endogenous ATF6 constitutively expressed as a 90-kDa protein was converted to a 50-kDa protein in ER-stressed cells, which appeared to be important for the cellular response to ER stress. These results suggest that, as in yeast, bZIP proteins are involved in mammalian UPR, acting through newly defined ERSE.",
+  "authors": [
+    "Hiderou Yoshida",
+    "Kyosuke Haze",
+    "Hideki Yanagi",
+    "Takashi Yura",
+    "Kazutoshi Mori"
+  ],
+  "year": 1998,
+  "doi": "10.1074/jbc.273.50.33741",
+  "source": "openalex",
+  "categories": [
+    "Endoplasmic reticulum",
+    "Fight-or-flight response",
+    "Unfolded protein response",
+    "Cell biology",
+    "Identification (biology)",
+    "Biology",
+    "Chemistry",
+    "Biochemistry",
+    "Gene",
+    "Botany"
+  ],
+  "citation_count": 1245,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925819885940/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2036677133.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:02.745358+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2036677133",
+    "concepts": [
+      "Endoplasmic reticulum",
+      "Fight-or-flight response",
+      "Unfolded protein response",
+      "Cell biology",
+      "Identification (biology)"
+    ],
+    "oa_status": "hybrid"
+  }
+}

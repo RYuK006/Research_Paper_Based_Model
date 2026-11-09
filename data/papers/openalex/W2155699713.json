@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W2155699713",
+  "title": "Mineral Dust Entrainment and Deposition (DEAD) model: Description and 1990s dust climatology",
+  "abstract": "We describe a model for predicting the size‐resolved distribution of atmospheric dust for climate and chemistry‐related studies. The dust distribution from 1990 to 1999 is simulated with our mineral aerosol entrainment and deposition module embedded in a chemical transport model. Mobilization processes include entrainment thresholds for saltation, moisture inhibition, drag partitioning, and saltation feedback. For mobilization we assume that soil texture is globally uniform and is replete with saltators. Soil erodibility is prescribed by a new physically based geomorphic index that is proportional to the runoff area upstream of each source region. Dry deposition processes include sedimentation and turbulent mix‐out. Nucleation scavenging and size‐resolved washout in both stratiform and convective cloud types are represented. Simulations of the 1990s broadly agree with station observations and satellite‐inferred dust distributions. Without invoking anthropogenic mechanisms the model captures the seasonal migration of the transatlantic African dust plume, and it captures the spring maximum in Asian dust outflow and concentration over the Pacific. We estimate the 1990s global annual mean and variability of D < 10 μm dust to be the following: emissions, 1490 ± 160 Tg yr −1 ; burden, 17 ± 2 Tg; and optical depth at 0.63 μm, 0.030 ± 0.004. This emission, burden, and optical depth are significantly lower than some recent estimates. The model underestimates transport and deposition of East Asian and Australian dust to some regions of the Pacific Ocean. An underestimate of long‐range transport of particles larger than 3 μm contributes to this bias. Our experiments support the hypothesis that dust emission “hot spots” exist in regions where alluvial sediments have accumulated and may be disturbed.",
+  "authors": [
+    "Charles Sutton Zender",
+    "Huisheng Bian",
+    "David J. Newman"
+  ],
+  "year": 2003,
+  "doi": "10.1029/2002jd002775",
+  "source": "openalex",
+  "categories": [
+    "Mineral dust",
+    "Atmospheric sciences",
+    "Environmental science",
+    "Plume",
+    "Aerosol",
+    "Outflow",
+    "Deposition (geology)",
+    "Entrainment (biomusicology)",
+    "Asian Dust",
+    "Scavenging",
+    "Surface runoff",
+    "Climatology",
+    "Geology",
+    "Meteorology",
+    "Oceanography",
+    "Geomorphology",
+    "Sediment",
+    "Physics",
+    "Chemistry",
+    "Rhythm",
+    "Biochemistry",
+    "Biology",
+    "Antioxidant",
+    "Acoustics",
+    "Ecology"
+  ],
+  "citation_count": 1337,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2002JD002775",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2155699713.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:55.301316+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2155699713",
+    "concepts": [
+      "Mineral dust",
+      "Atmospheric sciences",
+      "Environmental science",
+      "Plume",
+      "Aerosol"
+    ],
+    "oa_status": "bronze"
+  }
+}

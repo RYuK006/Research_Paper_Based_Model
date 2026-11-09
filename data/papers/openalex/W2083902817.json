@@ -1,0 +1,36 @@
+{
+  "id": "openalex:W2083902817",
+  "title": "Nomenclature in evaluation of analytical methods including detection and quantification capabilities (IUPAC Recommendations 1995)",
+  "abstract": "This IUPAC nomenclature document has been prepared to help establish a uniform and meaningful approach to terminology, notation, and formulation for performance characteristics of the Chemical Measurement Process (CMP).Following definition of the CMP and its Performance Characteristics, the document addresses fundamental quantities related to the observed response and calibration, and the complement to the calibration function: the evaluation function.Performance characteristics related to precision and accuracy comprise the heart of the document.These include measures for the means or \"expected values\" of the relevant chemical quantities, as well as dispersion measures such as variance and standard error.Attention is given also to important issues involving: assumptions, internal and external quality control, estimation, error propagation and uncertainty components, and bounds for systematic error.Special treatment is given to terminology and concepts underlying detection and quantification capabilities in chemical metrology, and the significance of the blank.The document concludes with a note on the important distinction between the Sampled Population and the Target Population, especially in relation to the interlaboratory environment.CONTENTS Objective and introduction Analytical techniques, methods, and the measurement process Performance characteristics of the chemical measurement process Structure of the CMP The observed signal; calibration function Evaluation function Performance characteristics not specifically related to precision and accuracy Precision and accuracyrelated performance characteristics Control and testing of assumptions Detection and quantification capabilities Estimation Compound CMPs -the interlaboratory environment References Index of terms",
+  "authors": [
+    "L. A. Currie"
+  ],
+  "year": 1995,
+  "doi": "10.1351/pac199567101699",
+  "source": "openalex",
+  "categories": [
+    "Chemical nomenclature",
+    "Chemistry",
+    "Nomenclature",
+    "Organic chemistry",
+    "Taxonomy (biology)",
+    "Biology",
+    "Botany"
+  ],
+  "citation_count": 1733,
+  "open_access_pdf_url": "https://www.degruyter.com/document/doi/10.1351/pac199567101699/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2083902817.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:26.227498+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2083902817",
+    "concepts": [
+      "Chemical nomenclature",
+      "Chemistry",
+      "Nomenclature",
+      "Organic chemistry",
+      "Taxonomy (biology)"
+    ],
+    "oa_status": "bronze"
+  }
+}

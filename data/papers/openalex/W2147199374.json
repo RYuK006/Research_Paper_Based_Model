@@ -1,0 +1,59 @@
+{
+  "id": "openalex:W2147199374",
+  "title": "Uniaxial strain in graphene by Raman spectroscopy: G peak splitting, Grüneisen parameters, and sample orientation",
+  "abstract": "We uncover the constitutive relation of graphene and probe the physics of its optical phonons by studying its Raman spectrum as a function of uniaxial strain. We find that the doubly degenerate ${E}_{2g}$ optical mode splits in two components: one polarized along the strain and the other perpendicular. This splits the $G$ peak into two bands, which we call ${G}^{+}$ and ${G}^{\\ensuremath{-}}$, by analogy with the effect of curvature on the nanotube $G$ peak. Both peaks redshift with increasing strain and their splitting increases, in excellent agreement with first-principles calculations. Their relative intensities are found to depend on light polarization, which provides a useful tool to probe the graphene crystallographic orientation with respect to the strain. The 2D and $2{\\text{D}}^{\\ensuremath{'}}$ bands also redshift but do not split for small strains. We study the Gr\\\"uneisen parameters for the phonons responsible for the $G$, $D$, and ${D}^{\\ensuremath{'}}$ peaks. These can be used to measure the amount of uniaxial or biaxial strain, providing a fundamental tool for nanoelectronics, where strain monitoring is of paramount importance",
+  "authors": [
+    "TARIQ M. G. MOHIUDDIN",
+    "Antonio Lombardo",
+    "Rahul R. Nair",
+    "A. Bonetti",
+    "G. Savini",
+    "R. Jalil",
+    "Nicola Bonini",
+    "D. M. Basko",
+    "Costas Galiotis",
+    "Nicola Marzari",
+    "Kostya S. Novoselov",
+    "Andre K. Geim",
+    "Andrea Carlo Ferrari"
+  ],
+  "year": 2009,
+  "doi": "10.1103/physrevb.79.205433",
+  "source": "openalex",
+  "categories": [
+    "Graphene",
+    "Phonon",
+    "Raman spectroscopy",
+    "Degenerate energy levels",
+    "Strain (injury)",
+    "Physics",
+    "Redshift",
+    "Orientation (vector space)",
+    "Condensed matter physics",
+    "Materials science",
+    "Crystallography",
+    "Quantum mechanics",
+    "Geometry",
+    "Chemistry",
+    "Mathematics",
+    "Medicine",
+    "Galaxy",
+    "Internal medicine"
+  ],
+  "citation_count": 2029,
+  "open_access_pdf_url": "https://arxiv.org/pdf/0812.1538",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2147199374.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:15.612049+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2147199374",
+    "concepts": [
+      "Graphene",
+      "Phonon",
+      "Raman spectroscopy",
+      "Degenerate energy levels",
+      "Strain (injury)"
+    ],
+    "oa_status": "green"
+  }
+}

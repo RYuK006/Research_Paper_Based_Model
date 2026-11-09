@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W1656644300",
+  "title": "Genistein, a specific inhibitor of tyrosine-specific protein kinases.",
+  "abstract": "Tyrosine-specific protein kinase activity of the epidermal growth factor (EGF) receptor, pp60v-src and pp110gag-fes was inhibited in vitro by an isoflavone genistein. The inhibition was competitive with respect to ATP and noncompetitive to a phosphate acceptor, histone H2B. By contrast, genistein scarcely inhibited the enzyme activities of serine- and threonine-specific protein kinases such as cAMP-dependent protein kinase, phosphorylase kinase, and the Ca2+/phospholipid-dependent enzyme protein kinase C. When the effect of genistein on the phosphorylation of the EGF receptor was examined in cultured A431 cells, EGF-stimulated serine, threonine, and tyrosine phosphorylation was decreased. Phosphoamino acid analysis of total cell proteins revealed that genistein inhibited the EGF-stimulated increase in phosphotyrosine level in A431 cells.",
+  "authors": [
+    "Tetsu Akiyama",
+    "Junko Ishida",
+    "S. Nakagawa",
+    "Hiroshi Ogawara",
+    "Shun-ichi I. WATANABE",
+    "Nobuko Itoh",
+    "M. Shibuya",
+    "Yuko Fukami"
+  ],
+  "year": 1987,
+  "doi": "10.1016/s0021-9258(18)45614-1",
+  "source": "openalex",
+  "categories": [
+    "Mitogen-activated protein kinase kinase",
+    "Tyrosine kinase",
+    "Platelet-derived growth factor receptor",
+    "Biology",
+    "MAP2K7",
+    "Proto-oncogene tyrosine-protein kinase Src",
+    "Receptor tyrosine kinase",
+    "Protein tyrosine phosphatase",
+    "Biochemistry",
+    "Cyclin-dependent kinase 9",
+    "Molecular biology",
+    "Cyclin-dependent kinase 2",
+    "Protein kinase A",
+    "Chemistry",
+    "Kinase",
+    "Signal transduction",
+    "Growth factor",
+    "Receptor"
+  ],
+  "citation_count": 3703,
+  "open_access_pdf_url": "https://doi.org/10.1016/s0021-9258(18)45614-1",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1656644300.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:54.158118+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1656644300",
+    "concepts": [
+      "Mitogen-activated protein kinase kinase",
+      "Tyrosine kinase",
+      "Platelet-derived growth factor receptor",
+      "Biology",
+      "MAP2K7"
+    ],
+    "oa_status": "hybrid"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "openalex:W2156281143",
+  "title": "Alzheimer's disease β-amyloid peptides are released in association with exosomes",
+  "abstract": "Although the exact etiology of Alzheimer's disease (AD) is a topic of debate, the consensus is that the accumulation of beta-amyloid (Abeta) peptides in the senile plaques is one of the hallmarks of the progression of the disease. The Abeta peptide is formed by the amyloidogenic cleavage of the amyloid precursor protein (APP) by beta- and gamma-secretases. The endocytic system has been implicated in the cleavages leading to the formation of Abeta. However, the identity of the intracellular compartment where the amyloidogenic secretases cleave and the mechanism by which the intracellularly generated Abeta is released into the extracellular milieu are not clear. Here, we show that beta-cleavage occurs in early endosomes followed by routing of Abeta to multivesicular bodies (MVBs) in HeLa and N2a cells. Subsequently, a minute fraction of Abeta peptides can be secreted from the cells in association with exosomes, intraluminal vesicles of MVBs that are released into the extracellular space as a result of fusion of MVBs with the plasma membrane. Exosomal proteins were found to accumulate in the plaques of AD patient brains, suggesting a role in the pathogenesis of AD.",
+  "authors": [
+    "Lawrence Rajendran",
+    "Masanori Honsho",
+    "Tobias R. Zahn",
+    "Patrick Keller",
+    "Kathrin D. Geiger",
+    "Paul Verkade",
+    "Kai Simons"
+  ],
+  "year": 2006,
+  "doi": "10.1073/pnas.0603838103",
+  "source": "openalex",
+  "categories": [
+    "Endosome",
+    "Senile plaques",
+    "Amyloid precursor protein secretase",
+    "Endocytic cycle",
+    "Microvesicles",
+    "Extracellular",
+    "Cell biology",
+    "Amyloid precursor protein",
+    "Alpha secretase",
+    "Intracellular",
+    "Pathogenesis",
+    "Amyloid (mycology)",
+    "P3 peptide",
+    "Chemistry",
+    "Biology",
+    "Endocytosis",
+    "Alzheimer's disease",
+    "Biochemistry",
+    "Cell",
+    "Disease",
+    "Medicine",
+    "Immunology",
+    "Pathology",
+    "Gene",
+    "microRNA",
+    "Inorganic chemistry"
+  ],
+  "citation_count": 1392,
+  "open_access_pdf_url": "http://europepmc.org/pmc/articles/PMC1544060",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2156281143.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:52.540445+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2156281143",
+    "concepts": [
+      "Endosome",
+      "Senile plaques",
+      "Amyloid precursor protein secretase",
+      "Endocytic cycle",
+      "Microvesicles"
+    ],
+    "oa_status": "green"
+  }
+}

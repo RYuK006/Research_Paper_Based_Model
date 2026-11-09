@@ -1,0 +1,57 @@
+{
+  "id": "openalex:W2165102628",
+  "title": "Energetics of syntrophic cooperation in methanogenic degradation",
+  "abstract": "Fatty acids and alcohols are key intermediates in the methanogenic degradation of organic matter, e.g., in anaerobic sewage sludge digestors or freshwater lake sediments. They are produced by classical fermenting bacteria for disposal of electrons derived in simultaneous substrate oxidations. Methanogenic bacteria can degrade primarily only one-carbon compounds. Therefore, acetate, propionate, ethanol, and their higher homologs have to be fermented further to one-carbon compounds. These fermentations are called secondary or syntrophic fermentations. They are endergonic processes under standard conditions and depend on intimate coupling with methanogenesis. The energetic situation of the prokaryotes cooperating in these processes is problematic: the free energy available in the reactions for total conversion of substrate to methane attributes to each partner amounts of energy in the range of the minimum biochemically convertible energy, i.e., 20 to 25 kJ per mol per reaction. This amount corresponds to one-third of an ATP unit and is equivalent to the energy required for a monovalent ion to cross the charged cytoplasmic membrane. Recent studies have revealed that syntrophically fermenting bacteria synthesize ATP by substrate-level phosphorylation and reinvest part of the ATP-bound energy into reversed electron transport processes, to release the electrons at a redox level accessible by the partner bacteria and to balance their energy budget. These findings allow us to understand the energy economy of these bacteria on the basis of concepts derived from the bioenergetics of other microorganisms.",
+  "authors": [
+    "Bernhard Schink"
+  ],
+  "year": 1997,
+  "doi": "10.1128/mmbr.61.2.262-280.1997",
+  "source": "openalex",
+  "categories": [
+    "Methanogenesis",
+    "Bacteria",
+    "Fermentation",
+    "Propionate",
+    "Bioenergetics",
+    "Acetogenesis",
+    "Biology",
+    "Energy source",
+    "Substrate-level phosphorylation",
+    "Euryarchaeota",
+    "Substrate (aquarium)",
+    "Biochemistry",
+    "Chemiosmosis",
+    "Redox",
+    "Microorganism",
+    "Sewage sludge",
+    "Archaea",
+    "Chemistry",
+    "Sewage",
+    "Ecology",
+    "ATP synthase",
+    "Inorganic chemistry",
+    "Mitochondrion",
+    "Enzyme",
+    "Engineering",
+    "Renewable energy",
+    "Genetics",
+    "Waste management"
+  ],
+  "citation_count": 1838,
+  "open_access_pdf_url": "http://europepmc.org/pmc/articles/PMC232610",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2165102628.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:22.292183+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2165102628",
+    "concepts": [
+      "Methanogenesis",
+      "Bacteria",
+      "Fermentation",
+      "Propionate",
+      "Bioenergetics"
+    ],
+    "oa_status": "green"
+  }
+}

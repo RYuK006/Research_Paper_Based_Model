@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W2022298832",
+  "title": "Composition, structure, and stability of RuO 2 ( 110 ) as a function of oxygen pressure",
+  "abstract": "Using density-functional theory we calculate the Gibbs free energy to determine the lowest-energy structure of a ${\\mathrm{RuO}}_{2}(110)$ surface in thermodynamic equilibrium with an oxygen-rich environment. The traditionally assumed stoichiometric termination is only found to be favorable at low oxygen chemical potentials, i.e., low pressures and/or high temperatures. At a realistic O pressure, the surface is predicted to contain additional terminal O atoms. Although this O excess defines a so-called polar surface, we show that the prevalent ionic model, that dismisses such terminations on electrostatic grounds, is of little validity for ${\\mathrm{RuO}}_{2}(110).$ Together with analogous results obtained previously at the (0001) surface of corundum-structured oxides, these findings on (110) rutile indicate that the stability of nonstoichiometric terminations is a more general phenomenon of transition metal oxide surfaces.",
+  "authors": [
+    "Karsten Reuter",
+    "Matthias Scheffler"
+  ],
+  "year": 2001,
+  "doi": "10.1103/physrevb.65.035406",
+  "source": "openalex",
+  "categories": [
+    "Stoichiometry",
+    "Gibbs free energy",
+    "Rutile",
+    "Oxide",
+    "Corundum",
+    "Thermodynamics",
+    "Chemical stability",
+    "Ionic bonding",
+    "Oxygen",
+    "Chemistry",
+    "Physical chemistry",
+    "Materials science",
+    "Crystallography",
+    "Mineralogy",
+    "Physics",
+    "Ion",
+    "Organic chemistry"
+  ],
+  "citation_count": 2125,
+  "open_access_pdf_url": "http://link.aps.org/pdf/10.1103/PhysRevB.65.035406",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2022298832.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:12.777191+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2022298832",
+    "concepts": [
+      "Stoichiometry",
+      "Gibbs free energy",
+      "Rutile",
+      "Oxide",
+      "Corundum"
+    ],
+    "oa_status": "hybrid"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2151460035",
+  "title": "PatchDock and SymmDock: servers for rigid and symmetric docking",
+  "abstract": "Here, we describe two freely available web servers for molecular docking. The PatchDock method performs structure prediction of protein-protein and protein-small molecule complexes. The SymmDock method predicts the structure of a homomultimer with cyclic symmetry given the structure of the monomeric unit. The inputs to the servers are either protein PDB codes or uploaded protein structures. The services are available at http://bioinfo3d.cs.tau.ac.il. The methods behind the servers are very efficient, allowing large-scale docking experiments.",
+  "authors": [
+    "Dina Schneidman‐Duhovny",
+    "Y. Inbar",
+    "Ruth Nussinov",
+    "Haim J. Wolfson"
+  ],
+  "year": 2005,
+  "doi": "10.1093/nar/gki481",
+  "source": "openalex",
+  "categories": [
+    "Server",
+    "Docking (animal)",
+    "Upload",
+    "Web server",
+    "Biology",
+    "Protein Data Bank (RCSB PDB)",
+    "Protein structure",
+    "Computational biology",
+    "Computer science",
+    "Crystallography",
+    "The Internet",
+    "Operating system",
+    "Biochemistry",
+    "Chemistry",
+    "Nursing",
+    "Medicine"
+  ],
+  "citation_count": 3013,
+  "open_access_pdf_url": "https://academic.oup.com/nar/article-pdf/33/suppl_2/W363/7623622/gki481.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2151460035.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:01.797503+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2151460035",
+    "concepts": [
+      "Server",
+      "Docking (animal)",
+      "Upload",
+      "Web server",
+      "Biology"
+    ],
+    "oa_status": "gold"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "openalex:W2012850835",
+  "title": "Extinction Coefficients of Chlorophyll a and b in N,N -Dimethylformamide and 80% Acetone",
+  "abstract": "We found inconsistencies in the commonly used data for chlorophyll analysis in 80% acetone. Recently developed extinction coefficients for chlorophyll b in N,N-dimethylformamide (DMF) based on values from 80% acetone are low as a result of these inconsistencies. We determined extinction coefficients of chlorophyll a (Chl a) and chlorophyll b (Chl b) in DMF for wavelengths of 618 to 665 nanometers. The simultaneous equations necessary for quantifying Chl a, Chl b, or total Chl in DMF in the absence of other chlorophyllous pigments are: Chl a = 12.70A(664.5) - 2.79A(647); Chl b = 20.70 A(647) - 4.62A(664.5); total Chl = 17.90A(647) + 8.08A(664.5), where A = absorbance in 1.00 centimeter cuvettes and Chl = milligrams per liter.N,N-Dimethylformamide is a very convenient solvent for Chl extraction since it is effective on intact plant parts and Chl is quite stable in DMF. There was no difference in the amount of Chl extracted when plant tissue was stored for 1 or 3 days at three temperatures, with or without solvent added.",
+  "authors": [
+    "William P. Inskeep",
+    "Paul R. Bloom"
+  ],
+  "year": 1985,
+  "doi": "10.1104/pp.77.2.483",
+  "source": "openalex",
+  "categories": [
+    "Acetone",
+    "Extinction (optical mineralogy)",
+    "Chemistry",
+    "Organic chemistry",
+    "Mineralogy"
+  ],
+  "citation_count": 1408,
+  "open_access_pdf_url": "https://academic.oup.com/plphys/article-pdf/77/2/483/35621643/plphys_v77_2_483.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2012850835.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:50.703696+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2012850835",
+    "concepts": [
+      "Acetone",
+      "Extinction (optical mineralogy)",
+      "Chemistry",
+      "Organic chemistry",
+      "Mineralogy"
+    ],
+    "oa_status": "bronze"
+  }
+}

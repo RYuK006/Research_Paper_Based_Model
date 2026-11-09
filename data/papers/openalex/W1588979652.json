@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W1588979652",
+  "title": "Accurate secondary structure prediction and fold recognition for circular dichroism spectroscopy",
+  "abstract": "Circular dichroism (CD) spectroscopy is a widely used technique for the study of protein structure. Numerous algorithms have been developed for the estimation of the secondary structure composition from the CD spectra. These methods often fail to provide acceptable results on α/β-mixed or β-structure-rich proteins. The problem arises from the spectral diversity of β-structures, which has hitherto been considered as an intrinsic limitation of the technique. The predictions are less reliable for proteins of unusual β-structures such as membrane proteins, protein aggregates, and amyloid fibrils. Here, we show that the parallel/antiparallel orientation and the twisting of the β-sheets account for the observed spectral diversity. We have developed a method called β-structure selection (BeStSel) for the secondary structure estimation that takes into account the twist of β-structures. This method can reliably distinguish parallel and antiparallel β-sheets and accurately estimates the secondary structure for a broad range of proteins. Moreover, the secondary structure components applied by the method are characteristic to the protein fold, and thus the fold can be predicted to the level of topology in the CATH classification from a single CD spectrum. By constructing a web server, we offer a general tool for a quick and reliable structure analysis using conventional CD or synchrotron radiation CD (SRCD) spectroscopy for the protein science research community. The method is especially useful when X-ray or NMR techniques fail. Using BeStSel on data collected by SRCD spectroscopy, we investigated the structure of amyloid fibrils of various disease-related proteins and peptides.",
+  "authors": [
+    "András Micsonai",
+    "Frank Wien",
+    "Linda Kernya",
+    "Young‐Ho Lee",
+    "Yuji Goto",
+    "Matthieu Réfrégiers",
+    "József Kardos"
+  ],
+  "year": 2015,
+  "doi": "10.1073/pnas.1500851112",
+  "source": "openalex",
+  "categories": [
+    "Antiparallel (mathematics)",
+    "Protein secondary structure",
+    "Circular dichroism",
+    "Beta sheet",
+    "Spectroscopy",
+    "Crystallography",
+    "Protein structure",
+    "Synchrotron radiation",
+    "Synchrotron",
+    "Chemistry",
+    "Materials science",
+    "Physics",
+    "Optics",
+    "Biochemistry",
+    "Quantum mechanics",
+    "Magnetic field"
+  ],
+  "citation_count": 1743,
+  "open_access_pdf_url": "https://www.pnas.org/content/pnas/112/24/E3095.full.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1588979652.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:26.189318+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1588979652",
+    "concepts": [
+      "Antiparallel (mathematics)",
+      "Protein secondary structure",
+      "Circular dichroism",
+      "Beta sheet",
+      "Spectroscopy"
+    ],
+    "oa_status": "bronze"
+  }
+}

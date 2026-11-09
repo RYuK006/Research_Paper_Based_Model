@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W1914381346",
+  "title": "Activation of Glutamatergic Neurotransmission by Ketamine: A Novel Step in the Pathway from NMDA Receptor Blockade to Dopaminergic and Cognitive Disruptions Associated with the Prefrontal Cortex",
+  "abstract": "Subanesthetic doses of ketamine, a noncompetitive NMDA receptor antagonist, impair prefrontal cortex (PFC) function in the rat and produce symptoms in humans similar to those observed in schizophrenia and dissociative states, including impaired performance of frontal lobe-sensitive tests. Several lines of evidence suggest that ketamine may impair PFC function in part by interacting with dopamine neurotransmission in this region. This study sought to determine the mechanism by which ketamine may disrupt dopaminergic neurotransmission in, and cognitive functions associated with, the PFC. A thorough dose-response study using microdialysis in conscious rats indicated that low doses of ketamine (10, 20, and 30 mg/kg) increase glutamate outflow in the PFC, suggesting that at these doses ketamine may increase glutamatergic neurotransmission in the PFC at non-NMDA glutamate receptors. An anesthetic dose of ketamine (200 mg/kg) decreased, and an intermediate dose of 50 mg/kg did not affect, glutamate levels. Ketamine, at 30 mg/kg, also increased the release of dopamine in the PFC. This increase was blocked by intra-PFC application of the AMPA/kainate receptor antagonist, 6-cyano-7-nitroquinoxaline-2,3-dione CNQX. Furthermore, ketamine-induced activation of dopamine release and impairment of spatial delayed alternation in the rodent, a PFC-sensitive cognitive task, was ameliorated by systemic pretreatment with AMPA/kainate receptor antagonist LY293558. These findings suggest that ketamine may disrupt dopaminergic neurotransmission in the PFC as well as cognitive functions associated with this region, in part, by increasing the release of glutamate, thereby stimulating postsynaptic non-NMDA glutamate receptors.",
+  "authors": [
+    "Bita Moghaddam",
+    "Barbara W. Adams",
+    "Anita Verma",
+    "Darron A. Daly"
+  ],
+  "year": 1997,
+  "doi": "10.1523/jneurosci.17-08-02921.1997",
+  "source": "openalex",
+  "categories": [
+    "NMDA receptor",
+    "Glutamatergic",
+    "Kainate receptor",
+    "AMPA receptor",
+    "Neuroscience",
+    "Glutamate receptor",
+    "Dopaminergic",
+    "Dopamine",
+    "Ketamine",
+    "Neurotransmission",
+    "Dizocilpine",
+    "CNQX",
+    "Prefrontal cortex",
+    "Pharmacology",
+    "Chemistry",
+    "Psychology",
+    "Internal medicine",
+    "Medicine",
+    "Receptor",
+    "Cognition"
+  ],
+  "citation_count": 1817,
+  "open_access_pdf_url": "https://www.jneurosci.org/content/jneuro/17/8/2921.full.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1914381346.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:22.364917+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1914381346",
+    "concepts": [
+      "NMDA receptor",
+      "Glutamatergic",
+      "Kainate receptor",
+      "AMPA receptor",
+      "Neuroscience"
+    ],
+    "oa_status": "hybrid"
+  }
+}

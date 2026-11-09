@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W2089592611",
+  "title": "Human mesenchymal stem cells inhibit differentiation and function of monocyte-derived dendritic cells",
+  "abstract": "Mesenchymal stem cells (MSCs), in addition to their multilineage differentiation, have a direct immunosuppressive effect on T-cell proliferation in vitro. However, it is unclear whether they also modulate the immune system by acting on the very first step. In this investigation, we addressed the effects of human MSCs on the differentiation, maturation, and function of dendritic cells (DCs) derived from CD14+ monocytes in vitro. Upon induction with granulocyte-macrophage colony-stimulating factor (GM-CSF) plus interleukin-4 (IL-4), MSC coculture could strongly inhibit the initial differentiation of monocytes to DCs, but this effect is reversible. In particular, such suppression could be recapitulated with no intercellular contact at a higher MSC/monocyte ratio (1:10). Furthermore, mature DCs treated with MSCs were significantly reduced in the expression of CD83, suggesting their skew to immature status. Meanwhile, decreased expression of presentation molecules (HLA-DR and CD1a) and costimulatory molecules (CD80 and CD86) and down-regulated IL-12 secretion were also observed. In consistence, the allostimulatory ability of MSC-treated mature DCs on allogeneic T cells was impaired. In conclusion, our data suggested for the first time that human MSCs could suppress monocyte differentiation into DCs, the most potent antigen-presenting cells (APCs), thus indicating the versatile regulation of MSCs on the ultimate specific immune response.",
+  "authors": [
+    "Xiao-Xia Jiang",
+    "Yi Zhang",
+    "Bing Liu",
+    "Shuang-Xi Zhang",
+    "Ying Wu",
+    "Xiao-Dan Yu",
+    "Ning Mao"
+  ],
+  "year": 2005,
+  "doi": "10.1182/blood-2004-02-0586",
+  "source": "openalex",
+  "categories": [
+    "Mesenchymal stem cell",
+    "CD80",
+    "Cell biology",
+    "CD14",
+    "CD86",
+    "Monocyte",
+    "Dendritic cell",
+    "Cellular differentiation",
+    "Antigen presentation",
+    "Immune system",
+    "Biology",
+    "Antigen-presenting cell",
+    "Follicular dendritic cells",
+    "Immunology",
+    "CD40",
+    "Chemistry",
+    "T cell",
+    "In vitro",
+    "Cytotoxic T cell",
+    "Gene",
+    "Biochemistry"
+  ],
+  "citation_count": 1374,
+  "open_access_pdf_url": "https://ashpublications.org/blood/article-pdf/105/10/4120/1709004/zh801005004120.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2089592611.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:52.711108+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2089592611",
+    "concepts": [
+      "Mesenchymal stem cell",
+      "CD80",
+      "Cell biology",
+      "CD14",
+      "CD86"
+    ],
+    "oa_status": "bronze"
+  }
+}

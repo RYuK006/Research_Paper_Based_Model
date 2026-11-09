@@ -1,0 +1,44 @@
+{
+  "id": "openalex:W2137880050",
+  "title": "k · p theory for two-dimensional transition metal dichalcogenide semiconductors",
+  "abstract": "We present Hamiltonians parametrized by ab initio density functional theory calculations to describe the dispersion of the valence and conduction bands at their extrema (the K , Q , Γ , and M points of the hexagonal Brillouin zone) in atomic crystals of semiconducting monolayer transition metal dichalcogenides (TMDCs). We discuss the parametrization of the essential parts of the Hamiltonians for MoS 2 , MoSe 2 , MoTe 2 , WS 2 , WSe 2 , and WTe 2 , including the spin-splitting and spin-polarization of the bands, and we briefly review the vibrational properties of these materials. We then use theory to analyse optical transitions in two-dimensional TMDCs over a broad spectral range that covers the Van Hove singularities in the band structure (the M points). We also discuss the visualization of scanning tunnelling microscopy maps.",
+  "authors": [
+    "Andor Kormányos",
+    "Guido Burkard",
+    "Martin Gmitra",
+    "Jaroslav Fabian",
+    "Viktor Zólyomi",
+    "N. D. Drummond",
+    "Vladimir I. Fal’ko"
+  ],
+  "year": 2015,
+  "doi": "10.1088/2053-1583/2/2/022001",
+  "source": "openalex",
+  "categories": [
+    "Transition metal",
+    "Semiconductor",
+    "Materials science",
+    "Condensed matter physics",
+    "Chemistry",
+    "Physics",
+    "Optoelectronics",
+    "Biochemistry",
+    "Catalysis"
+  ],
+  "citation_count": 1096,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1088/2053-1583/2/2/022001/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2137880050.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:24.297335+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2137880050",
+    "concepts": [
+      "Transition metal",
+      "Semiconductor",
+      "Materials science",
+      "Condensed matter physics",
+      "Chemistry"
+    ],
+    "oa_status": "hybrid"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W2808305854",
+  "title": "S100A8/A9 in Inflammation",
+  "abstract": "S100A8 and S100A9 (also known as MRP8 ang MRP14, respectively) are Ca2+ binding proteins belonging to the S100 family. They often exist in the form of heterodimer, while homodimer exists very little because of the stability. S100A8/A9 is constitutively expressed in neutrophils and monocytes as a Ca2+ sensor, participating in cytoskeleton rearrangement and arachidonic acid metabolism. During inflammation, S100A8/A9 is released actively and exerts a critical role in modulating the inflammatory response by stimulating leukocyte recruitment and inducing cytokine secretion. S100A8/A9 serves as a candidate biomarker for diagnosis and follow-up as well as a predictive indicator of therapeutic responses to inflammation-associated diseases. As blockade of S100A8/A9 activity using small-molecule inhibitors or antibodies improves pathological conditions in murine models, the heterodimer has potential as a therapeutic target. In this review, we provide a comprehensive and detailed overview of the distribution and biological functions of S100A8/A9 and highlight its application as a diagnostic and therapeutic target in inflammation-associated diseases.",
+  "authors": [
+    "Siwen Wang",
+    "Rui Song",
+    "Ziyi Wang",
+    "Zhaocheng Jing",
+    "Shaoxiong Wang",
+    "Jian Ma"
+  ],
+  "year": 2018,
+  "doi": "10.3389/fimmu.2018.01298",
+  "source": "openalex",
+  "categories": [
+    "S100A9",
+    "S100A8",
+    "Inflammation",
+    "Biomarker",
+    "Secretion",
+    "Blockade",
+    "Cell biology",
+    "Immunology",
+    "Cancer research",
+    "Biology",
+    "Chemistry",
+    "Receptor",
+    "Biochemistry"
+  ],
+  "citation_count": 1489,
+  "open_access_pdf_url": "https://www.frontiersin.org/articles/10.3389/fimmu.2018.01298/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2808305854.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:48.114236+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2808305854",
+    "concepts": [
+      "S100A9",
+      "S100A8",
+      "Inflammation",
+      "Biomarker",
+      "Secretion"
+    ],
+    "oa_status": "gold"
+  }
+}

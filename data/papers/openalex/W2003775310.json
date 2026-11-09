@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2003775310",
+  "title": "Gaseous Diffusion Coefficients",
+  "abstract": "Diffusion coefficients of binary mixtures of dilute gases are comprehensively compiled, critically evaluated, and correlated by new semi-empirical expressions. There are seventy-four systems for which the data are sufficiently extensive, consistent and accurate to allow diffusion coefficients to be recommended with confidence. Deviation plots are given for most of these systems. Almost every gaseous diffusion coefficient which was experimentally determined and reported prior to 1970 can be obtained from the annotated bibliography and table of gas pairs. A detailed analysis of experimental methods is given, and intercomparison of their results helps establish reliability limits for the data, which depend strongly on temperature. Direct measurements are supplemented by calculations based on knowledge of intermolecular forces derived from independent sources—molecular beam scattering for high temperatures, and London dispersion constants for low temperatures. In addition, diffusion coefficients for several mixtures are obtained from experimental data on mixture viscosities and thermal diffusion factors. Combination of all these results gives diffusion coefficients over a very extensive temperature range, from very low temperatures to 10 000 K. All data are corrected for composition dependence and for quantum effects. New semi-empirical equations are derived for making such corrections easily.",
+  "authors": [
+    "Thomas R. Marrero",
+    "Edward A. Mason"
+  ],
+  "year": 1972,
+  "doi": "10.1063/1.3253094",
+  "source": "openalex",
+  "categories": [
+    "Chemistry",
+    "Diffusion",
+    "Thermodynamics",
+    "Intermolecular force",
+    "Range (aeronautics)",
+    "Binary number",
+    "Dispersion (optics)",
+    "Taylor dispersion",
+    "Molecular diffusion",
+    "Virial coefficient",
+    "Statistical physics",
+    "Quantum mechanics",
+    "Physics",
+    "Organic chemistry",
+    "Molecule",
+    "Materials science",
+    "Operations management",
+    "Arithmetic",
+    "Mathematics",
+    "Economics",
+    "Metric (unit)",
+    "Composite material"
+  ],
+  "citation_count": 1235,
+  "open_access_pdf_url": "http://hdl.handle.net/2060/19700033758",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2003775310.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:02.855039+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2003775310",
+    "concepts": [
+      "Chemistry",
+      "Diffusion",
+      "Thermodynamics",
+      "Intermolecular force",
+      "Range (aeronautics)"
+    ],
+    "oa_status": "green"
+  }
+}

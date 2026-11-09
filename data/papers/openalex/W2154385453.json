@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2154385453",
+  "title": "Investigation of the Alamar Blue (resazurin) fluorescent dye for the assessment of mammalian cell cytotoxicity",
+  "abstract": "We show here the identity of Alamar Blue as resazurin. The 'resazurin reduction test' has been used for about 50 years to monitor bacterial and yeast contamination of milk, and also for assessing semen quality. Resazurin (blue and nonfluorescent) is reduced to resorufin (pink and highly fluorescent) which is further reduced to hydroresorufin (uncoloured and nonfluorescent). It is still not known how this reduction occurs, intracellularly via enzyme activity or in the medium as a chemical reaction, although the reduced fluorescent form of Alamar Blue was found in the cytoplasm and of living cells nucleus of dead cells. Recently, the dye has gained popularity as a very simple and versatile way of measuring cell proliferation and cytotoxicity. This dye presents numerous advantages over other cytotoxicity or proliferation tests but we observed several drawbacks to the routine use of Alamar Blue. Tests with several toxicants in different cell lines and rat primary hepatocytes have shown accumulation of the fluorescent product of Alamar Blue in the medium which could lead to an overestimation of cell population. Also, the extensive reduction of Alamar Blue by metabolically active cells led to a final nonfluorescent product, and hence an underestimation of cellular activity.",
+  "authors": [
+    "John O’Brien",
+    "Ian D. Wilson",
+    "Terry C. Orton",
+    "François Pognan"
+  ],
+  "year": 2000,
+  "doi": "10.1046/j.1432-1327.2000.01606.x",
+  "source": "openalex",
+  "categories": [
+    "Resazurin",
+    "Cytotoxicity",
+    "Chemistry",
+    "Fluorescence",
+    "Oxazines",
+    "Cell",
+    "Biochemistry",
+    "Cell culture",
+    "Biophysics",
+    "Cytoplasm",
+    "Population",
+    "In vitro",
+    "Biology",
+    "Organic chemistry",
+    "Demography",
+    "Sociology",
+    "Genetics",
+    "Physics",
+    "Quantum mechanics"
+  ],
+  "citation_count": 3536,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1046/j.1432-1327.2000.01606.x",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2154385453.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:57.688628+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2154385453",
+    "concepts": [
+      "Resazurin",
+      "Cytotoxicity",
+      "Chemistry",
+      "Fluorescence",
+      "Oxazines"
+    ],
+    "oa_status": "bronze"
+  }
+}

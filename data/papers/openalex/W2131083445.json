@@ -1,0 +1,57 @@
+{
+  "id": "openalex:W2131083445",
+  "title": "Critical Evaluation of Nanoparticle Tracking Analysis (NTA) by NanoSight for the Measurement of Nanoparticles and Protein Aggregates",
+  "abstract": "PURPOSE: To evaluate the nanoparticle tracking analysis (NTA) technique, compare it with dynamic light scattering (DLS) and test its performance in characterizing drug delivery nanoparticles and protein aggregates. METHODS: Standard polystyrene beads of sizes ranging from 60 to 1,000 nm and physical mixtures thereof were analyzed with NTA and DLS. The influence of different ratios of particle populations was tested. Drug delivery nanoparticles and protein aggregates were analyzed by NTA and DLS. Live monitoring of heat-induced protein aggregation was performed with NTA. RESULTS: NTA was shown to accurately analyze the size distribution of monodisperse and polydisperse samples. Sample visualization and individual particle tracking are features that enable a thorough size distribution analysis. The presence of small amounts of large (1,000 nm) particles generally does not compromise the accuracy of NTA measurements, and a broad range of population ratios can easily be detected and accurately sized. NTA proved to be suitable to characterize drug delivery nanoparticles and protein aggregates, complementing DLS. Live monitoring of heat-induced protein aggregation provides information about aggregation kinetics and size of submicron aggregates. CONCLUSION: NTA is a powerful characterization technique that complements DLS and is particularly valuable for analyzing polydisperse nanosized particles and protein aggregates.",
+  "authors": [
+    "Vasco Filipe",
+    "Andrea Hawe",
+    "Wim Jiskoot"
+  ],
+  "year": 2010,
+  "doi": "10.1007/s11095-010-0073-2",
+  "source": "openalex",
+  "categories": [
+    "Nanoparticle tracking analysis",
+    "Dynamic light scattering",
+    "Dispersity",
+    "Nanoparticle",
+    "Particle size",
+    "Drug delivery",
+    "Particle (ecology)",
+    "Polystyrene",
+    "Particle aggregation",
+    "Protein aggregation",
+    "Materials science",
+    "Nanotechnology",
+    "Particle-size distribution",
+    "Chemistry",
+    "Chemical engineering",
+    "Polymer",
+    "Polymer chemistry",
+    "Organic chemistry",
+    "Biochemistry",
+    "Physical chemistry",
+    "Oceanography",
+    "microRNA",
+    "Geology",
+    "Engineering",
+    "Microvesicles",
+    "Gene"
+  ],
+  "citation_count": 1958,
+  "open_access_pdf_url": "https://link.springer.com/content/pdf/10.1007/s11095-010-0073-2.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2131083445.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:17.809498+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2131083445",
+    "concepts": [
+      "Nanoparticle tracking analysis",
+      "Dynamic light scattering",
+      "Dispersity",
+      "Nanoparticle",
+      "Particle size"
+    ],
+    "oa_status": "hybrid"
+  }
+}

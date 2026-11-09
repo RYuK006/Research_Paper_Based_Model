@@ -1,0 +1,43 @@
+{
+  "id": "openalex:W2086474578",
+  "title": "Freezing of living cells: mechanisms and implications",
+  "abstract": "Cells can endure storage at low temperatures such as--196 degrees C for centuries. The challenge is to determine how they can survive both the cooling to such temperatures and the subsequent return to physiological conditions. A major factor is whether they freeze intracellularly. They do so if cooling is too rapid, because with rapid cooling insufficient cell water is removed osmotically to eliminate supercooling. Equations have been developed that describe the kinetics of this water loss and permit one to predict the likelihood of intracellular freezing as a function of cooling rate. Such predictions agree well with observations. Although the avoidance of intracellular freezing is usually necessary for survival, it is not sufficient. Slow freezing itself can be injurious. As ice forms outside the cell, the residual unfrozen medium forms channels of decreasing size and increasing solute concentration. The cells lie in the channels and shrink in osmotic response to the rising solute concentration. Prior theories have ascribed slow freezing injury to the concentration of solutes or the cell shrinkage. Recent experiments, however, indicate that the damage is due more to the decrease in the size of the unfrozen channels. This new view of the mechanism of slow freezing injury ought to facilitate the development of procedures for the preservation of complex assemblages of cells of biological, medical, and agricultural significance.",
+  "authors": [
+    "Peter Mazur"
+  ],
+  "year": 1984,
+  "doi": "10.1152/ajpcell.1984.247.3.c125",
+  "source": "openalex",
+  "categories": [
+    "Supercooling",
+    "Intracellular",
+    "Cryobiology",
+    "Biophysics",
+    "Ice crystals",
+    "Chemistry",
+    "Thermodynamics",
+    "Cell biology",
+    "Biology",
+    "Cryopreservation",
+    "Meteorology",
+    "Biochemistry",
+    "Embryo",
+    "Physics"
+  ],
+  "citation_count": 2233,
+  "open_access_pdf_url": "https://journals.physiology.org/doi/pdf/10.1152/ajpcell.1984.247.3.C125",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2086474578.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:12.604634+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2086474578",
+    "concepts": [
+      "Supercooling",
+      "Intracellular",
+      "Cryobiology",
+      "Biophysics",
+      "Ice crystals"
+    ],
+    "oa_status": "bronze"
+  }
+}

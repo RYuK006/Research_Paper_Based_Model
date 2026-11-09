@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2570780803",
+  "title": "Nanoscale Nucleation and Growth of Electrodeposited Lithium Metal",
+  "abstract": "and lowest electrochemical potential of all known materials. However, lithium has been plagued by the issues of dendrite formation, high chemical reactivity with electrolyte, and infinite relative volume expansion during plating and stripping, which present safety hazards and low cycling efficiency in batteries with lithium metal electrodes. There have been a lot of recent studies on Li metal although little work has focused on the initial nucleation and growth behavior of Li metal, neglecting a critical fundamental scientific foundation of Li plating. Here, we study experimentally the morphology of lithium in the early stages of nucleation and growth on planar copper electrodes in liquid organic electrolyte. We elucidate the dependence of lithium nuclei size, shape, and areal density on current rate, consistent with classical nucleation and growth theory. We found that the nuclei size is proportional to the inverse of overpotential and the number density of nuclei is proportional to the cubic power of overpotential. Based on this understanding, we propose a strategy to increase the uniformity of electrodeposited lithium on the electrode surface.",
+  "authors": [
+    "Allen Pei",
+    "Guangyuan Wesley Zheng",
+    "Feifei Shi",
+    "Yuzhang Li",
+    "Yi Cui"
+  ],
+  "year": 2017,
+  "doi": "10.1021/acs.nanolett.6b04755",
+  "source": "openalex",
+  "categories": [
+    "Nucleation",
+    "Nanoscopic scale",
+    "Materials science",
+    "Nanotechnology",
+    "Lithium metal",
+    "Lithium (medication)",
+    "Metal",
+    "Chemical engineering",
+    "Metallurgy",
+    "Chemistry",
+    "Electrolyte",
+    "Physical chemistry",
+    "Electrode",
+    "Engineering",
+    "Organic chemistry",
+    "Endocrinology",
+    "Medicine"
+  ],
+  "citation_count": 1735,
+  "open_access_pdf_url": "https://www.osti.gov/servlets/purl/1353101",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2570780803.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:26.225492+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2570780803",
+    "concepts": [
+      "Nucleation",
+      "Nanoscopic scale",
+      "Materials science",
+      "Nanotechnology",
+      "Lithium metal"
+    ],
+    "oa_status": "green"
+  }
+}

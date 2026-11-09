@@ -1,0 +1,44 @@
+{
+  "id": "openalex:W3185965919",
+  "title": "Reactive oxygen species in cancer: Current findings and future directions",
+  "abstract": "Reactive oxygen species (ROS), a class of highly bioactive molecules, have been widely studied in various types of cancers. ROS are considered to be normal byproducts of numerous cellular processes. Typically, cancer cells exhibit higher basal levels of ROS compared with normal cells as a result of an imbalance between oxidants and antioxidants. ROS have a dual role in cell metabolism: At low to moderate levels, ROS act as signal transducers to activate cell proliferation, migration, invasion, and angiogenesis. In contrast, high levels of ROS cause damage to proteins, nucleic acids, lipids, membranes, and organelles, leading to cell death. Extensive studies have revealed that anticancer therapies that manipulate ROS levels, including immunotherapies, show promising in vitro as well as in vivo results. In this review, we summarize molecular mechanisms and oncogenic functions that modulate ROS levels and are useful for the development of cancer therapeutic strategies. This review also provides insights into the future development of effective agents that regulate the redox system for cancer treatment.",
+  "authors": [
+    "Hajime Nakamura",
+    "Kohichi Takada"
+  ],
+  "year": 2021,
+  "doi": "10.1111/cas.15068",
+  "source": "openalex",
+  "categories": [
+    "Reactive oxygen species",
+    "Angiogenesis",
+    "Cell biology",
+    "Cancer cell",
+    "Cancer",
+    "Biology",
+    "Cell growth",
+    "Cell",
+    "Cell signaling",
+    "Cancer research",
+    "Chemistry",
+    "Signal transduction",
+    "Biochemistry",
+    "Genetics"
+  ],
+  "citation_count": 1088,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cas.15068",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3185965919.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:24.427912+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3185965919",
+    "concepts": [
+      "Reactive oxygen species",
+      "Angiogenesis",
+      "Cell biology",
+      "Cancer cell",
+      "Cancer"
+    ],
+    "oa_status": "gold"
+  }
+}

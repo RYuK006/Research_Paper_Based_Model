@@ -1,0 +1,58 @@
+{
+  "id": "openalex:W2129751987",
+  "title": "The grounded psychometric development and initial validation of the Health Literacy Questionnaire (HLQ)",
+  "abstract": "BACKGROUND: Health literacy has become an increasingly important concept in public health. We sought to develop a comprehensive measure of health literacy capable of diagnosing health literacy needs across individuals and organisations by utilizing perspectives from the general population, patients, practitioners and policymakers. METHODS: Using a validity-driven approach we undertook grounded consultations (workshops and interviews) to identify broad conceptually distinct domains. Questionnaire items were developed directly from the consultation data following a strict process aiming to capture the full range of experiences of people currently engaged in healthcare through to people in the general population. Psychometric analyses included confirmatory factor analysis (CFA) and item response theory. Cognitive interviews were used to ensure questions were understood as intended. Items were initially tested in a calibration sample from community health, home care and hospital settings (N=634) and then in a replication sample (N=405) comprising recent emergency department attendees. RESULTS: Initially 91 items were generated across 6 scales with agree/disagree response options and 5 scales with difficulty in undertaking tasks response options. Cognitive testing revealed that most items were well understood and only some minor re-wording was required. Psychometric testing of the calibration sample identified 34 poorly performing or conceptually redundant items and they were removed resulting in 10 scales. These were then tested in a replication sample and refined to yield 9 final scales comprising 44 items. A 9-factor CFA model was fitted to these items with no cross-loadings or correlated residuals allowed. Given the very restricted nature of the model, the fit was quite satisfactory: χ²WLSMV(866 d.f.) = 2927, p<0.000, CFI = 0.936, TLI = 0.930, RMSEA = 0.076, and WRMR = 1.698. Final scales included: Feeling understood and supported by healthcare providers; Having sufficient information to manage my health; Actively managing my health; Social support for health; Appraisal of health information; Ability to actively engage with healthcare providers; Navigating the healthcare system; Ability to find good health information; and Understand health information well enough to know what to do. CONCLUSIONS: The HLQ covers 9 conceptually distinct areas of health literacy to assess the needs and challenges of a wide range of people and organisations. Given the validity-driven approach, the HLQ is likely to be useful in surveys, intervention evaluation, and studies of the needs and capabilities of individuals.",
+  "authors": [
+    "Richard H. Osborne",
+    "Roy W. Batterham",
+    "Gerald R. Elsworth",
+    "Mélanie Hawkins",
+    "Rachelle Buchbinder"
+  ],
+  "year": 2013,
+  "doi": "10.1186/1471-2458-13-658",
+  "source": "openalex",
+  "categories": [
+    "Health literacy",
+    "Confirmatory factor analysis",
+    "Medicine",
+    "Biostatistics",
+    "Population",
+    "Public health",
+    "Health care",
+    "Sample (material)",
+    "Literacy",
+    "Psychometrics",
+    "Psychological intervention",
+    "Item response theory",
+    "Applied psychology",
+    "Clinical psychology",
+    "Psychology",
+    "Nursing",
+    "Structural equation modeling",
+    "Statistics",
+    "Environmental health",
+    "Mathematics",
+    "Economic growth",
+    "Pedagogy",
+    "Chemistry",
+    "Economics",
+    "Chromatography"
+  ],
+  "citation_count": 1425,
+  "open_access_pdf_url": "https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/1471-2458-13-658",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2129751987.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:50.598665+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2129751987",
+    "concepts": [
+      "Health literacy",
+      "Confirmatory factor analysis",
+      "Medicine",
+      "Biostatistics",
+      "Population"
+    ],
+    "oa_status": "gold"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "openalex:W2049136420",
+  "title": "Toxicity of Ag, CuO and ZnO nanoparticles to selected environmentally relevant test organisms and mammalian cells in vitro: a critical review",
+  "abstract": "Nanoparticles (NPs) of copper oxide (CuO), zinc oxide (ZnO) and especially nanosilver are intentionally used to fight the undesirable growth of bacteria, fungi and algae. Release of these NPs from consumer and household products into waste streams and further into the environment may, however, pose threat to the 'non-target' organisms, such as natural microbes and aquatic organisms. This review summarizes the recent research on (eco)toxicity of silver (Ag), CuO and ZnO NPs. Organism-wise it focuses on key test species used for the analysis of ecotoxicological hazard. For comparison, the toxic effects of studied NPs toward mammalian cells in vitro were addressed. Altogether 317 L(E)C50 or minimal inhibitory concentrations (MIC) values were obtained for algae, crustaceans, fish, bacteria, yeast, nematodes, protozoa and mammalian cell lines. As a rule, crustaceans, algae and fish proved most sensitive to the studied NPs. The median L(E)C50 values of Ag NPs, CuO NPs and ZnO NPs (mg/L) were 0.01, 2.1 and 2.3 for crustaceans; 0.36, 2.8 and 0.08 for algae; and 1.36, 100 and 3.0 for fish, respectively. Surprisingly, the NPs were less toxic to bacteria than to aquatic organisms: the median MIC values for bacteria were 7.1, 200 and 500 mg/L for Ag, CuO and ZnO NPs, respectively. In comparison, the respective median L(E)C50 values for mammalian cells were 11.3, 25 and 43 mg/L. Thus, the toxic range of all the three metal-containing NPs to target- and non-target organisms overlaps, indicating that the leaching of biocidal NPs from consumer products should be addressed.",
+  "authors": [
+    "Olesja M. Bondarenko",
+    "Katre Juganson",
+    "Angela Ivask",
+    "Kaja Kasemets",
+    "Monika Mortimer",
+    "Anne Kahru"
+  ],
+  "year": 2013,
+  "doi": "10.1007/s00204-013-1079-4",
+  "source": "openalex",
+  "categories": [
+    "In vitro",
+    "Toxicity",
+    "Nanoparticle",
+    "Chemistry",
+    "Toxicology",
+    "Environmental chemistry",
+    "Nanotechnology",
+    "Biology",
+    "Materials science",
+    "Biochemistry",
+    "Organic chemistry"
+  ],
+  "citation_count": 1304,
+  "open_access_pdf_url": "https://link.springer.com/content/pdf/10.1007/s00204-013-1079-4.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2049136420.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:57.802495+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2049136420",
+    "concepts": [
+      "In vitro",
+      "Toxicity",
+      "Nanoparticle",
+      "Chemistry",
+      "Toxicology"
+    ],
+    "oa_status": "hybrid"
+  }
+}

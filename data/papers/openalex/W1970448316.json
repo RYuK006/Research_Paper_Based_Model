@@ -1,0 +1,43 @@
+{
+  "id": "openalex:W1970448316",
+  "title": "NMDA Receptor Hypofunction Produces Opposite Effects on Prefrontal Cortex Interneurons and Pyramidal Neurons",
+  "abstract": "NMDA receptors mediate excitatory postsynaptic potentials throughout the brain but, paradoxically, NMDA receptor antagonists produce cortical excitation in humans and behaving rodents. To elucidate a mechanism for these diverging effects, we examined the effect of use-dependent inhibition of NMDA receptors on the spontaneous activity of putative GABA interneurons and pyramidal neurons in the prefrontal cortex of awake rats. We find that inhibition of NMDA receptors predominately decreases the activity of putative GABA interneurons but, at a delayed rate, increases the firing rate of the majority of pyramidal neurons. Thus, NMDA receptors preferentially drive the activity of cortical inhibitory interneurons suggesting that NMDA receptor inhibition causes cortical excitation by disinhibition of pyramidal neurons. These findings support the hypothesis that NMDA receptor hypofunction, which has been implicated in the pathophysiology of schizophrenia, diminishes the inhibitory control of PFC output neurons. Reducing this effect may be critical for treatment of schizophrenia.",
+  "authors": [
+    "Houman Homayoun",
+    "Bita Moghaddam"
+  ],
+  "year": 2007,
+  "doi": "10.1523/jneurosci.2213-07.2007",
+  "source": "openalex",
+  "categories": [
+    "NMDA receptor",
+    "Neuroscience",
+    "Disinhibition",
+    "Inhibitory postsynaptic potential",
+    "Excitatory postsynaptic potential",
+    "Postsynaptic potential",
+    "Prefrontal cortex",
+    "Interneuron",
+    "Receptor",
+    "Psychology",
+    "Chemistry",
+    "Cognition",
+    "Biochemistry"
+  ],
+  "citation_count": 1251,
+  "open_access_pdf_url": "https://www.jneurosci.org/content/jneuro/27/43/11496.full.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1970448316.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:02.673088+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1970448316",
+    "concepts": [
+      "NMDA receptor",
+      "Neuroscience",
+      "Disinhibition",
+      "Inhibitory postsynaptic potential",
+      "Excitatory postsynaptic potential"
+    ],
+    "oa_status": "hybrid"
+  }
+}

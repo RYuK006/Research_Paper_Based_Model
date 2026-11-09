@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2160144694",
+  "title": "Interlayer cohesive energy of graphite from thermal desorption of polyaromatic hydrocarbons",
+  "abstract": "We have studied the interaction of polyaromatic hydrocarbons (PAHs) with the basal plane of graphite using thermal desorption spectroscopy. Desorption kinetics of benzene, naphthalene, coronene, and ovalene at submonolayer coverages yield activation energies of 0.50 eV, 0.85 eV, 1.40 eV, and 2.1 eV, respectively. Benzene and naphthalene follow simple first order desorption kinetics while coronene and ovalene exhibit fractional order kinetics owing to the stability of two-dimensional adsorbate islands up to the desorption temperature. Preexponential frequency factors are found to be in the range ${10}^{14}$--${10}^{21}{\\mathrm{s}}^{\\ensuremath{-}1}$ as obtained from both Falconer-Madix (isothermal desorption) analysis and Antoine's fit to vapor pressure data. The resulting binding energy per carbon atom of the PAH is $52\\ifmmode\\pm\\else\\textpm\\fi{}$5 meV and can be identified with the interlayer cohesive energy of graphite. The resulting cleavage energy of graphite is $61\\ifmmode\\pm\\else\\textpm\\fi{}5$ meV/atom, which is considerably larger than previously reported experimental values.",
+  "authors": [
+    "Renju Zacharia",
+    "Hendrik Ulbricht",
+    "Tobias Hertel"
+  ],
+  "year": 2004,
+  "doi": "10.1103/physrevb.69.155406",
+  "source": "openalex",
+  "categories": [
+    "Desorption",
+    "Coronene",
+    "Naphthalene",
+    "Graphite",
+    "Chemistry",
+    "Analytical Chemistry (journal)",
+    "Thermal desorption",
+    "Monolayer",
+    "Benzene",
+    "Kinetics",
+    "Thermal desorption spectroscopy",
+    "Activation energy",
+    "Physical chemistry",
+    "Adsorption",
+    "Organic chemistry",
+    "Molecule",
+    "Biochemistry",
+    "Quantum mechanics",
+    "Physics"
+  ],
+  "citation_count": 1143,
+  "open_access_pdf_url": "http://link.aps.org/pdf/10.1103/PhysRevB.69.155406",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2160144694.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:16.885627+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2160144694",
+    "concepts": [
+      "Desorption",
+      "Coronene",
+      "Naphthalene",
+      "Graphite",
+      "Chemistry"
+    ],
+    "oa_status": "bronze"
+  }
+}

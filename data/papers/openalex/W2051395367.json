@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W2051395367",
+  "title": "Ionic dependence of glutamate neurotoxicity",
+  "abstract": "The cellular mechanisms by which excess exposure to the excitatory neurotransmitter glutamate can produce neuronal injury are unknown. More than a decade ago it was hypothesized that glutamate neurotoxicity (GNT) is a direct consequence of excessive neuronal excitation (\"excitotoxicity\" hypothesis); more recently, it has been hypothesized that a Ca influx triggered by glutamate exposure might mediate GNT (Ca hypothesis). A basic test to discriminate between these hypotheses would be to determine the dependence of GNT on the extracellular ionic environment. The excitotoxicity hypothesis predicts that GNT should depend critically on the presence of extracellular Na, since that ion appears to mediate glutamate neuroexcitation in the CNS; the Ca hypothesis predicts that GNT should depend critically on the presence of extracellular Ca. The focus of the present experiments was to determine the effects of several alterations in the extracellular ionic environment upon the serial morphologic changes that occur after mouse neocortical neurons in cell culture receive toxic exposure to glutamate. The results suggest that GNT in cortical neurons can be separated into 2 components distinguishable on the basis of differences in time course and ionic dependence. The first component, marked by neuronal swelling, occurs early, is dependent on extracellular Na and Cl, can be mimicked by high K, and is thus possibly \"excitotoxic.\" The second component, marked by gradual neuronal disintegration, occurs late, is dependent on extracellular Ca, can be mimicked by A23187, and is thus possibly mediated by a transmembrane influx of Ca. While either component alone is ultimately capable of producing irreversible neuronal injury, the Ca-dependent mechanism predominates at lower exposures to glutamate. Glutamate exposure likely leads to a Ca influx both through glutamate-activated cation channels and through voltage-dependent Ca channels activated by membrane depolarization. Addition of 20 mM Mg, however, did not substantially block GNT; this finding, together with the observation that GNT is largely preserved in sodium-free solution, supports the notion that the activation of voltage-dependent Ca channels may not be required for lethal Ca entry. The possibility that N-methyl-D-aspartate receptors may play a dominant role in mediating glutamate-induced lethal Ca influx is discussed.",
+  "authors": [
+    "Dennis W. Choi"
+  ],
+  "year": 1987,
+  "doi": "10.1523/jneurosci.07-02-00369.1987",
+  "source": "openalex",
+  "categories": [
+    "Excitotoxicity",
+    "Glutamate receptor",
+    "Extracellular",
+    "Neurotoxicity",
+    "Neuroscience",
+    "Biophysics",
+    "Chemistry",
+    "Neurotransmitter",
+    "Excitatory postsynaptic potential",
+    "NMDA receptor",
+    "Biology",
+    "Cell biology",
+    "Biochemistry",
+    "Central nervous system",
+    "Toxicity",
+    "Inhibitory postsynaptic potential",
+    "Receptor",
+    "Organic chemistry"
+  ],
+  "citation_count": 1809,
+  "open_access_pdf_url": "https://www.jneurosci.org/content/jneuro/7/2/369.full.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2051395367.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:22.387311+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2051395367",
+    "concepts": [
+      "Excitotoxicity",
+      "Glutamate receptor",
+      "Extracellular",
+      "Neurotoxicity",
+      "Neuroscience"
+    ],
+    "oa_status": "hybrid"
+  }
+}

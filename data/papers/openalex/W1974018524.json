@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W1974018524",
+  "title": "In Situ XRD and Electrochemical Study of the Reaction of Lithium with Amorphous Silicon",
+  "abstract": "Silicon is a very promising candidate to replace graphite as the anode in Li-ion batteries because of its very high theoretical capacity. It has not yet made its way into commercial cells because of severe problems with the charge and discharge cycling of the material. It seems that amorphous silicon and amorphous silicon-containing alloys exhibit much improved cycling performance. Therefore, it is desirable to fully understand the reaction of Li with a-Si. To this end, an in situ X-ray diffraction study of the reaction of lithium with a-Si has been performed. The results confirm that a new crystalline phase is formed below 30 mV vs. as first reported by Obrovac and Christensen in an article published in Electrochemical and Solid-State Letters . However, the crystalline phase only forms for films of a-Si above a critical thickness of about 2 μm. © 2004 The Electrochemical Society. All rights reserved.",
+  "authors": [
+    "T. D. Hatchard",
+    "Jeff R. Dahn"
+  ],
+  "year": 2004,
+  "doi": "10.1149/1.1739217",
+  "source": "openalex",
+  "categories": [
+    "Silicon",
+    "Amorphous solid",
+    "Electrochemistry",
+    "Materials science",
+    "Anode",
+    "Lithium (medication)",
+    "Amorphous silicon",
+    "Graphite",
+    "Chemical engineering",
+    "Crystalline silicon",
+    "Phase (matter)",
+    "Nanotechnology",
+    "Electrode",
+    "Metallurgy",
+    "Crystallography",
+    "Chemistry",
+    "Physical chemistry",
+    "Organic chemistry",
+    "Endocrinology",
+    "Engineering",
+    "Medicine"
+  ],
+  "citation_count": 1128,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1149/1.1739217/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1974018524.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:17.012809+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1974018524",
+    "concepts": [
+      "Silicon",
+      "Amorphous solid",
+      "Electrochemistry",
+      "Materials science",
+      "Anode"
+    ],
+    "oa_status": "bronze"
+  }
+}

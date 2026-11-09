@@ -1,0 +1,59 @@
+{
+  "id": "openalex:W2115749410",
+  "title": "Acidic extracellular microenvironment and cancer",
+  "abstract": "Acidic extracellular pH is a major feature of tumor tissue, extracellular acidification being primarily considered to be due to lactate secretion from anaerobic glycolysis. Clinicopathological evidence shows that transporters and pumps contribute to H+ secretion, such as the Na+/H+ exchanger, the H+-lactate co-transporter, monocarboxylate transporters, and the proton pump (H+-ATPase); these may also be associated with tumor metastasis. An acidic extracellular pH not only activates secreted lysosomal enzymes that have an optimal pH in the acidic range, but induces the expression of certain genes of pro-metastatic factors through an intracellular signaling cascade that is different from hypoxia. In addition to lactate, CO2 from the pentose phosphate pathway is an alternative source of acidity, showing that hypoxia and extracellular acidity are, while being independent from each other, deeply associated with the cellular microenvironment. In this article, the importance of an acidic extracellular pH as a microenvironmental factor participating in tumor progression is reviewed.",
+  "authors": [
+    "Yukio Kato",
+    "Shigeyuki Ozawa",
+    "Chihiro Miyamoto",
+    "Yojiro Maehata",
+    "Atsuko Suzuki",
+    "T Maeda",
+    "Yuh Baba"
+  ],
+  "year": 2013,
+  "doi": "10.1186/1475-2867-13-89",
+  "source": "openalex",
+  "categories": [
+    "Extracellular",
+    "Transporter",
+    "Intracellular pH",
+    "Glycolysis",
+    "V-ATPase",
+    "Biochemistry",
+    "Tumor microenvironment",
+    "Secretion",
+    "Chemistry",
+    "Intracellular",
+    "Cell biology",
+    "Hypoxia (environmental)",
+    "Anaerobic glycolysis",
+    "Cancer cell",
+    "ATPase",
+    "Enzyme",
+    "Biology",
+    "Cancer research",
+    "Cancer",
+    "Tumor cells",
+    "Gene",
+    "Oxygen",
+    "Genetics",
+    "Organic chemistry"
+  ],
+  "citation_count": 1324,
+  "open_access_pdf_url": "https://cancerci.biomedcentral.com/counter/pdf/10.1186/1475-2867-13-89",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2115749410.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:57.627936+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2115749410",
+    "concepts": [
+      "Extracellular",
+      "Transporter",
+      "Intracellular pH",
+      "Glycolysis",
+      "V-ATPase"
+    ],
+    "oa_status": "gold"
+  }
+}

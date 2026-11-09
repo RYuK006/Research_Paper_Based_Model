@@ -1,0 +1,42 @@
+{
+  "id": "openalex:W2085957571",
+  "title": "Adipose tissue remodeling and obesity",
+  "abstract": "To fulfill its role as the major energy-storing tissue, adipose has several unique properties that cannot be seen in any other organ, including an almost unlimited capacity to expand in a non-transformed state. As such, the tissue requires potent mechanisms to remodel, acutely and chronically. Adipocytes can rapidly reach the diffusional limit of oxygen during growth; hypoxia is therefore an early determinant that limits healthy expansion. Proper expansion requires a highly coordinated response among many different cell types, including endothelial precursor cells, immune cells, and preadipocytes. There are therefore remarkable similarities between adipose expansion and growth of solid tumors, a phenomenon that presents both an opportunity and a challenge, since pharmacological interventions supporting healthy adipose tissue adaptation can also facilitate tumor growth.",
+  "authors": [
+    "Kai Sun",
+    "Christine M. Kusminski",
+    "Philipp E. Scherer"
+  ],
+  "year": 2011,
+  "doi": "10.1172/jci45887",
+  "source": "openalex",
+  "categories": [
+    "Adipose tissue",
+    "Hypoxia (environmental)",
+    "Cell biology",
+    "Immune system",
+    "Biology",
+    "White adipose tissue",
+    "Endocrinology",
+    "Immunology",
+    "Chemistry",
+    "Oxygen",
+    "Organic chemistry"
+  ],
+  "citation_count": 2000,
+  "open_access_pdf_url": "http://www.jci.org/articles/view/45887/files/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2085957571.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:17.692411+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2085957571",
+    "concepts": [
+      "Adipose tissue",
+      "Hypoxia (environmental)",
+      "Cell biology",
+      "Immune system",
+      "Biology"
+    ],
+    "oa_status": "bronze"
+  }
+}

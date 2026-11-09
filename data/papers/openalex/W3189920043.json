@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W3189920043",
+  "title": "Integrins",
+  "abstract": "Integrins are cell adhesion receptors that are evolutionary old and that play important roles during developmental and pathological processes. The integrin family is composed of 24 alphabeta heterodimeric members that mediate the attachment of cells to the extracellular matrix (ECM) but that also take part in specialized cell-cell interactions. Only a subset of integrins (8 out of 24) recognizes the RGD sequence in the native ligands. In some ECM molecules, such as collagen and certain laminin isoforms, the RGD sequences are exposed upon denaturation or proteolytic cleavage, allowing cells to bind these ligands by using RGD-binding receptors. Proteolytic cleavage of ECM proteins might also generate fragments with novel biological activity such as endostatin, tumstatin, and endorepellin. Nine integrin chains contain an alphaI domain, including the collagen-binding integrins alpha1beta1, alpha2beta1, alpha10beta1, and alpha11beta1. The collagen-binding integrins recognize the triple-helical GFOGER sequence in the major collagens, but their ability to recognize these sequences in vivo is dependent on the fibrillar status and accessibility of the interactive domains in the fibrillar collagens. The current review summarizes some basic facts about the integrin family including a historical perspective, their structure, and their ligand-binding properties.",
+  "authors": [
+    "Malgorzata M. Barczyk",
+    "Sergio Carracedo",
+    "Donald Gullberg"
+  ],
+  "year": 2009,
+  "doi": "10.1007/s00441-009-0834-6",
+  "source": "openalex",
+  "categories": [
+    "Integrin",
+    "Laminin",
+    "Extracellular matrix",
+    "Cell biology",
+    "Cell adhesion",
+    "Cell adhesion molecule",
+    "Collagen receptor",
+    "Biology",
+    "Disintegrin",
+    "Chemistry",
+    "Receptor",
+    "Biochemistry",
+    "Cell",
+    "Matrix metalloproteinase",
+    "Metalloproteinase"
+  ],
+  "citation_count": 1620,
+  "open_access_pdf_url": "https://link.springer.com/content/pdf/10.1007/s00441-009-0834-6.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3189920043.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:38.143344+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3189920043",
+    "concepts": [
+      "Integrin",
+      "Laminin",
+      "Extracellular matrix",
+      "Cell biology",
+      "Cell adhesion"
+    ],
+    "oa_status": "hybrid"
+  }
+}

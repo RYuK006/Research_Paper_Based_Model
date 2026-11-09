@@ -1,0 +1,43 @@
+{
+  "id": "openalex:W2008204335",
+  "title": "An optimal extraction algorithm for CCD spectroscopy",
+  "abstract": "An optimal spectrum extraction procedure is described, and examples of its performance with CCD data are presented. The algorithm delivers the maximum possible signal-to-noise ratio while preserving spectrophotometric accuracy. The effects of moderate geometric distortion and of cosmic-ray hits on the spectrum are automatically accounted for. In tests with background-noise limited CCD spectra, optimal extraction offers a 70-percent gain in effective exposure time in comparison with conventional extraction procedures.",
+  "authors": [
+    "K. Horne"
+  ],
+  "year": 1986,
+  "doi": "10.1086/131801",
+  "source": "openalex",
+  "categories": [
+    "Distortion (music)",
+    "Extraction (chemistry)",
+    "Noise (video)",
+    "Computer science",
+    "Algorithm",
+    "Optics",
+    "Physics",
+    "Artificial intelligence",
+    "Chemistry",
+    "Image (mathematics)",
+    "Telecommunications",
+    "Chromatography",
+    "Amplifier",
+    "Bandwidth (computing)"
+  ],
+  "citation_count": 1954,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1086/131801/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2008204335.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:17.824163+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2008204335",
+    "concepts": [
+      "Distortion (music)",
+      "Extraction (chemistry)",
+      "Noise (video)",
+      "Computer science",
+      "Algorithm"
+    ],
+    "oa_status": "bronze"
+  }
+}

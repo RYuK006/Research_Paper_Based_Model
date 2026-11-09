@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W4281790889",
+  "title": "ColabFold: making protein folding accessible to all",
+  "abstract": "ColabFold offers accelerated prediction of protein structures and complexes by combining the fast homology search of MMseqs2 with AlphaFold2 or RoseTTAFold. ColabFold's 40-60-fold faster search and optimized model utilization enables prediction of close to 1,000 structures per day on a server with one graphics processing unit. Coupled with Google Colaboratory, ColabFold becomes a free and accessible platform for protein folding. ColabFold is open-source software available at https://github.com/sokrypton/ColabFold and its novel environmental databases are available at https://colabfold.mmseqs.com .",
+  "authors": [
+    "Milot Mirdita",
+    "Konstantin Schütze",
+    "Yoshitaka Moriwaki",
+    "Lim Heo",
+    "Sergey Ovchinnikov",
+    "Martin Steinegger"
+  ],
+  "year": 2022,
+  "doi": "10.1038/s41592-022-01488-1",
+  "source": "openalex",
+  "categories": [
+    "Computer science",
+    "Protein folding",
+    "Folding (DSP implementation)",
+    "Software",
+    "Graphics processing unit",
+    "Molecular graphics",
+    "Open source software",
+    "Graphics",
+    "Computational biology",
+    "Protein structure",
+    "Computational science",
+    "Computer graphics",
+    "Computer graphics (images)",
+    "Bioinformatics",
+    "Chemistry",
+    "Programming language",
+    "Operating system",
+    "Biology",
+    "Biochemistry",
+    "Engineering",
+    "Electrical engineering"
+  ],
+  "citation_count": 9195,
+  "open_access_pdf_url": "https://www.nature.com/articles/s41592-022-01488-1.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W4281790889.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:49.878786+00:00",
+  "raw_metadata": {
+    "openalex_id": "W4281790889",
+    "concepts": [
+      "Computer science",
+      "Protein folding",
+      "Folding (DSP implementation)",
+      "Software",
+      "Graphics processing unit"
+    ],
+    "oa_status": "hybrid"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2092340120",
+  "title": "Metformin inhibits hepatic gluconeogenesis in mice independently of the LKB1/AMPK pathway via a decrease in hepatic energy state",
+  "abstract": "Metformin is widely used to treat hyperglycemia in individuals with type 2 diabetes. Recently the LKB1/AMP-activated protein kinase (LKB1/AMPK) pathway was proposed to mediate the action of metformin on hepatic gluconeogenesis. However, the molecular mechanism by which this pathway operates had remained elusive. Surprisingly, here we have found that in mice lacking AMPK in the liver, blood glucose levels were comparable to those in wild-type mice, and the hypoglycemic effect of metformin was maintained. Hepatocytes lacking AMPK displayed normal glucose production and gluconeogenic gene expression compared with wild-type hepatocytes. In contrast, gluconeogenesis was upregulated in LKB1-deficient hepatocytes. Metformin decreased expression of the gene encoding the catalytic subunit of glucose-6-phosphatase (G6Pase), while cytosolic phosphoenolpyruvate carboxykinase (Pepck) gene expression was unaffected in wild-type, AMPK-deficient, and LKB1-deficient hepatocytes. Surprisingly, metformin-induced inhibition of glucose production was amplified in both AMPK- and LKB1-deficient compared with wild-type hepatocytes. This inhibition correlated in a dose-dependent manner with a reduction in intracellular ATP content, which is crucial for glucose production. Moreover, metformin-induced inhibition of glucose production was preserved under forced expression of gluconeogenic genes through PPARgamma coactivator 1alpha (PGC-1alpha) overexpression, indicating that metformin suppresses gluconeogenesis via a transcription-independent process. In conclusion, we demonstrate that metformin inhibits hepatic gluconeogenesis in an LKB1- and AMPK-independent manner via a decrease in hepatic energy state.",
+  "authors": [
+    "Marc Foretz",
+    "Sophie Hébrard",
+    "Jocelyne Leclerc",
+    "Elham Zarrinpashneh",
+    "Maud Soty",
+    "Gilles Mithieux",
+    "Kei Sakamoto",
+    "Fabrizio Andréelli",
+    "Benoı̂t Viollet"
+  ],
+  "year": 2010,
+  "doi": "10.1172/jci40671",
+  "source": "openalex",
+  "categories": [
+    "Metformin",
+    "Gluconeogenesis",
+    "AMPK",
+    "Endocrinology",
+    "Internal medicine",
+    "Phosphoenolpyruvate carboxykinase",
+    "Glucokinase",
+    "AMP-activated protein kinase",
+    "Biology",
+    "Protein kinase A",
+    "Chemistry",
+    "Phosphorylation",
+    "Metabolism",
+    "Diabetes mellitus",
+    "Cell biology",
+    "Biochemistry",
+    "Medicine",
+    "Enzyme"
+  ],
+  "citation_count": 1211,
+  "open_access_pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/2898585",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2092340120.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:04.753252+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2092340120",
+    "concepts": [
+      "Metformin",
+      "Gluconeogenesis",
+      "AMPK",
+      "Endocrinology",
+      "Internal medicine"
+    ],
+    "oa_status": "green"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W2164695205",
+  "title": "Contrasting Soil pH Effects on Fungal and Bacterial Growth Suggest Functional Redundancy in Carbon Mineralization",
+  "abstract": "The influence of pH on the relative importance of the two principal decomposer groups in soil, fungi and bacteria, was investigated along a continuous soil pH gradient at Hoosfield acid strip at Rothamsted Research in the United Kingdom. This experimental location provides a uniform pH gradient, ranging from pH 8.3 to 4.0, within 180 m in a silty loam soil on which barley has been continuously grown for more than 100 years. We estimated the importance of fungi and bacteria directly by measuring acetate incorporation into ergosterol to measure fungal growth and leucine and thymidine incorporation to measure bacterial growth. The growth-based measurements revealed a fivefold decrease in bacterial growth and a fivefold increase in fungal growth with lower pH. This resulted in an approximately 30-fold increase in fungal importance, as indicated by the fungal growth/bacterial growth ratio, from pH 8.3 to pH 4.5. In contrast, corresponding effects on biomass markers for fungi (ergosterol and phospholipid fatty acid [PLFA] 18:2omega6,9) and bacteria (bacterial PLFAs) showed only a two- to threefold difference in fungal importance in the same pH interval. The shift in fungal and bacterial importance along the pH gradient decreased the total carbon mineralization, measured as basal respiration, by only about one-third, possibly suggesting functional redundancy. Below pH 4.5 there was universal inhibition of all microbial variables, probably derived from increased inhibitory effects due to release of free aluminum or decreasing plant productivity. To investigate decomposer group importance, growth measurements provided significantly increased sensitivity compared with biomass-based measurements.",
+  "authors": [
+    "Johannes Rousk",
+    "Philip Charles Brookes",
+    "Erland Bååth"
+  ],
+  "year": 2009,
+  "doi": "10.1128/aem.02775-08",
+  "source": "openalex",
+  "categories": [
+    "Decomposer",
+    "Bacterial growth",
+    "Mineralization (soil science)",
+    "Biology",
+    "Bacteria",
+    "Food science",
+    "Loam",
+    "Botany",
+    "Chemistry",
+    "Environmental chemistry",
+    "Animal science",
+    "Soil water",
+    "Ecosystem",
+    "Ecology",
+    "Genetics"
+  ],
+  "citation_count": 1657,
+  "open_access_pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/2655475",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2164695205.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:37.966268+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2164695205",
+    "concepts": [
+      "Decomposer",
+      "Bacterial growth",
+      "Mineralization (soil science)",
+      "Biology",
+      "Bacteria"
+    ],
+    "oa_status": "green"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2130348414",
+  "title": "Interactions of cyclic hydrocarbons with biological membranes.",
+  "abstract": "Many cyclic hydrocarbons, e.g. aromatics, cycloalkanes, and terpenes, are toxic to microorganisms. The primary site of the toxic action is probably the cytoplasmic membrane, but the mechanism of the toxicity is still poorly understood. The effects of cyclic hydrocarbons were studied in liposomes prepared from Escherichia coli phospholipids. The membrane-buffer partition coefficients of the cyclic hydrocarbons revealed that these lipophilic compounds preferentially reside in the membrane. The partition coefficients closely correlated with the partition coefficients of these compounds in a standard octanol-water system. The accumulation of hydrocarbon molecules resulted in swelling of the membrane bilayer, as assessed by the release of fluorescence self-quenching of fluorescent fatty acid and phospholipid analogs. Parallel to the expansion of the membrane, an increase in membrane fluidity was observed. These effects on the integrity of the membrane caused an increased passive flux of protons and carboxyfluorescein. In cytochrome c oxidase containing proteoliposomes, both components of the proton motive force, the pH gradient and the electrical potential, were dissipated with increasing concentrations of cyclic hydrocarbons. The dissipating effect was primarily the result of an increased permeability of the membrane for protons (ions). At higher concentrations, cytochrome c oxidase was also inactivated. The effective concentrations of the different cyclic hydrocarbons correlated with their partition coefficients between the membrane and aqueous phase. The impairment of microbial activity by the cyclic hydrocarbons most likely results from hydrophobic interaction with the membrane, which affects the functioning of the membrane and membrane-embedded proteins.",
+  "authors": [
+    "J. Sikkema",
+    "Jan A. M. de Bont",
+    "B. Poolman"
+  ],
+  "year": 1994,
+  "doi": "10.1016/s0021-9258(17)37154-5",
+  "source": "openalex",
+  "categories": [
+    "Membrane",
+    "Chemistry",
+    "Phospholipid",
+    "Membrane permeability",
+    "Partition coefficient",
+    "Biological membrane",
+    "Membrane fluidity",
+    "Liposome",
+    "Biophysics",
+    "Lipid bilayer",
+    "Synthetic membrane",
+    "Quenching (fluorescence)",
+    "Chromatography",
+    "Biochemistry",
+    "Fluorescence",
+    "Biology",
+    "Quantum mechanics",
+    "Physics"
+  ],
+  "citation_count": 1204,
+  "open_access_pdf_url": "https://doi.org/10.1016/s0021-9258(17)37154-5",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2130348414.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:08.248826+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2130348414",
+    "concepts": [
+      "Membrane",
+      "Chemistry",
+      "Phospholipid",
+      "Membrane permeability",
+      "Partition coefficient"
+    ],
+    "oa_status": "hybrid"
+  }
+}

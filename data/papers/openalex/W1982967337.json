@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W1982967337",
+  "title": "Enhanced secondary analysis of survival data: reconstructing the data from published Kaplan-Meier survival curves",
+  "abstract": "BACKGROUND: The results of Randomized Controlled Trials (RCTs) on time-to-event outcomes that are usually reported are median time to events and Cox Hazard Ratio. These do not constitute the sufficient statistics required for meta-analysis or cost-effectiveness analysis, and their use in secondary analyses requires strong assumptions that may not have been adequately tested. In order to enhance the quality of secondary data analyses, we propose a method which derives from the published Kaplan Meier survival curves a close approximation to the original individual patient time-to-event data from which they were generated. METHODS: We develop an algorithm that maps from digitised curves back to KM data by finding numerical solutions to the inverted KM equations, using where available information on number of events and numbers at risk. The reproducibility and accuracy of survival probabilities, median survival times and hazard ratios based on reconstructed KM data was assessed by comparing published statistics (survival probabilities, medians and hazard ratios) with statistics based on repeated reconstructions by multiple observers. RESULTS: The validation exercise established there was no material systematic error and that there was a high degree of reproducibility for all statistics. Accuracy was excellent for survival probabilities and medians, for hazard ratios reasonable accuracy can only be obtained if at least numbers at risk or total number of events are reported. CONCLUSION: The algorithm is a reliable tool for meta-analysis and cost-effectiveness analyses of RCTs reporting time-to-event data. It is recommended that all RCTs should report information on numbers at risk and total number of events alongside KM curves.",
+  "authors": [
+    "Patricia Guyot",
+    "Anthony E. Ades",
+    "Mario Ouwens",
+    "Nicky J. Welton"
+  ],
+  "year": 2012,
+  "doi": "10.1186/1471-2288-12-9",
+  "source": "openalex",
+  "categories": [
+    "Statistics",
+    "Hazard ratio",
+    "Survival analysis",
+    "Event (particle physics)",
+    "Proportional hazards model",
+    "Hazard",
+    "Medicine",
+    "Mathematics",
+    "Data mining",
+    "Computer science",
+    "Confidence interval",
+    "Physics",
+    "Organic chemistry",
+    "Chemistry",
+    "Quantum mechanics"
+  ],
+  "citation_count": 2630,
+  "open_access_pdf_url": "https://bmcmedresmethodol.biomedcentral.com/counter/pdf/10.1186/1471-2288-12-9",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1982967337.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:04.215479+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1982967337",
+    "concepts": [
+      "Statistics",
+      "Hazard ratio",
+      "Survival analysis",
+      "Event (particle physics)",
+      "Proportional hazards model"
+    ],
+    "oa_status": "gold"
+  }
+}

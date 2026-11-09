@@ -1,0 +1,42 @@
+{
+  "id": "openalex:W2086274688",
+  "title": "Cellular and Molecular Barriers to Gene Transfer by a Cationic Lipid",
+  "abstract": "Cationic lipids are widely used for gene transfer in vitro and show promise as a vector for in vivo gene therapy applications. However, there is limited understanding of the cellular and molecular mechanisms involved. We investigated the individual steps in cationic lipid-mediated gene transfer to cultured cell lines. We used DMRIE/DOPE (a 1:1 mixture of N-[1-(2,3-dimyristyloxy) propyl]-N,N-dimethyl-N-(2-hydroxyethyl)ammonium bromide (DMRIE) and dioleoyl phosphatidylethanolamine (DOPE) as a model lipid because of its efficacy and because it is being used for clinical trials in humans. The data show that cationic lipid-mediated gene transfer is an inefficient process. Part of the inefficiency may result from the fact that the population of lipid-DNA complexes was very heterogeneous, even under conditions that have been optimized to produce the best transfection. Inefficiency was not due to inability of the complex to enter the cells because most cells took up the DNA. However, in contrast to previous speculation, the results indicate that endocytosis was the major mechanism of entry. After endocytosis, the lipid-DNA aggregated into large perinuclear complexes, which often showed a highly ordered tubular structure. Although much of the DNA remained aggregated in a vesicular compartment, there was at least a small amount of DNA in the cytoplasm of most cells. That observation plus results from direct injection of DNA and lipid-DNA into the nucleus and cytoplasm indicate that movement of DNA from the cytoplasm to the nucleus may be one of the most important limitations to successful gene transfer. Finally, before transcription can occur, the data show that lipid and DNA must dissociate. These results provide new insights into the physical limitations to cationic lipid-mediated gene transfer and suggest that attention to specific steps in the cellular process may further improve the efficiency of transfection and increase its use in a number of applications.",
+  "authors": [
+    "Joseph Zabner",
+    "A Fasbender",
+    "Tom Moninger",
+    "Kristi A. Poellinger",
+    "Michael J. Welsh"
+  ],
+  "year": 1995,
+  "doi": "10.1074/jbc.270.32.18997",
+  "source": "openalex",
+  "categories": [
+    "Gene transfer",
+    "Chemistry",
+    "Plant lipid transfer proteins",
+    "Cationic polymerization",
+    "Gene",
+    "Cell biology",
+    "Biochemistry",
+    "Biology",
+    "Organic chemistry"
+  ],
+  "citation_count": 1412,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925818519372/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2086274688.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:50.678578+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2086274688",
+    "concepts": [
+      "Gene transfer",
+      "Chemistry",
+      "Plant lipid transfer proteins",
+      "Cationic polymerization",
+      "Gene"
+    ],
+    "oa_status": "hybrid"
+  }
+}

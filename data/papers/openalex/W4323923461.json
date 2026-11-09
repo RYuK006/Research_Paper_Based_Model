@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W4323923461",
+  "title": "Epidemiology of sarcopenia: Prevalence, risk factors, and consequences",
+  "abstract": "Sarcopenia is a geriatric condition featured by a progressive loss of muscle mass and function and associated with various adverse health outcomes. In this review, we aimed to summarize the epidemiological features of sarcopenia as well as consequences and risk factors of the disease. We performed a systematic review of meta-analysis on sarcopenia to collect data. The prevalence of sarcopenia varied between studies and depending on definition used. Sarcopenia was estimated to influence 10 %-16 % of the elderly worldwide. The prevalence of sarcopenia was higher among patients compared to general populations. The prevalence of sarcopenia ranged from 18 % in diabetic patients to 66 % in patients with unresectable esophageal cancer. Sarcopenia is associated with a high risk of a wide range of adverse health outcomes, including poor overall and disease-progression free survival rate, postoperative complications, and longer hospitalization in patients with different medical situations as well as falls and fracture, metabolic disorders, cognitive impairment, and mortality in general populations. Physical inactivity, malnutrition, smoking, extreme sleep duration, and diabetes were associated with an increased risk of sarcopenia. However, these associations were mainly based on non-cohort observational studies and need confirmation. High-quality cohort, omics, and Mendelian randomization studies are needed to deeply understand the etiological basis of sarcopenia.",
+  "authors": [
+    "Shuai Yuan",
+    "Susanna C. Larsson"
+  ],
+  "year": 2023,
+  "doi": "10.1016/j.metabol.2023.155533",
+  "source": "openalex",
+  "categories": [
+    "Sarcopenia",
+    "Medicine",
+    "Epidemiology",
+    "Cohort",
+    "Mendelian randomization",
+    "Malnutrition",
+    "Cohort study",
+    "Disease",
+    "Observational study",
+    "Internal medicine",
+    "Intensive care medicine",
+    "Gene",
+    "Biochemistry",
+    "Genotype",
+    "Chemistry",
+    "Genetic variants"
+  ],
+  "citation_count": 1228,
+  "open_access_pdf_url": "https://doi.org/10.1016/j.metabol.2023.155533",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W4323923461.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:04.557614+00:00",
+  "raw_metadata": {
+    "openalex_id": "W4323923461",
+    "concepts": [
+      "Sarcopenia",
+      "Medicine",
+      "Epidemiology",
+      "Cohort",
+      "Mendelian randomization"
+    ],
+    "oa_status": "hybrid"
+  }
+}

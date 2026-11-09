@@ -1,0 +1,38 @@
+{
+  "id": "openalex:W1963514652",
+  "title": "New ways to boost molecular dynamics simulations",
+  "abstract": "We describe a set of algorithms that allow to simulate dihydrofolate reductase (DHFR, a common benchmark) with the AMBER all-atom force field at 160 nanoseconds/day on a single Intel Core i7 5960X CPU (no graphics processing unit (GPU), 23,786 atoms, particle mesh Ewald (PME), 8.0 Å cutoff, correct atom masses, reproducible trajectory, CPU with 3.6 GHz, no turbo boost, 8 AVX registers). The new features include a mixed multiple time-step algorithm (reaching 5 fs), a tuned version of LINCS to constrain bond angles, the fusion of pair list creation and force calculation, pressure coupling with a \"densostat,\" and exploitation of new CPU instruction sets like AVX2. The impact of Intel's new transactional memory, atomic instructions, and sloppy pair lists is also analyzed. The algorithms map well to GPUs and can automatically handle most Protein Data Bank (PDB) files including ligands. An implementation is available as part of the YASARA molecular modeling and simulation program from www.YASARA.org.",
+  "authors": [
+    "Elmar Krieger",
+    "Gert Vriend"
+  ],
+  "year": 2015,
+  "doi": "10.1002/jcc.23899",
+  "source": "openalex",
+  "categories": [
+    "Molecular dynamics",
+    "Dynamics (music)",
+    "Computer science",
+    "Statistical physics",
+    "Chemistry",
+    "Computational chemistry",
+    "Physics",
+    "Acoustics"
+  ],
+  "citation_count": 1084,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jcc.23899",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1963514652.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:24.464296+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1963514652",
+    "concepts": [
+      "Molecular dynamics",
+      "Dynamics (music)",
+      "Computer science",
+      "Statistical physics",
+      "Chemistry"
+    ],
+    "oa_status": "hybrid"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W1528619378",
+  "title": "Phonons in single-layer and few-layer MoS 2 and WS 2",
+  "abstract": "We report ab initio calculations of the phonon dispersion relations of the single-layer and bulk dichalcogenides MoS${}_{2}$ and WS${}_{2}$. We explore in detail the behavior of the Raman-active modes ${A}_{1g}$ and ${E}_{2g}^{1}$ as a function of the number of layers. In agreement with recent Raman spectroscopy measurements [C. Lee et al., ACS Nano 4, 2695 (2010)], we find that the ${A}_{1g}$ mode increases in frequency with an increasing number of layers while the ${E}_{2g}^{1}$ mode decreases. We explain this decrease by an enhancement of the dielectric screening of the long-range Coulomb interaction between the effective charges with a growing number of layers. This decrease in the long-range part overcompensates for the increase of the short-range interaction due to the weak interlayer interaction.",
+  "authors": [
+    "Alejandro Molina‐Sánchez",
+    "Ludger Wirtz"
+  ],
+  "year": 2011,
+  "doi": "10.1103/physrevb.84.155413",
+  "source": "openalex",
+  "categories": [
+    "Raman spectroscopy",
+    "Phonon",
+    "Coulomb",
+    "Dielectric function",
+    "Physics",
+    "Spectroscopy",
+    "Condensed matter physics",
+    "Analytical Chemistry (journal)",
+    "Materials science",
+    "Dielectric",
+    "Chemistry",
+    "Optics",
+    "Optoelectronics",
+    "Quantum mechanics",
+    "Chromatography",
+    "Electron"
+  ],
+  "citation_count": 1458,
+  "open_access_pdf_url": "http://link.aps.org/pdf/10.1103/PhysRevB.84.155413",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1528619378.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:48.226467+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1528619378",
+    "concepts": [
+      "Raman spectroscopy",
+      "Phonon",
+      "Coulomb",
+      "Dielectric function",
+      "Physics"
+    ],
+    "oa_status": "bronze"
+  }
+}

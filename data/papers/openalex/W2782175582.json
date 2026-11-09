@@ -1,0 +1,57 @@
+{
+  "id": "openalex:W2782175582",
+  "title": "FK-506, a novel immunosuppressant isolated from a Streptomyces. I. Fermentation, isolation, and physico-chemical and biological characteristics.",
+  "abstract": "FK-506, a novel immunosuppressant, has been isolated from the fermentation broth of Streptomyces tsukubaenis No. 9993 as colorless prism and the molecular formula was determined as C44H69NO12.H2O. The compound suppressed immune responses in vitro and in vivo with mice. This immunosuppressive effect was more potent than that of ciclosporin.",
+  "authors": [
+    "Toru Kino",
+    "Hiroshi Hatanaka",
+    "M Hashimoto",
+    "Michihisa Nishiyama",
+    "Toshio Goto",
+    "MASAKUNI OKUHARA",
+    "MASANOBU KOHSAKA",
+    "HATSUO AOKI",
+    "Hiroshi Imanaka"
+  ],
+  "year": 1987,
+  "doi": "10.7164/antibiotics.40.1249",
+  "source": "openalex",
+  "categories": [
+    "Fermentation",
+    "Streptomyces",
+    "In vivo",
+    "In vitro",
+    "Ciclosporin",
+    "Chemistry",
+    "Actinomycetales",
+    "Biological activity",
+    "Immune system",
+    "Microbiology",
+    "Isolation (microbiology)",
+    "Streptomycetaceae",
+    "Biology",
+    "Biochemistry",
+    "Bacteria",
+    "Immunology",
+    "Biotechnology",
+    "Kidney",
+    "Endocrinology",
+    "Genetics"
+  ],
+  "citation_count": 1251,
+  "open_access_pdf_url": "https://www.jstage.jst.go.jp/article/antibiotics1968/40/9/40_9_1249/_pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2782175582.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:02.692334+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2782175582",
+    "concepts": [
+      "Fermentation",
+      "Streptomyces",
+      "In vivo",
+      "In vitro",
+      "Ciclosporin"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W2000619651",
+  "title": "ESTIMATION OF LATENT ABILITY USING A RESPONSE PATTERN OF GRADED SCORES1",
+  "abstract": "ABSTRACT Estimation of latent ability using the entire response pattern of free‐response items is discussed, first in the general case and then in the case where the items are scored in a graded way, especially when the thinking process required for solving each item is assumed to be homogeneous. The maximum likelihood estimator, the Bayes modal estimator, and the Bayes estimator obtained by using the mean‐square error multiplied by the density function of the latent variate as the loss function are taken as our estimators. Sufficient conditions for the existence of a unique maximum likelihood estimator and a unique Bayes modal estimator are formulated with respect to an individual item rather than with respect to a whole set of items, which are useful especially in the situation where we are free to choose optimal items for a particular examinee out of the item library in which a sufficient number of items are stored with reliable quality controls. Advantages of the present methods are investigated by comparing them with those which make use of conventional dichotomous items or test scores, theoretically as well as empirically, in terms of the amounts of information, the standard errors of estimators, and the mean‐square errors of estimators. The utility of the Bayes modal estimator as a computational compromise for the Bayes estimator is also discussed and observed. The relationship between the formula for the item characteristic function and the philosophy of scoring is observed with respect to dichotomous items.",
+  "authors": [
+    "Fumi Samejima"
+  ],
+  "year": 1968,
+  "doi": "10.1002/j.2333-8504.1968.tb00153.x",
+  "source": "openalex",
+  "categories": [
+    "Estimator",
+    "Statistics",
+    "Mathematics",
+    "Bayes' theorem",
+    "Bayes estimator",
+    "Mean squared error",
+    "Invariant estimator",
+    "Item response theory",
+    "Function (biology)",
+    "Modal",
+    "Efficient estimator",
+    "Minimum-variance unbiased estimator",
+    "Bayesian probability",
+    "Psychometrics",
+    "Evolutionary biology",
+    "Chemistry",
+    "Polymer chemistry",
+    "Biology"
+  ],
+  "citation_count": 2670,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/j.2333-8504.1968.tb00153.x",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2000619651.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:04.191441+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2000619651",
+    "concepts": [
+      "Estimator",
+      "Statistics",
+      "Mathematics",
+      "Bayes' theorem",
+      "Bayes estimator"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W2564065614",
+  "title": "Radiative forcing of carbon dioxide, methane, and nitrous oxide: A significant revision of the methane radiative forcing",
+  "abstract": "Abstract New calculations of the radiative forcing (RF) are presented for the three main well‐mixed greenhouse gases, methane, nitrous oxide, and carbon dioxide. Methane's RF is particularly impacted because of the inclusion of the shortwave forcing; the 1750–2011 RF is about 25% higher (increasing from 0.48 W m −2 to 0.61 W m −2 ) compared to the value in the Intergovernmental Panel on Climate Change (IPCC) 2013 assessment; the 100 year global warming potential is 14% higher than the IPCC value. We present new simplified expressions to calculate RF. Unlike previous expressions used by IPCC, the new ones include the overlap between CO 2 and N 2 O; for N 2 O forcing, the CO 2 overlap can be as important as the CH 4 overlap. The 1750–2011 CO 2 RF is within 1% of IPCC's value but is about 10% higher when CO 2 amounts reach 2000 ppm, a value projected to be possible under the extended RCP8.5 scenario.",
+  "authors": [
+    "Maryam Etminan",
+    "Gunnar Myhre",
+    "Eleanor J. Highwood",
+    "Keith Peter Shine"
+  ],
+  "year": 2016,
+  "doi": "10.1002/2016gl071930",
+  "source": "openalex",
+  "categories": [
+    "Radiative forcing",
+    "Methane",
+    "Greenhouse gas",
+    "Nitrous oxide",
+    "Forcing (mathematics)",
+    "Environmental science",
+    "Carbon dioxide",
+    "Atmospheric sciences",
+    "Radiative transfer",
+    "Shortwave",
+    "Global warming",
+    "Climatology",
+    "Climate change",
+    "Chemistry",
+    "Physics",
+    "Meteorology",
+    "Geology",
+    "Quantum mechanics",
+    "Oceanography",
+    "Organic chemistry",
+    "Aerosol"
+  ],
+  "citation_count": 1117,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/2016GL071930",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2564065614.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:19.530903+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2564065614",
+    "concepts": [
+      "Radiative forcing",
+      "Methane",
+      "Greenhouse gas",
+      "Nitrous oxide",
+      "Forcing (mathematics)"
+    ],
+    "oa_status": "hybrid"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W2162465757",
+  "title": "Resolvins",
+  "abstract": "Aspirin (ASA) is unique among current therapies because it acetylates cyclooxygenase (COX)-2 enabling the biosynthesis of R-containing precursors of endogenous antiinflammatory mediators. Here, we report that lipidomic analysis of exudates obtained in the resolution phase from mice treated with ASA and docosahexaenoic acid (DHA) (C22:6) produce a novel family of bioactive 17R-hydroxy-containing di- and tri-hydroxy-docosanoids termed resolvins. Murine brain treated with aspirin produced endogenous 17R-hydroxydocosahexaenoic acid as did human microglial cells. Human COX-2 converted DHA to 13-hydroxy-DHA that switched with ASA to 17R-HDHA that also proved a major route in hypoxic endothelial cells. Human neutrophils transformed COX-2-ASA-derived 17R-hydroxy-DHA into two sets of novel di- and trihydroxy products; one initiated via oxygenation at carbon 7 and the other at carbon 4. These compounds inhibited (IC(50) approximately 50 pM) microglial cell cytokine expression and in vivo dermal inflammation and peritonitis at ng doses, reducing 40-80% leukocytic exudates. These results indicate that exudates, vascular, leukocytes and neural cells treated with aspirin convert DHA to novel 17R-hydroxy series of docosanoids that are potent regulators. These biosynthetic pathways utilize omega-3 DHA and EPA during multicellular events in resolution to produce a family of protective compounds, i.e., resolvins, that enhance proresolution status.",
+  "authors": [
+    "Charles Nicholas Serhan",
+    "Song Hong",
+    "Karsten Gronert",
+    "Sean P. Colgan",
+    "Pallavi R. Devchand",
+    "Gudrun E. Mirick",
+    "Rose‐Laure Moussignac"
+  ],
+  "year": 2002,
+  "doi": "10.1084/jem.20020760",
+  "source": "openalex",
+  "categories": [
+    "Docosahexaenoic acid",
+    "Endogeny",
+    "Chemistry",
+    "Lipid signaling",
+    "Biochemistry",
+    "Aspirin",
+    "Cyclooxygenase",
+    "Pharmacology",
+    "Biology",
+    "Enzyme",
+    "Polyunsaturated fatty acid",
+    "Fatty acid"
+  ],
+  "citation_count": 1677,
+  "open_access_pdf_url": "https://rupress.org/jem/article-pdf/196/8/1025/1142248/jem19681025.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2162465757.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:33.229351+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2162465757",
+    "concepts": [
+      "Docosahexaenoic acid",
+      "Endogeny",
+      "Chemistry",
+      "Lipid signaling",
+      "Biochemistry"
+    ],
+    "oa_status": "bronze"
+  }
+}

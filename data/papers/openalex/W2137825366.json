@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W2137825366",
+  "title": "CAVER 3.0: A Tool for the Analysis of Transport Pathways in Dynamic Protein Structures",
+  "abstract": "Tunnels and channels facilitate the transport of small molecules, ions and water solvent in a large variety of proteins. Characteristics of individual transport pathways, including their geometry, physico-chemical properties and dynamics are instrumental for understanding of structure-function relationships of these proteins, for the design of new inhibitors and construction of improved biocatalysts. CAVER is a software tool widely used for the identification and characterization of transport pathways in static macromolecular structures. Herein we present a new version of CAVER enabling automatic analysis of tunnels and channels in large ensembles of protein conformations. CAVER 3.0 implements new algorithms for the calculation and clustering of pathways. A trajectory from a molecular dynamics simulation serves as the typical input, while detailed characteristics and summary statistics of the time evolution of individual pathways are provided in the outputs. To illustrate the capabilities of CAVER 3.0, the tool was applied for the analysis of molecular dynamics simulation of the microbial enzyme haloalkane dehalogenase DhaA. CAVER 3.0 safely identified and reliably estimated the importance of all previously published DhaA tunnels, including the tunnels closed in DhaA crystal structures. Obtained results clearly demonstrate that analysis of molecular dynamics simulation is essential for the estimation of pathway characteristics and elucidation of the structural basis of the tunnel gating. CAVER 3.0 paves the way for the study of important biochemical phenomena in the area of molecular transport, molecular recognition and enzymatic catalysis. The software is freely available as a multiplatform command-line application at http://www.caver.cz.",
+  "authors": [
+    "Eva Chovancová",
+    "Antonín Pavelka",
+    "Petr Beneš",
+    "Ondřej Strnad",
+    "Jan Brezovský",
+    "Barbora Kozlíková",
+    "Artur Góra",
+    "Vilém Šustr",
+    "Martin Klvaňa",
+    "Petr Medek",
+    "Lada Biedermannová",
+    "Jiří­ Sochor",
+    "Jiřı́ Damborský"
+  ],
+  "year": 2012,
+  "doi": "10.1371/journal.pcbi.1002708",
+  "source": "openalex",
+  "categories": [
+    "Molecular dynamics",
+    "Biological system",
+    "Computer science",
+    "Computational biology",
+    "Software",
+    "Structural bioinformatics",
+    "Protein structure",
+    "Chemistry",
+    "Biology",
+    "Computational chemistry",
+    "Biochemistry",
+    "Programming language"
+  ],
+  "citation_count": 1411,
+  "open_access_pdf_url": "https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1002708&type=printable",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2137825366.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:50.681624+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2137825366",
+    "concepts": [
+      "Molecular dynamics",
+      "Biological system",
+      "Computer science",
+      "Computational biology",
+      "Software"
+    ],
+    "oa_status": "gold"
+  }
+}

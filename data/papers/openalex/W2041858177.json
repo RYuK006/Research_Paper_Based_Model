@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2041858177",
+  "title": "Adsorption of H 2 O , N H 3 , CO, N O 2 , and NO on graphene: A first-principles study",
+  "abstract": "Motivated by the recent realization of graphene sensors to detect individual gas molecules, we investigate the adsorption of ${\\mathrm{H}}_{2}\\mathrm{O}$, $\\mathrm{N}{\\mathrm{H}}_{3}$, CO, $\\mathrm{N}{\\mathrm{O}}_{2}$, and NO on a graphene substrate using first-principles calculations. The optimal adsorption position and orientation of these molecules on the graphene surface is determined and the adsorption energies are calculated. Molecular doping, i.e., charge transfer between the molecules and the graphene surface, is discussed in light of the density of states and the molecular orbitals of the adsorbates. The efficiency of doping of the different molecules is determined and the influence of their magnetic moment is discussed.",
+  "authors": [
+    "O. Leenaerts",
+    "B. Partoens",
+    "François Maria Peeters"
+  ],
+  "year": 2008,
+  "doi": "10.1103/physrevb.77.125416",
+  "source": "openalex",
+  "categories": [
+    "Adsorption",
+    "Graphene",
+    "Molecule",
+    "Realization (probability)",
+    "Doping",
+    "Orientation (vector space)",
+    "Molecular orbital",
+    "Materials science",
+    "Atomic orbital",
+    "Crystallography",
+    "Physics",
+    "Physical chemistry",
+    "Computational chemistry",
+    "Chemistry",
+    "Nanotechnology",
+    "Condensed matter physics",
+    "Quantum mechanics",
+    "Geometry",
+    "Mathematics",
+    "Electron",
+    "Statistics"
+  ],
+  "citation_count": 1720,
+  "open_access_pdf_url": "http://link.aps.org/pdf/10.1103/PhysRevB.77.125416",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2041858177.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:33.075253+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2041858177",
+    "concepts": [
+      "Adsorption",
+      "Graphene",
+      "Molecule",
+      "Realization (probability)",
+      "Doping"
+    ],
+    "oa_status": "bronze"
+  }
+}

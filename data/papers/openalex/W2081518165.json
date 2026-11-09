@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2081518165",
+  "title": "Review on recent progress of nanostructured anode materials for Li-ion batteries",
+  "abstract": "This review highlights the recent research advances in active nanostructured anode materials for the next generation of Li-ion batteries (LIBs). In fact, in order to address both energy and power demands of secondary LIBs for future energy storage applications, it is required the development of innovative kinds of electrodes. Nanostructured materials based on carbon, metal/semiconductor, metal oxides and metal phosphides/nitrides/sulfides show a variety of admirable properties for LIBs applications such as high surface area, low diffusion distance, high electrical and ionic conductivity. Therefore, nanosized active materials are extremely promising for bridging the gap towards the realization of the next generation of LIBs with high reversible capacities, increased power capability, long cycling stability and free from safety concerns. In this review, anode materials are classified, depending on their electrochemical reaction with lithium, into three groups: intercalation/de-intercalation, alloy/de-alloy and conversion materials. Furthermore, the effect of nanoscale size and morphology on the electrochemical performance is presented. Synthesis of the nanostructures, lithium battery performance and electrode reaction mechanisms are also discussed. To conclude, the main aim of this review is to provide an organic outline of the wide range of recent research progresses and perspectives on nanosized active anode materials for future LIBs.",
+  "authors": [
+    "Subrahmanyam Goriparti",
+    "Ermanno Miele",
+    "Francesco De Angelis",
+    "Enzo Mario Di Fabrizio",
+    "Remo Proietti Zaccaria",
+    "Claudio Capiglia"
+  ],
+  "year": 2014,
+  "doi": "10.1016/j.jpowsour.2013.11.103",
+  "source": "openalex",
+  "categories": [
+    "Anode",
+    "Materials science",
+    "Nanotechnology",
+    "Lithium (medication)",
+    "Electrochemistry",
+    "Nanostructure",
+    "Battery (electricity)",
+    "Energy storage",
+    "Alloy",
+    "Electrode",
+    "Metallurgy",
+    "Chemistry",
+    "Physical chemistry",
+    "Endocrinology",
+    "Medicine",
+    "Power (physics)",
+    "Quantum mechanics",
+    "Physics"
+  ],
+  "citation_count": 2120,
+  "open_access_pdf_url": "https://www.sciencedirect.com/science/article/pii/S0378775313019460/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2081518165.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:12.781511+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2081518165",
+    "concepts": [
+      "Anode",
+      "Materials science",
+      "Nanotechnology",
+      "Lithium (medication)",
+      "Electrochemistry"
+    ],
+    "oa_status": "hybrid"
+  }
+}

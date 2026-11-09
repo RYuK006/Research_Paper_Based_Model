@@ -1,0 +1,45 @@
+{
+  "id": "openalex:W1567544633",
+  "title": "Distribution of N-methyl-D-aspartate-sensitive L-[3H]glutamate-binding sites in rat brain",
+  "abstract": "N-methyl-D-aspartate (NMDA) is an acidic amino acid which depolarizes neurons by selectively interacting with a distinct class of excitatory amino acid receptor. Recent evidence has indicated that this receptor is a neurotransmitter receptor in the spinal cord, cerebral cortex, and hippocampus for which the endogenous ligand is likely to be L-glutamate or a structurally related compound. Using quantitative autoradiography, we have studied the anatomical distribution of the class of L-[3H]glutamate-binding sites displaced by NMDA, which appear to correspond to NMDA receptors. The CA1 region of the hippocampus contains the highest density of sites. In general, telencephalic regions have high levels of binding sites. The cerebral cortex shows significant density variations among the differing layers and regions, with the highest levels found in the frontal cortex layers I to III. Within the basal ganglia, the highest levels are found in the nucleus accumbens, intermediate levels are found in the caudate/putamen, and very low levels are found in the globus pallidus. Thalamic regions have moderate levels with variations among differing regions. Midbrain and brainstem have low levels of binding sites, but within these regions there are structures exhibiting higher levels, e.g., the nucleus of the solitary tract and the inferior olive. The distribution of NMDA sites is consistent with most, but not all, of the regions previously proposed to use glutamate as an excitatory transmitter. Thus, the distribution of NMDA-sensitive L-[3H]glutamate-binding sites suggests that the NMDA receptor represents a major, distinct subset of excitatory amino acid receptors and indicates regions in which neurotransmission may be mediated or modulated by this receptor.",
+  "authors": [
+    "DT Monaghan",
+    "Carl W. Cotman"
+  ],
+  "year": 1985,
+  "doi": "10.1523/jneurosci.05-11-02909.1985",
+  "source": "openalex",
+  "categories": [
+    "NMDA receptor",
+    "Glutamate receptor",
+    "Nucleus accumbens",
+    "Globus pallidus",
+    "Biology",
+    "Neuroscience",
+    "Excitatory postsynaptic potential",
+    "Cerebral cortex",
+    "Hippocampus",
+    "Basal ganglia",
+    "Chemistry",
+    "Receptor",
+    "Biochemistry",
+    "Central nervous system",
+    "Inhibitory postsynaptic potential"
+  ],
+  "citation_count": 1279,
+  "open_access_pdf_url": "https://www.jneurosci.org/content/jneuro/5/11/2909.full.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1567544633.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:00.467493+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1567544633",
+    "concepts": [
+      "NMDA receptor",
+      "Glutamate receptor",
+      "Nucleus accumbens",
+      "Globus pallidus",
+      "Biology"
+    ],
+    "oa_status": "hybrid"
+  }
+}

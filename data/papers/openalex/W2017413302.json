@@ -1,0 +1,44 @@
+{
+  "id": "openalex:W2017413302",
+  "title": "Bacterial Extracellular Polysaccharides Involved in Biofilm Formation",
+  "abstract": "Extracellular polymeric substances (EPS) produced by microorganisms are a complex mixture of biopolymers primarily consisting of polysaccharides, as well as proteins, nucleic acids, lipids and humic substances. EPS make up the intercellular space of microbial aggregates and form the structure and architecture of the biofilm matrix. The key functions of EPS comprise the mediation of the initial attachment of cells to different substrata and protection against environmental stress and dehydration. The aim of this review is to present a summary of the current status of the research into the role of EPS in bacterial attachment followed by biofilm formation. The latter has a profound impact on an array of biomedical, biotechnology and industrial fields including pharmaceutical and surgical applications, food engineering, bioremediation and biohydrometallurgy. The diverse structural variations of EPS produced by bacteria of different taxonomic lineages, together with examples of biotechnological applications, are discussed. Finally, a range of novel techniques that can be used in studies involving biofilm-specific polysaccharides is discussed.",
+  "authors": [
+    "Barbara Vu",
+    "Miao Chen",
+    "Russell J. Crawford",
+    "Elena Pavlovna Ivanova"
+  ],
+  "year": 2009,
+  "doi": "10.3390/molecules14072535",
+  "source": "openalex",
+  "categories": [
+    "Biofilm",
+    "Extracellular polymeric substance",
+    "Polysaccharide",
+    "Extracellular polysaccharide",
+    "Bacteria",
+    "Microorganism",
+    "Microbiology",
+    "Nucleic acid",
+    "Chemistry",
+    "Biology",
+    "Biochemistry",
+    "Genetics"
+  ],
+  "citation_count": 1169,
+  "open_access_pdf_url": "https://www.mdpi.com/1420-3049/14/7/2535/pdf?version=1403112572",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2017413302.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:12.197467+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2017413302",
+    "concepts": [
+      "Biofilm",
+      "Extracellular polymeric substance",
+      "Polysaccharide",
+      "Extracellular polysaccharide",
+      "Bacteria"
+    ],
+    "oa_status": "gold"
+  }
+}

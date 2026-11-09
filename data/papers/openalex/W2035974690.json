@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2035974690",
+  "title": "The Evolution of Silicon Wafer Cleaning Technology",
+  "abstract": "The purity of wafer surfaces is an essential requisite for the successful fabrication of VLSI and ULSI silicon circuits. Wafer cleaning chemistry has remained essentially unchanged in the past 25 years and is based on hot alkaline and acidic hydrogen peroxide solutions, a process known as \"RCA Standard Clean.\" This is still the primary method used in the industry. What has changed is its implementation with optimized equipment: from simple immersion to centrifugal spraying, megasonic techniques, and enclosed system processing that allow simultaneous removal of both contaminant films and particles. Improvements in wafer drying by use of isopropanol vapor or by \"slow‐pull\" out of hot deionized water are being investigated. Several alternative cleaning methods are also being tested, including choline solutions, chemical vapor etching, and UV/ozone treatments. The evolution of silicon wafer cleaning processes and technology is traced and reviewed from the 1950s to August 1989.",
+  "authors": [
+    "Werner Kern"
+  ],
+  "year": 1990,
+  "doi": "10.1149/1.2086825",
+  "source": "openalex",
+  "categories": [
+    "Wafer",
+    "Silicon",
+    "Hydrogen peroxide",
+    "Materials science",
+    "Etching (microfabrication)",
+    "Fabrication",
+    "Wafer fabrication",
+    "Nanotechnology",
+    "Wet cleaning",
+    "Process engineering",
+    "Chemical engineering",
+    "Chemistry",
+    "Optoelectronics",
+    "Engineering",
+    "Organic chemistry",
+    "Layer (electronics)",
+    "Alternative medicine",
+    "Medicine",
+    "Pathology"
+  ],
+  "citation_count": 1760,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1149/1.2086825/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2035974690.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:26.125054+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2035974690",
+    "concepts": [
+      "Wafer",
+      "Silicon",
+      "Hydrogen peroxide",
+      "Materials science",
+      "Etching (microfabrication)"
+    ],
+    "oa_status": "bronze"
+  }
+}

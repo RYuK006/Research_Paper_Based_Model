@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W2071134066",
+  "title": "Polymer Photovoltaic Cells: Enhanced Efficiencies via a Network of Internal Donor-Acceptor Heterojunctions",
+  "abstract": "The carrier collection efficiency (η c ) and energy conversion efficiency (η e ) of polymer photovoltaic cells were improved by blending of the semiconducting polymer with C 60 or its functionalized derivatives. Composite films of poly(2-methoxy-5-(2′-ethyl-hexyloxy)-1,4-phenylene vinylene) (MEH-PPV) and fullerenes exhibit η c of about 29 percent of electrons per photon and η e of about 2.9 percent, efficiencies that are better by more than two orders of magnitude than those that have been achieved with devices made with pure MEH-PPV. The efficient charge separation results from photoinduced electron transfer from the MEH-PPV (as donor) to C 60 (as acceptor); the high collection efficiency results from a bicontinuous network of internal donor-acceptor heterojunctions.",
+  "authors": [
+    "Gang Yu",
+    "Jun Gao",
+    "Jan Cornelis Hummelen",
+    "Fred Wudl",
+    "Alan J. Heeger"
+  ],
+  "year": 1995,
+  "doi": "10.1126/science.270.5243.1789",
+  "source": "openalex",
+  "categories": [
+    "Acceptor",
+    "Materials science",
+    "Heterojunction",
+    "Fullerene",
+    "Polymer",
+    "Photovoltaic system",
+    "Phenylene",
+    "Energy conversion efficiency",
+    "Polymer solar cell",
+    "Charge carrier",
+    "Optoelectronics",
+    "Electron acceptor",
+    "Photochemistry",
+    "Chemistry",
+    "Organic chemistry",
+    "Composite material",
+    "Condensed matter physics",
+    "Physics",
+    "Biology",
+    "Ecology"
+  ],
+  "citation_count": 10486,
+  "open_access_pdf_url": "https://research.rug.nl/files/3621108/1995YuScience.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2071134066.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:49.861767+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2071134066",
+    "concepts": [
+      "Acceptor",
+      "Materials science",
+      "Heterojunction",
+      "Fullerene",
+      "Polymer"
+    ],
+    "oa_status": "green"
+  }
+}

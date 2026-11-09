@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2156257671",
+  "title": "Ultrafast optical manipulation of magnetic order",
+  "abstract": "The interaction of subpicosecond laser pulses with magnetically ordered materials has developed into a fascinating research topic in modern magnetism. From the discovery of subpicosecond demagnetization over a decade ago to the recent demonstration of magnetization reversal by a single $40\\phantom{\\rule{0.3em}{0ex}}\\mathrm{fs}$ laser pulse, the manipulation of magnetic order by ultrashort laser pulses has become a fundamentally challenging topic with a potentially high impact for future spintronics, data storage and manipulation, and quantum computation. Understanding the underlying mechanisms implies understanding the interaction of photons with charges, spins, and lattice, and the angular momentum transfer between them. This paper will review the progress in this field of laser manipulation of magnetic order in a systematic way. Starting with a historical introduction, the interaction of light with magnetically ordered matter is discussed. By investigating metals, semiconductors, and dielectrics, the roles of (nearly) free electrons, charge redistributions, and spin-orbit and spin-lattice interactions can partly be separated, and effects due to heating can be distinguished from those that are not. It will be shown that there is a fundamental distinction between processes that involve the actual absorption of photons and those that do not. It turns out that for the latter, the polarization of light plays an essential role in the manipulation of the magnetic moments at the femtosecond time scale. Thus, circularly and linearly polarized pulses are shown to act as strong transient magnetic field pulses originating from the nonabsorptive inverse Faraday and inverse Cotton-Mouton effects, respectively. The recent progress in the understanding of magneto-optical effects on the femtosecond time scale together with the mentioned inverse, optomagnetic effects promises a bright future for this field of ultrafast optical manipulation of magnetic order or femtomagnetism.",
+  "authors": [
+    "Andrei I. Kirilyuk",
+    "Alexey V. Kimel",
+    "Th. Rasing"
+  ],
+  "year": 2010,
+  "doi": "10.1103/revmodphys.82.2731",
+  "source": "openalex",
+  "categories": [
+    "Physics",
+    "Magnetism",
+    "Spintronics",
+    "Photon",
+    "Femtosecond",
+    "Electron",
+    "Condensed matter physics",
+    "Laser",
+    "Ultrashort pulse",
+    "Magnetic field",
+    "Magnetization",
+    "Spins",
+    "Polarization (electrochemistry)",
+    "Angular momentum",
+    "Quantum mechanics",
+    "Ferromagnetism",
+    "Chemistry",
+    "Physical chemistry"
+  ],
+  "citation_count": 1958,
+  "open_access_pdf_url": "http://link.aps.org/pdf/10.1103/RevModPhys.82.2731",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2156257671.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:17.812161+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2156257671",
+    "concepts": [
+      "Physics",
+      "Magnetism",
+      "Spintronics",
+      "Photon",
+      "Femtosecond"
+    ],
+    "oa_status": "bronze"
+  }
+}

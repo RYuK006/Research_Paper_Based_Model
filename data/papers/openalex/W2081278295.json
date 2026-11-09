@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2081278295",
+  "title": "Neutrophil Extracellular Traps Directly Induce Epithelial and Endothelial Cell Death: A Predominant Role of Histones",
+  "abstract": "Neutrophils play an important role in innate immunity by defending the host organism against invading microorganisms. Antimicrobial activity of neutrophils is mediated by release of antimicrobial peptides, phagocytosis as well as formation of neutrophil extracellular traps (NET). These structures are composed of DNA, histones and granular proteins such as neutrophil elastase and myeloperoxidase. This study focused on the influence of NET on the host cell functions, particularly on human alveolar epithelial cells as the major cells responsible for gas exchange in the lung. Upon direct interaction with epithelial and endothelial cells, NET induced cytotoxic effects in a dose-dependent manner, and digestion of DNA in NET did not change NET-mediated cytotoxicity. Pre-incubation of NET with antibodies against histones, with polysialic acid or with myeloperoxidase inhibitor but not with elastase inhibitor reduced NET-mediated cytotoxicity, suggesting that histones and myeloperoxidase are responsible for NET-mediated cytotoxicity. Although activated protein C (APC) did decrease the histone-induced cytotoxicity in a purified system, it did not change NET-induced cytotoxicity, indicating that histone-dependent cytotoxicity of NET is protected against APC degradation. Moreover, in LPS-induced acute lung injury mouse model, NET formation was documented in the lung tissue as well as in the bronchoalveolar lavage fluid. These data reveal the important role of protein components in NET, particularly histones, which may lead to host cell cytotoxicity and may be involved in lung tissue destruction.",
+  "authors": [
+    "Mona Saffarzadeh",
+    "Christiane Jünemann",
+    "Markus A. Queisser",
+    "Günter Lochnit",
+    "Guillermo Barreto",
+    "Sebastian Peter Galuska",
+    "Juergen Lohmeyer",
+    "Klaus T. Preissner"
+  ],
+  "year": 2012,
+  "doi": "10.1371/journal.pone.0032366",
+  "source": "openalex",
+  "categories": [
+    "Cytotoxicity",
+    "Neutrophil extracellular traps",
+    "Myeloperoxidase",
+    "Neutrophil elastase",
+    "Innate immune system",
+    "Elastase",
+    "Biology",
+    "Histone",
+    "Phagocytosis",
+    "Cell biology",
+    "Chemistry",
+    "Immunology",
+    "Biochemistry",
+    "Immune system",
+    "Inflammation",
+    "DNA",
+    "In vitro",
+    "Enzyme"
+  ],
+  "citation_count": 1382,
+  "open_access_pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0032366&type=printable",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2081278295.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:52.660490+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2081278295",
+    "concepts": [
+      "Cytotoxicity",
+      "Neutrophil extracellular traps",
+      "Myeloperoxidase",
+      "Neutrophil elastase",
+      "Innate immune system"
+    ],
+    "oa_status": "gold"
+  }
+}

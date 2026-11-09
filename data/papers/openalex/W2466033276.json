@@ -1,0 +1,43 @@
+{
+  "id": "openalex:W2466033276",
+  "title": "Non-small cell lung cancer: current treatment and future advances",
+  "abstract": "Lung cancer has a poor prognosis; over half of people diagnosed with lung cancer die within one year of diagnosis and the 5-year survival is less than 18%. Non-small cell lung cancer (NSCLC) accounts for the majority of all lung cancer cases. Risk factors for developing NSCLC have been identified, with cigarette smoking being a major factor along with other environmental and genetic risk factors. Depending on the staging of lung cancer, patients are eligible for certain treatments ranging from surgery to radiation to chemotherapy as well as targeted therapy. With the advancement of genetics and biomarkers testing, specific mutations have been identified to better target treatment for individual patients. This review discusses current treatments including surgery, chemotherapy, radiotherapy, and immunotherapy as well as how biomarker testing has helped improve survival in patients with NSCLC.",
+  "authors": [
+    "Cecilia Zappa",
+    "Shaker A. Mousa"
+  ],
+  "year": 2016,
+  "doi": "10.21037/tlcr.2016.06.07",
+  "source": "openalex",
+  "categories": [
+    "Medicine",
+    "Lung cancer",
+    "Radiation therapy",
+    "Oncology",
+    "Chemotherapy",
+    "Biomarker",
+    "Internal medicine",
+    "Immunotherapy",
+    "Cancer",
+    "Targeted therapy",
+    "Intensive care medicine",
+    "Chemistry",
+    "Biochemistry"
+  ],
+  "citation_count": 1995,
+  "open_access_pdf_url": "https://tlcr.amegroups.com/article/viewFile/8139/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2466033276.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:17.711950+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2466033276",
+    "concepts": [
+      "Medicine",
+      "Lung cancer",
+      "Radiation therapy",
+      "Oncology",
+      "Chemotherapy"
+    ],
+    "oa_status": "diamond"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W1996283866",
+  "title": "Analysis of recommendation algorithms for e-commerce",
+  "abstract": "Recommender systems apply statistical and knowledge discovery techniques to the problem of making product recommendations during a live customer interaction and they are achieving widespread success in E-Commerce nowadays. In this paper, we investigate several techniques for analyzing large-scale purchase and preference data for the purpose of producing useful recommendations to customers. In particular, we apply a collection of algorithms such as traditional data mining, nearest-neighbor collaborative filtering, and dimensionality reduction on two different data sets. The first data set was derived from the web-purchasing transaction of a large E-commerce company whereas the second data set was collected from MovieLens movie recommendation site. For the experimental purpose, we divide the recommendation generation process into three sub processes - representation of input data, neighborhood formation, and recommendation generation. We devise different techniques for different sub processes and apply their combinations on our data sets to compare for recommendation quality and performance.",
+  "authors": [
+    "Badrul M. Sarwar",
+    "George Karypis",
+    "Joseph A. Konstan",
+    "John Riedl"
+  ],
+  "year": 2000,
+  "doi": "10.1145/352871.352887",
+  "source": "openalex",
+  "categories": [
+    "Research center",
+    "Library science",
+    "Computer Science and Engineering",
+    "Citation",
+    "Computer science",
+    "Center (category theory)",
+    "George (robot)",
+    "Science and engineering",
+    "Engineering",
+    "Medicine",
+    "Artificial intelligence",
+    "Software engineering",
+    "Engineering ethics",
+    "Chemistry",
+    "Pathology",
+    "Crystallography"
+  ],
+  "citation_count": 1855,
+  "open_access_pdf_url": "https://conservancy.umn.edu/bitstreams/d192f9bd-0d50-4d70-b405-3d0a04511cfd/download",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1996283866.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:22.257033+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1996283866",
+    "concepts": [
+      "Research center",
+      "Library science",
+      "Computer Science and Engineering",
+      "Citation",
+      "Computer science"
+    ],
+    "oa_status": "green"
+  }
+}

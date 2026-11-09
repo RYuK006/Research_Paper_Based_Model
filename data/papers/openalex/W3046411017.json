@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W3046411017",
+  "title": "Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation",
+  "abstract": "We present a generic image-to-image translation framework, pixel2style2pixel (pSp). Our pSp framework is based on a novel encoder network that directly generates a series of style vectors which are fed into a pretrained StyleGAN generator, forming the extended $\\mathcal{W} + $ latent space. We first show that our encoder can directly embed real images into $\\mathcal{W} + $, with no additional optimization. Next, we propose utilizing our encoder to directly solve image-to-image translation tasks, defining them as encoding problems from some input domain into the latent domain. By deviating from the standard \"invert first, edit later\" methodology used with previous StyleGAN encoders, our approach can handle a variety of tasks even when the input image is not represented in the StyleGAN domain. We show that solving translation tasks through StyleGAN significantly simplifies the training process, as no adversary is required, has better support for solving tasks without pixel-to-pixel correspondence, and inherently supports multi-modal synthesis via the resampling of styles. Finally, we demonstrate the potential of our framework on a variety of facial image-to-image translation tasks, even when compared to state-of-the-art solutions designed specifically for a single task, and further show that it can be extended beyond the human facial domain. Code is available at https://github.com/eladrich/pixel2style2pixel.",
+  "authors": [
+    "Elad Richardson",
+    "Yuval Alaluf",
+    "Or Patashnik",
+    "Yotam Nitzan",
+    "Yaniv Azar",
+    "Stav Shapiro",
+    "Daniel Cohen‐Or"
+  ],
+  "year": 2021,
+  "doi": "10.1109/cvpr46437.2021.00232",
+  "source": "openalex",
+  "categories": [
+    "Computer science",
+    "Artificial intelligence",
+    "Image translation",
+    "Translation (biology)",
+    "Generator (circuit theory)",
+    "Computer vision",
+    "Pixel",
+    "Encoder",
+    "Image (mathematics)",
+    "Encoding (memory)",
+    "Pattern recognition (psychology)",
+    "Power (physics)",
+    "Messenger RNA",
+    "Biochemistry",
+    "Physics",
+    "Gene",
+    "Chemistry",
+    "Operating system",
+    "Quantum mechanics"
+  ],
+  "citation_count": 1187,
+  "open_access_pdf_url": "https://arxiv.org/pdf/2008.00951",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3046411017.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:08.471654+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3046411017",
+    "concepts": [
+      "Computer science",
+      "Artificial intelligence",
+      "Image translation",
+      "Translation (biology)",
+      "Generator (circuit theory)"
+    ],
+    "oa_status": "green"
+  }
+}

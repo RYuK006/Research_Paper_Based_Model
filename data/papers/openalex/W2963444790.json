@@ -1,0 +1,57 @@
+{
+  "id": "openalex:W2963444790",
+  "title": "DualGAN: Unsupervised Dual Learning for Image-to-Image Translation",
+  "abstract": "Conditional Generative Adversarial Networks (GANs) for cross-domain image-to-image translation have made much progress recently [7, 8, 21, 12, 4, 18]. Depending on the task complexity, thousands to millions of labeled image pairs are needed to train a conditional GAN. However, human labeling is expensive, even impractical, and large quantities of data may not always be available. Inspired by dual learning from natural language translation [23], we develop a novel dual-GAN mechanism, which enables image translators to be trained from two sets of unlabeled images from two domains. In our architecture, the primal GAN learns to translate images from domain U to those in domain V, while the dual GAN learns to invert the task. The closed loop made by the primal and dual tasks allows images from either domain to be translated and then reconstructed. Hence a loss function that accounts for the reconstruction error of images can be used to train the translators. Experiments on multiple image translation tasks with unlabeled data show considerable performance gain of DualGAN over a single GAN. For some tasks, DualGAN can even achieve comparable or slightly better results than conditional GAN trained on fully labeled data.",
+  "authors": [
+    "Zili Yi",
+    "Hao Zhang",
+    "Ping Tan",
+    "Minglun Gong"
+  ],
+  "year": 2017,
+  "doi": "10.1109/iccv.2017.310",
+  "source": "openalex",
+  "categories": [
+    "Image translation",
+    "Computer science",
+    "Translation (biology)",
+    "Image (mathematics)",
+    "Artificial intelligence",
+    "Dual (grammatical number)",
+    "Task (project management)",
+    "Domain (mathematical analysis)",
+    "Pattern recognition (psychology)",
+    "Labeled data",
+    "Generative grammar",
+    "Function (biology)",
+    "Computer vision",
+    "Mathematics",
+    "Management",
+    "Chemistry",
+    "Economics",
+    "Art",
+    "Gene",
+    "Evolutionary biology",
+    "Biochemistry",
+    "Literature",
+    "Mathematical analysis",
+    "Messenger RNA",
+    "Biology"
+  ],
+  "citation_count": 2262,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1704.02510",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2963444790.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:08.859531+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2963444790",
+    "concepts": [
+      "Image translation",
+      "Computer science",
+      "Translation (biology)",
+      "Image (mathematics)",
+      "Artificial intelligence"
+    ],
+    "oa_status": "green"
+  }
+}

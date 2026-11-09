@@ -1,0 +1,45 @@
+{
+  "id": "openalex:W2146830821",
+  "title": "Multiple absorption of laser photons by atoms",
+  "abstract": "Applying a space translation operation, the Schrodinger equation for an atom in an electromagnetic field is solved with sufficient accuracy to obtain probabilities for multiple absorption of photons from a monochromatic laser beam of arbitrary intensity or frequency. It is shown that the derived expression for the N-photon T-matrix contains the usual single photon matrix elements given by the perturbation theory and that the perturbative result is obtained in the limit of low intensity. Other explicit examples are considered. The conditions of applicability of the method are specified.",
+  "authors": [
+    "Farhad H. M. Faisal"
+  ],
+  "year": 1973,
+  "doi": "10.1088/0022-3700/6/4/011",
+  "source": "openalex",
+  "categories": [
+    "Photon",
+    "Monochromatic color",
+    "Physics",
+    "Laser",
+    "Limit (mathematics)",
+    "Perturbation theory (quantum mechanics)",
+    "Absorption (acoustics)",
+    "Atomic physics",
+    "Matrix (chemical analysis)",
+    "Quantum mechanics",
+    "Computational physics",
+    "Optics",
+    "Mathematics",
+    "Mathematical analysis",
+    "Chemistry",
+    "Chromatography"
+  ],
+  "citation_count": 1139,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1088/0022-3700/6/4/011/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2146830821.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:16.935062+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2146830821",
+    "concepts": [
+      "Photon",
+      "Monochromatic color",
+      "Physics",
+      "Laser",
+      "Limit (mathematics)"
+    ],
+    "oa_status": "bronze"
+  }
+}

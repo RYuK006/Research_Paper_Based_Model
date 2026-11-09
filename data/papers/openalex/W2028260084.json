@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2028260084",
+  "title": "Landau-Level Degeneracy and Quantum Hall Effect in a Graphite Bilayer",
+  "abstract": "We derive an effective two-dimensional Hamiltonian to describe the low-energy electronic excitations of a graphite bilayer, which correspond to chiral quasiparticles with a parabolic dispersion exhibiting Berry phase 2pi. Its high-magnetic-field Landau-level spectrum consists of almost equidistant groups of fourfold degenerate states at finite energy and eight zero-energy states. This can be translated into the Hall conductivity dependence on carrier density, sigma(xy)(N), which exhibits plateaus at integer values of 4e2/h and has a double 8e2/h step between the hole and electron gases across zero density, in contrast to (4n + 2)e2/h sequencing in a monolayer.",
+  "authors": [
+    "Edward McCann",
+    "Vladimir I. Fal’ko"
+  ],
+  "year": 2006,
+  "doi": "10.1103/physrevlett.96.086805",
+  "source": "openalex",
+  "categories": [
+    "Landau quantization",
+    "Quantum Hall effect",
+    "Condensed matter physics",
+    "Degeneracy (biology)",
+    "Bilayer",
+    "Physics",
+    "Fractional quantum Hall effect",
+    "Graphite",
+    "Quantum",
+    "Quantum mechanics",
+    "Materials science",
+    "Quantum spin Hall effect",
+    "Electron",
+    "Chemistry",
+    "Biochemistry",
+    "Composite material",
+    "Bioinformatics",
+    "Biology",
+    "Membrane"
+  ],
+  "citation_count": 2071,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0510237",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2028260084.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:15.501997+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2028260084",
+    "concepts": [
+      "Landau quantization",
+      "Quantum Hall effect",
+      "Condensed matter physics",
+      "Degeneracy (biology)",
+      "Bilayer"
+    ],
+    "oa_status": "green"
+  }
+}

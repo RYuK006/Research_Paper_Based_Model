@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2963140444",
+  "title": "Relational Knowledge Distillation",
+  "abstract": "Knowledge distillation aims at transferring knowledge acquired in one model (a teacher) to another model (a student) that is typically smaller. Previous approaches can be expressed as a form of training the student to mimic output activations of individual data examples represented by the teacher. We introduce a novel approach, dubbed relational knowledge distillation (RKD), that transfers mutual relations of data examples instead. For concrete realizations of RKD, we propose distance-wise and angle-wise distillation losses that penalize structural differences in relations. Experiments conducted on different tasks show that the proposed method improves educated student models with a significant margin. In particular for metric learning, it allows students to outperform their teachers' performance, achieving the state of the arts on standard benchmark datasets.",
+  "authors": [
+    "Wonpyo Park",
+    "Dongju Kim",
+    "Yan Lu",
+    "Minsu Cho"
+  ],
+  "year": 2019,
+  "doi": "10.1109/cvpr.2019.00409",
+  "source": "openalex",
+  "categories": [
+    "Margin (machine learning)",
+    "Distillation",
+    "Benchmark (surveying)",
+    "Metric (unit)",
+    "Computer science",
+    "Statistical relational learning",
+    "Artificial intelligence",
+    "Machine learning",
+    "Relational database",
+    "Data mining",
+    "Engineering",
+    "Geodesy",
+    "Organic chemistry",
+    "Operations management",
+    "Chemistry",
+    "Geography"
+  ],
+  "citation_count": 1898,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1904.05068",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2963140444.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:22.155846+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2963140444",
+    "concepts": [
+      "Margin (machine learning)",
+      "Distillation",
+      "Benchmark (surveying)",
+      "Metric (unit)",
+      "Computer science"
+    ],
+    "oa_status": "green"
+  }
+}

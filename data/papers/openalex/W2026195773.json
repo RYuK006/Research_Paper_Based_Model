@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W2026195773",
+  "title": "All-electron magnetic response with pseudopotentials: NMR chemical shifts",
+  "abstract": "A theory for the ab initio calculation of all-electron NMR chemical shifts in insulators using pseudopotentials is presented. It is formulated for both finite and infinitely periodic systems and is based on an extension to the projector augmented-wave approach of Bl\\\"ochl [P. E. Bl\\\"ochl, Phys. Rev. B 50, 17 953 (1994)] and the method of Mauri et al. [F. Mauri, B. G. Pfrommer, and S. G. Louie, Phys. Rev. Lett. 77, 5300 (1996)]. The theory is successfully validated for molecules by comparison with a selection of quantum chemical results, and in periodic systems by comparison with plane-wave all-electron results for diamond.",
+  "authors": [
+    "Chris J. Pickard",
+    "Francesco Mauri"
+  ],
+  "year": 2001,
+  "doi": "10.1103/physrevb.63.245101",
+  "source": "openalex",
+  "categories": [
+    "Diamond",
+    "Chemical shift",
+    "Projector",
+    "Ab initio",
+    "Wave function",
+    "Condensed matter physics",
+    "Plane wave",
+    "Electron",
+    "Atomic orbital",
+    "Molecule",
+    "Quantum mechanics",
+    "Physics",
+    "Atomic physics",
+    "Chemistry",
+    "Molecular physics",
+    "Optics",
+    "Organic chemistry"
+  ],
+  "citation_count": 1871,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0101257",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2026195773.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:22.207468+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2026195773",
+    "concepts": [
+      "Diamond",
+      "Chemical shift",
+      "Projector",
+      "Ab initio",
+      "Wave function"
+    ],
+    "oa_status": "green"
+  }
+}

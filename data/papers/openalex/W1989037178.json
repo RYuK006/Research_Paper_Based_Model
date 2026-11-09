@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W1989037178",
+  "title": "Nano-graphene oxide for cellular imaging and drug delivery",
+  "abstract": "Two-dimensional graphene offers interesting electronic, thermal, and mechanical properties that are currently being explored for advanced electronics, membranes, and composites. Here we synthesize and explore the biological applications of nano-graphene oxide (NGO), i.e., single-layer graphene oxide sheets down to a few nanometers in lateral width. We develop functionalization chemistry in order to impart solubility and compatibility of NGO in biological environments. We obtain size separated pegylated NGO sheets that are soluble in buffers and serum without agglomeration. The NGO sheets are found to be photoluminescent in the visible and infrared regions. The intrinsic photoluminescence (PL) of NGO is used for live cell imaging in the near-infrared (NIR) with little background. We found that simple physisorption via pi-stacking can be used for loading doxorubicin, a widely used cancer drug onto NGO functionalized with antibody for selective killing of cancer cells in vitro. Owing to its small size, intrinsic optical properties, large specific surface area, low cost, and useful non-covalent interactions with aromatic drug molecules, NGO is a promising new material for biological and medical applications.",
+  "authors": [
+    "Xiaoming Sun",
+    "Zhuang Liu",
+    "Kevin Welsher",
+    "Joshua Tucker Robinson",
+    "Andrew P. Goodwin",
+    "S. Zaric",
+    "Hongjie Dai"
+  ],
+  "year": 2008,
+  "doi": "10.1007/s12274-008-8021-8",
+  "source": "openalex",
+  "categories": [
+    "Graphene",
+    "Nanotechnology",
+    "Materials science",
+    "Oxide",
+    "Drug delivery",
+    "Photoluminescence",
+    "Surface modification",
+    "Physisorption",
+    "Nano-",
+    "Stacking",
+    "Chemical engineering",
+    "Optoelectronics",
+    "Chemistry",
+    "Organic chemistry",
+    "Composite material",
+    "Engineering",
+    "Adsorption",
+    "Metallurgy"
+  ],
+  "citation_count": 3318,
+  "open_access_pdf_url": "https://link.springer.com/content/pdf/10.1007/s12274-008-8021-8.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1989037178.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:57.780393+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1989037178",
+    "concepts": [
+      "Graphene",
+      "Nanotechnology",
+      "Materials science",
+      "Oxide",
+      "Drug delivery"
+    ],
+    "oa_status": "hybrid"
+  }
+}

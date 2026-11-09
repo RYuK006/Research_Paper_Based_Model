@@ -1,0 +1,59 @@
+{
+  "id": "openalex:W1977419538",
+  "title": "Low Temperature Surface Cleaning of Silicon and Its Application to Silicon MBE",
+  "abstract": "A low temperature thermal cleaning method for Si molecular beam epitaxy (MBE) is proposed. This method consists of wet chemical treatment to eliminate carbon contaminants on Si substrates, thin oxide film formation to protect the clean Si surface from contamination during processing before MBE growth, and desorption of the thin oxide film under UHV. The passivative oxide can be removed at temperatures below 800°C. It is confirmed that Si epitaxial growth can take place on substrates cleaned by this method and that high quality Si layers with dislocations of fewer than 100/cm 2 and high mobility comparable to good bulk materials are formed. Surface cleanliness, the nature of thin passivative oxide films, and cleaning processes are also studied by using such surface analytic methods as Auger electron spectroscopy, reflection high energy electron diffraction, and x‐ray photoelectron spectroscopy.",
+  "authors": [
+    "Akitoshi Ishizaka",
+    "Yasuhiro Shiraki"
+  ],
+  "year": 1986,
+  "doi": "10.1149/1.2108651",
+  "source": "openalex",
+  "categories": [
+    "Auger electron spectroscopy",
+    "X-ray photoelectron spectroscopy",
+    "Silicon",
+    "Materials science",
+    "Molecular beam epitaxy",
+    "Oxide",
+    "Thin film",
+    "Epitaxy",
+    "Thermal desorption",
+    "Electron diffraction",
+    "Low-energy electron diffraction",
+    "Analytical Chemistry (journal)",
+    "Silicon oxide",
+    "Desorption",
+    "Optoelectronics",
+    "Diffraction",
+    "Chemical engineering",
+    "Chemistry",
+    "Nanotechnology",
+    "Layer (electronics)",
+    "Optics",
+    "Metallurgy",
+    "Adsorption",
+    "Chromatography",
+    "Engineering",
+    "Organic chemistry",
+    "Silicon nitride",
+    "Physics",
+    "Nuclear physics"
+  ],
+  "citation_count": 1647,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1149/1.2108651/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1977419538.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:38.007978+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1977419538",
+    "concepts": [
+      "Auger electron spectroscopy",
+      "X-ray photoelectron spectroscopy",
+      "Silicon",
+      "Materials science",
+      "Molecular beam epitaxy"
+    ],
+    "oa_status": "bronze"
+  }
+}

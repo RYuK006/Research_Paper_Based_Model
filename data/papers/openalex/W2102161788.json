@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W2102161788",
+  "title": "Hypercholesterolemia in low density lipoprotein receptor knockout mice and its reversal by adenovirus-mediated gene delivery.",
+  "abstract": "We employed homologous recombination in embryonic stem cells to produce mice lacking functional LDL receptor genes. Homozygous male and female mice lacking LDL receptors (LDLR-/- mice) were viable and fertile. Total plasma cholesterol levels were twofold higher than those of wild-type litter-mates, owing to a seven- to ninefold increase in intermediate density lipoproteins (IDL) and LDL without a significant change in HDL. Plasma triglyceride levels were normal. The half-lives for intravenously administered 125I-VLDL and 125I-LDL were prolonged by 30-fold and 2.5-fold, respectively, but the clearance of 125I-HDL was normal in the LDLR-/- mice. Unlike wild-type mice, LDLR-/- mice responded to moderate amounts of dietary cholesterol (0.2% cholesterol/10% coconut oil) with a major increase in the cholesterol content of IDL and LDL particles. The elevated IDL/LDL level of LDLR-/- mice was reduced to normal 4 d after the intravenous injection of a recombinant replication-defective adenovirus encoding the human LDL receptor driven by the cytomegalovirus promoter. The virus restored expression of LDL receptor protein in the liver and increased the clearance of 125I-VLDL. We conclude that the LDL receptor is responsible in part for the low levels of VLDL, IDL, and LDL in wild-type mice and that adenovirus-encoded LDL receptors can acutely reverse the hypercholesterolemic effects of LDL receptor deficiency.",
+  "authors": [
+    "S Ishibashi",
+    "Mark S. Brown",
+    "Joseph L. Goldstein",
+    "Robert D. Gerard",
+    "Robert E. Hammer",
+    "Joachim Herz"
+  ],
+  "year": 1993,
+  "doi": "10.1172/jci116663",
+  "source": "openalex",
+  "categories": [
+    "LDL receptor",
+    "Internal medicine",
+    "Endocrinology",
+    "Receptor",
+    "Very low-density lipoprotein",
+    "Cholesterol",
+    "Familial hypercholesterolemia",
+    "Biology",
+    "Knockout mouse",
+    "Lipoprotein",
+    "Chemistry",
+    "Medicine"
+  ],
+  "citation_count": 1655,
+  "open_access_pdf_url": "http://www.jci.org/articles/view/116663/files/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2102161788.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:37.977194+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2102161788",
+    "concepts": [
+      "LDL receptor",
+      "Internal medicine",
+      "Endocrinology",
+      "Receptor",
+      "Very low-density lipoprotein"
+    ],
+    "oa_status": "bronze"
+  }
+}

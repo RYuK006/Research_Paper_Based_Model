@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W2798362442",
+  "title": "A Call for Clarity in Reporting BLEU Scores",
+  "abstract": "The field of machine translation faces an under-recognized problem because of inconsistency in the reporting of scores from its dominant metric.Although people refer to \"the\" BLEU score, BLEU is in fact a parameterized metric whose values can vary wildly with changes to these parameters.These parameters are often not reported or are hard to find, and consequently, BLEU scores between papers cannot be directly compared.I quantify this variation, finding differences as high as 1.8 between commonly used configurations.The main culprit is different tokenization and normalization schemes applied to the reference.Pointing to the success of the parsing community, I suggest machine translation researchers settle upon the BLEU scheme used by the annual Conference on Machine Translation (WMT), which does not allow for usersupplied reference processing, and provide a new tool, SACREBLEU, 1 to facilitate this.",
+  "authors": [
+    "Matt Post"
+  ],
+  "year": 2018,
+  "doi": "10.18653/v1/w18-6319",
+  "source": "openalex",
+  "categories": [
+    "BLEU",
+    "Computer science",
+    "Machine translation",
+    "Lexical analysis",
+    "Natural language processing",
+    "Artificial intelligence",
+    "CLARITY",
+    "Normalization (sociology)",
+    "Metric (unit)",
+    "Parsing",
+    "Information retrieval",
+    "Machine learning",
+    "Biochemistry",
+    "Sociology",
+    "Economics",
+    "Chemistry",
+    "Anthropology",
+    "Operations management"
+  ],
+  "citation_count": 2469,
+  "open_access_pdf_url": "https://www.aclweb.org/anthology/W18-6319.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2798362442.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:04.459570+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2798362442",
+    "concepts": [
+      "BLEU",
+      "Computer science",
+      "Machine translation",
+      "Lexical analysis",
+      "Natural language processing"
+    ],
+    "oa_status": "hybrid"
+  }
+}

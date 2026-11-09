@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2109812323",
+  "title": "Effects of beverage alcohol price and tax levels on drinking: a meta‐analysis of 1003 estimates from 112 studies",
+  "abstract": "AIMS: We conducted a systematic review of studies examining relationships between measures of beverage alcohol tax or price levels and alcohol sales or self-reported drinking. A total of 112 studies of alcohol tax or price effects were found, containing 1003 estimates of the tax/price-consumption relationship. DESIGN: Studies included analyses of alternative outcome measures, varying subgroups of the population, several statistical models, and using different units of analysis. Multiple estimates were coded from each study, along with numerous study characteristics. Using reported estimates, standard errors, t-ratios, sample sizes and other statistics, we calculated the partial correlation for the relationship between alcohol price or tax and sales or drinking measures for each major model or subgroup reported within each study. Random-effects models were used to combine studies for inverse variance weighted overall estimates of the magnitude and significance of the relationship between alcohol tax/price and drinking. FINDINGS: Simple means of reported elasticities are -0.46 for beer, -0.69 for wine and -0.80 for spirits. Meta-analytical results document the highly significant relationships (P < 0.001) between alcohol tax or price measures and indices of sales or consumption of alcohol (aggregate-level r = -0.17 for beer, -0.30 for wine, -0.29 for spirits and -0.44 for total alcohol). Price/tax also affects heavy drinking significantly (mean reported elasticity = -0.28, individual-level r = -0.01, P < 0.01), but the magnitude of effect is smaller than effects on overall drinking. CONCLUSIONS: A large literature establishes that beverage alcohol prices and taxes are related inversely to drinking. Effects are large compared to other prevention policies and programs. Public policies that raise prices of alcohol are an effective means to reduce drinking.",
+  "authors": [
+    "Alexander C. Wagenaar",
+    "Matthew Jude Salois",
+    "Kelli A. Komro"
+  ],
+  "year": 2009,
+  "doi": "10.1111/j.1360-0443.2008.02438.x",
+  "source": "openalex",
+  "categories": [
+    "Alcohol",
+    "Unit of alcohol",
+    "Econometrics",
+    "Meta-analysis",
+    "Wine",
+    "Alcohol consumption",
+    "Economics",
+    "Statistics",
+    "Price elasticity of demand",
+    "Population",
+    "Mathematics",
+    "Demography",
+    "Medicine",
+    "Environmental health",
+    "Food science",
+    "Microeconomics",
+    "Chemistry",
+    "Biochemistry",
+    "Sociology",
+    "Internal medicine"
+  ],
+  "citation_count": 1149,
+  "open_access_pdf_url": "https://centaur.reading.ac.uk/17960/1/MS-08-0405_Alcohol_price_meta-analysis_REVISED_9-23-08.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2109812323.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:14.610282+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2109812323",
+    "concepts": [
+      "Alcohol",
+      "Unit of alcohol",
+      "Econometrics",
+      "Meta-analysis",
+      "Wine"
+    ],
+    "oa_status": "green"
+  }
+}

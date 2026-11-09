@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W2295107390",
+  "title": "Learning Deep Features for Discriminative Localization",
+  "abstract": "In this work, we revisit the global average pooling layer proposed in [13], and shed light on how it explicitly enables the convolutional neural network (CNN) to have remarkable localization ability despite being trained on imagelevel labels. While this technique was previously proposed as a means for regularizing training, we find that it actually builds a generic localizable deep representation that exposes the implicit attention of CNNs on an image. Despite the apparent simplicity of global average pooling, we are able to achieve 37.1% top-5 error for object localization on ILSVRC 2014 without training on any bounding box annotation. We demonstrate in a variety of experiments that our network is able to localize the discriminative image regions despite just being trained for solving classification task1.",
+  "authors": [
+    "Bolei Zhou",
+    "Aditya Khosla",
+    "Àgata Lapedriza",
+    "Aude Oliva",
+    "Antonio B. Torralba"
+  ],
+  "year": 2016,
+  "doi": "10.1109/cvpr.2016.319",
+  "source": "openalex",
+  "categories": [
+    "Discriminative model",
+    "Pooling",
+    "Artificial intelligence",
+    "Computer science",
+    "Convolutional neural network",
+    "Pattern recognition (psychology)",
+    "Bounding overwatch",
+    "Minimum bounding box",
+    "Deep learning",
+    "Contextual image classification",
+    "Representation (politics)",
+    "Image (mathematics)",
+    "Simplicity",
+    "Object (grammar)",
+    "Layer (electronics)",
+    "Annotation",
+    "Law",
+    "Epistemology",
+    "Politics",
+    "Philosophy",
+    "Political science",
+    "Chemistry",
+    "Organic chemistry"
+  ],
+  "citation_count": 11677,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1512.04150",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2295107390.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:49.844596+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2295107390",
+    "concepts": [
+      "Discriminative model",
+      "Pooling",
+      "Artificial intelligence",
+      "Computer science",
+      "Convolutional neural network"
+    ],
+    "oa_status": "green"
+  }
+}

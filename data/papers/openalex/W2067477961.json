@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W2067477961",
+  "title": "Role of the Dzyaloshinskii-Moriya interaction in multiferroic perovskites",
+  "abstract": "With the perovskite multiferroic $R\\mathrm{Mn}{\\mathrm{O}}_{3}$ $(R=\\mathrm{Gd},\\mathrm{Tb},\\mathrm{Dy})$ as guidance, we argue that the Dzyaloshinskii-Moriya interaction (DMI) provides the microscopic mechanism for the coexistence and strong coupling between ferroelectricity and incommensurate magnetism. We use Monte Carlo simulations and zero-temperature exact calculations to study a model incorporating the double-exchange, superexchange, Jahn-Teller, and DMI terms. The phase diagram contains a multiferroic phase between $A$ and $E$ antiferromagnetic phases, in excellent agreement with experiments.",
+  "authors": [
+    "I. A. Sergienko",
+    "Elbio R. Dagotto"
+  ],
+  "year": 2006,
+  "doi": "10.1103/physrevb.73.094434",
+  "source": "openalex",
+  "categories": [
+    "Multiferroics",
+    "Condensed matter physics",
+    "Superexchange",
+    "Antiferromagnetism",
+    "Magnetism",
+    "Phase diagram",
+    "Ferroelectricity",
+    "Coupling (piping)",
+    "Phase (matter)",
+    "Physics",
+    "Perovskite (structure)",
+    "Materials science",
+    "Chemistry",
+    "Quantum mechanics",
+    "Crystallography",
+    "Metallurgy",
+    "Dielectric"
+  ],
+  "citation_count": 1435,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0508075",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2067477961.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:50.546332+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2067477961",
+    "concepts": [
+      "Multiferroics",
+      "Condensed matter physics",
+      "Superexchange",
+      "Antiferromagnetism",
+      "Magnetism"
+    ],
+    "oa_status": "green"
+  }
+}

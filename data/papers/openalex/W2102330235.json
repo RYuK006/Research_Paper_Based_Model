@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W2102330235",
+  "title": "Consort 2010 statement: extension to cluster randomised trials",
+  "abstract": "Abstract In age-related neurodegenerative disease, like Alzheimer’s and Parkinson’s disease, disease-specific proteins become aggregation-prone and form amyloid-like deposits. Depletion of SERF proteins ameliorates this toxic process in worm- and human cell models for disease. Whether SERF modifies amyloid pathology in mammalian brain, however, has remained unknown. Here, we generated SERF2 brain-specific knockout mice which, unlike full body knockout mice, were viable, and showed no major behavioral and cognitive abnormalities. We combined these knockout mice with the APPPS1 mouse model for human amyloid beta aggregation. Using structure-specific amyloid dyes, previously used to distinguish amyloid polymorphisms in human brain, we show that knockout of SERF2 alters the structure of amyloid fibrils and deposits. Moreover, scanning transmission electron microscopy revealed thicker, shorter and more densely packed amyloid in absence of SERF2. Altogether, our data reveal pleiotropic functions of SERF in development and aging and support a function as a modifier of amyloid aggregation in mammalian brain. Our results indicate that single cellular factors like SERF can determine the structural outcome of amyloid aggregation, offering possibilities for polymorphism-based disease interventions.",
+  "authors": [
+    "Marion Campbell",
+    "Gilda GP Piaggio",
+    "Diana Ruth Elbourne",
+    "Douglas G. Altman",
+    "for the CONSORT Group"
+  ],
+  "year": 2012,
+  "doi": "10.1136/bmj.e5661",
+  "source": "openalex",
+  "categories": [
+    "Knockout mouse",
+    "Amyloid (mycology)",
+    "Disease",
+    "Human brain",
+    "Amyloid beta",
+    "Phenotype",
+    "Neuroscience",
+    "Biology",
+    "Medicine",
+    "Chemistry",
+    "Pathology",
+    "Biochemistry",
+    "Gene"
+  ],
+  "citation_count": 3573,
+  "open_access_pdf_url": "https://www.bmj.com/content/bmj/345/bmj.e5661.full.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2102330235.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:57.675142+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2102330235",
+    "concepts": [
+      "Knockout mouse",
+      "Amyloid (mycology)",
+      "Disease",
+      "Human brain",
+      "Amyloid beta"
+    ],
+    "oa_status": "bronze"
+  }
+}

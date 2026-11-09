@@ -1,0 +1,44 @@
+{
+  "id": "openalex:W2156350829",
+  "title": "New insights on trehalose: a multifunctional molecule",
+  "abstract": "Trehalose is a nonreducing disaccharide in which the two glucose units are linked in an alpha,alpha-1,1-glycosidic linkage. This sugar is present in a wide variety of organisms, including bacteria, yeast, fungi, insects, invertebrates, and lower and higher plants, where it may serve as a source of energy and carbon. In yeast and plants, it may also serve as a signaling molecule to direct or control certain metabolic pathways or even to affect growth. In addition, it has been shown that trehalose can protect proteins and cellular membranes from inactivation or denaturation caused by a variety of stress conditions, including desiccation, dehydration, heat, cold, and oxidation. Finally, in mycobacteria and corynebacteria, trehalose is an integral component of various glycolipids that are important cell wall structures. There are now at least three different pathways described for the biosynthesis of trehalose. The best known and most widely distributed pathway involves the transfer of glucose from UDP-glucose (or GDP-glucose in some cases) to glucose 6-phosphate to form trehalose-6-phosphate and UDP. This reaction is catalyzed by the trehalose-P synthase (TPS here, or OtsA in Escherichia coli ). Organisms that use this pathway usually also have a trehalose-P phosphatase (TPP here, or OtsB in E. coli) that converts the trehalose-P to free trehalose. A second pathway that has been reported in a few unusual bacteria involves the intramolecular rearrangement of maltose (glucosyl-alpha1,4-glucopyranoside) to convert the 1,4-linkage to the 1,1-bond of trehalose. This reaction is catalyzed by the enzyme called trehalose synthase and gives rise to free trehalose as the initial product. A third pathway involves several different enzymes, the first of which rearranges the glucose at the reducing end of a glycogen chain to convert the alpha1,4-linkage to an alpha,alpha1,1-bond. A second enzyme then releases the trehalose disaccharide from the reducing end of the glycogen molecule. Finally, in mushrooms there is a trehalose phosphorylase that catalyzes the phosphorolysis of trehalose to produce glucose-1-phosphate and glucose. This reaction is reversible in vitro and could theoretically give rise to trehalose from glucose-1-P and glucose. Another important enzyme in trehalose metabolism is trehalase (T), which may be involved in energy metabolism and also have a regulatory role in controlling the levels of trehalose in cells. This enzyme may be important in lowering trehalose concentrations once the stress is alleviated. Recent studies in yeast indicate that the enzymes involved in trehalose synthesis (TPS, TPP) exist together in a complex that is highly regulated at the activity level as well as at the genetic level.",
+  "authors": [
+    "Alan D. Elbein"
+  ],
+  "year": 2003,
+  "doi": "10.1093/glycob/cwg047",
+  "source": "openalex",
+  "categories": [
+    "Trehalose",
+    "Biochemistry",
+    "Maltose",
+    "Chemistry",
+    "Disaccharide",
+    "Glycosidic bond",
+    "Bacteria",
+    "Sugar phosphates",
+    "Trehalase",
+    "Yeast",
+    "Biology",
+    "Sucrose",
+    "Phosphate",
+    "Enzyme",
+    "Genetics"
+  ],
+  "citation_count": 2000,
+  "open_access_pdf_url": "https://doi.org/10.1093/glycob/cwg047",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2156350829.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:17.695736+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2156350829",
+    "concepts": [
+      "Trehalose",
+      "Biochemistry",
+      "Maltose",
+      "Chemistry",
+      "Disaccharide"
+    ],
+    "oa_status": "closed"
+  }
+}

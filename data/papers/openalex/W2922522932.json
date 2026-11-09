@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2922522932",
+  "title": "SIRIUS 4: a rapid tool for turning tandem mass spectra into metabolite structure information",
+  "abstract": "Mass spectrometry is a predominant experimental technique in metabolomics and related fields, but metabolite structural elucidation remains highly challenging. We report SIRIUS 4 ( https://bio.informatik.uni-jena.de/sirius/ ), which provides a fast computational approach for molecular structure identification. SIRIUS 4 integrates CSI:FingerID for searching in molecular structure databases. Using SIRIUS 4, we achieved identification rates of more than 70% on challenging metabolomics datasets. SIRIUS 4 is a fast and highly accurate tool for molecular structure interpretation from mass-spectrometry-based metabolomics data.",
+  "authors": [
+    "Kai Dührkop",
+    "Markus Fleischauer",
+    "Marcus Ludwig",
+    "Alexander A. Aksenov",
+    "Alexey V. Melnik",
+    "Marvin Meusel",
+    "Pieter C. Dorrestein",
+    "Juho Rousu",
+    "Sebastian Böcker"
+  ],
+  "year": 2019,
+  "doi": "10.1038/s41592-019-0344-8",
+  "source": "openalex",
+  "categories": [
+    "Sirius",
+    "Metabolomics",
+    "Metabolite",
+    "Computational biology",
+    "Identification (biology)",
+    "Mass spectrometry",
+    "Tandem mass spectrometry",
+    "Chemistry",
+    "Biology",
+    "Computer science",
+    "Chromatography",
+    "Biochemistry",
+    "Botany",
+    "Computer vision",
+    "Stars"
+  ],
+  "citation_count": 2134,
+  "open_access_pdf_url": "https://doi.org/10.1038/s41592-019-0344-8",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2922522932.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:12.768182+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2922522932",
+    "concepts": [
+      "Sirius",
+      "Metabolomics",
+      "Metabolite",
+      "Computational biology",
+      "Identification (biology)"
+    ],
+    "oa_status": "hybrid"
+  }
+}

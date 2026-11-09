@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2016160962",
+  "title": "Differential Function of the Prolyl Hydroxylases PHD1, PHD2, and PHD3 in the Regulation of Hypoxia-inducible Factor",
+  "abstract": "Hypoxia-inducible factor (HIF) is a transcriptional regulator that plays a key role in many aspects of oxygen homeostasis. The heterodimeric HIF complex is regulated by proteolysis of its alpha-subunits, following oxygen-dependent hydroxylation of specific prolyl residues. Although three HIF prolyl hydroxylases, PHD1, PHD2, and PHD3, have been identified that have the potential to catalyze this reaction, the contribution of each isoform to the physiological regulation of HIF remains uncertain. Here we show using suppression by small interference RNA that each of the three PHD isoforms contributes in a non-redundant manner to the regulation of both HIF-1alpha and HIF-2alpha subunits and that the contribution of each PHD under particular culture conditions is strongly dependent on the abundance of the enzyme. Thus in different cell types, isoform-specific patterns of PHD induction by hypoxia and estrogen alter both the relative abundance of the PHDs and their relative contribution to the regulation of HIF. In addition, the PHDs manifest specificity for different prolyl hydroxylation sites within each HIF-alpha subunit, and a degree of selectively between HIF-1alpha and HIF-2alpha isoforms, indicating that differential PHD inhibition has the potential to selectively alter the characteristics of HIF activation.",
+  "authors": [
+    "Rebecca J. Appelhoff",
+    "Ya‐Min Tian",
+    "Raju R. Raval",
+    "Helen Turley",
+    "Adrian Llewellyn Harris",
+    "Christopher William Pugh",
+    "Peter John Ratcliffe",
+    "Jonathan Gleadle"
+  ],
+  "year": 2004,
+  "doi": "10.1074/jbc.m406026200",
+  "source": "openalex",
+  "categories": [
+    "Hydroxylation",
+    "Gene isoform",
+    "Hypoxia-inducible factors",
+    "Transcription factor",
+    "Proteolysis",
+    "Regulator",
+    "Biochemistry",
+    "Biology",
+    "Protein subunit",
+    "Cell biology",
+    "Hypoxia-Inducible Factor 1",
+    "Chemistry",
+    "Enzyme",
+    "Gene"
+  ],
+  "citation_count": 1125,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925820728905/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2016160962.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:17.033150+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2016160962",
+    "concepts": [
+      "Hydroxylation",
+      "Gene isoform",
+      "Hypoxia-inducible factors",
+      "Transcription factor",
+      "Proteolysis"
+    ],
+    "oa_status": "hybrid"
+  }
+}

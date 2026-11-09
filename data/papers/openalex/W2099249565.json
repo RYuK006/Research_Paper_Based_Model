@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2099249565",
+  "title": "Relative expression software tool (REST(C)) for group-wise comparison and statistical analysis of relative expression results in real-time PCR",
+  "abstract": "Real-time reverse transcription followed by polymerase chain reaction (RT-PCR) is the most suitable method for the detection and quantification of mRNA. It offers high sensitivity, good reproducibility and a wide quantification range. Today, relative expression is increasingly used, where the expression of a target gene is standardised by a non-regulated reference gene. Several mathematical algorithms have been developed to compute an expression ratio, based on real-time PCR efficiency and the crossing point deviation of an unknown sample versus a control. But all published equations and available models for the calculation of relative expression ratio allow only for the determination of a single transcription difference between one control and one sample. Therefore a new software tool was established, named REST (relative expression software tool), which compares two groups, with up to 16 data points in a sample and 16 in a control group, for reference and up to four target genes. The mathematical model used is based on the PCR efficiencies and the mean crossing point deviation between the sample and control group. Subsequently, the expression ratio results of the four investigated transcripts are tested for significance by a randomisation test. Herein, development and application of REST is explained and the usefulness of relative expression in real-time PCR using REST is discussed. The latest software version of REST and examples for the correct use can be downloaded at http://www.wzw.tum.de/gene-quantification/.",
+  "authors": [
+    "Michael Walter Pfaffl"
+  ],
+  "year": 2002,
+  "doi": "10.1093/nar/30.9.e36",
+  "source": "openalex",
+  "categories": [
+    "Biology",
+    "Software",
+    "Standard deviation",
+    "Real-time polymerase chain reaction",
+    "Expression (computer science)",
+    "Gene expression",
+    "Sample size determination",
+    "Sample (material)",
+    "Reverse transcription polymerase chain reaction",
+    "Reproducibility",
+    "Rest (music)",
+    "Gene",
+    "Computational biology",
+    "Statistics",
+    "Genetics",
+    "Bioinformatics",
+    "Computer science",
+    "Mathematics",
+    "Chromatography",
+    "Cardiology",
+    "Medicine",
+    "Programming language",
+    "Chemistry"
+  ],
+  "citation_count": 7457,
+  "open_access_pdf_url": "https://academic.oup.com/nar/article-pdf/30/9/e36/3803749/gnf035.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2099249565.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:49.947955+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2099249565",
+    "concepts": [
+      "Biology",
+      "Software",
+      "Standard deviation",
+      "Real-time polymerase chain reaction",
+      "Expression (computer science)"
+    ],
+    "oa_status": "bronze"
+  }
+}

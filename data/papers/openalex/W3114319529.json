@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W3114319529",
+  "title": "Use of directed acyclic graphs (DAGs) to identify confounders in applied health research: review and recommendations",
+  "abstract": "BACKGROUND: Directed acyclic graphs (DAGs) are an increasingly popular approach for identifying confounding variables that require conditioning when estimating causal effects. This review examined the use of DAGs in applied health research to inform recommendations for improving their transparency and utility in future research. METHODS: Original health research articles published during 1999-2017 mentioning 'directed acyclic graphs' (or similar) or citing DAGitty were identified from Scopus, Web of Science, Medline and Embase. Data were extracted on the reporting of: estimands, DAGs and adjustment sets, alongside the characteristics of each article's largest DAG. RESULTS: A total of 234 articles were identified that reported using DAGs. A fifth (n = 48, 21%) reported their target estimand(s) and half (n = 115, 48%) reported the adjustment set(s) implied by their DAG(s). Two-thirds of the articles (n = 144, 62%) made at least one DAG available. DAGs varied in size but averaged 12 nodes [interquartile range (IQR): 9-16, range: 3-28] and 29 arcs (IQR: 19-42, range: 3-99). The median saturation (i.e. percentage of total possible arcs) was 46% (IQR: 31-67, range: 12-100). 37% (n = 53) of the DAGs included unobserved variables, 17% (n = 25) included 'super-nodes' (i.e. nodes containing more than one variable) and 34% (n = 49) were visually arranged so that the constituent arcs flowed in the same direction (e.g. top-to-bottom). CONCLUSION: There is substantial variation in the use and reporting of DAGs in applied health research. Although this partly reflects their flexibility, it also highlights some potential areas for improvement. This review hence offers several recommendations to improve the reporting and use of DAGs in future research.",
+  "authors": [
+    "Peter W. G. Tennant",
+    "Eleanor J. Murray",
+    "Kellyn F Arnold",
+    "Laurie Berrie",
+    "Matthew P. Fox",
+    "Sarah C. Gadd",
+    "Wendy J Harrison",
+    "Claire M Keeble",
+    "Lynsie R Ranker",
+    "Johannes C. Textor",
+    "Georgia D Tomova",
+    "Mark S. Gilthorpe",
+    "George T. H. Ellison"
+  ],
+  "year": 2020,
+  "doi": "10.1093/ije/dyaa213",
+  "source": "openalex",
+  "categories": [
+    "Directed acyclic graph",
+    "Confounding",
+    "Interquartile range",
+    "Medicine",
+    "MEDLINE",
+    "Mathematics",
+    "Combinatorics",
+    "Internal medicine",
+    "Chemistry",
+    "Biochemistry"
+  ],
+  "citation_count": 1141,
+  "open_access_pdf_url": "https://academic.oup.com/ije/article-pdf/50/2/620/37947634/dyaa213.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3114319529.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:16.912425+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3114319529",
+    "concepts": [
+      "Directed acyclic graph",
+      "Confounding",
+      "Interquartile range",
+      "Medicine",
+      "MEDLINE"
+    ],
+    "oa_status": "hybrid"
+  }
+}

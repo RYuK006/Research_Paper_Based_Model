@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W2175794645",
+  "title": "Gasdermin D is an executor of pyroptosis and required for interleukin-1β secretion",
+  "abstract": "Inflammasome is an intracellular signaling complex of the innate immune system. Activation of inflammasomes promotes the secretion of interleukin 1β (IL-1β) and IL-18 and triggers pyroptosis. Caspase-1 and -11 (or -4/5 in human) in the canonical and non-canonical inflammasome pathways, respectively, are crucial for inflammasome-mediated inflammatory responses. Here we report that gasdermin D (GSDMD) is another crucial component of inflammasomes. We discovered the presence of GSDMD protein in nigericin-induced NLRP3 inflammasomes by a quantitative mass spectrometry-based analysis. Gene deletion of GSDMD demonstrated that GSDMD is required for pyroptosis and for the secretion but not proteolytic maturation of IL-1β in both canonical and non-canonical inflammasome responses. It was known that GSDMD is a substrate of caspase-1 and we showed its cleavage at the predicted site during inflammasome activation and that this cleavage was required for pyroptosis and IL-1β secretion. Expression of the N-terminal proteolytic fragment of GSDMD can trigger cell death and N-terminal modification such as tagging with Flag sequence disrupted the function of GSDMD. We also found that pro-caspase-1 is capable of processing GSDMD and ASC is not essential for GSDMD to function. Further analyses of LPS plus nigericin- or Salmonella typhimurium-treated macrophage cell lines and primary cells showed that apoptosis became apparent in Gsdmd(-/-) cells, indicating a suppression of apoptosis by pyroptosis. The induction of apoptosis required NLRP3 or other inflammasome receptors and ASC, and caspase-1 may partially contribute to the activation of apoptotic caspases in Gsdmd(-/-) cells. These data provide new insights into the molecular mechanisms of pyroptosis and reveal an unexpected interplay between apoptosis and pyroptosis.",
+  "authors": [
+    "Wanting He",
+    "Haoqiang Wan",
+    "Lichen Hu",
+    "Pengda Chen",
+    "Xin Wang",
+    "Zhe Huang",
+    "Zhang‐Hua Yang",
+    "Chuan‐Qi Zhong",
+    "Jiahuai Han"
+  ],
+  "year": 2015,
+  "doi": "10.1038/cr.2015.139",
+  "source": "openalex",
+  "categories": [
+    "Pyroptosis",
+    "Inflammasome",
+    "Secretion",
+    "AIM2",
+    "Cell biology",
+    "Caspase 1",
+    "Nigericin",
+    "Caspase",
+    "Programmed cell death",
+    "Biology",
+    "Proinflammatory cytokine",
+    "Innate immune system",
+    "Apoptosis",
+    "Chemistry",
+    "Inflammation",
+    "Biochemistry",
+    "Receptor",
+    "Immunology",
+    "Membrane"
+  ],
+  "citation_count": 2566,
+  "open_access_pdf_url": "https://www.nature.com/articles/cr2015139.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2175794645.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:04.301635+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2175794645",
+    "concepts": [
+      "Pyroptosis",
+      "Inflammasome",
+      "Secretion",
+      "AIM2",
+      "Cell biology"
+    ],
+    "oa_status": "hybrid"
+  }
+}

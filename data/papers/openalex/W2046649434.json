@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W2046649434",
+  "title": "Regularized Discriminant Analysis",
+  "abstract": "Linear and quadratic discriminant analysis are considered in the small-sample, high-dimensional setting. Alternatives to the usual maximum likelihood (plug-in) estimates for the covariance matrices are proposed. These alternatives are characterized by two parameters, the values of which are customized to individual situations by jointly minimizing a sample-based estimate of future misclassification risk. Computationally fast implementations are presented, and the efficacy of the approach is examined through simulation studies and application to data. These studies indicate that in many circumstances dramatic gains in classification accuracy can be achieved.",
+  "authors": [
+    "Jerome H. Friedman"
+  ],
+  "year": 1989,
+  "doi": "10.1080/01621459.1989.10478752",
+  "source": "openalex",
+  "categories": [
+    "Linear discriminant analysis",
+    "Covariance",
+    "Discriminant",
+    "Sample (material)",
+    "Quadratic equation",
+    "Quadratic classifier",
+    "Optimal discriminant analysis",
+    "Maximum likelihood",
+    "Computer science",
+    "Statistics",
+    "Mathematics",
+    "Econometrics",
+    "Artificial intelligence",
+    "Chromatography",
+    "Geometry",
+    "Support vector machine",
+    "Chemistry"
+  ],
+  "citation_count": 2441,
+  "open_access_pdf_url": "https://www.osti.gov/biblio/1448390",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2046649434.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:08.684513+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2046649434",
+    "concepts": [
+      "Linear discriminant analysis",
+      "Covariance",
+      "Discriminant",
+      "Sample (material)",
+      "Quadratic equation"
+    ],
+    "oa_status": "green"
+  }
+}

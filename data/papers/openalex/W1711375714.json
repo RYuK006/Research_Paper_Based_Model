@@ -1,0 +1,44 @@
+{
+  "id": "openalex:W1711375714",
+  "title": "Wire + Arc Additive Manufacturing",
+  "abstract": "Depositing large components (>10 kg) in titanium, aluminium, steel and other metals is possible using Wire + Arc Additive Manufacturing. This technology adopts arc welding tools and wire as feedstock for additive manufacturing purposes. High deposition rates, low material and equipment costs, and good structural integrity make Wire+Arc Additive Manufacturing a suitable candidate for replacing the current method of manufacturing from solid billets or large forgings, especially with regards to low and medium complexity parts. A variety of components have been successfully manufactured with this process, including Ti–6Al–4V spars and landing gear assemblies, aluminium wing ribs, steel wind tunnel models and cones. Strategies on how to manage residual stress, improve mechanical properties and eliminate defects such as porosity are suggested. Finally, the benefits of non-destructive testing, online monitoring and in situ machining are discussed.",
+  "authors": [
+    "Stewart Williams",
+    "Filomeno Martina",
+    "Adrian C. Addison",
+    "Jialuo Ding",
+    "Gonçalo Pardal",
+    "Paul A. Colegrove"
+  ],
+  "year": 2015,
+  "doi": "10.1179/1743284715y.0000000073",
+  "source": "openalex",
+  "categories": [
+    "Materials science",
+    "Residual stress",
+    "Aluminium",
+    "Metallurgy",
+    "Welding",
+    "Forging",
+    "Machining",
+    "Raw material",
+    "Chemistry",
+    "Organic chemistry"
+  ],
+  "citation_count": 1971,
+  "open_access_pdf_url": "https://www.tandfonline.com/doi/pdf/10.1179/1743284715Y.0000000073?needAccess=true",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1711375714.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:17.774151+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1711375714",
+    "concepts": [
+      "Materials science",
+      "Residual stress",
+      "Aluminium",
+      "Metallurgy",
+      "Welding"
+    ],
+    "oa_status": "hybrid"
+  }
+}

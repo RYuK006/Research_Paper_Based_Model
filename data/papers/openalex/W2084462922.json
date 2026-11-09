@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2084462922",
+  "title": "The human orphan nuclear receptor PXR is activated by compounds that regulate CYP3A4 gene expression and cause drug interactions.",
+  "abstract": "The cytochrome P-450 monooxygenase 3A4 (CYP3A4) is responsible for the oxidative metabolism of a wide variety of xenobiotics including an estimated 60% of all clinically used drugs. Although expression of the CYP3A4 gene is known to be induced in response to a variety of compounds, the mechanism underlying this induction, which represents a basis for drug interactions in patients, has remained unclear. We report the identification of a human (h) orphan nuclear receptor, termed the pregnane X receptor (PXR), that binds to a response element in the CYP3A4 promoter and is activated by a range of drugs known to induce CYP3A4 expression. Comparison of hPXR with the recently cloned mouse PXR reveals marked differences in their activation by certain drugs, which may account in part for the species-specific effects of compounds on CYP3A gene expression. These findings provide a molecular explanation for the ability of disparate chemicals to induce CYP3A4 levels and, furthermore, provide a basis for developing in vitro assays to aid in predicting whether drugs will interact in humans.",
+  "authors": [
+    "J�rgen Lehmann",
+    "David D. McKee",
+    "Mark A Watson",
+    "Timothy Mark Willson",
+    "John T. Moore",
+    "Steven A. Kliewer"
+  ],
+  "year": 1998,
+  "doi": "10.1172/jci3703",
+  "source": "openalex",
+  "categories": [
+    "Pregnane X receptor",
+    "CYP3A4",
+    "Nuclear receptor",
+    "Biology",
+    "CYP3A",
+    "Xenobiotic",
+    "Cytochrome P450",
+    "Gene expression",
+    "Drug metabolism",
+    "Gene",
+    "Pharmacology",
+    "Chemistry",
+    "Drug",
+    "Genetics",
+    "Biochemistry",
+    "Transcription factor",
+    "Enzyme"
+  ],
+  "citation_count": 1576,
+  "open_access_pdf_url": "http://www.jci.org/articles/view/3703/files/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2084462922.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:41.965794+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2084462922",
+    "concepts": [
+      "Pregnane X receptor",
+      "CYP3A4",
+      "Nuclear receptor",
+      "Biology",
+      "CYP3A"
+    ],
+    "oa_status": "bronze"
+  }
+}

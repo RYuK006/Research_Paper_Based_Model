@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2023728301",
+  "title": "Review: liquid phase sintering",
+  "abstract": "Liquid phase sintering (LPS) is a process for forming high performance, multiple-phase components from powders. It involves sintering under conditions where solid grains coexist with a wetting liquid. Many variants of LPS are applied to a wide range of engineering materials. Example applications for this technology are found in automobile engine connecting rods and high-speed metal cutting inserts. Scientific advances in understanding LPS began in the 1950s. The resulting quantitative process models are now embedded in computer simulations to enable predictions of the sintered component dimensions, microstructure, and properties. However, there are remaining areas in need of research attention. This LPS review, based on over 2,500 publications, outlines what happens when mixed powders are heated to the LPS temperature, with a focus on the densification and microstructure evolution events.",
+  "authors": [
+    "Randall M. German",
+    "Pavan Suri",
+    "Seong Jin Park"
+  ],
+  "year": 2008,
+  "doi": "10.1007/s10853-008-3008-0",
+  "source": "openalex",
+  "categories": [
+    "Sintering",
+    "Materials science",
+    "Microstructure",
+    "Wetting",
+    "Component (thermodynamics)",
+    "Phase (matter)",
+    "Liquid phase",
+    "Process (computing)",
+    "Solid mechanics",
+    "Rod",
+    "Process engineering",
+    "Metallurgy",
+    "Composite material",
+    "Nanotechnology",
+    "Computer science",
+    "Thermodynamics",
+    "Operating system",
+    "Engineering",
+    "Pathology",
+    "Physics",
+    "Medicine",
+    "Alternative medicine",
+    "Organic chemistry",
+    "Chemistry"
+  ],
+  "citation_count": 1485,
+  "open_access_pdf_url": "https://link.springer.com/content/pdf/10.1007/s10853-008-3008-0.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2023728301.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:48.141931+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2023728301",
+    "concepts": [
+      "Sintering",
+      "Materials science",
+      "Microstructure",
+      "Wetting",
+      "Component (thermodynamics)"
+    ],
+    "oa_status": "hybrid"
+  }
+}

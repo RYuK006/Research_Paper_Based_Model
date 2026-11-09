@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2395081394",
+  "title": "Electron–phonon coupling in hybrid lead halide perovskites",
+  "abstract": "Phonon scattering limits charge-carrier mobilities and governs emission line broadening in hybrid metal halide perovskites. Establishing how charge carriers interact with phonons in these materials is therefore essential for the development of high-efficiency perovskite photovoltaics and low-cost lasers. Here we investigate the temperature dependence of emission line broadening in the four commonly studied formamidinium and methylammonium perovskites, HC(NH2)2PbI3, HC(NH2)2PbBr3, CH3NH3PbI3 and CH3NH3PbBr3, and discover that scattering from longitudinal optical phonons via the Fröhlich interaction is the dominant source of electron-phonon coupling near room temperature, with scattering off acoustic phonons negligible. We determine energies for the interacting longitudinal optical phonon modes to be 11.5 and 15.3 meV, and Fröhlich coupling constants of ∼40 and 60 meV for the lead iodide and bromide perovskites, respectively. Our findings correlate well with first-principles calculations based on many-body perturbation theory, which underlines the suitability of an electronic band-structure picture for describing charge carriers in hybrid perovskites.",
+  "authors": [
+    "Adam D. Wright",
+    "Carla Verdi",
+    "Rebecca L. Milot",
+    "Giles E. Eperon",
+    "Miguel A. Pérez‐Osorio",
+    "Henry James Snaith",
+    "Feliciano Giustino",
+    "Michael B. Johnston",
+    "Laura M. Herz"
+  ],
+  "year": 2016,
+  "doi": "10.1038/ncomms11755",
+  "source": "openalex",
+  "categories": [
+    "Phonon",
+    "Halide",
+    "Perovskite (structure)",
+    "Charge carrier",
+    "Condensed matter physics",
+    "Scattering",
+    "Chemistry",
+    "Coupling (piping)",
+    "Electron",
+    "Materials science",
+    "Chemical physics",
+    "Physics",
+    "Inorganic chemistry",
+    "Optics",
+    "Crystallography",
+    "Metallurgy",
+    "Quantum mechanics"
+  ],
+  "citation_count": 1405,
+  "open_access_pdf_url": "https://www.nature.com/articles/ncomms11755.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2395081394.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:50.724359+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2395081394",
+    "concepts": [
+      "Phonon",
+      "Halide",
+      "Perovskite (structure)",
+      "Charge carrier",
+      "Condensed matter physics"
+    ],
+    "oa_status": "gold"
+  }
+}

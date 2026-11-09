@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W2963927307",
+  "title": "Bottom-Up Object Detection by Grouping Extreme and Center Points",
+  "abstract": "With the advent of deep learning, object detection drifted from a bottom-up to a top-down recognition problem. State of the art algorithms enumerate a near-exhaustive list of object locations and classify each into: object or not. In this paper, we show that bottom-up approaches still perform competitively. We detect four extreme points (top-most, left-most, bottom-most, right-most) and one center point of objects using a standard keypoint estimation network. We group the five keypoints into a bounding box if they are geometrically aligned. Object detection is then a purely appearance-based keypoint estimation problem, without region classification or implicit feature learning. The proposed method performs on-par with the state-of-the-art region based detection methods, with a bounding box AP of 43.7% on COCO test-dev. In addition, our estimated extreme points directly span a coarse octagonal mask, with a COCO Mask AP of 18.9%, much better than the Mask AP of vanilla bounding boxes. Extreme point guided segmentation further improves this to 34.6% Mask AP.",
+  "authors": [
+    "Xingyi Zhou",
+    "Jiacheng Zhuo",
+    "Philipp Krähenbühl"
+  ],
+  "year": 2019,
+  "doi": "10.1109/cvpr.2019.00094",
+  "source": "openalex",
+  "categories": [
+    "Minimum bounding box",
+    "Bounding overwatch",
+    "Object detection",
+    "Artificial intelligence",
+    "Object (grammar)",
+    "Segmentation",
+    "Computer science",
+    "Pattern recognition (psychology)",
+    "Point (geometry)",
+    "Feature (linguistics)",
+    "Computer vision",
+    "Center (category theory)",
+    "Extreme point",
+    "Feature extraction",
+    "Image (mathematics)",
+    "Mathematics",
+    "Combinatorics",
+    "Geometry",
+    "Crystallography",
+    "Linguistics",
+    "Philosophy",
+    "Chemistry"
+  ],
+  "citation_count": 1099,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1901.08043",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2963927307.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:24.243908+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2963927307",
+    "concepts": [
+      "Minimum bounding box",
+      "Bounding overwatch",
+      "Object detection",
+      "Artificial intelligence",
+      "Object (grammar)"
+    ],
+    "oa_status": "green"
+  }
+}

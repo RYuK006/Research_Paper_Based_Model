@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W2794778778",
+  "title": "Statistical and Machine Learning forecasting methods: Concerns and ways forward",
+  "abstract": "Machine Learning (ML) methods have been proposed in the academic literature as alternatives to statistical ones for time series forecasting. Yet, scant evidence is available about their relative performance in terms of accuracy and computational requirements. The purpose of this paper is to evaluate such performance across multiple forecasting horizons using a large subset of 1045 monthly time series used in the M3 Competition. After comparing the post-sample accuracy of popular ML methods with that of eight traditional statistical ones, we found that the former are dominated across both accuracy measures used and for all forecasting horizons examined. Moreover, we observed that their computational requirements are considerably greater than those of statistical methods. The paper discusses the results, explains why the accuracy of ML models is below that of statistical ones and proposes some possible ways forward. The empirical results found in our research stress the need for objective and unbiased ways to test the performance of forecasting methods that can be achieved through sizable and open competitions allowing meaningful comparisons and definite conclusions.",
+  "authors": [
+    "Spyros Makridakis",
+    "Evangelos Spiliotis",
+    "Vassilios Assimakopoulos"
+  ],
+  "year": 2018,
+  "doi": "10.1371/journal.pone.0194889",
+  "source": "openalex",
+  "categories": [
+    "Computer science",
+    "Machine learning",
+    "Artificial intelligence",
+    "Series (stratigraphy)",
+    "Statistical hypothesis testing",
+    "Statistical learning",
+    "Statistical model",
+    "Sample (material)",
+    "Econometrics",
+    "Statistical analysis",
+    "Statistics",
+    "Mathematics",
+    "Paleontology",
+    "Chromatography",
+    "Chemistry",
+    "Biology"
+  ],
+  "citation_count": 1846,
+  "open_access_pdf_url": "https://doi.org/10.1371/journal.pone.0194889",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2794778778.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:22.272840+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2794778778",
+    "concepts": [
+      "Computer science",
+      "Machine learning",
+      "Artificial intelligence",
+      "Series (stratigraphy)",
+      "Statistical hypothesis testing"
+    ],
+    "oa_status": "gold"
+  }
+}

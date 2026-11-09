@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2063233815",
+  "title": "Viscoelastic Acoustic Response of Layered Polymer Films at Fluid-Solid Interfaces: Continuum Mechanics Approach",
+  "abstract": "We have derived the general solution of a wave equation describing the dynamics of two-layer viscoelastic polymer materials of arbitrary thickness deposited on solid (quartz) surfaces in a fluid environment. Within the Voight model of viscoelastic element, we calculate the acoustic response of the system to an applied shear stress, i.e. we find the shift of the quartz generator resonance frequency and of the dissipation factor, and show that it strongly depends on the viscous loading of the adsorbed layers and on the shear storage and loss moduli of the overlayers. These results can readily be applied to quartz crystal acoustical measurements of the viscoelasticity of polymers which conserve their shape under the shear deformations and do not flow, and layered structures such as protein films adsorbed from solution onto the surface of self-assembled monolayers.",
+  "authors": [
+    "Marina V. Voinova",
+    "Michael Rodahl",
+    "M. Jonson",
+    "B. Kasemo"
+  ],
+  "year": 1999,
+  "doi": "10.1238/physica.regular.059a00391",
+  "source": "openalex",
+  "categories": [
+    "Viscoelasticity",
+    "Materials science",
+    "Polymer",
+    "Quartz crystal microbalance",
+    "Dissipation",
+    "Quartz",
+    "Moduli",
+    "Shear modulus",
+    "Composite material",
+    "Shear (geology)",
+    "Mechanics",
+    "Adsorption",
+    "Thermodynamics",
+    "Physics",
+    "Chemistry",
+    "Organic chemistry",
+    "Quantum mechanics"
+  ],
+  "citation_count": 1628,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/9805266",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2063233815.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:38.097991+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2063233815",
+    "concepts": [
+      "Viscoelasticity",
+      "Materials science",
+      "Polymer",
+      "Quartz crystal microbalance",
+      "Dissipation"
+    ],
+    "oa_status": "green"
+  }
+}

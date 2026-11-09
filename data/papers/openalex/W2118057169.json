@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W2118057169",
+  "title": "The E-SCREEN assay as a tool to identify estrogens: an update on estrogenic environmental pollutants.",
+  "abstract": "Estrogens are defined by their ability to induce the proliferation of cells of the female genital tract. The wide chemical diversity of estrogenic compounds precludes an accurate prediction of estrogenic activity on the basis of chemical structure. Rodent bioassays are not suited for the large-scale screening of chemicals before their release into the environment because of their cost, complexity, and ethical concerns. The E-SCREEN assay was developed to assess the estrogenicity of environmental chemicals using the proliferative effect of estrogens on their target cells as an end point. This quantitative assay compares the cell number achieved by similar inocula of MCF-7 cells in the absence of estrogens (negative control) and in the presence of 17 beta-estradiol (positive control) and a range of concentrations of chemicals suspected to be estrogenic. Among the compounds tested, several \"new\" estrogens were found; alkylphenols, phthalates, some PCB congeners and hydroxylated PCBs, and the insecticides dieldrin, endosulfan, and toxaphene were estrogenic by the E-SCREEN assay. In addition, these compounds competed with estradiol for binding to the estrogen receptor and increased the levels of progesterone receptor and pS2 in MCF-7 cells, as expected from estrogen mimics. Recombinant human growth factors (bFGF, EGF, IGF-1) and insulin did not increase in cell yields. The aims of the work summarized in this paper were a) to validate the E-SCREEN assay; b) to screen a variety of chemicals present in the environment to identify those that may be causing reproductive effects in wildlife and humans; c) to assess whether environmental estrogens may act cumulatively; and finally d) to discuss the reliability of this and other assays to screen chemicals for their estrogenicity before they are released into the environment.",
+  "authors": [
+    "Ana Maria Soto",
+    "Carlos Sonnenschein",
+    "K L Chung",
+    "Mariana Fátima Fernández",
+    "Nicolás Olea",
+    "Fabio Serrano"
+  ],
+  "year": 1995,
+  "doi": "10.1289/ehp.95103s7113",
+  "source": "openalex",
+  "categories": [
+    "Bioassay",
+    "Pollutant",
+    "Estrogen",
+    "Chemistry",
+    "Environmental chemistry",
+    "Chemical compound",
+    "Biology",
+    "Toxicology",
+    "Endocrinology",
+    "Toxicity",
+    "Ecology",
+    "Organic chemistry"
+  ],
+  "citation_count": 1756,
+  "open_access_pdf_url": "https://ehp.niehs.nih.gov/doi/pdf/10.1289/ehp.95103s7113",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2118057169.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:26.142431+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2118057169",
+    "concepts": [
+      "Bioassay",
+      "Pollutant",
+      "Estrogen",
+      "Chemistry",
+      "Environmental chemistry"
+    ],
+    "oa_status": "gold"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "openalex:W2071625709",
+  "title": "Extracellular vesicle in vivo biodistribution is determined by cell source, route of administration and targeting",
+  "abstract": "Extracellular vesicles (EVs) have emerged as important mediators of intercellular communication in a diverse range of biological processes. For future therapeutic applications and for EV biology research in general, understanding the in vivo fate of EVs is of utmost importance. Here we studied biodistribution of EVs in mice after systemic delivery. EVs were isolated from 3 different mouse cell sources, including dendritic cells (DCs) derived from bone marrow, and labelled with a near-infrared lipophilic dye. Xenotransplantation of EVs was further carried out for cross-species comparison. The reliability of the labelling technique was confirmed by sucrose gradient fractionation, organ perfusion and further supported by immunohistochemical staining using CD63-EGFP probed vesicles. While vesicles accumulated mainly in liver, spleen, gastrointestinal tract and lungs, differences related to EV cell origin were detected. EVs accumulated in the tumour tissue of tumour-bearing mice and, after introduction of the rabies virus glycoprotein-targeting moiety, they were found more readily in acetylcholine-receptor-rich organs. In addition, the route of administration and the dose of injected EVs influenced the biodistribution pattern. This is the first extensive biodistribution investigation of EVs comparing the impact of several different variables, the results of which have implications for the design and feasibility of therapeutic studies using EVs.",
+  "authors": [
+    "Oscar P. B. Wiklander",
+    "Joel Z. Nordin",
+    "Aisling J. O’Loughlin",
+    "Ylva Gustafsson",
+    "Giulia Corso",
+    "Imre Mäger",
+    "Pieter Vader",
+    "Yi Lee",
+    "Helena Sork",
+    "Yiqi Seow",
+    "Nina Heldring",
+    "Lydia Alvarez‐Erviti",
+    "CI Edvard Smith",
+    "Katarina Le Blanc",
+    "Paolo Macchiarini",
+    "Philipp Jungebluth",
+    "Matthew J. A. Wood",
+    "Samir EL Andaloussi"
+  ],
+  "year": 2015,
+  "doi": "10.3402/jev.v4.26316",
+  "source": "openalex",
+  "categories": [
+    "Biodistribution",
+    "In vivo",
+    "Spleen",
+    "Cell biology",
+    "Extracellular vesicle",
+    "Ex vivo",
+    "Biology",
+    "Vesicle",
+    "Chemistry",
+    "Pharmacology",
+    "Microvesicles",
+    "Immunology",
+    "Biochemistry",
+    "microRNA",
+    "Gene",
+    "Membrane",
+    "Biotechnology"
+  ],
+  "citation_count": 1779,
+  "open_access_pdf_url": "https://www.tandfonline.com/doi/pdf/10.3402/jev.v4.26316?needAccess=true",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2071625709.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:26.075544+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2071625709",
+    "concepts": [
+      "Biodistribution",
+      "In vivo",
+      "Spleen",
+      "Cell biology",
+      "Extracellular vesicle"
+    ],
+    "oa_status": "gold"
+  }
+}

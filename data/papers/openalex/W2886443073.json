@@ -1,0 +1,58 @@
+{
+  "id": "openalex:W2886443073",
+  "title": "Fixed and random effects models: making an informed choice",
+  "abstract": "This paper assesses the options available to researchers analysing multilevel (including longitudinal) data, with the aim of supporting good methodological decision-making. Given the confusion in the literature about the key properties of fixed and random effects (FE and RE) models, we present these models’ capabilities and limitations. We also discuss the within-between RE model, sometimes misleadingly labelled a ‘hybrid’ model, showing that it is the most general of the three, with all the strengths of the other two. As such, and because it allows for important extensions—notably random slopes—we argue it should be used (as a starting point at least) in all multilevel analyses. We develop the argument through simulations, evaluating how these models cope with some likely mis-specifications. These simulations reveal that (1) failing to include random slopes can generate anti-conservative standard errors, and (2) assuming random intercepts are Normally distributed, when they are not, introduces only modest biases. These results strengthen the case for the use of, and need for, these models.",
+  "authors": [
+    "Andrew Bell",
+    "Malcolm Fairbrother",
+    "Kelvyn Jones"
+  ],
+  "year": 2018,
+  "doi": "10.1007/s11135-018-0802-x",
+  "source": "openalex",
+  "categories": [
+    "Random effects model",
+    "Multilevel model",
+    "Computer science",
+    "Argument (complex analysis)",
+    "Confusion",
+    "Econometrics",
+    "Point (geometry)",
+    "Random error",
+    "Longitudinal data",
+    "Fixed effects model",
+    "Key (lock)",
+    "Management science",
+    "Statistics",
+    "Mathematics",
+    "Data mining",
+    "Panel data",
+    "Psychology",
+    "Machine learning",
+    "Meta-analysis",
+    "Economics",
+    "Medicine",
+    "Internal medicine",
+    "Computer security",
+    "Geometry",
+    "Psychoanalysis",
+    "Chemistry",
+    "Biochemistry"
+  ],
+  "citation_count": 1177,
+  "open_access_pdf_url": "https://link.springer.com/content/pdf/10.1007/s11135-018-0802-x.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2886443073.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:12.119406+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2886443073",
+    "concepts": [
+      "Random effects model",
+      "Multilevel model",
+      "Computer science",
+      "Argument (complex analysis)",
+      "Confusion"
+    ],
+    "oa_status": "hybrid"
+  }
+}

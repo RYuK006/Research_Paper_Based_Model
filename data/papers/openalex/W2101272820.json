@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2101272820",
+  "title": "A new statistical approach for assessing similarity of species composition with incidence and abundance data",
+  "abstract": "Abstract The classic Jaccard and Sørensen indices of compositional similarity (and other indices that depend upon the same variables) are notoriously sensitive to sample size, especially for assemblages with numerous rare species. Further, because these indices are based solely on presence–absence data, accurate estimators for them are unattainable. We provide a probabilistic derivation for the classic, incidence‐based forms of these indices and extend this approach to formulate new Jaccard‐type or Sørensen‐type indices based on species abundance data. We then propose estimators for these indices that include the effect of unseen shared species, based on either (replicated) incidence‐ or abundance‐based sample data. In sampling simulations, these new estimators prove to be considerably less biased than classic indices when a substantial proportion of species are missing from samples. Based on species‐rich empirical datasets, we show how incorporating the effect of unseen shared species not only increases accuracy but also can change the interpretation of results.",
+  "authors": [
+    "Anne Chao",
+    "Robin L. Chazdon",
+    "Robert K. Colwell",
+    "Tsung‐Jen Shen"
+  ],
+  "year": 2004,
+  "doi": "10.1111/j.1461-0248.2004.00707.x",
+  "source": "openalex",
+  "categories": [
+    "Jaccard index",
+    "Estimator",
+    "Abundance (ecology)",
+    "Similarity (geometry)",
+    "Statistics",
+    "Sample (material)",
+    "Relative species abundance",
+    "Sampling (signal processing)",
+    "Probabilistic logic",
+    "Sample size determination",
+    "Mathematics",
+    "Ecology",
+    "Econometrics",
+    "Computer science",
+    "Biology",
+    "Artificial intelligence",
+    "Cluster analysis",
+    "Chromatography",
+    "Computer vision",
+    "Chemistry",
+    "Filter (signal processing)",
+    "Image (mathematics)"
+  ],
+  "citation_count": 1943,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1461-0248.2004.00707.x",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2101272820.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:17.844101+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2101272820",
+    "concepts": [
+      "Jaccard index",
+      "Estimator",
+      "Abundance (ecology)",
+      "Similarity (geometry)",
+      "Statistics"
+    ],
+    "oa_status": "bronze"
+  }
+}

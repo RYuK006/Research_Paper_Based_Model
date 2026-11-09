@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W1836729582",
+  "title": "Characterization and localization of cannabinoid receptors in rat brain: a quantitative in vitro autoradiographic study",
+  "abstract": "A potent, synthetic cannabinoid was radiolabeled and used to characterize and precisely localize cannabinoid receptors in slide-mounted sections of rat brain and pituitary. Assay conditions for 3H-CP55,940 binding in Tris-HCl buffer with 5% BSA were optimized, association and dissociation rate constants determined, and the equilibrium dissociation constant (Kd) calculated (21 nM by liquid scintillation counting, 5.2 nM by quantitative autoradiography). The results of competition studies, using several synthetic cannabinoids, add to prior data showing enantioselectivity of binding and correlation of in vitro potencies with potencies in biological assays of cannabinoid actions. Inhibition of binding by guanine nucleotides was selective and profound: Nonhydrolyzable analogs of GTP and GDP inhibited binding by greater than 90%, and GMP and the nonhydrolyzable ATP analog showed no inhibition. Autoradiography showed great heterogeneity of binding in patterns of labeling that closely conform to cytoarchitectural and functional domains. Very dense 3H-CP55,940 binding is localized to the basal ganglia (lateral caudate-putamen, globus pallidus, entopeduncular nucleus, substantia nigra pars reticulata), cerebellar molecular layer, innermost layers of the olfactory bulb, and portions of the hippocampal formation (CA3 and dentate gyrus molecular layer). Moderately dense binding is found throughout the remaining forebrain. Sparse binding characterizes the brain stem and spinal cord. Densitometry confirmed the quantitative heterogeneity of cannabinoid receptors (10 nM 3H-CP55,940 binding ranged in density from 6.3 pmol/mg protein in the substantia nigra pars reticulata to 0.15 pmol/mg protein in the anterior lobe of the pituitary). The results suggest that the presently characterized cannabinoid receptor mediates physiological and behavioral effects of natural and synthetic cannabinoids, because it is strongly coupled to guanine nucleotide regulatory proteins and is discretely localized to cortical, basal ganglia, and cerebellar structures involved with cognition and movement.",
+  "authors": [
+    "Miles A. Herkenham",
+    "A B Lynn",
+    "MR Johnson",
+    "Lawrence S. Melvin",
+    "Brian R. de Costa",
+    "KC Rice"
+  ],
+  "year": 1991,
+  "doi": "10.1523/jneurosci.11-02-00563.1991",
+  "source": "openalex",
+  "categories": [
+    "Globus pallidus",
+    "Chemistry",
+    "Receptor",
+    "Substantia nigra",
+    "Cannabinoid",
+    "Neuroscience",
+    "Biochemistry",
+    "Biology",
+    "Biophysics",
+    "Basal ganglia",
+    "Central nervous system",
+    "Dopamine",
+    "Dopaminergic"
+  ],
+  "citation_count": 2183,
+  "open_access_pdf_url": "https://www.jneurosci.org/content/jneuro/11/2/563.full.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1836729582.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:12.665814+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1836729582",
+    "concepts": [
+      "Globus pallidus",
+      "Chemistry",
+      "Receptor",
+      "Substantia nigra",
+      "Cannabinoid"
+    ],
+    "oa_status": "hybrid"
+  }
+}

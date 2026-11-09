@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W4367049415",
+  "title": "Computational approaches streamlining drug discovery",
+  "abstract": "Computer-aided drug discovery has been around for decades, although the past few years have seen a tectonic shift towards embracing computational technologies in both academia and pharma. This shift is largely defined by the flood of data on ligand properties and binding to therapeutic targets and their 3D structures, abundant computing capacities and the advent of on-demand virtual libraries of drug-like small molecules in their billions. Taking full advantage of these resources requires fast computational methods for effective ligand screening. This includes structure-based virtual screening of gigascale chemical spaces, further facilitated by fast iterative screening approaches. Highly synergistic are developments in deep learning predictions of ligand properties and target activities in lieu of receptor structure. Here we review recent advances in ligand discovery technologies, their potential for reshaping the whole process of drug discovery and development, as well as the challenges they encounter. We also discuss how the rapid identification of highly diverse, potent, target-selective and drug-like ligands to protein targets can democratize the drug discovery process, presenting new opportunities for the cost-effective development of safer and more effective small-molecule treatments.",
+  "authors": [
+    "Anastasiia Sadybekov",
+    "Vsevolod Katritch"
+  ],
+  "year": 2023,
+  "doi": "10.1038/s41586-023-05905-z",
+  "source": "openalex",
+  "categories": [
+    "Drug discovery",
+    "Virtual screening",
+    "Computer science",
+    "Data science",
+    "Process (computing)",
+    "SAFER",
+    "Identification (biology)",
+    "Computational biology",
+    "Ligand (biochemistry)",
+    "Small molecule",
+    "Drug development",
+    "Drug",
+    "Nanotechnology",
+    "Chemistry",
+    "Bioinformatics",
+    "Biology",
+    "Pharmacology",
+    "Computer security",
+    "Receptor",
+    "Materials science",
+    "Botany",
+    "Operating system",
+    "Biochemistry"
+  ],
+  "citation_count": 1385,
+  "open_access_pdf_url": "https://www.nature.com/articles/s41586-023-05905-z.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W4367049415.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:52.605630+00:00",
+  "raw_metadata": {
+    "openalex_id": "W4367049415",
+    "concepts": [
+      "Drug discovery",
+      "Virtual screening",
+      "Computer science",
+      "Data science",
+      "Process (computing)"
+    ],
+    "oa_status": "hybrid"
+  }
+}

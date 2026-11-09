@@ -1,0 +1,45 @@
+{
+  "id": "openalex:W2073292880",
+  "title": "Hypoxia-inducible factor 1: master regulator of O2 homeostasis",
+  "abstract": "Hypoxia-inducible factor 1 (HIF-1) is a transcription factor that mediates essential homeostatic responses to reduced O2 availability in mammals. Recent studies have provided insights into the O2-dependent regulation of HIF-1 expression, target genes regulated by HIF-1, and the effects of HIF-1 deficiency on cellular physiology and embryonic development.",
+  "authors": [
+    "Gregg L. Semenza"
+  ],
+  "year": 1998,
+  "doi": "10.1016/s0959-437x(98)80016-6",
+  "source": "openalex",
+  "categories": [
+    "Biology",
+    "Transcription factor",
+    "Hypoxia-Inducible Factor 1",
+    "Homeostasis",
+    "Hypoxia-inducible factors",
+    "Regulator",
+    "Hypoxia (environmental)",
+    "Cell biology",
+    "Master regulator",
+    "Regulation of gene expression",
+    "Embryonic stem cell",
+    "Gene",
+    "Genetics",
+    "Oxygen",
+    "Chemistry",
+    "Organic chemistry"
+  ],
+  "citation_count": 1108,
+  "open_access_pdf_url": "https://www.sciencedirect.com/science/article/pii/S0959437X98800166/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2073292880.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:19.634807+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2073292880",
+    "concepts": [
+      "Biology",
+      "Transcription factor",
+      "Hypoxia-Inducible Factor 1",
+      "Homeostasis",
+      "Hypoxia-inducible factors"
+    ],
+    "oa_status": "hybrid"
+  }
+}

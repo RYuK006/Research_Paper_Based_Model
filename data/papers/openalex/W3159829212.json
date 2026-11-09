@@ -1,0 +1,62 @@
+{
+  "id": "openalex:W3159829212",
+  "title": "CrystalExplorer : a program for Hirshfeld surface analysis, visualization and quantitative analysis of molecular crystals",
+  "abstract": "CrystalExplorer is a native cross-platform program supported on Windows, MacOS and Linux with the primary function of visualization and investigation of molecular crystal structures, especially through the decorated Hirshfeld surface and its corresponding two-dimensional fingerprint, and through the visualization of void spaces in the crystal via isosurfaces of the promolecule electron density. Over the past decade, significant changes and enhancements have been incorporated into the program, such as the capacity to accurately and quickly calculate and visualize quantitative intermolecular interactions and, perhaps most importantly, the ability to interface with the Gaussian and NWChem programs to calculate quantum-mechanical properties of molecules. The current version, CrystalExplorer21 , incorporates these and other changes, and the software can be downloaded and used free of charge for academic research.",
+  "authors": [
+    "Peter R. Spackman",
+    "Michael J. Turner",
+    "Joshua J. McKinnon",
+    "Stephen K. Wolff",
+    "Daniel J. Grimwood",
+    "Dylan Jayatilaka",
+    "Mark A. Spackman"
+  ],
+  "year": 2021,
+  "doi": "10.1107/s1600576721002910",
+  "source": "openalex",
+  "categories": [
+    "Visualization",
+    "Intermolecular force",
+    "Software",
+    "Computer science",
+    "Molecular graphics",
+    "Crystal (programming language)",
+    "Molecule",
+    "Void (composites)",
+    "Surface (topology)",
+    "Software visualization",
+    "Electron density",
+    "Computer graphics (images)",
+    "Crystallography",
+    "Computational science",
+    "Materials science",
+    "Electron",
+    "Physics",
+    "Chemistry",
+    "Computer graphics",
+    "Data mining",
+    "Software development",
+    "Programming language",
+    "Mathematics",
+    "Geometry",
+    "Composite material",
+    "Software construction",
+    "Quantum mechanics"
+  ],
+  "citation_count": 5321,
+  "open_access_pdf_url": "https://journals.iucr.org/j/issues/2021/03/00/oc5008/oc5008.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3159829212.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:52.229677+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3159829212",
+    "concepts": [
+      "Visualization",
+      "Intermolecular force",
+      "Software",
+      "Computer science",
+      "Molecular graphics"
+    ],
+    "oa_status": "hybrid"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "openalex:W2073726416",
+  "title": "Electron-Hole Diffusion Lengths Exceeding 1 Micrometer in an Organometal Trihalide Perovskite Absorber",
+  "abstract": "Organic-inorganic perovskites have shown promise as high-performance absorbers in solar cells, first as a coating on a mesoporous metal oxide scaffold and more recently as a solid layer in planar heterojunction architectures. Here, we report transient absorption and photoluminescence-quenching measurements to determine the electron-hole diffusion lengths, diffusion constants, and lifetimes in mixed halide (CH3NH3PbI(3-x)Cl(x)) and triiodide (CH3NH3PbI3) perovskite absorbers. We found that the diffusion lengths are greater than 1 micrometer in the mixed halide perovskite, which is an order of magnitude greater than the absorption depth. In contrast, the triiodide absorber has electron-hole diffusion lengths of ~100 nanometers. These results justify the high efficiency of planar heterojunction perovskite solar cells and identify a critical parameter to optimize for future perovskite absorber development.",
+  "authors": [
+    "Samuel D. Stranks",
+    "Giles E. Eperon",
+    "Giulia Grancini",
+    "Christopher Menelaou",
+    "Marcelo J. P. Alcocer",
+    "Tomas Leijtens",
+    "Laura M. Herz",
+    "Annamaria Petrozza",
+    "Henry James Snaith"
+  ],
+  "year": 2013,
+  "doi": "10.1126/science.1243982",
+  "source": "openalex",
+  "categories": [
+    "Triiodide",
+    "Perovskite (structure)",
+    "Materials science",
+    "Trihalide",
+    "Heterojunction",
+    "Micrometer",
+    "Absorption (acoustics)",
+    "Diffusion",
+    "Photoluminescence",
+    "Oxide",
+    "Halide",
+    "Optoelectronics",
+    "Chemistry",
+    "Optics",
+    "Inorganic chemistry",
+    "Crystallography",
+    "Physical chemistry",
+    "Dye-sensitized solar cell",
+    "Electrolyte",
+    "Composite material",
+    "Metallurgy",
+    "Electrode",
+    "Physics",
+    "Thermodynamics"
+  ],
+  "citation_count": 10479,
+  "open_access_pdf_url": "https://ora.ox.ac.uk/objects/uuid:5c3cd89c-98a4-4bac-b3be-6c023adc5e0a/files/m6268f4e494e99e361a1b87d36257fa8f",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2073726416.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:49.863199+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2073726416",
+    "concepts": [
+      "Triiodide",
+      "Perovskite (structure)",
+      "Materials science",
+      "Trihalide",
+      "Heterojunction"
+    ],
+    "oa_status": "green"
+  }
+}

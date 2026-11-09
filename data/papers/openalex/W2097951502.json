@@ -1,0 +1,44 @@
+{
+  "id": "openalex:W2097951502",
+  "title": "The iron-sulfur clusters of dehydratases are primary intracellular targets of copper toxicity",
+  "abstract": "Excess copper is poisonous to all forms of life, and copper overloading is responsible for several human pathologic processes. The primary mechanisms of toxicity are unknown. In this study, mutants of Escherichia coli that lack copper homeostatic systems (copA cueO cus) were used to identify intracellular targets and to test the hypothesis that toxicity involves the action of reactive oxygen species. Low micromolar levels of copper were sufficient to inhibit the growth of both WT and mutant strains. The addition of branched-chain amino acids restored growth, indicating that copper blocks their biosynthesis. Indeed, copper treatment rapidly inactivated isopropylmalate dehydratase, an iron-sulfur cluster enzyme in this pathway. Other enzymes in this iron-sulfur dehydratase family were similarly affected. Inactivation did not require oxygen, in vivo or with purified enzyme. Damage occurred concomitant with the displacement of iron atoms from the solvent-exposed cluster, suggesting that Cu(I) damages these proteins by liganding to the coordinating sulfur atoms. Copper efflux by dedicated export systems, chelation by glutathione, and cluster repair by assembly systems all enhance the resistance of cells to this metal.",
+  "authors": [
+    "Lee Macomber",
+    "James A. Imlay"
+  ],
+  "year": 2009,
+  "doi": "10.1073/pnas.0812808106",
+  "source": "openalex",
+  "categories": [
+    "Dehydratase",
+    "Copper",
+    "Chemistry",
+    "Biochemistry",
+    "Sulfur metabolism",
+    "Enzyme",
+    "Intracellular",
+    "Sulfur",
+    "Copper toxicity",
+    "Glutathione",
+    "Reactive oxygen species",
+    "Toxicity",
+    "Iron–sulfur cluster",
+    "Organic chemistry"
+  ],
+  "citation_count": 1139,
+  "open_access_pdf_url": "https://www.pnas.org/doi/pdf/10.1073/pnas.0812808106",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2097951502.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:16.929286+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2097951502",
+    "concepts": [
+      "Dehydratase",
+      "Copper",
+      "Chemistry",
+      "Biochemistry",
+      "Sulfur metabolism"
+    ],
+    "oa_status": "bronze"
+  }
+}

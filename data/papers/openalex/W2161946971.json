@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W2161946971",
+  "title": "Size-dependent cytotoxicity of silver nanoparticles in human lung cells: the role of cellular uptake, agglomeration and Ag release",
+  "abstract": "BACKGROUND: Silver nanoparticles (AgNPs) are currently one of the most manufactured nanomaterials. A wide range of toxicity studies have been performed on various AgNPs, but these studies report a high variation in toxicity and often lack proper particle characterization. The aim of this study was to investigate size- and coating-dependent toxicity of thoroughly characterized AgNPs following exposure of human lung cells and to explore the mechanisms of toxicity. METHODS: BEAS-2B cells were exposed to citrate coated AgNPs of different primary particle sizes (10, 40 and 75 nm) as well as to 10 nm PVP coated and 50 nm uncoated AgNPs. The particle agglomeration in cell medium was investigated by photon cross correlation spectroscopy (PCCS); cell viability by LDH and Alamar Blue assay; ROS induction by DCFH-DA assay; genotoxicity by alkaline comet assay and γH2AX foci formation; uptake and intracellular localization by transmission electron microscopy (TEM); and cellular dose as well as Ag release by atomic absorption spectroscopy (AAS). RESULTS: The results showed cytotoxicity only of the 10 nm particles independent of surface coating. In contrast, all AgNPs tested caused an increase in overall DNA damage after 24 h assessed by the comet assay, suggesting independent mechanisms for cytotoxicity and DNA damage. However, there was no γH2AX foci formation and no increased production of intracellular reactive oxygen species (ROS). The reasons for the higher toxicity of the 10 nm particles were explored by investigating particle agglomeration in cell medium, cellular uptake, intracellular localization and Ag release. Despite different agglomeration patterns, there was no evident difference in the uptake or intracellular localization of the citrate and PVP coated AgNPs. However, the 10 nm particles released significantly more Ag compared with all other AgNPs (approx. 24 wt% vs. 4-7 wt%) following 24 h in cell medium. The released fraction in cell medium did not induce any cytotoxicity, thus implying that intracellular Ag release was responsible for the toxicity. CONCLUSIONS: This study shows that small AgNPs (10 nm) are cytotoxic for human lung cells and that the toxicity observed is associated with the rate of intracellular Ag release, a 'Trojan horse' effect.",
+  "authors": [
+    "Anda Roxana Gliga",
+    "Sara Skoglund",
+    "Inger Odnevall Wallinder",
+    "Bengt Fadeel",
+    "Hanna Lovisa Karlsson"
+  ],
+  "year": 2014,
+  "doi": "10.1186/1743-8977-11-11",
+  "source": "openalex",
+  "categories": [
+    "Cytotoxicity",
+    "Comet assay",
+    "Biophysics",
+    "Nanotoxicology",
+    "Viability assay",
+    "Genotoxicity",
+    "Silver nanoparticle",
+    "Intracellular",
+    "Reactive oxygen species",
+    "Chemistry",
+    "Toxicity",
+    "DNA damage",
+    "Nanoparticle",
+    "Particle size",
+    "Cell",
+    "Materials science",
+    "Nanotechnology",
+    "In vitro",
+    "DNA",
+    "Biochemistry",
+    "Biology",
+    "Organic chemistry",
+    "Physical chemistry"
+  ],
+  "citation_count": 1108,
+  "open_access_pdf_url": "https://particleandfibretoxicology.biomedcentral.com/counter/pdf/10.1186/1743-8977-11-11",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2161946971.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:19.638546+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2161946971",
+    "concepts": [
+      "Cytotoxicity",
+      "Comet assay",
+      "Biophysics",
+      "Nanotoxicology",
+      "Viability assay"
+    ],
+    "oa_status": "gold"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W2143146123",
+  "title": "Absolute quantification of mRNA using real-time reverse transcription polymerase chain reaction assays",
+  "abstract": "The reverse transcription polymerase chain reaction (RT-PCR) is the most sensitive method for the detection of low-abundance mRNA, often obtained from limited tissue samples. However, it is a complex technique, there are substantial problems associated with its true sensitivity, reproducibility and specificity and, as a quantitative method, it suffers from the problems inherent in PCR. The recent introduction of fluorescence-based kinetic RT-PCR procedures significantly simplifies the process of producing reproducible quantification of mRNAs and promises to overcome these limitations. Nevertheless, their successful application depends on a clear understanding of the practical problems, and careful experimental design, application and validation remain essential for accurate quantitative measurements of transcription. This review discusses the technical aspects involved, contrasts conventional and kinetic RT-PCR methods for quantitating gene expression and compares the different kinetic RT-PCR systems. It illustrates the usefulness of these assays by demonstrating the significantly different levels of transcription between individuals of the housekeeping gene family, glyceraldehyde-3-phosphate-dehydrogenase (GAPDH).",
+  "authors": [
+    "Stephen Andrew Bustin"
+  ],
+  "year": 2000,
+  "doi": "10.1677/jme.0.0250169",
+  "source": "openalex",
+  "categories": [
+    "Housekeeping gene",
+    "Reverse transcription polymerase chain reaction",
+    "Glyceraldehyde 3-phosphate dehydrogenase",
+    "Reverse transcriptase",
+    "Real-time polymerase chain reaction",
+    "Computational biology",
+    "Polymerase chain reaction",
+    "Molecular biology",
+    "Transcription (linguistics)",
+    "Biology",
+    "Reference genes",
+    "Messenger RNA",
+    "Gene expression",
+    "Chemistry",
+    "Gene",
+    "Genetics",
+    "Linguistics",
+    "Philosophy"
+  ],
+  "citation_count": 3900,
+  "open_access_pdf_url": "https://jme.bioscientifica.com/downloadpdf/journals/jme/25/2/169.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2143146123.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:54.090780+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2143146123",
+    "concepts": [
+      "Housekeeping gene",
+      "Reverse transcription polymerase chain reaction",
+      "Glyceraldehyde 3-phosphate dehydrogenase",
+      "Reverse transcriptase",
+      "Real-time polymerase chain reaction"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W2572468047",
+  "title": "High Defect Tolerance in Lead Halide Perovskite CsPbBr 3",
+  "abstract": "The formation energies and charge-transition levels of intrinsic point defects in lead halide perovskite CsPbBr 3 are studied from first-principles calculations. It is shown that the formation energy of dominant defect under Br-rich growth condition is much lower than that under moderate or Br-poor conditions. Thus avoiding the Br-rich condition can help to reduce the defect concentration. Interestingly, CsPbBr 3 is found to be highly defect-tolerant in terms of its electronic structure. Most of the intrinsic defects induce shallow transition levels. Only a few defects with high formation energies can create deep transition levels. Therefore, CsPbBr 3 can maintain its good electronic quality despite the presence of defects. Such defect tolerance feature can be attributed to the lacking of bonding–antibonding interaction between the conduction bands and valence bands.",
+  "authors": [
+    "Jun Yong Kang",
+    "Lin‐Wang Wang"
+  ],
+  "year": 2017,
+  "doi": "10.1021/acs.jpclett.6b02800",
+  "source": "openalex",
+  "categories": [
+    "Crystallographic defect",
+    "Halide",
+    "Perovskite (structure)",
+    "Valence (chemistry)",
+    "Materials science",
+    "Antibonding molecular orbital",
+    "Conduction band",
+    "Chemical physics",
+    "Condensed matter physics",
+    "Crystallography",
+    "Chemistry",
+    "Inorganic chemistry",
+    "Physics",
+    "Electron",
+    "Atomic orbital",
+    "Organic chemistry",
+    "Quantum mechanics"
+  ],
+  "citation_count": 1328,
+  "open_access_pdf_url": "https://www.osti.gov/servlets/purl/1483838",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2572468047.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:55.355662+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2572468047",
+    "concepts": [
+      "Crystallographic defect",
+      "Halide",
+      "Perovskite (structure)",
+      "Valence (chemistry)",
+      "Materials science"
+    ],
+    "oa_status": "green"
+  }
+}

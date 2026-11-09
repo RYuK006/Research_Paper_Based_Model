@@ -1,0 +1,59 @@
+{
+  "id": "openalex:W1960895270",
+  "title": "RNAscope",
+  "abstract": "In situ analysis of biomarkers is highly desirable in molecular pathology because it allows the examination of biomarker status within the histopathological context of clinical specimens. Immunohistochemistry and DNA in situ hybridization (ISH) are widely used in clinical settings to assess protein and DNA biomarkers, respectively, but clinical use of in situ RNA analysis is rare. This disparity is especially notable when considering the abundance of RNA biomarkers discovered through whole-genome expression profiling. This is largely due to the high degree of technical complexity and insufficient sensitivity and specificity of current RNA ISH techniques. Here, we describe RNAscope, a novel RNA ISH technology with a unique probe design strategy that allows simultaneous signal amplification and background suppression to achieve single-molecule visualization while preserving tissue morphology. RNAscope is compatible with routine formalin-fixed, paraffin-embedded tissue specimens and can use either conventional chromogenic dyes for bright-field microscopy or fluorescent dyes for multiplex analysis. Unlike grind-and-bind RNA analysis methods such as real-time RT-PCR, RNAscope brings the benefits of in situ analysis to RNA biomarkers and may enable rapid development of RNA ISH-based molecular diagnostic assays.",
+  "authors": [
+    "Fay Wang",
+    "John Flanagan",
+    "Nan Yao Su",
+    "Li-Chong Wang",
+    "Son Bui",
+    "Allissa Nielson",
+    "Xingyong Wu",
+    "Hong-Thuy Vo",
+    "Xiao-Jun Ma",
+    "Yuling Luo"
+  ],
+  "year": 2011,
+  "doi": "10.1016/j.jmoldx.2011.08.002",
+  "source": "openalex",
+  "categories": [
+    "In situ hybridization",
+    "Multiplex",
+    "RNA",
+    "Biology",
+    "Computational biology",
+    "Molecular biology",
+    "In situ",
+    "Biomarker",
+    "Context (archaeology)",
+    "DNA",
+    "Fluorescence in situ hybridization",
+    "Pathology",
+    "Messenger RNA",
+    "Gene",
+    "Bioinformatics",
+    "Chemistry",
+    "Medicine",
+    "Genetics",
+    "Paleontology",
+    "Chromosome",
+    "Organic chemistry"
+  ],
+  "citation_count": 2606,
+  "open_access_pdf_url": "http://www.jmdjournal.org/article/S1525157811002571/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1960895270.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:04.251974+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1960895270",
+    "concepts": [
+      "In situ hybridization",
+      "Multiplex",
+      "RNA",
+      "Biology",
+      "Computational biology"
+    ],
+    "oa_status": "hybrid"
+  }
+}

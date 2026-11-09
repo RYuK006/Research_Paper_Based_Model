@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W1981910115",
+  "title": "Cation-Induced Band-Gap Tuning in Organohalide Perovskites: Interplay of Spin–Orbit Coupling and Octahedra Tilting",
+  "abstract": "Organohalide lead perovskites have revolutionized the scenario of emerging photovoltaic technologies. The prototype MAPbI3 perovskite (MA = CH3NH3(+)) has dominated the field, despite only harvesting photons above 750 nm (∼1.6 eV). Intensive research efforts are being devoted to find new perovskites with red-shifted absorption onset, along with good charge transport properties. Recently, a new perovskite based on the formamidinium cation ((NH2)2CH(+) = FA) has shown potentially superior properties in terms of band gap and charge transport compared to MAPbI3. The results have been interpreted in terms of the cation size, with the larger FA cation expectedly delivering reduced band-gaps in Pb-based perovskites. To provide a full understanding of the interplay among size, structure, and organic/inorganic interactions in determining the properties of APbI3 perovskites, in view of designing new materials and fully exploiting them for solar cells applications, we report a fully first-principles investigation on APbI3 perovskites with A = Cs(+), MA, and FA. Our results evidence that the tetragonal-to-quasi cubic structural evolution observed when moving from MA to FA is due to the interplay of size effects and enhanced hydrogen bonding between the FA cations and the inorganic matrix altering the covalent/ionic character of Pb-I bonds. Most notably, the observed cation-induced structural variability promotes markedly different electronic and optical properties in the MAPbI3 and FAPbI3 perovskites, mediated by the different spin-orbit coupling, leading to improved charge transport and red-shifted absorption in FAPbI3 and in general in pseudocubic structures. Our theoretical model constitutes the basis for the rationale design of new and more efficient organohalide perovskites for solar cells applications.",
+  "authors": [
+    "Anna Amat",
+    "Edoardo Mosconi",
+    "Enrico Ronca",
+    "Claudio Quarti",
+    "Paolo Umari",
+    "Mohammad Khaja Nazeeruddin",
+    "Michaël Grätzel",
+    "Filippo De Angelis"
+  ],
+  "year": 2014,
+  "doi": "10.1021/nl5012992",
+  "source": "openalex",
+  "categories": [
+    "Perovskite (structure)",
+    "Formamidinium",
+    "Band gap",
+    "Ionic bonding",
+    "Chemical physics",
+    "Octahedron",
+    "Tetragonal crystal system",
+    "Chemistry",
+    "Absorption (acoustics)",
+    "Electronic band structure",
+    "Materials science",
+    "Nanotechnology",
+    "Crystallography",
+    "Condensed matter physics",
+    "Ion",
+    "Crystal structure",
+    "Optoelectronics",
+    "Physics",
+    "Composite material",
+    "Organic chemistry"
+  ],
+  "citation_count": 1308,
+  "open_access_pdf_url": "https://pubs.acs.org/doi/pdf/10.1021/nl5012992",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1981910115.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:57.756994+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1981910115",
+    "concepts": [
+      "Perovskite (structure)",
+      "Formamidinium",
+      "Band gap",
+      "Ionic bonding",
+      "Chemical physics"
+    ],
+    "oa_status": "hybrid"
+  }
+}

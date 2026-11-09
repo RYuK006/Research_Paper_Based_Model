@@ -1,0 +1,57 @@
+{
+  "id": "openalex:W2038473742",
+  "title": "Identifying a High Fraction of the Human Genome to be under Selective Constraint Using GERP++",
+  "abstract": "Computational efforts to identify functional elements within genomes leverage comparative sequence information by looking for regions that exhibit evidence of selective constraint. One way of detecting constrained elements is to follow a bottom-up approach by computing constraint scores for individual positions of a multiple alignment and then defining constrained elements as segments of contiguous, highly scoring nucleotide positions. Here we present GERP++, a new tool that uses maximum likelihood evolutionary rate estimation for position-specific scoring and, in contrast to previous bottom-up methods, a novel dynamic programming approach to subsequently define constrained elements. GERP++ evaluates a richer set of candidate element breakpoints and ranks them based on statistical significance, eliminating the need for biased heuristic extension techniques. Using GERP++ we identify over 1.3 million constrained elements spanning over 7% of the human genome. We predict a higher fraction than earlier estimates largely due to the annotation of longer constrained elements, which improves one to one correspondence between predicted elements with known functional sequences. GERP++ is an efficient and effective tool to provide both nucleotide- and element-level constraint scores within deep multiple sequence alignments.",
+  "authors": [
+    "Eugene V. Davydov",
+    "David L. Goode",
+    "Marina Sirota",
+    "Gregory M. Cooper",
+    "Arend Sidow",
+    "Serafim Batzoglou"
+  ],
+  "year": 2010,
+  "doi": "10.1371/journal.pcbi.1001025",
+  "source": "openalex",
+  "categories": [
+    "Constraint (computer-aided design)",
+    "Genome",
+    "Computer science",
+    "Multiple sequence alignment",
+    "Leverage (statistics)",
+    "Heuristic",
+    "Human genome",
+    "Set (abstract data type)",
+    "Fraction (chemistry)",
+    "Sequence (biology)",
+    "Computational biology",
+    "Sequence alignment",
+    "Data mining",
+    "Artificial intelligence",
+    "Biology",
+    "Mathematics",
+    "Genetics",
+    "Gene",
+    "Organic chemistry",
+    "Chemistry",
+    "Geometry",
+    "Peptide sequence",
+    "Programming language"
+  ],
+  "citation_count": 1766,
+  "open_access_pdf_url": "https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1001025&type=printable",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2038473742.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:26.107142+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2038473742",
+    "concepts": [
+      "Constraint (computer-aided design)",
+      "Genome",
+      "Computer science",
+      "Multiple sequence alignment",
+      "Leverage (statistics)"
+    ],
+    "oa_status": "gold"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2774551105",
+  "title": "FROGS: Find, Rapidly, OTUs with Galaxy Solution",
+  "abstract": "Motivation: Metagenomics leads to major advances in microbial ecology and biologists need user friendly tools to analyze their data on their own. Results: This Galaxy-supported pipeline, called FROGS, is designed to analyze large sets of amplicon sequences and produce abundance tables of Operational Taxonomic Units (OTUs) and their taxonomic affiliation. The clustering uses Swarm. The chimera removal uses VSEARCH, combined with original cross-sample validation. The taxonomic affiliation returns an innovative multi-affiliation output to highlight databases conflicts and uncertainties. Statistical results and numerous graphical illustrations are produced along the way to monitor the pipeline. FROGS was tested for the detection and quantification of OTUs on real and in silico datasets and proved to be rapid, robust and highly sensitive. It compares favorably with the widespread mothur, UPARSE and QIIME. Availability and implementation: Source code and instructions for installation: https://github.com/geraldinepascal/FROGS.git. A companion website: http://frogs.toulouse.inra.fr. Contact: geraldine.pascal@inra.fr. Supplementary information: Supplementary data are available at Bioinformatics online.",
+  "authors": [
+    "Fréderic Escudié",
+    "Lucas Auer",
+    "Maria Bernard",
+    "Mahendra Mariadassou",
+    "Laurent Cauquil",
+    "Katia Vidal",
+    "Sarah Maman",
+    "Guillermina Hernandez‐Raquet",
+    "Sylvie Combes",
+    "Géraldine Pascal"
+  ],
+  "year": 2017,
+  "doi": "10.1093/bioinformatics/btx791",
+  "source": "openalex",
+  "categories": [
+    "Pipeline (software)",
+    "Computer science",
+    "Source code",
+    "Cluster analysis",
+    "Metagenomics",
+    "Sample (material)",
+    "Data mining",
+    "Biology",
+    "Data science",
+    "Ecology",
+    "Machine learning",
+    "Programming language",
+    "Gene",
+    "Biochemistry",
+    "Chemistry",
+    "Chromatography"
+  ],
+  "citation_count": 1137,
+  "open_access_pdf_url": "https://academic.oup.com/bioinformatics/article-pdf/34/8/1287/25120139/btx791.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2774551105.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:16.954570+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2774551105",
+    "concepts": [
+      "Pipeline (software)",
+      "Computer science",
+      "Source code",
+      "Cluster analysis",
+      "Metagenomics"
+    ],
+    "oa_status": "bronze"
+  }
+}

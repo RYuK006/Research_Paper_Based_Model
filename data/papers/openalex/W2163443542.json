@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2163443542",
+  "title": "Necrotic but not apoptotic cell death releases heat shock proteins, which deliver a partial maturation signal to dendritic cells and activate the NF-κB pathway",
+  "abstract": "Dendritic cells (DC) are key components of innate and adaptive immune responses. The identity of endogenous signals that activate DC is a crucial and unresolved question. We report here that heat shock proteins (HSP), the most abundant and conserved mammalian molecules, constitute such an internal signal. Necrotic but not apoptotic cell death leads to release of HSP gp96, calreticulin, hsp90 and hsp70. HSP stimulate macrophages to secrete cytokines, and induce expression of antigen-presenting and co-stimulatory molecules on the DC. The HSP gp96 and hsp70 act differentially, and each induces some but not all molecules. HSP interact with these antigen-presenting cells through the highly conserved NF-kappa B pathway. As HSP are intracellular, abundant and soluble, their presence in the extra-cellular milieu and the consequent activation of antigen-presenting cells (APC) constitutes an excellent mechanism for response to cell death. As HSP are conserved from bacteria to mammals, the ability of HSP to activate APC provides a unified mechanism for response to internal and external stimuli.",
+  "authors": [
+    "Sreyashi Basu",
+    "Robert Julian Binder",
+    "Ryuichiro Suto",
+    "Kirstin M. Anderson",
+    "Pramod Kumar Srivastava"
+  ],
+  "year": 2000,
+  "doi": "10.1093/intimm/12.11.1539",
+  "source": "openalex",
+  "categories": [
+    "Cell biology",
+    "Heat shock protein",
+    "Calreticulin",
+    "Biology",
+    "Signal transduction",
+    "Antigen-presenting cell",
+    "Innate immune system",
+    "T cell",
+    "Programmed cell death",
+    "Intracellular",
+    "Dendritic cell",
+    "Antigen presentation",
+    "Apoptosis",
+    "Immune system",
+    "Chemistry",
+    "Immunology",
+    "Endoplasmic reticulum",
+    "Biochemistry",
+    "Gene"
+  ],
+  "citation_count": 1318,
+  "open_access_pdf_url": "https://doi.org/10.1093/intimm/12.11.1539",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2163443542.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:57.687099+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2163443542",
+    "concepts": [
+      "Cell biology",
+      "Heat shock protein",
+      "Calreticulin",
+      "Biology",
+      "Signal transduction"
+    ],
+    "oa_status": "closed"
+  }
+}

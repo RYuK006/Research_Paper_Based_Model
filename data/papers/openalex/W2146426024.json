@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2146426024",
+  "title": "ShelXle : a Qt graphical user interface for SHELXL",
+  "abstract": "ShelXle is a graphical user interface for SHELXL [Sheldrick, G. M. (2008). Acta Cryst. A64, 112-122], currently the most widely used program for small-molecule structure refinement. It combines an editor with syntax highlighting for the SHELXL-associated .ins (input) and .res (output) files with an interactive graphical display for visualization of a three-dimensional structure including the electron density (F(o)) and difference density (F(o)-F(c)) maps. Special features of ShelXle include intuitive atom (re-)naming, a strongly coupled editor, structure visualization in various mono and stereo modes, and a novel way of displaying disorder extending over special positions. ShelXle is completely compatible with all features of SHELXL and is written entirely in C++ using the Qt4 and FFTW libraries. It is available at no cost for Windows, Linux and Mac-OS X and as source code.",
+  "authors": [
+    "Christian B. Hübschle",
+    "George M. Sheldrick",
+    "Birger Dittrich"
+  ],
+  "year": 2011,
+  "doi": "10.1107/s0021889811043202",
+  "source": "openalex",
+  "categories": [
+    "Visualization",
+    "Graphical user interface",
+    "Computer science",
+    "Syntax",
+    "Interface (matter)",
+    "Atom (system on chip)",
+    "Computer graphics (images)",
+    "OS X",
+    "User interface",
+    "Programming language",
+    "Software",
+    "Crystallography",
+    "Operating system",
+    "Chemistry",
+    "Data mining",
+    "Artificial intelligence",
+    "Bubble",
+    "Maximum bubble pressure method"
+  ],
+  "citation_count": 3872,
+  "open_access_pdf_url": "https://journals.iucr.org/j/issues/2011/06/00/kk5092/kk5092.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2146426024.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:54.102153+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2146426024",
+    "concepts": [
+      "Visualization",
+      "Graphical user interface",
+      "Computer science",
+      "Syntax",
+      "Interface (matter)"
+    ],
+    "oa_status": "hybrid"
+  }
+}

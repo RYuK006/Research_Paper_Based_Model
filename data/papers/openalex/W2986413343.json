@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2986413343",
+  "title": "The Powder Diffraction File: a quality materials characterization database",
+  "abstract": "The ICDD's Powder Diffraction File ™ (PDF ® ) is a database of inorganic and organic diffraction data used for phase identification and materials characterization by powder diffraction. The PDF has been available for over 75 years and finds application in X-ray, synchrotron, electron, and neutron diffraction analyses. With entries based on powder and single crystal data, the PDF is the only crystallographic database where every entry is editorially reviewed and marked with a quality mark that alerts the user to the reliability/quality of the submitted data. The editorial processes of ICDD's quality management system are unique in that they are ISO 9001:2015 certified. Initially offered as text on paper cards and books, the PDF evolved to a computer-readable database in the 1960s and today is both computer and web accessible. With data mining and phase identification software available in PDF products, and the databases’ compatibility with vendor (third party) software, the 1 000 000+ published PDF entries serve a wide range of disciplines covering academic, industrial, and government laboratories. Details describing the content of database entries are presented to enhance the use of the PDF.",
+  "authors": [
+    "Stacy Gates-Rector",
+    "Thomas N. Blanton"
+  ],
+  "year": 2019,
+  "doi": "10.1017/s0885715619000812",
+  "source": "openalex",
+  "categories": [
+    "Database",
+    "Powder diffraction",
+    "Computer science",
+    "Vendor",
+    "Relational database",
+    "Certification",
+    "Data quality",
+    "Software",
+    "Quality (philosophy)",
+    "Crystallography",
+    "Operating system",
+    "Physics",
+    "Chemistry",
+    "Business",
+    "Service (business)",
+    "Political science",
+    "Quantum mechanics",
+    "Law",
+    "Marketing"
+  ],
+  "citation_count": 1349,
+  "open_access_pdf_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3C1FDF449C7A82A8E6FBC8F76342187A/S0885715619000812a.pdf/div-class-title-the-powder-diffraction-file-a-quality-materials-characterization-database-div.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2986413343.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:55.197867+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2986413343",
+    "concepts": [
+      "Database",
+      "Powder diffraction",
+      "Computer science",
+      "Vendor",
+      "Relational database"
+    ],
+    "oa_status": "hybrid"
+  }
+}

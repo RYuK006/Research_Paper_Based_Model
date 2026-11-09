@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W1937401270",
+  "title": "Hypoxia-inducible factor 1 levels vary exponentially over a physiologically relevant range of O2 tension",
+  "abstract": "Hypoxia-inducible factor 1 (HIF-1) is a heterodimeric basic helix-loop-helix protein implicated in the transcriptional activation of genes encoding erythropoietin, glycolytic enzymes, and vascular endothelial growth factor in hypoxic mammalian cells. In this study, we have quantitated HIF-1 DNA-binding activity and protein levels of the HIF-1 alpha and HIF-1 beta subunits in human HeLa cells exposed to O2 concentrations ranging from 0 to 20% in the absence or presence of 1 mM KCN to inhibit oxidative phosphorylation and cellular O2 consumption. HIF-1 DNA-binding activity, HIF-1 alpha protein and HIF-1 beta protein each increased exponentially as cells were subjected to decreasing O2 concentrations, with a half maximal response between 1.5 and 2% O2 and a maximal response at 0.5% O2, both in the presence and absence of KCN. The HIF-1 response was greatest over O2 concentrations associated with ischemic/hypoxic events in vivo. These results provide evidence for the involvement of HIF-1 in O2 homeostasis and represent a functional characterization of the putative O2 sensor that initiates hypoxia signal transduction leading to HIF-1 expression.",
+  "authors": [
+    "Bing‐Hua Jiang",
+    "Gregg L. Semenza",
+    "Christian Bauer",
+    "Hugo H. Marti"
+  ],
+  "year": 1996,
+  "doi": "10.1152/ajpcell.1996.271.4.c1172",
+  "source": "openalex",
+  "categories": [
+    "Biology",
+    "Erythropoietin",
+    "Hypoxia (environmental)",
+    "Cell biology",
+    "Signal transduction",
+    "G alpha subunit",
+    "Transcription factor",
+    "Hypoxia-inducible factors",
+    "Oxidative phosphorylation",
+    "Phosphorylation",
+    "Oxygen tension",
+    "Molecular biology",
+    "Biochemistry",
+    "Chemistry",
+    "Gene",
+    "Endocrinology",
+    "Oxygen",
+    "Protein subunit",
+    "Organic chemistry"
+  ],
+  "citation_count": 1214,
+  "open_access_pdf_url": "https://journals.physiology.org/doi/pdf/10.1152/ajpcell.1996.271.4.C1172",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1937401270.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:04.695429+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1937401270",
+    "concepts": [
+      "Biology",
+      "Erythropoietin",
+      "Hypoxia (environmental)",
+      "Cell biology",
+      "Signal transduction"
+    ],
+    "oa_status": "bronze"
+  }
+}

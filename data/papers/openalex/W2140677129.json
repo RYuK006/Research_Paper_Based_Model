@@ -1,0 +1,61 @@
+{
+  "id": "openalex:W2140677129",
+  "title": "Strong interlayer coupling in van der Waals heterostructures built from single-layer chalcogenides",
+  "abstract": "Semiconductor heterostructures are the fundamental platform for many important device applications such as lasers, light-emitting diodes, solar cells, and high-electron-mobility transistors. Analogous to traditional heterostructures, layered transition metal dichalcogenide heterostructures can be designed and built by assembling individual single layers into functional multilayer structures, but in principle with atomically sharp interfaces, no interdiffusion of atoms, digitally controlled layered components, and no lattice parameter constraints. Nonetheless, the optoelectronic behavior of this new type of van der Waals (vdW) semiconductor heterostructure is unknown at the single-layer limit. Specifically, it is experimentally unknown whether the optical transitions will be spatially direct or indirect in such hetero-bilayers. Here, we investigate artificial semiconductor heterostructures built from single-layer WSe2 and MoS2. We observe a large Stokes-like shift of ∼ 100 meV between the photoluminescence peak and the lowest absorption peak that is consistent with a type II band alignment having spatially direct absorption but spatially indirect emission. Notably, the photoluminescence intensity of this spatially indirect transition is strong, suggesting strong interlayer coupling of charge carriers. This coupling at the hetero-interface can be readily tuned by inserting dielectric layers into the vdW gap, consisting of hexagonal BN. Consequently, the generic nature of this interlayer coupling provides a new degree of freedom in band engineering and is expected to yield a new family of semiconductor heterostructures having tunable optoelectronic properties with customized composite layers.",
+  "authors": [
+    "Hui Fang",
+    "Corsin Battaglia",
+    "Carlo Carraro",
+    "Slavomír Nemšák",
+    "Burak Ozdol",
+    "Jeong Seuk Kang",
+    "Hans A. Bechtel",
+    "Sujay B. Desai",
+    "Florian Kronast",
+    "Ahmet A. Ünal",
+    "G. Conti",
+    "Catherine S. Conlon",
+    "Gunnar K. Pálsson",
+    "Michael C. Martin",
+    "Andrew M. Minor",
+    "C. S. Fadley",
+    "Eli Yablonovitch",
+    "Roya Maboudian",
+    "Ali Javey"
+  ],
+  "year": 2014,
+  "doi": "10.1073/pnas.1405435111",
+  "source": "openalex",
+  "categories": [
+    "Heterojunction",
+    "Semiconductor",
+    "van der Waals force",
+    "Photoluminescence",
+    "Materials science",
+    "Optoelectronics",
+    "Band gap",
+    "Dielectric",
+    "Direct and indirect band gaps",
+    "Condensed matter physics",
+    "Chemistry",
+    "Physics",
+    "Molecule",
+    "Organic chemistry"
+  ],
+  "citation_count": 1143,
+  "open_access_pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/4035947",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2140677129.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:16.883637+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2140677129",
+    "concepts": [
+      "Heterojunction",
+      "Semiconductor",
+      "van der Waals force",
+      "Photoluminescence",
+      "Materials science"
+    ],
+    "oa_status": "green"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "openalex:W2079355772",
+  "title": "Oxidative stress and autophagy: the clash between damage and metabolic needs",
+  "abstract": "Autophagy is a catabolic process aimed at recycling cellular components and damaged organelles in response to diverse conditions of stress, such as nutrient deprivation, viral infection and genotoxic stress. A growing amount of evidence in recent years argues for oxidative stress acting as the converging point of these stimuli, with reactive oxygen species (ROS) and reactive nitrogen species (RNS) being among the main intracellular signal transducers sustaining autophagy. This review aims at providing novel insight into the regulatory pathways of autophagy in response to glucose and amino acid deprivation, as well as their tight interconnection with metabolic networks and redox homeostasis. The role of oxidative and nitrosative stress in autophagy is also discussed in the light of its being harmful for both cellular biomolecules and signal mediator through reversible posttranslational modifications of thiol-containing proteins. The redox-independent relationship between autophagy and antioxidant response, occurring through the p62/Keap1/Nrf2 pathway, is also addressed in order to provide a wide perspective upon the interconnection between autophagy and oxidative stress. Herein, we also attempt to afford an overview of the complex crosstalk between autophagy and DNA damage response (DDR), focusing on the main pathways activated upon ROS and RNS overproduction. Along these lines, the direct and indirect role of autophagy in DDR is dissected in depth.",
+  "authors": [
+    "Giuseppe Filomeni",
+    "Daniela De Zio",
+    "Francesco Cecconi"
+  ],
+  "year": 2014,
+  "doi": "10.1038/cdd.2014.150",
+  "source": "openalex",
+  "categories": [
+    "Autophagy",
+    "Cell biology",
+    "Crosstalk",
+    "Oxidative stress",
+    "Reactive oxygen species",
+    "Biology",
+    "Autophagosome",
+    "Reactive nitrogen species",
+    "Chemistry",
+    "Biochemistry",
+    "Apoptosis",
+    "Physics",
+    "Optics"
+  ],
+  "citation_count": 2241,
+  "open_access_pdf_url": "https://www.nature.com/articles/cdd2014150.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2079355772.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:12.579797+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2079355772",
+    "concepts": [
+      "Autophagy",
+      "Cell biology",
+      "Crosstalk",
+      "Oxidative stress",
+      "Reactive oxygen species"
+    ],
+    "oa_status": "hybrid"
+  }
+}

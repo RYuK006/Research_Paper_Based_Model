@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W4220694746",
+  "title": "Software update: The ORCA program system—Version 5.0",
+  "abstract": "Abstract Version 5.0 of the ORCA quantum chemistry program suite was released in July 2021. ORCA 5.0 represents a major improvement over all previous versions of ORCA and features (1) highly improved performance, (2) increased numerical robustness, (3) a host of new functionality, and (4) greatly improved user friendliness. The article describes the most salient features of the program. This article is categorized under: Electronic Structure Theory > Ab Initio Electronic Structure Methods Data Science > Computer Algorithms and Programming Software > Quantum Chemistry",
+  "authors": [
+    "Frank Neese"
+  ],
+  "year": 2022,
+  "doi": "10.1002/wcms.1606",
+  "source": "openalex",
+  "categories": [
+    "Salient",
+    "Robustness (evolution)",
+    "Suite",
+    "Computer science",
+    "Software",
+    "Ab initio",
+    "Quantum chemistry",
+    "Quantum chemical",
+    "Electronic structure",
+    "Chemistry",
+    "Theoretical computer science",
+    "Computational science",
+    "Computational chemistry",
+    "Programming language",
+    "Artificial intelligence",
+    "Organic chemistry",
+    "Reaction mechanism",
+    "Archaeology",
+    "Molecule",
+    "History",
+    "Gene",
+    "Catalysis",
+    "Biochemistry"
+  ],
+  "citation_count": 5252,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/wcms.1606",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W4220694746.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:52.241264+00:00",
+  "raw_metadata": {
+    "openalex_id": "W4220694746",
+    "concepts": [
+      "Salient",
+      "Robustness (evolution)",
+      "Suite",
+      "Computer science",
+      "Software"
+    ],
+    "oa_status": "hybrid"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W2087560312",
+  "title": "Sclerostin Binds to LRP5/6 and Antagonizes Canonical Wnt Signaling",
+  "abstract": "The loss of the SOST gene product sclerostin leads to sclerosteosis characterized by high bone mass. In this report, we found that sclerostin could antagonize canonical Wnt signaling in human embryonic kidney A293T cells and mouse osteoblastic MC3T3 cells. This sclerostin-mediated antagonism could be reversed by overexpression of Wnt co-receptor low density lipoprotein receptor-related protein (LRP) 5. In addition, we found that sclerostin bound to LRP5 as well as LRP6 and identified the first two YWTD-EGF repeat domains of LRP5 as being responsible for the binding. Although these two repeat domains are required for transduction of canonical Wnt signals, canonical Wnt did not appear to compete with sclerostin for binding to LRP5. Examination of the expression of sclerostin and Wnt7b, an autocrine canonical Wnt, during primary calvarial osteoblast differentiation revealed that sclerostin is expressed at late stages of osteoblast differentiation coinciding with the expression of osteogenic marker osteocalcin and trailing after the expression of Wnt7b. Given the plethora of evidence indicating that canonical Wnt signaling stimulates osteogenesis, we believe that the high bone mass phenotype associated with the loss of sclerostin may be attributed, at least in part, to an increase in canonical Wnt signaling resulting from the reduction in sclerostin-mediated Wnt antagonism.",
+  "authors": [
+    "Xiaofeng Li",
+    "Yazhou Zhang",
+    "Heeseog Kang",
+    "Wenzhong Liu",
+    "Peng Liu",
+    "Jianghong Zhang",
+    "Stephen E. Harris",
+    "Dianqing Wu"
+  ],
+  "year": 2005,
+  "doi": "10.1074/jbc.m413274200",
+  "source": "openalex",
+  "categories": [
+    "Sclerostin",
+    "Wnt signaling pathway",
+    "LRP5",
+    "Cell biology",
+    "LRP6",
+    "Chemistry",
+    "Internal medicine",
+    "Biology",
+    "Signal transduction",
+    "Medicine"
+  ],
+  "citation_count": 1387,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925820617756/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2087560312.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:52.571141+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2087560312",
+    "concepts": [
+      "Sclerostin",
+      "Wnt signaling pathway",
+      "LRP5",
+      "Cell biology",
+      "LRP6"
+    ],
+    "oa_status": "hybrid"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2156407548",
+  "title": "IUPred: web server for the prediction of intrinsically unstructured regions of proteins based on estimated energy content",
+  "abstract": "Summary: Intrinsically unstructured/disordered proteins and domains (IUPs) lack a well-defined three-dimensional structure under native conditions. The IUPred server presents a novel algorithm for predicting such regions from amino acid sequences by estimating their total pairwise interresidue interaction energy, based on the assumption that IUP sequences do not fold due to their inability to form sufficient stabilizing interresidue interactions. Optional to the prediction are built-in parameter sets optimized for predicting short or long disordered regions and structured domains. Availability: The IUPred server is available for academic users at http://iupred.enzim.hu Contact: zsuzsa@enzim.hu",
+  "authors": [
+    "Zsuzsanna Dosztányi",
+    "Veronika Csizmók",
+    "Péter Tompa",
+    "István Simon"
+  ],
+  "year": 2005,
+  "doi": "10.1093/bioinformatics/bti541",
+  "source": "openalex",
+  "categories": [
+    "Pairwise comparison",
+    "Web server",
+    "Computer science",
+    "Energy (signal processing)",
+    "Amino acid residue",
+    "Computational biology",
+    "Data mining",
+    "Chemistry",
+    "Biology",
+    "Biochemistry",
+    "Artificial intelligence",
+    "Peptide sequence",
+    "World Wide Web",
+    "Mathematics",
+    "The Internet",
+    "Statistics",
+    "Gene"
+  ],
+  "citation_count": 2002,
+  "open_access_pdf_url": "https://academic.oup.com/bioinformatics/article-pdf/21/16/3433/48979492/bioinformatics_21_16_3433.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2156407548.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:17.679754+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2156407548",
+    "concepts": [
+      "Pairwise comparison",
+      "Web server",
+      "Computer science",
+      "Energy (signal processing)",
+      "Amino acid residue"
+    ],
+    "oa_status": "bronze"
+  }
+}

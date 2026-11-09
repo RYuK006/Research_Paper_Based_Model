@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2013322971",
+  "title": "Interactions between extracellular matrix and growth factors in wound healing",
+  "abstract": "Dynamic interactions between growth factors and extracellular matrix (ECM) are integral to wound healing. These interactions take several forms that may be categorized as direct or indirect. The ECM can directly bind to and release certain growth factors (e.g., heparan sulfate binding to fibroblast growth factor-2), which may serve to sequester and protect growth factors from degradation, and/or enhance their activity. Indirect interactions include binding of cells to ECM via integrins, which enables cells to respond to growth factors (e.g., integrin binding is necessary for vascular endothelial growth factor-induced angiogenesis) and can induce growth factor expression (adherence of monocytes to ECM stimulates synthesis of platelet-derived growth factor). Additionally, matrikines, or subcomponents of ECM molecules, can bind to cell surface receptors in the cytokine, chemokine, or growth factor families and stimulate cellular activities (e.g., tenascin-C and laminin bind to epidermal growth factor receptors, which enhances fibroblast migration). Growth factors such as transforming growth factor-beta also regulate the ECM by increasing the production of ECM components or enhancing synthesis of matrix degrading enzymes. Thus, the interactions between growth factors and ECM are bidirectional. This review explores these interactions, discusses how they are altered in difficult to heal or chronic wounds, and briefly considers treatment implications.",
+  "authors": [
+    "Gregory S. Schultz",
+    "Annette B. Wysocki"
+  ],
+  "year": 2009,
+  "doi": "10.1111/j.1524-475x.2009.00466.x",
+  "source": "openalex",
+  "categories": [
+    "Extracellular matrix",
+    "Cell biology",
+    "Fibroblast growth factor",
+    "Wound healing",
+    "Integrin",
+    "Growth factor",
+    "Angiogenesis",
+    "Epidermal growth factor",
+    "Growth factor receptor inhibitor",
+    "Laminin",
+    "Tenascin",
+    "Chemistry",
+    "Fibronectin",
+    "Growth factor receptor",
+    "Receptor",
+    "Biology",
+    "Immunology",
+    "Signal transduction",
+    "Cancer research",
+    "Biochemistry"
+  ],
+  "citation_count": 1165,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1524-475X.2009.00466.x",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2013322971.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:12.246201+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2013322971",
+    "concepts": [
+      "Extracellular matrix",
+      "Cell biology",
+      "Fibroblast growth factor",
+      "Wound healing",
+      "Integrin"
+    ],
+    "oa_status": "bronze"
+  }
+}

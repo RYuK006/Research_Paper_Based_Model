@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W1857884451",
+  "title": "Learning Multi-domain Convolutional Neural Networks for Visual Tracking",
+  "abstract": "We propose a novel visual tracking algorithm based on the representations from a discriminatively trained Convolutional Neural Network (CNN). Our algorithm pretrains a CNN using a large set of videos with tracking ground-truths to obtain a generic target representation. Our network is composed of shared layers and multiple branches of domain-specific layers, where domains correspond to individual training sequences and each branch is responsible for binary classification to identify target in each domain. We train each domain in the network iteratively to obtain generic target representations in the shared layers. When tracking a target in a new sequence, we construct a new network by combining the shared layers in the pretrained CNN with a new binary classification layer, which is updated online. Online tracking is performed by evaluating the candidate windows randomly sampled around the previous target state. The proposed algorithm illustrates outstanding performance in existing tracking benchmarks.",
+  "authors": [
+    "Hyeonseob Nam",
+    "Bohyung Han"
+  ],
+  "year": 2016,
+  "doi": "10.1109/cvpr.2016.465",
+  "source": "openalex",
+  "categories": [
+    "Computer science",
+    "Convolutional neural network",
+    "Artificial intelligence",
+    "Domain (mathematical analysis)",
+    "Tracking (education)",
+    "Eye tracking",
+    "Pattern recognition (psychology)",
+    "Representation (politics)",
+    "Binary number",
+    "Set (abstract data type)",
+    "Binary classification",
+    "Layer (electronics)",
+    "Deep learning",
+    "Construct (python library)",
+    "Support vector machine",
+    "Mathematics",
+    "Law",
+    "Political science",
+    "Pedagogy",
+    "Psychology",
+    "Arithmetic",
+    "Politics",
+    "Mathematical analysis",
+    "Programming language",
+    "Organic chemistry",
+    "Chemistry"
+  ],
+  "citation_count": 2822,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1510.07945",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1857884451.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:01.915896+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1857884451",
+    "concepts": [
+      "Computer science",
+      "Convolutional neural network",
+      "Artificial intelligence",
+      "Domain (mathematical analysis)",
+      "Tracking (education)"
+    ],
+    "oa_status": "green"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "openalex:W2136503478",
+  "title": "Suppression of Oxidative Stress by β-Hydroxybutyrate, an Endogenous Histone Deacetylase Inhibitor",
+  "abstract": "Concentrations of acetyl-coenzyme A and nicotinamide adenine dinucleotide (NAD(+)) affect histone acetylation and thereby couple cellular metabolic status and transcriptional regulation. We report that the ketone body d-β-hydroxybutyrate (βOHB) is an endogenous and specific inhibitor of class I histone deacetylases (HDACs). Administration of exogenous βOHB, or fasting or calorie restriction, two conditions associated with increased βOHB abundance, all increased global histone acetylation in mouse tissues. Inhibition of HDAC by βOHB was correlated with global changes in transcription, including that of the genes encoding oxidative stress resistance factors FOXO3A and MT2. Treatment of cells with βOHB increased histone acetylation at the Foxo3a and Mt2 promoters, and both genes were activated by selective depletion of HDAC1 and HDAC2. Consistent with increased FOXO3A and MT2 activity, treatment of mice with βOHB conferred substantial protection against oxidative stress.",
+  "authors": [
+    "Tadahiro Shimazu",
+    "Matthew D. Hirschey",
+    "John Newman",
+    "Wenjuan He",
+    "Kotaro Shirakawa",
+    "Natacha Le Moan",
+    "Carrie A. Grueter",
+    "Hyungwook Lim",
+    "Laura R. Saunders",
+    "Robert D. Stevens",
+    "Christopher B. Newgard",
+    "Robert V. Farese",
+    "Rafael de Cabo",
+    "Scott Michael Ulrich",
+    "Katerina Akassoglou",
+    "Eric M. Verdin"
+  ],
+  "year": 2012,
+  "doi": "10.1126/science.1227166",
+  "source": "openalex",
+  "categories": [
+    "Oxidative stress",
+    "Paraquat",
+    "Histone",
+    "Acetylation",
+    "Endogeny",
+    "Gene",
+    "Histone deacetylase",
+    "Histone deacetylase inhibitor",
+    "Chemistry",
+    "Transcription (linguistics)",
+    "Biochemistry",
+    "Histone deacetylase 2",
+    "Biology",
+    "Cell biology",
+    "Philosophy",
+    "Linguistics"
+  ],
+  "citation_count": 1826,
+  "open_access_pdf_url": "http://europepmc.org/articles/PMC3735349",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2136503478.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:22.340990+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2136503478",
+    "concepts": [
+      "Oxidative stress",
+      "Paraquat",
+      "Histone",
+      "Acetylation",
+      "Endogeny"
+    ],
+    "oa_status": "green"
+  }
+}

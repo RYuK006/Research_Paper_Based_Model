@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W3165555416",
+  "title": "CO 2 electrolysis to multicarbon products in strong acid",
+  "abstract": "Potassium helps CO 2 compete in acid Electrochemical reduction of carbon dioxide (CO 2 ) is a promising means of converting this greenhouse gas into valuable fuels and chemicals. However, two competing reactions restrict the efficiency of this process. In base, much of the CO 2 is trapped as carbonate before reduction; in acid, protons outpace CO 2 at catching electrons from the cathode. Huang et al. report that a high dose of potassium ions can help to solve the latter problem. By concentrating potassium ions at the electrode, high selectivity toward CO 2 reduction at high current in acid is possible, which the authors attribute to electrostatic stabilization of the desired adsorbates. Science , abg6582, this issue p. 1074",
+  "authors": [
+    "Jianan Erick Huang",
+    "Fengwang Li",
+    "Adnan Ozden",
+    "Armin Sedighian Rasouli",
+    "Francisco Pelayo García de Arquer",
+    "Shijie Liu",
+    "Shuzhen Zhang",
+    "Mingchuan Luo",
+    "Xue Wang",
+    "Yanwei Lum",
+    "Yi Xu",
+    "Koen Bertens",
+    "Rui Kai Miao",
+    "Cao‐Thang Dinh",
+    "David A. Sinton",
+    "Edward Hartley Sargent"
+  ],
+  "year": 2021,
+  "doi": "10.1126/science.abg6582",
+  "source": "openalex",
+  "categories": [
+    "Electrolysis",
+    "Chemistry",
+    "Environmental science",
+    "Electrode",
+    "Electrolyte",
+    "Physical chemistry"
+  ],
+  "citation_count": 1373,
+  "open_access_pdf_url": "https://utoronto.scholaris.ca/bitstreams/ff05e791-8dd9-4caf-afd7-a2ed9d3b087e/download",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3165555416.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:52.727637+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3165555416",
+    "concepts": [
+      "Electrolysis",
+      "Chemistry",
+      "Environmental science",
+      "Electrode",
+      "Electrolyte"
+    ],
+    "oa_status": "green"
+  }
+}

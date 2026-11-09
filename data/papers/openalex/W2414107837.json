@@ -1,0 +1,45 @@
+{
+  "id": "openalex:W2414107837",
+  "title": "The rise of organic electrode materials for energy storage",
+  "abstract": "Organic electrode materials are very attractive for electrochemical energy storage devices because they can be flexible, lightweight, low cost, benign to the environment, and used in a variety of device architectures. They are not mere alternatives to more traditional energy storage materials, rather, they have the potential to lead to disruptive technologies. Although organic electrode materials for energy storage have progressed in recent years, there are still significant challenges to overcome before reaching large-scale commercialization. This review provides an overview of energy storage systems as a whole, the metrics that are used to quantify the performance of electrodes, recent strategies that have been investigated to overcome the challenges associated with organic electrode materials, and the use of computational chemistry to design and study new materials and their properties. Design strategies are examined to overcome issues with capacity/capacitance, device voltage, rate capability, and cycling stability in order to guide future work in the area. The use of low cost materials is highlighted as a direction towards commercial realization.",
+  "authors": [
+    "Tyler B. Schon",
+    "Bryony T. McAllister",
+    "Pengfei Li",
+    "Dwight S. Seferos"
+  ],
+  "year": 2016,
+  "doi": "10.1039/c6cs00173d",
+  "source": "openalex",
+  "categories": [
+    "Energy storage",
+    "Electrode",
+    "Work (physics)",
+    "Materials science",
+    "Nanotechnology",
+    "Process engineering",
+    "Chemistry",
+    "Engineering",
+    "Mechanical engineering",
+    "Physics",
+    "Thermodynamics",
+    "Physical chemistry",
+    "Power (physics)"
+  ],
+  "citation_count": 1113,
+  "open_access_pdf_url": "https://pubs.rsc.org/en/content/articlepdf/2016/cs/c6cs00173d",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2414107837.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:19.582436+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2414107837",
+    "concepts": [
+      "Energy storage",
+      "Electrode",
+      "Work (physics)",
+      "Materials science",
+      "Nanotechnology"
+    ],
+    "oa_status": "hybrid"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "openalex:W2048274049",
+  "title": "Infrared Emission from Interstellar Dust. IV. The Silicate‐Graphite‐PAH Model in the Post‐ Spitzer Era",
+  "abstract": "IR emission spectra are calculated for dust heated by starlight, for mixtures of amorphous silicate and graphitic grains, including varying amounts of PAH particles. The models are constrained to reproduce the average Milky Way extinction curve. The calculations include the effects of single-photon heating. Updated IR absorption properties for the PAHs are presented that are consistent with observed emission spectra, including those newly obtained by Spitzer . We find a size distribution for the PAHs giving emission band ratios consistent with the observed spectra of the Milky Way and other galaxies. Emission spectra are presented for a wide range of starlight intensities. We calculate how the efficiency of emission into different IR bands depends on PAH size; the strong 7.7 μm emission feature is produced mainly by PAH particles containing <10 3 C atoms. We also calculate how the emission spectrum depends on U , the starlight intensity relative to the local interstellar radiation field. The submillimeter and far-infrared emission is compared to the observed emission from the local interstellar medium. Using a simple distribution function, we calculate the emission spectrum for dust heated by a distribution of starlight intensities, such as occurs within galaxies. The models are parameterized by the PAH mass fraction q PAH , the lower cutoff U min of the starlight intensity distribution, and the fraction γ of the dust heated by starlight with U > U min . We present graphical procedures using Spitzer IRAC and MIPS photometry to estimate the parameters q PAH , U min , and γ, the fraction f PDR of the dust luminosity coming from photodissociation regions with U > 100, and the total dust mass M dust .",
+  "authors": [
+    "B. T. Draine",
+    "Aigen Li"
+  ],
+  "year": 2007,
+  "doi": "10.1086/511055",
+  "source": "openalex",
+  "categories": [
+    "Physics",
+    "Cosmic dust",
+    "Silicate",
+    "Infrared",
+    "Astrochemistry",
+    "Astrophysics",
+    "Interstellar medium",
+    "Astronomy",
+    "Graphite",
+    "Astrobiology",
+    "Galaxy",
+    "Organic chemistry",
+    "Chemistry"
+  ],
+  "citation_count": 2195,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1086/511055/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2048274049.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:12.649765+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2048274049",
+    "concepts": [
+      "Physics",
+      "Cosmic dust",
+      "Silicate",
+      "Infrared",
+      "Astrochemistry"
+    ],
+    "oa_status": "bronze"
+  }
+}

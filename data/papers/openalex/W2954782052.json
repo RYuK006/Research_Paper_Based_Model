@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2954782052",
+  "title": "The NLRP3 Inflammasome: An Overview of Mechanisms of Activation and Regulation",
+  "abstract": "The NLRP3 inflammasome is a critical component of the innate immune system that mediates caspase-1 activation and the secretion of proinflammatory cytokines IL-1β/IL-18 in response to microbial infection and cellular damage. However, the aberrant activation of the NLRP3 inflammasome has been linked with several inflammatory disorders, which include cryopyrin-associated periodic syndromes, Alzheimer's disease, diabetes, and atherosclerosis. The NLRP3 inflammasome is activated by diverse stimuli, and multiple molecular and cellular events, including ionic flux, mitochondrial dysfunction, and the production of reactive oxygen species, and lysosomal damage have been shown to trigger its activation. How NLRP3 responds to those signaling events and initiates the assembly of the NLRP3 inflammasome is not fully understood. In this review, we summarize our current understanding of the mechanisms of NLRP3 inflammasome activation by multiple signaling events, and its regulation by post-translational modifications and interacting partners of NLRP3.",
+  "authors": [
+    "Nathan Kelley",
+    "Devon Jeltema",
+    "Yanhui Duan",
+    "Yuan He"
+  ],
+  "year": 2019,
+  "doi": "10.3390/ijms20133328",
+  "source": "openalex",
+  "categories": [
+    "Inflammasome",
+    "Proinflammatory cytokine",
+    "Cell biology",
+    "Innate immune system",
+    "Caspase 1",
+    "Reactive oxygen species",
+    "Pyroptosis",
+    "Pyrin domain",
+    "Secretion",
+    "Signal transduction",
+    "Inflammation",
+    "Biology",
+    "Immunology",
+    "Chemistry",
+    "Immune system",
+    "Neuroscience",
+    "Biochemistry"
+  ],
+  "citation_count": 3680,
+  "open_access_pdf_url": "https://www.mdpi.com/1422-0067/20/13/3328/pdf?version=1562397291",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2954782052.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:54.171453+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2954782052",
+    "concepts": [
+      "Inflammasome",
+      "Proinflammatory cytokine",
+      "Cell biology",
+      "Innate immune system",
+      "Caspase 1"
+    ],
+    "oa_status": "gold"
+  }
+}

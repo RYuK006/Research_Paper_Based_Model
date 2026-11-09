@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W1685833191",
+  "title": "Environmental and stoichiometric controls on microbial carbon‐use efficiency in soils",
+  "abstract": "Carbon (C) metabolism is at the core of ecosystem function. Decomposers play a critical role in this metabolism as they drive soil C cycle by mineralizing organic matter to CO(2). Their growth depends on the carbon-use efficiency (CUE), defined as the ratio of growth over C uptake. By definition, high CUE promotes growth and possibly C stabilization in soils, while low CUE favors respiration. Despite the importance of this variable, flexibility in CUE for terrestrial decomposers is still poorly characterized and is not represented in most biogeochemical models. Here, we synthesize the theoretical and empirical basis of changes in CUE across aquatic and terrestrial ecosystems, highlighting common patterns and hypothesizing changes in CUE under future climates. Both theoretical considerations and empirical evidence from aquatic organisms indicate that CUE decreases as temperature increases and nutrient availability decreases. More limited evidence shows a similar sensitivity of CUE to temperature and nutrient availability in terrestrial decomposers. Increasing CUE with improved nutrient availability might explain observed declines in respiration from fertilized stands, while decreased CUE with increasing temperature and plant C : N ratios might decrease soil C storage. Current biogeochemical models could be improved by accounting for these CUE responses along environmental and stoichiometric gradients.",
+  "authors": [
+    "Stefano Manzoni",
+    "Philip G. Taylor",
+    "Andreas A. Richter",
+    "Amilcare M Porporato",
+    "Göran I. Ågren"
+  ],
+  "year": 2012,
+  "doi": "10.1111/j.1469-8137.2012.04225.x",
+  "source": "openalex",
+  "categories": [
+    "Decomposer",
+    "Biogeochemical cycle",
+    "Ecosystem",
+    "Nutrient",
+    "Carbon cycle",
+    "Soil water",
+    "Terrestrial ecosystem",
+    "Ecological stoichiometry",
+    "Ecology",
+    "Soil carbon",
+    "Aquatic ecosystem",
+    "Nutrient cycle",
+    "Environmental chemistry",
+    "Environmental science",
+    "Soil organic matter",
+    "Biogeochemistry",
+    "Biology",
+    "Chemistry"
+  ],
+  "citation_count": 1765,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1469-8137.2012.04225.x",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1685833191.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:26.109891+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1685833191",
+    "concepts": [
+      "Decomposer",
+      "Biogeochemical cycle",
+      "Ecosystem",
+      "Nutrient",
+      "Carbon cycle"
+    ],
+    "oa_status": "bronze"
+  }
+}

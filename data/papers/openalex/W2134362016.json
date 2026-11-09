@@ -1,0 +1,40 @@
+{
+  "id": "openalex:W2134362016",
+  "title": "The ZIP family of metal transporters",
+  "abstract": "Members of the ZIP gene family, a novel metal transporter family first identified in plants, are capable of transporting a variety of cations, including cadmium, iron, manganese and zinc. Information on where in the plant each of the ZIP transporters functions and how each is controlled in response to nutrient availability may allow the manipulation of plant mineral status with an eye to (1) creating food crops with enhanced mineral content, and (2) developing crops that bioaccumulate or exclude toxic metals.",
+  "authors": [
+    "Mary Lou Guerinot"
+  ],
+  "year": 2000,
+  "doi": "10.1016/s0005-2736(00)00138-3",
+  "source": "openalex",
+  "categories": [
+    "Transporter",
+    "Cadmium",
+    "Bioaccumulation",
+    "Nutrient",
+    "Chemistry",
+    "Environmental chemistry",
+    "Biology",
+    "Gene",
+    "Biochemistry",
+    "Ecology",
+    "Organic chemistry"
+  ],
+  "citation_count": 1239,
+  "open_access_pdf_url": "https://www.sciencedirect.com/science/article/pii/S0005273600001383/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2134362016.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:02.812177+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2134362016",
+    "concepts": [
+      "Transporter",
+      "Cadmium",
+      "Bioaccumulation",
+      "Nutrient",
+      "Chemistry"
+    ],
+    "oa_status": "hybrid"
+  }
+}

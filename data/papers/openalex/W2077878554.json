@@ -1,0 +1,63 @@
+{
+  "id": "openalex:W2077878554",
+  "title": "Embedding Transition-Metal Atoms in Graphene: Structure, Bonding, and Magnetism",
+  "abstract": "We present a density-functional-theory study of transition-metal atoms (Sc-Zn, Pt, and Au) embedded in single and double vacancies (SV and DV) in a graphene sheet. We show that for most metals, the bonding is strong and the metal-vacancy complexes exhibit interesting magnetic behavior. In particular, an Fe atom on a SV is not magnetic, while the Fe@DV complex has a high magnetic moment. Surprisingly, Au and Cu atoms at SV are magnetic. Both bond strengths and magnetic moments can be understood within a simple local-orbital picture, involving carbon sp(2) hybrids and the metal spd orbitals. We further calculate the barriers for impurity-atom migration, and they agree well with available experimental data. We discuss the experimental realization of such systems in the context of spintronics and nanocatalysis.",
+  "authors": [
+    "Arkady V. Krasheninnikov",
+    "Pekka Lehtinen",
+    "Adam Stuart Foster",
+    "Pekka Pyykkö",
+    "R. M. Nieminen"
+  ],
+  "year": 2009,
+  "doi": "10.1103/physrevlett.102.126807",
+  "source": "openalex",
+  "categories": [
+    "Magnetism",
+    "Magnetic moment",
+    "Spintronics",
+    "Atomic orbital",
+    "Graphene",
+    "Materials science",
+    "Transition metal",
+    "Atom (system on chip)",
+    "Density functional theory",
+    "Vacancy defect",
+    "Condensed matter physics",
+    "Context (archaeology)",
+    "Orbital hybridisation",
+    "Magnetic impurity",
+    "Chemical physics",
+    "Ferromagnetism",
+    "Impurity",
+    "Nanotechnology",
+    "Physics",
+    "Computational chemistry",
+    "Chemistry",
+    "Molecular orbital theory",
+    "Quantum mechanics",
+    "Embedded system",
+    "Computer science",
+    "Electron",
+    "Paleontology",
+    "Biochemistry",
+    "Catalysis",
+    "Biology"
+  ],
+  "citation_count": 1137,
+  "open_access_pdf_url": "https://doi.org/10.1103/PhysRevLett.102.126807",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2077878554.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:16.949085+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2077878554",
+    "concepts": [
+      "Magnetism",
+      "Magnetic moment",
+      "Spintronics",
+      "Atomic orbital",
+      "Graphene"
+    ],
+    "oa_status": "green"
+  }
+}

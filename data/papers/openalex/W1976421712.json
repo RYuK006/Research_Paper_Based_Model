@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W1976421712",
+  "title": "Bioconversion of lignocellulosic biomass: biochemical and molecular perspectives",
+  "abstract": "In view of rising prices of crude oil due to increasing fuel demands, the need for alternative sources of bioenergy is expected to increase sharply in the coming years. Among potential alternative bioenergy resources, lignocellulosics have been identified as the prime source of biofuels and other value-added products. Lignocelluloses as agricultural, industrial and forest residuals account for the majority of the total biomass present in the world. To initiate the production of industrially important products from cellulosic biomass, bioconversion of the cellulosic components into fermentable sugars is necessary. A variety of microorganisms including bacteria and fungi may have the ability to degrade the cellulosic biomass to glucose monomers. Bacterial cellulases exist as discrete multi-enzyme complexes, called cellulosomes that consist of multiple subunits. Cellulolytic enzyme systems from the filamentous fungi, especially Trichoderma reesei, contain two exoglucanases or cellobiohydrolases (CBH1 and CBH2), at least four endoglucanases (EG1, EG2, EG3, EG5), and one beta-glucosidase. These enzymes act synergistically to catalyse the hydrolysis of cellulose. Different physical parameters such as pH, temperature, adsorption, chemical factors like nitrogen, phosphorus, presence of phenolic compounds and other inhibitors can critically influence the bioconversion of lignocellulose. The production of cellulases by microbial cells is governed by genetic and biochemical controls including induction, catabolite repression, or end product inhibition. Several efforts have been made to increase the production of cellulases through strain improvement by mutagenesis. Various physical and chemical methods have been used to develop bacterial and fungal strains producing higher amounts of cellulase, all with limited success. Cellulosic bioconversion is a complex process and requires the synergistic action of the three enzymatic components consisting of endoglucanases, exoglucanases and beta-glucosidases. The co-cultivation of microbes in fermentation can increase the quantity of the desirable components of the cellulase complex. An understanding of the molecular mechanism leading to biodegradation of lignocelluloses and the development of the bioprocessing potential of cellulolytic microorganisms might effectively be accomplished with recombinant DNA technology. For instance, cloning and sequencing of the various cellulolytic genes could economize the cellulase production process. Apart from that, metabolic engineering and genomics approaches have great potential for enhancing our understanding of the molecular mechanism of bioconversion of lignocelluloses to value added economically significant products in the future.",
+  "authors": [
+    "Rajiv Kumar",
+    "Sompal Singh",
+    "Om V. Singh"
+  ],
+  "year": 2008,
+  "doi": "10.1007/s10295-008-0327-8",
+  "source": "openalex",
+  "categories": [
+    "Bioconversion",
+    "Cellulase",
+    "Cellulosic ethanol",
+    "Biomass (ecology)",
+    "Trichoderma reesei",
+    "Cellulose",
+    "Lignocellulosic biomass",
+    "Bioenergy",
+    "Chemistry",
+    "Biofuel",
+    "Biotechnology",
+    "Pulp and paper industry",
+    "Food science",
+    "Biochemistry",
+    "Biology",
+    "Fermentation",
+    "Agronomy",
+    "Engineering"
+  ],
+  "citation_count": 1332,
+  "open_access_pdf_url": "https://academic.oup.com/jimb/article-pdf/35/5/377/34727103/jimb0377.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1976421712.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:55.332915+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1976421712",
+    "concepts": [
+      "Bioconversion",
+      "Cellulase",
+      "Cellulosic ethanol",
+      "Biomass (ecology)",
+      "Trichoderma reesei"
+    ],
+    "oa_status": "bronze"
+  }
+}

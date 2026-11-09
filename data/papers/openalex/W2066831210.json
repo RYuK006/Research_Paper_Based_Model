@@ -1,0 +1,59 @@
+{
+  "id": "openalex:W2066831210",
+  "title": "Archaeal nitrification in the ocean",
+  "abstract": "Marine Crenarchaeota are the most abundant single group of prokaryotes in the ocean, but their physiology and role in marine biogeochemical cycles are unknown. Recently, a member of this clade was isolated from a sea aquarium and shown to be capable of nitrification, tentatively suggesting that Crenarchaeota may play a role in the oceanic nitrogen cycle. We enriched a crenarchaeote from North Sea water and showed that its abundance, and not that of bacteria, correlates with ammonium oxidation to nitrite. A time series study in the North Sea revealed that the abundance of the gene encoding for the archaeal ammonia monooxygenase alfa subunit (amoA) is correlated with a decline in ammonium concentrations and with the abundance of Crenarchaeota. Remarkably, the archaeal amoA abundance was 1-2 orders of magnitude higher than those of bacterial nitrifiers, which are commonly thought to mediate the oxidation of ammonium to nitrite in marine environments. Analysis of Atlantic waters of the upper 1,000 m, where most of the ammonium regeneration and oxidation takes place, showed that crenarchaeotal amoA copy numbers are also 1-3 orders of magnitude higher than those of bacterial amoA. Our data thus suggest a major role for Archaea in oceanic nitrification.",
+  "authors": [
+    "Cornelia Wuchter",
+    "Ben A. Abbas",
+    "Marco J. L. Coolen",
+    "Lydie Herfort",
+    "Judith D. L. van Bleijswijk",
+    "Peer H. A. Timmers",
+    "Marc Strous",
+    "Eva Teira",
+    "Gerhard J. Herndl",
+    "Jack J. Middelburg",
+    "Stefan Schouten",
+    "Jaap S. Sinninghe Damsté"
+  ],
+  "year": 2006,
+  "doi": "10.1073/pnas.0600756103",
+  "source": "openalex",
+  "categories": [
+    "Crenarchaeota",
+    "Ammonia monooxygenase",
+    "Nitrification",
+    "Archaea",
+    "Ammonium",
+    "Biology",
+    "Biogeochemical cycle",
+    "Nitrogen cycle",
+    "Thaumarchaeota",
+    "Abundance (ecology)",
+    "Ecology",
+    "Environmental chemistry",
+    "Oceanography",
+    "Bacteria",
+    "Chemistry",
+    "Nitrogen",
+    "Genetics",
+    "Geology",
+    "Organic chemistry"
+  ],
+  "citation_count": 1152,
+  "open_access_pdf_url": "https://pure.knaw.nl/portal/en/publications/e2a311fa-7f99-4a87-ba49-14f3953747b2",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2066831210.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:14.570133+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2066831210",
+    "concepts": [
+      "Crenarchaeota",
+      "Ammonia monooxygenase",
+      "Nitrification",
+      "Archaea",
+      "Ammonium"
+    ],
+    "oa_status": "green"
+  }
+}

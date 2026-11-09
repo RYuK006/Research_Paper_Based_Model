@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2008686569",
+  "title": "Proteomic Analysis of the Cerebrospinal Fluid of Parkinson's Disease Patients Pre- and Post-Deep Brain Stimulation",
+  "abstract": "AIMS: To investigate alterations in protein expression associated with deep brain stimulation (DBS) in an attempt to elucidate possible mechanisms of action . METHODS: Cerebrospinal fluid (CSF), obtained from six Parkinson's disease (PD) patients (pre- and post-DBS) and from six normal healthy controls, was studied for differentially expressed proteins. 2-D DIGE, in combination with MALDI-TOF and TOF-TOF Mass Spectrometry (MS) or ESI-MS, was used to identify the changed proteins (3 PD patients and 3 controls). Selected proteins were further studied using western blotting (6 PD patients and 6 controls). RESULTS: Twenty-one proteins were identified after MS and protein database interrogation. Apart from apolipoprotein A-I (apoA-I), the expression levels of complement C4 (C4), IgA, tetranectin, and extracellular superoxide dismutase (EC-SOD), detected by western blotting, correlated well with the 2-D DIGE results. In the follow-up period, the expression levels of C4, apoA-I and IgA were stable whereas EC-SOD and tetranectin were significantly elevated. In addition, when DBS was ceased in one patient due to a suicide attempt, the levels of EC-SOD and tetranectin significantly decreased. CONCLUSION: Our preliminary results suggest that variations in the expression levels of EC-SOD and tetranectin in CSF is related to DBS.",
+  "authors": [
+    "Ersong Wang",
+    "Hui-bin Yao",
+    "Yinghui Chen",
+    "Gan Wang",
+    "Wenwei Gao",
+    "Yirui Sun",
+    "Jiguang Guo",
+    "Jianwen Hu",
+    "Chengchuan Jiang",
+    "Jin Hu"
+  ],
+  "year": 2013,
+  "doi": "10.1159/000350082",
+  "source": "openalex",
+  "categories": [
+    "Blot",
+    "Cerebrospinal fluid",
+    "Proteomics",
+    "Stimulation",
+    "Parkinson's disease",
+    "Western blot",
+    "Medicine",
+    "Internal medicine",
+    "Chemistry",
+    "Endocrinology",
+    "Pathology",
+    "Molecular biology",
+    "Biology",
+    "Biochemistry",
+    "Disease",
+    "Gene"
+  ],
+  "citation_count": 1185,
+  "open_access_pdf_url": "https://karger.com/cpb/article-pdf/31/4-5/625/2424772/000350082.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2008686569.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:11.994804+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2008686569",
+    "concepts": [
+      "Blot",
+      "Cerebrospinal fluid",
+      "Proteomics",
+      "Stimulation",
+      "Parkinson's disease"
+    ],
+    "oa_status": "gold"
+  }
+}

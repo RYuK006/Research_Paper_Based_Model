@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2016187028",
+  "title": "Observation of Weak Localization of Light in a Random Medium",
+  "abstract": "We report the observation of weak localization of light in a random medium. In a sample consisting of a highly concentrated suspension of polystyrene particles in water, polarization-dependent enhanced backscattering of laser light was found within a cone of approximately 0.2\\ifmmode^\\circ\\else\\textdegree\\fi{} (half angle) for the highest concentration.",
+  "authors": [
+    "Meint P. van Albada",
+    "Ad Lagendijk"
+  ],
+  "year": 1985,
+  "doi": "10.1103/physrevlett.55.2692",
+  "source": "openalex",
+  "categories": [
+    "Weak localization",
+    "Polystyrene",
+    "Polarization (electrochemistry)",
+    "Suspension (topology)",
+    "Laser light",
+    "Light cone",
+    "Materials science",
+    "Optics",
+    "Physics",
+    "Laser",
+    "Molecular physics",
+    "Nuclear magnetic resonance",
+    "Quantum mechanics",
+    "Mathematics",
+    "Chemistry",
+    "Polymer",
+    "Physical chemistry",
+    "Homotopy",
+    "Pure mathematics",
+    "Magnetic field",
+    "Magnetoresistance"
+  ],
+  "citation_count": 1288,
+  "open_access_pdf_url": "https://pure.uva.nl/ws/files/2173626/46730_214478y.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2016187028.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:00.388913+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2016187028",
+    "concepts": [
+      "Weak localization",
+      "Polystyrene",
+      "Polarization (electrochemistry)",
+      "Suspension (topology)",
+      "Laser light"
+    ],
+    "oa_status": "green"
+  }
+}

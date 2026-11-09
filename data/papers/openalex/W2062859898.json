@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2062859898",
+  "title": "Extending the Limits of Quantitative Proteome Profiling with Data-Independent Acquisition and Application to Acetaminophen-Treated Three-Dimensional Liver Microtissues",
+  "abstract": "The data-independent acquisition (DIA) approach has recently been introduced as a novel mass spectrometric method that promises to combine the high content aspect of shotgun proteomics with the reproducibility and precision of selected reaction monitoring. Here, we evaluate, whether SWATH-MS type DIA effectively translates into a better protein profiling as compared with the established shotgun proteomics. We implemented a novel DIA method on the widely used Orbitrap platform and used retention-time-normalized (iRT) spectral libraries for targeted data extraction using Spectronaut. We call this combination hyper reaction monitoring (HRM). Using a controlled sample set, we show that HRM outperformed shotgun proteomics both in the number of consistently identified peptides across multiple measurements and quantification of differentially abundant proteins. The reproducibility of HRM in peptide detection was above 98%, resulting in quasi complete data sets compared with 49% of shotgun proteomics. Utilizing HRM, we profiled acetaminophen (APAP)(1)-treated three-dimensional human liver microtissues. An early onset of relevant proteome changes was revealed at subtoxic doses of APAP. Further, we detected and quantified for the first time human NAPQI-protein adducts that might be relevant for the toxicity of APAP. The adducts were identified on four mitochondrial oxidative stress related proteins (GATM, PARK7, PRDX6, and VDAC2) and two other proteins (ANXA2 and FTCD). Our findings imply that DIA should be the preferred method for quantitative protein profiling.",
+  "authors": [
+    "Roland Bruderer",
+    "Oliver M. Bernhardt",
+    "Tejas Gandhi",
+    "Saša M. Miladinović",
+    "Lin‐Yang Cheng",
+    "Simon Messner",
+    "Tobias Ehrenberger",
+    "Vito RT Zanotelli",
+    "Yulia Butscheid",
+    "Claudia Escher",
+    "Olga Vitek",
+    "Oliver Rinner",
+    "Lukas Reiter"
+  ],
+  "year": 2015,
+  "doi": "10.1074/mcp.m114.044305",
+  "source": "openalex",
+  "categories": [
+    "Proteome",
+    "Profiling (computer programming)",
+    "Acetaminophen",
+    "Computational biology",
+    "Computer science",
+    "Chemistry",
+    "Bioinformatics",
+    "Biology",
+    "Biochemistry",
+    "Operating system"
+  ],
+  "citation_count": 1212,
+  "open_access_pdf_url": "https://www.mcponline.org/content/mcprot/14/5/1400.full.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2062859898.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:04.725327+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2062859898",
+    "concepts": [
+      "Proteome",
+      "Profiling (computer programming)",
+      "Acetaminophen",
+      "Computational biology",
+      "Computer science"
+    ],
+    "oa_status": "hybrid"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2091627137",
+  "title": "Minor revision to V4 region SSU rRNA 806R gene primer greatly increases detection of SAR11 bacterioplankton",
+  "abstract": "High-throughput sequencing of small subunit ribosomal RNA (SSU rRNA) genes from marine environments is a widely applied method used to uncover the composition of microbial communities.We conducted an analysis of surface ocean waters with the commonly employed hypervariable 4 region SSU rRNA gene primers 515F and 806R, and found that bacteria belonging to the SAR11 clade of Alphaproteobacteria, a group typically making up 20 to 40% of the bacterioplankton in this environment, were greatly underrepresented and comprised < 4% of the total community.Using the SILVA reference database, we found a single nucleotide mismatch to nearly all SAR11 subclades, and revised the 806R primer so that it increased the detection of SAR11 clade sequences in the database from 2.6 to 96.7%.We then compared the performance of the original and revised 806R primers in surface seawater samples, and found that SAR11 comprised 0.3 to 3.9% of sequences with the original primers and 17.5 to 30.5% of the sequences with the revised 806R primer.Furthermore, an investigation of seawater obtained from aquaria revealed that SAR11 sequences acquired with the revised 806R primer were more similar to natural cellular abundances of SAR11 detected using fluorescence in situ hybridization counts.Collectively, these results demonstrate that a minor adjustment to the 806R primer will greatly increase detection of the globally abundant SAR11 clade in marine and lake environments, and enable inclusion of this important bacterial lineage in experimental and environmental-based studies.",
+  "authors": [
+    "Amy M. Apprill",
+    "Sean P. McNally",
+    "Rachel J. Parsons",
+    "Laura Weber"
+  ],
+  "year": 2015,
+  "doi": "10.3354/ame01753",
+  "source": "openalex",
+  "categories": [
+    "Bacterioplankton",
+    "Biology",
+    "Ribosomal RNA",
+    "Alphaproteobacteria",
+    "Clade",
+    "Primer (cosmetics)",
+    "16S ribosomal RNA",
+    "Gene",
+    "Pyrosequencing",
+    "Transect",
+    "Roseobacter",
+    "Genetics",
+    "Ecology",
+    "Phylogenetics",
+    "Phytoplankton",
+    "Nutrient",
+    "Organic chemistry",
+    "Chemistry"
+  ],
+  "citation_count": 2753,
+  "open_access_pdf_url": "https://www.int-res.com/articles/ame_oa/a075p129.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2091627137.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:01.976012+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2091627137",
+    "concepts": [
+      "Bacterioplankton",
+      "Biology",
+      "Ribosomal RNA",
+      "Alphaproteobacteria",
+      "Clade"
+    ],
+    "oa_status": "bronze"
+  }
+}

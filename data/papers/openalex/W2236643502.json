@@ -1,0 +1,62 @@
+{
+  "id": "openalex:W2236643502",
+  "title": "3D tumor spheroid models for in vitro therapeutic screening: a systematic approach to enhance the biological relevance of data obtained",
+  "abstract": "The potential of a spheroid tumor model composed of cells in different proliferative and metabolic states for the development of new anticancer strategies has been amply demonstrated. However, there is little or no information in the literature on the problems of reproducibility of data originating from experiments using 3D models. Our analyses, carried out using a novel open source software capable of performing an automatic image analysis of 3D tumor colonies, showed that a number of morphology parameters affect the response of large spheroids to treatment. In particular, we found that both spheroid volume and shape may be a source of variability. We also compared some commercially available viability assays specifically designed for 3D models. In conclusion, our data indicate the need for a pre-selection of tumor spheroids of homogeneous volume and shape to reduce data variability to a minimum before use in a cytotoxicity test. In addition, we identified and validated a cytotoxicity test capable of providing meaningful data on the damage induced in large tumor spheroids of up to diameter in 650 μm by different kinds of treatments.",
+  "authors": [
+    "Michele Zanoni",
+    "Filippo Piccinini",
+    "Chiara Arienti",
+    "Alice Zamagni",
+    "Spartaco Santi",
+    "Rolando Polico",
+    "Alessandro Bevilacqua",
+    "Anna Tesei"
+  ],
+  "year": 2016,
+  "doi": "10.1038/srep19103",
+  "source": "openalex",
+  "categories": [
+    "Spheroid",
+    "Reproducibility",
+    "Cytotoxicity",
+    "3d model",
+    "Homogeneous",
+    "Relevance (law)",
+    "Computer science",
+    "In vitro",
+    "Tumor cells",
+    "Biological system",
+    "Volume (thermodynamics)",
+    "Biomedical engineering",
+    "Computational biology",
+    "Biology",
+    "Cancer research",
+    "Chemistry",
+    "Medicine",
+    "Mathematics",
+    "Artificial intelligence",
+    "Physics",
+    "Biochemistry",
+    "Chromatography",
+    "Law",
+    "Quantum mechanics",
+    "Political science",
+    "Combinatorics"
+  ],
+  "citation_count": 1181,
+  "open_access_pdf_url": "https://www.nature.com/articles/srep19103.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2236643502.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:12.053604+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2236643502",
+    "concepts": [
+      "Spheroid",
+      "Reproducibility",
+      "Cytotoxicity",
+      "3d model",
+      "Homogeneous"
+    ],
+    "oa_status": "gold"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W2150498905",
+  "title": "Channel Polarization: A Method for Constructing Capacity-Achieving Codes for Symmetric Binary-Input Memoryless Channels",
+  "abstract": "A method is proposed, called channel polarization, to construct code sequences that achieve the symmetric capacity$I(W)$of any given binary-input discrete memoryless channel (B-DMC)$W$. The symmetric capacity is the highest rate achievable subject to using the input letters of the channel with equal probability. Channel polarization refers to the fact that it is possible to synthesize, out of$N$independent copies of a given B-DMC$W$, a second set of$N$binary-input channels$\\{W_N^{(i)}:1\\le i\\le N\\}$such that, as$N$becomes large, the fraction of indices$i$for which$I(W_N^{(i)})$is near$1$approaches$I(W)$and the fraction for which$I(W_N^{(i)})$is near$0$approaches$1-I(W)$. The polarized channels$\\{W_N^{(i)}\\}$are well-conditioned for channel coding: one need only send data at rate$1$through those with capacity near$1$and at rate$0$through the remaining. Codes constructed on the basis of this idea are called polar codes. The paper proves that, given any B-DMC$W$with$I(W)> 0$and any target rate$R ≪ I(W)$, there exists a sequence of polar codes$\\{{\\Fraktur {C}}_n;n\\ge 1\\}$such that${\\Fraktur {C}}_n$has block-length$N=2^n$, rate$\\ge R$, and probability of block error under successive cancellation decoding bounded as$P_{e}(N,R) \\le O(N^{-{1\\over 4}})$independently of the code rate. This performance is achievable by encoders and decoders with complexity$O(N\\log N)$for each.",
+  "authors": [
+    "Erdal Arıkan"
+  ],
+  "year": 2009,
+  "doi": "10.1109/tit.2009.2021379",
+  "source": "openalex",
+  "categories": [
+    "Channel capacity",
+    "Computer science",
+    "Binary number",
+    "Binary symmetric channel",
+    "Channel code",
+    "Channel (broadcasting)",
+    "Polarization (electrochemistry)",
+    "Binary code",
+    "Algorithm",
+    "Electronic engineering",
+    "Decoding methods",
+    "Telecommunications",
+    "Theoretical computer science",
+    "Mathematics",
+    "Engineering",
+    "Arithmetic",
+    "Chemistry",
+    "Physical chemistry"
+  ],
+  "citation_count": 4582,
+  "open_access_pdf_url": "https://arxiv.org/pdf/0807.3917",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2150498905.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:53.938050+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2150498905",
+    "concepts": [
+      "Channel capacity",
+      "Computer science",
+      "Binary number",
+      "Binary symmetric channel",
+      "Channel code"
+    ],
+    "oa_status": "green"
+  }
+}

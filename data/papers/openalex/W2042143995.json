@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2042143995",
+  "title": "A Truncated HIV-1 Tat Protein Basic Domain Rapidly Translocates through the Plasma Membrane and Accumulates in the Cell Nucleus",
+  "abstract": "Tat is an 86-amino acid protein involved in the replication of human immunodeficiency virus type 1 (HIV-1). Several studies have shown that exogenous Tat protein was able to translocate through the plasma membrane and to reach the nucleus to transactivate the viral genome. A region of the Tat protein centered on a cluster of basic amino acids has been assigned to this translocation activity. Recent data have demonstrated that chemical coupling of a Tat-derived peptide (extending from residues 37 to 72) to several proteins allowed their functional internalization into several cell lines or tissues. A part of this same domain can be folded in an alpha-helix structure with amphipathic characteristics. Such helical structures have been considered as key determinants for the uptake of several enveloped viruses by fusion or endocytosis. In the present study, we have delineated the main determinants required for Tat translocation within this sequence by synthesizing several peptides covering the Tat domain from residues 37 to 60. Unexpectedly, the domain extending from amino acid 37 to 47, which corresponds to the alpha-helix structure, is not required for cellular uptake and for nuclear translocation. Peptide internalization was assessed by direct labeling with fluorescein or by indirect immunofluorescence using a monoclonal antibody directed against the Tat basic cluster. Both approaches established that all peptides containing the basic domain are taken up by cells within less than 5 min at concentrations as low as 100 nM. In contrast, a peptide with a full alpha-helix but with a truncated basic amino acid cluster is not taken up by cells. The internalization process does not involve an endocytic pathway, as no inhibition of the uptake was observed at 4 degrees C. Similar observations have been reported for a basic amino acid-rich peptide derived from the Antennapedia homeodomain (1). Short peptides allowing efficient translocation through the plasma membrane could be useful vectors for the intracellular delivery of various non-permeant drugs including antisense oligonucleotides and peptides of pharmacological interest.",
+  "authors": [
+    "Éric Vivès",
+    "Priscille M Brodin",
+    "Bernard Lebleu"
+  ],
+  "year": 1997,
+  "doi": "10.1074/jbc.272.25.16010",
+  "source": "openalex",
+  "categories": [
+    "Internalization",
+    "Amino acid",
+    "Endocytosis",
+    "Peptide sequence",
+    "Peptide",
+    "Cell biology",
+    "Biology",
+    "Biochemistry",
+    "Fusion protein",
+    "Nuclear transport",
+    "Cell-penetrating peptide",
+    "Chemistry",
+    "Molecular biology",
+    "Cell",
+    "Cell nucleus",
+    "Nucleus",
+    "Gene",
+    "Recombinant DNA"
+  ],
+  "citation_count": 2440,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925818394274/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2042143995.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:08.686158+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2042143995",
+    "concepts": [
+      "Internalization",
+      "Amino acid",
+      "Endocytosis",
+      "Peptide sequence",
+      "Peptide"
+    ],
+    "oa_status": "hybrid"
+  }
+}

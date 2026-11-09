@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2898280479",
+  "title": "On Splitting Training and Validation Set: A Comparative Study of Cross-Validation, Bootstrap and Systematic Sampling for Estimating the Generalization Performance of Supervised Learning",
+  "abstract": "Model validation is the most important part of building a supervised model. For building a model with good generalization performance one must have a sensible data splitting strategy, and this is crucial for model validation. In this study, we conducted a comparative study on various reported data splitting methods. The MixSim model was employed to generate nine simulated datasets with different probabilities of mis-classification and variable sample sizes. Then partial least squares for discriminant analysis and support vector machines for classification were applied to these datasets. Data splitting methods tested included variants of cross-validation, bootstrapping, bootstrapped Latin partition, Kennard-Stone algorithm (K-S) and sample set partitioning based on joint X – Y distances algorithm (SPXY). These methods were employed to split the data into training and validation sets. The estimated generalization performances from the validation sets were then compared with the ones obtained from the blind test sets which were generated from the same distribution but were unseen by the training/validation procedure used in model construction. The results showed that the size of the data is the deciding factor for the qualities of the generalization performance estimated from the validation set. We found that there was a significant gap between the performance estimated from the validation set and the one from the test set for the all the data splitting methods employed on small datasets. Such disparity decreased when more samples were available for training/validation, and this is because the models were then moving towards approximations of the central limit theory for the simulated datasets used. We also found that having too many or too few samples in the training set had a negative effect on the estimated model performance, suggesting that it is necessary to have a good balance between the sizes of training set and validation set to have a reliable estimation of model performance. We also found that systematic sampling method such as K-S and SPXY generally had very poor estimation of the model performance, most likely due to the fact that they are designed to take the most representative samples first and thus left a rather poorly representative sample set for model performance estimation.",
+  "authors": [
+    "Yun Xu A",
+    "Royston Goodacre"
+  ],
+  "year": 2018,
+  "doi": "10.1007/s41664-018-0068-2",
+  "source": "openalex",
+  "categories": [
+    "Cross-validation",
+    "Generalization",
+    "Bootstrapping (finance)",
+    "Test set",
+    "Sample size determination",
+    "Computer science",
+    "Data set",
+    "Set (abstract data type)",
+    "Artificial intelligence",
+    "Linear discriminant analysis",
+    "Sample (material)",
+    "Data mining",
+    "Mathematics",
+    "Machine learning",
+    "Statistics",
+    "Pattern recognition (psychology)",
+    "Econometrics",
+    "Mathematical analysis",
+    "Chemistry",
+    "Programming language",
+    "Chromatography"
+  ],
+  "citation_count": 1144,
+  "open_access_pdf_url": "https://link.springer.com/content/pdf/10.1007%2Fs41664-018-0068-2.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2898280479.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:16.875739+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2898280479",
+    "concepts": [
+      "Cross-validation",
+      "Generalization",
+      "Bootstrapping (finance)",
+      "Test set",
+      "Sample size determination"
+    ],
+    "oa_status": "hybrid"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "openalex:W2141224543",
+  "title": "Pathview: an R/Bioconductor package for pathway-based data integration and visualization",
+  "abstract": "SUMMARY: Pathview is a novel tool set for pathway-based data integration and visualization. It maps and renders user data on relevant pathway graphs. Users only need to supply their data and specify the target pathway. Pathview automatically downloads the pathway graph data, parses the data file, maps and integrates user data onto the pathway and renders pathway graphs with the mapped data. Although built as a stand-alone program, Pathview may seamlessly integrate with pathway and functional analysis tools for large-scale and fully automated analysis pipelines. AVAILABILITY: The package is freely available under the GPLv3 license through Bioconductor and R-Forge. It is available at http://bioconductor.org/packages/release/bioc/html/pathview.html and at http://Pathview.r-forge.r-project.org/. CONTACT: luo_weijun@yahoo.com SUPPLEMENTARY INFORMATION: Supplementary data are available at Bioinformatics online.",
+  "authors": [
+    "Weijun Luo",
+    "Cory Brouwer"
+  ],
+  "year": 2013,
+  "doi": "10.1093/bioinformatics/btt285",
+  "source": "openalex",
+  "categories": [
+    "Bioconductor",
+    "Computer science",
+    "Visualization",
+    "Plug-in",
+    "Data integration",
+    "Graph",
+    "Data visualization",
+    "Data mining",
+    "Information retrieval",
+    "Programming language",
+    "Theoretical computer science",
+    "Biochemistry",
+    "Gene",
+    "Chemistry"
+  ],
+  "citation_count": 2311,
+  "open_access_pdf_url": "https://academic.oup.com/bioinformatics/article-pdf/29/14/1830/48888696/bioinformatics_29_14_1830.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2141224543.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:08.799289+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2141224543",
+    "concepts": [
+      "Bioconductor",
+      "Computer science",
+      "Visualization",
+      "Plug-in",
+      "Data integration"
+    ],
+    "oa_status": "hybrid"
+  }
+}

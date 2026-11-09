@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2774644650",
+  "title": "Boosting Adversarial Attacks with Momentum",
+  "abstract": "Deep neural networks are vulnerable to adversarial examples, which poses security concerns on these algorithms due to the potentially severe consequences. Adversarial attacks serve as an important surrogate to evaluate the robustness of deep learning models before they are deployed. However, most of existing adversarial attacks can only fool a black-box model with a low success rate. To address this issue, we propose a broad class of momentum-based iterative algorithms to boost adversarial attacks. By integrating the momentum term into the iterative process for attacks, our methods can stabilize update directions and escape from poor local maxima during the iterations, resulting in more transferable adversarial examples. To further improve the success rates for black-box attacks, we apply momentum iterative algorithms to an ensemble of models, and show that the adversarially trained models with a strong defense ability are also vulnerable to our black-box attacks. We hope that the proposed methods will serve as a benchmark for evaluating the robustness of various deep models and defense methods. With this method, we won the first places in NIPS 2017 Non-targeted Adversarial Attack and Targeted Adversarial Attack competitions.",
+  "authors": [
+    "Yinpeng Dong",
+    "Fangzhou Liao",
+    "Tianyu Pang",
+    "Hang Su",
+    "Jun Zhu",
+    "Xiaolin Hu",
+    "Jianguo Li"
+  ],
+  "year": 2018,
+  "doi": "10.1109/cvpr.2018.00957",
+  "source": "openalex",
+  "categories": [
+    "Adversarial system",
+    "Robustness (evolution)",
+    "Computer science",
+    "Boosting (machine learning)",
+    "Deep neural networks",
+    "Benchmark (surveying)",
+    "Artificial intelligence",
+    "Black box",
+    "Deep learning",
+    "Machine learning",
+    "Momentum (technical analysis)",
+    "Computer security",
+    "Geodesy",
+    "Biochemistry",
+    "Economics",
+    "Gene",
+    "Chemistry",
+    "Geography",
+    "Finance"
+  ],
+  "citation_count": 3298,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1710.06081",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2774644650.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:57.788237+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2774644650",
+    "concepts": [
+      "Adversarial system",
+      "Robustness (evolution)",
+      "Computer science",
+      "Boosting (machine learning)",
+      "Deep neural networks"
+    ],
+    "oa_status": "green"
+  }
+}

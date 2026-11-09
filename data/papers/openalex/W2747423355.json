@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2747423355",
+  "title": "Tumor-selective catalytic nanomedicine by nanocatalyst delivery",
+  "abstract": "Abstract Tumor cells metabolize in distinct pathways compared with most normal tissue cells. The resulting tumor microenvironment would provide characteristic physiochemical conditions for selective tumor modalities. Here we introduce a concept of sequential catalytic nanomedicine for efficient tumor therapy by designing and delivering biocompatible nanocatalysts into tumor sites. Natural glucose oxidase (GOD, enzyme catalyst) and ultrasmall Fe3O4 nanoparticles (inorganic nanozyme, Fenton reaction catalyst) have been integrated into the large pore-sized and biodegradable dendritic silica nanoparticles to fabricate the sequential nanocatalyst. GOD in sequential nanocatalyst could effectively deplete glucose in tumor cells, and meanwhile produce a considerable amount of H2O2 for subsequent Fenton-like reaction catalyzed by Fe3O4 nanoparticles in response to mild acidic tumor microenvironment. Highly toxic hydroxyl radicals are generated through these sequential catalytic reactions to trigger the apoptosis and death of tumor cells. The current work manifests a proof of concept of catalytic nanomedicine by approaching selectivity and efficiency concurrently for tumor therapeutics.",
+  "authors": [
+    "Minfeng Huo",
+    "Liying Wang",
+    "Yu Chen",
+    "Jianlin Shi"
+  ],
+  "year": 2017,
+  "doi": "10.1038/s41467-017-00424-8",
+  "source": "openalex",
+  "categories": [
+    "Tumor microenvironment",
+    "Nanomedicine",
+    "Catalysis",
+    "Nanomaterial-based catalyst",
+    "Glucose oxidase",
+    "Nanoparticle",
+    "Chemistry",
+    "Microvesicles",
+    "Cancer cell",
+    "Nanotechnology",
+    "Fenton reaction",
+    "Cancer research",
+    "Combinatorial chemistry",
+    "Tumor cells",
+    "Biochemistry",
+    "Enzyme",
+    "Materials science",
+    "Cancer",
+    "Biology",
+    "microRNA",
+    "Gene",
+    "Genetics"
+  ],
+  "citation_count": 1329,
+  "open_access_pdf_url": "https://www.nature.com/articles/s41467-017-00424-8.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2747423355.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:55.345388+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2747423355",
+    "concepts": [
+      "Tumor microenvironment",
+      "Nanomedicine",
+      "Catalysis",
+      "Nanomaterial-based catalyst",
+      "Glucose oxidase"
+    ],
+    "oa_status": "gold"
+  }
+}

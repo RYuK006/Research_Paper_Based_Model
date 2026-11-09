@@ -1,0 +1,45 @@
+{
+  "id": "openalex:W1506642042",
+  "title": "An APAF-1·Cytochrome c Multimeric Complex Is a Functional Apoptosome That Activates Procaspase-9",
+  "abstract": "We report here the reconstitution of the de novo procaspase-9 activation pathway using highly purified cytochrome c, recombinant APAF-1, and recombinant procaspase-9. APAF-1 binds and hydrolyzes ATP or dATP to ADP or dADP, respectively. The hydrolysis of ATP/dATP and the binding of cytochrome c promote APAF-1 oligomerization, forming a large multimeric APAF-1.cytochrome c complex. Such a complex can be isolated using gel filtration chromatography and is by itself sufficient to recruit and activate procaspase-9. The stoichiometric ratio of procaspase-9 to APAF-1 is approximately 1 to 1 in the complex. Once activated, caspase-9 disassociates from the complex and becomes available to cleave and activate downstream caspases such as caspase-3.",
+  "authors": [
+    "Hua Zou",
+    "Yuchen Li",
+    "Xuesong Liu",
+    "Xiaodong Wang"
+  ],
+  "year": 1999,
+  "doi": "10.1074/jbc.274.17.11549",
+  "source": "openalex",
+  "categories": [
+    "Cytochrome c",
+    "Biochemistry",
+    "Apoptosome",
+    "Cytochrome",
+    "Caspase",
+    "Recombinant DNA",
+    "Biology",
+    "Chemistry",
+    "Molecular biology",
+    "Enzyme",
+    "Apoptosis",
+    "Programmed cell death",
+    "Gene"
+  ],
+  "citation_count": 2117,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925819734620/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1506642042.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:12.793226+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1506642042",
+    "concepts": [
+      "Cytochrome c",
+      "Biochemistry",
+      "Apoptosome",
+      "Cytochrome",
+      "Caspase"
+    ],
+    "oa_status": "hybrid"
+  }
+}

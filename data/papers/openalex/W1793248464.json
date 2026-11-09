@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W1793248464",
+  "title": "Slater-Pauling behavior and origin of the half-metallicity of the full-Heusler alloys",
+  "abstract": "Using the full-potential screened Korringa-Kohn-Rostoker method we study the full-Heusler alloys based on Co, Fe, Rh, and Ru. We show that many of these compounds show a half-metallic behavior; however, in contrast to the half-Heusler alloys the energy gap in the minority band is extremely small due to states localized only at the Co (Fe, Rh, or Ru) sites which are not present in the half-Heusler compounds. The full-Heusler alloys show a Slater-Pauling behavior and the total spin magnetic moment per unit cell ${(M}_{t})$ scales with the total number of valence electrons ${(Z}_{t})$ following the rule ${M}_{t}{=Z}_{t}\\ensuremath{-}24.$ We explain why the spin-down band contains exactly 12 electrons using arguments based on group theory and show that this rule holds also for compounds with less than 24 valence electrons. Finally we discuss the deviations from this rule and the differences compared to the half-Heusler alloys.",
+  "authors": [
+    "I. Galanakis",
+    "P. H. Dederichs",
+    "N. Papanikolaou"
+  ],
+  "year": 2002,
+  "doi": "10.1103/physrevb.66.174429",
+  "source": "openalex",
+  "categories": [
+    "Condensed matter physics",
+    "Electron",
+    "Magnetic moment",
+    "Valence electron",
+    "Heusler compound",
+    "Valence (chemistry)",
+    "Half-metal",
+    "Formula unit",
+    "Band gap",
+    "Valence band",
+    "Spin (aerodynamics)",
+    "Metallicity",
+    "Materials science",
+    "Physics",
+    "Spin polarization",
+    "Chemistry",
+    "Quantum mechanics",
+    "Thermodynamics",
+    "Crystallography",
+    "Crystal structure",
+    "Galaxy"
+  ],
+  "citation_count": 2081,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0205129",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1793248464.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:15.473993+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1793248464",
+    "concepts": [
+      "Condensed matter physics",
+      "Electron",
+      "Magnetic moment",
+      "Valence electron",
+      "Heusler compound"
+    ],
+    "oa_status": "green"
+  }
+}

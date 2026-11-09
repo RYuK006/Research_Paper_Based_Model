@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W2061163173",
+  "title": "Involvement of Toll-like Receptors 2 and 4 in Cellular Activation by High Mobility Group Box 1 Protein",
+  "abstract": "High mobility group box 1 (HMGB1) protein, originally described as a DNA-binding protein that stabilizes nucleosomes and facilitates transcription, can also be released extracellularly during acute inflammatory responses. Exposure of neutrophils, monocytes, or macrophages to HMGB1 results in increased nuclear translocation of NF-kappaB and enhanced expression of proinflammatory cytokines. Although the receptor for advanced glycation end products (RAGE) has been shown to interact with HMGB1, other putative HMGB1 receptors are known to exist but have not been characterized. In the present experiments, we explored the role of RAGE, Toll-like receptor (TLR) 2, and TLR 4, as well as associated kinases, in HMGB1-induced cellular activation. Culture of neutrophils or macrophages with HMGB1 produced activation of NF-kappaB through TLR 4-independent mechanisms. Unlike lipopolysaccharide (LPS), which primarily increased the activity of IKKbeta, HMGB1 exposure resulted in activation of both IKKalpha and IKKbeta. Kinases and scaffolding proteins downstream of TLR 2 and TLR 4, but not TLR/interleukin-1 receptor (IL-1R)-independent kinases such as tumor necrosis factor receptor-associated factor 2, were involved in the enhancement of NF-kappaB-dependent transcription by HMGB1. Transfections with dominant negative constructs demonstrated that TLR 2 and TLR 4 were both involved in HMGB1-induced activation of NF-kappaB. In contrast, RAGE played only a minor role in macrophage activation by HMGB1. Interactions of HMGB1 with TLR 2 and TLR 4 may provide an explanation for the ability of HMGB1 to generate inflammatory responses that are similar to those initiated by LPS.",
+  "authors": [
+    "Jong Sung Park",
+    "Daiva Svetkauskaite",
+    "Qianbin He",
+    "Jae‐Yeol Kim",
+    "Derek Strassheim",
+    "Akitoshi Ishizaka",
+    "Edward H Abraham"
+  ],
+  "year": 2004,
+  "doi": "10.1074/jbc.m306793200",
+  "source": "openalex",
+  "categories": [
+    "HMGB1",
+    "Rage (emotion)",
+    "Proinflammatory cytokine",
+    "Toll-like receptor",
+    "Receptor",
+    "Cell biology",
+    "High-mobility group",
+    "TLR4",
+    "Kinase",
+    "Signal transduction",
+    "Transcription factor",
+    "Signal transducing adaptor protein",
+    "Chemistry",
+    "Tumor necrosis factor alpha",
+    "Inflammation",
+    "Biology",
+    "Immunology",
+    "Innate immune system",
+    "Biochemistry",
+    "Gene",
+    "Neuroscience"
+  ],
+  "citation_count": 1582,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925818444304/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2061163173.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:41.949833+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2061163173",
+    "concepts": [
+      "HMGB1",
+      "Rage (emotion)",
+      "Proinflammatory cytokine",
+      "Toll-like receptor",
+      "Receptor"
+    ],
+    "oa_status": "hybrid"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2169518199",
+  "title": "Simulation and Optimization of the Dual Lithium Ion Insertion Cell",
+  "abstract": "The galvanostatic charge and discharge of a dual lithium ion insertion (rocking‐chair) cell are modeled. Transport in the electrolyte is described with concentrated solution theory. Insertion of lithium into and out of the active electrode material is simulated using superposition, greatly simplifying the numerical calculations. Simulation results are presented for the cell, and these results are compared with experimental data from the literature. Criteria are established to assess the importance of diffusion in the solid matrix and of transport in the electrolytic solution. Various procedures to optimize the utilization of active material are considered. Simulation results for the dual lithium ion insertion cell are compared with those for a cell with a solid lithium negative electrode.",
+  "authors": [
+    "Thomas F. Fuller",
+    "Marc Doyle",
+    "John Newman"
+  ],
+  "year": 1994,
+  "doi": "10.1149/1.2054684",
+  "source": "openalex",
+  "categories": [
+    "Lithium (medication)",
+    "Electrolyte",
+    "Superposition principle",
+    "Electrode",
+    "Ion",
+    "Diffusion",
+    "Dual (grammatical number)",
+    "Materials science",
+    "Chemistry",
+    "Thermodynamics",
+    "Physics",
+    "Physical chemistry",
+    "Art",
+    "Medicine",
+    "Quantum mechanics",
+    "Organic chemistry",
+    "Endocrinology",
+    "Literature"
+  ],
+  "citation_count": 2098,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1149/1.2054684/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2169518199.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:15.424612+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2169518199",
+    "concepts": [
+      "Lithium (medication)",
+      "Electrolyte",
+      "Superposition principle",
+      "Electrode",
+      "Ion"
+    ],
+    "oa_status": "bronze"
+  }
+}

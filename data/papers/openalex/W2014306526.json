@@ -1,0 +1,43 @@
+{
+  "id": "openalex:W2014306526",
+  "title": "Experimental Test of Bell's Inequalities Using Time- Varying Analyzers",
+  "abstract": "Correlations of linear polarizations of pairs of photons have been measured with time-varying analyzers. The analyzer in each leg of the apparatus is an acousto-optical switch followed by two linear polarizers. The switches operate at incommensurate frequencies near 50 MHz. Each analyzer amounts to a polarizer which jumps between two orientations in a time short compared with the photon transit time. The results are in good agreement with quantum mechanical predictions but violate Bell's inequalities by 5 standard deviations.",
+  "authors": [
+    "Alain Aspect",
+    "Jean Dalibard",
+    "Gérard Roger"
+  ],
+  "year": 1982,
+  "doi": "10.1103/physrevlett.49.1804",
+  "source": "openalex",
+  "categories": [
+    "Polarizer",
+    "Spectrum analyzer",
+    "Physics",
+    "Photon",
+    "Optics",
+    "Polarization (electrochemistry)",
+    "Transit time",
+    "Birefringence",
+    "Chemistry",
+    "Physical chemistry",
+    "Engineering",
+    "Transport engineering"
+  ],
+  "citation_count": 4086,
+  "open_access_pdf_url": "http://link.aps.org/pdf/10.1103/PhysRevLett.49.1804",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2014306526.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:54.043239+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2014306526",
+    "concepts": [
+      "Polarizer",
+      "Spectrum analyzer",
+      "Physics",
+      "Photon",
+      "Optics"
+    ],
+    "oa_status": "bronze"
+  }
+}

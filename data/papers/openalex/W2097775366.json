@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2097775366",
+  "title": "OPM: Orientations of Proteins in Membranes database",
+  "abstract": "SUMMARY: The Orientations of Proteins in Membranes (OPM) database provides a collection of transmembrane, monotopic and peripheral proteins from the Protein Data Bank whose spatial arrangements in the lipid bilayer have been calculated theoretically and compared with experimental data. The database allows analysis, sorting and searching of membrane proteins based on their structural classification, species, destination membrane, numbers of transmembrane segments and subunits, numbers of secondary structures and the calculated hydrophobic thickness or tilt angle with respect to the bilayer normal. All coordinate files with the calculated membrane boundaries are available for downloading. AVAILABILITY: http://opm.phar.umich.edu.",
+  "authors": [
+    "Mikhail A. Lomize",
+    "Andrei L. Lomize",
+    "Irina D. Pogozheva",
+    "Henry I. Mosberg"
+  ],
+  "year": 2006,
+  "doi": "10.1093/bioinformatics/btk023",
+  "source": "openalex",
+  "categories": [
+    "Membrane protein",
+    "Transmembrane protein",
+    "Membrane",
+    "Lipid bilayer",
+    "Peripheral membrane protein",
+    "Bilayer",
+    "Computer science",
+    "Sorting",
+    "Chemistry",
+    "Integral membrane protein",
+    "Database",
+    "Bioinformatics",
+    "Biophysics",
+    "Biology",
+    "Biochemistry",
+    "Algorithm",
+    "Receptor"
+  ],
+  "citation_count": 1180,
+  "open_access_pdf_url": "https://academic.oup.com/bioinformatics/article-pdf/22/5/623/48838380/bioinformatics_22_5_623.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2097775366.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:12.065840+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2097775366",
+    "concepts": [
+      "Membrane protein",
+      "Transmembrane protein",
+      "Membrane",
+      "Lipid bilayer",
+      "Peripheral membrane protein"
+    ],
+    "oa_status": "bronze"
+  }
+}

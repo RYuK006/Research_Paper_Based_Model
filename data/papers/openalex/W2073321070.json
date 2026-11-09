@@ -1,0 +1,57 @@
+{
+  "id": "openalex:W2073321070",
+  "title": "High-Performance Single Layered WSe 2 p-FETs with Chemically Doped Contacts",
+  "abstract": "We report high performance p-type field-effect transistors based on single layered (thickness, ∼0.7 nm) WSe(2) as the active channel with chemically doped source/drain contacts and high-κ gate dielectrics. The top-gated monolayer transistors exhibit a high effective hole mobility of ∼250 cm(2)/(V s), perfect subthreshold swing of ∼60 mV/dec, and I(ON)/I(OFF) of >10(6) at room temperature. Special attention is given to lowering the contact resistance for hole injection by using high work function Pd contacts along with degenerate surface doping of the contacts by patterned NO(2) chemisorption on WSe(2). The results here present a promising material system and device architecture for p-type monolayer transistors with excellent characteristics.",
+  "authors": [
+    "Hui Fang",
+    "Steven Chuang",
+    "Ting Chia Chang",
+    "Kuniharu Takei",
+    "Toshitake Takahashi",
+    "Ali Javey"
+  ],
+  "year": 2012,
+  "doi": "10.1021/nl301702r",
+  "source": "openalex",
+  "categories": [
+    "Monolayer",
+    "Doping",
+    "Contact resistance",
+    "Materials science",
+    "Transistor",
+    "Field-effect transistor",
+    "Optoelectronics",
+    "Tungsten diselenide",
+    "Dielectric",
+    "Electron mobility",
+    "Chemisorption",
+    "Work function",
+    "Nanotechnology",
+    "Layer (electronics)",
+    "Electrical engineering",
+    "Chemistry",
+    "Transition metal",
+    "Adsorption",
+    "Voltage",
+    "Organic chemistry",
+    "Biochemistry",
+    "Catalysis",
+    "Engineering"
+  ],
+  "citation_count": 1894,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1206.4776",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2073321070.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:22.163714+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2073321070",
+    "concepts": [
+      "Monolayer",
+      "Doping",
+      "Contact resistance",
+      "Materials science",
+      "Transistor"
+    ],
+    "oa_status": "green"
+  }
+}

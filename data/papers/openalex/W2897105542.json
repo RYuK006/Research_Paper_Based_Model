@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2897105542",
+  "title": "Subword Regularization: Improving Neural Network Translation Models with Multiple Subword Candidates",
+  "abstract": "Subword units are an effective way to alleviate the open vocabulary problems in neural machine translation (NMT).While sentences are usually converted into unique subword sequences, subword segmentation is potentially ambiguous and multiple segmentations are possible even with the same vocabulary.The question addressed in this paper is whether it is possible to harness the segmentation ambiguity as a noise to improve the robustness of NMT.We present a simple regularization method, subword regularization, which trains the model with multiple subword segmentations probabilistically sampled during training.In addition, for better subword sampling, we propose a new subword segmentation algorithm based on a unigram language model.We experiment with multiple corpora and report consistent improvements especially on low resource and out-of-domain settings.",
+  "authors": [
+    "Taku Kudo"
+  ],
+  "year": 2018,
+  "doi": "10.18653/v1/p18-1007",
+  "source": "openalex",
+  "categories": [
+    "Computer science",
+    "Machine translation",
+    "Artificial intelligence",
+    "Ambiguity",
+    "Segmentation",
+    "Regularization (linguistics)",
+    "Robustness (evolution)",
+    "Vocabulary",
+    "Deep neural networks",
+    "Natural language processing",
+    "Artificial neural network",
+    "Speech recognition",
+    "Machine learning",
+    "Philosophy",
+    "Linguistics",
+    "Biochemistry",
+    "Chemistry",
+    "Programming language",
+    "Gene"
+  ],
+  "citation_count": 1277,
+  "open_access_pdf_url": "https://www.aclweb.org/anthology/P18-1007.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2897105542.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:00.495963+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2897105542",
+    "concepts": [
+      "Computer science",
+      "Machine translation",
+      "Artificial intelligence",
+      "Ambiguity",
+      "Segmentation"
+    ],
+    "oa_status": "hybrid"
+  }
+}

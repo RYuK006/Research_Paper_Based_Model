@@ -1,0 +1,58 @@
+{
+  "id": "openalex:W2123767496",
+  "title": "Bacterial Volatiles Induce Systemic Resistance in Arabidopsis",
+  "abstract": "Plant growth-promoting rhizobacteria, in association with plant roots, can trigger induced systemic resistance (ISR). Considering that low-molecular weight volatile hormone analogues such as methyl jasmonate and methyl salicylate can trigger defense responses in plants, we examined whether volatile organic compounds (VOCs) associated with rhizobacteria can initiate ISR. In Arabidopsis seedlings exposed to bacterial volatile blends from Bacillus subtilis GB03 and Bacillus amyloliquefaciens IN937a, disease severity by the bacterial pathogen Erwinia carotovora subsp. carotovora was significantly reduced compared with seedlings not exposed to bacterial volatiles before pathogen inoculation. Exposure to VOCs from rhizobacteria for as little as 4 d was sufficient to activate ISR in Arabidopsis seedlings. Chemical analysis of the bacterial volatile emissions revealed the release of a series of low-molecular weight hydrocarbons including the growth promoting VOC (2R,3R)-(-)-butanediol. Exogenous application of racemic mixture of (RR) and (SS) isomers of 2,3-butanediol was found to trigger ISR and transgenic lines of B. subtilis that emitted reduced levels of 2,3-butanediol and acetoin conferred reduced Arabidopsis protection to pathogen infection compared with seedlings exposed to VOCs from wild-type bacterial lines. Using transgenic and mutant lines of Arabidopsis, we provide evidence that the signaling pathway activated by volatiles from GB03 is dependent on ethylene, albeit independent of the salicylic acid or jasmonic acid signaling pathways. This study provides new insight into the role of bacteria VOCs as initiators of defense responses in plants.",
+  "authors": [
+    "Choong‐Min Ryu",
+    "Mohamed Ali Farag",
+    "Chia‐Hui Hu",
+    "Munagala S. Reddy",
+    "Joseph W. Kloepper",
+    "Paul W. Paré"
+  ],
+  "year": 2004,
+  "doi": "10.1104/pp.103.026583",
+  "source": "openalex",
+  "categories": [
+    "Rhizobacteria",
+    "Arabidopsis",
+    "Jasmonic acid",
+    "Bacillus subtilis",
+    "Pseudomonas syringae",
+    "Jasmonate",
+    "Salicylic acid",
+    "Biology",
+    "Methyl jasmonate",
+    "Acetoin",
+    "Plant defense against herbivory",
+    "Methyl salicylate",
+    "Arabidopsis thaliana",
+    "Microbiology",
+    "Pathogen",
+    "Bacteria",
+    "Chemistry",
+    "Botany",
+    "Mutant",
+    "Biochemistry",
+    "Rhizosphere",
+    "Fermentation",
+    "Gene",
+    "Genetics"
+  ],
+  "citation_count": 1337,
+  "open_access_pdf_url": "https://academic.oup.com/plphys/article-pdf/134/3/1017/38702042/plphys_v134_3_1017.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2123767496.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:55.296545+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2123767496",
+    "concepts": [
+      "Rhizobacteria",
+      "Arabidopsis",
+      "Jasmonic acid",
+      "Bacillus subtilis",
+      "Pseudomonas syringae"
+    ],
+    "oa_status": "bronze"
+  }
+}

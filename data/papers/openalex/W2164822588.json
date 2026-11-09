@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2164822588",
+  "title": "Efficient and reliable schemes for nonlinear diffusion filtering",
+  "abstract": "Nonlinear diffusion filtering in image processing is usually performed with explicit schemes. They are only stable for very small time steps, which leads to poor efficiency and limits their practical use. Based on a discrete nonlinear diffusion scale-space framework we present semi-implicit schemes which are stable for all time steps. These novel schemes use an additive operator splitting (AOS), which guarantees equal treatment of all coordinate axes. They can be implemented easily in arbitrary dimensions, have good rotational invariance and reveal a computational complexity and memory requirement which is linear in the number of pixels. Examples demonstrate that, under typical accuracy requirements, AOS schemes are at least ten times more efficient than the widely used explicit schemes.",
+  "authors": [
+    "Joachim Weickert",
+    "Bart M. ter Haar Romeny",
+    "Max A. Viergever"
+  ],
+  "year": 1998,
+  "doi": "10.1109/83.661190",
+  "source": "openalex",
+  "categories": [
+    "Nonlinear system",
+    "Pixel",
+    "Algorithm",
+    "Diffusion",
+    "Image processing",
+    "Computer science",
+    "Operator (biology)",
+    "Computational complexity theory",
+    "Mathematics",
+    "Image (mathematics)",
+    "Artificial intelligence",
+    "Thermodynamics",
+    "Repressor",
+    "Chemistry",
+    "Biochemistry",
+    "Physics",
+    "Quantum mechanics",
+    "Gene",
+    "Transcription factor"
+  ],
+  "citation_count": 1138,
+  "open_access_pdf_url": "https://research.tue.nl/en/publications/3dd90c48-4f60-4e6e-9d4b-ab85a5d2d787",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2164822588.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:16.945427+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2164822588",
+    "concepts": [
+      "Nonlinear system",
+      "Pixel",
+      "Algorithm",
+      "Diffusion",
+      "Image processing"
+    ],
+    "oa_status": "green"
+  }
+}

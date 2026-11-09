@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W2168686241",
+  "title": "Classification of Bulk Metallic Glasses by Atomic Size Difference, Heat of Mixing and Period of Constituent Elements and Its Application to Characterization of the Main Alloying Element",
+  "abstract": "Bulk metallic glasses (BMGs) have been classified according to the atomic size difference, heat of mixing (ÁH mix ) and period of the constituent elements in the periodic table.The BMGs discovered to date are classified into seven groups on the basis of a previous result by Inoue.The seven groups are as follows:Ln-LTM/BM and (G-VII) IIA-LTM/BM, where ETM, Ln, LTM, BM and IIA refer to early transition, lanthanide, late transition, group IIIB-IVB and group IIA-group metals, respectively.The main alloying element of ternary G-I, G-V and G-VII, ternary G-II and G-IV, and ternary G-VI BMGs is the largest, intermediate and smallest atomic radius compared to the other alloying elements, respectively.The main alloying element of ternary BMGs belonging to G-I, G-V, G-VI and G-VII is an element in the atomic pair with the largest and negative value of ÁH mix (ÁH mix L.N. ), while the main element of ternary BMGs belonging to G-II and G-IV is independent of the atomic pair with ÁH mix L.N. .The characteristics of the main element derived for the ternary BMGs are directly applicable to multicomponent BMGs belonging to G-I, G-II, G-IV (Mg-based BMGs), G-V and G-VII.The main element can be the larger-sized element in the atomic pair with ÁH mix L.N.or in the same group as the other elements for multicomponent BMGs belonging to G-III, G-IV (Be-containing Zr-based BMG) and G-VI.The main element of BMGs belonging to G-VI tends to change from the element with the smallest atomic radius in a ternary system to an element with a relatively large atomic size in a multicomponent system.The change is due to an increase in glass-forming ability through multicomponent alloying of BMGs belonging to G-VI.The results of the classification of BMGs obtained in the present study are important for further development of BMGs, with the results providing a road map for the development of new BMG compositions.",
+  "authors": [
+    "Akira Takeuchi",
+    "Akihisa Inoue"
+  ],
+  "year": 2005,
+  "doi": "10.2320/matertrans.46.2817",
+  "source": "openalex",
+  "categories": [
+    "Ternary operation",
+    "Atomic radius",
+    "Metalloid",
+    "Lanthanide",
+    "Materials science",
+    "Main group element",
+    "Atomic number",
+    "Group (periodic table)",
+    "Transition metal",
+    "Mixing (physics)",
+    "Metallurgy",
+    "Amorphous metal",
+    "Periodic table",
+    "Crystallography",
+    "Metal",
+    "Analytical Chemistry (journal)",
+    "Alloy",
+    "Chemistry",
+    "Organic chemistry",
+    "Atomic physics",
+    "Physics",
+    "Computer science",
+    "Catalysis",
+    "Quantum mechanics",
+    "Ion",
+    "Programming language"
+  ],
+  "citation_count": 4929,
+  "open_access_pdf_url": "https://www.jstage.jst.go.jp/article/matertrans/46/12/46_12_2817/_pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2168686241.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:52.278707+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2168686241",
+    "concepts": [
+      "Ternary operation",
+      "Atomic radius",
+      "Metalloid",
+      "Lanthanide",
+      "Materials science"
+    ],
+    "oa_status": "bronze"
+  }
+}

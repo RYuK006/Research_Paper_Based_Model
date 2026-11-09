@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W2114220158",
+  "title": "Cellulose crystallinity index: measurement techniques and their impact on interpreting cellulase performance",
+  "abstract": "Although measurements of crystallinity index (CI) have a long history, it has been found that CI varies significantly depending on the choice of measurement method. In this study, four different techniques incorporating X-ray diffraction and solid-state 13C nuclear magnetic resonance (NMR) were compared using eight different cellulose preparations. We found that the simplest method, which is also the most widely used, and which involves measurement of just two heights in the X-ray diffractogram, produced significantly higher crystallinity values than did the other methods. Data in the literature for the cellulose preparation used (Avicel PH-101) support this observation. We believe that the alternative X-ray diffraction (XRD) and NMR methods presented here, which consider the contributions from amorphous and crystalline cellulose to the entire XRD and NMR spectra, provide a more accurate measure of the crystallinity of cellulose. Although celluloses having a high amorphous content are usually more easily digested by enzymes, it is unclear, based on studies published in the literature, whether CI actually provides a clear indication of the digestibility of a cellulose sample. Cellulose accessibility should be affected by crystallinity, but is also likely to be affected by several other parameters, such as lignin/hemicellulose contents and distribution, porosity, and particle size. Given the methodological dependency of cellulose CI values and the complex nature of cellulase interactions with amorphous and crystalline celluloses, we caution against trying to correlate relatively small changes in CI with changes in cellulose digestibility. In addition, the prediction of cellulase performance based on low levels of cellulose conversion may not include sufficient digestion of the crystalline component to be meaningful.",
+  "authors": [
+    "Sunkyu Park",
+    "John O. Baker",
+    "Michael E. Himmel",
+    "Philip A. Parilla",
+    "David K. Johnson"
+  ],
+  "year": 2010,
+  "doi": "10.1186/1754-6834-3-10",
+  "source": "openalex",
+  "categories": [
+    "Crystallinity",
+    "Cellulose",
+    "Cellulase",
+    "Amorphous solid",
+    "Hemicellulose",
+    "Lignin",
+    "Materials science",
+    "Chemical engineering",
+    "Chemistry",
+    "Crystallography",
+    "Organic chemistry",
+    "Composite material",
+    "Engineering"
+  ],
+  "citation_count": 3520,
+  "open_access_pdf_url": "https://biotechnologyforbiofuels.biomedcentral.com/counter/pdf/10.1186/1754-6834-3-10",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2114220158.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:57.699218+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2114220158",
+    "concepts": [
+      "Crystallinity",
+      "Cellulose",
+      "Cellulase",
+      "Amorphous solid",
+      "Hemicellulose"
+    ],
+    "oa_status": "gold"
+  }
+}

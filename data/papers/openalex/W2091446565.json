@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2091446565",
+  "title": "Thermal Annealing Effects on P-Type Mg-Doped GaN Films",
+  "abstract": "Low-resistivity p-type GaN films were obtained by N 2 -ambient thermal annealing at temperatures above 700°C for the first time. Before thermal annealing, the resistivity of Mg-doped GaN films was approximately 1×10 6 Ω·cm. After thermal annealing at temperatures above 700°C, the resistivity, hole carrier concentration and hole mobility became 2 Ω·cm, 3×10 17 /cm 3 and 10 cm 2 /V·s, respectively. In photoluminescence measurements, the intensity of 750-nm deep-level emissions (DL emissions) sharply decreased upon thermal annealing at temperatures above 700°C, as did the change in resistivity, and 450-nm blue emissions showed maximum intensity at approximately 700°C of thermal annealing.",
+  "authors": [
+    "Shuji Nakamura",
+    "Takashi Mukai",
+    "Masayuki Senoh",
+    "Naruhito Iwasa"
+  ],
+  "year": 1992,
+  "doi": "10.1143/jjap.31.l139",
+  "source": "openalex",
+  "categories": [
+    "Annealing (glass)",
+    "Electrical resistivity and conductivity",
+    "Materials science",
+    "Photoluminescence",
+    "Doping",
+    "Analytical Chemistry (journal)",
+    "Thermal",
+    "Silicon",
+    "Mineralogy",
+    "Optoelectronics",
+    "Metallurgy",
+    "Chemistry",
+    "Electrical engineering",
+    "Physics",
+    "Environmental chemistry",
+    "Meteorology",
+    "Engineering"
+  ],
+  "citation_count": 1174,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1143/JJAP.31.L139/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2091446565.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:12.154553+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2091446565",
+    "concepts": [
+      "Annealing (glass)",
+      "Electrical resistivity and conductivity",
+      "Materials science",
+      "Photoluminescence",
+      "Doping"
+    ],
+    "oa_status": "bronze"
+  }
+}

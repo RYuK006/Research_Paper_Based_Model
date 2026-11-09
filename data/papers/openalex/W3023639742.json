@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W3023639742",
+  "title": "A simple method to assess and report thematic saturation in qualitative research",
+  "abstract": "Data saturation is the most commonly employed concept for estimating sample sizes in qualitative research. Over the past 20 years, scholars using both empirical research and mathematical/statistical models have made significant contributions to the question: How many qualitative interviews are enough? This body of work has advanced the evidence base for sample size estimation in qualitative inquiry during the design phase of a study, prior to data collection, but it does not provide qualitative researchers with a simple and reliable way to determine the adequacy of sample sizes during and/or after data collection. Using the principle of saturation as a foundation, we describe and validate a simple-to-apply method for assessing and reporting on saturation in the context of inductive thematic analyses. Following a review of the empirical research on data saturation and sample size estimation in qualitative research, we propose an alternative way to evaluate saturation that overcomes the shortcomings and challenges associated with existing methods identified in our review. Our approach includes three primary elements in its calculation and assessment: Base Size, Run Length, and New Information Threshold. We additionally propose a more flexible approach to reporting saturation. To validate our method, we use a bootstrapping technique on three existing thematically coded qualitative datasets generated from in-depth interviews. Results from this analysis indicate the method we propose to assess and report on saturation is feasible and congruent with findings from earlier studies.",
+  "authors": [
+    "Greg Guest",
+    "Emily Namey",
+    "Mario Chen"
+  ],
+  "year": 2020,
+  "doi": "10.1371/journal.pone.0232076",
+  "source": "openalex",
+  "categories": [
+    "Qualitative research",
+    "Computer science",
+    "Sample size determination",
+    "Data collection",
+    "Saturation (graph theory)",
+    "Data science",
+    "Sample (material)",
+    "Context (archaeology)",
+    "Qualitative property",
+    "Data mining",
+    "Management science",
+    "Statistics",
+    "Machine learning",
+    "Mathematics",
+    "Engineering",
+    "Sociology",
+    "Biology",
+    "Paleontology",
+    "Chromatography",
+    "Combinatorics",
+    "Social science",
+    "Chemistry"
+  ],
+  "citation_count": 4029,
+  "open_access_pdf_url": "https://doi.org/10.1371/journal.pone.0232076",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3023639742.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:54.056560+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3023639742",
+    "concepts": [
+      "Qualitative research",
+      "Computer science",
+      "Sample size determination",
+      "Data collection",
+      "Saturation (graph theory)"
+    ],
+    "oa_status": "gold"
+  }
+}

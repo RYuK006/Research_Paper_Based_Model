@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W1969448926",
+  "title": "Stability and Band Gap Constancy of Boron Nitride Nanotubes",
+  "abstract": "Extensive LDA and quasi-particle calculations have been performed on boron nitride (BN) single-wall and multi-wall nanotubes. Strain energies are found to be smaller for BN nanotubes than for carbon nanotubes of the same radius, owing to a buckling effect which stabilizes the BN tubular structure. For tubes larger than 9.5 Å in diameter, the lowest conduction band is predicted to be free-electron-like with electronic charge density localized inside the tube. For these tubes, this band is at constant energy above the top of the valence band. Consequently, contrarily to carbon nanotubes, single- and multi-wall BN nanotubes are constant-band-gap materials, independent of their radius and helicity. In addition, we expect them to exhibit remarkable properties under n -type doping.",
+  "authors": [
+    "Xavier Blase",
+    "Ángel Rubio",
+    "Steven G. Louie",
+    "Marvin L. Cohen"
+  ],
+  "year": 1994,
+  "doi": "10.1209/0295-5075/28/5/007",
+  "source": "openalex",
+  "categories": [
+    "Materials science",
+    "Boron nitride",
+    "Carbon nanotube",
+    "Band gap",
+    "Mechanical properties of carbon nanotubes",
+    "Ballistic conduction in single-walled carbon nanotubes",
+    "Condensed matter physics",
+    "Doping",
+    "Optical properties of carbon nanotubes",
+    "RADIUS",
+    "Carbon nanobud",
+    "Molecular physics",
+    "Nanotechnology",
+    "Nanotube",
+    "Optoelectronics",
+    "Chemistry",
+    "Computer security",
+    "Computer science",
+    "Physics"
+  ],
+  "citation_count": 1528,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1209/0295-5075/28/5/007/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1969448926.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:45.425223+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1969448926",
+    "concepts": [
+      "Materials science",
+      "Boron nitride",
+      "Carbon nanotube",
+      "Band gap",
+      "Mechanical properties of carbon nanotubes"
+    ],
+    "oa_status": "bronze"
+  }
+}

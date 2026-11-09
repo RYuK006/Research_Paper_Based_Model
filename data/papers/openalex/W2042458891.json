@@ -1,0 +1,45 @@
+{
+  "id": "openalex:W2042458891",
+  "title": "Specific Aquaporins Facilitate the Diffusion of Hydrogen Peroxide across Membranes",
+  "abstract": "The metabolism of aerobic organisms continuously produces reactive oxygen species. Although potentially toxic, these compounds also function in signaling. One important feature of signaling compounds is their ability to move between different compartments, e.g. to cross membranes. Here we present evidence that aquaporins can channel hydrogen peroxide (H2O2). Twenty-four aquaporins from plants and mammals were screened in five yeast strains differing in sensitivity toward oxidative stress. Expression of human AQP8 and plant Arabidopsis TIP1;1 and TIP1;2 in yeast decreased growth and survival in the presence of H2O2. Further evidence for aquaporin-mediated H2O2 diffusion was obtained by a fluorescence assay with intact yeast cells using an intracellular reactive oxygen species-sensitive fluorescent dye. Application of silver ions (Ag+), which block aquaporin-mediated water diffusion in a fast kinetics swelling assay, also reversed both the aquaporin-dependent growth repression and the H2O2-induced fluorescence. Our results present the first molecular genetic evidence for the diffusion of H2O2 through specific members of the aquaporin family.",
+  "authors": [
+    "Gerd Patrick Bienert",
+    "Anders L.B. Møller",
+    "Kim A. Kristiansen",
+    "Alexander Schulz",
+    "Ian Max Møller",
+    "Jan Kofod Schjoerring",
+    "Thomas P. Jahn"
+  ],
+  "year": 2006,
+  "doi": "10.1074/jbc.m603761200",
+  "source": "openalex",
+  "categories": [
+    "Aquaporin",
+    "Reactive oxygen species",
+    "Hydrogen peroxide",
+    "Membrane",
+    "Chemistry",
+    "Yeast",
+    "Intracellular",
+    "Biophysics",
+    "Biochemistry",
+    "Biology"
+  ],
+  "citation_count": 1353,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925820735477/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2042458891.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:55.154059+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2042458891",
+    "concepts": [
+      "Aquaporin",
+      "Reactive oxygen species",
+      "Hydrogen peroxide",
+      "Membrane",
+      "Chemistry"
+    ],
+    "oa_status": "hybrid"
+  }
+}

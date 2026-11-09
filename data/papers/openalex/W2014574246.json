@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W2014574246",
+  "title": "Calculating free energies using average force",
+  "abstract": "A new, general formula that connects the derivatives of the free energy along the selected, generalized coordinates of the system with the instantaneous force acting on these coordinates is derived. The instantaneous force is defined as the force acting on the coordinate of interest so that when it is subtracted from the equations of motion the acceleration along this coordinate is zero. The formula applies to simulations in which the selected coordinates are either unconstrained or constrained to fixed values. It is shown that in the latter case the formula reduces to the expression previously derived by den Otter and Briels [Mol. Phys. 98, 773 (2000)]. If simulations are carried out without constraining the coordinates of interest, the formula leads to a new method for calculating the free energy changes along these coordinates. This method is tested in two examples — rotation around the C–C bond of 1,2-dichloroethane immersed in water and transfer of fluoromethane across the water-hexane interface. The calculated free energies are compared with those obtained by two commonly used methods. One of them relies on determining the probability density function of finding the system at different values of the selected coordinate and the other requires calculating the average force at discrete locations along this coordinate in a series of constrained simulations. The free energies calculated by these three methods are in excellent agreement. The relative advantages of each method are discussed.",
+  "authors": [
+    "Eric Darve",
+    "Andrew Pohorille"
+  ],
+  "year": 2001,
+  "doi": "10.1063/1.1410978",
+  "source": "openalex",
+  "categories": [
+    "Curvilinear coordinates",
+    "Coordinate system",
+    "Reaction coordinate",
+    "Elliptic coordinate system",
+    "Rotation (mathematics)",
+    "Potential energy",
+    "Function (biology)",
+    "Physics",
+    "Mathematical analysis",
+    "Classical mechanics",
+    "Chemistry",
+    "Computational chemistry",
+    "Mathematics",
+    "Geometry",
+    "Quantum mechanics",
+    "Evolutionary biology",
+    "Biology"
+  ],
+  "citation_count": 1117,
+  "open_access_pdf_url": "https://ntrs.nasa.gov/api/citations/20010090348/downloads/20010090348.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2014574246.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:19.513614+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2014574246",
+    "concepts": [
+      "Curvilinear coordinates",
+      "Coordinate system",
+      "Reaction coordinate",
+      "Elliptic coordinate system",
+      "Rotation (mathematics)"
+    ],
+    "oa_status": "green"
+  }
+}

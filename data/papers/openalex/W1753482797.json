@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W1753482797",
+  "title": "Recurrent Continuous Translation Models",
+  "abstract": "We introduce a class of probabilistic continuous translation models called Recurrent Continuous Translation Models that are purely based on continuous representations for words, phrases and sentences and do not rely on alignments or phrasal translation units.The models have a generation and a conditioning aspect.The generation of the translation is modelled with a target Recurrent Language Model, whereas the conditioning on the source sentence is modelled with a Convolutional Sentence Model.Through various experiments, we show first that our models obtain a perplexity with respect to gold translations that is > 43% lower than that of stateof-the-art alignment-based translation models.Secondly, we show that they are remarkably sensitive to the word order, syntax, and meaning of the source sentence despite lacking alignments.Finally we show that they match a state-of-the-art system when rescoring n-best lists of translations.",
+  "authors": [
+    "Nal Kalchbrenner",
+    "Phil Blunsom"
+  ],
+  "year": 2013,
+  "doi": "10.18653/v1/d13-1176",
+  "source": "openalex",
+  "categories": [
+    "Perplexity",
+    "Computer science",
+    "Sentence",
+    "Translation (biology)",
+    "Natural language processing",
+    "Artificial intelligence",
+    "Syntax",
+    "Transfer-based machine translation",
+    "Language model",
+    "Probabilistic logic",
+    "Word (group theory)",
+    "Machine translation",
+    "Example-based machine translation",
+    "Linguistics",
+    "Biochemistry",
+    "Gene",
+    "Philosophy",
+    "Messenger RNA",
+    "Chemistry"
+  ],
+  "citation_count": 1289,
+  "open_access_pdf_url": "https://aclanthology.org/D13-1176.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1753482797.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:00.373208+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1753482797",
+    "concepts": [
+      "Perplexity",
+      "Computer science",
+      "Sentence",
+      "Translation (biology)",
+      "Natural language processing"
+    ],
+    "oa_status": "hybrid"
+  }
+}

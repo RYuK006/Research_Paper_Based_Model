@@ -1,0 +1,45 @@
+{
+  "id": "openalex:W2033770904",
+  "title": "Chimera States for Coupled Oscillators",
+  "abstract": "Arrays of identical oscillators can display a remarkable spatiotemporal pattern in which phase-locked oscillators coexist with drifting ones. Discovered two years ago, such \"chimera states\" are believed to be impossible for locally or globally coupled systems; they are peculiar to the intermediate case of nonlocal coupling. Here we present an exact solution for this state, for a ring of phase oscillators coupled by a cosine kernel. We show that the stable chimera state bifurcates from a spatially modulated drift state, and dies in a saddle-node bifurcation with an unstable chimera state.",
+  "authors": [
+    "Daniel M. Abrams",
+    "Steven H. Strogatz"
+  ],
+  "year": 2004,
+  "doi": "10.1103/physrevlett.93.174102",
+  "source": "openalex",
+  "categories": [
+    "Chimera (genetics)",
+    "Physics",
+    "Bifurcation",
+    "Saddle",
+    "Trigonometric functions",
+    "Classical mechanics",
+    "Statistical physics",
+    "Quantum mechanics",
+    "Mathematics",
+    "Geometry",
+    "Nonlinear system",
+    "Biochemistry",
+    "Mathematical optimization",
+    "Gene",
+    "Chemistry"
+  ],
+  "citation_count": 1488,
+  "open_access_pdf_url": "https://arxiv.org/pdf/nlin/0407045",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2033770904.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:48.116166+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2033770904",
+    "concepts": [
+      "Chimera (genetics)",
+      "Physics",
+      "Bifurcation",
+      "Saddle",
+      "Trigonometric functions"
+    ],
+    "oa_status": "green"
+  }
+}

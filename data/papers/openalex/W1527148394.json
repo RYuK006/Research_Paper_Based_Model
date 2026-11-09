@@ -1,0 +1,58 @@
+{
+  "id": "openalex:W1527148394",
+  "title": "The NAS Parallel Benchmarks",
+  "abstract": "A new set of benchmarks has been developed for the performance evaluation of highly parallel supercom puters. These consist of five \"parallel kernel\" bench marks and three \"simulated application\" benchmarks. Together they mimic the computation and data move ment characteristics of large-scale computational fluid dynamics applications. The principal distinguishing feature of these benchmarks is their \"pencil and paper\" specification—all details of these benchmarks are specified only algorithmically. In this way many of the difficulties associated with conventional bench- marking approaches on highly parallel systems are avoided.",
+  "authors": [
+    "David H. Bailey",
+    "E. Barszcz",
+    "J.T. Barton",
+    "D.S. Browning",
+    "R.L. Carter",
+    "L. Dagum",
+    "R.A. Fatoohi",
+    "P.O. Frederickson",
+    "Thomas A. Lasinski",
+    "Robert Schreiber",
+    "H.D. Simon",
+    "V. Venkatakrishnan",
+    "S.K. Weeratunga"
+  ],
+  "year": 1991,
+  "doi": "10.2172/983318",
+  "source": "openalex",
+  "categories": [
+    "Computer science",
+    "Fortran",
+    "Implementation",
+    "Benchmark (surveying)",
+    "Set (abstract data type)",
+    "Parallel computing",
+    "Complement (music)",
+    "Programming language",
+    "Software",
+    "Operating system",
+    "Biochemistry",
+    "Phenotype",
+    "Geodesy",
+    "Complementation",
+    "Gene",
+    "Geography",
+    "Chemistry"
+  ],
+  "citation_count": 2477,
+  "open_access_pdf_url": "https://digital.library.unt.edu/ark:/67531/metadc1013095/",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1527148394.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:04.436714+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1527148394",
+    "concepts": [
+      "Computer science",
+      "Fortran",
+      "Implementation",
+      "Benchmark (surveying)",
+      "Set (abstract data type)"
+    ],
+    "oa_status": "green"
+  }
+}

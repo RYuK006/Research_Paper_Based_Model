@@ -1,0 +1,59 @@
+{
+  "id": "openalex:W2020306845",
+  "title": "Liquid Phase Production of Graphene by Exfoliation of Graphite in Surfactant/Water Solutions",
+  "abstract": "We have demonstrated a method to disperse and exfoliate graphite to give graphene suspended in water-surfactant solutions. Optical characterization of these suspensions allowed the partial optimization of the dispersion process. Transmission electron microscopy showed the dispersed phase to consist of small graphitic flakes. More than 40% of these flakes had <5 layers with approximately 3% of flakes consisting of monolayers. Atomic resolution transmission electron microscopy shows the monolayers to be generally free of defects. The dispersed graphitic flakes are stabilized against reaggregation by Coulomb repulsion due to the adsorbed surfactant. We use DLVO and Hamaker theory to describe this stabilization. However, the larger flakes tend to sediment out over approximately 6 weeks, leaving only small flakes dispersed. It is possible to form thin films by vacuum filtration of these dispersions. Raman and IR spectroscopic analysis of these films suggests the flakes to be largely free of defects and oxides, although X-ray photoelectron spectroscopy shows evidence of a small oxide population. Individual graphene flakes can be deposited onto mica by spray coating, allowing statistical analysis of flake size and thickness. Vacuum filtered films are reasonably conductive and are semitransparent. Further improvements may result in the development of cheap transparent conductors.",
+  "authors": [
+    "Mustafa Lotya",
+    "Yenny Hernández",
+    "Paul J. King",
+    "Ronan J. Smith",
+    "Valeria Nicolosi",
+    "Lisa Karlsson",
+    "Fiona M. Blighe",
+    "Sukanta De",
+    "Zhiming Wang",
+    "I.T. McGovern",
+    "Georg Stefan Duesberg",
+    "Jonathan N. Coleman"
+  ],
+  "year": 2009,
+  "doi": "10.1021/ja807449u",
+  "source": "openalex",
+  "categories": [
+    "Graphene",
+    "Exfoliation joint",
+    "Graphite",
+    "Chemistry",
+    "Chemical engineering",
+    "Transmission electron microscopy",
+    "DLVO theory",
+    "Monolayer",
+    "Mica",
+    "Raman spectroscopy",
+    "Oxide",
+    "Nanotechnology",
+    "Materials science",
+    "Composite material",
+    "Organic chemistry",
+    "Colloid",
+    "Optics",
+    "Physics",
+    "Engineering"
+  ],
+  "citation_count": 2318,
+  "open_access_pdf_url": "https://arxiv.org/pdf/0809.2690",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2020306845.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:08.791880+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2020306845",
+    "concepts": [
+      "Graphene",
+      "Exfoliation joint",
+      "Graphite",
+      "Chemistry",
+      "Chemical engineering"
+    ],
+    "oa_status": "green"
+  }
+}

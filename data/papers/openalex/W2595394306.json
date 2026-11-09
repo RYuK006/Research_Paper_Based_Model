@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2595394306",
+  "title": "A rapid-screening approach to detect and quantify microplastics based on fluorescent tagging with Nile Red",
+  "abstract": "A new approach is presented for analysis of microplastics in environmental samples, based on selective fluorescent staining using Nile Red (NR), followed by density-based extraction and filtration. The dye adsorbs onto plastic surfaces and renders them fluorescent when irradiated with blue light. Fluorescence emission is detected using simple photography through an orange filter. Image-analysis allows fluorescent particles to be identified and counted. Magnified images can be recorded and tiled to cover the whole filter area, allowing particles down to a few micrometres to be detected. The solvatochromic nature of Nile Red also offers the possibility of plastic categorisation based on surface polarity characteristics of identified particles. This article details the development of this staining method and its initial cross-validation by comparison with infrared (IR) microscopy. Microplastics of different sizes could be detected and counted in marine sediment samples. The fluorescence staining identified the same particles as those found by scanning a filter area with IR-microscopy.",
+  "authors": [
+    "Thomas Maes",
+    "Rebecca Jessop",
+    "Nikolaus Wellner",
+    "Karsten Haupt",
+    "Andrew G. Mayes"
+  ],
+  "year": 2017,
+  "doi": "10.1038/srep44501",
+  "source": "openalex",
+  "categories": [
+    "Microplastics",
+    "Nile red",
+    "Fluorescence",
+    "Staining",
+    "Fluorescence microscope",
+    "Solvatochromism",
+    "Nile blue",
+    "Microscopy",
+    "Filter paper",
+    "Chemistry",
+    "Materials science",
+    "Chromatography",
+    "Optics",
+    "Biology",
+    "Environmental chemistry",
+    "Physics",
+    "Genetics"
+  ],
+  "citation_count": 1088,
+  "open_access_pdf_url": "https://www.nature.com/articles/srep44501.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2595394306.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:24.421776+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2595394306",
+    "concepts": [
+      "Microplastics",
+      "Nile red",
+      "Fluorescence",
+      "Staining",
+      "Fluorescence microscope"
+    ],
+    "oa_status": "gold"
+  }
+}

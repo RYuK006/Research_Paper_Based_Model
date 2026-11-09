@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2963756608",
+  "title": "PVNet: Pixel-Wise Voting Network for 6DoF Pose Estimation",
+  "abstract": "This paper addresses the challenge of 6DoF pose estimation from a single RGB image under severe occlusion or truncation. Many recent works have shown that a two-stage approach, which first detects keypoints and then solves a Perspective-n-Point (PnP) problem for pose estimation, achieves remarkable performance. However, most of these methods only localize a set of sparse keypoints by regressing their image coordinates or heatmaps, which are sensitive to occlusion and truncation. Instead, we introduce a Pixel-wise Voting Network (PVNet) to regress pixel-wise vectors pointing to the keypoints and use these vectors to vote for keypoint locations. This creates a flexible representation for localizing occluded or truncated keypoints. Another important feature of this representation is that it provides uncertainties of keypoint locations that can be further leveraged by the PnP solver. Experiments show that the proposed approach outperforms the state of the art on the LINEMOD, Occlusion LINEMOD and YCB-Video datasets by a large margin, while being efficient for real-time pose estimation. We further create a Truncation LINEMOD dataset to validate the robustness of our approach against truncation. The code is available at https://zju3dv.github.io/pvnet/.",
+  "authors": [
+    "Sida Peng",
+    "Yuan Liu",
+    "Qixing Huang",
+    "Xiaowei Zhou",
+    "Hujun Bao"
+  ],
+  "year": 2019,
+  "doi": "10.1109/cvpr.2019.00469",
+  "source": "openalex",
+  "categories": [
+    "Robustness (evolution)",
+    "Computer science",
+    "Artificial intelligence",
+    "Pose",
+    "Computer vision",
+    "Pixel",
+    "Voting",
+    "Pattern recognition (psychology)",
+    "Truncation (statistics)",
+    "RGB color model",
+    "Representation (politics)",
+    "Margin (machine learning)",
+    "Machine learning",
+    "Biochemistry",
+    "Law",
+    "Political science",
+    "Gene",
+    "Chemistry",
+    "Politics"
+  ],
+  "citation_count": 1094,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1812.11788",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2963756608.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:24.321211+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2963756608",
+    "concepts": [
+      "Robustness (evolution)",
+      "Computer science",
+      "Artificial intelligence",
+      "Pose",
+      "Computer vision"
+    ],
+    "oa_status": "green"
+  }
+}

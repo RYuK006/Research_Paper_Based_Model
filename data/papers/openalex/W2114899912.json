@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W2114899912",
+  "title": "Principles of protein folding — A perspective from simple exact models",
+  "abstract": "General principles of protein structure, stability, and folding kinetics have recently been explored in computer simulations of simple exact lattice models. These models represent protein chains at a rudimentary level, but they involve few parameters, approximations, or implicit biases, and they allow complete explorations of conformational and sequence spaces. Such simulations have resulted in testable predictions that are sometimes unanticipated: The folding code is mainly binary and delocalized throughout the amino acid sequence. The secondary and tertiary structures of a protein are specified mainly by the sequence of polar and nonpolar monomers. More specific interactions may refine the structure, rather than dominate the folding code. Simple exact models can account for the properties that characterize protein folding: two-state cooperativity, secondary and tertiary structures, and multistage folding kinetics--fast hydrophobic collapse followed by slower annealing. These studies suggest the possibility of creating \"foldable\" chain molecules other than proteins. The encoding of a unique compact chain conformation may not require amino acids; it may require only the ability to synthesize specific monomer sequences in which at least one monomer type is solvent-averse.",
+  "authors": [
+    "Ken A. Dill",
+    "Sarina Bromberg",
+    "Kaizhi Yue",
+    "Hue Sun Chan",
+    "Klaus M. Fiebig",
+    "David P. Yee",
+    "Paul D. Thomas"
+  ],
+  "year": 1995,
+  "doi": "10.1002/pro.5560040401",
+  "source": "openalex",
+  "categories": [
+    "Protein folding",
+    "Cooperativity",
+    "Sequence (biology)",
+    "Lattice protein",
+    "Folding (DSP implementation)",
+    "Monomer",
+    "Chemistry",
+    "Protein secondary structure",
+    "Protein structure",
+    "Contact order",
+    "Simple (philosophy)",
+    "Native state",
+    "Crystallography",
+    "Chemical physics",
+    "Polymer",
+    "Engineering",
+    "Philosophy",
+    "Biochemistry",
+    "Epistemology",
+    "Organic chemistry",
+    "Electrical engineering"
+  ],
+  "citation_count": 1525,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/pro.5560040401",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2114899912.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:45.454764+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2114899912",
+    "concepts": [
+      "Protein folding",
+      "Cooperativity",
+      "Sequence (biology)",
+      "Lattice protein",
+      "Folding (DSP implementation)"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "openalex:W2150391637",
+  "title": "Nanomaterials for biosensing applications: a review",
+  "abstract": "A biosensor device is defined by its biological, or bioinspired receptor unit with unique specificities toward corresponding analytes. These analytes are often of biological origin like DNAs of bacteria or viruses, or proteins which are generated from the immune system (antibodies, antigens) of infected or contaminated living organisms. Such analytes can also be simple molecules like glucose or pollutants when a biological receptor unit with particular specificity is available. One of many other challenges in biosensor development is the efficient signal capture of the biological recognition event (transduction). Such transducers translate the interaction of the analyte with the biological element into electrochemical, electrochemiluminescent, magnetic, gravimetric, or optical signals. In order to increase sensitivities and to lower detection limits down to even individual molecules, nanomaterials are promising candidates due to the possibility to immobilize an enhanced quantity of bioreceptor units at reduced volumes and even to act itself as transduction element. Among such nanomaterials, gold nanoparticles, semi-conductor quantum dots, polymer nanoparticles, carbon nanotubes, nanodiamonds, and graphene are intensively studied. Due to the vast evolution of this research field, this review summarizes in a non-exhaustive way the advantages of nanomaterials by focusing on nano-objects which provide further beneficial properties than \"just\" an enhanced surface area.",
+  "authors": [
+    "Michael Holzinger",
+    "Alan Le Goff",
+    "Serge Cosnier"
+  ],
+  "year": 2014,
+  "doi": "10.3389/fchem.2014.00063",
+  "source": "openalex",
+  "categories": [
+    "Nanomaterials",
+    "Biosensor",
+    "Nanotechnology",
+    "Analyte",
+    "Graphene",
+    "Materials science",
+    "Nanodiamond",
+    "Carbon nanotube",
+    "Transduction (biophysics)",
+    "Chemistry",
+    "Diamond",
+    "Composite material",
+    "Biochemistry",
+    "Physical chemistry"
+  ],
+  "citation_count": 1112,
+  "open_access_pdf_url": "https://www.frontiersin.org/articles/10.3389/fchem.2014.00063/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2150391637.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:19.591743+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2150391637",
+    "concepts": [
+      "Nanomaterials",
+      "Biosensor",
+      "Nanotechnology",
+      "Analyte",
+      "Graphene"
+    ],
+    "oa_status": "gold"
+  }
+}

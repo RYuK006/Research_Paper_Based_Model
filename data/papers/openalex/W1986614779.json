@@ -1,0 +1,62 @@
+{
+  "id": "openalex:W1986614779",
+  "title": "String method for the study of rare events",
+  "abstract": "We present an efficient method for computing the transition pathways, free energy barriers, and transition rates in complex systems with relatively smooth energy landscapes. The method proceeds by evolving strings, i.e., smooth curves with intrinsic parametrization whose dynamics takes them to the most probable transition path between two metastable regions in configuration space. Free energy barriers and transition rates can then be determined by a standard umbrella sampling around the string. Applications to Lennard-Jones cluster rearrangement and thermally induced switching of a magnetic film are presented.",
+  "authors": [
+    "E Weinan",
+    "Weiqing Ren",
+    "Eric Vanden‐Eijnden"
+  ],
+  "year": 2002,
+  "doi": "10.1103/physrevb.66.052301",
+  "source": "openalex",
+  "categories": [
+    "String (physics)",
+    "Metastability",
+    "Statistical physics",
+    "Rare events",
+    "Path (computing)",
+    "Parametrization (atmospheric modeling)",
+    "Umbrella sampling",
+    "Energy (signal processing)",
+    "Cluster (spacecraft)",
+    "Space (punctuation)",
+    "Energy landscape",
+    "Transition (genetics)",
+    "Transition state",
+    "Physics",
+    "Free space",
+    "Molecular dynamics",
+    "Theoretical physics",
+    "Chemical physics",
+    "Computer science",
+    "Chemistry",
+    "Mathematics",
+    "Quantum mechanics",
+    "Thermodynamics",
+    "Statistics",
+    "Radiative transfer",
+    "Biochemistry",
+    "Optics",
+    "Gene",
+    "Programming language",
+    "Catalysis",
+    "Operating system"
+  ],
+  "citation_count": 1335,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0205527",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1986614779.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:55.313799+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1986614779",
+    "concepts": [
+      "String (physics)",
+      "Metastability",
+      "Statistical physics",
+      "Rare events",
+      "Path (computing)"
+    ],
+    "oa_status": "green"
+  }
+}

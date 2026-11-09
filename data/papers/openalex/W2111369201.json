@@ -1,0 +1,40 @@
+{
+  "id": "openalex:W2111369201",
+  "title": "ISORROPIA II: a computationally efficient thermodynamic equilibrium model for K + –Ca 2+ –Mg 2+ –NH 4 + –Na + –SO 4 2− –NO 3 − –Cl − –H 2 O aerosols",
+  "abstract": "Abstract. This study presents ISORROPIA II, a thermodynamic equilibrium model for the K+–Ca2+–Mg2+–NH4+–Na+–SO42−–NO3−–Cl−–H2O aerosol system. A comprehensive evaluation of its performance is conducted against the thermodynamic module SCAPE2 over a wide range of atmospherically relevant conditions. The two models overall agree well, to within 13% for aerosol water content and total PM mass, 16% for aerosol nitrate and 6% for aerosol chloride and ammonium. Largest discrepancies were found under conditions of low RH, primarily from differences in the treatment of water uptake and solid state composition. In terms of computational speed, ISORROPIA II was always found to be more than an order of magnitude faster than SCAPE2, with robust and rapid convergence under all conditions. The addition of crustal species does not slow down the thermodynamic calculations (compared to the older ISORROPIA code) because of optimizations in the activity coefficient calculation algorithm. Based on its computational rigor and performance, ISORROPIA II appears to be a highly attractive alternative for use in large scale air quality and atmospheric transport models.",
+  "authors": [
+    "C. Fountoukis",
+    "Athanasios Nenes"
+  ],
+  "year": 2007,
+  "doi": "10.5194/acp-7-4639-2007",
+  "source": "openalex",
+  "categories": [
+    "Aerosol",
+    "Chemistry",
+    "Thermodynamic equilibrium",
+    "Ammonium",
+    "Thermodynamics",
+    "Nitrate",
+    "Analytical Chemistry (journal)",
+    "Physics",
+    "Environmental chemistry",
+    "Organic chemistry"
+  ],
+  "citation_count": 1908,
+  "open_access_pdf_url": "https://acp.copernicus.org/articles/7/4639/2007/acp-7-4639-2007.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2111369201.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:17.944591+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2111369201",
+    "concepts": [
+      "Aerosol",
+      "Chemistry",
+      "Thermodynamic equilibrium",
+      "Ammonium",
+      "Thermodynamics"
+    ],
+    "oa_status": "gold"
+  }
+}

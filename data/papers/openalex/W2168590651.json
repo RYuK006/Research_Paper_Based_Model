@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2168590651",
+  "title": "Highly sensitive feature detection for high resolution LC/MS",
+  "abstract": "BACKGROUND: Liquid chromatography coupled to mass spectrometry (LC/MS) is an important analytical technology for e.g. metabolomics experiments. Determining the boundaries, centres and intensities of the two-dimensional signals in the LC/MS raw data is called feature detection. For the subsequent analysis of complex samples such as plant extracts, which may contain hundreds of compounds, corresponding to thousands of features -- a reliable feature detection is mandatory. RESULTS: We developed a new feature detection algorithm centWave for high-resolution LC/MS data sets, which collects regions of interest (partial mass traces) in the raw-data, and applies continuous wavelet transformation and optionally Gauss-fitting in the chromatographic domain. We evaluated our feature detection algorithm on dilution series and mixtures of seed and leaf extracts, and estimated recall, precision and F-score of seed and leaf specific features in two experiments of different complexity. CONCLUSION: The new feature detection algorithm meets the requirements of current metabolomics experiments. centWave can detect close-by and partially overlapping features and has the highest overall recall and precision values compared to the other algorithms, matchedFilter (the original algorithm of XCMS) and the centroidPicker from MZmine. The centWave algorithm was integrated into the Bioconductor R-package XCMS and is available from (http://www.bioconductor.org/).",
+  "authors": [
+    "Ralf Tautenhahn",
+    "Christoph Böttcher",
+    "Steffen Neumann"
+  ],
+  "year": 2008,
+  "doi": "10.1186/1471-2105-9-504",
+  "source": "openalex",
+  "categories": [
+    "Bioconductor",
+    "Feature (linguistics)",
+    "Transformation (genetics)",
+    "Pattern recognition (psychology)",
+    "Mass spectrometry",
+    "Computer science",
+    "Precision and recall",
+    "Metabolomics",
+    "Artificial intelligence",
+    "Data mining",
+    "Algorithm",
+    "Chromatography",
+    "Biology",
+    "Chemistry",
+    "Genetics",
+    "Philosophy",
+    "Linguistics",
+    "Gene"
+  ],
+  "citation_count": 1217,
+  "open_access_pdf_url": "https://bmcbioinformatics.biomedcentral.com/counter/pdf/10.1186/1471-2105-9-504",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2168590651.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:04.665252+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2168590651",
+    "concepts": [
+      "Bioconductor",
+      "Feature (linguistics)",
+      "Transformation (genetics)",
+      "Pattern recognition (psychology)",
+      "Mass spectrometry"
+    ],
+    "oa_status": "gold"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W3108493784",
+  "title": "Ferroptosis: molecular mechanisms and health implications",
+  "abstract": "Cell death can be executed through different subroutines. Since the description of ferroptosis as an iron-dependent form of non-apoptotic cell death in 2012, there has been mounting interest in the process and function of ferroptosis. Ferroptosis can occur through two major pathways, the extrinsic or transporter-dependent pathway and the intrinsic or enzyme-regulated pathway. Ferroptosis is caused by a redox imbalance between the production of oxidants and antioxidants, which is driven by the abnormal expression and activity of multiple redox-active enzymes that produce or detoxify free radicals and lipid oxidation products. Accordingly, ferroptosis is precisely regulated at multiple levels, including epigenetic, transcriptional, posttranscriptional and posttranslational layers. The transcription factor NFE2L2 plays a central role in upregulating anti-ferroptotic defense, whereas selective autophagy may promote ferroptotic death. Here, we review current knowledge on the integrated molecular machinery of ferroptosis and describe how dysregulated ferroptosis is involved in cancer, neurodegeneration, tissue injury, inflammation, and infection.",
+  "authors": [
+    "Daolin Tang",
+    "Xin Chen",
+    "Rui Kang",
+    "Guido Kroemer"
+  ],
+  "year": 2020,
+  "doi": "10.1038/s41422-020-00441-1",
+  "source": "openalex",
+  "categories": [
+    "Neurodegeneration",
+    "Programmed cell death",
+    "Autophagy",
+    "Cell biology",
+    "Epigenetics",
+    "Transcription factor",
+    "Biology",
+    "Apoptosis",
+    "Signal transduction",
+    "GPX4",
+    "Chemistry",
+    "Enzyme",
+    "Biochemistry",
+    "Gene",
+    "Medicine",
+    "Glutathione",
+    "Glutathione peroxidase",
+    "Pathology",
+    "Disease"
+  ],
+  "citation_count": 4408,
+  "open_access_pdf_url": "https://www.nature.com/articles/s41422-020-00441-1.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3108493784.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:53.970517+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3108493784",
+    "concepts": [
+      "Neurodegeneration",
+      "Programmed cell death",
+      "Autophagy",
+      "Cell biology",
+      "Epigenetics"
+    ],
+    "oa_status": "hybrid"
+  }
+}

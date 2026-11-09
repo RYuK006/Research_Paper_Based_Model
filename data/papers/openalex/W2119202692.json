@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2119202692",
+  "title": "Sample selection bias and presence‐only distribution models: implications for background and pseudo‐absence data",
+  "abstract": "Most methods for modeling species distributions from occurrence records require additional data representing the range of environmental conditions in the modeled region. These data, called background or pseudo-absence data, are usually drawn at random from the entire region, whereas occurrence collection is often spatially biased toward easily accessed areas. Since the spatial bias generally results in environmental bias, the difference between occurrence collection and background sampling may lead to inaccurate models. To correct the estimation, we propose choosing background data with the same bias as occurrence data. We investigate theoretical and practical implications of this approach. Accurate information about spatial bias is usually lacking, so explicit biased sampling of background sites may not be possible. However, it is likely that an entire target group of species observed by similar methods will share similar bias. We therefore explore the use of all occurrences within a target group as biased background data. We compare model performance using target-group background and randomly sampled background on a comprehensive collection of data for 226 species from diverse regions of the world. We find that target-group background improves average performance for all the modeling methods we consider, with the choice of background data having as large an effect on predictive performance as the choice of modeling method. The performance improvement due to target-group background is greatest when there is strong bias in the target-group presence records. Our approach applies to regression-based modeling methods that have been adapted for use with occurrence data, such as generalized linear or additive models and boosted regression trees, and to Maxent, a probability density estimation method. We argue that increased awareness of the implications of spatial bias in surveys, and possible modeling remedies, will substantially improve predictions of species distributions.",
+  "authors": [
+    "Steven J. Phillips",
+    "Miroslav Dudı́k",
+    "Jane Elith",
+    "Catherine Helen Graham",
+    "Anthony Lehmann",
+    "John R. Leathwick",
+    "Simon Ferrier"
+  ],
+  "year": 2009,
+  "doi": "10.1890/07-2153.1",
+  "source": "openalex",
+  "categories": [
+    "Sampling bias",
+    "Selection bias",
+    "Statistics",
+    "Sampling (signal processing)",
+    "Sample size determination",
+    "Sample (material)",
+    "Computer science",
+    "Range (aeronautics)",
+    "Data collection",
+    "Mathematics",
+    "Composite material",
+    "Materials science",
+    "Computer vision",
+    "Filter (signal processing)",
+    "Chromatography",
+    "Chemistry"
+  ],
+  "citation_count": 2988,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1890/07-2153.1",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2119202692.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:01.808710+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2119202692",
+    "concepts": [
+      "Sampling bias",
+      "Selection bias",
+      "Statistics",
+      "Sampling (signal processing)",
+      "Sample size determination"
+    ],
+    "oa_status": "bronze"
+  }
+}

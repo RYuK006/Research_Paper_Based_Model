@@ -1,0 +1,45 @@
+{
+  "id": "openalex:W2021089599",
+  "title": "A Compositional Approach to Performance Modelling",
+  "abstract": "This is the first book presenting a stochastic extension of process algebra, PEPA; this is shown to be suitable for specifying a Markov process, which can then be applied to performance modelling. The method, which is illustrated with case studies taken from the area of communication systems, can readily be used to construct a variety of models that can be analysed using standard numerical techniques. One of the major advantages of PEPA over the standard methods for specifying stochastic performance models is the inherent apparatus for reasoning about the structure and behaviour of models. In the later chapters this apparatus is exploited to define four equivalence relations over PEPA components. Each of these notions of equivalence has intrinsic interest from a process algebra perspective. However, they are also demonstrated to be useful in a performance modelling context. To conclude the book, a section has been added surveying recent results in the area and discussing open questions.",
+  "authors": [
+    "Jane Elizabeth Hillston"
+  ],
+  "year": 1996,
+  "doi": "10.1017/cbo9780511569951",
+  "source": "openalex",
+  "categories": [
+    "Isomorphism (crystallography)",
+    "Equivalence (formal languages)",
+    "Bibliography",
+    "Queue",
+    "Process calculus",
+    "Algebra over a field",
+    "Index (typography)",
+    "Computer science",
+    "Mathematics",
+    "Pure mathematics",
+    "Theoretical computer science",
+    "Programming language",
+    "Library science",
+    "Chemistry",
+    "Crystallography",
+    "Crystal structure"
+  ],
+  "citation_count": 1304,
+  "open_access_pdf_url": "https://era.ed.ac.uk/bitstream/1842/15027/1/Hillston1994.Pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2021089599.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:57.800208+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2021089599",
+    "concepts": [
+      "Isomorphism (crystallography)",
+      "Equivalence (formal languages)",
+      "Bibliography",
+      "Queue",
+      "Process calculus"
+    ],
+    "oa_status": "green"
+  }
+}

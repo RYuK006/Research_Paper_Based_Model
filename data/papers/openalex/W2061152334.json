@@ -1,0 +1,41 @@
+{
+  "id": "openalex:W2061152334",
+  "title": "Oxidants as Stimulators of Signal Transduction",
+  "abstract": "Redox (oxidation-reduction) reactions regulate signal transduction. Oxidants such as superoxide, hydrogen peroxide, hydroxyl radicals, and lipid hydroperoxides (i.e., reactive oxygen species) are now realized as signaling molecules under subtoxic conditions. Nitric oxide is also an example of a redox mediator. Reactive oxygen species induce various biological processes such as gene expression by stimulating signal transduction components such as Ca(2+)-signaling and protein phosphorylation. Various oxidants increase cytosolic Ca2+; however, the exact origin of Ca2+ is controversial. Ca2+ may be released from the endoplasmic reticulum, extracellular space, or mitochondria in response to oxidant-influence on Ca2+ pumps, channels, and transporters. Alternatively, oxidants may release Ca2+ from Ca2+ binding proteins. Various oxidants stimulate tyrosine as well as serine/threonine phosphorylation, and direct stimulation of protein kinases and inhibition of protein phosphatases by oxidants have been proposed as mechanisms. The oxidant-stimulation of the effector molecules such as phospholipase A2 as well as the activation of oxidative stress-responsive transcription factors may also depend on the oxidant-mediated activation of Ca(2+)-signaling and/or protein phosphorylation. In addition to the stimulation of signal transduction by oxidants, the observations that ligand-receptor interactions produce reactive oxygen species and that antioxidants block receptor-mediated signal transduction led to a proposal that reactive oxygen species may be second messengers for transcription factor activation, apoptosis, bone resorption, cell growth, and chemotaxis. Physiological significance of the role of biological oxidants in the regulation of signal transduction as well as the mechanisms of the oxidant-stimulation of signal transduction are discussed.",
+  "authors": [
+    "Yuichiro Justin Suzuki",
+    "Henry Jay Forman",
+    "Alex Sevanian"
+  ],
+  "year": 1997,
+  "doi": "10.1016/s0891-5849(96)00275-4",
+  "source": "openalex",
+  "categories": [
+    "Signal transduction",
+    "Cell biology",
+    "Chemistry",
+    "Tyrosine phosphorylation",
+    "Second messenger system",
+    "Biochemistry",
+    "Reactive oxygen species",
+    "Phosphorylation",
+    "Cell signaling",
+    "Biology"
+  ],
+  "citation_count": 1370,
+  "open_access_pdf_url": "https://www.sciencedirect.com/science/article/pii/S0891584996002754/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2061152334.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:52.753398+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2061152334",
+    "concepts": [
+      "Signal transduction",
+      "Cell biology",
+      "Chemistry",
+      "Tyrosine phosphorylation",
+      "Second messenger system"
+    ],
+    "oa_status": "hybrid"
+  }
+}

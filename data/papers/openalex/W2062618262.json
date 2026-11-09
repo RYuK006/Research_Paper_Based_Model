@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W2062618262",
+  "title": "Power spectral analysis of heart rate and arterial pressure variabilities as a marker of sympatho-vagal interaction in man and conscious dog.",
+  "abstract": "In 57 normal subjects (age 20-60 years), we analyzed the spontaneous beat-to-beat oscillation in R-R interval during control recumbent position, 90 degrees upright tilt, controlled respiration (n = 16) and acute (n = 10) and chronic (n = 12) beta-adrenergic receptor blockade. Automatic computer analysis provided the autoregressive power spectral density, as well as the number and relative power of the individual components. The power spectral density of R-R interval variability contained two major components in power, a high frequency at approximately 0.25 Hz and a low frequency at approximately 0.1 Hz, with a normalized low frequency:high frequency ratio of 3.6 +/- 0.7. With tilt, the low-frequency component became largely predominant (90 +/- 1%) with a low frequency:high frequency ratio of 21 +/- 4. Acute beta-adrenergic receptor blockade (0.2 mg/kg IV propranolol) increased variance at rest and markedly blunted the increase in low frequency and low frequency:high frequency ratio induced by tilt. Chronic beta-adrenergic receptor blockade (0.6 mg/kg p.o. propranolol, t.i.d.), in addition, reduced low frequency and increased high frequency at rest, while limiting the low frequency:high frequency ratio increase produced by tilt. Controlled respiration produced at rest a marked increase in the high-frequency component, with a reduction of the low-frequency component and of the low frequency:high frequency ratio (0.7 +/- 0.1); during tilt, the increase in the low frequency:high frequency ratio (8.3 +/- 1.6) was significantly smaller. In seven additional subjects in whom direct high-fidelity arterial pressure was recorded, simultaneous R-R interval and arterial pressure variabilities were examined at rest and during tilt. Also, the power spectral density of arterial pressure variability contained two major components, with a relative low frequency:high frequency ratio at rest of 2.8 +/- 0.7, which became 17 +/- 5 with tilt. These power spectral density components were numerically similar to those observed in R-R variability. Thus, invasive and noninvasive studies provided similar results. More direct information on the role of cardiac sympathetic nerves on R-R and arterial pressure variabilities was derived from a group of experiments in conscious dogs before and after bilateral stellectomy. Under control conditions, high frequency was predominant and low frequency was very small or absent, owing to a predominant vagal tone. During a 9% decrease in arterial pressure obtained with IV nitroglycerin, there was a marked increase in low frequency, as a result of reflex sympathetic activation.(ABSTRACT TRUNCATED AT 400 WORDS)",
+  "authors": [
+    "M. Pagani",
+    "Federico Lombardi",
+    "Stefano Guzzetti",
+    "Ornella E. Rimoldi",
+    "Raffaello Furlan",
+    "Paolo Pizzinelli",
+    "Giulia Sandrone",
+    "Gabriella Malfatto",
+    "Simonetta Dell’Orto",
+    "Emanuela Piccaluga"
+  ],
+  "year": 1986,
+  "doi": "10.1161/01.res.59.2.178",
+  "source": "openalex",
+  "categories": [
+    "Propranolol",
+    "Beat (acoustics)",
+    "Blockade",
+    "Internal medicine",
+    "Heart rate",
+    "Supine position",
+    "Respiration",
+    "Low frequency",
+    "Chemistry",
+    "Cardiology",
+    "Blood pressure",
+    "Endocrinology",
+    "Medicine",
+    "Physics",
+    "Receptor",
+    "Anatomy",
+    "Acoustics",
+    "Astronomy"
+  ],
+  "citation_count": 4154,
+  "open_access_pdf_url": "https://www.ahajournals.org/doi/pdf/10.1161/01.RES.59.2.178",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2062618262.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:54.024212+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2062618262",
+    "concepts": [
+      "Propranolol",
+      "Beat (acoustics)",
+      "Blockade",
+      "Internal medicine",
+      "Heart rate"
+    ],
+    "oa_status": "bronze"
+  }
+}

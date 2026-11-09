@@ -1,0 +1,37 @@
+{
+  "id": "openalex:W2095719702",
+  "title": "The MM/PBSA and MM/GBSA methods to estimate ligand-binding affinities",
+  "abstract": "INTRODUCTION: The molecular mechanics energies combined with the Poisson-Boltzmann or generalized Born and surface area continuum solvation (MM/PBSA and MM/GBSA) methods are popular approaches to estimate the free energy of the binding of small ligands to biological macromolecules. They are typically based on molecular dynamics simulations of the receptor-ligand complex and are therefore intermediate in both accuracy and computational effort between empirical scoring and strict alchemical perturbation methods. They have been applied to a large number of systems with varying success. AREAS COVERED: The authors review the use of MM/PBSA and MM/GBSA methods to calculate ligand-binding affinities, with an emphasis on calibration, testing and validation, as well as attempts to improve the methods, rather than on specific applications. EXPERT OPINION: MM/PBSA and MM/GBSA are attractive approaches owing to their modular nature and that they do not require calculations on a training set. They have been used successfully to reproduce and rationalize experimental findings and to improve the results of virtual screening and docking. However, they contain several crude and questionable approximations, for example, the lack of conformational entropy and information about the number and free energy of water molecules in the binding site. Moreover, there are many variants of the method and their performance varies strongly with the tested system. Likewise, most attempts to ameliorate the methods with more accurate approaches, for example, quantum-mechanical calculations, polarizable force fields or improved solvation have deteriorated the results.",
+  "authors": [
+    "Samuel Genheden",
+    "Ulf Ryde"
+  ],
+  "year": 2015,
+  "doi": "10.1517/17460441.2015.1032936",
+  "source": "openalex",
+  "categories": [
+    "Affinities",
+    "Binding affinities",
+    "Chemistry",
+    "Computational biology",
+    "Biology",
+    "Biochemistry",
+    "Receptor"
+  ],
+  "citation_count": 5769,
+  "open_access_pdf_url": "https://www.tandfonline.com/doi/pdf/10.1517/17460441.2015.1032936?needAccess=true&role=button",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2095719702.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:52.177847+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2095719702",
+    "concepts": [
+      "Affinities",
+      "Binding affinities",
+      "Chemistry",
+      "Computational biology",
+      "Biology"
+    ],
+    "oa_status": "hybrid"
+  }
+}

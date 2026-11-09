@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2154401636",
+  "title": "16S ribosomal DNA amplification for phylogenetic study",
+  "abstract": "A set of oligonucleotide primers capable of initiating enzymatic amplification (polymerase chain reaction) on a phylogenetically and taxonomically wide range of bacteria is described along with methods for their use and examples. One pair of primers is capable of amplifying nearly full-length 16S ribosomal DNA (rDNA) from many bacterial genera; the additional primers are useful for various exceptional sequences. Methods for purification of amplified material, direct sequencing, cloning, sequencing, and transcription are outlined. An obligate intracellular parasite of bovine erythrocytes, Anaplasma marginale, is used as an example; its 16S rDNA was amplified, cloned, sequenced, and phylogenetically placed. Anaplasmas are related to the genera Rickettsia and Ehrlichia. In addition, 16S rDNAs from several species were readily amplified from material found in lyophilized ampoules from the American Type Culture Collection. By use of this method, the phylogenetic study of extremely fastidious or highly pathogenic bacterial species can be carried out without the need to culture them. In theory, any gene segment for which polymerase chain reaction primer design is possible can be derived from a readily obtainable lyophilized bacterial culture.",
+  "authors": [
+    "William G. Weisburg",
+    "Susan M. Barns",
+    "Dale A. Pelletier",
+    "D J Lane"
+  ],
+  "year": 1991,
+  "doi": "10.1128/jb.173.2.697-703.1991",
+  "source": "openalex",
+  "categories": [
+    "Biology",
+    "Ribosomal DNA",
+    "16S ribosomal RNA",
+    "Polymerase chain reaction",
+    "Phylogenetic tree",
+    "Genetics",
+    "Primer (cosmetics)",
+    "Thermus aquaticus",
+    "Anaplasma",
+    "Ribosomal RNA",
+    "DNA",
+    "Molecular biology",
+    "Gene",
+    "Virology",
+    "Chemistry",
+    "Tick",
+    "Organic chemistry"
+  ],
+  "citation_count": 12112,
+  "open_access_pdf_url": "http://europepmc.org/pmc/articles/PMC207061",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2154401636.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:49.832883+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2154401636",
+    "concepts": [
+      "Biology",
+      "Ribosomal DNA",
+      "16S ribosomal RNA",
+      "Polymerase chain reaction",
+      "Phylogenetic tree"
+    ],
+    "oa_status": "green"
+  }
+}

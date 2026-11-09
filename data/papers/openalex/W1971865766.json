@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W1971865766",
+  "title": "A hydrazone-based covalent organic framework for photocatalytic hydrogen production",
+  "abstract": "Covalent organic frameworks (COFs) have recently emerged as a new generation of porous polymers combining molecular functionality with the robustness and structural definition of crystalline solids. Drawing on the recent development of tailor-made semiconducting COFs, we report here on a new COF capable of visible-light driven hydrogen generation in the presence of Pt as a proton reduction catalyst (PRC). The COF is based on hydrazone-linked functionalized triazine and phenyl building blocks and adopts a layered structure with a honeycomb-type lattice featuring mesopores of 3.8 nm and the highest surface area among all hydrazone-based COFs reported to date. When illuminated with visible light, the Pt-doped COF continuously produces hydrogen from water without signs of degradation. With their precise molecular organization and modular structure combined with high porosity, photoactive COFs represent well-defined model systems to study and adjust the molecular entities central to the photocatalytic process.",
+  "authors": [
+    "Linus Stegbauer",
+    "Katharina Schwinghammer",
+    "Bettina Valeska Lotsch"
+  ],
+  "year": 2014,
+  "doi": "10.1039/c4sc00016a",
+  "source": "openalex",
+  "categories": [
+    "Photocatalysis",
+    "Mesoporous material",
+    "Materials science",
+    "Hydrazone",
+    "Porosity",
+    "Covalent bond",
+    "Hydrogen production",
+    "Visible spectrum",
+    "Catalysis",
+    "Chemical engineering",
+    "Nanotechnology",
+    "Photochemistry",
+    "Chemistry",
+    "Organic chemistry",
+    "Composite material",
+    "Optoelectronics",
+    "Engineering"
+  ],
+  "citation_count": 1157,
+  "open_access_pdf_url": "https://pubs.rsc.org/en/content/articlepdf/2014/sc/c4sc00016a",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1971865766.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:14.505761+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1971865766",
+    "concepts": [
+      "Photocatalysis",
+      "Mesoporous material",
+      "Materials science",
+      "Hydrazone",
+      "Porosity"
+    ],
+    "oa_status": "hybrid"
+  }
+}

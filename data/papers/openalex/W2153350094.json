@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2153350094",
+  "title": "DNA Detection Using Recombination Proteins",
+  "abstract": "DNA amplification is essential to most nucleic acid testing strategies, but established techniques require sophisticated equipment or complex experimental procedures, and their uptake outside specialised laboratories has been limited. Our novel approach, recombinase polymerase amplification (RPA), couples isothermal recombinase-driven primer targeting of template material with strand-displacement DNA synthesis. It achieves exponential amplification with no need for pretreatment of sample DNA. Reactions are sensitive, specific, and rapid and operate at constant low temperature. We have also developed a probe-based detection system. Key aspects of the combined RPA amplification/detection process are illustrated by a test for the pathogen methicillin-resistant Staphylococcus aureus. The technology proves to be sensitive to fewer than ten copies of genomic DNA. Furthermore, products can be detected in a simple sandwich assay, thereby establishing an instrument-free DNA testing system. This unique combination of properties is a significant advance in the development of portable and widely accessible nucleic acid-based tests.",
+  "authors": [
+    "Olaf Piepenburg",
+    "Colin H Williams",
+    "Derek L. Stemple",
+    "Niall Armes"
+  ],
+  "year": 2006,
+  "doi": "10.1371/journal.pbio.0040204",
+  "source": "openalex",
+  "categories": [
+    "Recombinase Polymerase Amplification",
+    "Multiple displacement amplification",
+    "Biology",
+    "Recombinase",
+    "Nucleic acid",
+    "Loop-mediated isothermal amplification",
+    "DNA",
+    "Applications of PCR",
+    "Primer (cosmetics)",
+    "Computational biology",
+    "genomic DNA",
+    "Polymerase chain reaction",
+    "Molecular biology",
+    "Genetics",
+    "Digital polymerase chain reaction",
+    "Recombination",
+    "Gene",
+    "DNA extraction",
+    "Chemistry",
+    "Organic chemistry"
+  ],
+  "citation_count": 2551,
+  "open_access_pdf_url": "https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.0040204&type=printable",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2153350094.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:04.314993+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2153350094",
+    "concepts": [
+      "Recombinase Polymerase Amplification",
+      "Multiple displacement amplification",
+      "Biology",
+      "Recombinase",
+      "Nucleic acid"
+    ],
+    "oa_status": "gold"
+  }
+}

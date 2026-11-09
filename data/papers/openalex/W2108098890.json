@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2108098890",
+  "title": "Probing the Nature of Defects in Graphene by Raman Spectroscopy",
+  "abstract": "Raman spectroscopy is able to probe disorder in graphene through defect-activated peaks. It is of great interest to link these features to the nature of disorder. Here we present a detailed analysis of the Raman spectra of graphene containing different type of defects. We found that the intensity ratio of the D and D' peak is maximum (∼13) for sp(3)-defects, it decreases for vacancy-like defects (∼7), and it reaches a minimum for boundaries in graphite (∼3.5). This makes Raman Spectroscopy a powerful tool to fully characterize graphene.",
+  "authors": [
+    "Axel Eckmann",
+    "Alexandre Felten",
+    "Artem Mishchenko",
+    "L. Britnell",
+    "Ralph Krupke",
+    "Kostya S. Novoselov",
+    "Cinzia Casiraghi"
+  ],
+  "year": 2012,
+  "doi": "10.1021/nl300901a",
+  "source": "openalex",
+  "categories": [
+    "Raman spectroscopy",
+    "Graphene",
+    "Materials science",
+    "Vacancy defect",
+    "Graphite",
+    "Spectroscopy",
+    "Nanotechnology",
+    "Chemistry",
+    "Crystallography",
+    "Optics",
+    "Physics",
+    "Quantum mechanics",
+    "Composite material"
+  ],
+  "citation_count": 2347,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1207.2058",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2108098890.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:08.752073+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2108098890",
+    "concepts": [
+      "Raman spectroscopy",
+      "Graphene",
+      "Materials science",
+      "Vacancy defect",
+      "Graphite"
+    ],
+    "oa_status": "green"
+  }
+}

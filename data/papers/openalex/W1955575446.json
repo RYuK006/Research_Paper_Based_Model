@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W1955575446",
+  "title": "Sharp wave-associated high-frequency oscillation (200 Hz) in the intact hippocampus: network and intracellular mechanisms",
+  "abstract": "Sharp wave bursts, induced by a cooperative discharge of CA3 pyramidal cells, are the most synchronous physiological pattern in the hippocampus. In conjunction with sharp wave bursts, CA1 pyramidal cells display a high-frequency (200 Hz) network oscillation (ripple). In the present study extracellular field and unit activity was recorded simultaneously from 16 closely spaces sites in the awake rat and the intracellular activity of CA1 pyramidal cells during the network oscillation was studied under anesthesia. Current source density analysis of the high-frequency oscillation revealed circumscribed sinks and sources in the vicinity of the pyramidal layer. Single pyramidal cells discharged at a low frequency but were phase locked to the negative peak of the locally derived field oscillation. Approximately 10% of the simultaneously recorded pyramidal cells fired during a given oscillatory event. Putative interneurons increased their discharge rates during the field ripples severalfold and often maintained a 200 Hz frequency during the oscillatory event. Under urethane and ketamine anesthesia the frequency of ripples was slower (100-120 Hz) than in the awake rat (180-200 Hz). Halothane anesthesia prevented the occurrence of high-frequency field oscillations in the CA1 region. Both the amplitude (1-4 mV) and phase of the intracellular ripple, but not its frequency, were voltage dependent. The amplitude of intracellular ripple was smallest between -70 and -80 mV. The phase of intracellular oscillation relative to the extracellular ripple reversed when the membrane was hyperpolarized more than -80 mV. A histologically verified CA1 basket cell increased its firing rate during the network oscillation and discharged at the frequency of the extracellular ripple. These findings indicate that the intracellularly recorded fast oscillatory rhythm is not solely dependent on membrane currents intrinsic to the CA1 pyramidal cells but it is a network driven phenomenon dependent upon the participation of inhibitory interneurons. We hypothesize that fast field oscillation (200 Hz) in the CA1 region reflects summed IPSPs in pyramidal cells as a result of high-frequency barrage of interneurons. The sharp wave associated synchronous discharge of pyramidal cells in the millisecond range can exert a powerful influence on retrohippocampal targets and may facilitate the transfer of transiently stored memory traces from the hippocampus to the entorhinal cortex.",
+  "authors": [
+    "Aarne Ylinen",
+    "Anatol Bragin",
+    "Zoltán Nádasdy",
+    "Gábor Jandó",
+    "I Szabo",
+    "Attila Gabor SIK",
+    "György Buzsáki"
+  ],
+  "year": 1995,
+  "doi": "10.1523/jneurosci.15-01-00030.1995",
+  "source": "openalex",
+  "categories": [
+    "Oscillation (cell signaling)",
+    "Pyramidal cell",
+    "Ripple",
+    "Extracellular",
+    "Intracellular",
+    "Bursting",
+    "Amplitude",
+    "Chemistry",
+    "Hippocampus",
+    "Biophysics",
+    "Electrophysiology",
+    "Neuroscience",
+    "Physics",
+    "Biology",
+    "Voltage",
+    "Optics",
+    "Biochemistry",
+    "Quantum mechanics"
+  ],
+  "citation_count": 1108,
+  "open_access_pdf_url": "https://www.jneurosci.org/content/jneuro/15/1/30.full.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1955575446.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:19.632400+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1955575446",
+    "concepts": [
+      "Oscillation (cell signaling)",
+      "Pyramidal cell",
+      "Ripple",
+      "Extracellular",
+      "Intracellular"
+    ],
+    "oa_status": "hybrid"
+  }
+}

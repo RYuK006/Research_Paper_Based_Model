@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2036785860",
+  "title": "Fiber tracking: principles and strategies – a technical review",
+  "abstract": "The state of the art of reconstruction of the axonal tracts in the central nervous system (CNS) using diffusion tensor imaging (DTI) is reviewed. This relatively new technique has generated much enthusiasm and high expectations because it presently is the only approach available to non-invasively study the three-dimensional architecture of white matter tracts. While there is no doubt that DTI fiber tracking is providing exciting new opportunities to study CNS anatomy, it is very important to understand its limitations. In this review we therefore assess the basic principles and the assumptions that need to be made for each step of the study, including both data acquisition and the elaborate fiber reconstruction algorithms. Special attention is paid to situations where complications may arise, and possible solutions are reviewed. Validation issues and potential future directions and improvements are also discussed.",
+  "authors": [
+    "Susumu Mori",
+    "Peter C.M. van Zijl"
+  ],
+  "year": 2002,
+  "doi": "10.1002/nbm.781",
+  "source": "openalex",
+  "categories": [
+    "Diffusion MRI",
+    "Computer science",
+    "Neuroscience",
+    "Fiber",
+    "Tracking (education)",
+    "White matter",
+    "Data science",
+    "Fiber tract",
+    "Enthusiasm",
+    "Artificial intelligence",
+    "Cognitive science",
+    "Computer vision",
+    "Psychology",
+    "Medicine",
+    "Magnetic resonance imaging",
+    "Organic chemistry",
+    "Pedagogy",
+    "Chemistry",
+    "Radiology",
+    "Social psychology"
+  ],
+  "citation_count": 2063,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/nbm.781",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2036785860.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:15.528549+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2036785860",
+    "concepts": [
+      "Diffusion MRI",
+      "Computer science",
+      "Neuroscience",
+      "Fiber",
+      "Tracking (education)"
+    ],
+    "oa_status": "bronze"
+  }
+}

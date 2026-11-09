@@ -1,0 +1,60 @@
+{
+  "id": "openalex:W2033757486",
+  "title": "QSAR Modeling: Where Have You Been? Where Are You Going To?",
+  "abstract": "Quantitative structure-activity relationship modeling is one of the major computational tools employed in medicinal chemistry. However, throughout its entire history it has drawn both praise and criticism concerning its reliability, limitations, successes, and failures. In this paper, we discuss (i) the development and evolution of QSAR; (ii) the current trends, unsolved problems, and pressing challenges; and (iii) several novel and emerging applications of QSAR modeling. Throughout this discussion, we provide guidelines for QSAR development, validation, and application, which are summarized in best practices for building rigorously validated and externally predictive QSAR models. We hope that this Perspective will help communications between computational and experimental chemists toward collaborative development and use of QSAR models. We also believe that the guidelines presented here will help journal editors and reviewers apply more stringent scientific standards to manuscripts reporting new QSAR studies, as well as encourage the use of high quality, validated QSARs for regulatory decision making.",
+  "authors": [
+    "Artem R Cherkasov",
+    "Eugene N. Muratov",
+    "Denis Fourches",
+    "Alexandre A. Varnek",
+    "Igor I. Baskin",
+    "M Cronin",
+    "John C. Dearden",
+    "Paola Gramatica",
+    "Yvonne Connolly Martin",
+    "Roberto Todeschini",
+    "Viviana Consonni",
+    "V. Е. Kuz’min",
+    "RICHARD D. III CRAMER",
+    "Romualdo Benigni",
+    "Chihae Yang",
+    "James F. Rathman",
+    "Lothar Terfloth",
+    "Johann Gasteiger",
+    "Ann Richard",
+    "Alexander Tropsha"
+  ],
+  "year": 2013,
+  "doi": "10.1021/jm4004285",
+  "source": "openalex",
+  "categories": [
+    "Quantitative structure–activity relationship",
+    "Management science",
+    "Reliability (semiconductor)",
+    "Computer science",
+    "Chemistry",
+    "Biochemical engineering",
+    "Data science",
+    "Machine learning",
+    "Engineering",
+    "Quantum mechanics",
+    "Physics",
+    "Power (physics)"
+  ],
+  "citation_count": 2257,
+  "open_access_pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/4074254",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2033757486.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:08.866810+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2033757486",
+    "concepts": [
+      "Quantitative structure–activity relationship",
+      "Management science",
+      "Reliability (semiconductor)",
+      "Computer science",
+      "Chemistry"
+    ],
+    "oa_status": "green"
+  }
+}

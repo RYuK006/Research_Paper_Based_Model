@@ -1,0 +1,41 @@
+{
+  "id": "openalex:W1765185969",
+  "title": "ER stress and diseases",
+  "abstract": "Proteins synthesized in the endoplasmic reticulum (ER) are properly folded with the assistance of ER chaperones. Malfolded proteins are disposed of by ER-associated protein degradation (ERAD). When the amount of unfolded protein exceeds the folding capacity of the ER, human cells activate a defense mechanism called the ER stress response, which induces expression of ER chaperones and ERAD components and transiently attenuates protein synthesis to decrease the burden on the ER. It has been revealed that three independent response pathways separately regulate induction of the expression of chaperones, ERAD components, and translational attenuation. A malfunction of the ER stress response caused by aging, genetic mutations, or environmental factors can result in various diseases such as diabetes, inflammation, and neurodegenerative disorders including Alzheimer's disease, Parkinson's disease, and bipolar disorder, which are collectively known as 'conformational diseases'. In this review, I will summarize recent progress in this field. Molecules that regulate the ER stress response would be potential candidates for drug targets in various conformational diseases.",
+  "authors": [
+    "Hiderou Yoshida"
+  ],
+  "year": 2007,
+  "doi": "10.1111/j.1742-4658.2007.05639.x",
+  "source": "openalex",
+  "categories": [
+    "Endoplasmic-reticulum-associated protein degradation",
+    "Unfolded protein response",
+    "Endoplasmic reticulum",
+    "Protein folding",
+    "Chemical chaperone",
+    "Cell biology",
+    "Chaperone (clinical)",
+    "Protein aggregation",
+    "Biology",
+    "Chemistry",
+    "Medicine",
+    "Pathology"
+  ],
+  "citation_count": 1104,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1742-4658.2007.05639.x",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1765185969.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:19.664879+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1765185969",
+    "concepts": [
+      "Endoplasmic-reticulum-associated protein degradation",
+      "Unfolded protein response",
+      "Endoplasmic reticulum",
+      "Protein folding",
+      "Chemical chaperone"
+    ],
+    "oa_status": "bronze"
+  }
+}

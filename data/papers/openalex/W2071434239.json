@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W2071434239",
+  "title": "Pooled Mean Group Estimation of Dynamic Heterogeneous Panels",
+  "abstract": "It is now quite common to have panels in which both T, the number of time series observations, and N, the number of groups, are quite large and of the same order of magnitude. The usual practice is either to estimate N separate regressions and calculate the coefficient means, which we call the mean group (MG) estimator, or to pool the data and assume that the slope coefficients and error variances are identical. In this article we propose an intermediate procedure, the pooled mean group (PMG) estimator, which constrains long-run coefficients to be identical but allows short-run coefficients and error variances to differ across groups. We consider both the case where the regressors are stationary and the case where they follow unit root processes, and for both cases derive the asymptotic distribution of the PMG estimators as T tends to infinity. We also provide two empirical applications: Aggregate consumption functions for 24 Organization for Economic Cooperation and Development economies over the period 1962–1993, and energy demand functions for 10 Asian developing economies over the period 1974–1990.",
+  "authors": [
+    "M. Hashem Pesaran",
+    "Yongcheol Shin",
+    "Ron P Smith"
+  ],
+  "year": 1999,
+  "doi": "10.1080/01621459.1999.10474156",
+  "source": "openalex",
+  "categories": [
+    "Estimator",
+    "Mathematics",
+    "Unit root",
+    "Statistics",
+    "Econometrics",
+    "Weighted arithmetic mean",
+    "Series (stratigraphy)",
+    "Group (periodic table)",
+    "Estimation",
+    "Mean squared error",
+    "Economics",
+    "Paleontology",
+    "Organic chemistry",
+    "Biology",
+    "Chemistry",
+    "Management"
+  ],
+  "citation_count": 6944,
+  "open_access_pdf_url": "https://www.tandfonline.com/doi/abs/10.1080/01621459.1999.10474156",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2071434239.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:49.972503+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2071434239",
+    "concepts": [
+      "Estimator",
+      "Mathematics",
+      "Unit root",
+      "Statistics",
+      "Econometrics"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2012304502",
+  "title": "Graphane: A two-dimensional hydrocarbon",
+  "abstract": "We predict the stability of an extended two-dimensional hydrocarbon on the basis of first-principles total-energy calculations. The compound that we call graphane is a fully saturated hydrocarbon derived from a single graphene sheet with formula CH. All of the carbon atoms are in $s{p}^{3}$ hybridization forming a hexagonal network and the hydrogen atoms are bonded to carbon on both sides of the plane in an alternating manner. Graphane is predicted to be stable with a binding energy comparable to other hydrocarbons such as benzene, cyclohexane, and polyethylene. We discuss possible routes for synthesizing graphane and potential applications as a hydrogen storage material and in two-dimensional electronics.",
+  "authors": [
+    "Jorge O. Sofo",
+    "Ajay Chaudhari",
+    "Greg D. Barber"
+  ],
+  "year": 2007,
+  "doi": "10.1103/physrevb.75.153401",
+  "source": "openalex",
+  "categories": [
+    "Graphane",
+    "Graphene",
+    "Hydrocarbon",
+    "Cyclohexane",
+    "Hydrogen",
+    "Carbon fibers",
+    "Benzene",
+    "Materials science",
+    "Hydrogen storage",
+    "Binding energy",
+    "Chemical physics",
+    "Nanotechnology",
+    "Computational chemistry",
+    "Chemistry",
+    "Organic chemistry",
+    "Physics",
+    "Atomic physics",
+    "Composite material",
+    "Composite number"
+  ],
+  "citation_count": 1987,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0606704",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2012304502.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:17.745327+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2012304502",
+    "concepts": [
+      "Graphane",
+      "Graphene",
+      "Hydrocarbon",
+      "Cyclohexane",
+      "Hydrogen"
+    ],
+    "oa_status": "green"
+  }
+}

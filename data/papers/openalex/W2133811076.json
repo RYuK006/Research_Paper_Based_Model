@@ -1,0 +1,57 @@
+{
+  "id": "openalex:W2133811076",
+  "title": "Endocannabinoid activation at hepatic CB1 receptors stimulates fatty acid synthesis and contributes to diet-induced obesity",
+  "abstract": "Endogenous cannabinoids acting at CB(1) receptors stimulate appetite, and CB(1) antagonists show promise in the treatment of obesity. CB(1) (-/-) mice are resistant to diet-induced obesity even though their caloric intake is similar to that of wild-type mice, suggesting that endocannabinoids also regulate fat metabolism. Here, we investigated the possible role of endocannabinoids in the regulation of hepatic lipogenesis. Activation of CB(1) in mice increases the hepatic gene expression of the lipogenic transcription factor SREBP-1c and its targets acetyl-CoA carboxylase-1 and fatty acid synthase (FAS). Treatment with a CB(1) agonist also increases de novo fatty acid synthesis in the liver or in isolated hepatocytes, which express CB(1). High-fat diet increases hepatic levels of the endocannabinoid anandamide (arachidonoyl ethanolamide), CB(1) density, and basal rates of fatty acid synthesis, and the latter is reduced by CB(1) blockade. In the hypothalamus, where FAS inhibitors elicit anorexia, SREBP-1c and FAS expression are similarly affected by CB(1) ligands. We conclude that anandamide acting at hepatic CB(1) contributes to diet-induced obesity and that the FAS pathway may be a common molecular target for central appetitive and peripheral metabolic regulation.",
+  "authors": [
+    "Douglas Osei‐Hyiaman",
+    "Michael A. DePetrillo",
+    "Pál Pacher",
+    "Jie Liu",
+    "Svetlana Radaeva",
+    "Sándor Bátkai",
+    "Judith Dale Harvey-White",
+    "Ken Mackie",
+    "László Offertáler",
+    "Lei Wang",
+    "George Kunos"
+  ],
+  "year": 2005,
+  "doi": "10.1172/jci23057",
+  "source": "openalex",
+  "categories": [
+    "Endocannabinoid system",
+    "Internal medicine",
+    "Endocrinology",
+    "Fatty acid synthase",
+    "Lipogenesis",
+    "Anandamide",
+    "Cannabinoid receptor",
+    "Fatty acid synthesis",
+    "Biology",
+    "GPR120",
+    "Fatty acid",
+    "Chemistry",
+    "Receptor",
+    "Agonist",
+    "Lipid metabolism",
+    "Biochemistry",
+    "Medicine",
+    "G protein-coupled receptor"
+  ],
+  "citation_count": 1131,
+  "open_access_pdf_url": "http://www.jci.org/articles/view/23057/files/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2133811076.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:16.997180+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2133811076",
+    "concepts": [
+      "Endocannabinoid system",
+      "Internal medicine",
+      "Endocrinology",
+      "Fatty acid synthase",
+      "Lipogenesis"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "openalex:W1910335558",
+  "title": "Electrochemical Polarization",
+  "abstract": "At low overvoltage values, deviations from Tafel behavior for a noncorroding electrode are due primarily to the reverse reaction of the oxidation‐reduction system, and at high overvoltages to concentration and/or resistance polarization. It is shown further that the practice of placing straight lines through a few experimental points is extremely hazardous, while the indiscriminate introduction of \"breaks\" is contrary to the electrode kinetics described. Further complexities arising from a corroding electrode are described. In this instance, the forward and reverse reactions of both of the oxidation‐reduction systems forming the corrosion couple must be considered. This representation of the local polarization diagram of a corroding metal is more fundamental than that used previously in the literature, and thus provides a clearer picture of the various factors which affect the corrosion rate and the shape of polarization curves. A region of linear dependence of potential on applied current is described for a corroding electrode by treating it in a manner analogous to that for a noncorroding electrode. An equation is derived relating the slope of this linear region to the corrosion rate and Tafel slopes. This relation provides an important new experimental approach to the study of the electrochemistry of corroding metals since, in some instances, interfering reactions prevent determination of Tafel slopes at higher current densities.",
+  "authors": [
+    "M. Stern",
+    "A. L. Geaby"
+  ],
+  "year": 1957,
+  "doi": "10.1149/1.2428496",
+  "source": "openalex",
+  "categories": [
+    "Tafel equation",
+    "Polarization (electrochemistry)",
+    "Electrode",
+    "Electrochemistry",
+    "Overvoltage",
+    "Materials science",
+    "Analytical Chemistry (journal)",
+    "Corrosion",
+    "Chemistry",
+    "Voltage",
+    "Metallurgy",
+    "Electrical engineering",
+    "Physical chemistry",
+    "Engineering",
+    "Chromatography"
+  ],
+  "citation_count": 3933,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1149/1.2428496/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1910335558.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:54.077805+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1910335558",
+    "concepts": [
+      "Tafel equation",
+      "Polarization (electrochemistry)",
+      "Electrode",
+      "Electrochemistry",
+      "Overvoltage"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "openalex:W2122195656",
+  "title": "Valley-selective circular dichroism of monolayer molybdenum disulphide",
+  "abstract": "A two-dimensional honeycomb lattice harbours a pair of inequivalent valleys in the k-space electronic structure, in the vicinities of the vertices of a hexagonal Brillouin zone, K±. It is particularly appealing to exploit this emergent degree of freedom of charge carriers, in what is termed 'valleytronics'. The physics of valleys mimics that of spin, and will make possible devices, analogous to spintronics, such as valley filter and valve, and optoelectronic Hall devices, all very promising for next-generation electronics. The key challenge lies with achieving valley polarization, of which a convincing demonstration in a two-dimensional honeycomb structure remains evasive. Here we show, using first principles calculations, that monolayer molybdenum disulphide is an ideal material for valleytronics, for which valley polarization is achievable via valley-selective circular dichroism arising from its unique symmetry. We also provide experimental evidence by measuring the circularly polarized photoluminescence on monolayer molybdenum disulphide, which shows up to 50% polarization. The monolayer transition-metal dichalcogenide molybdenum disulphide has recently attracted attention owing to its distinctive electronic properties. Cao and co-workers present numerical evidence suggesting that circularly polarized light can preferentially excite a single valley in the band structure of this system.",
+  "authors": [
+    "Ting Cao",
+    "Gang Wang",
+    "Wenpeng Han",
+    "Huiqi Ye",
+    "Chuanrui Zhu",
+    "Junren Shi",
+    "Qian Niu",
+    "Ping‐Heng Tan",
+    "Enge Wang",
+    "Baoli Liu",
+    "Ji Feng"
+  ],
+  "year": 2012,
+  "doi": "10.1038/ncomms1882",
+  "source": "openalex",
+  "categories": [
+    "Valleytronics",
+    "Monolayer",
+    "Brillouin zone",
+    "Spintronics",
+    "Circular polarization",
+    "Condensed matter physics",
+    "Molybdenum",
+    "Polarization (electrochemistry)",
+    "Materials science",
+    "Photoluminescence",
+    "Crystallography",
+    "Optoelectronics",
+    "Chemistry",
+    "Chemical physics",
+    "Physics",
+    "Nanotechnology",
+    "Optics",
+    "Ferromagnetism",
+    "Microstrip",
+    "Metallurgy",
+    "Physical chemistry"
+  ],
+  "citation_count": 2607,
+  "open_access_pdf_url": "https://www.nature.com/articles/ncomms1882.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2122195656.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:04.248444+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2122195656",
+    "concepts": [
+      "Valleytronics",
+      "Monolayer",
+      "Brillouin zone",
+      "Spintronics",
+      "Circular polarization"
+    ],
+    "oa_status": "hybrid"
+  }
+}

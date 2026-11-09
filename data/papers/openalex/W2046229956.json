@@ -1,0 +1,38 @@
+{
+  "id": "openalex:W2046229956",
+  "title": "Gabedit—A graphical user interface for computational chemistry softwares",
+  "abstract": "Gabedit is a freeware graphical user interface, offering preprocessing and postprocessing adapted (to date) to nine computational chemistry software packages. It includes tools for editing, displaying, analyzing, converting, and animating molecular systems. A conformational search tool is implemented using a molecular mechanics or a semiempirical potential. Input files can be generated for the computational chemistry software supported by Gabedit. Some molecular properties of interest are processed directly from the output of the computational chemistry programs; others are calculated by Gabedit before display. Molecular orbitals, electron density, electrostatic potential, nuclear magnetic resonance shielding density, and any other volumetric data properties can be displayed. It can display electronic circular dichroism, UV-visible, infrared, and Raman-computed spectra after a convolution. Gabedit can generate a Povray file for geometry, surfaces, contours, and color-coded planes. Output can be exported to a selection of popular image and vector graphics file formats; the program can also generate a series of pictures for animation. Quantum mechanical electrostatic potentials can be calculated using the partial charges on atoms, or by solving the Poisson equation using the multigrid method. The atoms in molecule charges can also be calculated. Gabedit is platform independent. The code is distributed under free open source X11 style license and is available at http://gabedit.sourceforge.net/.",
+  "authors": [
+    "Abdul-Rahman Allouche"
+  ],
+  "year": 2010,
+  "doi": "10.1002/jcc.21600",
+  "source": "openalex",
+  "categories": [
+    "Molecular graphics",
+    "Computer science",
+    "Software",
+    "Computational science",
+    "Graphical user interface",
+    "Computer graphics (images)",
+    "Computer graphics",
+    "Chemistry",
+    "Programming language"
+  ],
+  "citation_count": 2511,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jcc.21600",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2046229956.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:04.357625+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2046229956",
+    "concepts": [
+      "Molecular graphics",
+      "Computer science",
+      "Software",
+      "Computational science",
+      "Graphical user interface"
+    ],
+    "oa_status": "bronze"
+  }
+}

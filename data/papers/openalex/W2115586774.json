@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2115586774",
+  "title": "Polymeric nanoparticle-encapsulated curcumin (\"nanocurcumin\"): a novel strategy for human cancer therapy",
+  "abstract": "BACKGROUND: Curcumin, a yellow polyphenol extracted from the rhizome of turmeric (Curcuma longa), has potent anti-cancer properties as demonstrated in a plethora of human cancer cell line and animal carcinogenesis models. Nevertheless, widespread clinical application of this relatively efficacious agent in cancer and other diseases has been limited due to poor aqueous solubility, and consequently, minimal systemic bioavailability. Nanoparticle-based drug delivery approaches have the potential for rendering hydrophobic agents like curcumin dispersible in aqueous media, thus circumventing the pitfalls of poor solubility. RESULTS: We have synthesized polymeric nanoparticle encapsulated formulation of curcumin - nanocurcumin - utilizing the micellar aggregates of cross-linked and random copolymers of N-isopropylacrylamide (NIPAAM), with N-vinyl-2-pyrrolidone (VP) and poly(ethyleneglycol)monoacrylate (PEG-A). Physico-chemical characterization of the polymeric nanoparticles by dynamic laser light scattering and transmission electron microscopy confirms a narrow size distribution in the 50 nm range. Nanocurcumin, unlike free curcumin, is readily dispersed in aqueous media. Nanocurcumin demonstrates comparable in vitro therapeutic efficacy to free curcumin against a panel of human pancreatic cancer cell lines, as assessed by cell viability and clonogenicity assays in soft agar. Further, nanocurcumin's mechanisms of action on pancreatic cancer cells mirror that of free curcumin, including induction of cellular apoptosis, blockade of nuclear factor kappa B (NFkappaB) activation, and downregulation of steady state levels of multiple pro-inflammatory cytokines (IL-6, IL-8, and TNFalpha). CONCLUSION: Nanocurcumin provides an opportunity to expand the clinical repertoire of this efficacious agent by enabling ready aqueous dispersion. Future studies utilizing nanocurcumin are warranted in pre-clinical in vivo models of cancer and other diseases that might benefit from the effects of curcumin.",
+  "authors": [
+    "Savita Bisht",
+    "Georg Feldmann",
+    "Sheetal Soni",
+    "Rajani K. Ravi",
+    "Collins Karikar",
+    "Anirban Maitra",
+    "Anirban Maitra"
+  ],
+  "year": 2007,
+  "doi": "10.1186/1477-3155-5-3",
+  "source": "openalex",
+  "categories": [
+    "Curcumin",
+    "Chemistry",
+    "Curcuma",
+    "Bioavailability",
+    "Drug delivery",
+    "Pancreatic cancer",
+    "Biochemistry",
+    "Pharmacology",
+    "Cancer research",
+    "Cancer",
+    "Medicine",
+    "Organic chemistry",
+    "Traditional medicine",
+    "Internal medicine"
+  ],
+  "citation_count": 1107,
+  "open_access_pdf_url": "https://doi.org/10.1186/1477-3155-5-3",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2115586774.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:19.653367+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2115586774",
+    "concepts": [
+      "Curcumin",
+      "Chemistry",
+      "Curcuma",
+      "Bioavailability",
+      "Drug delivery"
+    ],
+    "oa_status": "gold"
+  }
+}

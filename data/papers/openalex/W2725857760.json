@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2725857760",
+  "title": "Air Pollution and Mortality in the Medicare Population",
+  "abstract": "BACKGROUNDStudies have shown that long-term exposure to air pollution increases mortality.However, evidence is limited for air-pollution levels below the most recent National Ambient Air Quality Standards.Previous studies involved predominantly urban populations and did not have the statistical power to estimate the health effects in underrepresented groups. METHODSWe constructed an open cohort of all Medicare beneficiaries (60,925,443 persons) in the continental United States from the years 2000 through 2012, with 460,310,521 person-years of follow-up.Annual averages of fine particulate matter (particles with a mass median aerodynamic diameter of less than 2.5 μm [PM 2.5 ]) and ozone were estimated according to the ZIP Code of residence for each enrollee with the use of previously validated prediction models.We estimated the risk of death associated with exposure to increases of 10 μg per cubic meter for PM 2.5 and 10 parts per billion (ppb) for ozone using a two-pollutant Cox proportionalhazards model that controlled for demographic characteristics, Medicaid eligibility, and area-level covariates. RESULTSIncreases of 10 μg per cubic meter in PM 2.5 and of 10 ppb in ozone were associated with increases in all-cause mortality of 7.3% (95% confidence interval [CI], 7.1 to 7.5) and 1.1% (95% CI, 1.0 to 1.2), respectively.When the analysis was restricted to person-years with exposure to PM 2.5 of less than 12 μg per cubic meter and ozone of less than 50 ppb, the same increases in PM 2.5 and ozone were associated with increases in the risk of death of 13.6% (95% CI, 13.1 to 14.1) and 1.0% (95% CI, 0.9 to 1.1), respectively.For PM 2.5 , the risk of death among men, blacks, and people with Medicaid eligibility was higher than that in the rest of the population. CONCLUSIONSIn the entire Medicare population, there was significant evidence of adverse effects related to exposure to PM 2.5 and ozone at concentrations below current national standards.This effect was most pronounced among self-identified racial minorities and people with low income.(Supported by the Health Effects Institute and others.)a bs tr ac t Air Pollution and Mortality in the Medicare Population",
+  "authors": [
+    "Qian Di",
+    "Yan Wang",
+    "Antonella Zanobetti",
+    "Yun Wang",
+    "Petros Koutrakis",
+    "Christine Choirat",
+    "Francesca Dominici",
+    "Joel David Schwartz"
+  ],
+  "year": 2017,
+  "doi": "10.1056/nejmoa1702747",
+  "source": "openalex",
+  "categories": [
+    "Medicine",
+    "Air pollution",
+    "Environmental health",
+    "Air quality index",
+    "Pollution",
+    "Population",
+    "Meteorology",
+    "Geography",
+    "Biology",
+    "Organic chemistry",
+    "Chemistry",
+    "Ecology"
+  ],
+  "citation_count": 1563,
+  "open_access_pdf_url": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa1702747?articleTools=true",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2725857760.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:42.017709+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2725857760",
+    "concepts": [
+      "Medicine",
+      "Air pollution",
+      "Environmental health",
+      "Air quality index",
+      "Pollution"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W2604443026",
+  "title": "Microbial fuel cells: From fundamentals to applications. A review",
+  "abstract": "In the past 10-15 years, the microbial fuel cell (MFC) technology has captured the attention of the scientific community for the possibility of transforming organic waste directly into electricity through microbially catalyzed anodic, and microbial/enzymatic/abiotic cathodic electrochemical reactions. In this review, several aspects of the technology are considered. Firstly, a brief history of abiotic to biological fuel cells and subsequently, microbial fuel cells is presented. Secondly, the development of the concept of microbial fuel cell into a wider range of derivative technologies, called bioelectrochemical systems, is described introducing briefly microbial electrolysis cells, microbial desalination cells and microbial electrosynthesis cells. The focus is then shifted to electroactive biofilms and electron transfer mechanisms involved with solid electrodes. Carbonaceous and metallic anode materials are then introduced, followed by an explanation of the electro catalysis of the oxygen reduction reaction and its behavior in neutral media, from recent studies. Cathode catalysts based on carbonaceous, platinum-group metal and platinum-group-metal-free materials are presented, along with membrane materials with a view to future directions. Finally, microbial fuel cell practical implementation, through the utilization of energy output for practical applications, is described.",
+  "authors": [
+    "Carlo Santoro",
+    "Catia Arbizzani",
+    "Benjamin Erable",
+    "Ioannis Andrea Ieropoulos"
+  ],
+  "year": 2017,
+  "doi": "10.1016/j.jpowsour.2017.03.109",
+  "source": "openalex",
+  "categories": [
+    "Microbial fuel cell",
+    "Microbial electrolysis cell",
+    "Shewanella oneidensis",
+    "Anode",
+    "Electrosynthesis",
+    "Electrolysis",
+    "Nanotechnology",
+    "Electrochemical energy conversion",
+    "Electrochemistry",
+    "Chemistry",
+    "Chemical energy",
+    "Fuel cells",
+    "Biochemical engineering",
+    "Materials science",
+    "Waste management",
+    "Chemical engineering",
+    "Electrode",
+    "Engineering",
+    "Organic chemistry",
+    "Physical chemistry",
+    "Electrolyte",
+    "Genetics",
+    "Bacteria",
+    "Biology"
+  ],
+  "citation_count": 1862,
+  "open_access_pdf_url": "https://ars.els-cdn.com/content/image/1-s2.0-S0378775317304159-fx1_lrg.jpg",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2604443026.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:22.231980+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2604443026",
+    "concepts": [
+      "Microbial fuel cell",
+      "Microbial electrolysis cell",
+      "Shewanella oneidensis",
+      "Anode",
+      "Electrosynthesis"
+    ],
+    "oa_status": "hybrid"
+  }
+}

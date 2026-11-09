@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W2001415936",
+  "title": "Large excitonic effects in monolayers of molybdenum and tungsten dichalcogenides",
+  "abstract": "Quasiparticle band structures and optical properties of MoS${}_{2}$, MoSe${}_{2}$, MoTe${}_{2}$, WS${}_{2}$, and WSe${}_{2}$ monolayers are studied using the GW approximation in conjunction with the Bethe-Salpeter equation (BSE). The inclusion of two-particle excitations in the BSE approach reveals the presence of two strongly bound excitons ($A$ and $B$) below the quasiparticle absorption onset arising from vertical transitions between a spin-orbit-split valence band and the conduction band at the $K$ point of the Brillouin zone. The transition energies for monolayer MoS${}_{2}$, in particular, are shown to be in excellent agreement with available absorption and photoluminescence measurements. Excitation energies for the remaining monolayers are predicted to lie in the range of 1--2 eV. Systematic trends are identified for quasiparticle band gaps, transition energies, and exciton binding energies within as well as across the Mo and W families of dichalcogenides. Overall, the results suggest that quantum confinement of carriers within monolayers can be exploited in conjunction with chemical composition to tune the optoelectronic properties of layered transition-metal dichalcogenides at the nanoscale.",
+  "authors": [
+    "Ashwin Ramasubramaniam"
+  ],
+  "year": 2012,
+  "doi": "10.1103/physrevb.86.115409",
+  "source": "openalex",
+  "categories": [
+    "Quasiparticle",
+    "Monolayer",
+    "Exciton",
+    "Materials science",
+    "Photoluminescence",
+    "Condensed matter physics",
+    "Brillouin zone",
+    "GW approximation",
+    "Valence (chemistry)",
+    "Transition metal",
+    "Physics",
+    "Chemistry",
+    "Nanotechnology",
+    "Superconductivity",
+    "Optoelectronics",
+    "Quantum mechanics",
+    "Catalysis",
+    "Biochemistry"
+  ],
+  "citation_count": 1582,
+  "open_access_pdf_url": "https://works.bepress.com/ashwin_ramasubramaniam/5/download/",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2001415936.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:41.947263+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2001415936",
+    "concepts": [
+      "Quasiparticle",
+      "Monolayer",
+      "Exciton",
+      "Materials science",
+      "Photoluminescence"
+    ],
+    "oa_status": "green"
+  }
+}

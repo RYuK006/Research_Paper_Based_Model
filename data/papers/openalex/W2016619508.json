@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W2016619508",
+  "title": "Figures-of-merit for the technical development and application of advanced oxidation technologies for both electric- and solar-driven systems (IUPAC Technical Report)",
+  "abstract": "Abstract Advanced oxidation technologies (AOTs), which involve the in situ generation of highly potent chemical oxidants, such as the hydroxyl radical (áOH), have emerged as an important class of technologies for accelerating the oxidation (and hence removal) of a wide range of organic contaminants in polluted water and air. In this report, standard figures-of-merit are proposed for the comparison and evaluation of these waste treatment technologies. These figures-of-merit are based on electric-energy consumption (for electric-energy-driven systems) or collector area (for solar-energy-driven systems). They fit within two phenomenological kinetic order regimes: 1) for high contaminant concentrations (electric energy per mass, E EM , or collector area per mass, A CM ) and 2) for low concentrations (electric energy per order of magnitude, E EO , or collector area per order of magnitude, A CO ). Furthermore, a simple understanding of the overall kinetic behavior of organic contaminant removal in a waste stream (i.e., whether zero- or first-order) is shown to be necessary for the description of meaningful electric- or solar-energy efficiencies. These standard figures-of-merit provide a direct link to the electric- or solar-energy efficiency (lower values mean higher efficiency) of an advanced oxidation technology, independent of the nature of the system, and therefore allow for direct comparison of widely disparate AOTs. These figures-of-merit are also shown to be inversely proportional to fundamental efficiency factors, such as the lamp efficiency (for electrical systems), the fraction of the emitted light that is absorbed in the aqueous solution, and the quantum yield of generation of active radicals.",
+  "authors": [
+    "James R. Bolton",
+    "Keith G. Bircher",
+    "William Tumas",
+    "Chadwick A. Tolman"
+  ],
+  "year": 2001,
+  "doi": "10.1351/pac200173040627",
+  "source": "openalex",
+  "categories": [
+    "Figure of merit",
+    "Chemistry",
+    "Range (aeronautics)",
+    "Kinetic energy",
+    "Process engineering",
+    "Solar energy",
+    "Engineering physics",
+    "Optoelectronics",
+    "Electrical engineering",
+    "Materials science",
+    "Physics",
+    "Quantum mechanics",
+    "Composite material",
+    "Engineering"
+  ],
+  "citation_count": 1197,
+  "open_access_pdf_url": "https://www.degruyter.com/document/doi/10.1351/pac200173040627/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2016619508.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:08.317675+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2016619508",
+    "concepts": [
+      "Figure of merit",
+      "Chemistry",
+      "Range (aeronautics)",
+      "Kinetic energy",
+      "Process engineering"
+    ],
+    "oa_status": "bronze"
+  }
+}

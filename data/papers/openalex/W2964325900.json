@@ -1,0 +1,63 @@
+{
+  "id": "openalex:W2964325900",
+  "title": "Targeting photodynamic and photothermal therapy to the endoplasmic reticulum enhances immunogenic cancer cell death",
+  "abstract": "Abstract Immunogenic cell death (ICD)-associated immunogenicity can be evoked through reactive oxygen species (ROS) produced via endoplasmic reticulum (ER) stress. In this study, we generate a double ER-targeting strategy to realize photodynamic therapy (PDT) photothermal therapy (PTT) immunotherapy. This nanosystem consists of ER-targeting pardaxin (FAL) peptides modified-, indocyanine green (ICG) conjugated- hollow gold nanospheres (FAL-ICG-HAuNS), together with an oxygen-delivering hemoglobin (Hb) liposome (FAL-Hb lipo), designed to reverse hypoxia. Compared with non-targeting nanosystems, the ER-targeting naosystem induces robust ER stress and calreticulin (CRT) exposure on the cell surface under near-infrared (NIR) light irradiation. CRT, a marker for ICD, acts as an ‘eat me’ signal to stimulate the antigen presenting function of dendritic cells. As a result, a series of immunological responses are activated, including CD8 + T cell proliferation and cytotoxic cytokine secretion. In conclusion, ER-targeting PDT-PTT promoted ICD-associated immunotherapy through direct ROS-based ER stress and exhibited enhanced anti-tumour efficacy.",
+  "authors": [
+    "Wei Li",
+    "Jie Yang",
+    "Lihua Luo",
+    "Mengshi Jiang",
+    "Bing Qin",
+    "Hang Yin",
+    "Chunqi Zhu",
+    "Xiaoling Yuan",
+    "Junlei Zhang",
+    "Zhenyu Luo",
+    "Yongzhong Du",
+    "Qingpo Li",
+    "Yan Lou",
+    "Yunqing Qiu",
+    "Jian You"
+  ],
+  "year": 2019,
+  "doi": "10.1038/s41467-019-11269-8",
+  "source": "openalex",
+  "categories": [
+    "Endoplasmic reticulum",
+    "Photothermal therapy",
+    "Photodynamic therapy",
+    "Immunogenic cell death",
+    "Programmed cell death",
+    "Cancer research",
+    "Cancer",
+    "Cell",
+    "Medicine",
+    "Cancer cell",
+    "Cancer therapy",
+    "Cell biology",
+    "Apoptosis",
+    "Biology",
+    "Chemistry",
+    "Nanotechnology",
+    "Materials science",
+    "Biochemistry",
+    "Internal medicine",
+    "Organic chemistry"
+  ],
+  "citation_count": 1131,
+  "open_access_pdf_url": "https://www.nature.com/articles/s41467-019-11269-8.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2964325900.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:16.999387+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2964325900",
+    "concepts": [
+      "Endoplasmic reticulum",
+      "Photothermal therapy",
+      "Photodynamic therapy",
+      "Immunogenic cell death",
+      "Programmed cell death"
+    ],
+    "oa_status": "gold"
+  }
+}

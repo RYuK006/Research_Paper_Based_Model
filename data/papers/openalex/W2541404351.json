@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2541404351",
+  "title": "ANI-1: an extensible neural network potential with DFT accuracy at force field computational cost",
+  "abstract": "Deep learning is revolutionizing many areas of science and technology, especially image, text, and speech recognition. In this paper, we demonstrate how a deep neural network (NN) trained on quantum mechanical (QM) DFT calculations can learn an accurate and transferable potential for organic molecules. We introduce ANAKIN-ME (Accurate NeurAl networK engINe for Molecular Energies) or ANI for short. ANI is a new method designed with the intent of developing transferable neural network potentials that utilize a highly-modified version of the Behler and Parrinello symmetry functions to build single-atom atomic environment vectors (AEV) as a molecular representation. AEVs provide the ability to train neural networks to data that spans both configurational and conformational space, a feat not previously accomplished on this scale. We utilized ANI to build a potential called ANI-1, which was trained on a subset of the GDB databases with up to 8 heavy atoms in order to predict total energies for organic molecules containing four atom types: H, C, N, and O. To obtain an accelerated but physically relevant sampling of molecular potential surfaces, we also proposed a Normal Mode Sampling (NMS) method for generating molecular conformations. Through a series of case studies, we show that ANI-1 is chemically accurate compared to reference DFT calculations on much larger molecular systems (up to 54 atoms) than those included in the training data set.",
+  "authors": [
+    "Justin S. Smith",
+    "Olexandr Isayev",
+    "Adrián E. Roitberg"
+  ],
+  "year": 2017,
+  "doi": "10.1039/c6sc05720a",
+  "source": "openalex",
+  "categories": [
+    "Artificial neural network",
+    "Force field (fiction)",
+    "Extensibility",
+    "Set (abstract data type)",
+    "Molecule",
+    "Quantum",
+    "Field (mathematics)",
+    "Computer science",
+    "Organic molecules",
+    "Computational chemistry",
+    "Deep neural networks",
+    "Density functional theory",
+    "Biological system",
+    "Artificial intelligence",
+    "Materials science",
+    "Chemistry",
+    "Physics",
+    "Quantum mechanics",
+    "Mathematics",
+    "Biology",
+    "Pure mathematics",
+    "Programming language",
+    "Operating system"
+  ],
+  "citation_count": 1975,
+  "open_access_pdf_url": "https://pubs.rsc.org/en/content/articlepdf/2017/sc/c6sc05720a",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2541404351.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:17.771618+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2541404351",
+    "concepts": [
+      "Artificial neural network",
+      "Force field (fiction)",
+      "Extensibility",
+      "Set (abstract data type)",
+      "Molecule"
+    ],
+    "oa_status": "diamond"
+  }
+}

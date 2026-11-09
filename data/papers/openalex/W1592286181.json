@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W1592286181",
+  "title": "Presynaptically Located CB1 Cannabinoid Receptors Regulate GABA Release from Axon Terminals of Specific Hippocampal Interneurons",
+  "abstract": "To understand the functional significance and mechanisms of action in the CNS of endogenous and exogenous cannabinoids, it is crucial to identify the neural elements that serve as the structural substrate of these actions. We used a recently developed antibody against the CB1 cannabinoid receptor to study this question in hippocampal networks. Interneurons with features typical of basket cells showed a selective, intense staining for CB1 in all hippocampal subfields and layers. Most of them (85.6%) contained cholecystokinin (CCK), which corresponded to 96.9% of all CCK-positive interneurons, whereas only 4.6% of the parvalbumin (PV)-containing basket cells expressed CB1. Accordingly, electron microscopy revealed that CB1-immunoreactive axon terminals of CCK-containing basket cells surrounded the somata and proximal dendrites of pyramidal neurons, whereas PV-positive basket cell terminals in similar locations were negative for CB1. The synthetic cannabinoid agonist WIN 55,212-2 (0.01-3 microM) reduced dose-dependently the electrical field stimulation-induced [3H]GABA release from superfused hippocampal slices, with an EC50 value of 0. 041 microM. Inhibition of GABA release by WIN 55,212-2 was not mediated by inhibition of glutamatergic transmission because the WIN 55,212-2 effect was not reduced by the glutamate blockers AP5 and CNQX. In contrast, the CB1 cannabinoid receptor antagonist SR 141716A (1 microM) prevented this effect, whereas by itself it did not change the outflow of [3H]GABA. These results suggest that cannabinoid-mediated modulation of hippocampal interneuron networks operate largely via presynaptic receptors on CCK-immunoreactive basket cell terminals. Reduction of GABA release from these terminals is the likely mechanism by which both endogenous and exogenous CB1 ligands interfere with hippocampal network oscillations and associated cognitive functions.",
+  "authors": [
+    "István Katona",
+    "Beáta Sperlágh",
+    "Attila Gabor SIK",
+    "Attila Käfalvi",
+    "E. Sylvester Vizi",
+    "Ken Mackie",
+    "Tamás F. Freund"
+  ],
+  "year": 1999,
+  "doi": "10.1523/jneurosci.19-11-04544.1999",
+  "source": "openalex",
+  "categories": [
+    "Cannabinoid receptor",
+    "Cannabinoid",
+    "Hippocampal formation",
+    "Neuroscience",
+    "Interneuron",
+    "Glutamatergic",
+    "Biology",
+    "Neurotransmission",
+    "Depolarization-induced suppression of inhibition",
+    "Agonist",
+    "Glutamate receptor",
+    "Chemistry",
+    "Receptor",
+    "Inhibitory postsynaptic potential",
+    "Biochemistry"
+  ],
+  "citation_count": 1248,
+  "open_access_pdf_url": "https://www.jneurosci.org/content/jneuro/19/11/4544.full.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1592286181.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:02.722099+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1592286181",
+    "concepts": [
+      "Cannabinoid receptor",
+      "Cannabinoid",
+      "Hippocampal formation",
+      "Neuroscience",
+      "Interneuron"
+    ],
+    "oa_status": "hybrid"
+  }
+}

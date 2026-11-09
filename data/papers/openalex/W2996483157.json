@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2996483157",
+  "title": "Making Sense of Sensitivity: Extending Omitted Variable Bias",
+  "abstract": "Summary We extend the omitted variable bias framework with a suite of tools for sensitivity analysis in regression models that does not require assumptions on the functional form of the treatment assignment mechanism nor on the distribution of the unobserved confounders, naturally handles multiple confounders, possibly acting non-linearly, exploits expert knowledge to bound sensitivity parameters and can be easily computed by using only standard regression results. In particular, we introduce two novel sensitivity measures suited for routine reporting. The robustness value describes the minimum strength of association that unobserved confounding would need to have, both with the treatment and with the outcome, to change the research conclusions. The partial R2 of the treatment with the outcome shows how strongly confounders explaining all the residual outcome variation would have to be associated with the treatment to eliminate the estimated effect. Next, we offer graphical tools for elaborating on problematic confounders, examining the sensitivity of point estimates and t-values, as well as ‘extreme scenarios’. Finally, we describe problems with a common ‘benchmarking’ practice and introduce a novel procedure to bound the strength of confounders formally on the basis of a comparison with observed covariates. We apply these methods to a running example that estimates the effect of exposure to violence on attitudes toward peace.",
+  "authors": [
+    "Carlos Cinelli",
+    "Chad J. Hazlett"
+  ],
+  "year": 2019,
+  "doi": "10.1111/rssb.12348",
+  "source": "openalex",
+  "categories": [
+    "Confounding",
+    "Omitted-variable bias",
+    "Robustness (evolution)",
+    "Econometrics",
+    "Covariate",
+    "Statistics",
+    "Regression",
+    "Sensitivity (control systems)",
+    "Outcome (game theory)",
+    "Computer science",
+    "Point estimation",
+    "Regression analysis",
+    "Mathematics",
+    "Engineering",
+    "Chemistry",
+    "Biochemistry",
+    "Electronic engineering",
+    "Mathematical economics",
+    "Gene"
+  ],
+  "citation_count": 1159,
+  "open_access_pdf_url": "https://rss.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/rssb.12348",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2996483157.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:14.492439+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2996483157",
+    "concepts": [
+      "Confounding",
+      "Omitted-variable bias",
+      "Robustness (evolution)",
+      "Econometrics",
+      "Covariate"
+    ],
+    "oa_status": "bronze"
+  }
+}

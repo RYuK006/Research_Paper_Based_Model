@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2129974955",
+  "title": "Single-Electron Transport in Ropes of Carbon Nanotubes",
+  "abstract": "The electrical properties of individual bundles, or \"ropes,\" of single-walled carbon nanotubes have been measured. Below about 10 kelvin, the low-bias conductance was suppressed for voltages less than a few millivolts. In addition, dramatic peaks were observed in the conductance as a function of a gate voltage that modulated the number of electrons in the rope. These results are interpreted in terms of single-electron charging and resonant tunneling through the quantized energy levels of the nanotubes composing the rope.",
+  "authors": [
+    "Marc Bockrath",
+    "David Henry Cobden",
+    "Paul L. McEuen",
+    "Nasreen G. Chopra",
+    "Alex K. Zettl",
+    "Andreas Theß",
+    "R. E. Smalley"
+  ],
+  "year": 1997,
+  "doi": "10.1126/science.275.5308.1922",
+  "source": "openalex",
+  "categories": [
+    "Rope",
+    "Carbon nanotube",
+    "Conductance",
+    "Electron",
+    "Quantum tunnelling",
+    "Materials science",
+    "Electron transport chain",
+    "Voltage",
+    "Ballistic conduction in single-walled carbon nanotubes",
+    "Nanotechnology",
+    "Condensed matter physics",
+    "Nanotube",
+    "Optoelectronics",
+    "Chemistry",
+    "Physics",
+    "Mechanical properties of carbon nanotubes",
+    "Structural engineering",
+    "Quantum mechanics",
+    "Engineering",
+    "Biochemistry"
+  ],
+  "citation_count": 1348,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/9612162",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2129974955.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:55.203872+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2129974955",
+    "concepts": [
+      "Rope",
+      "Carbon nanotube",
+      "Conductance",
+      "Electron",
+      "Quantum tunnelling"
+    ],
+    "oa_status": "green"
+  }
+}

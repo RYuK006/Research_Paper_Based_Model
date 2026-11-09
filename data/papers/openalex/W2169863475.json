@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W2169863475",
+  "title": "Opioids excite dopamine neurons by hyperpolarization of local interneurons",
+  "abstract": "Increased activity of dopamine-containing neurons in the ventral tegmental area is necessary for the reinforcing effects of opioids and other abused drugs. Intracellular recordings from these cells in slices of rat brain in vitro showed that opioids do not affect the principal (dopamine-containing) neurons but hyperpolarize secondary (GABA-containing) interneurons. Experiments with agonists and antagonists selective for opioid receptor subtypes indicated that the hyperpolarization of secondary cells involved the mu-receptor. Most principal cells showed spontaneous bicuculline-sensitive synaptic potentials when the extracellular potassium concentration was increased from 2.5 to 6.5 or 10.5 mM; these were prevented by TTX and assumed to result from action potentials arising in slightly depolarized local interneurons. The frequency of these synaptic potentials, but not their amplitudes, was reduced by opioids selective for mu-receptors. It is concluded that hyperpolarization of the interneurons by opioids reduces the spontaneous GABA-mediated synaptic input to the dopamine cells. In vivo, this would lead to excitation of the dopamine cells by disinhibition, which would be expected to contribute to the positive reinforcement seen with mu-receptor agonists such as morphine and heroin.",
+  "authors": [
+    "SW Johnson",
+    "RA North"
+  ],
+  "year": 1992,
+  "doi": "10.1523/jneurosci.12-02-00483.1992",
+  "source": "openalex",
+  "categories": [
+    "Hyperpolarization (physics)",
+    "Neuroscience",
+    "Dopamine",
+    "Bicuculline",
+    "Chemistry",
+    "Ventral tegmental area",
+    "Disinhibition",
+    "Opioid",
+    "Biophysics",
+    "GABAA receptor",
+    "Receptor",
+    "Biology",
+    "Dopaminergic",
+    "Biochemistry",
+    "Stereochemistry",
+    "Nuclear magnetic resonance spectroscopy"
+  ],
+  "citation_count": 1656,
+  "open_access_pdf_url": "https://www.jneurosci.org/content/jneuro/12/2/483.full.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2169863475.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:37.973043+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2169863475",
+    "concepts": [
+      "Hyperpolarization (physics)",
+      "Neuroscience",
+      "Dopamine",
+      "Bicuculline",
+      "Chemistry"
+    ],
+    "oa_status": "hybrid"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2132933661",
+  "title": "TNF-α induces osteoclastogenesis by direct stimulation of macrophages exposed to permissive levels of RANK ligand",
+  "abstract": "While TNF-alpha is pivotal to the pathogenesis of inflammatory osteolysis, the means by which it recruits osteoclasts and promotes bone destruction are unknown. We find that a pure population of murine osteoclast precursors fails to undergo osteoclastogenesis when treated with TNF-alpha alone. In contrast, the cytokine dramatically stimulates differentiation in macrophages primed by less than one percent of the amount of RANKL (ligand for the receptor activator of NF-kappaB) required to induce osteoclast formation. Mirroring their synergistic effects on osteoclast differentiation, TNF-alpha and RANKL markedly potentiate NF-kappaB and stress-activated protein kinase/c-Jun NH(2)-terminal kinase activity, two signaling pathways essential for osteoclastogenesis. In vivo administration of TNF-alpha prompts robust osteoclast formation in chimeric animals in which ss-galactosidase positive, TNF-responsive macrophages develop within a TNF-nonresponsive stromal environment. Thus, while TNF-alpha alone does not induce osteoclastogenesis, it does so both in vitro and in vivo by directly targeting macrophages within a stromal environment that expresses permissive levels of RANKL. Given the minuscule amount of RANKL sufficient to synergize with TNF-alpha to promote osteoclastogenesis, TNF-alpha appears to be a more convenient target in arresting inflammatory osteolysis.",
+  "authors": [
+    "Jonathan Lam",
+    "Sunao Takeshita",
+    "Jane E. Barker",
+    "Osami Kanagawa",
+    "Frederick Patrick Ross",
+    "Steven L. Teitelbaum"
+  ],
+  "year": 2000,
+  "doi": "10.1172/jci11176",
+  "source": "openalex",
+  "categories": [
+    "RANKL",
+    "Osteoclast",
+    "RANK Ligand",
+    "Tumor necrosis factor alpha",
+    "Cytokine",
+    "Osteolysis",
+    "Cell biology",
+    "Stromal cell",
+    "Chemistry",
+    "Cancer research",
+    "NF-κB",
+    "In vivo",
+    "Signal transduction",
+    "Activator (genetics)",
+    "Receptor",
+    "Immunology",
+    "Biology",
+    "Medicine",
+    "Biochemistry",
+    "Biotechnology",
+    "Surgery"
+  ],
+  "citation_count": 1455,
+  "open_access_pdf_url": "http://www.jci.org/articles/view/11176/files/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2132933661.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:48.247825+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2132933661",
+    "concepts": [
+      "RANKL",
+      "Osteoclast",
+      "RANK Ligand",
+      "Tumor necrosis factor alpha",
+      "Cytokine"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "openalex:W2161479914",
+  "title": "Mitochondrial H2O2 emission and cellular redox state link excess fat intake to insulin resistance in both rodents and humans",
+  "abstract": "High dietary fat intake leads to insulin resistance in skeletal muscle, and this represents a major risk factor for type 2 diabetes and cardiovascular disease. Mitochondrial dysfunction and oxidative stress have been implicated in the disease process, but the underlying mechanisms are still unknown. Here we show that in skeletal muscle of both rodents and humans, a diet high in fat increases the H(2)O(2)-emitting potential of mitochondria, shifts the cellular redox environment to a more oxidized state, and decreases the redox-buffering capacity in the absence of any change in mitochondrial respiratory function. Furthermore, we show that attenuating mitochondrial H(2)O(2) emission, either by treating rats with a mitochondrial-targeted antioxidant or by genetically engineering the overexpression of catalase in mitochondria of muscle in mice, completely preserves insulin sensitivity despite a high-fat diet. These findings place the etiology of insulin resistance in the context of mitochondrial bioenergetics by demonstrating that mitochondrial H(2)O(2) emission serves as both a gauge of energy balance and a regulator of cellular redox environment, linking intracellular metabolic balance to the control of insulin sensitivity.",
+  "authors": [
+    "Ethan J. Anderson",
+    "Mary E. Lustig",
+    "Kristen E. Boyle",
+    "Tracey Woodlief",
+    "Daniel A. Kane",
+    "Chien‐Te Lin",
+    "Jesse W. Price",
+    "Li Kang",
+    "Peter S. Rabinovitch",
+    "Hazel H. Szeto",
+    "Joseph A. Houmard",
+    "Ronald N. Cortright",
+    "David H. Wasserman",
+    "Peter Darrell Neufer"
+  ],
+  "year": 2009,
+  "doi": "10.1172/jci37048",
+  "source": "openalex",
+  "categories": [
+    "Mitochondrion",
+    "Insulin resistance",
+    "Oxidative stress",
+    "Skeletal muscle",
+    "Mitochondrial ROS",
+    "Bioenergetics",
+    "Context (archaeology)",
+    "Endocrinology",
+    "Biology",
+    "Internal medicine",
+    "Oxidative phosphorylation",
+    "Cell biology",
+    "Insulin",
+    "Chemistry",
+    "Biochemistry",
+    "Medicine",
+    "Paleontology"
+  ],
+  "citation_count": 1269,
+  "open_access_pdf_url": "http://www.jci.org/articles/view/37048/files/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2161479914.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:00.583076+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2161479914",
+    "concepts": [
+      "Mitochondrion",
+      "Insulin resistance",
+      "Oxidative stress",
+      "Skeletal muscle",
+      "Mitochondrial ROS"
+    ],
+    "oa_status": "bronze"
+  }
+}

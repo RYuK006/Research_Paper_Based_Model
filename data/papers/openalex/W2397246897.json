@@ -1,0 +1,59 @@
+{
+  "id": "openalex:W2397246897",
+  "title": "Improved Bacterial 16S rRNA Gene (V4 and V4-5) and Fungal Internal Transcribed Spacer Marker Gene Primers for Microbial Community Surveys",
+  "abstract": "We continue to uncover a wealth of information connecting microbes in important ways to human and environmental ecology. As our scientific knowledge and technical abilities improve, the tools used for microbiome surveys can be modified to improve the accuracy of our techniques, ensuring that we can continue to identify groundbreaking connections between microbes and the ecosystems they populate, from ice caps to the human body. It is important to confirm that modifications to these tools do not cause new, detrimental biases that would inhibit the field rather than continue to move it forward. We therefore demonstrated that two recently modified primer pairs that target taxonomically discriminatory regions of bacterial and fungal genomic DNA do not introduce new biases when used on a variety of sample types, from soil to human skin. This confirms the utility of these primers for maintaining currently recommended microbiome research techniques as the state of the art.",
+  "authors": [
+    "William Anton Walters",
+    "Embriette R. Hyde",
+    "Donna Berg-Lyons",
+    "Gail L. Ackermann",
+    "Greg C. Humphrey",
+    "Alma E. Parada",
+    "Jack A. Gilbert",
+    "Janet K Jansson",
+    "J. Gregory Caporaso",
+    "Jed A. Fuhrman",
+    "Amy M. Apprill",
+    "Rob D. Knight"
+  ],
+  "year": 2015,
+  "doi": "10.1128/msystems.00009-15",
+  "source": "openalex",
+  "categories": [
+    "Amplicon",
+    "Biology",
+    "Primer (cosmetics)",
+    "Internal transcribed spacer",
+    "Genetics",
+    "16S ribosomal RNA",
+    "Computational biology",
+    "Ribosomal RNA",
+    "Phylotype",
+    "Bacterial taxonomy",
+    "Environmental DNA",
+    "Gene",
+    "Archaea",
+    "Metagenomics",
+    "Polymerase chain reaction",
+    "Ecology",
+    "Biodiversity",
+    "Chemistry",
+    "Organic chemistry"
+  ],
+  "citation_count": 2300,
+  "open_access_pdf_url": "https://msystems.asm.org/content/msys/1/1/e00009-15.full.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2397246897.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:08.806586+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2397246897",
+    "concepts": [
+      "Amplicon",
+      "Biology",
+      "Primer (cosmetics)",
+      "Internal transcribed spacer",
+      "Genetics"
+    ],
+    "oa_status": "gold"
+  }
+}

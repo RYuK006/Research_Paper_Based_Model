@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W2017306058",
+  "title": "Nitric oxide and superoxide in inflammation and immune regulation.",
+  "abstract": "Nitric oxide (NO) and reactive oxygen species exert multiple modulating effects on inflammation and play a key role in the regulation of immune responses. They affect virtually every step of the development of inflammation. Low concentrations of nitric oxide produced by constitutive and neuronal nitric oxide synthases inhibit adhesion molecule expression, cytokine and chemokine synthesis and leukocyte adhesion and transmigration. Large amounts of NO, generated primarily by iNOS can be toxic and pro-inflammatory. Actions of nitric oxide are however not dependent primarily on the enzymatic source, but rather on the cellular context, NO concentration (dependent on the distance from NO source) and initial priming of immune cells. These observations may explain difficulties in determining the exact role of NO in Th1 and Th2 lymphocyte balance in normal immune responses and in allergic disease. Similarly superoxide anion produced by NAD(P)H oxidases present in all cell types participating in inflammation (leukocytes, endothelial and other vascular cells etc) may lead to toxic effects, when produced at high levels during oxidative burst, but may also modulate inflammation in a far more discrete way, when continuously produced at low levels by NOXs (non-phagocytic oxidases). The effects of both nitric oxide and superoxide in immune regulation are exerted through multiple mechanisms, which include interaction with cell signalling systems like cGMP, cAMP, G-protein, JAK/STAT or MAPK dependent signal transduction pathways. They may also lead to modification of transcription factors activity and in this way modulate the expression of multiple other mediators of inflammation. Moreover genetic polymorphisms exist within genes encoding enzymes producing both NO and superoxide. The potential role of these polymorphisms in inflammation and susceptibility to infection is discussed. Along with studies showing increasing role of NO and free radicals in mediating inflammatory responses drugs which interfere with these systems are being introduced in the treatment of inflammation. These include statins, angiotensin receptor blockers, NAD(P)H oxidase inhibitors, NO-aspirin and others. In conclusion in this mini-review we discuss the mechanisms of nitric oxide and superoxide dependent modulation of inflammatory reactions in experimental animals and humans. We also discuss potential roles of nitric oxide as a mediator of allergic inflammation.",
+  "authors": [
+    "Tomasz Jan Guzik",
+    "Ryszard Korbut",
+    "T Adamek-Guzik"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "openalex",
+  "categories": [
+    "Nitric oxide",
+    "Inflammation",
+    "Superoxide",
+    "Cell biology",
+    "Immune system",
+    "Chemokine",
+    "Chemistry",
+    "Cytokine",
+    "Signal transduction",
+    "Reactive oxygen species",
+    "Immunology",
+    "Biology",
+    "Biochemistry",
+    "Endocrinology",
+    "Enzyme"
+  ],
+  "citation_count": 1096,
+  "open_access_pdf_url": "http://www.jpp.krakow.pl/journal/archive/12_03/pdf/469_12_03_article.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2017306058.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:24.289489+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2017306058",
+    "concepts": [
+      "Nitric oxide",
+      "Inflammation",
+      "Superoxide",
+      "Cell biology",
+      "Immune system"
+    ],
+    "oa_status": "green"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2124007521",
+  "title": "Interpretation of XPS Mn(2p) spectra of Mn oxyhydroxides and constraints on the mechanism of MnO 2 precipitation",
+  "abstract": "Calculated Mn(2p 3/2 ) X-ray photoelectron spectra (XPS) of Mn 2+ , Mn 3+ , and Mn 4+ free ions are strikingly similar to Mn(2p 3/2 ) spectra of Mn 2+ -, Mn 3+ -, and Mn 4+ -oxides and oxyhydroxides, indicating that these ions adopt high spin states in MnO, manganite, and birnessite. The Mn(2p) peak structures reveal the presence of only Mn 3+ in manganite, but Mn 2+ , Mn 3+ , and Mn 4+ are present in the near-surface of synthetic birnessite at about 5, 25, and 70%, respectively. Precipitation of birnessite by reaction of Mn 2+ (aq) with an oxidant includes two electron transfer steps: (1) oxidation of Mn 2+ (aq) to produce Mn 3+ - oxyhydroxide, an intermediate reaction product that forms on the surface of synthetic birnessite and (2) subsequent oxidation of Mn 3+ oxyhydroxide surface species to produce synthetic birnessite. Some surface Mn 3+ however, remains unoxidized and is incorporated into birnessite. As for this synthesis (KMnO 4 used as oxidant), oxidation may not proceed to completion in natural settings (as O 2 is the oxidant) leading to Mn 3+ incorporation into Mn-oxides. The hypothesis explains the abundance of non-stoichiometric MnO 2 phases in sedimentary environments. The MnO 2 precipitation scheme proposed by Stumm and Morgan (1981) includes the surface species Mn 2+ ·nO 2 . This and other studies indicate that the reactive intermediate is a Mn 3+ bearing surface species. The formation rate of birnessite is probably controlled by one of these redox reactions. The proposed rate expression of Davies and Morgan (1989), however, needs no modification provided surface area is a reasonable measure of the surface density of the reactive intermediate",
+  "authors": [
+    "H.W. Nesbitt",
+    "Dipanjan Banerjee"
+  ],
+  "year": 1998,
+  "doi": "10.2138/am-1998-3-414",
+  "source": "openalex",
+  "categories": [
+    "Birnessite",
+    "X-ray photoelectron spectroscopy",
+    "Manganese",
+    "Chemistry",
+    "Manganite",
+    "Precipitation",
+    "Stoichiometry",
+    "Inorganic chemistry",
+    "Redox",
+    "Physical chemistry",
+    "Chemical engineering",
+    "Ferromagnetism",
+    "Manganese oxide",
+    "Physics",
+    "Quantum mechanics",
+    "Meteorology",
+    "Engineering",
+    "Organic chemistry"
+  ],
+  "citation_count": 1219,
+  "open_access_pdf_url": "https://www.degruyter.com/document/doi/10.2138/am-1998-3-414/pdf?licenseType=free",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2124007521.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:04.641875+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2124007521",
+    "concepts": [
+      "Birnessite",
+      "X-ray photoelectron spectroscopy",
+      "Manganese",
+      "Chemistry",
+      "Manganite"
+    ],
+    "oa_status": "bronze"
+  }
+}

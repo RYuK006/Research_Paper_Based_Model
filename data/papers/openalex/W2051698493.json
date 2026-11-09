@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W2051698493",
+  "title": "Observation of long-lived interlayer excitons in monolayer MoSe2–WSe2 heterostructures",
+  "abstract": "Van der Waals bound heterostructures constructed with two-dimensional materials, such as graphene, boron nitride and transition metal dichalcogenides, have sparked wide interest in device physics and technologies at the two-dimensional limit. One highly coveted heterostructure is that of differing monolayer transition metal dichalcogenides with type-II band alignment, with bound electrons and holes localized in individual monolayers, that is, interlayer excitons. Here, we report the observation of interlayer excitons in monolayer MoSe2–WSe2 heterostructures by photoluminescence and photoluminescence excitation spectroscopy. We find that their energy and luminescence intensity are highly tunable by an applied vertical gate voltage. Moreover, we measure an interlayer exciton lifetime of ~1.8 ns, an order of magnitude longer than intralayer excitons in monolayers. Our work demonstrates optical pumping of interlayer electric polarization, which may provoke further exploration of interlayer exciton condensation, as well as new applications in two-dimensional lasers, light-emitting diodes and photovoltaic devices. Monolayer transition metal dichalcogenide heterostructures with type II band alignment have generated wide interest in device physics at the two-dimensional limit. Here, Rivera et al. observe interlayer excitons in vertically stacked MoSe2–WSe2 heterostructures and demonstrate tunability of the energy and luminescence.",
+  "authors": [
+    "Pasqual Rivera",
+    "John R. Schaibley",
+    "Aaron M. Jones",
+    "Jason Ross",
+    "Sanfeng Wu",
+    "Grant Aivazian",
+    "Philip Klement",
+    "Kyle L. Seyler",
+    "Genevieve Clark",
+    "N. Ghimire",
+    "Jiaqiang Yan",
+    "David G. Mandrus",
+    "Wang Yao",
+    "Xiaodong Xu"
+  ],
+  "year": 2015,
+  "doi": "10.1038/ncomms7242",
+  "source": "openalex",
+  "categories": [
+    "Exciton",
+    "Monolayer",
+    "Heterojunction",
+    "Photoluminescence",
+    "Materials science",
+    "Optoelectronics",
+    "van der Waals force",
+    "Luminescence",
+    "Condensed matter physics",
+    "Nanotechnology",
+    "Chemistry",
+    "Physics",
+    "Organic chemistry",
+    "Molecule"
+  ],
+  "citation_count": 1703,
+  "open_access_pdf_url": "https://www.nature.com/articles/ncomms7242.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2051698493.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:33.138900+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2051698493",
+    "concepts": [
+      "Exciton",
+      "Monolayer",
+      "Heterojunction",
+      "Photoluminescence",
+      "Materials science"
+    ],
+    "oa_status": "gold"
+  }
+}

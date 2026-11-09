@@ -1,0 +1,61 @@
+{
+  "id": "openalex:W2073669869",
+  "title": "Highly Efficient Photocatalytic H2 Evolution from Water using Visible Light and Structure‐Controlled Graphitic Carbon Nitride",
+  "abstract": "The major challenge of photocatalytic water splitting, the prototypical reaction for the direct production of hydrogen by using solar energy, is to develop low-cost yet highly efficient and stable semiconductor photocatalysts. Herein, an effective strategy for synthesizing extremely active graphitic carbon nitride (g-C3N4) from a low-cost precursor, urea, is reported. The g-C3N4 exhibits an extraordinary hydrogen-evolution rate (ca. 20,000 μmol h(-1) g(-1) under full arc), which leads to a high turnover number (TON) of over 641 after 6 h. The reaction proceeds for more than 30 h without activity loss and results in an internal quantum yield of 26.5% under visible light, which is nearly an order of magnitude higher than that observed for any other existing g-C3N4 photocatalysts. Furthermore, it was found by experimental analysis and DFT calculations that as the degree of polymerization increases and the proton concentration decreases, the hydrogen-evolution rate is significantly enhanced.",
+  "authors": [
+    "David James Martin",
+    "Kaipei Qiu",
+    "Stephen Andrew Shevlin",
+    "Albertus Denny Handoko",
+    "Xiaowei Chen",
+    "Zhengxiao Guo",
+    "Junwang Tang"
+  ],
+  "year": 2014,
+  "doi": "10.1002/anie.201403375",
+  "source": "openalex",
+  "categories": [
+    "Graphitic carbon nitride",
+    "Photocatalysis",
+    "Water splitting",
+    "Carbon nitride",
+    "Hydrogen",
+    "Hydrogen production",
+    "Nitride",
+    "Materials science",
+    "Quantum yield",
+    "Photochemistry",
+    "Carbon fibers",
+    "Visible spectrum",
+    "Semiconductor",
+    "Polymerization",
+    "Catalysis",
+    "Chemistry",
+    "Nanotechnology",
+    "Optoelectronics",
+    "Polymer",
+    "Composite number",
+    "Organic chemistry",
+    "Physics",
+    "Layer (electronics)",
+    "Fluorescence",
+    "Composite material",
+    "Quantum mechanics"
+  ],
+  "citation_count": 1148,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/anie.201403375",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2073669869.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:14.619990+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2073669869",
+    "concepts": [
+      "Graphitic carbon nitride",
+      "Photocatalysis",
+      "Water splitting",
+      "Carbon nitride",
+      "Hydrogen"
+    ],
+    "oa_status": "bronze"
+  }
+}

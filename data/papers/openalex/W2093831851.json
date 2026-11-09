@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W2093831851",
+  "title": "Best practice methods for determining an electrode material's performance for ultracapacitors",
+  "abstract": "Ultracapacitors are rapidly being adopted for a wide range of electrical energy storage applications. While ultracapacitors are able to deliver high rates of charge and discharge, they are limited in the amount of energy stored. The capacity of ultracapacitors is largely determined by the electrode material and as a result research to improve the performance of electrode materials has dramatically increased. While test methods for packaged ultracapacitors are well developed, it is often impractical for the materials scientist to assemble full sized, packaged cells to test electrode materials. Methodology to reliably measure a material's performance for use as an ultracapacitor electrode is not well standardized with various techniques yielding widely varying results. In this manuscript, we review and validate best practice test methods that accurately predict a material's performance, yet are flexible and quick enough to accommodate a wide range of material sample types and amounts.",
+  "authors": [
+    "Meryl D. Stoller",
+    "Rodney S. Ruoff"
+  ],
+  "year": 2010,
+  "doi": "10.1039/c0ee00074d",
+  "source": "openalex",
+  "categories": [
+    "Supercapacitor",
+    "Electrode",
+    "Materials science",
+    "Energy storage",
+    "Range (aeronautics)",
+    "Process engineering",
+    "Nanotechnology",
+    "Automotive engineering",
+    "Composite material",
+    "Engineering",
+    "Capacitance",
+    "Chemistry",
+    "Power (physics)",
+    "Physics",
+    "Quantum mechanics",
+    "Physical chemistry"
+  ],
+  "citation_count": 2315,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1005.0805",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2093831851.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:08.795227+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2093831851",
+    "concepts": [
+      "Supercapacitor",
+      "Electrode",
+      "Materials science",
+      "Energy storage",
+      "Range (aeronautics)"
+    ],
+    "oa_status": "green"
+  }
+}

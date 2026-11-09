@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2020682813",
+  "title": "Identification Problems in the Social Sciences",
+  "abstract": "Methodological research in the social sciences aims to learn what conclusions can and cannot be drawn given empirically relevant combinations of assumptions and data. Methodologists have long found it useful to separate inferential problems into statistical and identification components. Studies of identification seek to characterize the conclusions that could be drawn if the researcher had available a sample of unlimited size. Studies of statistical inference seek to characterize the generally weaker conclusions that can be drawn given a sample of positive but finite size. Statistical and identification problems limit in distinct ways the conclusions that may be drawn in empirical research. Statistical problems are most severe when the available sample is small. Identification problems are most severe when the researcher knows little about the population under study and the sampling process yields only weak data on the population. This paper synthesizes some of my recent research and thinking on identification problems in the social sciences. Four problems are discussed: extrapolation of regressions, the selection problem, identification of endogenous social effects from outcome data, and identification of subjective phenomena. These problems arise regularly in social science research and are the source of many substantive disputes.",
+  "authors": [
+    "Charles F. Manski"
+  ],
+  "year": 1993,
+  "doi": "10.4159/9780674265790",
+  "source": "openalex",
+  "categories": [
+    "Identification (biology)",
+    "Statistical inference",
+    "Sample (material)",
+    "Sample size determination",
+    "Population",
+    "Inference",
+    "Empirical research",
+    "Psychology",
+    "Data science",
+    "Computer science",
+    "Statistics",
+    "Mathematics",
+    "Sociology",
+    "Artificial intelligence",
+    "Botany",
+    "Demography",
+    "Biology",
+    "Chemistry",
+    "Chromatography"
+  ],
+  "citation_count": 1178,
+  "open_access_pdf_url": "https://ageconsearch.umn.edu/record/292716/files/uwmad-0066.PDF",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2020682813.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:12.088865+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2020682813",
+    "concepts": [
+      "Identification (biology)",
+      "Statistical inference",
+      "Sample (material)",
+      "Sample size determination",
+      "Population"
+    ],
+    "oa_status": "green"
+  }
+}

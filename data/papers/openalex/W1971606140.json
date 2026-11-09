@@ -1,0 +1,43 @@
+{
+  "id": "openalex:W1971606140",
+  "title": "Mass spectrometry‐based metabolomics",
+  "abstract": "This review presents an overview of the dynamically developing field of mass spectrometry-based metabolomics. Metabolomics aims at the comprehensive and quantitative analysis of wide arrays of metabolites in biological samples. These numerous analytes have very diverse physico-chemical properties and occur at different abundance levels. Consequently, comprehensive metabolomics investigations are primarily a challenge for analytical chemistry and specifically mass spectrometry has vast potential as a tool for this type of investigation. Metabolomics require special approaches for sample preparation, separation, and mass spectrometric analysis. Current examples of those approaches are described in this review. It primarily focuses on metabolic fingerprinting, a technique that analyzes all detectable analytes in a given sample with subsequent classification of samples and identification of differentially expressed metabolites, which define the sample classes. To perform this complex task, data analysis tools, metabolite libraries, and databases are required. Therefore, recent advances in metabolomics bioinformatics are also discussed.",
+  "authors": [
+    "Katja Dettmer",
+    "Pavel A. Aronov",
+    "Bruce D. Hammock"
+  ],
+  "year": 2006,
+  "doi": "10.1002/mas.20108",
+  "source": "openalex",
+  "categories": [
+    "Metabolomics",
+    "Chemistry",
+    "Mass spectrometry",
+    "Identification (biology)",
+    "Analyte",
+    "Sample (material)",
+    "Computational biology",
+    "Sample preparation",
+    "Metabolite profiling",
+    "Chromatography",
+    "Biology",
+    "Botany"
+  ],
+  "citation_count": 2379,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/mas.20108",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1971606140.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:08.734862+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1971606140",
+    "concepts": [
+      "Metabolomics",
+      "Chemistry",
+      "Mass spectrometry",
+      "Identification (biology)",
+      "Analyte"
+    ],
+    "oa_status": "hybrid"
+  }
+}

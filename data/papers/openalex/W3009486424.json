@@ -1,0 +1,62 @@
+{
+  "id": "openalex:W3009486424",
+  "title": "Enhanced Nitrate-to-Ammonia Activity on Copper–Nickel Alloys via Tuning of Intermediate Adsorption",
+  "abstract": "Electrochemical conversion of nitrate (NO 3 – ) into ammonia (NH 3 ) recycles nitrogen and offers a route to the production of NH 3, which is more valuable than dinitrogen gas. However, today’s development of NO 3 – electroreduction remains hindered by the lack of a mechanistic picture of how catalyst structure may be tuned to enhance catalytic activity. Here we demonstrate enhanced NO 3 – reduction reaction (NO 3 – RR) performance on Cu 50 Ni 50 alloy catalysts, including a 0.12 V upshift in the half-wave potential and a 6-fold increase in activity compared to those obtained with pure Cu at 0 V vs reversible hydrogen electrode (RHE). Ni alloying enables tuning of the Cu d- band center and modulates the adsorption energies of intermediates such as *NO 3 –, *NO 2, and *NH 2 . Using density functional theory calculations, we identify a NO 3 – RR-to-NH 3 pathway and offer an adsorption energy–activity relationship for the CuNi alloy system. This correlation between catalyst electronic structure and NO 3 – RR activity offers a design platform for further development of NO 3 – RR catalysts.",
+  "authors": [
+    "Yuhang Wang",
+    "Aoni Xu",
+    "Ziyun Wang",
+    "Linsong Huang",
+    "Jun Li",
+    "Fengwang Li",
+    "Joshua Wicks",
+    "Mingchuan Luo",
+    "Dae‐Hyun Nam",
+    "Chih‐Shan Tan",
+    "Yu Ding",
+    "Jiawen Wu",
+    "Yanwei Lum",
+    "Cao‐Thang Dinh",
+    "David A. Sinton",
+    "Gengfeng Zheng",
+    "Edward Hartley Sargent"
+  ],
+  "year": 2020,
+  "doi": "10.1021/jacs.9b13347",
+  "source": "openalex",
+  "categories": [
+    "Chemistry",
+    "Catalysis",
+    "Adsorption",
+    "Electrochemistry",
+    "Nickel",
+    "Ammonia",
+    "Alloy",
+    "Copper",
+    "Nitrate",
+    "Inorganic chemistry",
+    "Hydrogen",
+    "Ammonia production",
+    "Density functional theory",
+    "Electrode",
+    "Physical chemistry",
+    "Computational chemistry",
+    "Organic chemistry"
+  ],
+  "citation_count": 1398,
+  "open_access_pdf_url": "https://utoronto.scholaris.ca/bitstreams/a2828ee2-123d-456a-bfb6-d48f8e99bae5/download",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3009486424.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:52.480704+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3009486424",
+    "concepts": [
+      "Chemistry",
+      "Catalysis",
+      "Adsorption",
+      "Electrochemistry",
+      "Nickel"
+    ],
+    "oa_status": "green"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W3197144385",
+  "title": "Recent development of hydrogen and fuel cell technologies: A review",
+  "abstract": "Hydrogen has emerged as a new energy vector beyond its usual role as an industrial feedstock, primarily for the production of ammonia, methanol, and petroleum refining. In addition to environmental sustainability issues, energy-scarce developed countries, such as Japan and Korea, are also facing an energy security issue, and hydrogen or hydrogen carriers, such as ammonia and methylcyclohexane, seem to be options to address these long-term energy availability issues. China has been eagerly developing renewable energy and hydrogen infrastructure to meet their sustainability goals and the growing energy demand. In this review, we focus on hydrogen electrification through proton-exchange membrane fuel cells (PEMFCs), which are widely believed to be commercially suitable for automotive applications, particularly for vehicles requiring minimal hydrogen infrastructure support, such as fleets of taxies, buses, and logistic vehicles. This review covers all the key components of PEMFCs, thermal and water management, and related characterization techniques. A special consideration of PEMFCs in automotive applications is the highlight of this work, leading to the infrastructure development for hydrogen generation, storage, and transportation. Furthermore, national strategies toward the use of hydrogen are reviewed, thereby setting the rationale for the hydrogen economy.",
+  "authors": [
+    "Lixin Fan",
+    "Zhengkai Tu",
+    "Siew Hwa Chan"
+  ],
+  "year": 2021,
+  "doi": "10.1016/j.egyr.2021.08.003",
+  "source": "openalex",
+  "categories": [
+    "Hydrogen economy",
+    "Energy carrier",
+    "Hydrogen technologies",
+    "Hydrogen vehicle",
+    "Hydrogen fuel",
+    "Renewable energy",
+    "Hydrogen storage",
+    "Hydrogen production",
+    "Proton exchange membrane fuel cell",
+    "Automotive industry",
+    "Sustainability",
+    "Energy security",
+    "Environmental science",
+    "Waste management",
+    "Business",
+    "Fuel cells",
+    "Engineering",
+    "Hydrogen",
+    "Chemistry",
+    "Organic chemistry",
+    "Chemical engineering",
+    "Ecology",
+    "Aerospace engineering",
+    "Biology",
+    "Electrical engineering"
+  ],
+  "citation_count": 1090,
+  "open_access_pdf_url": "https://www.sciencedirect.com/science/article/pii/S2352484721006053/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3197144385.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:24.353666+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3197144385",
+    "concepts": [
+      "Hydrogen economy",
+      "Energy carrier",
+      "Hydrogen technologies",
+      "Hydrogen vehicle",
+      "Hydrogen fuel"
+    ],
+    "oa_status": "gold"
+  }
+}

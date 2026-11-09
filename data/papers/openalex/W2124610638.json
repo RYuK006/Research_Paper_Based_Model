@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2124610638",
+  "title": "Protocol for the development of the Master Chemical Mechanism, MCM v3 (Part A): tropospheric degradation of non-aromatic volatile organic compounds",
+  "abstract": "Abstract. Kinetic and mechanistic data relevant to the tropospheric degradation of volatile organic compounds (VOC), and the production of secondary pollutants, have previously been used to define a protocol which underpinned the construction of a near-explicit Master Chemical Mechanism. In this paper, an update to the previous protocol is presented, which has been used to define degradation schemes for 107 non-aromatic VOC as part of version 3 of the Master Chemical Mechanism (MCM v3). The treatment of 18 aromatic VOC is described in a companion paper. The protocol is divided into a series of subsections describing initiation reactions, the reactions of the radical intermediates and the further degradation of first and subsequent generation products. Emphasis is placed on updating the previous information, and outlining the methodology which is specifically applicable to VOC not considered previously (e.g. a- and b-pinene). The present protocol aims to take into consideration work available in the open literature up to the beginning of 2001, and some other studies known by the authors which were under review at the time. Application of MCM v3 in appropriate box models indicates that the representation of isoprene degradation provides a good description of the speciated distribution of oxygenated organic products observed in reported field studies where isoprene was the dominant emitted hydrocarbon, and that the a-pinene degradation chemistry provides a good description of the time dependence of key gas phase species in a-pinene/NOX photo-oxidation experiments carried out in the European Photoreactor (EUPHORE). Photochemical Ozone Creation Potentials (POCP) have been calculated for the 106 non-aromatic non-methane VOC in MCM v3 for idealised conditions appropriate to north-west Europe, using a photochemical trajectory model. The POCP values provide a measure of the relative ozone forming abilities of the VOC. Where applicable, the values are compared with those calculated with previous versions of the MCM.",
+  "authors": [
+    "S. M. Saunders",
+    "Michael E. Jenkin",
+    "Richard G. Derwent",
+    "Michael J. Pilling"
+  ],
+  "year": 2003,
+  "doi": "10.5194/acp-3-161-2003",
+  "source": "openalex",
+  "categories": [
+    "Isoprene",
+    "Chemistry",
+    "Degradation (telecommunications)",
+    "Troposphere",
+    "Montreal Protocol",
+    "Environmental chemistry",
+    "Reaction mechanism",
+    "Ozone",
+    "Organic chemistry",
+    "Biochemical engineering",
+    "Computational chemistry",
+    "Ozone layer",
+    "Meteorology",
+    "Catalysis",
+    "Computer science",
+    "Telecommunications",
+    "Engineering",
+    "Physics",
+    "Copolymer",
+    "Polymer"
+  ],
+  "citation_count": 1732,
+  "open_access_pdf_url": "https://acp.copernicus.org/articles/3/161/2003/acp-3-161-2003.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2124610638.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:26.233604+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2124610638",
+    "concepts": [
+      "Isoprene",
+      "Chemistry",
+      "Degradation (telecommunications)",
+      "Troposphere",
+      "Montreal Protocol"
+    ],
+    "oa_status": "gold"
+  }
+}

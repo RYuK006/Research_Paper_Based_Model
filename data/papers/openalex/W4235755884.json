@@ -1,0 +1,37 @@
+{
+  "id": "openalex:W4235755884",
+  "title": "Global CO 2 emissions from cement production, 1928–2018",
+  "abstract": "Abstract. Global production of cement has grown very rapidly in recent years, and after fossil fuels and land-use change, it is the third-largest source of anthropogenic emissions of carbon dioxide. The availability of the required data for estimating emissions from global cement production is poor, and it has been recognised that some global estimates are significantly inflated. This article assembles a large variety of available datasets, prioritising official data and emission factors, including estimates submitted to the UNFCCC plus new estimates for China and India, to present a new analysis of global process emissions from cement production. Global process emissions in 2018 were 1.50 ± 0.12 Gt CO2, equivalent to about 4 % of emissions from fossil fuels. Cumulative emissions from 1928 to 2018 were 38.3 ± 2.4 Gt CO2, 71 % of which have occurred since 1990. The data associated with this article can be found at https://doi.org/10.5281/zenodo.831454 (Andrew, 2019).",
+  "authors": [
+    "Robbie M. Andrew"
+  ],
+  "year": 2019,
+  "doi": "10.5194/essd-11-1675-2019",
+  "source": "openalex",
+  "categories": [
+    "Cement",
+    "Production (economics)",
+    "Environmental science",
+    "Chemistry",
+    "Materials science",
+    "Metallurgy",
+    "Economics",
+    "Macroeconomics"
+  ],
+  "citation_count": 1096,
+  "open_access_pdf_url": "https://essd.copernicus.org/articles/11/1675/2019/essd-11-1675-2019.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W4235755884.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:24.304611+00:00",
+  "raw_metadata": {
+    "openalex_id": "W4235755884",
+    "concepts": [
+      "Cement",
+      "Production (economics)",
+      "Environmental science",
+      "Chemistry",
+      "Materials science"
+    ],
+    "oa_status": "gold"
+  }
+}

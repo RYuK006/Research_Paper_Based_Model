@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W2128922124",
+  "title": "Reversible Cycling of Crystalline Silicon Powder",
+  "abstract": "A method is described in which crystalline silicon can be used as a practical anode material for lithium-ion batteries. Commercial lithium-ion cells are typically charged at a constant current to a fixed voltage and then are held by the charger at constant voltage until the current decreases to a certain value (also known as constant current/constant voltage or CCCV charging). It is first shown that CCCV charging can be used to reversibly cycle crystalline silicon and limit its capacity. A cycling method is then demonstrated in which crystalline silicon is first partially converted to amorphous silicon, in situ, during conditioning cycles. After the conditioning cycles the silicon can be cycled normally, using CCCV cycling limits, with good coulombic efficiency and little overlithiation during the first cycle.",
+  "authors": [
+    "Mark N. Obrovac",
+    "Larry J. Krause"
+  ],
+  "year": 2007,
+  "doi": "10.1149/1.2402112",
+  "source": "openalex",
+  "categories": [
+    "Silicon",
+    "Anode",
+    "Faraday efficiency",
+    "Materials science",
+    "Crystalline silicon",
+    "Lithium (medication)",
+    "Voltage",
+    "Ion",
+    "Amorphous solid",
+    "Amorphous silicon",
+    "Constant current",
+    "Cycling",
+    "Optoelectronics",
+    "Chemical engineering",
+    "Nanotechnology",
+    "Electrical engineering",
+    "Chemistry",
+    "Electrode",
+    "Crystallography",
+    "Archaeology",
+    "Engineering",
+    "Endocrinology",
+    "Organic chemistry",
+    "History",
+    "Physical chemistry",
+    "Medicine"
+  ],
+  "citation_count": 1282,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1149/1.2402112/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2128922124.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:00.440142+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2128922124",
+    "concepts": [
+      "Silicon",
+      "Anode",
+      "Faraday efficiency",
+      "Materials science",
+      "Crystalline silicon"
+    ],
+    "oa_status": "bronze"
+  }
+}

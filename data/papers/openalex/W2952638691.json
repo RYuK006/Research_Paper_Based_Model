@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2952638691",
+  "title": "How Multilingual is Multilingual BERT?",
+  "abstract": "In this paper, we show that Multilingual BERT (M-BERT), released by Devlin et al. (2019) as a single language model pre-trained from monolingual corpora in 104 languages, is surprisingly good at zero-shot cross-lingual model transfer, in which task-specific annotations in one language are used to fine-tune the model for evaluation in another language.To understand why, we present a large number of probing experiments, showing that transfer is possible even to languages in different scripts, that transfer works best between typologically similar languages, that monolingual corpora can train models for code-switching, and that the model can find translation pairs.From these results, we can conclude that M-BERT does create multilingual representations, but that these representations exhibit systematic deficiencies affecting certain language pairs.",
+  "authors": [
+    "Telmo Pires",
+    "Eva Schlinger",
+    "Dan Garrette"
+  ],
+  "year": 2019,
+  "doi": "10.18653/v1/p19-1493",
+  "source": "openalex",
+  "categories": [
+    "Computer science",
+    "Scripting language",
+    "Natural language processing",
+    "Artificial intelligence",
+    "Task (project management)",
+    "Language model",
+    "Transfer (computing)",
+    "Zero (linguistics)",
+    "Multilingualism",
+    "Code (set theory)",
+    "Translation (biology)",
+    "Machine translation",
+    "Linguistics",
+    "Programming language",
+    "Set (abstract data type)",
+    "Management",
+    "Philosophy",
+    "Messenger RNA",
+    "Economics",
+    "Gene",
+    "Biochemistry",
+    "Parallel computing",
+    "Chemistry"
+  ],
+  "citation_count": 1715,
+  "open_access_pdf_url": "https://www.aclweb.org/anthology/P19-1493.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2952638691.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:33.093242+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2952638691",
+    "concepts": [
+      "Computer science",
+      "Scripting language",
+      "Natural language processing",
+      "Artificial intelligence",
+      "Task (project management)"
+    ],
+    "oa_status": "hybrid"
+  }
+}

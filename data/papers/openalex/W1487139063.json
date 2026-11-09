@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W1487139063",
+  "title": "Penalising Model Component Complexity: A Principled, Practical Approach to Constructing Priors",
+  "abstract": "In this paper, we introduce a new concept for constructing prior distributions. We exploit the natural nested structure inherent to many model components, which defines the model component to be a flexible extension of a base model. Proper priors are defined to penalise the complexity induced by deviating from the simpler base model and are formulated after the input of a user-defined scaling parameter for that model component, both in the univariate and the multivariate case. These priors are invariant to reparameterisations, have a natural connection to Jeffreys’ priors, are designed to support Occam’s razor and seem to have excellent robustness properties, all which are highly desirable and allow us to use this approach to define default prior distributions. Through examples and theoretical results, we demonstrate the appropriateness of this approach and how it can be applied in various situations.",
+  "authors": [
+    "Daniel Simpson",
+    "Håvard Rue",
+    "Andrea Riebler",
+    "Thiago G. Martins",
+    "Sigrunn Holbek Sørbye"
+  ],
+  "year": 2017,
+  "doi": "10.1214/16-sts576",
+  "source": "openalex",
+  "categories": [
+    "Prior probability",
+    "occam",
+    "Computer science",
+    "Robustness (evolution)",
+    "Component (thermodynamics)",
+    "Invariant (physics)",
+    "Univariate",
+    "Exploit",
+    "Mathematical optimization",
+    "Algorithm",
+    "Multivariate statistics",
+    "Artificial intelligence",
+    "Mathematics",
+    "Machine learning",
+    "Bayesian probability",
+    "Biochemistry",
+    "Gene",
+    "Thermodynamics",
+    "Computer security",
+    "Programming language",
+    "Mathematical physics",
+    "Physics",
+    "Chemistry"
+  ],
+  "citation_count": 1203,
+  "open_access_pdf_url": "https://projecteuclid.org/journals/statistical-science/volume-32/issue-1/Penalising-Model-Component-Complexity--A-Principled-Practical-Approach-to/10.1214/16-STS576.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1487139063.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:08.256078+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1487139063",
+    "concepts": [
+      "Prior probability",
+      "occam",
+      "Computer science",
+      "Robustness (evolution)",
+      "Component (thermodynamics)"
+    ],
+    "oa_status": "bronze"
+  }
+}

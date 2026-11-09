@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2166893697",
+  "title": "Prostaglandin D2 Selectively Induces Chemotaxis in T Helper Type 2 Cells, Eosinophils, and Basophils via Seven-Transmembrane Receptor Crth2",
+  "abstract": "Prostaglandin (PG)D2, which has long been implicated in allergic diseases, is currently considered to elicit its biological actions through the DP receptor (DP). Involvement of DP in the formation of allergic asthma was recently demonstrated with DP-deficient mice. However, proinflammatory functions of PGD2 cannot be explained by DP alone. We show here that a seven-transmembrane receptor, CRTH2, which is preferentially expressed in T helper type 2 (Th2) cells, eosinophils, and basophils in humans, serves as the novel receptor for PGD2. In response to PGD2, CRTH2 induces intracellular Ca2+mobilization and chemotaxis in Th2 cells in a Galphai-dependent manner. In addition, CRTH2, but not DP, mediates PGD2-dependent cell migration of blood eosinophils and basophils. Thus, PGD2 is likely involved in multiple aspects of allergic inflammation through its dual receptor systems, DP and CRTH2.",
+  "authors": [
+    "Hiroyuki Hirai",
+    "Kazuya Tanaka",
+    "Osamu Yoshie",
+    "Kazuyuki Ogawa",
+    "Kazumi Kenmotsu",
+    "Yasushi Takamori",
+    "Michiko Ichimasa",
+    "Kazuo Sugamura",
+    "Masataka Nakamura",
+    "Shoichi Takano",
+    "Kinya Nagata"
+  ],
+  "year": 2001,
+  "doi": "10.1084/jem.193.2.255",
+  "source": "openalex",
+  "categories": [
+    "Prostaglandin D2",
+    "Chemotaxis",
+    "Allergic inflammation",
+    "Receptor",
+    "Cell biology",
+    "Immunology",
+    "Biology",
+    "Inflammation",
+    "Chemistry",
+    "Biochemistry"
+  ],
+  "citation_count": 1108,
+  "open_access_pdf_url": "https://rupress.org/jem/article-pdf/193/2/255/1132944/001481.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2166893697.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:19.640814+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2166893697",
+    "concepts": [
+      "Prostaglandin D2",
+      "Chemotaxis",
+      "Allergic inflammation",
+      "Receptor",
+      "Cell biology"
+    ],
+    "oa_status": "bronze"
+  }
+}

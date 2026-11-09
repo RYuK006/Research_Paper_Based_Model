@@ -1,0 +1,45 @@
+{
+  "id": "openalex:W1949404224",
+  "title": "The control of firing pattern in nigral dopamine neurons: burst firing",
+  "abstract": "In addition to firing in a single spiking mode, dopamine (DA) cells have been observed to fire in a bursting pattern with consecutive spikes in a burst displaying progressively decreasing amplitude and increasing duration. In vivo intracellular recording demonstrated the bursts to typically ride on a depolarizing wave (5 to 15 mV amplitude). Although the burst-firing frequency of DA cells showed little correlation with the base line firing rate, increases in firing rate were usually associated with an increase in burst firing. Increases in burst firing could also be elicited by intracellular calcium injection and could be prevented by intracellular injection of EGTA, suggesting a calcium involvement in bursting. Blockade of potassium conductances with extracellular iontophoresis of barium or intracellular injection of tetraethylammonium bromide could also trigger an increased degree of burst firing in DA cells. These data suggest that the increased calcium influx accompanying an increased firing rate triggers burst firing, possibly by inactivating a potassium conductance. A switch from a single spiking mode to a burst-firing mode may be important in modulating striatal DA release, as shown for burst firing in other preparations.",
+  "authors": [
+    "AA Grace",
+    "BS Bunney"
+  ],
+  "year": 1984,
+  "doi": "10.1523/jneurosci.04-11-02877.1984",
+  "source": "openalex",
+  "categories": [
+    "Bursting",
+    "Biophysics",
+    "Chemistry",
+    "EGTA",
+    "Tetraethylammonium",
+    "Intracellular",
+    "Calcium",
+    "Depolarization",
+    "Calcium in biology",
+    "Neuroscience",
+    "Extracellular",
+    "Potassium",
+    "Biology",
+    "Biochemistry",
+    "Organic chemistry"
+  ],
+  "citation_count": 1369,
+  "open_access_pdf_url": "https://www.jneurosci.org/content/jneuro/4/11/2877.full.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1949404224.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:52.765318+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1949404224",
+    "concepts": [
+      "Bursting",
+      "Biophysics",
+      "Chemistry",
+      "EGTA",
+      "Tetraethylammonium"
+    ],
+    "oa_status": "hybrid"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W1980419364",
+  "title": "PEGylated Nanographene Oxide for Delivery of Water-Insoluble Cancer Drugs",
+  "abstract": "It is known that many potent, often aromatic drugs are water insoluble, which has hampered their use for disease treatment. In this work, we functionalized nanographene oxide (NGO), a novel graphitic material, with branched polyethylene glycol (PEG) to obtain a biocompatible NGO-PEG conjugate stable in various biological solutions, and used them for attaching hydrophobic aromatic molecules including a camptothecin (CPT) analogue, SN38, noncovalently via pi-pi stacking. The resulting NGO-PEG-SN38 complex exhibited excellent water solubility while maintaining its high cancer cell killing potency similar to that of the free SN38 molecules in organic solvents. The efficacy of NGO-PEG-SN38 was far higher than that of irinotecan (CPT-11), a FDA-approved water soluble SN38 prodrug used for the treatment of colon cancer. Our results showed that graphene is a novel class of material promising for biological applications including future in vivo cancer treatment with various aromatic, low-solubility drugs.",
+  "authors": [
+    "Zhuang Liu",
+    "Joshua Tucker Robinson",
+    "Xiaoming Sun",
+    "Hongjie Dai"
+  ],
+  "year": 2008,
+  "doi": "10.1021/ja803688x",
+  "source": "openalex",
+  "categories": [
+    "Chemistry",
+    "Prodrug",
+    "Irinotecan",
+    "Polyethylene glycol",
+    "Camptothecin",
+    "PEG ratio",
+    "Combinatorial chemistry",
+    "Solubility",
+    "Conjugate",
+    "Drug delivery",
+    "Nanotechnology",
+    "Organic chemistry",
+    "Cancer",
+    "Biochemistry",
+    "Colorectal cancer",
+    "Materials science",
+    "Economics",
+    "Finance",
+    "Internal medicine",
+    "Mathematics",
+    "Mathematical analysis",
+    "Medicine"
+  ],
+  "citation_count": 3603,
+  "open_access_pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/2597374",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1980419364.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:57.663022+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1980419364",
+    "concepts": [
+      "Chemistry",
+      "Prodrug",
+      "Irinotecan",
+      "Polyethylene glycol",
+      "Camptothecin"
+    ],
+    "oa_status": "green"
+  }
+}

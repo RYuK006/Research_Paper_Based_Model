@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W2161444534",
+  "title": "MRBAYES: Bayesian inference of phylogenetic trees",
+  "abstract": "SUMMARY: The program MRBAYES performs Bayesian inference of phylogeny using a variant of Markov chain Monte Carlo. AVAILABILITY: MRBAYES, including the source code, documentation, sample data files, and an executable, is available at http://brahms.biology.rochester.edu/software.html.",
+  "authors": [
+    "John P. Huelsenbeck",
+    "Fredrik Ronquist"
+  ],
+  "year": 2001,
+  "doi": "10.1093/bioinformatics/17.8.754",
+  "source": "openalex",
+  "categories": [
+    "Markov chain Monte Carlo",
+    "Executable",
+    "Computer science",
+    "Source code",
+    "Bayesian probability",
+    "Inference",
+    "Sample (material)",
+    "Phylogenetic tree",
+    "Software",
+    "Biology",
+    "Artificial intelligence",
+    "Programming language",
+    "Genetics",
+    "Gene",
+    "Chemistry",
+    "Chromatography"
+  ],
+  "citation_count": 23169,
+  "open_access_pdf_url": "https://academic.oup.com/bioinformatics/article-pdf/17/8/754/48837190/bioinformatics_17_8_754.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2161444534.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:49.802537+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2161444534",
+    "concepts": [
+      "Markov chain Monte Carlo",
+      "Executable",
+      "Computer science",
+      "Source code",
+      "Bayesian probability"
+    ],
+    "oa_status": "bronze"
+  }
+}

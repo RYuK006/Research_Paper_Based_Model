@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2278970271",
+  "title": "The Open Quantum Materials Database (OQMD): assessing the accuracy of DFT formation energies",
+  "abstract": "Abstract The Open Quantum Materials Database (OQMD) is a high-throughput database currently consisting of nearly 300,000 density functional theory (DFT) total energy calculations of compounds from the Inorganic Crystal Structure Database (ICSD) and decorations of commonly occurring crystal structures. To maximise the impact of these data, the entire database is being made available, without restrictions, at www.oqmd.org/download . In this paper, we outline the structure and contents of the database, and then use it to evaluate the accuracy of the calculations therein by comparing DFT predictions with experimental measurements for the stability of all elemental ground-state structures and 1,670 experimental formation energies of compounds. This represents the largest comparison between DFT and experimental formation energies to date. The apparent mean absolute error between experimental measurements and our calculations is 0.096 eV/atom. In order to estimate how much error to attribute to the DFT calculations, we also examine deviation between different experimental measurements themselves where multiple sources are available, and find a surprisingly large mean absolute error of 0.082 eV/atom. Hence, we suggest that a significant fraction of the error between DFT and experimental formation energies may be attributed to experimental uncertainties. Finally, we evaluate the stability of compounds in the OQMD (including compounds obtained from the ICSD as well as hypothetical structures), which allows us to predict the existence of ~3,200 new compounds that have not been experimentally characterised and uncover trends in material discovery, based on historical data available within the ICSD.",
+  "authors": [
+    "Scott J. Kirklin",
+    "James E. Saal",
+    "Bryce Meredig",
+    "Alexander E. Thompson",
+    "Jeff W. Doak",
+    "Muratahan Aykol",
+    "Stephan Rühl",
+    "Chris M. Wolverton"
+  ],
+  "year": 2015,
+  "doi": "10.1038/npjcompumats.2015.10",
+  "source": "openalex",
+  "categories": [
+    "Density functional theory",
+    "Database",
+    "Atom (system on chip)",
+    "Stability (learning theory)",
+    "Error bar",
+    "Materials science",
+    "Chemistry",
+    "Computational chemistry",
+    "Physics",
+    "Computer science",
+    "Embedded system",
+    "Machine learning",
+    "Astrophysics"
+  ],
+  "citation_count": 2464,
+  "open_access_pdf_url": "https://www.nature.com/articles/npjcompumats201510.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2278970271.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:08.666217+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2278970271",
+    "concepts": [
+      "Density functional theory",
+      "Database",
+      "Atom (system on chip)",
+      "Stability (learning theory)",
+      "Error bar"
+    ],
+    "oa_status": "gold"
+  }
+}

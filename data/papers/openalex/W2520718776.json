@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2520718776",
+  "title": "Effect of bioink properties on printability and cell viability for 3D bioplotting of embryonic stem cells",
+  "abstract": "3D cell printing is an emerging technology for fabricating complex cell-laden constructs with precise and pre-designed geometry, structure and composition to overcome the limitations of 2D cell culture and conventional tissue engineering scaffold technology. This technology enables spatial manipulation of cells and biomaterials, also referred to as 'bioink', and thus allows study of cellular interactions in a 3D microenvironment and/or in the formation of functional tissues and organs. Recently, many efforts have been made to develop new bioinks and to apply more cell sources for better biocompatibility and biofunctionality. However, the influences of printing parameters on the shape fidelity of 3D constructs as well as on cell viability after the cell printing process have been poorly characterized. Furthermore, parameter optimization based on a specific cell type might not be suitable for other types of cells, especially cells with high sensibility. In this study, we systematically studied the influence of bioink properties and printing parameters on bioink printability and embryonic stem cell (ESC) viability in the process of extrusion-based cell printing, also known as bioplotting. A novel method was established to determine suitable conditions for bioplotting ESCs to achieve both good printability and high cell viability. The rheological properties of gelatin/alginate bioinks were evaluated to determine the gelation properties under different bioink compositions, printing temperatures and holding times. The bioink printability was characterized by a newly developed semi-quantitative method. The results demonstrated that bioinks with longer gelation times would result in poorer printability. The live/dead assay showed that ESC viability increased with higher printing temperatures and lower gelatin concentrations. Furthermore, an exponential relationship was obtained between ESC viability and induced shear stress. By defining the proper printability and acceptable viability ranges, a combined parameters region was obtained. This study provides guidance for parameter optimization and the fine-tuning of 3D cell printing processes regarding both bioink printability and cell viability after bioplotting, especially for easily damaged cells, like ESCs.",
+  "authors": [
+    "Liliang Ouyang",
+    "Rui Yao",
+    "Yu Zhao",
+    "Wei Sun"
+  ],
+  "year": 2016,
+  "doi": "10.1088/1758-5090/8/3/035020",
+  "source": "openalex",
+  "categories": [
+    "Viability assay",
+    "Gelatin",
+    "Biocompatibility",
+    "Materials science",
+    "3D bioprinting",
+    "Scaffold",
+    "Tissue engineering",
+    "Embryonic stem cell",
+    "Biomedical engineering",
+    "3D printing",
+    "Nanotechnology",
+    "Cell",
+    "Chemistry",
+    "Composite material",
+    "Medicine",
+    "Gene",
+    "Metallurgy",
+    "Biochemistry"
+  ],
+  "citation_count": 1096,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1088/1758-5090/8/3/035020/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2520718776.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:24.300192+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2520718776",
+    "concepts": [
+      "Viability assay",
+      "Gelatin",
+      "Biocompatibility",
+      "Materials science",
+      "3D bioprinting"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W4389773814",
+  "title": "Logs with Zeros? Some Problems and Solutions",
+  "abstract": "Abstract When studying an outcome Y that is weakly positive but can equal zero (e.g., earnings), researchers frequently estimate an average treatment effect (ATE) for a “log-like” transformation that behaves like log (Y) for large Y but is defined at zero (e.g., log (1 + Y), $\\operatorname{arcsinh}(Y)$). We argue that ATEs for log-like transformations should not be interpreted as approximating percentage effects, since unlike a percentage, they depend on the units of the outcome. In fact, we show that if the treatment affects the extensive margin, one can obtain a treatment effect of any magnitude simply by rescaling the units of Y before taking the log-like transformation. This arbitrary unit dependence arises because an individual-level percentage effect is not well-defined for individuals whose outcome changes from zero to nonzero when receiving treatment, and the units of the outcome implicitly determine how much weight the ATE for a log-like transformation places on the extensive margin. We further establish a trilemma: when the outcome can equal zero, there is no treatment effect parameter that is an average of individual-level treatment effects, unit invariant, and point identified. We discuss several alternative approaches that may be sensible in settings with an intensive and extensive margin, including (i) expressing the ATE in levels as a percentage (e.g., using Poisson regression), (ii) explicitly calibrating the value placed on the intensive and extensive margins, and (iii) estimating separate effects for the two margins (e.g., using Lee bounds). We illustrate these approaches in three empirical applications.",
+  "authors": [
+    "Jiafeng Chen",
+    "Jonathan Roth"
+  ],
+  "year": 2023,
+  "doi": "10.1093/qje/qjad054",
+  "source": "openalex",
+  "categories": [
+    "Mathematics",
+    "Zero (linguistics)",
+    "Outcome (game theory)",
+    "Statistics",
+    "Margin (machine learning)",
+    "Poisson distribution",
+    "Transformation (genetics)",
+    "Invariant (physics)",
+    "Combinatorics",
+    "Mathematical economics",
+    "Computer science",
+    "Mathematical physics",
+    "Philosophy",
+    "Biochemistry",
+    "Machine learning",
+    "Linguistics",
+    "Chemistry",
+    "Gene"
+  ],
+  "citation_count": 1087,
+  "open_access_pdf_url": "https://arxiv.org/pdf/2212.06080",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W4389773814.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:24.440214+00:00",
+  "raw_metadata": {
+    "openalex_id": "W4389773814",
+    "concepts": [
+      "Mathematics",
+      "Zero (linguistics)",
+      "Outcome (game theory)",
+      "Statistics",
+      "Margin (machine learning)"
+    ],
+    "oa_status": "green"
+  }
+}

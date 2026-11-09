@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2042272880",
+  "title": "Method for the calculation of effective pore size distribution in molecular sieve carbon.",
+  "abstract": "A method for the calculation of effective pore size distribution from adsorption isotherms in molecular-sieve carbon is described. This method is more exact theoretically as well as practically than previously described methods. An average potential function has been determined inside the slit-like pores. With the help of this function the doubtful use of the Kelvin equation can be avoided at the scale of molecular dimensions. The method gives poor values for the larger pores but can be combined with the well-known Dollimore-Heal method at a pore size of 1.34 nm. Calculation is possible over a wide range of pore sizes. The calculation is shown through two examples from N2 isotherms at 77.4K. The model can be extended to other pore shapes as well as to other adsorbent-adsorbate pairs.",
+  "authors": [
+    "Géza Horváth",
+    "Kunitaro Kawazoe"
+  ],
+  "year": 1983,
+  "doi": "10.1252/jcej.16.470",
+  "source": "openalex",
+  "categories": [
+    "Molecular sieve",
+    "Adsorption",
+    "Kelvin equation",
+    "Carbon fibers",
+    "Range (aeronautics)",
+    "Distribution function",
+    "Sieve (category theory)",
+    "Function (biology)",
+    "Materials science",
+    "Thermodynamics",
+    "Chemistry",
+    "Chemical physics",
+    "Mineralogy",
+    "Physical chemistry",
+    "Physics",
+    "Composite material",
+    "Mathematics",
+    "Combinatorics",
+    "Composite number",
+    "Biology",
+    "Evolutionary biology"
+  ],
+  "citation_count": 2001,
+  "open_access_pdf_url": "https://www.jstage.jst.go.jp/article/jcej1968/16/6/16_6_470/_pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2042272880.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:17.682792+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2042272880",
+    "concepts": [
+      "Molecular sieve",
+      "Adsorption",
+      "Kelvin equation",
+      "Carbon fibers",
+      "Range (aeronautics)"
+    ],
+    "oa_status": "bronze"
+  }
+}

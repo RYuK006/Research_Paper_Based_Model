@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2005113904",
+  "title": "The urokinase-type plasminogen activator system in cancer metastasis: A review",
+  "abstract": "The urokinase-type plasminogen activator (u-PA) system consists of the serine proteinases plasmin and u-PA; the serpin inhibitors alpha2-anti-plasmin, PAI-1 and PAI-2; and the u-PA receptor (u-PAR). Two lines of evidence have strongly suggested an important and apparently causal role for the u-PA system in cancer metastasis: results from experimental model systems with animal tumor metastasis and the finding that high levels of u-PA, PAI-1 and u-PAR in many tumor types predict poor patient prognosis. We discuss here recent observations related to the molecular and cellular mechanisms underlying this role of the u-PA system. Many findings suggest that the system does not support tumor metastasis by the unrestricted enzyme activity of u-PA and plasmin. Rather, pericellular molecular and functional interactions between u-PA, u-PAR, PAI-1, extracellular matrix proteins, integrins, endocytosis receptors and growth factors appear to allow temporal and spatial re-organizations of the system during cell migration and a selective degradation of extracellular matrix proteins during invasion. Differential expression of components of the system by cancer and non-cancer cells, regulated by paracrine mechanisms, appear to determine the involvement of the system in cancer cell-directed tissue remodeling. A detailed knowledge of these processes is necessary for utilization of the therapeutic potential of interfering with the action of the system in cancers.",
+  "authors": [
+    "Peter A. Andreasen",
+    "Lars Kjøller",
+    "Lise Christensen",
+    "Michael Joe Duffy"
+  ],
+  "year": 1997,
+  "doi": "10.1002/(sici)1097-0215(19970703)72:1<1::aid-ijc1>3.0.co;2-z",
+  "source": "openalex",
+  "categories": [
+    "Metastasis",
+    "Plasmin",
+    "Plasminogen activator",
+    "Urokinase receptor",
+    "Cancer research",
+    "Cancer cell",
+    "Biology",
+    "Extracellular matrix",
+    "Cancer",
+    "Vitronectin",
+    "Integrin",
+    "Paracrine signalling",
+    "Cell biology",
+    "Receptor",
+    "Chemistry",
+    "Endocrinology",
+    "Biochemistry",
+    "Genetics",
+    "Enzyme",
+    "Fibronectin"
+  ],
+  "citation_count": 1546,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/%28SICI%291097-0215%2819970703%2972%3A1%3C1%3A%3AAID-IJC1%3E3.0.CO%3B2-Z",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2005113904.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:45.327351+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2005113904",
+    "concepts": [
+      "Metastasis",
+      "Plasmin",
+      "Plasminogen activator",
+      "Urokinase receptor",
+      "Cancer research"
+    ],
+    "oa_status": "bronze"
+  }
+}

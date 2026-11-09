@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2785060548",
+  "title": "New tolerance factor to predict the stability of perovskite oxides and halides",
+  "abstract": ") ranked by their probability of being stable as perovskite. This work guides experimentalists and theorists toward which perovskites are most likely to be successfully synthesized and demonstrates an approach to descriptor identification that can be extended to arbitrary applications beyond perovskite stability predictions.",
+  "authors": [
+    "Christopher J. Bartel",
+    "Christopher A. Sutton",
+    "Bryan R. Goldsmith",
+    "Runhai Ouyang",
+    "Charles B. Musgrave",
+    "Luca M. Ghiringhelli",
+    "Matthias Scheffler"
+  ],
+  "year": 2019,
+  "doi": "10.1126/sciadv.aav0693",
+  "source": "openalex",
+  "categories": [
+    "Halide",
+    "Simple (philosophy)",
+    "Perovskite (structure)",
+    "Stability (learning theory)",
+    "Computer science",
+    "Biological system",
+    "Materials science",
+    "Factor (programming language)",
+    "Chemical physics",
+    "Chemistry",
+    "Inorganic chemistry",
+    "Crystallography",
+    "Machine learning",
+    "Programming language",
+    "Biology",
+    "Philosophy",
+    "Epistemology"
+  ],
+  "citation_count": 1919,
+  "open_access_pdf_url": "https://advances.sciencemag.org/content/advances/5/2/eaav0693.full.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2785060548.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:17.916201+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2785060548",
+    "concepts": [
+      "Halide",
+      "Simple (philosophy)",
+      "Perovskite (structure)",
+      "Stability (learning theory)",
+      "Computer science"
+    ],
+    "oa_status": "gold"
+  }
+}

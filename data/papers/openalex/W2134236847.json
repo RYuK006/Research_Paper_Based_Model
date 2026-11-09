@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2134236847",
+  "title": "Point Set Registration: Coherent Point Drift",
+  "abstract": "Point set registration is a key component in many computer vision tasks. The goal of point set registration is to assign correspondences between two sets of points and to recover the transformation that maps one point set to the other. Multiple factors, including an unknown nonrigid spatial transformation, large dimensionality of point set, noise, and outliers, make the point set registration a challenging problem. We introduce a probabilistic method, called the Coherent Point Drift (CPD) algorithm, for both rigid and nonrigid point set registration. We consider the alignment of two point sets as a probability density estimation problem. We fit the Gaussian mixture model (GMM) centroids (representing the first point set) to the data (the second point set) by maximizing the likelihood. We force the GMM centroids to move coherently as a group to preserve the topological structure of the point sets. In the rigid case, we impose the coherence constraint by reparameterization of GMM centroid locations with rigid parameters and derive a closed form solution of the maximization step of the EM algorithm in arbitrary dimensions. In the nonrigid case, we impose the coherence constraint by regularizing the displacement field and using the variational calculus to derive the optimal transformation. We also introduce a fast algorithm that reduces the method computation complexity to linear. We test the CPD algorithm for both rigid and nonrigid transformations in the presence of noise, outliers, and missing points, where CPD shows accurate results and outperforms current state-of-the-art methods.",
+  "authors": [
+    "Andriy Myronenko",
+    "Xubo Song"
+  ],
+  "year": 2010,
+  "doi": "10.1109/tpami.2010.46",
+  "source": "openalex",
+  "categories": [
+    "Point set registration",
+    "Rigid transformation",
+    "Outlier",
+    "Centroid",
+    "Algorithm",
+    "Mixture model",
+    "Transformation (genetics)",
+    "Artificial intelligence",
+    "Mathematics",
+    "Noise (video)",
+    "Expectation–maximization algorithm",
+    "Computer science",
+    "Pattern recognition (psychology)",
+    "Point (geometry)",
+    "Image (mathematics)",
+    "Maximum likelihood",
+    "Chemistry",
+    "Gene",
+    "Biochemistry",
+    "Statistics",
+    "Geometry"
+  ],
+  "citation_count": 2842,
+  "open_access_pdf_url": "https://arxiv.org/pdf/0905.2635",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2134236847.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:01.901535+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2134236847",
+    "concepts": [
+      "Point set registration",
+      "Rigid transformation",
+      "Outlier",
+      "Centroid",
+      "Algorithm"
+    ],
+    "oa_status": "green"
+  }
+}

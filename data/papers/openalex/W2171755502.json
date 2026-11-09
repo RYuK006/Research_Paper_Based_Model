@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W2171755502",
+  "title": "Funnels, pathways, and the energy landscape of protein folding: A synthesis",
+  "abstract": "The understanding, and even the description of protein folding is impeded by the complexity of the process. Much of this complexity can be described and understood by taking a statistical approach to the energetics of protein conformation, that is, to the energy landscape. The statistical energy landscape approach explains when and why unique behaviors, such as specific folding pathways, occur in some proteins and more generally explains the distinction between folding processes common to all sequences and those peculiar to individual sequences. This approach also gives new, quantitative insights into the interpretation of experiments and simulations of protein folding thermodynamics and kinetics. Specifically, the picture provides simple explanations for folding as a two-state first-order phase transition, for the origin of metastable collapsed unfolded states and for the curved Arrhenius plots observed in both laboratory experiments and discrete lattice simulations. The relation of these quantitative ideas to folding pathways, to uniexponential vs. multiexponential behavior in protein folding experiments and to the effect of mutations on folding is also discussed. The success of energy landscape ideas in protein structure prediction is also described. The use of the energy landscape approach for analyzing data is illustrated with a quantitative analysis of some recent simulations, and a qualitative analysis of experiments on the folding of three proteins. The work unifies several previously proposed ideas concerning the mechanism protein folding and delimits the regions of validity of these ideas under different thermodynamic conditions.",
+  "authors": [
+    "Joseph D. Bryngelson",
+    "José N. Onuchic",
+    "Nicholas D. Socci",
+    "Peter Guy Wolynes"
+  ],
+  "year": 1995,
+  "doi": "10.1002/prot.340210302",
+  "source": "openalex",
+  "categories": [
+    "Energy landscape",
+    "Protein folding",
+    "Lattice protein",
+    "Folding (DSP implementation)",
+    "Downhill folding",
+    "Metastability",
+    "Statistical physics",
+    "Chemistry",
+    "Physics",
+    "Phi value analysis",
+    "Thermodynamics",
+    "Organic chemistry",
+    "Biochemistry",
+    "Engineering",
+    "Electrical engineering"
+  ],
+  "citation_count": 2659,
+  "open_access_pdf_url": "https://arxiv.org/pdf/chem-ph/9411008",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2171755502.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:04.196733+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2171755502",
+    "concepts": [
+      "Energy landscape",
+      "Protein folding",
+      "Lattice protein",
+      "Folding (DSP implementation)",
+      "Downhill folding"
+    ],
+    "oa_status": "green"
+  }
+}

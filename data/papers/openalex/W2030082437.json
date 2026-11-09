@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2030082437",
+  "title": "Hardness, softness, and the fukui function in the electronic theory of metals and catalysis.",
+  "abstract": "The concepts of hardness eta = (2E/N2)nu and fukui function f(r) = [rho (r)/N]nu, which have recently been associated with the theory of chemical reactivity in molecules, are extended to the theory of metals. It is shown that at T = 0, 1/eta = g(epsilon F) and f(r) = g(epsilon F, r)/g(epsilon F), where g(epsilon F), and g(epsilon F, r) are the density of states and the local density of states, at the Fermi energy epsilon F. Softness S and local softness s(r) are defined as 1/eta and Sf(r), respectively, and it is shown that (formula; see text) where the averages are over a grand canonical ensemble. It is pointed out that the postulate that f(r) or g(epsilon F, r) determines site selectivity for metals in chemisorption and catalysis is synonymous with the recent argument by Falicov and Somorjai [Falicov, L. M. & Somorjai, G. A. (1985) Proc. Natl. Acad. Sci. USA 82, 2207-2211] that such selectivity is determined by low-energy density fluctuations.",
+  "authors": [
+    "Weitao Yang",
+    "Robert G. Parr"
+  ],
+  "year": 1985,
+  "doi": "10.1073/pnas.82.20.6723",
+  "source": "openalex",
+  "categories": [
+    "Fukui function",
+    "Chemisorption",
+    "Density functional theory",
+    "Reactivity (psychology)",
+    "Physics",
+    "Chemistry",
+    "Function (biology)",
+    "Fermi energy",
+    "Catalysis",
+    "Thermodynamics",
+    "Density of states",
+    "Molecule",
+    "Mathematical physics",
+    "Selectivity",
+    "Stereochemistry",
+    "Computational chemistry",
+    "Quantum mechanics",
+    "Biochemistry",
+    "Medicine",
+    "Evolutionary biology",
+    "Electron",
+    "Pathology",
+    "Alternative medicine",
+    "Electrophile",
+    "Biology"
+  ],
+  "citation_count": 1796,
+  "open_access_pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/390758",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2030082437.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:26.004882+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2030082437",
+    "concepts": [
+      "Fukui function",
+      "Chemisorption",
+      "Density functional theory",
+      "Reactivity (psychology)",
+      "Physics"
+    ],
+    "oa_status": "green"
+  }
+}

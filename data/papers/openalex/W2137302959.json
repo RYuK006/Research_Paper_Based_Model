@@ -1,0 +1,40 @@
+{
+  "id": "openalex:W2137302959",
+  "title": "The gel-filtration behaviour of proteins related to their molecular weights over a wide range",
+  "abstract": "1. Correlation between elution volume, V(e), and molecular weight was investigated for gel filtration of proteins of molecular weights ranging from 3500 (glucagon) to 820000 (alpha-crystallin) on Sephadex G-200 columns at pH7.5. 2. Allowing for uncertainties in the molecular weights, the results for most of the carbohydrate-free globular proteins fitted a smooth V(e)-log(mol.wt.) curve. In the lower part of the molecular-weight range the results were similar to those obtained with Sephadex G-75 and G-100 gels. 3. V(e)-log(mol.wt.) curves based on results with the three gels are taken to represent the behaviour of ;typical' globular proteins, and are proposed as standard data for the uniform interpretation of gel-filtration experiments. 4. Some glycoproteins, including gamma-globulins and fibrinogen, do not conform to the standard relationship. The effect of shape and carbohydrate content on the gel-filtration behaviour of proteins is discussed. 5. As predicted by the theoretical studies of other authors, correlation exists between the gel-filtration behaviour and diffusion coefficients of proteins. 6. The lower molecular-weight limit for complete exclusion of typical globular proteins from Sephadex G-200 varies with the swelling of the gel, but is usually >10(6). 7. The concentration-dependent dissociation of glutamate dehydrogenase was observed in experiments with Sephadex G-200, and the sub-unit molecular weight estimated as 250000. The free sub-units readily lose enzymic activity. 8. Recognition of the atypical gel-filtration behaviour of gamma-globulins necessitates an alteration to several molecular weights previously estimated with Sephadex G-100 (Andrews, 1964). New values are: yeast glucose 6-phosphate dehydrogenase, 128000; bovine intestinal alkaline phosphatase, 130000; Aerobacter aerogenes glycerol dehydrogenase, 140000; milk alkaline phosphatase, 180000.",
+  "authors": [
+    "P Andrews"
+  ],
+  "year": 1965,
+  "doi": "10.1042/bj0960595",
+  "source": "openalex",
+  "categories": [
+    "Sephadex",
+    "Size-exclusion chromatography",
+    "Globular protein",
+    "Chemistry",
+    "Molecular mass",
+    "Chromatography",
+    "Gel permeation chromatography",
+    "Biochemistry",
+    "Enzyme",
+    "Polymer",
+    "Organic chemistry"
+  ],
+  "citation_count": 3032,
+  "open_access_pdf_url": "https://portlandpress.com/biochemj/article-pdf/96/3/595/704906/bj0960595.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2137302959.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:01.789933+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2137302959",
+    "concepts": [
+      "Sephadex",
+      "Size-exclusion chromatography",
+      "Globular protein",
+      "Chemistry",
+      "Molecular mass"
+    ],
+    "oa_status": "bronze"
+  }
+}

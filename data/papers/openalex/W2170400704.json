@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2170400704",
+  "title": "Numerical simulations of particulate suspensions via a discretized Boltzmann equation. Part 2. Numerical results",
+  "abstract": "A new and very general technique for simulating solid–fluid suspensions has been described in a previous paper (Part 1); the most important feature of the new method is that the computational cost scales linearly with the number of particles. In this paper (Part 2), extensive numerical tests of the method are described; results are presented for creeping flows, both with and without Brownian motion, and at finite Reynolds numbers. Hydrodynamic interactions, transport coefficients, and the short-time dynamics of random dispersions of up to 1024 colloidal particles have been simulated.",
+  "authors": [
+    "Anthony J. C. Ladd"
+  ],
+  "year": 1994,
+  "doi": "10.1017/s0022112094001783",
+  "source": "openalex",
+  "categories": [
+    "Reynolds number",
+    "Discretization",
+    "Mechanics",
+    "Lattice Boltzmann methods",
+    "Brownian motion",
+    "Statistical physics",
+    "Computational fluid dynamics",
+    "Stokes number",
+    "Physics",
+    "Particle (ecology)",
+    "Particle-laden flows",
+    "Colloidal particle",
+    "Classical mechanics",
+    "Colloid",
+    "Turbulence",
+    "Mathematics",
+    "Mathematical analysis",
+    "Physical chemistry",
+    "Quantum mechanics",
+    "Chemistry",
+    "Geology",
+    "Oceanography"
+  ],
+  "citation_count": 1200,
+  "open_access_pdf_url": "https://arxiv.org/pdf/comp-gas/9306005",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2170400704.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:08.283932+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2170400704",
+    "concepts": [
+      "Reynolds number",
+      "Discretization",
+      "Mechanics",
+      "Lattice Boltzmann methods",
+      "Brownian motion"
+    ],
+    "oa_status": "green"
+  }
+}

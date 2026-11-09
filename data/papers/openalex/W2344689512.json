@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W2344689512",
+  "title": "PEP-FOLD3: faster de novo structure prediction for linear peptides in solution and in complex",
+  "abstract": "Structure determination of linear peptides of 5-50 amino acids in aqueous solution and interacting with proteins is a key aspect in structural biology. PEP-FOLD3 is a novel computational framework, that allows both (i) de novo free or biased prediction for linear peptides between 5 and 50 amino acids, and (ii) the generation of native-like conformations of peptides interacting with a protein when the interaction site is known in advance. PEP-FOLD3 is fast, and usually returns solutions in a few minutes. Testing PEP-FOLD3 on 56 peptides in aqueous solution led to experimental-like conformations for 80% of the targets. Using a benchmark of 61 peptide-protein targets starting from the unbound form of the protein receptor, PEP-FOLD3 was able to generate peptide poses deviating on average by 3.3Å from the experimental conformation and return a native-like pose in the first 10 clusters for 52% of the targets. PEP-FOLD3 is available at http://bioserv.rpbs.univ-paris-diderot.fr/services/PEP-FOLD3.",
+  "authors": [
+    "Alexis Lamiable",
+    "P. Thévenet",
+    "Julien Rey",
+    "Marek Vavruša",
+    "Philippe Derreumaux",
+    "Pierre Tufféry"
+  ],
+  "year": 2016,
+  "doi": "10.1093/nar/gkw329",
+  "source": "openalex",
+  "categories": [
+    "Peptide",
+    "Biology",
+    "Amino acid",
+    "Benchmark (surveying)",
+    "Aqueous solution",
+    "Protein structure",
+    "Computational biology",
+    "Biochemistry",
+    "Chemistry",
+    "Geodesy",
+    "Geography",
+    "Physical chemistry"
+  ],
+  "citation_count": 1088,
+  "open_access_pdf_url": "https://academic.oup.com/nar/article-pdf/44/W1/W449/18787567/gkw329.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2344689512.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:24.419455+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2344689512",
+    "concepts": [
+      "Peptide",
+      "Biology",
+      "Amino acid",
+      "Benchmark (surveying)",
+      "Aqueous solution"
+    ],
+    "oa_status": "gold"
+  }
+}

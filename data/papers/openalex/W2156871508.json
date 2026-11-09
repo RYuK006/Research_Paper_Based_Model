@@ -1,0 +1,57 @@
+{
+  "id": "openalex:W2156871508",
+  "title": "Phase II Study of Sorafenib in Patients With Advanced Hepatocellular Carcinoma",
+  "abstract": "PURPOSE: This phase II study of sorafenib, an oral multikinase inhibitor that targets Raf kinase and receptor tyrosine kinases, assessed efficacy, toxicity, pharmacokinetics, and biomarkers in advanced hepatocellular carcinoma (HCC) patients. METHODS: Patients with inoperable HCC, no prior systemic treatment, and Child-Pugh (CP) A or B, received continuous, oral sorafenib 400 mg bid in 4-week cycles. Tumor response was assessed every two cycles using modified WHO criteria. Sorafenib pharmacokinetics were measured in plasma samples. Biomarker analysis included phosphorylated extracellular signal regulated kinase (pERK) in pretreatment biopsies (immunohistochemistry) and blood-cell RNA expression patterns in selected patients. RESULTS: Of 137 patients treated (male, 71%; median age, 69 years), 72% had CP A, and 28% had CP B. On the basis of independent assessment, three (2.2%) patients achieved a partial response, eight (5.8%) had a minor response, and 46 (33.6%) had stable disease for at least 16 weeks. Investigator-assessed median time to progression (TTP) was 4.2 months, and median overall survival was 9.2 months. Grade 3/4 drug-related toxicities included fatigue (9.5%), diarrhea (8.0%), and hand-foot skin reaction (5.1%). There were no significant pharmacokinetic differences between CP A and B patients. Pretreatment tumor pERK levels correlated with TTP. A panel of 18 expressed genes was identified that distinguished \"nonprogressors\" from \"progressors\" with an estimated 100% accuracy. CONCLUSION: Although single-agent sorafenib has modest efficacy in HCC, the manageable toxicity and mechanisms of action support a role for combination regimens with other anticancer agents.",
+  "authors": [
+    "Ghassan K. Abou‐Alfa",
+    "Lawrence Howard Schwartz",
+    "Sergio Ricci",
+    "Dino Amadori",
+    "Armando Santoro",
+    "Arié Figer",
+    "Jacques De Grève",
+    "Jean‐Yves Douillard",
+    "Chetan D. Lathia",
+    "Brian E. Schwartz",
+    "Ian Taylor",
+    "Marius Moscovici",
+    "Leonard B. Saltz"
+  ],
+  "year": 2006,
+  "doi": "10.1200/jco.2005.01.3441",
+  "source": "openalex",
+  "categories": [
+    "Sorafenib",
+    "Medicine",
+    "Hepatocellular carcinoma",
+    "Pharmacokinetics",
+    "Internal medicine",
+    "Toxicity",
+    "Gastroenterology",
+    "Oncology",
+    "Response Evaluation Criteria in Solid Tumors",
+    "Tyrosine-kinase inhibitor",
+    "Biomarker",
+    "Pharmacology",
+    "Cancer",
+    "Phases of clinical research",
+    "Chemistry",
+    "Biochemistry"
+  ],
+  "citation_count": 1193,
+  "open_access_pdf_url": "https://ascopubs.org/doi/pdfdirect/10.1200/JCO.2005.01.3441?role=tab",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2156871508.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:08.413932+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2156871508",
+    "concepts": [
+      "Sorafenib",
+      "Medicine",
+      "Hepatocellular carcinoma",
+      "Pharmacokinetics",
+      "Internal medicine"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2062145087",
+  "title": "Nrf2, a Cap'n'Collar Transcription Factor, Regulates Induction of the Heme Oxygenase-1 Gene",
+  "abstract": "Stress response elements, which mediate induction of the mouse heme oxygenase-1 (HO-1) gene by several agents, resemble the binding site for the activator protein-1 (Jun/Fos), Maf, and Cap'n'Collar/basic leucine zipper (CNC-bZIP) families of proteins. In L929 fibroblasts, significant activation of an HO-1 enhancer-reporter fusion gene was observed only with the CNC-bZIP class of proteins with Nrf2 exhibiting the highest level of trans-activation, between 25- and 30-fold. To further examine the role of this factor in HO-1 gene regulation, a dominant-negative mutant, Nrf2M, was generated and conditionally expressed in L929 cells. The mutant protein was detected in cytoplasmic and nuclear fractions but did not affect cell growth. Under conditions of Nrf2M overexpression, HO-1 mRNA accumulation in response to heme, cadmium, zinc, arsenite, and tert-butylhydroquinone was inhibited by 85-95%. In contrast, overexpression of a dominant-negative mutant of c-Jun decreased L929 cell growth but did not inhibit HO-1 gene activation. Nrf2 does not homodimerize, but CNC-bZIP.small Maf protein heterodimers and Nrf2. Jun protein complexes are proposed to function as trans-activators. Co-expression of Jun proteins or p18, however, had no significant affect or inhibited Nrf2-mediated trans-activation. Taken together, these results implicate Nrf2 in the induction of the HO-1 gene but suggest that the Nrf2 partner in this function is a factor other than p18 or Jun proteins.",
+  "authors": [
+    "J Alam",
+    "Daniel P. Stewart",
+    "Cheri L. Touchard",
+    "Sujji Boinapally",
+    "Augustine M.K. Choi",
+    "Julia L. Cook"
+  ],
+  "year": 1999,
+  "doi": "10.1074/jbc.274.37.26071",
+  "source": "openalex",
+  "categories": [
+    "Collar",
+    "Heme oxygenase",
+    "Transcription factor",
+    "Cell biology",
+    "Heme",
+    "Transcription (linguistics)",
+    "Gene",
+    "Chemistry",
+    "Biology",
+    "Genetics",
+    "Biochemistry",
+    "Business",
+    "Enzyme",
+    "Finance",
+    "Linguistics",
+    "Philosophy"
+  ],
+  "citation_count": 1297,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925819551857/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2062145087.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:57.838830+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2062145087",
+    "concepts": [
+      "Collar",
+      "Heme oxygenase",
+      "Transcription factor",
+      "Cell biology",
+      "Heme"
+    ],
+    "oa_status": "hybrid"
+  }
+}

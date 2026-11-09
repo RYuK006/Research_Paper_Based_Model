@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W68289770",
+  "title": "Dealing with Outliers and Offsets in Radiocarbon Dating",
+  "abstract": "The wide availability of precise radiocarbon dates has allowed researchers in a number of disciplines to address chronological questions at a resolution which was not possible 10 or 20 years ago. The use of Bayesian statistics for the analysis of groups of dates is becoming a common way to integrate all of the 14 C evidence together. However, the models most often used make a number of assumptions that may not always be appropriate. In particular, there is an assumption that all of the 14 C measurements are correct in their context and that the original 14 C concentration of the sample is properly represented by the calibration curve. In practice, in any analysis of dates some are usually rejected as obvious outliers. However, there are Bayesian statistical methods which can be used to perform this rejection in a more objective way (Christen 1994b), but these are not often used. This paper discusses the underlying statistics and application of these methods, and extensions of them, as they are implemented in OxCal v 4.1. New methods are presented for the treatment of outliers, where the problems lie principally with the context rather than the 14 C measurement. There is also a full treatment of outlier analysis for samples that are all of the same age, which takes account of the uncertainty in the calibration curve. All of these Bayesian approaches can be used either for outlier detection and rejection or in a model averaging approach where dates most likely to be outliers are downweighted. Another important subject is the consistent treatment of correlated uncertainties between a set of measurements and the calibration curve. This has already been discussed by Jones and Nicholls (2001) in the case of marine reservoir offsets. In this paper, the use of a similar approach for other kinds of correlated offset (such as overall measurement bias or regional offsets in the calibration curve) is discussed and the implementation of these methods in OxCal v 4.0 is presented.",
+  "authors": [
+    "Christopher Bronk Ramsey"
+  ],
+  "year": 2009,
+  "doi": "10.1017/s0033822200034093",
+  "source": "openalex",
+  "categories": [
+    "Outlier",
+    "Radiocarbon dating",
+    "Context (archaeology)",
+    "Bayesian probability",
+    "Calibration",
+    "Anomaly detection",
+    "Bayesian statistics",
+    "Computer science",
+    "Statistics",
+    "Sample (material)",
+    "Econometrics",
+    "Data mining",
+    "Artificial intelligence",
+    "Bayesian inference",
+    "Mathematics",
+    "Archaeology",
+    "Geography",
+    "Chemistry",
+    "Chromatography"
+  ],
+  "citation_count": 1204,
+  "open_access_pdf_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/500255B3C1ABE8B3FBE4614433C0D1B4/S0033822200034093a.pdf/div-class-title-dealing-with-outliers-and-offsets-in-radiocarbon-dating-div.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W68289770.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:08.254161+00:00",
+  "raw_metadata": {
+    "openalex_id": "W68289770",
+    "concepts": [
+      "Outlier",
+      "Radiocarbon dating",
+      "Context (archaeology)",
+      "Bayesian probability",
+      "Calibration"
+    ],
+    "oa_status": "bronze"
+  }
+}

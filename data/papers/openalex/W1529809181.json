@@ -1,0 +1,60 @@
+{
+  "id": "openalex:W1529809181",
+  "title": "High Resolution Mapping of the Binding Site on Human IgG1 for FcγRI, FcγRII, FcγRIII, and FcRn and Design of IgG1 Variants with Improved Binding to the FcγR",
+  "abstract": "Immunoglobulin G (IgG) Fc receptors play a critical role in linking IgG antibody-mediated immune responses with cellular effector functions. A high resolution map of the binding site on human IgG1 for human Fc gamma RI, Fc gamma RIIA, Fc gamma RIIB, Fc gamma RIIIA, and FcRn receptors has been determined. A common set of IgG1 residues is involved in binding to all Fc gamma R; Fc gamma RII and Fc gamma RIII also utilize residues outside this common set. In addition to residues which, when altered, abrogated binding to one or more of the receptors, several residues were found that improved binding only to specific receptors or simultaneously improved binding to one type of receptor and reduced binding to another type. Select IgG1 variants with improved binding to Fc gamma RIIIA exhibited up to 100% enhancement in antibody-dependent cell cytotoxicity using human effector cells; these variants included changes at residues not found at the binding interface in the IgG/Fc gamma RIIIA co-crystal structure (Sondermann, P., Huber, R., Oosthuizen, V., and Jacob, U. (2000) Nature 406, 267-273). These engineered antibodies may have important implications for improving antibody therapeutic efficacy.",
+  "authors": [
+    "Robert L. Shields",
+    "Angela K. Namenuk",
+    "Kyu Hong",
+    "Y. Gloria Meng",
+    "Julie Rae",
+    "John B. Briggs",
+    "Dong Xie",
+    "Jadine Lai",
+    "Andrew Stadlen",
+    "Betty Li",
+    "Judith Ann Fox",
+    "Leonard G. Presta"
+  ],
+  "year": 2001,
+  "doi": "10.1074/jbc.m009483200",
+  "source": "openalex",
+  "categories": [
+    "Fragment crystallizable region",
+    "Immunoglobulin Fc Fragments",
+    "Receptor",
+    "Antibody",
+    "Binding site",
+    "Antibody-dependent cell-mediated cytotoxicity",
+    "Immunoglobulin G",
+    "Neonatal Fc receptor",
+    "Fc receptor",
+    "Effector",
+    "Chemistry",
+    "Immune system",
+    "Molecular biology",
+    "Immune receptor",
+    "Plasma protein binding",
+    "Biology",
+    "Cell biology",
+    "Biochemistry",
+    "Immunology",
+    "Monoclonal antibody"
+  ],
+  "citation_count": 1172,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925819346721/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1529809181.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:12.167608+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1529809181",
+    "concepts": [
+      "Fragment crystallizable region",
+      "Immunoglobulin Fc Fragments",
+      "Receptor",
+      "Antibody",
+      "Binding site"
+    ],
+    "oa_status": "hybrid"
+  }
+}

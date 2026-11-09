@@ -1,0 +1,57 @@
+{
+  "id": "openalex:W1579030151",
+  "title": "Isoprenoid Pathway Optimization for Taxol Precursor Overproduction in Escherichia coli",
+  "abstract": "Taxol (paclitaxel) is a potent anticancer drug first isolated from the Taxus brevifolia Pacific yew tree. Currently, cost-efficient production of Taxol and its analogs remains limited. Here, we report a multivariate-modular approach to metabolic-pathway engineering that succeeded in increasing titers of taxadiene--the first committed Taxol intermediate--approximately 1 gram per liter (~15,000-fold) in an engineered Escherichia coli strain. Our approach partitioned the taxadiene metabolic pathway into two modules: a native upstream methylerythritol-phosphate (MEP) pathway forming isopentenyl pyrophosphate and a heterologous downstream terpenoid-forming pathway. Systematic multivariate search identified conditions that optimally balance the two pathway modules so as to maximize the taxadiene production with minimal accumulation of indole, which is an inhibitory compound found here. We also engineered the next step in Taxol biosynthesis, a P450-mediated 5α-oxidation of taxadiene to taxadien-5α-ol. More broadly, the modular pathway engineering approach helped to unlock the potential of the MEP pathway for the engineered production of terpenoid natural products.",
+  "authors": [
+    "Parayil Kumaran Ajikumar",
+    "Wenhai Xiao",
+    "Keith E. J. Tyo",
+    "Yong Wang",
+    "Fritz Simeon",
+    "Effendi Leonard",
+    "Oliver Mucha",
+    "Heng‐Phon Too",
+    "Blaine A. Pfeifer",
+    "Gregory N Stephanopoulos"
+  ],
+  "year": 2010,
+  "doi": "10.1126/science.1191652",
+  "source": "openalex",
+  "categories": [
+    "Terpenoid",
+    "Metabolic engineering",
+    "Chemistry",
+    "Escherichia coli",
+    "Isopentenyl pyrophosphate",
+    "Mevalonate pathway",
+    "Biochemistry",
+    "Metabolic pathway",
+    "Heterologous",
+    "Overproduction",
+    "Sphingomonas paucimobilis",
+    "Paclitaxel",
+    "Biosynthesis",
+    "Biology",
+    "Enzyme",
+    "Bacteria",
+    "Gene",
+    "Genetics",
+    "Chemotherapy"
+  ],
+  "citation_count": 1688,
+  "open_access_pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/3034138",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1579030151.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:33.198533+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1579030151",
+    "concepts": [
+      "Terpenoid",
+      "Metabolic engineering",
+      "Chemistry",
+      "Escherichia coli",
+      "Isopentenyl pyrophosphate"
+    ],
+    "oa_status": "green"
+  }
+}

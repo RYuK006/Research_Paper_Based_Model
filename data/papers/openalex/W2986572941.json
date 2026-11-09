@@ -1,0 +1,58 @@
+{
+  "id": "openalex:W2986572941",
+  "title": "Role of Reactive Oxygen Species in Cancer Progression: Molecular Mechanisms and Recent Advancements",
+  "abstract": "Reactive oxygen species (ROS) play a pivotal role in biological processes and continuous ROS production in normal cells is controlled by the appropriate regulation between the silver lining of low and high ROS concentration mediated effects. Interestingly, ROS also dynamically influences the tumor microenvironment and is known to initiate cancer angiogenesis, metastasis, and survival at different concentrations. At moderate concentration, ROS activates the cancer cell survival signaling cascade involving mitogen-activated protein kinase/extracellular signal-regulated protein kinases 1/2 (MAPK/ERK1/2), p38, c-Jun N-terminal kinase (JNK), and phosphoinositide-3-kinase/ protein kinase B (PI3K/Akt), which in turn activate the nuclear factor kappa-light-chain-enhancer of activated B cells (NF-κB), matrix metalloproteinases (MMPs), and vascular endothelial growth factor (VEGF). At high concentrations, ROS can cause cancer cell apoptosis. Hence, it critically depends upon the ROS levels, to either augment tumorigenesis or lead to apoptosis. The major issue is targeting the dual actions of ROS effectively with respect to the concentration bias, which needs to be monitored carefully to impede tumor angiogenesis and metastasis for ROS to serve as potential therapeutic targets exogenously/endogenously. Overall, additional research is required to comprehend the potential of ROS as an effective anti-tumor modality and therapeutic target for treating malignancies.",
+  "authors": [
+    "Vaishali Aggarwal",
+    "Hardeep Singh Tuli",
+    "Ayşegül Varol",
+    "Falak Thakral",
+    "Mükerrem Betül Yerer",
+    "Katrin Sak",
+    "Mehmet Varol",
+    "Aklank Jain",
+    "Md. Asaduzzaman Khan",
+    "Gautam Sethi"
+  ],
+  "year": 2019,
+  "doi": "10.3390/biom9110735",
+  "source": "openalex",
+  "categories": [
+    "Protein kinase B",
+    "Angiogenesis",
+    "Reactive oxygen species",
+    "Kinase",
+    "MAPK/ERK pathway",
+    "Cell biology",
+    "Cancer research",
+    "Carcinogenesis",
+    "PI3K/AKT/mTOR pathway",
+    "Protein kinase A",
+    "Tumor microenvironment",
+    "Cancer cell",
+    "Metastasis",
+    "Signal transduction",
+    "p38 mitogen-activated protein kinases",
+    "Biology",
+    "Chemistry",
+    "Cancer",
+    "Tumor cells",
+    "Genetics"
+  ],
+  "citation_count": 1260,
+  "open_access_pdf_url": "https://www.mdpi.com/2218-273X/9/11/735/pdf?version=1573644227",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2986572941.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:00.704271+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2986572941",
+    "concepts": [
+      "Protein kinase B",
+      "Angiogenesis",
+      "Reactive oxygen species",
+      "Kinase",
+      "MAPK/ERK pathway"
+    ],
+    "oa_status": "gold"
+  }
+}

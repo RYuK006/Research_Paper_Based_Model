@@ -1,0 +1,42 @@
+{
+  "id": "openalex:W2015185525",
+  "title": "Microtitre plate-based antibacterial assay incorporating resazurin as an indicator of cell growth, and its application in the in vitro antibacterial screening of phytochemicals",
+  "abstract": "The resazurin assay utilising microtitre-plate, described by Drummond and Waigh in 2000, has been modified to achieve more accuracy in the determination of the minimum inhibitory concentration (MIC) values of natural products, including crude extracts, chromatographic fractions or purified compounds against various bacterial strains. This modified resazurin method is simple, sensitive, rapid, robust and reliable, and could be used successfully to assess antibacterial properties of natural products.",
+  "authors": [
+    "Satyajit Dey Sarker",
+    "Lutfun Nahar",
+    "Yashodharan Kumarasamy"
+  ],
+  "year": 2007,
+  "doi": "10.1016/j.ymeth.2007.01.006",
+  "source": "openalex",
+  "categories": [
+    "Resazurin",
+    "Minimum inhibitory concentration",
+    "Chromatography",
+    "Chemistry",
+    "Antibacterial activity",
+    "In vitro",
+    "Bacterial growth",
+    "Bacteria",
+    "Biochemistry",
+    "Biology",
+    "Genetics"
+  ],
+  "citation_count": 1908,
+  "open_access_pdf_url": "https://www.sciencedirect.com/science/article/pii/S1046202307000096/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2015185525.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:17.941772+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2015185525",
+    "concepts": [
+      "Resazurin",
+      "Minimum inhibitory concentration",
+      "Chromatography",
+      "Chemistry",
+      "Antibacterial activity"
+    ],
+    "oa_status": "hybrid"
+  }
+}

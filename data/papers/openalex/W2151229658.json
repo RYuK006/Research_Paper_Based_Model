@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W2151229658",
+  "title": "TECHNICAL BASIS FOR ESTABLISHING SEDIMENT QUALITY CRITERIA FOR NONIONIC ORGANIC CHEMICALS USING EQUILIBRIUM PARTITIONING",
+  "abstract": "Abstract The purpose of this review paper is to present the technical basis for establishing sediment quality criteria using equilibrium partitioning (EqP). Equilibrium partitioning is chosen because it addresses the two principal technical issues that must be resolved: the varying bioavailability of chemicals in sediments and the choice of the appropriate biological effects concentration. The data that are used to examine the question of varying bioavailability across sediments are from toxicity and bioaccumulation experiments utilizing the same chemical and test organism but different sediments. It has been found that if the different sediments in each experiment are compared, there is essentially no relationship between sediment chemical concentrations on a dry weight basis and biological effects. However, if the chemical concentrations in the pore water of the sediment are used (for chemicals that are not highly hydrophobic) or if the sediment chemical concentrations on an organic carbon basis are used, then the biological effects occur at similar concentrations (within a factor of two) for the different sediments. In addition, the effects concentrations are the same as, or they can be predicted from, the effects concentration determined in water- only exposures. The EqP methodology rationalizes these results by assuming that the partitioning of the chemical between sediment organic carbon and pore water is at equilibrium. In each of these phases, the fugacity or activity of the chemical is the same at equilibrium. As a consequence, it is assumed that the organism receives an equivalent exposure from a water-only exposure or from any equilibrated phase, either from pore water via respiration, from sediment carbon via ingestion; or from a mixture of the routes. Thus, the pathway of exposure is not significant. The biological effect is produced by the chemical activity of the single phase or the equilibrated system. Sediment quality criteria for nonionic organic chemicals are based on the chemical concentration in sediment organic carbon. For highly hydrophobic chemicals this is necessary because the pore water concentration is, for those chemicals, no longer a good estimate of the chemical activity. The pore water concentration is the sum of the free chemical concentration, which is bioavailable and represents the chemical activity, and the concentration of chemical complexed to dissolved organic carbon, which, as the data presented below illustrate, is not bioavailable. Using the chemical concentration in sediment organic carbon eliminates this ambiguity. Sediment quality criteria also require that a chemical concentration be chosen that is sufficiently protective of benthic organisms. The final chronic value (FCV) from the U.S. Environmental Protection Agency (EPA) water quality criteria is proposed. An analysis of the data compiled in the water quality criteria documents demonstrates that benthic species, defined as either epibenthic or infaunal species, have a similar sensitivity to water column species. This is the case if the most sensitive species are compared and if all species are compared. The results of benthic colonization experiments also support the use of the FCV. Equilibrium partitioning cannot remove all the variation in the experimentally observed sediment- effects concentration and the concentration predicted from water-only exposures. A variation of approximately a factor of two to three remains. Hence, it is recognized that a quantification of this uncertainty should accompany the sediment quality criteria. The derivation of sediment quality criteria requires the octanol/water partition coefficient of the chemical. It should be measured with modern experimental techniques, which appear to remove the large variation in reported values. The derivation of the final chronic value should also be updated to include the most recent toxicological information.",
+  "authors": [
+    "Dominic M. Di Toro",
+    "Christopher S. Zarba",
+    "David J. Hansen",
+    "Walter J Berry",
+    "Richard C. Swartz",
+    "Christina E. Cowan",
+    "Spyros P. Pavlou",
+    "Herbert E. Allen",
+    "Nelson A. Thomas",
+    "Paul R. Paquin"
+  ],
+  "year": 1991,
+  "doi": "10.1002/etc.5620101203",
+  "source": "openalex",
+  "categories": [
+    "Organic chemicals",
+    "Sediment",
+    "Environmental science",
+    "Quality (philosophy)",
+    "Basis (linear algebra)",
+    "Biochemical engineering",
+    "Environmental chemistry",
+    "Chemistry",
+    "Mathematics",
+    "Biology",
+    "Engineering",
+    "Epistemology",
+    "Geometry",
+    "Paleontology",
+    "Philosophy"
+  ],
+  "citation_count": 1406,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/etc.5620101203",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2151229658.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:50.717828+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2151229658",
+    "concepts": [
+      "Organic chemicals",
+      "Sediment",
+      "Environmental science",
+      "Quality (philosophy)",
+      "Basis (linear algebra)"
+    ],
+    "oa_status": "bronze"
+  }
+}

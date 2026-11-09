@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2104901632",
+  "title": "Metabolism via Arginase or Nitric Oxide Synthase: Two Competing Arginine Pathways in Macrophages",
+  "abstract": "Macrophages play a major role in the immune system, both as antimicrobial effector cells and as immunoregulatory cells, which induce, suppress or modulate adaptive immune responses. These key aspects of macrophage biology are fundamentally driven by the phenotype of macrophage arginine metabolism that is prevalent in an evolving or ongoing immune response. M1 macrophages express the enzyme nitric oxide synthase, which metabolizes arginine to nitric oxide (NO) and citrulline. NO can be metabolized to further downstream reactive nitrogen species, while citrulline might be reused for efficient NO synthesis via the citrulline-NO cycle. M2 macrophages are characterized by expression of the enzyme arginase, which hydrolyzes arginine to ornithine and urea. The arginase pathway limits arginine availability for NO synthesis and ornithine itself can further feed into the important downstream pathways of polyamine and proline syntheses, which are important for cellular proliferation and tissue repair. M1 versus M2 polarization leads to opposing outcomes of inflammatory reactions, but depending on the context, M1 and M2 macrophages can be both pro- and anti-inflammatory. Notably, M1/M2 macrophage polarization can be driven by microbial infection or innate danger signals without any influence of adaptive immune cells, secondarily driving the T helper (Th)1/Th2 polarization of the evolving adaptive immune response. Since both arginine metabolic pathways cross-inhibit each other on the level of the respective arginine break-down products and Th1 and Th2 lymphocytes can drive or amplify macrophage M1/M2 dichotomy via cytokine activation, this forms the basis of a self-sustaining M1/M2 polarization of the whole immune response. Understanding the arginine metabolism of M1/M2 macrophage phenotypes is therefore central to find new possibilities to manipulate immune responses in infection, autoimmune diseases, chronic inflammatory conditions, and cancer.",
+  "authors": [
+    "Meera Rath",
+    "Ingrid MÃ ⁄ ller",
+    "Pascale Kropf",
+    "Ellen Ildicho Closs",
+    "Markus Munder"
+  ],
+  "year": 2014,
+  "doi": "10.3389/fimmu.2014.00532",
+  "source": "openalex",
+  "categories": [
+    "Arginase",
+    "Macrophage polarization",
+    "Citrulline",
+    "Immune system",
+    "Arginine",
+    "Nitric oxide",
+    "Ornithine",
+    "Cell biology",
+    "Nitric oxide synthase",
+    "Macrophage",
+    "Biology",
+    "Urea cycle",
+    "Effector",
+    "Chemistry",
+    "Metabolic pathway",
+    "Biochemistry",
+    "Metabolism",
+    "Immunology",
+    "Amino acid",
+    "Endocrinology",
+    "In vitro"
+  ],
+  "citation_count": 1332,
+  "open_access_pdf_url": "https://www.frontiersin.org/articles/10.3389/fimmu.2014.00532/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2104901632.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:55.335470+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2104901632",
+    "concepts": [
+      "Arginase",
+      "Macrophage polarization",
+      "Citrulline",
+      "Immune system",
+      "Arginine"
+    ],
+    "oa_status": "gold"
+  }
+}

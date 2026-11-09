@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2108627006",
+  "title": "Improving physical realism, stereochemistry, and side‐chain accuracy in homology modeling: Four approaches that performed well in CASP8",
+  "abstract": "A correct alignment is an essential requirement in homology modeling. Yet in order to bridge the structural gap between template and target, which may not only involve loop rearrangements, but also shifts of secondary structure elements and repacking of core residues, high-resolution refinement methods with full atomic details are needed. Here, we describe four approaches that address this \"last mile of the protein folding problem\" and have performed well during CASP8, yielding physically realistic models: YASARA, which runs molecular dynamics simulations of models in explicit solvent, using a new partly knowledge-based all atom force field derived from Amber, whose parameters have been optimized to minimize the damage done to protein crystal structures. The LEE-SERVER, which makes extensive use of conformational space annealing to create alignments, to help Modeller build physically realistic models while satisfying input restraints from templates and CHARMM stereochemistry, and to remodel the side-chains. ROSETTA, whose high resolution refinement protocol combines a physically realistic all atom force field with Monte Carlo minimization to allow the large conformational space to be sampled quickly. And finally UNDERTAKER, which creates a pool of candidate models from various templates and then optimizes them with an adaptive genetic algorithm, using a primarily empirical cost function that does not include bond angle, bond length, or other physics-like terms.",
+  "authors": [
+    "Elmar Krieger",
+    "Keehyoung Joo",
+    "Jinwoo Lee",
+    "Jooyoung Lee",
+    "Srivatsan Raman",
+    "James Thompson",
+    "Mike Tyka",
+    "David A. Baker",
+    "Kevin J. Karplus"
+  ],
+  "year": 2009,
+  "doi": "10.1002/prot.22570",
+  "source": "openalex",
+  "categories": [
+    "Computer science",
+    "MODELLER",
+    "Force field (fiction)",
+    "Template",
+    "Homology modeling",
+    "Protein structure prediction",
+    "Algorithm",
+    "Protein structure",
+    "Chemistry",
+    "Artificial intelligence",
+    "Programming language",
+    "Biochemistry",
+    "Enzyme"
+  ],
+  "citation_count": 1420,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/prot.22570",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2108627006.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:50.630691+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2108627006",
+    "concepts": [
+      "Computer science",
+      "MODELLER",
+      "Force field (fiction)",
+      "Template",
+      "Homology modeling"
+    ],
+    "oa_status": "bronze"
+  }
+}

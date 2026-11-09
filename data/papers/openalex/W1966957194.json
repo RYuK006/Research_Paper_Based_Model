@@ -1,0 +1,58 @@
+{
+  "id": "openalex:W1966957194",
+  "title": "Efficient up-conversion of triplet excitons into a singlet state and its application for organic light emitting diodes",
+  "abstract": "A material possessing a very small energy gap between its singlet and triplet excited states, ΔE1−3, which allows efficient up-conversion of triplet excitons into a singlet state and leads to efficient thermally activated delayed fluorescence (TADF), is reported. The compound, 2-biphenyl-4,6-bis(12-phenylindolo[2,3-a] carbazole-11-yl)-1,3,5-triazine, breaks the restriction of a large energy gap, with a ΔE1−3 of just 0.11 eV, while maintaining a high fluorescent radiative decay rate (kr∼107). The intense TADF provides a pathway for highly efficient electroluminescence.",
+  "authors": [
+    "Ayataka Endo",
+    "Keigo Sato",
+    "Kazuaki Yoshimura",
+    "Takahiro Kai",
+    "Atsushi Kawada",
+    "Hiroshi Miyazaki",
+    "Chihaya Adachi"
+  ],
+  "year": 2011,
+  "doi": "10.1063/1.3558906",
+  "source": "openalex",
+  "categories": [
+    "Electroluminescence",
+    "Exciton",
+    "Singlet state",
+    "Excited state",
+    "Photochemistry",
+    "Carbazole",
+    "OLED",
+    "Fluorescence",
+    "Triplet state",
+    "Biphenyl",
+    "Materials science",
+    "Singlet fission",
+    "Optoelectronics",
+    "Phosphorescence",
+    "Band gap",
+    "Chemistry",
+    "Atomic physics",
+    "Physics",
+    "Optics",
+    "Condensed matter physics",
+    "Nanotechnology",
+    "Organic chemistry",
+    "Layer (electronics)"
+  ],
+  "citation_count": 1213,
+  "open_access_pdf_url": "https://aip.scitation.org/doi/pdf/10.1063/1.3558906",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1966957194.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:04.710825+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1966957194",
+    "concepts": [
+      "Electroluminescence",
+      "Exciton",
+      "Singlet state",
+      "Excited state",
+      "Photochemistry"
+    ],
+    "oa_status": "bronze"
+  }
+}

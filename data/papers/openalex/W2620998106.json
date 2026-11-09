@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W2620998106",
+  "title": "Deep Mutual Learning",
+  "abstract": "Model distillation is an effective and widely used technique to transfer knowledge from a teacher to a student network. The typical application is to transfer from a powerful large network or ensemble to a small network, in order to meet the low-memory or fast execution requirements. In this paper, we present a deep mutual learning (DML) strategy. Different from the one-way transfer between a static pre-defined teacher and a student in model distillation, with DML, an ensemble of students learn collaboratively and teach each other throughout the training process. Our experiments show that a variety of network architectures benefit from mutual learning and achieve compelling results on both category and instance recognition tasks. Surprisingly, it is revealed that no prior powerful teacher network is necessary - mutual learning of a collection of simple student networks works, and moreover outperforms distillation from a more powerful yet static teacher.",
+  "authors": [
+    "Ying Zhang",
+    "Tao Xiang",
+    "Timothy M. Hospedales",
+    "Huchuan Lu"
+  ],
+  "year": 2018,
+  "doi": "10.1109/cvpr.2018.00454",
+  "source": "openalex",
+  "categories": [
+    "Computer science",
+    "Distillation",
+    "Artificial intelligence",
+    "Process (computing)",
+    "Variety (cybernetics)",
+    "Transfer of learning",
+    "Machine learning",
+    "Transfer (computing)",
+    "Simple (philosophy)",
+    "Parallel computing",
+    "Programming language",
+    "Epistemology",
+    "Organic chemistry",
+    "Philosophy",
+    "Chemistry"
+  ],
+  "citation_count": 1979,
+  "open_access_pdf_url": "https://www.research.ed.ac.uk/en/publications/01695579-76cf-4dea-8cda-b865794594c4",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2620998106.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:17.765023+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2620998106",
+    "concepts": [
+      "Computer science",
+      "Distillation",
+      "Artificial intelligence",
+      "Process (computing)",
+      "Variety (cybernetics)"
+    ],
+    "oa_status": "green"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W2100503136",
+  "title": "A unified treatment of some iterative algorithms in signal processing and image reconstruction",
+  "abstract": "Let T be a (possibly nonlinear) continuous operator on Hilbert space . If, for some starting vector x , the orbit sequence { T k x , k = 0,1,...} converges, then the limit z is a fixed point of T ; that is, Tz = z . An operator N on a Hilbert space is nonexpansive (ne) if, for each x and y in , Even when N has fixed points the orbit sequence { N k x } need not converge; consider the example N = − I , where I denotes the identity operator. However, for any the iterative procedure defined by converges (weakly) to a fixed point of N whenever such points exist. This is the Krasnoselskii–Mann (KM) approach to finding fixed points of ne operators. A wide variety of iterative procedures used in signal processing and image reconstruction and elsewhere are special cases of the KM iterative procedure, for particular choices of the ne operator N . These include the Gerchberg–Papoulis method for bandlimited extrapolation, the SART algorithm of Anderson and Kak, the Landweber and projected Landweber algorithms, simultaneous and sequential methods for solving the convex feasibility problem, the ART and Cimmino methods for solving linear systems of equations, the CQ algorithm for solving the split feasibility problem and Dolidze's procedure for the variational inequality problem for monotone operators.",
+  "authors": [
+    "Charles L. Byrne"
+  ],
+  "year": 2003,
+  "doi": "10.1088/0266-5611/20/1/006",
+  "source": "openalex",
+  "categories": [
+    "Mathematics",
+    "Fixed point",
+    "Hilbert space",
+    "Sequence (biology)",
+    "Operator (biology)",
+    "Algorithm",
+    "Orbit (dynamics)",
+    "Iterative method",
+    "Image (mathematics)",
+    "Limit point",
+    "Mathematical analysis",
+    "Combinatorics",
+    "Discrete mathematics",
+    "Computer science",
+    "Artificial intelligence",
+    "Repressor",
+    "Aerospace engineering",
+    "Genetics",
+    "Gene",
+    "Biology",
+    "Transcription factor",
+    "Biochemistry",
+    "Chemistry",
+    "Engineering"
+  ],
+  "citation_count": 1350,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1088/0266-5611/20/1/006/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2100503136.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:55.180519+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2100503136",
+    "concepts": [
+      "Mathematics",
+      "Fixed point",
+      "Hilbert space",
+      "Sequence (biology)",
+      "Operator (biology)"
+    ],
+    "oa_status": "bronze"
+  }
+}

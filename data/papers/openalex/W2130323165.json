@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W2130323165",
+  "title": "Stabilization of α-Synuclein Secondary Structure upon Binding to Synthetic Membranes",
+  "abstract": "alpha-Synuclein is a highly conserved presynaptic protein of unknown function. A mutation in the protein has been causally linked to Parkinson's disease in humans, and the normal protein is an abundant component of the intraneuronal inclusions (Lewy bodies) characteristic of the disease. alpha-Synuclein is also the precursor to an intrinsic component of extracellular plaques in Alzheimer's disease. The alpha-synuclein sequence is largely composed of degenerate 11-residue repeats reminiscent of the amphipathic alpha-helical domains of the exchangeable apolipoproteins. We hypothesized that alpha-synuclein should associate with phospholipid bilayers and that this lipid association should stabilize an alpha-helical secondary structure in the protein. We report that alpha-synuclein binds to small unilamellar phospholipid vesicles containing acidic phospholipids, but not to vesicles with a net neutral charge. We further show that the protein associates preferentially with vesicles of smaller diameter (20-25 nm) as opposed to larger (approximately 125 nm) vesicles. Lipid binding is accompanied by an increase in alpha-helicity from 3% to approximately 80%. These observations are consistent with a role in vesicle function at the presynaptic terminal.",
+  "authors": [
+    "William Sean Davidson",
+    "Ana Jonas",
+    "David F. Clayton",
+    "Julia M. George"
+  ],
+  "year": 1998,
+  "doi": "10.1074/jbc.273.16.9443",
+  "source": "openalex",
+  "categories": [
+    "Vesicle",
+    "Alpha-synuclein",
+    "Biophysics",
+    "Phospholipid",
+    "Synuclein",
+    "Chemistry",
+    "Biochemistry",
+    "Cell biology",
+    "Membrane",
+    "Biology",
+    "Parkinson's disease",
+    "Medicine",
+    "Pathology",
+    "Disease"
+  ],
+  "citation_count": 1618,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925818461534/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2130323165.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:38.148552+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2130323165",
+    "concepts": [
+      "Vesicle",
+      "Alpha-synuclein",
+      "Biophysics",
+      "Phospholipid",
+      "Synuclein"
+    ],
+    "oa_status": "hybrid"
+  }
+}

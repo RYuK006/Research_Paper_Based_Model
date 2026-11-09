@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2122341467",
+  "title": "How mitochondria produce reactive oxygen species",
+  "abstract": "The production of ROS (reactive oxygen species) by mammalian mitochondria is important because it underlies oxidative damage in many pathologies and contributes to retrograde redox signalling from the organelle to the cytosol and nucleus. Superoxide (O2(*-)) is the proximal mitochondrial ROS, and in the present review I outline the principles that govern O2(*-) production within the matrix of mammalian mitochondria. The flux of O2(*-) is related to the concentration of potential electron donors, the local concentration of O2 and the second-order rate constants for the reactions between them. Two modes of operation by isolated mitochondria result in significant O2(*-) production, predominantly from complex I: (i) when the mitochondria are not making ATP and consequently have a high Deltap (protonmotive force) and a reduced CoQ (coenzyme Q) pool; and (ii) when there is a high NADH/NAD+ ratio in the mitochondrial matrix. For mitochondria that are actively making ATP, and consequently have a lower Deltap and NADH/NAD+ ratio, the extent of O2(*-) production is far lower. The generation of O2(*-) within the mitochondrial matrix depends critically on Deltap, the NADH/NAD+ and CoQH2/CoQ ratios and the local O2 concentration, which are all highly variable and difficult to measure in vivo. Consequently, it is not possible to estimate O2(*-) generation by mitochondria in vivo from O2(*-)-production rates by isolated mitochondria, and such extrapolations in the literature are misleading. Even so, the description outlined here facilitates the understanding of factors that favour mitochondrial ROS production. There is a clear need to develop better methods to measure mitochondrial O2(*-) and H2O2 formation in vivo, as uncertainty about these values hampers studies on the role of mitochondrial ROS in pathological oxidative damage and redox signalling.",
+  "authors": [
+    "Michael P. Murphy"
+  ],
+  "year": 2008,
+  "doi": "10.1042/bj20081386",
+  "source": "openalex",
+  "categories": [
+    "Mitochondrion",
+    "NAD+ kinase",
+    "Mitochondrial matrix",
+    "Superoxide",
+    "Reactive oxygen species",
+    "Cytosol",
+    "Oxidative phosphorylation",
+    "Biochemistry",
+    "Organelle",
+    "Oxygen",
+    "Chemistry",
+    "Biophysics",
+    "Coenzyme Q – cytochrome c reductase",
+    "Redox",
+    "Mitochondrial ROS",
+    "Biology",
+    "Cytochrome c",
+    "Enzyme",
+    "Organic chemistry"
+  ],
+  "citation_count": 8530,
+  "open_access_pdf_url": "https://portlandpress.com/biochemj/article-pdf/417/1/1/659886/bj4170001.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2122341467.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:49.912465+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2122341467",
+    "concepts": [
+      "Mitochondrion",
+      "NAD+ kinase",
+      "Mitochondrial matrix",
+      "Superoxide",
+      "Reactive oxygen species"
+    ],
+    "oa_status": "hybrid"
+  }
+}

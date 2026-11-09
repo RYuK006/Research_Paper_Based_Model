@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W1960543132",
+  "title": "Neurodegeneration induced by beta-amyloid peptides in vitro: the role of peptide assembly state",
+  "abstract": "The progressive neurodegeneration of Alzheimer's disease has been hypothesized to be mediated, at least in part, by beta-amyloid protein. A relationship between the aggregation state of beta-amyloid protein and its ability to promote degeneration in vitro has been previously suggested. To evaluate this hypothesis and to define a structure-activity relationship for beta-amyloid, aggregation properties of an overlapping series of synthetic beta-amyloid peptides (beta APs) were investigated and compared with beta AP neurotoxic properties in vitro. Using light microscopy, electrophoresis, and ultracentrifugation assays, we found that few beta APs assembled into aggregates immediately after solubilization, but that over time peptides containing the highly hydrophobic beta 29-35 region formed stable aggregations. In short-term neuronal cultures, toxicity was associated specifically with those beta APs that also exhibited significant aggregation. Further, upon the partial reversal of beta 1-42 aggregation, a concomitant loss of toxicity was observed. A synthetic peptide derived from a different amyloidogenic protein, islet amyloid polypeptide, exhibited aggregation but not toxicity, suggesting that beta AP-induced neurotoxicity in vitro is not a nonspecific reaction to aggregated protein. The correlation between beta AP aggregation and neurotoxicity was also observed in long-term neuronal cultures but not in astrocyte cultures. These data are consistent with the hypothesis that beta-amyloid protein contributes to neurodegeneration in Alzheimer's disease.",
+  "authors": [
+    "Christian J. Pike",
+    "D Burdick",
+    "Andrea J. Walencewicz",
+    "C.G. Glabe",
+    "Carl W. Cotman"
+  ],
+  "year": 1993,
+  "doi": "10.1523/jneurosci.13-04-01676.1993",
+  "source": "openalex",
+  "categories": [
+    "Neurodegeneration",
+    "Neurotoxicity",
+    "Amyloid (mycology)",
+    "Chemistry",
+    "Protein aggregation",
+    "Peptide",
+    "BETA (programming language)",
+    "Amyloid beta",
+    "In vitro",
+    "Biochemistry",
+    "Alzheimer's disease",
+    "P3 peptide",
+    "Amyloid precursor protein",
+    "Biophysics",
+    "Toxicity",
+    "Biology",
+    "Internal medicine",
+    "Medicine",
+    "Disease",
+    "Computer science",
+    "Programming language",
+    "Organic chemistry",
+    "Inorganic chemistry"
+  ],
+  "citation_count": 1423,
+  "open_access_pdf_url": "https://www.jneurosci.org/content/jneuro/13/4/1676.full.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1960543132.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:50.606515+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1960543132",
+    "concepts": [
+      "Neurodegeneration",
+      "Neurotoxicity",
+      "Amyloid (mycology)",
+      "Chemistry",
+      "Protein aggregation"
+    ],
+    "oa_status": "hybrid"
+  }
+}

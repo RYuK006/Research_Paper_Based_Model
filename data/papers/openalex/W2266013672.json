@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W2266013672",
+  "title": "Insights into Protein–Ligand Interactions: Mechanisms, Models, and Methods",
+  "abstract": "Molecular recognition, which is the process of biological macromolecules interacting with each other or various small molecules with a high specificity and affinity to form a specific complex, constitutes the basis of all processes in living organisms. Proteins, an important class of biological macromolecules, realize their functions through binding to themselves or other molecules. A detailed understanding of the protein-ligand interactions is therefore central to understanding biology at the molecular level. Moreover, knowledge of the mechanisms responsible for the protein-ligand recognition and binding will also facilitate the discovery, design, and development of drugs. In the present review, first, the physicochemical mechanisms underlying protein-ligand binding, including the binding kinetics, thermodynamic concepts and relationships, and binding driving forces, are introduced and rationalized. Next, three currently existing protein-ligand binding models--the \"lock-and-key\", \"induced fit\", and \"conformational selection\"--are described and their underlying thermodynamic mechanisms are discussed. Finally, the methods available for investigating protein-ligand binding affinity, including experimental and theoretical/computational approaches, are introduced, and their advantages, disadvantages, and challenges are discussed.",
+  "authors": [
+    "Xing Du",
+    "Yi Li",
+    "Yuan-Ling Xia",
+    "Shi-Meng Ai",
+    "Jing Liang",
+    "Peng Sang",
+    "Xinglai Ji",
+    "Shu-Qun Liu"
+  ],
+  "year": 2016,
+  "doi": "10.3390/ijms17020144",
+  "source": "openalex",
+  "categories": [
+    "Ligand (biochemistry)",
+    "Macromolecule",
+    "Computational biology",
+    "Small molecule",
+    "Protein ligand",
+    "Chemistry",
+    "Plasma protein binding",
+    "Drug discovery",
+    "Biology",
+    "Biochemistry",
+    "Receptor"
+  ],
+  "citation_count": 1765,
+  "open_access_pdf_url": "https://www.mdpi.com/1422-0067/17/2/144/pdf?version=1453802757",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2266013672.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:26.112243+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2266013672",
+    "concepts": [
+      "Ligand (biochemistry)",
+      "Macromolecule",
+      "Computational biology",
+      "Small molecule",
+      "Protein ligand"
+    ],
+    "oa_status": "gold"
+  }
+}

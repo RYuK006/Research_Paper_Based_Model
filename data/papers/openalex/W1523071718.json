@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W1523071718",
+  "title": "Drug delivery with carbon nanotubes for in vivo cancer treatment",
+  "abstract": "Chemically functionalized single-walled carbon nanotubes (SWNT) have shown promise in tumor-targeted accumulation in mice and exhibit biocompatibility, excretion, and little toxicity. Here, we show in vivo SWNT drug delivery for tumor suppression in mice. We conjugate paclitaxel (PTX), a widely used cancer chemotherapy drug, to branched polyethylene glycol chains on SWNTs via a cleavable ester bond to obtain a water-soluble SWNT-PTX conjugate. SWNT-PTX affords higher efficacy in suppressing tumor growth than clinical Taxol in a murine 4T1 breast cancer model, owing to prolonged blood circulation and 10-fold higher tumor PTX uptake by SWNT delivery likely through enhanced permeability and retention. Drug molecules carried into the reticuloendothelial system are released from SWNTs and excreted via biliary pathway without causing obvious toxic effects to normal organs. Thus, nanotube drug delivery is promising for high treatment efficacy and minimum side effects for future cancer therapy with low drug doses.",
+  "authors": [
+    "Zhuang Liu",
+    "Kai Chen",
+    "Corrine R. Davis",
+    "Sarah P. Sherlock",
+    "Qizhen Cao",
+    "Xiaoyuan Shawn Chen",
+    "Hongjie Dai"
+  ],
+  "year": 2008,
+  "doi": "10.48550/arxiv.0808.2070",
+  "source": "openalex",
+  "categories": [
+    "Paclitaxel",
+    "In vivo",
+    "Drug delivery",
+    "Pharmacology",
+    "Drug",
+    "Polyethylene glycol",
+    "Pharmacokinetics",
+    "Conjugate",
+    "Cancer",
+    "Materials science",
+    "Chemistry",
+    "Medicine",
+    "Nanotechnology",
+    "Internal medicine",
+    "Biochemistry",
+    "Biology",
+    "Mathematical analysis",
+    "Mathematics",
+    "Biotechnology"
+  ],
+  "citation_count": 2285,
+  "open_access_pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/2562710",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1523071718.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:08.824968+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1523071718",
+    "concepts": [
+      "Paclitaxel",
+      "In vivo",
+      "Drug delivery",
+      "Pharmacology",
+      "Drug"
+    ],
+    "oa_status": "green"
+  }
+}

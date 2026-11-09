@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2116609429",
+  "title": "Circular dichroism and conformational polymorphism of DNA",
+  "abstract": "Here we review studies that provided important information about conformational properties of DNA using circular dichroic (CD) spectroscopy. The conformational properties include the B-family of structures, A-form, Z-form, guanine quadruplexes, cytosine quadruplexes, triplexes and other less characterized structures. CD spectroscopy is extremely sensitive and relatively inexpensive. This fast and simple method can be used at low- as well as high-DNA concentrations and with short- as well as long-DNA molecules. The samples can easily be titrated with various agents to cause conformational isomerizations of DNA. The course of detected CD spectral changes makes possible to distinguish between gradual changes within a single DNA conformation and cooperative isomerizations between discrete structural states. It enables measuring kinetics of the appearance of particular conformers and determination of their thermodynamic parameters. In careful hands, CD spectroscopy is a valuable tool for mapping conformational properties of particular DNA molecules. Due to its numerous advantages, CD spectroscopy significantly participated in all basic conformational findings on DNA.",
+  "authors": [
+    "Jaroslav Kypr",
+    "Iva Kejnovská",
+    "Daniel Renčiuk",
+    "Michaela Vorlı́čková"
+  ],
+  "year": 2009,
+  "doi": "10.1093/nar/gkp026",
+  "source": "openalex",
+  "categories": [
+    "Circular dichroism",
+    "DNA",
+    "Conformational isomerism",
+    "Guanine",
+    "Cytosine",
+    "Spectroscopy",
+    "Conformational change",
+    "Molecule",
+    "G-quadruplex",
+    "Crystallography",
+    "Biophysics",
+    "Biology",
+    "Nucleotide",
+    "Chemistry",
+    "Biochemistry",
+    "Organic chemistry",
+    "Quantum mechanics",
+    "Physics",
+    "Gene"
+  ],
+  "citation_count": 1811,
+  "open_access_pdf_url": "https://academic.oup.com/nar/article-pdf/37/6/1713/7698528/gkp026.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2116609429.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:22.384952+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2116609429",
+    "concepts": [
+      "Circular dichroism",
+      "DNA",
+      "Conformational isomerism",
+      "Guanine",
+      "Cytosine"
+    ],
+    "oa_status": "gold"
+  }
+}

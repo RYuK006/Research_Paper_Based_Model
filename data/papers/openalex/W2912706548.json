@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W2912706548",
+  "title": "Control of MXenes’ electronic properties through termination and intercalation",
+  "abstract": "MXenes are an emerging family of highly-conductive 2D materials which have demonstrated state-of-the-art performance in electromagnetic interference shielding, chemical sensing, and energy storage. To further improve performance, there is a need to increase MXenes' electronic conductivity. Tailoring the MXene surface chemistry could achieve this goal, as density functional theory predicts that surface terminations strongly influence MXenes' Fermi level density of states and thereby MXenes' electronic conductivity. Here, we directly correlate MXene surface de-functionalization with increased electronic conductivity through in situ vacuum annealing, electrical biasing, and spectroscopic analysis within the transmission electron microscope. Furthermore, we show that intercalation can induce transitions between metallic and semiconductor-like transport (transitions from a positive to negative temperature-dependence of resistance) through inter-flake effects. These findings lay the groundwork for intercalation- and termination-engineered MXenes, which promise improved electronic conductivity and could lead to the realization of semiconducting, magnetic, and topologically insulating MXenes.",
+  "authors": [
+    "James L. Hart",
+    "Kanit Hantanasirisakul",
+    "Andrew Charles Lang",
+    "Babak Anasori",
+    "David Pinto",
+    "Yevheniy V. Pivak",
+    "J. Tijn van Omme",
+    "Steven J. May",
+    "Yury G. Gogotsi",
+    "Mitra L. Taheri"
+  ],
+  "year": 2019,
+  "doi": "10.1038/s41467-018-08169-8",
+  "source": "openalex",
+  "categories": [
+    "MXenes",
+    "Materials science",
+    "Fermi level",
+    "Intercalation (chemistry)",
+    "Nanotechnology",
+    "Density of states",
+    "Conductivity",
+    "Condensed matter physics",
+    "Chemical physics",
+    "Electron",
+    "Chemistry",
+    "Physical chemistry",
+    "Physics",
+    "Inorganic chemistry",
+    "Quantum mechanics"
+  ],
+  "citation_count": 1383,
+  "open_access_pdf_url": "https://www.nature.com/articles/s41467-018-08169-8.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2912706548.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:52.653151+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2912706548",
+    "concepts": [
+      "MXenes",
+      "Materials science",
+      "Fermi level",
+      "Intercalation (chemistry)",
+      "Nanotechnology"
+    ],
+    "oa_status": "gold"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "openalex:W3010673910",
+  "title": "Hydroxychloroquine, a less toxic derivative of chloroquine, is effective in inhibiting SARS-CoV-2 infection in vitro",
+  "abstract": "The outbreak of coronavirus disease 2019 (COVID-19) caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2/2019-nCoV) poses a serious threat to global public health and local economies. As of March 3, 2020, over 80,000 cases have been confirmed in China, including 2946 deaths as well as over 10,566 confirmed cases in 72 other countries. Such huge numbers of infected and dead people call for an urgent demand of effective, available, and affordable drugs to control and diminish the epidemic.",
+  "authors": [
+    "Jia Liu",
+    "Ruiyuan Cao",
+    "Mingyue Xu",
+    "Xi Wang",
+    "Huanyu Zhang",
+    "Hengrui Hu",
+    "Yufeng Li",
+    "Zhìhóng Hú",
+    "Wu Zhong",
+    "Manli Wang"
+  ],
+  "year": 2020,
+  "doi": "10.1038/s41421-020-0156-0",
+  "source": "openalex",
+  "categories": [
+    "Hydroxychloroquine",
+    "Chloroquine",
+    "In vitro",
+    "Virology",
+    "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)",
+    "Coronavirus disease 2019 (COVID-19)",
+    "Derivative (finance)",
+    "2019-20 coronavirus outbreak",
+    "Medicine",
+    "Chemistry",
+    "Immunology",
+    "Malaria",
+    "Outbreak",
+    "Pathology",
+    "Infectious disease (medical specialty)",
+    "Biochemistry",
+    "Disease",
+    "Economics",
+    "Financial economics"
+  ],
+  "citation_count": 2091,
+  "open_access_pdf_url": "https://www.nature.com/articles/s41421-020-0156-0.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3010673910.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:15.444559+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3010673910",
+    "concepts": [
+      "Hydroxychloroquine",
+      "Chloroquine",
+      "In vitro",
+      "Virology",
+      "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)"
+    ],
+    "oa_status": "gold"
+  }
+}

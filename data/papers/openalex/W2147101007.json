@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2147101007",
+  "title": "Synaptic Modifications in Cultured Hippocampal Neurons: Dependence on Spike Timing, Synaptic Strength, and Postsynaptic Cell Type",
+  "abstract": "In cultures of dissociated rat hippocampal neurons, persistent potentiation and depression of glutamatergic synapses were induced by correlated spiking of presynaptic and postsynaptic neurons. The relative timing between the presynaptic and postsynaptic spiking determined the direction and the extent of synaptic changes. Repetitive postsynaptic spiking within a time window of 20 msec after presynaptic activation resulted in long-term potentiation (LTP), whereas postsynaptic spiking within a window of 20 msec before the repetitive presynaptic activation led to long-term depression (LTD). Significant LTP occurred only at synapses with relatively low initial strength, whereas the extent of LTD did not show obvious dependence on the initial synaptic strength. Both LTP and LTD depended on the activation of NMDA receptors and were absent in cases in which the postsynaptic neurons were GABAergic in nature. Blockade of L-type calcium channels with nimodipine abolished the induction of LTD and reduced the extent of LTP. These results underscore the importance of precise spike timing, synaptic strength, and postsynaptic cell type in the activity-induced modification of central synapses and suggest that Hebb's rule may need to incorporate a quantitative consideration of spike timing that reflects the narrow and asymmetric window for the induction of synaptic modification.",
+  "authors": [
+    "Guo‐Qiang Bi",
+    "Mu‐ming Poo"
+  ],
+  "year": 1998,
+  "doi": "10.1523/jneurosci.18-24-10464.1998",
+  "source": "openalex",
+  "categories": [
+    "Postsynaptic potential",
+    "Post-tetanic potentiation",
+    "Neuroscience",
+    "Long-term potentiation",
+    "Excitatory postsynaptic potential",
+    "Synaptic augmentation",
+    "Synaptic fatigue",
+    "Synaptic plasticity",
+    "Neurotransmission",
+    "NMDA receptor",
+    "Nonsynaptic plasticity",
+    "Long-term depression",
+    "Postsynaptic density",
+    "Biology",
+    "Chemistry",
+    "Metaplasticity",
+    "Inhibitory postsynaptic potential",
+    "AMPA receptor",
+    "Receptor",
+    "Biochemistry"
+  ],
+  "citation_count": 4846,
+  "open_access_pdf_url": "https://www.jneurosci.org/content/jneuro/18/24/10464.full.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2147101007.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:52.288527+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2147101007",
+    "concepts": [
+      "Postsynaptic potential",
+      "Post-tetanic potentiation",
+      "Neuroscience",
+      "Long-term potentiation",
+      "Excitatory postsynaptic potential"
+    ],
+    "oa_status": "hybrid"
+  }
+}

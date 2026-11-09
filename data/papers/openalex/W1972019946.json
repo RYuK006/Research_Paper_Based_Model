@@ -1,0 +1,63 @@
+{
+  "id": "openalex:W1972019946",
+  "title": "Enhancement of oxidative and drought tolerance in Arabidopsis by overaccumulation of antioxidant flavonoids",
+  "abstract": "The notion that plants use specialized metabolism to protect against environmental stresses needs to be experimentally proven by addressing the question of whether stress tolerance by specialized metabolism is directly due to metabolites such as flavonoids. We report that flavonoids with radical scavenging activity mitigate against oxidative and drought stress in Arabidopsis thaliana. Metabolome and transcriptome profiling and experiments with oxidative and drought stress in wild-type, single overexpressors of MYB12/PFG1 (PRODUCTION OF FLAVONOL GLYCOSIDES1) or MYB75/PAP1 (PRODUCTION OF ANTHOCYANIN PIGMENT1), double overexpressors of MYB12 and PAP1, transparent testa4 (tt4) as a flavonoid-deficient mutant, and flavonoid-deficient MYB12 or PAP1 overexpressing lines (obtained by crossing tt4 and the individual MYB overexpressor) demonstrated that flavonoid overaccumulation was key to enhanced tolerance to such stresses. Antioxidative activity assays using 2,2-diphenyl-1-picrylhydrazyl, methyl viologen, and 3,3'-diaminobenzidine clearly showed that anthocyanin overaccumulation with strong in vitro antioxidative activity mitigated the accumulation of reactive oxygen species in vivo under oxidative and drought stress. These data confirm the usefulness of flavonoids for enhancing both biotic and abiotic stress tolerance in crops.",
+  "authors": [
+    "Ryo Nakabayashi",
+    "Keiko Yonekura‐Sakakibara",
+    "Kaoru Urano",
+    "Makoto Suzuki",
+    "Yutaka Yamada",
+    "Tomoko Nishizawa",
+    "Fumio Matsuda",
+    "Mikiko Kojima",
+    "Hitoshi Sakakibara",
+    "Kazuo Shinozaki",
+    "Anthony J. Michael",
+    "Takayuki Tohge",
+    "Mami Yamazaki",
+    "Kazuki Saito"
+  ],
+  "year": 2013,
+  "doi": "10.1111/tpj.12388",
+  "source": "openalex",
+  "categories": [
+    "Oxidative stress",
+    "Flavonoid",
+    "Reactive oxygen species",
+    "Metabolome",
+    "Arabidopsis thaliana",
+    "Anthocyanin",
+    "Transcriptome",
+    "Chemistry",
+    "Antioxidant",
+    "Arabidopsis",
+    "Abiotic stress",
+    "Abiotic component",
+    "Biochemistry",
+    "Flavonoid biosynthesis",
+    "Mutant",
+    "Biology",
+    "Food science",
+    "Gene",
+    "Metabolite",
+    "Gene expression",
+    "Paleontology"
+  ],
+  "citation_count": 1371,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/tpj.12388",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1972019946.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:52.736807+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1972019946",
+    "concepts": [
+      "Oxidative stress",
+      "Flavonoid",
+      "Reactive oxygen species",
+      "Metabolome",
+      "Arabidopsis thaliana"
+    ],
+    "oa_status": "hybrid"
+  }
+}

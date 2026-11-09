@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W2161399617",
+  "title": "A Human Homolog of Angiotensin-converting Enzyme",
+  "abstract": "A novel human zinc metalloprotease that has considerable homology to human angiotensin-converting enzyme (ACE) (40% identity and 61% similarity) has been identified. This metalloprotease (angiotensin-converting enzyme homolog (ACEH)) contains a single HEXXH zinc-binding domain and conserves other critical residues typical of the ACE family. The predicted protein sequence consists of 805 amino acids, including a potential 17-amino acid N-terminal signal peptide sequence and a putative C-terminal membrane anchor. Expression in Chinese hamster ovary cells of a soluble, truncated form of ACEH, lacking the transmembrane and cytosolic domains, produces a glycoprotein of 120 kDa, which is able to cleave angiotensin I and angiotensin II but not bradykinin or Hip-His-Leu. In the hydrolysis of the angiotensins, ACEH functions exclusively as a carboxypeptidase. ACEH activity is inhibited by EDTA but not by classical ACE inhibitors such as captopril, lisinopril, or enalaprilat. Identification of the genomic sequence of ACEH has shown that the ACEH gene contains 18 exons, of which several have considerable size similarity with the first 17 exons of human ACE. The gene maps to chromosomal location Xp22. Northern blotting analysis has shown that the ACEH mRNA transcript is approximately 3. 4 kilobase pairs and is most highly expressed in testis, kidney, and heart. This is the first report of a mammalian homolog of ACE and has implications for our understanding of cardiovascular and renal function.",
+  "authors": [
+    "Sarah R. Tipnis",
+    "Nigel M. Hooper",
+    "Ralph Hyde",
+    "Eric H. Karran",
+    "Gary Christie",
+    "Anthony J. Turner"
+  ],
+  "year": 2000,
+  "doi": "10.1074/jbc.m002615200",
+  "source": "openalex",
+  "categories": [
+    "Enzyme",
+    "Angiotensin-converting enzyme 2",
+    "Angiotensin-converting enzyme",
+    "Chemistry",
+    "Biochemistry",
+    "Biology",
+    "Internal medicine",
+    "Endocrinology",
+    "Medicine",
+    "Coronavirus disease 2019 (COVID-19)",
+    "Disease",
+    "Infectious disease (medical specialty)",
+    "Blood pressure"
+  ],
+  "citation_count": 2041,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925820890036/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2161399617.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:15.577562+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2161399617",
+    "concepts": [
+      "Enzyme",
+      "Angiotensin-converting enzyme 2",
+      "Angiotensin-converting enzyme",
+      "Chemistry",
+      "Biochemistry"
+    ],
+    "oa_status": "hybrid"
+  }
+}

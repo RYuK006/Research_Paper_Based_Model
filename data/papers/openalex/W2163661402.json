@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2163661402",
+  "title": "The nuts and bolts of PROSPERO: an international prospective register of systematic reviews",
+  "abstract": "BACKGROUND: Following publication of the PRISMA statement, the UK Centre for Reviews and Dissemination (CRD) at the University of York in England began to develop an international prospective register of systematic reviews with health-related outcomes. The objectives were to reduce unplanned duplication of reviews and provide transparency in the review process, with the aim of minimizing reporting bias. METHODS: An international advisory group was formed and a consultation undertaken to establish the key items necessary for inclusion in the register and to gather views on various aspects of functionality. This article describes the development of the register, now called PROSPERO, and the process of registration. RESULTS: PROSPERO offers free registration and free public access to a unique prospective register of systematic reviews across all areas of health from all around the world. The dedicated web-based interface is electronically searchable and available to all prospective registrants. At the moment, inclusion in PROSPERO is restricted to systematic reviews of the effects of interventions and strategies to prevent, diagnose, treat, and monitor health conditions, for which there is a health-related outcome.Ideally, registration should take place before the researchers have started formal screening against inclusion criteria but reviews are eligible as long as they have not progressed beyond the point of completing data extraction.The required dataset captures the key attributes of review design as well as the administrative details necessary for registration.Submitted registration forms are checked against the scope for inclusion in PROSPERO and for clarity of content before being made publicly available on the register, rejected, or returned to the applicant for clarification.The public records include an audit trail of major changes to planned methods, details of when the review has been completed, and links to resulting publications when provided by the authors. CONCLUSIONS: There has been international support and an enthusiastic response to the principle of prospective registration of protocols for systematic reviews and to the development of PROSPERO.In October 2011, PROSPERO contained 200 records of systematic reviews being undertaken in 26 countries around the world on a diverse range of interventions.",
+  "authors": [
+    "Alison Booth",
+    "Mike J Clarke",
+    "Gordon Dooley",
+    "Davina Ghersi",
+    "David Moher",
+    "Mark Patrick Petticrew",
+    "Lesley A. Stewart"
+  ],
+  "year": 2012,
+  "doi": "10.1186/2046-4053-1-2",
+  "source": "openalex",
+  "categories": [
+    "Medicine",
+    "CLARITY",
+    "Transparency (behavior)",
+    "Plain language",
+    "Inclusion (mineral)",
+    "Psychological intervention",
+    "Systematic review",
+    "Scope (computer science)",
+    "MEDLINE",
+    "Family medicine",
+    "Nursing",
+    "Law",
+    "Computer security",
+    "Computer science",
+    "Biochemistry",
+    "Gender studies",
+    "Political science",
+    "Sociology",
+    "Chemistry",
+    "Programming language"
+  ],
+  "citation_count": 1491,
+  "open_access_pdf_url": "https://link.springer.com/content/pdf/10.1186/2046-4053-1-2.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2163661402.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:48.109432+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2163661402",
+    "concepts": [
+      "Medicine",
+      "CLARITY",
+      "Transparency (behavior)",
+      "Plain language",
+      "Inclusion (mineral)"
+    ],
+    "oa_status": "gold"
+  }
+}

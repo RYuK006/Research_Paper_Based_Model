@@ -1,0 +1,61 @@
+{
+  "id": "openalex:W2150134401",
+  "title": "Assessment of Ki67 in Breast Cancer: Recommendations from the International Ki67 in Breast Cancer Working Group",
+  "abstract": "Ki67 immunohistochemistry (IHC), commonly used as a proliferation marker in breast cancer, has limited value for treatment decisions due to questionable analytical validity. The International Ki67 in Breast Cancer Working Group (IKWG) consensus meeting, held in October 2019, assessed the current evidence for Ki67 IHC analytical validity and clinical utility in breast cancer, including the series of scoring studies the IKWG conducted on centrally stained tissues. Consensus observations and recommendations are: 1) as for estrogen receptor and HER2 testing, preanalytical handling considerations are critical; 2) a standardized visual scoring method has been established and is recommended for adoption; 3) participation in and evaluation of quality assurance and quality control programs is recommended to maintain analytical validity; and 4) the IKWG accepted that Ki67 IHC as a prognostic marker in breast cancer has clinical validity but concluded that clinical utility is evident only for prognosis estimation in anatomically favorable estrogen receptor-positive and HER2-negative patients to identify those who do not need adjuvant chemotherapy. In this T1-2, N0-1 patient group, the IKWG consensus is that Ki67 5% or less, or 30% or more, can be used to estimate prognosis. In conclusion, analytical validity of Ki67 IHC can be reached with careful attention to preanalytical issues and calibrated standardized visual scoring. Currently, clinical utility of Ki67 IHC in breast cancer care remains limited to prognosis assessment in stage I or II breast cancer. Further development of automated scoring might help to overcome some current limitations.",
+  "authors": [
+    "Mitch Dowsett",
+    "Torsten O. Nielsen",
+    "Roger A’Hern",
+    "JMS Bartlett",
+    "R. Charles Coombes",
+    "Jack M. Cuzick",
+    "M. Ellis",
+    "Norah Lynn Henry",
+    "Judith C. Hugh",
+    "Tracy Lively",
+    "Lisa M. McShane",
+    "Soonmyung Paik",
+    "Frederique Madeleine Penault-Llorca",
+    "Ludmila Prudkin",
+    "Meredith M. Regan",
+    "Janine Salter",
+    "Christos P. Sotiriou",
+    "Ian E. Smith",
+    "Giuseppe Viale",
+    "J. A. Zujewski",
+    "Daniel F. Hayes"
+  ],
+  "year": 2011,
+  "doi": "10.1093/jnci/djr393",
+  "source": "openalex",
+  "categories": [
+    "Breast cancer",
+    "Medicine",
+    "Biomarker",
+    "Oncology",
+    "Clinical endpoint",
+    "Surrogate endpoint",
+    "Clinical trial",
+    "Internal medicine",
+    "Cancer",
+    "Neoadjuvant therapy",
+    "Chemistry",
+    "Biochemistry"
+  ],
+  "citation_count": 2028,
+  "open_access_pdf_url": "https://academic.oup.com/jnci/article-pdf/103/22/1656/7673394/djr393.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2150134401.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:15.614912+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2150134401",
+    "concepts": [
+      "Breast cancer",
+      "Medicine",
+      "Biomarker",
+      "Oncology",
+      "Clinical endpoint"
+    ],
+    "oa_status": "bronze"
+  }
+}

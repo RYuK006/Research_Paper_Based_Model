@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2122415545",
+  "title": "In situXPS analysis of various iron oxide films grown by NO2 -assisted molecular-beam epitaxy",
+  "abstract": "We report on a systematic analysis of x-ray photoelectron spectroscopy (XPS) core- and valence-level spectra of clean and well-characterized iron oxide films, i.e., $\\ensuremath{\\alpha}\\ensuremath{-}{\\mathrm{Fe}}_{2}{\\mathrm{O}}_{3},$ $\\ensuremath{\\gamma}\\ensuremath{-}{\\mathrm{Fe}}_{2}{\\mathrm{O}}_{3},$ ${\\mathrm{Fe}}_{3\\mathrm{\\ensuremath{-}}\\mathrm{\\ensuremath{\\delta}}}{\\mathrm{O}}_{4},$ and ${\\mathrm{Fe}}_{3}{\\mathrm{O}}_{4}.$ All iron oxide films were prepared epitaxially by ${\\mathrm{NO}}_{2}$-assisted molecular-beam epitaxy on single crystalline MgO(100) and $\\ensuremath{\\alpha}\\ensuremath{-}{\\mathrm{Al}}_{2}{\\mathrm{O}}_{3}(0001)$ substrates. The phase and stoichiometry of the films were controlled precisely by adjusting the ${\\mathrm{NO}}_{2}$ pressure during growth. The XPS spectrum of each oxide clearly showed satellite structures. These satellite structures were simulated using a cluster-model calculation, which could well reproduce the observed structures by considering the systematic changes in both the Fe $3d$ to O $2p$ hybridization and the $d\\ensuremath{-}d$ electron-correlation energy. The small difference in the satellite structures between $\\ensuremath{\\alpha}\\ensuremath{-}{\\mathrm{Fe}}_{2}{\\mathrm{O}}_{3}$ and $\\ensuremath{\\gamma}\\ensuremath{-}{\\mathrm{Fe}}_{2}{\\mathrm{O}}_{3}$ resulted mainly from changes in the Fe-O hybridization parameters, suggesting an increased covalency in $\\ensuremath{\\gamma}\\ensuremath{-}{\\mathrm{Fe}}_{2}{\\mathrm{O}}_{3}$ compared to $\\ensuremath{\\alpha}\\ensuremath{-}{\\mathrm{Fe}}_{2}{\\mathrm{O}}_{3}.$ With increasing reduction in the $\\ensuremath{\\gamma}\\ensuremath{-}{\\mathrm{Fe}}_{2}{\\mathrm{O}}_{3}{\\ensuremath{-}\\mathrm{F}\\mathrm{e}}_{3}{\\mathrm{O}}_{4}$ system, the satellite structures in XPS became unresolved. This was not only due to the formation of ${\\mathrm{Fe}}^{2+}$ ions, but also to nonhomogeneous changes in the hybridization parameters between octahedral and tetrahedral ${\\mathrm{Fe}}^{3+}$ ions.",
+  "authors": [
+    "Tatsuo Fujii",
+    "Frank M. F. de Groot",
+    "G. A. Sawatzky",
+    "Frans C. Voogt",
+    "Tjipke Hibma",
+    "Kozo Okada"
+  ],
+  "year": 1999,
+  "doi": "10.1103/physrevb.59.3195",
+  "source": "openalex",
+  "categories": [
+    "X-ray photoelectron spectroscopy",
+    "Crystallography",
+    "Physics",
+    "Energy (signal processing)",
+    "Epitaxy",
+    "Valence (chemistry)",
+    "Materials science",
+    "Analytical Chemistry (journal)",
+    "Nanotechnology",
+    "Nuclear magnetic resonance",
+    "Chemistry",
+    "Chromatography",
+    "Quantum mechanics",
+    "Layer (electronics)"
+  ],
+  "citation_count": 1099,
+  "open_access_pdf_url": "https://dspace.library.uu.nl/handle/1874/1558",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2122415545.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:24.236756+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2122415545",
+    "concepts": [
+      "X-ray photoelectron spectroscopy",
+      "Crystallography",
+      "Physics",
+      "Energy (signal processing)",
+      "Epitaxy"
+    ],
+    "oa_status": "green"
+  }
+}

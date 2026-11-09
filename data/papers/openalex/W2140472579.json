@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2140472579",
+  "title": "Defensins. Natural peptide antibiotics of human neutrophils.",
+  "abstract": "We extracted a granule-rich sediment from normal human neutrophils and subjected it to chromatographic, electrophoretic, and functional analysis. The extract contained three small (molecular weight less than 3,500) antibiotic peptides that were named human neutrophil peptide (HNP)-1, HNP-2, and HNP-3, and which will be referred to as \"defensins.\" HNP 1-3, a mixture of the three defensins, killed Staphylococcus aureus, Pseudomonas aeruginosa, and Escherichia coli effectively in vitro when tested in 10 mM phosphate buffer containing certain nutrients, but it had little or no bactericidal activity in nutrient-free buffer. In contrast, the nutrient-free buffer supported a high degree of activity by HNP 1-3 against Cryptococcus neoformans. In addition to its antibacterial and antifungal properties, HNP 1-3 directly inactivated herpes simplex virus, Type 1. Two of the individual purified defensins, HNP-1 and HNP-2, were as microbicidal as the mixture HNP 1-3. HNP-3 was less active than the other defensins against most but not all of the microbes tested. Immunoperoxidase stains revealed HNP 1-3 to have a granular localization in the neutrophil's cytoplasm by light microscopy. Frozen thin section immunogold transmission electron microscopy showed HNP 1-3 to be localized in azurophil granules. These studies define a broad-spectrum antimicrobial system in human neutrophils. The defensin system may operate in conjunction with or independently from oxygen-dependent microbicidal processes to enable human neutrophils to inactivate and destroy potential pathogens.",
+  "authors": [
+    "Tomas Ganz",
+    "Michael E. Selsted",
+    "Dorothy Szklarek",
+    "Sylvia S. L. Harwig",
+    "Kathleen A. Daher",
+    "Dorothy Ford Bainton",
+    "Robert I. Lehrer"
+  ],
+  "year": 1985,
+  "doi": "10.1172/jci112120",
+  "source": "openalex",
+  "categories": [
+    "Azurophilic granule",
+    "Microbiology",
+    "Defensin",
+    "Staphylococcus aureus",
+    "Biology",
+    "Beta defensin",
+    "Antimicrobial peptides",
+    "Antimicrobial",
+    "Innate immune system",
+    "Chemistry",
+    "Bacteria",
+    "Immune system",
+    "Immunology",
+    "Myeloperoxidase",
+    "Inflammation",
+    "Genetics"
+  ],
+  "citation_count": 1438,
+  "open_access_pdf_url": "http://www.jci.org/articles/view/112120/files/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2140472579.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:50.527017+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2140472579",
+    "concepts": [
+      "Azurophilic granule",
+      "Microbiology",
+      "Defensin",
+      "Staphylococcus aureus",
+      "Biology"
+    ],
+    "oa_status": "bronze"
+  }
+}

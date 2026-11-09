@@ -1,0 +1,45 @@
+{
+  "id": "openalex:W2964292098",
+  "title": "Making Deep Neural Networks Robust to Label Noise: A Loss Correction Approach",
+  "abstract": "We present a theoretically grounded approach to train deep neural networks, including recurrent networks, subject to class-dependent label noise. We propose two procedures for loss correction that are agnostic to both application domain and network architecture. They simply amount to at most a matrix inversion and multiplication, provided that we know the probability of each class being corrupted into another. We further show how one can estimate these probabilities, adapting a recent technique for noise estimation to the multi-class setting, and thus providing an end-to-end framework. Extensive experiments on MNIST, IMDB, CIFAR-10, CIFAR-100 and a large scale dataset of clothing images employing a diversity of architectures - stacking dense, convolutional, pooling, dropout, batch normalization, word embedding, LSTM and residual layers - demonstrate the noise robustness of our proposals. Incidentally, we also prove that, when ReLU is the only non-linearity, the loss curvature is immune to class-dependent label noise.",
+  "authors": [
+    "Giorgio Patrini",
+    "Alessandro Rozza",
+    "Aditya Krishna Menon",
+    "Richard Nock",
+    "Lizhen Qu"
+  ],
+  "year": 2017,
+  "doi": "10.1109/cvpr.2017.240",
+  "source": "openalex",
+  "categories": [
+    "Computer science",
+    "Convolutional neural network",
+    "Robustness (evolution)",
+    "Artificial intelligence",
+    "MNIST database",
+    "Embedding",
+    "Pattern recognition (psychology)",
+    "Artificial neural network",
+    "Algorithm",
+    "Biochemistry",
+    "Chemistry",
+    "Gene"
+  ],
+  "citation_count": 1527,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1609.03683",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2964292098.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:45.443369+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2964292098",
+    "concepts": [
+      "Computer science",
+      "Convolutional neural network",
+      "Robustness (evolution)",
+      "Artificial intelligence",
+      "MNIST database"
+    ],
+    "oa_status": "green"
+  }
+}

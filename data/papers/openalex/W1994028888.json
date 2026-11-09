@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W1994028888",
+  "title": "Hydrogen Production From Water Electrolysis: Current Status and Future Trends",
+  "abstract": "This paper reviews water electrolysis technologies for hydrogen production and also surveys the state of the art of water electrolysis integration with renewable energies. First, attention is paid to the thermodynamic and electrochemical processes to better understand how electrolysis cells work and how they can be combined to build big electrolysis modules. The electrolysis process and the characteristics, advantages, drawbacks, and challenges of the three main existing electrolysis technologies, namely alkaline, polymer electrolyte membrane, and solid oxide electrolyte, are then discussed. Current manufacturers and the main features of commercially available electrolyzers are extensively reviewed. Finally, the possible configurations allowing the integration of water electrolysis units with renewable energy sources in both autonomous and grid-connected systems are presented and some relevant demonstration projects are commented.",
+  "authors": [
+    "Alfredo Ursúa",
+    "Luis M. Gandía",
+    "Pablo Sanchis"
+  ],
+  "year": 2011,
+  "doi": "10.1109/jproc.2011.2156750",
+  "source": "openalex",
+  "categories": [
+    "Polymer electrolyte membrane electrolysis",
+    "Electrolysis",
+    "Power to gas",
+    "Electrolysis of water",
+    "High-temperature electrolysis",
+    "Hydrogen production",
+    "Process engineering",
+    "Renewable energy",
+    "Electrolytic process",
+    "Alkaline water electrolysis",
+    "High-pressure electrolysis",
+    "Electrolyte",
+    "Current (fluid)",
+    "Environmental science",
+    "Hydrogen",
+    "Computer science",
+    "Engineering",
+    "Chemistry",
+    "Electrode",
+    "Electrical engineering",
+    "Organic chemistry",
+    "Physical chemistry"
+  ],
+  "citation_count": 1834,
+  "open_access_pdf_url": "https://academica-e.unavarra.es/bitstreams/80048235-a5be-41ee-8ab0-a208b987c723/download",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1994028888.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:22.306831+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1994028888",
+    "concepts": [
+      "Polymer electrolyte membrane electrolysis",
+      "Electrolysis",
+      "Power to gas",
+      "Electrolysis of water",
+      "High-temperature electrolysis"
+    ],
+    "oa_status": "green"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "openalex:W2132155262",
+  "title": "IL-6 mediates hypoferremia of inflammation by inducing the synthesis of the iron regulatory hormone hepcidin",
+  "abstract": "Hypoferremia is a common response to systemic infections or generalized inflammatory disorders.In mouse models, the development of hypoferremia during inflammation requires hepcidin, an iron regulatory peptide hormone produced in the liver, but the inflammatory signals that regulate hepcidin are largely unknown.Our studies in human liver cell cultures, mice, and human volunteers indicate that IL-6 is the necessary and sufficient cytokine for the induction of hepcidin during inflammation and that the IL-6-hepcidin axis is responsible for the hypoferremia of inflammation. Methods Macrophage culture.Monocytes from peripheral blood were isolated by centrifugation through Ficoll-Paque (Amersham Pharmacia Biotech, Piscataway, New Jersey, USA) and 46% iso-Nonstandard abbreviations used: anemia of inflammation (AI); Iscove's modified Dulbecco's medium (IMDM); medium from LPS-stimulated macrophages (M-LPS); medium from unstimulated macrophages (M); recombinant human IL-6 (rhIL-6); total iron-binding capacity (TIBC); unsaturated iron-binding capacity (UIBC). Conflict of interest:The authors have declared that no conflict of interest exists.",
+  "authors": [
+    "Elizabeta Nemeth",
+    "Seth Rivera",
+    "Victoria R. Gabayan",
+    "Charlotte Keller",
+    "Sarah Taudorf",
+    "Bente Klarlund Pedersen",
+    "Tomas Ganz"
+  ],
+  "year": 2004,
+  "doi": "10.1172/jci20945",
+  "source": "openalex",
+  "categories": [
+    "Hepcidin",
+    "Inflammation",
+    "Hormone",
+    "Endocrinology",
+    "Chemistry",
+    "Internal medicine",
+    "Medicine"
+  ],
+  "citation_count": 2700,
+  "open_access_pdf_url": "http://www.jci.org/articles/view/20945/files/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2132155262.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:02.013023+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2132155262",
+    "concepts": [
+      "Hepcidin",
+      "Inflammation",
+      "Hormone",
+      "Endocrinology",
+      "Chemistry"
+    ],
+    "oa_status": "bronze"
+  }
+}

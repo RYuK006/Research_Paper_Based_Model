@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W2793972506",
+  "title": "Apoptosis: A Target for Anticancer Therapy",
+  "abstract": "Apoptosis, the cell's natural mechanism for death, is a promising target for anticancer therapy. Both the intrinsic and extrinsic pathways use caspases to carry out apoptosis through the cleavage of hundreds of proteins. In cancer, the apoptotic pathway is typically inhibited through a wide variety of means including overexpression of antiapoptotic proteins and under-expression of proapoptotic proteins. Many of these changes cause intrinsic resistance to the most common anticancer therapy, chemotherapy. Promising new anticancer therapies are plant-derived compounds that exhibit anticancer activity through activating the apoptotic pathway.",
+  "authors": [
+    "Claire M. Pfeffer",
+    "Amareshwar T.K. Singh"
+  ],
+  "year": 2018,
+  "doi": "10.3390/ijms19020448",
+  "source": "openalex",
+  "categories": [
+    "Apoptosis",
+    "Caspase",
+    "Intrinsic apoptosis",
+    "Programmed cell death",
+    "Cancer research",
+    "Cancer therapy",
+    "Biology",
+    "Mechanism (biology)",
+    "Cell biology",
+    "Cancer",
+    "Chemistry",
+    "Bioinformatics",
+    "Biochemistry",
+    "Genetics",
+    "Epistemology",
+    "Philosophy"
+  ],
+  "citation_count": 1626,
+  "open_access_pdf_url": "https://www.mdpi.com/1422-0067/19/2/448/pdf?version=1517561238",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2793972506.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:38.121585+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2793972506",
+    "concepts": [
+      "Apoptosis",
+      "Caspase",
+      "Intrinsic apoptosis",
+      "Programmed cell death",
+      "Cancer research"
+    ],
+    "oa_status": "gold"
+  }
+}

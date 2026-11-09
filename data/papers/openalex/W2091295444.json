@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W2091295444",
+  "title": "Extracting dislocations and non-dislocation crystal defects from atomistic simulation data",
+  "abstract": "We describe a novel method for extracting dislocation lines from atomistic simulation data in a fully automated way. The dislocation extraction algorithm (DXA) generates a geometric description of dislocation lines contained in an arbitrary crystalline model structure. Burgers vectors are determined reliably, and the extracted dislocation network fulfills the Burgers vector conservation rule at each node. All remaining crystal defects (grain boundaries, surfaces, etc), which cannot be represented by one-dimensional dislocation lines, are output as triangulated surfaces. This geometric representation is ideal for visualization of complex defect structures, even if they are not related to dislocation activity. In contrast to the recently proposed on-the-fly dislocation detection algorithm (ODDA) Stukowski ( 2010 Modelling Simul. Mater. Sci. Eng. 18 015012 ) the new method is extremely robust. While the ODDA was designed for a computationally efficient on-the-fly analysis, the DXA method enables a detailed analysis of dislocation lines even in highly distorted crystal regions, as they occur, for instance, close to grain boundaries or in dense dislocation networks.",
+  "authors": [
+    "Alexander Stukowski",
+    "Karsten Albe"
+  ],
+  "year": 2010,
+  "doi": "10.1088/0965-0393/18/8/085001",
+  "source": "openalex",
+  "categories": [
+    "Burgers vector",
+    "Dislocation",
+    "Materials science",
+    "Dislocation creep",
+    "Peierls stress",
+    "Crystallography",
+    "Crystal (programming language)",
+    "Ideal (ethics)",
+    "Algorithm",
+    "Condensed matter physics",
+    "Computer science",
+    "Physics",
+    "Composite material",
+    "Chemistry",
+    "Philosophy",
+    "Programming language",
+    "Epistemology"
+  ],
+  "citation_count": 1387,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1088/0965-0393/18/8/085001/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2091295444.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:52.573625+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2091295444",
+    "concepts": [
+      "Burgers vector",
+      "Dislocation",
+      "Materials science",
+      "Dislocation creep",
+      "Peierls stress"
+    ],
+    "oa_status": "bronze"
+  }
+}

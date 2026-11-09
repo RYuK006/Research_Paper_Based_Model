@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2142787097",
+  "title": "The anatomy of a comprehensive constrained, restrained refinement program for the modern computing environment – Olex2 dissected",
+  "abstract": "This paper describes the mathematical basis for olex2.refine, the new refinement engine which is integrated within the Olex2 program. Precise and clear equations are provided for every computation performed by this engine, including structure factors and their derivatives, constraints, restraints and twinning; a general overview is also given of the different components of the engine and their relation to each other. A framework for adding multiple general constraints with dependencies on common physical parameters is described. Several new restraints on atomic displacement parameters are also presented.",
+  "authors": [
+    "Laurent Bourhis",
+    "Oleg V. Dolomanov",
+    "Richard J. Gildea",
+    "Judith A. K. Howard",
+    "Horst Puschmann"
+  ],
+  "year": 2014,
+  "doi": "10.1107/s2053273314022207",
+  "source": "openalex",
+  "categories": [
+    "Computation",
+    "Relation (database)",
+    "Basis (linear algebra)",
+    "Displacement (psychology)",
+    "Computer science",
+    "Crystal twinning",
+    "Computational science",
+    "Theoretical computer science",
+    "Algorithm",
+    "Mathematics",
+    "Geometry",
+    "Data mining",
+    "Crystallography",
+    "Chemistry",
+    "Psychotherapist",
+    "Psychology",
+    "Microstructure"
+  ],
+  "citation_count": 1967,
+  "open_access_pdf_url": "http://journals.iucr.org/a/issues/2015/01/00/pc5043/pc5043.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2142787097.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:17.789028+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2142787097",
+    "concepts": [
+      "Computation",
+      "Relation (database)",
+      "Basis (linear algebra)",
+      "Displacement (psychology)",
+      "Computer science"
+    ],
+    "oa_status": "hybrid"
+  }
+}

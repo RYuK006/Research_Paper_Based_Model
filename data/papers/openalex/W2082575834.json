@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W2082575834",
+  "title": "TNF- and Cancer Therapy-Induced Apoptosis: Potentiation by Inhibition of NF-κB",
+  "abstract": "Many cells are resistant to stimuli that can induce apoptosis, but the mechanisms involved are not fully understood. The activation of the transcription factor nuclear factor-kappa B (NF-kappaB) by tumor necrosis factor (TNF), ionizing radiation, or daunorubicin (a cancer chemotherapeutic compound), was found to protect from cell killing. Inhibition of NF-kappaB nuclear translocation enhanced apoptotic killing by these reagents but not by apoptotic stimuli that do not activate NF-kappaB. These results provide a mechanism of cellular resistance to killing by some apoptotic reagents, offer insight into a new role for NF-kappaB, and have potential for improvement of the efficacy of cancer therapies.",
+  "authors": [
+    "Cun-Yu Wang",
+    "Marty W. Mayo",
+    "Albert S. Baldwin"
+  ],
+  "year": 1996,
+  "doi": "10.1126/science.274.5288.784",
+  "source": "openalex",
+  "categories": [
+    "Apoptosis",
+    "Tumor necrosis factor alpha",
+    "Cancer research",
+    "NF-κB",
+    "Cancer cell",
+    "Transcription factor",
+    "NFKB1",
+    "Cancer",
+    "Pharmacology",
+    "Biology",
+    "Chemistry",
+    "Cell biology",
+    "Immunology",
+    "Biochemistry",
+    "Genetics",
+    "Gene"
+  ],
+  "citation_count": 2586,
+  "open_access_pdf_url": "https://cdr.lib.unc.edu/record/uuid:3e19b3dd-d66e-46a5-8f4b-7feb957c8f3c",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2082575834.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:04.287586+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2082575834",
+    "concepts": [
+      "Apoptosis",
+      "Tumor necrosis factor alpha",
+      "Cancer research",
+      "NF-κB",
+      "Cancer cell"
+    ],
+    "oa_status": "green"
+  }
+}

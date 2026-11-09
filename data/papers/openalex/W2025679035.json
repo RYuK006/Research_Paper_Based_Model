@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2025679035",
+  "title": "Paraoxonase inhibits high-density lipoprotein oxidation and preserves its functions. A possible peroxidative role for paraoxonase.",
+  "abstract": "HDL levels are inversely related to the risk of developing atherosclerosis. In serum, paraoxonase (PON) is associated with HDL, and was shown to inhibit LDL oxidation. Whether PON also protects HDL from oxidation is unknown, and was determined in the present study. In humans, we found serum HDL PON activity and HDL susceptibility to oxidation to be inversely correlated (r2 = 0.77, n = 15). Supplementing human HDL with purified PON inhibited copper-induced HDL oxidation in a concentration-dependent manner. Adding PON to HDL prolonged the oxidation lag phase and reduced HDL peroxide and aldehyde formation by up to 95%. This inhibitory effect was most pronounced when PON was added before oxidation initiation. When purified PON was added to whole serum, essentially all of it became HDL-associated. The PON-enriched HDL was more resistant to copper ion-induced oxidation than was control HDL. Compared with control HDL, HDL from PON-treated serum showed a 66% prolongation in the lag phase of its oxidation, and up to a 40% reduction in peroxide and aldehyde content. In contrast, in the presence of various PON inhibitors, HDL oxidation induced by either copper ions or by a free radical generating system was markedly enhanced. As PON inhibited HDL oxidation, two major functions of HDL were assessed: macrophage cholesterol efflux, and LDL protection from oxidation. Compared with oxidized untreated HDL, oxidized PON-treated HDL caused a 45% increase in cellular cholesterol efflux from J-774 A.1 macrophages. Both HDL-associated PON and purified PON were potent inhibitors of LDL oxidation. Searching for a possible mechanism for PON-induced inhibition of HDL oxidation revealed PON (2 paraoxonase U/ml)-mediated hydrolysis of lipid peroxides (by 19%) and of cholesteryl linoleate hydroperoxides (by 90%) in oxidized HDL. HDL-associated PON, as well as purified PON, were also able to substantially hydrolyze (up to 25%) hydrogen peroxide (H2O2), a major reactive oxygen species produced under oxidative stress during atherogenesis. Finally, we analyzed serum PON activity in the atherosclerotic apolipoprotein E-deficient mice during aging and development of atherosclerotic lesions. With age, serum lipid peroxidation and lesion size increased, whereas serum PON activity decreased. We thus conclude that HDL-associated PON possesses peroxidase-like activity that can contribute to the protective effect of PON against lipoprotein oxidation. The presence of PON in HDL may thus be a major contributor to the antiatherogenicity of this lipoprotein.",
+  "authors": [
+    "M Aviram",
+    "Mira Rosenblat",
+    "C L Bisgaier",
+    "Roger S. Newton",
+    "Sergio L. Primo-Parmo",
+    "Bert N. La Du"
+  ],
+  "year": 1998,
+  "doi": "10.1172/jci1649",
+  "source": "openalex",
+  "categories": [
+    "Paraoxonase",
+    "PON1",
+    "Chemistry",
+    "Cholesterol",
+    "Internal medicine",
+    "Lipoprotein",
+    "Endocrinology",
+    "Efflux",
+    "Aryldialkylphosphatase",
+    "Lipid peroxide",
+    "High-density lipoprotein",
+    "Biochemistry",
+    "Enzyme",
+    "Biology",
+    "Lipid peroxidation",
+    "Medicine",
+    "Genotype",
+    "Gene"
+  ],
+  "citation_count": 1171,
+  "open_access_pdf_url": "http://www.jci.org/articles/view/1649/files/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2025679035.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:12.186046+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2025679035",
+    "concepts": [
+      "Paraoxonase",
+      "PON1",
+      "Chemistry",
+      "Cholesterol",
+      "Internal medicine"
+    ],
+    "oa_status": "bronze"
+  }
+}

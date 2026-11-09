@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W1988212011",
+  "title": "Skepinone-L, a Novel Potent and Highly Selective Inhibitor of p38 MAP Kinase, Effectively Impairs Platelet Activation and Thrombus Formation",
+  "abstract": "BACKGROUND/AIMS: Platelets are critically important for primary haemostasis and the major players in thrombotic vascular occlusion. Platelets are activated by agonists, such as thrombin and collagen-related peptide as well as second-wave mediators including thromboxane A2 via different intracellular signaling pathways resulting in degranulation, aggregation and thrombus formation. Platelet activation is paralleled by phosphorylation and activation of p38 MAPK. The limited specificity of hitherto known p38 MAPK inhibitors precluded safe conclusions on the precise role of p38 MAPK in the regulation of platelet function. The present study examined the impact of Skepinone-L, a novel and highly selective inhibitor of p38 mitogen-activated protein kinase (p38 MAPK), on platelet activation and thrombus formation. METHODS: Experiments were performed in freshly isolated human platelets. Protein phosphorylation was quantified by Western blotting, thromboxane B2 synthesis by enzyme immunoassay, ATP release by ChronoLume luciferin assay, cytosolic Ca(2+) concentration by Fura-2 fluorescence-measurements, platelet aggregation by a light transmissions measurement and in vitro thrombus formation by a flow chamber. RESULTS: Skepinone-L (1 μM) virtually abrogated the phosphorylation of platelet p38 MAPK substrate Hsp27 following stimulation with CRP (1 μg/ml), thrombin (5 mU/ml) or thromboxane A2 analogue U-46619 (1 μM). Furthermore, Skepinone-L significantly blunted activation-dependent platelet secretion and aggregation following threshold concentrations of CRP, thrombin and thromboxane A2 analogue U-46619. Skepinone-L did not impair platelet Ca(2+) signaling but prevented agonist-induced thromboxane A2 synthesis through abrogation of p38 MAPK-dependent phosphorylation of platelet cytosolic phospholipase A2 (cPLA2). Skepinone-L further markedly blunted thrombus formation under low (500-s) and high (1700-s) arterial shear rates. CONCLUSIONS: The present study discloses a powerful inhibiting effect of p38 MAPK-blocker Skepinone-L on platelet activation and thrombus formation.",
+  "authors": [
+    "Oliver Borst",
+    "Britta Walker",
+    "Patrick Münzer",
+    "Antonella Russo",
+    "Evi Schmid",
+    "Caterina Faggio",
+    "Boris Bigalke",
+    "Stefan Laufer",
+    "Meinrad Gawaz",
+    "Florian J.W. Lang"
+  ],
+  "year": 2013,
+  "doi": "10.1159/000350110",
+  "source": "openalex",
+  "categories": [
+    "p38 mitogen-activated protein kinases",
+    "In vivo",
+    "Kinase",
+    "Mitogen-activated protein kinase",
+    "Protein kinase A",
+    "MAPK/ERK pathway",
+    "Chemistry",
+    "Pharmacology",
+    "Cell biology",
+    "Biochemistry",
+    "Biology",
+    "Biotechnology"
+  ],
+  "citation_count": 1867,
+  "open_access_pdf_url": "https://www.karger.com/Article/Pdf/350110",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1988212011.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:22.220353+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1988212011",
+    "concepts": [
+      "p38 mitogen-activated protein kinases",
+      "In vivo",
+      "Kinase",
+      "Mitogen-activated protein kinase",
+      "Protein kinase A"
+    ],
+    "oa_status": "gold"
+  }
+}

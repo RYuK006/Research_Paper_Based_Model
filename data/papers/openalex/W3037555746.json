@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W3037555746",
+  "title": "HARMONIC POLYLOGARITHMS",
+  "abstract": "The harmonic polylogarithms (hpl's) are introduced. They are a generalization of Nielsen's polylogarithms, satisfying a product algebra (the product of two hpl's is in turn a combination of hpl's) and forming a set closed under the transformation of the arguments x=1/z and x=(1-t)/(1+t). The coefficients of their expansions and their Mellin transforms are harmonic sums.",
+  "authors": [
+    "Ettore Remiddi",
+    "J. A. M. Vermaseren"
+  ],
+  "year": 2000,
+  "doi": "10.1142/s0217751x00000367",
+  "source": "openalex",
+  "categories": [
+    "Generalization",
+    "Physics",
+    "Harmonic",
+    "Product (mathematics)",
+    "Transformation (genetics)",
+    "Feynman integral",
+    "Algebra over a field",
+    "Mellin transform",
+    "Pure mathematics",
+    "Set (abstract data type)",
+    "Mathematical physics",
+    "Quantum electrodynamics",
+    "Mathematical analysis",
+    "Quantum mechanics",
+    "Mathematics",
+    "Fourier transform",
+    "Geometry",
+    "Biochemistry",
+    "Chemistry",
+    "Gene",
+    "Programming language",
+    "Computer science",
+    "Feynman diagram"
+  ],
+  "citation_count": 1310,
+  "open_access_pdf_url": "https://arxiv.org/pdf/hep-ph/9905237",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3037555746.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:57.740894+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3037555746",
+    "concepts": [
+      "Generalization",
+      "Physics",
+      "Harmonic",
+      "Product (mathematics)",
+      "Transformation (genetics)"
+    ],
+    "oa_status": "green"
+  }
+}

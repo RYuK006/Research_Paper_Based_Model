@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W2963583471",
+  "title": "GeoNet: Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose",
+  "abstract": "We propose GeoNet, a jointly unsupervised learning framework for monocular depth, optical flow and egomotion estimation from videos. The three components are coupled by the nature of 3D scene geometry, jointly learned by our framework in an end-to-end manner. Specifically, geometric relationships are extracted over the predictions of individual modules and then combined as an image reconstruction loss, reasoning about static and dynamic scene parts separately. Furthermore, we propose an adaptive geometric consistency loss to increase robustness towards outliers and non-Lambertian regions, which resolves occlusions and texture ambiguities effectively. Experimentation on the KITTI driving dataset reveals that our scheme achieves state-of-the-art results in all of the three tasks, performing better than previously unsupervised methods and comparably with supervised ones.",
+  "authors": [
+    "Zhichao Yin",
+    "Jianping Shi"
+  ],
+  "year": 2018,
+  "doi": "10.1109/cvpr.2018.00212",
+  "source": "openalex",
+  "categories": [
+    "Artificial intelligence",
+    "Robustness (evolution)",
+    "Computer science",
+    "Computer vision",
+    "Outlier",
+    "Optical flow",
+    "Unsupervised learning",
+    "Monocular",
+    "View synthesis",
+    "Consistency (knowledge bases)",
+    "Pattern recognition (psychology)",
+    "Image (mathematics)",
+    "Biochemistry",
+    "Gene",
+    "Chemistry",
+    "Rendering (computer graphics)"
+  ],
+  "citation_count": 1305,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1803.02276",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2963583471.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:57.794386+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2963583471",
+    "concepts": [
+      "Artificial intelligence",
+      "Robustness (evolution)",
+      "Computer science",
+      "Computer vision",
+      "Outlier"
+    ],
+    "oa_status": "green"
+  }
+}

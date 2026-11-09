@@ -1,0 +1,45 @@
+{
+  "id": "openalex:W3008115128",
+  "title": "Deep Multi-Modal Object Detection and Semantic Segmentation for Autonomous Driving: Datasets, Methods, and Challenges",
+  "abstract": "Recent advancements in perception for autonomous driving are driven by deep learning. In order to achieve robust and accurate scene understanding, autonomous vehicles are usually equipped with different sensors (e.g. cameras, LiDARs, Radars), and multiple sensing modalities can be fused to exploit their complementary properties. In this context, many methods have been proposed for deep multi-modal perception problems. However, there is no general guideline for network architecture design, and questions of “what to fuse”, “when to fuse”, and “how to fuse” remain open. This review paper attempts to systematically summarize methodologies and discuss challenges for deep multi-modal object detection and semantic segmentation in autonomous driving. To this end, we first provide an overview of on-board sensors on test vehicles, open datasets, and background information for object detection and semantic segmentation in autonomous driving research. We then summarize the fusion methodologies and discuss challenges and open questions. In the appendix, we provide tables that summarize topics and methods. We also provide an interactive online platform to navigate each reference: https://boschresearch.github.io/multimodalperception/.",
+  "authors": [
+    "Di Feng",
+    "Christian Haase-Schutz",
+    "Lars Rosenbaum",
+    "Heinz Hertlein",
+    "Claudius Gläser",
+    "Fabian Timm",
+    "W. Wiesbeck",
+    "Klaus Dietmayer"
+  ],
+  "year": 2020,
+  "doi": "10.1109/tits.2020.2972974",
+  "source": "openalex",
+  "categories": [
+    "Modal",
+    "Computer science",
+    "Segmentation",
+    "Artificial intelligence",
+    "Object detection",
+    "Computer vision",
+    "Pattern recognition (psychology)",
+    "Chemistry",
+    "Polymer chemistry"
+  ],
+  "citation_count": 1501,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1902.07830",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3008115128.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:45.584350+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3008115128",
+    "concepts": [
+      "Modal",
+      "Computer science",
+      "Segmentation",
+      "Artificial intelligence",
+      "Object detection"
+    ],
+    "oa_status": "green"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W1982035274",
+  "title": "Biofuel Cells Select for Microbial Consortia That Self-Mediate Electron Transfer",
+  "abstract": "Microbial fuel cells hold great promise as a sustainable biotechnological solution to future energy needs. Current efforts to improve the efficiency of such fuel cells are limited by the lack of knowledge about the microbial ecology of these systems. The purposes of this study were (i) to elucidate whether a bacterial community, either suspended or attached to an electrode, can evolve in a microbial fuel cell to bring about higher power output, and (ii) to identify species responsible for the electricity generation. Enrichment by repeated transfer of a bacterial consortium harvested from the anode compartment of a biofuel cell in which glucose was used increased the output from an initial level of 0.6 W m(-2) of electrode surface to a maximal level of 4.31 W m(-2) (664 mV, 30.9 mA) when plain graphite electrodes were used. This result was obtained with an average loading rate of 1 g of glucose liter(-1) day(-1) and corresponded to 81% efficiency for electron transfer from glucose to electricity. Cyclic voltammetry indicated that the enhanced microbial consortium had either membrane-bound or excreted redox components that were not initially detected in the community. Dominant species of the enhanced culture were identified by denaturing gradient gel electrophoresis and culturing. The community consisted mainly of facultative anaerobic bacteria, such as Alcaligenes faecalis and Enterococcus gallinarum, which are capable of hydrogen production. Pseudomonas aeruginosa and other Pseudomonas species were also isolated. For several isolates, electrochemical activity was mainly due to excreted redox mediators, and one of these mediators, pyocyanin produced by P. aeruginosa, could be characterized. Overall, the enrichment procedure, irrespective of whether only attached or suspended bacteria were examined, selected for organisms capable of mediating the electron transfer either by direct bacterial transfer or by excretion of redox components.",
+  "authors": [
+    "Korneel Rabaey",
+    "Nico Boon",
+    "Steven D. Siciliano",
+    "Marc Verhaege",
+    "Willy Verstraete"
+  ],
+  "year": 2004,
+  "doi": "10.1128/aem.70.9.5373-5382.2004",
+  "source": "openalex",
+  "categories": [
+    "Microbial fuel cell",
+    "Microbial population biology",
+    "Redox",
+    "Alcaligenes",
+    "Bacteria",
+    "Chemistry",
+    "Microbial consortium",
+    "Microbiology",
+    "Pseudomonas",
+    "Biology",
+    "Food science",
+    "Anode",
+    "Environmental chemistry",
+    "Microorganism",
+    "Electrode",
+    "Inorganic chemistry",
+    "Genetics",
+    "Physical chemistry"
+  ],
+  "citation_count": 1287,
+  "open_access_pdf_url": "http://europepmc.org/pmc/articles/PMC520914",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1982035274.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:00.395966+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1982035274",
+    "concepts": [
+      "Microbial fuel cell",
+      "Microbial population biology",
+      "Redox",
+      "Alcaligenes",
+      "Bacteria"
+    ],
+    "oa_status": "green"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2159358845",
+  "title": "Human bone marrow stromal cells suppress T-lymphocyte proliferation induced by cellular or nonspecific mitogenic stimuli",
+  "abstract": "CD2(+) T lymphocytes obtained from either the donor of bone marrow stromal cells (BMSCs) or a third party were cultured in mixed lymphocyte reactions (MLRs) with either allogeneic dendritic cells (DCs) or peripheral blood lymphocytes (PBLs). When autologous or allogeneic BMSCs were added back to T cells stimulated by DCs or PBLs, a significant and dose-dependent reduction of T-cell proliferation, ranging from 60% +/- 5% to 98% +/- 1%, was evident. Similarly, addition of BMSCs to T cells stimulated by polyclonal activators resulted in a 65% +/- 5% (P =.0001) suppression of proliferation. BMSC- induced T-cell suppression was still evident when BMSCs were added in culture as late as 5 days after starting of MLRs. BMSC-inhibited T lymphocytes were not apoptotic and efficiently proliferated on restimulation. BMSCs significantly suppressed both CD4(+) and CD8(+) T cells (65% +/- 5%, [P =.0005] and 75% +/- 15% [P =.0005], respectively). Transwell experiments, in which cell-cell contact between BMSCs and effector cells was prevented, resulted in a significant inhibition of T-lymphocyte proliferation, suggesting that soluble factors were involved in this phenomenon. By using neutralizing monoclonal antibodies, transforming growth factor beta1 and hepatocyte growth factor were identified as the mediators of BMSC effects. In conclusion, our data demonstrate that (1) autologous or allogeneic BMSCs strongly suppress T-lymphocyte proliferation, (2) this phenomenon that is triggered by both cellular as well as nonspecific mitogenic stimuli has no immunologic restriction, and (3) T-cell inhibition is not due to induction of apoptosis and is likely due to the production of soluble factors.",
+  "authors": [
+    "Massimo Di Nicola",
+    "Carmelo Carlo‐Stella",
+    "Michele Magni",
+    "Marco Milanesi",
+    "Paolo D. Longoni",
+    "Paola Matteucci",
+    "Salvatore Grisanti",
+    "Alessandro M. Gianni"
+  ],
+  "year": 2002,
+  "doi": "10.1182/blood.v99.10.3838",
+  "source": "openalex",
+  "categories": [
+    "Stromal cell",
+    "Bone marrow",
+    "Lymphocyte",
+    "Mixed lymphocyte reaction",
+    "Immunology",
+    "Cell growth",
+    "CD8",
+    "T cell",
+    "T lymphocyte",
+    "Molecular biology",
+    "Biology",
+    "Cell biology",
+    "Chemistry",
+    "Cancer research",
+    "Immune system",
+    "Biochemistry"
+  ],
+  "citation_count": 3275,
+  "open_access_pdf_url": "http://www.bloodjournal.org/content/bloodjournal/99/10/3838.full.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2159358845.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:57.796105+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2159358845",
+    "concepts": [
+      "Stromal cell",
+      "Bone marrow",
+      "Lymphocyte",
+      "Mixed lymphocyte reaction",
+      "Immunology"
+    ],
+    "oa_status": "bronze"
+  }
+}

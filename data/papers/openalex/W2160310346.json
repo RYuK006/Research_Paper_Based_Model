@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W2160310346",
+  "title": "Ligand docking and binding site analysis with PyMOL and Autodock/Vina",
+  "abstract": "Docking of small molecule compounds into the binding site of a receptor and estimating the binding affinity of the complex is an important part of the structure-based drug design process. For a thorough understanding of the structural principles that determine the strength of a protein/ligand complex both, an accurate and fast docking protocol and the ability to visualize binding geometries and interactions are mandatory. Here we present an interface between the popular molecular graphics system PyMOL and the molecular docking suites Autodock and Vina and demonstrate how the combination of docking and visualization can aid structure-based drug design efforts.",
+  "authors": [
+    "Daniel Seeliger",
+    "Bert L. de Groot"
+  ],
+  "year": 2010,
+  "doi": "10.1007/s10822-010-9352-6",
+  "source": "openalex",
+  "categories": [
+    "AutoDock",
+    "Docking (animal)",
+    "Visualization",
+    "Computer science",
+    "Protein–ligand docking",
+    "Computational biology",
+    "Drug discovery",
+    "Chemistry",
+    "Virtual screening",
+    "Data mining",
+    "Biology",
+    "Biochemistry",
+    "Medicine",
+    "Gene",
+    "Nursing",
+    "In silico"
+  ],
+  "citation_count": 2695,
+  "open_access_pdf_url": "https://link.springer.com/content/pdf/10.1007/s10822-010-9352-6.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2160310346.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:04.171603+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2160310346",
+    "concepts": [
+      "AutoDock",
+      "Docking (animal)",
+      "Visualization",
+      "Computer science",
+      "Protein–ligand docking"
+    ],
+    "oa_status": "hybrid"
+  }
+}

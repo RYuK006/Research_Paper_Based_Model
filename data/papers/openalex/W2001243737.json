@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2001243737",
+  "title": "Bulk superconductivity at 91 K in single-phase oxygen-deficient perovskite Ba 2 YCu 3 O 9 − δ",
+  "abstract": "We have prepared and identified as a single phase the high-temperature superconducting compound in the chemical system Y-Ba-Cu-O, an orthorhombic, distorted oxygen-deficient perovskite of stoichiometry ${\\mathrm{Ba}}_{2}$${\\mathrm{YCu}}_{3}$${\\mathrm{O}}_{9\\mathrm{\\ensuremath{-}}\\mathrm{\\ensuremath{\\delta}}}$ (\\ensuremath{\\delta}\\ensuremath{\\simeq}2.1). Samples exhibit zero resistance at 91 K, with a transition width of 1.5 K. The Meissner effect attains a value of 76% of the independently measured diamagnetic susceptibility. We estimate parameters that characterize this superconductor, e.g., \\ensuremath{\\gamma}\\ensuremath{\\simeq}3--5 mJ (mole Cu${)}^{\\mathrm{\\ensuremath{-}}1}$ ${\\mathrm{K}}^{\\mathrm{\\ensuremath{-}}2}$. The critical current density at 77 K and H=0 exceeds 1100 A/${\\mathrm{cm}}^{2}$.",
+  "authors": [
+    "R. J. Cava",
+    "Bertram J. Batlogg",
+    "Robert Bruce Van Dover",
+    "DONALD W. MURPHY",
+    "Steven A. Sunshine",
+    "Theo Siegrist",
+    "J. P. Remeika",
+    "Edward A. Rietman",
+    "S. M. Zahurak",
+    "G. P. Espinosa"
+  ],
+  "year": 1987,
+  "doi": "10.1103/physrevlett.58.1676",
+  "source": "openalex",
+  "categories": [
+    "Superconductivity",
+    "Orthorhombic crystal system",
+    "Diamagnetism",
+    "Perovskite (structure)",
+    "Physics",
+    "Condensed matter physics",
+    "Stoichiometry",
+    "Materials science",
+    "Crystallography",
+    "Phase (matter)",
+    "Transition temperature",
+    "Crystal structure",
+    "Physical chemistry",
+    "Chemistry",
+    "Quantum mechanics",
+    "Magnetic field"
+  ],
+  "citation_count": 1634,
+  "open_access_pdf_url": "http://link.aps.org/pdf/10.1103/PhysRevLett.58.1676",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2001243737.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:38.047765+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2001243737",
+    "concepts": [
+      "Superconductivity",
+      "Orthorhombic crystal system",
+      "Diamagnetism",
+      "Perovskite (structure)",
+      "Physics"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "openalex:W1491335392",
+  "title": "Single-Cycle Nonlinear Optics",
+  "abstract": "Nonlinear optics plays a central role in the advancement of optical science and laser-based technologies. We report on the confinement of the nonlinear interaction of light with matter to a single wave cycle and demonstrate its utility for time-resolved and strong-field science. The electric field of 3.3-femtosecond, 0.72-micron laser pulses with a controlled and measured waveform ionizes atoms near the crests of the central wave cycle, with ionization being virtually switched off outside this interval. Isolated sub-100-attosecond pulses of extreme ultraviolet light (photon energy approximately 80 electron volts), containing approximately 0.5 nanojoule of energy, emerge from the interaction with a conversion efficiency of approximately 10(-6). These tools enable the study of the precision control of electron motion with light fields and electron-electron interactions with a resolution approaching the atomic unit of time ( approximately 24 attoseconds).",
+  "authors": [
+    "E. Goulielmakis",
+    "M. Schultze",
+    "M. Hofstetter",
+    "V. S. Yakovlev",
+    "J. Gagnon",
+    "M. Uiberacker",
+    "Andrew Aquila",
+    "E. M. Gullikson",
+    "David T. Attwood",
+    "R. Kienberger",
+    "F. Krausz",
+    "U. Kleineberg"
+  ],
+  "year": 2008,
+  "doi": "10.1126/science.1157846",
+  "source": "openalex",
+  "categories": [
+    "Physics",
+    "Crystallography",
+    "Chemistry"
+  ],
+  "citation_count": 1637,
+  "open_access_pdf_url": "https://mediatum.ub.tum.de/doc/1579423/document.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1491335392.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:38.040056+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1491335392",
+    "concepts": [
+      "Physics",
+      "Crystallography",
+      "Chemistry"
+    ],
+    "oa_status": "green"
+  }
+}

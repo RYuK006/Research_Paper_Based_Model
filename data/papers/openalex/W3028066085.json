@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W3028066085",
+  "title": "Global threat of arsenic in groundwater",
+  "abstract": "Naturally occurring arsenic in groundwater affects millions of people worldwide. We created a global prediction map of groundwater arsenic exceeding 10 micrograms per liter using a random forest machine-learning model based on 11 geospatial environmental parameters and more than 50,000 aggregated data points of measured groundwater arsenic concentration. Our global prediction map includes known arsenic-affected areas and previously undocumented areas of concern. By combining the global arsenic prediction model with household groundwater-usage statistics, we estimate that 94 million to 220 million people are potentially exposed to high arsenic concentrations in groundwater, the vast majority (94%) being in Asia. Because groundwater is increasingly used to support growing populations and buffer against water scarcity due to changing climate, this work is important to raise awareness, identify areas for safe wells, and help prioritize testing.",
+  "authors": [
+    "Joel E. Podgorski",
+    "Michael D. Vanden Berg"
+  ],
+  "year": 2020,
+  "doi": "10.1126/science.aba1510",
+  "source": "openalex",
+  "categories": [
+    "Arsenic",
+    "Groundwater",
+    "Aquifer",
+    "Hazard",
+    "Arsenic contamination of groundwater",
+    "Environmental science",
+    "Contaminated groundwater",
+    "Environmental hazard",
+    "Water resource management",
+    "Contamination",
+    "Geology",
+    "Ecology",
+    "Environmental remediation",
+    "Chemistry",
+    "Biology",
+    "Organic chemistry",
+    "Geotechnical engineering"
+  ],
+  "citation_count": 1603,
+  "open_access_pdf_url": "https://www.dora.lib4ri.ch/eawag/dload/eawag:20910/PDF3/view",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3028066085.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:41.843639+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3028066085",
+    "concepts": [
+      "Arsenic",
+      "Groundwater",
+      "Aquifer",
+      "Hazard",
+      "Arsenic contamination of groundwater"
+    ],
+    "oa_status": "green"
+  }
+}

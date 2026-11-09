@@ -1,0 +1,57 @@
+{
+  "id": "openalex:W2608790738",
+  "title": "Janus Monolayer Transition-Metal Dichalcogenides",
+  "abstract": "The crystal configuration of sandwiched S–Mo–Se structure (Janus SMoSe) at the monolayer limit has been synthesized and carefully characterized in this work. By controlled sulfurization of monolayer MoSe 2, the top layer of selenium atoms is substituted by sulfur atoms, while the bottom selenium layer remains intact. The structure of this material is systematically investigated by Raman, photoluminescence, transmission electron microscopy, and X-ray photoelectron spectroscopy and confirmed by time-of-flight secondary ion mass spectrometry. Density functional theory (DFT) calculations are performed to better understand the Raman vibration modes and electronic structures of the Janus SMoSe monolayer, which are found to correlate well with corresponding experimental results. Finally, high basal plane hydrogen evolution reaction activity is discovered for the Janus monolayer, and DFT calculation implies that the activity originates from the synergistic effect of the intrinsic defects and structural strain inherent in the Janus structure.",
+  "authors": [
+    "Jing Zhang",
+    "Shuai Jia",
+    "Iskandar N. Kholmanov",
+    "Liang Dong",
+    "Dequan Er",
+    "Weibing Chen",
+    "Hua Guo",
+    "Zehua Jin",
+    "Vivek B. Shenoy",
+    "Li Shi",
+    "Jun Lou"
+  ],
+  "year": 2017,
+  "doi": "10.1021/acsnano.7b03186",
+  "source": "openalex",
+  "categories": [
+    "Monolayer",
+    "Janus",
+    "Raman spectroscopy",
+    "X-ray photoelectron spectroscopy",
+    "Density functional theory",
+    "Materials science",
+    "Transition metal",
+    "Chemical physics",
+    "Crystallography",
+    "Nanotechnology",
+    "Chemistry",
+    "Computational chemistry",
+    "Chemical engineering",
+    "Organic chemistry",
+    "Optics",
+    "Engineering",
+    "Physics",
+    "Catalysis"
+  ],
+  "citation_count": 1674,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1704.06389",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2608790738.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:33.248917+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2608790738",
+    "concepts": [
+      "Monolayer",
+      "Janus",
+      "Raman spectroscopy",
+      "X-ray photoelectron spectroscopy",
+      "Density functional theory"
+    ],
+    "oa_status": "green"
+  }
+}

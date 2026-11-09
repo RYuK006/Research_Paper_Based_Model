@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2096773693",
+  "title": "Helium diffusion from apatite: General behavior as illustrated by Durango fluorapatite",
+  "abstract": "High‐precision stepped‐heating experiments were performed to better characterize helium diffusion from apatite using Durango fluorapatite as a model system. At temperatures below 265°C, helium diffusion from this apatite is a simple, thermally activated process that is independent of the cumulative fraction of helium released and also of the heating schedule used. Across a factor of ∼4 in grain size, helium diffusivity scales with the inverse square of grain radius, implying that the physical grain is the diffusion domain. Measurements on crystallographically oriented thick sections indicate that helium diffusivity in Durango apatite is nearly isotropic. The best estimate of the activation energy for He diffusion from this apatite is Ea = 33±0.5 kcal/mol, with log(D0) = 1.5±0.6 cm2/s. The implied He closure temperature for a grain of 100 μm radius is 68°C assuming a 10°C/Myr cooling rate; this figure varies by ±5°C for grains ranging from 50 to 150 μm radius. When this apatite is heated to temperatures from 265 to 400°C, a progressive and irreversible change in He diffusion behavior occurs: Both the activation energy and frequency factor are reduced. This transition in behavior coincides closely with progressive annealing of radiation damage in Durango apatite, suggesting that defects and defect annealing play a role in the diffusivity of helium through apatite.",
+  "authors": [
+    "Kenneth Anthony Farley"
+  ],
+  "year": 2000,
+  "doi": "10.1029/1999jb900348",
+  "source": "openalex",
+  "categories": [
+    "Fluorapatite",
+    "Apatite",
+    "Helium",
+    "Materials science",
+    "Thermal diffusivity",
+    "Diffusion",
+    "Annealing (glass)",
+    "Grain boundary diffusion coefficient",
+    "Grain size",
+    "Mineralogy",
+    "Activation energy",
+    "Analytical Chemistry (journal)",
+    "Grain boundary",
+    "Thermodynamics",
+    "Geology",
+    "Chemistry",
+    "Composite material",
+    "Atomic physics",
+    "Physical chemistry",
+    "Physics",
+    "Microstructure",
+    "Chromatography"
+  ],
+  "citation_count": 1108,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/1999JB900348",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2096773693.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:19.636275+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2096773693",
+    "concepts": [
+      "Fluorapatite",
+      "Apatite",
+      "Helium",
+      "Materials science",
+      "Thermal diffusivity"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2889500241",
+  "title": "Protein content and amino acid composition of commercially available plant-based protein isolates",
+  "abstract": "The postprandial rise in essential amino acid (EAA) concentrations modulates the increase in muscle protein synthesis rates after protein ingestion. The EAA content and AA composition of the dietary protein source contribute to the differential muscle protein synthetic response to the ingestion of different proteins. Lower EAA contents and specific lack of sufficient leucine, lysine, and/or methionine may be responsible for the lower anabolic capacity of plant-based compared with animal-based proteins. We compared EAA contents and AA composition of a large selection of plant-based protein sources with animal-based proteins and human skeletal muscle protein. AA composition of oat, lupin, wheat, hemp, microalgae, soy, brown rice, pea, corn, potato, milk, whey, caseinate, casein, egg, and human skeletal muscle protein were assessed using UPLC-MS/MS. EAA contents of plant-based protein isolates such as oat (21%), lupin (21%), and wheat (22%) were lower than animal-based proteins (whey 43%, milk 39%, casein 34%, and egg 32%) and muscle protein (38%). AA profiles largely differed among plant-based proteins with leucine contents ranging from 5.1% for hemp to 13.5% for corn protein, compared to 9.0% for milk, 7.0% for egg, and 7.6% for muscle protein. Methionine and lysine were typically lower in plant-based proteins (1.0 ± 0.3 and 3.6 ± 0.6%) compared with animal-based proteins (2.5 ± 0.1 and 7.0 ± 0.6%) and muscle protein (2.0 and 7.8%, respectively). In conclusion, there are large differences in EAA contents and AA composition between various plant-based protein isolates. Combinations of various plant-based protein isolates or blends of animal and plant-based proteins can provide protein characteristics that closely reflect the typical characteristics of animal-based proteins.",
+  "authors": [
+    "Stefan H. M. Gorissen",
+    "Julie J. R. Crombag",
+    "Joan M. Senden",
+    "Huub W. A. H. Waterval",
+    "Jörgen Bierau",
+    "Lex B. Verdijk",
+    "Luc J. C. van Loon"
+  ],
+  "year": 2018,
+  "doi": "10.1007/s00726-018-2640-5",
+  "source": "openalex",
+  "categories": [
+    "Methionine",
+    "Leucine",
+    "Food science",
+    "Casein",
+    "Plant protein",
+    "Amino acid",
+    "Composition (language)",
+    "Lysine",
+    "Essential amino acid",
+    "Biology",
+    "Skeletal muscle",
+    "Whey protein",
+    "Biochemistry",
+    "Soy protein",
+    "Ingestion",
+    "Chemistry",
+    "Endocrinology",
+    "Linguistics",
+    "Philosophy"
+  ],
+  "citation_count": 1253,
+  "open_access_pdf_url": "https://link.springer.com/content/pdf/10.1007/s00726-018-2640-5.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2889500241.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:02.625001+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2889500241",
+    "concepts": [
+      "Methionine",
+      "Leucine",
+      "Food science",
+      "Casein",
+      "Plant protein"
+    ],
+    "oa_status": "hybrid"
+  }
+}

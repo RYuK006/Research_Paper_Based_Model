@@ -1,0 +1,42 @@
+{
+  "id": "openalex:W2125512764",
+  "title": "Development and Mapping of 2240 New SSR Markers for Rice (Oryza sativa L.)",
+  "abstract": "A total of 2414 new di-, tri- and tetra-nucleotide non-redundant SSR primer pairs, representing 2240 unique marker loci, have been developed and experimentally validated for rice (Oryza sativa L.). Duplicate primer pairs are reported for 7% (174) of the loci. The majority (92%) of primer pairs were developed in regions flanking perfect repeats > or = 24 bp in length. Using electronic PCR (e-PCR) to align primer pairs against 3284 publicly sequenced rice BAC and PAC clones (representing about 83% of the total rice genome), 65% of the SSR markers hit a BAC or PAC clone containing at least one genetically mapped marker and could be mapped by proxy. Additional information based on genetic mapping and \"nearest marker\" information provided the basis for locating a total of 1825 (81%) of the newly designed markers along rice chromosomes. Fifty-six SSR markers (2.8%) hit BAC clones on two or more different chromosomes and appeared to be multiple copy. The largest proportion of SSRs in this data set correspond to poly(GA) motifs (36%), followed by poly(AT) (15%) and poly(CCG) (8%) motifs. AT-rich microsatellites had the longest average repeat tracts, while GC-rich motifs were the shortest. In combination with the pool of 500 previously mapped SSR markers, this release makes available a total of 2740 experimentally confirmed SSR markers for rice, or approximately one SSR every 157 kb.",
+  "authors": [
+    "Susan R. McCouch"
+  ],
+  "year": 2002,
+  "doi": "10.1093/dnares/9.6.199",
+  "source": "openalex",
+  "categories": [
+    "Oryza sativa",
+    "Biology",
+    "Primer (cosmetics)",
+    "Microsatellite",
+    "Genetics",
+    "Genome",
+    "Genetic marker",
+    "Oryza",
+    "Molecular marker",
+    "Gene",
+    "Organic chemistry",
+    "Allele",
+    "Chemistry"
+  ],
+  "citation_count": 1511,
+  "open_access_pdf_url": "https://academic.oup.com/dnaresearch/article-pdf/9/6/199/6935616/dnares_9_6_199.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2125512764.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:45.538726+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2125512764",
+    "concepts": [
+      "Oryza sativa",
+      "Biology",
+      "Primer (cosmetics)",
+      "Microsatellite",
+      "Genetics"
+    ],
+    "oa_status": "gold"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W1985977889",
+  "title": "High protonic potential actuates a mechanism of production of reactive oxygen species in mitochondria",
+  "abstract": "Formation of H2O2 has been studied in rat heart mitochondria, pretreated with H2O2 and aminotriazole to lower their antioxidant capacity. It is shown that the rate of H2O2 formation by mitochondria oxidizing 6 mM succinate is inhibited by a protonophorous uncoupler, ADP and phosphate, malonate, rotenone and myxothiazol, and is stimulated by antimycin A. The effect of ADP is abolished by carboxyatractylate and oligomycin. Addition of uncoupler after rotenone induces further inhibition of H2O2 production. Inhibition of H2O2 formation by uncoupler, malonate and ADP+Pi is shown to be proportional to the delta psi decrease by these compounds. A threshold delta psi value is found, above which a very strong increase in H2O2 production takes place. This threshold slightly exceeds the state 3 delta psi level. The data obtained are in line with the concept [Skulachev, V.P., Q. Rev. Biophys. 29 (1996), 169-2021 that a high proton motive force in state 4 is potentially dangerous for the cell due to an increase in the probability of superoxide formation.",
+  "authors": [
+    "Sergey Korshunov",
+    "Vladimir P. Skulachev",
+    "Anatoly A. Starkov"
+  ],
+  "year": 1997,
+  "doi": "10.1016/s0014-5793(97)01159-9",
+  "source": "openalex",
+  "categories": [
+    "Oligomycin",
+    "Malonate",
+    "Rotenone",
+    "Antimycin A",
+    "Chemistry",
+    "Mitochondrion",
+    "Reactive oxygen species",
+    "Superoxide",
+    "Catalase",
+    "ATP synthase",
+    "Chemiosmosis",
+    "Oxidative phosphorylation",
+    "Biochemistry",
+    "Biophysics",
+    "Uncoupling Agents",
+    "ATPase",
+    "Antioxidant",
+    "Biology",
+    "Enzyme"
+  ],
+  "citation_count": 1750,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1016/S0014-5793%2897%2901159-9",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1985977889.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:26.165360+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1985977889",
+    "concepts": [
+      "Oligomycin",
+      "Malonate",
+      "Rotenone",
+      "Antimycin A",
+      "Chemistry"
+    ],
+    "oa_status": "bronze"
+  }
+}

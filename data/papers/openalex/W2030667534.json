@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2030667534",
+  "title": "Trehalose, a Novel mTOR-independent Autophagy Enhancer, Accelerates the Clearance of Mutant Huntingtin and α-Synuclein",
+  "abstract": "Trehalose, a disaccharide present in many non-mammalian species, protects cells against various environmental stresses. Whereas some of the protective effects may be explained by its chemical chaperone properties, its actions are largely unknown. Here we report a novel function of trehalose as an mTOR-independent autophagy activator. Trehalose-induced autophagy enhanced the clearance of autophagy substrates like mutant huntingtin and the A30P and A53T mutants of alpha-synuclein, associated with Huntington disease (HD) and Parkinson disease (PD), respectively. Furthermore, trehalose and mTOR inhibition by rapamycin together exerted an additive effect on the clearance of these aggregate-prone proteins because of increased autophagic activity. By inducing autophagy, we showed that trehalose also protects cells against subsequent pro-apoptotic insults via the mitochondrial pathway. The dual protective properties of trehalose (as an inducer of autophagy and chemical chaperone) and the combinatorial strategy with rapamycin may be relevant to the treatment of HD and related diseases, where the mutant proteins are autophagy substrates.",
+  "authors": [
+    "Sovan Sarkar",
+    "J. Eric Davies",
+    "Zebo Huang",
+    "Alan Tunnacliffe",
+    "David Chaim Rubinsztein"
+  ],
+  "year": 2006,
+  "doi": "10.1074/jbc.m609532200",
+  "source": "openalex",
+  "categories": [
+    "Autophagy",
+    "Huntingtin",
+    "Trehalose",
+    "Chemical chaperone",
+    "Cell biology",
+    "PI3K/AKT/mTOR pathway",
+    "Activator (genetics)",
+    "Mutant",
+    "BAG3",
+    "Biochemistry",
+    "Huntingtin Protein",
+    "Chemistry",
+    "Biology",
+    "Alpha-synuclein",
+    "Apoptosis",
+    "Signal transduction",
+    "Parkinson's disease",
+    "Receptor",
+    "Medicine",
+    "Gene",
+    "Disease",
+    "Pathology"
+  ],
+  "citation_count": 1151,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925820688603/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2030667534.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:14.584118+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2030667534",
+    "concepts": [
+      "Autophagy",
+      "Huntingtin",
+      "Trehalose",
+      "Chemical chaperone",
+      "Cell biology"
+    ],
+    "oa_status": "hybrid"
+  }
+}

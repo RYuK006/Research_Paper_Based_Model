@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2113386984",
+  "title": "Correlation consistent valence basis sets for use with the Stuttgart–Dresden–Bonn relativistic effective core potentials: The atoms Ga–Kr and In–Xe",
+  "abstract": "We propose large-core correlation-consistent (cc) pseudopotential basis sets for the heavy p-block elements Ga–Kr and In–Xe. The basis sets are of cc-pVTZ and cc-pVQZ quality, and have been optimized for use with the large-core (valence-electrons only) Stuttgart–Dresden–Bonn (SDB) relativistic pseudopotentials. Validation calculations on a variety of third-row and fourth-row diatomics suggest them to be comparable in quality to the all-electron cc-pVTZ and cc-pVQZ basis sets for lighter elements. Especially the SDB-cc-pVQZ basis set in conjunction with a core polarization potential (CPP) yields excellent agreement with experiment for compounds of the later heavy p-block elements. For accurate calculations on Ga (and, to a lesser extent, Ge) compounds, explicit treatment of 13 valence electrons appears to be desirable, while it seems inevitable for In compounds. For Ga and Ge, we propose correlation consistent basis sets extended for (3d) correlation. For accurate calculations on organometallic complexes of interest to homogenous catalysis, we recommend a combination of the standard cc-pVTZ basis set for first- and second-row elements, the presently derived SDB-cc-pVTZ basis set for heavier p-block elements, and for transition metals, the small-core [6s5p3d] Stuttgart–Dresden basis set-relativistic effective core potential combination supplemented by (2f1g) functions with exponents given in the Appendix to the present paper.",
+  "authors": [
+    "Jan M. L. Martin",
+    "Andreas Sundermann"
+  ],
+  "year": 2001,
+  "doi": "10.1063/1.1337864",
+  "source": "openalex",
+  "categories": [
+    "Pseudopotential",
+    "Basis (linear algebra)",
+    "Basis set",
+    "Valence (chemistry)",
+    "Diatomic molecule",
+    "Basis function",
+    "Core electron",
+    "Polarization (electrochemistry)",
+    "Physics",
+    "Statistical physics",
+    "Chemistry",
+    "Atomic physics",
+    "Relativistic quantum chemistry",
+    "Valence electron",
+    "Core (optical fiber)",
+    "STO-nG basis sets",
+    "Core model",
+    "Quantum mechanics",
+    "Electronic correlation",
+    "Electron",
+    "Set (abstract data type)",
+    "Series (stratigraphy)",
+    "Mathematics",
+    "Correlation"
+  ],
+  "citation_count": 1378,
+  "open_access_pdf_url": "https://arxiv.org/pdf/physics/0011030",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2113386984.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:52.682564+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2113386984",
+    "concepts": [
+      "Pseudopotential",
+      "Basis (linear algebra)",
+      "Basis set",
+      "Valence (chemistry)",
+      "Diatomic molecule"
+    ],
+    "oa_status": "green"
+  }
+}

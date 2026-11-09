@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2071087722",
+  "title": "Identification of two distinct synucleins from human brain",
+  "abstract": "Two abundant proteins of 140 and 134 amino acids were purified and sequenced from human brain. They were identified through their reactivity on immunoblots with a partially characterised monoclonal antibody that recognises tau protein in a phosphorylation-dependent manner. The 140 amino acid protein is identical with the precursor of the non-A beta component of Alzheimer's disease amyloid which in turn is highly homologous to synuclein from Torpedo electroplaques and rat brain. The 134 amino acid protein is the human homologue of bovine phosphoneuroprotein 14; it is 61% identical in sequence to the 140 amino acid protein. The previously unrecognised homology between these two proteins defines a family of human brain synucleins. We refer to the 140 and 134 amino acid proteins as alpha-synuclein and beta-synuclein, respectively. Both synucleins are expressed predominantly in brain, where they are concentrated in presynaptic nerve terminals.",
+  "authors": [
+    "Ross Jakes",
+    "Maria Grazia Spillantini",
+    "Michel Goedert"
+  ],
+  "year": 1994,
+  "doi": "10.1016/0014-5793(94)00395-5",
+  "source": "openalex",
+  "categories": [
+    "Amino acid",
+    "Peptide sequence",
+    "Biochemistry",
+    "Human brain",
+    "Synuclein",
+    "Protein primary structure",
+    "Biology",
+    "Homology (biology)",
+    "Molecular biology",
+    "Chemistry",
+    "Alpha-synuclein",
+    "Gene",
+    "Parkinson's disease",
+    "Medicine",
+    "Neuroscience",
+    "Disease",
+    "Pathology"
+  ],
+  "citation_count": 1102,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1016/0014-5793%2894%2900395-5",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2071087722.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:19.690220+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2071087722",
+    "concepts": [
+      "Amino acid",
+      "Peptide sequence",
+      "Biochemistry",
+      "Human brain",
+      "Synuclein"
+    ],
+    "oa_status": "bronze"
+  }
+}

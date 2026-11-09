@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W2324192564",
+  "title": "Black Phosphorus–Monolayer MoS2 van der Waals Heterojunction p–n Diode",
+  "abstract": "Phosphorene, a elemental 2D material, which is the monolayer of black phosphorus, has been mechanically exfoliated recently. In its bulk form, black phosphorus shows high carrier mobility (∼10,000 cm(2)/V·s) and a ∼0.3 eV direct band gap. Well-behaved p-type field-effect transistors with mobilities of up to 1000 cm(2)/V·s, as well as phototransistors, have been demonstrated on few-layer black phosphorus, showing its promise for electronics and optoelectronics applications due to its high hole mobility and thickness-dependent direct band gap. However, p–n junctions, the basic building blocks of modern electronic and optoelectronic devices, have not yet been realized based on black phosphorus. In this paper, we demonstrate a gate-tunable p–n diode based on a p-type black phosphorus/n-type monolayer MoS2 van der Waals p–n heterojunction. Upon illumination, these ultrathin p–n diodes show a maximum photodetection responsivity of 418 mA/W at the wavelength of 633 nm and photovoltaic energy conversion with an external quantum efficiency of 0.3%. These p–n diodes show promise for broad-band photodetection and solar energy harvesting.",
+  "authors": [
+    "Yexin Deng",
+    "Zhe Luo",
+    "Nathan J. Conrad",
+    "Han Liu",
+    "Yongji Gong",
+    "Sina Najmaei",
+    "Pulickel Madhavapanicker Ajayan",
+    "Jun Lou",
+    "Xianfan Xu",
+    "Peide D. Ye"
+  ],
+  "year": 2014,
+  "doi": "10.1021/nn5027388",
+  "source": "openalex",
+  "categories": [
+    "Phosphorene",
+    "Monolayer",
+    "Optoelectronics",
+    "Materials science",
+    "Band gap",
+    "Photodetection",
+    "Electron mobility",
+    "Diode",
+    "Quantum efficiency",
+    "Heterojunction",
+    "van der Waals force",
+    "Responsivity",
+    "Direct and indirect band gaps",
+    "Photodetector",
+    "Nanotechnology",
+    "Chemistry",
+    "Organic chemistry",
+    "Molecule"
+  ],
+  "citation_count": 1251,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1407.3430",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2324192564.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:02.685903+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2324192564",
+    "concepts": [
+      "Phosphorene",
+      "Monolayer",
+      "Optoelectronics",
+      "Materials science",
+      "Band gap"
+    ],
+    "oa_status": "green"
+  }
+}

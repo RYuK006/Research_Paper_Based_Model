@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W2937820813",
+  "title": "3D Printing of Personalized Thick and Perfusable Cardiac Patches and Hearts",
+  "abstract": "Generation of thick vascularized tissues that fully match the patient still remains an unmet challenge in cardiac tissue engineering. Here, a simple approach to 3D-print thick, vascularized, and perfusable cardiac patches that completely match the immunological, cellular, biochemical, and anatomical properties of the patient is reported. To this end, a biopsy of an omental tissue is taken from patients. While the cells are reprogrammed to become pluripotent stem cells, and differentiated to cardiomyocytes and endothelial cells, the extracellular matrix is processed into a personalized hydrogel. Following, the two cell types are separately combined with hydrogels to form bioinks for the parenchymal cardiac tissue and blood vessels. The ability to print functional vascularized patches according to the patient's anatomy is demonstrated. Blood vessel architecture is further improved by mathematical modeling of oxygen transfer. The structure and function of the patches are studied in vitro, and cardiac cell morphology is assessed after transplantation, revealing elongated cardiomyocytes with massive actinin striation. Finally, as a proof of concept, cellularized human hearts with a natural architecture are printed. These results demonstrate the potential of the approach for engineering personalized tissues and organs, or for drug screening in an appropriate anatomical structure and patient-specific biochemical microenvironment.",
+  "authors": [
+    "Nadav Noor",
+    "Assaf Shapira",
+    "Reuven Edri",
+    "Idan Gal",
+    "Lior Wertheim",
+    "Tal Dvir"
+  ],
+  "year": 2019,
+  "doi": "10.1002/advs.201900344",
+  "source": "openalex",
+  "categories": [
+    "Extracellular matrix",
+    "Tissue engineering",
+    "Self-healing hydrogels",
+    "Transplantation",
+    "3D bioprinting",
+    "Biomedical engineering",
+    "Induced pluripotent stem cell",
+    "Pathology",
+    "Stem cell",
+    "Anatomy",
+    "Cell biology",
+    "Medicine",
+    "Biology",
+    "Chemistry",
+    "Embryonic stem cell",
+    "Internal medicine",
+    "Organic chemistry",
+    "Biochemistry",
+    "Gene"
+  ],
+  "citation_count": 1102,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/advs.201900344",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2937820813.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:19.696178+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2937820813",
+    "concepts": [
+      "Extracellular matrix",
+      "Tissue engineering",
+      "Self-healing hydrogels",
+      "Transplantation",
+      "3D bioprinting"
+    ],
+    "oa_status": "gold"
+  }
+}

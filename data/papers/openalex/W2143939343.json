@@ -1,0 +1,60 @@
+{
+  "id": "openalex:W2143939343",
+  "title": "Nilotinib versus Imatinib for Newly Diagnosed Chronic Myeloid Leukemia",
+  "abstract": "BACKGROUND: Nilotinib has been shown to be a more potent inhibitor of BCR-ABL than imatinib. We evaluated the efficacy and safety of nilotinib, as compared with imatinib, in patients with newly diagnosed Philadelphia chromosome-positive chronic myeloid leukemia (CML) in the chronic phase. METHODS: In this phase 3, randomized, open-label, multicenter study, we assigned 846 patients with chronic-phase Philadelphia chromosome-positive CML in a 1:1:1 ratio to receive nilotinib (at a dose of either 300 mg or 400 mg twice daily) or imatinib (at a dose of 400 mg once daily). The primary end point was the rate of major molecular response at 12 months. RESULTS: At 12 months, the rates of major molecular response for nilotinib (44% for the 300-mg dose and 43% for the 400-mg dose) were nearly twice that for imatinib (22%) (P<0.001 for both comparisons). The rates of complete cytogenetic response by 12 months were significantly higher for nilotinib (80% for the 300-mg dose and 78% for the 400-mg dose) than for imatinib (65%) (P<0.001 for both comparisons). Patients receiving either the 300-mg dose or the 400-mg dose of nilotinib twice daily had a significant improvement in the time to progression to the accelerated phase or blast crisis, as compared with those receiving imatinib (P=0.01 and P=0.004, respectively). No patient with progression to the accelerated phase or blast crisis had a major molecular response. Gastrointestinal and fluid-retention events were more frequent among patients receiving imatinib, whereas dermatologic events and headache were more frequent in those receiving nilotinib. Discontinuations due to aminotransferase and bilirubin elevations were low in all three study groups. CONCLUSIONS: Nilotinib at a dose of either 300 mg or 400 mg twice daily was superior to imatinib in patients with newly diagnosed chronic-phase Philadelphia chromosome-positive CML. (ClinicalTrials.gov number, NCT00471497.)",
+  "authors": [
+    "Giuseppe Nicola Saglio",
+    "Dong‐Wook Kim",
+    "Surapol Issaragrisil",
+    "Philipp le Coutre",
+    "Gabriel Étienne",
+    "Clarisse Lopes de Castro Lobo",
+    "Ricardo Pasqüini",
+    "Richard E. Clark",
+    "Andreas Hochhaus",
+    "Timothy P. Hughes",
+    "Neil J. Gallagher",
+    "Albert Hoenekopp",
+    "Mei Dong",
+    "Md Ariful Haque",
+    "Richard A. Larson",
+    "Hagop M. Kantarjian"
+  ],
+  "year": 2010,
+  "doi": "10.1056/nejmoa0912614",
+  "source": "openalex",
+  "categories": [
+    "Nilotinib",
+    "Medicine",
+    "Imatinib",
+    "Internal medicine",
+    "Philadelphia chromosome",
+    "Myeloid leukemia",
+    "Imatinib mesylate",
+    "Clinical endpoint",
+    "Gastroenterology",
+    "Chronic myelogenous leukemia",
+    "Leukemia",
+    "Clinical trial",
+    "Chromosomal translocation",
+    "Gene",
+    "Biochemistry",
+    "Chemistry"
+  ],
+  "citation_count": 1674,
+  "open_access_pdf_url": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa0912614?articleTools=true",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2143939343.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:33.244081+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2143939343",
+    "concepts": [
+      "Nilotinib",
+      "Medicine",
+      "Imatinib",
+      "Internal medicine",
+      "Philadelphia chromosome"
+    ],
+    "oa_status": "bronze"
+  }
+}

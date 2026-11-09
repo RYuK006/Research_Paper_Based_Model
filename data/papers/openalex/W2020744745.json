@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W2020744745",
+  "title": "Macrophage activation and polarization",
+  "abstract": "Macrophages are widely distributed immune system cells that play an indispensable role in homeostasis and defense. They can be phenotypically polarized by the microenvironment to mount specific functional programs. Polarized macrophages can be broadly classified in two main groups: classically activated macrophages (or M1), whose prototypical activating stimuli are IFNgamma and LPS, and alternatively activated macrophages (or M2), further subdivided in M2a (after exposure to IL-4 or IL-13), M2b (immune complexes in combination with IL-1beta or LPS) and M2c (IL-10, TGFbeta or glucocorticoids). M1 exhibit potent microbicidal properties and promote strong IL-12-mediated Th1 responses, whilst M2 support Th2-associated effector functions. Beyond infection M2 polarized macrophages play a role in resolution of inflammation through high endocytic clearance capacities and trophic factor synthesis, accompanied by reduced pro-inflammatory cytokine secretion. Similar functions are also exerted by tumor-associated macrophages (TAM), which also display an alternative-like activation phenotype and play a detrimental pro-tumoral role. Here we review the main functions of polarized macrophages and discuss the perspectives of this field.",
+  "authors": [
+    "Fernando O. Martínez"
+  ],
+  "year": 2007,
+  "doi": "10.2741/2692",
+  "source": "openalex",
+  "categories": [
+    "Cell biology",
+    "Effector",
+    "Macrophage",
+    "Macrophage polarization",
+    "Inflammation",
+    "Immune system",
+    "Secretion",
+    "Cytokine",
+    "Chemistry",
+    "Phenotype",
+    "Immunology",
+    "Macrophage-activating factor",
+    "Biology",
+    "In vitro",
+    "Lymphokine",
+    "Biochemistry",
+    "Gene"
+  ],
+  "citation_count": 3238,
+  "open_access_pdf_url": "https://www.imrpress.com/journal/FBL/13/2/10.2741/2692/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2020744745.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:57.818992+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2020744745",
+    "concepts": [
+      "Cell biology",
+      "Effector",
+      "Macrophage",
+      "Macrophage polarization",
+      "Inflammation"
+    ],
+    "oa_status": "bronze"
+  }
+}

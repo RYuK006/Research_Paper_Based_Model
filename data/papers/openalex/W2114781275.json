@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2114781275",
+  "title": "Comparative Evaluation of Various Total Antioxidant Capacity Assays Applied to Phenolic Compounds with the CUPRAC Assay",
+  "abstract": "It would be desirable to establish and standardize methods that can measure the total antioxidant capacity level directly from vegetable extracts containing phenolics. Antioxidant capacity assays may be broadly classified as electron transfer (ET)- and hydrogen atom transfer (HAT)-based assays. The majority of HAT assays are kinetics-based, and involve a competitive reaction scheme in which antioxidant and substrate compete for peroxyl radicals thermally generated through the decomposition of azo compounds. ET-based assays measure the capacity of an antioxidant in the reduction of an oxidant, which changes colour when reduced. ET assays include the ABTS/TEAC, CUPRAC, DPPH, Folin-Ciocalteu and FRAP methods, each using different chromogenic redox reagents with different standard potentials. This review intends to offer a critical evaluation of existing antioxidant assays applied to phenolics, and reports the development by our research group of a simple and low-cost antioxidant capacity assay for dietary polyphenols, vitamins C and E, and human serum antioxidants, utilizing the copper(II)-neocuproine reagent as the chromogenic oxidizing agent, which we haved named the CUPRAC (cupric ion reducing antioxidant capacity) method. This method offers distinct advantages over other ET-based assays, namely the selection of working pH at physiological pH (as opposed to the Folin and FRAP methods, which work at alkaline and acidic pHs, respectively), applicability to both hydrophilic and lipophilic antioxidants (unlike Folin and DPPH), completion of the redox reactions for most common flavonoids (unlike FRAP), selective oxidation of antioxidant compounds without affecting sugars and citric acid commonly contained in foodstuffs and the capability to assay -SH bearing antioxidants (unlike FRAP). Other similar ET-based antioxidant assays that we have developed or modified for phenolics are the Fe(III)- and Ce(IV)-reducing capacity methods.",
+  "authors": [
+    "Reşat Apak",
+    "Kubilay Güçlü",
+    "Birsen Demirata",
+    "Mustafa Özyürek",
+    "Saliha Esin Çeli̇k",
+    "Burcu Bektaşoğlu",
+    "Kadriye Işıl Berker",
+    "Dilek Özyurt"
+  ],
+  "year": 2007,
+  "doi": "10.3390/12071496",
+  "source": "openalex",
+  "categories": [
+    "Chemistry",
+    "ABTS",
+    "DPPH",
+    "Antioxidant",
+    "Chromogenic",
+    "Polyphenol",
+    "Reagent",
+    "Redox",
+    "Citric acid",
+    "Antioxidant capacity",
+    "Pro-oxidant",
+    "Chromatography",
+    "Organic chemistry"
+  ],
+  "citation_count": 1294,
+  "open_access_pdf_url": "https://www.mdpi.com/1420-3049/12/7/1496/pdf?version=1403112455",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2114781275.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:57.866194+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2114781275",
+    "concepts": [
+      "Chemistry",
+      "ABTS",
+      "DPPH",
+      "Antioxidant",
+      "Chromogenic"
+    ],
+    "oa_status": "gold"
+  }
+}

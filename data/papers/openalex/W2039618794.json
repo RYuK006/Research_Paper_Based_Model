@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W2039618794",
+  "title": "Aggregation and morphology control enables multiple cases of high-efficiency polymer solar cells",
+  "abstract": "Although the field of polymer solar cell has seen much progress in device performance in the past few years, several limitations are holding back its further development. For instance, current high-efficiency (>9.0%) cells are restricted to material combinations that are based on limited donor polymers and only one specific fullerene acceptor. Here we report the achievement of high-performance (efficiencies up to 10.8%, fill factors up to 77%) thick-film polymer solar cells for multiple polymer:fullerene combinations via the formation of a near-ideal polymer:fullerene morphology that contains highly crystalline yet reasonably small polymer domains. This morphology is controlled by the temperature-dependent aggregation behaviour of the donor polymers and is insensitive to the choice of fullerenes. The uncovered aggregation and design rules yield three high-efficiency (>10%) donor polymers and will allow further synthetic advances and matching of both the polymer and fullerene materials, potentially leading to significantly improved performance and increased design flexibility.",
+  "authors": [
+    "Yuhang Liu",
+    "Jingbo Zhao",
+    "Zhengke Li",
+    "Cheng Mu",
+    "Wei Ma",
+    "Huawei Hu",
+    "Kui Jiang",
+    "Haoran Lin",
+    "Harald Werner Ade",
+    "He Yan"
+  ],
+  "year": 2014,
+  "doi": "10.1038/ncomms6293",
+  "source": "openalex",
+  "categories": [
+    "Fullerene",
+    "Polymer",
+    "Materials science",
+    "Polymer solar cell",
+    "Nanotechnology",
+    "Organic solar cell",
+    "Energy conversion efficiency",
+    "Solar cell",
+    "Photovoltaic system",
+    "Chemistry",
+    "Optoelectronics",
+    "Composite material",
+    "Organic chemistry",
+    "Biology",
+    "Ecology"
+  ],
+  "citation_count": 3137,
+  "open_access_pdf_url": "https://www.nature.com/articles/ncomms6293.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2039618794.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:57.858233+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2039618794",
+    "concepts": [
+      "Fullerene",
+      "Polymer",
+      "Materials science",
+      "Polymer solar cell",
+      "Nanotechnology"
+    ],
+    "oa_status": "hybrid"
+  }
+}

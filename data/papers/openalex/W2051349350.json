@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2051349350",
+  "title": "Comparison of Modeling Predictions with Experimental Data from Plastic Lithium Ion Cells",
+  "abstract": "Modeling results for a lithium‐ion battery based on the couple are presented and compared to experimental data. Good agreement between simulation and experiment exists for several different experimental cell configurations on both charge and discharge. Simulations indicate that the battery in its present design is ohmically limited. Additional internal resistance in the cells, beyond that initially predicted by the model, could be described using either a contact resistance between cell layers or a film resistance on the negative electrode particles. Modest diffusion limitations in the carbon electrode arising at moderate discharge rates are used to fit the diffusion coefficient of lithium in the carbon electrode, giving . Cells with a 1 M (mol/dm 3 ) initial salt concentration become solution‐phase diffusion limited at high rates. The low‐rate specific energy calculated for the experimental cells ranges from 70 to 90 Wh/kg, with this mass based on the composite electrodes, electrolyte, separator, and current collectors. The peak specific power for a 30 s current pulse to a 2.8 V cutoff potential is predicted to fall from about 360 W/kg at the beginning of discharge to 100 W/kg at 80% depth of discharge for one particular experimental cell. Different system designs are explored using the mathematical model with the objective of a higher specific energy. Configurations optimized for a 6 h discharge time should obtain over 100 Wh/kg.",
+  "authors": [
+    "Marc Doyle",
+    "John Newman",
+    "Antoni S. Góźdź",
+    "Caroline N. Schmutz",
+    "Jean‐Marie Tarascon"
+  ],
+  "year": 1996,
+  "doi": "10.1149/1.1836921",
+  "source": "openalex",
+  "categories": [
+    "Electrode",
+    "Electrolyte",
+    "Separator (oil production)",
+    "Battery (electricity)",
+    "Diffusion",
+    "Internal resistance",
+    "Lithium (medication)",
+    "Ion",
+    "Materials science",
+    "Analytical Chemistry (journal)",
+    "Chemistry",
+    "Thermodynamics",
+    "Power (physics)",
+    "Chromatography",
+    "Physics",
+    "Endocrinology",
+    "Medicine",
+    "Physical chemistry",
+    "Organic chemistry"
+  ],
+  "citation_count": 1594,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1149/1.1836921/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2051349350.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:41.872129+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2051349350",
+    "concepts": [
+      "Electrode",
+      "Electrolyte",
+      "Separator (oil production)",
+      "Battery (electricity)",
+      "Diffusion"
+    ],
+    "oa_status": "bronze"
+  }
+}

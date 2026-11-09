@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W1989208474",
+  "title": "Propagation of Tau Misfolding from the Outside to the Inside of a Cell",
+  "abstract": "Tauopathies are neurodegenerative diseases characterized by aggregation of the microtubule-associated protein Tau in neurons and glia. Although Tau is normally considered an intracellular protein, Tau aggregates are observed in the extracellular space, and Tau peptide is readily detected in the cerebrospinal fluid of patients. Tau aggregation occurs in many diseases, including Alzheimer disease and frontotemporal dementia. Tau pathology begins in discrete, disease-specific regions but eventually involves much larger areas of the brain. It is unknown how this propagation of Tau misfolding occurs. We hypothesize that extracellular Tau aggregates can transmit a misfolded state from the outside to the inside of a cell, similar to prions. Here we show that extracellular Tau aggregates, but not monomer, are taken up by cultured cells. Internalized Tau aggregates displace tubulin, co-localize with dextran, a marker of fluid-phase endocytosis, and induce fibrillization of intracellular full-length Tau. These intracellular fibrils are competent to seed fibril formation of recombinant Tau monomer in vitro. Finally, we observed that newly aggregated intracellular Tau transfers between co-cultured cells. Our data indicate that Tau aggregates can propagate a fibrillar, misfolded state from the outside to the inside of a cell. This may have important implications for understanding how protein misfolding spreads through the brains of tauopathy patients, and it is potentially relevant to myriad neurodegenerative diseases associated with protein misfolding.",
+  "authors": [
+    "Bess E Frost",
+    "Rachel Lauren Jacks",
+    "Marc I. Diamond"
+  ],
+  "year": 2009,
+  "doi": "10.1074/jbc.m808759200",
+  "source": "openalex",
+  "categories": [
+    "Tauopathy",
+    "Extracellular",
+    "Intracellular",
+    "Fibril",
+    "Tau protein",
+    "Cell biology",
+    "Protein aggregation",
+    "Chemistry",
+    "Endocytosis",
+    "Biophysics",
+    "Protein folding",
+    "Neurodegeneration",
+    "Microtubule",
+    "Frontotemporal dementia",
+    "Cell",
+    "Biology",
+    "Neuroscience",
+    "Biochemistry",
+    "Alzheimer's disease",
+    "Disease",
+    "Dementia",
+    "Medicine",
+    "Pathology"
+  ],
+  "citation_count": 1280,
+  "open_access_pdf_url": "http://www.jbc.org/article/S0021925820582847/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1989208474.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:00.459104+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1989208474",
+    "concepts": [
+      "Tauopathy",
+      "Extracellular",
+      "Intracellular",
+      "Fibril",
+      "Tau protein"
+    ],
+    "oa_status": "hybrid"
+  }
+}

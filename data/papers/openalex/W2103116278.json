@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2103116278",
+  "title": "Peroxisome proliferator–activated receptor α mediates the adaptive response to fasting",
+  "abstract": "Prolonged deprivation of food induces dramatic changes in mammalian metabolism, including the release of large amounts of fatty acids from the adipose tissue, followed by their oxidation in the liver. The nuclear receptor known as peroxisome proliferator-activated receptor alpha (PPARalpha) was found to play a role in regulating mitochondrial and peroxisomal fatty acid oxidation, suggesting that PPARalpha may be involved in the transcriptional response to fasting. To investigate this possibility, PPARalpha-null mice were subjected to a high fat diet or to fasting, and their responses were compared with those of wild-type mice. PPARalpha-null mice chronically fed a high fat diet showed a massive accumulation of lipid in their livers. A similar phenotype was noted in PPARalpha-null mice fasted for 24 hours, who also displayed severe hypoglycemia, hypoketonemia, hypothermia, and elevated plasma free fatty acid levels, indicating a dramatic inhibition of fatty acid uptake and oxidation. It is shown that to accommodate the increased requirement for hepatic fatty acid oxidation, PPARalpha mRNA is induced during fasting in wild-type mice. The data indicate that PPARalpha plays a pivotal role in the management of energy stores during fasting. By modulating gene expression, PPARalpha stimulates hepatic fatty acid oxidation to supply substrates that can be metabolized by other tissues.",
+  "authors": [
+    "Sander Kersten",
+    "Josiane Seydoux",
+    "Jeffrey M. Peters",
+    "Frank J. Gonzalez",
+    "Béatrice Desvergne",
+    "Walter Wahli"
+  ],
+  "year": 1999,
+  "doi": "10.1172/jci6223",
+  "source": "openalex",
+  "categories": [
+    "Endocrinology",
+    "Internal medicine",
+    "Peroxisome",
+    "Beta oxidation",
+    "Peroxisome proliferator-activated receptor alpha",
+    "Peroxisome proliferator-activated receptor",
+    "Adipose tissue",
+    "Fatty acid",
+    "Receptor",
+    "Fatty acid metabolism",
+    "Biology",
+    "Lipid metabolism",
+    "Lipogenesis",
+    "Metabolism",
+    "Chemistry",
+    "Nuclear receptor",
+    "Biochemistry",
+    "Medicine",
+    "Transcription factor",
+    "Gene"
+  ],
+  "citation_count": 1675,
+  "open_access_pdf_url": "http://www.jci.org/articles/view/6223/files/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2103116278.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:33.232752+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2103116278",
+    "concepts": [
+      "Endocrinology",
+      "Internal medicine",
+      "Peroxisome",
+      "Beta oxidation",
+      "Peroxisome proliferator-activated receptor alpha"
+    ],
+    "oa_status": "bronze"
+  }
+}

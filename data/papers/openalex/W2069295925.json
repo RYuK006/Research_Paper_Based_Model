@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W2069295925",
+  "title": "ITRF2008: an improved solution of the international terrestrial reference frame",
+  "abstract": "ITRF2008 is a refined version of the International Terrestrial Reference Frame based on reprocessed solutions of the four space geodetic techniques: VLBI, SLR, GPS and DORIS, spanning 29, 26, 12.5 and 16 years of observations, respectively. The input data used in its elaboration are time series (weekly from satellite techniques and 24-h session-wise from VLBI) of station positions and daily Earth Orientation Parameters (EOPs). The ITRF2008 origin is defined in such a way that it has zero translations and translation rates with respect to the mean Earth center of mass, averaged by the SLR time series. Its scale is defined by nullifying the scale factor and its rate with respect to the mean of VLBI and SLR long-term solutions as obtained by stacking their respective time series. The scale agreement between these two technique solutions is estimated to be 1.05 ± 0.13 ppb at epoch 2005.0 and 0.049 ± 0.010 ppb/yr. The ITRF2008 orientation (at epoch 2005.0) and its rate are aligned to the ITRF2005 using 179 stations of high geodetic quality. An estimate of the origin components from ITRF2008 to ITRF2005 (both origins are defined by SLR) indicates differences at epoch 2005.0, namely: −0.5, −0.9 and −4.7 mm along X , Y and Z -axis, respectively. The translation rate differences between the two frames are zero for Y and Z , while we observe an X -translation rate of 0.3 mm/yr. The estimated formal errors of these parameters are 0.2 mm and 0.2 mm/yr, respectively. The high level of origin agreement between ITRF2008 and ITRF2005 is an indication of an imprecise ITRF2000 origin that exhibits a Z -translation drift of 1.8 mm/yr with respect to ITRF2005. An evaluation of the ITRF2008 origin accuracy based on the level of its agreement with ITRF2005 is believed to be at the level of 1 cm over the time-span of the SLR observations. Considering the level of scale consistency between VLBI and SLR, the ITRF2008 scale accuracy is evaluated to be at the level of 1.2 ppb (8 mm at the equator) over the common time-span of the observations of both techniques. Although the performance of the ITRF2008 is demonstrated to be higher than ITRF2005, future ITRF improvement resides in improving the consistency between local ties in co-location sites and space geodesy estimates.",
+  "authors": [
+    "Z. Altamimi",
+    "Xavier Collilieux",
+    "Laurent Métivier"
+  ],
+  "year": 2011,
+  "doi": "10.1007/s00190-011-0444-4",
+  "source": "openalex",
+  "categories": [
+    "Very-long-baseline interferometry",
+    "Geodesy",
+    "Geodetic datum",
+    "Epoch (astronomy)",
+    "Reference frame",
+    "Series (stratigraphy)",
+    "Doris (gastropod)",
+    "Orientation (vector space)",
+    "Translation (biology)",
+    "Scale (ratio)",
+    "Geology",
+    "Physics",
+    "Mathematics",
+    "Astrophysics",
+    "Frame (networking)",
+    "Computer science",
+    "Geometry",
+    "Galaxy",
+    "Chemistry",
+    "Telecommunications",
+    "Biochemistry",
+    "Paleontology",
+    "Messenger RNA",
+    "Gene",
+    "Quantum mechanics"
+  ],
+  "citation_count": 1234,
+  "open_access_pdf_url": "https://link.springer.com/content/pdf/10.1007/s00190-011-0444-4.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2069295925.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:04.513587+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2069295925",
+    "concepts": [
+      "Very-long-baseline interferometry",
+      "Geodesy",
+      "Geodetic datum",
+      "Epoch (astronomy)",
+      "Reference frame"
+    ],
+    "oa_status": "hybrid"
+  }
+}

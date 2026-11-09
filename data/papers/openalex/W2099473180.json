@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2099473180",
+  "title": "A mathematical model of the finding of usability problems",
+  "abstract": "For 11 studies, we find that the detection of usability problems as a function of number of users tested or heuristic evaluators employed is well modeled as a Poisson process. The model can be used to plan the amount of evaluation required to achieve desired levels of thoroughness or benefits. Results of early tests can provide estimates of the number of problems left to be found and the number of additional evaluations needed to find a given fraction. With quantitative evaluation costs and detection values, the model can estimate the numbers of evaluations at which optimal cost/benefit ratios are obtained and at which marginal utility vanishes. For a “medium” example, we estimate that 16 evaluations would be worth their cost, with maximum benefit/cost ratio at four.",
+  "authors": [
+    "Jakob Nielsen",
+    "Thomas K. Landauer"
+  ],
+  "year": 1993,
+  "doi": "10.1145/169059.169166",
+  "source": "openalex",
+  "categories": [
+    "Usability",
+    "Fraction (chemistry)",
+    "Heuristic",
+    "Computer science",
+    "Function (biology)",
+    "Plan (archaeology)",
+    "Process (computing)",
+    "Mathematical optimization",
+    "Poisson distribution",
+    "Heuristic evaluation",
+    "Mathematics",
+    "Artificial intelligence",
+    "Statistics",
+    "Operating system",
+    "Evolutionary biology",
+    "Chemistry",
+    "Human–computer interaction",
+    "Archaeology",
+    "Biology",
+    "Organic chemistry",
+    "History"
+  ],
+  "citation_count": 2172,
+  "open_access_pdf_url": "https://dl.acm.org/doi/pdf/10.1145/169059.169166",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2099473180.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:12.690861+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2099473180",
+    "concepts": [
+      "Usability",
+      "Fraction (chemistry)",
+      "Heuristic",
+      "Computer science",
+      "Function (biology)"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W2003697795",
+  "title": "Publication Recommendations for Electrodermal Measurements",
+  "abstract": "ABSTRACT The paper recommends an acceptable methodology for recording electrodermal activity which reflects a consensus of experts in the field. These recommendations are presented with a minimum of technical discussion in order to maximize their usefulness to investigators who are not specialists in this area. For most purposes, skin conductance (SC) is to be preferred over skin potential (SP). It is recommended that SC be recorded from palmar sites with silver‐silver chloride electrodes and an electrode paste consisting of a sodium chloride electrolyte in a neutral ointment cream medium. The area of contact with the skin should be controlled and time allowed for stabilization of the skin‐electrode paste interface. Electrode bias potentials and polarization should be monitored during use. Signal conditioning is achieved by the application of a constant 0.5 volt across the electrodes and measurement of the resultant current flow by amplifying the voltage developed across a small resistor in series with the skin. The measurement of the amplitude‐or even the detection‐of small responses requires some form of tonic level control, permitting an adjustment of the tonic level. A circuit is provided for signal conditioning and tonic level control. SP can be recorded with the same electrodes and electrode paste, unless the results are to be related to the British work on SP level, in which case the original potassium chloride electrolyte in an agar medium should be used. SP recordings require that one of the electrodes be placed over an inactive reference site, preferably over the ulnar bone near the elbow. No external voltage is applied, but some form of tonic level control may be needed. Electrodes need to be checked for bias potentials but not polarization.",
+  "authors": [
+    "Don C. Fowles",
+    "Margaret J. Christie",
+    "Robert Edelberg",
+    "William W. Grings",
+    "David Thoreson Lykken",
+    "Peter H. Venables"
+  ],
+  "year": 1981,
+  "doi": "10.1111/j.1469-8986.1981.tb03024.x",
+  "source": "openalex",
+  "categories": [
+    "Tonic (physiology)",
+    "Electrode",
+    "Skin conductance",
+    "Electrolyte",
+    "Chemistry",
+    "Biomedical engineering",
+    "Analytical Chemistry (journal)",
+    "Psychology",
+    "Chromatography",
+    "Medicine",
+    "Neuroscience",
+    "Physical chemistry"
+  ],
+  "citation_count": 1731,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1469-8986.1981.tb03024.x",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2003697795.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:26.236304+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2003697795",
+    "concepts": [
+      "Tonic (physiology)",
+      "Electrode",
+      "Skin conductance",
+      "Electrolyte",
+      "Chemistry"
+    ],
+    "oa_status": "bronze"
+  }
+}

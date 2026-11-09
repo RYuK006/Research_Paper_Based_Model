@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2051201019",
+  "title": "New primers to amplify the fungal ITS2 region - evaluation by 454-sequencing of artificial and natural communities",
+  "abstract": "With recent methodological advances, molecular markers are increasingly used for semi-quantitative analyses of fungal communities. The aim to preserve quantitative relationships between genotypes through PCR places new demands on primers to accurately match target sites and provide short amplicons. The internal transcribed spacer (ITS) region of the ribosome encoding genes is a commonly used marker for many fungal groups. Here, we describe three new primers - fITS7, gITS7 and fITS9, which may be used to amplify the fungal ITS2 region by targeting sites in the 5.8S encoding gene. We evaluated the primers and compared their performance with the commonly used ITS1f primer by 454-sequencing of both artificially assembled templates and field samples. When the entire ITS region was amplified using the ITS1f/ITS4 primer combination, we found strong bias against species with longer amplicons. This problem could be overcome by using the new primers, which produce shorter amplicons and better preserve the quantitative composition of the template. In addition, the new primers yielded more diverse amplicon communities than the ITS1f primer.",
+  "authors": [
+    "Katarina Ihrmark",
+    "Inga T. M. Bödeker",
+    "Karelyn Cruz-Martínez",
+    "Hanna Friberg",
+    "Ariana Kubartová",
+    "Jessica Schenck",
+    "Ylva Strid",
+    "Jan Stenlid",
+    "Mikael Brandström Durling",
+    "Karina E. Clemmensen",
+    "Björn D. Lindahl"
+  ],
+  "year": 2012,
+  "doi": "10.1111/j.1574-6941.2012.01437.x",
+  "source": "openalex",
+  "categories": [
+    "Biology",
+    "Amplicon",
+    "Primer (cosmetics)",
+    "Internal transcribed spacer",
+    "Genetics",
+    "Computational biology",
+    "Amplicon sequencing",
+    "Gene",
+    "Polymerase chain reaction",
+    "Ribosomal RNA",
+    "16S ribosomal RNA",
+    "Chemistry",
+    "Organic chemistry"
+  ],
+  "citation_count": 2175,
+  "open_access_pdf_url": "https://academic.oup.com/femsec/article-pdf/82/3/666/19534893/82-3-666.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2051201019.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:12.684663+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2051201019",
+    "concepts": [
+      "Biology",
+      "Amplicon",
+      "Primer (cosmetics)",
+      "Internal transcribed spacer",
+      "Genetics"
+    ],
+    "oa_status": "bronze"
+  }
+}

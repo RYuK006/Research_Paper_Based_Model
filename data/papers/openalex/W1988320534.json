@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W1988320534",
+  "title": "Higher-accuracy van der Waals density functional",
+  "abstract": "We propose a second version of the van der Waals density functional of Dion et al. [Phys. Rev. Lett. 92, 246401 (2004)], employing a more accurate semilocal exchange functional and the use of a large-$N$ asymptote gradient correction in determining the vdW kernel. The predicted binding energy, equilibrium separation, and potential-energy curve shape are close to those of accurate quantum chemical calculations on 22 duplexes. We anticipate the enabling of chemically accurate calculations in sparse materials of importance for condensed matter, surface, chemical, and biological physics.",
+  "authors": [
+    "Kyuho Lee",
+    "Éamonn Murray",
+    "Lingzhu Kong",
+    "Bengt I. Lundqvist",
+    "David C. Langreth"
+  ],
+  "year": 2010,
+  "doi": "10.1103/physrevb.82.081101",
+  "source": "openalex",
+  "categories": [
+    "van der Waals force",
+    "Asymptote",
+    "Density functional theory",
+    "Quantum chemical",
+    "Van der Waals surface",
+    "Binding energy",
+    "Physics",
+    "Van der Waals strain",
+    "Kernel (algebra)",
+    "Energy (signal processing)",
+    "Statistical physics",
+    "Computational chemistry",
+    "Van der Waals radius",
+    "Quantum mechanics",
+    "Chemistry",
+    "Molecule",
+    "Mathematics",
+    "Geometry",
+    "Combinatorics"
+  ],
+  "citation_count": 2790,
+  "open_access_pdf_url": "http://link.aps.org/pdf/10.1103/PhysRevB.82.081101",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1988320534.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:01.937180+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1988320534",
+    "concepts": [
+      "van der Waals force",
+      "Asymptote",
+      "Density functional theory",
+      "Quantum chemical",
+      "Van der Waals surface"
+    ],
+    "oa_status": "bronze"
+  }
+}

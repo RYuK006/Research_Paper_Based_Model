@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2335637623",
+  "title": "Fine Particulate Air Pollution and Mortality in 20 U.S. Cities, 1987–1994",
+  "abstract": "BACKGROUND: Air pollution in cities has been linked to increased rates of mortality and morbidity in developed and developing countries. Although these findings have helped lead to a tightening of air-quality standards, their validity with respect to public health has been questioned. METHODS: We assessed the effects of five major outdoor-air pollutants on daily mortality rates in 20 of the largest cities and metropolitan areas in the United States from 1987 to 1994. The pollutants were particulate matter that is less than 10 microm in aerodynamic diameter (PM10), ozone, carbon monoxide, sulfur dioxide, and nitrogen dioxide. We used a two-stage analytic approach that pooled data from multiple locations. RESULTS: After taking into account potential confounding by other pollutants, we found consistent evidence that the level of PM10 is associated with the rate of death from all causes and from cardiovascular and respiratory illnesses. The estimated increase in the relative rate of death from all causes was 0.51 percent (95 percent posterior interval, 0.07 to 0.93 percent) for each increase in the PM10 level of 10 microg per cubic meter. The estimated increase in the relative rate of death from cardiovascular and respiratory causes was 0.68 percent (95 percent posterior interval, 0.20 to 1.16 percent) for each increase in the PM10 level of 10 microg per cubic meter. There was weaker evidence that increases in ozone levels increased the relative rates of death during the summer, when ozone levels are highest, but not during the winter. Levels of the other pollutants were not significantly related to the mortality rate. CONCLUSIONS: There is consistent evidence that the levels of fine particulate matter in the air are associated with the risk of death from all causes and from cardiovascular and respiratory illnesses. These findings strengthen the rationale for controlling the levels of respirable particles in outdoor air.",
+  "authors": [
+    "Jonathan M. Samet",
+    "Francesca Dominici",
+    "Frank C. Curriero",
+    "Ivan Coursac",
+    "Scott L. Zeger"
+  ],
+  "year": 2000,
+  "doi": "10.1056/nejm200012143432401",
+  "source": "openalex",
+  "categories": [
+    "Particulates",
+    "Air pollution",
+    "Ozone",
+    "Medicine",
+    "Pollutant",
+    "Nitrogen dioxide",
+    "Air quality index",
+    "Mortality rate",
+    "Relative risk",
+    "Environmental health",
+    "Aerodynamic diameter",
+    "Toxicology",
+    "Demography",
+    "Confidence interval",
+    "Meteorology",
+    "Surgery",
+    "Geography",
+    "Internal medicine",
+    "Chemistry",
+    "Sociology",
+    "Organic chemistry",
+    "Biology"
+  ],
+  "citation_count": 2257,
+  "open_access_pdf_url": "https://www.nejm.org/doi/pdf/10.1056/NEJM200012143432401?articleTools=true",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2335637623.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:08.868651+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2335637623",
+    "concepts": [
+      "Particulates",
+      "Air pollution",
+      "Ozone",
+      "Medicine",
+      "Pollutant"
+    ],
+    "oa_status": "bronze"
+  }
+}

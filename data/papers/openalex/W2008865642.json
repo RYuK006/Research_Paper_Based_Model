@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2008865642",
+  "title": "Engineering analysis of the stoichiometry of photoautotrophic, autotrophic, and heterotrophic removal of ammonia–nitrogen in aquaculture systems",
+  "abstract": "In intensive aquaculture systems, ammonia–nitrogen buildup from the metabolism of feed is usually the second limiting factor to increase production levels after dissolved oxygen. The three nitrogen conversion pathways traditionally used for the removal of ammonia–nitrogen in aquaculture systems are photoautotrophic removal by algae, autotrophic bacterial conversion of ammonia–nitrogen to nitrate–nitrogen, and heterotrophic bacterial conversion of ammonia–nitrogen directly to microbial biomass. Traditionally, pond aquaculture has used photoautotrophic algae based systems to control inorganic nitrogen buildup. Currently, the primary strategy in intensive recirculating production systems for controlling ammonia–nitrogen is using large fixed-cell bioreactors. This option utilizes chemosynthetic autotrophic bacteria, Ammonia Oxidizing Bacteria (AOB) and Nitrite Oxidizing Bacteria (NOB), for the nitrification of ammonia–nitrogen to nitrite–nitrogen and finally to nitrate–nitrogen. In the past several years, zero-exchange management systems have been developed that are based on heterotrophic bacteria and have been promoted for the intensive production of marine shrimp. In this third pathway, heterotrophic bacterial growth is stimulated through the addition of organic carbonaceous substrate. At high carbon to nitrogen (C/N) feed ratios, heterotrophic bacteria will assimilate ammonia–nitrogen directly into cellular protein. This paper reviews these three ammonia removal pathways, develops a set of stoichiometric balanced relationships using half-reaction relationships, and discusses their impact on water quality. In addition, microbial growth fundamentals are used to characterize production of volatile and total suspended solids for autotrophic and heterotrophic systems.",
+  "authors": [
+    "James M. Ebeling",
+    "Michael B. Timmons",
+    "James J. Bisogni"
+  ],
+  "year": 2006,
+  "doi": "10.1016/j.aquaculture.2006.03.019",
+  "source": "openalex",
+  "categories": [
+    "Autotroph",
+    "Recirculating aquaculture system",
+    "Nitrate",
+    "Environmental chemistry",
+    "Nitrification",
+    "Heterotroph",
+    "Nitrogen",
+    "Ammonia",
+    "Aerobic denitrification",
+    "Nitrogen cycle",
+    "Aquaculture",
+    "Biology",
+    "Nitrite",
+    "Algae",
+    "Denitrification",
+    "Bacteria",
+    "Chemistry",
+    "Ecology",
+    "Denitrifying bacteria",
+    "Biochemistry",
+    "Fishery",
+    "Organic chemistry",
+    "Genetics",
+    "Fish <Actinopterygii>"
+  ],
+  "citation_count": 1284,
+  "open_access_pdf_url": "https://www.sciencedirect.com/science/article/pii/S004484860600216X/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2008865642.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:00.422791+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2008865642",
+    "concepts": [
+      "Autotroph",
+      "Recirculating aquaculture system",
+      "Nitrate",
+      "Environmental chemistry",
+      "Nitrification"
+    ],
+    "oa_status": "hybrid"
+  }
+}

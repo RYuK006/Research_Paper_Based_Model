@@ -1,0 +1,41 @@
+{
+  "id": "openalex:W2327648788",
+  "title": "Simple Method for Simultaneous Determination of Chlorophyll and Carotenoids in Tomato Fruit.",
+  "abstract": "従来の方法では,トマト果実のクロロフィルとカロテノイド含有量はそれぞれ別の方法で分析されてきた.著者らはトマト色素を同時に定量する簡便な方法を検討した.試料に含まれるすべての色素をアセトンーヘキサン(4:6)で一度に抽出し,上層の663nm, 645nm, 505nm, 453nmの吸光度を分光光度計で同時に測定する.これらの値から著者らの提案した式を用いてクロロフィルa, b,リコペン, β-カロテンの含有量を推定するにとができる.本法を用いて熟度の異なるトマト果実を分析した.また,同じ試料を従来の方法で分析した.その結果,クロロフィル含有量はMACKINNEY法,リコペン含有量は木村らの方法とほぼ同じ値であった.これにより,本法の有効性が確認された.",
+  "authors": [
+    "Masayasu NAGATA",
+    "Ichiji YAMASHITA"
+  ],
+  "year": 1992,
+  "doi": "10.3136/nskkk1962.39.925",
+  "source": "openalex",
+  "categories": [
+    "Carotenoid",
+    "Simple (philosophy)",
+    "Chlorophyll",
+    "Chemistry",
+    "Horticulture",
+    "Botany",
+    "Mathematics",
+    "Food science",
+    "Biology",
+    "Philosophy",
+    "Epistemology"
+  ],
+  "citation_count": 1236,
+  "open_access_pdf_url": "https://www.jstage.jst.go.jp/article/nskkk1962/39/10/39_10_925/_pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2327648788.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:02.844603+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2327648788",
+    "concepts": [
+      "Carotenoid",
+      "Simple (philosophy)",
+      "Chlorophyll",
+      "Chemistry",
+      "Horticulture"
+    ],
+    "oa_status": "bronze"
+  }
+}

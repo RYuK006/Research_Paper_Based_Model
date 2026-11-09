@@ -1,0 +1,59 @@
+{
+  "id": "openalex:W2550553598",
+  "title": "SCA-CNN: Spatial and Channel-Wise Attention in Convolutional Networks for Image Captioning",
+  "abstract": "Visual attention has been successfully applied in structural prediction tasks such as visual captioning and question answering. Existing visual attention models are generally spatial, i.e., the attention is modeled as spatial probabilities that re-weight the last conv-layer feature map of a CNN encoding an input image. However, we argue that such spatial attention does not necessarily conform to the attention mechanism - a dynamic feature extractor that combines contextual fixations over time, as CNN features are naturally spatial, channel-wise and multi-layer. In this paper, we introduce a novel convolutional neural network dubbed SCA-CNN that incorporates Spatial and Channel-wise Attentions in a CNN. In the task of image captioning, SCA-CNN dynamically modulates the sentence generation context in multi-layer feature maps, encoding where (i.e., attentive spatial locations at multiple layers) and what (i.e., attentive channels) the visual attention is. We evaluate the proposed SCA-CNN architecture on three benchmark image captioning datasets: Flickr8K, Flickr30K, and MSCOCO. It is consistently observed that SCA-CNN significantly outperforms state-of-the-art visual attention-based image captioning methods.",
+  "authors": [
+    "Long Chen",
+    "Hanwang Zhang",
+    "Jun Xiao",
+    "Liqiang Nie",
+    "Jian Shao",
+    "Wei Liu",
+    "Tat‐Seng Chua"
+  ],
+  "year": 2017,
+  "doi": "10.1109/cvpr.2017.667",
+  "source": "openalex",
+  "categories": [
+    "Closed captioning",
+    "Computer science",
+    "Convolutional neural network",
+    "Artificial intelligence",
+    "Feature (linguistics)",
+    "Context (archaeology)",
+    "Encoding (memory)",
+    "Sentence",
+    "Benchmark (surveying)",
+    "Pattern recognition (psychology)",
+    "Channel (broadcasting)",
+    "Layer (electronics)",
+    "Spatial contextual awareness",
+    "Feature extraction",
+    "Image (mathematics)",
+    "Cartography",
+    "Philosophy",
+    "Biology",
+    "Geography",
+    "Paleontology",
+    "Organic chemistry",
+    "Linguistics",
+    "Chemistry",
+    "Computer network"
+  ],
+  "citation_count": 2089,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1611.05594",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2550553598.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:15.449155+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2550553598",
+    "concepts": [
+      "Closed captioning",
+      "Computer science",
+      "Convolutional neural network",
+      "Artificial intelligence",
+      "Feature (linguistics)"
+    ],
+    "oa_status": "green"
+  }
+}

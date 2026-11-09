@@ -1,0 +1,56 @@
+{
+  "id": "openalex:W2103842896",
+  "title": "Rheology of Soft Glassy Materials",
+  "abstract": "We attribute similarities in the rheology of many soft materials (foams, emulsions, slurries, etc.) to the shared features of structural disorder and metastability. A generic model for the mesoscopic dynamics of ``soft glassy matter'' is introduced, with interactions represented by a mean-field noise temperature $x$. We find power-law fluid behavior either with $(x<1)$ or without $(1<x<2)$ a yield stress. For $1<x<2$, both storage and loss modulus vary with frequency as ${\\ensuremath{\\omega}}^{x\\ensuremath{-}1}$, becoming flat near a glass transition $(x\\phantom{\\rule{0ex}{0ex}}=\\phantom{\\rule{0ex}{0ex}}1)$. Values of $x\\ensuremath{\\approx}1$ may result from marginal dynamics as seen in some spin glass models.",
+  "authors": [
+    "Peter Sollich",
+    "François Lequeux",
+    "P. Hébraud",
+    "Michael E. Cates"
+  ],
+  "year": 1997,
+  "doi": "10.1103/physrevlett.78.2020",
+  "source": "openalex",
+  "categories": [
+    "Mesoscopic physics",
+    "Rheology",
+    "Materials science",
+    "Metastability",
+    "Dynamic mechanical analysis",
+    "Glass transition",
+    "Soft matter",
+    "Condensed matter physics",
+    "Power law",
+    "Dynamic modulus",
+    "Percolation (cognitive psychology)",
+    "Yield (engineering)",
+    "Thermodynamics",
+    "Physics",
+    "Polymer",
+    "Composite material",
+    "Chemistry",
+    "Physical chemistry",
+    "Colloid",
+    "Statistics",
+    "Mathematics",
+    "Neuroscience",
+    "Biology",
+    "Quantum mechanics"
+  ],
+  "citation_count": 1134,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/9611228",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2103842896.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:16.974370+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2103842896",
+    "concepts": [
+      "Mesoscopic physics",
+      "Rheology",
+      "Materials science",
+      "Metastability",
+      "Dynamic mechanical analysis"
+    ],
+    "oa_status": "green"
+  }
+}

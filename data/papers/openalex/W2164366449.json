@@ -1,0 +1,43 @@
+{
+  "id": "openalex:W2164366449",
+  "title": "The estimation of protein degradability in the rumen from incubation measurements weighted according to rate of passage",
+  "abstract": "Summary A method is proposed for estimating the percentage of dietary protein that is degraded by microbial action in the rumen when protein supplement is added to a specified ration. The potential degradability, p , is measured by incubating the supplement in artificial-fibre bags in the rumen and is related to incubation time, t , by the equation p = a+b (1 – e -ct ). The rate constant k , measuring the passage of the supplement from the rumen to the abomasum, is obtained in a separate experiment in which the supplement is combined with a chromium marker which renders it completely indigestible. The effective percentage degradation, p , of the supplement, allowing for rate of passage, is shown to be p = a +[ bc/(c+k) ] (1- e -(e+k)t ) by time, t , after feeding. As t increases, this tends to the asymptotic value a+bc /( c+k ), which therefore provides an estimate of the degradability of the protein supplement under the specified feeding conditions. The method is illustrated by results obtained with soya-bean meal fed as a supplement to a dried-grass diet for sheep. The incubation measurements showed that 89% of the soya-bean protein disappeared within 24 h and indicated that it was all ultimately degradable with this diet. When the dried grass was given at a restricted level of feeding the allowance for time of retention in the rumen reduced the estimate of final degradability to 71% (69% within 24 h). With ad libitum feeding there was a faster rate of passage and the final degradability was estimated to be 66% (65% within 24 h).",
+  "authors": [
+    "E. R. Ørskov",
+    "I. McDonald"
+  ],
+  "year": 1979,
+  "doi": "10.1017/s0021859600063048",
+  "source": "openalex",
+  "categories": [
+    "Rumen",
+    "Incubation",
+    "Animal science",
+    "Meal",
+    "Incubation period",
+    "Chemistry",
+    "Biology",
+    "Food science",
+    "Allowance (engineering)",
+    "Biochemistry",
+    "Fermentation",
+    "Engineering",
+    "Mechanical engineering"
+  ],
+  "citation_count": 4796,
+  "open_access_pdf_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E2DB4F2290E374E10E9800E512D127A7/S0021859600063048a.pdf/div-class-title-the-estimation-of-protein-degradability-in-the-rumen-from-incubation-measurements-weighted-according-to-rate-of-passage-div.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2164366449.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:52.294258+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2164366449",
+    "concepts": [
+      "Rumen",
+      "Incubation",
+      "Animal science",
+      "Meal",
+      "Incubation period"
+    ],
+    "oa_status": "bronze"
+  }
+}

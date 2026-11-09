@@ -1,0 +1,60 @@
+{
+  "id": "openalex:W2605317103",
+  "title": "Prediction of intrinsic two-dimensional ferroelectrics in In2Se3 and other III2-VI3 van der Waals materials",
+  "abstract": "Abstract Interest in two-dimensional (2D) van der Waals materials has grown rapidly across multiple scientific and engineering disciplines in recent years. However, ferroelectricity, the presence of a spontaneous electric polarization, which is important in many practical applications, has rarely been reported in such materials so far. Here we employ first-principles calculations to discover a branch of the 2D materials family, based on In 2 Se 3 and other III 2 -VI 3 van der Waals materials, that exhibits room-temperature ferroelectricity with reversible spontaneous electric polarization in both out-of-plane and in-plane orientations. The device potential of these 2D ferroelectric materials is further demonstrated using the examples of van der Waals heterostructures of In 2 Se 3 /graphene, exhibiting a tunable Schottky barrier, and In 2 Se 3 /WSe 2 , showing a significant band gap reduction in the combined system. These findings promise to substantially broaden the tunability of van der Waals heterostructures for a wide range of applications.",
+  "authors": [
+    "Wenjun Ding",
+    "Jianbao Zhu",
+    "Zhe Wang",
+    "Yanfei Gao",
+    "Di Xiao",
+    "Yi Gu",
+    "Zhenyu Zhang",
+    "Wenguang Zhu"
+  ],
+  "year": 2017,
+  "doi": "10.1038/ncomms14956",
+  "source": "openalex",
+  "categories": [
+    "van der Waals force",
+    "Ferroelectricity",
+    "Condensed matter physics",
+    "Graphene",
+    "Schottky barrier",
+    "Materials science",
+    "Heterojunction",
+    "Polarization (electrochemistry)",
+    "Van der Waals surface",
+    "Van der Waals strain",
+    "Polarization density",
+    "Nanotechnology",
+    "Chemical physics",
+    "Van der Waals radius",
+    "Optoelectronics",
+    "Physics",
+    "Chemistry",
+    "Dielectric",
+    "Quantum mechanics",
+    "Physical chemistry",
+    "Molecule",
+    "Magnetic field",
+    "Magnetization",
+    "Diode"
+  ],
+  "citation_count": 1459,
+  "open_access_pdf_url": "https://www.nature.com/articles/ncomms14956.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2605317103.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:48.224711+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2605317103",
+    "concepts": [
+      "van der Waals force",
+      "Ferroelectricity",
+      "Condensed matter physics",
+      "Graphene",
+      "Schottky barrier"
+    ],
+    "oa_status": "gold"
+  }
+}

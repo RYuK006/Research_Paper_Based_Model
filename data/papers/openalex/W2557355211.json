@@ -1,0 +1,45 @@
+{
+  "id": "openalex:W2557355211",
+  "title": "Microplastics in Sewage Sludge: Effects of Treatment",
+  "abstract": "Waste water treatment plants (WWTPs) are receptors for the cumulative loading of microplastics (MPs) derived from industry, landfill, domestic wastewater and stormwater. The partitioning of MPs through the settlement processes of wastewater treatment results in the majority becoming entrained in the sewage sludge. This study characterized MPs in sludge samples from seven WWTPs in Ireland which use anaerobic digestion (AD), thermal drying (TD), or lime stabilization (LS) treatment processes. Abundances ranged from 4196 to 15 385 particles kg –1 (dry weight). Results of a general linear mixed model (GLMM) showed significantly higher abundances of MPs in smaller size classes in the LS samples, suggesting that the treatment process of LS shears MP particles. In contrast, lower abundances of MPs found in the AD samples suggests that this process may reduce MP abundances. Surface morphologies examined using scanning electron microscopy (SEM) showed characteristics of melting and blistering of TD MPs and shredding and flaking of LS MPs. This study highlights the potential for sewage sludge treatment processes to affect the risk of MP pollution prior to land spreading and may have implications for legislation governing the application of biosolids to agricultural land.",
+  "authors": [
+    "Anne Marie Mahon",
+    "B. O’Connell",
+    "Mark G. Healy",
+    "Ian O’Connor",
+    "Rick Officer",
+    "Róisín Nash",
+    "Liam Morrison"
+  ],
+  "year": 2016,
+  "doi": "10.1021/acs.est.6b04048",
+  "source": "openalex",
+  "categories": [
+    "Microplastics",
+    "Environmental science",
+    "Sewage",
+    "Sewage sludge",
+    "Sewage treatment",
+    "Waste management",
+    "Environmental chemistry",
+    "Environmental engineering",
+    "Chemistry",
+    "Engineering"
+  ],
+  "citation_count": 1121,
+  "open_access_pdf_url": "http://hdl.handle.net/10379/6698",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2557355211.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:17.076893+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2557355211",
+    "concepts": [
+      "Microplastics",
+      "Environmental science",
+      "Sewage",
+      "Sewage sludge",
+      "Sewage treatment"
+    ],
+    "oa_status": "green"
+  }
+}

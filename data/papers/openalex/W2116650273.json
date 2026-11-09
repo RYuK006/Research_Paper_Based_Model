@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2116650273",
+  "title": "Dependence of Regioregular Poly(3-hexylthiophene) Film Morphology and Field-Effect Mobility on Molecular Weight",
+  "abstract": "Morphological characterization has been used to explain the previously observed strong correlation between charge carrier mobility measured with thin-film transistors and the number-average molecular weight (MW) of the conjugated polymer regioregular poly(3-hexylthiophene). Atomic force microscopy and X-ray diffraction show that the low-mobility, low-MW films have a highly ordered structure composed of nanorods and the high-mobility, high-MW films have a less ordered, isotropic nodule structure. Modifying the morphology for a constant MW by changing the casting conditions or annealing the samples strongly affects the charge transport and morphology in the low-mobility, low-MW films, but has little effect on the high-MW films. In-plane grazing incidence X-ray scattering shows the in-plane π-stacking peak increases when the mobility increases for a constant MW. When the MW is changed, this correlation breaks down, confirming that in-plane π-stacking does not cause the mobility−MW relationship. We believe a combination of disordered domain boundaries and inherent effects of chain length on the electronic structure cause the mobility−MW relationship.",
+  "authors": [
+    "R. Joseph Kline",
+    "Michael D. McGehee",
+    "Ekaterina N. Kadnikova",
+    "Jinsong Liu",
+    "Jean M. J. Fréchet",
+    "Michael F. Toney"
+  ],
+  "year": 2005,
+  "doi": "10.1021/ma047415f",
+  "source": "openalex",
+  "categories": [
+    "Electron mobility",
+    "Materials science",
+    "Annealing (glass)",
+    "Scattering",
+    "Stacking",
+    "Nanorod",
+    "Thin film",
+    "Crystallography",
+    "Chemistry",
+    "Nanotechnology",
+    "Optoelectronics",
+    "Optics",
+    "Composite material",
+    "Organic chemistry",
+    "Physics"
+  ],
+  "citation_count": 1089,
+  "open_access_pdf_url": "https://www.osti.gov/servlets/purl/1442464",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2116650273.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:24.359334+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2116650273",
+    "concepts": [
+      "Electron mobility",
+      "Materials science",
+      "Annealing (glass)",
+      "Scattering",
+      "Stacking"
+    ],
+    "oa_status": "green"
+  }
+}

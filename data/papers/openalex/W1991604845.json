@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W1991604845",
+  "title": "N degrees of separation",
+  "abstract": "Done well, separation of concerns can provide many software engineering benefits, including reduced complexity, improved reusability, and simpler evolution.The choice of boundaries for separate concerns depends on both requirements on the system and on the kind(s) of decompositionand composition a given formalism supports.The predominant methodologies and formalisms available, however, support only orthogonal separations of concerns, along sdngle dimensions of composition and decomposition.These characteristics lead to a number of well-known and difficult problems.This paper describes a new paradigm for modeling and implementing software artifacts, one that permits separation of overlapping concerns along multiple dimensions of composition and decomposition.This approach addresses numerous problems throughout the software lifecycle in achieving wellengineered, evolvable, flexible software artifacts and traceability across artifacts.",
+  "authors": [
+    "Peri L. Tarr",
+    "Harold L. Ossher",
+    "William Harrison",
+    "Stanley M. Sutton"
+  ],
+  "year": 1999,
+  "doi": "10.1145/302405.302457",
+  "source": "openalex",
+  "categories": [
+    "Watson",
+    "IBM",
+    "Suite",
+    "Citation",
+    "Research center",
+    "Center (category theory)",
+    "Library science",
+    "Computer science",
+    "Physics",
+    "Geography",
+    "Archaeology",
+    "Chemistry",
+    "Political science",
+    "Artificial intelligence",
+    "Crystallography",
+    "Optics",
+    "Law"
+  ],
+  "citation_count": 1259,
+  "open_access_pdf_url": "https://dl.acm.org/doi/pdf/10.1145/302405.302457",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1991604845.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:00.710472+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1991604845",
+    "concepts": [
+      "Watson",
+      "IBM",
+      "Suite",
+      "Citation",
+      "Research center"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2148579227",
+  "title": "Cutting Edge: Role of Toll-Like Receptor 1 in Mediating Immune Response to Microbial Lipoproteins",
+  "abstract": "The Toll-like receptor (TLR) family acts as pattern recognition receptors for pathogen-specific molecular patterns (PAMPs). TLR2 is essential for the signaling of a variety of PAMPs, including bacterial lipoprotein/lipopeptides, peptidoglycan, and GPI anchors. TLR6 associates with TLR2 and recognizes diacylated mycoplasmal lipopeptide along with TLR2. We report here that TLR1 associates with TLR2 and recognizes the native mycobacterial 19-kDa lipoprotein along with TLR2. Macrophages from TLR1-deficient (TLR1(-/-)) mice showed impaired proinflammatory cytokine production in response to the 19-kDa lipoprotein and a synthetic triacylated lipopeptide. In contrast, TLR1(-/-) cells responded normally to diacylated lipopeptide. TLR1 interacts with TLR2 and coexpression of TLR1 and TLR2 enhanced the NF-kappaB activation in response to a synthetic lipopeptide. Furthermore, lipoprotein analogs whose acylation was modified were preferentially recognized by TLR1. Taken together, TLR1 interacts with TLR2 to recognize the lipid configuration of the native mycobacterial lipoprotein as well as several triacylated lipopeptides.",
+  "authors": [
+    "Osamu Takeuchi",
+    "Shintaro Sato",
+    "Takao Horiuchi",
+    "Katsuaki Hoshino",
+    "Kiyoshi Takeda",
+    "Zhongyun Dong",
+    "Robert L. Modlin",
+    "Shizuo Akira"
+  ],
+  "year": 2002,
+  "doi": "10.4049/jimmunol.169.1.10",
+  "source": "openalex",
+  "categories": [
+    "Lipopeptide",
+    "TLR2",
+    "Pattern recognition receptor",
+    "Receptor",
+    "Peptidoglycan",
+    "Microbiology",
+    "Biology",
+    "Toll-like receptor",
+    "Pathogen-associated molecular pattern",
+    "Cell biology",
+    "Innate immune system",
+    "Chemistry",
+    "Bacteria",
+    "Biochemistry",
+    "Genetics"
+  ],
+  "citation_count": 1360,
+  "open_access_pdf_url": "https://journals.aai.org/jimmunol/article-pdf/169/1/10/1150868/10.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2148579227.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:55.118400+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2148579227",
+    "concepts": [
+      "Lipopeptide",
+      "TLR2",
+      "Pattern recognition receptor",
+      "Receptor",
+      "Peptidoglycan"
+    ],
+    "oa_status": "bronze"
+  }
+}

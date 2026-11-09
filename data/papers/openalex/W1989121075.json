@@ -1,0 +1,57 @@
+{
+  "id": "openalex:W1989121075",
+  "title": "A highly efficient polysulfide mediator for lithium–sulfur batteries",
+  "abstract": "The lithium–sulfur battery is receiving intense interest because its theoretical energy density exceeds that of lithium-ion batteries at much lower cost, but practical applications are still hindered by capacity decay caused by the polysulfide shuttle. Here we report a strategy to entrap polysulfides in the cathode that relies on a chemical process, whereby a host—manganese dioxide nanosheets serve as the prototype—reacts with initially formed lithium polysulfides to form surface-bound intermediates. These function as a redox shuttle to catenate and bind ‘higher’ polysulfides, and convert them on reduction to insoluble lithium sulfide via disproportionation. The sulfur/manganese dioxide nanosheet composite with 75 wt% sulfur exhibits a reversible capacity of 1,300 mA h g−1 at moderate rates and a fade rate over 2,000 cycles of 0.036%/cycle, among the best reported to date. We furthermore show that this mechanism extends to graphene oxide and suggest it can be employed more widely. The polysulfide shuttle is a major problem leading to capacity decay in lithium–sulfur batteries. Here, the authors show that in-situ-generated thiosulfate species on a manganese oxide nanosheet act as a polysulfide mediator, which effectively prevents polysulfide dissolution, leading to enhanced cyclability.",
+  "authors": [
+    "Xiao Min Liang",
+    "Connor J. Hart",
+    "Quanquan Pang",
+    "Arnd Garsuch",
+    "Thomas Weiss",
+    "Linda F. Nazar"
+  ],
+  "year": 2015,
+  "doi": "10.1038/ncomms6682",
+  "source": "openalex",
+  "categories": [
+    "Polysulfide",
+    "Nanosheet",
+    "Sulfur",
+    "Lithium (medication)",
+    "Dissolution",
+    "Chemistry",
+    "Inorganic chemistry",
+    "Disproportionation",
+    "Oxide",
+    "Redox",
+    "Manganese",
+    "Materials science",
+    "Thiosulfate",
+    "Chemical engineering",
+    "Nanotechnology",
+    "Electrode",
+    "Organic chemistry",
+    "Catalysis",
+    "Electrolyte",
+    "Endocrinology",
+    "Engineering",
+    "Medicine",
+    "Physical chemistry"
+  ],
+  "citation_count": 2071,
+  "open_access_pdf_url": "https://www.nature.com/articles/ncomms6682.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1989121075.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:15.500073+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1989121075",
+    "concepts": [
+      "Polysulfide",
+      "Nanosheet",
+      "Sulfur",
+      "Lithium (medication)",
+      "Dissolution"
+    ],
+    "oa_status": "gold"
+  }
+}

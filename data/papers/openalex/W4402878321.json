@@ -1,0 +1,39 @@
+{
+  "id": "openalex:W4402878321",
+  "title": "How to choose a sampling technique and determine sample size for research: A simplified guide for researchers",
+  "abstract": "An appropriate sampling technique with the exact determination of sample size involves a very vigorous selection process, which is actually vital for any empirical research. It is obvious that these methodological decisions would greatly affect the internal and external validity and the overall generalizability of the study findings. This paper has comprehensively updated the guidelines on sampling methods and sample size calculation, hence giving enough evidence that will be beneficial in assisting researchers to advance the credibility and statistical power of their research work. The differences between probability sampling techniques, including simple random sampling, stratified sampling, and cluster sampling, and non-probability methods, such as convenience sampling, purposive sampling, and snowball sampling, have been fully explained. Probability is the only that can ensure the generalizability, while non-probability sampling is useful in exploratory situations. Another significant process is the determination of an optimal sample size, which, among other things, has to take into account the total population size, effect size, statistical power, confidence level, and margin of error. The paper contributes both theoretical guidance and practical tools that researchers need in choosing appropriate strategies for sampling and validating methodologically appropriate sample size calculations. In sum, such a paper sets the standard for best practice in research methodology that will drive reliability, validity, and empirical rigor across diverse studies. • This article offers practical guidance for researchers on how to determine sample size calculations for their studies. • The paper explores both probability and non-probability sampling techniques, highlighting their respective strengths and weaknesses. • The article discusses key factors that influence sample size determination and reviews the most commonly used sample size formulas in research.",
+  "authors": [
+    "Sirwan Khalid Ahmed"
+  ],
+  "year": 2024,
+  "doi": "10.1016/j.oor.2024.100662",
+  "source": "openalex",
+  "categories": [
+    "Sample size determination",
+    "Sampling (signal processing)",
+    "Sample (material)",
+    "Computer science",
+    "Statistics",
+    "Mathematics",
+    "Chromatography",
+    "Chemistry",
+    "Telecommunications",
+    "Detector"
+  ],
+  "citation_count": 1095,
+  "open_access_pdf_url": "https://doi.org/10.1016/j.oor.2024.100662",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W4402878321.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:24.313167+00:00",
+  "raw_metadata": {
+    "openalex_id": "W4402878321",
+    "concepts": [
+      "Sample size determination",
+      "Sampling (signal processing)",
+      "Sample (material)",
+      "Computer science",
+      "Statistics"
+    ],
+    "oa_status": "gold"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2022714449",
+  "title": "Trends in the Exchange Current for Hydrogen Evolution",
+  "abstract": "A density functional theory database of hydrogen chemisorption energies on close packed surfaces of a number of transition and noble metals is presented. The bond energies are used to understand the trends in the exchange current for hydrogen evolution. A volcano curve is obtained when measured exchange currents are plotted as a function of the calculated hydrogen adsorption energies and a simple kinetic model is developed to understand the origin of the volcano. The volcano curve is also consistent with Pt being the most efficient electrocatalyst for hydrogen evolution. © 2005 The Electrochemical Society. All rights reserved.",
+  "authors": [
+    "Jens K. Nørskov",
+    "Thomas Bligaard",
+    "Áshildur Logadóttir",
+    "John R. Kitchin",
+    "J. G. Chen",
+    "Stanislav Pandelov",
+    "Ulrich Stimming"
+  ],
+  "year": 2005,
+  "doi": "10.1149/1.1856988",
+  "source": "openalex",
+  "categories": [
+    "Chemisorption",
+    "Hydrogen",
+    "Electrocatalyst",
+    "Density functional theory",
+    "Current (fluid)",
+    "Chemistry",
+    "Exchange current density",
+    "Adsorption",
+    "Kinetic energy",
+    "Chemical physics",
+    "Electrochemistry",
+    "Atomic physics",
+    "Thermodynamics",
+    "Physical chemistry",
+    "Computational chemistry",
+    "Physics",
+    "Electrode",
+    "Tafel equation",
+    "Organic chemistry",
+    "Quantum mechanics"
+  ],
+  "citation_count": 6171,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1149/1.1856988/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2022714449.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:52.149033+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2022714449",
+    "concepts": [
+      "Chemisorption",
+      "Hydrogen",
+      "Electrocatalyst",
+      "Density functional theory",
+      "Current (fluid)"
+    ],
+    "oa_status": "bronze"
+  }
+}

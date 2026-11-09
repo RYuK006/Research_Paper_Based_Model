@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2153142029",
+  "title": "Full-scale partial nitritation/anammox experiences – An application survey",
+  "abstract": "Partial nitritation/anammox (PN/A) has been one of the most innovative developments in biological wastewater treatment in recent years. With its discovery in the 1990s a completely new way of ammonium removal from wastewater became available. Over the past decade many technologies have been developed and studied for their applicability to the PN/A concept and several have made it into full-scale. With the perspective of reaching 100 full-scale installations in operation worldwide by 2014 this work presents a summary of PN/A technologies that have been successfully developed, implemented and optimized for high-strength ammonium wastewaters with low C:N ratios and elevated temperatures. The data revealed that more than 50% of all PN/A installations are sequencing batch reactors, 88% of all plants being operated as single-stage systems, and 75% for sidestream treatment of municipal wastewater. Additionally an in-depth survey of 14 full-scale installations was conducted to evaluate practical experiences and report on operational control and troubleshooting. Incoming solids, aeration control and nitrate built up were revealed as the main operational difficulties. The information provided gives a unique/new perspective throughout all the major technologies and discusses the remaining obstacles.",
+  "authors": [
+    "Susanne Lackner",
+    "Eva M. Gilbert",
+    "Siegfried Elias Vlaeminck",
+    "Adriano Joss",
+    "Harald Horn",
+    "Mark C.M. van Loosdrecht"
+  ],
+  "year": 2014,
+  "doi": "10.1016/j.watres.2014.02.032",
+  "source": "openalex",
+  "categories": [
+    "Anammox",
+    "Troubleshooting",
+    "Wastewater",
+    "Aeration",
+    "Environmental science",
+    "Scale (ratio)",
+    "Sewage treatment",
+    "Process engineering",
+    "Waste management",
+    "Engineering",
+    "Environmental engineering",
+    "Computer science",
+    "Chemistry",
+    "Reliability engineering",
+    "Denitrification",
+    "Nitrogen",
+    "Physics",
+    "Denitrifying bacteria",
+    "Quantum mechanics",
+    "Organic chemistry"
+  ],
+  "citation_count": 1858,
+  "open_access_pdf_url": "https://www.sciencedirect.com/science/article/pii/S0043135414001481/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2153142029.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:22.252166+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2153142029",
+    "concepts": [
+      "Anammox",
+      "Troubleshooting",
+      "Wastewater",
+      "Aeration",
+      "Environmental science"
+    ],
+    "oa_status": "hybrid"
+  }
+}

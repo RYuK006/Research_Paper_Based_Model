@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W2044803677",
+  "title": "A ‘missing’ family of classical orthogonal polynomials",
+  "abstract": "We study a family of ‘classical’ orthogonal polynomials which satisfy (apart from a three-term recurrence relation) an eigenvalue problem with a differential operator of Dunkl type. These polynomials can be obtained from the little q -Jacobi polynomials in the limit q = −1. We also show that these polynomials provide a nontrivial realization of the Askey–Wilson algebra for q = −1.",
+  "authors": [
+    "Luc Vinet",
+    "Alexei S. Zhedanov"
+  ],
+  "year": 2011,
+  "doi": "10.1088/1751-8113/44/8/085201",
+  "source": "openalex",
+  "categories": [
+    "Orthogonal polynomials",
+    "Classical orthogonal polynomials",
+    "Mathematics",
+    "Jacobi polynomials",
+    "Discrete orthogonal polynomials",
+    "Wilson polynomials",
+    "Hahn polynomials",
+    "Askey–Wilson polynomials",
+    "Gegenbauer polynomials",
+    "Pure mathematics",
+    "Differential operator",
+    "Kravchuk polynomials",
+    "Algebra over a field",
+    "Difference polynomials",
+    "Eigenvalues and eigenvectors",
+    "Operator (biology)",
+    "Physics",
+    "Quantum mechanics",
+    "Repressor",
+    "Gene",
+    "Transcription factor",
+    "Biochemistry",
+    "Chemistry"
+  ],
+  "citation_count": 2595,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1011.1669",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2044803677.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:04.268353+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2044803677",
+    "concepts": [
+      "Orthogonal polynomials",
+      "Classical orthogonal polynomials",
+      "Mathematics",
+      "Jacobi polynomials",
+      "Discrete orthogonal polynomials"
+    ],
+    "oa_status": "green"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "openalex:W3111560045",
+  "title": "Solvation Structure Design for Aqueous Zn Metal Batteries",
+  "abstract": "Aqueous Zn batteries are promising energy storage devices for large-scale energy-storage due to low cost and high energy density. However, their lifespan is limited by the water decomposition and Zn dendrite growth. Here, we suppress water reduction and Zn dendrite growth in dilute aqueous electrolyte by adding dimethyl sulfoxide (DMSO) into ZnCl 2 –H 2 O, in which DMSO replaces the H 2 O in Zn 2+ solvation sheath due to a higher Gutmann donor number (29.8) of DMSO than that (18) of H 2 O. The preferential solvation of DMSO with Zn 2+ and strong H 2 O–DMSO interaction inhibit the decomposition of solvated H 2 O. In addition, the decomposition of solvated DMSO forms Zn 12 (SO 4 ) 3 Cl 3 (OH) 15 ·5H 2 O, ZnSO 3, and ZnS enriched-solid electrolyte interphase (SEI) preventing Zn dendrite and further suppressing water decomposition. The ZnCl 2 –H 2 O–DMSO electrolyte enables Zn anodes in Zn||Ti half-cell to achieve a high average Coulombic efficiency of 99.5% for 400 cycles (400 h), and the Zn||MnO 2 full cell with a low capacity ratio of Zn:MnO 2 at 2:1 to deliver a high energy density of 212 Wh/kg (based on both cathode and anode) and maitain 95.3% of the capacity over 500 cycles at 8 C.",
+  "authors": [
+    "Longsheng Cao",
+    "Dan Li",
+    "Enyuan Hu",
+    "Feng Xu",
+    "Tao Deng",
+    "Lin Ma",
+    "Yi Wang",
+    "Xiao‐Qing Yang",
+    "Chunsheng Wang"
+  ],
+  "year": 2020,
+  "doi": "10.1021/jacs.0c09794",
+  "source": "openalex",
+  "categories": [
+    "Chemistry",
+    "Solvation",
+    "Aqueous solution",
+    "Metal",
+    "Inorganic chemistry",
+    "Molecule",
+    "Organic chemistry"
+  ],
+  "citation_count": 1407,
+  "open_access_pdf_url": "https://www.osti.gov/servlets/purl/1737441",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3111560045.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:50.710515+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3111560045",
+    "concepts": [
+      "Chemistry",
+      "Solvation",
+      "Aqueous solution",
+      "Metal",
+      "Inorganic chemistry"
+    ],
+    "oa_status": "green"
+  }
+}

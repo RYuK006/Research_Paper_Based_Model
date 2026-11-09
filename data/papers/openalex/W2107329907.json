@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2107329907",
+  "title": "The Prevalence of Mental Disorders among the Homeless in Western Countries: Systematic Review and Meta-Regression Analysis",
+  "abstract": "BACKGROUND: There are well over a million homeless people in Western Europe and North America, but reliable estimates of the prevalence of major mental disorders among this population are lacking. We undertook a systematic review of surveys of such disorders in homeless people. METHODS AND FINDINGS: We searched for surveys of the prevalence of psychotic illness, major depression, alcohol and drug dependence, and personality disorder that were based on interviews of samples of unselected homeless people. We searched bibliographic indexes, scanned reference lists, and corresponded with authors. We explored potential sources of any observed heterogeneity in the estimates by meta-regression analysis, including geographical region, sample size, and diagnostic method. Twenty-nine eligible surveys provided estimates obtained from 5,684 homeless individuals from seven countries. Substantial heterogeneity was observed in prevalence estimates for mental disorders among the studies (all Cochran's chi(2) significant at p < 0.001 and all I(2) > 85%). The most common mental disorders were alcohol dependence, which ranged from 8.1% to 58.5%, and drug dependence, which ranged from 4.5% to 54.2%. For psychotic illness, the prevalence ranged from 2.8% to 42.3%, with similar findings for major depression. The prevalence of alcohol dependence was found to have increased over recent decades. CONCLUSIONS: Homeless people in Western countries are substantially more likely to have alcohol and drug dependence than the age-matched general population in those countries, and the prevalences of psychotic illnesses and personality disorders are higher. Models of psychiatric and social care that can best meet these mental health needs requires further investigation.",
+  "authors": [
+    "Seena Fazel",
+    "Vivek Khosla",
+    "Helen Doll",
+    "John Richard Geddes"
+  ],
+  "year": 2008,
+  "doi": "10.1371/journal.pmed.0050225",
+  "source": "openalex",
+  "categories": [
+    "Mental health",
+    "Psychiatry",
+    "Medicine",
+    "Personality disorders",
+    "Population",
+    "Mental illness",
+    "Meta-analysis",
+    "Alcohol dependence",
+    "Depression (economics)",
+    "Demography",
+    "Epidemiology",
+    "Prevalence",
+    "Personality",
+    "Environmental health",
+    "Psychology",
+    "Alcohol",
+    "Economics",
+    "Chemistry",
+    "Social psychology",
+    "Sociology",
+    "Biochemistry",
+    "Internal medicine",
+    "Macroeconomics"
+  ],
+  "citation_count": 1103,
+  "open_access_pdf_url": "https://journals.plos.org/plosmedicine/article/file?id=10.1371/journal.pmed.0050225&type=printable",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2107329907.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:19.677048+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2107329907",
+    "concepts": [
+      "Mental health",
+      "Psychiatry",
+      "Medicine",
+      "Personality disorders",
+      "Population"
+    ],
+    "oa_status": "gold"
+  }
+}

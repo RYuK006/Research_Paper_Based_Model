@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2043775186",
+  "title": "MoS 2 Nanoparticles Grown on Graphene: An Advanced Catalyst for the Hydrogen Evolution Reaction",
+  "abstract": "Advanced materials for electrocatalytic and photoelectrochemical water splitting are central to the area of renewable energy. In this work, we developed a selective solvothermal synthesis of MoS(2) nanoparticles on reduced graphene oxide (RGO) sheets suspended in solution. The resulting MoS(2)/RGO hybrid material possessed nanoscopic few-layer MoS(2) structures with an abundance of exposed edges stacked onto graphene, in strong contrast to large aggregated MoS(2) particles grown freely in solution without GO. The MoS(2)/RGO hybrid exhibited superior electrocatalytic activity in the hydrogen evolution reaction (HER) relative to other MoS(2) catalysts. A Tafel slope of ∼41 mV/decade was measured for MoS(2) catalysts in the HER for the first time; this exceeds by far the activity of previous MoS(2) catalysts and results from the abundance of catalytic edge sites on the MoS(2) nanoparticles and the excellent electrical coupling to the underlying graphene network. The ∼41 mV/decade Tafel slope suggested the Volmer-Heyrovsky mechanism for the MoS(2)-catalyzed HER, with electrochemical desorption of hydrogen as the rate-limiting step.",
+  "authors": [
+    "Yanguang Li",
+    "Hailiang Wang",
+    "Liming Xie",
+    "Yongye Liang",
+    "Guosong Hong",
+    "Hongjie Dai"
+  ],
+  "year": 2011,
+  "doi": "10.1021/ja201269b",
+  "source": "openalex",
+  "categories": [
+    "Tafel equation",
+    "Graphene",
+    "Catalysis",
+    "Chemistry",
+    "Electrochemistry",
+    "Nanoparticle",
+    "Oxide",
+    "Chemical engineering",
+    "Hydrogen",
+    "Water splitting",
+    "Nanotechnology",
+    "Inorganic chemistry",
+    "Materials science",
+    "Electrode",
+    "Organic chemistry",
+    "Physical chemistry",
+    "Photocatalysis",
+    "Engineering"
+  ],
+  "citation_count": 5050,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1104.2966",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2043775186.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:52.268144+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2043775186",
+    "concepts": [
+      "Tafel equation",
+      "Graphene",
+      "Catalysis",
+      "Chemistry",
+      "Electrochemistry"
+    ],
+    "oa_status": "green"
+  }
+}

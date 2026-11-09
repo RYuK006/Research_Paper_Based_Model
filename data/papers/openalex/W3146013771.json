@@ -1,0 +1,37 @@
+{
+  "id": "openalex:W3146013771",
+  "title": "Analytical Methods Used in Determining Antioxidant Activity: A Review",
+  "abstract": "The study of antioxidants and their implications in various fields, from food engineering to medicine and pharmacy, is of major interest to the scientific community. The present paper is a critical presentation of the most important tests used to determine the antioxidant activity, detection mechanism, applicability, advantages and disadvantages of these methods. Out of the tests based on the transfer of a hydrogen atom, the following were presented: the Oxygen Radical Absorption Capacity (ORAC) test, the Hydroxyl Radical Antioxidant Capacity (HORAC) test, the Total Peroxyl Radical Trapping Antioxidant Parameter (TRAP) test, and the Total Oxyradical Scavenging Capacity (TOSC) test. The tests based on the transfer of one electron include the Cupric Reducing Antioxidant Power (CUPRAC) test, the Ferric Reducing Antioxidant Power (FRAP) test, the Folin-Ciocalteu test. Mixed tests, including the transfer of both a hydrogen atom and an electron, include the 2,2'-Azinobis-(3-ethylbenzothiazoline-6-sulfonic acid (ABTS) test, and the [2,2-di(4-tert-octylphenyl)-1-picrylhydrazyl] (DPPH) test. All these assays are based on chemical reactions and assessing the kinetics or reaching the equilibrium state relies on spectrophotometry, presupposing the occurrence of characteristic colours or the discolouration of the solutions to be analysed, which are processes monitored by specific wavelength adsorption. These assays were successfully applied in antioxidant analysis or the determination of the antioxidant capacity of complex samples. As a complementary method in such studies, one may use methods based on electrochemical (bio)sensors, requiring stages of calibration and validation. The use of chemical methods together with electrochemical methods may result in clarification of the operating mechanisms and kinetics of the processes involving several antioxidants.",
+  "authors": [
+    "Irina Georgiana Munteanu",
+    "Constantin Apetrei"
+  ],
+  "year": 2021,
+  "doi": "10.3390/ijms22073380",
+  "source": "openalex",
+  "categories": [
+    "Chemistry",
+    "Antioxidant",
+    "ABTS",
+    "DPPH",
+    "Antioxidant capacity",
+    "Chromatography",
+    "Organic chemistry"
+  ],
+  "citation_count": 2457,
+  "open_access_pdf_url": "https://www.mdpi.com/1422-0067/22/7/3380/pdf?version=1617030726",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3146013771.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:08.670317+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3146013771",
+    "concepts": [
+      "Chemistry",
+      "Antioxidant",
+      "ABTS",
+      "DPPH",
+      "Antioxidant capacity"
+    ],
+    "oa_status": "gold"
+  }
+}

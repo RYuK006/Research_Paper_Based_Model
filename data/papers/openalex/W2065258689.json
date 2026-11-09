@@ -1,0 +1,45 @@
+{
+  "id": "openalex:W2065258689",
+  "title": "Modified Scherrer Equation to Estimate More Accurately Nano-Crystallite Size Using XRD",
+  "abstract": "Scherrer Equation, L=Kλ/β.cosθ, was developed in 1918, to calculate the nano crystallite size (L) by XRD radiation of wavelength λ (nm) from measuring full width at half maximum of peaks (β) in radian located at any 2θ in the pattern. Shape factor of K can be 0.62 - 2.08 and is usually taken as about 0.89. But, if all of the peaks of a pattern are going to give a similar value of L, then β.cosθ must be identical. This means that for a typical 5nm crystallite size and λ Cukα1 = 0.15405 nm the peak at 2θ = 170° must be more than ten times wide with respect to the peak at 2θ = 10°, which is never observed. The purpose of modified Scherrer equation given in this paper is to provide a new approach to the kind of using Scherrer equation, so that a least squares technique can be applied to minimize the sources of errors. Modified Scherrer equation plots lnβ against ln(1/cosθ) and obtains the intercept of a least squares line regression, ln=Kλ/L, from which a single value of L is obtained through all of the available peaks. This novel technique is used for a natural Hydroxyapatite (HA) of bovine bone fired at 600°C, 700°C, 900°C and 1100°C from which nano crystallite sizes of 22.8, 35.5, 37.3 and 38.1 nm were respectively obtained and 900°C was selected for biomaterials purposes. These results show that modified Scherrer equation method is promising in nano materials applications and can distinguish between 37.3 and 38.1 nm by using the data from all of the available peaks.",
+  "authors": [
+    "Ahmad Monshi",
+    "Mohammad Reza Foroughi",
+    "Mohammad Reza Monshi"
+  ],
+  "year": 2012,
+  "doi": "10.4236/wjnse.2012.23020",
+  "source": "openalex",
+  "categories": [
+    "Scherrer equation",
+    "Crystallite",
+    "Materials science",
+    "Analytical Chemistry (journal)",
+    "Nano-",
+    "Full width at half maximum",
+    "Physics",
+    "Statistics",
+    "Mathematics",
+    "Optics",
+    "Chromatography",
+    "Chemistry",
+    "Composite material",
+    "Metallurgy"
+  ],
+  "citation_count": 2527,
+  "open_access_pdf_url": "http://www.scirp.org/journal/PaperDownload.aspx?paperID=23195",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2065258689.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:04.344299+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2065258689",
+    "concepts": [
+      "Scherrer equation",
+      "Crystallite",
+      "Materials science",
+      "Analytical Chemistry (journal)",
+      "Nano-"
+    ],
+    "oa_status": "diamond"
+  }
+}

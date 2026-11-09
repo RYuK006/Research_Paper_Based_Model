@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2559458927",
+  "title": "2D MXenes: A New Family of Promising Catalysts for the Hydrogen Evolution Reaction",
+  "abstract": "Developing highly conductive, stable, and active nonprecious hydrogen evolution reaction (HER) catalysts is a key step for the proposed hydrogen economy. However, few catalysts, except for noble metals, meet all the requirements. By using state-of-the-art density functional calculations, herein we demonstrate that 2D MXenes, like Ti 2 C, V 2 C, and Ti 3 C 2, are terminated by a mixture of oxygen atoms and hydroxyl, while Nb 2 C and Nb 4 C 3 O 2 are fully terminated by oxygen atoms under standard conditions [pH 0, p (H 2 ) = 1 bar, U = 0 V vs standard hydrogen electrode], findings in good agreement with experimental observation. Furthermore, all these MXenes are conductive under standard conditions, thus allowing high charge transfer kinetics during the HER. Remarkably, the Gibbs free energy for the adsorption of atomic hydrogen (Δ G H* 0 ) on the terminated O atoms (e.g., Ti 2 CO 2 ) is close to the ideal value (0 eV). Our results demonstrate terminated oxygens as catalytic active sites for the HER at these materials and highlight a family of promising two-dimensional catalysts for water splitting.",
+  "authors": [
+    "Guoping Gao",
+    "Anthony Peter O'Mullane",
+    "Aijun Du"
+  ],
+  "year": 2016,
+  "doi": "10.1021/acscatal.6b02754",
+  "source": "openalex",
+  "categories": [
+    "MXenes",
+    "Catalysis",
+    "Gibbs free energy",
+    "Hydrogen",
+    "Water splitting",
+    "Density functional theory",
+    "Materials science",
+    "Adsorption",
+    "Inorganic chemistry",
+    "Hydrogen economy",
+    "Chemistry",
+    "Electrochemistry",
+    "Chemical engineering",
+    "Chemical physics",
+    "Nanotechnology",
+    "Physical chemistry",
+    "Hydrogen production",
+    "Electrode",
+    "Computational chemistry",
+    "Thermodynamics",
+    "Organic chemistry",
+    "Photocatalysis",
+    "Engineering",
+    "Physics"
+  ],
+  "citation_count": 1152,
+  "open_access_pdf_url": "https://eprints.qut.edu.au/103059/3/103059.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2559458927.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:14.572666+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2559458927",
+    "concepts": [
+      "MXenes",
+      "Catalysis",
+      "Gibbs free energy",
+      "Hydrogen",
+      "Water splitting"
+    ],
+    "oa_status": "green"
+  }
+}

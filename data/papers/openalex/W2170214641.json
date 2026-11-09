@@ -1,0 +1,46 @@
+{
+  "id": "openalex:W2170214641",
+  "title": "Crystallography Open Database – an open-access collection of crystal structures",
+  "abstract": "The Crystallography Open Database (COD), which is a project that aims to gather all available inorganic, metal-organic and small organic molecule structural data in one database, is described. The database adopts an open-access model. The COD currently contains ∼80 000 entries in crystallographic information file format, with nearly full coverage of the International Union of Crystallography publications, and is growing in size and quality.",
+  "authors": [
+    "S. Gražulis",
+    "Daniel Chateigner",
+    "Robert T. Downs",
+    "Alex Yokochi",
+    "M. Quirós",
+    "Luca Lutterotti",
+    "E. Manakova",
+    "Justas Butkus",
+    "Peter Moeck",
+    "Armel Le Bail"
+  ],
+  "year": 2009,
+  "doi": "10.1107/s0021889809016690",
+  "source": "openalex",
+  "categories": [
+    "Database",
+    "Computer science",
+    "Crystallography",
+    "Open source",
+    "Information retrieval",
+    "Chemistry",
+    "Software",
+    "Programming language"
+  ],
+  "citation_count": 1883,
+  "open_access_pdf_url": "https://doi.org/10.1107/s0021889809016690",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2170214641.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:22.186430+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2170214641",
+    "concepts": [
+      "Database",
+      "Computer science",
+      "Crystallography",
+      "Open source",
+      "Information retrieval"
+    ],
+    "oa_status": "hybrid"
+  }
+}

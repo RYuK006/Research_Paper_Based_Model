@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2147161211",
+  "title": "Lactic Acid Permeabilizes Gram-Negative Bacteria by Disrupting the Outer Membrane",
+  "abstract": "The effect of lactic acid on the outer membrane permeability of Escherichia coli O157:H7, Pseudomonas aeruginosa, and Salmonella enterica serovar Typhimurium was studied utilizing a fluorescent-probe uptake assay and sensitization to bacteriolysis. For control purposes, similar assays were performed with EDTA (a permeabilizer acting by chelation) and with hydrochloric acid, the latter at pH values corresponding to those yielded by lactic acid, and also in the presence of KCN. Already 5 mM (pH 4.0) lactic acid caused prominent permeabilization in each species, the effect in the fluorescence assay being stronger than that of EDTA or HCl. Similar results were obtained in the presence of KCN, except for P. aeruginosa, for which an increase in the effect of HCl was observed in the presence of KCN. The permeabilization by lactic and hydrochloric acid was partly abolished by MgCl(2). Lactic acid sensitized E. coli and serovar Typhimurium to the lytic action of sodium dodecyl sulfate (SDS) more efficiently than did HCl, whereas both acids sensitized P. aeruginosa to SDS and to Triton X-100. P. aeruginosa was effectively sensitized to lysozyme by lactic acid and by HCl. Considerable proportions of lipopolysaccharide were liberated from serovar Typhimurium by these acids; analysis of liberated material by electrophoresis and by fatty acid analysis showed that lactic acid was more active than EDTA or HCl in liberating lipopolysaccharide from the outer membrane. Thus, lactic acid, in addition to its antimicrobial property due to the lowering of the pH, also functions as a permeabilizer of the gram-negative bacterial outer membrane and may act as a potentiator of the effects of other antimicrobial substances.",
+  "authors": [
+    "Hanna‐Leena Alakomi",
+    "Eija Skyttä",
+    "Maria Saarela",
+    "Tiina Mattila",
+    "K.J. Latva-Kala",
+    "Ilkka M. Helander"
+  ],
+  "year": 2000,
+  "doi": "10.1128/aem.66.5.2001-2005.2000",
+  "source": "openalex",
+  "categories": [
+    "Lactic acid",
+    "Bacterial outer membrane",
+    "Chemistry",
+    "Lysozyme",
+    "Biochemistry",
+    "Bacteria",
+    "Sodium dodecyl sulfate",
+    "Lysis",
+    "Lipopolysaccharide",
+    "Escherichia coli",
+    "Gel electrophoresis",
+    "Microbiology",
+    "Biology",
+    "Gene",
+    "Genetics",
+    "Endocrinology"
+  ],
+  "citation_count": 1136,
+  "open_access_pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC101446/pdf/am002001.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2147161211.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:16.959384+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2147161211",
+    "concepts": [
+      "Lactic acid",
+      "Bacterial outer membrane",
+      "Chemistry",
+      "Lysozyme",
+      "Biochemistry"
+    ],
+    "oa_status": "green"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2768626898",
+  "title": "StarGAN: Unified Generative Adversarial Networks for Multi-domain Image-to-Image Translation",
+  "abstract": "Recent studies have shown remarkable success in image-to-image translation for two domains. However, existing approaches have limited scalability and robustness in handling more than two domains, since different models should be built independently for every pair of image domains. To address this limitation, we propose StarGAN, a novel and scalable approach that can perform image-to-image translations for multiple domains using only a single model. Such a unified model architecture of StarGAN allows simultaneous training of multiple datasets with different domains within a single network. This leads to StarGAN's superior quality of translated images compared to existing models as well as the novel capability of flexibly translating an input image to any desired target domain. We empirically demonstrate the effectiveness of our approach on a facial attribute transfer and a facial expression synthesis tasks.",
+  "authors": [
+    "Yunjey Choi",
+    "Minje Choi",
+    "Munyoung Kim",
+    "Jung-Woo Ha",
+    "Sunghun Kim",
+    "Jaegul Choo"
+  ],
+  "year": 2018,
+  "doi": "10.1109/cvpr.2018.00916",
+  "source": "openalex",
+  "categories": [
+    "Image translation",
+    "Computer science",
+    "Robustness (evolution)",
+    "Image (mathematics)",
+    "Scalability",
+    "Translation (biology)",
+    "Artificial intelligence",
+    "Generative grammar",
+    "Domain (mathematical analysis)",
+    "Generative model",
+    "Image quality",
+    "Computer vision",
+    "Pattern recognition (psychology)",
+    "Machine learning",
+    "Mathematics",
+    "Chemistry",
+    "Mathematical analysis",
+    "Messenger RNA",
+    "Biochemistry",
+    "Gene",
+    "Database"
+  ],
+  "citation_count": 4267,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1711.09020",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2768626898.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:54.002254+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2768626898",
+    "concepts": [
+      "Image translation",
+      "Computer science",
+      "Robustness (evolution)",
+      "Image (mathematics)",
+      "Scalability"
+    ],
+    "oa_status": "green"
+  }
+}

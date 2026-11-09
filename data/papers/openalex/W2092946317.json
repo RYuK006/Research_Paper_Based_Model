@@ -1,0 +1,61 @@
+{
+  "id": "openalex:W2092946317",
+  "title": "Psychiatric Disorders and Drug Use Among Human Immunodeficiency Virus–Infected Adults in the United States",
+  "abstract": "BACKGROUND: There have been no previous nationally representative estimates of the prevalence of mental disorders and drug use among adults receiving care for human immunodeficiency virus (HIV) disease in the United States. It is also not known which clinical and sociodemographic factors are associated with these disorders. SUBJECTS AND METHODS: We enrolled a nationally representative probability sample of 2864 adults receiving care for HIV in the United States in 1996. Participants were administered a brief structured psychiatric instrument that screened for psychiatric disorders (major depression, dysthymia, generalized anxiety disorders, and panic attacks) and drug use during the previous 12 months. Sociodemographic and clinical factors associated with screening positive for any psychiatric disorder and drug dependence were examined in multivariate logistic regression analyses. RESULTS: Nearly half of the sample screened positive for a psychiatric disorder, nearly 40% reported using an illicit drug other than marijuana, and more than 12% screened positive for drug dependence during the previous 12 months. Factors independently associated with screening positive for a psychiatric disorder included number of HIV-related symptoms, illicit drug use, drug dependence, heavy alcohol use, and being unemployed or disabled. Factors independently associated with screening positive for drug dependence included having many HIV-related symptoms, being younger, being heterosexual, having frequent heavy alcohol use, and screening positive for a psychiatric disorder. CONCLUSIONS: Many people infected with HIV may also have psychiatric and/or drug dependence disorders. Clinicians may need to actively identify those at risk and work with policymakers to ensure the availability of appropriate care for these treatable disorders.",
+  "authors": [
+    "Eric G. Bing",
+    "M. Audrey Burnam",
+    "Douglas L. Longshore",
+    "John A. Fleishman",
+    "Cathy Donald Sherbourne",
+    "Andrew S. London",
+    "Barbara J. Turner",
+    "Ferd Eggan",
+    "Robin Beckman",
+    "Benedetto Vitiello",
+    "Sally C. Morton",
+    "Maria Orlando",
+    "Samuel A. Bozzette",
+    "Lucila Ortiz-Barron",
+    "Martin F. Shapiro"
+  ],
+  "year": 2001,
+  "doi": "10.1001/archpsyc.58.8.721",
+  "source": "openalex",
+  "categories": [
+    "Psychiatry",
+    "Medicine",
+    "Depression (economics)",
+    "Panic disorder",
+    "Alcohol use disorder",
+    "Anxiety",
+    "Substance abuse",
+    "Alcohol dependence",
+    "Drug",
+    "Epidemiology of child psychiatric disorders",
+    "Logistic regression",
+    "Generalized anxiety disorder",
+    "Alcohol",
+    "Internal medicine",
+    "Biochemistry",
+    "Economics",
+    "Macroeconomics",
+    "Chemistry"
+  ],
+  "citation_count": 1270,
+  "open_access_pdf_url": "https://jamanetwork.com/journals/jamapsychiatry/articlepdf/205826/yoa9450.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2092946317.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:00.568525+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2092946317",
+    "concepts": [
+      "Psychiatry",
+      "Medicine",
+      "Depression (economics)",
+      "Panic disorder",
+      "Alcohol use disorder"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "openalex:W1978875536",
+  "title": "Biochemical and Developmental Characterization of Multiple Forms of Catalase in Tobacco Leaves",
+  "abstract": "Leaf extracts of both Nicotiana tabacum and Nicotiana sylvestris contain multiple forms of catalase (H(2)O(2):H(2)O(2) oxidoreductase, EC 1.11.1.6) which are separable at different pH values by chromatofocusing columns. Marked changes in distribution of these catalases occur during seedling development and leaf maturation. The form of catalase eluting first (peak 1) was predominant during early seedling growth and present at all stages of development. Two more acidic forms (peaks 2 and 3) appeared later and comprised 29% of the total activity by 11 days postgermination. Mature leaves of N. tabacum contained peak 1 catalase, but peaks 2 and 3 represented 62% of the total activity. No interconversion of peaks 1, 2, and 3 was detected. The three forms of catalase differed in thermal stability with peak 1 > peak 2 >> peak 3. For N. sylvestris, t((1/2)) at 55 degrees C was 31.5 and 3.0 min for peaks 1 and 3, respectively, and for N. tabacum, t((1/2)) was 41.5 and 3.2 min, respectively. All forms of catalase in tobacco show peroxidatic (measured as ethanol to acetaldehyde conversion) as well as catalatic activities. However, for both Nicotiana species the ratio peroxidatic/catalatic activity is at least 30-fold higher in peak 3 than in peaks 1 and 2. Chromatofocusing of extracts from spinach leaves separated at least four peaks of catalase activity, one of which had a 10-fold higher ratio of peroxidatic/catalatic activity than the others. Short-term growth (5 days) of tobacco seedlings under atmospheric conditions suppressing photorespiration (1% CO(2)/21% O(2)) reduced total catalase activity and caused a decline in peak 1 catalase and a substantial increase in the activity of peaks 2 and 3 relative to air-grown seedlings at the same stage.",
+  "authors": [
+    "Evelyn A. Havir",
+    "Neil A. McHale"
+  ],
+  "year": 1987,
+  "doi": "10.1104/pp.84.2.450",
+  "source": "openalex",
+  "categories": [
+    "Nicotiana tabacum",
+    "Catalase",
+    "Chromatofocusing",
+    "Spinach",
+    "Seedling",
+    "Chemistry",
+    "Solanaceae",
+    "Biochemistry",
+    "Botany",
+    "Enzyme",
+    "Biology",
+    "Stereochemistry",
+    "Size-exclusion chromatography",
+    "Gene"
+  ],
+  "citation_count": 1094,
+  "open_access_pdf_url": "https://academic.oup.com/plphys/article-pdf/84/2/450/35624796/plphys_v84_2_450.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1978875536.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:24.315883+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1978875536",
+    "concepts": [
+      "Nicotiana tabacum",
+      "Catalase",
+      "Chromatofocusing",
+      "Spinach",
+      "Seedling"
+    ],
+    "oa_status": "bronze"
+  }
+}

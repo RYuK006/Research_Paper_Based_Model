@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W1989121777",
+  "title": "Distinct Sets of Genetic Alterations in Melanoma",
+  "abstract": "BACKGROUND: Exposure to ultraviolet light is a major causative factor in melanoma, although the relationship between risk and exposure is complex. We hypothesized that the clinical heterogeneity is explained by genetically distinct types of melanoma with different susceptibility to ultraviolet light. METHODS: We compared genome-wide alterations in the number of copies of DNA and mutational status of BRAF and N-RAS in 126 melanomas from four groups in which the degree of exposure to ultraviolet light differs: 30 melanomas from skin with chronic sun-induced damage and 40 melanomas from skin without such damage; 36 melanomas from palms, soles, and subungual (acral) sites; and 20 mucosal melanomas. RESULTS: We found significant differences in the frequencies of regional changes in the number of copies of DNA and mutation frequencies in BRAF among the four groups of melanomas. Samples could be correctly classified into the four groups with 70 percent accuracy on the basis of the changes in the number of copies of genomic DNA. In two-way comparisons, melanomas arising on skin with signs of chronic sun-induced damage and skin without such signs could be correctly classified with 84 percent accuracy. Acral melanoma could be distinguished from mucosal melanoma with 89 percent accuracy. Eighty-one percent of melanomas on skin without chronic sun-induced damage had mutations in BRAF or N-RAS; the majority of melanomas in the other groups had mutations in neither gene. Melanomas with wild-type BRAF or N-RAS frequently had increases in the number of copies of the genes for cyclin-dependent kinase 4 (CDK4) and cyclin D1 (CCND1), downstream components of the RAS-BRAF pathway. CONCLUSIONS: The genetic alterations identified in melanomas at different sites and with different levels of sun exposure indicate that there are distinct genetic pathways in the development of melanoma and implicate CDK4 and CCND1 as independent oncogenes in melanomas without mutations in BRAF or N-RAS.",
+  "authors": [
+    "John A. Curtin",
+    "Jane Fridlyand",
+    "Toshiro Kageshita",
+    "Hetal Patel",
+    "Klaus Johannes BUSAM",
+    "Heinz Kutzner",
+    "Kwang‐Hyun Cho",
+    "Setsuya Aiba",
+    "Eva‐Bettina Bröcker",
+    "Philip E. LeBoit",
+    "Dan Pinkel",
+    "Boris C. Bastian"
+  ],
+  "year": 2005,
+  "doi": "10.1056/nejmoa050092",
+  "source": "openalex",
+  "categories": [
+    "Melanoma",
+    "Medicine",
+    "Ultraviolet light",
+    "DNA damage",
+    "Dermatology",
+    "Gene",
+    "Mutation",
+    "Cancer research",
+    "DNA",
+    "Biology",
+    "Genetics",
+    "Photochemistry",
+    "Chemistry"
+  ],
+  "citation_count": 2796,
+  "open_access_pdf_url": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa050092?articleTools=true",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1989121777.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:01.925557+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1989121777",
+    "concepts": [
+      "Melanoma",
+      "Medicine",
+      "Ultraviolet light",
+      "DNA damage",
+      "Dermatology"
+    ],
+    "oa_status": "bronze"
+  }
+}

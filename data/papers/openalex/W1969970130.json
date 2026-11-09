@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W1969970130",
+  "title": "Probing the Thermal Deoxygenation of Graphene Oxide Using High-Resolution In Situ X-ray-Based Spectroscopies",
+  "abstract": "Despite the recent developments in graphene oxide due to its importance as a host precursor of graphene, the detailed electronic structure and its evolution during the thermal reduction remain largely unknown, hindering its potential applications. We show that a combination of high-resolution in situ X-ray photoemission and X-ray absorption spectroscopies offer a powerful approach to monitor the deoxygenation process and comprehensively evaluate the electronic structure of graphene oxide thin films at different stages of the thermal reduction process. It is established that the edge plane carboxyl groups are highly unstable, whereas carbonyl groups are more difficult to remove. The results consistently support the formation of phenol groups through reaction of basal plane epoxide groups with adjacent hydroxyl groups at moderate degrees of thermal activation (∼400 °C). The phenol groups are predominant over carbonyl groups and survive even at a temperature of 1000 °C. For the first time, a drastic increase in the density of states (DOS) near the Fermi level at 600 °C is observed, suggesting a progressive restoration of aromatic structure in the thermally reduced graphene oxide.",
+  "authors": [
+    "Abhijit Ganguly",
+    "Surbhi Sharma",
+    "Pagona Papakonstantinou",
+    "Jeremy W. J. Hamilton"
+  ],
+  "year": 2011,
+  "doi": "10.1021/jp203741y",
+  "source": "openalex",
+  "categories": [
+    "Deoxygenation",
+    "Graphene",
+    "Oxide",
+    "Phenol",
+    "Materials science",
+    "Photochemistry",
+    "Fermi level",
+    "XANES",
+    "Chemistry",
+    "Chemical engineering",
+    "Nanotechnology",
+    "Organic chemistry",
+    "Spectral line",
+    "Catalysis",
+    "Physics",
+    "Astronomy",
+    "Engineering",
+    "Electron",
+    "Quantum mechanics"
+  ],
+  "citation_count": 1589,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1108.5911",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1969970130.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:41.898514+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1969970130",
+    "concepts": [
+      "Deoxygenation",
+      "Graphene",
+      "Oxide",
+      "Phenol",
+      "Materials science"
+    ],
+    "oa_status": "green"
+  }
+}

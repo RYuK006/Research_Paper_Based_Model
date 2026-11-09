@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2034432063",
+  "title": "Multimodality image registration by maximization of mutual information",
+  "abstract": "A new approach to the problem of multimodality medical image registration is proposed, using a basic concept from information theory, mutual information (MI), or relative entropy, as a new matching criterion. The method presented in this paper applies MI to measure the statistical dependence or information redundancy between the image intensities of corresponding voxels in both images, which is assumed to be maximal if the images are geometrically aligned. Maximization of MI is a very general and powerful criterion, because no assumptions are made regarding the nature of this dependence and no limiting constraints are imposed on the image content of the modalities involved. The accuracy of the MI criterion is validated for rigid body registration of computed tomography (CT), magnetic resonance (MR), and photon emission tomography (PET) images by comparison with the stereotactic registration solution, while robustness is evaluated with respect to implementation issues, such as interpolation and optimization, and image content, including partial overlap and image degradation. Our results demonstrate that subvoxel accuracy with respect to the stereotactic reference solution can be achieved completely automatically and without any prior segmentation, feature extraction, or other preprocessing steps which makes this method very well suited for clinical applications.",
+  "authors": [
+    "Frederik Maes",
+    "Andre M. F. Collignon",
+    "Dirk Vandermeulen",
+    "Guy Marchal",
+    "Paul Suetens"
+  ],
+  "year": 1997,
+  "doi": "10.1109/42.563664",
+  "source": "openalex",
+  "categories": [
+    "Mutual information",
+    "Image registration",
+    "Artificial intelligence",
+    "Computer science",
+    "Computer vision",
+    "Entropy (arrow of time)",
+    "Voxel",
+    "Medical imaging",
+    "Pattern recognition (psychology)",
+    "Preprocessor",
+    "Robustness (evolution)",
+    "Image (mathematics)",
+    "Quantum mechanics",
+    "Biochemistry",
+    "Physics",
+    "Gene",
+    "Chemistry"
+  ],
+  "citation_count": 4589,
+  "open_access_pdf_url": "https://lirias.kuleuven.be/retrieve/ac93da07-ad0d-40f5-a3c1-a27307f67504",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2034432063.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:53.935491+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2034432063",
+    "concepts": [
+      "Mutual information",
+      "Image registration",
+      "Artificial intelligence",
+      "Computer science",
+      "Computer vision"
+    ],
+    "oa_status": "green"
+  }
+}

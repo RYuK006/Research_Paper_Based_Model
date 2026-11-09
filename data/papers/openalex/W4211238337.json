@@ -1,0 +1,44 @@
+{
+  "id": "openalex:W4211238337",
+  "title": "Why 90% of clinical drug development fails and how to improve it?",
+  "abstract": "Ninety percent of clinical drug development fails despite implementation of many successful strategies, which raised the question whether certain aspects in target validation and drug optimization are overlooked? Current drug optimization overly emphasizes potency/specificity using structure‒activity-relationship (SAR) but overlooks tissue exposure/selectivity in disease/normal tissues using structure‒tissue exposure/selectivity-relationship (STR), which may mislead the drug candidate selection and impact the balance of clinical dose/efficacy/toxicity. We propose structure‒tissue exposure/selectivity-activity relationship (STAR) to improve drug optimization, which classifies drug candidates based on drug's potency/selectivity, tissue exposure/selectivity, and required dose for balancing clinical efficacy/toxicity. Class I drugs have high specificity/potency and high tissue exposure/selectivity, which needs low dose to achieve superior clinical efficacy/safety with high success rate. Class II drugs have high specificity/potency and low tissue exposure/selectivity, which requires high dose to achieve clinical efficacy with high toxicity and needs to be cautiously evaluated. Class III drugs have relatively low (adequate) specificity/potency but high tissue exposure/selectivity, which requires low dose to achieve clinical efficacy with manageable toxicity but are often overlooked. Class IV drugs have low specificity/potency and low tissue exposure/selectivity, which achieves inadequate efficacy/safety, and should be terminated early. STAR may improve drug optimization and clinical studies for the success of clinical drug development.",
+  "authors": [
+    "Duxin Sun",
+    "Wei Gao",
+    "Hongxiang Hu",
+    "Simon Yuji Zhou"
+  ],
+  "year": 2022,
+  "doi": "10.1016/j.apsb.2022.02.002",
+  "source": "openalex",
+  "categories": [
+    "Potency",
+    "Drug",
+    "Pharmacology",
+    "Drug development",
+    "Toxicity",
+    "Efficacy",
+    "Medicine",
+    "Clinical efficacy",
+    "Chemistry",
+    "Internal medicine",
+    "In vitro",
+    "Biochemistry"
+  ],
+  "citation_count": 1924,
+  "open_access_pdf_url": "https://www.sciencedirect.com/science/article/pii/S2211383522000521/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W4211238337.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:17.903404+00:00",
+  "raw_metadata": {
+    "openalex_id": "W4211238337",
+    "concepts": [
+      "Potency",
+      "Drug",
+      "Pharmacology",
+      "Drug development",
+      "Toxicity"
+    ],
+    "oa_status": "gold"
+  }
+}

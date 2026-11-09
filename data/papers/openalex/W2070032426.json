@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W2070032426",
+  "title": "Mechanisms of Nanoparticle-Induced Oxidative Stress and Toxicity",
+  "abstract": "The rapidly emerging field of nanotechnology has offered innovative discoveries in the medical, industrial, and consumer sectors. The unique physicochemical and electrical properties of engineered nanoparticles (NP) make them highly desirable in a variety of applications. However, these novel properties of NP are fraught with concerns for environmental and occupational exposure. Changes in structural and physicochemical properties of NP can lead to changes in biological activities including ROS generation, one of the most frequently reported NP-associated toxicities. Oxidative stress induced by engineered NP is due to acellular factors such as particle surface, size, composition, and presence of metals, while cellular responses such as mitochondrial respiration, NP-cell interaction, and immune cell activation are responsible for ROS-mediated damage. NP-induced oxidative stress responses are torch bearers for further pathophysiological effects including genotoxicity, inflammation, and fibrosis as demonstrated by activation of associated cell signaling pathways. Since oxidative stress is a key determinant of NP-induced injury, it is necessary to characterize the ROS response resulting from NP. Through physicochemical characterization and understanding of the multiple signaling cascades activated by NP-induced ROS, a systemic toxicity screen with oxidative stress as a predictive model for NP-induced injury can be developed.",
+  "authors": [
+    "Amruta Manke",
+    "Liying Wang",
+    "Yon Rojanasakul"
+  ],
+  "year": 2013,
+  "doi": "10.1155/2013/942916",
+  "source": "openalex",
+  "categories": [
+    "Oxidative stress",
+    "Reactive oxygen species",
+    "Cell biology",
+    "Toxicity",
+    "Chemistry",
+    "Oxidative phosphorylation",
+    "Inflammation",
+    "Fibrosis",
+    "Cell signaling",
+    "Cell",
+    "Signal transduction",
+    "Biophysics",
+    "Biology",
+    "Biochemistry",
+    "Immunology",
+    "Medicine",
+    "Pathology",
+    "Organic chemistry"
+  ],
+  "citation_count": 1797,
+  "open_access_pdf_url": "https://downloads.hindawi.com/journals/bmri/2013/942916.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2070032426.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:26.002398+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2070032426",
+    "concepts": [
+      "Oxidative stress",
+      "Reactive oxygen species",
+      "Cell biology",
+      "Toxicity",
+      "Chemistry"
+    ],
+    "oa_status": "hybrid"
+  }
+}

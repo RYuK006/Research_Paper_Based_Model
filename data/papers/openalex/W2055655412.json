@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2055655412",
+  "title": "Redox flow batteries: a review",
+  "abstract": "Redox flow batteries (RFBs) are enjoying a renaissance due to their ability to store large amounts of electrical energy relatively cheaply and efficiently. In this review, we examine the components of RFBs with a focus on understanding the underlying physical processes. The various transport and kinetic phenomena are discussed along with the most common redox couples.",
+  "authors": [
+    "Adam Z. Weber",
+    "Matthew M. Mench",
+    "Jeremy P. Meyers",
+    "Philip N. Ross",
+    "Jeff T. Gostick",
+    "Qinghua Liu"
+  ],
+  "year": 2011,
+  "doi": "10.1007/s10800-011-0348-2",
+  "source": "openalex",
+  "categories": [
+    "Redox",
+    "Flow (mathematics)",
+    "Electrochemistry",
+    "Electrochemical energy storage",
+    "Materials science",
+    "Nanotechnology",
+    "Energy storage",
+    "Chemistry",
+    "Computer science",
+    "Electrode",
+    "Inorganic chemistry",
+    "Thermodynamics",
+    "Mechanics",
+    "Physics",
+    "Power (physics)",
+    "Supercapacitor",
+    "Physical chemistry"
+  ],
+  "citation_count": 2083,
+  "open_access_pdf_url": "https://link.springer.com/content/pdf/10.1007/s10800-011-0348-2.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2055655412.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:15.469535+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2055655412",
+    "concepts": [
+      "Redox",
+      "Flow (mathematics)",
+      "Electrochemistry",
+      "Electrochemical energy storage",
+      "Materials science"
+    ],
+    "oa_status": "hybrid"
+  }
+}

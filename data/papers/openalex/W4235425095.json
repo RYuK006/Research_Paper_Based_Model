@@ -1,0 +1,49 @@
+{
+  "id": "openalex:W4235425095",
+  "title": "Nuclear Induction",
+  "abstract": "The magnetic moments of nuclei in normal matter will result in a nuclear paramagnetic polarization upon establishment of equilibrium in a constant magnetic field. It is shown that a radiofrequency field at right angles to the constant field causes a forced precession of the total polarization around the constant field with decreasing latitude as the Larmor frequency approaches adiabatically the frequency of the r-f field. Thus there results a component of the nuclear polarization at right angles to both the constant and the r-f field and it is shown that under normal laboratory conditions this component can induce observable voltages. In Section 3 we discuss this nuclear induction, considering the effect of external fields only, while in Section 4 those modifications are described which originate from internal fields and finite relaxation times.",
+  "authors": [
+    "Felix Bloch"
+  ],
+  "year": 1946,
+  "doi": "10.1103/physrev.70.460",
+  "source": "openalex",
+  "categories": [
+    "Physics",
+    "Larmor precession",
+    "Magnetic field",
+    "Polarization (electrochemistry)",
+    "Paramagnetism",
+    "Free induction decay",
+    "Nuclear magnetic resonance",
+    "Field (mathematics)",
+    "Observable",
+    "Atomic physics",
+    "Condensed matter physics",
+    "Quantum mechanics",
+    "Chemistry",
+    "Spin echo",
+    "Medicine",
+    "Pure mathematics",
+    "Physical chemistry",
+    "Radiology",
+    "Magnetic resonance imaging",
+    "Mathematics"
+  ],
+  "citation_count": 4041,
+  "open_access_pdf_url": "http://link.aps.org/pdf/10.1103/PhysRev.70.460",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W4235425095.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:54.054539+00:00",
+  "raw_metadata": {
+    "openalex_id": "W4235425095",
+    "concepts": [
+      "Physics",
+      "Larmor precession",
+      "Magnetic field",
+      "Polarization (electrochemistry)",
+      "Paramagnetism"
+    ],
+    "oa_status": "bronze"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2151133928",
+  "title": "Association of Fine Particulate Matter from Different Sources with Daily Mortality in Six U.S. Cities",
+  "abstract": "Previously we reported that fine particle mass (particulate matter [less than and equal to] 2.5 microm; PM(2.5)), which is primarily from combustion sources, but not coarse particle mass, which is primarily from crustal sources, was associated with daily mortality in six eastern U.S. cities (1). In this study, we used the elemental composition of size-fractionated particles to identify several distinct source-related fractions of fine particles and examined the association of these fractions with daily mortality in each of the six cities. Using specific rotation factor analysis for each city, we identified a silicon factor classified as soil and crustal material, a lead factor classified as motor vehicle exhaust, a selenium factor representing coal combustion, and up to two additional factors. We extracted daily counts of deaths from National Center for Health Statistics records and estimated city-specific associations of mortality with each source factor by Poisson regression, adjusting for time trends, weather, and the other source factors. Combined effect estimates were calculated as the inverse variance weighted mean of the city-specific estimates. In the combined analysis, a 10 microg/m(3) increase in PM(2.5) from mobile sources accounted for a 3.4% increase in daily mortality [95% confidence interval (CI), 1.7-5.2%], and the equivalent increase in fine particles from coal combustion sources accounted for a 1.1% increase [CI, 0.3-2.0%). PM(2.5) crustal particles were not associated with daily mortality. These results indicate that combustion particles in the fine fraction from mobile and coal combustion sources, but not fine crustal particles, are associated with increased mortality.",
+  "authors": [
+    "Francine Laden",
+    "Lucas Neas",
+    "Douglas W. Dockery",
+    "J Schwartz"
+  ],
+  "year": 2000,
+  "doi": "10.1289/ehp.00108941",
+  "source": "openalex",
+  "categories": [
+    "Particulates",
+    "Coal combustion products",
+    "Environmental science",
+    "Confidence interval",
+    "Combustion",
+    "Poisson regression",
+    "Atmospheric sciences",
+    "Mass concentration (chemistry)",
+    "Demography",
+    "Environmental health",
+    "Chemistry",
+    "Statistics",
+    "Population",
+    "Medicine",
+    "Mathematics",
+    "Physics",
+    "Organic chemistry",
+    "Physical chemistry",
+    "Sociology"
+  ],
+  "citation_count": 1305,
+  "open_access_pdf_url": "https://ehp.niehs.nih.gov/doi/epdf/10.1289/ehp.00108941",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2151133928.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:57.791987+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2151133928",
+    "concepts": [
+      "Particulates",
+      "Coal combustion products",
+      "Environmental science",
+      "Confidence interval",
+      "Combustion"
+    ],
+    "oa_status": "gold"
+  }
+}

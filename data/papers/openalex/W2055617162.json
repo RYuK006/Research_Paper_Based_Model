@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2055617162",
+  "title": "Quantum Key Distribution with High Loss: Toward Global Secure Communication",
+  "abstract": "We propose a decoy-pulse method to overcome the photon-number-splitting attack for Bennett-Brassard 1984 quantum key distribution protocol in the presence of high loss: A legitimate user intentionally and randomly replaces signal pulses by multiphoton pulses (decoy pulses). Then they check the loss of the decoy pulses. If the loss of the decoy pulses is abnormally less than that of signal pulses, the whole protocol is aborted. Otherwise, to continue the protocol, they estimate the loss of signal multiphoton pulses based on that of decoy pulses. This estimation can be done with an assumption that the two losses have similar values. We justify that assumption.",
+  "authors": [
+    "Won-Young Hwang"
+  ],
+  "year": 2003,
+  "doi": "10.1103/physrevlett.91.057901",
+  "source": "openalex",
+  "categories": [
+    "Decoy",
+    "Quantum key distribution",
+    "SIGNAL (programming language)",
+    "Pulse (music)",
+    "Key (lock)",
+    "Computer science",
+    "Protocol (science)",
+    "Photon",
+    "Physics",
+    "Quantum cryptography",
+    "Optics",
+    "Quantum",
+    "Computer security",
+    "Quantum information",
+    "Quantum mechanics",
+    "Chemistry",
+    "Detector",
+    "Pathology",
+    "Biochemistry",
+    "Alternative medicine",
+    "Receptor",
+    "Medicine",
+    "Programming language"
+  ],
+  "citation_count": 1821,
+  "open_access_pdf_url": "https://arxiv.org/pdf/quant-ph/0211153",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2055617162.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:22.346058+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2055617162",
+    "concepts": [
+      "Decoy",
+      "Quantum key distribution",
+      "SIGNAL (programming language)",
+      "Pulse (music)",
+      "Key (lock)"
+    ],
+    "oa_status": "green"
+  }
+}

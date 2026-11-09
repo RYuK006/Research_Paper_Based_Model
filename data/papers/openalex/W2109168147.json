@@ -1,0 +1,60 @@
+{
+  "id": "openalex:W2109168147",
+  "title": "High glucose level and free fatty acid stimulate reactive oxygen species production through protein kinase C--dependent activation of NAD(P)H oxidase in cultured vascular cells.",
+  "abstract": "Recent studies have revealed that vascular cells can produce reactive oxygen species (ROS) through NAD(P)H oxidase, which may be involved in vascular injury. However, the pathological role of vascular NAD(P)H oxidase in diabetes or in the insulin-resistant state remains unknown. In this study, we examined the effect of high glucose level and free fatty acid (FFA) (palmitate) on ROS production in cultured aortic smooth muscle cells (SMCs) and endothelial cells (ECs) using electron spin resonance spectroscopy. Exposure of cultured SMCs or ECs to a high glucose level (400 mg/dl) for 72 h significantly increased the free radical production compared with low glucose level exposure (100 mg/dl). Treatment of the cells for 3 h with phorbol myristic acid (PMA), a protein kinase C (PKC) activator, also increased free radical production. This increase was restored to the control value by diphenylene iodonium, a NAD(P)H oxidase inhibitor, suggesting ROS production through PKC-dependent activation of NAD(P)H oxidase. The increase in free radical production by high glucose level exposure was completely restored by both diphenylene iodonium and GF109203X, a PKC-specific inhibitor. Exposure to palmitate (200 micromol/l) also increased free radical production, which was concomitant with increases in diacylglycerol level and PKC activity. Again, this increase was restored to the control value by both diphenylene iodonium and GF109203X. The present results suggest that both high glucose level and palmitate may stimulate ROS production through PKC-dependent activation of NAD(P)H oxidase in both vascular SMCs and ECs. This finding may be involved in the excessive acceleration of atherosclerosis in patients with diabetes and insulin resistance syndrome.",
+  "authors": [
+    "Toyoshi Inoguchi",
+    "Pan Li",
+    "F. Umeda",
+    "Hong Yu",
+    "M Kakimoto",
+    "Minako Imamura",
+    "T Aoki",
+    "T Etoh",
+    "T. Hashimoto",
+    "Masahiro Naruse",
+    "Hiroaki Sano",
+    "Hideo Utsumi",
+    "H Nawata"
+  ],
+  "year": 2000,
+  "doi": "10.2337/diabetes.49.11.1939",
+  "source": "openalex",
+  "categories": [
+    "Protein kinase C",
+    "NAD+ kinase",
+    "NADPH oxidase",
+    "NAD(P)H oxidase",
+    "Reactive oxygen species",
+    "Chemistry",
+    "Diacylglycerol kinase",
+    "Oxidase test",
+    "Biochemistry",
+    "Activator (genetics)",
+    "Endocrinology",
+    "Internal medicine",
+    "Vascular smooth muscle",
+    "Biology",
+    "Kinase",
+    "Enzyme",
+    "Medicine",
+    "Receptor",
+    "Smooth muscle"
+  ],
+  "citation_count": 1598,
+  "open_access_pdf_url": "https://diabetesjournals.org/diabetes/article-pdf/49/11/1939/365261/11078463.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2109168147.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:41.861857+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2109168147",
+    "concepts": [
+      "Protein kinase C",
+      "NAD+ kinase",
+      "NADPH oxidase",
+      "NAD(P)H oxidase",
+      "Reactive oxygen species"
+    ],
+    "oa_status": "bronze"
+  }
+}

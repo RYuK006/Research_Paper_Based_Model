@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2330760879",
+  "title": "Photopharmacology: Beyond Proof of Principle",
+  "abstract": "Pharmacotherapy is often severely hindered by issues related to poor drug selectivity, including side effects, environmental toxicity, and the emergence of resistance. Lack of selectivity is caused by the inability to control drug activity in time and space. Photopharmacology aims at solving this issue by incorporating photoswitchable groups into the molecular structure of bioactive compounds. These switching units allow for the use of light as an external control element for pharmacological activity, which can be delivered with very high spatiotemporal precision. This Perspective presents the reader with the current state and outlook on photopharmacology. In particular, the principles behind photoregulation of bioactivity, the challenges of molecular design, and the possible therapeutic scenarios are discussed.",
+  "authors": [
+    "Willem A. Velema",
+    "Wiktor Szymański",
+    "Ben L. Feringa"
+  ],
+  "year": 2014,
+  "doi": "10.1021/ja413063e",
+  "source": "openalex",
+  "categories": [
+    "Chemistry",
+    "Biochemical engineering",
+    "Selectivity",
+    "Proof of concept",
+    "Combinatorial chemistry",
+    "Perspective (graphical)",
+    "Drug",
+    "Nanotechnology",
+    "Chemical space",
+    "Pharmacology",
+    "Computational biology",
+    "Risk analysis (engineering)",
+    "Drug discovery",
+    "Biochemistry",
+    "Computer science",
+    "Artificial intelligence",
+    "Business",
+    "Engineering",
+    "Biology",
+    "Operating system",
+    "Catalysis",
+    "Materials science",
+    "Medicine"
+  ],
+  "citation_count": 1199,
+  "open_access_pdf_url": "https://research.rug.nl/en/publications/d6714f52-c2c8-4e48-b345-238e98bcc776",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2330760879.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:08.302322+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2330760879",
+    "concepts": [
+      "Chemistry",
+      "Biochemical engineering",
+      "Selectivity",
+      "Proof of concept",
+      "Combinatorial chemistry"
+    ],
+    "oa_status": "green"
+  }
+}

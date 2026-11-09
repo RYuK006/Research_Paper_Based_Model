@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W2783948250",
+  "title": "Power Analysis and Effect Size in Mixed Effects Models: A Tutorial",
+  "abstract": "In psychology, attempts to replicate published findings are less successful than expected. For properly powered studies replication rate should be around 80%, whereas in practice less than 40% of the studies selected from different areas of psychology can be replicated. Researchers in cognitive psychology are hindered in estimating the power of their studies, because the designs they use present a sample of stimulus materials to a sample of participants, a situation not covered by most power formulas. To remedy the situation, we review the literature related to the topic and introduce recent software packages, which we apply to the data of two masked priming studies with high power. We checked how we could estimate the power of each study and how much they could be reduced to remain powerful enough. On the basis of this analysis, we recommend that a properly powered reaction time experiment with repeated measures has at least 1,600 word observations per condition (e.g., 40 participants, 40 stimuli). This is considerably more than current practice. We also show that researchers must include the number of observations in meta-analyses because the effect sizes currently reported depend on the number of stimuli presented to the participants. Our analyses can easily be applied to new datasets gathered.",
+  "authors": [
+    "Marc Brysbaert",
+    "Michaël Stevens"
+  ],
+  "year": 2018,
+  "doi": "10.5334/joc.10",
+  "source": "openalex",
+  "categories": [
+    "Replicate",
+    "Sample size determination",
+    "Replication (statistics)",
+    "Computer science",
+    "Psychology",
+    "Sample (material)",
+    "Power analysis",
+    "Cognition",
+    "Cognitive psychology",
+    "Power (physics)",
+    "Meta-analysis",
+    "Econometrics",
+    "Statistics",
+    "Mathematics",
+    "Computer security",
+    "Medicine",
+    "Neuroscience",
+    "Internal medicine",
+    "Cryptography",
+    "Chemistry",
+    "Quantum mechanics",
+    "Chromatography",
+    "Physics"
+  ],
+  "citation_count": 1523,
+  "open_access_pdf_url": "http://www.journalofcognition.org/articles/10.5334/joc.10/galley/20/download/",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2783948250.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:45.462302+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2783948250",
+    "concepts": [
+      "Replicate",
+      "Sample size determination",
+      "Replication (statistics)",
+      "Computer science",
+      "Psychology"
+    ],
+    "oa_status": "gold"
+  }
+}

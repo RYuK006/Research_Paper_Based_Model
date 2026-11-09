@@ -1,0 +1,44 @@
+{
+  "id": "openalex:W1818313483",
+  "title": "Wortmannin is a potent phosphatidylinositol 3-kinase inhibitor: the role of phosphatidylinositol 3,4,5-trisphosphate in neutrophil responses",
+  "abstract": "Phosphatidylinositol 3,4,5-trisphosphate (PtdInsP3) is rapidly produced upon exposure of neutrophils to the chemoattractant N-formylmethionyl-leucylphenylalanine (fMLP), and has been proposed to act as a second messenger mediating actin polymerization and respiratory-burst activity. Here we present evidence that wortmannin, a known inhibitor of respiratory-burst activity, acts on PtdIns 3-kinase, the enzyme producing PtdInsP3 from PtdIns(4,5)P2. Pretreatment of 32P-labelled human neutrophils with 100 nM wortmannin totally abolished fMLP-mediated PtdInsP3 production, raised PtdInsP2 levels, and did not affect cellular PtdInsP and PtdIns contents. The inhibitory effect on PtdInsP3 formation in intact cells was dose-dependent, with an IC50 of approximately 5 nM. Similar results were obtained with PtdIns 3-kinase immunoprecipitated by antibodies against the p85 regulatory subunit: wortmannin totally inhibited PtdIns3P production in immunoprecipitates at concentrations of 10-100 nM (IC50 approximately 1 nM). These results illustrate the direct and specific inhibition of PtdIns 3-kinase by wortmannin. Since agonist-mediated respiratory-burst activation is most sensitive to wortmannin (IC50 = 12 nM), this suggests that agonist-mediated PtdInsP3 formation is indispensable for this cell response. Neutrophils pretreated with wortmannin develop oscillatory changes in F-actin content, but actin polymerization in response to fMLP is not inhibited. This, and the absence of PtdInsP3 under these conditions, are in agreement with a modulatory role for PtdInsP3 in cytoskeletal rearrangements, but imply that PtdInsP3 production is not a primary event triggering elongation of actin filaments in neutrophils.",
+  "authors": [
+    "Alexandre Arcaro",
+    "Matthias P. Wymann"
+  ],
+  "year": 1993,
+  "doi": "10.1042/bj2960297",
+  "source": "openalex",
+  "categories": [
+    "Wortmannin",
+    "Phosphatidylinositol",
+    "Cell biology",
+    "Kinase",
+    "Cytoskeleton",
+    "Second messenger system",
+    "Respiratory burst",
+    "Biophysics",
+    "Chemistry",
+    "Biology",
+    "Molecular biology",
+    "Signal transduction",
+    "Biochemistry",
+    "Cell"
+  ],
+  "citation_count": 1138,
+  "open_access_pdf_url": "https://portlandpress.com/biochemj/article-pdf/296/2/297/611786/bj2960297.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1818313483.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:16.939048+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1818313483",
+    "concepts": [
+      "Wortmannin",
+      "Phosphatidylinositol",
+      "Cell biology",
+      "Kinase",
+      "Cytoskeleton"
+    ],
+    "oa_status": "bronze"
+  }
+}

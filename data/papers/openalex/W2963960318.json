@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W2963960318",
+  "title": "Feature Generating Networks for Zero-Shot Learning",
+  "abstract": "Suffering from the extreme training data imbalance between seen and unseen classes, most of existing state-of-the-art approaches fail to achieve satisfactory results for the challenging generalized zero-shot learning task. To circumvent the need for labeled examples of unseen classes, we propose a novel generative adversarial network (GAN) that synthesizes CNN features conditioned on class-level semantic information, offering a shortcut directly from a semantic descriptor of a class to a class-conditional feature distribution. Our proposed approach, pairing a Wasserstein GAN with a classification loss, is able to generate sufficiently discriminative CNN features to train softmax classifiers or any multimodal embedding method. Our experimental results demonstrate a significant boost in accuracy over the state of the art on five challenging datasets - CUB, FLO, SUN, AWA and ImageNet - in both the zero-shot learning and generalized zero-shot learning settings.",
+  "authors": [
+    "Yongqin Xian",
+    "Tobias Lorenz",
+    "Bernt Schiele",
+    "Zeynep Akata"
+  ],
+  "year": 2018,
+  "doi": "10.1109/cvpr.2018.00581",
+  "source": "openalex",
+  "categories": [
+    "Softmax function",
+    "Discriminative model",
+    "Computer science",
+    "Artificial intelligence",
+    "Feature (linguistics)",
+    "Embedding",
+    "Zero (linguistics)",
+    "Class (philosophy)",
+    "Pattern recognition (psychology)",
+    "Semantic feature",
+    "Machine learning",
+    "Shot (pellet)",
+    "Task (project management)",
+    "Feature learning",
+    "Deep learning",
+    "Chemistry",
+    "Philosophy",
+    "Organic chemistry",
+    "Linguistics",
+    "Management",
+    "Economics"
+  ],
+  "citation_count": 1085,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1712.00981",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2963960318.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:24.455675+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2963960318",
+    "concepts": [
+      "Softmax function",
+      "Discriminative model",
+      "Computer science",
+      "Artificial intelligence",
+      "Feature (linguistics)"
+    ],
+    "oa_status": "green"
+  }
+}

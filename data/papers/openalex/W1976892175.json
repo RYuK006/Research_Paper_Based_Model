@@ -1,0 +1,44 @@
+{
+  "id": "openalex:W1976892175",
+  "title": "ChemSpider: An Online Chemical Information Resource",
+  "abstract": "ChemSpider is a free, online chemical database offering access to physical and chemical properties, molecular structure, spectral data, synthetic methods, safety information, and nomenclature for almost 25 million unique chemical compounds sourced and linked to almost 400 separate data sources on the Web. ChemSpider is quickly becoming the primary chemistry Internet portal and it can be very useful for both chemical teaching and research.",
+  "authors": [
+    "Harry E. Pence",
+    "Antony John Williams"
+  ],
+  "year": 2010,
+  "doi": "10.1021/ed100697w",
+  "source": "openalex",
+  "categories": [
+    "The Internet",
+    "Internet portal",
+    "Chemical database",
+    "Information resource",
+    "Cheminformatics",
+    "Computer science",
+    "Resource (disambiguation)",
+    "World Wide Web",
+    "Chemistry",
+    "Information retrieval",
+    "Knowledge management",
+    "Organic chemistry",
+    "Computational chemistry",
+    "Computer network"
+  ],
+  "citation_count": 1258,
+  "open_access_pdf_url": "https://doi.org/10.1021/ed100697w",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1976892175.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:02.516388+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1976892175",
+    "concepts": [
+      "The Internet",
+      "Internet portal",
+      "Chemical database",
+      "Information resource",
+      "Cheminformatics"
+    ],
+    "oa_status": "closed"
+  }
+}

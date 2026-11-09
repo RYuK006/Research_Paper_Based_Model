@@ -1,0 +1,54 @@
+{
+  "id": "openalex:W2067081878",
+  "title": "Electrode Kinetics of Porous Mixed‐Conducting Oxygen Electrodes",
+  "abstract": "In this paper we use continuum modeling to analyze the mechanism of the oxygen reduction reaction at a porous mixed‐conducting oxygen electrode. We show that for at 700°C, solid‐state oxygen diffusion and surface exchange dominate the electrochemical behavior, producing effective \"chemical\" resistances and capacitances. This behavior can be explained both qualitatively and quantitatively in terms of the known bulk and surface properties of the materials. This mechanism appears to be generally valid for mixed conductors with high rates of internal mass transfer, but breaks down for mixed conductors that have poor ionic transport. Our analysis also suggests that, for the best electrode materials, extension of the reaction zone beyond the three‐phase boundary is limited to a few micrometers. We also show that gas phase diffusion resistance can contribute significantly to cell impedance at .",
+  "authors": [
+    "Stuart B. Adler",
+    "J. A. Lane",
+    "B.C.H. Steele"
+  ],
+  "year": 1996,
+  "doi": "10.1149/1.1837252",
+  "source": "openalex",
+  "categories": [
+    "Electrode",
+    "Electrochemistry",
+    "Oxygen",
+    "Diffusion",
+    "Materials science",
+    "Mass transfer",
+    "Porosity",
+    "Electrical conductor",
+    "Ionic bonding",
+    "Gaseous diffusion",
+    "Oxygen transport",
+    "Chemical engineering",
+    "Chemistry",
+    "Chemical physics",
+    "Analytical Chemistry (journal)",
+    "Thermodynamics",
+    "Composite material",
+    "Ion",
+    "Physical chemistry",
+    "Chromatography",
+    "Engineering",
+    "Organic chemistry",
+    "Physics"
+  ],
+  "citation_count": 1144,
+  "open_access_pdf_url": "https://iopscience.iop.org/article/10.1149/1.1837252/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2067081878.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:14.658860+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2067081878",
+    "concepts": [
+      "Electrode",
+      "Electrochemistry",
+      "Oxygen",
+      "Diffusion",
+      "Materials science"
+    ],
+    "oa_status": "bronze"
+  }
+}

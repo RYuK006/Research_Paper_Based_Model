@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2160391726",
+  "title": "Reversible photo-induced trap formation in mixed-halide hybrid perovskites for photovoltaics",
+  "abstract": ". Photoluminescence (PL) spectra of these perovskites develop a new, red-shifted peak at 1.68 eV that grows in intensity under constant, 1-sun illumination in less than a minute. This is accompanied by an increase in sub-bandgap absorption at ∼1.7 eV, indicating the formation of luminescent trap states. Light soaking causes a splitting of X-ray diffraction (XRD) peaks, suggesting segregation into two crystalline phases. Surprisingly, these photo-induced changes are fully reversible; the XRD patterns and the PL and absorption spectra revert to their initial states after the materials are left for a few minutes in the dark. We speculate that photoexcitation may cause halide segregation into iodide-rich minority and bromide-enriched majority domains, the former acting as a recombination center trap. This instability may limit achievable voltages from some mixed-halide perovskite solar cells and could have implications for the photostability of halide perovskites used in optoelectronics.",
+  "authors": [
+    "Eric T. Hoke",
+    "Daniel J. Slotcavage",
+    "Emma R. Dohner",
+    "Andrea R. Bowring",
+    "Hemamala I. Karunadasa",
+    "Michael D. McGehee"
+  ],
+  "year": 2014,
+  "doi": "10.1039/c4sc03141e",
+  "source": "openalex",
+  "categories": [
+    "Photovoltaics",
+    "Halide",
+    "Trap (plumbing)",
+    "Materials science",
+    "Perovskite (structure)",
+    "Optoelectronics",
+    "Chemistry",
+    "Nanotechnology",
+    "Chemical engineering",
+    "Photovoltaic system",
+    "Inorganic chemistry",
+    "Environmental science",
+    "Crystallography",
+    "Electrical engineering",
+    "Environmental engineering",
+    "Engineering"
+  ],
+  "citation_count": 2336,
+  "open_access_pdf_url": "https://pubs.rsc.org/en/content/articlepdf/2015/sc/c4sc03141e",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2160391726.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:08.765491+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2160391726",
+    "concepts": [
+      "Photovoltaics",
+      "Halide",
+      "Trap (plumbing)",
+      "Materials science",
+      "Perovskite (structure)"
+    ],
+    "oa_status": "hybrid"
+  }
+}

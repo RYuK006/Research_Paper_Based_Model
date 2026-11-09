@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2054242865",
+  "title": "Optical constants of silica glass from extreme ultraviolet to far infrared at near room temperature",
+  "abstract": "We thoroughly and critically review studies reporting the real (refractive index) and imaginary (absorption index) parts of the complex refractive index of silica glass over the spectral range from 30 nm to 1000 microm. The general features of the optical constants over the electromagnetic spectrum are relatively consistent throughout the literature. In particular, silica glass is effectively opaque for wavelengths shorter than 200 nm and larger than 3.5-4.0 microm. Strong absorption bands are observed (i) below 160 nm due to the interaction with electrons, absorption by impurities, and the presence of OH groups and point defects; (ii) at aproximately 2.73-2.85, 3.5, and 4.3 microm also caused by OH groups; and (iii) at aproximately 9-9.5, 12.5, and 21-23 microm due to Si-O-Si resonance modes of vibration. However, the actual values of the refractive and absorption indices can vary significantly due to the glass manufacturing process, crystallinity, wavelength, and temperature and to the presence of impurities, point defects, inclusions, and bubbles, as well as to the experimental uncertainties and approximations in the retrieval methods. Moreover, new formulas providing comprehensive approximations of the optical properties of silica glass are proposed between 7 and 50 microm. These formulas are consistent with experimental data and substantially extend the spectral range of 0.21-7 microm covered by existing formulas and can be used in various engineering applications.",
+  "authors": [
+    "Rei Kitamura",
+    "Laurent Pilon",
+    "Miroslaw Jonasz"
+  ],
+  "year": 2007,
+  "doi": "10.1364/ao.46.008118",
+  "source": "openalex",
+  "categories": [
+    "Refractive index",
+    "Materials science",
+    "Opacity",
+    "Absorption (acoustics)",
+    "Optics",
+    "Wavelength",
+    "Far infrared",
+    "Infrared",
+    "Impurity",
+    "Absorption spectroscopy",
+    "Ultraviolet",
+    "Crystallinity",
+    "Analytical Chemistry (journal)",
+    "Optoelectronics",
+    "Physics",
+    "Chemistry",
+    "Composite material",
+    "Quantum mechanics",
+    "Chromatography"
+  ],
+  "citation_count": 1122,
+  "open_access_pdf_url": "https://escholarship.org/content/qt0st1d3tg/qt0st1d3tg.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2054242865.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:17.054809+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2054242865",
+    "concepts": [
+      "Refractive index",
+      "Materials science",
+      "Opacity",
+      "Absorption (acoustics)",
+      "Optics"
+    ],
+    "oa_status": "green"
+  }
+}

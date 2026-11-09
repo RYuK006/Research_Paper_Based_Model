@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W1997889941",
+  "title": "Undue reliance on I 2 in assessing heterogeneity may mislead",
+  "abstract": "The heterogeneity statistic I 2 , interpreted as the percentage of variability due to heterogeneity between studies rather than sampling error, depends on precision, that is, the size of the studies included. Based on a real meta-analysis, we simulate artificially 'inflating' the sample size under the random effects model. For a given inflation factor M = 1, 2, 3,... and for each trial i , we create a M -inflated trial by drawing a treatment effect estimate from the random effects model, using s i 2 MathType@MTEF@5@5@+=feaagaart1ev2aaatCvAUfKttLearuWrP9MDH5MBPbIqV92AaeXatLxBI9gBaebbnrfifHhDYfgasaacPC6xNi=xH8viVGI8Gi=hEeeu0xXdbba9frFj0xb9qqpG0dXdb9aspeI8k8fiI+fsY=rqGqVepae9pg0db9vqaiVgFr0xfr=xfr=xc9adbaqaaeGaciGaaiaabeqaaeqabiWaaaGcbaGaem4Cam3aa0baaSqaaiabdMgaPbqaaiabikdaYaaaaaa@2FBE@ / M as within-trial sampling variance. As precision increases, while estimates of the heterogeneity variance τ 2 remain unchanged on average, estimates of I 2 increase rapidly to nearly 100%. A similar phenomenon is apparent in a sample of 157 meta-analyses. When deciding whether or not to pool treatment estimates in a meta-analysis, the yard-stick should be the clinical relevance of any heterogeneity present. τ 2 , rather than I 2 , is the appropriate measure for this purpose.",
+  "authors": [
+    "Gerta Rücker",
+    "Guido Schwarzer",
+    "James Robert Carpenter",
+    "Martin Christian Schumacher"
+  ],
+  "year": 2008,
+  "doi": "10.1186/1471-2288-8-79",
+  "source": "openalex",
+  "categories": [
+    "Statistics",
+    "Sample size determination",
+    "Meta-analysis",
+    "Econometrics",
+    "Study heterogeneity",
+    "Statistic",
+    "Variance (accounting)",
+    "Random effects model",
+    "Sampling (signal processing)",
+    "Sample (material)",
+    "Mathematics",
+    "Medicine",
+    "Confidence interval",
+    "Computer science",
+    "Economics",
+    "Internal medicine",
+    "Chemistry",
+    "Accounting",
+    "Chromatography",
+    "Filter (signal processing)",
+    "Computer vision"
+  ],
+  "citation_count": 1298,
+  "open_access_pdf_url": "https://bmcmedresmethodol.biomedcentral.com/counter/pdf/10.1186/1471-2288-8-79",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1997889941.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:57.836159+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1997889941",
+    "concepts": [
+      "Statistics",
+      "Sample size determination",
+      "Meta-analysis",
+      "Econometrics",
+      "Study heterogeneity"
+    ],
+    "oa_status": "gold"
+  }
+}

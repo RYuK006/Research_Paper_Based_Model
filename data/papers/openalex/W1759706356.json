@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W1759706356",
+  "title": "Biochemistry and pathology of radical-mediated protein oxidation",
+  "abstract": "Radical-mediated damage to proteins may be initiated by electron leakage, metal-ion-dependent reactions and autoxidation of lipids and sugars. The consequent protein oxidation is O2-dependent, and involves several propagating radicals, notably alkoxyl radicals. Its products include several categories of reactive species, and a range of stable products whose chemistry is currently being elucidated. Among the reactive products, protein hydroperoxides can generate further radical fluxes on reaction with transition-metal ions; protein-bound reductants (notably dopa) can reduce transition-metal ions and thereby facilitate their reaction with hydroperoxides; and aldehydes may participate in Schiff-base formation and other reactions. Cells can detoxify some of the reactive species, e.g. by reducing protein hydroperoxides to unreactive hydroxides. Oxidized proteins are often functionally inactive and their unfolding is associated with enhanced susceptibility to proteinases. Thus cells can generally remove oxidized proteins by proteolysis. However, certain oxidized proteins are poorly handled by cells, and together with possible alterations in the rate of production of oxidized proteins, this may contribute to the observed accumulation and damaging actions of oxidized proteins during aging and in pathologies such as diabetes, atherosclerosis and neurodegenerative diseases. Protein oxidation may also sometimes play controlling roles in cellular remodelling and cell growth. Proteins are also key targets in defensive cytolysis and in inflammatory self-damage. The possibility of selective protection against protein oxidation (antioxidation) is raised.",
+  "authors": [
+    "Roger Thornton Dean",
+    "Shanlin Fu",
+    "Roland Stocker",
+    "Michael J. Davies"
+  ],
+  "year": 1997,
+  "doi": "10.1042/bj3240001",
+  "source": "openalex",
+  "categories": [
+    "Chemistry",
+    "Radical",
+    "Autoxidation",
+    "Proteolysis",
+    "Biochemistry",
+    "Reactive intermediate",
+    "Hydroxyl radical",
+    "Reactive oxygen species",
+    "Redox",
+    "Protein aggregation",
+    "Biophysics",
+    "Organic chemistry",
+    "Catalysis",
+    "Enzyme",
+    "Biology"
+  ],
+  "citation_count": 1709,
+  "open_access_pdf_url": "https://portlandpress.com/biochemj/article-pdf/324/1/1/625137/bj3240001.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1759706356.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:33.108423+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1759706356",
+    "concepts": [
+      "Chemistry",
+      "Radical",
+      "Autoxidation",
+      "Proteolysis",
+      "Biochemistry"
+    ],
+    "oa_status": "bronze"
+  }
+}

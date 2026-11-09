@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W3143063265",
+  "title": "Sensitive protein alignments at tree-of-life scale using DIAMOND",
+  "abstract": "We are at the beginning of a genomic revolution in which all known species are planned to be sequenced. Accessing such data for comparative analyses is crucial in this new age of data-driven biology. Here, we introduce an improved version of DIAMOND that greatly exceeds previous search performances and harnesses supercomputing to perform tree-of-life scale protein alignments in hours, while matching the sensitivity of the gold standard BLASTP.",
+  "authors": [
+    "Benjamin Buchfink",
+    "Klaus Reuter",
+    "Hajk‐Georg Drost"
+  ],
+  "year": 2021,
+  "doi": "10.1038/s41592-021-01101-x",
+  "source": "openalex",
+  "categories": [
+    "Tree of life (biology)",
+    "Diamond",
+    "Tree (set theory)",
+    "Computer science",
+    "Matching (statistics)",
+    "Scale (ratio)",
+    "Computational biology",
+    "Sensitivity (control systems)",
+    "Biology",
+    "Data mining",
+    "Gene",
+    "Phylogenetic tree",
+    "Genetics",
+    "Mathematics",
+    "Chemistry",
+    "Statistics",
+    "Engineering",
+    "Physics",
+    "Electronic engineering",
+    "Organic chemistry",
+    "Mathematical analysis",
+    "Quantum mechanics"
+  ],
+  "citation_count": 5130,
+  "open_access_pdf_url": "https://www.nature.com/articles/s41592-021-01101-x.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3143063265.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:52.263140+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3143063265",
+    "concepts": [
+      "Tree of life (biology)",
+      "Diamond",
+      "Tree (set theory)",
+      "Computer science",
+      "Matching (statistics)"
+    ],
+    "oa_status": "hybrid"
+  }
+}

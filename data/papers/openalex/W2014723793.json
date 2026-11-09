@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2014723793",
+  "title": "Bacterial iron homeostasis",
+  "abstract": "Iron is essential to virtually all organisms, but poses problems of toxicity and poor solubility. Bacteria have evolved various mechanisms to counter the problems imposed by their iron dependence, allowing them to achieve effective iron homeostasis under a range of iron regimes. Highly efficient iron acquisition systems are used to scavenge iron from the environment under iron-restricted conditions. In many cases, this involves the secretion and internalisation of extracellular ferric chelators called siderophores. Ferrous iron can also be directly imported by the G protein-like transporter, FeoB. For pathogens, host-iron complexes (transferrin, lactoferrin, haem, haemoglobin) are directly used as iron sources. Bacterial iron storage proteins (ferritin, bacterioferritin) provide intracellular iron reserves for use when external supplies are restricted, and iron detoxification proteins (Dps) are employed to protect the chromosome from iron-induced free radical damage. There is evidence that bacteria control their iron requirements in response to iron availability by down-regulating the expression of iron proteins during iron-restricted growth. And finally, the expression of the iron homeostatic machinery is subject to iron-dependent global control ensuring that iron acquisition, storage and consumption are geared to iron availability and that intracellular levels of free iron do not reach toxic levels.",
+  "authors": [
+    "Simon Colin Andrews",
+    "Andrea K. Robinson",
+    "Francisco Rodríguez‐Quiñones"
+  ],
+  "year": 2003,
+  "doi": "10.1016/s0168-6445(03)00055-x",
+  "source": "openalex",
+  "categories": [
+    "Ferritin",
+    "Ferroportin",
+    "Siderophore",
+    "Ferrous",
+    "Iron homeostasis",
+    "Biology",
+    "Bacteria",
+    "Transferrin",
+    "Iron deficiency",
+    "Biochemistry",
+    "Intracellular",
+    "Iron-binding proteins",
+    "Ferric",
+    "Transferrin receptor",
+    "Cell biology",
+    "Secretion",
+    "Microbiology",
+    "Chemistry",
+    "Metabolism",
+    "Genetics",
+    "Anemia",
+    "Organic chemistry",
+    "Internal medicine",
+    "Medicine"
+  ],
+  "citation_count": 2753,
+  "open_access_pdf_url": "https://academic.oup.com/femsre/article-pdf/27/2-3/215/18127215/27-2-3-215.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2014723793.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:01.973452+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2014723793",
+    "concepts": [
+      "Ferritin",
+      "Ferroportin",
+      "Siderophore",
+      "Ferrous",
+      "Iron homeostasis"
+    ],
+    "oa_status": "bronze"
+  }
+}

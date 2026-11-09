@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2971894235",
+  "title": "Machine Learning Interatomic Potentials as Emerging Tools for Materials Science",
+  "abstract": "Atomic-scale modeling and understanding of materials have made remarkable progress, but they are still fundamentally limited by the large computational cost of explicit electronic-structure methods such as density-functional theory. This Progress Report shows how machine learning (ML) is currently enabling a new degree of realism in materials modeling: by \"learning\" electronic-structure data, ML-based interatomic potentials give access to atomistic simulations that reach similar accuracy levels but are orders of magnitude faster. A brief introduction to the new tools is given, and then, applications to some select problems in materials science are highlighted: phase-change materials for memory devices; nanoparticle catalysts; and carbon-based electrodes for chemical sensing, supercapacitors, and batteries. It is hoped that the present work will inspire the development and wider use of ML-based interatomic potentials in diverse areas of materials research.",
+  "authors": [
+    "Volker L. Deringer",
+    "Miguel A. Caro",
+    "Gábor Cśanyi"
+  ],
+  "year": 2019,
+  "doi": "10.1002/adma.201902765",
+  "source": "openalex",
+  "categories": [
+    "Materials science",
+    "Interatomic potential",
+    "Nanotechnology",
+    "Density functional theory",
+    "Electronic structure",
+    "Atomic units",
+    "Supercapacitor",
+    "Scale (ratio)",
+    "Nanoparticle",
+    "Work (physics)",
+    "Computer science",
+    "Molecular dynamics",
+    "Electrode",
+    "Computational chemistry",
+    "Physics",
+    "Thermodynamics",
+    "Condensed matter physics",
+    "Chemistry",
+    "Quantum mechanics",
+    "Electrochemistry"
+  ],
+  "citation_count": 1119,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adma.201902765",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2971894235.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:19.496582+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2971894235",
+    "concepts": [
+      "Materials science",
+      "Interatomic potential",
+      "Nanotechnology",
+      "Density functional theory",
+      "Electronic structure"
+    ],
+    "oa_status": "bronze"
+  }
+}

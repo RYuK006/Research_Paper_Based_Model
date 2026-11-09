@@ -1,0 +1,44 @@
+{
+  "id": "openalex:W2050949257",
+  "title": "Asymmetry gap in the electronic band structure of bilayer graphene",
+  "abstract": "A tight-binding model is used to calculate the band structure of bilayer graphene in the presence of a potential difference between the layers that opens a gap $\\ensuremath{\\Delta}$ between the conduction and valence bands. In particular, a self-consistent Hartree approximation is used to describe imperfect screening of an external gate, employed primarily to control the density $n$ of electrons on the bilayer, resulting in a potential difference between the layers and a density dependent gap $\\ensuremath{\\Delta}(n)$. We discuss the influence of a finite asymmetry gap $\\ensuremath{\\Delta}(0)$ at zero excess density, caused by the screening of an additional transverse electric field, on observations of the quantum Hall effect.",
+  "authors": [
+    "Edward McCann"
+  ],
+  "year": 2006,
+  "doi": "10.1103/physrevb.74.161403",
+  "source": "openalex",
+  "categories": [
+    "Asymmetry",
+    "Bilayer graphene",
+    "Graphene",
+    "Condensed matter physics",
+    "Materials science",
+    "Band gap",
+    "Bilayer",
+    "Electronic band structure",
+    "Optoelectronics",
+    "Nanotechnology",
+    "Physics",
+    "Chemistry",
+    "Quantum mechanics",
+    "Membrane",
+    "Biochemistry"
+  ],
+  "citation_count": 1273,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0608221",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2050949257.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:00.522533+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2050949257",
+    "concepts": [
+      "Asymmetry",
+      "Bilayer graphene",
+      "Graphene",
+      "Condensed matter physics",
+      "Materials science"
+    ],
+    "oa_status": "green"
+  }
+}

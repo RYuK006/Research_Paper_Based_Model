@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W2174868984",
+  "title": "Distillation as a Defense to Adversarial Perturbations Against Deep Neural Networks",
+  "abstract": "Deep learning algorithms have been shown to perform extremely well on many classical machine learning problems. However, recent studies have shown that deep learning, like other machine learning techniques, is vulnerable to adversarial samples: inputs crafted to force a deep neural network (DNN) to provide adversary-selected outputs. Such attacks can seriously undermine the security of the system supported by the DNN, sometimes with devastating consequences. For example, autonomous vehicles can be crashed, illicit or illegal content can bypass content filters, or biometric authentication systems can be manipulated to allow improper access. In this work, we introduce a defensive mechanism called defensive distillation to reduce the effectiveness of adversarial samples on DNNs. We analytically investigate the generalizability and robustness properties granted by the use of defensive distillation when training DNNs. We also empirically study the effectiveness of our defense mechanisms on two DNNs placed in adversarial settings. The study shows that defensive distillation can reduce effectiveness of sample creation from 95% to less than 0.5% on a studied DNN. Such dramatic gains can be explained by the fact that distillation leads gradients used in adversarial sample creation to be reduced by a factor of 1030. We also find that distillation increases the average minimum number of features that need to be modified to create adversarial samples by about 800% on one of the DNNs we tested.",
+  "authors": [
+    "Nicolas Papernot",
+    "Patrick Drew McDaniel",
+    "Xi Wu",
+    "Somesh Jha",
+    "Ananthram Swami"
+  ],
+  "year": 2016,
+  "doi": "10.1109/sp.2016.41",
+  "source": "openalex",
+  "categories": [
+    "Adversarial system",
+    "Generalizability theory",
+    "Computer science",
+    "Distillation",
+    "Artificial intelligence",
+    "Robustness (evolution)",
+    "Deep neural networks",
+    "Adversary",
+    "Artificial neural network",
+    "Machine learning",
+    "Deep learning",
+    "Sample (material)",
+    "Computer security",
+    "Mathematics",
+    "Statistics",
+    "Biochemistry",
+    "Organic chemistry",
+    "Chemistry",
+    "Gene",
+    "Chromatography"
+  ],
+  "citation_count": 3234,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1511.04508",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2174868984.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:57.824830+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2174868984",
+    "concepts": [
+      "Adversarial system",
+      "Generalizability theory",
+      "Computer science",
+      "Distillation",
+      "Artificial intelligence"
+    ],
+    "oa_status": "green"
+  }
+}

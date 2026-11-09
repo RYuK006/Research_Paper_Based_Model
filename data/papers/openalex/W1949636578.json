@@ -1,0 +1,43 @@
+{
+  "id": "openalex:W1949636578",
+  "title": "Nanoparticle colloidal stability in cell culture media and impact on cellular interactions",
+  "abstract": "Nanomaterials are finding increasing use for biomedical applications such as imaging, diagnostics, and drug delivery. While it is well understood that nanoparticle (NP) physico-chemical properties can dictate biological responses and interactions, it has been difficult to outline a unifying framework to directly link NP properties to expected in vitro and in vivo outcomes. When introduced to complex biological media containing electrolytes, proteins, lipids, etc., nanoparticles (NPs) are subjected to a range of forces which determine their behavior in this environment. One aspect of NP behavior in biological systems that is often understated or overlooked is aggregation. NP aggregation will significantly alter in vitro behavior (dosimetry, NP uptake, cytotoxicity), as well as in vivo fate (pharmacokinetics, toxicity, biodistribution). Thus, understanding the factors driving NP colloidal stability and aggregation is paramount. Furthermore, studying biological interactions with NPs at the nanoscale level requires an interdisciplinary effort with a robust understanding of multiple characterization techniques. This review examines the factors that determine NP colloidal stability, the various efforts to stabilize NP in biological media, the methods to characterize NP colloidal stability in situ, and provides a discussion regarding NP interactions with cells.",
+  "authors": [
+    "Thomas L. Moore",
+    "Laura Rodríguez‐Lorenzo",
+    "Vera Hirsch",
+    "Sandor Balog",
+    "Dominic A. Urban",
+    "Corinne Jud",
+    "Barbara Rothen‐Rutishauser",
+    "Marco Lattuada",
+    "Alke Petri‐Fink"
+  ],
+  "year": 2015,
+  "doi": "10.1039/c4cs00487f",
+  "source": "openalex",
+  "categories": [
+    "Nanoparticle",
+    "Colloid",
+    "Nanotechnology",
+    "Chemistry",
+    "Materials science",
+    "Physical chemistry"
+  ],
+  "citation_count": 1131,
+  "open_access_pdf_url": "https://pubs.rsc.org/en/content/articlepdf/2015/cs/c4cs00487f",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1949636578.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:16.993580+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1949636578",
+    "concepts": [
+      "Nanoparticle",
+      "Colloid",
+      "Nanotechnology",
+      "Chemistry",
+      "Materials science"
+    ],
+    "oa_status": "hybrid"
+  }
+}

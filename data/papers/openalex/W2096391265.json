@@ -1,0 +1,53 @@
+{
+  "id": "openalex:W2096391265",
+  "title": "Matrix product states, projected entangled pair states, and variational renormalization group methods for quantum spin systems",
+  "abstract": "This article reviews recent developments in the theoretical understanding and the numerical implementation of variational renormalization group methods using matrix product states and projected entangled pair states.",
+  "authors": [
+    "Frank Verstraete",
+    "V. Murg",
+    "J. I. Cirac"
+  ],
+  "year": 2008,
+  "doi": "10.1080/14789940801912366",
+  "source": "openalex",
+  "categories": [
+    "Density matrix renormalization group",
+    "Matrix product state",
+    "Decimation",
+    "Product (mathematics)",
+    "Matrix multiplication",
+    "Renormalization group",
+    "Spin (aerodynamics)",
+    "Matrix (chemical analysis)",
+    "Quantum mechanics",
+    "Physics",
+    "Quantum",
+    "Group (periodic table)",
+    "Theoretical physics",
+    "Statistical physics",
+    "Mathematics",
+    "Computer science",
+    "Chemistry",
+    "Computer vision",
+    "Thermodynamics",
+    "Filter (signal processing)",
+    "Geometry",
+    "Chromatography"
+  ],
+  "citation_count": 1839,
+  "open_access_pdf_url": "https://arxiv.org/pdf/0907.2796",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2096391265.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:22.285284+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2096391265",
+    "concepts": [
+      "Density matrix renormalization group",
+      "Matrix product state",
+      "Decimation",
+      "Product (mathematics)",
+      "Matrix multiplication"
+    ],
+    "oa_status": "green"
+  }
+}

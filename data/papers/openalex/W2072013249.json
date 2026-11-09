@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2072013249",
+  "title": "Restricted mean survival time: an alternative to the hazard ratio for the design and analysis of randomized trials with a time-to-event outcome",
+  "abstract": "BACKGROUND: Designs and analyses of clinical trials with a time-to-event outcome almost invariably rely on the hazard ratio to estimate the treatment effect and implicitly, therefore, on the proportional hazards assumption. However, the results of some recent trials indicate that there is no guarantee that the assumption will hold. Here, we describe the use of the restricted mean survival time as a possible alternative tool in the design and analysis of these trials. METHODS: The restricted mean is a measure of average survival from time 0 to a specified time point, and may be estimated as the area under the survival curve up to that point. We consider the design of such trials according to a wide range of possible survival distributions in the control and research arm(s). The distributions are conveniently defined as piecewise exponential distributions and can be specified through piecewise constant hazards and time-fixed or time-dependent hazard ratios. Such designs can embody proportional or non-proportional hazards of the treatment effect. RESULTS: We demonstrate the use of restricted mean survival time and a test of the difference in restricted means as an alternative measure of treatment effect. We support the approach through the results of simulation studies and in real examples from several cancer trials. We illustrate the required sample size under proportional and non-proportional hazards, also the significance level and power of the proposed test. Values are compared with those from the standard approach which utilizes the logrank test. CONCLUSIONS: We conclude that the hazard ratio cannot be recommended as a general measure of the treatment effect in a randomized controlled trial, nor is it always appropriate when designing a trial. Restricted mean survival time may provide a practical way forward and deserves greater attention.",
+  "authors": [
+    "Patrick J Royston",
+    "Mahesh Parmar"
+  ],
+  "year": 2013,
+  "doi": "10.1186/1471-2288-13-152",
+  "source": "openalex",
+  "categories": [
+    "Statistics",
+    "Time point",
+    "Hazard ratio",
+    "Piecewise",
+    "Event (particle physics)",
+    "Proportional hazards model",
+    "Sample size determination",
+    "Hazard",
+    "Log-rank test",
+    "Survival analysis",
+    "Outcome (game theory)",
+    "Mathematics",
+    "Econometrics",
+    "Confidence interval",
+    "Quantum mechanics",
+    "Chemistry",
+    "Mathematical analysis",
+    "Philosophy",
+    "Mathematical economics",
+    "Physics",
+    "Organic chemistry",
+    "Aesthetics"
+  ],
+  "citation_count": 1140,
+  "open_access_pdf_url": "https://bmcmedresmethodol.biomedcentral.com/counter/pdf/10.1186/1471-2288-13-152",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2072013249.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:16.918128+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2072013249",
+    "concepts": [
+      "Statistics",
+      "Time point",
+      "Hazard ratio",
+      "Piecewise",
+      "Event (particle physics)"
+    ],
+    "oa_status": "gold"
+  }
+}

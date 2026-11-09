@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W1653739410",
+  "title": "Molecular Docking and Structure-Based Drug Design Strategies",
+  "abstract": "Pharmaceutical research has successfully incorporated a wealth of molecular modeling methods, within a variety of drug discovery programs, to study complex biological and chemical systems. The integration of computational and experimental strategies has been of great value in the identification and development of novel promising compounds. Broadly used in modern drug design, molecular docking methods explore the ligand conformations adopted within the binding sites of macromolecular targets. This approach also estimates the ligand-receptor binding free energy by evaluating critical phenomena involved in the intermolecular recognition process. Today, as a variety of docking algorithms are available, an understanding of the advantages and limitations of each method is of fundamental importance in the development of effective strategies and the generation of relevant results. The purpose of this review is to examine current molecular docking strategies used in drug discovery and medicinal chemistry, exploring the advances in the field and the role played by the integration of structure- and ligand-based methods.",
+  "authors": [
+    "Leonardo L. G. Ferreira",
+    "Ricardo Nascimento dos Santos",
+    "Glaucius Oliva",
+    "Adriano Defini Andricopulo"
+  ],
+  "year": 2015,
+  "doi": "10.3390/molecules200713384",
+  "source": "openalex",
+  "categories": [
+    "Docking (animal)",
+    "Computational biology",
+    "Drug discovery",
+    "Biochemical engineering",
+    "Protein–ligand docking",
+    "Computer science",
+    "Nanotechnology",
+    "Chemistry",
+    "Bioinformatics",
+    "Biology",
+    "Virtual screening",
+    "Engineering",
+    "Materials science",
+    "Medicine",
+    "Nursing"
+  ],
+  "citation_count": 2722,
+  "open_access_pdf_url": "https://www.mdpi.com/1420-3049/20/7/13384/pdf?version=1437563670",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1653739410.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:01.994327+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1653739410",
+    "concepts": [
+      "Docking (animal)",
+      "Computational biology",
+      "Drug discovery",
+      "Biochemical engineering",
+      "Protein–ligand docking"
+    ],
+    "oa_status": "gold"
+  }
+}

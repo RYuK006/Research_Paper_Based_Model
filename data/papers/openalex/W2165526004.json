@@ -1,0 +1,52 @@
+{
+  "id": "openalex:W2165526004",
+  "title": "A semiempirical free energy force field with charge‐based desolvation",
+  "abstract": "The authors describe the development and testing of a semiempirical free energy force field for use in AutoDock4 and similar grid-based docking methods. The force field is based on a comprehensive thermodynamic model that allows incorporation of intramolecular energies into the predicted free energy of binding. It also incorporates a charge-based method for evaluation of desolvation designed to use a typical set of atom types. The method has been calibrated on a set of 188 diverse protein-ligand complexes of known structure and binding energy, and tested on a set of 100 complexes of ligands with retroviral proteases. The force field shows improvement in redocking simulations over the previous AutoDock3 force field.",
+  "authors": [
+    "Ruth Huey",
+    "Garrett M. Morris",
+    "Arthur J. Olson",
+    "David S. Goodsell"
+  ],
+  "year": 2007,
+  "doi": "10.1002/jcc.20634",
+  "source": "openalex",
+  "categories": [
+    "Force field (fiction)",
+    "Intramolecular force",
+    "Chemistry",
+    "Docking (animal)",
+    "Atom (system on chip)",
+    "Molecular dynamics",
+    "Computational chemistry",
+    "Binding energy",
+    "Field (mathematics)",
+    "Chemical physics",
+    "Atomic physics",
+    "Physics",
+    "Computer science",
+    "Stereochemistry",
+    "Medicine",
+    "Quantum mechanics",
+    "Embedded system",
+    "Pure mathematics",
+    "Mathematics",
+    "Nursing"
+  ],
+  "citation_count": 2275,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jcc.20634",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2165526004.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:08.849469+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2165526004",
+    "concepts": [
+      "Force field (fiction)",
+      "Intramolecular force",
+      "Chemistry",
+      "Docking (animal)",
+      "Atom (system on chip)"
+    ],
+    "oa_status": "bronze"
+  }
+}

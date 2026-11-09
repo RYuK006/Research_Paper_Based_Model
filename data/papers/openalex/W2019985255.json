@@ -1,0 +1,47 @@
+{
+  "id": "openalex:W2019985255",
+  "title": "Carbon nanotubes in biology and medicine: In vitro and in vivo detection, imaging and drug delivery",
+  "abstract": "Carbon nanotubes exhibit many unique intrinsic physical and chemical properties and have been intensively explored for biological and biomedical applications in the past few years. In this comprehensive review, we summarize the main results from our and other groups in this field and clarify that surface functionalization is critical to the behavior of carbon nanotubes in biological systems. Ultrasensitive detection of biological species with carbon nanotubes can be realized after surface passivation to inhibit the non-specific binding of biomolecules on the hydrophobic nanotube surface. Electrical nanosensors based on nanotubes provide a label-free approach to biological detection. Surface-enhanced Raman spectroscopy of carbon nanotubes opens up a method of protein microarray with detection sensitivity down to 1 fmol/L. In vitro and in vivo toxicity studies reveal that highly water soluble and serum stable nanotubes are biocompatible, nontoxic, and potentially useful for biomedical applications. In vivo biodistributions vary with the functionalization and possibly also size of nanotubes, with a tendency to accumulate in the reticuloendothelial system (RES), including the liver and spleen, after intravenous administration. If well functionalized, nanotubes may be excreted mainly through the biliary pathway in feces. Carbon nanotube-based drug delivery has shown promise in various In vitro and in vivo experiments including delivery of small interfering RNA (siRNA), paclitaxel and doxorubicin. Moreover, single-walled carbon nanotubes with various interesting intrinsic optical properties have been used as novel photoluminescence, Raman, and photoacoustic contrast agents for imaging of cells and animals. Further multidisciplinary explorations in this field may bring new opportunities in the realm of biomedicine.",
+  "authors": [
+    "Zhuang Liu",
+    "Scott M. Tabakman",
+    "Kevin Welsher",
+    "Hongjie Dai"
+  ],
+  "year": 2009,
+  "doi": "10.1007/s12274-009-9009-8",
+  "source": "openalex",
+  "categories": [
+    "Carbon nanotube",
+    "Nanotechnology",
+    "Materials science",
+    "Surface modification",
+    "Biomolecule",
+    "Drug delivery",
+    "In vivo",
+    "Nanomedicine",
+    "Nanosensor",
+    "Biophysics",
+    "Chemistry",
+    "Nanoparticle",
+    "Biology",
+    "Physical chemistry",
+    "Biotechnology"
+  ],
+  "citation_count": 1729,
+  "open_access_pdf_url": "https://link.springer.com/content/pdf/10.1007/s12274-009-9009-8.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2019985255.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:26.243492+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2019985255",
+    "concepts": [
+      "Carbon nanotube",
+      "Nanotechnology",
+      "Materials science",
+      "Surface modification",
+      "Biomolecule"
+    ],
+    "oa_status": "hybrid"
+  }
+}

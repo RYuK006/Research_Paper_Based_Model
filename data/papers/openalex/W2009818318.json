@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2009818318",
+  "title": "Expanded sequence dependence of thermodynamic parameters improves prediction of RNA secondary structure",
+  "abstract": "An improved dynamic programming algorithm is reported for RNA secondary structure prediction by free energy minimization. Thermodynamic parameters for the stabilities of secondary structure motifs are revised to include expanded sequence dependence as revealed by recent experiments. Additional algorithmic improvements include reduced search time and storage for multibranch loop free energies and improved imposition of folding constraints. An extended database of 151,503 nt in 955 structures? determined by comparative sequence analysis was assembled to allow optimization of parameters not based on experiments and to test the accuracy of the algorithm. On average, the predicted lowest free energy structure contains 73 % of known base-pairs when domains of fewer than 700 nt are folded; this compares with 64 % accuracy for previous versions of the algorithm and parameters. For a given sequence, a set of 750 generated structures contains one structure that, on average, has 86 % of known base-pairs. Experimental constraints, derived from enzymatic and flavin mononucleotide cleavage, improve the accuracy of structure predictions.",
+  "authors": [
+    "David H. Mathews",
+    "Jeffrey Sabina",
+    "Michael Zuker",
+    "Douglas H. Turner"
+  ],
+  "year": 1999,
+  "doi": "10.1006/jmbi.1999.2700",
+  "source": "openalex",
+  "categories": [
+    "Sequence (biology)",
+    "Dynamic programming",
+    "Protein secondary structure",
+    "Energy minimization",
+    "Algorithm",
+    "Folding (DSP implementation)",
+    "Nucleic acid secondary structure",
+    "Set (abstract data type)",
+    "Computer science",
+    "RNA",
+    "Mathematics",
+    "Chemistry",
+    "Computational chemistry",
+    "Engineering",
+    "Electrical engineering",
+    "Gene",
+    "Biochemistry",
+    "Programming language"
+  ],
+  "citation_count": 3782,
+  "open_access_pdf_url": "https://www.sciencedirect.com/science/article/pii/S0022283699927006/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2009818318.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:54.123287+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2009818318",
+    "concepts": [
+      "Sequence (biology)",
+      "Dynamic programming",
+      "Protein secondary structure",
+      "Energy minimization",
+      "Algorithm"
+    ],
+    "oa_status": "hybrid"
+  }
+}

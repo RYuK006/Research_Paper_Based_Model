@@ -1,0 +1,39 @@
+{
+  "id": "openalex:W1972395317",
+  "title": "Selectivity coefficients for ion-selective electrodes: Recommended methods for reporting KA,Bpot values (Technical Report)",
+  "abstract": "The limitations of the Nicolsky-Eisenman (N-E) equation for the determination of potentiometric selectivity coefficients, K G , were critically evaluated in terms of K G values for ions of unequal charge, non-Nernstian behavior of interfering ions, and activity dependence of K G .The reasons for the activity dependence of K G and for non-equalities of values depending on the method employed were thus elucidated.Also, when ions of different charge were involved, K$ values obtained were found to be either unrealistically large or small depending on whether the ion of higher charge was considered as a primary or an interfering ion.On the basis of these considerations, new approaches including the matched potential method, a method independent of the N-E equation, were recommended for the determination of KA,B.pot",
+  "authors": [
+    "Yoshio Umezawa",
+    "K. Umezawa",
+    "Hitoshi Sato"
+  ],
+  "year": 1995,
+  "doi": "10.1351/pac199567030507",
+  "source": "openalex",
+  "categories": [
+    "Chemistry",
+    "Selectivity",
+    "Ion",
+    "Ion selective electrode",
+    "Analytical Chemistry (journal)",
+    "Chromatography",
+    "Organic chemistry",
+    "Catalysis"
+  ],
+  "citation_count": 1194,
+  "open_access_pdf_url": "https://www.degruyter.com/document/doi/10.1351/pac199567030507/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1972395317.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:08.396112+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1972395317",
+    "concepts": [
+      "Chemistry",
+      "Selectivity",
+      "Ion",
+      "Ion selective electrode",
+      "Analytical Chemistry (journal)"
+    ],
+    "oa_status": "bronze"
+  }
+}

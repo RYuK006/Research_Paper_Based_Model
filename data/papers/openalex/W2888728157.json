@@ -1,0 +1,51 @@
+{
+  "id": "openalex:W2888728157",
+  "title": "Classification assessment methods",
+  "abstract": "Classification techniques have been applied to many applications in various fields of sciences. There are several ways of evaluating classification algorithms. The analysis of such metrics and its significance must be interpreted correctly for evaluating different learning algorithms. Most of these measures are scalar metrics and some of them are graphical methods. This paper introduces a detailed overview of the classification assessment measures with the aim of providing the basics of these measures and to show how it works to serve as a comprehensive source for researchers who are interested in this field. This overview starts by highlighting the definition of the confusion matrix in binary and multi-class classification problems. Many classification measures are also explained in details, and the influence of balanced and imbalanced data on each metric is presented. An illustrative example is introduced to show (1) how to calculate these measures in binary and multi-class classification problems, and (2) the robustness of some measures against balanced and imbalanced data. Moreover, some graphical measures such as Receiver operating characteristics (ROC), Precision-Recall, and Detection error trade-off (DET) curves are presented with details. Additionally, in a step-by-step approach, different numerical examples are demonstrated to explain the preprocessing steps of plotting ROC, PR, and DET curves.",
+  "authors": [
+    "Alaa Tharwat"
+  ],
+  "year": 2018,
+  "doi": "10.1016/j.aci.2018.08.003",
+  "source": "openalex",
+  "categories": [
+    "Computer science",
+    "Preprocessor",
+    "Confusion matrix",
+    "Metric (unit)",
+    "Binary classification",
+    "Data mining",
+    "Robustness (evolution)",
+    "Binary number",
+    "Machine learning",
+    "Field (mathematics)",
+    "Class (philosophy)",
+    "Artificial intelligence",
+    "Algorithm",
+    "Support vector machine",
+    "Mathematics",
+    "Arithmetic",
+    "Chemistry",
+    "Economics",
+    "Gene",
+    "Operations management",
+    "Biochemistry",
+    "Pure mathematics"
+  ],
+  "citation_count": 2699,
+  "open_access_pdf_url": "https://www.emerald.com/insight/content/doi/10.1016/j.aci.2018.08.003/full/pdf?title=classification-assessment-methods",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2888728157.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:02.015190+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2888728157",
+    "concepts": [
+      "Computer science",
+      "Preprocessor",
+      "Confusion matrix",
+      "Metric (unit)",
+      "Binary classification"
+    ],
+    "oa_status": "diamond"
+  }
+}

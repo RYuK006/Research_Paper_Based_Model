@@ -1,0 +1,59 @@
+{
+  "id": "openalex:W2340814919",
+  "title": "Metal–Organic Frameworks for Electrocatalytic Reduction of Carbon Dioxide",
+  "abstract": "A key challenge in the field of electrochemical carbon dioxide reduction is the design of catalytic materials featuring high product selectivity, stability, and a composition of earth-abundant elements. In this work, we introduce thin films of nanosized metal-organic frameworks (MOFs) as atomically defined and nanoscopic materials that function as catalysts for the efficient and selective reduction of carbon dioxide to carbon monoxide in aqueous electrolytes. Detailed examination of a cobalt-porphyrin MOF, Al2(OH)2TCPP-Co (TCPP-H2 = 4,4',4″,4‴-(porphyrin-5,10,15,20-tetrayl)tetrabenzoate) revealed a selectivity for CO production in excess of 76% and stability over 7 h with a per-site turnover number (TON) of 1400. In situ spectroelectrochemical measurements provided insights into the cobalt oxidation state during the course of reaction and showed that the majority of catalytic centers in this MOF are redox-accessible where Co(II) is reduced to Co(I) during catalysis.",
+  "authors": [
+    "Nikolay Kornienko",
+    "Yingbo Zhao",
+    "Christopher S. Kley",
+    "Chenhui Zhu",
+    "Dohyung Kim",
+    "Song Lin",
+    "Christopher J. Chang",
+    "Omar M. Yaghi",
+    "Peidong Yang"
+  ],
+  "year": 2015,
+  "doi": "10.1021/jacs.5b08212",
+  "source": "openalex",
+  "categories": [
+    "Chemistry",
+    "Metal-organic framework",
+    "Carbon dioxide",
+    "Electrochemical reduction of carbon dioxide",
+    "Reduction (mathematics)",
+    "Carbon fibers",
+    "Metal",
+    "Electrocatalyst",
+    "Inorganic chemistry",
+    "Environmental chemistry",
+    "Electrochemistry",
+    "Carbon monoxide",
+    "Organic chemistry",
+    "Electrode",
+    "Catalysis",
+    "Adsorption",
+    "Materials science",
+    "Physical chemistry",
+    "Mathematics",
+    "Composite number",
+    "Composite material",
+    "Geometry"
+  ],
+  "citation_count": 1173,
+  "open_access_pdf_url": "https://www.osti.gov/servlets/purl/1480697",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2340814919.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:12.162661+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2340814919",
+    "concepts": [
+      "Chemistry",
+      "Metal-organic framework",
+      "Carbon dioxide",
+      "Electrochemical reduction of carbon dioxide",
+      "Reduction (mathematics)"
+    ],
+    "oa_status": "green"
+  }
+}

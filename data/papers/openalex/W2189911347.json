@@ -1,0 +1,44 @@
+{
+  "id": "openalex:W2189911347",
+  "title": "DeepTox: Toxicity Prediction using Deep Learning",
+  "abstract": "The Tox21 Data Challenge has been the largest effort of the scientific community to compare computational methods for toxicity prediction. This challenge comprised 12,000 environmental chemicals and drugs which were measured for 12 different toxic effects by specifically designed assays. We participated in this challenge to assess the performance of Deep Learning in computational toxicity prediction. Deep Learning has already revolutionized image processing, speech recognition, and language understanding but has not yet been applied to computational toxicity. Deep Learning is founded on novel algorithms and architectures for artificial neural networks together with the recent availability of very fast computers and massive datasets. It discovers multiple levels of distributed representations of the input, with higher levels representing more abstract concepts. We hypothesized that the construction of a hierarchy of chemical features gives Deep Learning the edge over other toxicity prediction methods. Furthermore, Deep Learning naturally enables multi-task learning, that is, learning of all toxic effects in one neural network and thereby learning of highly informative chemical features. In order to utilize Deep Learning for toxicity prediction, we have developed the DeepTox pipeline. First, DeepTox normalizes the chemical representations of the compounds. Then it computes a large number of chemical descriptors that are used as input to machine learning methods. In its next step, DeepTox trains models, evaluates them, and combines the best of them to ensembles. Finally, DeepTox predicts the toxicity of new compounds. In the Tox21 Data Challenge, DeepTox had the highest performance of all computational methods winning the grand challenge, the nuclear receptor panel, the stress response panel, and six single assays (teams “Bioinf@JKU”). We found that Deep Learning excelled in toxicity prediction and outperformed many other computational approaches like naive Bayes, support vector machines, and random forests.",
+  "authors": [
+    "Andreas Mayr",
+    "Günter Klambauer",
+    "Thomas Unterthiner",
+    "Sepp Hochreiter"
+  ],
+  "year": 2016,
+  "doi": "10.3389/fenvs.2015.00080",
+  "source": "openalex",
+  "categories": [
+    "Deep learning",
+    "Artificial intelligence",
+    "Machine learning",
+    "Computer science",
+    "Chemical toxicity",
+    "Artificial neural network",
+    "Computational model",
+    "Pipeline (software)",
+    "Toxicity",
+    "Chemistry",
+    "Programming language",
+    "Organic chemistry"
+  ],
+  "citation_count": 1237,
+  "open_access_pdf_url": "https://www.frontiersin.org/articles/10.3389/fenvs.2015.00080/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2189911347.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:02.832583+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2189911347",
+    "concepts": [
+      "Deep learning",
+      "Artificial intelligence",
+      "Machine learning",
+      "Computer science",
+      "Chemical toxicity"
+    ],
+    "oa_status": "gold"
+  }
+}

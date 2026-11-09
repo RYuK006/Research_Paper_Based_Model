@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W2047775546",
+  "title": "High rate and stable cycling of lithium metal anode",
+  "abstract": "Lithium metal is an ideal battery anode. However, dendrite growth and limited Coulombic efficiency during cycling have prevented its practical application in rechargeable batteries. Herein, we report that the use of highly concentrated electrolytes composed of ether solvents and the lithium bis(fluorosulfonyl)imide salt enables the high-rate cycling of a lithium metal anode at high Coulombic efficiency (up to 99.1%) without dendrite growth. With 4 M lithium bis(fluorosulfonyl)imide in 1,2-dimethoxyethane as the electrolyte, a lithium|lithium cell can be cycled at 10 mA cm(-2) for more than 6,000 cycles, and a copper|lithium cell can be cycled at 4 mA cm(-2) for more than 1,000 cycles with an average Coulombic efficiency of 98.4%. These excellent performances can be attributed to the increased solvent coordination and increased availability of lithium ion concentration in the electrolyte. Further development of this electrolyte may enable practical applications for lithium metal anode in rechargeable batteries.",
+  "authors": [
+    "Jiangfeng Qian",
+    "Wesley A. Henderson",
+    "Wu Xu",
+    "Priyanka Bhattacharya",
+    "Mark Engelhard",
+    "Oleg A. Borodin",
+    "Ji‐Guang Zhang"
+  ],
+  "year": 2015,
+  "doi": "10.1038/ncomms7362",
+  "source": "openalex",
+  "categories": [
+    "Faraday efficiency",
+    "Anode",
+    "Electrolyte",
+    "Lithium (medication)",
+    "Materials science",
+    "Lithium metal",
+    "Inorganic chemistry",
+    "Dimethoxyethane",
+    "Chemical engineering",
+    "Chemistry",
+    "Electrode",
+    "Physical chemistry",
+    "Engineering",
+    "Medicine",
+    "Endocrinology"
+  ],
+  "citation_count": 2578,
+  "open_access_pdf_url": "https://www.nature.com/articles/ncomms7362.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2047775546.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:04.291961+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2047775546",
+    "concepts": [
+      "Faraday efficiency",
+      "Anode",
+      "Electrolyte",
+      "Lithium (medication)",
+      "Materials science"
+    ],
+    "oa_status": "gold"
+  }
+}

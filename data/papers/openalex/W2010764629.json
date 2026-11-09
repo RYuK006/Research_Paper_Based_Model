@@ -1,0 +1,55 @@
+{
+  "id": "openalex:W2010764629",
+  "title": "Na+ intercalation pseudocapacitance in graphene-coupled titanium oxide enabling ultra-fast sodium storage and long-term cycling",
+  "abstract": "Sodium-ion batteries are emerging as a highly promising technology for large-scale energy storage applications. However, it remains a significant challenge to develop an anode with superior long-term cycling stability and high-rate capability. Here we demonstrate that the Na+ intercalation pseudocapacitance in TiO2/graphene nanocomposites enables high-rate capability and long cycle life in a sodium-ion battery. This hybrid electrode exhibits a specific capacity of above 90 mA h g−1 at 12,000 mA g−1 (∼36 C). The capacity is highly reversible for more than 4,000 cycles, the longest demonstrated cyclability to date. First-principle calculations demonstrate that the intimate integration of graphene with TiO2 reduces the diffusion energy barrier, thus enhancing the Na+ intercalation pseudocapacitive process. The Na-ion intercalation pseudocapacitance enabled by tailor-deigned nanostructures represents a promising strategy for developing electrode materials with high power density and long cycle life. There are intensive efforts in developing anode materials for sodium-ion batteries. Here, the authors present a graphene-titanium dioxide composite as an anode material and show that sodium ion intercalation pseudocapacitance charge storage leads to excellent electrochemical properties.",
+  "authors": [
+    "Chaoji Chen",
+    "Yanwei Wen",
+    "Xianluo Hu",
+    "Xiulei Ji",
+    "Mengyu Yan",
+    "Liqiang Mai",
+    "Pei Hu",
+    "Bin Shan",
+    "Yunhui Huang"
+  ],
+  "year": 2015,
+  "doi": "10.1038/ncomms7929",
+  "source": "openalex",
+  "categories": [
+    "Pseudocapacitance",
+    "Graphene",
+    "Materials science",
+    "Intercalation (chemistry)",
+    "Anode",
+    "Energy storage",
+    "Nanotechnology",
+    "Chemical engineering",
+    "Electrode",
+    "Supercapacitor",
+    "Inorganic chemistry",
+    "Chemistry",
+    "Capacitance",
+    "Power (physics)",
+    "Physics",
+    "Engineering",
+    "Quantum mechanics",
+    "Physical chemistry"
+  ],
+  "citation_count": 1152,
+  "open_access_pdf_url": "https://www.nature.com/articles/ncomms7929.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2010764629.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:14.568095+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2010764629",
+    "concepts": [
+      "Pseudocapacitance",
+      "Graphene",
+      "Materials science",
+      "Intercalation (chemistry)",
+      "Anode"
+    ],
+    "oa_status": "gold"
+  }
+}

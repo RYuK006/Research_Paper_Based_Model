@@ -1,0 +1,48 @@
+{
+  "id": "openalex:W2139156910",
+  "title": "Transporters of arsenite in rice and their role in arsenic accumulation in rice grain",
+  "abstract": "Arsenic poisoning affects millions of people worldwide. Human arsenic intake from rice consumption can be substantial because rice is particularly efficient in assimilating arsenic from paddy soils, although the mechanism has not been elucidated. Here we report that two different types of transporters mediate transport of arsenite, the predominant form of arsenic in paddy soil, from the external medium to the xylem. Transporters belonging to the NIP subfamily of aquaporins in rice are permeable to arsenite but not to arsenate. Mutation in OsNIP2;1 (Lsi1, a silicon influx transporter) significantly decreases arsenite uptake. Furthermore, in the rice mutants defective in the silicon efflux transporter Lsi2, arsenite transport to the xylem and accumulation in shoots and grain decreased greatly. Mutation in Lsi2 had a much greater impact on arsenic accumulation in shoots and grain in field-grown rice than Lsi1. Arsenite transport in rice roots therefore shares the same highly efficient pathway as silicon, which explains why rice is efficient in arsenic accumulation. Our results provide insight into the uptake mechanism of arsenite in rice and strategies for reducing arsenic accumulation in grain for enhanced food safety.",
+  "authors": [
+    "Jian Xiong Feng",
+    "Naoki Yamaji",
+    "Namiki Mitani",
+    "Xiaoyan Xu",
+    "Yuhong Su",
+    "S. P. McGrath",
+    "Fangjie J. Zhao"
+  ],
+  "year": 2008,
+  "doi": "10.1073/pnas.0802361105",
+  "source": "openalex",
+  "categories": [
+    "Arsenite",
+    "Arsenic",
+    "Xylem",
+    "Shoot",
+    "Oryza sativa",
+    "Arsenate",
+    "Arsenic toxicity",
+    "Chemistry",
+    "Botany",
+    "Biology",
+    "Biochemistry",
+    "Gene",
+    "Organic chemistry"
+  ],
+  "citation_count": 1430,
+  "open_access_pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/2481375",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2139156910.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:50.573275+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2139156910",
+    "concepts": [
+      "Arsenite",
+      "Arsenic",
+      "Xylem",
+      "Shoot",
+      "Oryza sativa"
+    ],
+    "oa_status": "green"
+  }
+}

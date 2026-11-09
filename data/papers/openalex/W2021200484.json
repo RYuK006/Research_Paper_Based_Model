@@ -1,0 +1,45 @@
+{
+  "id": "openalex:W2021200484",
+  "title": "A cartography of the van der Waals territories",
+  "abstract": "The distribution of distances from atoms of a particular element E to a probe atom X (oxygen in most cases), both bonded and intermolecular non-bonded contacts, has been analyzed. In general, the distribution is characterized by a maximum at short E···X distances corresponding to chemical bonds, followed by a range of unpopulated distances--the van der Waals gap--and a second maximum at longer distances--the van der Waals peak--superimposed on a random distribution function that roughly follows a d(3) dependence. The analysis of more than five million interatomic \"non-bonded\" distances has led to the proposal of a consistent set of van der Waals radii for most naturally occurring elements, and its applicability to other element pairs has been tested for a set of more than three million data, all of them compared to over one million bond distances.",
+  "authors": [
+    "Santiago Álvarez"
+  ],
+  "year": 2013,
+  "doi": "10.1039/c3dt50599e",
+  "source": "openalex",
+  "categories": [
+    "van der Waals force",
+    "Van der Waals radius",
+    "Van der Waals strain",
+    "Van der Waals surface",
+    "Intermolecular force",
+    "Atom (system on chip)",
+    "Bond length",
+    "Physics",
+    "Crystallography",
+    "Atomic physics",
+    "Chemistry",
+    "Molecule",
+    "Quantum mechanics",
+    "Crystal structure",
+    "Computer science",
+    "Embedded system"
+  ],
+  "citation_count": 1630,
+  "open_access_pdf_url": "https://pubs.rsc.org/en/content/articlepdf/2013/dt/c3dt50599e",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2021200484.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:38.083498+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2021200484",
+    "concepts": [
+      "van der Waals force",
+      "Van der Waals radius",
+      "Van der Waals strain",
+      "Van der Waals surface",
+      "Intermolecular force"
+    ],
+    "oa_status": "hybrid"
+  }
+}

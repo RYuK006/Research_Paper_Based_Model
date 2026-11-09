@@ -1,0 +1,43 @@
+{
+  "id": "openalex:W2090537261",
+  "title": "Materials for hydrogen storage",
+  "abstract": "Hydrogen storage is a materials science challenge because, for all six storage methods currently being investigated, materials with either a strong interaction with hydrogen or without any reaction are needed. Besides conventional storage methods, i.e. high pressure gas cylinders and liquid hydrogen, the physisorption of hydrogen on materials with a high specific surface area, hydrogen intercalation in metals and complex hydrides, and storage of hydrogen based on metals and water are reviewed. The goal is to pack hydrogen as close as possible, i.e. to reach the highest volumetric density by using as little additional material as possible. Hydrogen storage implies the reduction of an enormous volume of hydrogen gas. At ambient temperature and atmospheric pressure, 1 kg of the gas has a volume of 11 m3. To increase hydrogen density, work must either be applied to compress the gas, the temperature decreased below the critical temperature, or the repulsion reduced by the interaction of hydrogen with another material.",
+  "authors": [
+    "Andreas Züttel"
+  ],
+  "year": 2003,
+  "doi": "10.1016/s1369-7021(03)00922-2",
+  "source": "openalex",
+  "categories": [
+    "Hydrogen storage",
+    "Hydrogen",
+    "Cryo-adsorption",
+    "Compressed hydrogen",
+    "Volume (thermodynamics)",
+    "Physisorption",
+    "Materials science",
+    "Chemical engineering",
+    "Chemistry",
+    "Thermodynamics",
+    "Catalysis",
+    "Organic chemistry",
+    "Physics",
+    "Engineering"
+  ],
+  "citation_count": 2283,
+  "open_access_pdf_url": "https://www.sciencedirect.com/science/article/pii/S1369702103009222/pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2090537261.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:08.831738+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2090537261",
+    "concepts": [
+      "Hydrogen storage",
+      "Hydrogen",
+      "Cryo-adsorption",
+      "Compressed hydrogen",
+      "Volume (thermodynamics)"
+    ],
+    "oa_status": "hybrid"
+  }
+}

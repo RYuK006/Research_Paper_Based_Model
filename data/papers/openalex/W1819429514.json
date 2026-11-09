@@ -1,0 +1,50 @@
+{
+  "id": "openalex:W1819429514",
+  "title": "The orphan receptor GPR55 is a novel cannabinoid receptor",
+  "abstract": "BACKGROUND: The endocannabinoid system functions through two well characterized receptor systems, the CB1 and CB2 receptors. Work by a number of groups in recent years has provided evidence that the system is more complicated and additional receptor types should exist to explain ligand activity in a number of physiological processes. EXPERIMENTAL APPROACH: Cells transfected with the human cDNA for GPR55 were tested for their ability to bind and to mediate GTPgammaS binding by cannabinoid ligands. Using an antibody and peptide blocking approach, the nature of the G-protein coupling was determined and further demonstrated by measuring activity of downstream signalling pathways. KEY RESULTS: We demonstrate that GPR55 binds to and is activated by the cannabinoid ligand CP55940. In addition endocannabinoids including anandamide and virodhamine activate GTPgammaS binding via GPR55 with nM potencies. Ligands such as cannabidiol and abnormal cannabidiol which exhibit no CB1 or CB2 activity and are believed to function at a novel cannabinoid receptor, also showed activity at GPR55. GPR55 couples to Galpha13 and can mediate activation of rhoA, cdc42 and rac1. CONCLUSIONS: These data suggest that GPR55 is a novel cannabinoid receptor, and its ligand profile with respect to CB1 and CB2 described here will permit delineation of its physiological function(s).",
+  "authors": [
+    "Erik Ryberg",
+    "Niklas Larsson",
+    "S. Sjögren",
+    "Stephan Hjorth",
+    "Nils-Olov Hermansson",
+    "J Leonova",
+    "Thomas Elebring",
+    "K Nilsson",
+    "Tomáš Drmota",
+    "Peter J. Greasley"
+  ],
+  "year": 2007,
+  "doi": "10.1038/sj.bjp.0707460",
+  "source": "openalex",
+  "categories": [
+    "Cannabinoid receptor",
+    "Cannabinoid",
+    "GPR18",
+    "Cannabinoid receptor type 2",
+    "Endocannabinoid system",
+    "GTPgammaS",
+    "Chemistry",
+    "Receptor",
+    "Pharmacology",
+    "Biology",
+    "Biochemistry",
+    "Agonist"
+  ],
+  "citation_count": 1619,
+  "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1038/sj.bjp.0707460",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W1819429514.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:38.145997+00:00",
+  "raw_metadata": {
+    "openalex_id": "W1819429514",
+    "concepts": [
+      "Cannabinoid receptor",
+      "Cannabinoid",
+      "GPR18",
+      "Cannabinoid receptor type 2",
+      "Endocannabinoid system"
+    ],
+    "oa_status": "bronze"
+  }
+}

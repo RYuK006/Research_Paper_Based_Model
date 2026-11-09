@@ -1,0 +1,62 @@
+{
+  "id": "openalex:W2984145721",
+  "title": "Omni-Scale Feature Learning for Person Re-Identification",
+  "abstract": "As an instance-level recognition problem, person re-identification (ReID) relies on discriminative features, which not only capture different spatial scales but also encapsulate an arbitrary combination of multiple scales. We callse features of both homogeneous and heterogeneous scales omni-scale features. In this paper, a novel deep ReID CNN is designed, termed Omni-Scale Network (OSNet), for omni-scale feature learning. This is achieved by designing a residual block composed of multiple convolutional feature streams, each detecting features at a certain scale. Importantly, a novel unified aggregation gate is introduced to dynamically fuse multi-scale features with input-dependent channel-wise weights. To efficiently learn spatial-channel correlations and avoid overfitting, the building block uses both pointwise and depthwise convolutions. By stacking such blocks layer-by-layer, our OSNet is extremely lightweight and can be trained from scratch on existing ReID benchmarks. Despite its small model size, our OSNet achieves state-of-the-art performance on six person-ReID datasets. Code and models are available at: https://github.com/KaiyangZhou/deep-person-reid.",
+  "authors": [
+    "Kaiyang Zhou",
+    "Yongxin Yang",
+    "Andrea Cavallaro",
+    "Tao Xiang"
+  ],
+  "year": 2019,
+  "doi": "10.1109/iccv.2019.00380",
+  "source": "openalex",
+  "categories": [
+    "Computer science",
+    "Discriminative model",
+    "Feature (linguistics)",
+    "Artificial intelligence",
+    "Overfitting",
+    "Block (permutation group theory)",
+    "Scale (ratio)",
+    "Pattern recognition (psychology)",
+    "Fuse (electrical)",
+    "Layer (electronics)",
+    "Feature learning",
+    "Deep learning",
+    "Channel (broadcasting)",
+    "Convolutional neural network",
+    "Code (set theory)",
+    "Machine learning",
+    "Artificial neural network",
+    "Geometry",
+    "Organic chemistry",
+    "Linguistics",
+    "Electrical engineering",
+    "Philosophy",
+    "Chemistry",
+    "Set (abstract data type)",
+    "Physics",
+    "Engineering",
+    "Quantum mechanics",
+    "Programming language",
+    "Computer network",
+    "Mathematics"
+  ],
+  "citation_count": 1182,
+  "open_access_pdf_url": "https://arxiv.org/pdf/1905.00953",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W2984145721.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:45:12.044473+00:00",
+  "raw_metadata": {
+    "openalex_id": "W2984145721",
+    "concepts": [
+      "Computer science",
+      "Discriminative model",
+      "Feature (linguistics)",
+      "Artificial intelligence",
+      "Overfitting"
+    ],
+    "oa_status": "green"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "openalex:W3160702750",
+  "title": "Electrochemical ammonia synthesis via nitrate reduction on Fe single atom catalyst",
+  "abstract": "Abstract Electrochemically converting nitrate, a widespread water pollutant, back to valuable ammonia is a green and delocalized route for ammonia synthesis, and can be an appealing and supplementary alternative to the Haber-Bosch process. However, as there are other nitrate reduction pathways present, selectively guiding the reaction pathway towards ammonia is currently challenged by the lack of efficient catalysts. Here we report a selective and active nitrate reduction to ammonia on Fe single atom catalyst, with a maximal ammonia Faradaic efficiency of ~ 75% and a yield rate of up to ~ 20,000 μg h −1 mg cat. −1 (0.46 mmol h −1 cm −2 ). Our Fe single atom catalyst can effectively prevent the N-N coupling step required for N 2 due to the lack of neighboring metal sites, promoting ammonia product selectivity. Density functional theory calculations reveal the reaction mechanisms and the potential limiting steps for nitrate reduction on atomically dispersed Fe sites.",
+  "authors": [
+    "Zhenyu Wu",
+    "Mohammadreza Karamad",
+    "Xue Yong",
+    "Qizheng Huang",
+    "David A. Cullen",
+    "Peng Zhu",
+    "Chuan Xia",
+    "Qunfeng Xiao",
+    "Mohsen Shakouri",
+    "Feng-Yang Chen",
+    "Jung Yoon Kim",
+    "Xia Yang",
+    "Kimberly N. Heck",
+    "Yongfeng Hu",
+    "Michael S. Wong",
+    "Qilin Li",
+    "Ian Donald Gates",
+    "Samira Siahrostami",
+    "Haotian Wang"
+  ],
+  "year": 2021,
+  "doi": "10.1038/s41467-021-23115-x",
+  "source": "openalex",
+  "categories": [
+    "Ammonia production",
+    "Ammonia",
+    "Catalysis",
+    "Nitrate",
+    "Electrochemistry",
+    "Inorganic chemistry",
+    "Chemistry",
+    "Faraday efficiency",
+    "Selective catalytic reduction",
+    "Yield (engineering)",
+    "Delocalized electron",
+    "Materials science",
+    "Organic chemistry",
+    "Physical chemistry",
+    "Electrode",
+    "Metallurgy"
+  ],
+  "citation_count": 1556,
+  "open_access_pdf_url": "https://www.nature.com/articles/s41467-021-23115-x.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\openalex\\W3160702750.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:44:42.045475+00:00",
+  "raw_metadata": {
+    "openalex_id": "W3160702750",
+    "concepts": [
+      "Ammonia production",
+      "Ammonia",
+      "Catalysis",
+      "Nitrate",
+      "Electrochemistry"
+    ],
+    "oa_status": "gold"
+  }
+}
