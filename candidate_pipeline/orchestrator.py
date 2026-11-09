@@ -235,8 +235,12 @@ class CandidatePipelineOrchestrator:
 
                 if n.get("evidence"):
                     lines.append("- **Traceable Evidence**:")
-                    for ev in n["evidence"][:3]:
-                        lines.append(f"  - [{ev['source']}] *\"{ev['title']}\"* ({ev.get('year') or 'n.d.'}) -> `{ev['url_or_id']}`")
+                    for ev in n["evidence"][:5]:
+                        lines.append(
+                            f"  - [{ev['source']}] *\"{ev['title']}\"* ({ev.get('year') or 'n.d.'}) -> `{ev['url_or_id']}` [Match Type: `{ev.get('match_type', 'N/A')}`]"
+                        )
+                else:
+                    lines.append("- **Traceable Evidence**: None (Zero matching records found)")
 
                 hull_val = v["stability"]["energy_above_hull_mev"]
                 hull_disp = f"{hull_val:.1f} meV/atom" if hull_val is not None else "NOT COMPUTED"
@@ -294,13 +298,43 @@ def main() -> None:
         output_dir=args.output_dir,
     )
     res = orchestrator.run_pipeline(max_candidates=args.max_candidates)
-    print("\n" + "=" * 60)
-    print("CANDIDATE DISCOVERY PIPELINE EXECUTION COMPLETE")
-    print("=" * 60)
-    print(f"Candidates Generated & Evaluated: {res['candidates_count']}")
-    print(f"Top Candidate: {res['top_candidate']}")
-    print(f"Output files: {res['markdown_path']} and {res['json_path']}")
-    print("=" * 60 + "\n")
+    
+    # Load and display per-candidate match types, counts, and evidence titles
+    json_path = Path(res["json_path"])
+    candidates_data = json.loads(json_path.read_text(encoding="utf-8")) if json_path.exists() else []
+
+    print("\n" + "=" * 70)
+    print("CANDIDATE DISCOVERY PIPELINE EXECUTION REPORT")
+    print("=" * 70)
+    print(f"Total Candidates Evaluated: {len(candidates_data)}")
+    print("-" * 70)
+
+    for item in candidates_data:
+        c = item["candidate"]
+        n = item["novelty"]
+        v = item["verification"]
+        evs = n.get("evidence", [])
+        
+        counts: Dict[str, int] = {}
+        for e in evs:
+            mt = e.get("match_type", "UNKNOWN")
+            counts[mt] = counts.get(mt, 0) + 1
+
+        print(f"\n[{c['candidate_id']}] Formula: {c['formula']} ({c['prototype']})")
+        print(f"  Novelty Status:     {n['status']}")
+        print(f"  Status Description: {n['status_description']}")
+        print(f"  Evidence Counts:    Total={len(evs)} | " + ", ".join(f"{k}: {v}" for k, v in sorted(counts.items())))
+        if evs:
+            print("  Evidence Items:")
+            for ev in evs[:5]:
+                print(f"    - [{ev.get('match_type')}] {ev.get('title')} ({ev.get('year') or 'n.d.'})")
+        else:
+            print("  Evidence Items: None")
+
+    print("\n" + "=" * 70)
+    print(f"Markdown Catalog: {res['markdown_path']}")
+    print(f"JSON Payload:     {res['json_path']}")
+    print("=" * 70 + "\n")
 
 
 if __name__ == "__main__":
