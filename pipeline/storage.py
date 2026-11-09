@@ -55,7 +55,8 @@ class StorageManager:
     def _init_db(self) -> None:
         """Initialize database schema with indexes."""
         with self._lock:
-            with self._get_connection() as conn:
+            conn = self._get_connection()
+            try:
                 cursor = conn.cursor()
                 cursor.execute(
                     """
@@ -100,13 +101,18 @@ class StorageManager:
                     "CREATE INDEX IF NOT EXISTS idx_papers_status ON papers(download_status)"
                 )
                 conn.commit()
+            finally:
+                conn.close()
 
     def paper_exists(self, paper_id: str) -> bool:
         """Check if a paper ID already exists in storage."""
-        with self._get_connection() as conn:
+        conn = self._get_connection()
+        try:
             cursor = conn.cursor()
             cursor.execute("SELECT 1 FROM papers WHERE id = ? LIMIT 1", (paper_id,))
             return cursor.fetchone() is not None
+        finally:
+            conn.close()
 
     def upsert_paper(self, record: PaperRecord) -> None:
         """Insert or update a single paper record."""
@@ -139,7 +145,8 @@ class StorageManager:
             )
 
         with self._lock:
-            with self._get_connection() as conn:
+            conn = self._get_connection()
+            try:
                 cursor = conn.cursor()
                 cursor.executemany(
                     """
@@ -166,6 +173,8 @@ class StorageManager:
                     rows,
                 )
                 conn.commit()
+            finally:
+                conn.close()
 
             # Append to JSONL manifest
             with open(self.manifest_path, "a", encoding="utf-8") as f:
@@ -176,18 +185,24 @@ class StorageManager:
 
     def get_counts_by_source(self) -> Dict[str, int]:
         """Get count of collected papers grouped by source."""
-        with self._get_connection() as conn:
+        conn = self._get_connection()
+        try:
             cursor = conn.cursor()
             cursor.execute("SELECT source, COUNT(*) FROM papers GROUP BY source")
             return {row[0]: row[1] for row in cursor.fetchall()}
+        finally:
+            conn.close()
 
     def get_total_count(self) -> int:
         """Get total count of collected papers."""
-        with self._get_connection() as conn:
+        conn = self._get_connection()
+        try:
             cursor = conn.cursor()
             cursor.execute("SELECT COUNT(*) FROM papers")
             row = cursor.fetchone()
             return row[0] if row else 0
+        finally:
+            conn.close()
 
     def save_checkpoint(self, source: str, cursor_val: str, count: int) -> None:
         """Save pipeline checkpoint for resume support."""
@@ -195,7 +210,8 @@ class StorageManager:
 
         now = datetime.now(timezone.utc).isoformat()
         with self._lock:
-            with self._get_connection() as conn:
+            conn = self._get_connection()
+            try:
                 cursor = conn.cursor()
                 cursor.execute(
                     """
@@ -209,10 +225,13 @@ class StorageManager:
                     (source, cursor_val, count, now),
                 )
                 conn.commit()
+            finally:
+                conn.close()
 
     def get_checkpoint(self, source: str) -> Tuple[Optional[str], int]:
         """Retrieve last saved cursor and count for a source."""
-        with self._get_connection() as conn:
+        conn = self._get_connection()
+        try:
             cursor = conn.cursor()
             cursor.execute(
                 "SELECT last_cursor, collected_count FROM checkpoints WHERE source = ?",
@@ -222,3 +241,5 @@ class StorageManager:
             if row:
                 return row[0], row[1]
             return None, 0
+        finally:
+            conn.close()
