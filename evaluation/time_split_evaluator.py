@@ -6,9 +6,11 @@ Implements strict benchmarking principles:
 3. Post-cutoff papers must be on arXiv cond-mat.supr-con or in a recognized peer-reviewed journal.
    Explicitly excludes Zenodo, theses, and other preprint servers.
 4. Metric validity guard: if random baseline exceeds 20% at any K, declares metric invalid.
-5. Computes Mean Rank and ROC AUC for true post-cutoff discoveries across the full untried pool.
+5. Computes Mean Rank and ROC AUC for all baselines (Model, Frequency, Similarity, Random).
 6. Wilson Score Confidence Intervals (0-100%) and Paired Bootstrap CI on (Model - Frequency).
-7. Honest multi-cutoff evaluation (2015, 2018, 2020) without tuned thresholds.
+7. Paired Bootstrap CI on Δ(Model - Frequency) ROC AUC.
+8. Temporal volume rate tracking: warns loudly if post-cutoff papers/year exceeds pre-cutoff by > 2.0x.
+9. Frozen protocol compliant (config/benchmark_protocol.json).
 """
 
 from __future__ import annotations
@@ -106,6 +108,63 @@ def paired_bootstrap_diff_ci(
     return (round(ci_low, 2), round(ci_high, 2))
 
 
+def fast_auc_and_rank(scores: np.ndarray, y_true: np.ndarray) -> Tuple[float, float]:
+    """Computes ROC AUC and Mean Rank for ground-truth positive pairs in untried pool."""
+    n = len(y_true)
+    n_pos = int(np.sum(y_true == 1))
+    n_neg = n - n_pos
+    if n_pos == 0 or n_neg == 0:
+        return (0.5, float(n / 2.0))
+
+    # Mean Rank: descending rank (1 = highest score)
+    ranks_desc = rankdata(-scores, method="average")
+    pos_ranks = ranks_desc[y_true == 1]
+    mean_rank = float(np.mean(pos_ranks))
+
+    # ROC AUC via Mann-Whitney U rank sum (ascending ranks)
+    ranks_asc = rankdata(scores, method="average")
+    sum_ranks_pos = float(np.sum(ranks_asc[y_true == 1]))
+    auc = (sum_ranks_pos - (n_pos * (n_pos + 1.0)) / 2.0) / (n_pos * n_neg)
+
+    return (round(float(auc), 4), round(mean_rank, 1))
+
+
+def paired_auc_diff_ci(
+    y_true: np.ndarray,
+    scores_model: np.ndarray,
+    scores_freq: np.ndarray,
+    num_trials: int = 1000,
+    seed: int = 42,
+) -> Tuple[float, float]:
+    """Computes 95% paired bootstrap confidence interval for ΔAUC = AUC(Model) - AUC(Frequency)."""
+    rng = np.random.default_rng(seed)
+    n = len(y_true)
+    diffs = []
+
+    for _ in range(num_trials):
+        idx = rng.integers(0, n, size=n)
+        y_b = y_true[idx]
+        n_pos = int(np.sum(y_b == 1))
+        n_neg = n - n_pos
+        if n_pos == 0 or n_neg == 0:
+            continue
+
+        r_m = rankdata(scores_model[idx], method="average")
+        auc_m = (float(np.sum(r_m[y_b == 1])) - (n_pos * (n_pos + 1.0)) / 2.0) / (n_pos * n_neg)
+
+        r_f = rankdata(scores_freq[idx], method="average")
+        auc_f = (float(np.sum(r_f[y_b == 1])) - (n_pos * (n_pos + 1.0)) / 2.0) / (n_pos * n_neg)
+
+        diffs.append(auc_m - auc_f)
+
+    if not diffs:
+        return (0.0, 0.0)
+
+    ci_low = float(np.percentile(diffs, 2.5))
+    ci_high = float(np.percentile(diffs, 97.5))
+    return (round(ci_low, 4), round(ci_high, 4))
+
+
 def is_valid_post_cutoff_venue(source: str, categories: str, doi: Optional[str], title: str) -> bool:
     """Checks whether the paper is on arXiv cond-mat.supr-con or in a recognized journal.
 
@@ -201,6 +260,21 @@ class EvaluationReport:
     mean_rank: Optional[float] = None
     roc_auc: Optional[float] = None
     random_baseline_valid: bool = True
+    # Multi-baseline ranking and AUC
+    auc_model: float = 0.5
+    auc_frequency: float = 0.5
+    auc_similarity: float = 0.5
+    auc_random: float = 0.5
+    mean_rank_model: float = 0.0
+    mean_rank_frequency: float = 0.0
+    mean_rank_similarity: float = 0.0
+    mean_rank_random: float = 0.0
+    paired_auc_diff_ci_95: List[float] = field(default_factory=lambda: [0.0, 0.0])
+    # Temporal volume rate metrics
+    pre_rate_per_year: float = 0.0
+    post_rate_per_year: float = 0.0
+    temporal_rate_ratio: float = 1.0
+    temporal_imbalance_warning: bool = False
     evaluated_at: str = field(default_factory=lambda: datetime.now(timezone.utc).isoformat())
 
     def to_dict(self) -> Dict[str, Any]:
@@ -217,13 +291,25 @@ class EvaluationReport:
             "mean_rank": self.mean_rank,
             "roc_auc": self.roc_auc,
             "random_baseline_valid": self.random_baseline_valid,
+            "auc_model": self.auc_model,
+            "auc_frequency": self.auc_frequency,
+            "auc_similarity": self.auc_similarity,
+            "auc_random": self.auc_random,
+            "mean_rank_model": self.mean_rank_model,
+            "mean_rank_frequency": self.mean_rank_frequency,
+            "mean_rank_similarity": self.mean_rank_similarity,
+            "mean_rank_random": self.mean_rank_random,
+            "paired_auc_diff_ci_95": self.paired_auc_diff_ci_95,
+            "pre_rate_per_year": self.pre_rate_per_year,
+            "post_rate_per_year": self.post_rate_per_year,
+            "temporal_rate_ratio": self.temporal_rate_ratio,
+            "temporal_imbalance_warning": self.temporal_imbalance_warning,
             "evaluated_at": self.evaluated_at,
         }
 
 
 class TimeSplitEvaluator:
     """Evaluates discovery capability by training/indexing on historical literature
-
     and benchmarking against strictly verified future superconductivity discoveries.
     """
 
@@ -342,12 +428,41 @@ class TimeSplitEvaluator:
         2. Venue validation for post-cutoff papers (excluding Zenodo, theses, preprint servers).
         3. Random baseline < 20% validity constraint.
         4. Wilson score CIs and Paired Bootstrap CI on (Model - Frequency).
-        5. Mean Rank and ROC AUC reporting across full untried pool.
+        5. Mean Rank and ROC AUC reporting across full untried pool for all 4 baselines.
+        6. Paired Bootstrap CI on Δ(Model - Frequency) ROC AUC.
+        7. Temporal volume imbalance warning when post-cutoff rate > 2.0x pre-cutoff rate.
         """
         if k_values is None:
             k_values = [10, 25, 50]
 
         pre_papers, post_papers = self.load_superconductivity_corpus_split()
+
+        # Check temporal publication volume rates
+        pre_years = [p["year"] for p in pre_papers if p.get("year")]
+        post_years = [p["year"] for p in post_papers if p.get("year")]
+        min_pre_yr = min(pre_years) if pre_years else self.cutoff_year
+        max_post_yr = max(post_years) if post_years else self.cutoff_year + 1
+
+        span_pre = max(1, self.cutoff_year - min_pre_yr + 1)
+        span_post = max(1, max_post_yr - self.cutoff_year)
+
+        pre_rate = len(pre_papers) / span_pre
+        post_rate = len(post_papers) / span_post
+        temporal_ratio = post_rate / pre_rate if pre_rate > 0 else 1.0
+        temporal_imbalance = temporal_ratio > 2.0
+
+        if temporal_imbalance:
+            warn_msg = (
+                f"\n================================================================================\n"
+                f"TEMPORAL VOLUME IMBALANCE ALERT (Cutoff {self.cutoff_year}):\n"
+                f"Post-cutoff publication rate ({post_rate:.1f} papers/yr) exceeds pre-cutoff rate "
+                f"({pre_rate:.1f} papers/yr) by {temporal_ratio:.2f}x (> 2.0x threshold)!\n"
+                f"Pre-cutoff span: {min_pre_yr}-{self.cutoff_year} ({span_pre} yrs, {len(pre_papers)} papers)\n"
+                f"Post-cutoff span: {self.cutoff_year+1}-{max_post_yr} ({span_post} yrs, {len(post_papers)} papers)\n"
+                f"================================================================================\n"
+            )
+            logger.warning(warn_msg)
+            sys.stderr.write(warn_msg)
 
         # 1. Build Pre-Cutoff Compound Co-occurrence Network and Frequency
         pre_tested_pairs: Set[Tuple[str, str]] = set()
@@ -399,7 +514,7 @@ class TimeSplitEvaluator:
                         is_superconductivity_paper=True,
                     )
 
-        # 3. Create the Candidate Pool: Untried Element Pairs across the periodic table
+        # 3. Create Candidate Pool: Untried Element Pairs across the periodic table
         valid_elements = sorted([e.symbol for e in Element])
 
         candidate_pool: List[Tuple[str, str]] = []
@@ -426,16 +541,33 @@ class TimeSplitEvaluator:
         def score_similarity(pair: Tuple[str, str]) -> float:
             return self.compute_similarity_score(pair[0], pair[1])
 
-        # Rank candidates
+        # Compute full-pool arrays for all 4 baselines
+        pool_y_true = np.array([1 if p in post_actual_pairs else 0 for p in candidate_pool], dtype=int)
+        scores_model = np.array([score_model(p) for p in candidate_pool], dtype=float)
+        scores_freq = np.array([score_frequency(p) for p in candidate_pool], dtype=float)
+        scores_sim = np.array([score_similarity(p) for p in candidate_pool], dtype=float)
+
+        # Full pool ROC AUC and Mean Rank for each baseline
+        auc_model, mean_rank_model = fast_auc_and_rank(scores_model, pool_y_true)
+        auc_freq, mean_rank_freq = fast_auc_and_rank(scores_freq, pool_y_true)
+        auc_sim, mean_rank_sim = fast_auc_and_rank(scores_sim, pool_y_true)
+        auc_rnd, mean_rank_rnd = (0.5000, round(float(pool_size + 1) / 2.0, 1))
+
+        # Paired Bootstrap CI on Δ(Model - Frequency) ROC AUC
+        paired_auc_ci = list(paired_auc_diff_ci(
+            pool_y_true, scores_model, scores_freq,
+            num_trials=self.bootstrap_trials, seed=self.seed
+        ))
+
+        logger.info(
+            f"Full Pool AUC -> Model: {auc_model:.4f}, Freq: {auc_freq:.4f}, "
+            f"Sim: {auc_sim:.4f}, Rnd: {auc_rnd:.4f} | ΔAUC CI: [{paired_auc_ci[0]:+.4f}, {paired_auc_ci[1]:+.4f}]"
+        )
+
+        # Rank candidates for top-K evaluation
         model_ranked = sorted(candidate_pool, key=score_model, reverse=True)
         freq_ranked = sorted(candidate_pool, key=score_frequency, reverse=True)
         sim_ranked = sorted(candidate_pool, key=score_similarity, reverse=True)
-
-        # Compute Mean Rank and ROC AUC for Model across full pool
-        pool_with_scores = [(pair, score_model(pair)) for pair in candidate_pool]
-        pool_with_scores.sort(key=lambda x: x[1], reverse=True)
-        mean_rank, roc_auc = self._compute_pool_ranking_metrics(pool_with_scores, post_actual_pairs)
-        logger.info(f"Full Pool Ranking Metrics -> Mean Rank: {mean_rank:.1f}, ROC AUC: {roc_auc:.4f}")
 
         # Evaluate across K
         comparisons: List[BaselineComparison] = []
@@ -460,7 +592,7 @@ class TimeSplitEvaluator:
             f_rate = (f_hits / k_eff) * 100.0 if k_eff > 0 else 0.0
             s_rate = (s_hits / k_eff) * 100.0 if k_eff > 0 else 0.0
 
-            # Random baseline simulation over 1,000 trials
+            # Random baseline simulation over trials
             rnd_hits_list = []
             for _ in range(self.bootstrap_trials):
                 sampled = self._rng.sample(candidate_pool, k_eff)
@@ -530,47 +662,25 @@ class TimeSplitEvaluator:
             bootstrap_iterations=self.bootstrap_trials,
             verified_discoveries=discoveries,
             statistical_signal_detected=statistical_signal,
-            mean_rank=mean_rank,
-            roc_auc=roc_auc,
+            mean_rank=mean_rank_model,
+            roc_auc=auc_model,
             random_baseline_valid=all_random_valid,
+            auc_model=auc_model,
+            auc_frequency=auc_freq,
+            auc_similarity=auc_sim,
+            auc_random=auc_rnd,
+            mean_rank_model=mean_rank_model,
+            mean_rank_frequency=mean_rank_freq,
+            mean_rank_similarity=mean_rank_sim,
+            mean_rank_random=mean_rank_rnd,
+            paired_auc_diff_ci_95=paired_auc_ci,
+            pre_rate_per_year=round(pre_rate, 1),
+            post_rate_per_year=round(post_rate, 1),
+            temporal_rate_ratio=round(temporal_ratio, 2),
+            temporal_imbalance_warning=temporal_imbalance,
         )
 
         return report
-
-    def _compute_pool_ranking_metrics(
-        self,
-        ranked_pool: List[Tuple[Tuple[str, str], float]],
-        true_pairs: Set[Tuple[str, str]],
-    ) -> Tuple[float, float]:
-        """Computes Mean Rank and ROC AUC for true discoveries in the untried pool."""
-        n = len(ranked_pool)
-        if n == 0 or not true_pairs:
-            return (0.0, 0.5)
-
-        ranks = []
-        y_true = []
-        scores = []
-
-        for rank, (pair, score) in enumerate(ranked_pool, 1):
-            is_pos = 1 if pair in true_pairs else 0
-            y_true.append(is_pos)
-            scores.append(score)
-            if is_pos:
-                ranks.append(rank)
-
-        mean_rank = float(np.mean(ranks)) if ranks else float(n / 2)
-
-        n_pos = sum(y_true)
-        n_neg = n - n_pos
-        if n_pos == 0 or n_neg == 0:
-            return (round(mean_rank, 1), 0.5)
-
-        # Compute ROC AUC via Mann-Whitney U / rank sum
-        r = rankdata(scores)
-        sum_ranks_pos = sum(r[i] for i in range(n) if y_true[i] == 1)
-        auc = (sum_ranks_pos - (n_pos * (n_pos + 1)) / 2.0) / (n_pos * n_neg)
-
-        return (round(mean_rank, 1), round(float(auc), 4))
 
     def generate_markdown_report(self, report: EvaluationReport, output_path: Optional[str] = None) -> str:
         """Generates clear, publication-grade markdown report."""
@@ -579,19 +689,38 @@ class TimeSplitEvaluator:
             "",
             f"> *Evaluates the Layer 2 Literature-Gap Discovery Model on historical literature (pre-{report.cutoff_year}) vs. verified post-cutoff experimental discoveries.*",
             "",
+        ]
+
+        if report.temporal_imbalance_warning:
+            lines.extend([
+                "> [!WARNING]",
+                rf"> **TEMPORAL VOLUME IMBALANCE ALERT**: Post-cutoff publication rate (`{report.post_rate_per_year}` papers/yr) exceeds pre-cutoff publication rate (`{report.pre_rate_per_year}` papers/yr) by **`{report.temporal_rate_ratio:.2f}x`** (> 2.0x threshold). Disproportionately accelerated post-cutoff literature volume expands confirmation opportunities.",
+                "",
+            ])
+
+        lines.extend([
             "## 1. Corpus & Methodology",
             f"- **Cutoff Year**: `{report.cutoff_year}`",
             rf"- **Historical Pre-Cutoff Corpus**: `{report.pre_cutoff_papers:,}` papers ($\le {report.cutoff_year}$)",
-            f"- **Future Post-Cutoff Ground Truth**: `{report.post_cutoff_papers:,}` papers ($> {report.cutoff_year}$)",
+            rf"- **Future Post-Cutoff Ground Truth**: `{report.post_cutoff_papers:,}` papers ($> {report.cutoff_year}$)",
+            f"- **Publication Rates**: Pre = `{report.pre_rate_per_year}` papers/yr | Post = `{report.post_rate_per_year}` papers/yr (Ratio = `{report.temporal_rate_ratio:.2f}x`)",
             f"- **Untried Candidate Pool Size**: `{report.pool_size:,}` element pairs (never tested pre-{report.cutoff_year})",
-            f"- **Formula Extraction**: Strict `pymatgen` formula parsing (excluding plain text and English words).",
-            f"- **Hit Criteria**: Element pair must co-occur within the **same compound formula** in an arXiv `cond-mat.supr-con` or journal paper (excluding Zenodo/theses).",
+            "- **Formula Extraction**: Strict `pymatgen` formula parsing (excluding plain text and English words).",
+            "- **Hit Criteria**: Element pair must co-occur within the **same compound formula** in an arXiv `cond-mat.supr-con` or journal paper (excluding Zenodo/theses).",
             rf"- **Metric Validity**: Random baseline $< 20.0\%$ constraint: {'PASSED' if report.random_baseline_valid else 'FAILED'}",
-            f"- **Full Pool Ranking**: Mean Rank = `{report.mean_rank or 0.0:.1f}` | ROC AUC = `{report.roc_auc or 0.5:.4f}`",
             "",
-            "## 2. Multi-Baseline Comparison Results",
+            "## 2. Full-Pool Ranking & Discrimination Metrics",
             "",
-        ]
+            "| Baseline Method | Full-Pool ROC AUC | Full-Pool Mean Rank | Paired $\\Delta$AUC vs Frequency (95% CI) |",
+            "| :--- | :---: | :---: | :---: |",
+            f"| **Model (Layer 2 Graph)** | **`{report.auc_model:.4f}`** | **`{report.mean_rank_model:.1f}`** | **`[{report.paired_auc_diff_ci_95[0]:+.4f}, {report.paired_auc_diff_ci_95[1]:+.4f}]`** |",
+            f"| **Frequency Baseline** | `{report.auc_frequency:.4f}` | `{report.mean_rank_frequency:.1f}` | *Reference Baseline* |",
+            f"| **Chemical Similarity** | `{report.auc_similarity:.4f}` | `{report.mean_rank_similarity:.1f}` | N/A |",
+            f"| **Uniform Random** | `{report.auc_random:.4f}` | `{report.mean_rank_random:.1f}` | N/A |",
+            "",
+            "## 3. Multi-Baseline Comparison Results (Top-K Discovery)",
+            "",
+        ])
 
         if report.comparisons_by_k:
             headers = ["Metric / Cutoff"] + [f"Top-{c.k} ($K={c.k}$)" for c in report.comparisons_by_k]
@@ -622,7 +751,7 @@ class TimeSplitEvaluator:
 
         lines.extend([
             "",
-            "## 3. Verified Discoveries Sample",
+            "## 4. Verified Discoveries Sample",
             "",
             "| Elements | Discovery Paper Title | Year | DOI |",
             "| :--- | :--- | :--- | :--- |",
