@@ -36,6 +36,8 @@ data/cache/
 *token*.json
 service_account.json
 .env
+.env.*
+.env.local
 
 # OS
 .DS_Store
