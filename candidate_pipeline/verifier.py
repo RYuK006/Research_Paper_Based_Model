@@ -153,3 +153,4 @@ class CandidateVerifier:
         results = [self.verify_candidate(c) for c in candidates]
         results.sort(key=lambda x: x.stability_score, reverse=True)
         return results
+
