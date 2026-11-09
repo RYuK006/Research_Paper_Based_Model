@@ -1,0 +1,22 @@
+! ==============================================================================
+! STATUS: NOT RUN (DFT input generated for HPC execution)
+! Candidate Material: (Gd0.85Sr0.15)H10
+! Target Pressure: 150.0 GPa
+! Prototype Space Group: Fm-3m (#225)
+! Code Suite: Quantum ESPRESSO v7.2+ (PWscf / PHonon / EPW)
+! NOTE: Critical temperature (Tc) requires ab initio electron-phonon calculations
+!       (Eliashberg function alpha2F) to be performed on high-performance compute clusters.
+! ==============================================================================
+
+Phonon dispersion and electron-phonon coupling grid for Gd0_85Sr0_15H10
+&INPUTPH
+  prefix = 'Gd0_85Sr0_15H10',
+  outdir = './tmp/',
+  fildyn = 'Gd0_85Sr0_15H10.dyn',
+  ldisp = .true.,
+  nq1 = 4, nq2 = 4, nq3 = 4,
+  tr2_ph = 1.0d-14,
+  electron_phonon = 'interpolated',
+  el_ph_sigma = 0.02,
+  el_ph_nsigma = 10,
+/

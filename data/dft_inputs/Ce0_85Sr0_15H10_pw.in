@@ -1,0 +1,40 @@
+! ==============================================================================
+! STATUS: NOT RUN (DFT input generated for HPC execution)
+! Candidate Material: (Ce0.85Sr0.15)H10
+! Target Pressure: 150.0 GPa
+! Prototype Space Group: Fm-3m (#225)
+! Code Suite: Quantum ESPRESSO v7.2+ (PWscf / PHonon / EPW)
+! NOTE: Critical temperature (Tc) requires ab initio electron-phonon calculations
+!       (Eliashberg function alpha2F) to be performed on high-performance compute clusters.
+! ==============================================================================
+
+&CONTROL
+  calculation = 'scf',
+  restart_mode = 'from_scratch',
+  prefix = 'Ce0_85Sr0_15H10',
+  outdir = './tmp/',
+  pseudo_dir = './pseudo/',
+  tstress = .true.,
+  tprnfor = .true.,
+/
+&SYSTEM
+  ibrav = 2,
+  celldm(1) = 9.15,
+  nat = 11,
+  ntyp = 3,
+  ecutwfc = 80.0,
+  ecutrho = 800.0,
+  occupations = 'smearing',
+  smearing = 'mp',
+  degauss = 0.02,
+/
+&ELECTRONS
+  conv_thr = 1.0d-10,
+  mixing_beta = 0.7,
+/
+ATOMIC_SPECIES
+  La  138.905  La.pbe-spfn-kjpaw_psl.1.0.0.UPF
+  Y    88.906  Y.pbe-spfn-kjpaw_psl.1.0.0.UPF
+  H     1.008  H.pbe-kjpaw_psl.1.0.0.UPF
+K_POINTS automatic
+  16 16 16 0 0 0

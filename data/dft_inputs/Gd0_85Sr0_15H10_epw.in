@@ -1,0 +1,30 @@
+! ==============================================================================
+! STATUS: NOT RUN (DFT input generated for HPC execution)
+! Candidate Material: (Gd0.85Sr0.15)H10
+! Target Pressure: 150.0 GPa
+! Prototype Space Group: Fm-3m (#225)
+! Code Suite: Quantum ESPRESSO v7.2+ (PWscf / PHonon / EPW)
+! NOTE: Critical temperature (Tc) requires ab initio electron-phonon calculations
+!       (Eliashberg function alpha2F) to be performed on high-performance compute clusters.
+! ==============================================================================
+
+&INPUTEPW
+  prefix = 'Gd0_85Sr0_15H10',
+  outdir = './tmp/',
+  dvscf_dir = './save/',
+  elph = .true.,
+  ep_coupling = .true.,
+  epb = .true.,
+  epwwrite = .true.,
+  epwread = .false.,
+  wannierize = .true.,
+  num_iter = 500,
+  dis_win_max = 25.0,
+  dis_froz_max = 12.0,
+  wdata(1) = 'bands_plot = true',
+  nk1 = 8, nk2 = 8, nk3 = 8,
+  nq1 = 4, nq2 = 4, nq3 = 4,
+  nkf1 = 24, nkf2 = 24, nkf3 = 24,
+  nqf1 = 12, nqf2 = 12, nqf3 = 12,
+  fildvscf = 'Gd0_85Sr0_15H10.dvscf',
+/
