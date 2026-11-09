@@ -21,39 +21,87 @@
       "similarity_rate": 0.0,
       "lift_over_random": 0.0,
       "lift_over_frequency": 1.0,
-      "lift_over_similarity": 1.0
+      "lift_over_similarity": 1.0,
+      "model_ci_95": [
+        0.0,
+        0.0
+      ],
+      "random_ci_95": [
+        0.0,
+        1.02
+      ],
+      "frequency_ci_95": [
+        0.0,
+        0.0
+      ],
+      "similarity_ci_95": [
+        0.0,
+        0.0
+      ]
     },
     {
       "k": 25,
       "model_hits": 0,
       "model_rate": 0.0,
-      "random_hits": 1,
-      "random_rate": 2.16,
+      "random_hits": 0,
+      "random_rate": 1.97,
       "frequency_hits": 1,
       "frequency_rate": 4.0,
       "similarity_hits": 0,
       "similarity_rate": 0.0,
       "lift_over_random": 0.0,
       "lift_over_frequency": 0.0,
-      "lift_over_similarity": 1.0
+      "lift_over_similarity": 1.0,
+      "model_ci_95": [
+        0.0,
+        0.0
+      ],
+      "random_ci_95": [
+        0.0,
+        2.0
+      ],
+      "frequency_ci_95": [
+        0.0,
+        1.0
+      ],
+      "similarity_ci_95": [
+        0.0,
+        0.0
+      ]
     },
     {
       "k": 50,
       "model_hits": 0,
       "model_rate": 0.0,
       "random_hits": 1,
-      "random_rate": 1.97,
+      "random_rate": 2.08,
       "frequency_hits": 1,
       "frequency_rate": 2.0,
       "similarity_hits": 0,
       "similarity_rate": 0.0,
       "lift_over_random": 0.0,
       "lift_over_frequency": 0.0,
-      "lift_over_similarity": 1.0
+      "lift_over_similarity": 1.0,
+      "model_ci_95": [
+        0.0,
+        0.0
+      ],
+      "random_ci_95": [
+        0.0,
+        3.0
+      ],
+      "frequency_ci_95": [
+        0.0,
+        1.0
+      ],
+      "similarity_ci_95": [
+        0.0,
+        0.0
+      ]
     }
   ],
   "bootstrap_iterations": 1000,
   "verified_discoveries": [],
   "statistical_signal_detected": false,
-  "evaluated_at": "2026-11-09T10:06:24.655132+00:00"
+  "evaluated_at": "2026-11-09T11:24:18.246057+00:00"
 }
