@@ -35,38 +35,16 @@
         "H",
         "Sr"
       ],
-      "status": "KNOWN",
-      "status_description": "KNOWN: Established superconductor in literature (e.g., 'Superconducting Bi-Sr-Ca-Cu-O Thick Films by the Sol-Gel Method', 1988)",
+      "status": "NO_HITS_FOUND",
+      "status_description": "no hits found in: OpenAlex API, Materials Project, Local Superconductivity Corpus, SuperCon Reference",
       "sources_searched": [
         "OpenAlex API",
         "Materials Project",
         "Local Superconductivity Corpus",
         "SuperCon Reference"
       ],
-      "evidence": [
-        {
-          "source": "OpenAlex API",
-          "title": "Superconducting Bi-Sr-Ca-Cu-O Thick Films by the Sol-Gel Method",
-          "year": 1988,
-          "url_or_id": "https://doi.org/10.1143/jjap.27.l1880",
-          "details": "Match on query: 'superconductor Ce H Sr'"
-        },
-        {
-          "source": "OpenAlex API",
-          "title": "Transport and anisotropy in single-crystalline SrFe2As2 and A0.6K0.4Fe2As2 ( A=Sr , Ba) superconductors",
-          "year": 2008,
-          "url_or_id": "https://doi.org/10.1103/physrevb.78.224512",
-          "details": "Match on query: 'superconductor Ce H Sr'"
-        },
-        {
-          "source": "OpenAlex API",
-          "title": "Specific heat and \u03bc SR study on the noncentrosymmetric superconductor LaRhSi 3",
-          "year": 2011,
-          "url_or_id": "https://doi.org/10.1103/physrevb.83.064522",
-          "details": "Match on query: 'superconductor Ce H Sr'"
-        }
-      ],
-      "searched_at": "2026-11-09T09:43:24.920686+00:00"
+      "evidence": [],
+      "searched_at": "2026-11-09T10:08:06.082408+00:00"
     },
     "verification": {
       "candidate_id": "CAND_001",
@@ -165,45 +143,16 @@
         "Pr",
         "Sr"
       ],
-      "status": "KNOWN",
-      "status_description": "KNOWN: Established superconductor in literature (e.g., 'Antiferroquadrupolar Ordering in a Pr-Based Superconductor PrIr2Zn20', 2011)",
+      "status": "NO_HITS_FOUND",
+      "status_description": "no hits found in: OpenAlex API, Materials Project, Local Superconductivity Corpus, SuperCon Reference",
       "sources_searched": [
         "OpenAlex API",
         "Materials Project",
         "Local Superconductivity Corpus",
         "SuperCon Reference"
       ],
-      "evidence": [
-        {
-          "source": "OpenAlex API",
-          "title": "Antiferroquadrupolar Ordering in a Pr-Based Superconductor PrIr2Zn20",
-          "year": 2011,
-          "url_or_id": "https://doi.org/10.1103/physrevlett.106.177001",
-          "details": "Match on query: 'superconductor H Pr Sr'"
-        },
-        {
-          "source": "OpenAlex API",
-          "title": "Linear-in-temperature resistivity for optimally superconducting (Nd,Sr)NiO2",
-          "year": 2023,
-          "url_or_id": "https://doi.org/10.1038/s41586-023-06129-x",
-          "details": "Match on query: 'superconductor H Pr Sr'"
-        },
-        {
-          "source": "OpenAlex API",
-          "title": "Transport and anisotropy in single-crystalline SrFe2As2 and A0.6K0.4Fe2As2 ( A=Sr , Ba) superconductors",
-          "year": 2008,
-          "url_or_id": "https://doi.org/10.1103/physrevb.78.224512",
-          "details": "Match on query: 'superconductor H Pr Sr'"
-        },
-        {
-          "source": "OpenAlex API",
-          "title": "A New Layered Iron Arsenide Superconductor: (Ca,Pr)FeAs2",
-          "year": 2014,
-          "url_or_id": "https://doi.org/10.1021/ja410845b",
-          "details": "Match on query: 'superconductor H Pr Sr'"
-        }
-      ],
-      "searched_at": "2026-11-09T09:43:29.613828+00:00"
+      "evidence": [],
+      "searched_at": "2026-11-09T10:08:13.092070+00:00"
     },
     "verification": {
       "candidate_id": "CAND_002",
@@ -302,45 +251,16 @@
         "H",
         "Sr"
       ],
-      "status": "KNOWN",
-      "status_description": "KNOWN: Established superconductor in literature (e.g., 'Antiferromagnetic ordering of Ru and Gd in superconducting RuSr2GdCu2O8', 2000)",
+      "status": "NO_HITS_FOUND",
+      "status_description": "no hits found in: OpenAlex API, Materials Project, Local Superconductivity Corpus, SuperCon Reference",
       "sources_searched": [
         "OpenAlex API",
         "Materials Project",
         "Local Superconductivity Corpus",
         "SuperCon Reference"
       ],
-      "evidence": [
-        {
-          "source": "OpenAlex API",
-          "title": "Antiferromagnetic ordering of Ru and Gd in superconducting RuSr2GdCu2O8",
-          "year": 2000,
-          "url_or_id": "https://doi.org/10.1103/physrevb.61.r14964",
-          "details": "Match on query: 'superconductor Gd H Sr'"
-        },
-        {
-          "source": "OpenAlex API",
-          "title": "Investigation of some physical properties of Gd added Bi-2223 superconductors",
-          "year": 2010,
-          "url_or_id": "https://doi.org/10.1016/j.jallcom.2010.08.105",
-          "details": "Match on query: 'superconductor Gd H Sr'"
-        },
-        {
-          "source": "OpenAlex API",
-          "title": "The Effect of Gd Concentration on the Physical and Magnetic Properties of Bi1.7Pb0.3-xGdxSr2Ca3Cu4O12+y Superconductors",
-          "year": 2005,
-          "url_or_id": "https://doi.org/10.1007/s10909-005-6015-4",
-          "details": "Match on query: 'superconductor Gd H Sr'"
-        },
-        {
-          "source": "OpenAlex API",
-          "title": "Higgs Mode in Superconductors",
-          "year": 2019,
-          "url_or_id": "https://doi.org/10.1146/annurev-conmatphys-031119-050813",
-          "details": "Match on query: 'superconductor Gd H Sr'"
-        }
-      ],
-      "searched_at": "2026-11-09T09:43:33.256806+00:00"
+      "evidence": [],
+      "searched_at": "2026-11-09T10:08:21.560423+00:00"
     },
     "verification": {
       "candidate_id": "CAND_003",
@@ -439,38 +359,16 @@
         "Lu",
         "Sr"
       ],
-      "status": "KNOWN",
-      "status_description": "KNOWN: Established superconductor in literature (e.g., 'Transport and anisotropy in single-crystalline SrFe2As2 and A0.6K0.4Fe2As2 ( A=Sr , Ba) superconductors', 2008)",
+      "status": "NO_HITS_FOUND",
+      "status_description": "no hits found in: OpenAlex API, Materials Project, Local Superconductivity Corpus, SuperCon Reference",
       "sources_searched": [
         "OpenAlex API",
         "Materials Project",
         "Local Superconductivity Corpus",
         "SuperCon Reference"
       ],
-      "evidence": [
-        {
-          "source": "OpenAlex API",
-          "title": "Transport and anisotropy in single-crystalline SrFe2As2 and A0.6K0.4Fe2As2 ( A=Sr , Ba) superconductors",
-          "year": 2008,
-          "url_or_id": "https://doi.org/10.1103/physrevb.78.224512",
-          "details": "Match on query: 'superconductor H Lu Sr'"
-        },
-        {
-          "source": "OpenAlex API",
-          "title": "Superconducting properties and \u03bc SR study of the noncentrosymmetric superconductor Nb 0.5 Os 0.5",
-          "year": 2017,
-          "url_or_id": "https://doi.org/10.1088/1361-648x/aaa376",
-          "details": "Match on query: 'superconductor H Lu Sr'"
-        },
-        {
-          "source": "OpenAlex API",
-          "title": "Striped superconductors: how spin, charge and superconducting orders intertwine in the cuprates",
-          "year": 2009,
-          "url_or_id": "https://doi.org/10.1088/1367-2630/11/11/115004",
-          "details": "Match on query: 'superconductor H Lu Sr'"
-        }
-      ],
-      "searched_at": "2026-11-09T09:43:38.048576+00:00"
+      "evidence": [],
+      "searched_at": "2026-11-09T10:08:30.071813+00:00"
     },
     "verification": {
       "candidate_id": "CAND_004",
@@ -569,45 +467,16 @@
         "Sm",
         "Sr"
       ],
-      "status": "KNOWN",
-      "status_description": "KNOWN: Established superconductor in literature (e.g., 'Transport and anisotropy in single-crystalline SrFe2As2 and A0.6K0.4Fe2As2 ( A=Sr , Ba) superconductors', 2008)",
+      "status": "NO_HITS_FOUND",
+      "status_description": "no hits found in: OpenAlex API, Materials Project, Local Superconductivity Corpus, SuperCon Reference",
       "sources_searched": [
         "OpenAlex API",
         "Materials Project",
         "Local Superconductivity Corpus",
         "SuperCon Reference"
       ],
-      "evidence": [
-        {
-          "source": "OpenAlex API",
-          "title": "Transport and anisotropy in single-crystalline SrFe2As2 and A0.6K0.4Fe2As2 ( A=Sr , Ba) superconductors",
-          "year": 2008,
-          "url_or_id": "https://doi.org/10.1103/physrevb.78.224512",
-          "details": "Match on query: 'superconductor H Sm Sr'"
-        },
-        {
-          "source": "OpenAlex API",
-          "title": "Higgs Mode in Superconductors",
-          "year": 2019,
-          "url_or_id": "https://doi.org/10.1146/annurev-conmatphys-031119-050813",
-          "details": "Match on query: 'superconductor H Sm Sr'"
-        },
-        {
-          "source": "OpenAlex API",
-          "title": "The crystal structure and superconductivity of new superconducting phase TlSr2Ca0.5Sm0.5Cu2O6.75",
-          "year": 1989,
-          "url_or_id": "https://doi.org/10.1016/0038-1098(89)90369-4",
-          "details": "Match on query: 'superconductor H Sm Sr'"
-        },
-        {
-          "source": "OpenAlex API",
-          "title": "Superconducting Energy Gap and c -Axis Plasma Frequency of (Nd,Sm)FeAsO0.82F0.18 Superconductors from Infrared Ellipsometry",
-          "year": 2008,
-          "url_or_id": "https://doi.org/10.1103/physrevlett.101.097011",
-          "details": "Match on query: 'superconductor H Sm Sr'"
-        }
-      ],
-      "searched_at": "2026-11-09T09:43:41.764657+00:00"
+      "evidence": [],
+      "searched_at": "2026-11-09T10:08:37.067137+00:00"
     },
     "verification": {
       "candidate_id": "CAND_005",
