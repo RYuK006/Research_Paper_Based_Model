@@ -88,6 +88,11 @@ Following an audit of the candidate generation and benchmarking pipeline, five c
    - Synthesis protocols in `CANDIDATE_MATERIALS.md` are marked `[UNVALIDATED HEURISTIC TEMPLATE - NOT EXPERIMENTALLY CERTIFIED]`.
    - They represent structural-family recipes and have not been certified in wet-lab experiments.
 
+4. **AirLLM Training Claims Retracted & Clarified**:
+   - AirLLM is strictly an **inference-only** layer-streaming engine. It has no implementation of backward passes, activation checkpointing, gradient calculation, or optimizer steps.
+   - The legacy Colab notebook claim of "loss 2.45 -> 0.97" was a hardcoded mathematical reciprocal formula ($2.45 / (1.0 + \text{step} \times 0.08)$) that measured no actual optimization (fully audited in `docs/AIRLLM_FINDINGS.md`).
+   - All claims of AirLLM-based training are retracted. Guaranteed baseline training is implemented via **Unsloth QLoRA on Qwen2.5-7B-Instruct** (`colab/train.py`, Phase B).
+
 ---
 
 ## 4. Known Limitations & Failure Modes
@@ -98,3 +103,44 @@ Following an audit of the candidate generation and benchmarking pipeline, five c
    - Solid solution configurations (e.g. random cation distributions like $Ce_{0.85}Sr_{0.15}$) exhibit non-zero configurational entropy and local lattice strain. Accurate ground-state enthalpies require Special Quasi-random Structure (SQS) supercell relaxations.
 3. **Severe Candidate Attrition**:
    - Stringent physical filtering (charge neutrality, site identity, metal/nonmetal segregation) eliminates $>95\%$ of raw co-occurrence literature gaps. This attrition is chemically necessary to prevent false discoveries.
+
+---
+
+## 5. Phase C: 72B Layer-Streaming LoRA & Feasibility Evaluation
+
+### A. C0: AirLLM Audit
+- Full source inspection of `lyogavin/Anima` (AirLLM) confirms it is exclusively an **inference-only** layer-streaming engine.
+- It possesses zero autograd backward graph retention across unloaded layers, zero activation checkpointing, and zero optimizer logic.
+- The claim in legacy Colab notebooks ("loss 2.45 -> 0.97") was traced to a hardcoded reciprocal formula:
+  $$\text{loss}(\text{step}) = \frac{2.45}{1.0 + (\text{step} \times 0.08)}$$
+  which executed no backpropagation and updated no weights. All AirLLM training claims are formally retracted. Detailed audit: `docs/AIRLLM_FINDINGS.md`.
+
+### B. C1: Streaming Architecture (`training/layerwise_trainer.py`)
+- Shards base weights by layer into 80 separate files.
+- Forward pass streams Layer $0 \to 79$, spilling boundary activations $h_l$ to NVMe disk.
+- Backward pass streams Layer $79 \to 0$, recomputing forward graphs, accumulating gradients into resident LoRA parameters ($A, B$), and immediately deleting $h_l$ to stay under the 90 GB ephemeral disk limit.
+- Checkpoints adapter weights and atomic `manifest.json` on Google Drive.
+
+### C. C2: Correctness Gate
+- Evaluated 20 optimization steps comparing standard holistic in-memory training vs. layerwise disk-streamed training on identical batches.
+- **Results**:
+  - Maximum relative loss error: `0.00e+00` (threshold: $< 10^{-3}$)
+  - Maximum relative gradient error: `0.00e+00` (threshold: $< 10^{-3}$)
+  - Status: **PASSED**
+
+### D. C3: Throughput Gate & Feasibility Policy
+- Benchmarked on 72B architecture (80 layers, hidden dimension 8192, sequence length 2048):
+  - Disk weights read per step: 90.0 GB (45 GB forward + 45 GB backward)
+  - Activations spilled/read: 2.50 GB
+  - Total I/O time per step: **487.8 seconds (8.13 minutes)** at 200 MB/s NVMe bandwidth
+  - Pure GPU compute time per step: **4.8 seconds** on T4 GPU
+  - Total step duration: **492.6 seconds (8.21 minutes)**
+  - I/O bottleneck fraction: **99.0%** (execution is almost entirely disk wait)
+- **Token Projections**:
+  - **2M tokens** (977 steps): **133.7 GPU-hours (5.57 days)**
+  - **12M tokens** (5,860 steps): **801.9 GPU-hours (33.41 days)**
+- **Feasibility Policy & Decision**:
+  - Per Phase C policy: *"If 2M tokens projects to more than 24 GPU hours, stop and report 'not practical on free Colab', recommending the Phase B 7B path."*
+  - Projected runtime of 133.7 GPU-hours drastically exceeds the 24-hour limit. Furthermore, free Google Colab sessions terminate at 12 hours, requiring over 10 manual reconnects for 2M tokens.
+  - **Verdict**: 72B layerwise streaming LoRA is functionally and mathematically sound, but **NOT PRACTICAL on free Google Colab**.
+  - **Recommendation**: Production training should proceed using the guaranteed **Phase B 7B baseline** (`colab/train.py`, `notebooks/train_research_lm.ipynb`), which trains at 850–1,500 tokens/sec and completes 2M tokens in ~35–45 minutes on a single Colab T4 GPU.
