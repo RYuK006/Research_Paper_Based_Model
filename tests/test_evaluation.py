@@ -94,11 +94,19 @@ class TestEvaluation(unittest.TestCase):
         self.assertGreaterEqual(comp_5.model_rate, 0.0)
 
     def test_markdown_and_json_report(self) -> None:
-        """Test markdown generation and JSON serialization."""
+        """Test markdown generation and JSON serialization using isolated temp paths."""
         evaluator = TimeSplitEvaluator(db_path=str(self.db_path), cutoff_year=2004)
         report = evaluator.evaluate(k_values=[5])
 
-        md = evaluator.generate_markdown_report(report)
+        test_md = self.temp_path / "test_report.md"
+        test_json = self.temp_path / "test_results.json"
+
+        md = evaluator.generate_markdown_report(report, output_path=str(test_md))
+        evaluator.save_report_json(report, output_path=str(test_json))
+
+        self.assertTrue(test_md.exists())
+        self.assertTrue(test_json.exists())
+
         self.assertIn("# 📈 Empirical Time-Split Scientific Discovery Benchmark", md)
         self.assertIn("Raw Counts", md)
         self.assertIn("Random Baseline", md)
@@ -108,6 +116,36 @@ class TestEvaluation(unittest.TestCase):
         data = report.to_dict()
         self.assertIn("comparisons_by_k", data)
         self.assertIn("verified_discoveries", data)
+
+    def test_committed_outputs_contain_no_fixture_markers(self) -> None:
+        """
+        Integrity assertion: Unit test fixture data (DOI '10.1/', mock titles, synthetic IDs)
+        must NEVER leak into committed repo output files.
+        """
+        output_files = [
+            Path("TIME_SPLIT_EVALUATION.md"),
+            Path("data/time_split_results.json"),
+            Path("data/candidates.json"),
+            Path("CANDIDATE_MATERIALS.md"),
+        ]
+        forbidden_markers = [
+            "10.1/",
+            "Synthesis of Lanthanum hydride LaH10",
+            "Yttrium hydride YH9 superconductivity",
+            "Discovery of high-Tc ternary (La,Y)H10",
+            "Spectrophotometric analysis of paclitaxel with osmium",
+            "paclitaxel",
+        ]
+        for fpath in output_files:
+            if fpath.exists():
+                text = fpath.read_text(encoding="utf-8", errors="ignore")
+                for marker in forbidden_markers:
+                    self.assertNotIn(
+                        marker,
+                        text,
+                        f"Fixture marker '{marker}' found in committed output file {fpath}! "
+                        "Unit tests or mock pipelines must never overwrite committed artifacts."
+                    )
 
 
 if __name__ == "__main__":
