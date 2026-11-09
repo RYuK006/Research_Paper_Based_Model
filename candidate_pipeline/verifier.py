@@ -20,6 +20,7 @@ import httpx
 from pymatgen.core import Composition, Element
 
 from candidate_pipeline.generator import MaterialCandidate
+from candidate_pipeline.novelty import load_mp_api_key
 from candidate_pipeline.qe_input_generator import generate_qe_input_decks
 
 logger = logging.getLogger("candidate_verifier")
@@ -114,7 +115,7 @@ class CandidateVerifier:
         qe_output_dir: str = "data/dft_inputs",
         timeout_seconds: float = 12.0,
     ) -> None:
-        self.mp_api_key = mp_api_key or os.environ.get("MP_API_KEY", "h8yUPGpRyq8vEc8u5Ks5DH7KcA6YaX6S")
+        self.mp_api_key = load_mp_api_key(mp_api_key)
         self.qe_output_dir = Path(qe_output_dir)
         self.timeout = timeout_seconds
 
