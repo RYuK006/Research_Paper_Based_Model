@@ -167,3 +167,4 @@ class ProtocolDesigner:
     ) -> List[ExperimentalProtocol]:
         """Designs protocols for a batch of candidate materials."""
         return [self.design_protocol(c) for c in candidates]
+
