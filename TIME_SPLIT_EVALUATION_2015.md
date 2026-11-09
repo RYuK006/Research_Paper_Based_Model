@@ -2,31 +2,43 @@
 
 > *Evaluates the Layer 2 Literature-Gap Discovery Model on historical literature (pre-2015) vs. verified post-cutoff experimental discoveries.*
 
+> [!WARNING]
+> **TEMPORAL VOLUME IMBALANCE ALERT**: Post-cutoff publication rate (`1167.0` papers/yr) exceeds pre-cutoff publication rate (`228.5` papers/yr) by **`5.11x`** (> 2.0x threshold). Disproportionately accelerated post-cutoff literature volume expands confirmation opportunities.
+
 ## 1. Corpus & Methodology
 - **Cutoff Year**: `2015`
 - **Historical Pre-Cutoff Corpus**: `9,141` papers ($\le 2015$)
 - **Future Post-Cutoff Ground Truth**: `12,837` papers ($> 2015$)
+- **Publication Rates**: Pre = `228.5` papers/yr | Post = `1167.0` papers/yr (Ratio = `5.11x`)
 - **Untried Candidate Pool Size**: `5,724` element pairs (never tested pre-2015)
 - **Formula Extraction**: Strict `pymatgen` formula parsing (excluding plain text and English words).
 - **Hit Criteria**: Element pair must co-occur within the **same compound formula** in an arXiv `cond-mat.supr-con` or journal paper (excluding Zenodo/theses).
 - **Metric Validity**: Random baseline $< 20.0\%$ constraint: PASSED
-- **Full Pool Ranking**: Mean Rank = `772.7` | ROC AUC = `0.9106`
 
-## 2. Multi-Baseline Comparison Results
+## 2. Full-Pool Ranking & Discrimination Metrics
+
+| Baseline Method | Full-Pool ROC AUC | Full-Pool Mean Rank | Paired $\Delta$AUC vs Frequency (95% CI) |
+| :--- | :---: | :---: | :---: |
+| **Model (Layer 2 Graph)** | **`0.9106`** | **`783.8`** | **`[-0.0012, +0.0115]`** |
+| **Frequency Baseline** | `0.9053` | `810.7` | *Reference Baseline* |
+| **Chemical Similarity** | `0.3840` | `3449.9` | N/A |
+| **Uniform Random** | `0.5000` | `2862.5` | N/A |
+
+## 3. Multi-Baseline Comparison Results (Top-K Discovery)
 
 | Metric / Cutoff | Top-10 ($K=10$) | Top-25 ($K=25$) | Top-50 ($K=50$) |
-| :--- | :--- | :--- | :--- |
+| :--- | :---: | :---: | :---: |
 | **Model Hits (Rate)** | **9/10 (90.0%)** | **19/25 (76.0%)** | **37/50 (74.0%)** |
 | **Model 95% Wilson CI** | [59.6%, 98.2%] | [56.6%, 88.5%] | [60.5%, 84.1%] |
 | **Frequency Baseline** | 7/10 (70.0%) | 16/25 (64.0%) | 31/50 (62.0%) |
-| **Frequency 95% CI** | [39.7%, 89.2%] | [44.5%, 79.8%] | [48.1%, 74.1%] |
+| **Frequency 95% Wilson CI** | [39.7%, 89.2%] | [44.5%, 79.8%] | [48.1%, 74.1%] |
 | **Paired $\Delta$(Model - Freq) 95% CI** | [+0.0%, +50.0%] | [-8.0%, +36.0%] | [-6.0%, +32.0%] |
 | **Random Baseline** | 1/10 (12.1%) | 3/25 (11.6%) | 6/50 (11.7%) |
 | **Similarity Baseline** | 0/10 (0.0%) | 1/25 (4.0%) | 1/50 (2.0%) |
 | **Lift vs. Random** | **7.46x** | **6.58x** | **6.34x** |
 | **Lift vs. Frequency** | 1.29x | 1.19x | 1.19x |
 
-## 3. Verified Discoveries Sample
+## 4. Verified Discoveries Sample
 
 | Elements | Discovery Paper Title | Year | DOI |
 | :--- | :--- | :--- | :--- |
