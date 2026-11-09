@@ -84,3 +84,4 @@ def update_report_benchmark(
 
 if __name__ == "__main__":
     update_report_benchmark()
+
