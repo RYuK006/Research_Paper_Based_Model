@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0012394",
+  "title": "Director configurations of a nematic liquid crystal confined in a toroidal geometry. A finite element study",
+  "abstract": "Various director configurations of a nematic liquid crystal, confined in a toroidal volume and subject to an external magnetic field, were evaluated numerically by performing finite element calculations in three dimensions. The equilibrium director field is found from a minimization of the elasto-magnetic energy of the nematic. The director at the inner surface of the torus is fixed, either along homeotropic or tangential direction. We consider both a homogeneous and an azimuthal magnetic field, with its direction being in conflict with the respective surface anchoring.   The relative stability of topologically inequivalent configurations is investigated in dependence on the strength of the magnetic field and the geometrical parameters of the confining torus. We find that in a toroidal geometry the director \"escape\" from a disclination, which usually occurs in a cylindrical tube, is absolutely stable only for weak magnetic fields and tangential anchoring, whereas for homeotropic anchoring director fields containing disclination rings are more favorable. When a strong homogeneous magnetic field is exerted laterally, the resulting director field is not any more axially symmetric, instead, it reveals curved disclinations of finite length.",
+  "authors": [
+    "Joachim Stelzer",
+    "Ralf Bernhard"
+  ],
+  "year": 2000,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0012394.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0012394.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:04.376048+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0012394",
+    "categories": [
+      "cond-mat.soft"
+    ]
+  }
+}

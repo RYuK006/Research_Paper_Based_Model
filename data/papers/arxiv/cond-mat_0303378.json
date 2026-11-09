@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0303378",
+  "title": "Universal behavior of transition temperatures Vs residual resistivity in Mn site doped La-Ca-Mn-O perovskites",
+  "abstract": "We discuss here a comparative study of the role of local structure and/or nature of local magnetic coupling on the electrical transport properties of Mn site substituted La-Ca-Mn-O perovskites. Particular emphasis is being paid to explore the strong correlation between the insulator-metal transition (TIM) and the residual resistivity (rhoo) upon substitution. There exists an inverse relationship between ro and TIM in the compounds under present discussion. Best fit for TIM Vs ro could be obtained for the compounds understudy to a first order exponential decay with a functional form TIM = TIMO + Aexp (-rhoo/t) than that to a power law. There is a previous report wherein the similar correlation in the case of rare earth substituted manganites has been attributed to Anderson-type electron localization. The \"universal behavior\" as has been observed between ro and TIM irrespective of the electronic, magnetic and chemical nature of the substituting elements in the Mn site substituted La-Ca-Mn-O perovskites needs a rigorous theoretical investigation.",
+  "authors": [
+    "L. Seetha Lakshmi",
+    "V. Sridharan",
+    "D. V. Natarajan",
+    "V. Sankara Sastry",
+    "T. S. Radhakrishnan"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0303378.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0303378.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:11.112491+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0303378",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

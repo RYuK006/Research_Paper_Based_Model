@@ -1,0 +1,34 @@
+{
+  "id": "arxiv:cond-mat/0207093",
+  "title": "Superconductivity, critical current density, and flux pinning in MgB_{2-x}(SiC)_{x/2} superconductor after SiC nanoparticle doping",
+  "abstract": "We investigated the effect of SiC nano-particle doping on the crystal lattice structure, critical temperature T_c, critical current density J_c, and flux pinning in MgB_2 superconductor. A series of MgB_{2-x}(SiC)_{x/2} samples with x = 0 to 1.0 were fabricated using in-situ reaction process. The contraction of the lattice and depression of T_c with increasing SiC doping level remained rather small due to the counter-balanced effect of Si and C co-doping. The high level Si and C co-doping allowed the creation of intra-grain defects and highly dispersed nano-inclusions within the grains which can act as effective pinning centers for vortices, improving J_c behavior as a function of the applied magnetic field. The enhanced pinning is mainly attributable to the substitution-induced defects and a local structure fluctuations within grains. A pinning mechanism is proposed to account for different contributions of different defects in MgB_{2-x}(SiC)_{x/2} superconductors.",
+  "authors": [
+    "S. X. Dou",
+    "A. V. Pan",
+    "S. Zhou",
+    "M. Ionescu",
+    "X. L. Wang",
+    "J. Horvat",
+    "H. K. Liu",
+    "P. R. Munroe"
+  ],
+  "year": 2002,
+  "doi": "10.1063/1.1586467",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0207093.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0207093.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.387919+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0207093",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

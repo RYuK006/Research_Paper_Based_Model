@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0303541",
+  "title": "Quasiparticle structure in antiferromagnetism around the vortex and nuclear magnetic relaxation time",
+  "abstract": "On the basis of the Bogoliubov-de Gennes theory for the two-dimensional extended Hubbard model, the vortex structure in d-wave superconductors is investigated including the contribution of the induced incommensurate antiferromagnetism around the vortex core. As the on-site repulsive interaction $U$ increases, the spatial structure of charge and spin changes from the antiferromagnetic state with checkerboard modulation to that with the stripe modulation. By the effect of the induced antiferromagnetic moment, the zero-energy density of states is suppressed, and the vortex core radius increases. We also study the effect of the local density of states (LDOS) change on the site-dependent nuclear relaxation rate $T_1^{-1}({\\bf r})$. These results are compared with a variety of experiments performed on high $T_c$ cuprates.",
+  "authors": [
+    "Mitsuaki Takigawa",
+    "Masanori Ichioka",
+    "Kazushige Machida"
+  ],
+  "year": 2004,
+  "doi": "10.1143/JPSJ.73.450",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0303541.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0303541.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:43.868195+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0303541",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

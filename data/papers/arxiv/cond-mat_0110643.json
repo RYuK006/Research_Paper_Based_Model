@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0110643",
+  "title": "Interference between Extrinsic and Intrinsic Losses in XAFS",
+  "abstract": "The interference between extrinsic and intrinsic losses in x-ray absorption fine structure (XAFS) is treated within a Green's function formalism, without explicit reference to final states. The approach makes use of a quasi-boson representation of excitations and perturbation theory in the interaction potential between electrons and quasi-bosons. These losses lead to an asymmetric broadening of the main quasi-particle peak plus an energy-dependent satellite in the spectral function. The x-ray absorption spectra (XAS) is then given by a convolution of an effective spectral function over a one-electron cross-section. It is shown that extrinsic and intrinsic losses tend to cancel near excitation thresholds, and correspondingly, the strength in the main peak increases. At high energies, the theory crosses-over to the sudden approximation. These results thus explain the observed weakness of multi-electron excitations in XAS. The approach is applied to estimate the many-body corrections to XAFS, beyond the usual mean-free-path, using a phasor summation over the spectral function. The asymmetry of the spectral function gives rise to an additional many-body phase shift in the XAFS formula.",
+  "authors": [
+    "L. Campbell",
+    "L. Hedin",
+    "J. J. Rehr",
+    "W. Bardyszewski"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0110643.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0110643.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.238183+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0110643",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

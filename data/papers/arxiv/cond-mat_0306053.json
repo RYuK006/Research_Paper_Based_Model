@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0306053",
+  "title": "Finite size effects in determination of thermal conductivities: comparing molecular dynamics results with simple models",
+  "abstract": "The thermal conductivity of nanometric objects or nanostructured materials can be determined using non equilibrium molecular dynamics (NEMD) simulations. The technique is simple in its principle, and resembles a numerical guarded hot plate experiment. The 'sample' is placed between a hot source and a cold source consisting of thermostatted sets of atoms. The thermal conductivity is obtained from the heat flux crossing the sample and the temperature profile in the system. Simulations results, however, exhibit a strong dependence of the thermal conductivity on the sample size. In this paper, we discuss the physical origin of this size dependence, by comparing MD results with those obtained from simple models of thermal conductivity based on harmonic theory of solids. A model is proposed to explain the variation of the thermal conductivity with system size.",
+  "authors": [
+    "Patrice Chantrenne",
+    "Jean-Louis Barrat"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0306053.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0306053.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.776351+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0306053",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

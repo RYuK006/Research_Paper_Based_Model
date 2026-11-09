@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0403061",
+  "title": "Isotropic-Nematic Transition in Liquid-Crystalline Elastomers: Lattice Model with Quenched Disorder",
+  "abstract": "When liquid-crystalline elastomers pass through the isotropic-nematic transition, the orientational order parameter and the elastic strain vary rapidly but smoothly, without the expected first-order discontinuity. This broadening of the phase transition is an important issue for applications of liquid-crystalline elastomers as actuators or artificial muscles. To understand this behavior, we develop a lattice model of liquid-crystalline elastomers, with local directors coupled to a global strain variable. In this model, we can consider either random-bond disorder (representing chemical heterogeneity) or random-field disorder (representing heterogeneous local stresses). Monte Carlo simulations show that both types of disorder cause the first-order isotropic-nematic transition to broaden into a smooth crossover, consistent with the experiments. For random-field disorder, the smooth crossover into an ordered state can be attributed to the long-range elastic interaction.",
+  "authors": [
+    "Jonathan V. Selinger",
+    "B. R. Ratna"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevE.70.041707",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0403061.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0403061.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.554437+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0403061",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

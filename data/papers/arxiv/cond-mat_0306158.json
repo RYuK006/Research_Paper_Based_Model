@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0306158",
+  "title": "Anisotropy of microwave conductivity of YBaCuO in superconducting and normal states: Crossover 3D-2D",
+  "abstract": "Imaginary part of the microwave conductivity σ''(T<T_c) and the resistivity ρ(T)=1/σ(T>T_c) along (σ_{ab}'' and ρ_{ab}) and perpendicular to (σ_c'' and ρ_c) cuprate ab-planes of YBa_2Cu_3O_{7-x} crystal were measured in the temperature range 5\\leq T \\leq 200 K, having varied the oxygen doping level x in the crystal from 0.07 to 0.47. The superconducting state was found to have the dependences σ_{ab}''(T)/σ_{ab}''(0) and σ_c''(T)/σ_c''(0) coincide in the optimally doped (x=0.07) crystal. With the increase of x the dependences σ_c''(T)/σ_c''(0) have smaller slope at T<T_c/3 with σ_{ab}''(T)/σ_{ab}''(0) changing slightly. The ab-plane transport in the normal state of YBa_2Cu_3O_{7-x} crystal always remains metallic. However, a crossover from Drude conductivity (at x=0.07) along the c-axis to the hopping one (at x>0.07) takes place. This is proved by both estimating minimum metallic c-conductivity and maximum tunneling c-conductivity and quantitatively comparing the measured dependences ρ_c(T) with the ones calculated in the polaron model of quasiparticles' c-transport.",
+  "authors": [
+    "M. R. Trunin",
+    "Yu. A. Nefyodov"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0306158.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0306158.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.834019+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0306158",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

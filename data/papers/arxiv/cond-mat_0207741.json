@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0207741",
+  "title": "The effect of strain rate on the viscoplastic behavior of isotactic polypropylene at finite strains",
+  "abstract": "Two series of uniaxial tensile tests are performed on isotactic polypropylene with the strain rates ranging from 5 to 200 mm/min. In the first series, injection-molded specimens are used without thermal pre-treatment, whereas in the other series, the samples are annealed for 51 h at 160C prior to testing.   A constitutive model is developed for the viscoplastic behavior of isotactic polypropylene at finite strains. A semicrystalline polymer is treated as an equivalent heterogeneous network of chains bridged by permanent junctions (physical cross-links and entanglements). The network is thought of as an ensemble of meso-regions connected with each other by links (lamellar blocks). In the sub-yield region of deformations, junctions between chains in meso-domains slide with respect to their reference positions (which reflects sliding of nodes in the amorphous phase and fine slip of lamellar blocks). Above the yield point, sliding of nodes is accompanied by displacements of meso-domains in the ensemble with respect to each other (which reflects coarse slip and fragmentation of lamellar blocks).   Stress-strain relations for a semicrystalline polymer are derived by using the laws of thermodynamics. The constitutive equations are determined by 5 adjustable parameters that are found by matching observations. Fair agreement is demonstrated between the experimental data and the results of numerical simulation.",
+  "authors": [
+    "A. D. Drozdov",
+    "J. deC. Christiansen"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0207741.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0207741.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.797451+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0207741",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

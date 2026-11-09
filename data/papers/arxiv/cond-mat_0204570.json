@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0204570",
+  "title": "Spin polarized parametric pumping",
+  "abstract": "We have developed a general theory for a parametric pump consisting of a nonmagnetic system with two ferromagnetic leads whose magnetic moments orient at an angle $θ$ with respect to each other. In this theory, the leads can maintain at different chemical potential. As a result, the current is driven due to both the external bias and the pumping potentials. When both $θ$ and external bias are zero, our theory recovers the known theory. In particular, two cases are considered: (a). in the adiabatic regime, we have derived the pumped current for arbitrary pumping amplitude and external bias. (b). at finite frequency, the system is away from equilibrium, we have derived the pumped current up to quadratic order in pumping amplitude. Numerical results show interesting spin valve effects for pumped current.",
+  "authors": [
+    "Wu Junling",
+    "Baigeng Wang",
+    "Jian Wang"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0204570.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0204570.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.629473+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0204570",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

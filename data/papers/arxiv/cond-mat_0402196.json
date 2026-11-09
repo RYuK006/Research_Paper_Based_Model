@@ -1,0 +1,32 @@
+{
+  "id": "arxiv:cond-mat/0402196",
+  "title": "Local scale-invariance and ageing in noisy systems",
+  "abstract": "The influence of the noise on the long-time ageing dynamics of a quenched ferromagnetic spin system with a non-conserved order parameter and described through a Langevin equation with a thermal noise term and a disordered initial state is studied. If the noiseless part of the system is Galilei-invariant and scale-invariant with dynamical exponent z=2, the two-time linear response function is independent of the noise and therefore has exactly the form predicted from the local scale-invariance of the noiseless part. The two-time correlation function is exactly given in terms of certain noiseless three- and four-point response functions. An explicit scaling form of the two-time autocorrelation function follows. For disordered initial states, local scale-invariance is sufficient for the equality of the autocorrelation and autoresponse exponents in phase-ordering kinetics. The results for the scaling functions are confirmed through tests in the kinetic spherical model, the spin-wave approximation of the XY model, the critical voter model and the free random walk.",
+  "authors": [
+    "Alan Picone",
+    "Malte Henkel"
+  ],
+  "year": 2004,
+  "doi": "10.1016/j.nuclphysb.2004.03.028",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "hep-th",
+    "math-ph",
+    "math.MP"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0402196.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0402196.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.279127+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0402196",
+    "categories": [
+      "cond-mat.stat-mech",
+      "hep-th",
+      "math-ph",
+      "math.MP"
+    ]
+  }
+}

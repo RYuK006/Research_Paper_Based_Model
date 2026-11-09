@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0307633",
+  "title": "Dynamics of a magnetic moment induced by a spin-polarized current",
+  "abstract": "Effects of an incoming spin-polarized current on a magnetic moment are explored. We found that the spin torque occurs only when the incoming spin changes as a function of time inside of the magnetic film. This implies that some modifications are necessary in a phenomenological model where the coefficient of the spin torque term is a constant, and the coefficient is determined by dynamics instead of geometrical details. The precession of the magnetization reversal depends on the incoming energy of electrons in the spin-polarized current. If the incoming energy is smaller than the interaction energy, the magnetization does not precess while reversing its direction. We also found that the relaxation time associated with the reversal depends on the incoming energy. The coupling between an incoming spin and a magnetic moment can be estimated by measuring the relaxation time.",
+  "authors": [
+    "Wonkee Kim",
+    "F. Marsiglio"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0307633.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0307633.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.464485+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0307633",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0201509",
+  "title": "Effect of strain-induced electronic topological transitions on the superconducting properties of LaSrCuO thin films",
+  "abstract": "We propose a Ginzburg-Landau phenomenological model for the dependence of the critical temperature on microscopic strain in tetragonal high-Tc cuprates. Such a model is in agreement with the experimental results for LSCO under epitaxial strain, as well as with the hydrostatic pressure dependence of Tc in most cuprates. In particular, a nonmonotonic dependence of Tc on hydrostatic pressure, as well as on in-plane or apical microstrain, is derived. From a microscopic point of view, such results can be understood as due to the proximity to an electronic topological transition (ETT). In the case of LSCO, we argue that such an ETT can be driven by a strain-induced modification of the band structure, at constant hole content, at variance with a doping-induced ETT, as is usually assumed.",
+  "authors": [
+    "G. G. N. Angilella",
+    "G. Balestrino",
+    "P. Cermelli",
+    "P. Podio-Guidugli",
+    "A. A. Varlamov"
+  ],
+  "year": 2002,
+  "doi": "10.1140/epjb/e20020067",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0201509.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0201509.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.899093+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0201509",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

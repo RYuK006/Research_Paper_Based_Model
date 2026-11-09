@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0312123",
+  "title": "Lattice Boltzmann Algorithm for three-dimensional liquid crystal hydrodynamics",
+  "abstract": "We describe a lattice Boltzmann algorithm to simulate liquid crystal hydrodynamics in three dimensions. The equations of motion are written in terms of a tensor order parameter. This allows both the isotropic and the nematic phases to be considered. Backflow effects and the hydrodynamics of topological defects are naturally included in the simulations, as are viscoelastic effects such as shear-thinning and shear-banding. We describe the implementation of velocity boundary conditions and show that the algorithm can be used to describe optical bounce in twisted nematic devices and secondary flow in sheared nematics with an imposed twist.",
+  "authors": [
+    "C. Denniston",
+    "D. Marenduzzo",
+    "E. Orlandini",
+    "J. M. Yeomans"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0312123.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0312123.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.503649+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0312123",
+    "categories": [
+      "cond-mat.stat-mech"
+    ]
+  }
+}

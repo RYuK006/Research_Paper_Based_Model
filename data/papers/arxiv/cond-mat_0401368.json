@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0401368",
+  "title": "On the Phase Diagram of Josephson Junction Arrays with Offset Charges",
+  "abstract": "We study the effects of external offset charges on the phase diagram of Josephson junction arrays. Using the path integral approach, we provide a pedagogical derivation of the equation for the phase boundary line between the insulating and the superconducting phase within the mean-field theory approximation. For a uniform offset charge q=e the superconducting phase increases with respect to q=0 and a characteristic lobe structure appears in the phase diagram when the critical line is plotted as a function of q at fixed temperature. We review our analysis of the physically relevant situation where a Josephson network feels the effect of random offset charges. We observe that the Mott-insulating lobe structure of the phase diagram disappears for large variance (σ> e) of the offset charges probability distribution; with nearest-neighbor interactions, the insulating lobe around q=e is destroyed even for small values of σ. Finally, we study the case of random self-capacitances: here we observe that, until the variance of the distribution reaches a critical value, the superconducting phase increases in comparison to the situation in which all self-capacitances are equal.",
+  "authors": [
+    "F. P. Mancini",
+    "P. Sodano",
+    "A. Trombettoni"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0401368.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0401368.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.053515+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0401368",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0307266",
+  "title": "Quantum phase transition in easy-axis antiferromagnetic integer-spin chains",
+  "abstract": "Antiferromagnetic Heisenberg integer-spin chains are characterized by a spin-liquid ground state with no long-range order, due to the relevance of quantum fluctuations. Spin anisotropy, however, freezes quantum fluctuations, and the system is magnetized in the presence of a sufficiently large easy-axis anisotropy. We numerically investigate the case S=1, by means of the density-matrix renormalization group, and find that the freezing of the spin liquid into a Néel spin solid, with increasing easy-axis anisotropy, is a continuous quantum phase transition. Numerical evidence indicates that the transition is not in the two-dimensional Ising universality class.",
+  "authors": [
+    "M. Capone",
+    "S. Caprara",
+    "L. Cataldi"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0307266.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0307266.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.260150+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0307266",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

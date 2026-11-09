@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0111136",
+  "title": "Incoherent interlayer conductivity of layered systems",
+  "abstract": "The criterion for the maximum incoherent conductivity $σ_{c,max}$ in the anisotropic system is shown to be $σ_{c,max} σ_{ab}=C (e^2/h)^2 n_{2D}$, where $n_{2D}$ is the two-dimensional electron density, and $C$ is a numerical constant of order one. A model of c-axis interlayer conductivity of layered system in the incoherent regime is developed. The temperature dependence of the c-axis conductivity is derived to be $σ_c (T) \\sim T^α$, where $α$ is determined by the effective strength of the interplane voltage fluctuations. The ``pseudogap'' phenomenon of suppressed interplane conductivity at low frequencies (or low voltages) is discussed.",
+  "authors": [
+    "Misha Turlakov"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0111136.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0111136.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.280835+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0111136",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ]
+  }
+}

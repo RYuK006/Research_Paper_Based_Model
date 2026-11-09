@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0312154",
+  "title": "Path integral formulation of the tunneling dynamics of a superfluid Fermi gas in an optical potential",
+  "abstract": "To describe the tunneling dynamics of a stack of two-dimensional fermionic superfluids in an optical potential, we derive an effective action functional from a path integral treatment. This effective action leads, in the saddle point approximation, to equations of motion for the density and the phase of the superfluid Fermi gas in each layer. In the strong coupling limit (where bosonic molecules are formed) these equations reduce to a discrete nonlinear Schrodinger equation, where the molecular tunneling amplitude is reduced for large binding energies. In the weak coupling (BCS) regime, we study the evolution of the stacked superfluids and derive an approximate analytical expression for the Josephson oscillation frequency in an external harmonic potential. Both in the weak and intermediate coupling regimes the detection of the Josephson oscillations described by our path integral treatment constitutes experimental evidence for the fermionic superfluid regime.",
+  "authors": [
+    "M. Wouters",
+    "J. Tempere",
+    "J. T. Devreese"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevA.70.013616",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0312154.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0312154.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.524522+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0312154",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

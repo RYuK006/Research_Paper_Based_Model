@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0303462",
+  "title": "Self-stabilization of high frequency oscillations in semiconductor superlattices by time-delay autosynchronization",
+  "abstract": "We present a novel scheme to stabilize high-frequency domain oscillations in semiconductor superlattices by a time-delayed feedback loop. Applying concepts from chaos control theory we propose to control the spatio-temporal dynamics of fronts of accumulation and depletion layers which are generated at the emitter and may collide and annihilate during their transit, and thereby suppress chaos. The proposed method only requires the feedback of internal global electrical variables, viz current and voltage, which makes the practical implementation very easy.",
+  "authors": [
+    "J. Schlesner",
+    "A. Amann",
+    "N. B. Janson",
+    "W. Just",
+    "E. Schöll"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevE.68.066208",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0303462.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0303462.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:43.848285+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0303462",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

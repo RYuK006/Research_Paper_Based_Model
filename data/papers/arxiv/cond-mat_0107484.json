@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0107484",
+  "title": "Monte Carlo Methods for Small Molecule High-Throughput Experimentation",
+  "abstract": "By analogy with Monte Carlo algorithms, we propose new strategies for design and redesign of small molecule libraries in high-throughput experimentation, or combinatorial chemistry. Several Monte Carlo methods are examined, including Metropolis, three types of biased schemes, and composite moves that include swapping or parallel tempering. Among them, the biased Monte Carlo schemes exhibit particularly high efficiency in locating optimal compounds. The Monte Carlo strategies are compared to a genetic algorithm approach. Although the best compounds identified by the genetic algorithm are comparable to those from the better Monte Carlo schemes, the diversity of favorable compounds identified is reduced by roughly 60%.",
+  "authors": [
+    "Ligang Chen",
+    "Michael W. Deem"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0107484.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0107484.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.096300+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0107484",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

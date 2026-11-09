@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0404523",
+  "title": "Two-Peak Temperature Dependence of the Microwave Surface Impedance in Single-Crystalline YBCO Films",
+  "abstract": "Temperature dependencies of microwave surface impedance were measured for perfect c-oriented YBCO thin films deposited on CeO2-buffered sapphire substrates. The measurements revealed a distinct two-peak structure of Rs(T) and Xs(T) dependencies with peaks at 28-30 K and 50 K. The peaks become smeared at higher frequencies as well as in applied dc magnetic field about 1 kOe, while the peak positions remain almost unchanged. For less perfect, e.g., PLD films, Rs(T) and Xs(T) dependencies are monotonous (power law). The two-peak Zs(T)dependencies for YBCO films differ from those for high quality YBCO single crystals, where only one much broader frequency-dependent peak of Rs(T) was detected earlier. The two-peak Zs(T) behavior is believed to be an intrinsic electron property of extremely perfect quasi-single-crystalline YBCO films. A theoretical model is suggested to explain the observed anomalous Zs(T) behavior. The model is based on the Boltzman kinetic equation for quasiparticles in layered HTS cuprates. It takes into account the supposed s+d-wave symmetry of electron pairing and strong energy dependent relaxation time of quasiparticles, determined mainly by their elastic scattering on extended defects parallel to the c-axis (e.g., c-oriented dislocations and twin boundaries).",
+  "authors": [
+    "V. Pan",
+    "A. Kasatkin",
+    "V. Komashko",
+    "C. Tretiatchenko",
+    "O. Kalenyuk",
+    "A. Ivanyuta",
+    "G. Melkov"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0404523.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0404523.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:46.868019+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0404523",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

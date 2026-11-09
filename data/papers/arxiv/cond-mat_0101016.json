@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0101016",
+  "title": "Solidification in a channel",
+  "abstract": "We simulate solidification in a narrow channel through the use of a phase-field model with an adaptive grid. In different regimes, we find that the solid can grow in fingerlike steady-state shapes, or become unstable, exhibiting unsteady growth. At low melt undercoolings, we find good agreement between our results, theoretical predictions, and experiment. For high undercoolings, we report evidence for a new stable steady-state finger shape which exists in experimentally accessible ranges for typical materials.",
+  "authors": [
+    "Mohsen Sabouri-Ghomi",
+    "Nikolas Provatas",
+    "Martin Grant"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.soft"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0101016.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0101016.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:04.441457+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0101016",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.soft"
+    ]
+  }
+}

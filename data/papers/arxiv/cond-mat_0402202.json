@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0402202",
+  "title": "Heat Capacity Effects Associated with the Hydrophobic Hydration and Interaction of Simple Solutes: A Detailed Structural and Energetical Analysis Based on MD Simulations",
+  "abstract": "We examine the SPCE and TIP5P water models to study heat capacity effects associated with the hydrophobic hydration and interaction of Xenon particles. We calculate the excess chemical potential for Xenon employing the Widom particle insertion technique. The solvation enthalpy and excess heat capacity is obtained from the temperature dependence of the chemical potentials and, alternatively, directly by Ewald summation, as well as a reaction field based method. All three different approaches provide consistent results. The reaction field method allows a separation of the individual components to the heat capacity of solvation into solute/solvent and solvent/solvent parts, revealing the solvent/solvent part as the dominating contribution. A detailed spacial analysis of the heat capacity of the water molecules around a pair of Xenon particles at different separations reveals that the enhanced heat capacity of the water molecules in the bisector plane between two Xenon atoms is responsible for the maximum of the heat capacity observed at the desolvation barrier, recently reported by Shimizu and Chan ({\\em J. Am. Chem. Soc.},{\\bf 123}, 2083--2084 (2001)). The about 60% enlarged heat capacity of water in the concave part of the joint Xenon-Xenon hydration shell is the result of a counterplay of strengthened hydrogen bonds and an enhanced breaking of hydrogen bonds with increasing temperature. Differences between the two models concerning the heat capacity in the Xenon-Xenon contact state are attributed to the different water model bulk heat capacities, and to the different spacial extension of the structure effect introduced by the hydrophobic particles. Similarities between the different states of water in the joint Xenon-Xenon hydration shell and the properties of stretched water are discussed.",
+  "authors": [
+    "Dietmar Paschek"
+  ],
+  "year": 2004,
+  "doi": "10.1063/1.1737294",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0402202.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0402202.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.282468+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0402202",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

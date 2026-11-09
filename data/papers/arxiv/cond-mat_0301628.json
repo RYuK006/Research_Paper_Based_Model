@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0301628",
+  "title": "Vortex crystallisation in classical field theory",
+  "abstract": "We show that the formation of a vortex lattice in a weakly interacting Bose condensed gas can be modeled with the nonlinear Schrodinger equation for both T=0 and finite temperatures without the need for an explicit damping term. Applying a weak rotating anisotropic harmonic potential we find numerically that the turbulent dynamics of the field produces an effective dissipation of the vortex motion and leads to the formation of a lattice. For T=0 this turbulent dynamics is triggered by an already known rotational dynamic instability of the condensate. For finite temperatures, noise is present at the start of the simulation and allows the formation of a vortex lattice at a lower rotation frequency, the Landau frequency. These two regimes have different vortex dynamics. We show that the multimode interpretation of the classical field is essential.",
+  "authors": [
+    "Carlos Lobo",
+    "Alice Sinatra",
+    "Yvan Castin"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0301628.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0301628.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.664285+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0301628",
+    "categories": [
+      "cond-mat.stat-mech"
+    ]
+  }
+}

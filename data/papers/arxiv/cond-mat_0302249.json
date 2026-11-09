@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0302249",
+  "title": "Properties of superconducting MgB_2 wires: \"in-situ\" versus \"ex-situ\" reaction technique",
+  "abstract": "We have fabricated a series of iron-sheathed superconducting wires prepared by the powder-in-tube technique from (MgB_2)_{1-x}:(Mg+2B)_x initial powder mixtures taken with different proportions, so that x varies from 0 to 1. It turned out that \"ex-situ\" prepared wire (x = 0) has considerable disadvantages compared to all the other wires in which \"in-situ\" assisted (0 < x < 1) or pure \"in-situ\" (x = 1) preparation was used due to weaker inter-grain connectivity. As a result, higher critical current densities J_c were measured over the entire range of applied magnetic fields B_a for all the samples with x > 0. Pinning of vortices in MgB_2 wires is shown to be due to grain boundaries. J_c(B_a) behavior is governed by an interplay between the transparency of grain boundaries and the amount of \"pinning\" grain boundaries. Differences between thermo-magnetic flux-jump instabilities in the samples and a possible threat to practical applications are also discussed.",
+  "authors": [
+    "Alexey V Pan",
+    "Sihai Zhou",
+    "Huakun Liu",
+    "Shixue Dou"
+  ],
+  "year": 2003,
+  "doi": "10.1088/0953-2048/16/5/317",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0302249.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0302249.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.809110+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0302249",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

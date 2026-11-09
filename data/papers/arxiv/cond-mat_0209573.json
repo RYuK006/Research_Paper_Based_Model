@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0209573",
+  "title": "Static and dynamical dipolar / strain fluctuations in perovskite ferroelectric relaxors",
+  "abstract": "We develop a theory to study the characteristics of dipolar / strain fluctuations in perovskite relaxors. In addition to the soft TO and TA phonons, we take into account another freedom of motion associated with the random hopping of $\\mathrm{Pb^{2+}}$ ions between the off-center sites around the high symmetry corner site, thus constructing a coupled TO-TA-pseudospin model to describe the perovskite relaxors. It is shown that there is a possibility that prior to the on-set of instability of the uniform TO-mode (soft-mode), instability of TA mode with nanometer scale modulation $(\\mathbf{q}\\sim 0.1\\mathbf{a}^{*})$ takes place, which produces static heterogeneous structure concerning polarization as well as shear strain. This seems to suggest the intrinsic origin of the heterogeneity in relaxors visualized as random distribution of PNR. The phonon spectral density distribution has also been investigated. It is shown that when the relaxation time of random hopping of $\\mathrm{Pb^{2+}}$ ions is comparable to the TO phonon frequency at $\\mathbf{q}\\sim 0.1\\mathbf{a}^{*}$, the calculated phonon spectral density reproduces the characteristic features called `waterfall'.",
+  "authors": [
+    "Y. Yamada",
+    "T. Takakura"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0209573.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0209573.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.157180+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0209573",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

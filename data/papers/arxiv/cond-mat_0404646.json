@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0404646",
+  "title": "High performance magnetic field sensor based on Superconducting Quantum Interference Filters",
+  "abstract": "We have developed an absolute magnetic field sensor using Superconducting Quantum Interference Filter (SQIF) made of high-T_c grain boundary Josephson junctions. The device shows the typical magnetic field dependent voltage response V(B), which is sharp delta-like dip in the vicinity of zero magnetic field. When the SQIF is cooled with magnetic shield, and then the shield is removed, the presence of the ambient magnetic field induces a shift of the dip position from B_0 ~ 0 to a value B ~ B_1, which is about the average value of the earth magnetic field, at our latitude. When the SQIF is cooled in the ambient field without shielding, the dip is first found at B ~ B_1, and the further shielding of the SQIF results in a shift of the dip towards B_0 ~ 0. The low hysteresis observed in the sequence of experiments (less than 5% of B_1) makes SQIFs suitable for high precision measurements of the absolute magnetic field. The experimental results are discussed in view of potential applications of high-T_c SQIFs in magnetometry.",
+  "authors": [
+    "P. Caputo",
+    "J. Oppenlaender",
+    "Ch. Haeussler",
+    "J. Tomes",
+    "A. Friesch",
+    "T. Traeuble",
+    "N. Schopohl"
+  ],
+  "year": 2004,
+  "doi": "10.1063/1.1787165",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0404646.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0404646.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:46.918582+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0404646",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

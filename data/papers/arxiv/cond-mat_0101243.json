@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0101243",
+  "title": "Electron-boson effects in the infrared properties of metals",
+  "abstract": "The interpretation of optical conductivity in the normal and superconducting states is considered in the frame of the standard Isotropic Single wide Band (ISB) model using the theory proposed by Nam. The exact analytical inversion of the normal state Nam equations is performed and applied for the recovery of the reliable information from the experimental data. The Allen formula is derived in the strong coupling approximation and the phenomenological \"generalised\" Drude formula in a high temperature approximation. It is shown, that the reconstruction of the shape of the spectral function from the normal state optical data at T>Tc is not unique. A novel adaptive method of the exact numerical inversion of the superconducting state equations is presented. It is shown that, the fine structure of the spectral function can be recovered from optical data in the case of s-wave pairing symmetry. In contrast, in the d-wave case the resulting image is approximately the convolution of the input electron-boson interaction function and the wide Gauss distribution function. A simplified visual accessibility procedure is proposed for ''by eye`` analyses of the optical reflectivity of the ISB metals with s- and d- pairing symmetry.",
+  "authors": [
+    "S. V. Shulga"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0101243.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0101243.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:04.557564+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0101243",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

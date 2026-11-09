@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0303213",
+  "title": "Inertial mass of a superconducting vortex",
+  "abstract": "We show that a large contribution to the inertial mass of a moving superconducting vortex comes from transversal displacements of the crystal lattice. The corresponding part of the mass per unit length of the vortex line is $M_{l} = ({\\rm m}_e^2c^{2}/64πα^{2}μλ_{L}^{4})\\ln(λ_{L}/ξ)$ , where ${\\rm m}_{e}$ is the the bare electron mass, $c$ is the speed of light, $α=e^{2}/{\\hbar}c {\\approx} 1/137$ is the fine structure constant, $μ$ is the shear modulus of the solid, $λ_{L}$ is the London penetration length and $ξ$ is the coherence length. In conventional superconductors, this mass can be comparable to or even greater than the vortex core mass computed by Suhl.",
+  "authors": [
+    "E. M. Chudnovsky",
+    "A. B. Kuklov"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0303213.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0303213.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:11.065383+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0303213",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

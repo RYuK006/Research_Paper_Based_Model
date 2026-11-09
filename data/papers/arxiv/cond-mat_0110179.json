@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0110179",
+  "title": "Thermoelectric power of Cerium and Ytterbium intermetallics",
+  "abstract": "Temperature dependence S(T) of the thermoelectric power of metallic systems with cerium and ytterbium ions exhibits some characteristic features, which can be used to classify these systems into distinct categories. The experimental data are explained by the Kondo scattering in the presence of the crystal field splitting and various shapes of S(T) are related to different Kondo scales that characterize Ce and Yb ions at different temperatures. The low- and high-temperature behaviors are calculated for different fixed point models and the overall shape of S(T) is obtained by interpolation.   At high temperatures, we use the Coqblin-Schrieffer model and calculate S(T) by perturbation expansion with renormalized coupling constants. The renormalization is performed by the 'poor man's scaling'.   At low temperatures, we describe the dilute Ce and Yb alloys by an effective spin-degenerate single-impurity Anderson model, and the stoichiometric compounds by an effective spin-degenerate periodic Anderson model. The parameters of these low-temperature models are such that their effective Kondo scale coincides with the lowest Kondo scale of the Coqblin-Schrieffer model.   The interpolation between the results obtained for the Anderson model and the Coqblin-Schrieffer model explains the overall thermoelectric properties of most Ce and Yb intermetallics.",
+  "authors": [
+    "V. Zlatic",
+    "I. Milat",
+    "B. Coqblin",
+    "G. Czycholl"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0110179.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0110179.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.614905+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0110179",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

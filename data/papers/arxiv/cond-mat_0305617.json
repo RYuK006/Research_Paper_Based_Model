@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0305617",
+  "title": "Probing a ferromagnetic critical regime using nonlinear susceptibility",
+  "abstract": "The second order para-ferromagnetic phase transition in a series of amorphous alloys (Fe{_5}Co{_{50}}Ni{_{17-x}}Cr{_x}B{_{16}}Si{_{12}}) is investigated using nonlinear susceptibility. A simple molecular field treatment for the critical region shows that the third order suceptibility (chi{_3}) diverges on both sides of the transition temperature, and changes sign at T{_C}. This critical behaviour is observed experimentally in this series of amorphous ferromagnets, and the related assymptotic critical exponents are calculated. It is shown that using the proper scaling equations, all the exponents necessary for a complete characterization of the phase transition can be determined using linear and nonlinear susceptiblity measurements alone. Using meticulous nonlinear susceptibility measurements, it is shown that at times chi{_3} can be more sensitive than the linear susceptibility (chi{_1}) in unravelling the magnetism of ferromagnetic spin systems. A new technique for accurately determining T{_C} is discussed, which makes use of the functional form of chi{_3} in the critical region.",
+  "authors": [
+    "Sunil Nair",
+    "A. Banerjee"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevB.68.094408",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0305617.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0305617.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.708286+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0305617",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

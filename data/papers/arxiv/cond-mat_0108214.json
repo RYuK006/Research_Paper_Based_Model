@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0108214",
+  "title": "Ground states of quantum antiferromagnets in two dimensions",
+  "abstract": "We explore the ground states and quantum phase transitions of two-dimensional, spin S=1/2, antiferromagnets by generalizing lattice models and duality transforms introduced by Sachdev and Jalabert (Mod. Phys. Lett. B 4, 1043 (1990), http://onsager.physics.yale.edu/p32.pdf). The `minimal' model for square lattice antiferromagnets is a lattice discretization of the quantum non-linear sigma model, along with Berry phases which impose quantization of spin. With full SU(2) spin rotation invariance, we find a magnetically ordered ground state with Neel order at weak coupling, and a confining paramagnetic ground state with bond charge (e.g. spin Peierls) order at strong coupling. We study the mechanisms by which these two states are connected in intermediate coupling. We extend the minimal model to study different routes to fractionalization and deconfinement in the ground state, and also generalize it to cases with a uniaxial anisotropy (the spin symmetry group is then U(1)). For the latter systems, fractionalization can appear by the pairing of vortices in the staggered spin order in the easy-plane; however, we argue that this route does not survive the restoration of SU(2) spin symmetry. For SU(2) invariant systems we study a separate route to fractionalization associated with the Higgs phase of a complex boson measuring non-collinear, spiral spin correlations: we present phase diagrams displaying competition between magnetic order, bond charge order, and fractionalization, and discuss the nature of the quantum transitions between the various states. A strong check on our methods is provided by their application to S=1/2 frustrated antiferromagnets in one dimension: here, our results are in complete accord with those obtained by bosonization and by the solution of integrable models.",
+  "authors": [
+    "Subir Sachdev",
+    "Kwon Park"
+  ],
+  "year": 2001,
+  "doi": "10.1006/aphy.2002.6232",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0108214.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0108214.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.205809+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0108214",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "arxiv:cond-mat/0406622",
+  "title": "A theoretical analysis of flux-qubit measurements with a dc-SQUID",
+  "abstract": "The readout process of a superconducting flux-qubit is theoretically analyzed in terms of the quantum dynamics of a qubit-SQUID coupled system during measurement. The quantity directly observed by the measurement is the switching current (Isw) of the dc-SQUID placed around the qubit ring. In order to clarify the relation between the Isw and the qubit state, we calculated the time evolution of the density operator of the qubit-SQUID system while increasing the SQUID bias current until switching events occur and obtained the switching current distributions. This clarifies what information of the qubit is obtained by a dc-SQUID switching current measurement under specific conditions, for example, when the qubit eigenstate is a superposition of two different flux states.",
+  "authors": [
+    "H. Nakano",
+    "H. Tanaka",
+    "S. Saito",
+    "K. Semba",
+    "H. Takayanagi",
+    "M. Ueda"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0406622.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0406622.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.628917+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0406622",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.mes-hall"
+    ]
+  }
+}

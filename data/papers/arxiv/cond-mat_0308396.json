@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0308396",
+  "title": "Theory of Manganites Exhibiting Colossal Magnetoresistance",
+  "abstract": "The electronic properties of many transition metal oxide systems require new ideas concerning the behaviour of electrons in solids for their explanation. A recent example, subsequent to that of cuprate superconductors, is of rare earth manganites doped with alkaline earths, namely $Re_{1-x}A_x MnO_3$, which exhibit colossal magnetoresistance, metal insulator transition and many other poorly understood phenomena. Here we show that the strong Jahn Teller coupling between the twofold degenerate ($d_{x^2 -y^2}$ and $d_{3z^2 -r^2}$) $e_g$ orbitals of $Mn$ and lattice modes of vibration (of the oxygen octahedra surrounding the $Mn$ ions) dynamically reorganizes the former into a set of states (which we label $\\ell$) which are localized with large local lattice distortion and exponentially small intersite overlap, and another set (labelled $b$) which form a broad band. This hitherto unsuspected but microscopically inevitable $coexistence$ of radically different $\\ell$ and $b$ states, and their relative energies and occupation as influenced by doping $x$, temperature $T$, local Coulomb repulsion $U$ etc., underlies the unique effects seen in manganites. We present results from strong correlation calculations using the dynamical mean-field theory which accord with a variety of observations in the orbital liquid regime (say, for $0.2\\stackrel{<}\\sim x \\stackrel{<}\\sim 0.5$).We outline extensions to include intersite $\\ell$ coherence and spatial correlations/long range order.",
+  "authors": [
+    "T. V. Ramakrishnan",
+    "H. R. Krishnamurthy",
+    "S. R. Hassan",
+    "G. Venketeswara Pai"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0308396.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0308396.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.696937+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0308396",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

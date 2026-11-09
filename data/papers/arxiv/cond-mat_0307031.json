@@ -1,0 +1,32 @@
+{
+  "id": "arxiv:cond-mat/0307031",
+  "title": "Levy statistics and anomalous transport in quantum-dot arrays",
+  "abstract": "A novel model of transport is proposed to explain power law current transients and memory phenomena observed in partially ordered arrays of semiconducting nanocrystals. The model describes electron transport by a stationary Levy process of transmission events and thereby requires no time dependence of system properties. The waiting time distribution with a characteristic long tail gives rise to a nonstationary response in the presence of a voltage pulse. We report on noise measurements that agree well with the predicted non-Poissonian fluctuations in current, and discuss possible mechanisms leading to this behavior.",
+  "authors": [
+    "D. S. Novikov",
+    "M. Drndic",
+    "L. S. Levitov",
+    "M. A. Kastner",
+    "M. V. Jarosz",
+    "M. G. Bawendi"
+  ],
+  "year": 2005,
+  "doi": "10.1103/PhysRevB.72.075309",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.dis-nn"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0307031.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0307031.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.163942+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0307031",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.dis-nn"
+    ]
+  }
+}

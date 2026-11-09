@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0405641",
+  "title": "Off-lattice Kinetic Monte Carlo simulations of strained heteroepitaxial growth",
+  "abstract": "An off-lattice, continuous space Kinetic Monte Carlo (KMC) algorithm is discussed and applied in the investigation of strained heteroepitaxial crystal growth. As a starting point, we study a simplifying (1+1)-dimensional situation with inter-atomic interactions given by simple pair-potentials. The model exhibits the appearance of strain-induced misfit dislocations at a characteristic film thickness. In our simulations we observe a power law dependence of this critical thickness on the lattice misfit, which is in agreement with experimental results for semiconductor compounds. We furthermore investigate the emergence of strain induced multilayer islands or \"Dots\" upon an adsorbate wetting layer in the so-called Stranski-Krastanov (SK) growth mode. At a characteristic kinetic film thickness, a transition from monolayer to multilayer islands occurs. We discuss the microscopic causes of the SK-transition and its dependence on the model parameters, i.e. lattice misfit, growth rate, and substrate temperature.",
+  "authors": [
+    "Michael Biehl",
+    "Florian Much",
+    "Christian Vey"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0405641.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0405641.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.280928+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0405641",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

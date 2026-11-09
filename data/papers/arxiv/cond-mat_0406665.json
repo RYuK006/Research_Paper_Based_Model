@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0406665",
+  "title": "Size Reduction of The Transfer Matrix of Two-Dimensional Ising and Potts Models",
+  "abstract": "A new algebraic method is developed to reduce the size of the transfer matrix of Ising and three-state Potts ferromagnets, on strips of width r sites of square and triangular lattices. This size reduction has been set up in such a way that the maximum eigenvalues of both the reduced and original transfer matrices became exactly the same. In this method we write the original transfer matrix in a special blocked form in such a way that the sums of row elements of a block of the original transfer matrix be the same. The reduced matrix is obtained by replacing each block of the original transfer matrix with the sum of the elements of one of its rows. Our method results in significant matrix size reduction which is a crucial factor in determining the maximum eigenvalue.",
+  "authors": [
+    "M. Ghaemi",
+    "G. A. Parsafar"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0406665.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0406665.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.662829+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0406665",
+    "categories": [
+      "cond-mat.stat-mech"
+    ]
+  }
+}

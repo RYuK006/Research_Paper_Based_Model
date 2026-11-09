@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0406018",
+  "title": "Andreev billiards",
+  "abstract": "This is a review of recent advances in our understanding of how Andreev reflection at a superconductor modifies the excitation spectrum of a quantum dot. The emphasis is on two-dimensional impurity-free structures in which the classical dynamics is chaotic. Such Andreev billiards differ in a fundamental way from their non-superconducting counterparts. Most notably, the difference between chaotic and integrable classical dynamics shows up already in the level density, instead of only in the level--level correlations. A chaotic billiard has a gap in the spectrum around the Fermi energy, while integrable billiards have a linearly vanishing density of states. The excitation gap E_gap corresponds to a time scale h/E_gap which is classical (h-independent, equal to the mean time t_dwell between Andreev reflections) if t_dwell is sufficiently large. There is a competing quantum time scale, the Ehrenfest time t_E, which depends logarithmically on h. Two phenomenological theories provide a consistent description of the t_E-dependence of the gap, given qualitatively by E_gap min(h/t_dwell,h/t_E). The analytical predictions have been tested by computer simulations but not yet experimentally.",
+  "authors": [
+    "C. W. J. Beenakker"
+  ],
+  "year": 2004,
+  "doi": "10.1007/11358817_4",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0406018.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0406018.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.320363+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0406018",
+    "categories": [
+      "cond-mat.mes-hall"
+    ]
+  }
+}

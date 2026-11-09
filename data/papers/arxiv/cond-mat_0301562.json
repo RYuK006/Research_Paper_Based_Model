@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0301562",
+  "title": "From Plasticity to a Renormalisation Group",
+  "abstract": "The Marginally Rigid State is a candidate paradigm for what makes granular material a state of matter distinct from both liquid and solid. Coordination number is identified as a discriminating characteristic, and for rough-surfaced particles we show that the low values predicted are indeed approached in simple two dimensional experiments. We show calculations of the stress transmission suggesting that this is governed by local linear equations of constraint between the stress components. These constraints can in turn be related to the generalised forces conjugate to the motion of grains rolling over each other. The lack of a spatially coherent way of imposing a sign convention on these motions is a problem for up-scaling the equations, which leads us to attempt a renormalisation group calculation. Finally we discuss how perturbations propagate through such systems, suggesting a distinction between the behaviour of rough and of smooth grains.",
+  "authors": [
+    "R. C. Ball",
+    "R. Blumenfeld"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.dis-nn"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0301562.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0301562.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.635622+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0301562",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.dis-nn"
+    ]
+  }
+}

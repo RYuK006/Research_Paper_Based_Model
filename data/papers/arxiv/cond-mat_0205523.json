@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0205523",
+  "title": "Numerical study of duality and universality in a frozen superconductor",
+  "abstract": "The three-dimensional integer-valued lattice gauge theory, which is also known as a \"frozen superconductor,\" can be obtained as a certain limit of the Ginzburg-Landau theory of superconductivity, and is believed to be in the same universality class. It is also exactly dual to the three-dimensional XY model. We use this duality to demonstrate the practicality of recently developed methods for studying topological defects, and investigate the critical behavior of the phase transition using numerical Monte Carlo simulations of both theories. On the gauge theory side, we concentrate on the vortex tension and the penetration depth, which map onto the correlation lengths of the order parameter and the Noether current in the XY model, respectively. We show how these quantities behave near the critical point, and that the penetration depth exhibits critical scaling only very close to the transition point. This may explain the failure of superconductor experiments to see the inverted XY model scaling.",
+  "authors": [
+    "T. Neuhaus",
+    "A. Rajantie",
+    "K. Rummukainen"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevB.67.014525",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "hep-lat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0205523.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0205523.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.008346+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0205523",
+    "categories": [
+      "cond-mat.supr-con",
+      "hep-lat"
+    ]
+  }
+}

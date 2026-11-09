@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0208438",
+  "title": "A scheme for electrical detection of spin resonance signal from a single electron trap",
+  "abstract": "We study a scheme for electrical detection of the spin resonance (ESR) of a single electron trapped near a Field Effect Transistor (FET) conduction channel. In this scheme, the resonant Rabi oscillations of the trapped electron spin cause a modification of the average occupancy of a shallow trap, which can be detected through the change in the FET channel resistivity. We show that the dependence of the channel resistivity on the frequency of the rf field can have either peak or dip at the Larmor frequency of the electron spin in the trap.",
+  "authors": [
+    "I. Martin",
+    "D. Mozyrsky",
+    "H. W. Jiang"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0208438.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0208438.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:08.813139+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0208438",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.mes-hall"
+    ]
+  }
+}

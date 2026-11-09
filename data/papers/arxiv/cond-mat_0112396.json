@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0112396",
+  "title": "Tc for non s-wave pairing superconductors correlated with coherence length and effective mass",
+  "abstract": "For unconventional heavy Fermion superconductors, typified by UBe_13, the superconducting transition temperatures Tc are shown to correlate with a characteristic energy hbar^2 /(m* xi^2), m* being the effective mass and xi the coherence length. For four of the six materials for which Tc, m* and xi are available, kB Tc ~ 20 hbar^2 / (m* xi^2). One heavy Fermion material, UPd_2Al_3, reveals a tendency for the above linear behaviour to saturate at substantially larger hbar^2 / (m* xi^2) than for UBe_13. The sixth material considered, URu_2Si_2, falls between UBe_13 and UPd_2Al_3. To embrace d-wave pairing in cuprates, a log-log plot reveals that kB Tc ~ hbar^2 / (m* xi^2), but more materials for which m* and xi are measured will be required to substantiate the correlation in these high-Tc substances.",
+  "authors": [
+    "G. G. N. Angilella",
+    "N. H. March",
+    "R. Pucci"
+  ],
+  "year": 2001,
+  "doi": "10.1103/PhysRevB.62.13919",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0112396.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0112396.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.603949+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0112396",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

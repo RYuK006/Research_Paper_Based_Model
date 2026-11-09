@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0104270",
+  "title": "Nonlinear ac response of anisotropic composites",
+  "abstract": "When a suspension consisting of dielectric particles having nonlinear characteristics is subjected to a sinusoidal (ac) field, the electrical response will in general consist of ac fields at frequencies of the higher-order harmonics. These ac responses will also be anisotropic. In this work, a self-consistent formalism has been employed to compute the induced dipole moment for suspensions in which the suspended particles have nonlinear characteristics, in an attempt to investigate the anisotropy in the ac response. The results showed that the harmonics of the induced dipole moment and the local electric field are both increased as the anisotropy increases for the longitudinal field case, while the harmonics are decreased as the anisotropy increases for the transverse field case. These results are qualitatively understood with the spectral representation. Thus, by measuring the ac responses both parallel and perpendicular to the uniaxial anisotropic axis of the field-induced structures, it is possible to perform a real-time monitoring of the field-induced aggregation process.",
+  "authors": [
+    "J. P. Huang",
+    "Jones T. K. Wan",
+    "C. K. Lo",
+    "K. W. Yu"
+  ],
+  "year": 2001,
+  "doi": "10.1103/PhysRevE.64.061505",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0104270.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0104270.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.305047+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0104270",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

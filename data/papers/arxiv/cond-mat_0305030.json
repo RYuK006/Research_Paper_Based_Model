@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0305030",
+  "title": "Voronoi Construction for Improving Numerical Calculations of Particles",
+  "abstract": "Calculations on atomistic scale are necessary for understanding of physical phenomena occurring during advanced processing of liquids, slurries, and nano-ceramics composite materials. This paper describes some new ideas for using the Voronoi construction for calculations of amorphous materials or liquids in comparison to the regular arrangement of atoms in crystals. This approach for treating numerical calculations can be used for any particle simulation method, like Molecular Dynamics or Ab-initio calculations in real or reciprocal space. In the discussion the interpretation of electron dispersion relations for use in solid state physics is also summarized.",
+  "authors": [
+    "Wilfried Wunderlich"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0305030.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0305030.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.421251+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0305030",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

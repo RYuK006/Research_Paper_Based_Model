@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0110386",
+  "title": "Combining quantum and classical density functional theory for ion-electron mixtures",
+  "abstract": "We combine techniques from quantum and from classical density functional theory (DFT) to describe electron-ion mixtures. For homogeneous systems, we show how to calculate ion-ion and ion-electron correlation functions within Chihara's quantum hypernetted chain approximation, which we derive within a DFT formulation. We also sketch out how to apply the DFT formulation to inhomogeneous electron-ion mixtures, and use this to study the electron distribution at the liquid-solid interface of Al.",
+  "authors": [
+    "A. A. Louis",
+    "H. Xu",
+    "J. A. Anta"
+  ],
+  "year": 2001,
+  "doi": "10.1016/S0022-3093(02)01650-2",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0110386.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0110386.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.722240+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0110386",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

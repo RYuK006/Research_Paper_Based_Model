@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0209207",
+  "title": "Three-dimensional reconstruction of the Fermi surface of LaB6",
+  "abstract": "The 2-dimensional angular correlations of the positron annihilation radiation (2D-ACAR) on a single crystal of LaB6 was measured for three projections. The 2D-ACAR spectra were subjected to the Van Citter-Gerhard deconvolution alghorithm. From the experimental spectra we produced the 3D k-space density rho(k) via three different methods: i) we reconstructed the 3D electron-positron momentum density rho(p) via the Cormack method. rho(k) was then obtained by applying the 3D LCW transformation to rho(p). ii) The same steps of point i) were repeated adopting a modified Fourier-transform-based algorithm. iii) The 3d k-space occupancy rho(k) was obtained directly by parameterising the Fermi surface volume with prolate ellipsoids whose axes were determined by a least-square fit to the 2D LCW transformations applied to two high symmetry projections. The ellipsoids diameters along high symmetry directions of the cubic Brillouin zone (BZ), as a fraction of the BZ size, were 0.64 (dir. X-M) and 0.82 (dir. Gamma-X). The resulting Fermi volume, as a fraction of the BZ volume, was 0.55. These results agree within 1% with those obtained via the de Haas van Alphen experiments.",
+  "authors": [
+    "M. Monge",
+    "M. Biasini",
+    "G. Kontrym-Sznajd",
+    "N. Sato"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0209207.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0209207.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:08.997114+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0209207",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

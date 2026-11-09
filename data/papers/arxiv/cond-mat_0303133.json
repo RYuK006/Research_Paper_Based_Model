@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0303133",
+  "title": "Thermodynamic Theory for Fiber Suspensions",
+  "abstract": "In this paper three different approaches towards a continuum theory of fiber suspensions are discussed. The first one is the classical Thermodynamics of Irreversible Processes with internal variables. It derives constitutive equations for fiber suspensions on the basis of ONSAGERs phenomenological coefficients, which are related to the mechanical properties of the fibers. Secondly another method of exploiting the dissipation inequality, the method introduced by LIU is applied in order to derive results on constitutive equations. Finally a mesoscopic background theory is discussed. In this approach a distribution of different fiber orientations and fiber deformations is assumed. The fiber orientation and deformation are additional variables in the domain of field quantities. The new field quantities on the enlarged set of variables obey balance equations. The mesoscopic balance of mass results in an equation of motion for the distribution of fiber orientations and deformations. The usual macroscopic fields of continuum mechanics are averages of mesoscopic fields over the different orientations and deformations. Macroscopic quantities characterizing the orientational order, the alignment tensors are defined by the help of the orientation distribution function. They are internal variables in the macroscopic theory characterizing the distribution of fiber orientations.",
+  "authors": [
+    "C. Papenfuss",
+    "J. Verhas",
+    "W. Muschik"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.soft"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0303133.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0303133.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:11.017607+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0303133",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.soft"
+    ]
+  }
+}

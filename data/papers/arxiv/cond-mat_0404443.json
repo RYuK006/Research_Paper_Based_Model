@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0404443",
+  "title": "Low temperature transport in granular metals",
+  "abstract": "We investigate transport in a granular metallic system at large tunneling conductance between the grains. We show that at low temperatures, $T\\leq g_Tδ$, where $δ$ is the single mean energy level spacing in a grain, the coherent electron motion at large distances dominates the physics, contrary to the high temperature ($T > g_T δ$) behavior where conductivity is controlled by the scales of the order of the grain size. The conductivity of one and two dimensional granular metals, in the low temperature regime, decays with decreasing temperature in the same manner as that in homogeneous disordered metals, indicating thus an insulating behavior. However, even in this temperature regime the granular structure remains important and there is an additional contribution to conductivity coming from short distances. Due to this contribution the metal-insulator transition in three dimensions occurs at the value of tunnel conductance $g_T^C=(1/6π)\\ln (E_C/δ)$, where $E_C$ is the charging energy of an isolated grain, and not at the generally expected $g_T^C \\propto 1$. Corrections to the density of states of granular metals due to the electron-electron interaction are calculated. Our results compare favorably with the logarithmic dependence of resistivity in the high-$T_c$ cuprate superconductors indicating that these materials may have a granular structure.",
+  "authors": [
+    "I. S. Beloborodov",
+    "K. B. Efetov",
+    "A. V. Lopatin",
+    "V. M. Vinokur"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0404443.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0404443.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:46.836531+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0404443",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.supr-con"
+    ]
+  }
+}

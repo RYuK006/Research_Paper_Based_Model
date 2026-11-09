@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0406468",
+  "title": "Spin dynamics for bosons in an optical lattice",
+  "abstract": "We study the internal dynamics of bosonic atoms in an optical lattice. Within the regime in which the atomic crystal is a Mott insulator with one atom per well, the atoms behave as localized spins which interact according to some spin Hamiltonian. The type of Hamiltonian (Heisenberg, Ising), and the sign of interactions may be tuned by changing the properties of the optical lattice, or applying external magnetic fields. When, on the other hand, the number of atoms per lattice site is unknown, we can still use the bosons to perform general quantum computation.",
+  "authors": [
+    "J. J. Garcia-Ripoll",
+    "J. I. Cirac"
+  ],
+  "year": 2004,
+  "doi": "10.1088/1367-2630/5/1/376",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.other",
+    "cond-mat.soft"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0406468.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0406468.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.565285+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0406468",
+    "categories": [
+      "cond-mat.other",
+      "cond-mat.soft"
+    ]
+  }
+}

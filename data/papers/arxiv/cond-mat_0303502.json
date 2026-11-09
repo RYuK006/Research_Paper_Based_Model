@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0303502",
+  "title": "Charge ordering and inter-layer coupling in cuprates",
+  "abstract": "We analyze the superconducting state and c-axis charge dynamics of cuprates at optimal doping using a charge ordered bilayer superlattice model in which pairing is supported by inter-layer Coulomb energy gain (potential energy driven superconductivity).The 2D pair-condensate can be characterized by a charge ordered state with a \"checkerboard\" like pattern seen by scanning tunneling microscopy.The pair condensation might lead to the sharp decrease of the normal state c-axis anisotropy of the hole content and hence to the decrease of inter-layer dielectric screening.The decrease of the c-axis dielectric screening can be the primary source of the condensation energy below $T_c$. We find that a net gain in the electrostatic energy occurs along the c-axis, which is proportional to the measured condensation energy ($U_0$) and with $T_c$:$E_c^{3D} \\approx 2 (ξ_{ab}/a_0+1)^2 U_0 \\approx k_B T_c$ and is due to inter-layer charge complementarity (charge asymmetry of the boson condensate) where $ξ_{ab}$ is the coherence length of the condensate and $a_0 \\approx 3.9 Å$ is the in-planelattice constant.",
+  "authors": [
+    "P. Süle"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0303502.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0303502.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:43.860600+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0303502",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

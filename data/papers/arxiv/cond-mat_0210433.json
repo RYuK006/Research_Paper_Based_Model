@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0210433",
+  "title": "Instrument Control at the FRM-II using TACO and NICOS",
+  "abstract": "At the new neutron source FRM--II in Garching, Germany, the TACO control system, originally developed at the ESRF in Grenoble, France is used for instrument control purposes. TACO provides an object oriented, distributed control system including a clearly defined API. In order to equip TACO with a general user front end, a network based instrument control system named NICOS has been developed at the FRM-II. NICOS is divided into three parts: the NICOS Client, the NICOS Server and the NICOSMethods.",
+  "authors": [
+    "Tobias Unruh"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0210433.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0210433.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.421478+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0210433",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

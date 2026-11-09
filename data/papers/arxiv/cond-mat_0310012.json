@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0310012",
+  "title": "Quasiclassical theory of charge transport in disordered interacting electron systems",
+  "abstract": "We consider the corrections to the Boltzmann theory of electrical transport arising from the Coulomb interaction in disordered conductors. In this article the theory is formulated in terms of quasiclassical Green's functions. We demonstrate that the formalism is equivalent to the conventional diagrammatic technique by deriving the well-known Altshuler-Aronov corrections to the conductivity. Compared to the conventional approach, the quasiclassical theory has the advantage of being closer to the Boltzmann theory, and also allows description of interaction effects in the transport across interfaces, as well as non-equilibrium phenomena in the same theoretical framework. As an example, by applying the Zaitsev boundary conditions which were originally developed for superconductors, we obtain the $P(E)$-theory of the Coulomb blockade in tunnel junctions. Furthermore we summarize recent results obtained for the non-equilibrium transport in thin films, wires and fully coherent conductors.",
+  "authors": [
+    "P. Schwab",
+    "R. Raimondi"
+  ],
+  "year": 2003,
+  "doi": "10.1002/andp.200310024",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0310012.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0310012.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:46.307002+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0310012",
+    "categories": [
+      "cond-mat.mes-hall"
+    ]
+  }
+}

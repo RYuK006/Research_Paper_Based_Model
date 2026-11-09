@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0307020",
+  "title": "A Generalization of both the Method of Images and of the Classical Integral Transforms",
+  "abstract": "A new method for the solution of initial-boundary value problems for evolution PDEs recently introduced by Fokas is generalised to multidimensions. Also the relation of this method with the method of images and with the classical integral transforms is discussed. The new method is easy to implement, yet it is applicable to problems for which the classical approaches apparently fail. As illustrative examples, initial-boundary value problems for the diffusion-convection equation in one and higher dimensions, as well as for the linearised Korteweg-de Vries equation with the space variables on the half-line are solved. The suitability of the new method for the analysis of the the long-time asymptotics is ellucidated.",
+  "authors": [
+    "Athanassios S. Fokas",
+    "Daniel ben-Avraham"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0307020.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0307020.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.157094+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0307020",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

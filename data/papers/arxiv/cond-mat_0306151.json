@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0306151",
+  "title": "The pseudogap state in superconductors: Extended Hartree approach to time-dependent Ginzburg-Landau Theory",
+  "abstract": "It is well known that conventional pairing fluctuation theory at the Hartree level leads to a normal state pseudogap in the fermionic spectrum. Our goal is to extend this Hartree approximated scheme to arrive at a generalized mean field theory of pseudogapped superconductors for all temperatures $T$. While an equivalent approach to the pseudogap has been derived elsewhere using a more formal Green's function decoupling scheme, in this paper we re-interpret this mean field theory and BCS theory as well, and demonstrate how they naturally relate to ideal Bose gas condensation. Here we recast the Hartree approximated Ginzburg-Landau self consistent equations in a T-matrix form. This recasting makes it possible to consider arbitrarily strong attractive coupling, where bosonic degrees of freedom appear at $ T^*$ considerably above $T_c$. The implications for transport both above and below $T_c$ are discussed. Below $T_c$ we find two types of contributions. Those associated with fermionic excitations have the usual BCS functional form. That they depend on the magnitude of the excitation gap, nevertheless, leads to rather atypical transport properties in the strong coupling limit, where this gap (as distinct from the order parameter) is virtually $T$-independent. In addition, there are bosonic terms arising from non-condensed pairs whose transport properties are shown here to be reasonably well described by an effective time-dependent Ginzburg-Landau theory.",
+  "authors": [
+    "Jelena Stajic",
+    "Andrew Iyengar",
+    "Qijin Chen",
+    "K. Levin"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevB.68.174517",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0306151.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0306151.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.830363+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0306151",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

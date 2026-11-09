@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0102353",
+  "title": "Critical currents and vortex dynamics in super-conducting MgB2",
+  "abstract": "The recently-discovered MgB2 super-conductor has a transition temperature Tc approaching 40K, placing it intermediate between the families of low and high temperature super-conductors (LTS and HTS). In practical applications, super-conductors are permeated by quantised magnetic flux vortices, and when a current flows there is dissipation unless the vortices are \"pinned\" in some way, and so inhibited from moving under the influence of the Lorentz force. This vortex motion sets the limiting critical current density Jc in the super-conductor. Vortex behaviour has proved to be more complicated in the HTS than in LTS materials. While this has stimulated extensive theoretical and experimental research, it has impeded applications. Clearly it is important to explore vortex behaviour in MgB2; here we report on Jc, and also on the creep rate S, which is a measure of how fast the \"persistent\" currents decay. Our results show that naturally-occurring grain boundaries are highly transparent to supercurrent, and suggest that the steep decline in Jc with increasing magnetic field H reflects a weakening of the vortex pinning energy, possibly because this compound forms naturally with a high degree of crystalline perfection.",
+  "authors": [
+    "Y. Bugoslavsky",
+    "G. K. Perkins",
+    "X. Qi",
+    "L. F. Cohen",
+    "A. D. Caplin"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0102353.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0102353.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:04.828868+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0102353",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

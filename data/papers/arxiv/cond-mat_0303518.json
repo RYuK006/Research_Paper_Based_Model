@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0303518",
+  "title": "On the Kohn-Sham equations with periodic background potentials",
+  "abstract": "We study the question of existence and uniqueness for the finite temperature Kohn-Sham equations. For finite volumes, a unique soluion is shown to exists if the effective potential satisfies a set of general conditions and the coupling constant is smaller than a certain value. For periodic background potentials, this value is proven to be volume independent. In this case, the finite volume solutions are shown to converge as the thermodynamic limit is considered. The local density approximation is shown to satisfy the general conditions mentioned above.",
+  "authors": [
+    "E. Prodan",
+    "P. Nordlander"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0303518.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0303518.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:43.865652+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0303518",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

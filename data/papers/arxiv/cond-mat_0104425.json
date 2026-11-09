@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0104425",
+  "title": "Converting the reset",
+  "abstract": "We give a simple algorithm to incorporate the effects of resets in convertible bond prices, without having to add an extra factor to take into account the value of the reset. Furthermore we show that the effect of a notice period, and additional make-whole features, can be treated in a straightforward and simple manner. Although we present these results with the stockprice driven by geometric Brownian and a deterministic interest term structure, our results can be extended to more general cases, e.g. stochastic interest rates.",
+  "authors": [
+    "J. K. Hoogland",
+    "C. D. D. Neumann",
+    "D. Bloch"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0104425.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0104425.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.370179+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0104425",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

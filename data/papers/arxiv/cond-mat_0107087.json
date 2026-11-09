@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0107087",
+  "title": "Comment on ``New Vortex-Matter Size Effect Observed in Bi$_2$Sr$_2$CaCu$_2$O$_{8+δ}$\"",
+  "abstract": "The Letter of Wang et al. \\cite{wan} is related to the recently discovered vanishing of the second magnetization peak (SMP) in high-$T_c$ superconductors reducing the sample size \\cite{kope1,kope2,gal}. This phenomenon has been interpreted \\cite{kope1,kope2,gal} in terms of thermomagnetic instability (TMI) effects. The TMI approach has also been adopted by Wang et al. in their previous work \\cite{wan2} on the critical sample size temperature dependence $R_{cr}(T)$ measured in Bi$_2$Sr$_2$CaCu$_2$O$_{8+δ}$ (Bi2212) single crystals. In contrast, in the recently published Letter \\cite{wan} the authors claimed that the $R_{cr}(T)$ obtained for Bi2212 crystals is at odds with the TMI model and proposed an alternative explanation of the results assuming that the SMP vanishes as the sample width (or diameter) becomes smaller than the in-plane vortex correlation length $R_c^{2D}(T) \\sim J_c(T)^{-1/2}$, where $J_c(T)$ is the critical current density. We demonstrate below that the authors conclusion is misleading.",
+  "authors": [
+    "Y. Kopelevich",
+    "P. Esquinazi"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0107087.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0107087.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.962200+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0107087",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

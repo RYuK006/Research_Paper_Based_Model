@@ -1,0 +1,35 @@
+{
+  "id": "arxiv:cond-mat/0106231",
+  "title": "Dynamics and Stability of Bose-Einstein Condensates: the Nonlinear Schrodinger Equation with Periodic Potential",
+  "abstract": "The cubic nonlinear Schrodinger equation with a lattice potential is used to model a periodic dilute gas Bose-Einstein condensate. Both two- and three-dimensional condensates are considered, for atomic species with either repulsive or attractive interactions. A family of exact solutions and corresponding potential is presented in terms of elliptic functions. The dynamical stability of these exact solutions is examined using both analytical and numerical methods. For condensates with repulsive atomic interactions, all stable, trivial-phase solutions are off-set from the zero level. For condensates with attractive atomic interactions, no stable solutions are found, in contrast to the one-dimensional case.",
+  "authors": [
+    "Bernard Deconinck",
+    "Bela A. Frigyik",
+    "J. Nathan Kutz"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat",
+    "math-ph",
+    "math.AP",
+    "math.MP",
+    "nlin.PS"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0106231.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0106231.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.756939+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0106231",
+    "categories": [
+      "cond-mat",
+      "math-ph",
+      "math.AP",
+      "math.MP",
+      "nlin.PS"
+    ]
+  }
+}

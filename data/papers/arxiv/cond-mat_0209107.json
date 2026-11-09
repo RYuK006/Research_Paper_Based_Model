@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0209107",
+  "title": "Diversification and Gerneralized Tracking Errors For Correlated Non-Normal Returns",
+  "abstract": "The probability distribution for the relative return of a portfolio constructed from a subset n of the assets from a benchmark, consisting of N assets whose returns are multivariate normal, is completely characterized by its tracking error. However, if the benchmark asset returns are not multivariate normal then higher moments of the probability distribution for the portfolio's relative return are not related to its tracking error. We discuss the convergence of generalized tracking error measures as the size of the subset of benchmark assets increases. Assuming that the joint probability distribution for the returns of the assets is symmetric under their permutations we show that increasing n makes these generalized tracking errors small (even though n<<N). For n>>1 the probability distribution for the portfolio's relative return is approximately symmetric and strongly peaked about the origin. The results of this paper generalize the conclusions of Dynkin et. al. (2002) to more general underlying asset distributions.",
+  "authors": [
+    "Mark B. Wise",
+    "Vineer Bhansali"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0209107.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0209107.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:08.951349+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0209107",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

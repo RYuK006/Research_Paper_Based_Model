@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0312240",
+  "title": "Tunable spin polarization in III-V quantum wells with a ferromagnetic barrier",
+  "abstract": "We demonstrate the epitaxial growth of optical-quality electrically-gated III-V ferromagnetic quantum structures. Photoluminescence spectroscopy reveals that initially unpolarized photoexcited holes in a GaAs quantum well become spin-polarized opposite to the magnetization of an adjacent digital ferromagnetic layer in the AlGaAs barrier. A vertical bias is used to tune the spin polarization from -0.4 to 6.3 percent at T = 5 K and B = 1 kG during which the luminescence becomes quenched, indicating that the polarization is mediated by wave function overlap between heavy holes in the quantum well and Mn-ions in the barrier. Polarization is observed under negligible current flow and is insensitive to the initial spin orientation of the carriers, differentiating the effect from both electrical and optical spin injection.",
+  "authors": [
+    "R. C. Myers",
+    "A. C. Gossard",
+    "D. D. Awschalom"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevB.69.161305",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0312240.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0312240.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.574794+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0312240",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

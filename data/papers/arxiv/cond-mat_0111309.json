@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0111309",
+  "title": "Method of envelope functions and intervalley Γ-X_z interaction of states in (001) III-V semiconductor heterostructures",
+  "abstract": "The kp method is used to analyze the problem of intervalley Γ-X_z interaction of conduction band states in the (001) lattice-matched III-V semiconductor heterostructures. A convenient basis for expansion of the wave function is systematically selected and a multiband system of equations is derived for the envelope functions which is then reduced to a system of three equations for three valleys (Γ_1, X_1, and X_3) by using a unitary transformation. Intervalley Γ-X_z mixing is described by short-range potentials localized at heterojunctions. The expressions for the parameters determining Γ-X_z mixing strength explicitly contain the chemical composition profile of the structure since mixing is naturally stronger for abrupt heterojunctions than for structures with a continuously varying chemical composition. It is shown that the direct Γ_1-X_1 interaction of comparable strength to Γ_1-X_3 interaction exists. This must be taken into account when interpreting tunnel and optical experiments since X_1 valley is substantially lower in energy than X_3 valley.",
+  "authors": [
+    "E. E. Takhtamirov",
+    "V. A. Volkov"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0111309.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0111309.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.362675+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0111309",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

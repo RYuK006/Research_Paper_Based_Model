@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0312274",
+  "title": "Nondemolition measurements of a single quantum spin using Josephson oscillations",
+  "abstract": "We consider a Josephson junction containing a single localized spin 1/2 between conventional singlet superconducting electrodes. We study the spin dynamics and measurements when a dc-magnetic field ${\\bf B}\\parallel z$ acts on the spin and the junction is embedded into a dissipative circuit. We show that when tunneling or a voltage are turned on at time $t=0$ the Josephson current starts to oscillate with an amplitude depending on the initial ($t=0$) value of the spin $z$-component, $S_z= \\pm 1/2$. At low temperatures, when effects of quasiparticles may be neglected, this procedure realizes a quantum-non-demolition (QND) measurement of $S_z$.",
+  "authors": [
+    "L. Bulaevskii",
+    "M. Hruška",
+    "A. Shnirman",
+    "D. Smith",
+    "Yu. Makhlin"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevLett.92.177001",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0312274.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0312274.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.585594+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0312274",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

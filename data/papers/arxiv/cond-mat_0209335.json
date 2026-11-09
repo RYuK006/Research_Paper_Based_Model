@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0209335",
+  "title": "Self-consistent solution of the Kohn-Sham equations for systems with inhomogeneous electron gas",
+  "abstract": "The gas of the interacted electrons is usually described within Kohn-Sham approximation by the set of Poisson and Schrödinger equations with an effective potential for the single-particle wave functions. The solution of these equations should give the self-consistent electron density distribution and Coulomb potential those can only be obtained using many-step iteration procedure. The well known difficulty in this task is that the wave functions obtained after every iteration step give the distribution of electron density which is not corresponded to the boundary conditions for the Coulomb potential. As a result, either it is impossible to obtain the solution for the next iteration step or some parameters of the system are to be changed, for example, the density of the positive charge. The last way is disagreed with the Euler-Lagrange variational derivation of the self-consistent equations. We propose new converging iterative scheme for solving Kohn-Sham and Poisson equations, where we do not need to modify parameters of the system. This procedure was tested for two tasks:   1. Semi-infinite electron gas bounded by infinite potential barrier. This model allows to simulate the behavior of the electron density near a semiconductor-insulator interface. The quantum corrections to the capacity of the barrier structure are calculated.   2. Semi-infinite electron gas which is bounded by self-consistent potential barrier within the famous Lang-Kohn jellium model of the metal surface. The new converging calculations give the results which are different from the non-selfconsistent ones obtained by Lang and Kohn and have the better agreement with the experimental data.",
+  "authors": [
+    "A. Ya. Shul'man",
+    "D. V. Posvyanskii"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0209335.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0209335.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.045656+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0209335",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

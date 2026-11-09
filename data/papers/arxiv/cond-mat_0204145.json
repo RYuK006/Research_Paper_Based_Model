@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0204145",
+  "title": "A Marginal Dimension of a Weakly Diluted Quenched m-Vector Model",
+  "abstract": "We calculate a marginal order parameter dimension $m_c$ which in a weakly diluted quenched $m$-vector model controls the crossover from a universality class of a ``pure'' model ($m>m_c$) to a new universality class ($m<m_c$). Exploiting the Harris criterion and the field-theoretical renormalization group approach allows us to obtain $m_c$ as a five-loop $ε$-expansion as well as a six-loop pseudo-$ε$ expansion. In order to estimate the numerical value of $m_c$ we process the series by precisely adjusted Padé--Borel--Leroy resummation procedures. Our final result $m_c=1.912\\pm0.004<2$ stems from the longer and more reliable pseudo-$ε$ expansion, suggesting that a weak quenched disorder does not change the values of $xy$-model critical exponents as it follows from the experiments on critical properties of ${\\rm He}^4$ in porous media.",
+  "authors": [
+    "Yu. Holovatch",
+    "M. Dudka",
+    "T. Yavors'kii"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0204145.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0204145.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.412246+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0204145",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

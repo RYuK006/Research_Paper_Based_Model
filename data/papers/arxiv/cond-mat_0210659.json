@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0210659",
+  "title": "Learning strategies for global games with delayed payoffs",
+  "abstract": "Economic ensembles can be modeled as networks of interacting agents whose be-haviors are described in terms of game theory. The evolutionary paradigm has been applied to two-person games to discover strategies in this context. Subse-quently, many-player games, and specifically global games (where payoffs depend collectively on all the rest of the players) as with the minimal game, have been studied. The minority game is attractive because it has intuitive similarities to e.g. securing niche businesses. We enhance this intuitive similarity by extending the game through the introduction of delayed payoffs. Payoffs depend on the values of future moves; we reward choices which later on become popular.   We study agents' moves in such global game with delayed payoff. Instead of an evolutionary approach we allow learning in the agents. We study strategies that may emerge through learning in agents in such games.",
+  "authors": [
+    "Wan Ahmad Tajuddin Wan Abdullah"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0210659.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0210659.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.538796+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0210659",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0210359",
+  "title": "Quantum and classical localisation and the Manhattan lattice",
+  "abstract": "We consider a network model, embedded on the Manhattan lattice, of a quantum localisation problem belonging to symmetry class C. This arises in the context of quasiparticle dynamics in disordered spin-singlet superconductors which are invariant under spin rotations but not under time reversal. A mapping exists between problems belonging to this symmetry class and certain classical random walks which are self-avoiding and have attractive interactions; we exploit this equivalence, using a study of the classical random walks to gain information about the corresponding quantum problem. In a field-theoretic approach, we show that the interactions may flow to one of two possible strong coupling regimes separated by a transition: however, using Monte Carlo simulations we show that the walks are in fact always compact two-dimensional objects with a well-defined one-dimensional surface, indicating that the corresponding quantum system is localised.",
+  "authors": [
+    "E. J. Beamond",
+    "A. L. Owczarek",
+    "John Cardy"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0210359.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0210359.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.381520+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0210359",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0101308",
+  "title": "The XY-model with $Z_2$ Symmetry: Finite-size scaling analysis using the Broad Histogram Method",
+  "abstract": "In this work we investigate the classical ferromagnetic XY-model in two dimensions subject to a symmetry breaking field which impose a $Z_2$ symmetry to the system. We used the broad histogram method combined with microcanonical simulations and finite-size scaling analysis to estimate the critical temperature and critical exponents of this system with little computational effort. In addition, we present a general procedure which makes possible to use the broad histogram method for continuous systems, also when the macroscopic quantities needed by the method cannot be obtained analytically. Our results are robust under the choice of four different pseudo-random number generators.",
+  "authors": [
+    "J. D. Munoz",
+    "A. R. Lima"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0101308.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0101308.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:04.583179+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0101308",
+    "categories": [
+      "cond-mat.stat-mech"
+    ]
+  }
+}

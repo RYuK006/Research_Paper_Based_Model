@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0103016",
+  "title": "From DEM simulations towards a continuum theory of granular matter",
+  "abstract": "One essential question in material sciences is how to bridge the gap between the microscopic picture and a macroscopic description. The former involves contact forces and deformations, whereas the latter concerns tensorial quantities like the stress or the velocity gradient. A two-dimensional shear-cell filled with disks of different sizes is examined by means of a ``microscopic'' discrete element method (DEM). Applying a consistent averaging formalism, one can obtain scalar- and vector-fields as well as classical tensorial macroscopic quantities like fabric, stress or velocity gradient and, in addition, micropolar quantities like curvature or couple-stress.",
+  "authors": [
+    "S. Luding"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.mtrl-sci",
+    "cond-mat.soft"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0103016.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0103016.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:04.927865+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0103016",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.mtrl-sci",
+      "cond-mat.soft"
+    ]
+  }
+}

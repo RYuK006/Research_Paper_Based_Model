@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0310644",
+  "title": "Transition to hydrodynamics in colliding fermion clouds",
+  "abstract": "We study the transition from the collisionless to the hydrodynamic regime in a two-component spin-polarized mixture of 40K atoms by exciting its dipolar oscillation modes inside harmonic traps. The time evolution of the mixture is described by the Vlasov-Landau equations and numerically solved with a fully three-dimensional concurrent code. We observe a master/slave behaviour of the oscillation frequencies depending on the dipolar mode that is excited. Regardless of the initial conditions, the transition to hydrodynamics is found to shift to lower values of the collision rate as temperature decreases.",
+  "authors": [
+    "F. Toschi",
+    "P. Capuzzi",
+    "S. Succi",
+    "P. Vignolo",
+    "M. P. Tosi"
+  ],
+  "year": 2003,
+  "doi": "10.1088/0953-4075/37/7/056",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0310644.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0310644.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.008642+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0310644",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

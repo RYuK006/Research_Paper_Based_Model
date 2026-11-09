@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0103263",
+  "title": "Implementation of parallel algorithms for 2D vortex dynamics simulation in type-II superconductors",
+  "abstract": "This report discusses the implementation of two parallel algorithms on a distributed memory system for studying vortex dynamics in type-II superconductors. These algorithms are the same as that implemented for classical molecular dynamics simulation with short-range forces (Plimpton, J. Comp. Phys. Vol.117, 1 (1995)). The run time for parallel algorithm is tested on a system containing upto 4 processors and compared with that for vectorized algorithm on a single processor for system size ranging from 120 to 4800 vortices.",
+  "authors": [
+    "Mahesh Chandran"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0103263.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0103263.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.050683+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0103263",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0405162",
+  "title": "Anisotropic conductivity tensor on a half-filled high Landau level",
+  "abstract": "We study two-dimensional interacting electrons in a weak perpendicular magnetic field with the filling factor $ν\\gg 1$ and in the presence of a quenched disorder. As it is known, the unidirectional charge density wave state can exist near a half-filled high Landau level at low temperatures if disorder is weak enough. We show that the existence of the unidirectional charge density wave state at temperature $T<T_c$ where $T_c$ is the transition temperature leads to the anisotropic conductivity tensor. We find that the anisotropic part of conductivity tensor is proportional to $(T_c-T)/T_c$ below the transition in accordance with the experimental findings. The order parameter fluctuations wash out the mean-field cusp at $T=T_c$ and the conductivity tensor becomes anisotropic even above the mean-field transition temperature $T_c$.",
+  "authors": [
+    "I. S. Burmistrov"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevB.71.035331",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0405162.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0405162.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.046736+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0405162",
+    "categories": [
+      "cond-mat.mes-hall"
+    ]
+  }
+}

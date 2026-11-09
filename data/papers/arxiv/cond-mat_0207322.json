@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0207322",
+  "title": "Hydrodynamics of domain growth in nematic liquid crystals",
+  "abstract": "We study the growth of aligned domains in nematic liquid crystals. Results are obtained solving the Beris-Edwards equations of motion using the lattice Boltzmann approach. Spatial anisotropy in the domain growth is shown to be a consequence of the flow induced by the changing order parameter field (backflow). The generalization of the results to the growth of a cylindrical domain, which involves the dynamics of a defect ring, is discussed.",
+  "authors": [
+    "Geza Toth",
+    "Colin Denniston",
+    "J. M. Yeomans"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevE.67.051705",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0207322.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0207322.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.493727+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0207322",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.mtrl-sci",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

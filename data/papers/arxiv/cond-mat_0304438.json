@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0304438",
+  "title": "Detection of XY behaviour in weakly anisotropic quantum antiferromagnets on the square lattice",
+  "abstract": "We consider the Heisenberg antiferromagnet on the square lattice with S=1/2 and very weak easy-plane exchange anisotropy; by means of the quantum Monte Carlo method, based on the continuous-time loop algorithm, we find that the thermodynamics of the model is highly sensitive to the presence of tiny anisotropies and is characterized by a crossover between isotropic and planar behaviour. We discuss the mechanism underlying the crossover phenomenon and show that it occurs at a temperature which is characteristic of the model. The expected Berezinskii-Kosterlitz-Thouless transition is observed below the crossover: a finite range of temperatures consequently opens for experimental detection of non-critical 2D XY behaviour. Direct comparison is made with uniform susceptibility data relative to the S=1/2 layered antiferromagnet Sr2CuO2Cl2.",
+  "authors": [
+    "Alessandro Cuccoli",
+    "Tommaso Roscilde",
+    "Ruggero Vaia",
+    "Paola Verrucchi"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevLett.90.167205",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0304438.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0304438.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.157355+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0304438",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.str-el"
+    ]
+  }
+}

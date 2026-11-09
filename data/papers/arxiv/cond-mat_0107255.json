@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0107255",
+  "title": "Ferromagnetism in the Hubbard model",
+  "abstract": "We investigate the possibility and stability of bandferromagnetism in the single-band Hubbard model. This model poses a highly non-trivial many-body problem the general solution of which has not been found up to now. Approximations are still unavoidable. Starting from a simple two-pole ansatz for the spectral density our approach is systematically improved by focusing on the influence of quasiparticle damping and the correct weak-and strong coupling behaviour. The compatibility of the different aproximative steps with decisive moment sum rules is analysed and the importance of a spin-dependent band shift mediated by higher correlation functions is worked out. Results are presented in terms of temperature- and band occupation-dependent quasiparticle densities of states and band structures as well as spontaneous magnetisations, susceptibilities and Curie temperatures for varying electron densities and coupling strengths. Comparison is made to numerically essentially exact Quantum Monte Carlo calculations recently done by other authors using dynamical mean field theory for infinite-dimensional lattices. The main conclusion will be that the Hubbard model provides a qualitatively correct description of bandferromagnetism if quasiparticle damping and selfconsistent spin-dependent bandshifts are properly taken into account.",
+  "authors": [
+    "W. Nolting",
+    "M. Potthoff",
+    "T. Herrmann",
+    "T. Wegner"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0107255.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0107255.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.015995+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0107255",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

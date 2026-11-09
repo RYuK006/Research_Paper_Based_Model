@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0201450",
+  "title": "NMR in the normal and in the superconducting state of MgB2 and comparison with AlB2",
+  "abstract": "$^{11}$B NMR measurements have been performed in $^{11}$B enriched MgB$_2$ powder samples in external fields of 0.813, 1.55, 4.7 and 7.2 T both in the normal phase and in the superconducting phase. A previously unreported dipolar Pake doublet has been observed in the quadrupole perturbed NMR spectrum. The Knight shift can thus be accurately determined by narrowing the line with the Magic Angle Spinning (MAS) technique. Results of Knight shift ($K$) and relaxation rates ($1/T_1$) for both $^{11}$B and $^{27}$Al nuclei are reported also for AlB$_2$. The comparison of the data in the two compounds shows the dramatic drop of the density of states at the boron site in AlB$_2$ with respect to MgB$_2$. The experimental values for $K$ and $1/T_1$ are in most cases in good agreement with the theoretical values obtained from first principles calculations. The recovery of the nuclear magnetization below $T_c$ in random powder samples is non-exponential due to the anisotropy of the upper critical field. The exponential drop of $1/T_1$ in the superconducting phase observed by Kotegawa et al. is confirmed here but not the coherence peak.",
+  "authors": [
+    "S. H. Baek",
+    "B. J. Suh",
+    "E. Pavarini",
+    "F. Borsa",
+    "R. G. Barnes",
+    "S. L. Budko",
+    "P. C. Canfield"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0201450.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0201450.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.874542+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0201450",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

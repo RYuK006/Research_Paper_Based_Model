@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0211032",
+  "title": "MCAMC: An Advanced Algorithm for Kinetic Monte Carlo Simulations: from Magnetization Switching to Protein Folding",
+  "abstract": "We present the Monte Carlo with Absorbing Markov Chains (MCAMC) method for extremely long kinetic Monte Carlo simulations. The MCAMC algorithm does not modify the system dynamics. It is extremely useful for models with discrete state spaces when low-temperature simulations are desired. To illustrate the strengths and limitations of this algorithm we introduce a simple model involving random walkers on an energy landscape. This simple model has some of the characteristics of protein folding and could also be experimentally realizable in domain motion in nanoscale magnets. We find that even the simplest MCAMC algorithm can speed up calculations by many orders of magnitude. More complicated MCAMC simulations can gain further increases in speed by orders of magnitude.",
+  "authors": [
+    "M. A. Novotny",
+    "Shannon M. Wheeler"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.soft",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0211032.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0211032.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.582237+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0211032",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.soft",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "arxiv:cond-mat/0311510",
+  "title": "Nondestructive readout for a superconducting flux qubit",
+  "abstract": "We present a new readout method for a superconducting flux qubit, based on the measurement of the Josephson inductance of a superconducting quantum interference device that is inductively coupled to the qubit. The intrinsic flux detection efficiency and back-action are suitable for a fast and nondestructive determination of the quantum state of the qubit, as needed for readout of multiple qubits in a quantum computer. We performed spectroscopy of a flux qubit and we measured relaxation times of the order of 80 $μs$.",
+  "authors": [
+    "A. Lupascu",
+    "C. J. M. Verwijs",
+    "R. N. Schouten",
+    "C. J. P. M. Harmans",
+    "J. E. Mooij"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevLett.93.177006",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.mes-hall",
+    "quant-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0311510.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0311510.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.331275+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0311510",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.mes-hall",
+      "quant-ph"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0404137",
+  "title": "Nonlinear Fluid Dynamics Description of non-Newtonian Fluids",
+  "abstract": "Nonlinear hydrodynamic equations for visco-elastic media are discussed. We start from the recently derived fully hydrodynamic nonlinear description of permanent elasticity that utilizes the (Eulerian) strain tensor. The reversible quadratic nonlinearities in the strain tensor dynamics are of the 'lower convected' type, unambiguously. Replacing the (often neglected) strain diffusion by a relaxation of the strain as a minimal ingredient, a generalized hydrodynamic description of viscoelasticity is obtained. This can be used to get a nonlinear dynamic equation for the stress tensor (sometimes called constitutive equation) in terms of a power series in the variables. The form of this equation and in particular the form of the nonlinear convective term is not universal but depends on various material parameters. A comparison with existing phenomenological models is given. In particular we discuss how these ad-hoc models fit into the hydrodynamic description and where the various non-Newtonian contributions are coming from.",
+  "authors": [
+    "Harald Pleiner",
+    "Mario Liu",
+    "Helmut R. Brand"
+  ],
+  "year": 2004,
+  "doi": "10.1007/s00397-004-0365-8",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0404137.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0404137.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:46.640089+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0404137",
+    "categories": [
+      "cond-mat.soft"
+    ]
+  }
+}

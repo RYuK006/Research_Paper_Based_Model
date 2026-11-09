@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0211196",
+  "title": "Granular media: some ideas from statistical physics",
+  "abstract": "These lecture notes cover the statics and glassy dynamics of granular media. Most of the lectures were in fact devoted to `force propagation' models. We discuss the experimental and theoretical motivations for these approaches, and their conceptual connections with Edwards' thermodynamical analogy. One of the distinctive feature of granular media (common to many other `jammed' systems) is indeed the large number of metastable states that are macroscopically equivalent. We present in detail the (scalar) $q$-model and its tensorial generalization, that aim at modelling the existence of force chains and arching effects without introducing any displacement field. The contrast between the hyperbolic equations obtained within this line of thought and elliptic (elastic) equations is emphasized. The role of disorder on these hyperbolic equations is studied in details using perturbative and diagrammatic methods. Recent (strong disorder) force chain network models are reviewed, and compared with the experimental determination of the force `response function' in granular materials. We briefly discuss several issues (such as isostaticity and generic marginality) and open problems. At the end of these notes, we also discuss the basic dynamical properties of_weakly tapped_ granular assemblies, and stress the phenomenological analogies with other glassy materials. Simple models that account for slow compaction and dynamical heterogeneities are presented, that are inspired by `free-volume' ideas and Edwards' assumption. A connection with the theory of fluctuating random surfaces, also noted recently by Castillo et al., is suggested. Finally, we discuss how the `trap model' can be adapted to granular materials, such that more subtle `memory' effects can be accounted for.",
+  "authors": [
+    "J-P Bouchaud"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0211196.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0211196.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.650894+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0211196",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

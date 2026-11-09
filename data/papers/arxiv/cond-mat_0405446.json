@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0405446",
+  "title": "Finger patterns produced by thermomagnetic instability in superconductors",
+  "abstract": "A linear analysis of thermal diffusion and Maxwell equations is applied to study the thermomagnetic instability in a type-II superconducting slab. It is shown that the instability can lead to formation of spatially nonuniform distributions of magnetic field and temperature. The distributions acquire a finger structure with fingers perpendicular to the screening current direction. We derive the criterion for the instability, and estimate its build-up time and characteristic finger width. The fingering instability emerges when the background electric field is larger than a threshold field, $E>E_c$, and the applied magnetic field exceeds a value $H_fing \\propto 1/\\sqrt{E}$. Numerical simulations support the analytical results, and allow to follow the development of the fingering instability beyond the linear regime. The fingering instability may be responsible for the nucleation of dendritic flux patterns observed in superconducting films using magneto-optical imaging.",
+  "authors": [
+    "A. L. Rakhmanov",
+    "D. V. Shantsev",
+    "Y. M. Galperin",
+    "T. H. Johansen"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevB.70.224502",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0405446.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0405446.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.162155+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0405446",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

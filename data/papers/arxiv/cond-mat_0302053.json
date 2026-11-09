@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0302053",
+  "title": "Kinetic Monte Carlo Study of Electrochemical Growth in a Heteroepitaxial System",
+  "abstract": "Structural and kinetic aspects of 2-D irreversible metal deposition under potentiostatic conditions are analyzed by means of dynamic Monte Carlo simulations employing embedded atom potentials for a model system. Three limiting models, all considering adatom diffusion, were employed to describe adatom deposition.The first model (A) considers adatom deposition on any free substrate site on the surface at the same rate. The second model (B) considers adatom deposition only on substrate sites which exhibit no neighboring sites occupied by adatoms. The third model (C) allows deposition at higher rates on sites presenting neighboring sites occupied by adatoms.",
+  "authors": [
+    "M. Cecilia Gimenez",
+    "Mario G. Del Popolo",
+    "Ezequiel P. M. Leiva"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0302053.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0302053.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.699837+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0302053",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

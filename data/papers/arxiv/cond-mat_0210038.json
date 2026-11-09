@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0210038",
+  "title": "A Study on Silicon Nanotubes based on the Tersoff potential",
+  "abstract": "This study showed the structures and the thermal behaviors of Si nanocages and nanotubes using classical molecular dynamics simulations based on the Tersoff potential. For hypothetical Si nanotubes based on the Tersoff potential, Si-Si bond length, cohesive energies per atom, diameters, and elastic energy to curve the sheet into tube were in good agreement with those obtained from previous density-functional theory results. Most of the structures, which were obtained from the SA simulations for several initial structures with diamond structure, have included encaged, tubular, or sheet-like structures and have been composed of both sp3 and sp2 bonds. The cohesive energies per atom for silicon nanotubes were higher than that for the Si bulk in the diamond structure, and this implies the difficulty in producing silicon nanotubes or graphitelike sheets. However, since the elastic energy per atom to curve the sheet into tube for silicon atoms is very low, when graphitelike sheets of silicon are formed, the extra cost to produce silicon nanotubes is also very low. When silicon nanotubes are composed of both sp2 and sp3 bonds and the ratio of sp3 to sp2 is high, since the probability of the existence of silicon nanotubes increases, silicon nanotubes similar to multi walled structures are anticipated.",
+  "authors": [
+    "Jeong Won Kang",
+    "Jae Jeong Seo",
+    "Ho Jung Hwang"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0210038.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0210038.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.237226+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0210038",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

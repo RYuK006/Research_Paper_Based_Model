@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0211543",
+  "title": "Phase transition in the 2d random Potts model in the large-q limit",
+  "abstract": "Phase transition in the two-dimensional $q$-state Potts model with random ferromagnetic couplings in the large-q limit is conjectured to be described by the isotropic version of the infinite randomness fixed point of the random transverse-field Ising spin chain. This is supported by extensive numerical studies with a combinatorial optimization algorithm giving estimates for the critical exponents in accordance with the conjectured values: $β=(3-\\sqrt{5})/4$, $β_s=1/2$ and $ν=1$. The specific heat has a logarithmic singularity, but at the transition point there are very strong sample-to-sample fluctuations. Discretized randomness results in discontinuities in the internal energy.",
+  "authors": [
+    "J-Ch. Angles d'Auriac",
+    "F. Igloi"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.dis-nn"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0211543.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0211543.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.807703+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0211543",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.dis-nn"
+    ]
+  }
+}

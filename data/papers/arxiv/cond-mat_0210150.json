@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0210150",
+  "title": "Dynamics of a Two-Level System Coupled to Ohmic Bath: A Perturbation Approach",
+  "abstract": "The physics of a two-level system coupled to Ohmic bath is studied by means of the perturbation approach based on a unitary transformation. Our main results are: The coherence-incoherence transition is at $α_c={1\\over 2}[1+Δ_r/ω_c]$; for $α<α_c$ the dynamical quantity $P(t)=\\cos(ω_0 t)\\exp(-γt)$; the sussceptibility $χ^{\\prime\\prime}(ω)/ω$ is of a double peak structure for $α<α_c$ and the Shiba's relation is exactly satisfied; at the transition point $α=α_c$ the real time correlation function $C(t)\\approx -1/γ^2_c t^2$ in the long time limit.",
+  "authors": [
+    "H. Zheng"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0210150.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0210150.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.284037+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0210150",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

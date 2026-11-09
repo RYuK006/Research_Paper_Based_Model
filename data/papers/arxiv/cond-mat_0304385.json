@@ -1,0 +1,33 @@
+{
+  "id": "arxiv:cond-mat/0304385",
+  "title": "NRG study of the Kondo effect in the presence of itinerant-electron ferromagnetism",
+  "abstract": "The Kondo effect in quantum dots (QDs) - artificial magnetic impurities - attached to ferromagnetic leads is studied with the numerical renormalization group (NRG) method. It is shown that the QD level is spin-split due to presence of ferromagnetic electrodes, leading to a suppression of the Kondo effect. We find that the Kondo effect can be restored by compensating this splitting with a magnetic field. Although the resulting Kondo resonance then has an unusual spin asymmetry with a reduced Kondo temperature, the ground state is still a locally-screened state, describable by Fermi liquid theory and a generalized Friedel sum rule, and transport in the unitary limit is not spin dependent.",
+  "authors": [
+    "J. Martinek",
+    "M. Sindel",
+    "L. Borda",
+    "J. Barnaś",
+    "J. König",
+    "G. Schön",
+    "J. von Delft"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevLett.91.247202",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0304385.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0304385.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.127516+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0304385",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.str-el"
+    ]
+  }
+}

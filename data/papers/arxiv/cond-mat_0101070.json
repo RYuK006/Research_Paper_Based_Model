@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0101070",
+  "title": "Numerical Study of the Localization-Delocalization Transition for Vibrations in Amorphous Silicon",
+  "abstract": "Numerical studies of amorphous silicon in harmonic approximation show that the highest 3.5% of vibrational normal modes are localized. As vibrational frequency increases through the boundary separating localized from delocalized modes, near omega_c=70meV, (the \"mobility edge\") there is a localization-delocalization (LD) transition, similar to a second-order thermodynamic phase transition. By a numerical study on a system with 4096 atoms, we are able to see exponential decay lengths of exact vibrational eigenstates, and test whether or not these diverge at omega_c. Results are consistent with a localization length xi which diverges above omega_c as (omega-omega_c)^{-p} where the exponent is p = 1.3 +/- 0.5. Below the mobility edge we find no evidence for a diverging correlation length. Such an asymmetry would contradict scaling ideas, and we suppose it is a finite-size artifact. If the scaling regime is narrower than our 1 meV resolution, then it cannot be seen directly on our finite system.",
+  "authors": [
+    "William Garber",
+    "Folkert M. Tangerman",
+    "Philip B. Allen",
+    "Joseph L. Feldman"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.dis-nn",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0101070.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0101070.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:04.467251+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0101070",
+    "categories": [
+      "cond-mat.dis-nn",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

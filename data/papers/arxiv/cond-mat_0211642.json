@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0211642",
+  "title": "Quasiparticle undressing: a new route to collective effects in solids",
+  "abstract": "The carriers of electric current in a metal are quasiparticles dressed by electron-electron interactions, which have a larger effective mass $m^*$ and a smaller quasiparticle weight $z$ than non-interacting carriers. If the momentum dependence of the self-energy can be neglected, the effective mass enhancement and quasiparticle weight of quasiparticles at the Fermi energy are simply related by $z=m/m^*$ ($m$=bare mass). We propose that both superconductivity and ferromagnetism in metals are driven by quasiparticle 'undressing', i.e., that the correlations between quasiparticles that give rise to the collective state are associated with an increase in $z$ and a corresponding decrease in $m^*$ of the carriers. Undressing gives rise to lowering of kinetic energy, which provides the condensation energy for the collective state. In contrast, in conventional descriptions of superconductivity and ferromagnetism the transitions to these collective states result in $increase$ in kinetic energy of the carriers and are driven by lowering of potential energy and exchange energy respectively.",
+  "authors": [
+    "J. E. Hirsch"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0211642.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0211642.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.859070+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0211642",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

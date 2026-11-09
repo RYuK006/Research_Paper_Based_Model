@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0101120",
+  "title": "The leverage effect in financial markets: retarded volatility and market panic",
+  "abstract": "We investigate quantitatively the so-called leverage effect, which corresponds to a negative correlation between past returns and future volatility. For individual stocks, this correlation is moderate and decays exponentially over 50 days, while for stock indices, it is much stronger but decays faster. For individual stocks, the magnitude of this correlation has a universal value that can be rationalized in terms of a new `retarded' model which interpolates between a purely additive and a purely multiplicative stochastic process. For stock indices a specific market panic phenomenon seems to be necessary to account for the observed amplitude of the effect.",
+  "authors": [
+    "Jean-Philippe Bouchaud",
+    "Andrew Matacz",
+    "Marc Potters"
+  ],
+  "year": 2001,
+  "doi": "10.1103/PhysRevLett.87.228701",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0101120.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0101120.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:04.497376+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0101120",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

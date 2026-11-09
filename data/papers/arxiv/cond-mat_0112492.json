@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0112492",
+  "title": "Atomistic Study of Structural Correlations at a Liquid-Solid Interface",
+  "abstract": "Structural correlations at a liquid-solid interface were explored with molecular dynamics simulations of a model aluminium system using the Ercolessi-Adams potential and up to 4320 atoms. Substrate atoms were pinned to their equilibrium crystalline positions while liquid atoms were free to move. The density profile at the interface was investigated for different substrate crystallographic orientations and temperatures. An exponential decay of the density profile was observed, $ρ(z) \\sim \\rm{e}^{- κz}$, leading to the definition of $κ$ as a quantitative measure of the ordering at the liquid solid interface. A direct correlation between the amount of ordering in the liquid phase and the underlying substrate orientation was found.",
+  "authors": [
+    "Adham Hashibon",
+    "Joan Adler",
+    "Michael W. Finnis",
+    "Wayne D. Kaplan"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0112492.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0112492.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.661897+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0112492",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

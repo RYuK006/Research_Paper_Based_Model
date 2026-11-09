@@ -1,0 +1,32 @@
+{
+  "id": "arxiv:cond-mat/0405674",
+  "title": "Ab initio approach for atomic relaxations in supported magnetic clusters",
+  "abstract": "We present a newly developed scheme for atomic relaxations of magnetic supported clusters. Our approach is based on the full potential Korringa-Kohn-Rostoker Green's function method and the second moment tight-binding approximation for many-body potentials. We demonstrate that only a few iterations in ab initio calculations are necessary to find an equilibrium structure of supported clusters. As an example, we present our results for small Co clusters on Cu(001). Changes in electronic and magnetic states of clusters due to atomic relaxations are revealed.",
+  "authors": [
+    "V. S. Stepanyuk",
+    "A. L. Klavsyuk",
+    "L. Niebergall",
+    "A. M. Saletsky",
+    "W. Hergert",
+    "P. Bruno"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.other"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0405674.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0405674.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.297416+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0405674",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.other"
+    ]
+  }
+}

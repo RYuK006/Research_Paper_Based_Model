@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0105140",
+  "title": "Low temperature physics at room temperature in water: Charge inversion in chemical and biological systems",
+  "abstract": "We review recent advances in the physics of strongly interacting charged systems functioning in water at room temperature. We concentrate on the phenomena which go beyond the framework of mean field theories, whether linear Debye-Huckel or non-linear Poisson-Boltzmann. We place major emphasis on charge inversion - a counterintuitive phenomenon in which a strongly charged particle, called macroion, binds so many counterions that its net charge changes sign. We discuss the universal theory of charge inversion based on the idea of a strongly correlated liquid of adsorbed counterions, similar to a Wigner crystal. This theory has a vast array of applications, particularly in biology and chemistry; for example, the DNA double helix in the presence of positive multivalent ions (e.g., polycations) acquires a net positive charge and drifts as a positive particle in electric field. This simplifies DNA uptake by the cell as needed for gene therapy, because the cell membrane is negatively charged. We discuss also the analogies of charge inversion in other fields of physics.",
+  "authors": [
+    "A. Yu. Grosberg",
+    "T. T. Nguyen",
+    "B. I. Shklovskii"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.stat-mech",
+    "q-bio.BM"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0105140.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0105140.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.511132+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0105140",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.stat-mech",
+      "q-bio.BM"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0301446",
+  "title": "Motion of a transverse/parallel grain boundary in a block copolymer under oscillatory shear flow",
+  "abstract": "A mesoscopic model of a diblock copolymer is used to study the motion of a grain boundary separating two regions of perfectly ordered lamellar structures under an oscillatory but uniform shear flow. The case considered is a grain boundary separating lamellae along the so called parallel orientation (with wavevector parallel to the velocity gradient direction) and along the transverse orientation (wavevector parallel to the shear direction). In the model considered lamellae in the parallel orientation are marginal with respect to the shear, whereas transverse lamellae are uniformly compressed instead. A multiple scale expansion valid in the weak segregation regime and for low shear frequencies leads to an envelope equation for the grain boundary. This equation shows that the grain boundary moves by the action of the shear, with a velocity that has two contributions. The first contribution, which arises from the change in orientation of the grain boundary as it is being sheared, describes variations in monomer density in the boundary region. This contribution is periodic in time with twice the frequency of the shear and, by itself, leads to no net motion of the boundary. The second contribution arises from a free energy increase within the bulk transverse lamellae under shear. It is also periodic with twice the frequency of the shear, but it does not average to zero, leading to a net reduction in the extent of the region occupied by the transverse lamellae. We find in the limit studied that the velocity of the grain boundary can be expressed as the product of a mobility coefficient times a driving force, the latter given by the excess energy stored in the transverse phase being sheared.",
+  "authors": [
+    "Francois Drolet",
+    "Jorge Vinals"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0301446.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0301446.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.559064+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0301446",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

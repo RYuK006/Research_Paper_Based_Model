@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0304423",
+  "title": "Magnetoresistance and percolation in the LaNi(1-x)Co(x)O3 solid solution",
+  "abstract": "A detailed study of the zero-field electrical resistivity and magnetoresistance for the metallic members of the LaNi_{1-x}Co{x}O3 solid solution with 0.3<=x<=0.6 is reported. The low temperature resistivity of the compounds with 0.3<=x<=0.5 exhibits a logarithmic dependence that is characteristic of systems with spin fluctuations. It is suggested that the effect of the magnetic field dependence on the spin fluctuations plays a vital role in determining the magnetoresistive behavior of these compounds. Concrete experimental evidence that classify the chemically induced metal-to-insulator transition (x_{c}=0.65) as a percolative phenomenon is provided. The resistivity data for the x=0.6 metallic compound are analyzed in the framework of cluster percolation threshold theory. The results of this analysis are consistent with the suggestion that the growth of magnetic metallic clusters in the presence of a magnetic field is mainly responsible for the observed giant magnetoresistance effect at low temperatures for the compounds with x>=0.6.",
+  "authors": [
+    "J. Androulakis",
+    "Z. Viskadourakis",
+    "N. Katsarakis",
+    "J. Giapintzakis"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0304423.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0304423.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.150134+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0304423",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.str-el"
+    ]
+  }
+}

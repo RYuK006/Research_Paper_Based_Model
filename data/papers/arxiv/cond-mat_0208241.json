@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0208241",
+  "title": "Dynamical Mean Field Theory, Model Hamiltonians and First Principles Electronic Structure Calculations",
+  "abstract": "We review the basic ideas of the dynamical mean field theory (DMFT) and some of the insights into the electronic structure of strongly correlated electrons obtained by this method in the context of model Hamiltonians. We then discuss the perspectives for carrying out more realistic DMFT studies of strongly correlated electron systems and we compare it with existent methods, LDA and LDA+U. We stress the existence of new functionals for electronic structure calculations which allow us to treat situations where the single--particle description breaks down such as the vicinity of the Mott transition.",
+  "authors": [
+    "G. Kotliar",
+    "S. Y. Savrasov"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0208241.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0208241.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:08.734474+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0208241",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

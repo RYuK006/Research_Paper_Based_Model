@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0204637",
+  "title": "Generalized Wigner Function Formulation for Quantum Systems with Open Boundaries",
+  "abstract": "A rigorous microscopic theory for the description of quantum-transport phenomena in systems with open boundaries is proposed. We shall show that the application of the conventional Wigner-function formalism to this problem leads to unphysical results, like injection of coherent electronic states from the contacts. To overcome such basic limitation, we propose a generalization of the standard Wigner-function formulation, able to properly describe the incoherent nature of carrier injection at the device spatial boundaries as well as the interplay between phase coherence and energy relaxation/dephasing within the device active region. The proposed theoretical scheme constitutes the first rigorous derivation of the phenomenological injection model commonly employed in the simulation of open quantum devices.",
+  "authors": [
+    "Remo Proietti Zaccaria",
+    "Fausto Rossi"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0204637.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0204637.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.719864+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0204637",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

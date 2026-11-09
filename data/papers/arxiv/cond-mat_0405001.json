@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0405001",
+  "title": "Absence of vertex correction for the spin Hall effect in p-type semiconductors",
+  "abstract": "We calculate an effect of spinless impurities on the spin Hall effect of the Luttinger model representing p-type semiconductors. The self-energy in the Born approximation becomes diagonal in the helicity basis and its value is independent of the wavenumber or helicity. The vertex correction in the ladder approximation vanishes identically, in sharp contrast with the Rashba model. This implies that in the clean limit the spin Hall conductivity reproduces the value of the intrinsic spin Hall conductivity calculated in earlier papers.",
+  "authors": [
+    "Shuichi Murakami"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevB.69.241202",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0405001.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0405001.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:46.991563+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0405001",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

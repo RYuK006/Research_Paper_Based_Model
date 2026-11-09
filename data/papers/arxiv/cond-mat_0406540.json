@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0406540",
+  "title": "Synchronous relaxation algorithm for parallel kinetic Monte Carlo",
+  "abstract": "We investigate the applicability of the synchronous relaxation (SR) algorithm to parallel kinetic Monte Carlo simulations of simple models of thin-film growth. A variety of techniques for optimizing the parallel efficiency are also presented. We find that the parallel efficiency is determined by three main factors $-$ the calculation overhead due to relaxation iterations to correct boundary events in neighboring processors, the (extreme) fluctuations in the number of events per cycle in each processor, and the overhead due to interprocessor communications. Due to the existence of fluctuations and the requirement of global synchronization, the SR algorithm does not scale, i.e. the parallel efficiency decreases logarithmically as the number of processors increases. The dependence of the parallel efficiency on simulation parameters such as the processor size, domain decomposition geometry, and the ratio $D/F$ of the monomer hopping rate $D$ to the deposition rate $F$ is also discussed.",
+  "authors": [
+    "Yunsic Shim",
+    "Jacques G. Amar"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0406540.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0406540.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.598965+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0406540",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

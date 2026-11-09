@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0403628",
+  "title": "Effects of short-range correlations on the Coulomb screening and the pairing interactions in electron-phonon systems - triplet pairing mediated by phonons",
+  "abstract": "Effects of short-range correlations on the Coulomb screening, the phonons, and the pairing interactions are examined in electron-phonon systems. First, we derive a model Hamiltonian of Coulomb interactions which includes both the long-range part v_q and the short-range part U. It is found from the expression of the dielectric function that the strong on-site correlations weaken the Coulomb screening. Secondly, we examine the screened phonons and the interaction mediated by phonons. In a consistent picture, we derive an expression of the effective interaction which includes (1) the screened Coulomb interactions, (2) the pairing interactions mediated by phonons, and (3) the effective interactions mediated by spin and charge fluctuations. It is rewritten in a form of a summation of (a) the effective interactions of the pure Hubbard model without the long-range Coulomb interactions, and (b) the phonon-mediated interactions plus screened Coulomb interactions with corrections due to both U and v_q. Thirdly, we derive an effective Hamiltonian analogous to the BCS Hamiltonian. Fourthly, for some typical values of parameters, we obtain the ground state phase diagrams. It is found that spin-triplet superconductivity mediated by phonons occurs when the short-range electron correlations are sufficiently strong, and the Coulomb screening is sufficiently weak. We estimate the orders of the transition temperatures when the triplet superconductivity occurs. The obtained values are realistic for existing candidates of the triplet superconductors as the order of the magnitudes. The possible relevance of the phonon-mediated interactions to the heavy fermion superconductor UPt_3 and the layered superconductors such (TMTSF)_2X and Sr_2RuO_4 are briefly discussed.",
+  "authors": [
+    "Hiroshi Shimahara"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0403628.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0403628.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.824412+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0403628",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0405685",
+  "title": "Amphiphiles at Interfaces: Simulation of Structure and Phase Behavior",
+  "abstract": "Computer simulations of coarse-grained molecular models for amphiphilic systems can provide insight into the the structure of amphiphiles at interfaces. They can help to identify the factors that determine the phase behavior, and they can bridge between atomic descriptions and phenomenological field theories.   Here we focus on model systems for amphiphilic membranes. After a brief general introduction, we present selected simulation results on monolayers, bilayers, and bilayer stacks. First, we discuss internal phase transitions in membranes and show that idealized models reproduce the generic phase behavior. Then we consider membrane fluctuations and membrane defects. The simulation data is compared with mesoscopic theories, and effective phenomenological parameters can be extracted.",
+  "authors": [
+    "Friederike Schmid",
+    "Dominik Düchs",
+    "Olaf Lenz",
+    "Claire Loison"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0405685.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0405685.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.305024+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0405685",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

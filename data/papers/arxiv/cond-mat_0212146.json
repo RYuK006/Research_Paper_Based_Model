@@ -1,0 +1,32 @@
+{
+  "id": "arxiv:cond-mat/0212146",
+  "title": "Force and impulse from an Aharonov-Bohm flux line",
+  "abstract": "We calculate the force and impulse operators for a charged particle in the field of an Aharonov-Bohm flux line. The force operator is formally the Lorentz force, with the magnetic field operator modified to include quantum corrections due to anomolous commutation relations. Expectation values for stationary states are calculated. Nonstationary states are treated by integrating the force operator in time to obtain the impulse operator. Expectation values of the impulse are calculated for slow wavepackets (which spread faster than they move) and for fast wavepackets (which spread only negligibly before their closest approach to the flux line). We give two derivations of the force and impulse operators, the first a simple derivation based on formal arguments, and the second a rigorous calculation of wavepacket expectation values. We also show that the same expressions for the force and impulse are obtained if the flux line is enclosed in an impenetrable cylinder,or distributed uniformly over a flux cylinder, in the limit that the radius of the cylinder goes to zero.",
+  "authors": [
+    "J. P. Keating",
+    "J. M. Robbins"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat",
+    "math-ph",
+    "math.MP",
+    "quant-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0212146.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0212146.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.949163+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0212146",
+    "categories": [
+      "cond-mat",
+      "math-ph",
+      "math.MP",
+      "quant-ph"
+    ]
+  }
+}

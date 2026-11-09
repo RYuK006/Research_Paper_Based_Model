@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0101452",
+  "title": "Complex diffusion Monte-Carlo method: test by the simulation of the 2D fermions",
+  "abstract": "On the base of the diffusion Monte-Carlo method we develop the method allowing to simulate the quantum systems with complex wave function. The method is exact and there are no approximations on the simulations of the module and the phase of the system's wave function. In our method averaged value of any quantity have no direct contribution from the phase of distribution function but only from the phase of the Green function of diffusion equation. We test the method by the simulations of the ground state of fermions in two-dimensional parabolic well. Anyons are used for the representation of the two-dimensional (2D) fermions. We vary the number of fermions from two to ten and find a good agreement of the numerical results with analytical ones for the numbers of the particles N > 4.",
+  "authors": [
+    "B. Abdullaev",
+    "M. Musakhanov",
+    "A. Nakamura"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0101452.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0101452.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:04.629001+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0101452",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

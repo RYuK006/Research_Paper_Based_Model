@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0301136",
+  "title": "An exact sampling scheme for Brownian motion in the presence of a magnetic field",
+  "abstract": "Langevin equation pertinent to diffusion limited aggregation of charged particles in the presence of an external magnetic field is solved exactly. The solution involves correlated random variables. A new scheme for exactly sampling the components of the position and velocity is proposed.",
+  "authors": [
+    "Mini P. Balakrishnan",
+    "M. C. Valsakumar",
+    "P. Rameshan"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0301136.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0301136.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.384954+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0301136",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

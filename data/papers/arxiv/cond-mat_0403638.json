@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0403638",
+  "title": "Relation between driving energy, crack shape and speed in brittle dynamic fracture",
+  "abstract": "We report results on the interrelation between driving force, roughness exponent, branching and crack speed in a finite element model. We show that for low applied loadings the crack speed reaches the values measured in the experiments, and the crack surface roughness is compatible with logarithmic scaling. At higher loadings, the crack speed increases, and the crack roughness exponent approaches the value measured at short length scales in experiments. In the case of high anisotropy, the crack speed is fully compatible with the values measured in experiments on anisotropic materials, and we are able to interpret explicitly the results in terms of the efficiency function introduced by us in our previous work [A. Parisi and R. C. Ball, Phys. Rev. B, 66(16) 165432 (2002)]. The mechanism which leads to the decrease of crack speed and the appearence of the logarithmic scaling is \"attempted\" branching, whilst the roughness exponent develops when branches succeed in growing to macroscopic size.",
+  "authors": [
+    "Andrea Parisi",
+    "Robin C. Ball"
+  ],
+  "year": 2005,
+  "doi": "10.1103/PhysRevB.72.054101",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0403638.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0403638.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.835244+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0403638",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

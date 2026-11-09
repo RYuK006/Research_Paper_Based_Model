@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0102309",
+  "title": "From Disordered Crystal to Glass: Exact Theory",
+  "abstract": "We calculate thermodynamic properties of a disordered model insulator, starting from the ideal simple-cubic lattice ($g = 0$) and increasing the disorder parameter $g$ to $\\gg 1/2$. As in earlier Einstein- and Debye- approximations, there is a phase transition at $g_{c} = 1/2$. For $g<g_{c}$ the low-T heat-capacity $C \\sim T^{3}$ whereas for $g>g_{c}$, $C \\sim T$. The van Hove singularities disappear at {\\em any finite $g$}. For $g>1/2$ we discover novel {\\em fixed points} in the self-energy and spectral density of this model glass.",
+  "authors": [
+    "J. M. Yanez",
+    "M. I. Molina",
+    "D. C. Mattis"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.dis-nn",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0102309.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0102309.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:04.797866+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0102309",
+    "categories": [
+      "cond-mat.dis-nn",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

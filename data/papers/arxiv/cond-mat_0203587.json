@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0203587",
+  "title": "Molecular dynamics of arbitrarily shaped granular particles",
+  "abstract": "We propose a new model for the description of complex granular particles and their interaction in molecular dynamics simulations of granular material in two dimensions. The grains are composed of triangles which are connected by deformable beams. Particles are allowed to be convex or concave. We present first results of simulations using this particle model.",
+  "authors": [
+    "Thorsten Poeschel",
+    "Volkhard Buchholtz"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0203587.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0203587.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.347484+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0203587",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

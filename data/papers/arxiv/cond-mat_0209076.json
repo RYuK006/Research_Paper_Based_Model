@@ -1,0 +1,32 @@
+{
+  "id": "arxiv:cond-mat/0209076",
+  "title": "Shot-noise governed Coulomb blockade in a single Josephson junction",
+  "abstract": "We have investigated the influence of shot noise on the IV-curves of a single mesoscopic Josephson junction. We find that the blockade of the Cooper pair current is strongly suppressed in the presence of shot noise due to tunnelling in an adjacent SIN junction. Our experimental findings can be accounted for by an extension of the phase correlation theory. Shot-noise effect in a resistive environment R can be characterized by the effective noise temperature T_N = eIR /2 k_B, which means that a Josephson junction can easily detect shot noise from a current well below 1 pA.",
+  "authors": [
+    "J. Delahaye",
+    "R. Lindell",
+    "M. S. Sillanpää",
+    "M. A. Paalanen",
+    "E. B. Sonin",
+    "P. J. Hakonen"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0209076.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0209076.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:08.935535+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0209076",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.supr-con"
+    ]
+  }
+}

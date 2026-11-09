@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0309046",
+  "title": "Anisotropic Node Removal in d-wave Superconductors under Magnetic Field",
+  "abstract": "A phenomenological model that considers different secondary $id_{xy}$ gap amplitudes and quasiparticle effective charges for each nodal direction, is proposed to explain the observed anisotropic node removal by a magnetic field in high-$T_{c}$ cuprates. Two independent parity-breaking condensates $<\\bar{Ψ_{i}}\\bigwedgeΨ_{i}>$ develop, implying the induction of a magnetic moment per each nodal direction. The model outcomes are in agreement with the experimentally found relation $Δ_{i}\\sim\\sqrt{B}$. The secondary gap vanishes through a second-order phase transition at a critical temperature whose value for underdoped nodal-oriented YBCO is estimated to be $\\sim 6K$ for a field of 15 T.",
+  "authors": [
+    "Efrain J. Ferrer",
+    "Vivian de la Incera"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "hep-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0309046.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0309046.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.874444+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0309046",
+    "categories": [
+      "cond-mat.supr-con",
+      "hep-ph"
+    ]
+  }
+}

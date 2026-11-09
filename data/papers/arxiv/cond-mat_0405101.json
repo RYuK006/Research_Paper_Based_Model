@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0405101",
+  "title": "Application of Kondo-lattice theory to Mott-Hubbard metal-insulator crossover in disordered cuprate-oxide superconductors",
+  "abstract": "A theory of Kondo lattices is applied to the crossover between local-moment magnetism and itinerant-electron magnetism in the t-J model on a quasi-two dimensional lattice. The Kondo temperature T_K is defined as a characteristic temperature or energy scale of local quantum spin fluctuations. Magnetism with T_N >> T_K, where T_N is the N\\eel temperature, is characterized as local-moment one, while magnetism with T_N << T_K is characterized as itinerant-electron one. The Kondo temperature, which also gives a measure of the strength of the quenching of magnetic moments, is renormalized by the Fock term of the superexchange interaction. Because the renormalization depends on life-time widths γof quasiparticles in such a way that T_K is higher for smaller γ, T_N can be controlled by disorder. The asymmetry of T_N between electron-doped and hole-doped cuprates must mainly arise from that of disorder; an almost symmetric behavior of T_N must be restored if we can prepare hole-doped and electron-doped cuprates with similar degree of disorder to each other. Because effective disorder is enhanced by magnetic fields in Kondo lattices, antiferromagnetic ordering must be induced by magnetic fields in cuprates that exhibit large magnetoresistance.",
+  "authors": [
+    "Fusayoshi J. Ohkawa"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0405101.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0405101.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.022952+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0405101",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ]
+  }
+}

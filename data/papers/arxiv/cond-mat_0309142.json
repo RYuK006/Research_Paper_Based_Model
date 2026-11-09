@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0309142",
+  "title": "Influence of Fermi surface topology on the quasiparticle spectrum in the vortex state",
+  "abstract": "We study the influence of Fermi surface topology on the quasiparticle density of states in the vortex state of type II superconductors. We observe that the field dependence and the shape of the momentum and spatially averaged density of states is affected significantly by the topology of the Fermi surface. We show that this behavior can be understood in terms of characteristic Fermi surface functions and that an important role is played by the number of points on the Fermi surface at which the Fermi velocity is directed parallel to the magnetic field. A critical comparison is made with a broadened BCS type density of states, that has been used frequently in analysis of tunneling data. We suggest a new formula as a replacement for the broadened BCS model for the special case of a cylindrical Fermi surface. We apply our results to the two gap superconductor MgB$_2$ and show that in this particular case the field dependence of the partial densities of states of the two gaps behaves very differently due to the different topologies of the corresponding Fermi surfaces, in qualitative agreement with recent tunneling experiments.",
+  "authors": [
+    "S. Graser",
+    "T. Dahm",
+    "N. Schopohl"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevB.69.014511",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0309142.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0309142.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.927260+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0309142",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

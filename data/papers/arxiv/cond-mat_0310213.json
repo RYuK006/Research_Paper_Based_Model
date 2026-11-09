@@ -1,0 +1,33 @@
+{
+  "id": "arxiv:cond-mat/0310213",
+  "title": "RF Surface Resistance of a HIPped MgB2 Sample at 21 GHz",
+  "abstract": "Magnesium diboride (MgB2) is attractive for RF cavity application for particle accelerators because it might not show an increase of RF surface losses at high magnetic surface fields, a phenomenon that has prevented high-Tc superconducting materials such as YBCO from being used for this application. We have measured the RF surface resistance (Rs) at 21 GHz of a MgB2 sample fabricated using Hot Isostatic Press (HIP) at 200 MPa and 1000 C. The results show that polishing with 0.1-micron diamond lapping film followed by a 1500-psi DI water rinse in a clean room reduced the Rs by a factor of 6.2 at 15 K and it is the lowest compared to other published data. The Rs data near the lowest temperature (~13 K) scatter between 0.6 and 1.3 mOhm. The penetration depth and energy gap were estimated to be 263 nm and 1.9-2.7, respectively, for the polished surface.",
+  "authors": [
+    "T. Tajima",
+    "F. L. Krawczyk",
+    "J. Liu",
+    "D. C. Nguyen",
+    "D. L. Schrage",
+    "A. Serquis",
+    "A. H. Shapiro",
+    "V. F. Nesterenko",
+    "Y. Gu"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0310213.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0310213.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:14.703981+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0310213",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

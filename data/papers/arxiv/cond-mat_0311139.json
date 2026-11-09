@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0311139",
+  "title": "Magnetic relaxation in terms of microscopic energy barriers in a model of dipolar interacting nanoparticles",
+  "abstract": "The magnetic relaxation and hysteresis of a system of single domain particles with dipolar interactions are studied by Monte Carlo simulations. We model the system by a chain of Heisenberg classical spins with randomly oriented easy-axis and log-normal distribution of anisotropy constants interacting through dipole-dipole interactions. Extending the so-called $T\\ln(t/τ_0)$ method to interacting systems, we show how to relate the simulated relaxation curves to the effective energy barrier distributions responsible for the long-time relaxation. We find that the relaxation law changes from quasi-logarithmic to power-law when increasing the interaction strength. This fact is shown to be due to the appearence of an increasing number of small energy barriers caused by the reduction of the anisotropy energy barriers as the local dipolar fields increase.",
+  "authors": [
+    "Oscar Iglesias",
+    "Amilcar Labarta"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevB.70.144401",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0311139.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0311139.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.160400+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0311139",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

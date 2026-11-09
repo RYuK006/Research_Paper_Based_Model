@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0311031",
+  "title": "Observation of disorder-induced weakening of electron-phonon interaction in thin noble metal films",
+  "abstract": "We have used symmetric normal metal-insulator-superconductor (NIS) tunnel junction pairs, known as SINIS structures, for ultrasensitive thermometry in the temperature range 50 - 700 mK. By Joule heating the electron gas and measuring the electron temperature, we show that the electron-phonon (e-p) scattering rate in the simplest noble metal disordered thin films (Cu,Au) follows a $T^4$ temperature dependence, leading to a stronger decoupling of the electron gas from the lattice at the lowest temperatures. This power law is indicative e-p coupling mediated by vibrating disorder, in contrast to the previously observed $T^3$ and $T^2$ laws.",
+  "authors": [
+    "J. T. Karvonen",
+    "L. J. Taskinen",
+    "I. J. Maasilta"
+  ],
+  "year": 2005,
+  "doi": "10.1103/PhysRevB.72.012302",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0311031.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0311031.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.099732+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0311031",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.supr-con"
+    ]
+  }
+}

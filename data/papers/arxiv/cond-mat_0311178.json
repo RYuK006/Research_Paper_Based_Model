@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0311178",
+  "title": "Dephasing in disordered metals with superconductive grains",
+  "abstract": "Temperature dependence of electron dephasing time $τ_ϕ(T)$ is calculated for a disordered metal with small concentration of superconductive grains. Above the macroscopic superconducting transition line, when electrons in the metal are normal, Andreev reflection from the grains leads to a nearly temperature-independent contribution to the dephasing rate. In a broad temperature range $1/τ_phi(T)$ strongly exceeds the prediction of the classical theory of dephasing in normal disordered conductors, whereas magnetoresistance is dominated (in two dimensions) by the Maki-Tompson correction and is positive.",
+  "authors": [
+    "M. A. Skvortsov",
+    "A. I. Larkin",
+    "M. V. Feigel'man"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevLett.92.247002",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0311178.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0311178.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.176431+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0311178",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.supr-con"
+    ]
+  }
+}

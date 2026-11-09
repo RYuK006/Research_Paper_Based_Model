@@ -1,0 +1,32 @@
+{
+  "id": "arxiv:cond-mat/0207601",
+  "title": "Dynamical properties of vibrofluidized granular mixtures",
+  "abstract": "Motivated by recent experiments we have carried out an Event Driven computer simulation of a diluted binary mixture of granular particles vertically vibrated in the presence of gravity. The simulations not only confirm that the kinetic energies of the two species are not equally distributed, as predicted by various theoretical models, but also seem to reproduce rather well the density and temperature profiles measured experimentally. Rotational degrees of freedom do not seem to play any important qualitative role. Instead, simulation shows the onset of a clustering instability along the horizontal direction. At the interior of the cluster we observe a secondary instability with respect to the perfect mixing situation, so that segregation of species is observed within the cluster.",
+  "authors": [
+    "D. Paolotti",
+    "C. Cattuto",
+    "U. Marini Bettolo Marconi",
+    "A. Puglisi"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.mtrl-sci",
+    "cond-mat.soft"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0207601.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0207601.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.735348+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0207601",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.mtrl-sci",
+      "cond-mat.soft"
+    ]
+  }
+}

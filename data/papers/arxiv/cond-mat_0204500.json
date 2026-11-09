@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0204500",
+  "title": "Phenomenological description of competing antiferromagnetism and d-wave superconductivity in high $T_{c}$ cuprates",
+  "abstract": "In this paper the phase diagram of high $T_{c}$ cuprates is {\\it qualitatively} studied in the context of competing orders: antiferromagnetism, d-wave superconductivity and $d$-density wave. {\\it Local} correlation functions are estimated from a mean-field solution of the $t-J$ Hamiltonian. With decreasing doping the superconducting mean-field $T^{MF}_{c}$ and order parameter $d$ begin to decrease below some characteristic doping $x_{c} \\simeq 0.2$ where short-range antiferromagnetic correlations begin to develop. {\\it Dynamical} properties that involve the energy spectrum, such as the normal state pseudogap, are calculated from effective interactions that are consistent with the above-mentioned local correlation functions. The total excitation gap $Δ_{tg}$ (in the superconducting state) and the normal state pseudogap $Δ_{pg}$ are in good agreement with experimental results. Properties of the condensate are estimated using an effective pairing interaction $V_{eff}$ which takes into account (pair breaking) antiferromagnetic correlations. These condensate properties include condensation energy U(0), coherence gap $Δ_{cg}$ and critical field $H_{c2}$. The calculated coherence gap closely follows the doping dependence of $T_{c}$ or $d$, and is approximately given as $Δ_{cg} \\sim Δ_{tg}-Δ_{pg}$ within our numerical uncertainties. The systematic decrease of superfluidity ($d$, U(0), $Δ_{cg}$, $H_{c2}$), and systematic increase of $Δ_{pg}$ and $Δ_{tg}$ with decreasing doping below $x_{c}$ have their natural explanation in our approach. The overall description is however qualitative since it does not appear possible to obtain results that are in quantitative agreement with experiment for all physical quantities.",
+  "authors": [
+    "Bumsoo Kyung",
+    "A. M. -S. Tremblay"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0204500.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0204500.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.576476+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0204500",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ]
+  }
+}

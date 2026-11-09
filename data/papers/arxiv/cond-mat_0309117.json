@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0309117",
+  "title": "Adiabatic theory of boundary friction and stick-slip processes",
+  "abstract": "An adiabatic approach is developed for the problem of boundary friction between two atomically smooth and incommensurate solid surfaces, separated by a monolayer of lubricant atoms. This method permits to consider very slow macroscopic motion of the parts in contact, separately from fast thermic motions of individual atoms. A characteristic ''stick-slip'' behavior of the tangential force on the contact is obtained within a simple 1D model, relevant for the tip and sample system in friction force microscopy (FFM). This behavior reflects the specific mechanism of stress energy accumulation, through formation of long-living metastable states (defects) within the monoatomic lubricant layer, and their subsequent collapse with energy conversion into heat. This is similar to the dislocation mechanism of irreversible deformation in bulk solids. The peculiar feature predicted by the present theory is the twofold periodicity of ''stick-slip'' spikes with relative displacement: the shorter period $aδ$ (where $a$ is the tip lattice periodicity and $δ$ the relative tip-sample lattice mismatch) relates to defect skips by one elementary cell, and the longer period $% a(1-δ)$ relates to defect annihilation or nucleation at the boundaries of contact area.",
+  "authors": [
+    "Yu. G. Pogorelov"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0309117.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0309117.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.908861+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0309117",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

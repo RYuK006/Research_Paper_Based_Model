@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0406393",
+  "title": "Conserving and gapless approximations for the composite bosons in terms of the constituent fermions",
+  "abstract": "A long-standing problem with the many-body approximations for interacting condensed bosons has been the dichotomy between the ``conserving'' and ``gapless'' approximations, which either obey the conservations laws or satisfy the Hugenholtz-Pines condition for a gapless excitation spectrum, in the order. It is here shown that such a dichotomy does not exist for a system of composite bosons, which form as bound-fermion pairs in the strong-coupling limit of the fermionic attraction. By starting from the constituent fermions, for which conserving approximations can be constructed for any value of the mutual attraction according to the Baym-Kadanoff prescriptions, it is shown that these approximations also result in a gapless excitation spectrum for the boson-like propagators in the broken-symmetry phase. This holds provided the corresponding equations for the fermionic single- and two-particle Green's functions are solved self-consistently.",
+  "authors": [
+    "G. C. Strinati",
+    "P. Pieri"
+  ],
+  "year": 2004,
+  "doi": "10.1209/epl/i2005-10097-y",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0406393.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0406393.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.517757+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0406393",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

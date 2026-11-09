@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0307664",
+  "title": "Exact calculation of single-electron states in Si-nanocrystal embedded in SiO2",
+  "abstract": "We present an exact calculation of the single-electron energies and wave-functions for any bound state in a realistic Si-SiO2 spherical quantum dot, including the material dependence of the electron effective mass. The influence of dot radius, confinement barrier potential and barrier-to-dot electron mass ratio on the electronic structure is investigated in detail. The results show that the energy structure shifts down from some tens to some hundreds meV compared to that obtained in the simplified model where the change in effective mass is neglected. Our exact single-electron calculation is finally used to verify the accuracy of the results obtained from a numerical approximate method developed to treat many-electron systems.",
+  "authors": [
+    "Nguyen Hong Quang",
+    "Tran The Trung",
+    "Johann See",
+    "Philippe Dollfus"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0307664.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0307664.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.479501+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0307664",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.mes-hall"
+    ]
+  }
+}

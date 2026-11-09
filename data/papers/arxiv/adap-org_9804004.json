@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:adap-org/9804004",
+  "title": "Dynamics of Individual Specialization and Global Diversification in Communities",
+  "abstract": "We discuss a model of an economic community consisting of $N$ interacting agents. The state of each agent at any time is characterized, in general, by a mixed strategy profile drawn from a space of $s$ pure strategies. The community evolves as agents update their strategy profiles in response to payoffs received from other agents. The evolution equation is a generalization of the replicator equation. We argue that when $N$ is sufficiently large and the payoff matrix elements satisfy suitable inequalities, the community evolves to retain the full diversity of available strategies even as individual agents specialize to pure strategies.",
+  "authors": [
+    "Vivek S. Borkar",
+    "Sanjay Jain",
+    "Govindan Rangarajan"
+  ],
+  "year": 1998,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "adap-org",
+    "cond-mat",
+    "nlin.AO"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/adap-org/9804004.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\adap-org_9804004.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:03.682221+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "adap-org/9804004",
+    "categories": [
+      "adap-org",
+      "cond-mat",
+      "nlin.AO"
+    ]
+  }
+}

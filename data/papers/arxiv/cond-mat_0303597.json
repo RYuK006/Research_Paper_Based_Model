@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0303597",
+  "title": "Stochastic series expansion method for quantum Ising models with arbitrary interactions",
+  "abstract": "A quantum Monte Carlo algorithm for the transverse Ising model with arbitrary short- or long-range interactions is presented. The algorithm is based on sampling the diagonal matrix elements of the power series expansion of the density matrix (stochastic series expansion), and avoids the interaction summations necessary in conventional methods. In the case of long-range interactions, the scaling of the computation time with the system size N is therefore reduced from N^2 to Nln(N). The method is tested on a one-dimensional ferromagnet in a transverse field, with interactions decaying as 1/r^2.",
+  "authors": [
+    "Anders W. Sandvik"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevE.68.056701",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.dis-nn"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0303597.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0303597.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:43.907795+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0303597",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.dis-nn"
+    ]
+  }
+}

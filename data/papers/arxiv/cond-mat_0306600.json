@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0306600",
+  "title": "Ising Model on periodic and quasi-periodic chains in presence of magnetic field: some exact results",
+  "abstract": "We present a general procedure for calculating the exact partition function of an Ising model on a periodic chain in presence of magnetic field considering both open and closed boundary conditions. Using same procedure on a quasiperiodic (Fibonacci) chain we have established a recurrence relation among partition functions of different Fibonacci generations from n-th to (n+6)-th. In the large N limit we find $(2τ+ 1){F_{n+1}}={F_{n+2}}$; where $τ$ is the golden mean and $F_n$ stands for free energy/spin for the n-th generation. We have also studied chemical potential in both cases.",
+  "authors": [
+    "Susanta Bhattacharya",
+    "Samir K. Paul"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0306600.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0306600.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.057720+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0306600",
+    "categories": [
+      "cond-mat.stat-mech"
+    ]
+  }
+}

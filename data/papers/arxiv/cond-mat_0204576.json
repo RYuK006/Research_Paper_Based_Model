@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0204576",
+  "title": "Antiferromagnetism in the Exact Ground State of the Half Filled Hubbard Model on the Complete-Bipartite Graph",
+  "abstract": "As a prototype model of antiferromagnetism, we propose a repulsive Hubbard Hamiltonian defined on a graph $Ł={\\cal A}\\cup{\\cal B}$ with ${\\cal A}\\cap {\\cal B}=\\emptyset$ and bonds connecting any element of ${\\cal A}$ with all the elements of ${\\cal B}$. Since all the hopping matrix elements associated with each bond are equal, the model is invariant under an arbitrary permutation of the ${\\cal A}$-sites and/or of the ${\\cal B}$-sites. This is the Hubbard model defined on the so called $(N_{A},N_{B})$-complete-bipartite graph, $N_{A}$ ($N_{B}$) being the number of elements in ${\\cal A}$ (${\\cal B}$). In this paper we analytically find the {\\it exact} ground state for $N_{A}=N_{B}=N$ at half filling for any $N$; the ground state expectation value of the repulsion term has a maximum at a critical $N$-dependent value of the on-site Hubbard $U$ and then drops like 1/U for large $U$. The wave function and the energy of the unique, singlet ground state assume a particularly elegant form for $N \\ra \\inf$. We also calculate the spin-spin correlation function and show that the ground state exhibits an antiferromagnetic order for any non-zero $U$ even in the thermodynamic limit. This is the first explicit analytic example of an antiferromagnetic ground state in a Hubbard-like model of itinerant electrons. The kinetic term induces non-trivial correlations among the particles and an antiparallel spin configuration in the two sublattices comes to be energetically favoured at zero Temperature. On the other hand, if the thermodynamic limit is taken and then zero Temperature is approached, a paramagnetic behavior results. The thermodynamic limit does not commute with the zero-Temperature limit, and this fact can be made explicit by the analytic solutions.",
+  "authors": [
+    "Gianluca Stefanucci",
+    "Michele Cini"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0204576.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0204576.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.634087+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0204576",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

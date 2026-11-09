@@ -1,0 +1,32 @@
+{
+  "id": "arxiv:cond-mat/0301531",
+  "title": "Displacement Field and Elastic Energy of a Circular Twist Disclination for Large Deformations - an Example how to Treat Nonlinear Boundary Value Problems with Computer Algebra Systems",
+  "abstract": "A circular twist disclination is a nontrivial example of a defect in an elastic continuum that causes large deformations. The minimal potential energy and the corresponding displacement field is calculated by solving the Euler-Lagrange-equations. The nonlinear incompressibility constraint is rigorously taken into account. By using an appropriate curvilinear coordinate system a finer resolution in the regions of large deformations is obtained and the dimension of the arising nonlinear PDE's is reduced to two. The extensive algebraic calculations that arise are done by a computer algebra system (CAS). The PDE's are then solved by a difference scheme using the Newton-Raphson algorithm of successive approximations for multidimensional equations. Additional features for global convergence are implemented. To obtain basic states that are sufficiently close to the solution, a one dimensional linearized version of the equation is solved with a numerical computation that reproduces the analytical results of Huang and Mura (1970). With this method, rigorous solutions of the nonlinear equations without any additional simplifications can be obtained. The numerical results show a contraction of the singularity line which corresponds to the well-known Poynting effect in nonlinear elasticity. This combination of analytical and numerical computations proves to be a versatile method to solve nonlinear boundary value problems in complicated geometries.",
+  "authors": [
+    "Alexander Unzicker",
+    "Karl Fabian"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.soft",
+    "gr-qc",
+    "physics.comp-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0301531.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0301531.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.608184+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0301531",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.soft",
+      "gr-qc",
+      "physics.comp-ph"
+    ]
+  }
+}

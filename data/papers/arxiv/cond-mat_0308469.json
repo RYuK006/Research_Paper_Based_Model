@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0308469",
+  "title": "Self-Consistent Renormalization Model of Mott Gap Collapse in the Cuprates",
+  "abstract": "A generalized antiferromagnetic approach to the Mott transition is analyzed with special emphasis on electron doped cuprates, where evidence for electronic phase separation is weak or absent. Fluctuations are incorporated via a self-consistent renormalization, thereby deriving a `nearly-antiferromagnetic Fermi liquid' susceptibility. The calculation is sensitive to hot-spot effects. Near optimal doping, an approximately electron-hole symmetrical Mott gap collapse is found (quantum critical points). The calculation satisfies the Mermin-Wagner theorem (Neel transition at T=0 only -- unless interlayer coupling effects are included), and the mean-field gap and transition temperature are replaced by pseudogap and onset temperature. The resulting susceptibility is used to calculate the doping dependence of the photoemission dispersion, in excellent agreement with experiment. Discussions of interlayer coupling, doping dependence of $U$, and extension to a three-band model are included.",
+  "authors": [
+    "R. S. Markiewicz"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0308469.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0308469.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.725779+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0308469",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

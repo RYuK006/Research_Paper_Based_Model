@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0304526",
+  "title": "Unconventional superconductivity in CeCoIn5 with magnetic texture and orbital quantization",
+  "abstract": "A sufficiently high magnetic field applied to a superconductor will act on both the charge and the spin of the individual electrons breaking up the Cooper pairs. If the spin effect dominates, the superconducting state can develop a texture before eventually entering the normal state with increasing magnetic field. This spatially varying superconducting state is a periodic array of magnetic walls separated by superconducting regions. Known as the Fulde-Ferrell-Larkin-Ovchinnikov (FFLO) phase, it was predicted in 1964. We report heat capacity measurements on the heavy fermion superconductor, CeCoIn5, which reveal a second phase transition within the superconducting state, clear evidence of the FFLO phase. We also report magnetization measurements that display a cascade of first order phase transitions within the FFLO region. Each transition indicates an increase in orbital momentum of the superconducting order parameter and corresponds to a specific Landau level vortex state comprised of multiquanta vortices. The experimental realization of the FFLO state provides a new opportunity to study the symbiosis of magnetism and superconductivity, two states of matter once thought to be mutually exclusive.",
+  "authors": [
+    "H. A. Radovan",
+    "N. A. Fortune",
+    "T. P. Murphy",
+    "S. T. Hannahs",
+    "E. C. Palm",
+    "S. W. Tozer",
+    "D. Hall"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0304526.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0304526.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.219195+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0304526",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

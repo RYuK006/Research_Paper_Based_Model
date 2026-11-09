@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0106637",
+  "title": "Modelling the structure of clusters of C_60 molecules",
+  "abstract": "We locate putative global minima for (C_60)_N clusters modelled by the potential of Pacheco and Prates-Ramalho up to N=105. These minima are based on icosahedral packing up to N=15, but above this size the lowest-energy structures are decahedral or close-packed. Although structures based on the 98-molecule Leary tetrahedron, which have been inferred from experiment, are not lowest in energy for this potential, an examination of the energetics of a growth sequence leading to the Leary tetrahedron lends further support to the experimental assignments. An analysis of the potential energy surface topography and the thermodynamics of two example clusters indicates that the multiple-funnel topography is likely to have a strong influence on the dynamics of structure formation and that solid-solid transitions driven by differences in vibrational entropy are likely to be common.",
+  "authors": [
+    "Jonathan P. K. Doye",
+    "David J. Wales",
+    "Wolfgang Branz",
+    "Florent Calvo"
+  ],
+  "year": 2001,
+  "doi": "10.1103/PhysRevB.64.235409",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat",
+    "physics.atm-clus"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0106637.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0106637.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.908787+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0106637",
+    "categories": [
+      "cond-mat",
+      "physics.atm-clus"
+    ]
+  }
+}

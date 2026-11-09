@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0107086",
+  "title": "Comment on \"Quantum Melting of the Quasi-Two-Dimensional Vortex Lattice in $κ-(ET)_2Cu(NCS)_2$\"",
+  "abstract": "In a recent Letter Mola et al. \\cite{mola} reported magnetization measurements $M(H,θ)$ performed on the organic superconductor $κ-$(ET)$_2$Cu(NCS)$_2 (T_c = 9.1$ K) as a function of the magnetic field $H$ applied at different angles $θ$ with respect to the $a$-axis direction. The results \\cite{mola} demonstrate:   (a) the occurrence of pronounced irreversible magnetization $M_{\\rm irr}(H)$ jumps and (b) their sudden cessation for $H \\ge H_m(T,θ)$. The boundary line $H_m(T)$ has been interpreted by Mola et al. as the Q2D vortex lattice (VL) quantum melting phase transition line \\cite{mola}. The purpose of this comment is to show that the results can be understood in a simple way without invoking \"quantum melting phase transition\".",
+  "authors": [
+    "Y. Kopelevich",
+    "P. Esquinazi"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.dis-nn"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0107086.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0107086.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.959473+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0107086",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.dis-nn"
+    ]
+  }
+}

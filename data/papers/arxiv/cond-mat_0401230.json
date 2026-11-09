@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0401230",
+  "title": "Dislocation nucleation in shocked fcc solids: effects of temperature and preexisting voids",
+  "abstract": "Quantitative behaviors of shock-induced dislocation nucleation are investigated by means of molecular dynamics simulations on fcc Lennard-Jones solids: a model Argon. In perfect crystals, it is found that Hugoniot elastic limit (HEL) is a linearly decreasing function of temperature: from near-zero to melting temperatures. In a defective crystal with a void, dislocations are found to nucleate on the void surface. Also HEL drastically decreases to 15 percent of the perfect crystal when a void radius is 3.4 nanometer. The decrease of HEL becomes larger as the void radius increases, but HEL becomes insensitive to temperature.",
+  "authors": [
+    "Takahiro Hatano"
+  ],
+  "year": 2005,
+  "doi": "10.1103/PhysRevLett.93.085501",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0401230.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0401230.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.968695+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0401230",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

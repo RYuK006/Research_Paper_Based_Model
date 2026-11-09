@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0110479",
+  "title": "A Novel Theory for High Temperature Superconductors considering Inhomogeneous Charge Distributions",
+  "abstract": "We present a percolation theory for the high-$T_c$ oxides pseudogap and $T_c$ dependence on the hole level. The doping dependent inhomogeneous charge structure is modeled by a distribution which may represent the stripe morphology and yield a spatial distribution of local $T_c(r)$. The temperature onset of spatial dependent superconducting gap is identified with the vanishing of the pseudogap temperature $T^*$. The transition to a superconducting state corresponds to the percolation threshold among regions of different $T_c$. As a paradigm we use a Hubbard Hamiltonian with a mean field approximation to yield a doping and temperature dependent superconducting d-wave gap. We show here that this new approach reproduces the phase diagram, explains and gives new insights on several experimental features of high-$T_c$ oxides.",
+  "authors": [
+    "E. V. L. de Mello",
+    "E. S. Caixeiro",
+    "J. L. Gonzaléz"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0110479.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0110479.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.777900+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0110479",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

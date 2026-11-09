@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0301504",
+  "title": "Geographical Embedding of Scale-Free Networks",
+  "abstract": "A method for embedding graphs in Euclidean space is suggested. The method connects nodes to their geographically closest neighbors and economizes on the total physical length of links. The topological and geometrical properties of scale-free networks embedded by the suggested algorithm are studied both analytically and through simulations. Our findings indicate dramatic changes in the embedded networks, in comparison to their off-lattice counterparts, and call into question the applicability of off-lattice scale-free models to realistic, everyday-life networks.",
+  "authors": [
+    "Daniel ben-Avraham",
+    "Alejandro F. Rozenfeld",
+    "Reuven Cohen",
+    "Shlomo Havlin"
+  ],
+  "year": 2003,
+  "doi": "10.1016/j.physa.2003.08.036",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0301504.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0301504.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.587032+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0301504",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

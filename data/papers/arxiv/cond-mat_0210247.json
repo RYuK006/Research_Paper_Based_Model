@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0210247",
+  "title": "Qubits as Spectrometers of Quantum Noise",
+  "abstract": "Electrical engineers and physicists are naturally very interested in noise in circuits, amplifiers and detectors. With the advent of quantum computation and other high frequency electronics operating at low temperatures, we have entered a regime where quantum noise and quantum-limited detectors are important. In this paper we describe the general concept of a two-level system as a quantum spectrum analyzer and apply it to a simple superconducting qubit, the Cooper-pair box. We derive and discuss the quantum noise associated with both a resistor and a classical tunnel junction, and study the effect these noise sources will have on a Cooper-pair box. Finally, we describe a theoretical technique for calculating quantum noise which involves studying the noisy system of interest coupled to a two-level system. We use this technique to calculate and give a heuristic explanation of the quantum charge noise of a normal metal single electron transistor.",
+  "authors": [
+    "R. J. Schoelkopf",
+    "A. A. Clerk",
+    "S. M. Girvin",
+    "K. W. Lehnert",
+    "M. H. Devoret"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0210247.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0210247.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.328819+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0210247",
+    "categories": [
+      "cond-mat.mes-hall"
+    ]
+  }
+}

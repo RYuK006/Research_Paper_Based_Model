@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0308189",
+  "title": "Theoretical study on RbCl crystal with Möbius inverse potentials",
+  "abstract": "The alkali halides have been studied very frequently for their simple structures and interesting properties, for example, the high-pressure induced transition$^1$. There are several successful models that can be employed. The most famous model of them is the Tosi-Fumi interionic potential$^2$ which is an empirical potential derived from the experimental data. Whereas, here we developed a new potential model based on the Möbius lattice inversion method$^{3,4}$, which can be derived directly from the cohesive energy curve without any experimental data and is more effective than the ab initial calculation. With the Möbius interionic potentials, we calculated the structural and elastic properties of RbCl crystal. The results are in good agreement with experiments. We also studied the high-pressure induced B1-B2 transition of RbCl crystal and estimated approximately the transition-point which is about 1.09GPa. Further more, we used this potential model to simulate the RbCl melting with molecular dynamics. The calculated melt-point is approximately 990K$\\sim$995K, close to the experimental data.",
+  "authors": [
+    "Yue Shen",
+    "Shuo Zhang",
+    "Nan-xian Chen"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0308189.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0308189.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.619614+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0308189",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

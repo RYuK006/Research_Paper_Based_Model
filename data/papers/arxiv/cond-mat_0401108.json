@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0401108",
+  "title": "Theory of Josephson Arrays in a Resonant Cavity",
+  "abstract": "We review our previous work on the dynamics of one- and two-dimensional arrays of underdamped Josephson junctions placed in a single-mode resonant cavity. Starting from a well-defined model Hamiltonian, which includes the effects of driving current and dissipative coupling to a heat bath, we write down the Heisenberg equations of motion for the variables of the Josephson junction and the cavity mode. In the limit of many photons, these equations reduce to coupled ordinary differential equations, which can be solved numerically. We present a review of some characteristic numerical results, which show many features similar to experiment. These include self-induced resonant steps (SIRS's) at voltages $V = n\\hbarΩ/(2e)$, where $Ω$ is the cavity frequency, and $n$ is generally an integer; a threshold number $N_c$ of active rows of junctions above which the array is coherent; and a time-averaged cavity energy which is quadratic in the number of active junctions, when the array is above threshold. When the array is biased on a SIRS, then, for given junction parameters, the power radiated into the array varies as the square of the number of active junctions, consistent with expectations for coherent radiation. For a given step, a two-dimensional array radiates much more energy into the cavity than does a one-dimensional array. Finally, in two dimensions, we find a strong polarization effect: if the cavity mode is polarized perpendicular to the direction of current injection in a square array, then it does not couple to the array and no power is radiated into the cavity.",
+  "authors": [
+    "E. Almaas",
+    "D. Stroud"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0401108.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0401108.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.918421+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0401108",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

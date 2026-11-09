@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0407149",
+  "title": "Odd triplet pairing effects induced by interface spin-flip scatterings: critical temperature of superconductor/ferromagnet bilayers",
+  "abstract": "The superconducting critical temperature $T_C$ of a superconductor/ferromagnet (S/F) bilayer with spin-flip scatterings at the interface is calculated as a function of the ferromagnet thickness $d_F$ in the dirty limit employing the Usadel equation. The appropriate boundary conditions from the spin-flip scatterings at the S/F interface are derived for the Usadel equation which includes the spin triplet pairing components as well as the spin singlet one. The spin-flip processes induce the spin triplet pairing components with s-wave in momentum and odd symmetry in frequency from the s-wave singlet order parameter $Δ$ of the superconductor region. The induced triplet components alter the singlet order parameter in the superconductor through boundary conditions at the interface and, consequently, change the $T_C$ of an S/F bilayer system. The calculated $T_C(d_F)$, like the case of no spin-flips, shows non-monotonic behavior which typically decreases as $d_F$ is increased from 0 and shows a shallow minimum and then saturates slowly as $d_F$ is further increased. It is well established that as the interface resistance (parameterized in terms of $γ_b$) is increased, the $T_C$ is increased for a given $d_F$ and the non-monotonic feature in $T_C(d_F)$ is strongly suppressed. As the spin flip scattering (parameterized in terms of $γ_m$) is increased, on the other hand, the $T_C$ is also increased for a given $d_F$, but the non-monotonic feature in $T_C(d_F)$ is less suppressed or even enhanced, through the formation of the spin triplet components.",
+  "authors": [
+    "Hyeonjin Doh",
+    "Han-Yong Choi"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0407149.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0407149.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.781524+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0407149",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.mes-hall"
+    ]
+  }
+}

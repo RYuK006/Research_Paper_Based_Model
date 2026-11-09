@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0112163",
+  "title": "Linking Phase-Field and Atomistic Simulations to Model Dendritic Solidification in Highly Undercooled Melts",
+  "abstract": "Even though our theoretical understanding of dendritic solidification is relatively well developed, our current ability to model this process quantitatively remains extremely limited. This is due to the fact that the morphological development of dendrites depends sensitively on the degree of anisotropy of capillary and/or kinetic properties of the solid-liquid interface, which is not precisely known for materials of metallurgical interest. Here we simulate the crystallization of highly undercooled nickel melts using a computationally efficient phase-field model together with anisotropic properties recently predicted by molecular dynamics simulations. The results are compared to experimental data and to the predictions of a linearized solvability theory that includes both capillary and kinetic effects at the interface.",
+  "authors": [
+    "Jean Bragard",
+    "Alain Karma",
+    "Youngyih H. Lee",
+    "Mathis Plapp"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0112163.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0112163.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.509034+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0112163",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

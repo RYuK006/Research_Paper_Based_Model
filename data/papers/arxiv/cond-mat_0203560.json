@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0203560",
+  "title": "Low temperature nonequilibrium dynamics in transverse Ising spin glass",
+  "abstract": "The real part of the time-dependent ac susceptibility of the short-range Ising spin glass in a transverse field has been investigated at very low temperatures. We have used the quantum linear response theory and domain coarsening ideas of quantum droplet scaling theory. It is found that after a temperature quench to a temperature which is less than the spin glass transition temperature the ac susceptibility decreases with time elapsed after the initial quench towards equilibrium approximately logarithmically. It is shown that the transverse field of \"tunneling\" has nonessential effect to a nonequilibrium dynamical properties of the magnetic droplet system. It is found that the time dependence of ac susceptibility has a qualitative agreement with some experimental results.",
+  "authors": [
+    "G. Busiello",
+    "R. V. Saburova",
+    "V. G. Sushkova"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.dis-nn",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0203560.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0203560.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.340104+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0203560",
+    "categories": [
+      "cond-mat.dis-nn",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

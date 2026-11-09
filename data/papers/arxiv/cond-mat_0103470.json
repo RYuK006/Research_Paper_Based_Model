@@ -1,0 +1,35 @@
+{
+  "id": "arxiv:cond-mat/0103470",
+  "title": "ARPES Line Shapes in FL and non-FL Quasi-Low-Dimensional Inorganic Metals",
+  "abstract": "Quasi-low-dimensional (quasi-low-D) inorganic materials are not only ideally suited for angle resolved photoemission spectroscopy (ARPES) but also they offer a rich ground for studying key concepts for the emerging paradigm of non-Fermi liquid (non-FL) physics. In this article, we discuss the ARPES technique applied to three quasi-low-D inorganic metals: a paradigm Fermi liquid (FL) material TiTe$_{2}$, a well-known quasi-1D charge density wave (CDW) material K$_{0.3}$MoO$_{3}$ and a quasi-1D non-CDW material Li$_{0.9}$Mo$_{6}$O$_{17}$. With TiTe$_2$, we establish that a many body theoretical interpretation of the ARPES line shape is possible. We also address the fundamental question of how to accurately determine the {\\bf k}$_F$ value from ARPES. Both K$_{0.3}$MoO$_{3}$ and Li$_{0.9}$Mo$_{6}$O$_{17}$ show quasi-1D electronic structures with non-FL line shapes. A CDW gap opening is observed for K$_{0.3}$MoO$_{3}$, whereas no gap is observed for Li$_{0.9}$Mo$_{6}$O$_{17}$. We show, however, that the standard CDW theory, even with strong fluctuations, is not sufficient to describe the non-FL line shapes of K$_{0.3}$MoO$_{3}$. We argue that a Luttinger liquid (LL) model is relevant for both bronzes, but also point out difficulties encountered in comparing data with theory. We interpret this situation to mean that a more complete and realistic theory is necessary to understand these data.",
+  "authors": [
+    "G. -H. Gweon",
+    "J. D. Denlinger",
+    "J. W. Allen",
+    "R. Claessen",
+    "C. G. Olson",
+    "H. Hoechst",
+    "J. Marcus",
+    "C. Schlenker",
+    "L. F. Schneemeyer"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0103470.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0103470.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.128165+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0103470",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

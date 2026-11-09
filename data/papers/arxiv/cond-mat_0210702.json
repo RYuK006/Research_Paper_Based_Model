@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0210702",
+  "title": "Probing thermal fluctuations and inhomogeneities in type II superconductors by means of applied magnetic fields",
+  "abstract": "A superconductor is influenced by an applied magnetic field. Close to the transition temperature $T_{c}$ fluctuations dominate and the correlation length $ξ$ increases strongly when $T_{c}$ is approached. However, for nonzero magnetic field $H$ there is another length scale $L_{H}=\\sqrt{Φ_{0}/aH}$ where $a$ is a universal amplitude. It is comparable to the average distance between vortex lines. We show that the correlation length is bounded by this length scale, so that $ξ$ cannot grow beyond $L_{H}$. This implies that type II superconductors in a magnetic field do not undergo a phase transition to a state with zero resistance. We sketch the scaling theory of the resulting magnetic field induced finite size effect. In contrast to its inhomogeneity induced counterpart, the magnetic length scale can be varied continuously in terms of the magnetic field strength. This opens the possibility to assess the importance of fluctuations, to extract critical point properties of the homogeneous system and to derive a lower bound for the length scale of inhomogeneities which affect thermodynamic properties. Our analysis of specific heat data for under- and optimally doped YBa$_{2}$Cu$_{3}$O$_{7-δ}$, MgB$_{2}$, 2H-NbSe$_{2}$ and Nb$_{77} $Zr$_{23}$ confirms this expectation. The resulting lower bounds are in the range from 182 A to 818 A. Since the available data does not extend to low fields, much larger values are conceivable. This raises serious doubts on the relevance of the nanoscale spatial variations in the electronic characteristics observed with scanning tunnelling microscopy.",
+  "authors": [
+    "T. Schneider"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0210702.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0210702.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.561918+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0210702",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

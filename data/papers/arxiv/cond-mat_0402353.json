@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0402353",
+  "title": "Superconducting screening on different length scales in high-quality bulk MgB2 superconductor",
+  "abstract": "High quality bulk MgB2 exhibit a structure of voids and agglomeration of crystals on different length-scales. Because of this, the superconducting currents percolate between the voids in the ensuing structure. Magnetic measurements reveal that the superconducting currents circulate on at least three different length-scales, of ~1 micrometre, ~10 micrometre and whole of the sample (~millimetre). Each of these screenings contributes to the measured irreversible magnetic moment (Dm). The analysis of the field dependence of Dm for samples of subsequently decreasing size showed that the critical current obtained using the simple critical state model is erroneous. This leads to the artefact of the sample size-dependent critical current and irreversibility field. Our data analysis enables the separation of the contribution of each of the screening currents to Dm. The field dependence of each of the currents follows a stretched exponential form. The currents flowing around whole of the sample give a dominant contribution to Dm in the intermediate fields (1T < H < 4T at 20K) and they can be used to obtain the value of Jc from critical state model, which corresponds to the transport Jc.",
+  "authors": [
+    "J. Horvat",
+    "S. Soltanian",
+    "A. V. Pan",
+    "X. L. Wang"
+  ],
+  "year": 2004,
+  "doi": "10.1063/1.1790069",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0402353.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0402353.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.332433+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0402353",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

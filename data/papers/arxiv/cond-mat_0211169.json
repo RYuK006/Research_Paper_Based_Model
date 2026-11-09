@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0211169",
+  "title": "Electrosorption of Br and Cl on Ag(100): Experiments and Computer Simulations",
+  "abstract": "We present chronocoulometry experiments and equilibrium Monte Carlo simulations for the electrosorption of Br and Cl on Ag(100) single-crystal electrode surfaces. Two different methods are used to calculate the long-range part of the adsorbate-adsorbate interactions. The first method is a truncated-sum approach, while the second is a mean-field-enhanced truncated-sum approach. To compare the two methods, the resulting isotherms are fit to experimental adsorption isotherms, assuming both a constant electrosorption valency &gamma and also a coverage-dependent &gamma. While a constant &gamma fits the Br/Ag(100) well, a coverage-dependent or potential-dependent &gamma is needed for Cl/Ag(100).",
+  "authors": [
+    "I. Abou Hamad",
+    "Th. Wandlowski",
+    "G. Brown",
+    "P. A. Rikvold"
+  ],
+  "year": 2002,
+  "doi": "10.1016/S0022-0728(03)00178-5",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "physics.chem-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0211169.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0211169.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.637862+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0211169",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "physics.chem-ph"
+    ]
+  }
+}

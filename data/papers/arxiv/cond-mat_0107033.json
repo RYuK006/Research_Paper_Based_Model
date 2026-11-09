@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0107033",
+  "title": "On the way to a Gutzwiller density functional theory",
+  "abstract": "Multi-band Gutzwiller-correlated wave functions reconcile the contrasting concepts of itinerant band electrons versus electrons localized in partially filled atomic shells. The exact evaluation of these variational ground states in the limit of large coordination number allows the identification of quasi-particle band structures, and the calculation of a variational spinwave dispersion. The study of a generic two-band model elucidates the co-operation of the Coulomb repulsion and the Hund's-rule exchange for itinerant ferromagnetism. We present results of calculations for ferromagnetic nickel, using a realistic 18 spin-orbital basis of $4s$, $4p$ and $3d$ valence electrons. The quasi-particle energy bands agree much better with the photo-emission and Fermi surface data than the band structure obtained from spin-density functional theory (SDFT).",
+  "authors": [
+    "W. Weber",
+    "J. Buenemann",
+    "F. Gebhard"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0107033.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0107033.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.931446+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0107033",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

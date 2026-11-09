@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0304020",
+  "title": "Discrete small world networks",
+  "abstract": "Small world models are networks consisting of many local links and fewer long range 'shortcuts', used to model networks with a high degree of local clustering but relatively small diameter. Here, we concern ourselves with the distribution of typical inter-point network distances. We establish approximations to the distribution of the graph distance in a discrete ring network with extra random links, and compare the results to those for simpler models, in which the extra links have zero length and the ring is continuous.",
+  "authors": [
+    "A. D. Barbour",
+    "G. Reinert"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0304020.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0304020.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:43.947457+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0304020",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "arxiv:cond-mat/0103632",
+  "title": "Dilute Bose gas in two dimensions: Density expansions and the Gross-Pitaevskii equation",
+  "abstract": "A dilute two-dimensional (2D) Bose gas at zero temperature is studied by the method developed earlier by the authors. Low density expansions are derived for the chemical potential, ground state energy, kinetic and interaction energies. The expansion parameter is found to be a dimensionless in-medium scattering amplitude u obeying the equation 1/u+\\ln u=-\\ln(na^2π)-2γ, where na^2 and γare the gas parameter and the Euler constant, respectively. It is shown that the ground state energy is mostly kinetic in the low density limit; this result does not depend on a specific form of the pairwise interaction potential, contrary to 3D case. A new form of 2D Gross-Pitaevskii equation is proposed within our scheme.",
+  "authors": [
+    "A. Yu. Cherny",
+    "A. A. Shanenko"
+  ],
+  "year": 2001,
+  "doi": "10.1103/PhysRevE.64.027105",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "math-ph",
+    "math.MP",
+    "quant-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0103632.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0103632.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.206536+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0103632",
+    "categories": [
+      "cond-mat.stat-mech",
+      "math-ph",
+      "math.MP",
+      "quant-ph"
+    ]
+  }
+}

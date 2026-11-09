@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0402667",
+  "title": "Magnetic imaging of Pearl vortices",
+  "abstract": "We have used scanning SQUID magnetometry to image vortices in ultra-thin [Ba$_{0.9}$Nd$_{0.1}$CuO$_{2+x}$]$_m$/[CaCuO$_2$]$_n$ (CBCO) high temperature superconductor samples, with as few as three superconducting CuO$_2$ planes. The Pearl lengths ($Λ= 2λ_{L}^2/d$, $λ_{L}$ the London penetration depth, $d$ the superconducting film thickness) in these samples, as determined by fits to the vortex images, agree with those by local susceptibility measurements, and can be as long as 1mm. The in-plane penetration depths $λ_{ab}$ inferred from the Pearl lengths are longer than many bulk cuprates with comparable critical temperatures. We speculate on the causes of the long penetration depths, and on the possibility of exploiting the unique properties of these superconductors for basic experiments.",
+  "authors": [
+    "F. Tafuri",
+    "J. R. Kirtley",
+    "P. G. Medaglia",
+    "P. Orgiani",
+    "G. Balestrino"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0402667.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0402667.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.501756+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0402667",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0211097",
+  "title": "Persistence in the Zero-Temperature Dynamics of the Random Ising Ferromagnet on a Voronoi-Delaunay lattice",
+  "abstract": "The zero-temperature Glauber dynamic is used to investigate the persistence probability $P(t)$ in the randomic two-dimensional ferromagnetic Ising model on a Voronoi-Delaunay tessellation. We consider the coupling factor $J$ varying with the distance $r$ between the first neighbors to be $J(r) \\propto e^{-αr}$, with $α\\ge 0$. The persistence probability of spins flip, that does not depends on time $t$, is found to decay to a non-zero value $P(\\infty)$ depending on the parameter $α$. Nevertheless, the quantity $p(t)=P(t)-P(\\infty)$ decays exponentially to zero over long times. Furthermore, the fraction of spins that do not change at a time $t$ is a monotonically increasing function of the parameter $α$. Our results are consistent with the ones obtained for the diluted ferromagnetic Ising model on a square lattice.",
+  "authors": [
+    "F. W. S. Lima",
+    "R. N. Costa Filho",
+    "U. M. S. Costa"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0211097.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0211097.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.609764+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0211097",
+    "categories": [
+      "cond-mat.stat-mech"
+    ]
+  }
+}

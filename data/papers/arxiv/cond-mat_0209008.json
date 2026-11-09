@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0209008",
+  "title": "Duplication Models for Biological Networks",
+  "abstract": "Are biological networks different from other large complex networks? Both large biological and non-biological networks exhibit power-law graphs (number of nodes with degree k, N(k) ~ k-b) yet the exponents, b, fall into different ranges. This may be because duplication of the information in the genome is a dominant evolutionary force in shaping biological networks (like gene regulatory networks and protein-protein interaction networks), and is fundamentally different from the mechanisms thought to dominate the growth of most non-biological networks (such as the internet [1-4]). The preferential choice models non-biological networks like web graphs can only produce power-law graphs with exponents greater than 2 [1-4,8]. We use combinatorial probabilistic methods to examine the evolution of graphs by duplication processes and derive exact analytical relationships between the exponent of the power law and the parameters of the model. Both full duplication of nodes (with all their connections) as well as partial duplication (with only some connections) are analyzed. We demonstrate that partial duplication can produce power-law graphs with exponents less than 2, consistent with current data on biological networks. The power-law exponent for large graphs depends only on the growth process, not on the starting graph.",
+  "authors": [
+    "Fan Chung",
+    "Linyuan Lu",
+    "T. Gregory Dewey",
+    "David J. Galas"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat",
+    "q-bio"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0209008.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0209008.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:08.897132+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0209008",
+    "categories": [
+      "cond-mat",
+      "q-bio"
+    ]
+  }
+}

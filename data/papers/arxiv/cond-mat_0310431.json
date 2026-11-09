@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0310431",
+  "title": "Effects of Density of States Asymmetry on Boundary Resistance of Ferromagnetic-Nonferromagnetic Metal Interface",
+  "abstract": "Asymmetry of conduction of electrons in the spin majority and minority bands of a ferromagnetic metal is well known to produce spin accumulation at the boundary with a normal metal when a current is injected through the interface. However, little emphasis has been put on the density of states (DOS) asymmetry in diffusive ferromagnetic-nonferromagnetic multilayers. We found that if DOS and conduction asymmetry differ, the electric potential in a ferromagnet falls off to its bulk value exponentially on a scale of the spin diffusion length. Therefore the boundary contribution to resistance dramatically depends on whether the potential difference is measured close to the interface or farther than the spin diffusion length from it. This result is not altered by taking surface resistance or spin-flips on the intermetallic boundary into account. Explicit answers for common multilayered spin-valve structures are given.",
+  "authors": [
+    "Pavel Krotkov",
+    "Maxim Dzero"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0310431.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0310431.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:14.875834+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0310431",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

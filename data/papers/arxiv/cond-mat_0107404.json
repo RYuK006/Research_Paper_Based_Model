@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0107404",
+  "title": "The Random Field Ising Model on Hierarchical Lattices I: Phase Diagram and Thermodynamics",
+  "abstract": "The phase diagram and the thermodynamics of the random field Ising model (RFIM) defined on a family of diamond hierarchical lattices of arbitrary dimension and scaling factor $b=2$ is investigated. The phase diagram is studied considering the flow of the renormalized joint probability distributions of couplings and fields. A continuous (Gaussian) and a discrete (delta-bimodal) initial symmetric probability distributions for the random fields with variance $H_{0}$ are particularly considered. The thermodynamics properties (energy, specific heat and magnetization) are obtained by an exact recurrence procedure and analyzed as function of the temperature and the random field. Close and above the paramagnetic-ferromagnetic transition evidences of the formation of rare but large field induced correlated clusters of reversed spins are observed. For all studied properties no strong qualitative distinct behavior is found whenever the continuous or the discrete distribution of random fields are considered.",
+  "authors": [
+    "Alexandre Rosas",
+    "Sérgio Coutinho"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.dis-nn"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0107404.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0107404.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.074908+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0107404",
+    "categories": [
+      "cond-mat.dis-nn"
+    ]
+  }
+}

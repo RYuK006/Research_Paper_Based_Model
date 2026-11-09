@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0112065",
+  "title": "The magnetic field dependence of the electronic specific heat of Y_{0.8}Ca_{0.2}Ba_2Cu_3O_{6+x}",
+  "abstract": "We have measured the electronic specific heat of $Y_{0.8}Ca_{0.2}Ba_2Cu_3O_{7-δ}$ using a high-resolution differential technique from liquid helium temperature to room temperature in an applied magnetic field up to 13T. The field dependence of the electronic specific heat at low temperatures in the superconducting state behaves differently in the overdoped and underdoped regimes, varing as $\\sqrt{H}$ in the overdoped regime but as $H$ in the underdoped regime. An entropy loss is observed in the normal state in optimal and underdoped samples, which can be attributed to the opening of a normal state psuedogap. From the temperature and field dependences of the free energy, the temperature dependence of the upper critical field $H_{c2}$ is determined. For the overdoped sample ($x=0.79$), we find $H_{c2}$ to have a negative curvature.",
+  "authors": [
+    "J. L. Luo",
+    "J. W. Loram",
+    "T. Xiang",
+    "J. R. Cooper",
+    "J. L. Tallon"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0112065.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0112065.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.481041+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0112065",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

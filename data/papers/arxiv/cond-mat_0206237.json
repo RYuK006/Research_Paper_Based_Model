@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0206237",
+  "title": "Phase-field Modeling of Eutectic Solidification: From Oscillations to Invasion",
+  "abstract": "We develop a phase-field model of eutectic growth that uses three phase fields, admits strictly binary interfaces as stable solutions, and has a smooth free energy functional. We use this model to simulate oscillatory limit cycles in two-dimensional lamellar growth, and find a continuous evolution from low-amplitude oscillations to successive invasions of one solid phase by the other when the lamellar spacing is varied.",
+  "authors": [
+    "R. Folch",
+    "M. Plapp"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.soft"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0206237.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0206237.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.184290+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0206237",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.soft"
+    ]
+  }
+}

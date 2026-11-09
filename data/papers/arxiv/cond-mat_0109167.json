@@ -1,0 +1,32 @@
+{
+  "id": "arxiv:cond-mat/0109167",
+  "title": "Magnetic-field Manipulation of Chemical Bonding in Artificial Molecules",
+  "abstract": "The effect of orbital magnetism on the chemical bonding of lateral, two-dimensional artificial molecules is studied in the case of a 2e double quantum dot (artificial molecular hydrogen). It is found that a perpendicular magnetic field reduces the coupling (tunneling) between the individual dots and, for sufficiently high values, it leads to complete dissociation of the artificial molecule. The method used is building on Lowdin's work on Projection Operators in Quantum Chemistry; it is a spin-and-space unrestricted Hartree-Fock method in conjunction with the companion step of the restoration of spin and space symmetries via Projection Techniques (when such symmetries are broken). This method is able to describe the full range of couplings in two-dimensional double quantum dots, from the strong-coupling regime exhibiting delocalized molecular orbitals to the weak-coupling and dissociation regimes associated with a Generalized Valence Bond combination of atomic-type orbitals localized on the individual dots.",
+  "authors": [
+    "Constantine Yannouleas",
+    "Uzi Landman"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.str-el",
+    "nucl-th",
+    "physics.chem-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0109167.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0109167.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.389172+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0109167",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.str-el",
+      "nucl-th",
+      "physics.chem-ph"
+    ]
+  }
+}

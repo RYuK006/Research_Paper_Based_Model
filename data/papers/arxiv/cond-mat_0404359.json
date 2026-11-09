@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0404359",
+  "title": "Isolated modes and percolation in lattice dynamics of (Be,Zn)Se",
+  "abstract": "A mixed II-VI semiconductor Zn[1-x]Be[x]Se possesses non-trivial vibration properties, because its two constituent compounds, ZnSe and BeSe, show very different degree of covalency and hence high elastic contrast. An anomalous Be-Se vibration line has been observed mostly at intermediate Be content in the Raman spectra of thin (Zn,Be)Se films. In order to explain microscopic origins and the detailed composition of these lines, a first-principles calculation of vibration frequencies in a mixed crystal has been done, with frozen-phonon technique and supercell setup within the density functional theory, by the Siesta method, which uses norm-conserving pseudopotentials and strictly localized numerical basis functions. The calculations confirmed an earlier assumption that the anomalous Be-Se line appears due to the formation of continuous chains of a more rigid Be-rich pseudo-continuous phase formed within the more soft Zn-rich host region on crossing the Be-Se bond percolation threshold (~0.19). Different local deformation in percolated and non-percolated regions affect interatomic elastic interactions and split corresponding vibration lines. Besides confirming the percolation model qualitatively, the calculation provides details about vibration patterns in different phonon modes.",
+  "authors": [
+    "A. V. Postnikov",
+    "O. Pages",
+    "T. Tite",
+    "M. Ajjoun",
+    "J. Hugel"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0404359.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0404359.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:46.786097+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0404359",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

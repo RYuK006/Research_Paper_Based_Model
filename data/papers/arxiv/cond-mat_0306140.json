@@ -1,0 +1,37 @@
+{
+  "id": "arxiv:cond-mat/0306140",
+  "title": "Reply to Comment on: \"Spontaneous breaking of time-reversal symmetry in the pseudogap state of a high-Tc superconductor\"",
+  "abstract": "In a recent comment [1], Armitage and Hu have suggested that our experiment observing dichroism in angle resolved photoemission (ARPES) [2] could not be conclusively interpreted as arising from time reversal symmetry breaking, arguing that our observations are likely due to structural effects. The concerns expressed by Armitage and Hu that our results could be due to a change in the mirror plane are as important as they are obvious. In fact the first part of their comment merely restates the results of Simon and Varma [3] about the relationship and contrast of effects due to time reversal symmetry breaking and those caused by crystallographic changes. In any test of time reversal symmetry one must ensure that parity alone is not inducing the observed changes. We have indeed considered this issue very carefully in the course of our study [2] and it is precisely the lack of temperature dependent structural changes significant enough to explain the magnitude of the observed dichroism that forced us to conclude that time reversal symmetry breaking is the only plausible explanation. Furthermore, recent experiments by Borisenko, et al. [4] confirm that changes in the mirror plane are unmeasurably small.",
+  "authors": [
+    "A. Kaminski",
+    "S. Rosenkranz",
+    "H. M. Fretwell",
+    "J. C. Campuzano",
+    "Z. Z. Li",
+    "H. Raffy",
+    "W. G. Cullen",
+    "H. You",
+    "C. G. Olson",
+    "C. M. Varma",
+    "H. Hoechst"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0306140.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0306140.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.826407+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0306140",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ]
+  }
+}

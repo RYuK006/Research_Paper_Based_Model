@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0308603",
+  "title": "Small and Large Scale Granular Statics",
+  "abstract": "Recent experimental results on the static or quasistatic response of granular materials have been interpreted to suggest the inapplicability of the traditional engineering approaches, which are based on elasto-plastic models (which are elliptic in nature). Propagating (hyperbolic) or diffusive (parabolic) models have been proposed to replace the `old' models. Since several recent experiments were performed on small systems, one should not really be surprised that (continuum) elasticity, a macroscopic theory, is not directly applicable, and should be replaced by a grain-scale (``microscopic'') description. Such a description concerns the interparticle forces, while a macroscopic description is given in terms of the stress field. These descriptions are related, but not equivalent, and the distinction is important in interpreting the experimental results. There are indications that at least some large scale properties of granular assemblies can be described by elasticity, although not necessarily its isotropic version. The purely repulsive interparticle forces (in non-cohesive materials) may lead to modifications of the contact network upon the application of external forces, which may strongly affect the anisotropy of the system. This effect is expected to be small (in non-isostatic systems) for small applied forces and for pre-stressed systems (in particular for disordered systems). Otherwise, it may be accounted for using a nonlinear, incrementally elastic model, with stress-history dependent elastic moduli. Although many features of the experiments may be reproduced using models of frictionless particles, results demonstrating the importance of accounting for friction are presented.",
+  "authors": [
+    "Chay Goldenberg",
+    "Isaac Goldhirsch"
+  ],
+  "year": 2003,
+  "doi": "10.1007/s10035-004-0165-y",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0308603.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0308603.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.830357+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0308603",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

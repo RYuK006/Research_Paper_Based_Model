@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0110130",
+  "title": "Conserving approximations vs Two-Particle Self-Consistent Approach",
+  "abstract": "The conserving approximation scheme to many-body problems was developed by Kadanoff and Baym using the functional-derivative approach. Another approach for the Hubbard model also satisfies conservation laws, but in addition it satisfies the Pauli principle and a number of sum rules. A concise formal derivation of that approach, using functional derivatives, is given in this conference paper to highlight formal analogies and differences with conserving approximations.",
+  "authors": [
+    "S. Allen",
+    "A. -M. S. Tremblay",
+    "Y. M. Vilk"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0110130.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0110130.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.578732+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0110130",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0306108",
+  "title": "Performance Limitations of Flat Histogram Methods and Optimality of Wang-Landau Sampling",
+  "abstract": "We determine the optimal scaling of local-update flat-histogram methods with system size by using a perfect flat-histogram scheme based on the exact density of states of 2D Ising models.The typical tunneling time needed to sample the entire bandwidth does not scale with the number of spins N as the minimal N^2 of an unbiased random walk in energy space. While the scaling is power law for the ferromagnetic and fully frustrated Ising model, for the +/- J nearest-neighbor spin glass the distribution of tunneling times is governed by a fat-tailed Frechet extremal value distribution that obeys exponential scaling. We find that the Wang-Landau algorithm shows the same scaling as the perfect scheme and is thus optimal.",
+  "authors": [
+    "P. Dayal",
+    "S. Trebst",
+    "S. Wessel",
+    "D. Wuertz",
+    "M. Troyer",
+    "S. Sabhapandit",
+    "S. N. Coppersmith"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevLett.92.097201",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0306108.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0306108.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.816225+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0306108",
+    "categories": [
+      "cond-mat.stat-mech"
+    ]
+  }
+}

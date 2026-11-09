@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0406110",
+  "title": "Field-dependent diamagnetic transition in magnetic superconductor $Sm_{1.85} Ce_{0.15} Cu O_{4-y}$",
+  "abstract": "The magnetic penetration depth of single crystal $\\rm{Sm_{1.85}Ce_{0.15}CuO_{4-y}}$ was measured down to 0.4 K in dc fields up to 7 kOe. For insulating $\\rm{Sm_2CuO_4}$, Sm$^{3+}$ spins order at the Néel temperature, $T_N = 6$ K, independent of the applied field. Superconducting $\\rm{Sm_{1.85}Ce_{0.15}CuO_{4-y}}$ ($T_c \\approx 23$ K) shows a sharp increase in diamagnetic screening below $T^{\\ast}(H)$ which varied from 4.0 K ($H = 0$) to 0.5 K ($H =$ 7 kOe) for a field along the c-axis. If the field was aligned parallel to the conducting planes, $T^{\\ast}$ remained unchanged. The unusual field dependence of $T^{\\ast}$ indicates a spin freezing transition that dramatically increases the superfluid density.",
+  "authors": [
+    "R. Prozorov",
+    "D. D. Lawrie",
+    "I. Hetel",
+    "P. Fournier",
+    "R. W. Giannetta"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevLett.93.147001",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0406110.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0406110.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.375405+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0406110",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0111293",
+  "title": "Cardy's Formula for some Dependent Percolation Models",
+  "abstract": "We prove Cardy's formula for rectangular crossing probabilities in dependent site percolation models that arise from a deterministic cellular automaton with a random initial state. The cellular automaton corresponds to the zero-temperature case of Domany's stochastic Ising ferromagnet on the hexagonal lattice H (with alternating updates of two sublattices); it may also be realized on the triangular lattice T with flips when a site disagrees with six, five and sometimes four of its six neighbors.",
+  "authors": [
+    "Federico Camia",
+    "Charles M. Newman",
+    "Vladas Sidoravicius"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "math.PR"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0111293.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0111293.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.352248+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0111293",
+    "categories": [
+      "cond-mat.stat-mech",
+      "math.PR"
+    ]
+  }
+}

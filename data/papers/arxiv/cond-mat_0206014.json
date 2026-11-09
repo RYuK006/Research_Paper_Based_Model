@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0206014",
+  "title": "Thickness-Dependence of the Coercive Field in Ferroelectrics",
+  "abstract": "For forty years researchers on ferroelectric switching have used the Kay-Dunn theory to model the thickness-dependence of the coercive field; it works surprisingly well, despite the fact that it is based upon homogeneous nucleation and a small-field expansion, neither of which is realized in thin films. Here we demonstrate that this result can be obtained from a more general Kolmogorov-Avrami model of (inhomogeneous) nucleation and growth. By including a correction to the switching field across the dielectric that includes Thomas-Fermi screening in the metal electrode, we show that our theory quantitatively describes the coercive fields versus thickness in several different families of ferroelectric (lead zirconate-titanate [PZT], potassium nitrate, and polyvinylidenefluoride [PVDF]) over a wide range of thickness (5 decades). This agreement is particularly satisfying in the case of PVDF, as it indicates that the switching kinetics are domain-wall limited down to 1 nanometer and thus require no new effects.",
+  "authors": [
+    "P. Chandra",
+    "M. Dawber",
+    "P. B. Littlewood",
+    "J. F. Scott"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0206014.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0206014.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.092762+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0206014",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

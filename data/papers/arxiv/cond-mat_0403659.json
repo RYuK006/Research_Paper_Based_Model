@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0403659",
+  "title": "Exchange coupling and enhancement of Curie temperature of the intergranular amorphous region in nano-crystalline duplex-phase alloys system",
+  "abstract": "We explored the magnetic behavior of a common two-phase nanomagnetic system by Monte Carlo computer simulation of a modified Heisenberg model on a 3D complex lattice with single- and cluster-spins. The effect of exchange coupling between two component magnetic phases was studied on the enhancement in Curie temperature (ECT) of the intergranular amorphous region of a common duplex-phase alloy system, with numerous nano-crystallites embedded in amorphous matrix. The dependences of ECT were investigated systematically upon the nanocrystallite size, the volume fraction and the interspace among crystallites. It was observed that large crystallized volume fraction, small grain size and thin inter-phase thickness lead to the obvious ECT of intergranular amorphous region whereas the Curie temperature of nanocrystallites declines slightly. There is a simulative empirical formula which relates the reduced ECT to microstructure parameter and conforms to its experimental counterpart within an order of magnitude. In addition, we also simulated the demagnetization of a hard-soft nanocomposite system. We estimated the influence of exchange coupling between two component phases on the cooperativity of two-phase magnetizations and the coherent reversal of magnetizations as well as coercivity and energy product.",
+  "authors": [
+    "Y. Z. Shao",
+    "W. R. Zhong",
+    "G. M. Lin",
+    "X. D. Hu"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0403659.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0403659.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.853673+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0403659",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

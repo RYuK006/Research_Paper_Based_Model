@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0301553",
+  "title": "Magnetic phase separation in La1-xSrxCoO3 by 59Co NMR",
+  "abstract": "59Co NMR measurements on La1-xSrxCoO3 reported here establish unequivocally, for the first time, the coexistence of ferromagnetic regions, spin glass regions, and hole poor low spin regions at all x values from 0.1 to 0.5. A zero external field NMR spectrum, which is assigned to the ferromagnetic regions, has a spectral shape which is nearly x independent at 1.9 K, as are the relaxation times, T1 and T2. The integrated spectral area increases rapidly with x up to x=0.2 and then becomes almost constant for larger x. In a field of 9.97 T, a narrow NMR line is observed at 102 MHz, identical to that found in x=0 samples in previous work. The integrated intensity of this spectrum decreases rapidly with increasing x, and is ascribed to hole poor low spin regions. Beneath this spectrum, a third broad line, centered at 100 MHz, with shorter T1 and T2,. is assigned to a spin glass, intermediate spin phase.",
+  "authors": [
+    "P. L. Kuhns",
+    "M. J. R. Hoch",
+    "W. G. Moulton",
+    "A. P. Reyes J. Wu",
+    "C. Leighton"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0301553.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0301553.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.624226+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0301553",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

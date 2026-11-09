@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0309131",
+  "title": "Reply to the \"Comment on 'Intrinsic tunneling spectra of Bi_2(Sr_{2-x}La_x)CuO_6' \": Auxiliary information",
+  "abstract": "To better address the heating issue in stacks of intrinsic Josephson junctions, we directly measure temperature of the stack by using a micron-sized thermocouple which is in direct thermal- and electrical contact to the stack, exactly in the place where the bias current is injected. Our measurements have shown that the temperature of the stack can reach 200-300K at the highest bias. Thus, we confirm experimentally that the Joule self-heating is a severe problem in intrinsic-junction-spectroscopy experiments. The pseudogap features reported in our previous paper (A.Yurgens etal, PRL 90, 147005 (2003)) are indeed an artifact of Joule heating. The detailed measurements of the temperature of the stacks at different ambient temperatures T0 allow us to deduce the unique, \"heating-free\" I(V)-, or dI/dV(V) curves.",
+  "authors": [
+    "A. Yurgens",
+    "D. Winkler",
+    "T. Claeson",
+    "S. Ono",
+    "Yoichi Ando"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0309131.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0309131.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.923439+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0309131",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0104125",
+  "title": "The simulation of the spin ground states of the coulomb clusters in a broad 2D parabolic well",
+  "abstract": "By variational Monte-Carlo method developed Ceperley et al. for the simulation of fermi systems in macroscopic confining potential well we simulate various spin ground states of the coulomb clusters with 2,3 and 4 particles in a broad two-dimensional (2D) parabolic well. In this method quantum state numbers determining the variational wave function are not the numbers of well quantum states but numbers of the equilibrium spatial positions of particles that give a minimum of the system potential energy. The ground states with parallel, antiparallel spins and as well, as bose state are simulated. For the cluster with three particles it is also simulated the state when two particles have one direction of spin and third opposite. The simulation shows that clusters with parallel spins have lower ground state energy than clusters with other spin configurations and bose state. That reminds a Hund's rule in atomic physics when in not full filled atomic shells electrons prefer to have a state with parallel spins.",
+  "authors": [
+    "B. Abdullaev",
+    "A. D. Kidisyuk",
+    "M. M. Musakhanov"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0104125.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0104125.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.251412+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0104125",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

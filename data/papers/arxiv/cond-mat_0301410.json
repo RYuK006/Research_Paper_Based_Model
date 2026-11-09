@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0301410",
+  "title": "Tunneling ionization of deep centers in high frequency electric fields",
+  "abstract": "Experimental and theoretical work on the ionization of deep impurity centers in the alternating terahertz field of high-intensity far-infrared laser radiation, with photon energies tens of times lower than the impurity ionization energy, is reviewed. It is shown that impurity ionization is due to phonon-assisted tunneling which proceeds at high electric field strengths into direct tunneling without involving phonons. In the quasi-static regime of low frequencies the tunneling probability is independent on frequency. Carrier emission is accomplished by defect tunneling in configuration space and electron tunneling through the potential well formed by the attractive force of the impurity and the externally applied electric field. The dependence of the ionization probability on the electric field strength permits to determine defect tunneling times, the structure of the adiabatic potentials of the defect, and the Huang-Rhys parameters of electron-phonon interaction. Raising the frequency leads to an enhancement of tunneling ionization and the tunneling probability gets frequency dependent. The transition from the frequency independent quasi-static limit to frequency dependent tunneling is determined by the tunneling time which is in the case of phonon asissted tunneling controlled by the temperature. This transition to the high-frequency limit represents the boundary between semiclassical physics, where the radiation field has a classical amplitude, and full quantum mechanics where the radiation field is quantized and impurity ionization is caused by multi-photon processes.",
+  "authors": [
+    "S. D. Ganichev",
+    "I. N. Yassievich",
+    "W. Prettl"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0301410.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0301410.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.538281+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0301410",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

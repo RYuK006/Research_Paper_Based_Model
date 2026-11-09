@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0205568",
+  "title": "Phase diagram of Josephson junction arrays with capacitive disorder",
+  "abstract": "We study the phase diagram at finite temperature of Josephson junction arrays with capacitive disorder (i.e., random offset charges and/or random charging energies): in the limit of large particle numbers per junction, this is a remarkable physical realization of the disordered boson Hubbard model. By using a mean-field approximation, we compute the average free energy and the equation for the phase boundary line between the insulating and the superconducting phase. We find that the Mott-insulating lobe structure disappears for large variance ($σ\\gtrsim e$) of the offset charges probability distribution. Further, with nearest-neighbor interactions, the insulating lobe around $q=e$ is destroyed even for small values of $σ$. In the case of random charging energies, until the variance of the distribution reaches some critical value the superconducting phase increases in comparison to the situation in which all self-capacitances are equal.",
+  "authors": [
+    "F. P. Mancini",
+    "P. Sodano",
+    "A. Trombettoni"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevB.67.014518",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0205568.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0205568.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.036744+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0205568",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

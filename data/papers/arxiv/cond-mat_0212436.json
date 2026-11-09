@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0212436",
+  "title": "Universal scaling behavior of pseudogap with doping in high Tc cuprates; temperature and doping dependence of spectral intensity",
+  "abstract": "Based on our improved SU(2) slave-boson approach (Phys. Rev. B 64, 052501(2001)) to the t-J Hamiltonian, we report a scaling behavior of pseudogap with doping and the temperature and doping dependence of spectral functions. In addition we discuss the cause of hump and quasi-particle peak in the observed spectral functions of high Tc cuprates. It is demonstrated that the sharpening of the observed quasi-particle peak below Tc is attributed to the bose condensation of holon pair. From the computed ratios of pseudogap $Δ_0$ to both the superconducting temperature Tc and the pseudogap temperature $T^*$ as a function of hole doping concentration x, we find that there exists a universal scaling of these ratios with doping, that is, the hyperbolic scaling behavior of the former, $\\frac{2 Δ_0}{k_B T_c} \\sim x^{-α}$ with $α\\sim 2$ and near doping independence of the latter, $\\frac{2 Δ_0}{k_B T^*} \\approx 4 \\sim 6$ are found.",
+  "authors": [
+    "Sung-Sik Lee",
+    "Sung-Ho Suck Salk"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0212436.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0212436.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.151583+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0212436",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

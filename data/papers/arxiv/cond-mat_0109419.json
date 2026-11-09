@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0109419",
+  "title": "Quantum phase transitions of correlated electrons in two dimensions",
+  "abstract": "We review the theories of a few quantum phase transitions in two-dimensional correlated electron systems and discuss their application to the cuprate high temperature superconductors. The coupled-ladder antiferromagnet displays a transition between the Neel state and a spin gap paramagnet with a sharp S=1 exciton: we develop a careful argument which eventually establishes that this transition is described by the familiar O(3) ϕ^4 field theory in 2+1 dimensions. Crucial to this argument is the role played by the quantum Berry phases. We illustrate this role in a one-dimensional example where our results can tested against those known from bosonization. On bipartite lattices in two dimensions, we study the influence of Berry phases on the quantum transition involving the loss of Neel order, and show that they induce bond-centered charge order (e.g. spin Peierls order) in the paramagnetic phase. We extend this theory of magnetic transitions in insulators to that between an ordinary d-wave superconductor and one with co-existing spin-density-wave order. Finally, we discuss quantum transitions between superconductors involving changes in the Cooper pair wavefunction, as in a transition between d_{x^2-y^2} and d_{x^2-y^2}+id_{xy} superconductors. A mean-field theory for this transition is provided by the usual BCS theory; however, BCS theory fails near the critical point, and we present the required field-theoretic extension. Our discussion includes a perspective on the phase diagram of the cuprate superconductors, in the context of recent experiments and the transitions discussed here.",
+  "authors": [
+    "Subir Sachdev"
+  ],
+  "year": 2001,
+  "doi": "10.1016/S0378-4371(02)01040-3",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0109419.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0109419.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.478453+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0109419",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ]
+  }
+}

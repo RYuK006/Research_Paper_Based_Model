@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0405351",
+  "title": "Configurational Continuum modelling of crystalline surface evolution",
+  "abstract": "We propose a novel approach to continuum modelling of dynamics of crystal surfaces. Our model follows the evolution of an ensemble of step configurations, which are consistent with the macroscopic surface profile. Contrary to the usual approach where the continuum limit is achieved when typical surface features consist of many steps, our continuum limit is approached when the number of step configurations of the ensemble is very large. The model is capable of handling singular surface structures such as corners and facets and has a clear computational advantage over discrete models.",
+  "authors": [
+    "Navot Israeli",
+    "Daniel Kandel"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0405351.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0405351.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.123364+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0405351",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

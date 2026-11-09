@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0107048",
+  "title": "The charge and low-frequency response of normal-superconducting heterostructures",
+  "abstract": "The charge distribution is a basic aspect of electrical transport. In this work we investigate the self-consistent charge response of normal-superconducting heterostructures. Of interest is the variation of the charge density due to voltage changes at contacts and due to changes in the potential. We present response functions in terms of functional derivatives of the scattering matrix. We discuss corrections to the Lindhard function due to the proximity of the superconductor. We use these results to find the dynamic conductance matrix to lowest order in frequency. We illustrate similarities and differences between normal systems and heterostructures for specific examples like a ballistic wire, a resonator, and a quantum point contact.",
+  "authors": [
+    "S. Pilgram",
+    "H. Schomerus",
+    "A. M. Martin",
+    "M. Buttiker"
+  ],
+  "year": 2001,
+  "doi": "10.1103/PhysRevB.65.045321",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0107048.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0107048.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.940103+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0107048",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.supr-con"
+    ]
+  }
+}

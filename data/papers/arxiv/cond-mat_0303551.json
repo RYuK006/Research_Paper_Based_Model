@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0303551",
+  "title": "Introduction to Quantum Monte Carlo simulations for fermionic systems",
+  "abstract": "We tutorially review the determinantal Quantum Monte Carlo method for fermionic systems, using the Hubbard model as a case study. Starting with the basic ingredients of Monte Carlo simulations for classical systems, we introduce aspects such as importance sampling, sources of errors, and finite-size scaling analyses. We then set up the preliminary steps to prepare for the simulations, showing that they are actually carried out by sampling discrete Hubbard-Stratonovich auxiliary fields. In this process the Green's function emerges as a fundamental tool, since it is used in the updating process, and, at the same time, it is directly related to the quantities probing magnetic, charge, metallic, and superconducting behaviours. We also discuss the as yet unresolved \"minus-sign problem\", and two ways to stabilize the algorithm at low temperatures.",
+  "authors": [
+    "Raimundo R. dos Santos"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0303551.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0303551.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:43.870478+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0303551",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

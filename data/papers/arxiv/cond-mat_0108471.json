@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0108471",
+  "title": "Large fluctuations of disentaglement force and implications for polymer dynamics",
+  "abstract": "This paper examines the effect of cooling on disentanglement forces in polymers and the implications for both single chain pullout and polymer dynamics. I derive the explicit dependence of the distribution of these forces on temperature, which is found to exhibit a rich behaviour. Most significantly, it is shown to be dominated by large fluctuations up to a certain temperature $T_0$ that can be determined from molecular parameters.   The effects of these fluctuations on chain friction are analysed and they are argued to undermine the traditional melt-based models that rely on a typical chain friction coefficient. A direct implication for first principles calculation of viscosity is discussed. This quantifies the limit of validity of such descriptions, such as Rouse dynamics and the Tube model, and pave the way to model polymer dynamics around the glass transition temperature.",
+  "authors": [
+    "Raphael Blumenfeld"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.soft"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0108471.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0108471.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.322525+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0108471",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.soft"
+    ]
+  }
+}

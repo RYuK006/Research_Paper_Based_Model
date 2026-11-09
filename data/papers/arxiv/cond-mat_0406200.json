@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0406200",
+  "title": "Gauge Theory Pairing and Spin Fluctuations Near the Quantum Critical Point",
+  "abstract": "We develop a new theory of pairing and magnetic spin fluctuation effect near the quantum critical point. Several novel properties are predicted: 1) based on a spin fermion model, we derive two new interactions, a) a spin deformational potential $H_{sdp}$ proportional to the bandwidth $W$ (as opposed to the considerably smaller exchange coupling $J$ of the nearly antiferromagnetic Fermi liquid theory) and b) a diamagnetic potential $H_{dia}$, quadratic in a gauge potential $\\vec{A}$. A dramatic increase of $T_C$ is predicted for $0.01 W\\leq J\\leq 10 W$. This should have immense technological impact in electric energy production, storage and transmission, as well as for medical electronics, microwave electronics, computer memory and information storage, separations technology and maglev, amongst others. The striking prediction to be confirmed by experiment is that the pairing order parameter $Δ(\\vec{k})$ is predicted to be $p-$wave, i.e., $l=1$, S=1, as compared to $l=2$ and S=1 for conventional HTS materials. In addition a novel collective model is predicted whose frequency, $ω_L$ is in the optical range and is determined by $H_{sdp}$.",
+  "authors": [
+    "J. R. Schrieffer"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0406200.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0406200.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.416797+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0406200",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

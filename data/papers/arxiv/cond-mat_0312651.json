@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0312651",
+  "title": "Non--Ginsburg-Landau Critical Current Behavior in MgCNi3",
+  "abstract": "We present transport critical current measurements on microfibers consisting of a 80-nm thick layer of polycrystalline MgCNi3 synthesized directly onto 7-micron diameter carbon fibers. Near the transition temperature, Tc, the critical current density, Jc, is well described by the power law form [1-(T/T_c)^2)]^2, with no crossover to the Ginsburg-Landau exponent 1.5. We extrapolate Jc(0) ~ 4 x 10^7 A/cm^2, which is an order of magnitude greater than estimates obtained from magnetization measurements of polycrystalline powders. The field dependence is purely exponential Jc(T,H) = Jc(T) exp(-H/Ho) over the entire field range of 0 to 9 T. The unconventional scaling behavior of the critical current appears rooted in an anomalous temperature dependence of the London penetration depth, suggesting an unusual superconducting ground state in MgCNi3.",
+  "authors": [
+    "D. P. Young",
+    "M. Moldovan",
+    "P. W. Adams"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0312651.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0312651.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.789767+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0312651",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

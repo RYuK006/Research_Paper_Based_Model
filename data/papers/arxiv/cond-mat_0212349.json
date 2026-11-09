@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0212349",
+  "title": "Debt Subordination and The Pricing of Credit Default Swaps",
+  "abstract": "First passage models, where corporate assets undergo a random walk and default occurs if the assets fall below a threshold, provide an attractive framework for modeling the default process. Recently such models have been generalized to allow a fluctuating default threshold or equivalently a fluctuating total recovery fraction $R$. For a given company a particular type of debt has a recovery fraction $R_i$ that is greater or less than $R$ depending on its level of subordination. In general the $R_i$ are functions of $R$ and since, in models with a fluctuating default threshold, the probability of default depends on $R$ there are correlations between the recovery fractions $R_i$ and the probability of default. We find, using a simple scenario where debt of type $i$ is subordinate to debt of type $i-1$, the functional dependence $R_i(R)$ and explore how correlations between the default probability and the recovery fractions $R_i(R)$ influence the par spreads for credit default swaps. This scenario captures the effect of debt cushion on recovery fractions.",
+  "authors": [
+    "Peter B. Lee",
+    "Mark B. Wise",
+    "Vineer Bhansali"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0212349.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0212349.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.066451+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0212349",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

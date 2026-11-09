@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0101330",
+  "title": "Complex Diffusion Monte-Carlo method for the systems with complex wave function: test by the simulation of 2D electron in uniform magnetic field",
+  "abstract": "On the base of Diffusion Monte-Carlo method it is developed a new Complex Diffusion Monte-Carlo (CDMC) method allowing to simulate the quantum systems with complex wave function. There are no approximations on the calculation of modulus and phase of wave function in contrast to other methods. We find that the averaged value of any quantity in CDMC will have no direct contribution from the phase of the distribution function but only from the phase of the Green function of the diffusion equation. This is most important and crucial point of CDMC. We are testing CDMC by the calculation of the wave function and the ground state energy of two-dimensional electron placed into the external uniform magnetic field. There is an excellent agreement between simulations results and an analytical ones.",
+  "authors": [
+    "B. Abdullaev",
+    "M. Musakhanov",
+    "A. Nakamura"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0101330.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0101330.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:04.592181+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0101330",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

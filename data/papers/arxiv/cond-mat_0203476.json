@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0203476",
+  "title": "Calculation of the incremental stress-strain relation of a polygonal packing",
+  "abstract": "The constitutive relation of the quasi-static deformation on two dimensional packed samples of polygons is calculated using molecular dynamic simulations. The stress values at which the system remains stable are bounded by a failure surface, that shows a power law dependence on the pressure. Below the failure surface, non linear elasticity and plastic deformation are obtained, which are evaluated in the framework of the incremental linear theory. The results shows that the stiffness tensor can be directly related to the micro-contact rearrangements. The plasticity obeys a non-associated flow rule, with a plastic limit surface that does not agree with the failure surface.",
+  "authors": [
+    "F. Alonso-Marroquin",
+    "H. J. Herrmann"
+  ],
+  "year": 2002,
+  "doi": "10.1103/PhysRevE.66.021301",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0203476.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0203476.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.300928+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0203476",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

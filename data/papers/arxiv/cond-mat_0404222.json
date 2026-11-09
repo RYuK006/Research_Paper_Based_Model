@@ -1,0 +1,33 @@
+{
+  "id": "arxiv:cond-mat/0404222",
+  "title": "Ab-initio calculations of the Optical band-gap of TiO2 thin films",
+  "abstract": "Titanium dioxide has been extensively studied in recent decades for its important photocatalytic application in environmental purification. The search for a method to narrow the optical band-gap of TiO2 plays a key role for enhancing its photocatalytic application. The optical band gap of epitaxial rutile and anatase TiO2 thin films deposited by helicon magnetron sputtering on sapphire and on SrTiO3 substrates was correlated to the lattice constants estimated from HRTEM images and SAED. The optical band-gap of 3.03 eV for bulk-rutile increased for the thin films to 3.37 on sapphire. The band gap of 3.20 eV for bulk-anatase increases to 3.51 on SrTiO3. In order to interpret the optical band gap expansion for both phases, ab-initio calculations were performed using the Vienna ab-initio software. The calculations for rutile as well anatase show an almost linear increase of the band gap width with decreasing volume or increasing lattice constant a. The calculated band gap fits well with the experimental values. The conclusion from these calculations is, in order to achieve a smaller band-gap for both, rutile or anatase, the lattice constants c has to be compressed, and a has to be expanded.",
+  "authors": [
+    "Wilfried Wunderlich",
+    "Lei Miao",
+    "Masaki Tanemura",
+    "Sakae Tanemura",
+    "Ping Jin",
+    "Kenji Kaneko",
+    "Asuka Terai",
+    "Nataliya Nabatova-Gabin",
+    "Rachid Belkada"
+  ],
+  "year": 2004,
+  "doi": "10.1142/S0219581X04002231",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0404222.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0404222.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:46.703994+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0404222",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

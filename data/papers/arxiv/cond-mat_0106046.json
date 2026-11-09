@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0106046",
+  "title": "Convergent recursive O(N) calculations for ab initio tight-binding",
+  "abstract": "A theory is presented for a novel recursion method for O(N) ab initio tight-binding calculations. A long-standing problem of generalizing the recursion method to a non-orthogonal basis, which is a crucial step to make the recursion method applicable to ab initio calculations, is solved by the introduction of the hybrid representation and the two-sided block Lanczos algorithm. As a test of efficiency of the new method, convergence properties in energy and force of insulators, semiconductors, metals, and molecules are studied for not only simple model systems but also some real materials within the density functional theory. The present O(N) method possesses good convergence properties for metals as well as insulators.",
+  "authors": [
+    "T. Ozaki",
+    "K. Terakura"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0106046.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0106046.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.687160+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0106046",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

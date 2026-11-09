@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0207574",
+  "title": "First and second order phase transitions and magnetic hysteresis for a superconducting plate",
+  "abstract": "The self-consistent solutions of a nonlinear Ginzburg--Landau equations, which describe the behavior of a superconducting plate of thickness 2D in a magnetic field H parallel to its surface (provided that there are no vortices inside the plate), are studied. We distinguish two types of superconductors according to the behavior of their magnetization M(H) in an increasing field. The magnetization can vanish either by a first order phase transition (type-I superconductors), or by a second order (type-II). The boundary S_{I-II}, which separates two regions (I and II) on the plane of variables (D,kappa), is found. The boundary zeta(D,kappa) of the region, where the hysteresis in a decreasing field is possible (for superconductors of both type), is also calculated. The metastable d-states, which are responsible for the hysteresis in type-II superconductors, are described. The region of parameters (D,kappa) for type-I superconductors is found, where the supercooled normal metal (before passing to a superconducting Meissner state) goes over into a metastable precursor state (p-). In the limit kappa --> 1/sqrt{2} and D>>lambda (where lambda is the London penetration depth) the self-consistent p-solution coincides with the analytic solution, found from the degenerate Bogomolnyi equations. The critical fields H_1, H_2, H_p, H_r for type-I and type-II superconducting plates are also found.",
+  "authors": [
+    "G. F. Zharkov"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0207574.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0207574.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.712279+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0207574",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

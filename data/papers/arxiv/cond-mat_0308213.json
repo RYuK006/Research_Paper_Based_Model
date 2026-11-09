@@ -1,0 +1,33 @@
+{
+  "id": "arxiv:cond-mat/0308213",
+  "title": "Ultrafast quasiparticle relaxation dynamics in normal metals and heavy fermion materials",
+  "abstract": "We present a detailed theoretical study of the ultrafast quasiparticle relaxation dynamics observed in normal metals and heavy fermion materials with femtosecond time-resolved optical pump-probe spectroscopy. For normal metals, a nonthermal electron distribution gives rise to a temperature (T) independent electron-phonon relaxation time at low temperatures, in contrast to the T^{-3}-divergent behavior predicted by the two-temperature model. For heavy fermion compounds, we find that the blocking of electron-phonon scattering for heavy electrons within the density-of-states peak near the Fermi energy is crucial to explain the rapid increase of the electron-phonon relaxation time below the Kondo temperature. We propose the hypothesis that the slower Fermi velocity compared to the sound velocity provides a natural blocking mechanism due to energy and momentum conservation laws.",
+  "authors": [
+    "K. H. Ahn",
+    "M. J. Graf",
+    "S. A. Trugman",
+    "J. Demsar",
+    "R. D. Averitt",
+    "J. L. Sarrao",
+    "A. J. Taylor"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevB.69.045114",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0308213.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0308213.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.635335+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0308213",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

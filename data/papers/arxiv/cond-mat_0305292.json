@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0305292",
+  "title": "Thermal Remagnetization in Polycrystalline Permanent Magnets",
+  "abstract": "The thermal remagnetization (TR), i.e. the reentrance of magnetization upon heating in a steady-field demagnetized sample, is a common feature to the four types of polycrystalline permanent magnets, mainly utilized for practical purposes, i.e. barium ferrites, SmCo5, Sm2Co17 and NdFeB magnets. The effect is small for pinning controlled and large for nucleation controlled magnets. The effect is strongly dependent on the demagnetization factor and may reach nearly 100 per cent in SmCo5 samples measured in a closed circuit. The TR is very sensitive to a small superimposed steady field. The maximum effect and the position of the peak is dependent on the initial temperature. The direction of the TR is correlated with the temperature coefficient of the coercivity, resulting in a inverse TR in barium ferrite. The susceptibility of the thermally remagnetized samples is increased. Repeated cycles of steady-field demagnetization followed by heating result in the same TR. The phenomenology of TR and ITR is explained by means of a model taking into account both the internal field fluctuations due to grain interactions and the decay of single domain grains into multi-domain state. By taking the measured temperature dependencies of the coercivity and the saturation magnetization the theory is able to reproduce the experiments very well, allowing to determine the width of the field fluctuations, the width of the switching field distribution and an internal demagnetization factor as characteristics of the materials by fitting.",
+  "authors": [
+    "R. Schumann",
+    "L. Jahn"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0305292.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0305292.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.515214+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0305292",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

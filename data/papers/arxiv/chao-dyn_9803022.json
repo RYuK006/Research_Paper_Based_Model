@@ -1,0 +1,32 @@
+{
+  "id": "arxiv:chao-dyn/9803022",
+  "title": "Probing Physics of Magnetohydrodynamic Turbulence Using Direct Numerical Simulation",
+  "abstract": "The energy spectrum and the nolinear cascade rates of MHD turbulence is not clearly understood. We have addressed this problem using direct numerical simulation and analytical calculations. Our numerical simulations indicate that Kolmogorov-like phenomenology with $k^{-5/3}$ energy spectrum, rather than Kraichnan's $k^{-3/2}$, appears to be applicable in MHD turbulence. Here, we also construct a self-consistent renomalization group procedure in which the mean magnetic field gets renormalized, which in turns yields $k^{-5/3}$ energy spectrum. The numerical simulations also show that the fluid energy is transferred to magnetic energy. This result could shed light on the generation magnetic field as in dynamo mechanism.",
+  "authors": [
+    "Mahendra K. Verma",
+    "Gaurav Dar"
+  ],
+  "year": 1998,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "chao-dyn",
+    "astro-ph",
+    "cond-mat",
+    "nlin.CD"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/chao-dyn/9803022.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\chao-dyn_9803022.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:03.716131+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "chao-dyn/9803022",
+    "categories": [
+      "chao-dyn",
+      "astro-ph",
+      "cond-mat",
+      "nlin.CD"
+    ]
+  }
+}

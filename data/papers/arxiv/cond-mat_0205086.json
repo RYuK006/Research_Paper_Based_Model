@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0205086",
+  "title": "A dynamical mean-field theory approach to superconductivity and antiferromagnetism in a strongly correlated electron system",
+  "abstract": "We present the results of numerical studies of superconductivity and antiferromagnetism in a strongly correlated electron system. To do this we construct a Hubbard model on a lattice of self-consistently embedded multi-site clusters by means of a dynamical mean-field theory in which intra-cluster dynamics is treated essentially exactly. We show that a class of characteristic features which have been seen in the excitation spectra of high-$T_{c}$ cuprates (e.g., pseudogap and the spin-flip resonance), as well as their interplay with the onset of a pairing correlations, can be captured within a dynamical mean-field theory in which short-wavelength dynamics are rigorously treated. Thus we infer that the observation of the neutron scattering resonance in the superconducting state of the cuprate superconductors does not appear to be directly tied to their quasi-2D character. Although our approach is defined strictly in terms of fermion degrees of freedom, we show that we can readily identify the emergence of effective low energy bosonic degrees of freedom in the presence of a well-defined broken symmetry phase as long as their dynamics are dominated by short-range, short-wavelength fluctuations. Our results reveal that the dynamics of staggered spin degrees of freedom builds up coherence and a resonance-like sharp feature emerges as pairing correlations set in. Under conditions of superconducting broken symmetry our approach thus extends static BCS mean field theory to provide an exact treatment of quantum fluctuations of the BCS order parameter.",
+  "authors": [
+    "H. Watanabe",
+    "S. Doniach"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0205086.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0205086.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.762689+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0205086",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

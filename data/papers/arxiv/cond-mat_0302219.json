@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0302219",
+  "title": "Monte Carlo Study of Four-Spinon Dynamic Structure Function in Antiferromagnetic Heisenberg Model",
+  "abstract": "Using Monte Carlo integration methods, we describe the behavior of the exact four-spinon dynamic structure function $S_{4}$ in the antiferromagnetic spin 1/2 Heisenberg quantum spin chain as a function of the neutron energy $ω$ and momentum transfer $k$. We also determine the four-spinon continuum, the extent of the region in the $(k,ω)$ plane outside which $S_{4}$ is identically zero. In each case, the behavior of $S_{4}$ is shown to be consistent with the four-spinon continuum and compared to the one of the exact two-spinon dynamic structure function $S_{2}$. Overall shape similarity is noted.",
+  "authors": [
+    "A. Abada",
+    "B. Si-Lakhal"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0302219.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0302219.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.799377+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0302219",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

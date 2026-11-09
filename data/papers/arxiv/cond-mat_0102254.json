@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0102254",
+  "title": "Low-temperature properties of PZT solid solutions near the morphotropic phase boundary",
+  "abstract": "A first-principles-derived approach is used to study structural, piezoelectric and dielectric properties of Pb(Zr_{1-x}Ti_{x})O_{3} (PZT) solid solutions near the morphotropic phase boundary at low temperature. Three ferroelectric phases are found to exist: a tetragonal phase for larger x compositions, a rhombohedral phase for smaller x compositions, and the recently discovered monoclinic phase in between. In this monoclinic phase, the polarization associated with the Zr atoms behaves differently from the polarization associated with the Ti atoms. As the composition x decreases, the former rotates more quickly towards the pseudo-cubic [111] direction and grows in magnitude, while the latter lags in its rotation and its magnitude shrinks. The local microscopic structure is found to deviate significantly from the average structure in these PZT alloy phases as a result of fluctuations in the directions and magnitudes of the local polarizations. The monoclinic phase is characterized by a very large piezoelectric and dielectric response.",
+  "authors": [
+    "L. Bellaiche",
+    "A. Garcia",
+    "David Vanderbilt"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0102254.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0102254.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:04.767186+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0102254",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

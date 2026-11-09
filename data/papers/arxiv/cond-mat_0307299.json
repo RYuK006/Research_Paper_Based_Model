@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0307299",
+  "title": "Variable-range hopping in quasi-one-dimensional electron crystals",
+  "abstract": "We study the effect of impurities on the ground state and the low-temperature dc transport in a 1D chain and quasi-1D systems of many parallel chains. We assume that strong interactions impose a short-range periodicicity of the electron positions. The long-range order of such an electron crystal (or equivalently, a $4 k_F$ charge-density wave) is destroyed by impurities. The 3D array of chains behaves differently at large and at small impurity concentrations $N$. At large $N$, impurities divide the chains into metallic rods. The low-temperature conductivity is due to the variable-range hopping of electrons between the rods. It obeys the Efros-Shklovskii (ES) law and increases exponentially as $N$ decreases. When $N$ is small, the metallic-rod picture of the ground state survives only in the form of rare clusters of atypically short rods. They are the source of low-energy charge excitations. In the bulk the charge excitations are gapped and the electron crystal is pinned collectively. A strongly anisotropic screening of the Coulomb potential produces an unconventional linear in energy Coulomb gap and a new law of the variable-range hopping $-\\lnσ\\sim (T_1 / T)^{2/5}$. $T_1$ remains constant over a finite range of impurity concentrations. At smaller $N$ the 2/5-law is replaced by the Mott law, where the conductivity gets suppressed as $N$ goes down. Thus, the overall dependence of $σ$ on $N$ is nonmonotonic. In 1D, the granular-rod picture and the ES apply at all $N$. The conductivity decreases exponentially with $N$. Our theory provides a qualitative explanation for the transport in organic charge-density wave compounds.",
+  "authors": [
+    "M. M. Fogler",
+    "S. Teber",
+    "B. I. Shklovskii"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevB.69.035413",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0307299.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0307299.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.283159+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0307299",
+    "categories": [
+      "cond-mat.mes-hall"
+    ]
+  }
+}

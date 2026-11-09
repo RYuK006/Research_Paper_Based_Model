@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0104073",
+  "title": "Theoretical confirmation of Feynman's Hypothesis on the creation of circular vortices in superfluid helium",
+  "abstract": "The changes observed in the topology of superfluid helium vortices have intrigued people for some time now [1]. These vortices either extend from wall to wall, however tangled they may be in between, or else can be roughly circular and freely move around the superfluid [1]. Some time ago, Richard Feynman postulated that two oppositely polarized line vortices could, if they cross at two points, reconnect so as to create a circular vortex that snaps off and subsequently lives a life of its own [2]. This is often simply postulated in numerical experiments, e.g. [1], [3]. That an opposite line vortex pair solution of the Nonlinear Schrodinger equation (NLS) for HeII is unstable has been demonstrated theoretically [4]. Reconnection at a point has been obtained numerically [5]. What remained to prove was that known, stationary, double vortex line solutions can thus reproduce one of the one parameter solitonic family of solutions for circular vortices as found for NLS [6]. In other words, can this reconnection really lead to a full confirmation of Feynman's hypothesis? Our first step was a similar changeover calculation for a limiting case, unfortunately such that the vortex configuration was degenerate [7], [8]. However, surprisingly complete dynamic changeover from cylindrical to spherical symmetry of the soliton was observed in [7]. This augured well for the present effort.",
+  "authors": [
+    "E. Infeld",
+    "A. Senatorski"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0104073.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0104073.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.234445+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0104073",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

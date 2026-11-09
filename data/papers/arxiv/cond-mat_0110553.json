@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0110553",
+  "title": "Spin precession in disordered systems: Anomalous relaxation due to heavy tailed field distributions",
+  "abstract": "We investigate spin precession in the presence of randomly distributed field sources. Their fields h_i reorient by thermally activated transitions and decrease as r^{-mu} with the distance from the spin probe. Based on analytical calculations and scaling arguments we find that the polarization decay of a spin ensemble exhibits a rich behavior characterized by stretched exponenentials and power laws with exponents depending on mu and the dimension d. The anomalous relaxation laws result from heavy tailed local field distributions and are verified by computer simulations. Implications for experiments are pointed out.",
+  "authors": [
+    "Falk Scheffler",
+    "Philipp Maass"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0110553.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0110553.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.858422+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0110553",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

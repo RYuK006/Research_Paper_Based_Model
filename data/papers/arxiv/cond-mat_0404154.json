@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0404154",
+  "title": "Phase diagram and isotope effects of the quasi-one-dimensional electron gas coupled to phonons",
+  "abstract": "Using a multistep renormalization group method, we study the low-temperature phases of the interacting one-dimensional (1D) electron gas coupled to phonons. We obtain analytic expressions for the weak-coupling quantum phase boundaries of the 1D extended Holstein-Hubbard model and the 1D extended Peierls-Hubbard model for general band-filling and phonon frequency. Away from half-filling, the phase diagrams are characterized by a delicate competition between spin density wave, charge density wave, and superconducting orders. We study the dependence of the ground state on the electron-phonon (el-ph) and electron-electron (el-el) coupling strengths, the screening length, electron bandwidth, phonon frequency, doping, and type of phonon. Unlike the case in Fermi liquids, in 1D the el-ph coupling is strongly renormalized, often to stronger values. Even when the bare phonon-induced attraction is weak compared to the bare el-el repulsion, a small amount of retardation can cause the renormalized el-ph interaction to dominate the problem. We find cases in which a repulsive el-el interaction enhances the superconducting susceptibility in the presence of a retarded el-ph interaction. The spin gap and superconducting susceptibility are found to be strongly dependent on the deviation from half-filling (doping). In some cases, the superconducting susceptibility varies nonmonotonically with doping and exhibits a maximum at a particular doping. For a quasi-1D array of weakly coupled, fluctuating 1D chains, the superconducting transition temperature T_c also exhibits a maximum as a function of doping. The effect of changing the ion mass (isotope effect) on T_c is found to be largest near half-filling and to decrease rapidly with doping.",
+  "authors": [
+    "Ian P. Bindloss"
+  ],
+  "year": 2005,
+  "doi": "10.1103/PhysRevB.71.205113",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0404154.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0404154.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:46.656461+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0404154",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ]
+  }
+}

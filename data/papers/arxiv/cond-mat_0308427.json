@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0308427",
+  "title": "Nodal quasiparticles in doped d-wave superconductors: self-consistent T-matrix approach",
+  "abstract": "A comparative analysis has been done of the formerly established two self-consistent solutions for the density of quasiparticle states in doped d-wave superconductors, having strikingly different and disputed behavior near the Fermi energy. One of them (1) remains finite in this limit, while the other (2) tends to zero. To resolve this discrepancy, the known Ioffe-Regel criterion for band states, widely used for doped semiconductors, was applied to these solutions. It is shown that both them are valid in limited and different energy regions, where the corresponding quasiparticles are weakly damped. In particular, density of states of nodal quasiparticles near the Fermi level is provided by the (2) solution, while the (1) only applies far enough from this level.",
+  "authors": [
+    "V. M. Loktev",
+    "Yu. G. Pogorelov"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.dis-nn"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0308427.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0308427.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.706358+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0308427",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.dis-nn"
+    ]
+  }
+}

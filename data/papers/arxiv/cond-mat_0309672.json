@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0309672",
+  "title": "Extraction of domain-specific magnetization reversal for nanofabricated periodic arrays using soft x-ray resonant magnetic scattering",
+  "abstract": "A simple scheme to extract the magnetization reversals of characteristic magnetic domains on nanofabricated periodic arrays from soft x-ray resonant magnetic scattering (SXRMS) data is presented. The SXRMS peak intensities from a permalloy square ring array were measured with field cycling using circularly polarized soft x-rays at the Ni L$_3$ absorption edge. Various SXRMS hysteresis loops observed at different diffraction orders enabled the determination of the magnetization reversal of each magnetic domain using a simple linear algebra. The extracted domain-specific hysteresis loops reveal that the magnetization of the domain parallel to the field is strongly pinned, while that of the perpendicular domain rotates continuously.",
+  "authors": [
+    "D. R. Lee",
+    "J. W. Freeland",
+    "G. Srajer",
+    "S. K. Sinha",
+    "V. Metlushko",
+    "B. Ilic"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0309672.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0309672.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:46.253022+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0309672",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

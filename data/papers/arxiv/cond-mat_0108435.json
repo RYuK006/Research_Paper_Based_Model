@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0108435",
+  "title": "Toward the Theory of Electron and Positron States in Self-Compressed Dielectric Clusters",
+  "abstract": "Analytical expressions for the binding energy of electrons and positrons in dielectric clusters, analysed in this work, neglect the elastic effects. Therefore, we present the density-functional theory for neutral liquid clusters that experience the spontaneous deformation. Using the 1/R -expansion, $R$ being the cluster radius, the exact analytical expressions for the size corrections to the chemical potential, surface tension, and atomic density are derived from the condition of mechanical equilibrium. The problem of calculation of these corrections is reduced to the calculation of the quantities for a liquid with a flat surface. The size compression and tension of density occur in the 1/R and $1/R^{2}$ orders respectively. The sizes of charged rigid and elastic critical clusters, for which the electron or positron binding energy is close to zero, are calculated for Xe$_{N}^{-}$, Kr$_{N}^{-}$, Ar$_{N}^{-}$, Ar$_{N}^{+}$, Ne$_{N}^{+}$, He$_{N}^{+}$. The calculations show significant contribution of self- compression to the binding energy of excess electron - in contrast to positron.",
+  "authors": [
+    "Valentin V. Pogosov",
+    "Walter V. Pogosov",
+    "Denis P. Kotlyarov"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0108435.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0108435.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.304883+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0108435",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

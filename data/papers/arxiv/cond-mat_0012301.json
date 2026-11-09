@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0012301",
+  "title": "Two-particle self-consistent approximation, pseudogap and superconductivity in the attractive Hubbard model",
+  "abstract": "In this thesis, I present a non-perturbative approach to the single-band attractive Hubard model which is an extension of previous work by Vilk and Tremblay on the repulsive model. Exact results are derived in the general context of functional derivative approaches to many-body theories. The first step of the approximation is based on a local field type ansatz. All physical quantities can be expressed as a function of double-occupancy (in addition to temperature and filling). Double-occupancy is determined without adjustable parameter by imposing the Pauli principle and a crucial sum-rule, making the first step of the approximation Two-Particle Self-Consistent. The final expression for the self-energy is obtained by calculating the low-frequency part of the exact expression with the two-particle correlation, Green function and renormalized vertex obtained in the first step of the approximation. The Mermin-Wagner theorem in two dimensions is automatically satisfied. Application of this non-perturbative many-body approach to the intermediate coupling regime shows quantitative agreement with quantum Monte Carlo calculations. Both approaches predict the existence of a pseudogap in the single-particle spectral weight. I present some physical properties, such as correlation lengths, superfluid density, and characteristic pair fluctuation energy, to highlight the origin of the pseudogap in the weak to intermediate coupling regime. These results suggest that two-dimensional systems that are described by a symmetry group larger than SO(2) could have a larger region of pseudogap behavior. High-temperature superconductors may belong to that category of systems.",
+  "authors": [
+    "Steve Allen"
+  ],
+  "year": 2000,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0012301.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0012301.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:04.342054+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0012301",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ]
+  }
+}

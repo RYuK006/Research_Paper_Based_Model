@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0212557",
+  "title": "The Functional Schrödinger Picture Approach to Many-Particle Systems",
+  "abstract": "A self-contained pedagogical introduction to the functional Schrödinger picture method of many-body theory is given at a level suitable for graduate students and also for many-body physicists who have not been exposed to the functional Schrödinger picture method previously. Mathematical tools necessary for the functional Schrödinger picture calculation are introduced. The method is first applied to various condensed matter problems including the electron gas, the Hubbard model, the BCS superconductivity, and dilute bose gas within the variational approximation. It is shown that the variational approximation with the Gaussian trial functional invariably leads into the Hartree-Fock results for both zero and finite temperature cases.   In order to go beyond the Gaussian results, concepts of variational and optimized perturbation theories are introduced using simple quantum mechanical languages. Then, the variational perturbation theory in the functional Schrödinger picture is applied to the $λϕ^4$ model to yield the effective potential to the third order. The optimized perturbation theory is also applied to the $λϕ^4$ model to yield a general expression up to the second order.",
+  "authors": [
+    "Chul Koo Kim",
+    "Sang Koo You"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "hep-th"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0212557.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0212557.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.204173+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0212557",
+    "categories": [
+      "cond-mat.str-el",
+      "hep-th"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0207721",
+  "title": "Microscopic relaxation mechanisms and linear magnetization dynamics",
+  "abstract": "Linear magnetization dynamics in the presense of a thermal bath is analyzed for two general classes of microscopic damping mechanisms. The resulting stochastic differential equations are always in the form of a damped harmonic oscillator driven by a thermal field. The damping term contains both the interaction mechanisms and the symmetry of the magnetic system. Back transformation from the oscillator coordinates to the magnetization variables results in a macroscopic tensor form of damping that reflects the system anisotropy. Scalar Landau-Lifshitz-Gilbert damping term is valid only for systems with axial symmetry. Analysis of FMR linewith measurements versus frequency, temperature, and film thickness in NiFe films shows good agreement with a combination of slow-relaxing impurity and magnon-electron confluence processes.",
+  "authors": [
+    "Vladimir L. Safonov",
+    "H. Neal Bertram"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0207721.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0207721.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.783037+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0207721",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

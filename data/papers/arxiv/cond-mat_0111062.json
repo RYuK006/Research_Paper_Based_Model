@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0111062",
+  "title": "The Hartree-Fock based diagonalization - an efficient algorithm for the treatment of interacting electrons in disordered solids",
+  "abstract": "The Hartree-Fock based diagonalization is a computational method for the investigation of the low-energy properties of correlated electrons in disordered solids. The method is related to the quantum-chemical configuration interaction approach. It consists in diagonalizing the Hamiltonian in a reduced Hilbert space built of the low-energy states of the corresponding disordered Hartree-Fock Hamiltonian. The properties of the method are discussed for the example of the quantum Coulomb glass, a lattice model of electrons in a random potential interacting via long-range Coulomb interaction. Particular attention is paid to the accuracy of the results as a function of the dimension of the reduced Hilbert space. It is argued that disorder actually helps the approximation.",
+  "authors": [
+    "Michael Schreiber",
+    "Thomas Vojta"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.dis-nn",
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0111062.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0111062.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.270870+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0111062",
+    "categories": [
+      "cond-mat.dis-nn",
+      "cond-mat.mes-hall"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0212115",
+  "title": "Implementing the Keldysh formalism into the ab initio Gaussian Embedded Cluster Method for the calculation of quantum transport",
+  "abstract": "We discuss the key steps that have to be followed to calculate quantum transport out of equilibrium by means of the {\\it ab initio} Gaussian Embedded Cluster Method recently developed by the authors. Our main aim is to emphasize through several examples that, if a sufficiently large portion of the electrodes is included in the {\\it ab initio} calculation, which does also incorporate an electrochemical potential difference $μ_L-μ_R=eV$, there is no need to impose an electrostatic potential $V$ drop accross the system.",
+  "authors": [
+    "E. Louis",
+    "J. A. Verges",
+    "J. J. Palacios",
+    "A. J. Perez-Jimenez",
+    "E. SanFabian"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0212115.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0212115.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.929222+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0212115",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

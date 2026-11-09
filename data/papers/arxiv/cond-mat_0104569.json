@@ -1,0 +1,36 @@
+{
+  "id": "arxiv:cond-mat/0104569",
+  "title": "Towards the fabrication of phosphorus qubits for a silicon quantum computer",
+  "abstract": "The quest to build a quantum computer has been inspired by the recognition of the formidable computational power such a device could offer. In particular silicon-based proposals, using the nuclear or electron spin of dopants as qubits, are attractive due to the long spin relaxation times involved, their scalability, and the ease of integration with existing silicon technology. Fabrication of such devices however requires atomic scale manipulation - an immense technological challenge. We demonstrate that it is possible to fabricate an atomically-precise linear array of single phosphorus bearing molecules on a silicon surface with the required dimensions for the fabrication of a silicon-based quantum computer. We also discuss strategies for the encapsulation of these phosphorus atoms by subsequent silicon crystal growth.",
+  "authors": [
+    "J. L. O'Brien",
+    "S. R. Schofield",
+    "M. Y. Simmons",
+    "R. G. Clark",
+    "A. S. Dzurak",
+    "N. J. Curson",
+    "B. E. Kane",
+    "N. S. McAlpine",
+    "M. E. Hawley",
+    "G. W. Brown"
+  ],
+  "year": 2001,
+  "doi": "10.1103/PhysRevB.64.161401",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat",
+    "quant-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0104569.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0104569.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.451759+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0104569",
+    "categories": [
+      "cond-mat",
+      "quant-ph"
+    ]
+  }
+}

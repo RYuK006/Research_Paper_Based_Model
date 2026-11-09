@@ -1,0 +1,32 @@
+{
+  "id": "arxiv:cond-mat/0310017",
+  "title": "Weakly nonlinear subcritical instability of visco-elastic Poiseuille flow",
+  "abstract": "It is well known that the Poiseuille flow of a visco-elastic polymer fluid between plates or through a tube is linearly stable in the zero Reynolds number limit, although the stability is weak for large Weissenberg numbers. In this paper we argue that recent experimental and theoretical work on the instability of visco-elastic fluids in Taylor-Couette cells and numerical work on channel flows suggest a scenario in which Poiseuille flow of visco-elastic polymer fluids exhibits a nonlinear \"subcritical\" instability due to normal stress effects, with a threshold which decreases for increasing Weissenberg number. This proposal is confirmed by an explicit weakly nonlinear stability analysis for Poiseuille flow of an UCM fluid. Our analysis yields explicit predictions for the critical amplitude of velocity perturbations beyond which the flow is nonlinearly unstable, and for the wavelength of the mode whose critical amplitude is smallest. The nonlinear instability sets in quite abruptly at Weissenberg numbers around 4 in the planar case and about 5.2 in the cylindrical case, so that for Weissenberg numbers somewhat larger than these values perturbations of the order of a few percent in the wall shear stress suffice to make the flow unstable. We have suggested elsewhere that this nonlinear instability could be an important intrinsic route to melt fracture and that preliminary experiments are both qualitatively and quantitatively in good agreement with these predictions.",
+  "authors": [
+    "Bernard Meulenbroek",
+    "Cornelis Storm",
+    "Alexander N. Morozov",
+    "Wim van Saarloos"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.mtrl-sci",
+    "physics.flu-dyn"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0310017.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0310017.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:46.313561+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0310017",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.mtrl-sci",
+      "physics.flu-dyn"
+    ]
+  }
+}

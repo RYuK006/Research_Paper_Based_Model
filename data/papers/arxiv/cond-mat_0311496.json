@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0311496",
+  "title": "Photonic band calculation in the form of $k(ω)$ including evanescent waves",
+  "abstract": "We give a general method to calculate photonic band structure in the form of wave number $k$ as a function of frequency $ω$, which is required whenever we want to calculate signal intensity related with photonic band structure. This method is based on the fact that the elements of the coefficient matrix for the plane wave expansion of the Maxwell equations contain wave number up to the second order, which allows us to rewrite the original eigenvalue equation for $ω^2$ into that for wave number. This method is much better, especially for complex wave numbers, than the transfer matrix method of Pendry, which gives the eigenvalues in the form of exp$[ikd]$ . As a simplest example, we show a comparison of $ω(k)$ and $k(ω)$ for a model of intersecting square rods.",
+  "authors": [
+    "Kikuo Cho",
+    "Jun Ushida",
+    "Motoaki Bamba"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0311496.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0311496.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.315704+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0311496",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

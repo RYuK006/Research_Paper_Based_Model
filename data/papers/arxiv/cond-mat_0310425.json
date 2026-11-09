@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0310425",
+  "title": "Hamiltonian for coupled flux qubits",
+  "abstract": "An effective Hamiltonian is derived for two coupled three-Josephson-junction (3JJ) qubits. This is not quite trivial, for the customary \"free\" 3JJ Hamiltonian is written in the limit of zero inductance L. Neglecting the self-flux is already dubious for one qubit when it comes to readout, and becomes untenable when discussing inductive coupling. First, inductance effects are analyzed for a single qubit. For small L, the self-flux is a \"fast variable\" which can be eliminated adiabatically. However, the commonly used junction phases are_not_ appropriate \"slow variables\", and instead one introduces degrees of freedom which are decoupled from the loop current to leading order. In the quantum case, the zero-point fluctuations (LC oscillations) in the loop current diverge as L->0. Fortunately, they merely renormalize the Josephson couplings of the effective (two-phase) theory.   In the coupled case, the strong zero-point fluctuations render the full (six-phase) wave function significantly entangled in leading order. However, in going to the four-phase theory, this uncontrollable entanglement is integrated out completely, leaving a computationally usable mutual-inductance term of the expected form as the effective interaction.",
+  "authors": [
+    "Alec Maassen van den Brink"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevB.71.064503",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0310425.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0310425.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:14.869098+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0310425",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.supr-con"
+    ]
+  }
+}

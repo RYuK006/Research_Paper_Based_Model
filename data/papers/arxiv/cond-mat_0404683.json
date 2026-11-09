@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0404683",
+  "title": "Magnetocaloric effect in one-dimensional antiferromagnets",
+  "abstract": "An external magnetic field induces large relative changes in the entropy of one-dimensional quantum spin systems at finite temperatures. This leads to a magnetocaloric effect, i.e. a change in temperature during an adiabatic (de)magnetization process. Several examples of one-dimensional spin-1/2 models are studied by employing the Jordan-Wigner transformation and exact diagonalization. During an adiabatic (de)magnetization process temperature drops in the vicinity of a field-induced zero-temperature quantum phase transition. Comparing different levels of frustration, we find that more frustrated systems cool down to lower temperatures. For geometrically frustrated spin models a finite entropy survives down to zero temperature at certain magnetic fields. This property suggests frustrated quantum spin systems as promising alternative refrigerant materials for low-temperature magnetic refrigeration.",
+  "authors": [
+    "M. E. Zhitomirsky",
+    "A. Honecker"
+  ],
+  "year": 2004,
+  "doi": "10.1088/1742-5468/2004/07/P07012",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0404683.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0404683.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:46.928406+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0404683",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

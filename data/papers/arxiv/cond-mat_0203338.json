@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0203338",
+  "title": "Resonant Cooper Pair Tunneling: Quantum Noise and Measurement Characteristics",
+  "abstract": "We study the quantum charge noise and measurement properties of the double Cooper pair resonance point in a superconducting single-electron transistor (SSET) coupled to a Josephson charge qubit. Using a density matrix approach for the coupled system, we obtain a full description of the measurement back-action; for weak coupling, this is used to extract the quantum charge noise. Unlike the case of a non-superconducting SET, the back-action here can induce population inversion in the qubit. We find that the Cooper pair resonance process allows for a much better measurement than a similar non-superconducting SET, and can approach the quantum limit of efficiency.",
+  "authors": [
+    "A. A. Clerk",
+    "S. M. Girvin",
+    "A. K. Nguyen",
+    "A. D. Stone"
+  ],
+  "year": 2002,
+  "doi": "10.1103/PhysRevLett.89.176804",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0203338.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0203338.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.234914+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0203338",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.supr-con"
+    ]
+  }
+}

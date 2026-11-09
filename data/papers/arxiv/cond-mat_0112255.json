@@ -1,0 +1,34 @@
+{
+  "id": "arxiv:cond-mat/0112255",
+  "title": "Scaling Analysis of Surfactant Templated Polyacrylamide Gel Surfaces",
+  "abstract": "Surfaces of surfactant-templated polyacrylamide hydrogels were imaged by atomic force microscopy (AFM), and the surface morphology was studied by numerical scaling analysis. The templated gels were formed by polymerizing acrylamide plus a cross-linker in the presence of surfactants, which were then removed by soaking in distilled water. Gels formed in the presence of over 20% surfactant (by weight) formed clear, but became opaque upon removal of the surfactants. Untemplated gels formed and remained clear. The surface morphology of the gels was studied by several one- and two-dimensional numerical scaling methods. The surfaces were found to be self-affine on short length scales, with a roughness (Hurst) exponent in the range 0.85 to 1, crossing over to a constant root-mean-square surface width on long scales. Both the crossover length between these two regimes and the saturation value of the surface width increased significantly with increasing surfactant concentration, coincident with the increase in opacity. We propose that the changes in the surface morphology are due to a percolation transition in the system of voids formed upon removal of the surfactants from the bulk.",
+  "authors": [
+    "Mukundan Chakrapani",
+    "S. J. Mitchell",
+    "D. H. Van Winkle",
+    "P. A. Rikvold"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci",
+    "cond-mat.stat-mech",
+    "physics.chem-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0112255.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0112255.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.550512+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0112255",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.mtrl-sci",
+      "cond-mat.stat-mech",
+      "physics.chem-ph"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0210031",
+  "title": "New magnetic-field-induced macroscopic quantum phenomenon in a superconductor with gap nodes",
+  "abstract": "High-$T_c$ superconductivity is unconventional because the gap is not isotropic as in simple metals but has $d_{x^2-y^2}$ symmetry with lines of nodes. In a fascinating thermal transport experiment on a high-$T_c$ superconductor, Krishana et al \\cite{Krishana} have reported mysterious magnetic field induced first order transitions from a superconducting state with gap nodes to a state without gap nodes. We show here that this is an experimental manifestation of a novel {\\it macroscopic} quantum phenomenon induced by the magnetic field, qualitatively different from the usual quantum Hall effects. It corresponds to the {\\it quantization of the superfluid density} in a superconductor with gap nodes due to the generation of Confined Field Induced Density Waves (CFIDW) in the node regions of the Fermi surface. The Landau numbers $L$ are not sufficient to index these macroscopic quantum states and the addition of a new quantum number $ζ$ is necessary. Distinct qualitative implications of this non-integer $|L,ζ>$ quantization are also evident in a number of recent unexplained experimental reports in the cuprates.",
+  "authors": [
+    "Georgios Varelogiannis",
+    "Michel Heritier"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0210031.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0210031.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.228382+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0210031",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

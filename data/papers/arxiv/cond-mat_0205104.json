@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0205104",
+  "title": "Comment on ``Anisotropic s-wave superconductivity: comparison with experiments on MgB_2 [A. I. Posazhennikova, T. Dahm and K. Maki, cond-mat/0204272; submitted to Europhys. Lett.]",
+  "abstract": "An analytical result for the renormalization of the jump of the heat capacity Delta C/C_N by the anisotropy of the order parameter is derived within the framework of the very recent model proposed by Posazhennikova, Dahm and Maki [cond-mat/0204272, submitted to Europhys. Lett.], for both oblate and prolate anisotropy. The graph of Delta C/C_N versus the ratio of the gaps on the equator and the pole of the Fermi surface, Delta_e/Δ_p, allows a direct determination of the gap anisotropy parameter Delta_e/Δ_p by fitting data from specific heat measurements Delta C/C_N. Using the experimental value Delta C/C_N=0.82 +/- 10% by Wang, Plackowski, and Junod [Physica C 355 (2001) 179] we find Delta_e/Δ_p = 4.0.",
+  "authors": [
+    "T. M. Mishonov",
+    "E. S. Penev",
+    "J. O. Indekeu"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0205104.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0205104.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.773648+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0205104",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

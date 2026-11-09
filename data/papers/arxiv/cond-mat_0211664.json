@@ -1,0 +1,32 @@
+{
+  "id": "arxiv:cond-mat/0211664",
+  "title": "Engineering decoherence in Josephson persistent-current qubits",
+  "abstract": "We discuss the relaxation and dephasing rates that result from the control and the measurement setup itself in experiments on Josephson persistent-current qubits. For control and measurement of the qubit state, the qubit is inductively coupled to electromagnetic circuitry. We show how this system can be mapped on the spin-boson model, and how the spectral density of the bosonic bath can be derived from the electromagnetic impedance that is coupled to the qubit. Part of the electromagnetic environment is a measurement apparatus (DC-SQUID), that is permanently coupled to the single quantum system that is studied. Since there is an obvious conflict between long coherence times and an efficient measurement scheme, the measurement process is analyzed in detail for different measurement schemes. We show, that the coupling of the measurement apparatus to the qubit can be controlled in situ. Parameters that can be realized in experiments today are used for a quantitative evaluation, and it is shown that the relaxation and dephasing rates that are induced by the measurement setup can be made low enough for a time-resolved study of the quantum dynamics of Josephson persistent-current qubits. Our results can be generalized as engineering rules for the read-out of related qubit systems.",
+  "authors": [
+    "Caspar H. van der Wal",
+    "F. K. Wilhelm",
+    "C. J. P. M. Harmans",
+    "J. E. Mooij"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.supr-con",
+    "quant-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0211664.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0211664.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.868121+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0211664",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.supr-con",
+      "quant-ph"
+    ]
+  }
+}

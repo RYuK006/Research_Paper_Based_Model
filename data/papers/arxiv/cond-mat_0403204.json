@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0403204",
+  "title": "Conductance and polarization in quantum junctions",
+  "abstract": "We revisit the expression for the conductance of a general nanostructure -- such as a quantum point contact -- as obtained from the linear response theory. We show that the conductance represents the strength of the Drude singularity in the conductivity $σ(k,k';iω\\to 0)$. Using the equation of continuity for electric charge we obtain a formula for conductance in terms of polarization of the system. This identification can be used for direct calculation of the conductance for systems of interest even at the {\\it ab-initio} level. In particular, we show that one can evaluate the conductance from calculations for a finite system without the need for special ``transport'' boundary conditions.",
+  "authors": [
+    "P. Bokes",
+    "R. W. Godby"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevB.69.245420",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0403204.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0403204.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.599007+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0403204",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.mes-hall"
+    ]
+  }
+}

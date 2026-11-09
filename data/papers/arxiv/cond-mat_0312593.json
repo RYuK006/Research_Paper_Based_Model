@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0312593",
+  "title": "Island Nucleation in Silicon on Si(111) Growth under Chemical Vapor Deposition",
+  "abstract": "Recent experiments show that the islanding behavior during chemical vapor deposition (CVD) of Si on Si(111) using disilane (Si${_2}$H${_6}$) is quite different from that due to molecular beam epitaxy (MBE). While the latter can be understood using rate equation theories (RET), the islanding exponent (connecting the power law growth of island density with growth rate) obtained for the CVD growth is a puzzle, with the CVD exponent being almost twice the MBE exponent. We carry out (2+1) dimensional kinetic Monte Carlo(MC) simulations to study this CVD growth. Hydrogen plays a critical role during growth. Disilane breaks up into hydrides on the Si surface. We use MC simulations to explore a number of cases involving one or two migrating species and show that the large islanding exponent is probably due to the presence of two hydrides, one of which has a much shorter lifetime than the other. We modify RET taking this possibility into account in order to shed light on the experimental observation. We calculate the scaling properties of the island distributions using MC simulations and the modified RET, and conclude that the large effective CVD exponents arise from the failure of the simple island number scaling scenario which no longer applies to the two-component situation prevailing under CVD growth conditions.",
+  "authors": [
+    "K. E. Khor",
+    "Sankar Das Sarma"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0312593.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0312593.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.719965+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0312593",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0404367",
+  "title": "Using a laser to cool a semiconductor",
+  "abstract": "A nonlocal energy-balance equation is derived for the optical absorption, photoluminescence and inelastic electron-phonon scattering, which determines the electron and hole temperatures for any given lattice temperature. The evolution of the lattice temperature is found to be determined by the difference between the power-loss density due to photoluminescence and the power-gain density due to optical absorption, as well as by the initial lattice temperature. We find that in addition to the expected decrease in the lattice temperature, the electron temperature also decreases with time. A laser-cooling power as high as 380 eV/s is predicted for the wide bandgap semiconductor AlN initially at room temperature when the pump-laser field is only 10 V/cm. Laser cooling is found to be more efficient for a large bandgap material, a weaker laser field, and a high initial lattice temperature. The laser-cooling rate then decreases as the lattice cools. The theory presented here provides quantitative predictions that can guide future experiments.",
+  "authors": [
+    "Danhong Huang",
+    "T. Apostolova",
+    "P. M. Alsing",
+    "D. A. Cardimona"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.other"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0404367.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0404367.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:46.792249+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0404367",
+    "categories": [
+      "cond-mat.other"
+    ]
+  }
+}

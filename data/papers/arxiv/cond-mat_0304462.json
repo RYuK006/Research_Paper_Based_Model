@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0304462",
+  "title": "Cooper pairing with finite angular momentum: BCS vs Bose limits",
+  "abstract": "We revisit the old problem of exotic superconductivity as Cooper pairing with finite angular momentum emerging from a central potential. Based on some general considerations, we suggest that the phenomenonn is associated with interactions that keep electrons at some particular, finite distance (r_{0}), and occurs at a range of intermediate densities (n\\sim 1/r_{0}^{3}). We discuss the ground state and the critical temperature in the framework of a standard functional-integral theory of the BCS to Bose crossover. We find that, due to the lower energy of two-body bound states with (l=0), the rotational symmetry of the ground state is always restored on approaching the Bose limit. Moreover in that limit the critical temperature is always higher for pairs with (l=0.) The breaking of the rotational symmetry of the continuum by the superfluid state thus seems to be a property of weakly-attractive, non-monotonic interaction potentials, at intermediate densities.",
+  "authors": [
+    "J. Quintanilla",
+    "B. L. Gyorffy"
+  ],
+  "year": 2003,
+  "doi": "10.1088/0305-4470/36/35/322",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0304462.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0304462.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.168276+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0304462",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

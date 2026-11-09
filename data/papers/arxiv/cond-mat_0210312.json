@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0210312",
+  "title": "Dynamics of glassy systems",
+  "abstract": "These lecture notes can be read in two ways. The first two Sections contain a review of the phenomenology of several physical systems with slow nonequilibrium dynamics. In the Conclusions we summarize the scenario derived from the solution to some solvable models (p-spin and the like) that are intimately connected to the mode coupling approach (and similar ones) to super-cooled liquids. At the end we list a number of open problems of great relevance in this context. These Sections can be read independently of the body of the paper where we present some of the basic analytic techniques used to study the out of equilibrium dynamics of classical and quantum models with and without disorder. The technical part starts wIth a brief discussion of the role played by the environment and quenched disorder in the dynamics of classical and quantum systems. Later on we expand on the dynamic functional methods and the diagrammatic expansions and resummations used to derive macroscopic equations from the microscopic dynamics. We show why the macroscopic dynamic equations for disordered models and those resulting from self-consistent approximations to non-disordered ones coincide. We review some generic properties of the slow out of equilibrium dynamics like the modifications of FDT and their link to effective temperatures, some generic scaling forms of the correlation functions, etc. Finally we solve a family of mean-field glassy models. The connection between the dynamic treatment and the analysis of the free-energy landscape is also presented. We use pedagogical examples all along these lectures to illustrate the properties and results.",
+  "authors": [
+    "Leticia F. Cugliandolo"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0210312.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0210312.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.357228+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0210312",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

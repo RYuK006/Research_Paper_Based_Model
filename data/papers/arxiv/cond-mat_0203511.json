@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0203511",
+  "title": "Statistical properties of stock order books: empirical results and models",
+  "abstract": "We investigate several statistical properties of the order book of three liquid stocks of the Paris Bourse. The results are to a large degree independent of the stock studied. The most interesting features concern (i) the statistics of incoming limit order prices, which follows a power-law around the current price with a diverging mean; and (ii) the humped shape of the average order book, which can be quantitatively reproduced using a `zero intelligence' numerical model, and qualitatively predicted using a simple approximation.",
+  "authors": [
+    "J. -P. Bouchaud",
+    "M. Mezard",
+    "M. Potters"
+  ],
+  "year": 2002,
+  "doi": "10.1088/1469-7688/2/4/301",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0203511.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0203511.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.308641+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0203511",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

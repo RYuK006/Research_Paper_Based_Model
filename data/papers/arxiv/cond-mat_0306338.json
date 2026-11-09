@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0306338",
+  "title": "Kirkwood Phase Transition for Boson and Fermion Hard-Sphere Systems",
+  "abstract": "The London ground-state energy formula as a function of number density $ρ$ for a system of boson hard spheres of diameter $c$ at zero temperature (corrected for the reduced mass of a pair of particles in a ``sphere-of-influence'' picture) generalized to describe fermion hard-sphere systems with four and two intrinsic degrees of freedom such as helium-three or neutron matter and symmetric nuclear matter, respectively, is proposed as the crystalline energy branch for hard-sphere systems. For the fluid branch we use the well-known, exact, low-density equation-of-state expansions for many-boson and many-fermion systems, appropriately extrapolated to physical densities. Here, via a double-tangent construction the crystallization and melting densities for boson and fermion hard spheres are determined. They agree well with variational Monte Carlo, density-functional, and Green Function Monte Carlo calculations.",
+  "authors": [
+    "M. A. Solis",
+    "M. de Llano",
+    "J. W. Clark"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.soft"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0306338.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0306338.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.912072+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0306338",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.soft"
+    ]
+  }
+}

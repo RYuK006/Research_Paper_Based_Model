@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0207067",
+  "title": "Weak-Coupling Instabilities of Two-Dimensional Lattice Electrons",
+  "abstract": "In this thesis, I study a two-dimensional extended Hubbard model in the weak coupling limit. Quite generally, the electron gas is unstable towards a superconducting state even in the absence of phonons. However in the special case of a half-filled band, the Fermi surface is nested and the system is at a Van Hove singularity. In this situation, there are six competing instabilities: $s$- and d-wave superconductivity, spin-and charge-density waves and two phases with circulating charge and spin currents, respectively. The required renormalization group formalism is presented on a most elementary level, connecting the idea of the ``parquet summation'' to the more modern concept of Wilson's effective action. As a result, a rich phase diagram is obtained as a function of the model interaction. This phase diagram is exact in the weak coupling limit, since the transition line between two neighboring phases is then fixed by symmetries. The physical picture of each instability is completed by studying the low temperature behavior of the spin susceptibility and the charge compressibility. We also observe a general trend towards a Fermi surface distortion, but the nesting is not destroyed.",
+  "authors": [
+    "B. Binz"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0207067.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0207067.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.374913+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0207067",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ]
+  }
+}

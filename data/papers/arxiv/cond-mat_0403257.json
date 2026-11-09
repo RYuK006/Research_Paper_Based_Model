@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0403257",
+  "title": "Cavity QED in superconducting circuits: susceptibility at elevated temperatures",
+  "abstract": "We study the properties of superconducting electrical circuits, realizing cavity QED. In particular we explore the limit of strong coupling, low dissipation, and elevated temperatures relevant for current and future experiments. We concentrate on the cavity susceptibility as it can be directly experimentally addressed, i.e., as the impedance or the reflection coefficient of the cavity. To this end we investigate the dissipative Jaynes-Cummings model in the strong coupling regime at high temperatures. The dynamics is investigated within the Bloch-Redfield formalism. At low temperatures, when only the few lowest levels are occupied the susceptibility can be presented as a sum of contributions from independent level-to-level transitions. This corresponds to the secular (random phase) approximation in the Bloch-Redfield formalism. At temperatures comparable to and higher than the oscillator frequency, many transitions become important and a multiple-peak structure appears. We show that in this regime the secular approximation breaks down, as soon as the peaks start to overlap. In other words, the susceptibility is no longer a sum of contributions from independent transitions. We treat the dynamics of the system numerically by exact diagonalization of the Hamiltonian of the qubit plus up to 200 states of the oscillator. We compare the results obtained with and without the secular approximation and find a qualitative discrepancy already at moderate temperatures.",
+  "authors": [
+    "Ileana Rau",
+    "Göran Johansson",
+    "Alexander Shnirman"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevB.70.054521",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.supr-con",
+    "quant-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0403257.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0403257.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.639543+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0403257",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.supr-con",
+      "quant-ph"
+    ]
+  }
+}

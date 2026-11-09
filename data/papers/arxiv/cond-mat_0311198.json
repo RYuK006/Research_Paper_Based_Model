@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0311198",
+  "title": "Neutron Scattering Study on Competition between Hidden Order and Antiferromagnetism in U(Ru_{1-x}Rh_x)_2Si_2 (x <= 0.05)",
+  "abstract": "We have performed elastic and inelastic neutron scattering experiments on the solid solutions U(Ru_{1-x}Rh_x)_2Si_2 for the Ru rich concentrations: x=0, 0.01, 0.02, 0.025, 0.03, 0.04 and 0.05. Hidden order is suppressed with increasing x, and correspondingly the onset temperature T_m (~ 17.5 K at x=0) of weak antiferromagnetic (AF) Bragg reflection decreases. For x=0.04 and 0.05, no magnetic order is detected in the investigated temperature range down to 1.4 K. In the middle range, 0.02 <= x <= 0.03, we found that the AF Bragg reflection is strongly enhanced. At x=0.02, this takes place at ~ 7.7 K (=T_M), which is significantly lower than T_m (~ 13.7 K). T_M increases with increasing x, and seems to merge with T_m at x=0.03. If the AF state is assumed to be homogeneous, the staggered moment μ_o estimated at 1.4 K increases from 0.02(2) μ_B/U (x=0) to 0.24(1) μ_B/U (x=0.02). The behavior is similar to that observed under hydrostatic pressure (μ_o increases to ~ 0.25 μ_B/U at 1.0 GPa), suggesting that the AF evolution induced by Rh doping is due to an increase in the AF volume fraction. We also found that the magnetic excitation observed at Q=(1,0,0) below T_m disappears as T is lowered below T_M.",
+  "authors": [
+    "M. Yokoyama",
+    "H. Amitsuka",
+    "S. Itoh",
+    "I. Kawasaki",
+    "K. Tenya",
+    "H. Yoshizawa"
+  ],
+  "year": 2003,
+  "doi": "10.1143/JPSJ.73.545",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0311198.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0311198.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.183343+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0311198",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

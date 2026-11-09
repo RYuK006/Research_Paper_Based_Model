@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0208192",
+  "title": "Adiabatic quantization of Andreev levels",
+  "abstract": "We identify the time $T$ between Andreev reflections as a classical adiabatic invariant in a ballistic chaotic cavity (Lyapunov exponent $λ$), coupled to a superconductor by an $N$-mode point contact. Quantization of the adiabatically invariant torus in phase space gives a discrete set of periods $T_{n}$, which in turn generate a ladder of excited states $ε_{nm}=(m+1/2)π\\hbar/T_{n}$. The largest quantized period is the Ehrenfest time $T_{0}=λ^{-1}\\ln N$. Projection of the invariant torus onto the coordinate plane shows that the wave functions inside the cavity are squeezed to a transverse dimension $W/\\sqrt{N}$, much below the width $W$ of the point contact.",
+  "authors": [
+    "P. G. Silvestrov",
+    "M. C. Goorden",
+    "C. W. J. Beenakker"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevLett.90.116801",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "nlin.CD"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0208192.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0208192.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:08.708943+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0208192",
+    "categories": [
+      "cond-mat.mes-hall",
+      "nlin.CD"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0404343",
+  "title": "Exchange interactions and magnetic anisotropy in the \"Ni_4\" magnetic molecule",
+  "abstract": "Magnetic properties of a tetrahedral \"Ni_4\" molecule are discussed in terms of the Heisenberg model, with magnetic anisotropy terms included, and on the basis of first-principle calculations within the density functional theory. It is shown that the isotropic Heisenberg model does not provide an adequate description of magnetization at low temperatures; an inclusion of single-site anisotropy terms does not help to improve the situation either. We suppose that the magnetostriction of the molecule and hence the dependence of interatomic coupling parameters on the magnetization might be important for an adequate description of magnetic properties. The first-principle calculations confirm the system's general preference for antiferromagnetic coupling, as well as the failure of the isotropic Heisenberg model. A conjugated-gradient search for the relaxed structure of the \"Ni_4\" molecule in ferromagnetic and antiferromagnetic configurations did not show any clear tendency to diversification of interatomic distances. These calculations however have not yet included the spin-orbit coupling, which can be essential for analyzing the effects of magnetostriction.",
+  "authors": [
+    "A. V. Postnikov",
+    "M. Brueger",
+    "J. Schnack"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0404343.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0404343.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:46.780049+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0404343",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

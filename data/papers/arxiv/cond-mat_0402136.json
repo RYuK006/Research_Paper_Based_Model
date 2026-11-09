@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0402136",
+  "title": "Minima hopping: Searching for the global minimum of the potential energy surface of complex molecular systems without invoking thermodynamics",
+  "abstract": "A method is presented that can find the global minimum of very complex condensed matter systems. It is based on the simple principle of exploring the configurational space as fast as possible and of avoiding revisiting known parts of this space. Even though it is not a genetic algorithm, it is not based on thermodynamics. The efficiency of the method depends strongly on the type of moves that are used to hop into new local minima. Moves that find low-barrier escape-paths out of the present minimum lead generally into low energy minima.",
+  "authors": [
+    "Stefan Goedecker"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0402136.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0402136.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.242444+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0402136",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

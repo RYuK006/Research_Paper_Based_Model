@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0310686",
+  "title": "The Foam Analogy: From Phases to Elasticity",
+  "abstract": "By mapping the interactions of colloidal particles onto the problem of minimizing areas, the physics of foams can be used to understand the phase diagrams of both charged and fuzzy colloids. We extend this analogy to study the elastic properties of such colloidal crystals and consider the face-centered cubic, body-centered cubic and A15 lattices. We discuss two types of soft interparticle potentials corresponding to charged and fuzzy colloids, respectively, and we analyze the dependence of the elastic constants on density as well as on the parameters of the potential. We show that the bulk moduli of the three lattices are generally quite similar, and that the shear moduli of the two non-close-packed lattices are considerably smaller than in the face-centered cubic lattice. We find that in charged colloids, the elastic constants are the largest at a finite screening length, and we discuss a shear instability of the A15 lattice.",
+  "authors": [
+    "W. Kung",
+    "P. Ziherl",
+    "R. D. Kamien"
+  ],
+  "year": 2003,
+  "doi": "10.1016/j.jcis.2004.03.009",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0310686.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0310686.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.023061+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0310686",
+    "categories": [
+      "cond-mat.soft"
+    ]
+  }
+}

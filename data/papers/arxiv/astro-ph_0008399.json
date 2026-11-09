@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:astro-ph/0008399",
+  "title": "Thermodynamical properties of stellar matter: II. Internal energy, temperature and density exponents and specific heats for stellar interiors",
+  "abstract": "Starting from the Helmholtz free energy we calculate analytically first- and second-order derivatives, as internal energy and specific heats, for the ideal system and the exchange and correlation interactions covering a broad range of degeneracy and relativity. The complex physics of Coulomb interactions is expressed by Pade Approximants, which reflect the actual state of our knowledge with high accuracy. We assume complete ionization and provide a base system of thermodynamical functions from which any other thermodynamical quantities can be calculated. We chose for the base system the free energy, the pressure, the internal energy, the isothermal compressibility (or density exponent), the coefficient of strain (or temperature exponent), and the isochoric specific heat. By means of the latter potentials entropy, isobaric specific heat and adiabatic temperature gradient can be determined. We give comparisons with quantities which are composed by numerical second-order derivatives of the free energy and show that numerical derivatives of the free energy as calculated, for instance, from EOS tables, may produce discontinuities for astrophysically relevant quantities as, e.g., the adiabatic temperature gradient. Adiabatic temperature gradients are shown for different chemical compositions (hydrogen, helium, carbon). Finally the used formalism of Pade Approximants allows immediate incorporation of recent results from many particle statistics.",
+  "authors": [
+    "W. Stolzmann",
+    "T. Bloecker"
+  ],
+  "year": 2000,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "astro-ph",
+    "cond-mat",
+    "physics.plasm-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/astro-ph/0008399.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\astro-ph_0008399.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:03.691588+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "astro-ph/0008399",
+    "categories": [
+      "astro-ph",
+      "cond-mat",
+      "physics.plasm-ph"
+    ]
+  }
+}

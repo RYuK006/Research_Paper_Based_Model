@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0310565",
+  "title": "Superconductivity Above H_{c2} as a Probe for Niobium RF-Cavity Surfaces",
+  "abstract": "From the magnetic response of Nb-cylinders to time-varying fields the AC-conductivity, $σ'-iσ''$, and the critical current density $J_c^s$ are determined above the upper critical field $H_{c2}$. The field dependencies of $σ'$ and $σ''$ allow us to identify the nucleation of incoherent surface superconductivity (SSC) at $H_{c3}$ and of coherent SSC at $H_{c3}^c\\approx 0.81H_{c3}$. The latter result turns out to be independent on different surface roughnesses and surface impurities obtained by surface treatments like chemical (BCP) and electrolytical polishing (EP), and low temperature baking (LTB). They all have a large impact on $H_{c3}$ itself, which is associated with a change of electron mean free path $\\ell$ due to impurities in a surface layer. A detailed analysis of $σ'$, $σ''$ and $J_c^s$ near $H_{c3}^c$ reveals that the coherence of the SSC results from a percolation transition. For EP cylinders, this transition appears to be strictly two dimensional (2D), while the analysis for BCP cylinders with a rougher surface reveal much smaller $J_c^s$ and indicate a crossover to 3D. As a rather surprising feature, we detected large concentrations of paramagnetic moments, which increased under LTB and were reduced by EP.",
+  "authors": [
+    "Sara Casalbuoni",
+    "Lars von Sawilski",
+    "Jürgen Kötzler"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0310565.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0310565.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:14.962128+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0310565",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

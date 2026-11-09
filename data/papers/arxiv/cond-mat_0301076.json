@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0301076",
+  "title": "Fracture of Notched Single Crystal Silicon",
+  "abstract": "We study atomistically the fracture of single crystal silicon at atomically sharp notches with opening angles of 0 degrees (a crack), 70.53 degrees, 90 degrees and 125.3 degrees. Such notches occur in silicon that has been formed by etching into microelectromechanical structures and tend to be the initiation sites for failure by fracture of these structures. Analogous to the stress intensity factor of traditional linear elastic fracture mechanics which characterizes the stress state in the limiting case of a crack, there exists a similar parameter K for the case of the notch. In the case of silicon, a brittle material, this characterization appears to be particularly valid. We use three interatomic potentials: a modified Stillinger-Weber potential, the Environment-Dependent Interatomic Potential (EDIP), and the modified embedded atom method (MEAM). Of these, MEAM gives critical K-values closest to experiment. In particular the EDIP potential leads to unphysical ductile failure in most geometries. Because the units of K depend on the notch angle, the shape of the K versus angle plot depends on the units used. In particular when an atomic length unit is used the plot is almost flat, showing--in principle from macroscopic observations alone--the association of an atomic length scale to the fracture process.",
+  "authors": [
+    "Nicholas P. Bailey",
+    "James P. Sethna"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0301076.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0301076.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.356137+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0301076",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

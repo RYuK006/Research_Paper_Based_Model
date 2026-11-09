@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0312693",
+  "title": "The anisotropic conductivity of two-dimensional electrons on a half-filled high Landau level",
+  "abstract": "We study the conductivity of two-dimensional interacting electrons on the half-filled $N$th Landau level with $N \\gg 1$ in the presence of the quenched disorder. The existence of the unidirectional charge-density wave state at temperature $T<T_c$, where $T_c$ is the transition temperature, leads to the anisotropic conductivity tensor. We find that the leading anisotropic corrections are proportional to $(T_c-T)/T_c$ just below the transition in accordance with the experimental findings. Above $T_c$ the correlations corresponding to the unidirectional charge-density wave state below $T_c$ result in the corrections to the conductivity proportional to $\\sqrt{T_c/(T-T_c)}$.",
+  "authors": [
+    "I. S. Burmistrov"
+  ],
+  "year": 2003,
+  "doi": "10.1134/1.1738718",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0312693.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0312693.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.826246+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0312693",
+    "categories": [
+      "cond-mat.mes-hall"
+    ]
+  }
+}

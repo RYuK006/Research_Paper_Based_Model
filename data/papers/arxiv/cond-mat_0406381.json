@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0406381",
+  "title": "Non-ergodic Intensity Correlation Functions for Blinking Nano Crystals",
+  "abstract": "We investigate the non-ergodic properties of blinking nano-crystals using a stochastic approach. We calculate the distribution functions of the time averaged intensity correlation function and show that these distributions are not delta peaked on the ensemble average correlation function values; instead they are W or U shaped. Beyond blinking nano-crystals our results describe non-ergodicity in systems stochastically modeled using the Levy walk framework for anomalous diffusion, for example certain types of chaotic dynamics, currents in ion-channel, and single spin dynamics to name a few.",
+  "authors": [
+    "Gennady Margolin",
+    "Eli Barkai"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevLett.94.080601",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.dis-nn",
+    "physics.chem-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0406381.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0406381.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.512738+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0406381",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.dis-nn",
+      "physics.chem-ph"
+    ]
+  }
+}

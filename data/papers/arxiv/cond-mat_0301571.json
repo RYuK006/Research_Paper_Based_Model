@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0301571",
+  "title": "Simulation of the Sedimentation of a Falling Oblate",
+  "abstract": "We present a numerical investigation of the dynamics of one falling oblate ellipsoid particle in a viscous fluid, in three dimensions, using a constrained-force technique \\cite{Kai}, \\cite{Kaih} and \\cite{Esa}. We study the dynamical behavior of the oblate for a typical downward motion and obtain the trajectory, velocity, and orientation of the particle. We analyze the dynamics of the oblate generated when the height of the container, the aspect-ratio, and the dynamical viscosity are changed. Three types of falling motions are established: steady-falling, periodic oscillations and chaotic oscillations. In the periodic regime we find a behavior similar to the case of falling flat strips reported in ref. \\cite{Belmonte}. In the chaotic regime the trajectory of the oblate is characterized by a high sensitivity to tiny variations in the initial orientation. The Lyapunov exponent is $λ= 0.052 \\pm 0.005$. A phase space comparing to the results of ref \\cite{Nori}, is shown.",
+  "authors": [
+    "Frank Fonseca",
+    "Hans J. Herrmann"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0301571.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0301571.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.642720+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0301571",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0402537",
+  "title": "Low-temperature nucleation in a kinetic Ising model under different stochastic dynamics with local energy barriers",
+  "abstract": "Using both analytical and simulational methods, we study low-temperature nucleation rates in kinetic Ising lattice-gas models that evolve under two different Arrhenius dynamics that interpose between the Ising states a transition state representing a local energy barrier. The two dynamics are the transition-state approximation [T. Ala-Nissila, J. Kjoll, and S. C. Ying, Phys. Rev. B 46, 846 (1992)] and the one-step dynamic [H. C. Kang and W. H. Weinberg, J. Chem. Phys. 90, 2824 (1989)]. Even though they both obey detailed balance and are here applied to a situation that does not conserve the order parameter, we find significant differences between the nucleation rates observed with the two dynamics, and between them and the standard Glauber dynamic [R. J. Glauber, J. Math. Phys. 4, 294 (1963)], which does not contain transition states. Our results show that great care must be exercised when devising kinetic Monte Carlo transition rates for specific physical or chemical systems.",
+  "authors": [
+    "Gloria M. Buendia",
+    "Per Arne Rikvold",
+    "Kyungwha Park",
+    "M. A. Novotny"
+  ],
+  "year": 2004,
+  "doi": "10.1063/1.1772358",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0402537.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0402537.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.434856+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0402537",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

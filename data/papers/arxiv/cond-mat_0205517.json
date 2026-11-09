@@ -1,0 +1,33 @@
+{
+  "id": "arxiv:cond-mat/0205517",
+  "title": "The Hall effect and hole densities in high Tc GaMnAs thin films",
+  "abstract": "By studying the Hall effect in a series of low resistivity Ga1-xMnxAs samples, accurate values for the hole density p, Mn concentration x, and Curie temperature Tc are obtained over the range 0.015=<x=<0.08. The hole density corresponds to 90% of the Mn concentration at low x, and has a maximum value of 1.0x10-27 m-3 when Tc=125K for x=0.06. This data allows the first meaningful comparison of mean field predicted Curie temperatures with experiment over a wide range of x. The theory is in qualitative agreement with experiment, but overestimates Tc at large x and underestimates TC at low x.",
+  "authors": [
+    "K. W. Edmonds",
+    "K. Y. Wang",
+    "R. P. Campion",
+    "A. C. Neumann",
+    "C. T. Foxon",
+    "B. L. Gallagher",
+    "P. C. Main"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0205517.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0205517.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.004997+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0205517",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.mes-hall"
+    ]
+  }
+}

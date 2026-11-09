@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0212521",
+  "title": "The structural phase transition and loss of magnetic moments in NpO2: ab initio approach to the crystal and mean field",
+  "abstract": "We discuss the triple-$\\vec{q}^X$ structures for the ordered cubic phase of NpO$_2$, which are $Pn{\\bar 3}m$ and $Pa{\\bar 3}$. A special care should be taken to discriminate between these two cases. We analyze the relevant structure-factor amplitudes and the effect of domains on resonant X-ray scattering experiments. We formulate the technique of multipole expansion of the Coulomb interaction and use it to study the crystal electric field and mean field for a number of neptunium many electron configurations ($5f^3$, $7s5f^3$, $7p5f^3$ and $6d5f^3$) on ab initio level. We have found that the crystal field is rather small (50-150 K). The direct quadrupole-quadrupole interaction between neighboring neptunium sites is weak and can not drive the structural phase transition at 25 K. We have introduced an effective (enhanced) quadrupole interaction and considered the interplay between it and the crystal electric field. The influence of both interactions on the transition temperature has been investigated in detail for the $5f^3$ configuration. We discuss the importance of the intrasite multipole interaction between three localized electrons ($5f^3$) and a valence electron on a neptunium site. We show that this interaction combined with the symmetry lowering at 25 K may be responsible for the loss of the magnetic moments in the ordered phase of NpO2.",
+  "authors": [
+    "A. V. Nikolaev",
+    "K. H. Michel"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0212521.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0212521.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.181826+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0212521",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

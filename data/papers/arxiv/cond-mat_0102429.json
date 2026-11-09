@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0102429",
+  "title": "Charge superselection rule does not rule out pure states of subsystems to be coherent superpositions of states with different charges",
+  "abstract": "We consider a huge quantum system that is subject to the charge superselection rule, which requires that any pure state must be an eigenstate of the total charge. We regard some parts of the system as \"subsystems,\" and the rest as an environment E. We assume that one does not measure anything of E, i.e., one is only interested in observables of the subsystems. We show that there exist states with the following properties: (i) Its reduced density operator is completely equivalent to a vector state of the subsystems for any gauge-invariant observable of the subsystems. (ii) The vector state is a simple product of vector states of individual subsystems, each of which is not an eigenstate of the charge of each subsystem. Furthermore, one can associate to each subsystem its vector state, which is a pure state, and observables which are not necessarily gauge invariant in each subsystem. These results justify taking (a) superpositions of states with different charges, and (b) non-gauge-invariant operators, such as the order parameter of the breaking of the gauge symmetry, as observables, for subsystems.",
+  "authors": [
+    "Akira Shimizu",
+    "Takayuki Miyadera"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.supr-con",
+    "quant-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0102429.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0102429.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:04.868371+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0102429",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.supr-con",
+      "quant-ph"
+    ]
+  }
+}

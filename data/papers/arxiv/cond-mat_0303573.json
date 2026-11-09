@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0303573",
+  "title": "Vicious walk with a wall, noncolliding meanders, and chiral and Bogoliubov-deGennes random matrices",
+  "abstract": "Spatially and temporally inhomogeneous evolution of one-dimensional vicious walkers with wall restriction is studied. We show that its continuum version is equivalent with a noncolliding system of stochastic processes called Brownian meanders. Here the Brownian meander is a temporally inhomogeneous process introduced by Yor as a transform of the Bessel process that is a motion of radial coordinate of the three-dimensional Brownian motion represented in the spherical coordinates. It is proved that the spatial distribution of vicious walkers with a wall at the origin can be described by the eigenvalue-statistics of Gaussian ensembles of Bogoliubov-deGennes Hamiltonians of the mean-field theory of superconductivity, which have the particle-hole symmetry. We report that the time evolution of the present stochastic process is fully characterized by the change of symmetry classes from the type $C$ to the type $C$I in the nonstandard classes of random matrix theory of Altland and Zirnbauer. The relation between the non-colliding systems of the generalized meanders of Yor, which are associated with the even-dimensional Bessel processes, and the chiral random matrix theory is also clarified.",
+  "authors": [
+    "Makoto Katori",
+    "Hideki Tanemura",
+    "Taro Nagao",
+    "Naoaki Komatsuda"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevE.68.021112",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.soft"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0303573.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0303573.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:43.886441+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0303573",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.soft"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0303612",
+  "title": "Transport theory in the normal state of high-$T_c$ superconductors",
+  "abstract": "Transport mechanism in the normal state of high-$T_c$ superconductors is described using the well known Fermi-Dirac statistics in which an additional restrictive constraint is introduced so as to capture the variation of resistivity with temperature and doping. The additional restrictive condition is the ionization energy that will eventually determine the properties of charge carriers' in the normal state of high-$T_c$ superconductors. The magnitude and the variation of charge carriers concentration and resistivities (polycrystalline, c-axis and $ab$-planes) with temperature and doping are very well described by the ionization energy based Fermi-Dirac statistics. However, these transport models are not appropriate for cuprates below the characteristics ($T^*$) and critical temperatures ($T_c$), metals with free electrons and strong electron-phonon scattering. Ionization energy is found to be an essential parameter to accurately predict variations of resistivity's magnitude with doping, charge carriers' concentrations, scattering rate constants as well as the effective mass. Apart from that, iFDS based resistivity models provide the comprehensive information on crossover-temperature (metallic $\\to$ insulating transition temperature) in the normal state of high-$T_c$ superconductors.",
+  "authors": [
+    "Andrew Das Arulsamy"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0303612.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0303612.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:43.913291+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0303612",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.supr-con"
+    ]
+  }
+}

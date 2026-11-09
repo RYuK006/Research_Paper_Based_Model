@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0110091",
+  "title": "Coulomb Ordering in Anderson-Localized Electron Systems",
+  "abstract": "We consider an electron system under conditions of strong Anderson localization, taking into account interelectron long-range Coulomb repulsion. We have established that with the electron density going to zero the Coulomb interaction brings the arrangement of the Anderson localized electrons closer and closer to an ideal (Wigner) crystal lattice, provided the temperature is sufficiently low and the dimension of the system is > 1. The ordering occurs despite the fact that a random spread of the energy levels of the localized one-electron states, exceeding the mean Coulomb energy per electron, renders it impossible the electrons to be self-localized due to their mutual Coulomb repulsion This differs principally the Coulomb ordered Anderson localized electron system (COALES) from Wigner crystal, Wigner glass, and any other ordered electron or hole system that results from the Coulomb self-localization of electrons/holes. The residual disorder inherent to COALES is found to bring about a multi-valley ground-state degeneration akin to that in spin glass. With the electron density increasing, COALES is revealed to turn into Wigner glass or a glassy state of a Fermi-glass type depending on the width of the random spread of the electron levels.",
+  "authors": [
+    "A. A. Slutskin",
+    "M. Pepper",
+    "H. A. Kovtun"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.dis-nn"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0110091.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0110091.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.559186+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0110091",
+    "categories": [
+      "cond-mat.dis-nn"
+    ]
+  }
+}

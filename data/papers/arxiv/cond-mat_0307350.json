@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0307350",
+  "title": "Computationally efficient phase-field models with interface kinetics",
+  "abstract": "We present a new phase-field model of solidification which allows efficient computations in the regime when interface kinetic effects dominate over capillary effects. The asymptotic analysis required to relate the parameters in the phase-field with those of the original sharp interface model is straightforward, and the resultant phase-field model can be used for a wide range of material parameters.",
+  "authors": [
+    "Kalin Vetsigian",
+    "Nigel Goldenfeld"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevE.68.060601",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat",
+    "nlin.PS"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0307350.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0307350.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.316364+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0307350",
+    "categories": [
+      "cond-mat",
+      "nlin.PS"
+    ]
+  }
+}

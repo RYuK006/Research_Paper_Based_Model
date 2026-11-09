@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0210443",
+  "title": "Materials Science and Protein Crystallography Using the MX Beamline Control Toolkit",
+  "abstract": "MX is a portable beamline control system that has been described at previous NOBUGS meetings. This talk will briefly review MX and then discuss important changes and improvements made since the last meeting in 2000.   For materials science, work has focused on extending the support for multichannel analyzers and for fast data acquisition using quick scans. MX MCA support has focused on the development of interfaces to the X-Ray Instrumentation Associates DXP-2X and X10P (Saturn) MCAs. The MX DXP-2X support has been used by MR-CAT at the Advanced Photon Source to readout a 13-element Ge detector at input count rates of up to 1.5*10^6 counts per second per detector channel. The other major addition is support for quick scans using multichannel scalers. Quick scanning is now routinely used for XAFS and diffraction measurements at MR-CAT and will soon be implemented on some MX crystallography beamlines as well. We have also begun work to allow XIA MCAs to be read out during quick scans.   For protein crystallography, we have primarily focused on implementing MX for new beamlines, namely, SER-CAT at the APS and GCPCC at CAMD, with others pending at the APS. Progress has also been made on the integration of MX with vendor CCD and robotics software.",
+  "authors": [
+    "William M. Lavender"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0210443.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0210443.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.437111+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0210443",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0310117",
+  "title": "Nonlocal potentials for short-range electronic correlation in atoms, molecules, and solids",
+  "abstract": "Extending density functional theory (DFT) to an {\\it ab initio} orbital functional theory (OFT) requires new methodology for nonlocal exchange and correlation potentials. This paper describes such modifications to a standard Dirac-Slater atomic program. Unrestricted Hartree-Fock (UHF) theory is extended by a modified Colle-Salvetti Ansatz for short-range electronic correlation. Results are reported for atoms He-Ne. Values of parameters needed for similar calculations on molecules and solids are reported. Implementation of nonlocal exchange and correlation for such extended systems, using multiple scattering theory to connect independent calculations in space-filling atomic cells, is discussed.",
+  "authors": [
+    "R. K. Nesbet"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0310117.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0310117.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:14.650577+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0310117",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

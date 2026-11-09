@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0403729",
+  "title": "Cyclic exchange, isolated states and spinon deconfinement in an XXZ Heisenberg model on the checkerboard lattice",
+  "abstract": "The antiferromagnetic Ising model on a checkerboard lattice has an ice-like ground state manifold with extensive degeneracy. and, to leading order in J_xy, deconfined spinon excitations. We explore the role of cyclic exchange arising at order J^2_xy/J_z on the ice states and their associated spinon excitations. By mapping the original problem onto an equivalent quantum six--vertex model, we identify three different phases as a function of the chemical potential for flippable plaquettes - a phase with long range Neel order and confined spinon excitations, a non-magnetic state of resonating square plaquettes, and a quasi-collinear phase with gapped but deconfined spinon excitations. The relevance of the results to the square--lattice quantum dimer model is also discussed.",
+  "authors": [
+    "Nic Shannon",
+    "Gregoire Misguich",
+    "Karlo Penc"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevB.69.220403",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0403729.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0403729.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.909989+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0403729",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0101119",
+  "title": "Propagation Dynamics of a Particle Phase in a Single-File Pore",
+  "abstract": "We study propagation dynamics of a particle phase in a single-file pore connected to a reservoir of particles (bulk liquid phase). We show that the total mass $M(t)$ of particles entering the pore up to time $t$ grows as $M(t) = 2 m(J,ρ_F) \\sqrt{D_0 t}$, where $D_0$ is the \"bare\" diffusion coefficient and the prefactor $m(J,ρ_F)$ is a non-trivial function of the reservoir density $ρ_F$ and the amplitude $J$ of attractive particle-particle interactions. Behavior of the dynamic density profiles is also discussed.",
+  "authors": [
+    "A. M. Lacasta",
+    "J. M. Sancho",
+    "F. Sagues",
+    "G. Oshanin"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0101119.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0101119.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:04.494613+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0101119",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

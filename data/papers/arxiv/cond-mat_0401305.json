@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0401305",
+  "title": "Two-dimensional Hubbard-Holstein bipolaron",
+  "abstract": "We present a diagrammatic Monte Carlo study of the properties of the Hubbard-Holstein bipolaron on a two-dimensional square lattice. With a small Coulomb repulsion, U, and with increasing electron-phonon interaction, and when reaching a value about two times smaller than the one corresponding to the transition of light polaron to heavy polaron, the system suffers a sharp transition from a state formed by two weakly bound light polarons to a heavy, strongly bound on-site bipolaron. Aside from this rather conventional bipolaron a new bipolaron state is found for large U at intermediate and large electron-phonon coupling, corresponding to two polarons bound on nearest-neighbor sites. We discuss both the properties of the different bipolaron states and the transition from one state to another. We present a phase diagram in parameter space defined by the electron-phonon coupling and U. Our numerical method does not use any artificial approximation and can be easily modified to other bipolaron models with longer range electron-phonon and/or electron-electron interaction.",
+  "authors": [
+    "Alexandru Macridin",
+    "George. A. Sawatzky",
+    "Mark Jarrell"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevB.69.245111",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0401305.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0401305.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.028293+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0401305",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ]
+  }
+}

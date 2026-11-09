@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0102371",
+  "title": "Assessing the Predictability of Social and Economic Time-Series Data: the example of crime in the UK",
+  "abstract": "Policy targets are being set increasingly for social and economic variables in the UK. This approach requires that reasonably successful ex ante forecasts can be made. We propose a general methodology for assessing the extent to which this can be done. It has already been applied to GDP growth rate data. In this paper, we illustrate the technique with reference to property and violent crime in the UK over the post-war period. The forecasting record of the Home Office is poor. We show that this arises from an inherent property of the data, namely a lack of genuine information content. It is not possible in the current state of scientific knowledge to improve significantly on the Home Office record. We relate these findings to the econometric methodology of co-integration, and show that the correlation matrix of the data used in the Home Office models is dominated by noise.",
+  "authors": [
+    "Paul Ormerod",
+    "Laurence Smith"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0102371.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0102371.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:04.837901+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0102371",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

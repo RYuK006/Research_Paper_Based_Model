@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0106382",
+  "title": "The Hubbard model applied to the phase diagram and pressure effects in YBa_2Cu_3O_{7-δ} superconductors",
+  "abstract": "We apply a method based on a BCS-type approach to the extended Hubbard model to deal with the YBa_2Cu_3O_{7-δ} superconductor family under pressure. The parameters of the tight-binding band are taken from experiments, and the coupling strength U and V are estimated from the zero pressure phase diagram Tc X n_h, where n_h is the hole content and Tc the critical temperature. With the assumption that the pressure P modifies the magnitude V of the attractive potential besides n_h, we obtain a general expansion of Tc in terms of the pressure P, as Tc(P)=Tc(n_h(P),V(P)). With this we can distinguish the charge transfer and the intrinsic contribution to Tc. We show that the changes of Tc with P for YBa_2Cu_3O_{7-δ} are almost due to the intrinsic term.",
+  "authors": [
+    "E. S. Caixeiro",
+    "E. V. L. de Mello"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0106382.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0106382.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.852918+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0106382",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

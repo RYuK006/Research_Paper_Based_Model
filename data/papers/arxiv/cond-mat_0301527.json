@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0301527",
+  "title": "Fast and simple Complex and Slow",
+  "abstract": "The decay of a general time dependent structure factors is considered. The dynamics is that of stochastic field equations of the Langevin type, where the systematic generalized force is a functional derivative of some classical field Hamiltonian with respect to the field. Equations of this type are generic and describe many physical systems. It is usually believed that simple non linear systems exhibit exponential decay in time, while non linear complex systems ,such as ferromagnets at their critical point,decay slowly as a power law or stretched exponential. A necessary condition for slow decay is that the eigenvalues of the appropriate Fokker- Planck operator accumulate at zero for each momentum q .This is a property of the system. I argue here that when the necessary condition is obeyed slow or fast (exponential) decay are both possible for simple linear systems as well as for complex non liner ones. The actual form of decay is determined by what structure factor we prefer to observe. An explicit family of linear models in which the \"natural\" structure factors decay exponentially is constructed. It is shown how a more complex structure factor decays in those models with a slow decay form. It is further shown how in general non linear systems it is always possible to find structure factors that decay exponentially. The question of actual observation of such structure factors in experiment and numerical simulations is discussed.",
+  "authors": [
+    "Moshe Schwartz"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0301527.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0301527.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.604815+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0301527",
+    "categories": [
+      "cond-mat.stat-mech"
+    ]
+  }
+}

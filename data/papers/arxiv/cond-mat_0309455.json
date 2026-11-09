@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0309455",
+  "title": "Exact eigenstates and macroscopic magnetization jumps in strongly frustrated spin lattices",
+  "abstract": "For a class of frustrated spin lattices including e.g. the 1D sawtooth chain, the 2D kagomé and checkerboard, as well as the 3D pyrochlore lattices we construct exact product eigenstates consisting of several independent, localized one-magnon states in a ferromagnetic background. Important geometrical elements of the relevant lattices are triangles being attached to polygons or lines. Then the magnons can be trapped on these polygons/lines. If the concentration of localized magnons is small they can be distributed randomly over the lattice. Increasing the number of localized magnons their distribution over the lattice becomes more and more regular and finally the magnons condensate in a crystal-like state. The physical relevance of these eigenstates emerges in high magnetic fields where they become groundstates of the system. As a result a macroscopic magnetization jump appears in the zero-temperature magnetization curve just below the saturation field. The height of the jump decreases with increasing spin quantum number and vanishes in the classical limit. Thus it is a true macroscopic quantum effect.",
+  "authors": [
+    "J. Richter",
+    "J. Schulenburg",
+    "A. Honecker",
+    "J. Schnack",
+    "H. -J. Schmidt"
+  ],
+  "year": 2003,
+  "doi": "10.1088/0953-8984/16/11/029",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0309455.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0309455.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:46.126152+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0309455",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

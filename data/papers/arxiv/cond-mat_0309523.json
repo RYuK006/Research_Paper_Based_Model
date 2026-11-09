@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0309523",
+  "title": "Stress field around arbitrarily shaped cracks in two-dimensional elastic materials",
+  "abstract": "The calculation of the stress field around an arbitrarily shaped crack in an infinite two-dimensional elastic medium is a mathematically daunting problem. With the exception of few exactly soluble crack shapes the available results are based on either perturbative approaches or on combinations of analytic and numerical techniques. We present here a general solution of this problem for any arbitrary crack. Along the way we develop a method to compute the conformal map from the exterior of a circle to the exterior of a line of arbitrary shape, offering it as a superior alternative to the classical Schwartz-Cristoffel transformation. Our calculation results in an accurate estimate of the full stress field and in particular of the stress intensity factors K_I and K_{II} and the T-stress which are essential in the theory of fracture.",
+  "authors": [
+    "Eran Bouchbinder",
+    "Joachim Mathiesen",
+    "Itamar Procaccia"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevE.69.026127",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0309523.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0309523.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:46.151243+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0309523",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

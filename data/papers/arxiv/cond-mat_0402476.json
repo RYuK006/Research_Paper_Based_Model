@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0402476",
+  "title": "On calculation of effective conductivity of inhomogeneous metals",
+  "abstract": "In the framework of the perturbation theory an expression suitable for calculation of the effective conductivity of 3-D inhomogeneous metals is derived. Formally, the final expression is an exact result, however, a function written as a perturbation series enters the answer. More accurately, when statistical properties of the given inhomogeneous medium are known, our result provides the regular algorithm for calculation of the effective conductivity up to an arbitrary term of the perturbation series. As examples, we examine (i) an isotropic metal whose local conductivity is a Gaussianly distributed random function, (ii) the effective conductivity of polycrystalline metals.",
+  "authors": [
+    "Inna M. Kaganova"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.dis-nn",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0402476.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0402476.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.397433+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0402476",
+    "categories": [
+      "cond-mat.dis-nn",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

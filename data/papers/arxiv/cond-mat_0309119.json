@@ -1,0 +1,32 @@
+{
+  "id": "arxiv:cond-mat/0309119",
+  "title": "Flexibility of beta-sheets: Principal-component analysis of database protein structures",
+  "abstract": "Protein folds are built primarily from the packing together of two types of structures: alpha-helices and beta-sheets. Neither structure is rigid, and the flexibility of helices and sheets is often important in determining the final fold ({\\it e.g.}, coiled coils and beta-barrels). Recent work has quantified the flexibility of alpha-helices using a principal-component analysis (PCA) of database helical structures (Emberly, 2003). Here, we extend the analysis to beta-sheet flexibility using PCA on a database of beta-sheet structures. For sheets of varying dimension and geometry, we find two dominant modes of flexibility: twist and bend. The distributions of amplitudes for these modes are found to be Gaussian and independent, suggesting that the PCA twist and bend modes can be identified as the soft elastic normal modes of sheets. We consider the scaling of mode eigenvalues with sheet size and find that parallel beta-sheets are more rigid than anti-parallel sheets over the entire range studied. Lastly, we discuss the application of our PCA results to modeling and design of beta-sheet proteins.",
+  "authors": [
+    "Eldon G. Emberly",
+    "Ranjan Mukhopadhyay",
+    "Chao Tang",
+    "Ned S. Wingreen"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci",
+    "q-bio.BM"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0309119.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0309119.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.912254+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0309119",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.mtrl-sci",
+      "q-bio.BM"
+    ]
+  }
+}

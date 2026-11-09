@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0402497",
+  "title": "First principles lattice dynamics of NaCoO$_2$",
+  "abstract": "We report first principles linear response calculations on NaCoO$_2$. Phonon frequencies and eigenvectors are obtained throughout the Brillouin zone for two geometries with different Na site occupancies. While most of the phonon modes are found to be unsensitive to the Na site occupancy, there are two modes dominated by out-of-plane vibrations of Na giving very different frequencies for different geometries. One of these two modes, the A$_{2u}$ mode, is infrared-active, and can be used as a suitable sensor of Na distribution/ordering. The longitudinal-transverse splitting of the zone-center optical-mode frequencies, Born effective charges and the dielectric constants are also reported, showing considerable anisotropy. The calculated frequencies of Raman-active modes generally agree with the experimental values of corresponding Na de-intercalated and/or hydrated compounds, while it requires better experimental data to clarify the infrared-active mode frequencies.",
+  "authors": [
+    "Zhenyu Li",
+    "Jinlong Yang",
+    "J. G. Hou",
+    "Qingshi Zhu"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevB.70.144518",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0402497.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0402497.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.418237+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0402497",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.supr-con"
+    ]
+  }
+}

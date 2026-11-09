@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0110378",
+  "title": "Phase-Field Model of Stressed Incoherent Solid-Solid Interfaces",
+  "abstract": "We introduce a new phase-field model which allows for simulation of incoherent solid/solid transformations. Contrary to previous models which impose coherency at the interface, the zero shear-stress condition characteristic of incoherent solids is recovered in the limit of small interface thickness. For the sake of clarity, we limit ourselves to the case of stress-driven phase transitions between two elastic solids. However, since we use a variational formulation which has a clear thermodynamic interpretation, the extension of the model to the cases of chemical and/or thermal diffusion is straightforward.",
+  "authors": [
+    "Jerome Paret"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0110378.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0110378.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.715251+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0110378",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

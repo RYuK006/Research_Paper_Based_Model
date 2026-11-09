@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0012318",
+  "title": "The effects of electron-electron interactions on the spin transport dynamics of a two-dimensional electron gas",
+  "abstract": "Spin transport properties of a spin-polarized two-dimensional electron gas are studied in the presence of electron-electron interactions. Longitudinal and transverse spin diffusion coefficients are calculated with the quantum transport equation which includes many-particle effects in the random phase approximation. We find that the $e$-$e$ scattering, which does not contribute to charge drift mobility, has a significant contribution to the spin diffusion. Thus, $e$-$e$ interaction causes non-negligible effects on the operations of proposed devices dependent on spin transport in semiconductor heterostructures.",
+  "authors": [
+    "Yutaka Takahashi",
+    "Kosuke Shizume",
+    "Naoto Masuhara"
+  ],
+  "year": 2000,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0012318.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0012318.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:04.351126+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0012318",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

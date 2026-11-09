@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0404296",
+  "title": "Determination of the critical current density in the d-wave superconductor YBCO under applied magnetic fields by nodal tunneling",
+  "abstract": "We have studied nodal tunneling into YBa2Cu3O7-x (YBCO) films under magnetic fields. The films' orientation was such that the CuO2 planes were perpendicular to the surface with the a and b axis at 450 form the normal. The magnetic field was applied parallel to the surface and perpendicular to the CuO2 planes. The Zero Bias Conductance Peak (ZBCP) characteristic of nodal tunneling splits under the effect of surface currents produced by the applied fields. Measuring this splitting under different field conditions, zero field cooled and field cooled, reveals that these currents have different origins. By comparing the field cooled ZBCP splitting to that taken in decreasing fields we deduce a value of the Bean critical current superfluid velocity, and calculate a Bean critical current density of up to 3*10^7 A/cm2 at low temperatures. This tunneling method for the determination of critical currents under magnetic fields has serious advantages over the conventional one, as it avoids having to make high current contacts to the sample.",
+  "authors": [
+    "Roy Beck",
+    "Guy Leibovitch",
+    "Alexander Milner",
+    "Alexander Gerber",
+    "Guy Deutscher"
+  ],
+  "year": 2004,
+  "doi": "10.1088/0953-2048/17/8/022",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0404296.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0404296.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:46.750574+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0404296",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

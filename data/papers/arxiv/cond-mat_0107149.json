@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0107149",
+  "title": "Diffusion equation and spin drag in spin-polarized transport",
+  "abstract": "We study the role of electron-electron interactions for spin polarized transport using the Boltzmann equation and derive a set of coupled transport equations. For spin polarized transport the electron-electron interactions are important, because they tend to equilibrate the momentum of the two spin species. This ``spin drag'' effect enhances the resistivity of the system. The enhancement is stronger the lower the dimension and should be measurable in for example a two dimensional electron gas with ferromagnetic contacts. We also include spin flip scattering which has two effects: it equilibrates the spin density imbalance and, provided it has a non s-wave component, also the current imbalance.",
+  "authors": [
+    "Karsten Flensberg",
+    "Thomas Stibius Jensen",
+    "Niels Asger Mortensen"
+  ],
+  "year": 2001,
+  "doi": "10.1103/PhysRevB.64.245308",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0107149.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0107149.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.975991+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0107149",
+    "categories": [
+      "cond-mat.mes-hall"
+    ]
+  }
+}

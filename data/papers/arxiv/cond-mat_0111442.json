@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0111442",
+  "title": "Superconductor Quantum Dot Superconductor Junction in the Kondo Regime",
+  "abstract": "Electron transport between two superconductors through an Anderson impurity in the Kondo regime is investigated within the slave boson mean field approximation. The current, shot noise power and Fano factor are displayed versus the applied bias voltage in the subgap region and found to be strongly dependent on the ratio between the Kondo temperature $T_{K}$ and the superconducting gap $Δ$. In particular, the $I-V$ curve exposes an excess current in the limit $T_{K}/Δ\\gg 1$.",
+  "authors": [
+    "Y. Avishai",
+    "A. Golub",
+    "A. D. Zaikin"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0111442.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0111442.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.413969+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0111442",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ]
+  }
+}

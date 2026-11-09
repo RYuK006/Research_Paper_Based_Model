@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0404084",
+  "title": "Photocurrents in nanotube junctions",
+  "abstract": "Photocurrents in nanotube p-n junctions are calculated using a non-equilibrium Green function quantum transport formalism. The short-circuit photocurrent displays band-to-band transitions and photon-assisted tunneling, and has multiple sharp peaks in the infrared, visible, and ultraviolet ranges. The operation of such devices in the nanoscale regime leads to unusual size effects, where the photocurrent scales linearly and oscillates with device length. The oscillations can be related to the density of states in the valence band, a factor that also determines the relative magnitude of the photoresponse for different bands.",
+  "authors": [
+    "D. A. Stewart",
+    "Francois Leonard"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevLett.93.107401",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0404084.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0404084.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:46.604400+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0404084",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0403043",
+  "title": "Dynamical Model for Chemically Driven Running Droplets",
+  "abstract": "We propose coupled evolution equations for the thickness of a liquid film and the density of an adsorbate layer on a partially wetting solid substrate. Therein, running droplets are studied assuming a chemical reaction underneath the droplets that induces a wettability gradient on the substrate and provides the driving force for droplet motion. Two different regimes for moving droplets -- reaction-limited and saturated regime -- are described. They correspond to increasing and decreasing velocities with increasing reaction rates and droplet sizes, respectively. The existence of the two regimes offers a natural explanation of prior experimental observations.",
+  "authors": [
+    "Uwe Thiele",
+    "Karin John",
+    "Markus Bär"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevLett.93.027802",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "physics.chem-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0403043.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0403043.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.546754+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0403043",
+    "categories": [
+      "cond-mat.soft",
+      "physics.chem-ph"
+    ]
+  }
+}

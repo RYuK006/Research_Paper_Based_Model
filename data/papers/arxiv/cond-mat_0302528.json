@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0302528",
+  "title": "Spin Josephson effect in ferromagnet/ferromagnet tunnel junctions",
+  "abstract": "We consider the tunnel spin current between two ferromagnetic metals from a perspective similar to the one used in superconductor/superconductor tunnel junctions. We use fundamental arguments to derive a Josephson-like spin tunnel current $I_J^{\\rm spin}\\propto\\sin(θ_1-θ_2)$. Here the phases are associated with the planar contribution to the magnetization, $<c_\\uparrow^\\dagger c_\\downarrow>\\sim e^{iθ}$. The crucial step in our analysis is the fact that the $z$-component of the spin is canonically conjugate to the phase of the planar contribution: $[θ,S^z]=i$. This is analogous to the commutation relation $[ϕ,N]=i$ in superconductors, where $ϕ$ is the phase associated to the superconducting order parameter and $N$ is the Cooper pair number operator. We briefly discuss the experimental consequences of our theoretical analysis.",
+  "authors": [
+    "Flavio S. Nogueira",
+    "Karl-Heinz Bennemann"
+  ],
+  "year": 2004,
+  "doi": "10.1209/epl/i2003-10305-x",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0302528.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0302528.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.924512+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0302528",
+    "categories": [
+      "cond-mat.mes-hall"
+    ]
+  }
+}

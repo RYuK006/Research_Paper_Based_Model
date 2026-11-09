@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0108112",
+  "title": "Domain motion in confined liquid crystals",
+  "abstract": "We extend a lattice Boltzmann algorithm of liquid crystal hydrodynamics to include an applied electric field. The approach solves the equations of motion written in terms of a tensor order parameter. Back-flow effects and the hydrodynamics of topological defects are included. We investigate some of the dynamics relevant to liquid crystal devices; in particular defect-mediated motion of domain walls relevant to the nucleation of states useful in pi-cells. An anisotropy in the domain wall velocity is seen because defects of different topology couple differently to the flow field.",
+  "authors": [
+    "Colin Denniston",
+    "Geza Toth",
+    "Julia M. Yeomans"
+  ],
+  "year": 2002,
+  "doi": "10.1023/A:1014562721540",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0108112.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0108112.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.173026+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0108112",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.mtrl-sci",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

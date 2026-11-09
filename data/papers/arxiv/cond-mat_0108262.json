@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0108262",
+  "title": "Second layer nucleation and the shape of wedding cakes",
+  "abstract": "The rate of second layer nucleation -- the formation of a stable nucleus on top of a two-dimensional island -- determines both the conditions for layer-by-layer growth, and the size of the top terrace of multilayer mounds in three-dimensional homoepitaxial growth. It was recently shown that conventional mean field nucleation theory overestimates the rate of second layer nucleation by a factor that is proportional to the number of times a given site is visited by an adatom during its residence time on the island. In the presence of strong step edge barriers this factor can be large, leading to a substantial error in previous attempts to experimentally determine barrier energies from the onset of second layer nucleation. In the first part of the paper simple analytic estimates of second layer nucleation rates based on a comparison of the relevant time scales will be reviewed. In the main part the theory of second layer nucleation is applied to the growth of multilayer mounds in the presence of strong but finite step edge barriers. The shape of the mounds is obtained by numerical integration of the deterministic evolution of island boundaries, supplemented by a rule for nucleation in the top layer. For thick films the shape converges to a simple scaling solution. The scaling function is parametrized by the coverage $θ_c$ of the top layer, and takes the form of an inverse error function cut off at $θ_c$. The surface width of a film of thickness $d$ is $\\sqrt{(1- θ_c) d}$. Finally, we show that the scaling solution can be derived also from a continuum growth equation.",
+  "authors": [
+    "J. Krug",
+    "P. Kuhn"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0108262.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0108262.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.221944+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0108262",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

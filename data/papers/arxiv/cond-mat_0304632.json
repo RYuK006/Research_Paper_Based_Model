@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0304632",
+  "title": "Comment on \"Superfluidity in the interior-gap states\"",
+  "abstract": "In a recent paper [cond-mat/0303185], Wu and Yip presented calculations that they interpreted as indicating an instability of the interior gap phase -- a new, hybrid superfluid-normal state of matter that we proposed in [PRL 90, 047002 (2003)]. Here we observe that their interpretation does not apply to the situations of most physical interest. Their instability was derived under the implicit assumption that one should perturb the relevant systems, which typically contain two distinct species, at fixed values of the separate chemical potentials. However it can be, and generally is, appropriate to enforce different constraints, involving fixed values of particle numbers. Then one often finds, as indicated in our original paper, stable states of the kind we claimed.",
+  "authors": [
+    "W. Vincent Liu",
+    "Frank Wilczek"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "hep-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0304632.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0304632.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.299537+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0304632",
+    "categories": [
+      "cond-mat.supr-con",
+      "hep-ph"
+    ]
+  }
+}

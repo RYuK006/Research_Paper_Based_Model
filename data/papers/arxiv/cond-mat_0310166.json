@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0310166",
+  "title": "29Si Nuclear-Spin Decoherence Process Directly Observed by Multiple Spin-Echoes for Pure and Carrier-less Silicon",
+  "abstract": "We report on the 29Si nuclear spin decoherence time at room temperature for a pure (99.99999%, 7N) and carrier-less (p-type, doping level of 10^15cm-3) silicon in which 29Si nuclei are naturally abundant (4.7%). Despite the experimental difficulties coming from the extremely long spin-lattice relaxation time T1 (of the order of 10^4 s), we have successfully observed a series of spin-echoes of which the time dependence is characterized by the decoherence time T2. We found that the decoherence process deviates from a single Gaussian or Lorentzian function but is well-reproduced by a bi-exponential function with the shorter T2S = 15\\pm5 ms and the longer T2L = 200\\pm20 ms.",
+  "authors": [
+    "Shinji Watanabe",
+    "Susumu Sasaki"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0310166.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0310166.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:14.676497+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0310166",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.mes-hall"
+    ]
+  }
+}

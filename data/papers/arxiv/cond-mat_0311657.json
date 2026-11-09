@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0311657",
+  "title": "Ground-state energy and frustration of the Sherrington-Kirkpatrick model and related models",
+  "abstract": "Exact ground states are calculated for the Sherrington-Kirkpatrick (SK) spin-glass containing up to N=90 spins. A ground-state energy per spin $e^{\\infty}_0 = - 0.7637 \\pm 0.0004$ is found from the $N$ dependence of the misfit parameter, which is a measure of frustration of the system. The results are compared with those of two related models, which can be introduced by replacing all interactions of the SK model by ferromagnetic or antiferromagnetic ones of the same strengths. A parameter $x$ is introduced, which describes the fraction of antiferromagnetic interactions in these types of models. From the $x$ dependence of finite models it is concluded, that the the SK model $(x=0.5)$ assigns a transition between a ferromagnetic state $(x<0.5)$ to a spin-glass state $(x>0.5)$.",
+  "authors": [
+    "S. Kobe"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.dis-nn"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0311657.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0311657.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.417038+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0311657",
+    "categories": [
+      "cond-mat.dis-nn"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0109308",
+  "title": "A faster implementation of the pivot algorithm for self-avoiding walks",
+  "abstract": "The pivot algorithm is a Markov Chain Monte Carlo algorithm for simulating the self-avoiding walk. At each iteration a pivot which produces a global change in the walk is proposed. If the resulting walk is self-avoiding, the new walk is accepted; otherwise, it is rejected. Past implementations of the algorithm required a time O(N) per accepted pivot, where N is the number of steps in the walk. We show how to implement the algorithm so that the time required per accepted pivot is O(N^q) with q<1. We estimate that q is less than 0.57 in two dimensions, and less than 0.85 in three dimensions. Corrections to the O(N^q) make an accurate estimate of q impossible. They also imply that the asymptotic behavior of O(N^q) cannot be seen for walk lengths which can be simulated. In simulations the effective q is around 0.7 in two dimensions and 0.9 in three dimensions. Comparisons with simulations that use the standard implementation of the pivot algorithm using a hash table indicate that our implementation is faster by as much as a factor of 80 in two dimensions and as much as a factor of 7 in three dimensions. Our method does not require the use of a hash table and should also be applicable to the pivot algorithm for off-lattice models.",
+  "authors": [
+    "Tom Kennedy"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat",
+    "hep-lat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0109308.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0109308.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.450327+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0109308",
+    "categories": [
+      "cond-mat",
+      "hep-lat"
+    ]
+  }
+}

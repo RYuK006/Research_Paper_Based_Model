@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0310103",
+  "title": "Fracture precursors in disordered systems",
+  "abstract": "A two-dimensional lattice model with bond disorder is used to investigate the fracture behaviour under stress-controlled conditions. Although the cumulative energy of precursors does not diverge at the critical point, its derivative with respect to the control parameter (reduced stress) exhibits a singular behaviour. Our results are nevertheless compatible with previous experimental findings, if one restricts the comparison to the (limited) range accessible in the experiment. A power-law avalanche distribution is also found with an exponent close to the experimental values.",
+  "authors": [
+    "G. Meacci",
+    "A. Politi",
+    "M. Zei"
+  ],
+  "year": 2003,
+  "doi": "10.1209/epl/i2003-10152-9",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.dis-nn",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0310103.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0310103.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:14.647760+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0310103",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.dis-nn",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0107386",
+  "title": "Electron spin relaxation in semiconductors and semiconductor structures",
+  "abstract": "We suggest an approach to the problem of free electron spin evolution in a semiconductor with arbitrary anisotropy or quantum structure in a magnetic field. The developed approach utilizes quantum kinetic equations for average spin components. These equations represent the relaxation in terms of correlation functions for fluctuating effective fields responsible for spin relaxation. In a particular case when autocorrelation functions are dominant, the kinetic equations reduce to the Bloch equations. The developed formalism is applied to the problem of electron spin relaxation due to exchange scattering in a semimagnetic quantum well (QW) as well as to the spin relaxation in a QW due to Dyakonov-Perel mechanism.",
+  "authors": [
+    "Yu. G. Semenov"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0107386.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0107386.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.065203+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0107386",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.mes-hall"
+    ]
+  }
+}

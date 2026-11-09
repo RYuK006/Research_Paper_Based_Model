@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0402295",
+  "title": "Improved extremal optimization for the Ising spin glass",
+  "abstract": "A version of the extremal optimization (EO) algorithm introduced by Boettcher and Percus is tested on 2D and 3D spin glasses with Gaussian disorder. EO preferentially flips spins that are locally ``unfit''; the variant introduced here reduces the probability to flip previously selected spins. Relative to EO, this adaptive algorithm finds exact ground states with a speed-up of order $10^{4}$ ($10^{2}$) for $16^{2}$- ($8^{3}$-) spin samples. This speed-up increases rapidly with system size, making this heuristic a useful tool in the study of materials with quenched disorder.",
+  "authors": [
+    "A. Alan Middleton"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevE.69.055701",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.dis-nn"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0402295.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0402295.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.315140+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0402295",
+    "categories": [
+      "cond-mat.dis-nn"
+    ]
+  }
+}

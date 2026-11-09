@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0310422",
+  "title": "Efficient sampling in complex materials at finite temperature: the thermodynamically-weighted activation-relaxation technique",
+  "abstract": "We present an accelerated algorithm that samples correctly the thermodynamic ensemble in complex systems where the dynamics is controlled by activation barriers. The efficiency of the thermodynamically-weighted activation-relaxation technique (THWART) is many orders of magnitude greater than standard molecular dynamics, even at room temperature and above, in systems as complex as proteins and amorphous silicon.",
+  "authors": [
+    "Normand Mousseau",
+    "G. T. Barkema"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0310422.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0310422.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:14.815496+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0310422",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

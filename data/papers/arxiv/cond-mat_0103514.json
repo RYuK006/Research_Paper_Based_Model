@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0103514",
+  "title": "High temporal stability of supercurrents in MgB(2) materials",
+  "abstract": "Fine grained polycrystalline samples of MgB(2) superconductor were synthesized from the elements to contain < 5 % of impurity phases, according to X-ray powder diffractometry. The superconductive transition was sharp with a midpoint Tc = 38.5 K. The magnetization in the vortex state was studied as a function of applied field H, temperature T, and time t. From the equilibrium magnetization, the London penetration depth was obtained. The supercurrent density J(T,H,t) in the vortex state (derived from the irreversible magnetization) decreases approximately linearly with T, in contrast to the quasi-exponential falloff in high-Tc superconductors. The current is highly stable in time, with normalized decay rates S = -d ln(J)/d ln(t) well below those in high-Tc materials. These results are compared with those of other superconductors.",
+  "authors": [
+    "J. R. Thompson",
+    "M. Paranthaman",
+    "D. K. Christen",
+    "K. D. Sorge",
+    "H. J. Kim",
+    "J. G. Ossandon"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0103514.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0103514.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.158081+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0103514",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

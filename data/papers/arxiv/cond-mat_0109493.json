@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0109493",
+  "title": "Volatility driven market in a generalised Lotka Voltera formalism",
+  "abstract": "The Generalized Lotka Voltera (GLV) formalism has been introduced in order to explain the power law distributions in the individual wealth (w_i (t)) (Pareto law) and financial markets returns (fluctuations) (r) as a result of the auto-catalytic (multiplicative random) character of the individual capital dynamics.   As long as the multiplicative random factor (lambda) is extracted from the same probability distribution for all the individuals, the exponent of the power laws turns out to be independent on the time variations of the average (<lambda >). This explains also the stability over the past century of experimentally measured Pareto exponent.   In contrast to the scaling properties of the single time (\"unconditional\") probability distributions, the (auto-)correlations between observables measured at different times are not correctly reproduced by the original GLV, if the variance (sigma^2) of $λ$ is time independent. In the GLV formalism the volatility (r^2) auto-correlations decay exponentially while the measurements in real markets indicate a power law with a very small exponent.   We show in the present paper that by making the variance of the individual wealth changes (sigma^2) a function of the market volatility <r^2>, one correctly reproduces the market volatility long range correlations. Moreover, we show that this non-trivial feedback loop between the market price volatility and the variance of the investors wealth leads to non-trivial patterns in the overall market trends. If the feedback is too strong, it may even endanger the market stability.",
+  "authors": [
+    "Yoram Louzoun",
+    "Sorin Solomon"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0109493.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0109493.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.505649+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0109493",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

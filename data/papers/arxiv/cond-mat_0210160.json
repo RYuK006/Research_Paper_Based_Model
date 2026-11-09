@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0210160",
+  "title": "Different Behavior of Magnetic Impurities in Crystalline and Ammorphous States of Superconductors",
+  "abstract": "It has been observed that the effect of magnetic impurities in a superconductor is drastically different depending on whether the host superconductor is in a crystalline or an amorphous state. Based on the recent theory of Kim and Overhauser (KO), it is shown that as the system is getting disordered, the initial slope of the $T_{c}$ depression is decreasing by a factor $\\sqrt{\\ell/ξ_{0}}$, when the mean free path $\\ell$ becomes smaller than the BCS coherence length $ξ_{0}$, which is in agreement with experimental findings. In addition, for a superconductor in a crystalline state in the presence of magnetic impurities the superconducting transition temperature $T_{c}$ drops sharply from about 50% of $T_{c0}$ (for a pure system) to zero near the critical impurity concentration. This {\\sl pure limit behavior} was indeed found by Roden and Zimmermeyer in crystalline Cd. Recently, Porto and Parpia have also found the same {\\sl pure limit behavior} in superfluid He-3 in aerogel, which may be understood within the framework of the KO theory.",
+  "authors": [
+    "Mi-Ae Park",
+    "Kerim Savran",
+    "Yong-Jihn Kim"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0210160.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0210160.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.286068+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0210160",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

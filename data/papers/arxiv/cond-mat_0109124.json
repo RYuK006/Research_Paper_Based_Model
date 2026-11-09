@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0109124",
+  "title": "Granular 'glass' transition",
+  "abstract": "The transition from a flowing to a static state in a granular material is studied using large-scale, 3D particle simulations. Similar to glasses, this transition is manifested in the development of a plateau in the contact normal force distribution P(f) at small forces, along with the splitting of the second peak in the pair correlation function g(r), suggesting compaction and local ordering. The mechanical state changes from one dominated by plastic intergrain contacts in the flowing state to one dominated by elastic contacts in the static state. We define a staticity index that determines how close the system is to an isostatic state, and show that for our systems, the static state is not isostatic.",
+  "authors": [
+    "L. E. Silbert",
+    "D. Ertas",
+    "G. S. Grest",
+    "T. C. Halsey",
+    "D. Levine"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0109124.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0109124.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.376365+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0109124",
+    "categories": [
+      "cond-mat.stat-mech"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0106159",
+  "title": "Crater formation: can macroscopic scaling laws be used in microscopic cratering?",
+  "abstract": "Using classical molecular dynamics simulations we examine the formation of craters during 0.4 - 100 keV Xe bombardment of Au. Our simulation results, and comparison with experiments and simulations of other groups, are used to examine to what extent analytical models can be used to predict the size and properties of craters. We do not obtain a fully predictive analytical model (with no fitting parameters) for the cratering probability, because of the difficulty in predicting the probability of cascades splitting into subcascades, and the relation of the heat spike lifetime and energy density. We do, however, demonstrate that the dependence of the crater size on the incident ion energy can be well understood qualitatively in terms of the lifetime of the heat spike and the cohesive energy of the material. We also show that a simple energy density criterion can not be used to predict cratering in a wide ion energy range because of the important role of the heat spike lifetime in high-energy cascades. The cohesive energy dependence differs from that obtained for macroscopic cratering (observed e.g. in astrophysics) because of the crucial role of melting in the development of heat spikes.",
+  "authors": [
+    "E. M. Bringa",
+    "K. Nordlund",
+    "J. Keinonen"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0106159.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0106159.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.729894+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0106159",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0109266",
+  "title": "Ferromagnetism and Transport in the Double-Exchange Model, with and without Phonons; Application to the Manganites",
+  "abstract": "An introduction is given to the many-body coherent potential approximation (CPA) for the double-exchange (DE) model and the Holstein-DE model, the latter including coupling of the electrons to local phonons as well as to local spins. It is shown how the method can treat the local spins and phonons quantum-mechanically and how it is equivalent to dynamical mean field theory in the classical limit. In the Holstein-DE model a full discussion is given of the cross-over from weak electron-phonon coupling through intermediate coupling, where small-polaron bands begin to appear, to strong coupling where some results similar to those of standard small-polaron theory are recovered. The theory is applied to ferromagnetic manganites with a full discussion of magnetic, transport and spectroscopic data. It is found that many manganites are in the critical regime on the verge of small-polaron formation, which explains their sensitivity to parameters such as applied magnetic field and pressure.",
+  "authors": [
+    "D. M. Edwards",
+    "A. C. M. Green"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0109266.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0109266.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.427619+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0109266",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

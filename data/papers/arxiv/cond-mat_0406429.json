@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0406429",
+  "title": "Modeling electromechanical properties of layered electrets: Application of the finite-element method",
+  "abstract": "We present calculations on the deformation of two- and three-layer electret systems. The electrical field is coupled with the stress-strain equations by means of the Maxwell stress tensor. In the simulations, two-phase systems are considered, and intrinsic relative dielectric permittivity and Young's modulus of the phases are altered. The numerically calculated electro-mechanical activity is compared to an analytical expression. Simulations are performed on two- and three-layer systems. Various parameters in the model are systematically varied and their influence on the resulting piezoelectricity is estimated. In three-layer systems with bipolar charge, the piezoelectric coefficients exhibit a strong dependence on the elastic moduli of the phases. However, with mono-polar charge, there is no significant piezoelectric effect. A two-dimensional simulation illustrated that higher piezoelectricity coefficients can be obtained for non-uniform surface charges and low Poisson's ratio of phases. Irregular structures considered exhibit low piezoelectric activity compared to two-layer structures.",
+  "authors": [
+    "Enis Tuncer",
+    "Michael Wegener",
+    "Reimund Gerhard-Multhaupt"
+  ],
+  "year": 2004,
+  "doi": "10.1016/j.elstat.2004.06.002",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0406429.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0406429.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.544212+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0406429",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

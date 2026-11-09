@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0312726",
+  "title": "Single-electron transistors in electromagnetic environments",
+  "abstract": "The current-voltage (I-V) characteristics of single-electron transistors (SETs) have been measured in various electromagnetic environments. Some SETs were biased with one-dimensional arrays of dc superconducting quantum interference devices (SQUIDs). The purpose was to provide the SETs with a magnetic-field-tunable environment in the superconducting state, and a high-impedance environment in the normal state. The comparison of SETs with SQUID arrays and those without arrays in the normal state confirmed that the effective charging energy of SETs in the normal state becomes larger in the high-impedance environment, as expected theoretically. In SETs with SQUID arrays in the superconducting state, as the zero-bias resistance of the SQUID arrays was increased to be much larger than the quantum resistance R_K = h/e^2 = 26 kohm, a sharp Coulomb blockade was induced, and the current modulation by the gate-induced charge was changed from e periodic to 2e periodic at a bias point 0<|V|<2D_0/e, where D_0 is the superconducting energy gap. The author discusses the Coulomb blockade and its dependence on the gate-induced charge in terms of the single Josephson junction with gate-tunable junction capacitance.",
+  "authors": [
+    "Michio Watanabe"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevB.69.094509",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.dis-nn"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0312726.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0312726.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.848401+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0312726",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.dis-nn"
+    ]
+  }
+}

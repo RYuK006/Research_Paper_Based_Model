@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0307595",
+  "title": "Low-temperature nucleation in a kinetic Ising model with soft stochastic dynamics",
+  "abstract": "We study low-temperature nucleation in kinetic Ising models by analytical and simulational methods, confirming the general result for the average metastable lifetime, <tau> = A*exp(beta*Gamma) (beta = 1/kT) [E. Jordao Neves and R.H. Schonmann, Commun. Math. Phys. 137, 209 (1991)]. Contrary to common belief, we find that both A and Gamma depend significantly on the stochastic dynamic. In particular, for a ``soft'' dynamic, in which the effects of the interactions and the applied field factorize in the transition rates, Gamma does NOT simply equal the energy barrier against nucleation, as it does for the standard Glauber dynamic, which does not have this factorization property.",
+  "authors": [
+    "Kyungwha Park",
+    "Per Arne Rikvold",
+    "Gloria M. Buendia",
+    "M. A. Novotny"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevLett.92.015701",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0307595.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0307595.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.434052+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0307595",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

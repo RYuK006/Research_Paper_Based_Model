@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0406068",
+  "title": "Positional Disorder, Spin-Orbit Coupling and Frustration in GaMnAs",
+  "abstract": "We study the magnetic properties of metallic GaMnAs. We calculate the effective RKKY interaction between Mn spins using several realistic models for the valence band structure of GaAs. We also study the effect of positional disorder of the Mn on the magnetic properties. We find that the interaction between two Mn spins is anisotropic due to spin-orbit coupling within both the so-called spherical approximation and in the more realistic six band model. The spherical approximation strongly overestimates this anistropy, especially for short distances between Mn ions. Using the obtained effective Hamiltonian we carry out Monte Carlo simulations of finite and zero temperature magnetization and find that, due to orientational frustration of the spins, non-collinear states appear in both valence band approximations for disordered, uncorrelated Mn impurities in the small concentration regime. Introducing correlations among the substitutional Mn positions or increasing the Mn concentration leads to an increase in the remnant magnetization at zero temperature and an almost fully polarized ferromagnetic state.",
+  "authors": [
+    "Gregory A. Fiete",
+    "Gergely Zarand",
+    "Boldizsar Janko",
+    "Pawel Redlinski",
+    "C. Pascu Moca"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevB.71.115202",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0406068.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0406068.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.347477+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0406068",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

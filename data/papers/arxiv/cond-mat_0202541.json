@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0202541",
+  "title": "Pairing fluctuation theory of high $T_c$ superconductivity in the presence of nonmagnetic impurities",
+  "abstract": "The pseudogap phenomena in the cuprate superconductors requires a theory beyond the mean field BCS level. A natural candidate is to include strong pairing fluctuations, and treat the two-particle and single particle Green's functions self-consistently. At the same time, impurities are present in even the cleanest samples of the cuprates. Some impurity effects can help reveal whether the pseudogap has a superconducting origin and thus test various theories. Here we extend the pairing fluctuation theory for a clean system [Phys. Rev. Lett. 81, 4708 (1998)] to the case with nonmagnetic impurities. Both the pairing and the impurity $T$ matrices are included and treated self-consistently. We obtain a set of three equations for the chemical potential $μ$, $T_c$, the excitation gap $Δ(T_c)$ at $T_c$, or $μ$, the order parameter $Δ_{sc}$, and the pseudogap $Δ_{pg}$ at temperature $T<T_c$, and study the effects of impurity scattering on the density of states, $T_c$ and the order parameter, and the pseudogap. Both $T_c$ and the order parameter as well as the total excitation gap are suppressed, whereas the pseudogap is not for given $T\\le T_c$. Born scatterers are about twice as effective as unitary scatterers in suppressing $T_c$ and the gap. In the strong pseudogap regime, pair excitations contribute a new $T^{3/2}$ term to the low $T$ superfluid density. The initial rapid drop of the zero $T$ superfluid density in the unitary limit as a function of impurity concentration $n_i$ also agrees with experiment.",
+  "authors": [
+    "Qijin Chen",
+    "J. R. Schrieffer"
+  ],
+  "year": 2002,
+  "doi": "10.1103/PhysRevB.66.014512",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0202541.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0202541.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.115215+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0202541",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0211672",
+  "title": "Uniform hopping approach to the FM Kondo Model at finite temperature",
+  "abstract": "We study the ferromagnetic Kondo model with classical corespins via unbiased Monte-Carlo simulations and derive a simplified model for the treatment of the corespins at any temperature. Our simplified model captures the main aspects of the Kondo model and can easily be evaluated both numerically and analytically. It provides a better qualitative understanding of the physical features of the Kondo model and rationalizes the Monte-Carlo results, including the spectral density A_k(omega) of a 1D chain with nearest neighbor Coulomb repulsion. By calculating the specific heat and the susceptibility of systems up to size 16^3, we determine the Curie temperature of the 3D one-orbital double-exchange model, which agrees with experimental values.",
+  "authors": [
+    "Winfried Koller",
+    "Alexander Pruell",
+    "Hans Gerd Evertz",
+    "Wolfgang von der Linden"
+  ],
+  "year": 2002,
+  "doi": "10.1103/PhysRevB.67.104432",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0211672.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0211672.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.871594+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0211672",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

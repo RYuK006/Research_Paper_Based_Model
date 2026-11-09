@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0305029",
+  "title": "Monte Carlo Study of Doping Change and Disorder Effect on Double Exchange Ferromagnetism",
+  "abstract": "Phase diagram and critical properties are studied for three-dimensional double exchange model with and without quenched disorder. Employing the Monte Carlo method and the systematic analysis on the finite-size effect, we estimate the Curie temperature and the critical exponent as functions of the doping concentration and the strength of the random potential. The Curie temperature well scales to the kinetic energy of electrons in the ground state as expected for this kinetics-driven ferromagnetism. The universality class of this transition is described by the short-range Heisenberg fixed point. The results are compared with the experimental results in the colossal magnetoresistance manganites.",
+  "authors": [
+    "Yukitoshi Motome",
+    "Nobuo Furukawa"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevB.68.144432",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0305029.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0305029.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.417163+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0305029",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

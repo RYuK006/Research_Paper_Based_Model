@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0111369",
+  "title": "Stabilization of frictional sliding by normal load modulation: A bifurcation analysis",
+  "abstract": "This paper presents the stability analysis of a system sliding at low velocities ($< 100 μ$m.s$^{-1}$) under a periodically modulated normal load, preserving interfacial contact. Experiments clearly evidence that normal vibrations generally stabilize the system against stick-slip oscillations, at least for a modulation frequency much larger than the stick-slip one. The mechanical model of Bureau {\\it et al.} (2000), validated on the steady-state response of the system, is used to map its stability diagram. The model takes explicitly into account the finite shear stiffness of the load-bearing asperities, in addition to a classical state- and rate-dependent friction force. The numerical results are in excellent quantitative agreement with the experimental data obtained from a multicontact frictional system between glassy polymer materials. Simulations at larger amplitude of modulation (typically 20% of the mean normal load) suggest that the non-linear coupling between normal and sliding motion could have a destabilizing effect in restricted regions of the parameter space.",
+  "authors": [
+    "A. Cochard",
+    "L. Bureau",
+    "T. Baumberger"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0111369.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0111369.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.396977+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0111369",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

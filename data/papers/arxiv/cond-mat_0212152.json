@@ -1,0 +1,35 @@
+{
+  "id": "arxiv:cond-mat/0212152",
+  "title": "Budd-Vannimenus theorem for superconductors",
+  "abstract": "The Budd-Vannimenus theorem is modified to the surface of superconductors in the Meissner state. This identity links the surface value of the electrostatic potential to the free energy in the bulk which allows one to evaluate the observed potential without the explicit solution of the charge profile at the surface.",
+  "authors": [
+    "Pavel Lipavský",
+    "Klaus Morawetz",
+    "Jan Koláček",
+    "Jiří J. Mareš",
+    "Ernst Helmut Brandt"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el",
+    "nucl-th",
+    "physics.plasm-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0212152.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0212152.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.955568+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0212152",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el",
+      "nucl-th",
+      "physics.plasm-ph"
+    ]
+  }
+}

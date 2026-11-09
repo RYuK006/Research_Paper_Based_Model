@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0205484",
+  "title": "Creation of nonlocal spin-entangled electrons via Andreev tunneling, Coulomb blockade and resonant transport",
+  "abstract": "We discuss several scenarios for the creation of nonlocal spin-entangled electrons which provide a source of electronic Einstein-Podolsky-Rosen (EPR) pairs. The central idea is to exploit the spin correlations naturally present in superconductors in form of Cooper pairs. We show that nonlocal spin-entanglement in form of an effective Heisenberg spin interaction is induced between electron spins residing on two quantum dots with no direct coupling between them but each of them being tunnel-coupled to the same superconductor. We then discuss a nonequilibrium setup where mobile and nonlocal spin-entanglement can be created by coherent injection of two electrons in an Andreev tunneling process into two spatially separated quantum dots and subsequently into two Fermi-liquid leads. The current for injecting two spin-entangled electrons into different leads shows a resonance whereas tunneling via the same dot into the same lead is suppressed by the Coulomb blockade effect of the quantum dots. The Aharonov-Bohm oscillations in the current are shown to contain h/e and h/2e periods. Finally we discuss a structure consisting of a superconductor weakly coupled to two separate Luttinger liquid leads. We show that strong correlations again suppress the coherent subsequent tunneling of two electrons into the same lead, thus generating again nonlocal spin-entangled electrons.",
+  "authors": [
+    "Patrik Recher",
+    "Daniel Loss"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0205484.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0205484.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.978707+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0205484",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.supr-con"
+    ]
+  }
+}

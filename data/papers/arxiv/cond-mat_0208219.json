@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0208219",
+  "title": "Irreducible Green Functions Method and Many-Particle Interacting Systems on a Lattice",
+  "abstract": "The Green-function technique, termed the irreducible Green functions (IGF) method, that is a certain reformulation of the equation-of motion method for double-time temperature dependent Green functions is presented. This method was developed to overcome some ambiguities in terminating the hierarchy of the equations of motion of double-time Green functions and to give a workable technique to systematic way of decoupling. The approach provides a practical method for description of the many-body quasi-particle dynamics of correlated systems on a lattice with complex spectra. Moreover, it provides a very compact and self-consistent way of taking into account the damping effects and finite lifetimes of quasi-particles due to inelastic collisions. In addition, it correctly defines the Generalized Mean Fields, that determine elastic scattering renormalizations and, in general, are not functionals of the mean particle densities only. Although some space is devoted to the formal structure of the method, the emphasis is on its utility. Applications to the lattice fermion models such as Hubbard/Anderson models and to the Heisenberg ferro- and antiferromagnet, which manifest the operational ability of the method are given. It is shown that the IGF method provides a powerful tool for the construction of essentially new dynamical solutions for strongly interacting many-particle systems with complex spectra.",
+  "authors": [
+    "A. L. Kuzemsky"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0208219.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0208219.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:08.731460+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0208219",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ]
+  }
+}

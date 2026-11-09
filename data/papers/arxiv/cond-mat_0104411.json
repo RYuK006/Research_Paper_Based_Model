@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0104411",
+  "title": "Unusual Hall Effect in Superconducting MgB$_2$ Films: Analogy to High-T$_c$ Cuprates",
+  "abstract": "We have investigated the temperature and magnetic field dependence of the Hall coefficient of two well-characterized superconducting MgB$_2$ films (T$_{c0}$=38.0 K) in both the normal and superconducting states. Our results show that the normal-state Hall coefficient R$_H$ is positive and increases with decreasing temperature, independent of the applied magnetic field. Below T$_c$(H), R$_H$ decreases rapidly with temperature and changes sign before it reaches zero. The position and magnitude at which R$_H$ shows a minimum depends on the applied field. Quantitative analysis of our data indicates that the Hall response of MgB$_2$ behaves very similarly to that of high-T$_c$ cuprates: R$_H$ $\\propto$ T and cot$θ_H$ $\\propto$ T$^2$ in the normal state, and a sign reversal of R$_H$ in the mixed state. This suggests that the B-B layers in MgB$_2$, like the Cu-O planes in high-T$_c$ cuprates, play an important role in the electrical transport properties.",
+  "authors": [
+    "R. Jin",
+    "M. Paranthaman",
+    "H. Y. Zhai",
+    "H. M. Christen",
+    "D. K. Christen",
+    "D. Mandrus"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0104411.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0104411.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.360737+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0104411",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0212340",
+  "title": "Chain connectivity and conformational variability of polymers: Clues to an adequate thermodynamic description of their solutions II: Composition dependence of Flory-Huggins interaction parameters",
+  "abstract": "In part I of this contribution we have reported how the Flory-Huggins interaction parameter chi can be modeled as a function of chain length within the composition range of pair interaction between the macromolecules by means of the three parameters alpha, zeta and lambda. This contribution presents the extension of the approach to arbitrary volume fractions of the polymer and its application to published data. The resulting equation is simple and requires only the additional parameter ny to incorporate the composition dependence. Its employment to experimental data is very much facilitated by substituting for the limiting value of chi at infinite dilution. Furthermore the expression can in good approximation be simplified such that only two parameters need to be adjusted. This relation is capable of describing all types of composition dependencies reported in the literature, including the hitherto incomprehensible occurrence of pronounced minima. For a given system the evaluation of the chain length dependence of chi at high dilution reported in part I, and the present evaluation of the composition dependence of chi yield the same values for the conformational response zeta. Similarly both types of measurements generate the same interdependence between zeta and alpha. The physical meaning of the different parameters and the reason for the observed correlations are discussed.",
+  "authors": [
+    "Bernhard A. Wolf"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0212340.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0212340.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.061918+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0212340",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

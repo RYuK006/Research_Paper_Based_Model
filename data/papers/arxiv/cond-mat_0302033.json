@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0302033",
+  "title": "Entropy Analysis of Stochastic Processes at Finite Resolution",
+  "abstract": "The time evolution of complex systems usually can be described through stochastic processes. These processes are measured at finite resolution, what necessarily reduces them to finite sequences of real numbers. In order to relate these data sets to realizations of the original stochastic processes (to any functions, indeed) it is obligatory to choose an interpolation space (for example, the space of band-limited functions). Clearly, this choice is crucial if the intent is to approximate optimally the original processes inside the interval of measurement. Here we argue that discrete wavelets are suitable to this end. The wavelet approximations of stochastic processes allow us to define an entropy measure for the order-disorder balance of evolution regimes of complex systems, where order is understood as confinement of energy in simple local modes. We calculate exact results for the fractional Brownian motion (fBm), with application to Kolmogorov K41 theory for fully developed turbulence.",
+  "authors": [
+    "D. M. Tavares",
+    "L. S. Lucena"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0302033.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0302033.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.680313+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0302033",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

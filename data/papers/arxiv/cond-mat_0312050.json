@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0312050",
+  "title": "Ising transition in the two-dimensional quantum $J_1-J_2$ Heisenberg model",
+  "abstract": "We study the thermodynamics of the spin-$S$ two-dimensional quantum Heisenberg antiferromagnet on the square lattice with nearest ($J_1$) and next-nearest ($J_2$) neighbor couplings in its collinear phase ($J_2/J_1>0.5$), using the pure-quantum self-consistent harmonic approximation. Our results show the persistence of a finite-temperature Ising phase transition for every value of the spin, provided that the ratio $J_2/J_1$ is greater than a critical value corresponding to the onset of collinear long-range order at zero temperature. We also calculate the spin- and temperature-dependence of the collinear susceptibility and correlation length, and we discuss our results in light of the experiments on Li$_2$VOSiO$_4$ and related compounds.",
+  "authors": [
+    "Luca Capriotti",
+    "Tommaso Roscilde",
+    "Andrea Fubini",
+    "Valerio Tognetti"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevLett.92.157202",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0312050.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0312050.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.459139+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0312050",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0402457",
+  "title": "Spectral function of a Luttinger liquid coupled to phonons and angle-resolved photoemission measurements in the cuprate superconductors",
+  "abstract": "We compute the finite-temperature single-particle spectral function of a one-dimensional Luttinger liquid coupled to an optical phonon band. The calculation is performed exactly for the case in which electron-phonon coupling is purely forward scattering. We extend the results to include backward scattering with a renormalization group treatment. The dispersion contains a change in velocity at the phonon energy, qualitatively similar to the case of electron-phonon coupling in a Fermi liquid. If the backward scattering part of the the electron-phonon interaction is not too strong compared to the forward scattering part, coupling to phonons also produces a pronounced peak in the spectral function at low energies. The calculated spectral function is remarkably similar to the angle-resolved photoemission spectra of the high-temperature superconductors, including the apparent presence of \"nodal quasiparticles,\" the presence of a \"kink\" in the dispersion, and the non-Fermi-liquid frequency and temperature dependencies. Although a microscopic justification has not been established for treating the electronic dynamics of the cuprates as quasi-one-dimensional, at the very least we take the quality of the comparison as evidence of the non-Fermi-liquid character of the measured spectra.",
+  "authors": [
+    "Ian P. Bindloss",
+    "Steven A. Kivelson"
+  ],
+  "year": 2005,
+  "doi": "10.1103/PhysRevB.71.014524",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0402457.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0402457.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.393744+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0402457",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ]
+  }
+}

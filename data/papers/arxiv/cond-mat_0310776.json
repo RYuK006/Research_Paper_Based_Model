@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0310776",
+  "title": "Slow dynamics in gelation phenomena: From chemical gels to colloidal glasses",
+  "abstract": "We here discuss the results of 3d MonteCarlo simulations of a minimal lattice model for gelling systems. We focus on the dynamics, investigated by means of the time autocorrelation function of the density fluctuations and the particle mean square displacement. We start from the case of chemical gelation, i.e. with permanent bonds, we characterize the critical dynamics as determined by the formation of the percolating cluster, as actually observed in polymer gels. By opportunely introducing a finite bond life time $τ_b$ the dynamics displays relevant changes and eventually the onset of a glassy regime. This has been interpreted in terms of a crossover to dynamics more typical of colloidal systems and a novel connection between classical gelation and recent results on colloidal systems is suggested. By systematically comparing the results in the case of permanent bonds to finite bond lifetime, the crossover and the glassy regime can be understood in terms of effective clusters.",
+  "authors": [
+    "E. Del Gado",
+    "A. Fierro",
+    "L. de Arcangelis",
+    "A. Coniglio"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0310776.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0310776.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.080629+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0310776",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0401358",
+  "title": "Entanglement generation in persistent current qubits",
+  "abstract": "In this paper we investigate the generation of entanglement between two persistent current qubits. The qubits are coupled inductively to each other and to a common bias field, which is used to control the qubit behaviour and is represented schematically by a linear oscillator mode. We consider the use of classical and quantum representations for the qubit control fields and how fluctuations in the control fields tend to suppress entanglement. In particular, we demonstrate how fluctuations in the bias fields affect the entanglement generated between persistent current qubits and may limit the ability to design practical systems.",
+  "authors": [
+    "J. F. Ralph",
+    "T. D. Clark",
+    "T. P. Spiller",
+    "W. J. Munro"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevB.70.144527",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "quant-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0401358.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0401358.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.049725+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0401358",
+    "categories": [
+      "cond-mat.supr-con",
+      "quant-ph"
+    ]
+  }
+}

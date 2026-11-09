@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0305130",
+  "title": "Noise rectification by a superconducting loop with two weak links",
+  "abstract": "We consider a superconducting loop with two weak links that encloses a magnetic flux. The weak links are unequal and are treated as Josephson junctions with non-sinusoidal phase dependence. We devise a model that takes into account the fluctuation of the critical currents, due to the fluctuations of the order parameter in the weak links. These fluctuations are important near the onset of superconductivity; in this regime they may significantly weaken and eventually disconnect the superconducting loop. As a consequence of these fluctuations and of the resistive noise in the junctions, the average dc voltage does not vanish. Our model can be easily extended to provide a qualitative description of a recent experiment.",
+  "authors": [
+    "Jorge Berger"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevB.70.024524",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0305130.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0305130.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.468117+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0305130",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

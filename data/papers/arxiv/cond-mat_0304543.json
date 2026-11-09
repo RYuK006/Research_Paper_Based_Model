@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0304543",
+  "title": "Competing Orders and Disorder-induced Insulator to Metal Transition in Manganites",
+  "abstract": "Effects of disorder on the two competing phases, i.e., the ferromagnetic metal and the commensurate charge/lattice ordered insulator, are studied by Monte Carlo simulation. The disorder suppresses the charge/lattice ordering more strongly than the ferromagnetic order, driving the commensurate insulator to the ferromagnetic metal near the phase boundary in the pure case. Above the ferromagnetic transition temperature, on the contrary, the disorder makes the system more insulating, which might cause an enhanced colossal magnetoresistance as observed in the half-doped or Cr-substituted manganites. No indication of the percolation or the cluster formation is found, and there remain the charge/lattice fluctuations instead which are enhanced toward the transition temperature.",
+  "authors": [
+    "Yukitoshi Motome",
+    "Nobuo Furukawa",
+    "Naoto Nagaosa"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevLett.91.167204",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0304543.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0304543.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.230903+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0304543",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

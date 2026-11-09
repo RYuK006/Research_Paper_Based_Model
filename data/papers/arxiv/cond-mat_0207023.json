@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0207023",
+  "title": "Quantum Gauged Neural Network: U(1) Gauge Theory",
+  "abstract": "A quantum model of neural network is introduced and its phase structure is examined. The model is an extension of the classical Z(2) gauged neural network of learning and recalling to a quantum model by replacing the Z(2) variables, $S_i = \\pm1$ of neurons and $J_{ij} =\\pm1$ of synaptic connections, to the U(1) phase variables, $S_i = \\exp(iϕ_i)$ and $J_{ij} = \\exp(iθ_{ij}) $. These U(1) variables describe the phase parts of the wave functions (local order parameters) of neurons and synaptic connections. The model takes the form similar to the U(1) Higgs lattice gauge theory, the continuum limit of which is the well known Ginzburg-Landau theory of superconductivity. Its current may describe the flow of electric voltage along axons and chemical materials transfered via synaptic connections. The phase structure of the model at finite temperatures is examined by the mean-field theory, and Coulomb, Higgs and confinement phases are obtained. By comparing with the result of the Z(2) model, the quantum effects is shown to weaken the ability of learning and recalling.",
+  "authors": [
+    "Yukari Fujita",
+    "Tetsuo Matsui"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.dis-nn",
+    "hep-lat",
+    "quant-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0207023.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0207023.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.360795+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0207023",
+    "categories": [
+      "cond-mat.dis-nn",
+      "hep-lat",
+      "quant-ph"
+    ]
+  }
+}

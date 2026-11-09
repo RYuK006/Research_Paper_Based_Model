@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0406280",
+  "title": "F/S interfaces: point contact versus atomic thickness geometries",
+  "abstract": "We contrast perturbative expansions of ferromagnet / superconductor interfaces in two geometries: (i) a point contact geometry where a single weak link connects a 3D ferromagnet to a 3D superconductor and (ii) an atomic thickness geometry with an infinite planar interface connecting a quasi-2D ferromagnet to a quasi-2D superconductor. Perturbation theories are rather different in the two approaches but they both break down at order $t^4$ ($t$ is the tunnel amplitude). The regimes of strong ferromagnets are in a qualitative agreement in both geometries. The regime of weak ferromagnets exists only for the atomic thickness geometry and is related to Andreev bound states due to lateral confinement in the superconductor.",
+  "authors": [
+    "R. Mélin"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0406280.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0406280.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.450445+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0406280",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.supr-con"
+    ]
+  }
+}

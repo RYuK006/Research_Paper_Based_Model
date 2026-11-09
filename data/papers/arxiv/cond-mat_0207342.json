@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0207342",
+  "title": "Phase-Field Model with Reduced Interface Diffuseness",
+  "abstract": "We minimized the interface diffuseness in the phase-field models by introducing the parabolic double-well potential and localizing the solute redistribution (or latent heat release) into a narrow region within the phase-field interface. In spite of the parabolic potential with cusps, highly localized solute redistribution and discontinuous diffusivity function adopted in this model, it works remarkably well in numerical computations. The computations on dendritic solidification of an one-sided system yield quantitatively the same results with the anti-trapping model [A. Karma, Phys. Rev. Lett. 87, 115701 (2001)], indicating the anomalous interfacial effects can be effectively suppressed. This approach can be easily extended to the multi-components or multi-phases system.",
+  "authors": [
+    "Seong Gyoon Kim",
+    "Won Tae Kim",
+    "Toshio Suzuki"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0207342.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0207342.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.506149+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0207342",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

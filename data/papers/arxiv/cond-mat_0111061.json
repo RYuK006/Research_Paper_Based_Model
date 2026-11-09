@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0111061",
+  "title": "Spectral Properties of High-T$_c$ Cuprates via a Cluster-Perturbation Approach",
+  "abstract": "Angular-resolved photoemission data on half-filled doped cuprate materials are compared with an exact-diagonalization analysis of the three-band Hubbard model, which is extended to the infinite lattice by means of a perturbation in the intercluster hopping (cluster perturbation theory). A study of the band dispersion and spectral weight of the insulating cuprate Sr$_2$CuO$_2$Cl$_2$ allows us to fix a consistent parameter set, which turns out to be appropriate at finite dopings as well. In the overdoped regime, our results for the spectral weight and for the Fermi surface give a good description of the experimental data on Bi$_2$Sr$_2$CaCu$_2$O$_{8+δ}$. In particular, the Fermi surface is hole-like and centered around $k=(π,π)$. Finally, we introduce a hopping between two layers and address the issue of bilayer splitting.",
+  "authors": [
+    "C. Dahnken",
+    "E. Arrigoni",
+    "W. Hanke"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0111061.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0111061.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.267698+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0111061",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ]
+  }
+}

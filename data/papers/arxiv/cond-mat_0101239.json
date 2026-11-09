@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0101239",
+  "title": "Phase Field Methods and Dislocations",
+  "abstract": "We present a general formalism for incorporating dislocations in Phase Field methods. This formalism is based on the elastic equivalence between a dislocation loop and a platelet inclusion of specific stress-free strain related to the loop Burgers vector and normal. Dislocations are thus treated as platelet inclusions and may be coupled dynamically to any other field such as a concentration field. The method is illustrated through the simulation of a Frank-Read source and of the shrinkage of a loop in presence of a concentration field.",
+  "authors": [
+    "D. Rodney",
+    "A. Finel"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0101239.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0101239.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:04.554681+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0101239",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

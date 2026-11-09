@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0112138",
+  "title": "Calculating the r^{-n} Interactions, 1<= n< 3, in a Periodic System with a Neutralizing Background Charge Density",
+  "abstract": "The $r^{-n}$ interaction energy, $1\\leq n< 3$, for a infinitely periodic system with explicit charges and a neutralizing, uniform background charge density is derived. An Ewald based expression for this energy has an extra term proportional to the square of the total explicit charges of the system. This expression may be useful for simulations in which explicit charge neutrality does not hold or for which the total explicit charges is a fluctuating quantity.",
+  "authors": [
+    "Minghong G. Wu"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0112138.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0112138.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.499649+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0112138",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

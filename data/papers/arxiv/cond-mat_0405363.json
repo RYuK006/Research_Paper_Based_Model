@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0405363",
+  "title": "Propagation of Ripples in Monte Carlo Models of Sputter Induced Surface Morphology",
+  "abstract": "Periodic ripples generated from the off-normal incidence ion beam bombardment of solid surfaces have been observed to propagate with a dispersion in the velocity. We investigate this ripple behaviour by means of a Monte Carlo model of the erosion process, in conjuction with one of two different surface diffusion mechanisms, representative of two different classes of materials; one is an Arrhenius-type Monte Carlo method including a term (possibly zero) that accounts for the Schwoebel effect, the other a thermodynamic mechanism without the Schwoebel effect. We find that the behavior of the ripple velocity and wavelength depends on the sputtering timescale, qualitatively consistent with experiments. Futhermore, we observe a strong temperature dependance of the ripple velocity, calling for experiments at different temperatures. Also, we observe that the ripple velocity vanishes ahead of the periodic ripple pattern.",
+  "authors": [
+    "Emmanuel O. Yewande",
+    "Alexander K. Hartmann",
+    "Reiner Kree"
+  ],
+  "year": 2005,
+  "doi": "10.1103/PhysRevB.71.195405",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0405363.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0405363.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.131645+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0405363",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

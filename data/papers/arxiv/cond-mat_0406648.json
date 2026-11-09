@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0406648",
+  "title": "Resistance Noise Near to Electrical Breakdown: Steady State of Random Networks as a Function of the Bias",
+  "abstract": "A short review is presented of a recently developed computational approach which allows the study of the resistance noise over the full range of bias values, from the linear regime up to electrical breakdown. Resistance noise is described in terms of two competing processes in a random resistor network. The two processes are thermally activated and driven by an electrical bias. In the linear regime, a scaling relation has been found between the relative variance of resistance fluctuations and the average resistance. The value of the critical exponent is significantly higher than that associated with 1/f noise. In the nonlinear regime, occurring when the bias overcomes the threshold value, the relative variance of resistance fluctuations scales with the bias. Two regions can be identified in this regime: a moderate bias region and a pre-breakdown one. In the first region, the scaling exponent has been found independent of the values of the model parameters and of the bias conditions. A strong nonlinearity emerges in the pre-breakdown region which is also characterized by non-Gaussian noise. The results compare well with measurements of electrical breakdown in composites and with electromigration experiments in metallic lines.",
+  "authors": [
+    "Cecilia Pennetta"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.dis-nn",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0406648.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0406648.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.641363+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0406648",
+    "categories": [
+      "cond-mat.dis-nn",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0107421",
+  "title": "Quantum-critical theory of the spin-fermion model and its application to cuprates. Normal state analysis",
+  "abstract": "We present the full analysis of the normal state of the spin-fermion model near the antiferromagnetic instability in two dimensions. This model describes low-energy fermions interacting with their own collective spin fluctuations, which soften at the antiferromagnetic transition. We argue that in 2D, the system has two typical energies - an effective spin-fermion interaction $\\bar g$ and an energy $ω_{sf}$ below which the system behaves as a Fermi liquid. The ratio of the two determines the dimensionless coupling constant for spin-fermion interaction $λ^2 \\propto {\\bar g}/ω_{sf}$. We show that $λ$ scales with the spin correlation length and diverges at criticality. This divergence implies that the conventional perturbative expansion breaks down. We developed a novel approach to the problem - the expansion in either the inverse number of hot spots in the Brillouin zone, or the inverse number of fermionic flavors - which allowed us to explicitly account for all terms which diverge as powers of $λ$, and treat the remaining, $O(λ)$ terms in the RG formalism. We applied this technique to study the properties of the spin-fermion model in various frequency and temperature regimes. We present the results for the fermionic spectral function, spin susceptibility, optical conductivity and other observables. We compare our results in detail with the normal state data for cuprates, and argue that the spin-fermion model is capable to explain the anomalous normal state properties of high $T_c$ materials. We also discuss the non -applicability of the conventional $ϕ^4$ theory of the quantum-critical behavior in 2D.",
+  "authors": [
+    "Ar. Abanov",
+    "Andrey V. Chubukov",
+    "J. Schmalian"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0107421.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0107421.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.081015+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0107421",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

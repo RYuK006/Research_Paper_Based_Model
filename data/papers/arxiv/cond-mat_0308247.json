@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0308247",
+  "title": "Nonlinear magnetic susceptibility and aging phenomena in reentrant ferromagnet: Cu$_{0.2}$Co$_{0.8}$Cl$_{2}$-FeCl$_{3}$ graphite bi-intercalation compound",
+  "abstract": "Linear and nonlinear dynamic properties of a reentrant ferromagnet Cu$_{0.2}$Co$_{0.8}$Cl$_{2}$-FeCl$_{3}$ graphite bi-intercalation compound are studied using AC and DC magnetic susceptibility. This compound undergoes successive phase transitions at the transition temperatures $T_{h}$ (= 16 K), $T_{c}$ (= 9.7 K), and $T_{RSG}$ (= 3.5 K). The static and dynamic behaviors of the reentrant spin glass phase below $T_{RSG}$ are characterized by those of normal spin glass phase with critical exponent $β$ = 0.57 $\\pm$ 0.10, a dynamic critical exponent $x$ = 8.5 $\\pm$ 1.8, and an exponent $p$ (= 1.55 $\\pm$ 0.13) for the de Almeida -Thouless line. A prominent nonlinear susceptibility is observed between $T_{RSG}$ and $T_{c}$ and around $T_{h}$, suggesting a chaotic nature of the ferromagnetic phase ($T_{RSG} \\leq T \\leq T_{c}$) and the helical spin ordered phase ($T_{c} \\leq T \\leq T_{h}$). The aging phenomena are observed both in the RSG and FM phases, with the same qualitative features as in normal spin glasses. The aging of zero-field cooled magnetization indicates a drastic change of relaxation mechanism below and above $T_{RSG}$. The time dependence of the absorption $χ^{\\prime \\prime}$ is described by a power law form ($\\approx t^{-b^{\\prime \\prime}}$) in the ferromagnetic phase, where $b^{\\prime \\prime} \\approx 0.074 \\pm 0.016$ at $f$ = 0.05 Hz and $T$ = 7 K. No $ωt$-scaling law for $χ^{\\prime \\prime}$ [$\\approx (ωt)^{-b^{\\prime \\prime}}$] is observed.",
+  "authors": [
+    "Masatsugu Suzuki",
+    "Itsuko S. Suzuki"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevB.69.144424",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.dis-nn"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0308247.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0308247.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.651903+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0308247",
+    "categories": [
+      "cond-mat.dis-nn"
+    ]
+  }
+}

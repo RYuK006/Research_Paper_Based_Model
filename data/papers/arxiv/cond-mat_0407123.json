@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0407123",
+  "title": "Combined Numerical and Experimental Investigation of Progressive Failure of Composites",
+  "abstract": "The combination of Finite Element Method (FEM) simulation and experimental photo-elasticity provides both qualitative and quantitative information about the stress field in a polymer composite and particularly along the fibre-matrix boundary. Investigations were made using model specimens containing up to five parallel glass fibres loaded at angles from 0 to 15 degrees. The material properties of the geometrically equivalent FE models are calibrated using the experimental photoelastic outputs. In contrast to the experimental results, FE simulations provide full 3D stress fields. For verification purposes, the 3D stress fields are reduced to two-dimensional synthetic photoelastic phase images, showing good agreement. Furthermore, detailed studies on the components of the stress tensor, particularly statements concerning the shear transmitted by fibre-matrix boundary, progressive fibre failure and the effect of load angle variation are presented.",
+  "authors": [
+    "H. Matthias Deuschle",
+    "Falk K. Wittel",
+    "Henry Gerhard",
+    "Gerhard Busse",
+    "Bernd-H. Kroeplin"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0407123.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0407123.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.769737+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0407123",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

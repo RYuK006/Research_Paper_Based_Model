@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0310593",
+  "title": "Nonlinear alternating current responses of graded materials",
+  "abstract": "When a composite of nonlinear particles suspended in a host medium is subjected to a sinusoidal electric field, the electrical response in the composite will generally consist of alternating current (AC) fields at frequencies of higher-order harmonics. The situation becomes more interesting when the suspended particles are graded, with a spatial variation in the dielectric properties. The local electric field inside the graded particles can be calculated by the differential effective dipole approximation, which agrees very well with a first-principles approach. In this work, a nonlinear differential effective dipole approximation and a perturbation expansion method have been employed to investigate the effect of gradation on the nonlinear AC responses of these composites. The results showed that the fundamental and third-harmonic AC responses are sensitive to the dielectric-constant and/or nonlinear-susceptibility gradation profiles within the particles. Thus, by measuring the AC responses of the graded composites, it is possible to perform a real-time monitoring of the fabrication process of the gradation profiles within the graded particles.",
+  "authors": [
+    "J. P. Huang",
+    "L. Gao",
+    "K. W. Yu",
+    "G. Q. Gu"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevE.69.036605",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0310593.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0310593.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:14.973675+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0310593",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0107155",
+  "title": "Electron-electron bound states in parity-preserving QED_3 applied to high-T_c cuprate superconductors",
+  "abstract": "We consider a parity-preserving QED_3 model with spontaneous breaking of the gauge symmetry as a framework for the evaluation of the electron-electron interaction potential underlying high-T_c superconductivity. The fact that the resulting potential, -C_s K_{0}(Mr), is non-confining and ``weak'' (in the sense of Kato) strongly suggests the mechanism of pair-condensation. This potential, compatible with an s-wave order parameter, is then applied to the Schrödinger equation for the sake of numerical calculations, thereby enforcing the existence of bound states. The results worked out by means of our theoretical framework are checked by considering a number of phenomenological data extracted from different copper oxide superconductors. The agreement may motivate a deeper analysis of our model viewing an application to quasi-planar cuprate superconductors. The data analyzed here suggest an energy scale of 1-10 meV for the breaking of the U(1)-symmetry.",
+  "authors": [
+    "H. R. Christiansen",
+    "O. M. DelCima",
+    "M. M. Ferreira",
+    "J. A. Helayel-Neto"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0107155.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0107155.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.978237+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0107155",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

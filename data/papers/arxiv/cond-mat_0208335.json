@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0208335",
+  "title": "Ab initio Monte Carlo simulations for finite-temperature properties: Application to lithium clusters and bulk liquid lithium",
+  "abstract": "Ab initio Monte Carlo simulations have been performed to determine the equilibrium properties of liquid lithium and lithium clusters at different temperatures. First-principles density-functional methods were employed to calculate the potential-energy change for each proposed change of configuration, which was then accepted or rejected according to the Metropolis Monte Carlo scheme. The resulting structural properties are compared to data from experimental measurements and ab initio molecular dynamics simulations. It is shown that accurate structural information can be obtained with ab initio Monte Carlo simulations at computational costs comparable to ab initio molecular dynamics methods. We demonstrate that ab initio Monte Carlo simulations for the properties of fairly large condensed-matter systems at nonzero temperatures are feasible.",
+  "authors": [
+    "Sanwu Wang",
+    "Steven J. Mitchell",
+    "Per Arne Rikvold"
+  ],
+  "year": 2003,
+  "doi": "10.1016/j.commatsci.2003.06.006",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.stat-mech",
+    "physics.chem-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0208335.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0208335.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:08.779836+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0208335",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.stat-mech",
+      "physics.chem-ph"
+    ]
+  }
+}

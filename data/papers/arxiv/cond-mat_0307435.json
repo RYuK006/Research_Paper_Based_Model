@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0307435",
+  "title": "Character of Atomic Vibrations in a Lennard-Jones Glass",
+  "abstract": "Lennard-Jones glasses (made on a computer by quenching from liquid state coordinates) are studied in harmonic approximation. Vibrational eigenfrequencies and eigenvectors are found by exact diagonalization for models with periodic boundaries and N=(500, 2048, and 6980) atoms. We analyze the density of states, mobility edge, and bond-stretching character of the normal modes. In agreement with older work of Grest, Nagel, and Rahman, the upper 7% of modes are localized, and the rest, delocalized. We find that modes can not be differentiated by any property or quantum number except their eigenfrequency. More specifically, in a given narrow frequency interval, all modes are globally identical. Transverse or longitudinal character, for example, disappears.",
+  "authors": [
+    "Philip B. Allen",
+    "W. Garber",
+    "L. Angelani"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.soft"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0307435.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0307435.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.351301+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0307435",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.soft"
+    ]
+  }
+}

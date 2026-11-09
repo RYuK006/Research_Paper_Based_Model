@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0205258",
+  "title": "Ferroelectric thin films properties: depolarization field and Landau free-energy coefficients renormalization",
+  "abstract": "The calculation of the polarization in ferroelectric thin films is performed using an analytical solution of the Euler-Lagrange differential equation with boundary conditions with different extrapolation lengths of positive sign on the surfaces. The depolarization field effect is taken into account in the model for a short-circuited single domain film, that is a perfect insulator. It is shown that the calculation of the polarization and other properties profiles and average values can be reduced to the minimization of the free energy expressed as a power series of the average polarization with a renormalized coefficient which depends on temperature, film thickness, extrapolation lengths, and a coefficient for the polarization gradient term in the free energy functional, the depolarization field being also included into the renormalized coefficient. The function defining the space distribution properties is calculated as well and its amplitude is shown to coincide with the average polarization. The detailed calculations of the spontaneous polarization, dielectric susceptibility and pyrocoefficient is performed. The divergence of the dielectric susceptibility and pyrocoefficient for critical parameters of the thickness induced ferroelectric phase transition, namely at temperature T(cl) and critical length l(c), is shown to exist with and without the depolarization field contribution, although the values of T(cl) and l(c) are different in both cases. The detailed analysis of the depolarization field space distribution and of this field dependence on temperature and film thickness is performed.",
+  "authors": [
+    "M. D. Glinchuk",
+    "E. A. Eliseev",
+    "V. A. Stephanovich",
+    "R. Farhi"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.dis-nn"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0205258.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0205258.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.874494+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0205258",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.dis-nn"
+    ]
+  }
+}

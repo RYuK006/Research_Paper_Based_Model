@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0206161",
+  "title": "Infinite-randomness critical point in the itinerant quantum antiferromagnet",
+  "abstract": "We study the quantum phase transition in the three-dimensional disordered itinerant antiferromagnet by Monte-Carlo simulations of the order-parameter field theory. We find strong evidence for the transition being controlled by an infinite-randomness fixed point: The dynamical scaling is activated, i.e., the logarithm of the energy scales like a power of the length, implying a dynamical exponent of infinity. The probability distribution of the energy gaps is very broad and becomes broader with increasing system size, even on a logarithmic scale.",
+  "authors": [
+    "Rastko Sknepnek",
+    "Thomas Vojta"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.dis-nn",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0206161.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0206161.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.136401+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0206161",
+    "categories": [
+      "cond-mat.dis-nn",
+      "cond-mat.str-el"
+    ]
+  }
+}

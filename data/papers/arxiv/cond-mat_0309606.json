@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0309606",
+  "title": "Explicit and Hidden Symmetries in Quantum Dots and Quantum Ladders",
+  "abstract": "The concept of dynamical hidden symmetries in the physics of electron tunneling through composite quantum dots (CQD) and quantum ladders (QL) is developed and elucidated. Quite generally, dynamical symmetries are realizable in the space of low energy excited states in a given charge sector of nanoobjects, which involve spin variables and/or electron-hole pairs. While spin multiplets in an individual rung of a QL or in an isolated CQD form a representation space of the usual rotation group, this SU(2) symmetry is broken due to spin transfer (in QL) electron cotunneling through CQD. Dynamical symmetries in the space of spin multiplets are then unravelled in these processes. The corresponding symmetry groups are described by SO(n) or SU(n) depending on the origin of rotation group symmetry breaking. The effective spin Hamiltonians of QL and CQD are derived and expressed in terms of the pertinent group generators. We employ fermionization procedure for analyzing the physical content of these dynamical symmetries, including Kondo tunneling through CQD and Haldane gap formation in QL.",
+  "authors": [
+    "K. Kikoin",
+    "Y. Avishai",
+    "M. Kiselev"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0309606.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0309606.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:46.207024+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0309606",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

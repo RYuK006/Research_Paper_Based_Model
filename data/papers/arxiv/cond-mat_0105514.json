@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0105514",
+  "title": "Screened-interaction expansion for the Hubbard model and determination of the quantum Monte Carlo Fermi surface",
+  "abstract": "We develop a systematic self-consistent perturbative expansion for the self energy of Hubbard-like models. The interaction lines in the Feynman diagrams are dynamically screened by the charge fluctuations in the system. Although the formal expansion is exact-assuming that the model under the study is perturbative-only if diagrams to all orders are included, it is shown that for large-on-site-Coulomb-repulsion-U systems weak-coupling expansions to a few orders may already converge. We show that the screened interaction for the large-U system can be vanishingly small at a certain intermediate electron filling; and it is found that our approximation for the imaginary part of the one-particle self energy agrees well with the QMC results in the low energy scales at this particular filling. But, the usefulness of the approximation is hindered by the fact that it has the incorrect filling dependence when the filling deviates from this value. We also calculate the exact QMC Fermi surfaces for the two-dimensional (2-D) Hubbard model for several fillings. Our results near half filling show extreme violation of the concepts of the band theory; in fact, instead of growing, Fermi surface vanishes when doped toward the half-filled Mott-Hubbard insulator. Sufficiently away from half filling, noninteracting-like Fermi surfaces are recovered. These results combined with the Luttinger theorem might show that diagrammatic expansions for the nearly-half-filled Hubbard model are unlikely to be possible; however, the nonperturbative part of the solution seems to be less important as the filling gradually moves away from one half. Results for the 2-D one-band Hubbard model for several hole dopings are presented. Implications of this study for the high-temperature superconductors are also discussed.",
+  "authors": [
+    "G. Esirgen",
+    "H. -B. Schuttler",
+    "C. Grober",
+    "H. G. Evertz"
+  ],
+  "year": 2001,
+  "doi": "10.1103/PhysRevB.64.195105",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0105514.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0105514.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.622743+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0105514",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ]
+  }
+}

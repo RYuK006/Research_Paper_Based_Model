@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0207103",
+  "title": "Van der Waals contribution to the inelastic atom-surface scattering",
+  "abstract": "A calculation of the inelastic scattering rate of Xe atoms on Cu(111) is presented. We focus in the regimes of low and intermediate velocities, where the energy loss is mainly associated to the excitation electron-hole pairs in the substrate. We consider trajectories parallel to the surface and restrict ourselves to the Van der Waals contribution. The decay rate is calculated within a self-energy formulation. The effect of the response function of the substrate is studied by comparing the results obtained with two different approaches: the Specular Reflection Model and the Random Phase Approximation. In the latter, the surface is described by a finite slab and the wave functions are obtained from a one-dimensional model potential that describes the main features of the surface electronic structure while correctly retains the image-like asymptotic behaviour. We have also studied the influence of the surface state on the calculation, finding that it represents around 50% of the total probability of electron-hole pairs excitation.",
+  "authors": [
+    "Maider Machado",
+    "Daniel Sanchez-Portal"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0207103.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0207103.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.391408+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0207103",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

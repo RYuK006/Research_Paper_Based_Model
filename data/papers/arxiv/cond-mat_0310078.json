@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0310078",
+  "title": "Thermal degradation and viscoelasticity of polypropylene-clay nanocomposites",
+  "abstract": "Results of torsional oscillation tests are reported that were performed at the temperature T=230C on melts of a hybrid nanocomposite consisting of isotactic polypropylene reinforced with 5 wt.% of montmorillonite clay. Prior to mechanical testing, specimens were annealed at temperatures ranging from 250 to 310C for various amounts of time (from 15 to 420 min). Thermal treatment induced degradation of the matrix and a pronounced decrease in its molecular weight. An integro-differential equation is derived for the evolution of molecular weight based on the fragmentation-aggregation concept. This relation involves two adjustable parameters that are found by fitting observations. With reference to the theory of transient networks, constitutive equations are developed for the viscoelastic response of nanocomposite melts. The stress-strain relations are characterized by three material constants (the shear modulus, the average energy for rearrangement of strands and the standard deviation of activation energies) that are determined by matching the dependencies of storage and loss moduli on frequency of oscillations. Good agreement is demonstrated between the experimental data and the results of numerical simulation. It is revealed that the average energy for separation of strands from temporary junctions is independent of molecular weight, whereas the elastic modulus and the standard deviation of activation energies linearly increase with mass-average molecular weight.",
+  "authors": [
+    "A. D. Drozdov",
+    "A. Al-Mulla",
+    "D. A. Drozdov",
+    "R. K. Gupta"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0310078.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0310078.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:14.638089+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0310078",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

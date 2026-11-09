@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0308570",
+  "title": "Option pricing and hedging with minimum local expected shortfall",
+  "abstract": "We propose a versatile Monte-Carlo method for pricing and hedging options when the market is incomplete, for an arbitrary risk criterion (chosen here to be the expected shortfall), for a large class of stochastic processes, and in the presence of transaction costs. We illustrate the method on plain vanilla options when the price returns follow a Student-t distribution. We show that in the presence of fat-tails, our strategy allows to significantly reduce extreme risks, and generically leads to low Gamma hedging. Similarly, the inclusion of transaction costs reduces the Gamma of the optimal strategy.",
+  "authors": [
+    "Benoît Pochart",
+    "Jean-Philippe Bouchaud"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0308570.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0308570.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.784009+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0308570",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

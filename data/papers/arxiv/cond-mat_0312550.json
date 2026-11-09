@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0312550",
+  "title": "Decoherence in Josephson qubits",
+  "abstract": "A high degree of quantum coherence is a crucial requirement for the implementation of quantum logic devices. Solid state nanodevices seem particularly promising from the point of view of integrability and flexibility in the design. However decoherence is a serious limitation, due to the presence of many types low energy excitations in the ``internal'' environment and of ``external'' sources due to the control circuitery. Here we study both kind of dephasing in a special implementation, the charge Josephson qubit, however many of our results are applicable to a large class of solid state qubits. This is the case of 1/f noise for which we introduce and study a model of an environment of bistable fluctuatiors. External sources of noise are analized in terms of a suitable harmonic oscillator environment and the explicit mapping on the spin boson model is presented. We perform a detailed investigation of various computation procedures (single shot measurements, repeated measurements) and discuss the problem of the information needed to characterize the effect of the environment. For a fluctuator environment with 1/f spectrum memory effects turn out to be important. Although in general information beyond the power spectrum is needed, in many situations this results in the knowledge of only one more microscopic parameter of the environment. This allows to determine which degrees of freedom of the environment are effective sources of decoherence in each different physical situation considered.",
+  "authors": [
+    "G. Falci",
+    "E. Paladino",
+    "R. Fazio"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.mes-hall",
+    "quant-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0312550.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0312550.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.693767+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0312550",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.mes-hall",
+      "quant-ph"
+    ]
+  }
+}

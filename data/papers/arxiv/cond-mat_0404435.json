@@ -1,0 +1,38 @@
+{
+  "id": "arxiv:cond-mat/0404435",
+  "title": "Hole-doping-induced changes in the electronic structure of La$_{1-x}$Sr$_x$FeO$_3$ : soft x-ray photoemission and absorption study of epitaxial thin films",
+  "abstract": "We have studied the electronic structure of epitaxially grown thin films of La$_{1-x}$Sr$_x$FeO$_3$ by {\\it in-situ} photoemission spectroscopy (PES) and x-ray absorption spectroscopy (XAS) measurements. The Fe 2$p$ and valence-band PES spectra and the O $1s$ XAS spectra of LaFeO$_3$ have been successfully reproduced by configuration-interaction cluster-model calculation and, except for the satellite structure, by band-structure calculation.From the shift of the binding energies of core levels, the chemical potential was found to be shifted downward as $x$ was increased. Among the three peaks in the valence-band spectra of La$_{1-x}$Sr$_x$FeO$_3$, the peak nearest to the Fermi level ($E_F$), due to the ``$e_{g}$ band'', was found to move toward $E_F$ and became weaker as $x$ was increased, whereas the intensity of the peak just above $E_F$ in the O $1s$ XAS spectra increased with $x$. The gap or pseudogap at $E_F$ was seen for all values of $x$. These results indicate that changes in the spectral line shape around $E_F$ are dominated by spectral weight transfer from below to above $E_F$ across the gap and are therefore highly non-rigid-band-like.",
+  "authors": [
+    "H. Wadati",
+    "D. Kobayashi",
+    "H. Kumigashira",
+    "K. Okazaki",
+    "T. Mizokawa",
+    "A. Fujimori",
+    "K. Horiba",
+    "M. Oshima",
+    "N. Hamada",
+    "M. Lippmaa",
+    "M. Kawasaki",
+    "H. Koinuma"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevB.71.035108",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0404435.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0404435.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:46.822208+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0404435",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

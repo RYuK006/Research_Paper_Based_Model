@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0407139",
+  "title": "Coherent rotations of a single spin-based qubit in a single quantum dot at fixed Zeeman energy",
+  "abstract": "Coherent rotations of single spin-based qubits may be accomplished electrically at fixed Zeeman energy with a qubit defined solely within a single electrostatically-defined quantum dot; the $g$-factor and the external magnetic field are kept constant. All that is required to be varied are the voltages on metallic gates which effectively change the shape of the elliptic quantum dot. The pseudospin-1/2 qubit is constructed from the two-dimensional $S=1/2$, $S_z=-1/2$ subspace of three interacting electrons in a two-dimensional potential well. Rotations are created by altering the direction of the pseudomagnetic field through changes in the shape of the confinement potential. By deriving an exact analytic solution to the long-range Coulomb interaction matrix elements, we calculate explicitly the range of magnitudes and directions the pseudomagnetic field can take. Numerical estimates are given for {GaAs}.",
+  "authors": [
+    "Jordan Kyriakidis",
+    "Stephen J. Penney"
+  ],
+  "year": 2005,
+  "doi": "10.1103/PhysRevB.71.125332",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.mtrl-sci",
+    "quant-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0407139.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0407139.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.775756+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0407139",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci",
+      "quant-ph"
+    ]
+  }
+}

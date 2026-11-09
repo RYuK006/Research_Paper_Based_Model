@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0111314",
+  "title": "Ferromagnetism in (III,Mn)V Semiconductors",
+  "abstract": "In this review article we briefly summarize the main experimental properties of (III,Mn)V ferromagnets and outline several different but related approaches that have been explored in an effort to gain insight into these materials. The main body of the paper deals with the development of the semi-phenomenological model in which the low energy degrees of freedom are exchange-coupled valence-band holes and $S=5/2$ Mn local moments. We discuss physical predictions based on a mean-field treatment of the disorder-free model and demonstrate that it successfully describes a number of non-trivial properties of (Ga,Mn)As and (In,Mn)As ferromagnets. Study of collective excitations of these ferromagnets shows that the simple mean-field-theory is reasonably reliable for typical parameters of current samples but must fail at large carrier densities and also in the limit of very strong exchange coupling. Finally we discuss the results of Monte Carlo calculations that describe the effect of collective fluctuations of Mn moment orientations. The method can deal with some of the complications and additional physics, including the possibility of non-collinear ground states, that enters when disorder is added to the theoretical model.",
+  "authors": [
+    "J. König",
+    "J. Schliemann",
+    "T. Jungwirth",
+    "A. H. MacDonald"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0111314.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0111314.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.365986+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0111314",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

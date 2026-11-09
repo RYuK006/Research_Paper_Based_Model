@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0109517",
+  "title": "The sudden approximation in photoemission and beyond",
+  "abstract": "The conditions behind the sudden approximation are critically examined. The fuzzy band expression is derived in detail from first principles. We go beyond the sudden approximation to account for both extrinsic losses and interference effects. In an extension of earlier work we discuss both core and valence satellites including both intrinsic and extrinsic amplitudes, and high energy excitations as well as low energy electron-hole pairs. We show how the extrinsic losses in photoemission can be connected with the electron energy loss function. This is achieved by three approximations, to connect the dynamically screened potential in the bulk solid to the loss function, to account for the surface, and lastly to extrapolate zero momentum loss data to include dispersion. The extrinsic losses are found to be weak for small loss energies. For larger loss energies the extrinsic losses can be strong and have strong interference with the intrinsic losses depending on the nature of the solid. The transition from the adiabatic to the sudden regime is discussed for atoms and localized systems and compared with the situation for solids. We argue that in solids for photoelectron energies above some 10 eV the external losses are mainly connected with spacially extended excitations. We discuss strongly correlated quasi-two-dimensional solids with Bi2212 as example, and find an asymmetric broadening of the main peak from shake up of acoustic three-dimensional plasmons. In the superconducting state the loss function is assumed to have a gap, which then leads to a peak-dip-hump structure in the photoemission spectrum. This structure is compared with a corresponding structure in tunneling.",
+  "authors": [
+    "L. Hedin",
+    "J. D. Lee"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0109517.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0109517.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.516924+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0109517",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.str-el"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "arxiv:cond-mat/0112103",
+  "title": "Going through Rough Times: from Non-Equilibrium Surface Growth to Algorithmic Scalability",
+  "abstract": "Efficient and faithful parallel simulation of large asynchronous systems is a challenging computational problem. It requires using the concept of local simulated times and a synchronization scheme. We study the scalability of massively parallel algorithms for discrete-event simulations which employ conservative synchronization to enforce causality. We do this by looking at the simulated time horizon as a complex evolving system, and we identify its universal characteristics. We find that the time horizon for the conservative parallel discrete-event simulation scheme exhibits Kardar-Parisi-Zhang-like kinetic roughening. This implies that the algorithm is asymptotically scalable in the sense that the average progress rate of the simulation approaches a non-zero constant. It also implies, however, that there are diverging memory requirements associated with such schemes.",
+  "authors": [
+    "G. Korniss",
+    "M. A. Novotny",
+    "P. A. Rikvold",
+    "H. Guclu",
+    "Z. Toroczkai"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.mtrl-sci",
+    "cs.DC",
+    "cs.PF",
+    "physics.comp-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0112103.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0112103.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.486944+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0112103",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.mtrl-sci",
+      "cs.DC",
+      "cs.PF",
+      "physics.comp-ph"
+    ]
+  }
+}

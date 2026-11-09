@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0304702",
+  "title": "Inter-layer slide and stress relaxation in a bilayer fluid membrane in the patch-clamp setting",
+  "abstract": "Protein mechanosensitive channels (MS) are activated by tension transmitted through the lipid bilayer. We propose a theory of lateral stress relaxation in a bilayer lipid membrane exposed to external pressure pulse in the patch-clamp experimental setting. It is shown that transfer of lipid molecules into a strained region is thermodynamically advantageous due to local decrease of the stress. Considered stress relaxation mechanism may explain recent experimental observations (Davidson and Martinac 2003) of adaptation of MscL, bacterial mechanosensitive channel of large conductance, to sustained membrane stretch. Lateral stress relaxation in the monolayer, which controls the gating of MscL, triggers thermally activated transition of the open channels back to the closed state (\"adaptation\"). We evaluate the contribution of the hydrophobic mismatch between MS channel and lipid bilayer to the energy barrier separating open and closed states. Then, using the MscL thermodynamic model (Sukharev et. al, 1999), we estimate characteristic adaptation times at room temperature to be of the order of seconds, well in the range of the experimental data (Davidson and Martinac 2003). Estimated propagation time of the initial channel-opening stress over the whole membrane is 4-5 orders of magnitude shorter.",
+  "authors": [
+    "Sergei I. Mukhin",
+    "Svetlana V. Baoukina"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci",
+    "q-bio.QM"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0304702.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0304702.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.393591+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0304702",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.mtrl-sci",
+      "q-bio.QM"
+    ]
+  }
+}

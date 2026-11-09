@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0206507",
+  "title": "Tunnelling-charging Hamiltonian of a Cooper pair pump at large E_J\\lesssim E_C: Modified Hamiltonians and renormalisability",
+  "abstract": "The properties of the tunnelling-charging Hamiltonian of a Cooper pair pump are well understood in the regime of weak and intermediate Josephson coupling, i.e. E_J\\lesssim E_C. Instead of perturbative treatment of charging effects, the present work applies the charge state representation in the the strong coupling case. From the discrete Hamiltonian we construct effective, truncated PDE Hamiltonians which yield approximate, but analytical, wave functions and energies for the ground state. The validity of the expressions is confirmed by comparing the results against numerically obtained eigenstates and eigenenergies, whenever possible. For uniform arrays, the results converge rapidly and even ϕ-dependence of the wave function is rather well described. In the inhomogeneous case we find the Hamiltonian to be parametrically renormalisable in order to obtain an accurate ground state energy. A method for for finding an inhomogeneous trial wave function is explained. As a passing note, we briefly examine the intertwined connection between the pumped charge and the Berry's phase. As addendum, we have explicitly validated the ground state ansatz for ϕ=0 when N<43.",
+  "authors": [
+    "M. Aunola"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0206507.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0206507.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.317074+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0206507",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

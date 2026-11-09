@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0406677",
+  "title": "New cellular automaton designed to simulate epitaxial films growth",
+  "abstract": "In this paper a simple (2+1) solid-on-solid model of the epitaxial films growth based on random deposition followed by breaking particle-particle lateral bonds and particles surface diffusion is introduced. The influence of the critical number of the particle-particle lateral bonds $z$ and the deposition rate on the surface roughness dynamics and possible surface morphology anisotropy is presented. The roughness exponent $α$ and the growth exponent $β$ are $(0.863,0.357)$, $(0.215,0.123)$, $(0.101,0.0405)$ and $(0.0718,0.0228)$ for $z=1$, 2, 3 and 4, respectively. Snapshots from simulations of the growth process are included.",
+  "authors": [
+    "R. Kosturek",
+    "K. Malarz"
+  ],
+  "year": 2004,
+  "doi": "10.1016/j.physa.2004.08.013",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "nlin.CG"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0406677.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0406677.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.673019+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0406677",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "nlin.CG"
+    ]
+  }
+}

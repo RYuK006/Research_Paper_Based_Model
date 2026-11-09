@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0406099",
+  "title": "BCS-BEC crossover at finite temperature in the broken-symmetry phase",
+  "abstract": "The BCS-BEC crossover is studied in a systematic way in the broken-symmetry phase between zero temperature and the critical temperature. This study bridges two regimes where quantum and thermal fluctuations are, respectively, important. The theory is implemented on physical grounds, by adopting a fermionic self-energy in the broken-symmetry phase that represents fermions coupled to superconducting fluctuations in weak coupling and to bosons described by the Bogoliubov theory in strong coupling. This extension of the theory beyond mean field proves important at finite temperature, to connect with the results in the normal phase. The order parameter, the chemical potential, and the single-particle spectral function are calculated numerically for a wide range of coupling and temperature. This enables us to assess the quantitative importance of superconducting fluctuations in the broken-symmetry phase over the whole BCS-BEC crossover. Our results are relevant to the possible realizations of this crossover with high-temperature cuprate superconductors and with ultracold fermionic atoms in a trap.",
+  "authors": [
+    "P. Pieri",
+    "L. Pisani",
+    "G. C. Strinati"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevB.70.094508",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0406099.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0406099.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.370132+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0406099",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

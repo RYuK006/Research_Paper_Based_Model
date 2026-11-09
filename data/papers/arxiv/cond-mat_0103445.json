@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0103445",
+  "title": "Andreev levels in a single-channel conductor",
+  "abstract": "We calculate the subgap density of states of a disordered single-channel normal metal connected to a superconductor at one end (NS junction) or at both ends (SNS junction). The probability distribution of the energy of a bound state (Andreev level) is broadened by disorder. In the SNS case the two-fold degeneracy of the Andreev levels is removed by disorder leading to a splitting in addition to the broadening. The distribution of the splitting is given precisely by Wigner's surmise from random-matrix theory. For strong disorder the mean density of states is largely unaffected by the proximity to the superconductor, because of localization, except in a narrow energy region near the Fermi level, where the density of states is suppressed with a log-normal tail.",
+  "authors": [
+    "M. Titov",
+    "N. A. Mortensen",
+    "H. Schomerus",
+    "C. W. J. Beenakker"
+  ],
+  "year": 2001,
+  "doi": "10.1103/PhysRevB.64.134206",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.dis-nn"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0103445.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0103445.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.114240+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0103445",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.dis-nn"
+    ]
+  }
+}

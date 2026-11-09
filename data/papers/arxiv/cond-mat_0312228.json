@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0312228",
+  "title": "Spread of decisions in the corporate board network",
+  "abstract": "Boards of large corporations sharing some of their directors are connected in complex networks. Boards are responsible for corporations' long-term strategy and are often involved in decisions about a common topic related to the belief in economical growth or recession.   We are interested in understanding under which conditions a large majority of boards making a same decision can emerge in the network. We present a model where board directors are engaged in a decision making dynamics based on \"herd behavior\". Boards influence each other through shared directors.   We find that imitation of colleagues and opinion bias due to the interlock do not trigger an avalanche of identical decisions over the board network, whereas the information about interlocked boards' decisions does. There is no need to invoke global public information, nor external driving forces.   This model provides a simple endogenous mechanism to explain the fact that boards of the largest corporations of a country can, in the span of a few months, take the same decisions about general topics.",
+  "authors": [
+    "Stefano Battiston",
+    "Gerard Weisbuch",
+    "Eric Bonabeau"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0312228.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0312228.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.568745+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0312228",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

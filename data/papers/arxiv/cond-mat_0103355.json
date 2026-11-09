@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0103355",
+  "title": "Critical dynamics and universality of the random-bond Potts ferromagnet with tri-distributed quenched disorders",
+  "abstract": "Critical behavior in short-time dynamics is investigated by a Monte Carlo study for the random-bond Potts ferromagnet with a trinary distribution of quenched disorders on two-dimensional triangular lattices. The dynamic scaling is verified and applied to estimate critical exponents $θ$, $z$ and $β/ν$ for several realizations of the trinary distribution. Our critical scaling analysis strongly indicates that the bond randomness influences the critical universality.",
+  "authors": [
+    "H. P. Ying",
+    "B. J. Bian",
+    "D. R. Ji",
+    "H. J. Luo",
+    "L. Schuelke"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.soft"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0103355.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0103355.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.075800+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0103355",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.soft"
+    ]
+  }
+}

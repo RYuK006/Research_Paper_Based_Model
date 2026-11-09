@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0404727",
+  "title": "Dephasing of coupled qubit system during gate operations due to background charge fluctuations",
+  "abstract": "A quantum computer that can be constructed based on a superconducting nanocircuits has previously been proposed. We examine the effect of background charge fluctuations on a coupled Josephson charge qubit system used in such a computer. In previous work, the background charge fluctuations were found to be an important dephasing channel for a single Josephson qubit. We investigate the effect of fluctuations in the bias at the charge degeneracy point of a Josephson charge qubit system. Evaluated quantities are gate fidelity and diagonal elements of the qubit's density matrix. The fluctuation leads to gate error, however quantum gate operation becomes more accurate with increasing interaction between qubit systems.",
+  "authors": [
+    "Toshifumi Itakura",
+    "Yasuhiro Tokura"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.mtrl-sci",
+    "quant-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0404727.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0404727.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:46.973923+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0404727",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci",
+      "quant-ph"
+    ]
+  }
+}

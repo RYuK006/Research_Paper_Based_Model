@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0202487",
+  "title": "Screened Vortex Lattice Model with Disorder",
+  "abstract": "The three dimensional XY model with quenched random disorder and finite screening is studied. We argue that the system scales to model with $λ\\simeq 0\\simeq T$ and the resulting effective model is studied numerically by defect energy scaling. In zero external field we find that there exists a true superconducting phase with a stiffness exponent $θ\\simeq +1.0$ for weak disorder. For low magnetic field and weak disorder, there is also a superconducting phase with $θ\\simeq +1.0$ which we conjecture is a Bragg glass. For larger disorder or applied field, there is a non superconducting phase with $θ\\simeq -1.0$. We estimate the critical external field whose value is consistent with experiment.",
+  "authors": [
+    "C. Giardina'",
+    "N. V. Priezjev",
+    "J. M. Kosterlitz"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0202487.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0202487.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.096177+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0202487",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.supr-con"
+    ]
+  }
+}

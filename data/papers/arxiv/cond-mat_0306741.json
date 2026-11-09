@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0306741",
+  "title": "Virus shapes and buckling transitions in spherical shells",
+  "abstract": "We show that the icosahedral packings of protein capsomeres proposed by Caspar and Klug for spherical viruses become unstable to faceting for sufficiently large virus size, in analogy with the buckling instability of disclinations in two-dimensional crystals. Our model, based on the nonlinear physics of thin elastic shells, produces excellent one parameter fits in real space to the full three-dimensional shape of large spherical viruses. The faceted shape depends only on the dimensionless Foppl-von Karman number γ=YR^2/κ, where Y is the two-dimensional Young's modulus of the protein shell, κis its bending rigidity and R is the mean virus radius. The shape can be parameterized more quantitatively in terms of a spherical harmonic expansion. We also investigate elastic shell theory for extremely large γ, 10^3 < γ< 10^8, and find results applicable to icosahedral shapes of large vesicles studied with freeze fracture and electron microscopy.",
+  "authors": [
+    "Jack Lidmar",
+    "Leonid Mirny",
+    "David R. Nelson"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevE.68.051910",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "q-bio.BM"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0306741.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0306741.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.137285+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0306741",
+    "categories": [
+      "cond-mat.soft",
+      "q-bio.BM"
+    ]
+  }
+}

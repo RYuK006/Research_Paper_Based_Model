@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0012447",
+  "title": "Dynamics and Patterning of Screw Dislocations in Two Dimensions",
+  "abstract": "To understand how dislocations form ordered structures during the deformation of metals, we perform computer simulation studies of the dynamics and patterning of screw dislocations in two dimensions. The simulation is carried out using an idealized atomistic model with anti-plane displacements only; we show that this system is an analog of the two-dimensional XY rotor model. Simulation studies show that under a constant applied shear strain rate, the flow of dislocations spontaneously coalesces to form narrow dislocation-rich channels separated by wide dislocation-free regions, so that the applied strain is localized into slip bands. We argue that this pattern formation represents a phase separation into ordered and disordered phases associated with the XY model, and conjecture that thermodynamic forces drive strain localization.",
+  "authors": [
+    "Robin L. B. Selinger",
+    "Brian B. Smith",
+    "Wei-Dong Luo"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0012447.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0012447.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:04.411524+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0012447",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

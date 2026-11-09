@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0210516",
+  "title": "Josephson effect in the cuprates: microscopic implications",
+  "abstract": "In the tunnel limit, the current-phase relation of Josephson junctions can be expanded as $I(ϕ)=I_1\\sinϕ+I_2\\sin 2ϕ$. Standard BCS theory predicts that $I_1R_N\\simΔ/e$ and $I_2/I_1\\sim D$, where $R_N$ is the resistance of the junction in the normal state, $Δ$ is the superconducting gap, and $D\\ll 1$ is the junction transparency. In the cuprates, the experimental value of $I_1R_N$ ($I_2/I_1$) is much smaller (larger) than the BCS prediction. We argue that both peculiarities of the cuprates can be explained by postulating quantum fluctuations of the pairing symmetry.",
+  "authors": [
+    "R. Hlubina"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0210516.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0210516.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.472759+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0210516",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

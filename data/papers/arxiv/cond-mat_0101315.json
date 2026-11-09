@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0101315",
+  "title": "Epitaxial mounding in limited mobility models of surface growth",
+  "abstract": "We study, through large scale stochastic simulations using the noise reduction technique, a large number of simple nonequilibrium limited mobility solid-on-solid growth models. We find that d=2+1 dimensional surface growth in several noise reduced models (most notably the Wolf-Villain and the Larger-Curvature model) exhibits spectacular quasi-regular mound formation with slope selection in their dynamical surface morphology. The mounding instability in these epitaxial growth models does not involve the Ehrlich-Schwoebel step edge diffusion barrier. The mounded morphology in these growth models arises from the interplay between the line tension along step edges in the plane parallel to the average surface and the suppression of noise and island nucleation. The line tension tends to stabilize some of the step orientations that coincide with in-plane high symmetry crystalline directions, and thus the mounds that are formed assume quasi-regular structures. The noise reduction technique developed originally for Eden type models can be used to control the stochastic noise and enhance diffusion along the step edge, which ultimately leads to the formation of quasi-regular mounds during growth. We show that by increasing the diffusion surface length together with supression of nucleation and deposition noise, one can obtain a self-organization of the pyramids in quasi-regular patterns.",
+  "authors": [
+    "P. Punyindu",
+    "Z. Toroczkai",
+    "S. Das Sarma"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0101315.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0101315.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:04.585771+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0101315",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

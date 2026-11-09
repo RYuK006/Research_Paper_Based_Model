@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0111274",
+  "title": "Grand canonical ensemble simulation studies of polydisperse fluids",
+  "abstract": "We describe a Monte Carlo scheme for simulating polydisperse fluids within the grand canonical ensemble. Given some polydisperse attribute $σ$, the state of the system is described by a density distribution $ρ(σ)$ whose form is controlled by the imposed chemical potential distribution $μ(σ)$. We detail how histogram extrapolation techniques can be employed to tune $μ(σ)$ such as to traverse some particular desired path in the space of $ρ(σ)$. The method is applied in simulations of size-disperse hard spheres with densities distributed according to Schulz and log-normal forms. In each case, the equation of state is obtained along the dilution line, i.e. the path along which the scale of $ρ(σ)$ changes but not its shape. The results are compared with the moment-based expressions of Boublik et al (J. Chem. Phys. {\\bf 54}, 1523 (1971)) and Salacuse and Stell (J. Chem. Phys. {\\bf 77}, 3714 (1982)). It is found that for high degrees of polydispersity, both expressions fail to give a quantitatively accurate description of the equation of state when the overall volume fraction is large.",
+  "authors": [
+    "Nigel B. Wilding",
+    "Peter Sollich"
+  ],
+  "year": 2001,
+  "doi": "10.1063/1.1464829",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.mtrl-sci",
+    "cond-mat.soft"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0111274.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0111274.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.347781+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0111274",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.mtrl-sci",
+      "cond-mat.soft"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0210446",
+  "title": "Data acquisition and control system for neutron powder diffraction instrument",
+  "abstract": "The development of control software for a neutron powder diffraction instrument at the Safari-1 research reactor of South Africa is reported. The software runs under Windows 2000 and incorporates PC-based cards for data acquisition and motion control. It has the capability to collect data from multiple detectors and controls three stepper motors. All stepper motors are equipped with encoders to ensure positional accuracy. The software drivers for detection and motion control are modular so as to enable their incorporation into other applications. Commands are performed in a batch format for the execution of command sequences without continuous input from the user. Certain limitations of the PC cards were overcome through the development of specialized drivers.",
+  "authors": [
+    "MW van der Watt",
+    "A. Joel",
+    "A. P. van Dyk",
+    "AM Venter"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0210446.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0210446.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.442975+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0210446",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

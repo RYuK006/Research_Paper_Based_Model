@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0305446",
+  "title": "Andreev bound states in normal and ferromagnet/high-Tc superconducting tunnel junctions",
+  "abstract": "Ag/BSCCO and Fe/Ag/BSCCO planar tunnel junctions were constructed in order to study experimentally the effect of an exchange potential on the spin polarized current transported through Andreev bound states appearing at the interface with a superconductor with broken time reversal pairing symmetry. The zero bias conductance peak (ZBCP) resulting from the Andreev bound states (ABS) is split into two symmetric peaks shifted at finite energies when the counterlectrode is normal. Four asymmetric peaks are observed when the ferromagnetic spin polarized charge reservoir is added, due to the combined effect of a spin-filtering exchange energy in the barrier, which is a spin dependent phenomenon, and the spin independent effect of a broken time reversal symmetry (BTRS). The polarization in the iron layer leads to asymmetry. Due to the shift of ABS peaks to finite energies, the conductance at zero energy behaves as predicted by recent theoretical developments for pure d-wave junctions without Andreev reflections.",
+  "authors": [
+    "Mario Freamat",
+    "K. -W. Ng"
+  ],
+  "year": 2003,
+  "doi": "10.1016/S0921-4534(03)01318-2",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0305446.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0305446.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.601318+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0305446",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

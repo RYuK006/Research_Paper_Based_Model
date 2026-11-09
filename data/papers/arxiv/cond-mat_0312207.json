@@ -1,0 +1,32 @@
+{
+  "id": "arxiv:cond-mat/0312207",
+  "title": "Shape Selection in Chiral Self-Assembly",
+  "abstract": "Many biological and synthetic materials self-assemble into helical or twisted aggregates. The shape is determined by a complex interplay between elastic forces and the orientation and chirality of the constituent molecules. We study this interplay through Monte Carlo simulations, with an accelerated algorithm motivated by the growth of an aggregate out of solution. The simulations show that the curvature changes smoothly from cylindrical to saddle-like as the elastic moduli are varied. Remarkably, aggregates of either handedness form from molecules of a single handedness, depending on the molecular orientation.",
+  "authors": [
+    "Robin L. B. Selinger",
+    "Jonathan V. Selinger",
+    "Anthony P. Malanoski",
+    "Joel M. Schnur"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevLett.93.158103",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.stat-mech",
+    "q-bio.BM"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0312207.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0312207.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.554331+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0312207",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.stat-mech",
+      "q-bio.BM"
+    ]
+  }
+}

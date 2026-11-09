@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0211340",
+  "title": "Stark effect upon the effective mass and radius in a tight-binding exciton model",
+  "abstract": "With a Green's function formalism we obtain the eigenvalue spectrum of a tight-binding one-dimensional exciton model characterized by a contact interaction, a Coulombic electron and hole attraction, the Heller-Marcus exciton-hopping energy and an external constant and homogeneous electric field. The resulting eigenvalue spectrum, in the form of an unevenly spaced Wannier-Stark ladder with envelope profiles, is used to obtain the effective mass of the exciton by the application of the Mattis-Gallinar effective mass formula [D. C. Mattis and J.-P. Gallinar, {\\it Phys. Rev. Lett.} {\\bf{53}}, 1391 (1984)]. We obtain positive and negative effective masses for the exciton. The inverse effective mass may oscillate periodically as a function of the inverse of the electric field, with the frequency of oscillation linearly dependent upon the tight-binding hopping matrix element. The exciton radius is also obtained with the Green's function formalism, and it too exhibits Keldysh-like field dependent oscillations, as well as abrupt variations associated to strongly avoided crossings in the eigenvalue spectrum. Finally, some comments are made about the experimental relevance of our results.",
+  "authors": [
+    "Jean El-khoury",
+    "Jean-Pierre Gallinar"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0211340.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0211340.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.714157+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0211340",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

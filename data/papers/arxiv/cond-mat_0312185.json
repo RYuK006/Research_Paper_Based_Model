@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0312185",
+  "title": "Multiscale Computation of a Polypeptide Backbone Model",
+  "abstract": "The multiscale Monte-Carlo algorithm outlined in Bai and Brandt[1] is applied to a simple model of the polypeptide backbone. Effective coarse level Hamiltonians are derived by a fast Newtonian iterative scheme. The coarse Hamiltonian parameters are adjusted so that local structural properties have the same value in both coarse and fine level simulations. It is demonstrated that at convergence of iterations, global structural properties are reproduced very well in coarse level simulations.",
+  "authors": [
+    "Dov Bai"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0312185.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0312185.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.540588+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0312185",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

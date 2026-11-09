@@ -1,0 +1,33 @@
+{
+  "id": "arxiv:cond-mat/0310670",
+  "title": "Prospects for Strong Cavity Quantum Electrodynamics with Superconducting Circuits",
+  "abstract": "We propose a realizable architecture using one-dimensional transmission line resonators to reach the strong coupling limit of cavity quantum electrodynamics in superconducting electrical circuits. The vacuum Rabi frequency for the coupling of cavity photons to quantized excitations of an adjacent electrical circuit (qubit) can easily exceed the damping rates of both the cavity and the qubit. This architecture is attractive for quantum computing and control, since it provides strong inhibition of spontaneous emission, potentially leading to greatly enhanced qubit lifetimes, allows high-fidelity quantum non-demolition measurements of the state of multiple qubits, and has a natural mechanism for entanglement of qubits separated by centimeter distances. In addition it would allow production of microwave photon states of fundamental importance for quantum communication.",
+  "authors": [
+    "S. M. Girvin",
+    "Ren-Shou Huang",
+    "Alexandre Blais",
+    "Andreas Wallraff",
+    "R. J. Schoelkopf"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.supr-con",
+    "quant-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0310670.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0310670.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.012469+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0310670",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.supr-con",
+      "quant-ph"
+    ]
+  }
+}

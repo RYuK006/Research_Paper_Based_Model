@@ -1,0 +1,33 @@
+{
+  "id": "arxiv:cond-mat/0110654",
+  "title": "Colourings of planar quasicrystals",
+  "abstract": "The investigation of colour symmetries for periodic and aperiodic systems consists of two steps. The first concerns the computation of the possible numbers of colours and is mainly combinatorial in nature. The second is algebraic and determines the actual colour symmetry groups. Continuing previous work, we present the results of the combinatorial part for planar patterns with n-fold symmetry, where n=7,9,15,16,20,24. This completes the cases with values of n such that Euler's totient function of n is less than or equal to eight.",
+  "authors": [
+    "Michael Baake",
+    "Uwe Grimm",
+    "Max Scheffer"
+  ],
+  "year": 2001,
+  "doi": "10.1016/S0925-8388(02)00171-8",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.dis-nn",
+    "cond-mat.mtrl-sci",
+    "math-ph",
+    "math.MP"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0110654.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0110654.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.242573+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0110654",
+    "categories": [
+      "cond-mat.dis-nn",
+      "cond-mat.mtrl-sci",
+      "math-ph",
+      "math.MP"
+    ]
+  }
+}

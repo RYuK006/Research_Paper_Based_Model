@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0209189",
+  "title": "Thermoelectric Properties of Disordered Systems",
+  "abstract": "The electronic properties of disordered systems have been the subject of intense study for several decades. Thermoelectric properties, such as thermopower and thermal conductivity, have been relatively neglected. A long standing problem is represented by the sign of the thermoelectric power. In crystalline semiconductors this is related to the sign of the majority carriers, but in non-crystalline systems it is commonly observed to change sign at low temperatures. In spite of its apparent universality this change has been interpreted in a variety of ways in different systems. We have developed a Green's function recursion algorithm based on the Chester-Thelling-Kubo-Greenwood formula for calculating the kinetic coefficients on long strips or bars. From these we can deduce the electrical conductivity, the Seebeck and Peltier coefficients and the thermal conductivity, as well as the Lorenz number. We present initial results for 1D systems. We observe a Lorentzian distribution for the thermopower which is modified by the presence of inelastic scattering. This could give rise to non-negligible quantum fluctuations in macroscopic systems at low temperatures.",
+  "authors": [
+    "R. A. Roemer",
+    "A. MacKinnon",
+    "C. Villagonzalo"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.dis-nn"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0209189.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0209189.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:08.986233+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0209189",
+    "categories": [
+      "cond-mat.dis-nn"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0311371",
+  "title": "Quasi-local-density approximation for a van der Waals energy functional",
+  "abstract": "We discuss a possible form for a theory akin to local density functional theory, but able to produce van der Waals energies in a natural fashion. The usual Local Density Approximation (LDA) for the exchange and correlation energy $E_{xc}$ of an inhomogeneous electronic system can be derived by making a quasilocal approximation for the {\\it interacting} density-density response function $χ(\\vec{r},\\vec{r} ^{\\prime},ω)$, then using the fluctuation-dissipation theorem and a Feynman coupling-constant integration to generate $E_{xc}$. The first new idea proposed here is to use the same approach except that one makes a quasilocal approximation for the {\\it bare} response $χ^{0}$, rather than for $χ$. The interacting response is then obtained by solving a nonlocal screening integral equation in real space. If the nonlocal screening is done at the time-dependent Hartree level, then the resulting energy is an approximation to the full inhomogeneous RPA energy: we show here that the inhomogeneous RPA correlation energy contains a van der Waals term for the case of widely-separated neutral subsystems. The second new idea is to use a particularly simple way of introducing LDA-like local field corrrections into the screening equations, giving a theory which should remain reasonable for all separations of a pair of subsystems, encompassing both the van der Waals limit much as in RPA and the bonding limit much as in LDA theory.",
+  "authors": [
+    "John F. Dobson"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0311371.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0311371.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.264532+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0311371",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

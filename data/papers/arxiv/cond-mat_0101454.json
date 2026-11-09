@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0101454",
+  "title": "Spin Environment Engineering for a Persistent Current Qubit",
+  "abstract": "A persistent current qubit has two quantum states with opposite currents flowing in a superconducting loop. Their magnetic field couple to nuclear spins. The qubit state is not only perturbed by the spins but it also gets entangled with the spins' state on a very short timescale. However, when the same spins are exposed to a strong but less than critical external magnetic field, then the qubit field is just a small perturbation on top of the external field and the entanglement with each spin is negligible. For a qubit which is more microscopic than certain threshold this partial entanglement results in negligible partial decoherence.",
+  "authors": [
+    "Jacek Dziarmaga"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat",
+    "quant-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0101454.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0101454.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:04.631608+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0101454",
+    "categories": [
+      "cond-mat",
+      "quant-ph"
+    ]
+  }
+}

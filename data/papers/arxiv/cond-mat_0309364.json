@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0309364",
+  "title": "Dynamics of quantized vortices in superfluid helium and rotating Bose-Einstein condensates",
+  "abstract": "In this article, we review the research on the dynamics of quantized vortices in superfluid helium and rotating Bose-Einstein condensates. First, after briefly reviewing the earlier research and describing the current problems on quantized vortices in superfluid $^4$He, we focus our review on superfluid turbulence and vortex filament dynamics. Superfluid turbulence was recently shown to have an energy spectrum consistent with the Kolmogorov law, which is an important statistical law in fully developed classical turbulence. We describe the diffusion of an inhomogeneous vortex tangle with relation to the observed decay of vortices at very low temperatures. We also describe the vortex states that appear in a rotating channel with counterflow. The competition between rotational effects and counterflow effects makes a new state of \"a polarized vortex tangle\". Next, we discuss recent numerical analysis of the Gross-Pitaevskii equation in the specific field of atomic-gas Bose-Einstein condensation. Consistent with observations, the simulated condensate starts an elliptic oscillation after the rotation is turned on, which induces the surface-mode excitations. The vortices develop from these surface excitations and then enter the bulk condensate, eventually forming a vortex lattice. When a condensate is held in a quadratic-plus-quartic combined potential, the fast rotation makes \"a giant vortex\" in which most vortices are absorbed into a central density hole.",
+  "authors": [
+    "Makoto Tsubota",
+    "Kenichi Kasamatsu",
+    "Tsunehiko Araki"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0309364.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0309364.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:46.035604+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0309364",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

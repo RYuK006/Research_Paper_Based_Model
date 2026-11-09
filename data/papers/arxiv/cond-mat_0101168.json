@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0101168",
+  "title": "Dynamical properties of Au from tight-binding molecular-dynamics simulations",
+  "abstract": "We studied the dynamical properties of Au using our previously developed tight-binding method. Phonon-dispersion and density-of-states curves at T=0 K were determined by computing the dynamical-matrix using a supercell approach. In addition, we performed molecular-dynamics simulations at various temperatures to obtain the temperature dependence of the lattice constant and of the atomic mean-square-displacement, as well as the phonon density-of-states and phonon-dispersion curves at finite temperature. We further tested the transferability of the model to different atomic environments by simulating liquid gold. Whenever possible we compared these results to experimental values.",
+  "authors": [
+    "F. Kirchhoff",
+    "M. J. Mehl",
+    "N. I. Papanicolaou",
+    "D. A. Papaconstantopoulos",
+    "F. S. Khan"
+  ],
+  "year": 2001,
+  "doi": "10.1103/PhysRevB.63.195101",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0101168.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0101168.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:04.518326+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0101168",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

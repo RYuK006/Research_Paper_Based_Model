@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0212339",
+  "title": "Chain connectivity and conformational variability of polymers: Clues to an adequate thermodynamic description of their solutions I: Dilute solutions",
+  "abstract": "This is the first of two parts investigating the Flory-Huggins interaction parameter chi as a function of composition and chain length. Part I encompasses experimental and theoretical work. The former comprises the synthesis of poly(dimethylsiloxane)s with different molar mass and the measurements of their second osmotic virial coefficients in solvents of diverse quality as a function of M via light scattering and osmotic pressures. The theoretical analysis is performed by subdividing the dilution process into two clearly separable states. It yields a simple expression for the range of pair interaction containing three parameters. The parameter alpha measures the effect of contact formation between solvent molecules and polymer segments at fixed chain conformation, whereas the parameter zeta quantifies the contributions of the conformational changes taking place in response to dilution; zeta becomes zero for theta conditions. &#61472;The influences of M are exclusively contained in the parameter lambda&#61486;&#61472; The new relation is capable of describing hitherto incomprehensible experimental findings, like a diminution of chi with rising M. The evaluation of experimental information for different systems according to the established equation displays the existence of a linear interrelation between zeta and alpha. Part II of this investigation generalizes the present approach to solutions of arbitrary composition and discusses the physical meaning of the parameters in more detail.",
+  "authors": [
+    "Maria Bercea",
+    "Maria Cazacu",
+    "Bernhard A. Wolf"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0212339.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0212339.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.058180+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0212339",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

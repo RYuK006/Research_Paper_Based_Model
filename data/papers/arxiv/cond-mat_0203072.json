@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0203072",
+  "title": "Analytic Evaluation of Four-Particle Integrals with Complex Parameters",
+  "abstract": "The method for analytic evaluation of four-particle integrals, proposed by Fromm and Hill, is generalized to include complex exponential parameters. An original procedure of numerical branch tracking for multiple valued functions is developed. It allows high precision variational solution of the Coulomb four-body problem in a basis of exponential-trigonometric functions of interparticle separations. Numerical results demonstrate high efficiency and versatility of the new method.",
+  "authors": [
+    "V. S. Zotev",
+    "T. K. Rebane"
+  ],
+  "year": 2002,
+  "doi": "10.1103/PhysRevA.65.062501",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0203072.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0203072.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.138652+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0203072",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

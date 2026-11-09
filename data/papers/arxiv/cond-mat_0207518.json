@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0207518",
+  "title": "Exact results of the one-dimensional tranverse Ising model in an external longitudinal magnetic field",
+  "abstract": "Magnetic properties of the 1D mixed spin-1/2 and spin-S (S >1/2) transverse Ising model in the presence of an external longitudinal magnetic field are calculated exactly by the use of the generalised decoration-iteration mapping transformation. By assuming that only the spin-S atoms do interact with the transverse field the exact results for the Gibbs free energy, longitudinal magnetization, transverse magnetization, entropy and specific heat have been derived and discussed in detail. In addition to the standard temperature variations of the transverse magnetization, another two non-trivial thermal dependences have been found. The results support the concept that the spin reorientation from the longitudinal towards the transverse field direction takes place in the narrow temperature region.",
+  "authors": [
+    "Jozef Strecka",
+    "Hana Cencarikova",
+    "Michal Jascur"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0207518.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0207518.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.632657+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0207518",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0105039",
+  "title": "Modeling collective dislocation dynamics in ice single crystals",
+  "abstract": "We propose a model to study the plasticity of ice single crystals by numerical simulations. The model includes the long-range character of the interaction among dislocations, as well as the possibility of mutual annihilation of these line defects characterized by its Burgers vector. A multiplication mechanism representing the activation of Frank-Read sources due to dislocation pinning is also introduced in the model.   With our approach we are able to probe the dislocation patterns, which result from the dislocation dynamics. Furthermore, our results exhibit features characteristic of driven dynamic critical phenomena such as scaling behavior, and avalanche dynamics. Some of these results account for the experimental findings reported for ice single crystals under creep deformation, like the power-law distributions of the acoustic emission intensity observed sistematically in experiments.",
+  "authors": [
+    "M. -Carmen Miguel",
+    "Alessandro Vespignani",
+    "Stefano Zapperi"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0105039.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0105039.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.477498+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0105039",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0109230",
+  "title": "Spectral properties of underdoped cuprates",
+  "abstract": "In the framework of the planar t-J model for cuprates we analyze the development of a pseudo gap in the density of states, which at low doping starts to emerge for temperatures T<J and persists up to the optimum doping. The analysis is based on numerical results for spectral functions obtained with the finite-temperature Lanczos method for finite two-dimensional clusters. Numerical results are additionally compared with the self consistent Born approximation (SCBA) results for hole-like (photoemission) and electron-like (inverse photoemission) spectra at T=0. The analysis is suggesting that the origin of the pseudo gap is in short-range antiferromagnetic (AFM) spin correlations and strong asymmetry between the hole and electron spectra in the underdoped regime. We analyze also the electron momentum distribution function (EMD). Our analytical results for a single hole in an AFM based on the SCBA indicate an anomalous momentum dependence of EMD showing \"hole pockets\" coexisting with a signature of an emerging large Fermi surface (FS). The position of the incipient FS and the structure of the EMD is determined by the momentum of the ground state. The main observation is the coexistence of two apparently contradicting FS scenarios. On the one hand, the delta-function like contributions at (pi/2,pi/2) indicate, that for finite doping a pocket-like small FS evolves from these points, provided provided that AFM long range order persists. On the other hand, the discontinuity which appears at the same momentum is more consistent with with infinitesimally short arc (point) of an emerging large FS.",
+  "authors": [
+    "A. Ramsak",
+    "P. Prelovsek",
+    "I. Sega"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0109230.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0109230.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.417176+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0109230",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

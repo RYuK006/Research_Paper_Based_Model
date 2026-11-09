@@ -1,0 +1,32 @@
+{
+  "id": "arxiv:cond-mat/0210163",
+  "title": "Noise in the Single Electron Transistor and its back action during measurement",
+  "abstract": "Single electron transistors (SETs) are very sensitive electrometers and they can be used in a range of applications. In this paper we give an introduction to the SET and present a full quantum mechanical calculation of how noise is generated in the SET over the full frequency range, including a new formula for the quantum current noise. The calculation agrees well with the shot noise result in the low frequency limit, and with the Nyquist noise in the high frequency limit. We discuss how the SET and in particular the radio-frequency SET can be used to read out charge based qubits such as the single Cooper pair box. We also discuss the backaction which the SET will have on the qubit. The back action is determined by the spectral power of voltage fluctuations on the SET island. We will mainly treat the normal state SET but many of the results are also valid for superconducting SETs.",
+  "authors": [
+    "G. Johansson",
+    "P. Delsing",
+    "K. Bladh",
+    "D. Gunnarsson",
+    "T. Duty",
+    "A. Käck",
+    "G. Wendin",
+    "A. Aassime"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0210163.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0210163.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.290648+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0210163",
+    "categories": [
+      "cond-mat.mes-hall"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0404627",
+  "title": "A New View on Geometry Optimization: the Quasi-Independent Curvilinear Coordinate Approximation",
+  "abstract": "This article presents a new and efficient alternative to well established algorithms for molecular geometry optimization. The new approach exploits the approximate decoupling of molecular energetics in a curvilinear internal coordinate system, allowing separation of the 3N-dimensional optimization problem into an O(N) set of quasi-independent one-dimensional problems. Each uncoupled optimization is developed by a weighted least squares fit of energy gradients in the internal coordinate system followed by extrapolation. In construction of the weights, only an implicit dependence on topologically connected internal coordinates is present. This new approach is competitive with the best internal coordinate geometry optimization algorithms in the literature and works well for large biological problems with complicated hydrogen bond networks and ligand binding motifs.",
+  "authors": [
+    "Károly Németh",
+    "Matt Challacombe"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0404627.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0404627.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:46.907148+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0404627",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

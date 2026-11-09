@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0105323",
+  "title": "Evidence of Two Distinct Dynamic Critical Exponents in Connection with Vortex Physics",
+  "abstract": "The dynamic critical exponent $z$ is determined from numerical simulations for the three-dimensional (3D) lattice Coulomb gas (LCG) and the 3D XY models with relaxational dynamics. It is suggested that the dynamics is characterized by two distinct dynamic critical indices $z_0$ and $z$ related to the divergence of the relaxation time $τ$ by $τ\\propto ξ^{z_0}$ and $τ\\propto k^{-z}$, where $ξ$ is the correlation length and $k$ the wavevector. The values determined are $z_0\\approx 1.5$ and $z\\approx 1$ for the 3D LCG and $z_0\\approx 1.5$ and $z\\approx 2$ for the 3D XY model. It is argued that the nonlinear $IV$ exponent relates to $z_0$, whereas the usual Hohenberg-Halperin classification relates to $z$. Possible implications for the interpretation of experiments are pointed out. Comparisons with other existing results are discussed.",
+  "authors": [
+    "Petter Minnhagen",
+    "Beom Jun Kim",
+    "Hans Weber"
+  ],
+  "year": 2001,
+  "doi": "10.1103/PhysRevLett.87.037002",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0105323.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0105323.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.562373+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0105323",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

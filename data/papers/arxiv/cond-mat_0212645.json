@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0212645",
+  "title": "Spin-polarized transport through a quantum dot coupled to ferromagnetic leads: Kondo correlation effect",
+  "abstract": "We investigate the linear and nonlinear transport through a single level quantum dot connected to two ferromagnetic leads in Kondo regime, using the slave-boson mean field approach for finite on-site Coulomb repulsion. We find that for antiparallel alignment of the spin orientations in the leads, a single zero-bias Kondo peak always appears in the voltage-dependent differential conductance with peak height going down to zero as the polarization grows to P=1. For parallel configuration, with increasing polarization from zero, the Kondo peak descends and greatly widens by the appearance of shoulders, and finally splits into two peaks on both sides of the bias voltage around $P\\sim 0.7$ until disappears at even larger polarization strength. At any spin orientation angle $θ$, the linear conductance generally drops with growing polarization strength. For a given finite polarization, the minimum linear conductance always appears at $θ=π$.",
+  "authors": [
+    "Jing Ma",
+    "Bing Dong",
+    "X. L. Lei"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0212645.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0212645.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.271034+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0212645",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

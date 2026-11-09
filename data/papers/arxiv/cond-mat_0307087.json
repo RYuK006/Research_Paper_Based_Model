@@ -1,0 +1,38 @@
+{
+  "id": "arxiv:cond-mat/0307087",
+  "title": "Cyclotron Resonance in Ferromagnetic InMnAs/(Al,Ga)Sb Heterostructures",
+  "abstract": "We report the observation of hole cyclotron resonance (CR) in InMnAs/(Al,Ga)Sb heterostructures in a wide temperature range covering both the paramagnetic and ferromagnetic phases. We observed two pronounced resonances that exhibit drastic changes in position, linewidth, and intensity at a temperature higher than the Curie temperature, indicating possible local magnetic ordering or clustering. We attribute the two resonances to the fundamental CR transitions expected for delocalized valence-band holes in the quantum limt. Using an 8-band {\\bf k$\\cdot$p} model, which incorporates ferromagnetism within a mean-field approximation, we show that the temperature-dependent CR peak shift is a direct measure of the carrier-Mn exchange interaction. Significant line narrowing was observed at low temperatures, which we interpret as the suppression of localized spin fluctuations.",
+  "authors": [
+    "G. A. Khodaparast",
+    "J. Kono",
+    "Y. H. Matsuda",
+    "S. Ikeda",
+    "N. Miura",
+    "T. Slupinski",
+    "A. Oiwa",
+    "H. Munekata",
+    "Y. Sun",
+    "F. V. Kyrychenko",
+    "G. D. Sanders",
+    "C. J. Stanton"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0307087.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0307087.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.194965+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0307087",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

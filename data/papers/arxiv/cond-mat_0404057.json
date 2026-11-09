@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0404057",
+  "title": "Fragmentation of a circular disc by projectiles",
+  "abstract": "The fragmentation of a two-dimensional circular disc by lateral impact is investigated using a cell model of brittle solid. The disc is composed of numerous unbreakable randomly shaped convex polygons connected together by simple elastic beams that break when bent or stretched beyond a certain limit. We found that the fragment mass distribution follows a power law with an exponent close to 2 independent of the system size. We also observed two types of crack patterns: radial cracks starting from the impact point and cracks perpendicular to the radial ones. Simulations revealed that there exists a critical projectile energy, above which the target breaks into numerous smaller pieces, and below which it suffers only damage in the form of cracks. Our theoretical results are in a reasonable agreement with recent experimental findings on the fragmentation of discs.",
+  "authors": [
+    "Bhupalendra Behera",
+    "Ferenc Kun",
+    "Sean McNamara",
+    "Hans J. Herrmann"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.dis-nn",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0404057.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0404057.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:46.594620+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0404057",
+    "categories": [
+      "cond-mat.dis-nn",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

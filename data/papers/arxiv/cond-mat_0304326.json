@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0304326",
+  "title": "Correlation matrix for quartet codon usage",
+  "abstract": "It has been argued that the sum of usage probabilities for codons, belonging to quartets, that have as third nucleotide C or A, is independent of the biological species for vertebrates. The comparison between the theoretical correlation matrix derived from these sum rules and the experimentally computed matrix for 26 species shows a satisfactory agreement. The Shannon entropy, weakly depending on the biological species, gives further support. Suppression of codons containing the dinucleotides CG or AU is put in evidence.",
+  "authors": [
+    "L. Frappat",
+    "A. Sciarrino",
+    "P. Sorba"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat",
+    "physics.bio-ph",
+    "q-bio"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0304326.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0304326.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.088651+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0304326",
+    "categories": [
+      "cond-mat",
+      "physics.bio-ph",
+      "q-bio"
+    ]
+  }
+}

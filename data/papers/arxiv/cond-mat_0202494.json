@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0202494",
+  "title": "Electrorotation of colloidal suspensions",
+  "abstract": "When a strong electric field is applied to a colloidal suspension, it may cause an aggregation of the suspended particles in response to the field. In the case of a rotating field, the electrorotation (ER) spectrum can be modified further due to the local field effects arising from the many-particle system. To capture the local field effect, we invoke the Maxwell-Garnett approximation for the dielectric response. The hydrodynamic interactions between the suspended particles can also modify the spin friction, which is a key to determine the angular velocity of ER. By invoking the spectral representation approach, we derive the analytic expressions for the characteristic frequency at which the maximum angular velocity of ER occurs. From the numerical caculation, we find that there exist two sub-dispersions in the ER spectrum. However, the two characteristic frequencies are so close that the two peaks actually overlap and become a single broad peak. We report a detailed investigation of the dependence of the characteristic frequency and the dispersion strength of ER on various material parameters.",
+  "authors": [
+    "J. P. Huang",
+    "K. W. Yu",
+    "G. Q. Gu"
+  ],
+  "year": 2002,
+  "doi": "10.1016/S0375-9601(02)00850-2",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0202494.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0202494.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.098330+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0202494",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

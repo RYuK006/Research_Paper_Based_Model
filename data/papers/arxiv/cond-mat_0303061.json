@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0303061",
+  "title": "Mean-field Monte Carlo Approach to the Dynamics of a One Pattern Model of Associative Memory",
+  "abstract": "We have used a mean-field Monte Carlo method to study the zero-temperature synchronous dynamics of a one-pattern model of associative memory with random asymmetric couplings. In the case of symmetric couplings, we find evidence for a transition from a spin-glass-like phase to a ferromagnet-like phase as the acquisition strength of the stored pattern is increased from zero. In the ferromagnetic phase, we find the existence of two types of phase-space structure for $m > 0$ where $m$ is the overlap of the state of the system with the stored pattern: a simple phase-space structure where all initial states with $m > 0$ flow to the attractor corresponding to the stored pattern; and a complex phase-space structure with many attractors with their basins of attraction. The presence of random asymmetry in the couplings results in better retrieval performance of the network by enhancing the size of the basin of attraction of the stored pattern and by making the recall of memory significantly faster.",
+  "authors": [
+    "Manoranjan P. Singh",
+    "Chandan Dasgupta"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.dis-nn"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0303061.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0303061.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.992777+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0303061",
+    "categories": [
+      "cond-mat.dis-nn"
+    ]
+  }
+}

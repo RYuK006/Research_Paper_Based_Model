@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0303480",
+  "title": "Magnetoresistance of atomic-sized contacts: an ab-initio study",
+  "abstract": "The magnetoresistance (MR) effect in metallic atomic-sized contacts is studied theoretically by means of first-principle electronic structure calculations. We consider three-atom chains formed from Co, Cu, Si, and Al atoms suspended between semi-infinite Co leads. We employ the screened Korringa-Kohn-Rostoker Green's function method for the electronic structure calculation and evaluate the conductance in the ballistic limit using the Landauer approach. The conductance through the constrictions reflects the spin-splitting of the Co bands and causes high MR ratios, up to 50%. The influence of the structural changes on the conductance is studied by considering different geometrical arrangements of atoms forming the chains. Our results show that the conductance through s-like states is robust against geometrical changes, whereas the transmission is strongly influenced by the atomic arrangement if p or d states contribute to the current.",
+  "authors": [
+    "Alexei Bagrets",
+    "Nikos Papanikolaou",
+    "Ingrid Mertig"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevB.70.064410",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0303480.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0303480.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:43.853306+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0303480",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.mes-hall"
+    ]
+  }
+}

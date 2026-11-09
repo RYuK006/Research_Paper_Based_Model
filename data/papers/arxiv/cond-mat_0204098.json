@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0204098",
+  "title": "Low-temperature Metastability of Ising Models: Prefactors, Divergences, and Discontinuities",
+  "abstract": "The metastable lifetime of the square-lattice and simple-cubic-lattice kinetic Ising models are studied in the low-temperature limit. The simulations are performed using Monte Carlo with Absorbing Markov Chain algorithms to simulate extremely long low-temperature lifetimes. The question being addressed is at what temperatures the mathematically rigorous low-temperature results become valid. It is shown that the answer depends partly on how close the system is to fields at which the prefactor for the metastable decay either has a discontinuity or diverges.",
+  "authors": [
+    "Mark A. Novotny"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.mtrl-sci",
+    "cond-mat.soft"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0204098.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0204098.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.399957+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0204098",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.mtrl-sci",
+      "cond-mat.soft"
+    ]
+  }
+}

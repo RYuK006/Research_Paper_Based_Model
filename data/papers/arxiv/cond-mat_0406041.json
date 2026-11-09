@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0406041",
+  "title": "Asymmetry of the electronic states in hole- and electron-doped cuprates: Exact diagonalization study of the t-t'-t''-J model",
+  "abstract": "We systematically examine the asymmetry of the electronic states in the hole- and electron-doped cuprates by using the t-t'-t''-J model. Numerically exact diagonalization method is employed for a 20-site square lattice. We impose twisted boundary conditions (BC) instead of standard periodic BC. For static and dynamical correlation functions, averaging procedure over the twisted BC is used to reduce the finite-size effect. We find that antiferromagnetic spin correlation remains strong in electron doping in contrast to the case of hole doping, being similar to the case of the periodic BC. This leads to a remarkable electron-hole asymmetry in the dynamical spin structure factor and two-magnon Raman scattering. By changing the twist, the single-particle spectral function is obtained for all momenta in the Brillouin zone. Examining the spectral function in detail, we find a gap opening at around the k=(pi,0) region for 10% doping of holes (the carrier concentration x=0.1), leading to a Fermi arc that is consistent with experiments. In electron doping, however, a gap opens at around k=(pi/2,pi/2) and persists up to x=0.2, being correlated with the strength of the antiferromagnetic correlation. We find that the magnitude of the gaps is sensitive to t' and t''. A pseudogap is also seen in the optical conductivity for electron doping, and its magnitude is found to be the same as that in the spectral function. We compare calculated quantities with corresponding experimental data, and discuss similarities and differences between them as well as their implications.",
+  "authors": [
+    "T. Tohyama"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevB.70.174517",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0406041.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0406041.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.337960+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0406041",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ]
+  }
+}

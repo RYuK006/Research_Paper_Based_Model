@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0303022",
+  "title": "Systematics in the superconducting and normal state properties in chemically substituted MgB$_{2}$",
+  "abstract": "The superconducting transition temperature, T$_{C}$, the residual resistivity $ρ_{0}$ and the slope of resistivity curve at high temperature, d$ρ$/dT, have been measured in a series of MgB$_{2}$ samples that have been chemically substituted to varying degree with Li or Cu at the Mg-site and by Li or Cu at the Mg-site along with C substitution at the B-site. DC resistivity and ac susceptibility measurements were employed to extract the above parameters. T$_{C}$ versus the electron count (estimated from simple chemical valence count arguments) shows a universal behaviour, with T$_{C}$ being constant at the MgB$_{2}$ value for electron counts lower than in MgB$_{2}$ but rapidly decreasing for larger electron counts. The temperature dependence of resistivity in the normal state fits to the Bloch- Gruneisen formula, from which the Debye temperature, $θ_{D}$, and the $ρ_{0}$ are extracted. $θ_{D}$ variation with T$_{C}$ is not systematic, whereas $ρ_{0}$ versus T$_{C}$ shows a systematic variation that depends on the type of the chemical substituent. This dependence has a signature of the nature of the intraband/interband scattering affected by the chemical substitutions. d$ρ$/dT increases with C substitution, but decreases with Li and Cu substitution, implying that C substitution leads to the domination of conductivity by the $σ$ band, while in the Li/Cu substituted samples the $π$ band dominates conduction.",
+  "authors": [
+    "S. Jemima Balaselvi",
+    "A. Bharathi",
+    "V. Sankara Sastry",
+    "G. L. N. Reddy",
+    "Y. Hariharan"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0303022.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0303022.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.972208+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0303022",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

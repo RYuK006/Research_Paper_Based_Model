@@ -1,0 +1,32 @@
+{
+  "id": "arxiv:cond-mat/0211456",
+  "title": "BCS and BEC Finally Unified: A Brief Review",
+  "abstract": "We review efforts to unify both the Bardeen, Cooper and Schrieffer (BCS) and Bose-Einstein condensation (BEC) pictures of superconductivity. We have finally achieved this in terms of a \"\\textit{complete} boson-fermion (BF) model\" (CBFM) that reduces in special cases to all the main continuum (as opposed to \"spin\") statistical theories of superconductivity. Our BF model is \"complete\" in the sense that not only two-electron (2e) but also two-hole (2h) Cooper pairs (CPs) are allowed in arbitrary proportions. In contrast, BCS-Bogoliubov theory--which can also be considered as the theory of a mixture of kinematically independent electrons, 2e- and 2h-CPs--allows only equal, 50%-50%, mixtures of the two kinds of CPs. This is obvious from the perfect symmetry about $μ$, the electron chemical potential, of the well-known Bogoliubov $v^{2}(ε)$ and $u^{2}(ε)$ coefficients, where $ε$ is the electron energy. The CBFM is then applied to see: a) whether the BCS model interaction for the electron-phonon dynamical mechanism is sufficient to predict the unusually high values of $T_{c}$ (in units of the Fermi temperature) of $\\simeq 0.01-0.1$ exhibited by the so-called ``exotic'' superconductors \\cite{Brandow} in both 2D and 3D--relative to the low values of $\\lesssim 10^{-3}$ more or less correctly predicted by BCS theory for conventional, elemental superconductors; and b) whether it can at least suggest, if not explain, why \"hole superconductors\" have higher $T_{c}$'s.",
+  "authors": [
+    "J. Batle",
+    "M. Casas",
+    "M. Fortes",
+    "M. de Llano",
+    "O. Rojo",
+    "F. J. Sevilla",
+    "M. A. Solis",
+    "V. V. Tolmachev"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0211456.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0211456.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.762679+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0211456",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

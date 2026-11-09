@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0401073",
+  "title": "An Overview of Multiscale Simulations of Materials",
+  "abstract": "Multiscale modeling of material properties has emerged as one of the grand challenges in material science and engineering. We provide a comprehensive, though not exhaustive, overview of the current status of multiscale simulations of materials. We categorize the different approaches in the spatial regime into sequential and concurrent, and we discuss in some detail representative methods in each category. We classify the multiscale modeling approaches that deal with the temporal scale into three different categories, and we discuss representative methods pertaining to the each of these categories. Finally, we offer some views on the strength and weakness of the multiscale approaches that are discussed, and touch upon some of the challenging multiscale modeling problems that need to be addressed in the future.",
+  "authors": [
+    "Gang Lu",
+    "Efthimios Kaxiras"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0401073.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0401073.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.899581+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0401073",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0401002",
+  "title": "Weakly interacting Bose gas in the vicinity of the critical point",
+  "abstract": "We consider a three-dimensional weakly interacting Bose gas in the fluctuation region (and its vicinity) of the normal-superfluid phase transition point. We establish relations between basic thermodynamic functions: density, $n(T,μ)$, superfluid density $n_s(T,μ)$, and condensate density, $n_{\\rm cnd} (T,μ)$. Being universal for all weakly interacting $|ψ|^4$ systems, these relations are obtained from Monte Carlo simulations of the classical $|ψ|^4$ model on a lattice. Comparing with the mean-field results yields a quantitative estimate of the fluctuation region size. Away from the fluctuation region, on the superfluid side, all the data perfectly agree with the predictions of the quasicondensate mean field theory.--This demonstrates that the only effect of the leading above-the-mean-field corrections in the condensate based treatments is to replace the condensate density with the quasicondensate one in all local thermodynamic relations. Surprisingly, we find that a significant fraction of the density profile of a loosely trapped atomic gas might correspond to the fluctuation region.",
+  "authors": [
+    "Nikolay Prokof'ev",
+    "Oliver Ruebenacker",
+    "Boris Svistunov"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0401002.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0401002.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.853395+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0401002",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

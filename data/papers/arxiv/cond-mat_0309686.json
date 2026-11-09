@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0309686",
+  "title": "Anomalous temperature-dependent transport in YbNi2B2C and its correlation to microstructural features",
+  "abstract": "We address the nature of the ligandal disorder leading to local redistributions of Kondo temperatures, manifested as annealing-induced changes in the transport behavior of the heavy fermion system YbNi2B2C. The anomalous transport behavior was fully characterized by temperature dependent resistivity measurements in an extended range of 0.4 < T < 1000 K for as-grown and optimally annealed single crystals, and microstructural changes between these two types of samples were investigated by single-crystal x-ray diffraction and transmission electron microscopy. Our results point to lattice dislocations as the most likely candidate to be affecting the surrounding Yb ions, leading to a distribution of Kondo temperatures. This effect combined with the ability to control defect density with annealing offers the possibility of further understanding of the more general problem of the enhanced sensitivity of hybridized Kondo states to disorder, particularly above the coherence temperature.",
+  "authors": [
+    "M. A. Avila",
+    "Y. Q. Wu",
+    "C. L. Condron",
+    "S. L. Bud'ko",
+    "M. Kramer",
+    "G. J. Miller",
+    "P. C. Canfield"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevB.69.205107",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0309686.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0309686.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:46.266173+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0309686",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

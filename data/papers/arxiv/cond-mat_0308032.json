@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0308032",
+  "title": "Effective nonlinear optical properties of composite media of graded spherical particles",
+  "abstract": "We have developed a nonlinear differential effective dipole approximation (NDEDA), in an attempt to investigate the effective linear and third-order nonlinear susceptibility of composite media in which graded spherical inclusions with weak nonlinearity are randomly embedded in a linear host medium. Alternatively, based on a first-principles approach, we derived exactly the linear local field inside the graded particles having power-law dielectric gradation profiles. As a result, we obtain also the effective linear dielectric constant and third-order nonlinear susceptibility. Excellent agreement between the two methods is numerically demonstrated. As an application, we apply the NDEDA to investigate the surface plasma resonant effect on the optical absorption, optical nonlinearity enhancement, and figure of merit of metal-dielectric composites. It is found that the presence of gradation in metal particles yields a broad resonant band in the optical region, and further enhances the figure of merit.",
+  "authors": [
+    "L. Gao",
+    "J. P. Huang",
+    "K. W. Yu"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevB.69.075105",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "physics.optics"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0308032.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0308032.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.536625+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0308032",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "physics.optics"
+    ]
+  }
+}

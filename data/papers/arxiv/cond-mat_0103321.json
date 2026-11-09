@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0103321",
+  "title": "Phase Transition Of The Spin-One Square-Lattice Anisotropic Heisenberg Model",
+  "abstract": "The coupled cluster method (CCM) is applied to the spin-one anisotropic Heisenberg antiferromagnet (HAF) on the square lattice at zero temperature using a new high-order CCM ground-state formalism for general quantum spin number ($s \\ge 1/2$). The results presented constitute the first such application of this new formalism, and they are shown to be among the most accurate results for the ground-state energy and sublattice magnetisation of this model as yet determined. We ``track'' the solution to the CCM equations at a given level of approximation with respect to the anisotropy parameter, $Δ$, from the trivial Ising limit ($Δ\\to \\infty$) down to a critical value $Δ_c$, at which point this solution terminates. This behaviour is associated with a phase transition in the system, and hence a primary result of these high-order CCM calculations is that they provide an accurate and unbiased (i.e., {\\it ab initio}) estimation of the position of the quantum phase transition point as a function of the anisotropy parameter. Our result is, namely, that this point occurs at (or slightly below) the isotropic Heisenberg point at $Δ=1$, for this model.",
+  "authors": [
+    "D. J. J. Farnell",
+    "K. A. Gernoth",
+    "R. F. Bishop"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0103321.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0103321.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.065240+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0103321",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

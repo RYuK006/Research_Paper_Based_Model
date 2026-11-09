@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0406664",
+  "title": "Constructing the Critical Curve for a Symmetric Two-Layer Ising Model",
+  "abstract": "A numerical method based on the transfer matrix method is developed to calculate the critical temperature of two-layer Ising ferromagnet with a weak inter-layer coupling. The reduced internal energy per site has been accurately calculated for symmetric ferromagnetic case, with the nearest neighbor coupling K1 = K2 = K (where K1 and K2 are the nearest neighbor interaction in the first and second layers, respectively) with inter layer coupling J. The critical temperature as a function of the inter-layer coupling J/K << 1, is obtained for very weak inter-layer interactions,J/K < 0.1 . Also a different function is given for the case of the strong inter-layer interactions (J/K > 1). The importance of these relations is due to the fact that there is no well tabulated data for the critical points versus J/K. We find the value of the shift exponent Phi = Gama is 1.74 for the system with the same intra-layer interaction and 0.5 for the system with different intra-layer interactions.",
+  "authors": [
+    "M. Ghaemi",
+    "B. Mirza",
+    "G. A. Parsafar"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0406664.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0406664.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.659638+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0406664",
+    "categories": [
+      "cond-mat.stat-mech"
+    ]
+  }
+}

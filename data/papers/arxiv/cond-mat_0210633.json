@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0210633",
+  "title": "Bouchaud's model exhibits two different aging regimes in dimension one",
+  "abstract": "Let E_i be a collection of i.i.d. exponential random variables. Bouchaud's model on Z is a Markov chain X(t) whose transition rates are given by w_{ij}=ν\\exp(-β((1-a)E_i-aE_j)) if i, j are neighbors in Z. We study the behavior of two correlation functions: P[X(t_w+t)=X(t_w)] and P[X(t')=X(t_w) \\forall t'\\in[t_w,t_w+t]]. We prove the (sub)aging behavior of these functions when β>1 and a\\in[0,1].",
+  "authors": [
+    "Gerard Ben Arous",
+    "Jiri Cerny"
+  ],
+  "year": 2005,
+  "doi": "10.1214/105051605000000124",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat",
+    "math.PR"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0210633.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0210633.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.516043+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0210633",
+    "categories": [
+      "cond-mat",
+      "math.PR"
+    ]
+  }
+}

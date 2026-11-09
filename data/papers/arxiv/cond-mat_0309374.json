@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0309374",
+  "title": "Ultracold fermions and the SU(N) Hubbard model",
+  "abstract": "We investigate the fermionic SU(N) Hubbard model on the two-dimensional square lattice for weak to moderate interaction strengths using one-loop renormalization group and mean-field methods. For the repulsive case U>0 at half filling and small N the dominant tendency is towards breaking of the SU(N) symmetry. For N>6 staggered flux order takes over as the dominant instability, in agreement with the large-N limit. Away from half filling for N=3 the system rearranges the particle densities such that two flavors remain half filled by cannibalizing the third flavor. In the attractive case and odd N a full Fermi surface coexists with a superconductor in the ground state. These results may be relevant to future experiments with cold fermionic atoms in optical lattices.",
+  "authors": [
+    "Carsten Honerkamp",
+    "Walter Hofstetter"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevLett.92.170403",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0309374.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0309374.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:46.044406+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0309374",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ]
+  }
+}

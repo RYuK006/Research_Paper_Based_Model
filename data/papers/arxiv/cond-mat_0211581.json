@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0211581",
+  "title": "Surface properties of epitaxially grown crystals",
+  "abstract": "We present models of surfaces of crystals in an environment where molecular beam epitaxy (MBE) and related methods of crystal growth like atomic layer epitaxy (ALE) can be performed. Besides detailed models of reconstructed (001) surfaces of II-VI semiconductors like CdTe and ZnSe, we study generic models to adress fundamental properties of epitaxial growth like kinetic roughening and the coarsening of mounds.   A lattice gas model of flat (001) surfaces of CdTe and ZnSe in thermal equilibrium suggest an interpretation of the transition between a c(2x2) reconstruction at low temperature and a (2x1) reconstruction at high temperature as an encompanying effect of an order-disorder phase transition. We extend this lattice gas model to models of three-dimensional crystals. Using one of these models, we have performed the (to the best of our knowledge) first simulations of ALE.   We apply the WTMM method to investigate the scaling properties of kinetically rough surfaces obtained by the simulation of MBE growth on the surface of a simple cubic crystal. Our results support a generalization of Family-Vicsek scaling. We show, that this is the most general scaling behaviour if dynamic scale invariance is fulfilled and a correlation length is the only relevant lengthscale of the surface.   Finally, we consider the coarsening of mounds on surfaces of crystals having different lattice structures. We find, contrary to the results of a continuum theory of Siegert et. al. and Golubovic et. al., that the dynamic exponents are independent of the surface symmetry.",
+  "authors": [
+    "Martin Ahr"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0211581.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0211581.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.827301+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0211581",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

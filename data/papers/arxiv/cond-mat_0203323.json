@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0203323",
+  "title": "ab-plane tunneling and Andreev spectroscopy of superconducting gap and pseudogap in (Bi,Pb)2Sr2Ca2Cu3O10 and Bi2Sr2CaCu2O8",
+  "abstract": "We have measured the temperature dependence of gap features revealed by Andreev reflection Delta_s and by tunneling Delta in the ab-plane of optimal and slightly overdoped microcrystals of (BiPb)2Sr2Ca2Cu3O10 (Bi2223) with critical temperature Tc=110-115 K, and Bi2Sr2CaCu2O8 (Bi2212) with Tc=80-84 K. The tunneling conductance of Bi2223-Insulator-Bi2223 junction shows peaks at the 2Delta gap voltage, as well as dips and broad humps at other voltages. In Bi2223, similarly to the well known Bi2212 spectra, the energies corresponding to 2Delta, to the dip, and to the hump structure are in the ratio of 2:3:4. This confirms that the dip and hump features are generic to the high temperature superconductors, irrespective of the number of CuO2 layers or the BiO superstructure. On the other hand, in both compounds Delta(T) and Delta_s(T) dependences are completely different, and we conclude that the two entities have different nature.",
+  "authors": [
+    "A. I. D'yachenko",
+    "V. Yu. Tarenkov",
+    "R. Szymczak",
+    "H. Szymczak",
+    "A. V. Abal'oshev",
+    "S. J. Lewandowski",
+    "L. Leonyuk"
+  ],
+  "year": 2002,
+  "doi": "10.1063/1.1542408",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0203323.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0203323.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.225649+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0203323",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

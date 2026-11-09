@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0210425",
+  "title": "Sharing data between facilities: using the NeXus time-of-flight powder diffractometer file format",
+  "abstract": "NeXus is an international standard data format intended to reduce the need for redundant software development efforts in the neutron and x-ray scattering communities. As the NeXus standard matures it is starting to be used at laboratories for storing raw data. The Manuel Lujan Jr. Neutron Scattering Center (MLNSC) at Los Alamos National Laboratory and the Intense Pulsed Neutron Source (IPNS) at Argonne National Laboratory have been working with NeXus in an effort to share data and software. MLNSC is now writing files compliant with NeXus and the Integrated Spectral Analysis Workbench (ISAW) software from IPNS is being used with this data. Problems can arise if the standard is interpreted in different ways and information that belongs in the file is not accounted for in the standard. This paper will discuss an inter-laboratory collaboration in relation to a maturing data standard.",
+  "authors": [
+    "P. F. Peterson",
+    "Th. Proffen",
+    "R. L. Mikkelson",
+    "T. Kozlowski",
+    "D. J. Mikkelson",
+    "G. Cooper",
+    "T. G. Worlton"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0210425.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0210425.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.404724+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0210425",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

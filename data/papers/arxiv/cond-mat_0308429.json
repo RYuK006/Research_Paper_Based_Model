@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0308429",
+  "title": "Application of Bryan's algorithm to the mobility spectrum analysis of semiconductor devices",
+  "abstract": "A powerful method for mobility spectrum analysis is presented, based on Bryan's maximum entropy algorithm. The Bayesian analysis central to Bryan's algorithm ensures that we avoid overfitting of data, resulting in a physically reasonable solution. The algorithm is fast, and allows the analysis of large quantities of data, removing the bias of data selection inherent in all previous techniques. Existing mobility spectrum analysis systems are reviewed, and the performance of the Bryan's Algorithm Mobility Spectrum (BAMS) approach is demonstrated using synthetic data sets. Analysis of experimental data is briefly discussed. We find that BAMS performs well compared to existing mobility spectrum methods.",
+  "authors": [
+    "D. Chrastina",
+    "J. P. Hague",
+    "D. R. Leadley"
+  ],
+  "year": 2003,
+  "doi": "10.1063/1.1621719",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0308429.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0308429.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.710877+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0308429",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

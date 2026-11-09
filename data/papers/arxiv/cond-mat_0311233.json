@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0311233",
+  "title": "Kinetic Theory and Hydrodynamics of Dense, Reacting Fluids far from Equilibrium",
+  "abstract": "The kinetic theory for a fluid of hard spheres which undergo endothermic and/or exothermic reactions with mass transfer is developed. The exact balance equations for concentration, density, velocity and temperature are derived. The Enskog approximation is discussed and used as the basis for the derivation, via the Chapman-Enskog procedure, of the Navier-Stokes-reaction equations under various assumptions about the speed of the chemical reactions. It is shown that the phenomenological description consisting of a reaction-diffusion equation with a convective coupling to the Navier-Stokes equations is of limited applicability.",
+  "authors": [
+    "James F. Lutsko"
+  ],
+  "year": 2003,
+  "doi": "10.1063/1.1648012",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.soft"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0311233.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0311233.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.189697+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0311233",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.soft"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0310486",
+  "title": "Field Theory of Polymers: Escaping the Sign Problem",
+  "abstract": "We examine statistical field theories of polymeric fluids in view of performing numerical simulations. The partition function of these systems can be expressed as a functional integral over real density fields. The introduction of density field variables serves to decouple interactions among non-bonded monomers, and renders the resulting effective Hamiltonian H for the field theory real and the Boltzmann factor $\\exp (-H)$ positive definite. This is in contrast with conventional (Edwards) field-theories expressed in terms of chemical potentials that have complex H. The density field theory involves the calculation of an intermediate functional integral, which provides the entropy of the polymer fluid at a fixed density profile. This functional integral is positive definite and we show that in the thermodynamic limit of large systems, it is dominated by saddle points of the integrand. This procedure side-steps the \"sign problem\" in the chemical potential field formulation. The formalism is illustrated in the context of models of flexible polymers. We discuss the implications for field-theoretic computer simulations of polymeric fluids.",
+  "authors": [
+    "Glenn H. Fredrickson",
+    "Henri Orland"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.soft"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0310486.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0310486.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:14.930605+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0310486",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.soft"
+    ]
+  }
+}

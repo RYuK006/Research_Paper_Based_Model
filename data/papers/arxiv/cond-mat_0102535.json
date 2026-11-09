@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0102535",
+  "title": "Formal Considerations about Fracture: Nucleation and Growth",
+  "abstract": "In this paper, we'll answer several abstract, formal questions about the nature of crack growth and nucleation. Bringing a field theory point of view to fracture illuminates things in what I hope will be an entertaining way.   Formally, what is the crack nucleation rate? Fracture is an instability of elastic theory under tension. For thermally nucleated cracks, there is an analogy with supercooled liquids. Here the crack nucleation rate can be thought of as an imaginary part of the free energy - giving the decay rate of the metastable, stretched material. As an amusing consequence, we can formally calculate the asymptotic form for the high-order nonlinear elastic coefficients, and explicitly show that elastic theory has zero radius of convergence.   Formally, can we derive the the crack growth laws from symmetry? We can describe mixed-mode three-dimensional fracture as a moving curve in space, decorated with a description of the local crack plane, and driven by the stress intensity factors along the crack. Imposing the symmetries gives us the form of the crack growth laws in two dimensions, explaining the (well-known) fact that cracks under shear (mode II) abruptly turn until the stress becomes purely extensional (mode I). The form of the crack growth law in three dimensions will be derived, and linear stability analysis for mixed-mode fracture will be briefly summarized, with connection to factory-roof morphologies.",
+  "authors": [
+    "James P. Sethna"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0102535.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0102535.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:04.914569+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0102535",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

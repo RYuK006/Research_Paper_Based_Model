@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0302526",
+  "title": "Magnon Specific Heat of Single Crystal Borocarbides RNi2B2C (R=Tm, Er, Ho, Dy, Tb, Gd)",
+  "abstract": "Zero-field specific heat of the single crystals RNi2B2C (R= Er, Ho, Dy, Tb, Gd) was measured within the temperature range 0.1 K<T<25 K. Linearized spin wave analysis was successfully applied to account for and to rationalize the thermal evolution of the low--temperature magnetic specific heats of all the studied compounds (as well as the one reported for TmNi2B2C) in terms of only two parameters, namely an energy gap, delta, and a characteristic temperature, theta. The evolution of the gap and theta across the studied compounds correlates very well with the known magnetic properties. Theta, as a measure of the effective RKKY exchange couplings, scales reasonably well with the de Gennes factor. The gap, on the other hand, reflects predominately the anisotropic properties: ~2 K for GdNi2B2C, ~6 K for ErNi2B2C, ~7 K for TbNi2B2C, and ~8 K for each of HoNi2B2C and DyNi2B2C. The equality in the gap of HoNi2B2C and DyNi2B2C, coupled with the similarity in their magnetic configurations, indicates that a variation of x in the solid solution HoxDy1-xNi2B2C (x<0.8 and Tc<Tn) would not lead to any softening of the gap. This supports the hypothesis of Cho et al (PRL 77,163(1996)) concerning the influence of the collective magnetic excitations on the superconducting state. This work underlines the importance of spin-wave excitations for a valid description of low-temperature thermodynamics of borocarbides.",
+  "authors": [
+    "M. El Massalami",
+    "R. E. Rapp",
+    "F. A. B. Chaves",
+    "H. Takeya",
+    "C. M. Chaves"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0302526.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0302526.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.921642+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0302526",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.supr-con"
+    ]
+  }
+}

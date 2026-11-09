@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0403635",
+  "title": "Low-energy properties of aperiodic quantum spin chains",
+  "abstract": "We investigate the low-energy properties of antiferromagnetic quantum XXZ spin chains with couplings following two-letter aperiodic sequences, by an adaptation of the Ma-Dasgupta-Hu renormalization-group method. For a given aperiodic sequence, we argue that in the easy-plane anisotropy regime, intermediate between the XX and Heisenberg limits, the general scaling form of the thermodynamic properties is essentially given by the exactly known XX behavior, providing a classification of the effects of aperiodicity on XXZ chains. As representative illustrations, we present analytical and numerical results for the low-temperature thermodynamics and the ground-state correlations for couplings following the Fibonacci quasiperiodic structure and a binary Rudin-Shapiro sequence, whose geometrical fluctuations are similar to those induced by randomness.",
+  "authors": [
+    "André P. Vieira"
+  ],
+  "year": 2005,
+  "doi": "10.1103/PhysRevLett.94.077201",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0403635.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0403635.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.831092+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0403635",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

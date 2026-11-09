@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0204311",
+  "title": "The \"W=0\" Pairing Mechanism from Repulsive Interactions in Symmetric 2d Models",
+  "abstract": "In two-dimensional systems possessing a high degree of symmetry, the repulsive electron-electron interaction produces a pairing force; the mechanism would fail in the presence of strong distortions. We have studied this in the one-band and three-band Hubbard Model. From partially occupied orbitals one obtains pair eigenstates of the Hamiltonian with no on-site repulsion (the W=0 pairs). The concept of W=0 pairs allows to make qualitative and quantitative predictions about the behaviour of interacting many-body systems, a quite remarkable and unusual situation. Exact numerical solutions for clusters with ``magic'' hole numbers reveal attraction between the holes in W=0 pairs. The effect occurs in all fully symmetric clusters which are centered on a Cu site; then holes get paired in a wide, physically relevant parameter range and show superconducting quantization of the magnetic flux. A canonical transformation of the Hamiltonian, valid for clusters and for the full plane, leads to a Cooper-like equation for the W=0 pairs. We have evaluated the effective interaction and found that W=0 pairs are the bare quasiparticles which, once dressed, become two-hole bound states. We applied the above theory to the doped antiferromagnet, and found that the ground state at half filling is the singlet component of a determinantal state. We write down this determinant and the ground state wave function explicitly in terms of a many-body W=0 eigenstate. Our analytical results for the $4\\times 4$ square lattice at half filling and with doped holes, compared to available numerical data, demonstrate that the method, besides providing intuitive grasp on pairing, also has quantitative predictive power.",
+  "authors": [
+    "Michele Cini",
+    "Gianluca Stefanucci"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0204311.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0204311.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.486324+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0204311",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

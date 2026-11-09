@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0312697",
+  "title": "Scaling behavior in the optical conductivity of the two dimensional systems of strongly correlated electrons based on the U(1) slave-boson approach to the t-J Hamiltonian",
+  "abstract": "The U(1) holon-pair boson theory of Lee and Salk(Phys. Rev. B 64, 052501 (2001)) is applied to investigate the quantum scaling behavior of optical conductivity in the two dimensional systems of strongly correlated electrons. We examine the role of both the gauge field fluctuations and spin pair excitations on the w/T scaling behavior of the optical conductivity. It is shown that the gauge field fluctuations but not the spin pair excitations are responsible for the scaling behavior in the low frequency region w/T <<1. Importance for the contribution of the nodal spinons to the Drude peak is discussed. It is shown that the w/T scaling behavior is manifest in the low frequency region at low hole concentrations close to a critical concentration at which superconductivity arises at T=0K.",
+  "authors": [
+    "Jae-Hyeon Eom",
+    "Sung-Sik Lee",
+    "Ki-Seok Kim",
+    "Sung-Ho Suck Salk"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0312697.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0312697.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.835611+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0312697",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

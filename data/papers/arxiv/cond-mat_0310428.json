@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0310428",
+  "title": "Anomalous Threshold Laws in Quantum Sticking",
+  "abstract": "It has been stated that for a short-ranged surface interaction, the probability of a low-energy particle sticking to a surface always vanishes as $s\\sim k$ with $k\\to 0$ where $k=\\sqrt{E}$. Deviations from this so-called universal threshold law are derived using a linear model of particle-surface scattering. The Fredholm theory of integral equations is used to find the global conditions necessary for a convergent solution. The exceptional case of a zero-energy resonance is considered in detail. Anomalous threshold laws, where $s\\sim k^{1+α}, α> 0$ as $k\\to 0$, are shown to arise from a soft gap in the weighted density of states of excitations; $α$ is determined by the behavior of the weighted density of states near the binding energy.",
+  "authors": [
+    "Dennis P. Clougherty"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevLett.91.226105",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat",
+    "physics.atom-ph",
+    "quant-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0310428.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0310428.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:14.872997+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0310428",
+    "categories": [
+      "cond-mat",
+      "physics.atom-ph",
+      "quant-ph"
+    ]
+  }
+}

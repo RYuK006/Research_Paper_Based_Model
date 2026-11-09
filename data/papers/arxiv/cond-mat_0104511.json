@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0104511",
+  "title": "Doping dependence of the electrical and thermal transport properties of CaB6",
+  "abstract": "The thermoelectric power S and the thermal conductivity k of stoichiometric and vacancy-doped CaB6 have been measured between 5 and 300 K. The thermopower of both materials is surprisingly large at room temperature. Across the whole covered temperature range, S is negative and the temperature dependence is most likely dictated by band-structure effects. The empirical interpretation of our data involves a calculation of the thermoelectric power by using the Boltzmann equation in the relaxation-time approximation and the assumption of a defect band in the proximity of the lower edge of the conduction band. Good agreement with our data is found by considering acoustic-phonon and ionized-impurity scattering for the electrons in the conduction band which is well separated from the valence band. The thermal conductivity k(T), predominantly due to phonons, may also be described quite well across the whole covered temperature regime on the basis of a Debye-type relaxation-time approximation and assuming the concurring influence of boundary-, dislocation-, Rayleigh-, and resonant-scattering on the mean free path of the phonons.",
+  "authors": [
+    "K. Gianno'",
+    "A. V. Sologubenko",
+    "H. R. Ott",
+    "A. D. Bianchi",
+    "Z. Fisk"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0104511.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0104511.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.420376+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0104511",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

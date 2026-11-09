@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0206015",
+  "title": "Energy relaxation dynamics and universal scaling laws in organic light emitting diodes",
+  "abstract": "Electron-hole (e-h) capture in luminescent conjugated polymers (LCPs) is modeled by the dissipative dynamics of a multilevel electronic system coupled to a phonon bath. Electroinjected e-h pairs are simulated by a mixed quantum state, which relaxes via phonon-driven internal conversions to low-lying charge-transfer (CT) and excitonic (XT) states. The underlying two-band polymer model reflects PPV and spans monoexcited configuration interaction singlets (S) and triplets (T), coupled to Franck-Condon active C=C stretches and ring-torsions. Focusing entirely upon long PPV chains, we consider the recombination kinetics of an initially separated CT pair. Our model calculations indicated that S and T recombination proceeds according to a branched, two-step mechanism dictated by near e-h symmetry. The initial relaxation occurs rapidly with nearly half of the population going into excitons ($S_{XT}$ or $T_{XT}$), while the remaining portion remains locked in metastable CT states. While formation rates of $S_{CT}$ and $T_{CT}$ are nearly equal, $S_{XT}$ is formed about twice as fast $T_{XT}$ in concurrence with experimental observations of these systems. Furthermore, breaking e-h symmetry suppresses the XT to CT branching ratio for triplets and opens a slow CT$\\to$ XT conversion channel exclusively for singlets due to dipole-dipole interactions between geminate and non-geminate configurations. Finally, our calculations yield a remarkable linear relation between chain length and singlet/triplet branching ratio which can be explained in terms of the binding energies of the respective final excitonic states and the scaling of singlet-triplet energy gap with chain length.",
+  "authors": [
+    "S. Karabunarliev",
+    "Eric R. Bittner"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0206015.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0206015.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.096718+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0206015",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

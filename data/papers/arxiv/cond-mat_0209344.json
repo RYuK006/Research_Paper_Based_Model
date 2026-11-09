@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0209344",
+  "title": "Coupling time scales for simulation of structure transformation: an attempt to combine molecular dynamics and phase-field theory",
+  "abstract": "A multiscale scheme combining molecular dynamics (MD) and microscopic phase-field theory is proposed to study the structural phase transformations in solids with inhomogeneous strain field. The approach calculates strain response based on MD and atomic diffusion based on the phase field theory. Simulations with the new technique are conducted in two examples. The first involves interface roughening in a Co/Cu thin film, where interfacial undulations due to lattice mismatch is demonstrated. The second example is a study of spinodal decomposition in AgCo/Pt/MgO(001) thin film, where we show that Co atoms are attracted by dislocations in the Pt/MgO interface, producing an interesting nanostructure.",
+  "authors": [
+    "Zhi-Rong Liu",
+    "Huajian Gao"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0209344.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0209344.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.054042+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0209344",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

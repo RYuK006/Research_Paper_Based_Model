@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0212350",
+  "title": "On properties of elementary excitations in fractal media",
+  "abstract": "It is shown that elementary excitations in fractal media obey the so-called parastatistics of a variable order. We show that the order of the parastatistics $N(k) $ is a function of wave numbers $k$ which depends on the fractal dimension $D$ as $N(k) \\sim k^{D-3}$ and represents a specific characteristic of such media. This function $N(k)$ defines properties of the ground state for excitations and the behavior of the spectrum of thermal fluctuations. In particular, in fractal media fluctuations of the density acquire an amplification by the factor $N(ω) \\sim ω^{D-3}$ which can be related to the origin of $1/f$-noise.",
+  "authors": [
+    "A. A. Kirillov"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0212350.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0212350.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.069960+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0212350",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

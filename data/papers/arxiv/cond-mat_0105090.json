@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0105090",
+  "title": "Weak localization and the Mooij rule in disordered metals",
+  "abstract": "Weak localization leads to the same correction to both the conductivity and the McMillan's electron-phonon coupling constant $λ$ (and $λ_{tr}$). Consequently the temperature dependence of the thermal electrical resistivity is decreasing as the conductivity is decreasing due to weak localization, which results in the decrease of the temperature coefficient of resistivity (TCR) with increasing the residual resistivity. When $λ$ and $λ_{tr}$ are approaching zero, only residual resistivity part remains and gives rise to the negative TCR. Accordingly, the Mooij rule is a manifestation of weak localization correction to the conductivity and the electron-phonon interaction. This study may provide a new means of probing the phonon-mechanism in exotic superconductors.",
+  "authors": [
+    "Mi-Ae Park",
+    "Kerim Savran",
+    "Yong-Jihn Kim"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.dis-nn",
+    "cond-mat.mtrl-sci",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0105090.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0105090.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.492274+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0105090",
+    "categories": [
+      "cond-mat.dis-nn",
+      "cond-mat.mtrl-sci",
+      "cond-mat.supr-con"
+    ]
+  }
+}

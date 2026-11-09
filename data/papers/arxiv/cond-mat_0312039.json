@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0312039",
+  "title": "Glassy Dynamics and Aging in Disordered Systems",
+  "abstract": "This lecture deals with glassy dynamics and aging in disordered systems. Special emphasis is put on dynamic mean field theory. In the first part I present some of the systems of interest, in particular spin-glasses, supercooled liquids and glasses, drift, creep and pinning of a particle in a random potential, neural networks, graph partitioning as an example of combinatorial optimisation, the K-sat problem and the minority game as a model for the behaviour of agents on markets. The second part deals with the dynamics of the spherical p-spin-glass with long ranged interactions. This model is a prototype for glassy dynamics. The equations of motion for correlation- and response-functions are derived and solutions above and below the freezing temperature are investigated. At the end I discuss the so called crossover region and aging in glasses. The commonly used mode coupling theory results in equations of motion identical to those of the $p$-spin model above the dynamical transition temperature. The p-spin model is extended introducing the random interactions as slow dynamical variables as well. This takes changes in the configuration of cages into account. This is an activated process. Depending on the waiting time, equilibrium or aging is found.",
+  "authors": [
+    "Heinz Horner"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.dis-nn"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0312039.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0312039.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.455725+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0312039",
+    "categories": [
+      "cond-mat.dis-nn"
+    ]
+  }
+}

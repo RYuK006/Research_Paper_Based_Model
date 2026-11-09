@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0107490",
+  "title": "The Potts frustrated model: relations with glasses",
+  "abstract": "Similarities between fragile glasses and spin glasses (SG) suggest the study of frustrated spin model to understand the complex dynamics of glasses above the glass transition. We consider a frustrated spin model with Ising spins and s-state Potts spins both with and without disorder. We study the two models by Monte Carlo simulations in two dimensions. The Potts spins mimic orientational degrees of freedom and the coupled frustrated Ising spins take into account for frustrating effects like the geometrical hindrance. We show that in this model dynamical transitions and crossovers are related to static transitions. In particular, when disorder is present, as predicted and verified in SG, a dynamical transition between high-temperatures exponential to low-temperatures non-exponential correlation functions numerically coincides with the ordering temperature of the ferromagnetic regions, i.e. the Griffiths temperature $T_c(s)$, while a crossover between power law growth of correlation times to Arrhenius law occurs near a Potts transition at $T_p(s)<T_c(s)$. In the model without disorder, where $T_c(s)$ is not defined, both dynamical transition and crossover occur at $T_p(s)$. Furthermore the static susceptibility and the autocorrelation times of quantities depending on Potts spins diverge at $T_p(s)$. This is reminescent of recent experimental results on glass-forming liquids.",
+  "authors": [
+    "Giancarlo Franzese",
+    "Antonio Coniglio"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.dis-nn"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0107490.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0107490.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.101559+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0107490",
+    "categories": [
+      "cond-mat.dis-nn"
+    ]
+  }
+}

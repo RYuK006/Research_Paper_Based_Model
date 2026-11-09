@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0303441",
+  "title": "Discrete Elastic Model for Two-dimensional Melting",
+  "abstract": "Our previous molecular dynamic simulation studies of simple two-dimensional (2D) systems \\cite{matt_big} suggested that both geometrical defects (localized, large-amplitude deviations from hexagonal ordering) and topological defects (dislocations and disclinations) play a role in 2D melting. To capture the main features of the 2D melting transition and investigate the respective roles of these two classes of defects, we study a discrete elastic model consisting of an array of nodes connected by springs, for which the relative number of geometrical defects (modeled as broken springs) and topological defects (nodes having a coordination number different from 6) may be precisely controlled. We preform Monte Carlo simulations of this model in the isobaric-isothermal ensemble, and present the phase diagram as well as various thermodynamic, statistical and structural quantities as a function of the relative populations of geometrical and topological defects. The model exhibits a rich phase behavior including hexagonal and square crystals, expanded crystal, dodecagonal quasicrystal, and liquid structure. We found that the solid--liquid transition temperature is lowered by a factor 3 to 4, with respect to the case when only topological defects are allowed, when both topological and geometrical defects are permitted, supporting our hypothesis concerning the central role played by the geometrical defects in the melting. The microscopic structure of the dense liquid has been investigated and the results are compared to those from simulations of 2D particle systems.",
+  "authors": [
+    "Yves Lansac",
+    "Matthew A. Glaser",
+    "Noel A. Clark"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.soft"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0303441.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0303441.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:43.840556+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0303441",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.soft"
+    ]
+  }
+}

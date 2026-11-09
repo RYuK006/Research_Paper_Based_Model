@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0301170",
+  "title": "Quasiparticle density of states of d-wave superconductors in a disordered vortex lattice",
+  "abstract": "We calculate the density of states of a disordered inhomogeneous d-wave superconductor in a magnetic field. The field-induced vortices are assumed to be pinned at random positions and the effects of the scattering of the quasi-particles off the vortices are taken into account using the singular gauge transformation of Franz and Tesanovic. We find two regimes for the density of states: at very low energies the density of states follows a law ρ(ε) \\sim ρ_0 + |ε|^α where the exponent is close to 1. A good fit of the density of states is obtained at higher energies, excluding a narrow region around the origin, with a similar power law energy dependence but with αclose to 2. Both at low and at higher energies ρ_0 scales with the inverse of the magnetic length (\\sqrt{B}).",
+  "authors": [
+    "J. Lages",
+    "P. D. Sacramento",
+    "Z. Tesanovic"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0301170.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0301170.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.399653+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0301170",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0112495",
+  "title": "Study of the Ce(Rh$_{1-x}$Pd$_x$)$_2$Si$_2$ alloy: evidence for itinerant character of the magnetic order in CeRh$_2$Si$_2$",
+  "abstract": "We present electrical resistivity and specific heat measurements of alloys on the Rh rich side of the phase diagram of the Ce(Rh$_{1-x}$Pd$_x$)$_2$Si$_2$ system and compare the results with those obtained at intermediate and low Rh concentrations. The analysis of the x-evolution of the entropy and the scaling behaviour of $C_{el}(T)$ and $ρ(T)$ clearly confirm a separation of the magnetic phase diagram into two regions. The region $x\\le0.3$, showing a concentration independent characteristic temperature $T_o\\approx45 {\\rm K}$, while for $x>0.3$ $T_o$ decreases down to $T_o(x=1)\\approx15 {\\rm K}$. This characteristic temperature is obtained by scaling the $C_{el}(T,x>0.3)$ results as a function of the reduced temperature $T/T_o$. At low Pd-content, $T_N$ decreases very rapidly from $T_N = 36 {\\rm K}$ in pure CeRh$_2$Si$_2$ to $T_N=18 {\\rm K}$ at x=0.1. With higher Pd concentration it stabilized at $T_N\\approx15 {\\rm K}$ whereas the magnitude of the anomalies in $C_{el}(T)$ and in the susceptibility around $T_N$ are further reduced and disappear at $x\\approx0.3$. This is in contrast to the behavior found on the Pd-rich side, where $T_N$ decreases continuously to zero with increasing Rh content. The pronounced differences observed between both phase boundaries and the drastic effect of doping on the Rh rich side suggest an itinerant character in CeRh$_2$ Si$_2$, in contrast to the localized character of CePd$_2$Si$_2$. A further evidence for the itinerant character in CeRh$_2$Si$_2$ is given by the $ρ(T)$ dependence observed for $x\\le0.3$, which scales with $ρ(T)$ of the prototype itinerant compound YCo$_2$.",
+  "authors": [
+    "M. Gomez Berisso",
+    "P. Pedrazzini",
+    "J. G. Sereni",
+    "O. Trovarelli",
+    "C. Geibel",
+    "F. Steglich"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0112495.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0112495.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.668447+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0112495",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

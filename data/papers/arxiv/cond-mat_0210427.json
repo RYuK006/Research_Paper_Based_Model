@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0210427",
+  "title": "Analyzing Single Crystal Time-of-Flight Neutron Data",
+  "abstract": "Software for time-of-flight single crystal diffractometer (SCD) data visualization and analysis was originally written to be run in batch mode on VMS-VAX systems. Modern computers and software tools allow a new level of visualization and user interaction. The Integrated Spectral Analysis Workbench (ISAW) is being extended and customized for SCD measurements. To this end, new viewers and operators have been added to ISAW. One of the new operators allows running a program written in another language, such as C or FORTRAN, to integrate tested software into the object-oriented package. This provides a method for preserving earlier software development while making use of modern tools.",
+  "authors": [
+    "P. F. Peterson",
+    "D. J. Mikkelson",
+    "R. L. Mikkelson",
+    "A. J. Schultz",
+    "J. P. Hammonds",
+    "A. Chatterjee",
+    "T. G. Worlton"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0210427.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0210427.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.406795+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0210427",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

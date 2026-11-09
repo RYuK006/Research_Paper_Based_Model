@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0406003",
+  "title": "Order parameter in superconductors with non-degenerate bands",
+  "abstract": "In noncentrosymmetric metals, the spin degeneracy of the electronic bands is lifted by spin-orbit coupling. We consider general symmetry properties of the pairing function Delta(k) in noncentrosymmetric superconductors with spin-orbit coupling (NSC), including CePt3Si, UIr and Cd2Re2O7. We find that Delta(k) = chi(k) t(k), where chi(k) is an even function which transforms according to the irreducible representations of the crystallographic point group and t(k) is a model dependent phase factor. We consider tunnelling between a NSC and a conventional superconductor. It is found that, in terms of thermodynamical properties as well as the Josephson effect, the state of NSC resembles a singlet superconducting state with gap function chi(k).",
+  "authors": [
+    "I. A. Sergienko",
+    "S. H. Curnoe"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevB.70.214510",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0406003.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0406003.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.318151+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0406003",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0104070",
+  "title": "On a certain analogy between hydrodynamic flow in porous media and heat conductance in solids",
+  "abstract": "We consider a porous medium being saturated with a pore fluid (Biot's theory). The fluid is assumed as incompressible. It is shown that the general integral of the elastic and pressure equations can be written in form of a time dependent vectorpotential ${\\bf F}$ being a solution of a homogeneous, fourth order differential equation. The obtained equation for ${\\bf F}$ is of a more general form than the corresponding thermo-elastic vectorpotential, being a solution of a time dependent and inhomogeneous vector bi-Laplacian. Both vectorpotentials do, however, agree for stationary problems in general and for certain particular boundary conditions (irrotational deformations). An example of an irrotational deformation is studied in detail, exhibiting known properties of classical vector diffusion",
+  "authors": [
+    "F. Tzschichholz"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0104070.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0104070.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.231707+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0104070",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

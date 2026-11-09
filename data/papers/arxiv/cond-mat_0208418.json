@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0208418",
+  "title": "Measuring the gap in ARPES experiments",
+  "abstract": "Angle-resolved photoemission spectroscopy (ARPES) is considered as the only experimental tool from which the momentum distribution of both the superconducting and pseudo-gap can be quantitatively derived. The binding energy of the leading edge of the photoemission spectrum, usually called the leading edge gap (LEG), is the model-independent quantity which can be measured in the modern ARPES experiments with the very high accuracy--better than 1 meV. This, however, may be useless as long as the relation between the LEG and the real gap is unknown. We present a systematic study of the LEG as a function of a number of physical and experimental parameters. The absolute gap values which have been derived from the numerical simulation prove, for example that the nodal direction in the underdoped Bi-2212 in superconducting state is really the node--the gap is zero. The other consequences of the simulations are discussed.",
+  "authors": [
+    "A. A. Kordyuk",
+    "S. V. Borisenko",
+    "M. Knupfer",
+    "J. Fink"
+  ],
+  "year": 2002,
+  "doi": "10.1103/PhysRevB.67.064504",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0208418.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0208418.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:08.808437+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0208418",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

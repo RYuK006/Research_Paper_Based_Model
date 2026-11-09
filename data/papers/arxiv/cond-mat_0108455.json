@@ -1,0 +1,35 @@
+{
+  "id": "arxiv:cond-mat/0108455",
+  "title": "Unexpected Metallic-like Behavior of the Resistance in the Dielectric Spin Density Wave State in (TMTSF)2PF6",
+  "abstract": "We report unexpected features of the transport in the dielectric spin density wave (SDW) phase of the quasi one-dimensional compound (TMTSF)_2PF_6: the resistance exhibits a maximum and a subsequent strong drop as temperature decreases below approximately 2K. The maximum in R(T) is not caused by depinning or Joule heating of the SDW. The characteristic temperature of the R(T) maximum and the scaling behavior of the resistance at different magnetic fields B evidence that the non-monotonic R(T) dependence has an origin different from the one known for the quantum Hall effect region of the phase diagram. We also found that the borderline T_0(B,P) which divides the field induced SDW region of the P-B-T phase diagram into the hysteresis and non-hysteresis domains, terminates in the N=1 sub-phase; the borderline has thus no extension to the SDW N=0 phase.",
+  "authors": [
+    "A. V. Kornilov",
+    "V. M. Pudalov",
+    "Y. Kitaoka",
+    "K. Ishida",
+    "T. Mito",
+    "N. Tateiwa",
+    "T. C. Kobayashi",
+    "J. S. Brooks",
+    "J. S. Qualls"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0108455.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0108455.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.313533+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0108455",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.str-el"
+    ]
+  }
+}

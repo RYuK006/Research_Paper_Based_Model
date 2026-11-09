@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0104140",
+  "title": "Path-Integral Renormalization Group Method for Numerical Study on Ground States of Strongly Correlated Electronic Systems",
+  "abstract": "A new efficient numerical algorithm for interacting fermion systems is proposed and examined in detail. The ground state is expressed approximately by a linear combination of numerically chosen basis states in a truncated Hilbert space. Two procedures lead to a better approximation. The first is a numerical renormalization, which optimizes the chosen basis and projects onto the ground state within the fixed dimension, $L$, of the Hilbert space. The second is an increase of the dimension of the truncated Hilbert space, which enables the linear combination to converge to a better approximation. The extrapolation $L\\to\\infty$ after the convergence removes the approximation error systematically. This algorithm does not suffer from the negative sign problem and can be applied to systems in any spatial dimension and arbitrary lattice structure. The efficiency is tested and the implementation explained for two-dimensional Hubbard models where Slater determinants are employed as chosen basis. Our results with less than 400 chosen basis indicate good accuracy within the errorbar of the best available results as those of the quantum Monte Carlo for energy and other physical quantities.",
+  "authors": [
+    "Tsuyoshi Kashima",
+    "Masatoshi Imada"
+  ],
+  "year": 2001,
+  "doi": "10.1143/JPSJ.70.2287",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.mtrl-sci",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0104140.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0104140.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.258543+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0104140",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mtrl-sci",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0302252",
+  "title": "Anisotropic Caging of Interstitial Vortices in Superconductors with a Square Array of Rectangular Antidots",
+  "abstract": "We investigate anisotropy in the vortex pinning in thin superconducting films with a square array of rectangular submicron holes (\"antidots\"). The size of the antidots is chosen in such a way that it corresponds to a saturation number n_s=1, i.e. each antidot can trap at most one flux quantum. Therefore, interstitial vortices, appearing when the magnetic field exceeds the first matching field, are \"caged\" at the interstitial positions by the repulsion from the saturated antidots. We observe an overall higher critical current Ic(H) when it is measured parallel to the long side of the antidots than the Ic(H) along the short side of the antidots. Although the pinning force, exerted by the empty antidot on the vortex, turns out to be isotropic, our I_c(H) data indicate that the caging force, experienced by the interstitial vortices and provided by the array of saturated antidots, is strongly anisotropic.",
+  "authors": [
+    "L. Van Look",
+    "S. Raedts",
+    "R. Jonckheere",
+    "V. V. Moshchalkov"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0302252.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0302252.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.812730+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0302252",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.mes-hall"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0406451",
+  "title": "Dynamical heterogeneity and jamming in glass-forming liquids",
+  "abstract": "The relationship between spatially heterogeneous dynamics (SHD) and jamming is studied in a glass-forming binary Lennard-Jones system via molecular dynamics simulations. It has been suggested that the probability distribution of interparticle forces $P(F)$ develops a peak at the glass transition temperature $T_g$, and that the large force inhomogeneities, responsible for structural arrest in granular materials, are related to dynamical heterogeneities in supercooled liquids that form glasses. It has been further suggested that ``force chains'' present in granular materials may exist in supercooled liquids, and may provide an order parameter for the glass transition. Our goal is to investigate the extent to which the forces experienced by particles in a glass-forming liquid are related to SHD, and compare these forces to those observed in granular materials and other glass-forming systems. We find no peak in $P(F)$ at any temperature in our system, even below $T_g$. We also find that particles that have been localized for a long time are less likely to experience high relative force and that mobile particles experience higher relative forces at shorter time scales, indicating a correlation between pairwise forces and particle mobility. We also discuss a possible relationship between force chains found here and the development of string-like motion found in other glass-forming liquids.",
+  "authors": [
+    "Naida Lacevic",
+    "Sharon C. Glotzer"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.dis-nn"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0406451.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0406451.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.562339+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0406451",
+    "categories": [
+      "cond-mat.dis-nn"
+    ]
+  }
+}

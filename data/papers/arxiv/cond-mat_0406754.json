@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0406754",
+  "title": "Multiple Scattering in a Vacuum Barrier from Real-Space Wavefunctions",
+  "abstract": "We have developed a method to simulate multiple electron scattering in a vacuum barrier using real-space single-electron wavefunctions of the separate surfaces. The tunnelling current is calculated to first order in the Dyson series. In zero order, we find a result which differs from the usual Bardeen approach by the decay constants of the wavefunctions, entering the description as individual weights of tunnelling transitions. To first order we find multiple electron scattering, which can be formulated in terms of Bardeen matrices. Here, we also derive a first-principles formulation for the interaction energy between the two surfaces. With this method the tunnelling current can in principle be computed to any order in the Dyson expansion.",
+  "authors": [
+    "Werner A Hofer"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0406754.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0406754.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.697822+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0406754",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

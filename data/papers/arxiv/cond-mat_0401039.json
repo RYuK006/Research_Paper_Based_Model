@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0401039",
+  "title": "First-Principles Computations for KTN",
+  "abstract": "Solid solutions of KTaO$_{3}$ and KNbO$_{3}$ (KTN) exhibit unusual dielectric properties at ferroelectric phase transitions, which are usually associated with a Nb instability that is often explained by the large Nb dynamical charge in oxides. Using non-self-consistent VASP computations, we showed earlier that the Nb dynamical charge in layerd KTN strongly depends on the local environment of Nb. In the present study, we have performed self-consistent first-principles computations for fixed composition KTa7/8Nb1/8O3 in different configurations shown. We computed the equilibrium ionic positions, Born charges, force constants, vibration frequencies and modes. We also discuss the question whether Nb has a multi-well potential, and the field dependence of susceptibility.",
+  "authors": [
+    "S. Prosandeev",
+    "E. Cockayne",
+    "B. Burton",
+    "A. Turik"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0401039.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0401039.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.876633+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0401039",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

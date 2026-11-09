@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0203360",
+  "title": "On the Microscopic Foundations of Elasticity",
+  "abstract": "The modeling of the elastic properties of disordered or nanoscale solids requires the foundations of the theory of elasticity to be revisited, as one explores scales at which this theory may no longer hold. The only cases for which microscopically based derivations of elasticity are documented are (nearly) uniformly strained lattices. A microscopic approach to elasticity is proposed. As a first step, microscopically exact expressions for the displacement, strain and stress fields are derived. Conditions under which linear elastic constitutive relations hold are studied theoretically and numerically. It turns out that standard continuum elasticity is not self-evident, and applies only above certain spatial scales, which depend on details of the considered system and boundary conditions. Possible relevance to granular materials is briefly discussed.",
+  "authors": [
+    "I. Goldhirsch",
+    "C. Goldenberg"
+  ],
+  "year": 2002,
+  "doi": "10.1140/epje/i2002-10073-5",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.dis-nn",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0203360.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0203360.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.238183+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0203360",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.dis-nn",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

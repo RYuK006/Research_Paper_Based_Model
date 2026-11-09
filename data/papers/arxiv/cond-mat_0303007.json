@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0303007",
+  "title": "Relaxor ferromagnetic behavior below the antiferromagnetic transition in La0.5Ca0.5MnO3",
+  "abstract": "A detailed reinvestigation of magnetization in La0.5Ca0.5MnO3 reveals that although a field of H = 7 T applied at T = 5 K after zero field cooling is insufficient to convert the low temperature charge ordered antiferromagnetic phase into ferromagnetic, annealing in a magnetic field as small as H = 1 T induces ferromagnetic clusters in the charge ordered matrix. The volume phase fraction of the ferromagnetic clusters increases nearly linearly with the annealing field until Han = 4 T and then changes dramatically from about 11 % at 5 T to 60 % at Han = 7 T. This is analogous to the field-induced micro to macro polar domains in relaxor ferroelectrics. It is suggested that charge ordered clusters coexist with ferromagnetic phase above the Neel temperature (TN) and these clusters which transform into ferromagnetic by external magnetic fields are supercooled below TN. Our results will be relevant to the observation of many orders of decrease in the resistivity found for H << HC, where HC is the critical field for metamagnetic transition.",
+  "authors": [
+    "R. Mahendiran",
+    "A. Maignan",
+    "C. Martin",
+    "M. Hervieu",
+    "B. Raveau"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0303007.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0303007.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.964910+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0303007",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

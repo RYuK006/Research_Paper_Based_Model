@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0212501",
+  "title": "Non-ideality of quantum operations with the electron spin of a 31P donor in a Si crystal due to interaction with a nuclear spin system",
+  "abstract": "We examine a 31P donor electron spin in a Si crystal to be used for the purposes of quantum computation. The interaction with an uncontrolled system of 29Si nuclear spins influences the electron spin dynamics appreciably. The hyperfine field at the 29Si nuclei positions is non-collinear with the external magnetic field. Quantum operations with the electron wave function, i.e. using magnetic field pulses or electrical gates, change the orientation of hyperfine field and disturb the nuclear spin system. This disturbance produces a deviation of the electron spin qubit from an ideal state, at a short time scale in comparison with the nuclear spin diffusion time. For H_ext=9 T, the estimated error rate is comparable to the threshold value required by the quantum error correction algorithms. The rate is lower at higher external magnetic fields.",
+  "authors": [
+    "S. Saikin",
+    "L. Fedichkin"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevB.67.161302",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "quant-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0212501.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0212501.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.174502+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0212501",
+    "categories": [
+      "cond-mat.mes-hall",
+      "quant-ph"
+    ]
+  }
+}

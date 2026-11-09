@@ -1,0 +1,34 @@
+{
+  "id": "arxiv:cond-mat/0309398",
+  "title": "Low-Frequency Optical Properties of $β^{\\prime\\prime}$-(BEDO- TTF)$_5$[CsHg(SCN)$_4$]$_2$: Indications of Electronic Correlations in a 1/5-Filled Two-Dimensional Conductor",
+  "abstract": "The polarized reflectivity of $β^{\\prime\\prime}$-(BEDO-TTF)$_5$[CsHg(SCN)$_4$]$_2$ is studied in the infrared range between 60 cm-1 and 6000 cm-1 from room temperature down to 10 K. Already at T=300 K a pseudogap in the optical conductivity is present of about 300 cm-1; the corresponding maximum in the spectrum shifts to lower frequencies as the temperature decreases. In contrast to quarter-filled BEDT-TTF-based conductors of the $β^{\\prime\\prime}$-phase a robust Drude component in the conductivity spectra is observed which we ascribe to the larger fraction of charge carriers associated with the 1/5-filling of the conduction band. This observation is corroborated by exact diagonalization calculations on an extended Hubbard model on a square lattice for different fillings. A broad band at 4000 cm-1 which appears for the electric field polarized parallel to the stacks of the BEDO-TTF molecules is associated to structural modulations in the stacks; these modulations lead to a rise of the dc and microwave resistivity in 100 to 30 K temperature range.",
+  "authors": [
+    "N. Drichko",
+    "K. Petukhov",
+    "M. Dressel",
+    "O. Bogdanova",
+    "E. Zhilyaeva",
+    "R. Lyubovskaya",
+    "A. Greco",
+    "J. Merino"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0309398.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0309398.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:46.073834+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0309398",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ]
+  }
+}

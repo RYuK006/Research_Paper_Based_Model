@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0306552",
+  "title": "Superconducting spin filter",
+  "abstract": "Consider two normal leads coupled to a superconductor; the first lead is biased while the second one and the superconductor are grounded. In general, a finite current $I_2(V_1,0)$ is induced in the grounded lead 2; its magnitude depends on the competition between processes of Andreev and normal quasiparticle transmission from the lead 1 to the lead 2. It is known that in the tunneling limit, when normal leads are weakly coupled to the superconductor, $I_2(V_1,0)=0$, if $|V_1|<Δ$ and the system is in the clean limit. In other words, Andreev and normal tunneling processes compensate each-other. We consider the general case: the voltages are below the gap, the system is either dirty or clean. It is shown that $I_2(V_1,0)=0$ for general configuration of the normal leads; if the first lead injects spin polarized current then $I_2=0$, but spin current in the lead-2 is finite. XISIN structure, where X is a source of the spin polarized current could be applied as a filter separating spin current from charge current. We do an analytical progress calculating $I_1(V_1,V_2), I_2(V_1,V_2)$.",
+  "authors": [
+    "N. M. Chtchelkatchev"
+  ],
+  "year": 2003,
+  "doi": "10.1134/1.1622037",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0306552.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0306552.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.025911+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0306552",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.supr-con"
+    ]
+  }
+}

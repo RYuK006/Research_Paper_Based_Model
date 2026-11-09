@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0204180",
+  "title": "Determining the Saddle Point in Micromagnetic Models of Magnetization Switching",
+  "abstract": "A numerical model of single-domain nanoscale iron magnets fabricated using scanning-microscope-assisted chemical vapor deposition is simulated using finite-temperature micromagnetics. A Projective-dynamics method is used to determine the magnetization at the saddle point as a function of temperature. This magnetization is found to decrease linearly as the temperature is raised.",
+  "authors": [
+    "Gregory Brown",
+    "M. A. Novotny",
+    "Per Arne Rikvold"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0204180.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0204180.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.435607+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0204180",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

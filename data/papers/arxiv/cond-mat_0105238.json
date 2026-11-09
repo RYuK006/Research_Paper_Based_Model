@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0105238",
+  "title": "Quantum Annealing of a Disordered Magnet",
+  "abstract": "Traditional simulated annealing utilizes thermal fluctuations for convergence in optimization problems. Quantum tunneling provides a different mechanism for moving between states, with the potential for reduced time scales. We compare thermal and quantum annealing in a model disordered Ising magnet, Li\\sub{Ho}{0.44}\\sub{Y}{0.56}\\sub{F}{4}, where the effects of quantum mechanics can be tuned in the laboratory by varying a magnetic field applied transverse to the Ising axis. Our results indicate that quantum annealing indeed hastens convergence to the optimum state.",
+  "authors": [
+    "J. Brooke",
+    "D. Bitko",
+    "T. F. Rosenbaum",
+    "G. Aeppli"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0105238.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0105238.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.537398+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0105238",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

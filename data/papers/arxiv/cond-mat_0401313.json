@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0401313",
+  "title": "Fractional ac Josephson effect in unconventional superconductors",
+  "abstract": "For certain orientations of Josephson junctions between two p_x-wave or two d-wave superconductors, the subgap Andreev bound states produce a 4pi-periodic relation between the Josephson current I and the phase difference phi: I ~ sin(phi/2). Consequently, the ac Josephson current has the fractional frequency eV/h, where V is the dc voltage. In the tunneling limit, the Josephson current is proportional to the first power (not square) of the electron tunneling amplitude. Thus, the Josephson current between unconventional superconductors is carried by single electrons, rather than by Cooper pairs. The fractional ac Josephson effect can be observed experimentally by measuring frequency spectrum of microwave radiation from the junction.",
+  "authors": [
+    "Hyok-Jon Kwon",
+    "K. Sengupta",
+    "Victor M. Yakovenko"
+  ],
+  "year": 2004,
+  "doi": "10.1063/1.1789931",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0401313.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0401313.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.037414+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0401313",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

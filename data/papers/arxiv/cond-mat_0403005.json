@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0403005",
+  "title": "Resonant Spin Hall Conductance in Two-Dimensional Electron Systems with Rashba Interaction in a Perpendicular Magnetic Field",
+  "abstract": "We study transport properties of a two-dimensional electron system with Rashba spin-orbit coupling in a perpendicular magnetic field. The spin orbit coupling competes with Zeeman splitting to introduce additional degeneracies between different Landau levels at certain magnetic fields. This degeneracy, if occuring at the Fermi level, gives rise to a resonant spin Hall conductance, whose height is divergent as 1/T and whose weight is divergent as $-\\ln T$ at low temperatures. The Hall conductance is unaffected by the Rashba coupling.",
+  "authors": [
+    "Shun-Qing Shen",
+    "Michael Ma",
+    "X. C. Xie",
+    "Fu Chun Zhang"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevLett.92.256603",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0403005.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0403005.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.514518+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0403005",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0312466",
+  "title": "Optimization of nanostructured permalloy electrodes for a lateral hybrid spin-valve structure",
+  "abstract": "Ferromagnetic electrodes of a lateral semiconductor-based spin-valve structure are designed to provide a maximum of spin-polarized injection current. A single-domain state in remanence is a prerequisite obtained by nanostructuring Permalloy thin film electrodes. Three regimes of aspect ratios $m$ are identified by room temperature magnetic force microscopy: (i) high-aspect ratios of $m \\ge 20$ provide the favored remanent single-domain magnetization states, (ii) medium-aspect ratios $m \\sim 3$ to $m \\sim 20$ yield highly remanent states with closure domains and (iii) low-aspect ratios of $m \\le 3$ lead to multi-domain structures. Lateral kinks, introduced to bridge the gap between micro- and macroscale, disturb the uniform magnetization of electrodes with high- and medium-aspect ratios. However, vertical flanks help to maintain a uniformly magnetized state at the ferromagnet-semiconcuctor contact by domain wall pinning.",
+  "authors": [
+    "T. Last",
+    "S. Hacia",
+    "M. Wahle",
+    "S. F. Fischer",
+    "U. Kunze"
+  ],
+  "year": 2004,
+  "doi": "10.1063/1.1810197",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.other"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0312466.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0312466.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.657706+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0312466",
+    "categories": [
+      "cond-mat.other"
+    ]
+  }
+}

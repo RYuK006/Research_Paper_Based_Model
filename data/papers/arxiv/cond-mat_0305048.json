@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0305048",
+  "title": "Two band superconductivity in MgB2: basic anisotropic properties and phase diagram",
+  "abstract": "Magnesium diboride MgB2 has been an extraordinarily hot research topic since the discovery of superconductivity below 40 K, due to the vast amount of unusual properties originating from the involvement in superconductivity of two sets of bands that are of a different dimensionality. We review, with a strong focus on results obtained by torque magnetometry, how this leads to a complex behavior of the anisotropic superconducting state properties. The different dimensionality of the two sets of bands is manifested in the upper critical field Hc2 anisotropy, which was found to strongly decrease with increasing temperature. While the angular dependence of Hc2 follows roughly the predictions of anisotropic Ginzburg-Landau theory AGLT, small, but systematic deviations were observed near Tc. This, and the temperature dependent anisotropy, witness a breakdown of the AGLT description of MgB2, even close to Tc. Theoretical calculations are in qualitative agreement with the observed angle dependence, but suggest a much lower penetration depth anisotropy at low temperatures. Reversible torque vs angle curves in the mixed state indicate that the penetration depth anisotropy in intermediate fields has to be higher than currently available theoretical estimates. The observed field dependent effective anisotropies can be accounted for qualitatively by the faster depression of superconductivity in the more isotropic bands by the applied field. The vortex matter phase diagram is drawn, based on measurements of the reversible and irreversible torque in the mixed state. In the irreversible torque, a peak effect (PE) was observed in fields of about 0.85 Hc2. History effects of the critical current density in the PE region suggest that the PE signifies an order-disorder transition of vortex matter.",
+  "authors": [
+    "M. Angst",
+    "R. Puzniak"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0305048.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0305048.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.432277+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0305048",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

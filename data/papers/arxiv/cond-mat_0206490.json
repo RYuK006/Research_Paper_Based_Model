@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0206490",
+  "title": "Non-equilibrium Gross-Pitaevskii dynamics of boson lattice models",
+  "abstract": "Motivated by recent experiments on trapped ultra-cold bosonic atoms in an optical lattice potential, we consider the non-equilibrium dynamic properties of such bosonic systems for a number of experimentally relevant situations. When the number of bosons per lattice site is large, there is a wide parameter regime where the effective boson interactions are strong, but the ground state remains a superfluid (and not a Mott insulator): we describe the conditions under which the dynamics in this regime can be described by a discrete Gross-Pitaevskii equation. We describe the evolution of the phase coherence after the system is initially prepared in a Mott insulating state, and then allowed to evolve after a sudden change in parameters places it in a regime with a superfluid ground state. We also consider initial conditions with a \"pi phase\" imprint on a superfluid ground state (i.e. the initial phases of neighboring wells differ by pi), and discuss the subsequent appearance of density wave order and \"Schrodinger cat\" states.",
+  "authors": [
+    "Anatoli Polkovnikov",
+    "Subir Sachdev",
+    "S. M. Girvin"
+  ],
+  "year": 2002,
+  "doi": "10.1103/PhysRevA.66.053607",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0206490.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0206490.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.300048+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0206490",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.supr-con"
+    ]
+  }
+}

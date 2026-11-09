@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0407122",
+  "title": "Thermal transport in SiC nanostructures",
+  "abstract": "SiC is a robust semiconductor material considered ideal for high-power application due to its material stability and large bulk thermal conductivity defined by the very fast phonons. In this paper, however, we show that both material-interface scattering and total-internal reflection significantly limit the SiC-nanostructure phonon transport and hence the heat dissipation in a typical device. For simplicity we focus on planar SiC nanostructures and calculate the thermal transport both parallel to the layers in a substrate/SiC/oxide heterostructure and across a SiC/metal gate or contact. We find that the phonon-interface scattering produces a heterostructure thermal conductivity significantly smaller than what is predicted in a traditional heat-transport calculation. We also document that the high-temperature heat flow across the metal/SiC interface is limited by total-internal reflection effects and maximizes with a small difference in the metal/SiC sound velocities.",
+  "authors": [
+    "Eleni Ziambaras",
+    "Per Hyldgaard"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0407122.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0407122.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.766487+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0407122",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

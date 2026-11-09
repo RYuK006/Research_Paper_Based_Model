@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0103171",
+  "title": "Maximizing Entropy by Minimizing Area: Towards a New Principle of Self-Organization",
+  "abstract": "We propose a heuristic explanation for the numerous non-close-packed crystal structures observed in various colloidal systems. By developing an analogy between soap froths and the soft coronas of fuzzy colloids, we provide a geometrical interpretation of the free energy of soft spheres. Within this picture, we show that the close-packing rule associated with hard-core interaction and positional entropy of particles is frustrated by a minimum-area principle associated with the soft tail and internal entropy of the soft coronas. We also discuss these ideas in terms of crystal architecture and pair distribution functions and analyze the phase diagram of a model hard-sphere--square-shoulder system within the cellular theory. We find that the A15 lattice, known to be area minimizing, is favored for a reasonable range of model parameters and so it is among the possible equilibrium states for a variety of colloidal systems. We also show that in the case of short-range convex potentials the A15 and other non-close-packed lattices coexist over a broad ranges of densities, which could make their identification difficult.",
+  "authors": [
+    "P. Ziherl",
+    "Randall D. Kamien"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0103171.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0103171.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.011149+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0103171",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

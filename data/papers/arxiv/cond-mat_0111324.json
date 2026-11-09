@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0111324",
+  "title": "Length scales coupling for nonlinear dynamical problems in magnetism",
+  "abstract": "The dynamics of real magnets is often governed by several interacting processes taking place simultaneously at different length scales. For dynamical simulations the relevant length scales should be coupled, and the energy transfer accurately described. We show that in this case the micromagnetic theory is not always reliable. We present a coarse-graining approach applicable to nonlinear problems, which provides a unified description of all relevant length scales, allowing a smooth, seamless coupling. The simulations performed on model systems show that the coarse-graining approach achieves nearly the precision of all-atom simulations.",
+  "authors": [
+    "V. V. Dobrovitski",
+    "M. I. Katsnelson",
+    "B. N. Harmon"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0111324.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0111324.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.374636+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0111324",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

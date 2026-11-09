@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0001106",
+  "title": "Transport properties and point contact spectra of Ni_xNb_{1-x} metallic glasses",
+  "abstract": "Bulk resistivity and point contact spectra of Ni_xNb_{1-x} metallic glasses have been investigated as functions of temperature (0.3-300K) and magnetic field (0-12T). Metallic glasses in this family undergo a superconducting phase transition determined by the Nb concentration. When superconductivity was suppressed by a strong magnetic field, both the bulk sample R(T) and the point contact differential resistance curves of Ni_xNb_{1-x} showed logarithmic behavior at low energies, which is explained by a strong electron - \"two level system\" coupling. We studied the temperature, magnetic field and contact resistance dependence of Ni_{44}Nb_{56} point-contact spectra in the superconducting state and found telegraph-like fluctuations superimposed on superconducting characteristics. These R(V) characteristics are extremely sensitive detectors for slow relaxing \"two level system\" motion.",
+  "authors": [
+    "A. Halbritter",
+    "O. Yu. Kolesnychenko",
+    "G. Mihaly",
+    "O. I. Shklyarevskii",
+    "H. van Kempen"
+  ],
+  "year": 2000,
+  "doi": "10.1103/PhysRevB.61.5846",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.dis-nn",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0001106.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0001106.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:03.787082+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0001106",
+    "categories": [
+      "cond-mat.dis-nn",
+      "cond-mat.supr-con"
+    ]
+  }
+}

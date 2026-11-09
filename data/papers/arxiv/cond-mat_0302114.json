@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0302114",
+  "title": "Theory of the NMR relaxation rates in cuprate superconductors with field induced antiferromagnetic order",
+  "abstract": "Based on a model Hamiltonian with a d-wave pairing interaction and a competing antiferromagnetic interaction, we numerically study the site dependence of the nuclear spin resonance (NMR) relaxation rate T_1^{-1} as a function of temperature for a d-wave superconductor(DSC) with magnetic field induced spin density wave (SDW) order. In the presence of the induced SDW, we find that there exists no simple direct relationship between NMR signal rate T_1^{-1} and low energy local density of states while these two quantities are linearly proportional to each other in a pure DSC. In the vortex core region, T_1^{-1} on ^{17}O site may exhibit a double-peak behavior, one sharp and one broad, as the temperature is increased to the superconductivity transition temperature T_c, in contrast to a single broad peak for a pure DSC. The existence of the sharp peak corresponds to the disappearance of the induced SDW above a certain temperature T_{AF} which is assumed to be considerably lower than T_c. We also show the differences between T_1^{-1} on ^{17}O and that on ^{63}Cu as a function of lattice site at different temperatures and magnetic fields. Our results obtained from the scenario of the vortex with induced SDW is consistent with recent NMR and scanning tunneling microscopy experiments.",
+  "authors": [
+    "Yan Chen",
+    "Jian-Xin Zhu",
+    "C. S. Ting"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0302114.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0302114.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.754984+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0302114",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

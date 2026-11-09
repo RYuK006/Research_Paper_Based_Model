@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0207168",
+  "title": "The Kondo state in quantum point contacts and the local moment in semiconductor quantum dots - two sides of the same phenomenon",
+  "abstract": "This is a three step work: i) we explain why quantum point contacts are similar to ballistic quantum dots; ii) we introduce the virtual Kondo state in both systems; iii-1st) this state explains 0.7 structure in point contacts; iii-2nd) formation of the local moment on this state is described by the nearly symmetric Anderson model, we solve it for finite size system having in mind quantum dots. We found one large level spacing $Δ^\\ast \\propto (UΓ)^{1/2}\\gg Δ$, where $U$ is the charging energy of the virtual state, $Γ$ is the spectral width of this state and $Δ$ is the mean level spacing of whole system. The theory explains periodicity of abnormal level spacing vs gate potential. The theory is in agreement with many experiments.",
+  "authors": [
+    "Daniel L. Miller"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0207168.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0207168.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.417604+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0207168",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

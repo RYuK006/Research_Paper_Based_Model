@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0312579",
+  "title": "NANOTCAD2D: Two-dimensional code for the simulation of nanoelectronic devices and structures",
+  "abstract": "In this paper we present NANOTCAD2D, a code for the simulation of the electrical properties of semiconductor-based nanoelectronic devices and structures in two-dimensional domains. Such code is based on the solution of the Poisson/Schrödinger equation with density functional theory and of the continuity equation of the ballistic current. NANOTCAD2D can be applied to structures fabricated on III-IV, strained-silicon and silicon-germanium heterostructures, CMOS structures, and can easily be extended to new materials. In particular, in the case of SiGe heterostructures, it computes the effects of strain on the energy band profiles. The effects of interface states at the air/semiconductor interfaces, particularly significant in the case of devices obtained by selective etching, are also properly taken into account.",
+  "authors": [
+    "G. Curatola",
+    "G. Iannaccone"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0312579.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0312579.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.711929+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0312579",
+    "categories": [
+      "cond-mat.mes-hall"
+    ]
+  }
+}

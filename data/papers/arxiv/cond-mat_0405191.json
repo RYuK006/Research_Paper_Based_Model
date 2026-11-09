@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0405191",
+  "title": "A simple model for some unusual properties of martensitic transformation",
+  "abstract": "We report a detailed numerical investigation of a recently introduced two dimensional model for square-to-rectangle martensitic transformation that explains several unusual features of the martensitic transformation. This model includes inertial effects, dissipation, long-range interaction between the transformed domains and an inhomogeneous stress field to describe the effect of lattice defects which serves as nucleation centers. Both single-site nucleation and multi-site nucleation has been studied for single quench situation and thermal cycling. The final stage morphologies of single-site nucleation and multi-site nucleation bear considerable similarity suggesting that the initial distribution of the defects is not important. Thermal cycling using continuous cooling and heating simulations show the existence of hysteresis in the transformation. More importantly, the rate of energy dissipated occurs in the forms of bursts with power law statistics for their amplitudes and durations which explains the results of acoustic emission signals observed in experiments. When the system is cycled repeatedly in a restricted domain of temperatures, the dissipated bursts of energy are repetitive, a feature observed in experiments. The associated morphology shows a complete reversal of the martensite domains thus throwing light on the mechanism underlying the shape memory effect. The model also exhibits tweed like patterns.",
+  "authors": [
+    "S. Sreekala",
+    "Rajeev Ahluwalia",
+    "G. Ananthakrishna"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0405191.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0405191.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.052955+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0405191",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

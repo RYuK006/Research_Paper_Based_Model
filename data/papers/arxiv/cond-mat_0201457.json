@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0201457",
+  "title": "The effect of annealing on the nonlinear viscoelastic response of isotactic polypropylene",
+  "abstract": "Three series of tensile relaxation tests are performed on isotactic polypropylene at room temperature in the vicinity of the yield point. In the first series of experiments, injection-molded samples are used without thermal pre-treatment. In the second and third series, prior to testing the specimens are annealed at 130 C for 4 and 24 hours, respectively. Constitutive equations are derived for the time-dependent response of semicrystalline polymers at isothermal loading. A polymer is treated as an equivalent temporary network of macromolecules bridged by junctions (physical cross-links, entanglements and crystalline lamellae). Under loading, junctions slip with respect to their positions in the bulk material (which reflects the viscoplastic behavior), whereas chains separate from their junctions and merge with new ones at random times (which reflects the viscoelastic response). The network is thought of as an ensemble of meso-regions (MR) with various activation energies for detachment of chains from temporary nodes. Adjustable parameters in the stress-strain relations are found by fitting observations. Experimental data demonstrate that the shape of the relaxation spectrum (characterized by the distribution of MRs with various potential energies) is independent of mechanical factors, but is altered at annealing. For specimens not subjected to thermal treatment, the growth of longitudinal strain does not affect the volume fraction of active MRs and the attempt rate for detachment of chains from their junctons. For annealed samples, the concentration of active MRs increases and the attempt rate decreases with strain. These changes in the time-dependent response are attributed to broadening of the distribution of strengths of crystalline lamellae at annealing.",
+  "authors": [
+    "A. D. Drozdov",
+    "J. deC. Christiansen"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0201457.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0201457.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.877731+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0201457",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

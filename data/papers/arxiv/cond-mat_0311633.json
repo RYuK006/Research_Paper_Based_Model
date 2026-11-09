@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0311633",
+  "title": "Drift-Diffusion Approach to Spin-Polarized Transport",
+  "abstract": "We develop a drift-diffusion equation that describes electron spin polarization density in two-dimensional electron systems. In our approach, superpositions of spin-up and spin-down states are taken into account, what distinguishes our model from the traditional two-component drift-diffusion approximation. The Dresselhaus and Rashba spin-orbit coupling mechanisms are incorporated into consideration, as well as an applied electric field. The derived equation is applied to the modelling of relaxation of homogeneous spin polarization. Our results are consistent with previous studies.",
+  "authors": [
+    "Yuriy V. Pershin"
+  ],
+  "year": 2004,
+  "doi": "10.1016/j.physe.2004.03.007",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0311633.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0311633.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.408366+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0311633",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

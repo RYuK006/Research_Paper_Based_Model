@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0309567",
+  "title": "d-Mott phases in one and two dimensions",
+  "abstract": "We use exact diagonalization to determine the spectrum of reduced Hamiltonians based on renormalization group flows to strong coupling. For the half-filled two-leg Hubbard ladder we reproduce the known insulating d-Mott groundstate with spin and charge gaps. For the saddle point regions of the two-dimensional Hubbard model near half-filling we find a crossover to a similar strong coupling state, which truncates the Fermi surface near the saddle points. At lower scales d-wave superconductivity appears on the remaining Fermi surface.",
+  "authors": [
+    "A. Laeuchli",
+    "C. Honerkamp",
+    "T. M. Rice"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevLett.92.037006",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0309567.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0309567.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:46.187486+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0309567",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ]
+  }
+}

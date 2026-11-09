@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0102351",
+  "title": "Roughness exponent in the fracture of fibrous materials",
+  "abstract": "In this paper, a computational model in (2+1)-dimensions which simulates the rupture process of a fibrous material submitted to a constant force $F$, is analyzed. The roughness exponent $ζ$ at the boundary that separates two failure regimes, catastrophic and slowly shredding, is evaluated. In the catastrophic (dynamic) regime the initial strain creates a crack which percolates rapidly through the material. In the slowly shredding (quasi-static) regime several cracks of small size appear in all parts of the material, the rupture process is slow and any single crack percolates the sample. At the boundary between these two regimes, we obtained a value $ζ\\simeq 0.42\\pm 0.02$ for the roughness exponent, in agreement with results provided by other simulations in three dimension. Also, at this boundary we observed a power law behavior on the number of cracks versus its size.",
+  "authors": [
+    "I. L. Menezes-Sobrinho"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0102351.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0102351.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:04.825112+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0102351",
+    "categories": [
+      "cond-mat.stat-mech"
+    ]
+  }
+}

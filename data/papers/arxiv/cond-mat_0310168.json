@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0310168",
+  "title": "Indirect Exchange Interaction between two Quantum Dots in an Aharonov-Bohm Ring",
+  "abstract": "We investigate the Ruderman-Kittel-Kasuya-Yosida (RKKY) interaction between two spins located at two quantum dots embedded in an Aharonov-Bohm (AB) ring. In such a system the RKKY interaction, which oscillates as a function of the distance between two local spins, is affected by the flux. For the case of the ferromagnetic RKKY interaction, we find that the amplitude of AB oscillations is enhanced by the Kondo correlations and an additional maximum appears at half flux, where the interaction is switched off. For the case of the antiferromagnetic RKKY interaction, we find that the phase of AB oscillations is shifted by pi, which is attributed to the formation of a singlet state between two spins for the flux value close to integer value of flux.",
+  "authors": [
+    "Yasuhiro Utsumi",
+    "Jan Martinek",
+    "Patrick Bruno",
+    "Hiroshi Imamura"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevB.69.155320",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0310168.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0310168.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:14.679621+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0310168",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.str-el"
+    ]
+  }
+}

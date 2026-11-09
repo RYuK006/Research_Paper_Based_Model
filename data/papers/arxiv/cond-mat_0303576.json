@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0303576",
+  "title": "Oscillatory wave fronts in chains of coupled nonlinear oscillators",
+  "abstract": "Wave front pinning and propagation in damped chains of coupled oscillators are studied. There are two important thresholds for an applied constant stress $F$: for $|F|<F_{cd}$ (dynamic Peierls stress), wave fronts fail to propagate, for $F_{cd} < |F| < F_{cs}$ stable static and moving wave fronts coexist, and for $|F| > F_{cs}$ (static Peierls stress) there are only stable moving wave fronts. For piecewise linear models, extending an exact method of Atkinson and Cabrera's to chains with damped dynamics corroborates this description. For smooth nonlinearities, an approximate analytical description is found by means of the active point theory. Generically for small or zero damping, stable wave front profiles are non-monotone and become wavy (oscillatory) in one of their tails.",
+  "authors": [
+    "A. Carpio",
+    "L. L. Bonilla"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevE.67.056621",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0303576.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0303576.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:43.889785+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0303576",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0312077",
+  "title": "On the derivation of amplitude equations for nonlinear oscillators subject to arbitrary forcing",
+  "abstract": "By using a generalization of the multiple scales technique we develop a method to derive amplitude equations for zero--dimensional forced systems. The method allows to consider either additive or multiplicative forcing terms and can be straightforwardly applied to the case that the forcing is white noise. We give examples of the use of this method to the case of the van der Pol--Duffing oscillator. The writing of the amplitude equations in terms of a Lyapunov potential allow us to obtain an analytical expression for the probability distribution function which reproduces reasonably well the numerical simulation results.",
+  "authors": [
+    "R. Toral",
+    "C. Mayol",
+    "C. Mirasso"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0312077.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0312077.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.478800+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0312077",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

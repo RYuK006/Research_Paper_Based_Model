@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0309340",
+  "title": "Phase Transitions in Mesoscopic Superconducting Films",
+  "abstract": "We solve the Ginzburg-Landau equation (GLE) for the mesoscopic superconducting thin film of the square shape in the magnetic field for the wide range of the Ginzburg-Landau parameter $0.05<κ_{eff}<\\infty $. We found that the phase with the antivortex exists in the broad range of parameters. When the coherence length decreases the topological phase transition to the phase with the same total vorticity and a reduced symmetry takes place. The giant vortex with the vorticity $m=3$ is found to be unstable for any field, $ξ/a$ and $κ_{eff}\\ge 0.1$. Reduction of $ κ_{eff}$ does not make the phase with antivortex more stable contrary to the case of the cylindric sample of the type I superconductor.",
+  "authors": [
+    "V. V. Kabanov",
+    "T. Mertelj"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0309340.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0309340.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:46.025182+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0309340",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

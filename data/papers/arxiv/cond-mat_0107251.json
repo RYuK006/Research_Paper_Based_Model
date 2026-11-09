@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0107251",
+  "title": "The Onset of Mackey-Glass Leukemia at the Edge of Chaos",
+  "abstract": "In this paper we revisit the Mackey-Glass model for blood-forming process, which was proposed to describe the spontaneous fluctuations of the blood cell counts in normal individuals and the first stage of chronic myelocytic (or granylocytic) leukemia (CML). We obtain the bifurcation diagram as a function of the time delay parameter and show that the onset of leukemia is related to instabilities associated to the presence of periodic windows in the midst of a chaotic regime. We also introduce a very simple modification in the death rate parameter in order to simulate the accumulation of cells and the progressive increase of the minima counts experimentally observed in the final stage of the disease in CML patients. The bifurcation diagram as a function of the death rate parameter is also obtained and we discuss the effects of treatments like leukapheresis.",
+  "authors": [
+    "M. F. Menezes",
+    "R. M. Zorzenon dos Santos"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat",
+    "q-bio"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0107251.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0107251.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.013620+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0107251",
+    "categories": [
+      "cond-mat",
+      "q-bio"
+    ]
+  }
+}

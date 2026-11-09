@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0103015",
+  "title": "The equation of state for almost elastic, smooth, polydisperse granular gases for arbitrary density",
+  "abstract": "Simulation results of dense granular gases with particles of different size are compared with theoretical predictions concerning the pair-correlation functions, the collison rate, the energy dissipation, and the mixture pressure. The effective particle-particle correlation function, which enters the equation of state in the same way as the correlation function of monodisperse granular gases, depends only on the total volume fraction and on the dimensionless width A of the size-distribution function. The ''global equation of state'' is proposed, which unifies both the dilute and the dense regime.   The knowledge about a global equation of state is applied to steady-state situations of granular gases in the gravitational field, where averages over many snapshots are possible. The numerical results on the density profile agree perfectly with the predictions based on the global equation of state, for monodisperse situations. In the bi- or polydisperse cases, segregation occurs with the heavy particles at the bottom.",
+  "authors": [
+    "S. Luding",
+    "O. Strauss"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.mtrl-sci",
+    "cond-mat.soft"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0103015.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0103015.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:04.924354+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0103015",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.mtrl-sci",
+      "cond-mat.soft"
+    ]
+  }
+}

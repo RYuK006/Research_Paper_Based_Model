@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0201445",
+  "title": "Hartree-Fock Model of a Self-Avoiding Flexible Polymer",
+  "abstract": "Recent measurements of the force versus extension curves in stretched single stranded DNA, under conditions where the hydrogen bonding between complementary bases is inhibited, provide a new handle for the study of self-avoiding effects in a flexible polymer. We report in this paper upon analytic computations of the force versus extension curves within a continuous version of the freely joining chain model, with monomer-monomer repulsive interactions. The problem is formulated as a Statistical Field Theory model, endowed with a fixed cutoff associated with the curvature of the extension versus force curve, in the free polymer limit. Using a Field Theory version of the Hartree-Fock approximation, the self-avoiding single polymer problem reduces to the solving of a one-dimension self-consistent integral equation. Taking the short range potential limit, we obtain an explicit analytical solution, involving the roots of an algebraic equation. In the low force regime, we find that the slope of the relative extension at zero force increases steadily with the total monomer number N, while it stays constant for a free polymer. We compare, for N=100, our analytic results with those obtained by Monte Carlo simulations of a discrete freely joining chain, in presence of excluded volume effects. Despite a difference between the repulsive potential ranges, an appropriate choice of our single free parameter leads to a good agreement between the two computations.",
+  "authors": [
+    "C. Bouchiat"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0201445.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0201445.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.868848+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0201445",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

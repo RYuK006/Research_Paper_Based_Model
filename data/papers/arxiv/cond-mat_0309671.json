@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0309671",
+  "title": "High-temperature superconductivity and the characteristics of the electronic energy spectrum",
+  "abstract": "The possibility is indicated of applying the theory of superconductors with overlapping energy bands to describe the thermodynamic and electromagnetic properties of the high-temperature compounds $La_{2-x}(Ba,Sr)_xCuO_4$ and $YBa_2Ci_3O_{7-δ}$. The two-band model was used to obtain high values of $T_c$, two energy gaps $2Δ_1/T_c > 3.5$ and $2Δ_2/T_c < 3.5$, large negative values of $d\\ln T_c/d\\ln V$ ($V$ is the volume) in lanthanum ceramics, small values of the jump in the electron heat capacity at $T=T_c$, negative curvature of the upper critical magnetic field $H_{c2}$ near the transition temperature, etc. Such behavior of the above quantities is observed experimentally. A description is also obtained of the decrease in $T_c$ as the disordering of oxygen increases, and also as copper atoms are replaced by a nonmagnetic impurity (Al, Zn, etc.). The main mechanism responsible for this decrease is the interband scattering of electrons by impurities and by randomly distributed oxygen vacancies. A theory has been developed of multiband superconductors which takes into account the points of high symmetry in momentum space. On the basis of this theory one can explain the existence of a plateau in the dependence of $T_c$ on $δ$ for $YBa_2Cu_3O_{7-δ}$, and also in the dependence of $T_c$ on $x$ for $La_{2-x}(Ba,Sr)_xCuO_4$, that has been observed in a number of experiments. Moreover, this theory also explains the presence of two maxima in the dependence of $T_c$ on pressure for $Bi_2Sr_2CaCu_2O_8$.",
+  "authors": [
+    "V. A. Moskalenko",
+    "M. E. Palistrant",
+    "V. M. Vakalyuk"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0309671.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0309671.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:46.249470+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0309671",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

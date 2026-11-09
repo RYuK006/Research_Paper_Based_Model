@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0105211",
+  "title": "Radio-frequency-driven motion of single Cooper pairs across the superconducting single-electron transistor with dissipative environment",
+  "abstract": "We report on the effect of the frequency-locked transfer of single Cooper pairs in a superconducting single-electron Al transistor embedded in a dissipative environment (on-chip Cr resistor of R = 40 kOhm). The transistor was dc voltage biased, and the harmonic signal of frequency f of several MHz was applied to the gate. Due to the substantial rate of relaxation, the unidirectional transfer of single pairs occurred in each junction once per clock cycle and the current plateaus at I = 2ef were developed in the transistor's I-V curves. The mechanisms (supercurrent, Landau-Zener tunneling, quasiparticle tunneling, etc.) deteriorating the phase-locking regime are discussed.",
+  "authors": [
+    "A. B. Zorin",
+    "S. V. Lotkhov",
+    "S. A. Bogoslovsky",
+    "J. Niemeyer"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0105211.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0105211.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.527563+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0105211",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.supr-con"
+    ]
+  }
+}

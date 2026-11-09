@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0305702",
+  "title": "Ising model with periodic pinning of mobile defects",
+  "abstract": "A two-dimensional Ising model with short-range interactions and mobile defects describing the formation and thermal destruction of defect stripes is studied. In particular, the effect of a local pinning of the defects at the sites of straight equidistant lines is analysed using Monte Carlo simulations and the transfer matrix method. The pinning leads to a long-range ordered magnetic phase at low temperatures. The dependence of the phase transition temperature, at which the defect stripes are destabilized, on the pinning strength is determined. The transition seems to be of first order, with and without pinning.",
+  "authors": [
+    "M. Holtschneider",
+    "W. Selke"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevE.68.026120",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0305702.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0305702.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.755666+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0305702",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0403443",
+  "title": "The Magnetic Ordering of the 3d Wigner Crystal",
+  "abstract": "Using Path Integral Monte Carlo, we have calculated exchange frequencies as electrons undergo ring exchanges of 2, 3 and 4 electrons in a ``clean'' 3d Wigner crystal (bcc lattice) as a function of density. We find pair exchange dominates and estimate the critical temperature for the transition to antiferromagnetic ordering to be roughly $1 \\times 10^{-8}$Ry at melting. In contrast to the situation in 2d, the 3d Wigner crystal is different from the solid bcc 3He in that the pair exchange dominates because of the softer interparticle potential. We discuss implications for the magnetic phase diagram of the electron gas.",
+  "authors": [
+    "Ladir Candido",
+    "B. Bernu",
+    "D. M. Ceperley"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevB.70.094413",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0403443.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0403443.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.739375+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0403443",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

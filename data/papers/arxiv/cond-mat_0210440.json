@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0210440",
+  "title": "User office proposal handling and analysis software",
+  "abstract": "At FRM-II the installation of a user office software is under consideration, supporting tasks like proposal handling, beam time allocation, data handling and report creation. Although there are several software systems in use at major facilities, most of them are not portable to other institutes. In this paper the requirements for a modular and extendable user office software are discussed with focus on security related aspects like how to prevent a denial of service attack on fully automated systems. A suitable way seems to be the creation of a web based application using Apache as webserver, MySQL as database system and PHP as scripting language.",
+  "authors": [
+    "Joern Beckmann",
+    "Juergen Neuhaus"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0210440.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0210440.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.431894+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0210440",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

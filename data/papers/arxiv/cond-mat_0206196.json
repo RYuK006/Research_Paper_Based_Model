@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0206196",
+  "title": "Many-Body Density Matrices for Free Fermions",
+  "abstract": "Building upon an analytical technique introduced by Chung and Peschel [M. Chung and I. Peschel, Phys. Rev. B 64, art. 064412 (2001)], we calculated the density matrix rho_B of a finite block of B sites within an infinite system of free spinless fermions. In terms of the block Green function matrix G (whose elements are G_ij = < c_i^+ c_j>, where c_i^+ and c_j are fermion creation and annihilation operators acting on sites i and j within the block respectively), the density matrix can be written as rho_B = det(1 - G) exp[ sum_ij (log G(1 - G^{-1})_ij c_i^+ c_j]. Implications of such a result to Hilbert space truncation for real-space renormalization schemes is discussed.",
+  "authors": [
+    "Siew-Ann Cheong",
+    "Christopher L. Henley"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0206196.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0206196.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.170793+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0206196",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

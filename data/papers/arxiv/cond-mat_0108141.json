@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0108141",
+  "title": "Point defects in models of amorphous silicon and their role in structural relaxation",
+  "abstract": "We have used tight-binding molecular-dynamics simulations to investigate the role of point defects (vacancies and interstitials) on structural relaxation in amorphous silicon. Our calculations give unambiguous evidence that point defects can be defined in the amorphous solid, showing up as anomalies in the valence-charge/Voronoi-volume relation. The changes in the radial distribution functions that take place during annealing are shown to be in close agreement with recent, highly-accurate x-ray diffraction measurements. Our calculations provide strong evidence that structural relaxation in a-Si proceeds by the mutual annihilation of vacancies and interstitials, i.e., local structural changes rather than an overall relaxation of the network.",
+  "authors": [
+    "Cristiano L. Dias",
+    "Laurent J. Lewis",
+    "S. Roorda"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0108141.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0108141.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.186887+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0108141",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

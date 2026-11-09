@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0310045",
+  "title": "Langevin vortex dynamics for a layered superconductor in the lowest Landau level approximation",
+  "abstract": "We have numerically investigated the dynamics of vortices in a clean layered superconductor placed in a perpendicular magnetic field. We describe the energetics using a Ginzburg-Landau free energy functional in the lowest Landau level approximation. The dynamics are determined using the time-dependent Ginzburg-Landau approximation, and thermal fluctuations are incorporated via a Langevin term. The c-axis conductivity at nonzero frequencies, as calculated from the Kubo formalism, shows a strong but not divergent increase as the melting temperature $T_M$ is approached from above, followed by an apparently discontinuous drop at the vortex lattice freezing temperature. The discontinuity is consistent with the occurrence of a first-order freezing. The calculated equilibrium properties agree with previous Monte Carlo studies using the same Hamiltonian. We briefly discuss the possibility of detecting this fluctuation conductivity experimentally.",
+  "authors": [
+    "W. A. Al-Saidi",
+    "D. Stroud"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevB.68.144511",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0310045.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0310045.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:14.625349+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0310045",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

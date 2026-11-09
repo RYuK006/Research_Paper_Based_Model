@@ -1,0 +1,32 @@
+{
+  "id": "arxiv:cond-mat/0108266",
+  "title": "Quantum spin chains and Majorana states in arrays of coupled qubits",
+  "abstract": "Several designs of inter-qubit coupling are considered. It is shown that by a combination of Josephson and capacitive coupling one can realize qubit interactions of variable spin content. Qubit arrays are discussed as models of quantum spin chains. In particular, a qubit model of the 1D quantum Ising spin chain is proposed. A realization of unpaired Majorana fermion states in this system is considered. It is shown that Majorana states are represented by spin flip excitations localized on the chain ends. Using unpaired Majorana states in qubit chains for decoherence protected quantum computing is discussed.",
+  "authors": [
+    "L. S. Levitov",
+    "T. P. Orlando",
+    "J. B. Majer",
+    "J. E. Mooij"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.dis-nn",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0108266.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0108266.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.228868+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0108266",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.dis-nn",
+      "cond-mat.supr-con"
+    ]
+  }
+}

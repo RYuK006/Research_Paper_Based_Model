@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0104434",
+  "title": "Quantitative Comparison between AES and SIMS Depth Profiles of a Double Layer Structure of AlAs in GaAs Using the MRI-model",
+  "abstract": "Application of the so called mxing-roughness-information depth (MRI)-model to the quantitative reconstruction of the in-depth distribution of composition is demonstrated by comparing SIMS and AES depth profiles. A GaAs/AlAs reference sample consisting of two layers of AlAs (1 ML and 36 ML) separated by 44 ML of a GaAs matrix was depth profiled using almost identical sputtering conditions: Ar+ ions of 3 keV impact energy and 52 (SIMS: CAMECA 4f) and 58 deg. (AES: VG Microlab 310F) incidence angle. Both the Al+ intensity of the SIMS profile and the Al (LVV) intensity of the AES profile were quantified by fitting the measured profiles with those calculated with the MRI model, resulting in the same mixing length of 3.0 +/- 0.3 nm, similar roughness parameter (1.4-2 nm), and negligible information depth (0.4 nm). Whereas practically no matrix effect was observed for AES as well as for Al+ in the SIMS profile, quantification using dimer (Al2+) and trimer (Al3+) ions shows a marked nonlinearity between concentration and intensity, with the main effect caused by simple mass action law probability of cluster ion formation.",
+  "authors": [
+    "S. Hofmann",
+    "A. Rar",
+    "D. W. Moon",
+    "K. Yoshihara"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0104434.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0104434.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.377448+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0104434",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

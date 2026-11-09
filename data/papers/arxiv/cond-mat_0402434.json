@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0402434",
+  "title": "Measurement of the Current-Phase Relation of SFS pi-Josephson junctions",
+  "abstract": "We present measurements of the current-phase relation (CPR) of Superconductor-Ferromagnet-Superconductor (SFS) Josephson junctions as a function of temperature. The CPR is determined by incorporating the junction into a superconducting loop coupled to a dc SQUID, allowing measurement of the junction phase difference. Junctions fabricated with a thin (~ 22 nm) barrier of Cu0.47Ni0.53 sandwiched between Nb electrodes exhibit a re-entrant critical current with temperature, vanishing at T =T_pi ~ 2-4 K. We find that the critical current is negative for T < T_pi, indicating that the junction is a pi-Josephson junction. We find no evidence for second-order Josephson tunneling near T_pi in the CPR predicted by several theories.",
+  "authors": [
+    "S. M. Frolov",
+    "D. J. Van Harlingen",
+    "V. A. Oboznov",
+    "V. V. Bolginov",
+    "V. V. Ryazanov"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0402434.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0402434.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.382722+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0402434",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.mes-hall"
+    ]
+  }
+}

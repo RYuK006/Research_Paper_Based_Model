@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0312506",
+  "title": "Scaling determination of the nonlinear I-V characteristics for 2D superconducting networks",
+  "abstract": "It is shown from computer simulations that the current-voltage ($I$-$V$) characteristics for the two-dimensional XY model with resistively-shunted Josephson junction dynamics and Monte Carlo dynamics obeys a finite-size scaling form from which the nonlinear $I$-$V$ exponent $a$ can be determined to good precision. This determination supports the conclusion $a=z+1$, where $z$ is the dynamic critical exponent. The results are discussed in the light of the contrary conclusion reached by Tang and Chen [Phys. Rev. B {\\bf 67}, 024508 (2003)] and the possibility of a breakdown of scaling suggested by Bormann [Phys. Rev. Lett. {\\bf 78}, 4324 (1997)].",
+  "authors": [
+    "Petter Minnhagen",
+    "Beom Jun Kim",
+    "A. Gronlund"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevB.69.064515",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0312506.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0312506.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.677424+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0312506",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

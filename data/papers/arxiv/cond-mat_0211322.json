@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0211322",
+  "title": "Relationship between dynamical heterogeneities and stretched exponential relaxation",
+  "abstract": "We identify the dynamical heterogeneities as an essential prerequisite for stretched exponential relaxation in dynamically frustrated systems. This heterogeneity takes the form of ordered domains of finite but diverging lifetime for particles in atomic or molecular systems, or spin states in magnetic materials. At the onset of the dynamical heterogeneity, the distribution of time intervals spent in such domains or traps becomes stretched exponential at long time. We rigorously show that once this is the case, the autocorrelation function of the renewal process formed by these time intervals is also stretched exponential at long time.",
+  "authors": [
+    "S. I. Simdyankin",
+    "Normand Mousseau"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevE.68.041110",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0211322.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0211322.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.701902+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0211322",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

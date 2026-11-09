@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0212416",
+  "title": "Sliding charge density waves and zero-resistance states in GaAs/AlGaAs heterostructures",
+  "abstract": "Mani et al. have observed [1] zero-resistance states (ZRS) and energy gaps in a surprising setting: ultrahigh-mobility GaAs/AlGaAs heterostructures that contain a two dimensional electron Landau system (2DELS) exhibit vanishing diagonal resistance without Hall resistance quantization at low temperatures and low magnetic fields when the specimen is subjected to electromagnetic wave excitation. Zero-resistance-states occur about magnetic fields B = 4/5 Bf and B = 4/9 Bf, where Bf = 2fm*/e, m* is the electron mass, e is the electron charge, and f is the electromagnetic-wave frequency. Activated transport measurements on the resistance minima also indicate an energy gap at the Fermi level. The results suggest an unexpected radiation-induced, electronic-state-transition in the GaAs/AlGaAs 2DELS. The authors have explained the general features of their data as possibly arising from superconductivity through exciton exchange. Here we show that there is another plausible mechanism based on self-organized sliding charge density waves that does not require superconductivity to exist in the presence of a very strong magnetic field.",
+  "authors": [
+    "J. C. Phillips"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.dis-nn"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0212416.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0212416.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.138796+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0212416",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.dis-nn"
+    ]
+  }
+}

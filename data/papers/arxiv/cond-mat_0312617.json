@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0312617",
+  "title": "Quantum criticality beyond the Landau-Ginzburg-Wilson paradigm",
+  "abstract": "We present the critical theory of a number of zero temperature phase transitions of quantum antiferromagnets and interacting boson systems in two dimensions. The most important example is the transition of the S = 1/2 square lattice antiferromagnet between the Neel state (which breaks spin rotation invariance) and the paramagnetic valence bond solid (which preserves spin rotation invariance but breaks lattice symmetries). We show that these two states are separated by a second order quantum phase transition. The critical theory is not expressed in terms of the order parameters characterizing either state (as would be the case in Landau-Ginzburg-Wilson theory) but involves fractionalized degrees of freedom and an emergent, topological, global conservation law. A closely related theory describes the superfluid-insulator transition of bosons at half-filling on a square lattice, in which the insulator has a bond density wave order. Similar considerations are shown to apply to transitions of antiferromagnets between the valence bond solid and the Z_2 spin liquid: the critical theory has deconfined excitations interacting with an emergent U(1) gauge force. We comment on the broader implications of our results for the study of quantum criticality in correlated electron systems.",
+  "authors": [
+    "T. Senthil",
+    "Leon Balents",
+    "Subir Sachdev",
+    "Ashvin Vishwanath",
+    "Matthew P. A. Fisher"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevB.70.144407",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0312617.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0312617.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.739569+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0312617",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

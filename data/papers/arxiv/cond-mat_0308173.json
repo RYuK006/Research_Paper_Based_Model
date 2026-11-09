@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0308173",
+  "title": "Phase field modeling of electrochemistry I: Equilibrium",
+  "abstract": "A diffuse interface (phase field) model for an electrochemical system is developed. We describe the minimal set of components needed to model an electrochemical interface and present a variational derivation of the governing equations. With a simple set of assumptions: mass and volume constraints, Poisson's equation, ideal solution thermodynamics in the bulk, and a simple description of the competing energies in the interface, the model captures the charge separation associated with the equilibrium double layer at the electrochemical interface. The decay of the electrostatic potential in the electrolyte agrees with the classical Gouy-Chapman and Debye-Hückel theories. We calculate the surface energy, surface charge, and differential capacitance as functions of potential and find qualitative agreement between the model and existing theories and experiments. In particular, the differential capacitance curves exhibit complex shapes with multiple extrema, as exhibited in many electrochemical systems.",
+  "authors": [
+    "J. E. Guyer",
+    "W. J. Boettinger",
+    "J. A. Warren",
+    "G. B. McFadden"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevE.69.021603",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0308173.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0308173.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.603342+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0308173",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

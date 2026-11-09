@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0101284",
+  "title": "Monte Carlo Study of the Finite Size Effects on the Magnetization of Maghemite Small Particles",
+  "abstract": "Monte Carlo simulations of a model for $γ$-Fe$_2$O$_3$ (maghemite) single particle of spherical shape are presented aiming at the elucidation the specific role played by the finite size and the surface on the anomalous magnetic behaviour observed in small particle systems at low temperature. The influence of the finite-size effects on the equilibrium properties of extensive magnitudes, field coolings and hysteresis loops is studied an compared to the results for periodic boundaries. It is shown that for the smallest sizes the thermal demagnetization of the surface completely dominates the magnetization while the behaviour of the core is similar to that of the periodic boundary case, independently of $D$. The change in shape of the hysteresis loops with $D$ demonstrates that the reversal mode is strongly influenced by the presence of broken links and disorder at the surface.",
+  "authors": [
+    "Oscar Iglesias",
+    "Amilcar Labarta",
+    "Felix Ritort"
+  ],
+  "year": 2001,
+  "doi": "10.1063/1.1355354",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0101284.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0101284.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:04.574431+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0101284",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

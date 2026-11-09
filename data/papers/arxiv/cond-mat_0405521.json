@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0405521",
+  "title": "Simulated Stress and Stretch of SWCNT",
+  "abstract": "The mechanical stability of open single wall carbon nanotubes (SWCNT) under axial stress (compression and tension) and twist has been re-examined in a search of specific tube-length and load scaling. SWCNT with different chiralities and lengths have been simulated with a classical molecular dynamics method employing the many-body empirical Tersoff-Brenner potential. Stress has been achieved by enforcing constant linear velocity on the edge atoms from both sides of the SWCNT as suggested by Srivastava and Barnard. We have found opposite length scaling at fast (1/10 of vs the sound velocity in carbon tubes) and slow (1/20 vs) loading of (10, 0) tubes. Another finding is that at fast loading short zigzag (10, 0) tubes transform from elastic to plastic states before they break in the middle, while tubes, longer than 13 nm, break-up directly in the elastic state. Thus, short tubes behave like metals or ionic solids, while long tubes resemble ceramics or glasses under the conditions studied. All tubes form spiral-like structures when twisted. Standing waves, generated under specific conditions, determine the different behavior of tubes with various lengths and chiralities.   Keywords: Molecular Dynamics simulations, elasticity and inelasticity, single-wall carbon nanotubes, nanoscale pattern formation, constant-composition solid-solid phase transformations, pressure treatment   PACS: 02.70.Ns, 81.30.Hd, 81.40.Jj, 81.40.Vw",
+  "authors": [
+    "Ana Proykova",
+    "Hristo Iliev"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0405521.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0405521.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.206307+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0405521",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0212052",
+  "title": "Glass transition as a decoupling-coupling mechanism of rotations",
+  "abstract": "We introduce a three-dimensional lattice gas model to study the glass transition. In this model the interactions come from the excluded volume and particles have five arms with an asymmetrical shape, which results in geometric frustration that inhibits full packing. Each particle has two degrees of freedom, the position and the orientation of the particle. We find a second order phase transition at a density $ρ\\approx 0.305$, this transition decouples the orientation of the particles which can rotate without interaction in this degree of freedom until $ρ=0.5$ is reached. Both the inverse diffusivity and the relaxation time follow a power law behavior for densities $ρ\\le 0.5$. The crystallization at $ρ=0.5$ is avoided because frustration lets to the system to reach higher densities, then the divergencies are overcome. For $ρ> 0.5 $ the orientations of the particles are coupled and the dynamics is governed by both degrees of freedom.",
+  "authors": [
+    "Anastasio Díaz-Sánchez"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0212052.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0212052.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.911524+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0212052",
+    "categories": [
+      "cond-mat.stat-mech"
+    ]
+  }
+}

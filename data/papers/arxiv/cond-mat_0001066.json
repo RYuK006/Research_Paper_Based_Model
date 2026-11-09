@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0001066",
+  "title": "The effect of compression on the global optimization of atomic clusters",
+  "abstract": "Recently, Locatelli and Schoen proposed a transformation of the potential energy that aids the global optimization of Lennard-Jones clusters with non-icosahedral global minima. These cases are particularly difficult to optimize because the potential energy surface has a double funnel topography with the global minimum at the bottom of the narrower funnel. Here we analyse the effect of this type of transformation on the topography of the potential energy surface. The transformation, which physically corresponds to a compression of the cluster, firstly reduces the number of stationary points on the potential energy surface. Secondly, we show that for a 38-atom cluster with a face-centred-cubic global minimum the transformation causes the potential energy surface to become increasingly dominated by the funnel associated with the global minimum. The transformation has been incorporated in the basin-hopping algorithm using a two-phase approach.",
+  "authors": [
+    "Jonathan Doye"
+  ],
+  "year": 2000,
+  "doi": "10.1103/PhysRevE.62.8753",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat",
+    "physics.atm-clus"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0001066.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0001066.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:03.772373+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0001066",
+    "categories": [
+      "cond-mat",
+      "physics.atm-clus"
+    ]
+  }
+}

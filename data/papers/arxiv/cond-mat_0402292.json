@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0402292",
+  "title": "Lowest Landau level bosonization",
+  "abstract": "We develop a bosonization scheme for the two-dimensional electron gas in the presence of an uniform magnetic field perpendicular to the two-dimensional system when the filling factor ν= 1. We show that the elementary neutral excitations of this system, known as magnetic excitons, can be treated approximately as bosons and we apply the method to the interacting system. We show that the Hamiltonian of the fermionic system is mapped into an interacting bosonic Hamiltonian, where the dispersion relation of the bosons agrees with previous RPA calculations. The interaction term accounts for the formation of two-boson bound states. We discuss a possible relation between these excitations and the skyrmion-antiskyrmion pair, in analogy with the ferromagnetic Heisenberg model. Finally, we analyze the semiclassical limit of the interacting bosonic Hamiltonian and show that the results are in agreement with those derived from the model of Sondhi {\\it et al.} for the quantum Hall skyrmion.",
+  "authors": [
+    "R. L. Doretto",
+    "A. O. Caldeira",
+    "S. M. Girvin"
+  ],
+  "year": 2005,
+  "doi": "10.1103/PhysRevB.71.045339",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0402292.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0402292.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.312977+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0402292",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mes-hall"
+    ]
+  }
+}

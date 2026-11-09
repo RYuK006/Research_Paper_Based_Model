@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0312211",
+  "title": "Coherence, incoherence and scaling along the c axis of YBa_2Cu_3O_{6+x}",
+  "abstract": "The optical properties of single crystals of YBa_2Cu_3O_{6+x} have been examined along the c axis above and below the critical temperature (T_c) for a wide range of oxygen dopings. The temperature dependence of the optically-determined value of the dc conductivity (σ_{dc}) in the normal state suggests a crossover from incoherent (hopping-type) transport at lower oxygen dopings (x \\lesssim 0.9) to more coherent anisotropic three-dimensional behavior in the overdoped (x \\approx 0.99) material at temperatures close to T_c. The assumption that superconductivity occurs along the c axis through the Josephson effect yields a scaling relation between the strength of the superconducting condensate (ρ_{s,c}, a measure of the number of superconducting carriers), the critical temperature, and the normal-state c-axis value for σ_{dc} just above T_c; ρ_{s,c} \\propto σ_{dc} T_c. This scaling relation is observed along the c axis for all oxygen dopings, as well as several other cuprate materials. However, the agreement with the Josephson coupling model does not necessarily imply incoherent transport, suggesting that these materials may indeed be tending towards coherent behavior at the higher oxygen dopings.",
+  "authors": [
+    "C. C. Homes",
+    "S. V. Dordevic",
+    "D. A. Bonn",
+    "R. Liang",
+    "W. N. Hardy",
+    "T. Timusk"
+  ],
+  "year": 2005,
+  "doi": "10.1103/PhysRevB.71.184515",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0312211.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0312211.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.560375+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0312211",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

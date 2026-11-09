@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0301100",
+  "title": "How the shift of the glass transition temperature of thin polymer films depends on the adsorption with the substrate",
+  "abstract": "Recent experiments have demonstrated that the glass transition temperature of thin polymer films can be shifted as compared to the same polymer in the bulk, the amplitude and the sign of this effect depending on the interaction between the polymer and the substrate. A model has been proposed recently for explaining these effects in two limiting cases: suspended films and strongly adsorbed films. We extend here this model for describing the cross-over between these two situations. We show here how, by adjusting the strength of the adsorption, one can control the glass transition temperature of thin polymer films. In particular, we show that the shift of glass transition temperature, refered to that of a suspended film, varies like $ε^{1/γ_2}$ where $ε$ is the adsorption energy per monomer and $γ_2$ is the critical exponent for the mass of aggregates in the 2D percolation problem. We show also that the interaction leads to an increase of $T_g$ for $ε$ as small as a few $0.01 T$ where $T$ is the thermal energy, and that this increase saturates at the value corresponding to strongly interacting films for adsorption energies of order $0.5 T$.",
+  "authors": [
+    "D. Long",
+    "P. Sotta"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0301100.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0301100.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.368185+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0301100",
+    "categories": [
+      "cond-mat.stat-mech"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0112480",
+  "title": "Comment on ``Strain effect and the phase diagram of La$_{1-x}$Ba$_x$MnO$_3$ thin films''",
+  "abstract": "Recent experiments in La$_{1-x}$Ba$_x$MnO$_3$ thin films by Zhang {\\it et al.} {[Phys. Rev. B {\\bf 64}, 184404 (2001)]} showed that the ferromagnetic Curie temperature $T_c$ is enhanced (reduced) by tensile (compressive) strain. The results are regarded to be anomalous because it is generally understood by the authors that the tensile strain should lead to a reduction of the electron hopping $t$ (and thus also $T_c$) due to an elongation of the (in-plane) Mn-O bond length. In this comment such a general understanding of the strain effects is disapproved. It is argued that the tensile strain leads primarily to a larger Mn-O-Mn bond angle (with the Mn-O bond length nearly unchanged), thus the pure geometric consideration on $t$ is already in the correct direction towards the experimental findings by Zhang {\\it et al.} At the same time, an indirect strain effect under consideration of the dynamic electron-phonon coupling is proposed, which may improve the quantitative explanation.",
+  "authors": [
+    "Qingshan Yuan"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0112480.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0112480.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.651704+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0112480",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

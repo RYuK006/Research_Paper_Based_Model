@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0202235",
+  "title": "Short-time scaling in the critical dynamics of an antiferromagnetic Ising system with conserved magnetisation",
+  "abstract": "We study by Monte Carlo simulations the short-time exponent $θ$ in an antiferromagnetic Ising system for which the magnetisation is conserved but the sublattice magnetisation (which is the order parameter in this case) is not. This system belongs to the dynamic class of model C. We use nearest neighbour Kawasaki dynamics so that the magnetisation is conserved {\\em locally}. We find that in three dimensions $θ$ is independent of the conserved magnetisation. This is in agreement with the available theoretical studies, but in disagreement with previous simulation studies with global conservation algorithm. However, we agree with both these studies regarding the result $θ_C \\ne θ_A$. We also find that in two dimensions, $θ_C = θ_A$.",
+  "authors": [
+    "Parongama Sen",
+    "Subinay Dasgupta"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0202235.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0202235.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.999815+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0202235",
+    "categories": [
+      "cond-mat.stat-mech"
+    ]
+  }
+}

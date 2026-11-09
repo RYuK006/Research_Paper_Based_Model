@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0304561",
+  "title": "Superconductivity of the two-component non-stoichiometric compounds with incommensurate sublattices",
+  "abstract": "There exists a class of non-stoichiometric materials (berthollides) that can be considered as constituted by two sublattices, which have specific physicochemical properties. These properties can be essentially modified by even rather weak interaction between these components. One of them can be regarded as a rigid matrix, while another one as a filling in the form of isolated atoms, molecules or clusters. Structures containing voids of the diameter up to D ~ (1 - 2)nm in diameter in the stoichiometric sublattice belong to this class of compounds. These voids are filled by the second component (of diameter d_{0}), which can be compressed or stretched because of the sublattice parameters misfit. A stretched matter (D - d_{0} = h > 0) can exist in a unique intermediate state between the metal and the dielectric; this state cannot be implemented by another way. The period doubling occurs and a weak modulation of the metal lattice constant leads to forming not only the energy gap, but the bound electronic states of the molecular type with two paired electrons as well. Validity of this model with the Peierls-type lattice instability for explanation of the well known experimental data on superconducting transition temperature (T_{c}) in such systems (fullerides, perovskite-type compounds like Na-WO_{3}, high temperature superconductors) is considered in this work. The transition temperature T_{c} of fullerides is proportional to h/D; for the tungsten-bronzes with Na, Rb, or Cs, T_{c} > 0 for h > 0, and T_{c} ~ 0 for h < 0.",
+  "authors": [
+    "V. N. Bogomolov"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0304561.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0304561.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.241113+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0304561",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

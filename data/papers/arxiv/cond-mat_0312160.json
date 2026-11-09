@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0312160",
+  "title": "Finite temperature properties and frustrated ferromagnetism in a square lattice Heisenberg model",
+  "abstract": "The spin 1/2 Heisenberg model on a square lattice with antiferromagnetic nearest- and next-nearest neighbour interactions (the $J_1$--$J_2$ model) has long been studied as a paradigm of a two-dimensional frustrated quantum magnet. Only very recently, however, have the first experimental realisations of such systems been synthesized. The newest material, Pb$_2$VO(PO$_4$)$_2$ seems to have mixed ferro-- and antiferromagnetic exchange couplings. In the light of this, we extend the semiclassical treatment of the $J_1$--$J_2$ model to include ferromagnetic interactions, and present an analysis of the finite temperature properties of the model based on the exact diagonalization of 8, 16 and 20 site clusters. We propose that diffuse neutron scattering can be used to resolve the ambiguity inherent in determining the ratio and sign of $J_1$ and $J_2$ from thermodynamic properties alone, and use a finite temperature Lanczos algorithm to make predictions for the relevant high temperature spin-spin correlation functions. The possibility of a spin-liquid phase occurring for ferromagnetic $J_1$ is also briefly discussed.",
+  "authors": [
+    "Nic Shannon",
+    "Burkhard Schmidt",
+    "Karlo Penc",
+    "Peter Thalmeier"
+  ],
+  "year": 2004,
+  "doi": "10.1140/epjb/e2004-00156-3",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0312160.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0312160.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.528000+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0312160",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

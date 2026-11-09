@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0209144",
+  "title": "Fractionalized Fermi liquids",
+  "abstract": "In spatial dimensions d >= 2, Kondo lattice models of conduction and local moment electrons can exhibit a fractionalized, non-magnetic state (FL*) with a Fermi surface of sharp electron-like quasiparticles, enclosing a volume quantized by (ρ_a-1)(mod 2), with ρ_a the mean number of all electrons per unit cell of the ground state. Such states have fractionalized excitations linked to the deconfined phase of a gauge theory. Confinement leads to a conventional Fermi liquid state, with a Fermi volume quantized by ρ_a (mod 2), and an intermediate superconducting state for the Z_2 gauge case. The FL* state permits a second order metamagnetic transition in an applied magnetic field.",
+  "authors": [
+    "T. Senthil",
+    "Subir Sachdev",
+    "Matthias Vojta"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevLett.90.216403",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0209144.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0209144.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:08.971702+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0209144",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ]
+  }
+}

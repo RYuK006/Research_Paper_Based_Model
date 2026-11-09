@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0208415",
+  "title": "Fractal noise maps reveal human brain activity: a key for unbiased fMRI analysis",
+  "abstract": "Brain metabolism is controlled by complex regulation mechanisms. As part of their nature many complex systems show scaling behavior in their timeseries data. Corresponding scaling exponents can sometimes be used to characterize these systems. Here we present maps of scaling exponents derived from BOLD functional Magnetic Resonance Imaging (fMRI) data, and show that they reveal activation patterns in the human brain with very high precision. In contrast to standard model-based analysis we use no prior knowledge on the experimental stimulation paradigm for extracting activation patterns from fMRI timeseries. We demonstrate that mental activity is one-to-one related to large fractal exponents, or equivalently, to temporally highly correlated processes.",
+  "authors": [
+    "Stefan Thurner",
+    "Christian Windischberger",
+    "Ewald Moser",
+    "Markus Barth"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat",
+    "q-bio"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0208415.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0208415.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:08.805510+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0208415",
+    "categories": [
+      "cond-mat",
+      "q-bio"
+    ]
+  }
+}

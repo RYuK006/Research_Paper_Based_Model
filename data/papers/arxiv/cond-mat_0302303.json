@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0302303",
+  "title": "Effective inter-band coupling in MgB2 due to anharmonic phonons",
+  "abstract": "We investigate the origin of the inter-band coupling in MgB2 by focusing on its unusual phononic features, namely, the strong anharmonicity of the phonons and the presence of both linear and quadratic electron-phonon interactions of the Su-Schrieffer-Heeger (SSH) type. The bare electronic Hamiltonian has two bands with intra- and inter-band hopping, which lead to two decoupled hybridized bands. The phonon Hamiltonian including the anharmonic terms is diagonalized approximately by a squeezing transformation, which causes the softening of the phonon frequency. The linear SSH coupling amplitude is reduced, consistently with the estimates from first-principle calculations. Additionally, the quadratic coupling generates an effective phonon-induced interaction between the hybridized bands, which is non-vanishing even in the limit of vanishing inter-bare-band hopping amplitude.",
+  "authors": [
+    "M. Acquarone",
+    "L. Romano'"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0302303.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0302303.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.827168+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0302303",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

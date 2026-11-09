@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0107433",
+  "title": "Normal stresses at the gelation transition",
+  "abstract": "A simple Rouse-type model, generalised to incorporate the effects of chemical crosslinks, is used to obtain a theoretical prediction for the critical behaviour of the normal-stress coefficients $Ψ_{1}$ and $Ψ_{2}$ at the gelation transition. While the exact calculation shows $Ψ_{2}\\equiv 0$, a typical result for these types of models, an additional scaling ansatz is used to demonstrate that $Ψ_{1}$ diverges with a critical exponent $\\ell = k+z$. Here, $k$ denotes the critical exponent of the shear viscosity and $z$ the exponent governing the divergence of the time scale in the Kohlrausch decay of the shear-stress relaxation function. For crosslinks distributed according to mean-field percolation, this scaling relation yields $\\ell =3$, in a accordance with an exact expression for the first normal-stress coefficient based on a replica calculation. Alternatively, using three-dimensional percolation for the crosslink ensemble we find the value $\\ell \\approx 4.9$. Results on time-dependent normal-stress response are also presented.",
+  "authors": [
+    "Kurt Broderix",
+    "Peter Müller",
+    "Annette Zippelius"
+  ],
+  "year": 2001,
+  "doi": "10.1103/PhysRevE.65.041505",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.soft",
+    "physics.chem-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0107433.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0107433.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.083500+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0107433",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.soft",
+      "physics.chem-ph"
+    ]
+  }
+}

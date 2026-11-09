@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0212565",
+  "title": "How many Raman-active vibrations do exist in carbon nanotubes?",
+  "abstract": "In this paper we present the results on Raman-active modes calculation in achiral $(n,n)$ and $(n,0)$ carbon nanotubes (CNTs). vibrational spectra are derived as the eigenvalues of corresponding dynamical matrix at the $Γ$-point of Brillouin zone. Diagonal components and $α_{xy} (=α_{yx})$ are the only non-zero components of polarization tensor. Selection rules for Raman-active modes are determined by direct estimations of matrix elements responsible for the intensities of corresponding vibrational transitions. Few $E_{2g}$ modes can be non-Raman-active because of their ``fine'' vibrational structure. We claim that numbers of Raman-active modes for achiral CNTs are: 5 ($(n,n)$ and $(n,0)$, $n$-even); 6 ($(n,n)$, $n$-odd); 8 ($(n,0)$, $n$-odd).",
+  "authors": [
+    "T. Yu. Astakhova",
+    "G. A. Vinogradov"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0212565.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0212565.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.208627+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0212565",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.mes-hall"
+    ]
+  }
+}

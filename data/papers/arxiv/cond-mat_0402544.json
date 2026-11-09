@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0402544",
+  "title": "Self-Consistent and Environment-Dependent Hamiltonians for Materials Simulations : case Studies on Silicon Structures",
+  "abstract": "A reliable semi-empirical Hamiltonian for materials simulations must allow electron screening and charge redistribution effects. Using the framework of linear combination of atomic orbitals (LCAO), a self-consistent and environment-dependent (SCED) Hamiltonian has been constructed for quantum mechanics based simulations of materials. This Hamiltonian contains environment-dependent multi-center interaction terms and electron-electron correlation terms that allow electron screening and charge-redistribution effects. As a case study, we have developed the SCED/LCAO Hamiltonian for silicon. The robustness of this Hamiltonian is demonstrated by scrutinizing a variety of different structures of silicon. In particular, we have studied the following: (i) the bulk phase diagrams of silicon, (ii) the structure of an intermediate-size Si71 cluster, (iii) the reconstruction of Si(100) surface, and (iv) the energy landscape for a silicon monomer adsorbed on the reconstructed Si(111)-7x7 surface. The success of the silicon SCED/LCAO Hamiltonian in the above applications, where silicon exists in a variety of different co-ordinations, is a testament to the predictive power of the scheme.",
+  "authors": [
+    "C. Leahy",
+    "M. Yu",
+    "C. S. Jayanthi",
+    "S. Y. Wu"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0402544.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0402544.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.448533+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0402544",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

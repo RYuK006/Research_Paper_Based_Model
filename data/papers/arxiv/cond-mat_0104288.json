@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0104288",
+  "title": "Relaxational dynamics study of the classical Heisenberg spin XY model in spherical coordinate representation",
+  "abstract": "The two- and three-dimensional classical Heisenberg spin XY (CHSXY) models, with the spherical coordinates of spins taken as dynamic variables, are numerically investigated. We allow the polar $θ$ and azimuthal $ϕ$ angles to have uniform values in $[0,π)$ and $[-π, π)$, respectively, and the static universality class is shown to be identical to the classical XY model with two-component spins, as well as the CHSXY model with a different choice of dynamic variables, conventionally used in the literature. The relaxational dynamic simulation reveals that the dynamic critical exponent $z$ is found to have the value $z \\approx 2.0$ for both two and three dimensions, in contrast to $z \\approx d/2$ ($d=$ spatial dimension) found previously with spin dynamics simulation of the conventional CHSXY model. Comparisons with the usual two-component classical XY model are also made.",
+  "authors": [
+    "Beom Jun Kim",
+    "Petter Minnhagen",
+    "Suhk Kun Oh",
+    "Jean S. Chung"
+  ],
+  "year": 2001,
+  "doi": "10.1103/PhysRevB.64.024406",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0104288.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0104288.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.312021+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0104288",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.supr-con"
+    ]
+  }
+}

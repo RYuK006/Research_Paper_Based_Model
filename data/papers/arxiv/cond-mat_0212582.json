@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0212582",
+  "title": "Doping and temperature dependence of superfluid weights for high Tc cuprates",
+  "abstract": "Using the improved slave-boson approach of the t-J Hamiltonian [Phys. Rev. B 64, 052501 (2001)] that we developed recently, we report the hole doping and temperature dependence of the superfluid weight. It is shown that at low hole doping concentration x and at low temperatures T there exists a propensity of a linear decrease of the superfluid weight $n_s/m^*$ with temperature, and a tendency of doping independence in the slope of $\\frac{n_s}{m^*}(x,T)$ vs. T in accordance of the relation $\\frac{n_s}{m^*}(x,T) = \\frac{n_s}{m^*}(x,0) - αT$ with $α$, a constant. It is also demonstrated that Tc increases with hole doping concentration x, reaches a saturation(maximum) at optimal doping and decreases with increasing $x$ and $n_s/m^*$ in the overdoped region. Such a reflex (decreasing) behavior of Tc is attributed to the weakening of coupling between the spin(spinon pair order) and charge(holon pair order) degrees of freedom in the overdoped region. All of these findings are in agreement with $μ$SR measurements.",
+  "authors": [
+    "Sung-Sik Lee",
+    "Sung-Ho Suck Salk"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0212582.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0212582.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.226768+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0212582",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

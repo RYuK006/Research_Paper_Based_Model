@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0405274",
+  "title": "Quantum phase transitions and magnetization of an integrable spin ladder with new parameters in bridging to real compounds",
+  "abstract": "We study the field-induced quantum phase transitions (QPT) and the relevant magnetic properties of a spin-1/2 two-leg integrable spin ladder (ISL), of which the system parameters in bridging to the real compounds are determined by setting the extra interactions in the Hamiltonian of the ISL relative to the Heisenberg spin ladder to vanish in the expectation in the ground state (GS). Such an ISL analytically has the correct leading terms of both the critical fields of the two QPT's as in the real strongly-coupled compounds: gμ_BH_{c1}=J_{\\perp}-J_{\\parallel} and gμ_BH_{c2}=J_{\\perp}+2J_{\\parallel} in terms of the experimental leg (J_{\\parallel}) and rung (J_{\\perp}) interactions. The symmetric magnetization inflection point is located at gμ_BH_{IP}=J_{\\perp}+J_{\\parallel}/2. The magnetizations for the GS and at finite temperatures, as well as the susceptibility, show good agreements in various comparisons with the finite-site exact diagonalization, the transfer-matrix renormalization group numerical result, the perturbation theory, and the compounds (5IAP)_2CuBr_4\\cdot 2H_2O, Cu_2(C_5H_{12}N_2)_2Cl_4 and (C_5H_{12}N)_2CuBr_4.",
+  "authors": [
+    "Zu-Jian Ying",
+    "Itzhak Roditi",
+    "Huan-Qiang Zhou"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0405274.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0405274.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.105734+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0405274",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0201015",
+  "title": "The Projector Augmented Wave Method: ab-initio molecular dynamics with full wave functions",
+  "abstract": "A brief introduction to the projector augmented wave method is given and recent developments are reviewed. The projector augmented wave method is an all-electron method for efficient ab-initio molecular dynamics simulations with the full wave functions. It extends and combines the traditions of existing augmented wave methods and the pseudopotential approach. Without sacrificing efficiency, the PAW method avoids transferability problems of the pseudopotential approach and it has been valuable to predict properties that depend on the full wave functions.",
+  "authors": [
+    "Peter E. Blöchl",
+    "Clemens J. Först",
+    "Johannes Schimpl"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0201015.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0201015.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.679257+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0201015",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

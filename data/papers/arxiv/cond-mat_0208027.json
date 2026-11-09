@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0208027",
+  "title": "First Principles Force Field for Metallic Tantalum",
+  "abstract": "We propose a general strategy to develop accurate Force Fields (FF) for metallic systems derived from ab initio quantum mechanical (QM) calculations; we illustrate this approach for tantalum. As input data to the FF we use the linearized augmented plane wave method (LAPW) with the generalized gradient approximation (GGA) to calculate: (i) the zero temperature equation of state (EOS) of Ta for bcc, fcc, and hcp crystal structures for pressures up to ~500 GPa. (ii) Elastic constants. (iii) We use a mixed-basis pseudopotential code to calculate volume relaxed vacancy formation energy also as a function of pressure. In developing the Ta FF we also use previous QM calculations of: (iv) the equation of state for the A15 structure. (v) the surface energy bcc (100). (vi) energetics for shear twinning of the bcc crystal. We find that withappropriate parameters an embedded atom model force field (denoted as qEAM FF) is able to reproduce all this QM data. Thus, the same FF describes with good accuracy the bcc, fcc, hcp and A15 phases of Ta for pressures from ~ -10 GPa to \\~ 500 GPa, while also describing the vacancy, surface energy, and shear transformations. The ability of this single FF to describe such a range of systems with a variety of coordinations suggests that it would be accurate for describing defects such as dislocations, grain boundaries, etc.   We illustrate the use of the qEAM FF with molecular dynamics to calculate such finite temperature properties as the melting curve up to 300 GPa; we obtain a zero pressure melting temperature of T_{melt}=3150 +/- 50 K in good agreement with experiment (3213-3287 K). We also report on the thermal expansion of Ta in a wide temperature range; our calculated thermal expansivity agrees well with experimental data.",
+  "authors": [
+    "Alejandro Strachan",
+    "Tahir Cagin",
+    "Oguz Gulseren",
+    "Sonali Mukherjee",
+    "Ronald E. Cohen",
+    "William A. Goddard"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0208027.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0208027.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.829852+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0208027",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

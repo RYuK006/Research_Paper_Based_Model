@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0112254",
+  "title": "Monte Carlo study of the magnetic properties of the 3D Hubbard model",
+  "abstract": "We investigate numerically the magnetic properties of the 3D Isotropic and Anisotropic Hubbard model at half-filling. The behavior of the transition temperature as a function of the anisotropic hopping parameter is qualitatively described. In the Isotropic model we measure the scaling properties of the susceptibility finding agreement with the magnetic critical exponents of the 3D Heisenberg model. We also describe several particularities concerning the implementation of our simulation in a cluster of personal computers.",
+  "authors": [
+    "Isabel Campos",
+    "James W. Davenport"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "hep-lat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0112254.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0112254.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.547152+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0112254",
+    "categories": [
+      "cond-mat.str-el",
+      "hep-lat"
+    ]
+  }
+}

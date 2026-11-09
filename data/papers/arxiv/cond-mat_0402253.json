@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0402253",
+  "title": "Spin and Valley dependent analysis of the two-dimensional low-density electron system in Si-MOSFETS",
+  "abstract": "The 2-D electron system (2DES) in Si metal-oxide field-effect transistors (MOSFETS) consists of two distinct electron fluids interacting with each other. We calculate the total energy as a function of the density $n$, and the spin polarization $ζ$ in the strongly-correlated low-density regime, using a classical mapping to a hypernetted-chain (CHNC) equation inclusive of bridge terms. Here the ten distribution functions, arising from spin and valley indices, are self-consistently calculated to obtain the total free energy, the chemical potential, the compressibility and the spin susceptibility. The T=0 results are compared with the 2-valley Quantum Monte Carlo (QMC) data of Conti et al. (at T=0, $ζ=0$) and found to be in excellent agreement. However, unlike in the one-valley 2DES, it is shown that {\\it the unpolarized phase is always the stable phase in the 2-valley system}, right up to Wigner Crystallization at $r_s=42$. This leads to the insensitivity of $g^*$ to the spin polarization and to the density. The compressibility and the spin-susceptibility enhancement calculated from the free energy confirm the validity of a simple approach to the two-valley response based on coupled-mode formation. The three methods, QMC, CHNC, and Coupled-mode theory agree closely. Our results contain no {\\it ad hoc} fit parameters. They agree with experiments and do not invoke impurity effects or metal-insulator transition phenomenology.",
+  "authors": [
+    "M. W. C. Dharma-wardana",
+    "François Perrot"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevB.70.035308",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.mes-hall",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0402253.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0402253.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.295090+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0402253",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

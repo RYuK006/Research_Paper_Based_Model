@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0302101",
+  "title": "Connectivity of Turing structures",
+  "abstract": "It is well-known that in two dimensions Turing systems produce spots, stripes and labyrinthine patterns, and in three dimensions lamellar and spherical structures or their combinations are observed. We study transitions between these states in both two and three dimensions by first analytically deriving a control parameter and a scaling function for the number of clusters. Then, we apply large scale computer simulations to study the effect of nonlinearities on clustering, the appearance of topological defects and morphological changes in Turing structures. In the two-dimensional real space spotty structures we find some evidence of twin domain formation, of the kind seen in crystalline materials. With the help of reciprocal space analysis we find indication of other more general forms of order accommodation, i.e., eutactic local structures. Also a mechanism for the observed ``connectivity transition'' is proposed.",
+  "authors": [
+    "Teemu Leppanen",
+    "Mikko Karttunen",
+    "R. A. Barrio",
+    "Kimmo Kaski"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "nlin.PS"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0302101.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0302101.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.742268+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0302101",
+    "categories": [
+      "cond-mat.stat-mech",
+      "nlin.PS"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0406414",
+  "title": "Determination of the basic timescale in kinetic Monte Carlo simulations by comparison with cyclic-voltammetry experiments",
+  "abstract": "While kinetic Monte Carlo simulations can provide long-time simulations of the dynamics of physical and chemical systems, it is not yet possible in general to identify the inverse Monte Carlo attempt frequency with a physical timescale. Here we demonstrate such an identification by comparing simulations with experimental data. Using a dynamic lattice-gas model for the electrosorption of Br on Ag(100), we measure the scan-rate dependence of the separation between positive-and negative-going peaks in cyclic-voltammetry (CV) and compare simulated and experimental peak separations. By adjusting the Monte Carlo attempt frequency, good agreement between simulated and experimental peak separations is achieved. It is also found that the uniqueness of such a determination is dependent on the relative values of the adsorption/desorption and diffusion free-energy barriers.",
+  "authors": [
+    "I. Abou Hamad",
+    "P. A. Rikvold",
+    "G. Brown"
+  ],
+  "year": 2004,
+  "doi": "10.1016/j.susc.2004.09.026",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0406414.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0406414.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.529207+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0406414",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0208097",
+  "title": "Dipolar interaction between two-dimensional magnetic particles",
+  "abstract": "We determine the effective dipolar interaction between single domain two-dimensional ferromagnetic particles (islands or dots), taking into account their finite size. The first correction term decays as 1/D^5, where D is the distance between particles. If the particles are arranged in a regular two-dimensional array and are magnetized in plane, we show that the correction term reinforces the antiferromagnetic character of the ground state in a square lattice, and the ferromagnetic one in a triangular lattice. We also determine the dipolar spin-wave spectrum and evaluate how the Curie temperature of an ensemble of magnetic particles scales with the parameters defining the particle array: height and size of each particle, and interparticle distance. Our results show that dipolar coupling between particles might induce ferromagnetic long range order at experimentally relevant temperatures. However, depending on the size of the particles, such a collective phenomenon may be disguised by superparamagnetism.",
+  "authors": [
+    "Paolo Politi",
+    "Maria Gloria Pini"
+  ],
+  "year": 2002,
+  "doi": "10.1103/PhysRevB.66.214414",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0208097.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0208097.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.866143+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0208097",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

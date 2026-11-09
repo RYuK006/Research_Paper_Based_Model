@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0101184",
+  "title": "Dynamic Drop Models",
+  "abstract": "We follow the dynamic evolution of a cluster of Ising spins pointing up surrounded by other spins pointing down, on a lattice. The cluster represents a liquid drop. Under a microscopic point of view, the short range ferromagnetic coupling between these spins plays the role of the van der Waals attraction. Alternatively, under a macroscopic point of view, the same ferromagnetic coupling gives rise to the surface tension along the drop boundary. This naive model is applied to the study of different systems, out of thermodynamic equilibrium. For each such a system, other interaction terms can be included, for instance an external magnetic field with a downwards uniform gradient, representing Earth's gravity. Also, for each system, proper dynamic rules and boundary conditions are adopted. The behaviour of such a drop is monitored as a function of time, through computer simulations. Many quantities of interest, in particular those related to drop fragmentation, were measured and the results were compared with available experimental data. The real systems we have in mind are exemplified by water drops falling from a leaky faucet, nuclear multifragmentation, mercury drops falling on the ground, magnetic hysteresis curves, and interface roughness.",
+  "authors": [
+    "P. M. C. de Oliveira",
+    "T. J. P. Penna",
+    "A. R. Lima",
+    "J. S. Sá Martins",
+    "C. Moukarzel",
+    "C. A. F. Leite"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0101184.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0101184.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:04.532042+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0101184",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

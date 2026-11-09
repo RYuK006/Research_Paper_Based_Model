@@ -1,0 +1,32 @@
+{
+  "id": "arxiv:cond-mat/0301509",
+  "title": "Specific Heat of the S=1/2 Two-Dimensional Shastry-Sutherland Antiferromagnet SrCu2(BO3)2 in High Magnetic Fields",
+  "abstract": "We characterize the field-induced magnetic phases of SrCu2(BO3)2, a frustrated spin-1/2 Heisenberg antiferromagnet in the two-dimensional Shastry-Sutherland lattice, using specific heat in magnetic fields up to 33 T. We find that the spin gap persists above the expected critical field Hc = Delta/g*mu_B of 21 T despite the appearance of magnetic moment in the ground state. At the magnetization plateau at 1/8 of the saturation, the Sz = +1 triplets that carry the magnetization of the ground state are observed to form a two-dimensional spin gas of massive bosons. A spin gas consisting of the same number of massive particles continues to completely dominate the specific heat in the field region above the plateau, although the magnetization increases with increasing field. Ordering is observed at a temperature immediately below the spin-gas regime.",
+  "authors": [
+    "H. Tsujii",
+    "R. C. Rotundu",
+    "B. Andraka",
+    "Y. Takano",
+    "H. Kageyama",
+    "Y. Ueda"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0301509.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0301509.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.590232+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0301509",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0403581",
+  "title": "Pseudogap in the optical phonon spectra",
+  "abstract": "The energy spectrum of the quantum Klein-Gordon lattice is computed numerically for different nonlinear contributions to the Hamiltonian. In agreement with the studies on the effective Hubbard Hamiltonian for boson quasi-particles (see for instance Refs.\\onlinecite{AGRANOVICH,Eilbeck}) a pairing of the phonon states is found when the nonlinearity of the lattice is significant. On the opposite, when the nonlinear contribution is weak or moderate, which is common in materials the effective Hamiltonian is not appropriate because it neglects all the energy terms that do not conserve the boson number. Then for a realistic modelling of the hybridization between the free phonon and the phonon bound pairs, the Klein-Gordon Hamiltonian is required since it is derived from the potential energy of the atoms and thus it does not involve any arbitrary quanta conservation. Actually, when the nonlinearity is weak we prove that the binding energy of the phonon bound pairs vanishes at the center of the lattice Brillouin zone whereas at the edge, it may be comparable to the phonon band width.Consequently, the signature of a weak nonlinearity is found to be a pseudogap that opens in the spectrum region of the two phonon energy, at the edge of the lattice Brillouin zone. Our results are shown to be valid for all the lattice dimensions and for some model parameters that are relevant for the optical phonon spectra.",
+  "authors": [
+    "L. Proville"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0403581.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0403581.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.794452+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0403581",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

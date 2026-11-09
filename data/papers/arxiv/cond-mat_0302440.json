@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0302440",
+  "title": "Field-induced XY behavior in the S=1/2 antiferromagnet on the square lattice",
+  "abstract": "Making use of the quantum Monte Carlo method based on the worm algorithm, we study the thermodynamic behavior of the S=1/2 isotropic Heisenberg antiferromagnet on the square lattice in a uniform magnetic field varying from very small values up to the saturation value. The field is found to induce a Berezinskii-Kosterlitz-Thouless transition at a finite temperature, above which a genuine XY behavior in an extended temperature range is observed. The phase diagram of the system is drawn, and the thermodynamic behavior of the specific heat and of the uniform and staggered magnetization is discussed in sight of an experimental investigation of the field-induced XY behavior.",
+  "authors": [
+    "Alessandro Cuccoli",
+    "Tommaso Roscilde",
+    "Ruggero Vaia",
+    "Paola Verrucchi"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevB.68.060402",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0302440.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0302440.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.897295+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0302440",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "arxiv:cond-mat/0310736",
+  "title": "Two dimensional nature of superconductivity in intercalated layered systems Li$_{x}$HfNCl and Li$_{x}$ZrNCl: muon spin relaxation and magnetization measurements",
+  "abstract": "We report muon spin relaxation ($μ$SR) and magnetization measurements, together with synthesis and characterization, of the Li-intercalated layered superconductors Li$_{x}$HfNCl and Li$_{x}$ZrNCl with/without co-intercalation of THF (tetrahydrofuran) or PC (propylene carbonate). The 3-dimensional (3-d) superfluid density $n_{s}/m^{*}$ (superconducting carrier density / effective mass), as well as the two dimensional superfluid density $n_{s2d}/m^{*}_{ab}$ (2-dimensional (2-d) area density of superconducting carriers / ab-plane effective mass), have been derived from the $μ$SR results of the magnetic-field penetration depth $λ_{ab}$ observed with external magnetic field applied perpendicular to the 2-d honeycomb layer of HfN / ZrN. In a plot of $T_{c}$ versus $n_{s2d}/m^{*}_{ab}$, most of the results lie close to the linear relationship found for underdoped high-$T_{c}$ cuprate (HTSC) and layered organic BEDT superconductors. In Li$_{x}$ZrNCl without THF intercalation, the superfluid density and $T_{c}$ for $x$ = 0.17 and 0.4 do not show much difference, reminiscent of $μ$SR results for some overdoped HTSC systems. Together with the absence of dependence of $T_{c}$ on average interlayer distance among ZrN / HfN layers, these results suggest that the 2-d superfluid density $n_{s2d}/m^{*}_{ab}$ is a dominant determining factor for $T_{c}$ in the intercalated nitride-chloride systems. We also report $μ$SR and magnetization results on depinning of flux vortices, and the magnetization results for the upper critical field $H_{c2}$ and the penetration depth $λ$. Reasonable agreement was obtained between $μ$SR and magnetization estimates of $λ$. We discuss the two dimensional nature of superconductivity in the nitride-chloride systems based on these results.",
+  "authors": [
+    "T. Ito",
+    "Y. Fudamoto",
+    "A. Fukaya",
+    "I. M. Gat-Malureanu",
+    "M. I. Larkin",
+    "P. L. Russo",
+    "A. Savici",
+    "Y. J. Uemura",
+    "K. Groves",
+    "R. Breslow",
+    "K. Hotehama",
+    "S. Yamanaka",
+    "P. Kyriakou",
+    "M. Rovers",
+    "G. M. Luke",
+    "K. M. Kojima"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0310736.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0310736.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.055180+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0310736",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

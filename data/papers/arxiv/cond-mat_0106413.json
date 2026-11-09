@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0106413",
+  "title": "Convective Instability of Magnetized Ferrofluids: Influence of Magnetophoresis and Soret Effect",
+  "abstract": "Convective instability in a ferrofluid layer heated from below or from above in the presence of a uniform vertical magnetic field is investigated theoretically. Convection is caused by a magnetic mechanism based on the temperature and concentration dependence of magnetization. An imposed temperature gradient establishes (by the Soret effect) a concentration gradient of magnetic particles of which the ferrofluid is composed. Both these gradients cause a spatial variation in magnetization, which induces a gradient of magnetic field intensity within the fluid layer. The field gradient induces in its turn an additional redistribution of magnetic grains due to magnetophoresis. Resulting self-consistent magnetic force tries to mix the fluid. A linear stability analysis predicts oscillatory instability in a certain region of the magnetic field strength and the fluid parameters. The instability owes magneto- and thermophoresis its origin: were the particle diffusion not operative, then only stationary instability would occur. A discovery of predicted convective oscillations is expected in ferrofluid layers about 1 mm thick, where the buoyancy mechanism is negligible and the characteristic diffusion time is not too long.",
+  "authors": [
+    "Mark I. Shliomis"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0106413.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0106413.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.862307+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0106413",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

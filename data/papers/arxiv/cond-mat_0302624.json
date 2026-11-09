@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0302624",
+  "title": "Scaling and Commonality in Anomalous Fluctuation Statistics in Models for Turbulence and Ferromagnetism",
+  "abstract": "Recently, Portelli et al (2003) have semi-numerically obtained a functional form of the probability distribution of fluctuations in the total energy flow in a model for fluid turbulence. This follows earlier work suggesting that fluctuations in the total magnetization in the 2D X-Y model for a ferromagnet also follow this distribution. Here, starting from the scaling ansatz that is the basis of the turbulence model we analytically derive the functional form of this distribution and find its single control parameter that depends upon the scaling exponents and system size of the model. Our analysis allows us to identify this explicitly with that of the X-Y model, and suggest a possible generalization.",
+  "authors": [
+    "S. C. Chapman",
+    "G. Rowlands",
+    "N. W. Watkins"
+  ],
+  "year": 2005,
+  "doi": "10.1088/0305-4470/38/10/016",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0302624.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0302624.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.954079+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0302624",
+    "categories": [
+      "cond-mat.stat-mech"
+    ]
+  }
+}

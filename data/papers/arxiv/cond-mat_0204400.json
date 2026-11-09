@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0204400",
+  "title": "Elastic properties of proteins: insight on the folding process and evolutionary selection of native structures",
+  "abstract": "We carry out a theoretical study of the vibrational and relaxation properties of naturally-occurring proteins with the purpose of characterizing both the folding and equilibrium thermodynamics. By means of a suitable model we provide a full characterization of the spectrum and eigenmodes of vibration at various temperatures by merely exploiting the knowledge of the protein native structure. It is shown that the rate at which perturbations decay at the folding transition correlates well with experimental folding rates. This validation is carried out on a list of about 30 two-state folders. Furthermore, the qualitative analysis of residues mean square displacements (shown to accurately reproduce crystallographic data) provides a reliable and statistically accurate method to identify crucial folding sites/contacts. This novel strategy is validated against clinical data for HIV-1 Protease. Finally, we compare the spectra and eigenmodes of vibration of natural proteins against randomly-generated compact structures and regular random graphs. The comparison reveals a distinctive enhanced flexibility of natural structures accompanied by slow relaxation times at the folding temperature. The fact that these properties are intimately connected to the presence and assembly of secondary motifs hints at the special criteria adopted by evolution in the selection of viable folds.",
+  "authors": [
+    "Cristian Micheletti",
+    "Gianluca Lattanzi",
+    "Amos Maritan"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.soft",
+    "q-bio.BM"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0204400.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0204400.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.533359+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0204400",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.soft",
+      "q-bio.BM"
+    ]
+  }
+}

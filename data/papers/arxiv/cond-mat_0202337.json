@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0202337",
+  "title": "Simulation of models for the glass transition: Is there progress?",
+  "abstract": "The glass transition of supercooled fluids is a particular challenge for computer simulation, because the (longest) relaxation times increase by about 15 decades upon approaching the transition temperature T_g. Brute-force molecular dynamics simulations, as presented here for molten SiO_2 and coarse-grained bead-spring models of polymer chains, can yield very useful insight about the first few decades of this slowing down. Hence this allows to access the temperature range around T_c of the so-called mode coupling theory, whereas the dynamics around the experimental glass transition is completely out of reach. While methods such as ``parallel tempering'' improve the situation somewhat, a method that allows to span a significant part of the region T_g\\leq T\\leq T_c is still lacking. Only for abstract models such as the infinite range 10-state Potts glass with a few hundred spins this region can be explored. However this model suffers from very strong finite size effects thus making it difficult to extrapolate the results obtained for the finite system sizes to the thermodynamic limit. For the case of polymer melts, two different strategies to use lattice models instead of continuum models are discussed: In the first approach, a mapping of an atomistically realistic model of polyethylene to the bond fluctuation model with suitable effective potentials and a temperature-dependent time rescaling factor is attempted. In the second approach, devoted to a test of the entropy theory, moves that are artificial but which lead to a faster relaxation (``slithering snake'' algorithm) are used, to get at least static properties at somewhat lower temperatures than possible with a ``realistic'' dynamics. The merits and shortcomings of all these approaches are discussed.",
+  "authors": [
+    "Kurt Binder",
+    "Jörg Baschnagel",
+    "Walter Kob",
+    "Wolfgang Paul"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.dis-nn"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0202337.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0202337.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.055470+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0202337",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.dis-nn"
+    ]
+  }
+}

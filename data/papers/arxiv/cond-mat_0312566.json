@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0312566",
+  "title": "Superfluid density in the underdoped YBa_2Cu_3O_{7-x}: Evidence for d-density wave order of pseudogap",
+  "abstract": "The investigation of the penetration depth λ_{ab}(T,p) in YBa_2Cu_3O_{7-x} crystals allowed to observe the following features of the superfluid density n_s(T,p)\\propto λ_{ab}^{-2}(T,p) as a function of temperature T<Tc/2 and carrier concentration 0.078\\le p\\le 0.16 in CuO_2 planes: (i) n_s(0,p) depends linearly on p, (ii) the derivative |dn_s(T,p)/dT|_{T\\to 0} depends on p slightly in the optimally and moderately doped regions (0.10<p\\le 0.16); however, it rapidly increases with p further lowering and (iii) the latter finding is accompanied by the linear low-temperature dependence [-Δn_s(T)]\\propto T changing to [-Δn_s(T)]\\propto \\sqrt{T}. All these peculiarities can be treated in the framework of d-density wave scenario of electronic processes in underdoped high-Tc materials.",
+  "authors": [
+    "M. R. Trunin",
+    "Yu. A. Nefyodov",
+    "A. F. Shevchun"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevLett.92.067006",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0312566.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0312566.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.706114+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0312566",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0405164",
+  "title": "Magnetic phases of $t-J$ model on triangular lattice",
+  "abstract": "We study the magnetic properties of the $t-J$ model on triangular lattice in light of the recently discovered superconductivity in Na$_{x}$CoO$_{2}$ system.   We formulate the problem in the Schwinger Boson - slave Fermion scheme and proposed a sound mean field ansatz(canting ansatz) for the RVB order parameters. Working with the canting ansatz, we map out the temperature-doping phase diagram of the model for both sign of the hopping term. We find the prediction of the $t-J$ model differ drastically from that of earlier LSDA calculation and there is large doping range in which the system show zero net magnetization, rather than saturated magnetization as predicted in the LSDA calculation. We show the result of LSDA is unreliable in the strong coupling regime due to its neglect of electron correlation. We find the spin Berry phase play a vital role in this geometrically frustrated system and the various states in the phases diagram are characterized(and distinguished) by their respective spin Berry phase, rather than any Landau-like order parameter related to broken symmetry. We find the spin Berry phase is responsible for the qualitative difference in the low energy excitation spectrum of the various states of the phase diagram. We argue the phase boundary in the mean field phase diagram may serve as the first explicit and realistic example for phase transition between states with different quantum orders which in our case is nothing but the spin Berry phase. We also find an exotic state with nonzero spin chirality but no spin ordering is stable in a large temperature and doping range and find.......",
+  "authors": [
+    "YongJin Jiang",
+    "Fan Yang",
+    "Tao Li"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0405164.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0405164.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.050147+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0405164",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0209109",
+  "title": "Screening and Dissipation at the Superconductor-Insulator Transition Induced by a Metallic Ground Plane",
+  "abstract": "We study localization phenomena in two dimensional systems of charged particles in the presence of a metallic ground plane with a particular focus on the superconductor-insulator transition. The ground plane introduces a screening of the long-range Coulomb interaction, and provides a source of dissipation due to the gapless diffusive electrons. The interplay of these two effects leads to interesting physical phenomena which are analysed in detail in this paper. We argue that the generic superconductor-insulator transition of charged particles in the presence of the ground plane may be controlled by a {\\it fixed line} with variable critical exponents. This is illustrated by an explicit calculation in an appropriate $ε$ expansion. In contrast, the universal properties of the superconductor-Mott insulator transition in the clean limit at commensurate densities are shown to be unmodified by either the metal or the long-range Coulomb interaction. A similar fixed line can arise in the presence of a metallic ground plane for quantum Hall plateau transitions. Implications for experiments on Josephson-junction arrays and quantum Hall systems are described.",
+  "authors": [
+    "Ashvin Vishwanath",
+    "Joel E. Moore",
+    "T. Senthil"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0209109.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0209109.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:08.957241+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0209109",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ]
+  }
+}

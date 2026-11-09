@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0310451",
+  "title": "Generalized drift-diffusion model for miniband superlattices",
+  "abstract": "A drift-diffusion model of miniband transport in strongly coupled superlattices is derived from the single-miniband Boltzmann-Poisson transport equation with a BGK (Bhatnagar-Gross-Krook) collision term. We use a consistent Chapman-Enskog method to analyze the hyperbolic limit, at which collision and electric field terms dominate the other terms in the Boltzmann equation. The reduced equation is of the drift-diffusion type, but it includes additional terms, and diffusion and drift do not obey the Einstein relation except in the limit of high temperatures.",
+  "authors": [
+    "L. L. Bonilla",
+    "R. Escobedo",
+    "A. Perales"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevB.68.241304",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0310451.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0310451.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:14.895252+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0310451",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.mes-hall"
+    ]
+  }
+}

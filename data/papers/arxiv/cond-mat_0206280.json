@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0206280",
+  "title": "The power of patience: A behavioral regularity in limit order placement",
+  "abstract": "In this paper we demonstrate a striking regularity in the way people place limit orders in financial markets, using a data set consisting of roughly seven million orders from the London Stock Exchange. We define the relative limit price as the difference between the limit price and the best price available. Merging the data from 50 stocks, we demonstrate that for both buy and sell orders, the unconditional cumulative distribution of relative limit prices decays roughly as a power law with exponent approximately 1.5. This behavior spans more than two decades, ranging from a few ticks to about 2000 ticks. Time series of relative limit prices show interesting temporal structure, characterized by an autocorrelation function that asymptotically decays as tau^(-0.4). Furthermore, relative limit price levels are positively correlated with and are led by price volatility. This feedback may potentially contribute to clustered volatility.",
+  "authors": [
+    "Ilija I. Zovko",
+    "J. Doyne Farmer"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0206280.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0206280.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.191809+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0206280",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

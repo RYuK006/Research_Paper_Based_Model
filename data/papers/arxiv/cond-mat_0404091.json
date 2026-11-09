@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0404091",
+  "title": "Fluxon-semifluxon interaction in an annular long Josephson 0-pi-junction",
+  "abstract": "We investigate theoretically the interaction between integer and half-integer Josephson vortices (fluxons and semifluxons) in an annular Josephson junction. Semifluxons usually appear at the 0-$π$-boundary where there is a $π$-discontinuity of the Josephson phase. We study the simplest, but the most interesting case of one $π$-discontinuity in a loop, which can be created only artificially. We show that measuring the current-voltage characteristic after injection of an integer fluxon, one can determine the polarity of a semifluxon. Depending on the relative polarity of fluxon and semifluxon the static configuration may be stable or unstable, but in the dynamic state both configurations are stable. We also calculate the depinning current of $N$ fluxons pinned by an arbitrary fractional vortex.",
+  "authors": [
+    "E. Goldobin",
+    "N. Stefanakis",
+    "D. Koelle",
+    "R. Kleiner"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevB.70.094520",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0404091.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0404091.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:46.610386+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0404091",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0302364",
+  "title": "Numerical Modelling of Transport Processes in Semiconductors",
+  "abstract": "The peculiarities of electric current in semiconductors with nonuniform distribution of charge carriers are studied. The semiclassical drift-diffusion equations consisting of the continuity equations and the Poisson equation are solved numerically using Rusanov finite-difference scheme of third order. The different types of boundary conditions are numerically investigated. It is shown that the stability of the Rusanov scheme for the problem considered is achieved with the Neumann type boundary conditions. These conditions correspond to the absence of diffusion through semiconductor surface. Special set of parameters is found under which a very interesting and unusual transient effect of negative current in nonuniform semiconductors appears. Different regimes of negative current are considered for realistic semiconductor materials.",
+  "authors": [
+    "E. P. Yukalova",
+    "V. I. Yukalov"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0302364.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0302364.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.869918+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0302364",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

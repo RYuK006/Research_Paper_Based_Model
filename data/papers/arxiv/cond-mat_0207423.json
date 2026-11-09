@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0207423",
+  "title": "Simulations of Helix Unwinding in Ferroelectric Liquid Crystals",
+  "abstract": "In bulk ferroelectric liquid crystals, the molecular director twists in a helix. In narrow cells, this helix can be unwound by an applied electric field or by boundary effects. To describe helix unwinding as a function of both electric field and boundary effects, we develop a mesoscale simulation model based on a continuum free energy discretized on a two-dimensional lattice. In these simulations, we determine both the director profile across the cell and the net electrostatic polarization. By varying the cell size, we show how boundary effects shift the critical field for helix unwinding and lower the saturation polarization. Our results are consistent with experimental data.",
+  "authors": [
+    "Nurit Baytch",
+    "Robin L. B. Selinger",
+    "Jonathan V. Selinger",
+    "R. Shashidhar"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevE.68.041702",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0207423.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0207423.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.570297+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0207423",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

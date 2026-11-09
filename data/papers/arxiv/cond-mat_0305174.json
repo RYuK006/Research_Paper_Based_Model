@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0305174",
+  "title": "Photoemission spectra of a two-dimensional S=1/2 quantum antiferromagnet in magnetic fields: a theoretical study",
+  "abstract": "We calculate the angular resolved photoemission spectra (ARPES) of a spin-1/2 Heisenberg antiferromagnet as a function of magnetic fields using both the exact diagonalization method and self-consistent Born approximation. Below the saturation field $B_C$, strong scattering between spin waves and a hole, created by photoemission of an electron, significantly narrows the quasiparticle band that is characterized by the lowering of the quasiparticle energy at $(π,π)$ with increasing field. Accordingly, in ARPES the quasiparticle peak gets shaper near $(π,π)$ and broader elsewhere. Furthermore, we observe that an anomalous extended van Hove region (EVHR) around $(π,π)$ appears in a half saturation field, while EVHRs around $(π,0)$ and $(0,π)$ in zero field gradually disappear with increasing field.",
+  "authors": [
+    "Wei-Guo Yin",
+    "W. N. Mei"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0305174.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0305174.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.484493+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0305174",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

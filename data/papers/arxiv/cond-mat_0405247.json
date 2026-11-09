@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0405247",
+  "title": "Stochastic dynamics of adhesion clusters under shared constant force and with rebinding",
+  "abstract": "Single receptor-ligand bonds have finite lifetimes, so that biological systems can dynamically react to changes in their environment. In cell adhesion, adhesion bonds usually act cooperatively in adhesion clusters. Outside the cellular context, adhesion clusters can be probed quantitatively by attaching receptors and ligands to opposing surfaces. Here we present a detailed theoretical analysis of the stochastic dynamics of a cluster of parallel bonds under shared constant loading and with rebinding. Analytical solutions for the appropriate one-step master equation are presented for special cases, while the general case is treated with exact stochastic simulations. If the completely dissociated state is modeled as an absorbing boundary, mean cluster lifetime is finite and can be calculated exactly. We also present a detailed analysis of fluctuation effects and discuss various approximations to the full stochastic description.",
+  "authors": [
+    "T. Erdmann",
+    "U. S. Schwarz"
+  ],
+  "year": 2004,
+  "doi": "10.1063/1.1805496",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0405247.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0405247.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.089911+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0405247",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

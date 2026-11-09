@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0103057",
+  "title": "Singular Behavior of the Extended Emery Model for High-Tc Superconductors",
+  "abstract": "The three band structure of the extended Emery model for the copper-oxide layered materials is analyzed for all the values of the effective tight-binding parameters. The model is characterized by the Cu-O site energy splitting, the Cu-O first neighbor hopping and the O-O second neighbor hopping. For the sufficiently large O-O hoppings, two bands can come together at one point on the diagonal of the square Brillouin zone, but they cannot cross. The range of the parameters for which the band touching occurs is determined. The model relates the band touching at the bottom of the two bands to the appearance of the extended, one-dimensional-like van Hove singularity at the lower edge of the density of states. With 1+δholes (δsmall) the extended van Hove singularity can thus occur close to the Fermi level only if the latter cuts two bands.The topology of the Fermi surfaces observed by ARPES in the high-Tc superconductors elliminates such possibility. The Fermi surfaces in LSCO, Bi1221 and Y123 are than fitted with the one of the three bands at the Fermi level. The agreement is excellent considering in particular the fact that the fits use only two parameters. The departure of the measured band structure from the three band prediction, found on the small energy scales away from the Fermi level, is attributed to the effects of the fluctuations not included into the energy scales which define the three band structure.",
+  "authors": [
+    "Ivana Mrkonjic",
+    "Slaven Barisic"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0103057.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0103057.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:04.939098+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0103057",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

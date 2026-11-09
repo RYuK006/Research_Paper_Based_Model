@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0404251",
+  "title": "Effects of anisotropy on a quantum Heisenberg spin glass in a three-dimensional hierarchical lattice",
+  "abstract": "We study the anisotropic Heisenberg spin-glass model in a three-dimensional hierarchical lattice (designed to approximate the cubic lattice), within a real-space renormalization-group approach. Two different initial probability distributions for the exchange interaction ($J_{ij}$), Gaussian and uniform, are used, with zero mean and width $\\bar{J}$. The $(kT/\\bar{J}) \\times Δ_0$ phase diagram is obtained, where $T$ is the temperature, $Δ_0$ is the first moment of the probability distribution for the uniaxial anisotropy, and $k$ is the Boltzmann constant. For the Ising model ($Δ_0=1$), there is a spin-glass phase at low temperatures (high $\\bar{J}$) and a paramagnetic phase at high temperatures (low $\\bar{J}$). For the isotropic Heisenberg model ($Δ_0=0$), our results indicate no spin-glass phase at finite temperatures. The transition temperature between the spin-glass and paramagnetic phase decreases with $Δ_0$, as expected, but goes to zero at a finite value of the anisotropy parameter, namely $Δ_0 = Δ_c \\sim 0.59$. Our results indicate that the whole transition line, between the paramagnetic and the spin-glass phases, for $Δ_c \\leq Δ_0 < 1$, belongs to the same universality class as the transition for the Ising spin glass.",
+  "authors": [
+    "J. Ricardo de Sousa",
+    "Beatriz Boechat",
+    "Claudette Cordeiro",
+    "N. S. Branco"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0404251.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0404251.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:46.725594+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0404251",
+    "categories": [
+      "cond-mat.stat-mech"
+    ]
+  }
+}

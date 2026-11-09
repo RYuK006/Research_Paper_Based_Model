@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0404073",
+  "title": "Phenomenological Description of Disordering in Ferroelectric Materials Caused by Charged Defects",
+  "abstract": "We propose the phenomenological description of ferroelectric disordering in ferroelectric-semiconductors caused by charged impurities with the charge density random fluctuations. The material improper conductivity is proportional to the averaged impurity charge density. For high enough conductivity free carriers screen fluctuations in the absence of an external field. When external electric field is applied, inner field fluctuations and dynamical induction fluctuations appear in the inhomogeneously polarized system \"charged defect + screening cloud\". We show that the macroscopic state of ferroelectric-semiconductor with random charged defects and sufficiently high improper conductivity can be described by three coupled equations for three parameters averaged over sample volume. Induction determines the ferroelectric ordering in the system, its square fluctuation determines disordering caused by electric field fluctuations appeared around charged fluctuations, and averaged product of fluctuations of induction and charge density reflects the correlations between the free carriers screening cloud and charged defects fluctuations. For the first time we derive the following nonlinear system of coupled equations. The obtained system of coupled equations adequately describes the peculiarities of polarization switching (footprint and minor hysteresis loops) in such bulk ferroelectric materials as PLZT ceramics and SBN single crystals doped with cerium.",
+  "authors": [
+    "Anna N. Morozovska",
+    "Eugeny A. Eliseev"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0404073.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0404073.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:46.597763+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0404073",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

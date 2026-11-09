@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0302070",
+  "title": "Cluster Model of Decagonal Tilings",
+  "abstract": "A relaxed version of Gummelt's covering rules for the aperiodic decagon is considered, which produces certain random-tiling-type structures. These structures are precisely characterized, along with their relationships to various other random tiling ensembles. The relaxed covering rule has a natural realization in terms of a vertex cluster in the Penrose pentagon tiling. Using Monte Carlo simulations, it is shown that the structures obtained by maximizing the density of this cluster are the same as those produced by the corresponding covering rules. The entropy density of the covering ensemble is determined using the entropic sampling algorithm. If the model is extended by an additional coupling between neighboring clusters, perfectly ordered structures are obtained, like those produced by Gummelt's perfect covering rules.",
+  "authors": [
+    "Michael Reichert",
+    "Franz Gähler"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevB.68.214202",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0302070.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0302070.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.721144+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0302070",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

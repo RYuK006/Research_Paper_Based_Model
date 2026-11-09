@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0102287",
+  "title": "Molecular-dynamics thermal annealing model of laser ablation of silicon",
+  "abstract": "A molecular-dynamics thermal annealing model is proposed to investigate the mechanisms involved in picosecond pulsed laser ablation of crystalline silicon. In accordance with the thermal annealing model, a detailed description of the microscopic processes which result from the interaction of a 308 nm, 10 ps, Gaussian pulse with a Si(100) substrate has been embedded into a molecular-dynamics scheme. This was accomplished by explicitly accounting for carrier-phonon scattering and carrier diffusion. Below the predicted threshold fluence for ablation, $F_{th}=0.25 \\text{J/cm}^{2}$, a surface breathing mode indicates that the solid restores internal equilibrium by the generation of pressure waves. Above $F_{th}$, our simulations reveal that matter removal is triggered by subsurface superheating effects: intense heating of the material leads to the thermal confinement of the laser-deposited energy. As a result, the material is overheated up to a temperature corresponding to the critical point of silicon and a strong pressure gradient builds up within the absorbing volume. At the same time, diffusion of the carriers into the bulk leads to the development of a steep temperature gradient beneath the surface. Matter removal is subsequently driven by the relaxation of the pressure gradient: large pieces --- several atomic layers thick --- of molten material are expelled from the surface with initial axial velocities of $\\sim 1000 \\text{m/s}$, their ejection following the nucleation of voids beneath the surface.",
+  "authors": [
+    "Patrick Lorazo",
+    "Laurent J. Lewis",
+    "Michel Meunier"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0102287.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0102287.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:04.784918+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0102287",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

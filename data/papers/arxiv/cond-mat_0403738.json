@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0403738",
+  "title": "Nanothermodynamics:a generic approach to material properties at nanoscale",
+  "abstract": "Granular and nanoscale materials containing a relatively small number of constituents have been studied to discover how their properties differ from their macroscopic counterparts. These studies are designed to test how far the known macroscopic approaches such as thermodynamics may be applicable in these cases. A brief review of the recent literature on these topics is given as a motivation to introduce a generic approach called nanothermodynamics. An important feature that must be incorporated into the theory is the non-additive property because of the importance of surface contributions to the physics of these systems. This is achieved by incorporating fluctuations into the theory right from the start. There are currently two approaches to incorporate this property. Hill (and further elaborated more recently with Chamberlin) initiated an approach by modifying the thermodynamic relations by taking into account the surface effects. We generalize Boltzmann-Gibbs statistical mechanics by relaxing the additivity properties of thermodynamic quantities to include nonextensive features of such systems. An outline of this generalization of the macroscopic thermodynamics to nano-systems will be given here.",
+  "authors": [
+    "A. K. Rajagopal",
+    "C. S. Pande",
+    "Sumiyoshi Abe"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0403738.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0403738.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.912708+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0403738",
+    "categories": [
+      "cond-mat.stat-mech"
+    ]
+  }
+}

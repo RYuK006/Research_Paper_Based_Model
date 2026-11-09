@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0305074",
+  "title": "A chemically driven fluctuating ratchet model for actomyosin interaction",
+  "abstract": "With reference to the experimental observations by T. Yanagida and his co-workers on actomyosin interaction, a Brownian motor of fluctuating ratchet kind is designed with the aim to describe the interaction between a Myosin II head and a neighboring actin filament. Our motor combines the dynamics of the myosin head with a chemical external system related to the ATP cycle, whose role is to provide the energy supply necessary to bias the motion. Analytical expressions for the duration of the ATP cycle, for the Gibbs free energy and for the net displacement of the myosin head are obtained. Finally, by exploiting a method due to Sekimoto (1997, J. Phys. Soc. Jpn., 66, 1234), a formula is worked out for the amount of energy consumed during the ATP cycle.",
+  "authors": [
+    "T. Shimokawa",
+    "S. Sato",
+    "A. Buonocore",
+    "L. M. Ricciardi"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "q-bio"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0305074.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0305074.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.446982+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0305074",
+    "categories": [
+      "cond-mat.stat-mech",
+      "q-bio"
+    ]
+  }
+}

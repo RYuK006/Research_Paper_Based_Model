@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0302585",
+  "title": "Inferring Pattern and Disorder in Close-Packed Structures from X-ray Diffraction Studies, Part I: epsilon-Machine Spectral Reconstruction Theory",
+  "abstract": "In a recent publication [D. P. Varn, G. S. Canright, and J. P. Crutchfield, Phys. Rev. B {\\bf 66}:17, 156 (2002)] we introduced a new technique for discovering and describing planar disorder in close-packed structures (CPSs) directly from their diffraction spectra. Here we provide the theoretical development behind those results, adapting computational mechanics to describe one-dimensional structure in materials. By way of contrast, we give a detailed analysis of the current alternative approach, the fault model (FM), and offer several criticisms. We then demonstrate that the computational mechanics description of the stacking sequence--in the form of an epsilon-machine--provides the minimal and unique description of the crystal, whether ordered, disordered, or some combination. We find that we can detect and describe any amount of disorder, as well as materials that are mixtures of various kinds of crystalline structure. Underlying this approach is a novel method for epsilon-machine reconstruction that uses correlation functions estimated from diffraction spectra, rather than sequences of microscopic configurations, as is typically used in other domains. The result is that the methods developed here can be adapted to a wide range of experimental systems in which spectroscopic data is available.",
+  "authors": [
+    "D. P. Varn",
+    "G. S. Canright",
+    "J. P. Crutchfield"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0302585.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0302585.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.942924+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0302585",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

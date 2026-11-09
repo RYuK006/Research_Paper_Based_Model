@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0102226",
+  "title": "Theory of a magnetic microscope with nanometer resolution",
+  "abstract": "We propose a theory for a type of apertureless scanning near field microscopy that is intended to allow the measurement of magnetism on a nanometer length scale. A scanning probe, for example a scanning tunneling microscope (STM) tip, is used to scan a magnetic substrate while a laser is focused on it. The electric field between the tip and substrate is enhanced in such a way that the circular polarization due to the Kerr effect, which is normally of order 0.1% is increased by up to two orders of magnitude for the case of a Ag or W tip and an Fe sample. Apart from this there is a large background of circular polarization which is non-magnetic in origin. This circular polarization is produced by light scattered from the STM tip and substrate. A detailed retarded calculation for this light-in-light-out experiment is presented.",
+  "authors": [
+    "Peter Johansson",
+    "S. Peter Apell",
+    "D. R. Penn"
+  ],
+  "year": 2001,
+  "doi": "10.1103/PhysRevB.64.054411",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0102226.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0102226.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:04.750623+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0102226",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0311355",
+  "title": "Quench dynamics across quantum critical points",
+  "abstract": "We study the quantum dynamics of a number of model systems as their coupling constants are changed rapidly across a quantum critical point. The primary motivation is provided by the recent experiments of Greiner et al. (Nature 415, 39 (2002)) who studied the response of a Mott insulator of ultracold atoms in an optical lattice to a strong potential gradient. In a previous work (cond-mat/0205169), it had been argued that the resonant response observed at a critical potential gradient could be understood by proximity to an Ising quantum critical point describing the onset of density wave order. Here we obtain numerical results on the evolution of the density wave order as the potential gradient is scanned across the quantum critical point. This is supplemented by studies of the integrable quantum Ising spin chain in a transverse field, where we obtain exact results for the evolution of the Ising order correlations under a time-dependent transverse field. We also study the evolution of transverse superfluid order in the three dimensional case. In all cases, the order parameter is best enhanced in the vicinity of the quantum critical point.",
+  "authors": [
+    "K. Sengupta",
+    "Stephen Powell",
+    "Subir Sachdev"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevA.69.053616",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0311355.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0311355.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.255973+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0311355",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ]
+  }
+}

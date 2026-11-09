@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0205087",
+  "title": "Reflections Function Method In the X-Ray Reflectometry",
+  "abstract": "The theory of specular X-ray reflectivity from a rough interface based upon the reflection function method (RFM) is proposed. The RFM transforms the second order differential equation for the wave amplitude into the non-linear first order differential equation of Riccati type for the reflection function. This equation is solved in the approximation of the abruptly changing potential, which is justified for the typical angles of X-ray reflectometry. The reflectivity is represented as a series. The first term of this series reproduces the Nevot-Croce approximation and second one gives the phase correction for greater angles. It is shown that the phase correction can be used to obtain the degree of interface asymmetry. The X-ray reflectometry model profiles for Fe/Cr superlattice are used to illustrate the method.",
+  "authors": [
+    "N. V. Bagrets",
+    "E. A. Kravtsov",
+    "V. V. Ustinov"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0205087.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0205087.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.766883+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0205087",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

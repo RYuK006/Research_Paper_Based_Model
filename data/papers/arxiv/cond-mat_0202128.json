@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0202128",
+  "title": "Liquid-gas and other unusual thermal phase transitions in some large-N magnets",
+  "abstract": "Much insight into the low temperature properties of quantum magnets has been gained by generalizing them to symmetry groups of order N, and then studying the large N limit. In this paper we consider an unusual aspect of their finite temperature behavior--their exhibiting a phase transition between a perfectly paramagetic state and a paramagnetic state with a finite correlation length at N = \\infty. We analyze this phenomenon in some detail in the large ``spin'' (classical) limit of the SU(N) ferromagnet which is also a lattice discretization of the CP^{N-1} model. We show that at N = \\infty the order of the transition is governed by lattice connectivity. At finite values of N, the transition goes away in one or less dimension but survives on many lattices in two dimensions and higher, for sufficiently large N. The latter conclusion contradicts a recent conjecture of Sokal and Starinets, yet is consistent with the known finite temperature behavior of the SU(2) case. We also report closely related first order paramagnet-ferromagnet transitions at large N and shed light on a violation of Elitzur's theorem at infinite N via the large q limit of the q-state Potts model, reformulated as an Ising gauge theory.",
+  "authors": [
+    "O. Tchernyshyov",
+    "S. L. Sondhi"
+  ],
+  "year": 2002,
+  "doi": "10.1016/S0550-3213(02)00482-0",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "hep-th"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0202128.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0202128.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.961922+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0202128",
+    "categories": [
+      "cond-mat.str-el",
+      "hep-th"
+    ]
+  }
+}

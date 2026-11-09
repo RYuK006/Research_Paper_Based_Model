@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:chao-dyn/9909016",
+  "title": "Non Perturbative Destruction of Localization in the Quantum Kicked Particle Problem",
+  "abstract": "The angle coordinate of the Quantum Kicked Rotator problem is treated as if it were an extended coordinate. A new mechanism for destruction of coherence by noise is analyzed using both heuristic and formal approach. Its effectiveness constitutes a manifestation of long-range non-trivial dynamical correlations. Perturbation theory fails to quantify certain aspects of this effect. In the perturbative case, for sufficiently weak noise, the diffusion coefficient ${\\cal D}$ is just proportional to the noise intensity $ν$. It is predicted that in some generic cases one may have a non-perturbative dependence ${\\cal D}\\proptoν^α$ with $0.35 < α< 0.38$ for arbitrarily weak noise. This work has been found relevant to the recently studied ionization of H-atoms by a microwave electric field in the presence of noise. Note added (a): Borgonovi and Shepelyansky have adopted this idea of non-perturbative transport, and have demonstrated that the same effect manifests itself in the tight-binding Anderson model with the same exponent $α$. Note added (b): The recent interest in the work reported here comes from the experimental work by the Austin group and by the Auckland group. In these experiment the QKP model is realized literally. However, the novel effect of non-perturbative transport, reported in this Letter, has not been tested yet.",
+  "authors": [
+    "Doron Cohen"
+  ],
+  "year": 1999,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "chao-dyn",
+    "cond-mat",
+    "nlin.CD",
+    "quant-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/chao-dyn/9909016.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\chao-dyn_9909016.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:03.731420+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "chao-dyn/9909016",
+    "categories": [
+      "chao-dyn",
+      "cond-mat",
+      "nlin.CD",
+      "quant-ph"
+    ]
+  }
+}

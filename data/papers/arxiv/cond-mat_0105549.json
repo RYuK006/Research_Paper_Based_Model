@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0105549",
+  "title": "Density profiles in a classical Coulomb fluid near a dielectric wall. I. Mean-field scheme",
+  "abstract": "The equilibrium density profiles in a classical multicomponent plasma near a hard wall made with a dielectric material characterized by a relative dielectric constant $\\ew$ are studied from the first Born-Green-Yvon equation combined with Poisson equation in a regime where Coulomb coupling is weak inside the fluid. In order to prevent the collapse between charges with opposite signs or between each charge and its dielectric image inside the wall when $\\ew >1$, hard-core repulsions are added to the Coulomb pair interaction. The charge-image interaction cannot be treated perturbatively and the density profiles vary very fast in the vicinity of the wall when $\\ew \\neq 1$. The formal solution of the associated inhomogeneous Debye-Hückel equations will be given in Paper II, together with a systematic fugacity expansion which allows to retrieve the results obtained from the truncated \\bgy hierarchy. In the present paper the exact density profiles are calculated analytically up to first order in the coupling parameter. The expressions show the interplay between three effects~: the geometric repulsion from the impenetrable wall; the electrostatic effective attraction ($\\ew >1$) or repulsion ($\\ew <1$) due to its dielectric response; and the Coulomb interaction between each charge and the potential drop created by the electric layer which appears as soon as the system is not symmetric. We exhibit how the charge density profile evolves between a structure with two oppositely-charged layers and a three-layer organization when $\\ew$ varies. (The case of two ideally conducting walls will be displayed elsewhere)",
+  "authors": [
+    "Jean-Noel Aqua",
+    "Francoise Cornu"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0105549.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0105549.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.638703+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0105549",
+    "categories": [
+      "cond-mat.stat-mech"
+    ]
+  }
+}

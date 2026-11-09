@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0106018",
+  "title": "Can mesoscopic fluctuations reverse the supercurrent through a disordered Josephson junction?",
+  "abstract": "We calculate the Josephson coupling energy $U_J(ϕ)$ (related to the supercurrent $I=(2e/\\hbar) dU_J/dϕ$) for a disordered normal metal between two superconductors with a phase difference $ϕ$. We demonstrate that the symmetry of the scattering matrix of non-interacting quasiparticles in zero magnetic field implies that $U_J(ϕ)$ has a minimum at $ϕ=0$. A maximum (that would lead to a $π$-junction or negative superfluid density) is excluded for any realization of the disorder.",
+  "authors": [
+    "M. Titov",
+    "Ph. Jacquod",
+    "C. W. J. Beenakker"
+  ],
+  "year": 2001,
+  "doi": "10.1103/PhysRevB.65.012504",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0106018.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0106018.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.677685+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0106018",
+    "categories": [
+      "cond-mat.mes-hall"
+    ]
+  }
+}

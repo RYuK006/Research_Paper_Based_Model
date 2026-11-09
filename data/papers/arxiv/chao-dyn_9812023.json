@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:chao-dyn/9812023",
+  "title": "Pair correlations of quantum chaotic maps from supersymmetry",
+  "abstract": "A conjecture due to Bohigas, Giannoni and Schmit (BGS), stating that the energy level correlations of quantum chaotic systems generically obey the laws of random matrix theory, is given a precise formulation for quantized symplectic maps. No statement is made about any individual quantum map. Rather, a few-parameter ensemble of maps is considered, such that the deterministic map is composed with a diffusion operator on average. The ensemble is a ``quantum'' one, which is to say that the diffusion operator contracts to the identity in the classical limit. It is argued that the BGS conjecture is true on average over such an ensemble, provided that the classical map is mixing. The method used is closely related to the supersymmetric formalism of Andreev et al for chaotic Hamiltonian systems.",
+  "authors": [
+    "Martin R. Zirnbauer"
+  ],
+  "year": 1998,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "chao-dyn",
+    "cond-mat",
+    "nlin.CD"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/chao-dyn/9812023.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\chao-dyn_9812023.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:03.722685+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "chao-dyn/9812023",
+    "categories": [
+      "chao-dyn",
+      "cond-mat",
+      "nlin.CD"
+    ]
+  }
+}

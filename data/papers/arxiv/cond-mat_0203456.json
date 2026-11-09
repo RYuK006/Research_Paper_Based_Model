@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0203456",
+  "title": "Multiple defect model for non-monotonic structure relaxation in binary systems like Pd-Er alloys charged with hydrogen",
+  "abstract": "In binary metallic systems like the Pd--Er alloys charged with hydrogen the observed structure evolution exhibits complex dynamics. It is characterized by non-monotonic time variations in an Er-rich fraction respect with an Er-poor fraction observed experimentally. The present paper proposes a qualitative model for this non-monotonic structure relaxation. We assume that the alloy have crystalline defects which trap (or emit) an additional amount of Er atoms. Hydrogen atoms into the alloy disturb the phase equilibrium as well as change the defects capacity with respect to Er atoms. Both of these factors lead to the spatial redistribution of Er atoms and cause the interface between the Er-rich and the Er-poor phase to move. The competition of diffusion fluxes in system is responsible for non-monotonic time variations, for example, in the relative volume of the enriched phase. We have found the conditions when the interface motion can change its direction several times during the system relaxation to a new equilibrium state. From our point of view this effect is the essence of the hydrogen induced non-monotonic relaxation observed in such systems. The numerical simulation confirms the basic assumptions.",
+  "authors": [
+    "A. A. Katsnelson",
+    "A. Yu. Lavrenov",
+    "I. A. Lubashevsky"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.dis-nn"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0203456.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0203456.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.288895+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0203456",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.dis-nn"
+    ]
+  }
+}

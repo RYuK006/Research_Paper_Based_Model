@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0205431",
+  "title": "How to derive and parameterize effective potentials in colloid-polymer mixtures",
+  "abstract": "Polymer chains in colloid-polymer mixtures can be coarse-grained by replacing them with single soft particles interacting via effective polymer-polymer and polymer-colloid pair potentials. Here we describe in detail how Ornstein-Zernike inversion techniques, originally developed for atomic and molecular fluids, can be generalized to complex fluids and used to derive effective potentials from computer simulations on a microscopic level. In particular, we consider polymer solutions for which we derive effective potentials between the centers of mass, and also between mid-points or end-points from simulations of self-avoiding walk polymers. In addition, we derive effective potentials for polymers near a hard wall or a hard sphere. We emphasize the importance of including both structural and thermodynamic information (through sum-rules) from the underlying simulations. In addition we develop a simple numerical scheme to optimize the parameterization of the density dependent polymer-polymer, polymer-wall and polymer-sphere potentials for dilute and semi-dilute polymer densities, thus opening up the possibility of performing large-scale simulations of colloid-polymer mixtures. The methods developed here should be applicable to a much wider range effective potentials in complex fluids.",
+  "authors": [
+    "P. G. Bolhuis",
+    "A. A. Louis"
+  ],
+  "year": 2002,
+  "doi": "10.1021/ma010888r",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0205431.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0205431.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.954111+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0205431",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

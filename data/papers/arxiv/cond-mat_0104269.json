@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0104269",
+  "title": "Effective classical Hamiltonians for spin systems: A closed form with quantum spin-wave effects",
+  "abstract": "Thermodynamic properties of any quantum spin system can be described by the formally exact, although in general intractable, effective classical Hamilton function \\cal H. Here we obtain an explicit form of \\cal H which applies at T << J S^2, where J is the exchange and S in the spin value, and incorporates quantum effects at the level of the spin-wave theory (SWT). For a quantum Hamiltonian \\hat H of Heisenberg form, \\cal H is also Heisenberg but with a long-range effective exchange J_{ij}^{eff}, which is the price for including quantum effects. For three-dimensional magnets, classical SWT with \\cal H yields the same results as quantum SWT for the original system, in the antiferromagnetic case with the 1/S correction to the ground-state energy.",
+  "authors": [
+    "D. A. Garanin",
+    "D. V. Dmitriev",
+    "P. Fulde"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0104269.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0104269.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.302098+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0104269",
+    "categories": [
+      "cond-mat.stat-mech"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0304531",
+  "title": "Generalized Coherent State Derivation of TDDFT Equations for Superconductors",
+  "abstract": "Equations of motion are derived for the normal and the anomalous single-electron density matrices of a Fermi liquid using a time dependent finite temperature generalized coherent state (GCS) variational ansatz for the many-body density matrix. Self-consistent equations for the order parameter $Δ$ allow to investigate the interplay of Coulomb repulsion and pairing attraction in homogeneous and inhomogeneous Fermi-liquids with spontaneously broken symmetry such as high temperature superconductors. The temperature of the Kosterlitz-Thouless transition to the two-dimensional superfluidity is calculated.",
+  "authors": [
+    "Oleg Berman",
+    "Shaul Mukamel"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0304531.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0304531.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.222463+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0304531",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

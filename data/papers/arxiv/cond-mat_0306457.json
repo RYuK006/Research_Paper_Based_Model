@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0306457",
+  "title": "The Dependence of the Superconducting Transition Temperature of Organic Molecular Crystals on Intrinsically Non-Magnetic Disorder: a Signature of either Unconventional Superconductivity or Novel Local Magnetic Moment Formation",
+  "abstract": "We give a theoretical analysis of published experimental studies of the effects of impurities and disorder on the superconducting transition temperature, T_c, of the organic molecular crystals kappa-ET_2X and beta-ET_2X (where ET is bis(ethylenedithio)tetrathiafulvalene and X is an anion eg I_3). The Abrikosov-Gorkov (AG) formula describes the suppression of T_c both by magnetic impurities in singlet superconductors, including s-wave superconductors and by non-magnetic impurities in a non-s-wave superconductor. We show that various sources of disorder lead to the suppression of T_c as described by the AG formula. This is confirmed by the excellent fit to the data, the fact that these materials are in the clean limit and the excellent agreement between the value of the interlayer hopping integral, t_perp, calculated from this fit and the value of t_perp found from angular-dependant magnetoresistance and quantum oscillation experiments. If the disorder is, as seems most likely, non-magnetic then the pairing state cannot be s-wave. We show that the cooling rate dependence of the magnetisation is inconsistent with paramagnetic impurities. Triplet pairing is ruled out by several experiments. If the disorder is non-magnetic then this implies that l>=2, in which case Occam's razor suggests that d-wave pairing is realised. Given the proximity of these materials to an antiferromagnetic Mott transition, it is possible that the disorder leads to the formation of local magnetic moments via some novel mechanism. Thus we conclude that either kappa-ET_2X and beta-ET_2X are d-wave superconductors or else they display a novel mechanism for the formation of localised moments. We suggest systematic experiments to differentiate between these scenarios.",
+  "authors": [
+    "B. J. Powell",
+    "Ross H. McKenzie"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevB.69.024519",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0306457.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0306457.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.953195+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0306457",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

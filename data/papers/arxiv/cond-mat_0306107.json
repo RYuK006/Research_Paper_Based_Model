@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0306107",
+  "title": "Vibration Mode Induced Shapiro Steps and Backaction in Josephson Junctions",
+  "abstract": "A model of a superconducting tunnel junction coupled to a mechanical oscillator is studied at zero temperature in the case of linear coupling between the oscillator and tunneling electrons. It is found that the Josephson current flowing between two superconductors is modulated by the motion of the oscillator. Coupling to harmonic oscillator produces additional Shapiro steps in $I-V$ characteristic of Josephson junction whose position is tuned by the frequency of the vibration mode. We also find a new velocity dependent term originating from the backaction of the ac Josephson current. This term is periodic in time and vanishes at zero bias voltage.",
+  "authors": [
+    "Jian-Xin Zhu",
+    "Z. Nussinov",
+    "A. V. Balatsky"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0306107.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0306107.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.812383+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0306107",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.supr-con"
+    ]
+  }
+}

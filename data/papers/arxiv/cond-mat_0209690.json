@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0209690",
+  "title": "Solution of the crystallographic phase problem by iterated projections",
+  "abstract": "An algorithm for determining crystal structures from diffraction data is described which does not rely on the usual Fourier-space formulations of atomicity. The new algorithm implements atomicity constraints in real-space, as well as intensity constraints in Fourier-space, by projections which restore each constraint with the minimal modification of the scattering density. To recover the true density, the two projections are combined into a single operation, the difference map, which is iterated until the magnitude of the density modification becomes acceptably small. The resulting density, when acted upon by a single additional operation, is by construction a density which satisfies both intensity and atomicity constraints. Numerical experiments have yielded solutions for atomic resolution x-ray data sets with over 400 non-hydrogen atoms, as well as for neutron data, where positivity of the density cannot be invoked.",
+  "authors": [
+    "Veit Elser"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0209690.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0209690.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.205817+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0209690",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

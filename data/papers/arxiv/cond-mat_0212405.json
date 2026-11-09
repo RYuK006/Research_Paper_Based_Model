@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0212405",
+  "title": "Local Charge distributions in Metallic Alloys: a Local Field Coherent Potential Approximation Theory",
+  "abstract": "Electronic structure calculations performed on very large supercells have shown that the local charge excesses in metallic alloys are related through simple linear relations to the local electrostatic field resulting from distribution of charges in the whole crystal. By including local external fields in the single site Coherent Potential Approximation theory, we develop a novel theoretical scheme in which the local charge excesses for random alloys can be obtained as the responses to local external fields. Our model maintains all the computational advantages of a single site theory but allows for full charge relaxation at the impurity sites. Through applications to CuPd and CuZn alloys, we find that, as a general rule, non linear charge rearrangements occur at the impurity site as a consequence of the complex phenomena related with the electronic screening of the external potential. This nothwithstanding, we observe that linear relations hold between charge excesses and external potentials, in quantitative agreement with the mentioned supercell calculations, and well beyond the limits of linearity for any other site property.",
+  "authors": [
+    "Ezio Bruno",
+    "Leon Zingales",
+    "Antonio Milici"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.dis-nn"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0212405.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0212405.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.124915+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0212405",
+    "categories": [
+      "cond-mat.dis-nn"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "arxiv:cond-mat/0105276",
+  "title": "Diffusion Dynamics, Moments, and Distribution of First Passage Time on the Protein-Folding Energy Landscape, with Applications to Single Molecules",
+  "abstract": "We study the dynamics of protein folding via statistical energy-landscape theory. In particular, we concentrate on the local-connectivity case with the folding progress described by the fraction of native conformations. We obtain information for the first passage-time (FPT) distribution and its moments. The results show a dynamic transition temperature below which the FPT distribution develops a power-law tail, a signature of the intermittency phenomena of the folding dynamics. We also discuss the possible application of the results to single-molecule dynamics experiments.",
+  "authors": [
+    "Chi-Lun Lee",
+    "Chien-Ting Lin",
+    "George Stell",
+    "Jin Wang"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.stat-mech",
+    "q-bio.BM"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0105276.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0105276.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.547501+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0105276",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.stat-mech",
+      "q-bio.BM"
+    ]
+  }
+}

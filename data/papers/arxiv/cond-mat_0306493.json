@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0306493",
+  "title": "Reexamination of the long-range Potts model: a multicanonical approach",
+  "abstract": "We investigate the critical behavior of the one-dimensional q-state Potts model with long-range (LR) interaction $1/r^{d+σ}$, using a multicanonical algorithm. The recursion scheme initially proposed by Berg is improved so as to make it suitable for a large class of LR models with unequally spaced energy levels. The choice of an efficient predictor and a reliable convergence criterion is discussed. We obtain transition temperatures in the first-order regime which are in far better agreement with mean-field predictions than in previous Monte Carlo studies. By relying on the location of spinodal points and resorting to scaling arguments, we determine the threshold value $σ_c(q)$ separating the first- and second-order regimes to two-digit precision within the range $3 \\leq q \\leq 9$. We offer convincing numerical evidence supporting $σ_c(q)",
+  "authors": [
+    "Sylvain Reynal",
+    "Hung-The Diep"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevE.69.026109",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0306493.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0306493.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.984576+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0306493",
+    "categories": [
+      "cond-mat.stat-mech"
+    ]
+  }
+}

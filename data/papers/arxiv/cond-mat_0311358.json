@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0311358",
+  "title": "Automatic Coarse Graining of Polymers",
+  "abstract": "Several recently proposed semi--automatic and fully--automatic coarse--graining schemes for polymer simulations are discussed. All these techniques derive effective potentials for multi--atom units or super--atoms from atomistic simulations. These include techniques relying on single chain simulations in vacuum and self--consistent optimizations from the melt like the simplex method and the inverted Boltzmann method. The focus is on matching the polymer structure on different scales. Several ways to obtain a time-scale for dynamic mapping are discussed additionally. Finally, similarities to other simulation areas where automatic optimization are applied as well are pointed out.",
+  "authors": [
+    "Roland Faller"
+  ],
+  "year": 2003,
+  "doi": "10.1016/j.polymer.2003.11.053",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0311358.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0311358.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.258968+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0311358",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

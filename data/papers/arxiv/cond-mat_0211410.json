@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0211410",
+  "title": "SQUID magnetometry of superconducting samples: The case of RuSr2GdCu2O8",
+  "abstract": "Inhomogeneities of the field in the superconducting magnet of a superconducting quantum intereference device (SQUID) magnetometer can create serious artefacts in the d.c. magnetization measurements of superconducting samples. We discuss the problem focusing on the procedure of calculating the magnetic moment of a sample from the measured SQUID output signal. The (weakly) ferromagnetic superconductor RuSr2GdCu2O8 has been reported sensitive to inhomogeneities of the SQUID's superconducting magnet, which create artefacts in its measured magnetization. Indeed, we show that, because of the small values of the magnetic hysteresis width, field changes less than 100 microTesla over the scaning length inside the magnet are enough to create spurious signals in the measured magnetic moment of this compound.",
+  "authors": [
+    "Thomas P. Papageorgiou",
+    "Ludwig Bauernfeind",
+    "Hans F. Braun"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0211410.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0211410.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.738942+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0211410",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

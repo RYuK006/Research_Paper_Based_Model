@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0204247",
+  "title": "Heat Conduction in Low Dimensions: From Fermi-Pasta-Ulam Chains to Single-Walled Nanotubes",
+  "abstract": "Heat conduction in 1-dimensional anharmonic systems is anomalous in the sense that the conductivity κscales with a positive power of the system size, κ~ L^α. In two dimensions, previous simulations and theoretical arguments gave a logarithmic divergence. For rectangular systems of size L_\\| x L_\\perp there should be a cross-over from the 2-d to the 1-d behaviour as the aspect ratio r = L_\\| / L_\\perp increases from r=1 to r >> 1. When taking periodic boundary conditions in the transverse direction, this should be of direct relevance for the heat conduction in single-walled carbon nanotubes. In particular, one expects that k nanotubes of diameter R should conduct heat better than a single nanotube of the same length and of radius kR. We study this cross-over numerically by simulating the Fermi-Pasta-Ulam model. Apart from giving a precise estimate of the exponent α, our most intriguing results are that the divergence does not seem to be logarithmic in d=2 but also power-like, and that the cross-over does not happen at a fixed aspect ratio. Instead, it happens at r=r^* with r^* -> \\infty for L -> \\infty.",
+  "authors": [
+    "P. Grassberger",
+    "L. Yang"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0204247.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0204247.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.455512+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0204247",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

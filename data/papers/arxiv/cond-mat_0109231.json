@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0109231",
+  "title": "A study of transverse ply cracking using a discrete element method",
+  "abstract": "We study the transverse cracking of the 90 degree ply in [0/90] cross-ply laminates by means of a discrete element method. To model the 90 degree ply a two-dimensional triangular lattice of springs is constructed where nodes of the lattice model fibers, and springs with random breaking thresholds represent the disordered matrix material in between. The spring-lattice is coupled by interface springs to two rigid bars which represent the two 0 degree plies in the model, which could be sublaminate as well. Molecular dynamics simulation is used to follow the time evolution of the model system. It was found that under gradual loading of the specimen, after some distributed cracking, segmentation cracks occur in the 90 degree ply which then develop into a saturated state where the ply cannot support additional load. The stress distribution between two neighboring segmentation cracks was determined, furthermore, the dependence of the microstructure of damage on the ply's thickness was also studied. To give a quantitative characterization of stiffness degradation, the Young modulus of the system is monitored as a function of the density of segmentation cracks. The results of the simulations are in satisfactory agreement with experimental findings and with the results of analytic calculations.",
+  "authors": [
+    "Falk K. Wittel",
+    "Ferenc Kun",
+    "Bernd-H. Kroeplin",
+    "Hans J. Herrmann"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0109231.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0109231.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.419514+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0109231",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

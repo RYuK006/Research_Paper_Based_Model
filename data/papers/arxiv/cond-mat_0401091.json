@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0401091",
+  "title": "Simulation of Phonon-Polariton Generation and Propagation in Ferroelectric LiNbO3 Crystals",
+  "abstract": "We simulate propagation of phonon-polaritons (admixtures of polar lattice vibrations and electromagnetic waves) in ferroelectric LiNbO3 with a model that consists of a spatially periodic array of harmonic oscillators coupled to THz electromagnetic waves through an electric dipole moment. We show that when this model is combined with the auxiliary differential equation method of finite difference time domain (FDTD) simulations, the salient features of phonon-polaritons may be illustrated. Further, we introduce second order nonlinear coupling to an optical field to demonstrate phonon-polariton generation by impulsive stimulated Raman scattering (ISRS). The phonon-polariton dispersion relation in bulk ferroelectric LiNbO3 is determined from simulation.",
+  "authors": [
+    "David W. Ward",
+    "Eric Statz",
+    "Nikolay Stoyanov",
+    "Keith A. Nelson"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0401091.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0401091.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.912287+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0401091",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

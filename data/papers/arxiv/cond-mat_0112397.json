@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0112397",
+  "title": "Superconducting transition temperatures and coherence length in non s-wave pairing materials correlated with spin-fluctuation mediated interaction",
+  "abstract": "Following earlier work on electron or hole liquids flowing through assemblies with magnetic fluctuations, we have recently exposed a marked correlation of the superconducting temperature Tc, for non s-wave pairing materials, with coherence length xi and effective mass m*. The very recent study of Abanov et al. [Europhys. Lett. 54, 488 (2001)] and the prior investigation of Monthoux and Lonzarich [Phys. Rev. B 59, 14598 (1999)] have each focussed on the concept of a spin-fluctuation temperature T_sf, which again is intimately related to Tc. For the d-wave pairing via antiferromagnetic spin fluctuations in the cuprates, these studies are brought into close contact with our own work, and the result is that k_B T_sf ~ hbar^2 / m* xi^2. This demonstrates that xi is also determined by such antiferromagnetic spin-fluctuation mediated pair interaction. The coherence length in units of the lattice spacing is then essentially given in the cuprates as the square root of the ratio of two characteristic energies, namely: the kinetic energy of localization of a charge carrier of mass m* in a specified magnetic correlation length to the hopping energy. The quasi-2D ruthenate Sr_2RuO_4, with Tc ~ 1.3 K, has p-wave spin-triplet pairing and so is also briefly discussed here.",
+  "authors": [
+    "G. G. N. Angilella",
+    "N. H. March",
+    "R. Pucci"
+  ],
+  "year": 2001,
+  "doi": "10.1103/PhysRevB.65.092509",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0112397.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0112397.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.606937+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0112397",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

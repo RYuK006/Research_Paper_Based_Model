@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0304643",
+  "title": "An ab-initio many-body method for electronic structure calculations of solids. I. Description of the method",
+  "abstract": "We propose a new, alternative method for ab-initio calculations of the electronic structure of solids, which has been specifically adapted to treat many-body effects in a more rigorous way than many existing ab-initio methods. We start from a standard band-structure calculation for an effective one-particle Hamiltonian approximately describing the material of interest. This yields a suitable set of one-particle basis functions, from which well localized Wannier functions can be constructed using a method proposed by Marzari and Vanderbilt. Within this (minimal) basis of localized Wannier functions the matrix elements of the non-interacting (one-particle) Hamiltonian as well as the Coulomb matrix elements can be calculated. The result is a many-body Hamiltonian in second quantization with parameters determined from first principles calculations for the material of interest. The Hamiltonian is in the form of a multi-band Hamiltonian in second quantization (a kind of extended, multi-band Hubbard model) such that all the standard many-body methods can be applied. We explicitly show how this approach can be solved in the simplest many-body approximation, the mean-field Hartree-Fock approximation (HFA), which takes into account exact exchange and corrects for self-interaction effects.",
+  "authors": [
+    "I. Schnell",
+    "G. Czycholl",
+    "R. C. Albers"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0304643.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0304643.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.320579+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0304643",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

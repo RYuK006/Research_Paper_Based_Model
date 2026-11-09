@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0106267",
+  "title": "Computer simulations of electrorheological fluids in the dipole-induced dipole model",
+  "abstract": "We have employed the multiple image method to compute the interparticle force for a polydisperse electrorheological (ER) fluid in which the suspended particles can have various sizes and different permittivites. The point-dipole (PD) approximation being routinely adopted in computer simulation of ER fluids is shown to err considerably when the particles approach and finally touch due to multipolar interactions. The PD approximation becomes even worse when the dielectric contrast between the particles and the host medium is large. From the results, we show that the dipole-induced-dipole (DID) model yields very good agreements with the multiple image results for a wide range of dielectric contrasts and polydispersity. As an illustration, we have employed the DID model to simulate the athermal aggregation of particles in ER fluids both in uniaxial and rotating fields. We find that the aggregation time is significantly reduced. The DID model accounts for multipolar interaction partially and is simple to use in computer simulation of ER fluids.",
+  "authors": [
+    "Y. L. Siu",
+    "Jones T. K. Wan",
+    "K. W. Yu"
+  ],
+  "year": 2001,
+  "doi": "10.1103/PhysRevE.64.051506",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0106267.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0106267.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.782691+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0106267",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

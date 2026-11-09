@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0304587",
+  "title": "Probing the Kondo Lattice",
+  "abstract": "We present a phenomenological solution of the Kondo lattice that is derived from an analysis of the bulk specific heat and spin susceptibility of the heavy electron superconductor CeCoIn5. We find that below a crossover temperature corresponding to the intersite coupling scale, T* ~ 45 K, the Kondo gas (of non-interacting Kondo impurities) partially condenses into a heavy electron \"Kondo\" liquid that has a temperature independent Wilson ratio = 2.0. The relative fraction, f, of the \"condensed\" Kondo liquid component plays the role of an order parameter; it increases linearly with decreasing temperature until it saturates at its low temperature value of 0.9. The resistivity is shown to be simply the product of (1-f) and that of an isolated Kondo impurity. The generality of this result is suggested by the corresponding analysis for Ce1-xLaxCoIn5 and CeIrIn5.",
+  "authors": [
+    "Satoru Nakatsuji",
+    "David Pines",
+    "Zachary Fisk"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0304587.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0304587.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.256058+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0304587",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

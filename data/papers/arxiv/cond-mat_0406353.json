@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0406353",
+  "title": "New theoretical description of neutron scattering in a monatomic liquid",
+  "abstract": "In a recently developed theory of the atomic motion in monatomic liquids, the motion is comprised of normal mode vibrations in any of the large number of equivalent random valleys, interspersed with nearly instantaneous transits which carry the system between neighboring valleys. The consequences for the dynamical structure factor S(q,w) are presented here: when the system moves in a single random valley, the inelastic part of S(q,w) is a sum over all vibrational modes of the inelastic cross section of each single mode; in the liquid state the system undergoes transits at a rapid rate, causing the Rayleigh and Brillouin peaks to broaden but not to shift; over the entire q range where the Brillouin peak is distinguishable, its location in the liquid is the same as it is in a single random valley. These properties are verified by comparison between theory and MD calculations. We believe our theory provides a physically realistic approach for the study of liquid dynamics.",
+  "authors": [
+    "Duane C. Wallace",
+    "Giulia De Lorenzi-Venneri"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0406353.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0406353.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.488849+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0406353",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

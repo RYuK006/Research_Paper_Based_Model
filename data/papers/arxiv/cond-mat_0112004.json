@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0112004",
+  "title": "Electromagnetic Waves Through Disordered Systems: Comparison Of Intensity, Transmission And Conductance",
+  "abstract": "We obtain the statistics of the intensity, transmission and conductance for scalar electromagnetic waves propagating through a disordered collection of scatterers. Our results show that the probability distribution for these quantities, x, follow a universal form x^a Exp(-x^m) . This family of functions includes the Rayleigh distribution (when a=0, m=1) and the Dirac delta function (a -> Infinity), which are the expressions for intensity and transmission in the diffusive regime neglecting correlations. Finally, we find simple analytical expressions for the nth moment of the distributions and for to the ratio of the moments of the intensity and transmission, which generalizes the n! result valid in the above regime.",
+  "authors": [
+    "Gabriel A. Cwilich",
+    "Fredy R. Zypman"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.dis-nn",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0112004.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0112004.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.468775+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0112004",
+    "categories": [
+      "cond-mat.dis-nn",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

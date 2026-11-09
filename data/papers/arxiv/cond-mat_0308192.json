@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0308192",
+  "title": "Spectroscopy on two coupled flux qubits",
+  "abstract": "We have performed spectroscopy measurements on two coupled flux qubits. The qubits are coupled inductively, which results in a $σ_1^zσ_2^z$ interaction. By applying microwave radiation, we observe resonances due to transitions from the ground state to the first two excited states. From the position of these resonances as a function of the magnetic field applied we observe the coupling of the qubits. The coupling strength agrees well with calculations of the mutual inductance.",
+  "authors": [
+    "J. B. Majer",
+    "F. G. Paauw",
+    "A. C. J. ter Haar",
+    "C. J. P. M. Harmans",
+    "J. E. Mooij"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevLett.94.090501",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0308192.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0308192.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.622125+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0308192",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.supr-con"
+    ]
+  }
+}

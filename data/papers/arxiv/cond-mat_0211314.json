@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0211314",
+  "title": "Mott-Hubbard transition of cold atoms in optical lattices",
+  "abstract": "We discuss the superfluid to Mott-insulator transition of cold atoms in optical lattices recently observed by Greiner et.al. (Nature 415, 39 (2002)). The fundamental properties of both phases and their experimental signatures are discussed carefully, including the limitations of the standard Gutzwiller-approximation. It is shown that in a one-dimensional dilute Bose-gas with a strong transverse confinement (Tonks-gas), even an arbitrary weak optical lattice is able to induce a Mott like state with crystalline order, provided the dimensionless interaction parameter is larger than a critical value of order one. The superfluid-insulator transition of the Bose-Hubbard model in this case continuously evolves into a transition of the commensurate-incommensurate type with decreasing strength of the external optical lattice.",
+  "authors": [
+    "W. Zwerger"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0211314.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0211314.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.696801+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0211314",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

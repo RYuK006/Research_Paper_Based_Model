@@ -1,0 +1,32 @@
+{
+  "id": "arxiv:cond-mat/0107165",
+  "title": "Commensurability effects in Andreev antidot billiards",
+  "abstract": "An Andreev billiard was realized in an array of niobium filled antidots in a high-mobility InAs/AlGaSb heterostructure. Below the critical temperature T_C of the Nb dots we observe a strong reduction of the resistance around B=0 and a suppression of the commensurability peaks, which are usually found in antidot lattices. Both effects can be explained in a classical Kubo approach by considering the trajectories of charge carriers in the semiconductor, when Andreev reflection at the semiconductor-superconductor interface is included. For perfect Andreev reflection, we expect a complete suppression of the commensurability features, even though motion at finite B is chaotic.",
+  "authors": [
+    "J. Eroms",
+    "M. Tolkiehn",
+    "D. Weiss",
+    "U. Rössler",
+    "J. De Boeck",
+    "G. Borghs"
+  ],
+  "year": 2001,
+  "doi": "10.1209/epl/i2002-00433-3",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0107165.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0107165.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.981150+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0107165",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.supr-con"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0209316",
+  "title": "Quantum Monte Carlo study of S=1/2 weakly-anisotropic antiferromagnets on the square lattice",
+  "abstract": "We study the finite-temperature behaviour of two-dimensional S=1/2 Heisenberg antiferromagnets with very weak easy-axis and easy-plane exchange anisotropies. By means of quantum Monte Carlo simulations, based on the continuous-time loop and worm algorithm, we obtain a rich set of data that allows us to draw conclusions about both the existence and the type of finite-temperature transition expected in the considered models. We observe that the essential features of the Ising universality class, as well as those of the Berezinskii-Kosterlitz-Thouless (BKT) one, are preserved even for anisotropies as small as 10^{-3} times the exchange integral; such outcome, being referred to the most quantum case S=1/2, rules out the possibility for quantum fluctuations to destroy the long or quasi-long range order, whose onset is responsible for the Ising or BKT transition, no matter how small the anisotropy. Besides this general issue, we use our results to extract, out of the isotropic component, the features which are peculiar to weakly anisotropic models, with particular attention for the temperature region immediately above the transition. By this analysis we aim to give a handy tool for understanding the experimental data relative to those real compounds whose anisotropies are too weak for a qualitative description to accomplish the goal of singling out the genuinely two-dimensional critical behaviour.",
+  "authors": [
+    "Alessandro Cuccoli",
+    "Tommaso Roscilde",
+    "Valerio Tognetti",
+    "Ruggero Vaia",
+    "Paola Verrucchi"
+  ],
+  "year": 2002,
+  "doi": "10.1103/PhysRevB.67.104414",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0209316.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0209316.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.039349+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0209316",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0301279",
+  "title": "Phase Transitions in the Two-Dimensional Random Gauge XY Model",
+  "abstract": "The two-dimensional random gauge \\xy model, where the quenched random variables are magnetic bond angles uniformly distributed within $[-rπ, rπ]$ ($0 \\leq r \\leq 1$), is studied via Monte Carlo simulations. We investigate the phase diagram in the plane of the temperature $T$ and the disorder strength $r$, and infer, in contrast to a prevailing conclusion in many earlier studies, that the system is superconducting at any disorder strength $r$ for sufficiently low $T$. It is also argued that the superconducting to normal transition has different nature at weak disorder and strong disorder: termed Kosterlitz-Thouless (KT) type and non-KT type, respectively. The results are compared to earlier works.",
+  "authors": [
+    "Petter Holme",
+    "Petter Minnhagen",
+    "Beom Jun Kim"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevB.67.104510",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0301279.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0301279.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.435811+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0301279",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

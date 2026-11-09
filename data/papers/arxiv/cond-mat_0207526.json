@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0207526",
+  "title": "Thickness dependence of critical currents in thin superconductors",
+  "abstract": "Mechanisms of vortex dynamics and pinning and self-field effects which could account for the thickness dependence of the critical current density J_c of superconducting films are addressed. It is shown that at low magnetic fields B, the 2D single-vortex pinning and thermal fluctuations yield J_c proportional to (1/sqrt{d})exp[-(d_m/d)^{1/2}], if the film thickness d is smaller than the pinning correlation length along B. The model describes the dependence of J_c on d observed on YBa_2Cu_3O_7 coated conductors for d < 2(mu)m. Measurements of J_c(d) in strong magnetic fields are proposed to probe whether the dependence of J_c on d is mostly determined by the 2D pinning or changes in the material microstructure as the film gets thicker.",
+  "authors": [
+    "A. Gurevich"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0207526.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0207526.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.648092+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0207526",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

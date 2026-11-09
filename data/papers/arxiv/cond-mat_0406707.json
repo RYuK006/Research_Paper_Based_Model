@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0406707",
+  "title": "Lattice gas models and Kinetic Monte Carlo simulations of epitaxial growth",
+  "abstract": "A brief introduction is given to Kinetic Monte Carlo (KMC) simulations of epitaxial crystal growth. Molecular Beam Epitaxy (MBE) serves as the prototype example for growth far from equilibrium. However, many of the aspects discussed hear would carry over to other techniques as well. A variety of approaches to the modeling and simulation of epitaxial growth has been applied. They range from the detailed quantum mechanics treatment of microscopic processes to the coarse grained picture in terms of stochastic differential equations or other continuum approaches. Here, the focus is on discrete representations such as lattice gas and Solid-On-Solid (SOS) models. The basic ideas of the corresponding KMC methods are presented. Strengths and weaknesses become apparent in the discussion of several levels of simplification that are possible in this context.",
+  "authors": [
+    "Michael Biehl"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0406707.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0406707.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.687404+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0406707",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

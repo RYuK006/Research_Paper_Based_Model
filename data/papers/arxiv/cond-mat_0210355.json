@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0210355",
+  "title": "A New face on old code",
+  "abstract": "In science we often use established code that was developed many years ago. Frequently the documentation is lost and many of us know the feeling of putting a number in the wrong column and trying to understand why the program is not working. However, these old codes are usually very useful, well tested and established. Rather than writing new code from scratch, which must first be tested against the established standard, it is desirable to put a new front end on the standard, commonly referred to as 'wrapping'. This paper will discuss wrapping of FORTRAN code using a selection of other languages to provide simpler user interface.",
+  "authors": [
+    "P. F. Peterson",
+    "Th. Proffen"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0210355.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0210355.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.377888+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0210355",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

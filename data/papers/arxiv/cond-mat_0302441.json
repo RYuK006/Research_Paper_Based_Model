@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0302441",
+  "title": "Ab initio study of Curie temperatures of diluted III-V magnetic semiconductors",
+  "abstract": "The electronic structure of diluted (Ga,Mn)As magnetic semiconductors in the presence of As-antisites and magnetic disorder is studied within the framework of the local spin density approximation. Both the chemical and magnetic disorders are treated using the coherent potential approximation. A ground state with partial disorder in the local moments and with a reduced total magnetic moment appears in the presence of As-antisites. We first estimate the Curie temperature T_c from total energy differences between the ferromagnetic and the paramagnetic state by identifying these with the corresponding energy difference in a classical Heisenberg model. A more systematic approach within the framework of the mean-field approximation to estimate T_c consists in an evaluation of the effective exchange fields acting on the magnetic moment at a given site. The presence of As-antisites strongly reduces the Curie temperature. The results indicate that the effect of impurities on the electronic structure cannot be neglected and influences the Curie temperature non-negligibly. A comparison of the calculated Curie temperatures to existing experimental data indicates an increase of the donor concentration with the increase of the Mn-content.",
+  "authors": [
+    "J. Kudrnovsky",
+    "I. Turek",
+    "V. Drchal",
+    "J. Masek",
+    "F. Maca",
+    "P. Weinberger"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0302441.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0302441.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.901216+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0302441",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

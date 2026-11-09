@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0209382",
+  "title": "Degeneracy analysis for a super cell of a photonic crystal and its application to the creation of band gaps",
+  "abstract": "A method is introduced to analyze the degeneracy properties of the band structure of a photonic crystal making use of the super cells. The band structure associated with a super cell of a photonic crystal has degeneracies at the edge of the Brillouin zone if the photonic crystal has some kind of point group symmetry. Both E-polarization and H-polarization cases have the same degeneracies for a 2-dimensional (2D) photonic crystal. Two theorems are given and proved. These degeneracies can be lifted to create photonic band gaps by changing the transform matrix between the super cell and the smallest unit cell. The existence of the photonic band gaps for many known 2D photonic crystals is explained through the degeneracy analysis.",
+  "authors": [
+    "Liang Wu",
+    "Sailing He"
+  ],
+  "year": 2002,
+  "doi": "10.1103/PhysRevE.67.026612",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0209382.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0209382.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.068675+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0209382",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

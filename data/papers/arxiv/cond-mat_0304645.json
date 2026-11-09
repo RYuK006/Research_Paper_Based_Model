@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0304645",
+  "title": "An ab-initio many-body method for electronic structure calculations of solids. II. Unscreened Hartree-Fock treatment for the 3d systems Fe, Co, Ni and Cu",
+  "abstract": "The ab-initio many-body method suggested in the preceding paper is applied to the 3d transition metals Fe, Co, Ni, and Cu. We use a linearized muffin-tin orbital calculation to determine Bloch functions for the Hartree one-particle Hamiltonian, and from these obtain maximally localized Wannier functions. Within this Wannier basis all relevant one-particle and two-particle Coulomb matrix elements are calculated. The resulting second-quantized many-body Hamiltonian with ab-initio parameters is studied within the simplest many-body approximation, namely the unscreened, selfconsistent, Hartree-Fock approximation (HFA). We present these HFA results, which we believe are the first to have been done for crystalline 3d transition metals, and compare them with those obtained from the standard local (spin) density approximation (LSDA) within density functional theory (DFT). Although the d-bands sit considerably lower within HFA than within L(S)DA, the exchange splitting and magnetic moments for ferromagnetic Fe, Co, and Ni are only slightly larger in HFA than what is obtained experimentally or within LSDA. The HFA total energies are lower than the corresponding L(S)DA calculations.",
+  "authors": [
+    "I. Schnell",
+    "G. Czycholl",
+    "R. C. Albers"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0304645.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0304645.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.327772+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0304645",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

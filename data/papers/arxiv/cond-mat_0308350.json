@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0308350",
+  "title": "Umklapp scattering and electron pairing cutoff in BCS superconductors",
+  "abstract": "In a superconductor electrons form pairs for which the end states of normal and umklapp scattering may overlap. This cuts electron pairing off at a phonon frequency, $ω_c$, low compared with the Debye frequency, $ω_D$. Using this insight, correct values of $2Δ/k_BT_c$ (average error 8.9%) for 12 superconductive metals, including Hg and Pb, are achieved from simple BCS formalism with an average $ω_c/ω_D$ of 0.148: Landau's idea of a Fermi liquid may cover strong-coupling superconductors. The cancellation between normal and umklapp scattering may be more important than a strong electron-phonon interaction in reaching a high critical temperature $T_c$.",
+  "authors": [
+    "X. H. Zheng",
+    "D. G. Walmsley"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0308350.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0308350.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.676025+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0308350",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

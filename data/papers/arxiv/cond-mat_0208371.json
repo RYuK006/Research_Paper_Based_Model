@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0208371",
+  "title": "Projected BCS Wave Functions for Low Dimensional Frustrated Spin Systems",
+  "abstract": "Twenty-five years after the first proposal, the question whether the ground state of a frustrated spin-half system is well described by a spin-liquid Resonating Valence Bond (RVB) wave function is still controversial. A physically transparent representation of a RVB state can be obtained in fermionic representation with a standard BCS-type pairing wave function, working in the subspace with fixed number of electrons and no double occupancies. In this work, we show that, using this variational wave function with a careful parameterization of the pairing function, it is possible to obtain an extremely accurate {\\em ansatz} for the ground state of the Heisenberg antiferromagnet with next-nearest neighbors interactions ($J_{1}{-}J_{2}$ model) in the regime of strong frustration. Indeed, in the spin-half realization of this model, it is known that the combined effect of frustration and zero-point motion interferes with the mechanism of spontaneously broken symmetry, giving rise to a non-magnetic phase of purely quantum-mechanical nature ($J_2/J_1\\simeq 0.5$). This wave function is proposed to represent the generic spin-half RVB ground state in spin liquids.",
+  "authors": [
+    "Luca Capriotti",
+    "Federico Becca",
+    "Alberto Parola",
+    "Sandro Sorella"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0208371.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0208371.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:08.795077+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0208371",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

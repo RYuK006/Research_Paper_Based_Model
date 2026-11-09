@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0212285",
+  "title": "Nanocrystal Formation in Si Implanted Thin SiO2 Layers under the Influence of an Absorbing Interface",
+  "abstract": "Kinetic 3D lattice Monte Carlo studies are presented on Si nanocrystal (NC) formation by phase separation in 1 keV Si implanted thin SiO2 films. The simulation start from Si depth profiles calculated using the dynamic, high-fluence binary collision code TRIDYN. From the initial Si supersaturation, NCs are found to form either by nucleation, growth and Ostwald ripening at low Si concentrations. Or at higher concentrations, non-spherical, elongated Si structures form by spinodal decomposition, which spheroidize by interface minimization during longer annealing. In both cases, the close SiO2/Si interface is a strong sink for diffusing Si atoms. The NCs align above a thin NC free oxide layer at the SiO2/Si interface. Hence, the width of this zone denuded of NCs has just the right thickness for NC charging by direct electron tunneling, which is crucial for non-volatile memory applications. Moreover, the competition of Ostwald ripening and Si loss to the interface leads at low Si concentrations (nucleation regime) to a constant width of the denuded zone and a constant mean NC size over a long period of annealing.",
+  "authors": [
+    "T. Mueller",
+    "K. -H. Heinig",
+    "W. Moeller"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0212285.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0212285.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.033300+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0212285",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

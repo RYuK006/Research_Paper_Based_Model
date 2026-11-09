@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0303001",
+  "title": "Quantum impurity in an antiferromagnet: non-linear sigma model theory",
+  "abstract": "We present a new formulation of the theory of an arbitrary quantum impurity in an antiferromagnet, using the O(3) non-linear sigma model. We obtain the low temperature expansion for the impurity spin susceptibilities of antiferromagnets with magnetic long-range order in the ground state. We also consider the bulk quantum phase transition in d=2 to the gapped paramagnet (d is the spatial dimension): the impurity is described solely by a topological Berry phase term which is an exactly marginal perturbation to the critical theory. The physical properties of the quantum impurity near criticality are obtained by an expansion in (d-1).",
+  "authors": [
+    "Subir Sachdev",
+    "Matthias Vojta"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevB.68.064419",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.supr-con",
+    "hep-th"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0303001.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0303001.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.957582+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0303001",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.supr-con",
+      "hep-th"
+    ]
+  }
+}

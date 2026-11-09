@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0202293",
+  "title": "The Meissner effect and the vortex structure in stacked junctions and layered superconductors: Exact analytical results",
+  "abstract": "We present an exact mathematical description of the Meissner effect and of the vortex state in periodic thin-layer superconductor/insulator structures with an arbitrary number of identical junctions N-1 (N is the number of superconducting layers) in the presence of a static parallel external field H. Based on an analytical analysis of the coupled static sine-Gordon (SG) equations for the phase differences, we obtain a complete classification of all possible types of physical solutions. We prove that at H>0 these equations admit only Meissner solutions and topological ''vortex-plane'' solutions. Both the types of solutions are characterized by [N/2] Josephson lengths. We derive an explicit analytical expression for the superheating field of the Meissner state, Hs, as a function of N and show that Hs simultaneously determines the penetration field for the vortex planes. Thermodynamically stable ''vortex-plane'' solutions represent coherent chains of Josephson vortices (one vortex per each insulating layer in a chain). Being a natural generalization of ordinary Josephson vortices in a single junction, the vortex-plane solutions inherit such properties of the former as periodicity along the layers and the overlapping of states with different topological numbers. We obtain exact analytical expressions for the self-energy of a vortex plane and for the lower critical field Hc1. In contrast to a prevailing view, the coupled SG equations do not possess any single-vortex solutions for H>0. The general consideration is illustrated by two exactly-solvable examples (N=2,3). Experimental implications of the results are discussed.",
+  "authors": [
+    "Sergey V. Kuplevakhsky"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0202293.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0202293.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.039491+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0202293",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

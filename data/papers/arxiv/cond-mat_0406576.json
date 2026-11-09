@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0406576",
+  "title": "Resonant magnetic X-ray scattering spectra in SDW Cr -- ab initio study -----",
+  "abstract": "Using ab-initio band structure calculation based on the local density approximation, Cr K-edge resonant X-ray magnetic scattering spectra are analyzed in the spin density wave (SDW) state of chromium. We perform band structure calculation, assuming an ideal bcc lattice structure with the lattice constant observed at the spin-flip temperature T_{SF} and a commensurate SDW state with the propagation vector close to the observed value at T_{SF}. Taking account of the spin-orbit interaction, we obtain the orbital moment on each Cr site induced in proportion to the local spin moment, which is quite small, at most a tenth of those in nickel or iron. In spite of the tiny 3d orbital moment, the orbital polarization is found to have large fluctuations as a function of energy. We obtain the scattering intensity at the Cr K-edge on the SDW magnetic Bragg spot, which shows resonant enhancement in good agreement with the experiment. The 3d orbital polarization is found to be highly correlated with the intensity of the resonant main peak, indicating that the 4p orbital polarization is mainly induced by the 3d orbital polarization through the p-d hybridization.",
+  "authors": [
+    "Manabu Takahashi",
+    "Jun-ichi Igarashi",
+    "Kunitomo Hirai"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0406576.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0406576.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.604653+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0406576",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.str-el"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0310606",
+  "title": "Point defect energetics in silicon using the LDA+U method",
+  "abstract": "We present the first principles results of point defect energetics in silicon calculated using the LDA+U method: a Hubbard type on-site interaction added to the local density approximation (LDA). The on-site Coulomb and exchange parameters were tuned to match the experimental band gap in Si. The relaxed configuration was obtained using the LDA; LDA+U was used only to calculate the energies. Our values of point defect energetics are in very good agreement with both recent experimental results and quantum Monte Carlo (QMC) calculations.",
+  "authors": [
+    "Panchapakesan Ramanarayanan",
+    "Renat F. Sabirianov",
+    "Kyeongjae Cho"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0310606.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0310606.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:14.985212+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0310606",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.str-el"
+    ]
+  }
+}

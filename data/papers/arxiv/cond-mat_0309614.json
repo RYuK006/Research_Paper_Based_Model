@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0309614",
+  "title": "Ab initio calculation of transport properties of metal-C60-metal junctions",
+  "abstract": "By carrying out density functional theory (DFT) analysis within the Keldysh non-equilibrium Green's function (NEGF) framework, we investigate the quantum transport properties of Au-C60-Au molecular junctions from the first principles. We briefly review the NEGF-DFT formalism and present some of our data. We found that at small electrode separations (9-13 Angstrom), the Au-C60-Au junctions show metallic behaviour with conductance G ~ 2e^{2}/h and current I ~ 1-3 microAmpere in the linear regime (bias voltage V < 0.3 Volt). The physical mechanism is the resonance tunnelling through partially occupied states originated from the lowest unoccupied molecular orbital (LUMO) of the free C60. We also found that the charge transfer from the Au electrodes to the C60 molecule can be controlled by gate potential.",
+  "authors": [
+    "N. Sergueev",
+    "D. Roubtsov",
+    "H. Guo"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0309614.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0309614.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:46.214368+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0309614",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

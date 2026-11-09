@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0212202",
+  "title": "Magneto-electronic transport theory in ferromagnets above the Curie temperature and in semiconductors",
+  "abstract": "Quantitative differences of Lagrange multipliers between standard Fermi-Dirac statistics (FDS) and Ionization energy ($E_I$) based FDS (iFDS) are analyzed in detail to obtain reasonably accurate interpretations without violating the standard FDS. The resistivity and Hall-resistance models in 1D, 2D and 3D are also derived to illustrate the transport phenomena in semiconducting manganites. It is shown via calculation that the charge carriers in these materials seem to be strongly correlated in term of electron-ion attraction or simply, fermions in those materials are somewhat gapped due to Coulomb attraction. This Coulomb attraction naturally captures the polaronic effect in manganites. $E_I$ is found to be the only essential parameter that predicts $ρ(T,doping,pressure,magnetic field)$ quite accurately. However, this model as will be pointed out, is not suitable for metals with free-electrons and strong electron-phonon scattering. It is to be noted that iFDS and $ρ(T,doping,pressure,magnetic field)$ model are only valid in the paramagnetic region of ferromagnetic manganites and other doped-semiconductors. Recent X-ray photoemission spectroscopy (XPS) studies have indicated that there exists a critical crossover from Mn(2+) to Mn(3+) depending upon Mn's concentrations in (Ga(1-x)Mnx)As diluted magnetic semiconductors (DMS). Such phenomenon occuring at certain critical concentration directly point towards the applicability of $E_I$ based Fermi-liquid (iFLT). As such, iFDS is also discussed with respect to DMS above Curie temperature.",
+  "authors": [
+    "Andrew Das Arulsamy"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0212202.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0212202.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.981006+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0212202",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.str-el"
+    ]
+  }
+}

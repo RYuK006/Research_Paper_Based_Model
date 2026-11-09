@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0303382",
+  "title": "Quantum Conductance and Electrical Resistivity",
+  "abstract": "The Landauer formula for quantum conductance, based on the modern paradigm: \"conduction is transmission\", is generalized to samples of macroscopic size. Two regimes of electrical conduction, namely diffusive and ballistic ones, are studied. In the former regime, Drude's formula for the electrical resistivity is recovered and it is found a maximum conductivity equal to $(e^2 m c)/(π\\hbar^2)$, which is of the same order of magnitude as that of good metals at room temperature. In the latter, it is obtained in three dimensions a quantum conductance which is compatible with the one deduced by Sharvin in the ballistic regime. It is also found in this case an electrical conductivity which depends on the size of the sample, in agreement with that measured in very pure metals at the temperature of liquid helium. In two dimensions the result for the conductance in the ballistic regime is consistent with that used to analyse quantum point contacts.",
+  "authors": [
+    "P. R. Silva",
+    "Marcos Sampaio",
+    "C. Nassif",
+    "M. C. Nemes"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0303382.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0303382.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:11.117414+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0303382",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

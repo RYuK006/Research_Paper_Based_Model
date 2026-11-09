@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0208484",
+  "title": "Interface Motion in Disordered Ferromagnets",
+  "abstract": "We consider numerically the depinning transition in the random-field Ising model. Our analysis reveals that the three and four dimensional model displays a simple scaling behavior whereas the five dimensional scaling behavior is affected by logarithmic corrections. This suggests that d=5 is the upper critical dimension of the depinning transition in the random-field Ising model. Furthermore, we investigate the so-called creep regime (small driving fields and temperatures) where the interface velocity is given by an Arrhenius law.",
+  "authors": [
+    "L. Roters",
+    "S. Lubeck",
+    "K. D. Usadel"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0208484.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0208484.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:08.844384+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0208484",
+    "categories": [
+      "cond-mat.stat-mech"
+    ]
+  }
+}

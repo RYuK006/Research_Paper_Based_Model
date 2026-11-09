@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0304082",
+  "title": "Predicting Multivariate Volatility",
+  "abstract": "We suggest two classes of multivariate GARCH--models which are both easy to estimate and perform well in forecasting the covariance matrix of more than one hundred stocks. We apply methods from random matrix theory (RMT) to determine the number of principal components or the number of factors in the multivariate volatility models. In this way only statistically relevant information is used for the estimation of model parameters.",
+  "authors": [
+    "C. Reese",
+    "B. Rosenow"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0304082.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0304082.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:43.968563+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0304082",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0210437",
+  "title": "Common data file definitions for neutron inelastic scattering instruments using NeXus",
+  "abstract": "The NeXus format allows the storage of measured data next to a description of sample and instrument setup in a standardized manner. The NeXus standard itself gives only general rules how an instrument setup is described. A so called instrument definition contains a minimal set of information and the location of that information within a file. In this paper instrument definitions for neutron triple-axis and time-of-flight reactor machines are suggested. Furthermore a structure for the storage of instrument logbook information is presented.",
+  "authors": [
+    "Joern Beckmann",
+    "Peter Link",
+    "Tobias Unruh",
+    "Nils Pyka",
+    "Dirk Etzdorf"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0210437.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0210437.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.424220+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0210437",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

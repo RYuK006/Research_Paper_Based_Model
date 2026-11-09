@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0303562",
+  "title": "Low frequency random telegraphic noise (RTN) and 1/f noise in the rare-earth manganite Pr$_{0.63}$Ca$_{0.37}$MnO$_3$ near the charge-ordering transition",
+  "abstract": "We have studied low frequency resistance fluctuations (noise) in a single crystal of the rare earth perovskite manganite Pr$_{0.63}$Ca$_{0.37}$MnO$_3$ which shows a charge ordering transition at a temperature $T_{CO}$ ~ 245K. The noise measurements were made using an ac bias with and without a dc bias current imposed on it. We find that the spectral power $S_V(f)$ contains two components - one broad band 1/f part that exists for all frequency and temperature ranges and a single frequency Lorentzian of frequency $f_c$ which is strongly temperature dependent. The Lorentzian in $S_V(f)$ which appears due to Random telegraphic noise (RTN) as seen in the time series of the fluctuation, is seen in a very narrow temperature window around $T_{CO}$ where it makes the dominating contribution to the fluctuation. When the applied dc bias is increased beyond a certain threshold current density $J_{th}$, the electrical conduction becomes non-linear and one sees appearance of a significant Lorentzian contribution in the spectral power due to RTN. We explain the appearance of the RTN as due to coexisting Charge ordered (CO) and reverse orbitally ordered (ROO) phases which are in dynamical equilibrium over a mesoscopic length scale ($\\approx 30nm$) and the kinetics being controlled by an activation barrier $E_{a} ~ 0.45eV. The 1/f noise is low for $T>>T_{CO}$ but increases by nearly two orders in a narrow temperature range as $T_{CO}$ is approached from above and the probability distribution function (PDF) deviates strongly from a Gaussian. We explain this behavior as due to approach of charge localization with correlated fluctuators which make the PDF non-Gaussian.",
+  "authors": [
+    "Aveek bid",
+    "Ayan Guha",
+    "A. K. Raychaudhuri"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevB.67.174415",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0303562.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0303562.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:43.877290+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0303562",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

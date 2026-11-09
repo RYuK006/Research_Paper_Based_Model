@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0404748",
+  "title": "General Mechanism for a Positive Temperature Entropy Crisis in Stationary Metastable States: Thermodynamic Necessity and Confirmation by Exact calculations",
+  "abstract": "We study stationary metastable states(SMS's)using a restricted partition function formalism. The formalism ensures that SMS free energy exists all the way to T=0, and remains stable. We introduce the concept of the reality condition, according to which the entropy $S(T)$ of a set of coupled degrees of freedom must be non-negative. The entropy crisis, which does not affect stability, is identified as the violation of the reality condition. We identify and validate rigorously, using general thermodynamic arguments, the following general thermodynamic mechanism behind the entropy crisis in SMS. The free energy $F_{\\text{dis}}(T)$ of any SMS must be equal to the T=0 crystal free energy $E_{0}$ at two different temperatures $T=0,$ and $T=T_{\\text{eq}}>0$. Thus, the stability requires $F_{\\text{dis}}(T)$ to possess a maximum at an intermediate but a strictly positive temperature $T_{\\text{K}},$ where the energy is $E=E_{\\text{K}}.$ The SMS branch below $T_{\\text{K}}$ gives the entropy crisis and must be replaced by hand by an ideal glass free energy of constant energy $E_{\\text{K}},$ and vanishing entropy. Hence, $T_{\\text{K}}>0$ represents the Kauzmann temperature. The ideal glass energy $E_{\\text{K}}$ is higher than the crystal energy $E_{0}$ at absolute zero, which is in agreement with the experimenatal fact that the extrapolated energy of a real glass at T=0 is higher than its T=0 crystal energy. We confirm the general predictions by two exact calculations, one of which is not mean-field. The calculations clearly show that the notion of SMS is not only not vaccuous, but also not a consequence of a mean-field analysis. They also show that certain folklore cannot be substantiated.",
+  "authors": [
+    "P. D. Gujrati"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0404748.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0404748.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:46.986654+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0404748",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

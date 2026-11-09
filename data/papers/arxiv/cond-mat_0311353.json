@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0311353",
+  "title": "On bipartite Rokhsar-Kivelson points and Cantor deconfinement",
+  "abstract": "Quantum dimer models on bipartite lattices exhibit Rokhsar-Kivelson (RK) points with exactly known critical ground states and deconfined spinons. We examine generic, weak, perturbations around these points. In d=2+1 we find a first order transition between a ``plaquette'' valence bond crystal and a region with a devil's staircase of commensurate and incommensurate valence bond crystals. In the part of the phase diagram where the staircase is incomplete, the incommensurate states exhibit a gapless photon and deconfined spinons on a set of finite measure, almost but not quite a deconfined phase in a compact U(1) gauge theory in d=2+1! In d=3+1 we find a continuous transition between the U(1) resonating valence bond (RVB) phase and a deconfined staggered valence bond crystal. In an appendix we comment on analogous phenomena in quantum vertex models, most notably the existence of a continuous transition on the triangular lattice in d=2+1.",
+  "authors": [
+    "Eduardo Fradkin",
+    "David A. Huse",
+    "R. Moessner",
+    "V. Oganesyan",
+    "S. L. Sondhi"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevB.69.224415",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0311353.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0311353.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.253324+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0311353",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.supr-con"
+    ]
+  }
+}

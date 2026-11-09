@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0312145",
+  "title": "Dynamics of entanglement in two coupled qubits",
+  "abstract": "Considerable progress has been made in understanding how dissipation drives the state of a single qubit from a quantum-mechanical superposition to a classical mixed state. This paper uses a Bloch-Redfield approach to study how, in a system of two qubits, dissipation drives the bipartite state of the two qubits from an entangled state to a product state. The measure used for mixed-state entanglement is Wootters's formula for the entanglement of formation. For qubits that start in an entangled state and are then decoupled, entanglement is found to decay faster in general than the decoherence of single qubit states by a factor $2/\\log 2$ that can be obtained analytically in a limiting case. We show that the dynamics of entanglement for realistic parameters is different from that of fidelity: for some experimental parameters a bipartite state loses fidelity much more rapidly than it loses entanglement. These results are of some practical interest since entanglement is thought to be the essential ``fuel'' for fast quantum algorithms.",
+  "authors": [
+    "Vivek M. Aji",
+    "Joel E. Moore"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat",
+    "quant-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0312145.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0312145.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.514456+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0312145",
+    "categories": [
+      "cond-mat",
+      "quant-ph"
+    ]
+  }
+}

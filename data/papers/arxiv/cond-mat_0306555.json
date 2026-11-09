@@ -1,0 +1,33 @@
+{
+  "id": "arxiv:cond-mat/0306555",
+  "title": "\"Turbulent\" electrical transport in Copper powders",
+  "abstract": "Compressed copper powder has a very large electrical resistance (1MOhm), due to the oxide layer on grains (100 micro m). We observe that its voltage-current U-I characteristics are nonlinear, and undergo an instability, from an insulating to a conductive state at relatively small applied voltages. Current through the powder is then noisy, and the noise has interesting self-similar properties, including intermittency and scale invariance. We show that heat dissipation plays an essential role in the physics of the system. One piece of evidence is that the instability threshold always corresponds to the same Joule dissipated power whatever the applied stress. In addition, we observe long-time correlations which suggest that thermal expansion locally creates or destroys contacts, and is the driving mechanism behind the instability and noise observed in this granular system.",
+  "authors": [
+    "Eric Falcon",
+    "Bernard Castaing",
+    "Claude Laroche"
+  ],
+  "year": 2003,
+  "doi": "10.1209/epl/i2003-10071-9",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat",
+    "cond-mat.mtrl-sci",
+    "cond-mat.stat-mech",
+    "physics.flu-dyn"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0306555.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0306555.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.029582+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0306555",
+    "categories": [
+      "cond-mat",
+      "cond-mat.mtrl-sci",
+      "cond-mat.stat-mech",
+      "physics.flu-dyn"
+    ]
+  }
+}

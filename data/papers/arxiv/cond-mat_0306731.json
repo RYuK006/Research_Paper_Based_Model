@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0306731",
+  "title": "Quasiclassical fluctuations of the superconductor proximity gap in a chaotic system",
+  "abstract": "We calculate the sample-to-sample fluctuations in the excitation gap of a chaotic dynamical system coupled by a narrow lead to a superconductor. Quantum fluctuations on the order of magnitude of the level spacing, predicted by random-matrix theory, apply if $τ_E\\ll\\hbar/E_T$ (with $τ_E$ the Ehrenfest time and $E_T$ the Thouless energy). For $τ_E\\agt\\hbar/ E_T$ the fluctuations are much greater than the level spacing. We demonstrate the quasiclassical nature of the gap fluctuations in the large-$τ_E$ regime by correlating them to an integral over the classical dwell-time distribution.",
+  "authors": [
+    "M. C. Goorden",
+    "Ph. Jacquod",
+    "C. W. J. Beenakker"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevB.68.220501",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0306731.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0306731.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.133998+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0306731",
+    "categories": [
+      "cond-mat.mes-hall"
+    ]
+  }
+}

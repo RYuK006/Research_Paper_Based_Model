@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0207380",
+  "title": "Magnetic and Transport Properties of La$_{0.7}$Sr$_{0.3}$Co$_{1-y}$Mn$_y$O$_3$",
+  "abstract": "While both La$_{0.7}$Sr$_{0.3}$MnO$_3$ and La$_{0.7}$Sr$_{0.3}$CoO$_3$ are ferromagnets with metallic conductivity below $T_\\mathrm{c}$ (360K and 220K, respectively), partial substitutions of Co by Mn in La$_{0.7}$Sr$_{0.3}$Co$_{1-y}$Mn$_y$O$_3$ ($y < 0.1$) drastically suppress the ferromagnetic long-range order pre-established by Co-O-Co double exchange and tune the conductivity towards insulating behavior. Since Mn-O-Mn double-exchange interactions are avoidable at low Mn-substitution levels, the deterioration of ferromagnetism and conductivity thus provides evidence for no Mn-O-Co double exchange (but antiferromagnetic superexchange) in the present system. At $y = 0.1$, the ferromagnetism is no longer observed; the system becomes an insulating spin-glass with $T_\\mathrm{g}\\approx 62$K as estimated from the ac-susceptibility data using the conventional critical slowing-down scaling law. With further substitution ($y\\geq 0.3$), the ferromagnetism is recovered ($T_\\mathrm{c} = 165$K for $y = 0.3$ and 200K for $y = 0.5$) while the resistivity continues increasing and exhibits insulating behavior. These results indicate that the substitution is not simply a mixture of La$_{0.7}$Sr$_{0.3}$MnO$_3$ and La$_{0.7}$Sr$_{0.3}$CoO$_3$, but produces a more complicated scenario of spin states, interactions and disorder.",
+  "authors": [
+    "D. N. H. Nam",
+    "L. V. Bau",
+    "N. V. Khiem",
+    "L. H. Son",
+    "N. X. Phuc"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0207380.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0207380.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.545484+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0207380",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.str-el"
+    ]
+  }
+}

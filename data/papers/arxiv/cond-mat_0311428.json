@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0311428",
+  "title": "A Stochastic Theory of Single Molecule Spectroscopy",
+  "abstract": "A theory is formulated for time dependent fluctuations of the spectrum of a single molecule in a dynamic environment. In particular, we investigate the photon counting statistics of a single molecule undergoing a spectral diffusion process. Based on the stochastic optical Bloch equation, fluctuations are characterized by Mandel's $Q$ parameter yielding the variance of number of emitted photons and the second order intensity correlation function, $g^{(2)}(t)$. Using a semi-classical approach and linear response theory, we show that the $Q$ parameter can be described by a three-time dipole correlation function. This approach gene ralizes the Wiener-Khintchine formula that gives the average number of fluorescent photons in terms of a one-time dipole correlation function. We classify the time ordering properties of the three-time dipole correlation function, and show that it can be represented by three different pulse shape functions similar to those used in the context of nonlinear spectroscopy. An exact solution is found for a single molecule whose absorption frequency undergoes a two state random telegraph process (i.e., the Kubo-Anderson sudden jump process.) Simple expressions are obtained from the exact solution in the slow and fast modulation regimes based on appropriate approximations for each case. In the slow modulation regime $Q$ can be large even in the long time limit, while in the fast modulation regime it becomes small.",
+  "authors": [
+    "YounJoon Jung",
+    "Eli Barkai",
+    "Robert J. Silbey"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0311428.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0311428.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.290479+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0311428",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

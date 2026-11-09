@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0401374",
+  "title": "A New Approach to the Josephson Effect",
+  "abstract": "We introduce a new approach to the Josephson effect in SIS tunnel junctions. The Josephson coupling energy is calculated from the overlap of real space Cooper pair wavefunctions in two superconductors through an insulating barrier. It is shown that the Josephson tunneling is limited by the size of the Cooper pair and its shrinking during the tunneling. Therefore, the Josephson coupling energy and the critical current become extremely small in high $T_{c}$ superconductors, including $MgB_{2}$. This shrinking also causes the observed DC supercurrent in low $T_{c}$ superconductors, such as Pb and Sn, to fall off much faster than $1/R_{n}$ for tunneling resistance $R_{n}$ above several ohms. Consequently there is a material-dependent threshold resistance, above which the supercurrent decreases much faster with increasing resistance. The impurity-induced shrinking is also shown to limit the critical current. Furthermore, the (weak) temperature dependence of the Cooper pair size is found to contribute to the temperature dependence of the DC supercurrent.",
+  "authors": [
+    "Yong-Jihn Kim"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0401374.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0401374.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.062004+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0401374",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0212579",
+  "title": "The specific heat of the rwo-dimensional +/-J Ising model",
+  "abstract": "The specific heat of the two-dimensional $\\pm J$ Ising model has been investigated by the numerical transfer matrix method and Monte Carlo simulations from a new point of view. The region where a part of the specific heat takes the negative value has been investigated, which is characteristic of frustrated systems and reflects the non-trivial degeneracy of the ground state. The region mentioned above is found to be fairly large in the $p-T$ plane ($p$ is the concentration of the ferromagnetic bond and $T$ is the temperature). Moreover, it includes the Nishimori line. Namely, it includes a part of the paramagnetic-ferromagnetic phase boundary, on which the specific heat cannot diverge. The present result indicates that the specific heat does not diverge at least on a part of the paramagnetic-ferromagnetic phase boundary above the multicritical point, which is in conflict with previous results.",
+  "authors": [
+    "H. Kitatani",
+    "T. Chino",
+    "H. Ohya"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.dis-nn",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0212579.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0212579.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.220994+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0212579",
+    "categories": [
+      "cond-mat.dis-nn",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

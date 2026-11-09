@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0101115",
+  "title": "Hydration of polyelectrolytes studied by molecular dynamics simulation",
+  "abstract": "Molecular dynamics simulations of diluted (~2.5 weight percent) aqueous solutions of two polyelectrolytes, namely sodium carboxy methyl cellulose (CMC) and sodium poly(acrylate) (PAA) have been performed. Water and counterions were taken into account explicitly. For CMC the substitution pattern and starting conformation is all-important. Two simulations of CMC oligomers resulted in different structures: One molecule takes a stretched conformation, while the second one keeps a globule-like, toroidal one. PAA is stretched during the whole simulation, with an average characteristic ratio of 8.3. On a local atomistic scale CMC and PAA have different hydrogen-bond properties. The COO- groups of PAA can only act as hydrogen bond acceptors, but due to the high negative charge density there are still more water molecules assembled around PAA than around CMC. There are 0.036 bonds/amu respectively 0.029 bonds/amu to water for the two CMC oligomers, but more than twice as many for PAA: 0.083 bonds/amu. Beside intermolecular hydrogen bonding, there is a significant amount of intramolecular H-bonding for CMC, which is influenced by the COO- groups, which act as strong H-acceptor. In contrast to hydroxy- and carboxylic groups, ether oxygens are hardly involved into hydrogen bonding.",
+  "authors": [
+    "Oliver Biermann",
+    "Erich Haedicke",
+    "Sebastian Koltzenburg",
+    "Michael Seufert",
+    "Florian Mueller-Plathe"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0101115.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0101115.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:04.492445+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0101115",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

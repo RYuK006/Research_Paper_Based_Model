@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0302275",
+  "title": "Driven depinning of strongly disordered media and anisotropic mean-field limits",
+  "abstract": "Extended systems driven through strong disorder are modeled generically using coarse-grained degrees of freedom that interact elastically in the directions parallel to the driving force and that slip along at least one of the directions transverse to the motion. A realization of such a model is a collection of elastic channels with transverse viscous couplings. In the infinite range limit this model has a tricritical point separating a region where the depinning is continuous, in the universality class of elastic depinning, from a region where depinning is hysteretic. Many of the collective transport models discussed in the literature are special cases of the generic model.",
+  "authors": [
+    "M. Cristina Marchetti",
+    "A. Alan Middleton",
+    "Karl Saunders",
+    "J. M. Schwarz"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevLett.91.107002",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.dis-nn",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0302275.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0302275.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.816107+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0302275",
+    "categories": [
+      "cond-mat.dis-nn",
+      "cond-mat.supr-con"
+    ]
+  }
+}

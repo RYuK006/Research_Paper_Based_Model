@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0111346",
+  "title": "Williams and Bjerknes model with growth limitation",
+  "abstract": "Williams and Bjerknes proposed a simple stochastic growth model to describe the tumor growth in the basal layer of an epithelium. In this work we generalize this model by including the possibility of saturation in the tumor growth as it is clinically observed. The time evolution of the average number of tumor cells and its variance for both the original and extended models are studied by analytical methods and numerical simulations. The generated growth patterns can be compact, connected or disconnected depending on the model parameters used, and their geometrical properties are characterized through the gyration radius, the number of interfacial cells and the density of empty sites inside the patterns.",
+  "authors": [
+    "S. C. Ferreira Junior"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat",
+    "q-bio.TO"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0111346.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0111346.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.390294+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0111346",
+    "categories": [
+      "cond-mat",
+      "q-bio.TO"
+    ]
+  }
+}

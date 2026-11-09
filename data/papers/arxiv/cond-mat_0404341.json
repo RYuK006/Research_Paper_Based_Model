@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0404341",
+  "title": "A Coupled Equations Model for Epitaxial Growth on Textured Surfaces",
+  "abstract": "We have developed a continuum model that explains the complex surface shapes observed in epitaxial regrowth on micron scale gratings. This model describes the dependence of the surface morphology on film thickness and growth temperature in terms of a few simple atomic scale processes including adatom diffusion, step-edge attachment and detachment, and a net downhill migration of surface adatoms. The continuum model reduces to the linear part of the Kardar-Parisi-Zhang equation with a flux dependent smoothing coefficient in the long wavelength limit.",
+  "authors": [
+    "A. Ballestad",
+    "T. Tiedje",
+    "J. H. Schmid",
+    "B. J. Ruck",
+    "M. Adamcyk"
+  ],
+  "year": 2004,
+  "doi": "10.1016/j.jcrysgro.2004.07.047",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0404341.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0404341.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:46.776627+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0404341",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0105574",
+  "title": "Electronic states, Mott localization, electron-lattice coupling, and dimerization for correlated one-dimensional systems. II",
+  "abstract": "We discuss physical properties of strongly correlated electron states for a linear chain obtained with the help of the recently proposed new method combining the exact diagonalization in the Fock space with an ab initio readjustment of the single-particle orbitals in the correlated state. The method extends the current discussion of the correlated states since the properties are obtained with varying lattice spacing. The finite system of N atoms evolves with the increasing interatomic distance from a Fermi-liquid-like state into the Mott insulator. The criteria of the localization are discussed in detail since the results are already convergent for N>=8. During this process the Fermi-Dirac distribution gets smeared out, the effective band mass increases by ~50%, and the spin-spin correlation functions reduce to those for the Heisenberg antiferromagnet. Values of the microscopic parameters such as the hopping and the kinetic-exchange integrals, as well as the magnitude of both intra- and inter-atomic Coulomb and exchange interactions are calculated. We also determine the values of various local electron-lattice couplings and show that they are comparable to the kinetic exchange contribution in the strong-correlation limit. The magnitudes of the dimerization and the zero-point motion are also discussed. Our results provide a canonical example of a tractable strongly correlated system with a precise, first-principle description as a function of interatomic distance of a model system involving all hopping integrals, all pair-site interactions, and the exact one-band Wannier functions.",
+  "authors": [
+    "Adam Rycerz",
+    "Jozef Spalek"
+  ],
+  "year": 2001,
+  "doi": "10.1103/PhysRevB.65.035110",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0105574.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0105574.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.654643+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0105574",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

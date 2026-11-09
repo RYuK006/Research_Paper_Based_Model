@@ -1,0 +1,32 @@
+{
+  "id": "arxiv:chao-dyn/9911004",
+  "title": "Quantum limit of the laser linewidth in chaotic cavities and statistics of residues of scattering matrix poles",
+  "abstract": "The quantum-limited linewidth of a laser cavity is enhanced above the Schawlow-Townes value by the Petermann factor K, due to the non-orthogonality of the cavity modes. We derive the relation between the Petermann factor and the residues of poles of the scattering matrix and investigate the statistical properties of the Petermann factor for cavities in which the radiation is scattered chaotically. For a single scattering channel we determine the complete probability distribution of K and find that the average Petermann factor $<K>$ depends non-analytically on the area of the opening, and greatly exceeds the most probable value. For an arbitrary number N of scattering channels we calculate $<K>$ as a function of the decay rate $Γ$ of the lasing mode. We find for $N\\gg 1$ that for typical values of $Γ$ the average Petermann factor $<K>\\propto \\sqrt{N}\\gg 1$ is parametrically larger than unity.",
+  "authors": [
+    "H. Schomerus",
+    "K. M. Frahm",
+    "M. Patra",
+    "C. W. J. Beenakker"
+  ],
+  "year": 1999,
+  "doi": "10.1016/S0378-4371(99)00602-0",
+  "source": "arxiv",
+  "categories": [
+    "chao-dyn",
+    "cond-mat",
+    "nlin.CD"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/chao-dyn/9911004.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\chao-dyn_9911004.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:03.738584+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "chao-dyn/9911004",
+    "categories": [
+      "chao-dyn",
+      "cond-mat",
+      "nlin.CD"
+    ]
+  }
+}

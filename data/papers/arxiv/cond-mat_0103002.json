@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0103002",
+  "title": "Soft modes in two- and eight-direction order-disorder ferroelectrics",
+  "abstract": "The soft modes in the two- and eight-direction order-disorder ferroelectrics are calculated under the mean-field approximation. We find that the conventional method of the pseudospin model to calculate the soft-mode frequency is incorrect, and present a valid modified method. It is demonstrated that the conventional method does not show the soft-mode frequency going to zero at a critical temperature in the presence of random internal fields, while the frequency calculated by our modified method goes to zero in random fields at a critical temperature. In the eight-direction ferroelectrics, the soft-mode frequency decreases to zero at the first-order phase transition temperature though the symmetry has been destroyed at high temperatures under an external field. The promotion effect of random fields on the phase transition is testified by the calculation results of the soft modes in the paraelectric phase.",
+  "authors": [
+    "Zhi-Rong Liu",
+    "Wenhui Duan",
+    "Bing-Lin Gu",
+    "Xiao-Wen Zhang"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0103002.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0103002.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:04.918109+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0103002",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

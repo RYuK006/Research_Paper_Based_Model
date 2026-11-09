@@ -1,0 +1,32 @@
+{
+  "id": "arxiv:cond-mat/0308128",
+  "title": "Statistical linguistic study of DNA sequences",
+  "abstract": "A new family of compound Poisson distribution functions from statistical linguistic is used to study the n-tuples and nucleotide composition features of DNA sequences. The relative frequency distribution of the 6-tuples and 7- tuples occurrence studies suggest that most of the DNA sequences follow the general shape of the compound Poisson distribution. It is also noted that the $χ$-square test indicated that some of the sequences follow this distribution with a reasonable level of goodness of fit. The compositional segmentation study fits quite well using this new family of distribution functions. Furthermore, the absolute values of the relative frequency come out naturally from the linguistic model without ambiguity. It is suggesting that DNA sequences are not random sequences and they could possibly have subsequence structures.",
+  "authors": [
+    "K. L. Ng",
+    "S. P. Li"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.soft",
+    "physics.bio-ph",
+    "q-bio.BM"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0308128.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0308128.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.576625+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0308128",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.soft",
+      "physics.bio-ph",
+      "q-bio.BM"
+    ]
+  }
+}

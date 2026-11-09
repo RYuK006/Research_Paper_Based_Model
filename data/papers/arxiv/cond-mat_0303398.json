@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0303398",
+  "title": "Is the Superconductiong State for the Cuprates Reached Through a Percolation Transition?",
+  "abstract": "Several recent experiments have revealed that the charge density $ρ$ in a given compound (mostly underdoped) is intrinsic inhomogeneous with large nanoscale spatial variations. Therefore it is appropriate to define a local charge density $ρ(r)$. These differences in the local charge concentration yield insulator and metallic regions, either in an intrinsic granular or in a stripe morphology. In the metallic region, the inhomogeneous charge density produces spatial or local distributions of superconducting critical temperatures $T_c(r)$ and zero temperature gap $Δ_0(r)$. We propose that the superconducting phase in high-$T_c$ oxides is reached when the temperature reachs a value which superconduction regions with different critical temperatures percolates. We show also that this novel approach is able to reproduce the phase diagram for a family of cuprates and provides new insights on several experimental features of high-$T_c$ oxides",
+  "authors": [
+    "E. V. L. de Mello",
+    "E. S. Caixeiro",
+    "J. L. González"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0303398.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0303398.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:43.821188+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0303398",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

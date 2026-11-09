@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0307654",
+  "title": "Semiclassical Mode-Coupling Factorizations of Coherent Nonlinear Optical Response",
+  "abstract": "The identification of relevant collective coordinates is crucial for the interpretation of coherent nonlinear spectroscopies of complex molecules and liquids. Using an $\\hbar$ expansion of Liouville space generating functions, we show how to factorize multitime nonlinear response functions into products of lower-order correlation functions of collective coordinates, and derive closed expressions for linear, second and third order response functions. In addition to providing systematic quantum corrections, $\\hbar$ offers a convenient bookkeeping device even for the purely classical response, since including quantum fluctuations allows to circumvent the expensive computation of stability matrices which is a major bottleneck in Molecular Dynamics (MD) simulations. The existing classical simulation strategies, including Mode-Coupling in $\\mathbf{k}$ space and in real-space, Langevin equations, and Instantaneous Normal Modes are compared from a unified viewpoint.",
+  "authors": [
+    "Thomas la Cour Jansen",
+    "Shaul Mukamel"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0307654.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0307654.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.473651+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0307654",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

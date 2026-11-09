@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0405385",
+  "title": "Phase diagram of S=1 XXZ chain with next-nearest neighbor interaction",
+  "abstract": "The one dimensional S=1 XXZ model with next-nearest-neighbor interaction $α$ and Ising-type anisotropy $Δ$ is studied by using a numerical diagonalization technique. We discuss the ground state phase diagram of this model numerically by the twisted-boundary-condition level spectroscopy method and the phenomenological renormalization group method, and analytically by the spin wave theory. We determine the phase boundaries among the XY phase, the Haldane phase, the ferromagnetic phase and the Néel phase, and then we confirm the universality class. Moreover, we map this model onto the non-linear $σ$ model and analyze the phase diagram in the $α$ $\\ll$ -1 and $Δ$ $\\sim$ 1 region by using the renormalization group method.",
+  "authors": [
+    "Takahiro Murashima",
+    "Keigo Hijii",
+    "Kiyohide Nomura",
+    "Takashi Tonegawa"
+  ],
+  "year": 2005,
+  "doi": "10.1143/JPSJ.74.1544",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0405385.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0405385.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.142353+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0405385",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

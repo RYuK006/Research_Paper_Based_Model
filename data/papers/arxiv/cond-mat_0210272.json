@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0210272",
+  "title": "Pseudo-Digital Qubits: A General Approach",
+  "abstract": "Pseudo-digital coupling has recently been proposed as a simple but robust technique for reducing gating errors in quantum dot quantum computers. Here, we discuss the technique in the context of simulations on silicon heterostructures. Additionally, we generalize and extend the pseudo-digital concept to other settings. In particular, we consider superconducting charge qubits and suggest a simple circuit for implementing dual, pseudo-digital working points.",
+  "authors": [
+    "Mark Friesen",
+    "Robert Joynt",
+    "M. A. Eriksson"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0210272.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0210272.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.339824+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0210272",
+    "categories": [
+      "cond-mat.mes-hall"
+    ]
+  }
+}

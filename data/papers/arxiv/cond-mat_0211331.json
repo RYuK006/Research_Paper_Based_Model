@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0211331",
+  "title": "Universality classes in creep rupture",
+  "abstract": "We study the creep response of solids to a constant external load in the framework of a novel fiber bundle model introduced. Analytical and numerical calculations showed that increasing the external load on a specimen a transition takes place from a partially failed state of infinite lifetime to a state where global failure occurs at a finite time. Two universality classes of creep rupture were identified depending on the range of interaction of fibers: in the mean field limit the transition between the two states is continuous characterized by power law divergences, while for local interactions it becomes abrupt with no scaling. Varying the range of interaction a sharp transition is revealed between the mean field and short range regimes. The creeping system evolves into a macroscopic stationary state accompanied by the emergence of a power law distribution of inter-event times of the microscopic relaxation process, which indicates self organized criticality in creep.",
+  "authors": [
+    "Ferenc Kun",
+    "Yamir Moreno",
+    "Raul Cruz Hidalgo",
+    "Hans. J. Herrmann"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0211331.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0211331.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.704462+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0211331",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

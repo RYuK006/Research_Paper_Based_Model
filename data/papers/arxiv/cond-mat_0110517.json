@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0110517",
+  "title": "Micro-SQUID characteristics",
+  "abstract": "We report on the dependence on field and temperature of the critical current of micro-SQUIDs: SQUIDs with diameters as small as 1 micron, using Dayem bridges as weak links. We model these SQUIDs by solving the Ginzburg-Landau equations with appropriate boundary conditions to obtain the supercurrent-phase relationships. These solutions show that the phase drops and depression of the order parameter produced by supercurrent flow are often distributed throughout the micro-SQUID structure, rather than being localized in the bridge area, for typical micro-SQUID geometries and coherence lengths. The resultant highly non-sinusoidal current-phase relationships $I_c(ϕ)$ lead to reduced modulation depths and triangular dependences of the micro-SQUID critical currents on applied magnetic flux $I_c(Φ)$. Our modelling agrees well with our measurements on both Al and Nb micro-SQUIDs.",
+  "authors": [
+    "K. Hasselbach",
+    "D. Mailly",
+    "J. R. Kirtley"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0110517.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0110517.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.807834+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0110517",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.mes-hall"
+    ]
+  }
+}

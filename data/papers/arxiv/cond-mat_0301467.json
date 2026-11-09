@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0301467",
+  "title": "Quantum Effects in Small-Capacitance Single Josephson Junctions",
+  "abstract": "We have measured the current-voltage (I-V) characteristics of small-capacitance single Josephson junctions at low temperatures (T=0.02-0.6 K), where the strength of the coupling between the single junction and the electromagnetic environment was controlled with one-dimensional arrays of dc SQUIDs. The single-junction I-V curve is sensitive to the impedance of the environment, which can be tuned IN SITU. We have observed Coulomb blockade of Cooper-pair tunneling and even a region of negative differential resistance, when the zero-bias resistance R_0' of the SQUID arrays is much higher than the quantum resistance R_K = h/e^2 = 26 kohm. The negative differential resistance is evidence of coherent single-Cooper-pair tunneling within the theory of current-biased single Josephson junctions. Based on the theory, we have calculated the I-V curves numerically in order to compare with the experimental ones at R_0' >> R_K. The numerical calculation agrees with the experiments qualitatively. We also discuss the R_0' dependence of the single-Josephson-junction I-V curve in terms of the superconductor-insulator transition driven by changing the coupling to the environment.",
+  "authors": [
+    "Michio Watanabe",
+    "David B. Haviland"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevB.67.094505",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.dis-nn"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0301467.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0301467.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.567481+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0301467",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.dis-nn"
+    ]
+  }
+}

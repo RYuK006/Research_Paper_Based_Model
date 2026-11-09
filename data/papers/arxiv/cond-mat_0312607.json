@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0312607",
+  "title": "Recent Developments in Computer Modeling of Amorphous Materials",
+  "abstract": "In this paper, we review some recent work on amorphous materials using current \"first principles\" electronic structure/molecular dynamics techniques. The main theme of the paper is to emphasize new directions in the use of such ab initio methods. Some of these, being quite new, need development, but we believe have promise for solving new and important kinds of problems in the physics of glassy and amorphous materials. Initially, we discuss first principles calculations in broad outline and comment on the various approximations in common use. Then, we describe methods for forming a computer model of amorphous materials. This is an area of intense activity and methods beyond the obvious \"quench from the melt\" method are showing promise and utility. In this paper, we discuss a new method: \"Decorate and Relax\", and a new implementation of the Reverse Monte Carlo method. Finally, we discuss the computation of electronic properties, especially carrier transport and time evolution of electron states.",
+  "authors": [
+    "D. A. Drabold",
+    "P. Biswas",
+    "D. Tafen",
+    "R. Atta-Fynn"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.dis-nn",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0312607.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0312607.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.730904+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0312607",
+    "categories": [
+      "cond-mat.dis-nn",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

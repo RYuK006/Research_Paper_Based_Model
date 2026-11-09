@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0303642",
+  "title": "The droplet evaporation/condensation transition in a finite volume",
+  "abstract": "A fluid in the NVT ensemble at T less than the critical temperature T_c and rho = N/V somewhat in excess of rho_coex (density of the saturated gas in the gas-liquid transition) is considered. For V->infinity, a macroscopic liquid droplet coexists with surrounding saturated gas according to the lever rule. For finite V, droplets can only exist if they exceed a minimum size. A (rounded) first order transition of the system occurs when the droplet evaporates into the supersaturated gas.Simulation evidence for this transition is given for a Lennard-Jones model and interpreted by a phenomenological theory. At the transition, the chemical potential difference mu_t-mu_coex scales like L^(-d/(d+1)) for a cubic volume V=L^d in d dimensions, as L->infinity.",
+  "authors": [
+    "P. Virnau",
+    "L. G. MacDowell",
+    "M. Mueller",
+    "K. Binder"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0303642.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0303642.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:43.926552+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0303642",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

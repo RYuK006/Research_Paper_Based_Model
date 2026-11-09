@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0303385",
+  "title": "Time--delay autosynchronization of the spatio-temporal dynamics in resonant tunneling diodes",
+  "abstract": "The double barrier resonant tunneling diode exhibits complex spatio-temporal patterns including low-dimensional chaos when operated in an active external circuit. We demonstrate how autosynchronization by time--delayed feedback control can be used to select and stabilize specific current density patterns in a noninvasive way. We compare the efficiency of different control schemes involving feedback in either local spatial or global degrees of freedom. The numerically obtained Floquet exponents are explained by analytical results from linear stability analysis.",
+  "authors": [
+    "J. Unkelbach",
+    "A. Amann",
+    "W. Just",
+    "E. Schöll"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevE.68.026204",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0303385.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0303385.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:11.124345+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0303385",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0310472",
+  "title": "Studies of Current-Driven Excitations in Co/Cu/Co Trilayer Nanopillars",
+  "abstract": "We measure the dynamic resistance of a Co/Cu/Co trilayer nanopillar at varied magnetic field $H$ and current $I$. The resistance displays the usual behavior, almost symmetric in $H$, both when magnetization switching is hysteretic at small $I,H$, and reversible at larger $I,H$. We show differences in the $I,H$ magnetization stability diagram measured by holding $I$ fixed and varying $H$ and vice versa. We also show how the peak in $dV/dI$ associated with telegraph noise in the reversible switching regime, is calculated from the telegraph noise variations with $I$. Lastly, we show data for a similar sample that displays behavior asymmetric in $H$, and a negative reversible switching peak instead of a usual positive one.",
+  "authors": [
+    "S. Urazhdin",
+    "Norman O. Birge",
+    "W. P. Pratt",
+    "J. Bass"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0310472.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0310472.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:14.912241+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0310472",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0201152",
+  "title": "Linear and nonlinear regime of a Random Resistor Network under biased percolation",
+  "abstract": "We investigate the steady state of a two-dimensional random resistor network subjected to two competing biased percolations as a function of the bias strength. The properties of the linear and nonlinear regimes are studied by means of Monte Carlo simulations. In constant current conditions, a scaling relation is found between $<R>/<R>_0$ and $I/I_0$, where $<R>$ is the average network resistance, $<R>_0$ the Ohmic resistance and $I_0$ an appropriate threshold value for the onset of nonlinearity. A similar scaling relation is found also for the relative variance of resistance fluctuations. These results are in good agreement with electrical breakdown measurements performed in composite materials.",
+  "authors": [
+    "C. Pennetta",
+    "E. Alfinito",
+    "L. Reggiani"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0201152.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0201152.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.746384+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0201152",
+    "categories": [
+      "cond-mat.stat-mech"
+    ]
+  }
+}

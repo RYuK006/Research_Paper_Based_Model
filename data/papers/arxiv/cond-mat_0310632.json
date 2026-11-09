@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0310632",
+  "title": "Spin-Dependent Transport through the Finite Array of Quantum Dots: Spin Gun",
+  "abstract": "The problem of spin-dependent transport of electrons through a finite array of quantum dots attached to 1D quantum wire (spin gun) for various semiconductor materials is studied. The Breit-Fermi term for spin-spin interaction in the effective Hamiltonian of the device is shown to result in a dependence of transmission coefficient on the spin orientation. The difference of transmission probabilities for singlet and triplet channels can reach few percent for a single quantum dot. For several quantum dots in the array due to interference effects it can reach approximately 100% for some energy intervals. For the same energy intervals the conductance of the device reaches the value $\\approx 1$ in $[e^{2}/π\\hbar]$ units. As a result a model of the spin-gun which transforms the spin-unpolarized electron beam into completely polarized one is suggested.",
+  "authors": [
+    "S. A. Avdonin",
+    "L. A. Dmitrieva",
+    "Yu. A. Kuperin",
+    "V. V. Sartan"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0310632.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0310632.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:14.997422+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0310632",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.str-el"
+    ]
+  }
+}

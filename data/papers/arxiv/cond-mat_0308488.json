@@ -1,0 +1,33 @@
+{
+  "id": "arxiv:cond-mat/0308488",
+  "title": "Legendre Integrators, Post-Processing and Quasiequilibrium",
+  "abstract": "A toolbox for the development and reduction of the dynamical models of nonequilibrium systems is presented. The main components of this toolbox are: Legendre integrators, dynamical postprocessing, and thermodynamic projector.   Thermodynamic projector is the tool to transform almost arbitrary anzatz to a thermodynamically consistent model, the postprocessing is the cheapest way to improve the solution, obtained by the Legendre integrators. Legendre Integrators give the opportunity to solve linear equations instead of nonlinear ones for quasiequilibrium (MaxEnt) approximations.   The essentially new element of this toolbox, the method of thermodynamic projector, is demonstrated on application to FENE-P model of polymer kinetic theory. The multy-peak model of polymer dynamics is developed. The simplest example, discussed in details, is the two peaks model for Gaussian manifold instability in polymer dynamics. This type of models opens a way to create the computational models for the \"molecular individualism\".",
+  "authors": [
+    "A. N. Gorban",
+    "P. A. Gorban",
+    "I. V. Karlin"
+  ],
+  "year": 2003,
+  "doi": "10.1016/j.jnnfm.2003.12.005",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat",
+    "math-ph",
+    "math.MP",
+    "physics.comp-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0308488.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0308488.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.729427+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0308488",
+    "categories": [
+      "cond-mat",
+      "math-ph",
+      "math.MP",
+      "physics.comp-ph"
+    ]
+  }
+}

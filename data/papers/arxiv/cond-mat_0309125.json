@@ -1,0 +1,33 @@
+{
+  "id": "arxiv:cond-mat/0309125",
+  "title": "Evidence for the FFLO state in CeCoIn_5 from penetration depth measurements",
+  "abstract": "We report penetration depth and resistivity measurements on the heavy fermion superconductor CeCoIn_5 using a self resonant tank circuit based on a tunnel diode oscillator. For magnetic fields applied near parallel to the \\emph{ab}-planes and temperatures below 250 mK, two phase transitions were found. The lower field transition, within the superconducting state, is of a second order and we identify it as the transition from the ordinary vortex state to the Fulde, Ferrell, Larkin, Ovchinnikov (FFLO) state. The higher field transition marks the change from the FFLO to the normal state. This higher field transition, $H_{c2}$, is of first order up to 900 mK, the highest temperature measured. Our normal state resistivity measurements at temperatures between 100 and 900 mK suggest that the FFLO state is related to the change of the quasi-particle interaction strength, $F^a_0$. Our critical field data for different orientations and temperatures is in good agreement with recent specific heat, magnetization, and resistivity results.",
+  "authors": [
+    "C. Martin",
+    "C. C. Agosta",
+    "S. W. Tozer",
+    "H. A. Radovan",
+    "E. C. Palm",
+    "T. P. Murphy",
+    "J. L. Sarrao"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0309125.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0309125.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.916525+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0309125",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

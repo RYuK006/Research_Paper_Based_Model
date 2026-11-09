@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0107559",
+  "title": "Self-assembly in Lyotropic Chromonic Liquid Crystals",
+  "abstract": "We have developed a class of idealized models of chromonic molecules which are miscible in water, but which can form aggregates which in turn organize into lyotropic liquid crystal (LC) phases. By carrying out Monte Carlo simulation in a binary mixture of model chromonic and water molecules, we have studied the effect of concentration and molecular shape on the nature of resulting mesophases. We have also computed the free energy associated with the formation of chromonic columnar aggregates by umbrella sampling. Our free energy computation helps us to verify the isodesmic behavior which is characteristic of chromonic systems. For isodesmic behavior the addition of each chromonic molecule to the columnar aggregates is accompanied by a constant free energy increment and the net free energy decreases with increasing column length.",
+  "authors": [
+    "Prabal K. Maiti",
+    "Yves Lansac",
+    "Matthew A. Glaser",
+    "Noel A. Clark"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.soft"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0107559.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0107559.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.122219+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0107559",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.soft"
+    ]
+  }
+}

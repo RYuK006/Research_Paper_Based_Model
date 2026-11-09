@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0406590",
+  "title": "Models for the magnetic ac susceptibility of granular superferromagnetic CoFe/Al$_2$O$_3$",
+  "abstract": "The magnetization and magnetic ac susceptibility, $χ= χ' - i χ''$, of superferromagnetic systems are studied by numerical simulations. The Cole-Cole plot, $χ''$ vs. $χ'$, is used as a tool for classifying magnetic systems by their dynamical behavior. The simulations of the magnetization hysteresis and the ac susceptibility are performed with two approaches for a driven domain wall in random media. The studies are motivated by recent experimental results on the interacting nanoparticle system Co$_{80}$Fe$_{20}$/Al$_{2}$O$_{3}$ showing superferromagnetic behavior. Its Cole-Cole plot indicates domain wall motion dynamics similarly to a disordered ferromagnet, including pinning and sliding motion. With our models we can successfully reproduce the features found in the experimental Cole-Cole plots.",
+  "authors": [
+    "O. Petracic",
+    "A. Glatz",
+    "W. Kleemann"
+  ],
+  "year": 2005,
+  "doi": "10.1103/PhysRevB.70.214432",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.dis-nn"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0406590.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0406590.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.619078+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0406590",
+    "categories": [
+      "cond-mat.dis-nn"
+    ]
+  }
+}

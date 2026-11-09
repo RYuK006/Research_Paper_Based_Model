@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0301300",
+  "title": "On the low-temperature diffusion of localized Frenkel excitons in linear molecular aggregates",
+  "abstract": "We study theoretically diffusion of one-dimensional Frenkel excitons in J-aggregates at temperatures that are smaller or of the order of the J-band width. We consider an aggregate as an open linear chain with uncorrelated on-site (diagonal) disorder that localizes the exciton at chain segments of size smaller than the full chain length. The exciton diffusion over the localization segments is considered as incoherent hopping. The diffusion is probed by the exciton fluorescence quenching which is due to the presence of point traps in the aggregate. The rate equation for populations of the localized exciton states is used to describe the exciton diffusion and trapping. We show that there exist two regimes of the exciton diffusion at low temperatures. The first, slower one, involves only the states of the very tail of the density of states, while the second, much faster one, also involves the higher states that are close to the bottom of the exciton band. The activation energy for the first regime of diffusion is of the order of one fifth of the J-band width, while for the second one it is of the order of the full J-band width. We discuss also the experimental data on the fast low-temperature exciton-exciton annihilation reported recently by I. G. Scheblykin {\\em et al}, J. Phys. Chem. B {\\bf 104}, 10949 (2000).",
+  "authors": [
+    "A. V. Malyshev",
+    "V. A. Malyshev",
+    "F. Dominguez-Adame"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.dis-nn",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0301300.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0301300.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.452464+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0301300",
+    "categories": [
+      "cond-mat.dis-nn",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

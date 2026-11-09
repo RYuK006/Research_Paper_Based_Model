@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0109184",
+  "title": "Growth kinetic study of sputter deposition: Ag on Si/SiO$_2$",
+  "abstract": "We have presented the kinetic study of the very initial growth stages of an ultra thin film (40 $Å$- 150$Å$) of Ag sputter-deposited on Si(001) substrate containing native oxide using grazing incidence x-ray reflectivity (GIXR) technique and Atomic Force Microscopy (AFM). We observe that the film consists of mounds with the presence of voids. The thickness `d_{xray}' and the packing fraction `η' of the film as a function of time `t' follow a simple power law, d_{xray} $\\thicksim t^{m} and η\\thicksim $t^{n}$ with the exponent m = 0.58 and n = 0.37 respectively. We have quantitatively determined that the voids between the mounds decrease at the initial growth stages with the increase in mound size using GIXR measurement. The mound size increases mainly by the coalescence process on the substrate. We have observed that as a function of time the mound size R(t) increases radially as $\\thicksim $t^{z}. The radial growth exponent z crosses over from z > 0.5 to z $\\thicksim $ 0.25 indicating two growth regimes. The GIXR measurement reveals sublinear dependence of ηon d and the AFM measurement shows a cross over of the radial growth exponent, both these indicates that the lateral growth of the mound is enhanced initially reducing the voids.",
+  "authors": [
+    "S. Banerjee",
+    "S. Kundu"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0109184.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0109184.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.400609+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0109184",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0206339",
+  "title": "The superfluidity mechanism of He II",
+  "abstract": "Based on a first principles treatment of the excitation states we show that superfluidity of superfluid $^4$He (He II) results from a reduction in the number of phonon wavevector $K$ states $\\N2(K)$ to a level that is negligibly low when the fluid is confined e.g. in a narrow channel, yet wider than the helium atom correlation length, $Λ$. This is as a result of the $K$ discretization, a manifestation of the quantum confinement effect (QCE). The predicted relative viscosity of a confined superfluid has the characteristic order of magnitude of experimental data ($<10^{-6}$). Furthermore, we show that at the edges of the resulting energy gaps, the $\\N2(K)$ presents discontinuity. When its corresponding energy exceeds the (first) gap, the superfluid flow exhibits a critical velocity $v_c$. Our evaluation of $v_c(d)$ versus the channel width $d$, constrained to satisfy energy conservation, is in good quantitative agreement with experimental data for channels with $d>10^{-6}$ m. Meanwhile, a sharp turn about $K\\propto$ $ v_c$ in $\\N2(K)$ resembles very well that of the experimental overshoot data. For narrower channels of $d<10^{-6}$ m $\\le Λ$ in which the phonon excitation picture becomes inadequate, we instead represent the excitation in terms of single atoms with an effective mass, which yields a $v_c(d)$ in close agreement with experiment. Accordingly, the reduction in the number of atomic states results in superfluidity. The theoretical finding in this work, which can be termed the {\\bf QCE superfluidity mechanism}, provides a consistent explanation for this puzzling phenomenon, the non-dissipative, superfluidity motion, of He II and could have a significant impact also on the understanding of other superfluids.",
+  "authors": [
+    "J. X. Zheng-Johansson",
+    "B. Johansson",
+    "P-I. Johansson"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0206339.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0206339.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.211896+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0206339",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

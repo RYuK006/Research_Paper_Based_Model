@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0102343",
+  "title": "Spinwaves and large electron-phonon coupling near the metal-insulator transition in hole-doped high-T$_C$ oxides",
+  "abstract": "A theory for spin and lattice couplings to the electronic states in high-T$_C$ oxides is presented, with HgBa$_2$CuO$_4$ as an example. A simple analytical model suggests that the barrel band is sensitive to potential perturbations with long-range Fourier components, and that gaps can be opened at the Fermi energy. This is confirmed in self-consistent band calculations for modulations in elongated supercells, where spin waves and phonon coupling compete for equal q-vectors. It is argued that the wavelengths of spin-wave modulations and of the phonon modes with large coupling, depend on the doping. This mechanism supports the idea that pseudogaps are caused by stripe like spin-modulations in underdoped systems, while superconductivity is attributed to enhanced electron-phonon coupling for long wavelength phonons.",
+  "authors": [
+    "T. Jarlborg"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0102343.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0102343.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:04.815342+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0102343",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

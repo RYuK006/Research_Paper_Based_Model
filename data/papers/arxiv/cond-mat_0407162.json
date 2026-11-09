@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0407162",
+  "title": "Modeling of Damage Evolution in Soft-Wood Perpendicular to Grain by means of a Discrete Element Approach",
+  "abstract": "The anisotropy of wood within the radial-tangential (RT) growth plane has a major influence on the cracking behavior perpendicular to grain. Within the scope of this work, a two-dimensional discrete element model is developed, consisting of beam elements for the representation of the micro structure of wood. Molecular dynamics simulation is used to follow the time evolution of the model system during the damage evolution in the RT plane under various loading conditions. It is shown that the results are in good agreement with experiments on spruce wood, and that the presented discrete element approach is applicable for detailed studies of the dependence of the micro structure on mesoscopic damage mechanism and dynamics of crack propagation in micro structured and cellular materials like wood.",
+  "authors": [
+    "Falk K. Wittel",
+    "Gerhard Dill-Langer",
+    "Bernd-H. Kroeplin"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0407162.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0407162.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.787698+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0407162",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

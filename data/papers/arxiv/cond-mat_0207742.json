@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0207742",
+  "title": "Semi-fluxons in long Josephson 0-pi-junctions",
+  "abstract": "We investigate analytically long Josephson junctions with phase pi-discontinuity points. Such junctions are usually fabricated as a ramp between a superconductor like YBCO with d-wave symmetry of the order parameter and an s-wave superconductor like Nb. From the top, they look like zigzags with pi-jumps of the Josephson phase at the corners. These pi-jumps, at certain conditions, lead to the formation of half-integer flux quanta, which we call semi-fluxons, pinned at the corners. We derive a version of sine-Gordon equation which describes the dynamics of the Josephson phase in such structures, and obtain an explicit formula which describes the shape of a semi-fluxon. Some properties of semi-fluxons are discussed. We propose a way to construct artificial pi-junctions using only s-wave superconductors.",
+  "authors": [
+    "E. Goldobin",
+    "D. Koelle",
+    "R. Kleiner"
+  ],
+  "year": 2002,
+  "doi": "10.1103/PhysRevB.66.100508",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "nlin.PS"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0207742.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0207742.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.801314+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0207742",
+    "categories": [
+      "cond-mat.supr-con",
+      "nlin.PS"
+    ]
+  }
+}

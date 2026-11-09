@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0405273",
+  "title": "Asymmetry and decoherence in a double-layer persistent-current qubit",
+  "abstract": "Superconducting circuits fabricated using the widely used shadow evaporation technique can contain unintended junctions which change their quantum dynamics. We discuss a superconducting flux qubit design that exploits the symmetries of a circuit to protect the qubit from unwanted coupling to the noisy environment, in which the unintended junctions can spoil the quantum coherence. We present a theoretical model based on a recently developed circuit theory for superconducting qubits and calculate relaxation and decoherence times that can be compared with existing experiments. Furthermore, the coupling of the qubit to a circuit resonance (plasmon mode) is explained in terms of the asymmetry of the circuit. Finally, possibilities for prolonging the relaxation and decoherence times of the studied superconducting qubit are proposed on the basis of the obtained results.",
+  "authors": [
+    "Guido Burkard",
+    "David P. DiVincenzo",
+    "P. Bertet",
+    "I. Chiorescu",
+    "J. E. Mooij"
+  ],
+  "year": 2005,
+  "doi": "10.1103/PhysRevB.71.134504",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "quant-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0405273.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0405273.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.101271+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0405273",
+    "categories": [
+      "cond-mat.supr-con",
+      "quant-ph"
+    ]
+  }
+}

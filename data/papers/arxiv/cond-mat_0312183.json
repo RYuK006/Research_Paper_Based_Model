@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0312183",
+  "title": "Temperature-dependent contact resistances in high-quality polymer field-effect transistors",
+  "abstract": "Contact resistances between organic semiconductors and metals can dominate the transport properties of electronic devices incorporating such materials. We report measurements of the parasitic contact resistance and the true channel resistance in bottom contact poly(3-hexylthiophene) (P3HT) field-effect transistors with channel lengths from 400 nm up to 40 $μ$m, from room temperature down to 77 K. For fixed gate voltage, the ratio of contact to channel resistance decreases with decreasing temperature. We compare this result with a recent model for metal-organic semiconductor contacts. Mobilities corrected for this contact resistance can approach 1 cm$^{2}$/Vs at room temperature and high gate voltages.",
+  "authors": [
+    "B. H. Hamadani",
+    "D. Natelson"
+  ],
+  "year": 2003,
+  "doi": "10.1063/1.1639945",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0312183.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0312183.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.537971+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0312183",
+    "categories": [
+      "cond-mat.mes-hall"
+    ]
+  }
+}

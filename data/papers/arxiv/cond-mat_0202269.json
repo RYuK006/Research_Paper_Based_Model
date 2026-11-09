@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0202269",
+  "title": "A Role of Initial Conditions in Spin-Glass Aging Experiments",
+  "abstract": "Effect of initial conditions on aging properties of the spin-glass state is studied for a single crystal Cu:Mn 1.5 at %. It is shown that memory of the initial state, created by the cooling process, remains strong on all experimental time scales. Scaling properties of two relaxation functions, the TRM and the IRM (with $t_{w1}=0$ and $t_{w2}=t_{w}$), are compared in detail. The TRM decay exhibits the well-known subaging behavior, with $μ<1$ and $t_{w}^{eff}>t_{w}$. The IRM relaxation demonstrates the superaging behavior, with $μ>1$ and $t_{w}^{eff}<t_{w}$. It is shown that an average over different initial conditions leads to systematic improvement in $t/t_{w}$ scaling. An effective barrier, describing influence of the initial state on spin-glass relaxation, is found to be almost independent of temperature. These results suggest that departures from full $t/t_{w}$ scaling, observed in aging experiments, are largely due to cooling effects.",
+  "authors": [
+    "V. S. Zotev",
+    "G. F. Rodriguez",
+    "R. Orbach",
+    "E. Vincent",
+    "J. Hammann"
+  ],
+  "year": 2002,
+  "doi": "10.1103/PhysRevB.67.184422",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.dis-nn"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0202269.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0202269.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.008541+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0202269",
+    "categories": [
+      "cond-mat.dis-nn"
+    ]
+  }
+}

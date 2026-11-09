@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0203128",
+  "title": "Transport properties of electrons and holes in a CuO2 layer doped by field effect",
+  "abstract": "We propose a model for explaining the recent results obtained by J. Schon et al (1,2) on transport properties of electrons and holes in one plane of CuO2 in a layered cuprate (CaCuO2) where the carriers are created using a field effect transistor (FET). We use the known band structure of a CuO2 plane showing a van Hove singularity (vHs). When the energy of the hole lies near the vHs a variation of the resistivity linear with temperature (T) is calculated and when the FL lies far from the vHs, a quadratic law is obtained at low temperature and becomes linear at higher T. We find that the transition temperature T* is simply related to the distance between the Fermi level and the vHs. The behavior of the Hall coefficient is explained by the existence of hole type and electron type orbits in hole doped CuO2 planes. The fit with the experimental results is excellent.",
+  "authors": [
+    "J. Bok",
+    "J. Bouvier"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0203128.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0203128.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.172178+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0203128",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

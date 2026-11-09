@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0212160",
+  "title": "Quantum size correction to the work function and the centroid of excess charge in positively ionized simple metal clusters",
+  "abstract": "In this work, we have shown the important role of the finite-size correction to the work function in predicting the correct positions of the centroid of excess charge in positively charged simple metal clusters with different $r_s$ values ($2\\le r_s\\le7$). For this purpose, firstly we have calculated the self-consistent Kohn-Sham energies of neutral and singly-ionized clusters with sizes $2\\le N\\le 100$ in the framework of local spin-density approximation and stabilized jellium model (SJM) as well as simple jellium model (JM) with rigid jellium. Secondly, we have fitted our results to the asymptotic ionization formulas both with and without the size correction to the work function. The results of fittings show that the formula containing the size correction predict a correct position of the centroid inside the jellium while the other predicts a false position outside the jellium sphere.",
+  "authors": [
+    "M. Payami"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat",
+    "physics.atm-clus"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0212160.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0212160.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.962269+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0212160",
+    "categories": [
+      "cond-mat",
+      "physics.atm-clus"
+    ]
+  }
+}

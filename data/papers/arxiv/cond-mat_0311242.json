@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0311242",
+  "title": "Coulomb Blockade of Proximity Effect at Large Conductance",
+  "abstract": "We consider the proximity effect in a normal dot coupled to a bulk superconducting reservoir by the tunnel contact with large normal conductance. Coulomb interaction in the dot suppresses the proximity minigap induced in the normal part of the system. We find exact expressions for the thermodynamic and tunneling minigaps as functions of the junction's capacitance. The tunneling minigap interpolates between its proximity-induced value in the regime of weak Coulomb interaction to the Coulomb gap in the regime of strong interaction. In the intermediate case a non-universal two-step structure of the tunneling density of states is predicted. The charge quantization in the dot is also studied.",
+  "authors": [
+    "P. M. Ostrovsky",
+    "M. A. Skvortsov",
+    "M. V. Feigel'man"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevLett.92.176805",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0311242.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0311242.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.194857+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0311242",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.supr-con"
+    ]
+  }
+}

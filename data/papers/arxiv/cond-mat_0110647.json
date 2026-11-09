@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0110647",
+  "title": "Monte Carlo simulation of electromigration phenomena in metallic lines",
+  "abstract": "The electromigration (EM) of metallic lines is studied in terms of competition between two percolative processes taking place in a random resistor network. The effects associated with the transport of mass and with the consequent growth of the internal stress are accounted for by stochastic generation and recovery of voids, driven by the external current. Monte Carlo simulations enable us to investigate within a unified theoretical framework a variety of relevant aspects of EM degradation as: damage patterns, the distribution of the time to failures, early stage resistance change in the presence of compositional effects, Black's law, geometrical effects, etc. A general agreement is found with the experimental findings.",
+  "authors": [
+    "C. Pennetta",
+    "L. Reggiani",
+    "E. Alfinito"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0110647.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0110647.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.240911+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0110647",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

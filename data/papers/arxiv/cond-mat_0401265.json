@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0401265",
+  "title": "Short range repulsive interatomic interactions in energetic processes in solids",
+  "abstract": "The repulsive interaction between two atoms at short distances is studied in order to explore the range of validity of standard first-principles simulation techniques and improve the available short-range potentials for the description of energetic collision cascades in solids. Pseudopotentials represent the weakest approximation, given their lack of explicit Pauli repulsion in the core-core interactions. The energy (distance) scale realistically accessible is studied by comparison with all-electron reference calculations in some binary systems. Reference calculations are performed with no approximations related to either core (frozen core, augmentation spheres) or basis set. This is important since the validity of such approximations, even in all-electron calculations, rely on the small core perturbation usual in low-energy studies. The expected importance of semicore states is quantified. We propose a scheme for improving the electronic screening given by pseudopotentials for very short distances. The results of this study are applied to the assessment and improvement of existing repulsive empirical potentials.",
+  "authors": [
+    "J. M. Pruneda",
+    "E. Artacho"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevB.70.035106",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0401265.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0401265.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.010513+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0401265",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

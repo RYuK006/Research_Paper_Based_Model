@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0302327",
+  "title": "A hybrid model for chaotic front dynamics: From semiconductors to water tanks",
+  "abstract": "We present a general method for studying front propagation in nonlinear systems with a global constraint in the language of hybrid tank models. The method is illustrated in the case of semiconductor superlattices, where the dynamics of the electron accumulation and depletion fronts shows complex spatio-temporal patterns, including chaos. We show that this behavior may be elegantly explained by a tank model, for which analytical results on the emergence of chaos are available. In particular, for the case of three tanks the bifurcation scenario is characterized by a modified version of the one-dimensional iterated tent-map.",
+  "authors": [
+    "A. Amann",
+    "K. Peters",
+    "U. Parlitz",
+    "A. Wacker",
+    "E. Schöll"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevLett.91.066601",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0302327.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0302327.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.844834+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0302327",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

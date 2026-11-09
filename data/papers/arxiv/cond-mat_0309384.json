@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0309384",
+  "title": "Magnetization Process of Single Molecule Magnets at Low Temperatures",
+  "abstract": "We show that correlations established before quenching to very low temperatures, later drive the magnetization process of systems of single molecule magnets, after a magnetic field is applied at t=0. We also show that in SC lattices, m \\propto sqrt(t), as observed in Fe_8, but only for 1+2*log_10(h_d/h_w) time decades, where h_d is a nearest neighbor dipolar magnetic field and a spin reversal can occur only if the field on it is within (-h_w,h_w). However, the sqrt(t) behavior is not universal. For BCC and FCC lattices, m \\propto t^p, but p \\simeq 0.7. The value to which m finally levels off is also given.",
+  "authors": [
+    "J. F. Fernandez",
+    "J. J. Alonso"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevLett.91.047202",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0309384.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0309384.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:46.061027+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0309384",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

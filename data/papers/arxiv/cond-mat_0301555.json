@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0301555",
+  "title": "Are Scale Free Networks Better?",
+  "abstract": "We study the performance of Weibull and scale free Internet-like networks and compare them to a classical random graph based network. The scaling of the traffic load with the nodal degree is established, and confimed in a numerical simulation of the TCP traffic. The scaling allows us to estimate the link capacity upgrade required making and extra connection to an existing node.",
+  "authors": [
+    "Gergely Peli",
+    "Gabor Papp"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0301555.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0301555.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.627493+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0301555",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

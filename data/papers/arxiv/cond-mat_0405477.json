@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0405477",
+  "title": "Keldysh Functional Integral Theory of Non-equilibrium Kondo Bridge",
+  "abstract": "We develop a consistent method for calculating non-equilibrium Green's functions for a nano-sized dot coupled to electron reservoirs by tunneling. The leads are generally at different chemical potentials (non-equilibrium), and the dot may be a single molecule characterized by its own vibrational frequency $\\wph$. We carry out a Keldysh functional analysis of the effective Green's functions of the local electron in the dot, and also of the vibration mode, in the Kondo regime. Finally, the tunneling current is calculated as a function of bias using non-equilibrium Green's function. We find stepwise increase of the current when bias exceeds even multiples of the phonon frequency.",
+  "authors": [
+    "Jung Hoon Han"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0405477.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0405477.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.175381+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0405477",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mes-hall"
+    ]
+  }
+}

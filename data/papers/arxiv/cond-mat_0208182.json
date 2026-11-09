@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0208182",
+  "title": "Scaling, domains, and states in the four-dimensional random field Ising magnet",
+  "abstract": "The four dimensional Gaussian random field Ising magnet is investigated numerically at zero temperature, using samples up to size $64^4$, to test scaling theories and to investigate the nature of domain walls and the thermodynamic limit. As the magnetization exponent $β$ is more easily distinguishable from zero in four dimensions than in three dimensions, these results provide a useful test of conventional scaling theories. Results are presented for the critical behavior of the heat capacity, magnetization, and stiffness. The fractal dimensions of the domain walls at criticality are estimated. A notable difference from three dimensions is the structure of the spin domains: frozen spins of both signs percolate at a disorder magnitude less than the value at the ferromagnetic to paramagnetic transition. Hence, in the vicinity of the transition, there are two percolating clusters of opposite spins that are fixed under any boundary conditions. This structure changes the interpretation of the domain walls for the four dimensional case. The scaling of the effect of boundary conditions on the interior spin configuration is found to be consistent with the domain wall dimension. There is no evidence of a glassy phase: there appears to be a single transition from two ferromagnetic states to a single paramagnetic state, as in three dimensions. The slowing down of the ground state algorithm is also used to study this model and the links between combinatorial optimization and critical behavior.",
+  "authors": [
+    "A. Alan Middleton"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.dis-nn",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0208182.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0208182.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:08.706521+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0208182",
+    "categories": [
+      "cond-mat.dis-nn",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

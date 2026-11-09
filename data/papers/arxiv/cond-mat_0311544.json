@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0311544",
+  "title": "Simulating spin-boson dynamics with stochastic Liouville-von Neumann equations",
+  "abstract": "Based on recently derived exact stochastic Liouville-von Neumann equations, several strategies for the efficient simulation of open quantum systems are developed and tested on the spin-boson model. The accuracy and efficiency of these simulations is verified for several test cases including both coherent and incoherent dynamics, involving timescales differing by several orders of magnitude. Using simulations with a time-dependent field, the time evolution of coherences in the reduced density matrix is investigated. Even in the case of weak damping, pronounced preparation effects are found. These indicate hidden coherence in the interacting system which can only be indirectly observed in the basis of the reduced quantum dynamics.",
+  "authors": [
+    "J. T. Stockburger"
+  ],
+  "year": 2003,
+  "doi": "10.1016/j.chemphys.2003.09.014",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0311544.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0311544.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.346679+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0311544",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

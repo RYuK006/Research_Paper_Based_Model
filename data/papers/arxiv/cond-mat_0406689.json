@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0406689",
+  "title": "Evolution in complex systems",
+  "abstract": "What features characterise complex system dynamics? Power laws and scale invariance of fluctuations are often taken as the hallmarks of complexity, drawing on analogies with equilibrium critical phenomena[1-3]. Here we argue that slow, directed dynamics, during which the system's properties change significantly, is fundamental. The underlying dynamics is related to a slow, decelerating but spasmodic release of an intrinsic strain or tension. Time series of a number of appropriate observables can be analysed to confirm this effect. The strain arises from local frustration. As the strain is released through \"quakes\", some system variable undergoes record statistics with accompanying log-Poisson statistics for the quake event times[4]. We demonstrate these phenomena via two very different systems: a model of magnetic relaxation in type II superconductors and the Tangled Nature model of evolutionary ecology, and show how quantitative indications of ageing can be found.",
+  "authors": [
+    "Paul Anderson",
+    "Henrik Jeldtoft Jensen",
+    "L. P. Oliveira",
+    "Paolo Sibani"
+  ],
+  "year": 2004,
+  "doi": "10.1002/cplx.20049",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0406689.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0406689.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.682051+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0406689",
+    "categories": [
+      "cond-mat.stat-mech"
+    ]
+  }
+}

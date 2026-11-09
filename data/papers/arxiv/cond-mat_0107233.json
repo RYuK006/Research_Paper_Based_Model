@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0107233",
+  "title": "Numerical Confirmation of Late-time t^{1/2} Growth in Three-dimensional Phase Ordering",
+  "abstract": "Results for the late-time regime of phase ordering in three dimensions are reported, based on numerical integration of the time-dependent Ginzburg-Landau equation with nonconserved order parameter at zero temperature. For very large systems ($700^3$) at late times, $t \\ge 150,$ the characteristic length grows as a power law, $R(t) \\sim t^n$, with the measured $n$ in agreement with the theoretically expected result $n=1/2$ to within statistical errors. In this time regime $R(t)$ is found to be in excellent agreement with the analytical result of Ohta, Jasnow, and Kawasaki [Phys. Rev. Lett. {\\bf 49}, 1223 (1982)]. At early times, good agreement is found between the simulations and the linearized theory with corrections due to the lattice anisotropy.",
+  "authors": [
+    "Gregory Brown",
+    "Per Arne Rikvold"
+  ],
+  "year": 2001,
+  "doi": "10.1103/PhysRevE.65.036137",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0107233.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0107233.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.005834+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0107233",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

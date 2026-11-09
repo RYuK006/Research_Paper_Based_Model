@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0204058",
+  "title": "Is there a critical acceleration for the onset of convection?",
+  "abstract": "Suppose granular material is shaken vertically with z(t)=A_0 cos(ω_0 t). Can we expect to find convection if A_0ω_0^2 < g? By means of theoretical analysis and computer simulation we find that there is no critical Γ=|A_0|ω_0^2/g for the onset of convection. Instead we propose a modified criterion which coincides with Γ=1 for small frequency ω_0.",
+  "authors": [
+    "Thorsten Poeschel",
+    "Thomas Schwager"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.dis-nn"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0204058.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0204058.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.380482+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0204058",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.dis-nn"
+    ]
+  }
+}

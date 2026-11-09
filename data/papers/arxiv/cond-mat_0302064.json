@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0302064",
+  "title": "A method to include the spin-fluctuation in the ab-initio electronic-structure calculation",
+  "abstract": "We present a new method of ab-initio electronic-structure calculation including the spin-fluctuation (SF) self-consistently. We start from the Luttinger-Ward functional given as the sum of the LDA functional plus the temperature-dependent part of the SF energy functional. The size of interactions used in it are determined in a similar manner to the self-consistent renormalization theory by Moriya and Kawabata. Obtained paramagnetic susceptibilities on Pd, Ni, Fe, and fcc-Co above $T_c$ show rather good agreements with experiments.",
+  "authors": [
+    "Takao Kotani",
+    "Hisazumi Akai"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0302064.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0302064.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.717482+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0302064",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

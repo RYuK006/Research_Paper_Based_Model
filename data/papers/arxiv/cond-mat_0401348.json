@@ -1,0 +1,33 @@
+{
+  "id": "arxiv:cond-mat/0401348",
+  "title": "Method for Computing Protein Binding Affinity",
+  "abstract": "A Monte Carlo method is given to compute the binding affinity of a ligand to a protein. The method involves extending configuration space by a discrete variable indicating whether the ligand is bound to the protein and a special Monte Carlo move which allows transitions between the unbound and bound states. Provided that an accurate protein structure is given, that the protein-ligand binding site is known, and that an accurate chemical force field together with a continuum solvation model is used, this method provides a quantitative estimate of the free energy of binding.",
+  "authors": [
+    "Charles F. F. Karney",
+    "Jason E. Ferrara",
+    "Stephan Brunner"
+  ],
+  "year": 2004,
+  "doi": "10.1002/jcc.20167",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "physics.bio-ph",
+    "physics.chem-ph",
+    "q-bio.QM"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0401348.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0401348.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.043936+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0401348",
+    "categories": [
+      "cond-mat.stat-mech",
+      "physics.bio-ph",
+      "physics.chem-ph",
+      "q-bio.QM"
+    ]
+  }
+}

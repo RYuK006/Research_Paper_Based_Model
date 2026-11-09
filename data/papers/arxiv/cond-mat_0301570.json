@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0301570",
+  "title": "Schwinger-Boson Mean Field Solution of Spin-1 (or 1/2) 2D Anisotropic Heisenberg Antiferromagnet",
+  "abstract": "Using the Resonant Valence Bond (RVB) concept and the Schwinger-boson mean field approximation, we investigate a two dimensional anisotropic Heisenberg antiferromagnet. We find that increasing the coupling ratio ($α=J_{y}/J_{x}$), a disordered-ordered phase transition appears beyond a critical value ($α_{c}$). When $α>α_{c}$ there exists a finite $T_{N}$ beyond which an ordered-disordered phase transition occurs, while for $α<α_{c}$ there always exists a gap. Also we find that a decoupling temperature $T_{D}$ exists for 1D and 2D isotropic case, when $T$ approaches $T_{D}$ the RVB order parameter decreases rapidly to zero.",
+  "authors": [
+    "Yanjiang JI",
+    "Jinming Dong"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0301570.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0301570.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.638755+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0301570",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

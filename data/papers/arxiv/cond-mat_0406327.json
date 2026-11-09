@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0406327",
+  "title": "Slow Drag in 2D Granular Media",
+  "abstract": "We study the drag force experienced by an object slowly moving at constant velocity through a 2D granular material consisting of bidisperse disks. The drag force is dominated by force chain structures in the bulk of the system, thus showing strong fluctuations. We consider the effect of three important control parameters for the system: the packing fraction, the drag velocity and the size of the tracer particle. We find that the mean drag force increases as a power-law (exponent of 1.5) in the reduced packing fraction, $(γ- γ_c)/γ_c$, as $γ$ passes through a critical packing fraction, $γ_c$. By comparison, the mean drag grows slowly (basically logarithmic) with the drag velocity, showing a weak rate-dependence. However, the system nevertheless exhibits strong statistical invariance in the sense that many physical quantities collapse onto a single curve under appropriate scaling. We also show that the system can be understood using simple failure models, which reproduce many experimental observations. These experimental data and simulations indicate that fluctuations in the drag force seem to be associated with the force chain formation and breaking in the system. Moreover, our simulations suggest that the logarithmic increase of the mean drag force with rate can be accounted for if slow relaxation of the force chain networks is included.",
+  "authors": [
+    "Junfei Geng",
+    "R. P. Behringer"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0406327.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0406327.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.479797+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0406327",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

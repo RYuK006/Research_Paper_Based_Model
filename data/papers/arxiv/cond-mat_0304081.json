@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0304081",
+  "title": "Magnetism in the Hubbard model-An improved treatment",
+  "abstract": "We propose a new treatment of the Hubbard model that is based both on the coherent-potential approximation (CPA) and the virtual-crystal approximation (VCA). It is well known that the equilibrium found using the one-particle CPA Green's functions does not predict an ordered magnetic ground state, while Stoner's mean-field treatment, which is equivalent to the VCA on the Hubbard model, does so for a wide range of parameters. A hybrid treatment, the tau-CPA, is developed, in which a particle is assumed to be scattered from an array of static opposite spins for a time tau related to the inverse of the band width. The propagation is treated in the CPA over this period; thereafter the particle sees the time-averaged effect of the scatterers and hence can be treated in the VCA. This model, with suitable approximations, does predict magnetism for a modified Stoner criterion.",
+  "authors": [
+    "A. Uldry",
+    "R. J. Elliott"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0304081.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0304081.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:43.966102+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0304081",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

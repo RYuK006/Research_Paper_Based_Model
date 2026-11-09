@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0302019",
+  "title": "Classical and Quantum Mechanics of Anyons",
+  "abstract": "We review aspects of classical and quantum mechanics of many anyons confined in an oscillator potential. The quantum mechanics of many anyons is complicated due to the occurrence of multivalued wavefunctions. Nevertheless there exists, for arbitrary number of anyons, a subset of exact solutions which may be interpreted as the breathing modes or equivalently collective modes of the full system. Choosing the three-anyon system as an example, we also discuss the anatomy of the so called ``missing'' states which are in fact known numerically and are set apart from the known exact states by their nonlinear dependence on the statistical parameter in the spectrum.   Though classically the equations of motion remains unchanged in the presence of the statistical interaction, the system is non-integrable because the configuration space is now multiply connected. In fact we show that even though the number of constants of motion is the same as the number of degrees of freedom the system is in general not integrable via action-angle variables. This is probably the first known example of a many body pseudo-integrable system. We discuss the classification of the orbits and the symmetry reduction due to the interaction. We also sketch the application of periodic orbit theory (POT) to many anyon systems and show the presence of eigenvalues that are potentially non-linear as a function of the statistical parameter. Finally we perform the semiclassical analysis of the ground state by minimizing the Hamiltonian with fixed angular momentum and further minimization over the quantized values of the angular momentum.",
+  "authors": [
+    "G. Date",
+    "M. V. N. Murthy",
+    "Radhika Vathsan"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0302019.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0302019.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.668054+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0302019",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

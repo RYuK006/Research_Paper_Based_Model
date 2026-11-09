@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0211515",
+  "title": "Room Temperature Ballistic Conduction in Carbon Nanotubes",
+  "abstract": "Multiwalled carbon nanotubes are shown to be ballistic conductors at room temperature, with mean free paths of the order of tens of microns. These experiments follow and extend the original experiments by Frank et al (Science, 280 1744 1998) including in-situ electron microscopy experiments and a detailed analysis of the length dependence of the resistance. The per unit length resistance r < 100 Ohm/micron, indicating free paths l > 65 microns, unambiguously demonstrate ballistic conduction at room temperature up to macroscopic distances. The nanotube-metal contact resistances are in the range 0.1-1 kOhm micron. Contact scattering can explain why the measured conductances are about half the expected theoretical value of 2 G0 . For V>0.1V the conductance rises linearly (dG/dV~0.3 G0 /V) reflecting the linear increase in the density-of-states in a metallic nanotube above the energy gap. Increased resistances (r =2- 10 k Ohm/micron) and anomalous I-V dependences result from impurities and surfactants on the tubes.Evidence is presented that ballistic transport occurs in undoped and undamaged tubed for which the top layer is metallic and the next layer is semiconducting. The diffusive properties of lithographically contacted multiwalled nanotubes most likely result from purification and other processing steps that damage and dope the nanotubes thereby making them structurally and electronically different than the pristine nanotubes investigated here.",
+  "authors": [
+    "Philippe Poncharal",
+    "Claire Berger",
+    "Yan Yi",
+    "Z. L. Wang",
+    "Walt A. de Heer"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0211515.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0211515.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.782367+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0211515",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

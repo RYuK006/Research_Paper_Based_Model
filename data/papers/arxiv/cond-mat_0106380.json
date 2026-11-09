@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0106380",
+  "title": "Role of structural relaxations, chemical substitutions and polarization fields on the potential line-up in [0001] wurtzite GaN/Al systems",
+  "abstract": "First-principles full-potential linearized augmented plane wave (FLAPW) calculations are performed to clarify the role of the interface geometry on piezoelectric fields and on potential line-ups at the [0001]-wurtzite and [111]-zincblende GaN/Al junctions. The electric fields (polarity and magnitude) are found to be strongly affected by atomic relaxations in the interface region. A procedure is tested to evaluate the Schottky barrier in the presence of electric fields and used to show that their effect is quite small (a few tenths of an eV). These calculations assess the rectifying behaviour of the GaN/Al contact, giving very good agreement with experimental values for the barrier. Stimulated by the complexity of the problem, we disentangle chemical and structural effects on the relevant properties (such as the potential discontinuity and electric fields) by studying auxiliary unrelaxed nitride/metal systems. Focusing on simple electronegativity arguments, we outline the leading mechanisms that result in the final values of the electric fields and Schottky barriers in these ideal interfaces. Finally, the transitivity rule in the presence of two inequivalent junctions is proved to give reliable results.",
+  "authors": [
+    "S. Picozzi",
+    "G. Profeta",
+    "A. Continenza",
+    "S. Massidda",
+    "A. J. Freeman"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0106380.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0106380.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.849409+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0106380",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

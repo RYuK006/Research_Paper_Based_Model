@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0312076",
+  "title": "Frustrated antiferromagnets at high fields: the Bose-Einstein condensation in degenerate spectra",
+  "abstract": "Quantum phase transition at the saturation field is studied for a class of frustrated quantum antiferromagnets. The considered models include (i) the $J_1$-$J_2$ frustrated square-lattice antiferromagnet with $J_2={1/2}J_1$ and (ii) the nearest-neighbor Heisenberg antiferromagnet on a face centered cubic lattice. In the fully saturated phase the magnon spectra for the two models have lines of degenerate minima. Transition into partially magnetized state is treated via a mapping to a dilute gas of hard core bosons and by complementary spin-wave calculations. Momentum dependence of the exact four-point boson vertex removes the degeneracy of the single-particle excitation spectra and selects the ordering wave-vectors at $(π,π)$ and $(π,0,0)$ for the two models. The asymptotic behavior of the magnetization curve differs significantly from that of conventional antiferromagnet in $d$-spatial dimensions. We predict a unique form for the magnetization curve $ΔM=S-M\\simeq μ^{(d-1)/2}(\\logμ)^{(d-1)}$, where $μ$ is a distance from the quantum critical point.",
+  "authors": [
+    "G. Jackeli",
+    "M. E. Zhitomirsky"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevLett.93.017201",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0312076.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0312076.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.476341+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0312076",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0305566",
+  "title": "Strong coupling approach in dynamical mean-field theory for strongly correlated electron systems",
+  "abstract": "We review two analytical approaches in Dynamical Mean-Field Theory (DMFT) based on a perturbation theory expansion over the electron hopping to and from the self consistent environment. In the first approach the effective single impurity Anderson model (SIAM) is formulated in terms of the auxiliary Fermi-fields and the projection (irreducible Green's function) technique is used for its solution. A system of the DMFT equations is obtained that includes as simple specific cases a number of known approximations (Hubbard-III, AA, MAA, ...). The second approach is based on the diagrammatic technique (Wick's theorem) for Hubbard operators that allows to construct a thermodynamically consistent theory when SIAM exactly splits into four components (subspaces): two Fermi liquid and two non-Fermi liquid. The results for the density of states, concentration dependences of the band energies, chemical potential and magnetic order parameters are presented for different self-consistent approximations (AA, strong coupling Hartree--Fock and further).",
+  "authors": [
+    "I. V. Stasyuk",
+    "A. M. Shvaika"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0305566.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0305566.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.661535+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0305566",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

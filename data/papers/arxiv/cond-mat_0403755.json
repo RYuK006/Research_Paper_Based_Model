@@ -1,0 +1,38 @@
+{
+  "id": "arxiv:cond-mat/0403755",
+  "title": "Correlation of microwave surface impedance of MgB_2 thin film with material parameters and a temperature niche for microwave applications",
+  "abstract": "Two issues related to the microwave surface impedance Z_s of MgB_2 thin film are discussed in this Letter, both being significant for potential microwave applications. At first, a correlation between Zs and Alpha = Xi/l was found, where Xi is the coherence length, and l is the mean free path. The surface resistance Rs decreases with Alpha at moderate and large values of Alpha and saturates when Alpha approaches one. The values of the penetration depth at zero temperature Lamda(0) for different films could be well fitted by Lamda_L (1+Alpha)^(1/2), yielding a London penetration depth Lamda_L of 33.6 nm. The second issue is to find a temperature niche for possible microwave applications. Between 10K and 15K, our best MgB_2 films possess the lowest Rs values compared with other superconductors such as NbN, Nb3Sn and the high-temperature superconductor YBCO.",
+  "authors": [
+    "B. B. Jin",
+    "T. Dahm",
+    "C. Iniotakis",
+    "A. I. Gubin",
+    "Eun-Mi Choi",
+    "Hyun Jung Kim",
+    "Sung-Ik Lee",
+    "W. N. Kang",
+    "S. F. Wang",
+    "Y. L. Zhou",
+    "A. V. Pogrebnyakov",
+    "J. M. Redwing",
+    "X. X. Xi",
+    "N. Klein"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0403755.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0403755.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.920604+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0403755",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

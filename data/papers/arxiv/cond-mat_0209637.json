@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0209637",
+  "title": "Probing the classical field approximation - thermodynamics and decaying vortices",
+  "abstract": "We review our version of the classical field approximation to the dynamics of a finite temperature Bose gas. In the case of a periodic box potential, we investigate the role of the high momentum cut-off, essential in the method. In particular, we show that the cut-off going to infinity limit decribes the particle number going to infinity with the scattering length going to zero. In this weak interaction limit, the relative population of the condensate tends to unity. We also show that the cross-over energy, at which the probability distribution of the condensate occupation changes its character, grows with a growing scattering length. In the more physical case of the condensate in the harmonic trap we investigate the dissipative dynamics of a vortex. We compare the decay time and the velocities of the vortex with the available analytic estimates.",
+  "authors": [
+    "H. Schmidt",
+    "K. Goral",
+    "F. Floegel",
+    "M. Gajda",
+    "K. Rzazewski"
+  ],
+  "year": 2002,
+  "doi": "10.1088/1464-4266/5/2/364",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0209637.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0209637.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.191351+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0209637",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

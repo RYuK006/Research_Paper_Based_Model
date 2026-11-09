@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0203380",
+  "title": "Persistent Non-ergodic Fluctuations in Mesoscopic Insulators",
+  "abstract": "We give a detailed and rigorous picture of the mesoscopic conductance fluctuations in the deep insulating regime (DIR) within the Nguyen, Spivak and Shklovskii model including spin-orbit coupling (SO). Without SO, we find that fluctuations of the log-conductance are persistent above a saturation field $% B_s$, where one has that the log-conductance is approximately a stationary random process. In contrast, in the SO case the saturation field $B_s$ is negligible and the stationarity is well realized. We find non-vanishing disorder fluctuations of the field average of the log-conductance as a quantitative measure of the lack of ergodicity in the mean square sense. As a consequence the commonly used criterion to test the ergodicity based on the equivalence of the variance in disorder and the variance in the field is not fulfilled. Using the replica approach, we derive the weak localization analogs of the `cooperon and diffuson.",
+  "authors": [
+    "Rafael Rangel",
+    "Ernesto Medina"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0203380.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0203380.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.253249+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0203380",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

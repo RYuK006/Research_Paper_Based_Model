@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0103109",
+  "title": "Free Levy Matrices and Financial Correlations",
+  "abstract": "We consider a covariance matrix composed of asymmetric and free random Levy matrices. We use the results of free random variables to derive an algebraic equation for the resolvent and solve it to extract the spectral density. For an appropriate choice of asymmetry and Levy index ($α/2=3/4$) the free eigenvalue spectrum is in remarkable agreement with the one obtained from the covariance matrix of the SP500 financial market. Our results are of interest to a number of stochastic systems with power law noise.",
+  "authors": [
+    "Z. Burda",
+    "J. Jurkiewicz",
+    "M. A. Nowak",
+    "G. Papp",
+    "I. Zahed"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0103109.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0103109.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:04.978029+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0103109",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0102299",
+  "title": "Response to tilted magnetic fields in Bi2Sr2CaCu2O8 with columnar defects: Evidence for transverse Meissner effect",
+  "abstract": "The transverse Meissner effect (TME) in the highly layered superconductor Bi2Sr2CaCu2O(8+y) with columnar defects is investigated by transport measurements. We present detailed evidence for the persistence of the Bose-glass phase when H is tilted at an angle theta < theta_c (T) away from the column direction: (i) the variable-range vortex hopping process for low currents crosses over to the half-loops regime for high currents; (ii) in both regimes near theta_c(T) the energy barriers vanish linearly with tan(theta) ; (iii) the transition temperature is governed by T_{BG}(0) -T_{BG}(theta) sim |tan(theta)|^{1/ν_{\\perp}} with ν_{\\perp}=1.0 +/- 0.1. Furthermore, above the transition as theta->θ_c+, moving kink chains consistent with a commensurate-incommensurate transition scenario are observed. These results thereby clearly show the existence of the TME for theta < theta_c(T).",
+  "authors": [
+    "V. Ta Phuoc",
+    "E. Olive",
+    "R. De Sousa",
+    "A. Ruyter",
+    "L. Ammor",
+    "J. C. Soret"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0102299.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0102299.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:04.794489+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0102299",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "arxiv:cond-mat/0308520",
+  "title": "Electronic correlation in the infrared optical properties of the quasi two dimensional $κ$-type BEDT-TTF dimer system",
+  "abstract": "The polarized optical reflectance spectra of the quasi two dimensional organic correlated electron system $κ$-(BEDT-TTF)$_{2}$Cu[N(CN)$_{2}$]$Y$, $Y =$ Br and Cl are measured in the infrared region. The former shows the superconductivity at $T_{\\rm c} \\simeq$ 11.6 K and the latter does the antiferromagnetic insulator transition at $T_{\\rm N} \\simeq$ 28 K. Both the specific molecular vibration mode $ν_{3}(a_{g})$ of the BEDT-TTF molecule and the optical conductivity hump in the mid-infrared region change correlatively at $T^{*} \\simeq$ 38 K of $κ$-(BEDT-TTF)$_{2}$Cu[N(CN)$_{2}$]Br, although no indication of $T^{*}$ but the insulating behaviour below $T_{\\rm ins} \\simeq$ 50-60 K are found in $κ$-(BEDT-TTF)$_{2}$Cu[N(CN)$_{2}$]Cl. The results suggest that the electron-molecular vibration coupling on the $ν_{3}(a_{g})$ mode becomes weak due to the enhancement of the itinerant nature of the carriers on the dimer of the BEDT-TTF molecules below $T^{*}$, while it does strong below $T_{\\rm ins}$ because of the localized carriers on the dimer. These changes are in agreement with the reduction and the enhancement of the mid-infrared conductivity hump below $T^{*}$ and $T_{\\rm ins}$, respectively, which originates from the transitions between the upper and lower Mott-Hubbard bands. The present observations demonstrate that two different metallic states of $κ$-(BEDT-TTF)$_{2}$Cu[N(CN)$_{2}$]Br are regarded as {\\it a correlated good metal} below $T^{*}$ including the superconducting state and {\\it a half filling bad metal} above $T^{*}$. In contrast the insulating state of $κ$-(BEDT-TTF)$_{2}$Cu[N(CN)$_{2}$]Cl below $T_{\\rm ins}$ is the Mott insulator.",
+  "authors": [
+    "T. Sasaki",
+    "I. Ito",
+    "N. Yoneyama",
+    "N. Kobayashi",
+    "N. Hanasaki",
+    "H. Tajima",
+    "T. Ito",
+    "Y. Iwasa"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevB.69.064508",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0308520.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0308520.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.757971+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0308520",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

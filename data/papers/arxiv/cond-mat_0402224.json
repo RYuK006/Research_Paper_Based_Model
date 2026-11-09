@@ -1,0 +1,32 @@
+{
+  "id": "arxiv:cond-mat/0402224",
+  "title": "Phase diagram and critical exponents of a dissipative Ising spin chain in a transverse magnetic field",
+  "abstract": "We consider a one-dimensional Ising model in a transverse magnetic field coupled to a dissipative heat bath. The phase diagram and the critical exponents are determined from extensive Monte Carlo simulations. It is shown that the character of the quantum phase transition is radically altered from the corresponding non-dissipative model and the double-well coupled to a dissipative heat bath with linear friction. Spatial couplings and the dissipative dynamics combine to form a new quantum criticality.",
+  "authors": [
+    "Philipp Werner",
+    "Klaus Voelker",
+    "Matthias Troyer",
+    "Sudip Chakravarty"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevLett.94.047201",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.str-el",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0402224.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0402224.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.288750+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0402224",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ]
+  }
+}

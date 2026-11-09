@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0301493",
+  "title": "Fluctuation-dissipation relations in the non-equilibrium critical dynamics of Ising models",
+  "abstract": "We investigate the relation between two-time, multi-spin, correlation and response functions in the non-equilibrium critical dynamics of Ising models in d=1 and d=2 spatial dimensions. In these non-equilibrium situations, the fluctuation-dissipation theorem (FDT) is not satisfied. We find FDT `violations' qualitatively similar to those reported in various glassy materials, but quantitatively dependent on the chosen observable, in contrast to the results obtained in infinite-range glass models. Nevertheless, all FDT violations can be understood by considering separately the contributions from large wavevectors, which are at quasi-equilibrium and obey FDT, and from small wavevectors where a generalized FDT holds with a non-trivial limit fluctuation-dissipation ratio X. In d=1, we get X = 1/2 for spin observables, which measure the orientation of domains, while X = 0 for observables that are sensitive to the domain-wall motion. Numerical simulations in d=2 reveal a unique X = 0.34 for all observables. Measurement protocols for X are discussed in detail. Our results suggest that the definition of an effective temperature Teff = T / X for large length scales is generically possible in non-equilibrium critical dynamics.",
+  "authors": [
+    "Peter Mayer",
+    "Ludovic Berthier",
+    "Juan P. Garrahan",
+    "Peter Sollich"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevE.68.016116",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.dis-nn"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0301493.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0301493.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.576027+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0301493",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.dis-nn"
+    ]
+  }
+}

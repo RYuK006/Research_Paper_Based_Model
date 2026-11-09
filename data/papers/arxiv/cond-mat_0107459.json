@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0107459",
+  "title": "Liquid, Glass and Crystal in Two-dimensional Hard disks",
+  "abstract": "We study the thermodynamic and dynamic phase transitions in two-dimensional polydisperse hard disks using Monte Carlo methods. A conventional local Monte Carlo algorithm allows us to observe a dynamic liquid-glass transition at a density, which depends very little on the degree of polydispersity. We furthermore apply Monte Carlo methods which sample the Boltzmann equilibrium distribution at any value of the density and polydispersity, and remain ergodic even far within the glass. We find that the dynamical transition is not accompanied by a thermodynamic transition in this two-dimensional system so that the glass is thermodynamically identical to the liquid. Moreover, we scrutinize the polydispersity-driven transition from the crystal into the disordered phase (liquid or glass). Our results indicate the presence of a continuous (Kosterlitz-Thouless type) transition upon increase of the polydispersity.",
+  "authors": [
+    "Ludger Santen",
+    "Werner Krauth"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.dis-nn"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0107459.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0107459.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.091100+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0107459",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.dis-nn"
+    ]
+  }
+}

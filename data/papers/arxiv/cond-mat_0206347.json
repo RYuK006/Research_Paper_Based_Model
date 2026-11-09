@@ -1,0 +1,33 @@
+{
+  "id": "arxiv:cond-mat/0206347",
+  "title": "Spin injection in the non-linear regime: band bending effects",
+  "abstract": "Semiconductor spintronics will need to control spin injection phenomena in the non-linear regime. In order to study these effects we have performed spin injection measurements from a dilute magnetic semiconductor [(Zn,Be,Mn)Se] into nonmagnetic (Zn,Be)Se at elevated bias. When the applied voltage is increased to a few mV we find a strong decrease of the spin injection efficiency. The observed behavior is modelled by extending the charge-imbalance model for spin injection to include band bending and charge accumulation at the interface of the two compounds. We find that the observed effects can be attributed to repopulation of the minority spin level in the magnetic semiconductor.",
+  "authors": [
+    "G. Schmidt",
+    "C. Gould",
+    "P. Grabs",
+    "A. M. Lunde",
+    "G. Richter",
+    "A. Slobodskyy",
+    "L. W. Molenkamp"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0206347.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0206347.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.221889+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0206347",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

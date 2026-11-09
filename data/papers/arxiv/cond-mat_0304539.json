@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0304539",
+  "title": "Modelling the propagation of an ultrasonic ray through a heterogeneous medium",
+  "abstract": "The estimation of mechanical properties of concrete is one of the most important applications of the ultrasonic method. This technique often involves the measuring of the ultrasonic pulse propagation velocity. However, there exist some factors influencing the effective ultrasonic pulse propagation velocity in concrete. This paper is devoted to a discussion of the behavior of the effective ultrasonic pulse propagation velocity as a function of the free water contained in concrete. The travelling of an ultrasonic ray through a heterogeneous medium composed by cement and aggregates(solid phase), water(liquid phase) and air(gaseous phase) was empirically modelled. A relationship between the transition time of the ultrasonic ray in the testing piece and the free water quantity was considered. We assumed an empirical intermediate relationship between the ultrasonic path length in porous space in concrete filled with water and the free water quantity in the testing piece.   From experimental data points we evaluated the parameters of the model and obtained a fitting function for describing the dependence between the effective ultrasonic pulse propagation velocity and the free water quantity in concrete. We also analyzed the error propagation through the algorithm used. It allowed to decide under which conditions the linear approach between the effective ultrasonic pulse propagation velocity and the free water quantity in concrete can be applied.",
+  "authors": [
+    "Carlos R. Fadragas",
+    "Manuel Rodriguez",
+    "Rolando Bonal"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0304539.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0304539.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.226104+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0304539",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

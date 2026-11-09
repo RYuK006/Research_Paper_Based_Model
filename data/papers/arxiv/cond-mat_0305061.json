@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0305061",
+  "title": "Dynamics of magnetic flux lines in the presence of correlated disorder",
+  "abstract": "We investigate the dynamics of interacting magnetic flux lines driven by an external current in the presence of linear pinning centers, arranged either in a periodic square lattice or placed randomly in space, by means of three-dimensional Monte Carlo simulations. Compared to the non-interacting case, the repulsive forces between the vortices reduce the critical current J_c, as determined from the depinning threshold in the current-voltage (I-V) characteristics. Near the depinning current J_c, the voltage power spectrum S(w) reveals broad-band noise, characterized by a $1/w^a$ power law decay with a <= 2. At larger currents the flux lines move with an average velocity v_{cm}. For a periodic arrangement of columnar pins with a lattice constant $d$ and just above J_c, distinct peaks appear in the voltage noise spectrum S(w) at w ~ v_{cm}/d which we interpret as the signature of stick-slip flux line motion.",
+  "authors": [
+    "Thomas J. Bullard",
+    "Jayajit Das",
+    "Uwe C. Tauber"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0305061.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0305061.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.442374+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0305061",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0405621",
+  "title": "Fractionation effects in phase equilibria of polydisperse hard sphere colloids",
+  "abstract": "The equilibrium phase behaviour of hard spheres with size polydispersity is studied theoretically. We solve numerically the exact phase equilibrium equations that result from accurate free energy expressions for the fluid and solid phases, while accounting fully for size fractionation between coexisting phases. Fluids up to the largest polydispersities that we can study (around 14%) can phase separate by splitting off a solid with a much narrower size distribution. This shows that experimentally observed terminal polydispersities above which phase separation no longer occurs must be due to non-equilibrium effects. We find no evidence of re-entrant melting; instead, sufficiently compressed solids phase separate into two or more solid phases. Under appropriate conditions, coexistence of multiple solids with a fluid phase is also predicted. The solids have smaller polydispersities than the parent phase as expected, while the reverse is true for the fluid phase, which contains predominantly smaller particles but also residual amounts of the larger ones. The properties of the coexisting phases are studied in detail; mean diameter, polydispersity and volume fraction of the phases all reveal marked fractionation. We also propose a method for constructing quantities that optimally distinguish between the coexisting phases, using Principal Component Analysis in the space of density distributions. We conclude by comparing our predictions to perturbative theories for near-monodisperse systems and to Monte Carlo simulations at imposed chemical potential distribution, and find excellent agreement.",
+  "authors": [
+    "M. Fasolo",
+    "P. Sollich"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevE.70.041410",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0405621.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0405621.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.269522+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0405621",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

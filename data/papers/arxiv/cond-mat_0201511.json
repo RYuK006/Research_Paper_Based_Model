@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0201511",
+  "title": "Automating First-Principles Phase Diagram Calculations",
+  "abstract": "Devising a computational tool that assesses the thermodynamic stability of materials is among the most important steps required to build a ``virtual laboratory'', where materials could be designed from first-principles without relying on experimental input. Although the formalism that allows the calculation of solid state phase diagrams from first principles is well established, its practical implementation remains a tedious process. The development of a fully automated algorithm to perform such calculations serves two purposes. First, it will make this powerful tool available to large number of researchers. Second, it frees the calculation process from arbitrary parameters, guaranteeing that the results obtained are truly derived from the underlying first-principles calculations. The proposed algorithm formalizes the most difficult step of phase diagram calculations, namely the determination of the ``cluster expansion'', which is a compact representation of the configurational dependence of the alloy's energy. This is traditionally achieved by a fit of the unknown interaction parameters of the cluster expansion to a set of structural energies calculated from first-principles. We present a formal statistical basis for the selection of both the interaction parameters to include in the cluster expansion and of the structures to use in order to determine them. The proposed method relies on the concepts of cross-validation and variance minimization. An application to the calculation of the phase diagram of the Si-Ge, CaO-MgO, Ti-Al, and Cu-Au systems is presented.",
+  "authors": [
+    "A. van de Walle",
+    "G. Ceder"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0201511.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0201511.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.902829+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0201511",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

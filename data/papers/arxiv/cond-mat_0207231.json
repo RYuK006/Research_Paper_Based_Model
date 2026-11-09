@@ -1,0 +1,32 @@
+{
+  "id": "arxiv:cond-mat/0207231",
+  "title": "Method of invariant manifold for chemical kinetics",
+  "abstract": "In this paper, we review the construction of low-dimensional manifolds of reduced description for equations of chemical kinetics from the standpoint of the method of invariant manifold (MIM). MIM is based on a formulation of the condition of invariance as an equation, and its solution by Newton iterations. A review of existing alternative methods is extended by a thermodynamically consistent version of the method of intrinsic low-dimensional manifolds. A grid-based version of MIM is developed, and model extensions of low-dimensional dynamics are described. Generalizations to open systems are suggested. The set of methods covered makes it possible to effectively reduce description in chemical kinetics.",
+  "authors": [
+    "Alexander N. Gorban",
+    "Iliya V. Karlin"
+  ],
+  "year": 2002,
+  "doi": "10.1016/j.ces.2002.12.001",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.mtrl-sci",
+    "math.DS",
+    "physics.chem-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0207231.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0207231.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.451146+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0207231",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.mtrl-sci",
+      "math.DS",
+      "physics.chem-ph"
+    ]
+  }
+}

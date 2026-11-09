@@ -1,0 +1,32 @@
+{
+  "id": "arxiv:cond-mat/0110314",
+  "title": "Analytical and numerical study of hardcore bosons in two dimensions",
+  "abstract": "We study various properties of bosons in two dimensions interacting only via onsite hardcore repulsion. In particular, we use the lattice spin-wave approximation to calculate the ground state energy, the density, the condensate density and the superfluid density in terms of the chemical potential. We also calculate the excitation spectrum, $ω({\\bf k})$. In addition, we performed high precision numerical simulations using the stochastic series expansion algorithm. We find that the spin-wave results describe extremely well the numerical results over the {\\it whole} density range $0\\leq ρ\\leq 1$. We also compare the lattice spin-wave results with continuum results obtained by summing the ladder diagrams at low density. We find that for $ρ\\leq 0.1$ there is good agreement, and that the difference between the two methods vanishes as $ρ^2$ for $ρ\\to 0$. This offers the possibility of obtaining precise continuum results by taking the continuum limit of the spin-wave results for all densities. Finaly, we studied numerically the finite temperature phase transition for the entire density range and compared with low density predictions.",
+  "authors": [
+    "K. Bernardet",
+    "G. G. Batrouni",
+    "J. -L. Meunier",
+    "G. Schmid",
+    "M. Troyer",
+    "A. Dorneich"
+  ],
+  "year": 2001,
+  "doi": "10.1103/PhysRevB.65.104519",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0110314.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0110314.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.680682+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0110314",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

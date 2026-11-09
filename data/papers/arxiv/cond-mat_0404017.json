@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0404017",
+  "title": "On universality in aging ferromagnets",
+  "abstract": "This work is a contribution to the study of universality in out-of-equilibrium lattice models undergoing a second-order phase transition at equilibrium. The experimental protocol that we have chosen is the following: the system is prepared in its high-temperature phase and then quenched at the critical temperature $T_c$. We investigated by mean of Monte Carlo simulations two quantities that are believed to take universal values: the exponent $λ/z$ obtained from the decay of autocorrelation functions and the asymptotic value $X_\\infty$ of the fluctuation-dissipation ratio $X(t,s)$. This protocol was applied to the Ising model, the 3-state clock model and the 4-state Potts model on square, triangular and honeycomb lattices and to the Ashkin-Teller model at the point belonging at equilibrium to the 3-state Potts model universality class and to a multispin Ising model and the Baxter-Wu model both belonging to the 4-state Potts model universality class at equilibrium.",
+  "authors": [
+    "Christophe Chatelain"
+  ],
+  "year": 2004,
+  "doi": "10.1088/1742-5468/2004/06/P06006",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0404017.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0404017.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.933775+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0404017",
+    "categories": [
+      "cond-mat.stat-mech"
+    ]
+  }
+}

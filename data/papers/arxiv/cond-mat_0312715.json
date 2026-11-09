@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0312715",
+  "title": "Scale Invariance and Self-averaging in disordered systems",
+  "abstract": "In a previous paper we found that in the random field Ising model at zero temperature in three dimensions the correlation length is not self-averaging near the critical point and that the violation of self-averaging is maximal. This is due to the formation of bound states in the underlying field theory. We present a similar study for the case of disordered Potts and Ising ferromagnets in two dimensions near the critical temperature. In the random Potts model the correlation length is not self-averaging near the critical temperature but the violation of self-averaging is weaker than in the random field case. In the random Ising model we find still weaker violations of self-averaging and we cannot rule out the possibility of the restoration of self-averaging in the infinite volume limit.",
+  "authors": [
+    "Giorgio Parisi",
+    "Marco Picco",
+    "Nicolas Sourlas"
+  ],
+  "year": 2003,
+  "doi": "10.1209/epl/i2004-10014-0",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.dis-nn"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0312715.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0312715.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.845532+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0312715",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.dis-nn"
+    ]
+  }
+}

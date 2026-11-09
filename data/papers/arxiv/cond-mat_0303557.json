@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0303557",
+  "title": "Density Matrix Renormalization: A Review of the Method and its Applications",
+  "abstract": "The Density Matrix Renormalization Group (DMRG) has become a powerful numerical method that can be applied to low-dimensional strongly correlated fermionic and bosonic systems. It allows for a very precise calculation of static, dynamical and thermodynamical properties. Its field of applicability has now extended beyond Condensed Matter, and is successfully used in Statistical Mechanics and High Energy Physics as well. In this article, we briefly review the main aspects of the method. We also comment on some of the most relevant applications so as to give an overview on the scope and possibilities of DMRG and mention the most important extensions of the method such as the calculation of dynamical properties, the application to classical systems, inclusion of temperature, phonons and disorder, field theory, time-dependent properties and the ab initio calculation of electronic states in molecules.",
+  "authors": [
+    "Karen Hallberg"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0303557.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0303557.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:43.873348+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0303557",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

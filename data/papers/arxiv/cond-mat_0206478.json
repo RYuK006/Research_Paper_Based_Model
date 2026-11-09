@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0206478",
+  "title": "Currents in Systems of Mesoscopic Noisy Rings",
+  "abstract": "A semi-phenomenological model is proposed to study dynamics and stedy states of magnetic fluxes and currents in mesoscopic rings and cylinders at non-zero temperature. The model is based on a Langevin equation for flux subject to zero-mean thermal equilibrium Nyquist noise. Quenched randomness, which mimics disorder, is included via the fluctuating parameter method. In the noiseless case, the stability threshold (critical temperature) exists below which selfsustaining currents can run even if the external flux is switched off. It is shown that selfsustaining and persistent currents survive in presence of Nyquist noise and quenched disorder but the stability threshold can be shifted by noise.",
+  "authors": [
+    "J. Dajka",
+    "J. Luczka",
+    "M. Szopa",
+    "E. Zipper"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0206478.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0206478.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.292632+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0206478",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

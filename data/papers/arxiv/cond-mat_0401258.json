@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0401258",
+  "title": "Correlation between characteristic energies in non-s-wave pairing superconductors",
+  "abstract": "By solution of the Bethe-Goldstone equation for the Cooper pairing problem, an approximate analytic relation is derived between coherence length xi and the binding energy of the Cooper pair. This relation is then qualitatively confirmed by numerically solving the corresponding self-consistent gap equations, following the crossover from weak to strong coupling, in non-s-wave superconductors. The relation applies to non-conventional superconductors, and in particular to heavy Fermions and to high-Tc cuprates. Utilizing in addition a phenomenological link between kB*Tc and a characteristic energy epsilon_c = hbar^2 / 2m^* xi^2, with m^* the effective mass, major differences are exposed in the functional relation between kB*Tc and epsilon_c for s-wave materials and for non-conventional superconductors. The relation between critical temperature and epsilon_c thereby proposed correctly reflects the qualitative properties of heavy Fermion superconductors.",
+  "authors": [
+    "G. G. N. Angilella",
+    "F. E. Leys",
+    "N. H. March",
+    "R. Pucci"
+  ],
+  "year": 2004,
+  "doi": "10.1016/j.physleta.2003.12.066",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0401258.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0401258.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.004635+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0401258",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

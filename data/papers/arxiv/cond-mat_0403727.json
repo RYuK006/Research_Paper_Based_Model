@@ -1,0 +1,32 @@
+{
+  "id": "arxiv:cond-mat/0403727",
+  "title": "Geometrical, electronic and magnetic properties of Na$_{0.5}$CoO$_2$ from first principles",
+  "abstract": "We report a first-principles projector augmented wave (PAW) study on Na$_{0.5}$CoO$_2$. With the sodium ion ordered insulating phase being identified in experiments, pure density functional calculations fail to predict an insulating ground state, which indicates that Na ordering alone can not produce accompanying Co charge ordering, if additional correlation is not properly considered. At this level of theory, the most stable phase presents ferromagnetic ordering within the CoO$_2$ layer and antiferromagnetic coupling between these layers. When the on-site Coulomb interaction for Co 3d orbitals is included by an additional Hubbard parameter $U$, charge ordered insulating ground state can be obtained. The effect of on-site interaction magnitude on electronic structure is studied. At a moderate value of $U$ (4.0 eV for example), the ground state is antiferromagnetic, with a Co$^{4+}$ magnetic moment about 1.0 $μ_B$ and a magnetic energy of 0.12 eV/Co. The rehybridization process is also studied in the DFT+U point of view.",
+  "authors": [
+    "Zhenyu Li",
+    "Jinlong Yang",
+    "J. G. Hou",
+    "Qingshi Zhu"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevB.71.024502",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.str-el",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0403727.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0403727.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.907041+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0403727",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ]
+  }
+}

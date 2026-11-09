@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0212204",
+  "title": "Solution of mass/gap equations for strong velocity anisotropy in the QED3 theory of underdoped cuprates",
+  "abstract": "The low-lying excitations at the nodes of the d-wave gap in the normal state for underdoped cuprates, close to the superconducting phase transition, may be described by an effective QED3 theory. There are three characteristic velocities: v_F, v_Delta and c. For v_Delta=v_F=c, the model reduces to N-flavour QED3. Here, in the isotropic limit, for N<N_0c, a critical number of fermions, a dynamical mass is generated which corresponds to the formation of a spin density wave. We study the effects of strong velocity anisotropy (v_F \\neq v_Δ) on dynamical mass generation. Solutions are given for the dynamical mass at both N=2 and N=100, and so we show that the critical number of fermions N_c>100. However, we argue that N_c=N_0c, when we go beyond the approximations used to derive our mass gap equations. We expect, though, that our solution for N=2 is roughly correct, at low momentum, for large enough anisotropies. Implications and possible extensions to this work are also discussed.",
+  "authors": [
+    "Dominic J. Lee"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0212204.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0212204.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.984601+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0212204",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0403421",
+  "title": "Isotopically engineered silicon nanostructures in quantum computation and communication",
+  "abstract": "Natural silicon consists of three stable isotopes with atomic mass 28 (92.21%), 29 (4.70%) and 30 (3.09%). To present day, isotopic enrichment of Si was used in electronics for two goals: (i) fabrication of substrates with high level of doping and homogeneous distribution of impurities and (ii) for fabrication of substrates with enhanced heat conduction which allows further chips miniaturization. For the first purpose, enrichment of Si with Si-30 is used, because after irradiation of a Si ingot by the thermal neutron flux in a nuclear reactor, this isotope transmutes into a phosphorus atom which is a donor impurity in Si. Enrichment of Si with Si-30 allows one to increase the level of doping up to a factor of 30 with a high homogeneity of the impurity distribution. The second purpose is achieved in Si highly enriched with isotope Si-28, because mono-isotopic Si is characterized by enhanced thermal conductivity. New potential of isotopically engineered Si comes to light because of novel areas of fundamental and applied scientific activity connected with spintronics and a semiconductor-based nuclear spin quantum computer where electron and/or nuclear spins are the object of manipulation. In this case, control of the abundance of nuclear spins is extremely important. Fortunately, Si allows such a control, because only isotope Si-29 has a non-zero nuclear spin. Therefore, enrichment or depletion of Si with isotope Si-29 will lead to the creation of a material with a controlled concentration of nuclear spins. Two examples of nano-devices for spintronics and quantum computation, based on isotopically engineered silicon, are discussed.",
+  "authors": [
+    "Issai Shlimak"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0403421.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0403421.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.718473+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0403421",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.mes-hall"
+    ]
+  }
+}

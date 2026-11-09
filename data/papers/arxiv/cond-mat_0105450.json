@@ -1,0 +1,32 @@
+{
+  "id": "arxiv:cond-mat/0105450",
+  "title": "Nature of the quantum phase transitions in the two-dimensional hardcore boson model",
+  "abstract": "We use two Quantum Monte Carlo algorithms to map out the phase diagram of the two-dimensional hardcore boson Hubbard model with near ($V_1$) and next near ($V_2$) neighbor repulsion. At half filling we find three phases: Superfluid (SF), checkerboard solid and striped solid depending on the relative values of $V_1$, $V_2$ and the kinetic energy. Doping away from half filling, the checkerboard solid undergoes phase separation: The superfluid and solid phases co-exist but not as a single thermodynamic phase. As a function of doping, the transition from the checkerboard solid is therefore first order. In contrast, doping the striped solid away from half filling instead produces a striped supersolid phase: Co-existence of density order with superfluidity as a single phase. One surprising result is that the entire line of transitions between the SF and checkerboard solid phases at half filling appears to exhibit dynamical O(3) symmetry restoration. The transitions appear to be in the same universality class as the special Heisenberg point even though this symmetry is explicitly broken by the $V_2$ interaction.",
+  "authors": [
+    "F. Hebert",
+    "G. G. Batrouni",
+    "R. T. Scalettar",
+    "G. Schmid",
+    "M. Troyer",
+    "A. Dorneich"
+  ],
+  "year": 2001,
+  "doi": "10.1103/PhysRevB.65.014513",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0105450.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0105450.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.602081+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0105450",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

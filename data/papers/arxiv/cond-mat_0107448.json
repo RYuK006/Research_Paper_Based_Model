@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0107448",
+  "title": "Distinct origins of magnetic -field -induced resistivity irreversibility in two manganites with similar ground states : Pr$_{0.5}$Sr$_{0.41}$Ca$_{0.09}$MnO$_{3}$ and La$_{0.5}$Ca$_{0.5}$MnO$_{3}$",
+  "abstract": "Our investigation of the magnetotransport in two charge ordered manganites with similar magnetic ground states reveals that the origin of magnetoresistance can not be concluded from the isofield resistivity, $ρ$(T, constant H), measurements alone. Both Pr$_{0.5}$Sr$_{0.41}$Ca$_{0.09}$MnO$_{3}$ (PrSrCa) and La$_{0.5}$Ca$_{0.5}$MnO$_{3}$ (LaCa) show a ferromagnetic transition (T$_{C}$ = 260 K for PrSrCa, 230 K for LaCa) followed by an antiferromagnetic transition (T$_{N}$ = 170 K for PrSrCa, 140 K for LaCa). These compounds show qualitatively similar magnetotransport : Below the irreversibility temperature T$_{IR}$, field cooled (FC) resistivity is lower than zero field cooled (ZFC) and decreases continuously with T, whereas the ZFC $ρ$(T, H) resembles $\\ $the behavior of $ρ$(T, H = 0 T). The value of $ρ$(ZFC)/$ρ$(FC) is $\\approx $ 10$^{4}$ at 5 K and $μ_{0}$H = 7 T in both compounds. However, isothermal magnetic measurements suggest distinct origins of magnetoresistance : Field cooling enhances ferromagnetic phase fraction in LaCa whereas it drives PrSrCa into a metastable state with high magnetization. The distinct origins of magnetotransport is also reflected in other magnetic history dependent properties.",
+  "authors": [
+    "R. Mahendiran",
+    "A. Maignan",
+    "C. Martin",
+    "M. Hervieu",
+    "B. Raveau"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0107448.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0107448.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.088370+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0107448",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

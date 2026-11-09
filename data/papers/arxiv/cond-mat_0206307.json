@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0206307",
+  "title": "Excited states dynamics in time-dependent density functional theory: high-field molecular dissociation and harmonic generation",
+  "abstract": "We present a theoretical description of femtosecond laser induced dynamics of the hydrogen molecule and of singly ionised sodium dimers, based on a real-space, real-time, implementation of time-dependent density functional theory (TDDFT). High harmonic generation, Coulomb explosion and laser induced photo-dissociation are observed. The scheme also describes non-adiabatic effects, such as the appearance of even harmonics for homopolar but isotopically asymmetric dimers, even if the ions were treated classically. This TDDFT-based method is reliable, scalable, and extensible to other phenomena such as photoisomerization, molecular transport and chemical reactivity.",
+  "authors": [
+    "Alberto Castro",
+    "M. A. L. Marques",
+    "Julio A. Alonso",
+    "George F. Bertsch",
+    "Angel Rubio"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0206307.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0206307.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.202366+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0206307",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

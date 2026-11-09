@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0101032",
+  "title": "Zero temperature transition from d-wave superconductor to underdoped regime",
+  "abstract": "By using mutual flux-attaching singular gauge transformations, we derive an effective action describing the zero temperature quantum phase transition from d-wave superconductor to underdoped regime. In this effective action, quantum fluctuation generated vortices couple to quasi-particles by a mutual statistical interaction with statistical angle θ, the vortices are also interacting with each other by long range interactions due to charge fluctuation. Neglecting the charge fluctuation, we find a fixed line characterized by θand calculate the universal spinon, vortex and mutual Hall drag conductivities which continuously depend on θ. Implications for double layer quantum Hall systems are given. When incorporating the charge fluctuation, we emphasize the importance of keeping the periodicity of the mutual CS term at θ= \\pm 1/2 to get the correct critical behaviors and point out possible future directions. The connection with Z_{2} gauge theory is discussed.",
+  "authors": [
+    "Jinwu Ye",
+    "A. Millis"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0101032.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0101032.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:04.453517+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0101032",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

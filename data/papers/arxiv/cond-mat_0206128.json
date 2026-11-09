@@ -1,0 +1,33 @@
+{
+  "id": "arxiv:cond-mat/0206128",
+  "title": "Superconductivity Induced by Negative Centers",
+  "abstract": "We study the effect of random dilution of attraction centers on electron pairing in a generalization of the negative $U$ Hubbard model where the interaction $U_i$, defined on the two dimensional lattice, can be $-|U|$ and 0 with probability $c$ and $1-c$ depending on the lattice site $i$. Using the determinant quantum Monte Carlo approach, we find the critical concentration $c_0$ of negative centers which leads to superconductivity, and show how the evolution of the local density on the two types of sites lends insight into the formation of global phase coherence.",
+  "authors": [
+    "G. Litak",
+    "T. Paiva",
+    "R. T. Scalettar",
+    "C. Huscroft",
+    "R. R. dos Santos"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.dis-nn",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0206128.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0206128.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.127241+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0206128",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.dis-nn",
+      "cond-mat.str-el"
+    ]
+  }
+}

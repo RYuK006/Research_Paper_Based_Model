@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0401242",
+  "title": "Effects of non-magnetic impurities on spin-fluctuations induced superconductivity",
+  "abstract": "We study the effects of non-magnetic impurities on the phase diagram of a system of interacting electrons with a flat Fermi surface. The one-loop Wilsonian renormalization group flow of the angle dependent diffusion function $D(θ_1,θ_2,θ_3)$ and interaction $U(θ_1,θ_2,θ_3)$ determines the critical temperature and the nature of the low temperature state. As the imperfect nesting increases the critical temperature decreases and the low temperature phase changes from the spin-density wave (SDW) to the d-wave superconductivity (dSC) and finally, for bad nesting, to the random antiferromagnetic state (RAF). Both SDW and dSC phases are affected by disorder. The pair breaking depends on the imperfect nesting and is the most efficient when the critical temperature for superconductivity is maximal.",
+  "authors": [
+    "S. Dusuel",
+    "D. Zanchi"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevLett.93.206401",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.dis-nn"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0401242.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0401242.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.991852+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0401242",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.dis-nn"
+    ]
+  }
+}

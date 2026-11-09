@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0403704",
+  "title": "Doping effects on the electronic and structural properties of CoO2: An LSDA+U study",
+  "abstract": "A systematic LSDA+U study of doping effects on the electronic and structural properties of single layer CoO2 is presented. Undoped CoO2 is a charge transfer insulator within LSDA+U and a metal with a high density of states (DOS) at the Fermi level within LSDA. (CoO2)$^{1.0-}$, on the other hand, is a band insulator with a gap of 2.2 eV. Systems with fractional doping are metals if no charge orderings are present. Due to the strong interaction between the doped electron and other correlated Co d electrons, the calculated electronic structure of (CoO2)$^{x-}$ depends sensitively on the doping level x. Zone center optical phonon energies are calculated under the frozen phonon approximation and are in good agreement with measured values. Softening of the $E_g$ phonon at doping x ~0.25 seems to indicate a strong electron-phonon coupling in this system. Possible intemediate spin states of Co ions, Na ordering, as well as magnetic and charge orderings in this system are also discussed.",
+  "authors": [
+    "Peihong Zhang",
+    "Weidong Luo",
+    "Vincent H. Crespi",
+    "Marvin L. Cohen",
+    "Steven G. Louie"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevB.70.085108",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0403704.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0403704.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.899728+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0403704",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

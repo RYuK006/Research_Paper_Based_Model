@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0102052",
+  "title": "Stress-softening and recovery of elastomers",
+  "abstract": "A constitutive model is developed for the mechanical response of elastomers at finite strains. A polymer is treated as a network of linear chains linked by permanent (chemical crosslinks) and temporary (entanglements and van der Waals forces) junctions. Temporary junctions are assumed to be in two states: loose (passive) when they impose only topological constrains on available configurations of chains, and tight (active) when their effect is tantamount to that for crosslinks. Stretching of a specimen implies that some loose junctions become active, which decreases the average length of a chain.   A long chain is treated as an ensemble of inextensible strands connected in sequel. Two neighboring strands are bridged by a bond which may be in two conformations: flexed (trans) and extended (cis). A bond in the flexed conformation is modeled as a linear elastic solid, whereas the mechanical energy of a bond in the extended conformation (two rigid rods directed along a straight line) is disregarded. For a virgin specimen, all bonds are in the flexed conformation. Under loading some bonds are transformed from flexed to extended conformation.   Stress-strain relations for a rubbery polymer and kinetic equations for the trans-cis transition are derived using the laws of thermodynamics. Governing equations are determined by 5 adjustable parameters which are found by fitting experimental data in uniaxial tensile tests on natural rubber vulcanizates with various amounts of crosslinks. Fair agreement is demonstrated between results of numerical simulation and observations with the elongation ratio up to $k=8$. We analyze the effects of cyclic loading, thermal annealing and recovery by swelling on the material constants.",
+  "authors": [
+    "Aleksey D. Drozdov",
+    "Al Dorfmann"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0102052.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0102052.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:04.683937+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0102052",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0110409",
+  "title": "Dynamics of adsorbed islands with nanoscale resolution",
+  "abstract": "Surface catalytic processes produce, under certain conditions, small clusters of adsorbed atoms or groups, called {\\em islands} which, after they have been formed, move as individual entities. Here we consider the catalytic reduction of NO with hydrogen on platinum. (i) Using video field ion microscopy, we observe the dynamic motion of small hydroxyl islands on the Pt(001) plane; despite changes in their morphology, the islands dimensions are confined to values corresponding to 10 to 30 Pt atoms suggesting cooperative effects to be in operation. (ii) We construct an automaton (or lattice Monte-Carlo) model on the basis of a set of elementary processes governing the microscopic dynamics. The agreement between the simulation results and the experimental observations suggests a possible mechanism for the formation and dynamics of hydroxyl islands.",
+  "authors": [
+    "N. Kruse",
+    "C. Voss",
+    "V. Medvedev",
+    "C. Bodenstein",
+    "D. Hanon",
+    "J. P. Boon"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0110409.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0110409.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.736166+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0110409",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

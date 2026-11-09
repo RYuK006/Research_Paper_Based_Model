@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0201324",
+  "title": "2D Crystal Shapes, Droplet Condensation and Exponential Slowing Down in Simulations of First-Order Phase Transitions",
+  "abstract": "Multicanonical ensemble simulations for the simulation of first-order phase transitions suffer from exponential slowing down. Monte Carlo autocorrelation times diverge exponentially with free energy barriers $ΔF$, which in $L^d$ boxes grow as $L^{d-1}$. We exemplify the situation in a study of the 2D Ising-model at temperature $T/T_c=0.63$ for two different lattice manifolds, toroidal lattices and surfaces of cubes. For both geometries the effect is caused by discontinuous droplet shape transitions between various classical crystal shapes obeying geometrical constraints. We use classical droplet theory and numerical simulations to calculate transition points and barrier heights. On toroidal lattices we determine finite size corrections to the droplet free energy, which are given by a linear combination of Gibbs-Thomson corrections, capillary wave fluctuation corrections, constant terms and logarithmic terms in the droplet volume. Tolman corrections are absent. In addition, we study the finite size effects on the condensation phase transition, which occurs in infinite systems at the Onsager value of the magnetization. We find that this transition is of discontinuous order also. A combination of classical droplet theory and Gibbs-Thomson corrections yields a fair description for the transition point and for the droplet size discontinuity for large droplets. We also estimate the nucleation barrier that has to be surmounted in the formation of the stable droplet at coexistence.",
+  "authors": [
+    "Thomas Neuhaus",
+    "Johannes S. Hager"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0201324.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0201324.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.822852+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0201324",
+    "categories": [
+      "cond-mat.stat-mech"
+    ]
+  }
+}

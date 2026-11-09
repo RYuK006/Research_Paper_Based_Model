@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0312302",
+  "title": "Superconductivity in two-band system with low carrier density",
+  "abstract": "This article is a review o over theory of superconductivity, which is constructed for systems with two overlapping energy bands at the Fermi surface and with arbitrary charge carrier density.There is taken into account all possible kinds of electron pairing within each band and of electron pairing from different bands. A bell-shape dependence of superconducting-transition temperature $T_c$ on the electron density, and have demonstrated a possible onset of HTSC. The absolute and relative jumps of the electron heat capacity $(C_S - C_N)$ and $(C_S - C_N) / C_N$ at the point $T = T_c$ have been calculated and the density dependence of these quantities have been demonstrated. The theory yields both small values $(C_S - C_N) / C_N < 1,43$ and large ones $(C_S - C_N) / C_N > 1,43$. Favorable conditions have been manifested for an experimental observation of a bend on the chemical-potential plot $μ(T)$ at point $T = T_c$ in oxide ceramics and magnezium borid.   An application of the path integral method to the two-band model is developed and on this basis, the process of transition from the Fermi to the Bose pattern of elementary excitations at $T \\not = 0$ in the presence of a two-particle bound state in the system is demonstrated.   The overlapping of the energy bands on the Fermi surface intensify some peculiarities of thermodynamic properties at low carrier density. This helps to their experimental confirmation.",
+  "authors": [
+    "M. E. Palistrant"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0312302.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0312302.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.600393+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0312302",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

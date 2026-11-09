@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0303427",
+  "title": "Towards a Fully Ab-Initio Description of the Diluted Magnetic Semiconductor $Ga_{1-x}Mn_{x}As$. Ferromagnetism, Electronic Structure, and Optical Response",
+  "abstract": "There are two competing views of itinerant ferromagnetism, the first viewing ferromagnetism as resulting from the indirect coupling between local moments via the itinerant carrier dynamics, the so-called RKKY mechanism, while in the alternative picture, ferromagnetism results from the spin polarization of itinerant carriers by the strong atomic Hund interaction - the so-called double exchange (DE) scenario. Which view describes the ferromagnetism in diluted magnetic semiconductors, materials with promise for spintronic applications, is still unclear. Here, we describe the detailed physical response of the prototype material $Ga_{1-x}Mn_{x}As$ using a combination of first-principles bandstructure with methods based on dynamical mean field theory to incorporate strong, dynamical correlations {\\it and} intrinsic as well as extrinsic disorder in one single theoretical picture. We show how ferromagnetism is driven by DE, in agreement with very recent observations, along with a good quantitative description of the details of the electronic structure, as probed by scanning tunnelling microscopy (STM) and optical conductivity. Our results show how ferromagnetism can be driven by DE even in diluted magnetic semiconductors with small carrier concentration.",
+  "authors": [
+    "L. Craco",
+    "M. S. Laad",
+    "E. Müller-Hartmann"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0303427.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0303427.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:43.833282+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0303427",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

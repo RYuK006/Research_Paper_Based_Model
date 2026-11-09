@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0211520",
+  "title": "Two-dimensional charge order in layered 2-1-4 perovskite oxides",
+  "abstract": "Monte Carlo simulations are performed on the three-dimensional (3D) Ising model with the 2-1-4 layered perovskite structure as a minimal model for checkerboard charge ordering phenomena in layered perovskite oxides. Due to the interlayer frustration, only 2D long-range order emerges with a finite correlation length along the c axis. Critical exponents of the transition change continuously as a function of the interlayer coupling constant. The interlayer long-range Coulomb interaction decays exponentially and is negligible even between the second-neighbor layers. Instead, monoclinic distortion of a tetragonal unit cell lifts the macroscopic degeneracy to induce a 3D charge ordering. The dimensionality of the charge order in La$_{0.5}$Sr$_{1.5}$MnO$_4$ is discussed from this viewpoint.",
+  "authors": [
+    "Shigeki Onoda",
+    "Yukitoshi Motome",
+    "Naoto Nagaosa"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevLett.92.236403",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0211520.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0211520.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.785931+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0211520",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.str-el"
+    ]
+  }
+}

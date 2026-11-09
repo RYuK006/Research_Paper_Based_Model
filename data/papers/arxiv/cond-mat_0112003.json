@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0112003",
+  "title": "Bond and Neel order and fractionalization in ground states of easy-plane antiferromagnets in two dimensions",
+  "abstract": "We describe the zero temperature phases and phase boundaries of an effective lattice model for frustrated, easy-plane, spin S=1/2 quantum antiferromagnets. The model contains states with Neel and bond-centered charge order and fractionalization in different limiting regimes, and we describe how these orders compete at intermediate coupling. The complex Berry phase terms render this model unsuitable for direct simulation; however, a duality mapping leads to a model of interacting current loops with positive weights, which is then studied by Monte Carlo simulations.",
+  "authors": [
+    "Kwon Park",
+    "Subir Sachdev"
+  ],
+  "year": 2001,
+  "doi": "10.1103/PhysRevB.65.220405",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0112003.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0112003.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.465900+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0112003",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

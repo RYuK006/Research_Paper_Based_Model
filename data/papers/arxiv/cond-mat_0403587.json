@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0403587",
+  "title": "The ordering of energy levels for SU(n) symmetric antiferromagnetic chains",
+  "abstract": "The SU(n) symmetric antiferromagnetic finite chain with the fundamental representation and nearest-neighbor interaction is studied. A partial ordering between the lowest energy levels e(Y) in multiplet sectors corresponding to different Young tableaux Y is established for the chains with arbitrary site-dependent couplings.   For the open chains it is proved that e(Y1)>e(Y2) if Y2 may be obtained from Y1 moving down some of its boxes. In particular, the ground state of the chain belongs to the antisymmetric multiplet sector. For the rings the same condition is fulfilled if, in addition, all rows of Y2 are of even or odd length. The ground state is SU(n) singlet if the chain's length is a multiple of n both for open and periodic chains.   The results generalize the well known Lieb-Mattis theorem to chains with higher symmetries.",
+  "authors": [
+    "Tigran Hakobyan"
+  ],
+  "year": 2004,
+  "doi": "10.1016/j.nuclphysb.2004.07.032",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.stat-mech",
+    "math-ph",
+    "math.MP"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0403587.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0403587.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.798349+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0403587",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.stat-mech",
+      "math-ph",
+      "math.MP"
+    ]
+  }
+}

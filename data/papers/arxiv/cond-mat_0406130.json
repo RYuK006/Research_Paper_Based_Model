@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0406130",
+  "title": "Random Antiferromagnetic SU(N) Spin Chains",
+  "abstract": "We analyze random isotropic antiferromagnetic SU(N) spin chains using the real space renormalization group. We find that they are governed at low energies by a universal infinite randomness fixed point different from the one of random spin-1/2 chains. We determine analytically the important exponents: the energy-length scale relation is $Ω\\sim\\exp(-L^ψ)$, where $ψ=1/N$, and the mean correlation function is given by $\\bar{C_{ij}}\\sim(-1)^{i-j}/|i-j|^ϕ$, where $ϕ=4/N$. Our analysis shows that the infinite-N limit is unable to capture the behavior obtained at any finite N.",
+  "authors": [
+    "J. A. Hoyos",
+    "E. Miranda"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevB.70.180401",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.dis-nn"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0406130.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0406130.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.383737+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0406130",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.dis-nn"
+    ]
+  }
+}

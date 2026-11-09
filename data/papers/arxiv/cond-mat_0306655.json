@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0306655",
+  "title": "Monitoring Diffusion of Reptating Polymer Chains by Direct Energy Transfer Method: a Monte Carlo Simulation",
+  "abstract": "A kinetic Monte Carlo method was used to simulate the diffusion of reptating polymer chains across the interface. A time-resolved fluorescence technique conjunction with direct energy transfer method was used to measure the extend of diffusion of dye labeled reptating polymer chains. The diffusion of donor and acceptor labeled polymer chains between adjacent compartments was randomly generated. The fluorescence decay profiles of donor molecules were simulated at several diffusion steps to produce mixing of the polymer chains. Mixing ratios of donor and acceptor labeled polymer chains in compartments were measured at various stages (snapshots) of diffusion. It was observed that for a given molecular weight, the average interpenetration contour length was found to be proportional to the mixing ratio. Monte Carlo analysis showed that curvilinear diffusion coefficient is inversely proportional to the weight of polymer chains during diffusion.",
+  "authors": [
+    "Erkan Tuzel",
+    "K. Batuhan Kisacikoglu",
+    "Onder Pekcan"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0306655.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0306655.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.088586+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0306655",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

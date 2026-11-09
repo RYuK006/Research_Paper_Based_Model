@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0401594",
+  "title": "Quasiparticle interference patterns as a test for the nature of the pseudogap phase in the cuprate superconductors",
+  "abstract": "Electrons, when scattered by static random disorder, form standing waves that can be imaged using scanning tunneling microscopy. Such interference patterns, observable by the recently developed technique of Fourier transform scanning tunneling spectroscopy (FT-STS), are shown to carry unique fingerprints characteristic of the electronic order present in a material. We exploit this feature of the FT-STS technique to propose a test for the nature of the enigmatic pseudogap phase in the high-$T_c$ cuprate superconductors. Through their sensitivity to the quasiparticle spectra and coherence factors, the FT-STS patterns in principle carry enough information to unambiguously determine the nature of the condensate responsible for the pseudogap phenomenon. We argue that the next generation of FT-STS experiments, currently underway, should be able to distinguish between the pseudogap dominated by the remnants of superconducting order from the pseudogap dominated by some competing order in the particle-hole channel. Using general arguments and detailed numerical calculations, we point to certain fundamental differences between the two scenarios and discuss the prospects for future experiments.",
+  "authors": [
+    "T. Pereg-Barnea",
+    "M. Franz"
+  ],
+  "year": 2005,
+  "doi": "10.1142/S0217979205026658",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0401594.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0401594.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.142258+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0401594",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

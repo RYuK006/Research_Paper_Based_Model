@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0204193",
+  "title": "Nernst coefficient and Magnetoresistance in High-Tc Superconductors",
+  "abstract": "In hole-doped high-Tc cuprates, the Nernst coefficient (ν) as well as the magnetoresistance (Δρ/ρ) increase drastically below the pseudo-gap temperature, T^*. This unexpected result attracts much attention in that it reflects the fundamental feature of the electronic state in the pseudo-gap region, which has been a central issue on high-Tc cuprates. In this letter, we study these transport phenomena in terms of the fluctuation-exchange (FLEX)+T-matrix approximation. In this present theory, the d-wave superconducting (SC) fluctuations, which are mediated by antiferromagnetic (AF) correlations, become dominant below T^*. We focus on the role of the vertex corrections both for the charge current and the heat one, which are indispensable to keep the conservation laws. As a result, the mysterious behaviors of νand Δρ/ρ, which are the key phenomena in the pseudo-gap region, are naturally explained as the reflection of the enhancement of the SC fluctuation, without assuming thermally excited vortices. The present result suggests that the pseudo-gap region in high-Tc cuprates is well described in terms of the Fermi liquid with AF and SC fluctuations.",
+  "authors": [
+    "Hiroshi Kontani"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0204193.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0204193.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.439242+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0204193",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ]
+  }
+}

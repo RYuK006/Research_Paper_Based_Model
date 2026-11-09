@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0402289",
+  "title": "Magnetism in semiconductors: A dynamical mean field study of ferromagnetism in Ga_{1-x}Mn_xAs",
+  "abstract": "We employ the dynamical mean field approximation to perform a systematic study of magnetism in Ga_{1-x}Mn_xAs. Our model incorporates the effects of the strong spin-orbit coupling on the J=3/2 GaAs valence bands and of the exchange interaction between the randomly distributed magnetic ions and the itinerant holes. The ferromagnetic phase transition temperature T_c is obtained for different values of the impurity-hole coupling J_c and of the hole concentration n_h at the Mn doping of x=0.05. We also investigate the temperature dependence of the local magnetization and spin polarization of the holes. By comparing our results with those for a single band Hamiltonian in which the spin-orbit coupling is switched off, we conclude that the spin-orbit coupling in Ga_{1-x}Mn_xAs gives rise to frustration in the ferromagnetic order, strengthening recent findings by Zarand and Janko (Phys. Rev. Lett. 89, 047201 (2002)).",
+  "authors": [
+    "K. Aryanpour",
+    "J. Moreno",
+    "M. Jarrell",
+    "R. S. Fishman"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0402289.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0402289.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.309734+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0402289",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

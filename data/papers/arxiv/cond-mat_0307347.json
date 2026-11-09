@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0307347",
+  "title": "Pressure-induced electronic topological transitions in low dimensional superconductors",
+  "abstract": "In the high-Tc cuprates, the unusual dependence of Tc on external pressure results from the combination of the nonmonotonic dependence of Tc on hole doping or hole-doping distribution among inequivalent layers, and from an ``intrinsic'' contribution. After reviewing our work on the interplay among Tc, hole content, and pressure in the bilayered and multilayered cuprate superconductors, we will discuss how the proximity to an electronic topological transition (ETT) may give a microscopic justification of the ``intrinsic'' pressure dependence of Tc in the cuprates. As a function of the proximity to an ETT, we recover a nonmonotonic behaviour of the superconducting gap at T=0, regardless of the pairing symmetry of the order parameter. This is in agreement with the trend observed for Tc as a function of pressure and other material specific quantities in several high-Tc cuprates. In the case of epitaxially strained cuprate thin films, we argue that an ETT can be driven by a strain-induced modification of the in-plane band structure, at constant hole content, at variance with a doping-induced ETT, as is usually assumed. We also find that an increase of the in-plane anisotropy enhances the effect of fluctuations above Tc on the normal-state transport properties, which is a fingerprint of quantum criticality at T=0.",
+  "authors": [
+    "G. G. N. Angilella"
+  ],
+  "year": 2003,
+  "doi": "10.1088/0953-8984/16/14/004",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0307347.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0307347.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.314175+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0307347",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

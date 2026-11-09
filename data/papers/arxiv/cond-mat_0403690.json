@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0403690",
+  "title": "Controllable Flux Coupling for the Integration of Flux Qubits",
+  "abstract": "We show a novel method for controlling the coupling of flux-based qubits by means of a superconducting transformer with variable flux transfer function. The device is realized by inserting a small hysteretic dc SQUID with unshunted junctions, working as a Josephson junction with flux controlled critical current, in parallel to a superconducting transformer; by varying the magnetic flux coupled to the dc-SQUID, the transfer function for the flux coupled to the transformer can be varied. Measurements carried out on a prototype at 4.2 K show a reduction factor of about 30 between the 'on' and the 'off' states. We discuss the system characteristics and the experimental results.",
+  "authors": [
+    "C. Cosmelli",
+    "M. G. Castellano",
+    "F. Chiarello",
+    "R. Leoni",
+    "D. Simeone",
+    "G. Torrioli",
+    "P. Carelli"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0403690.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0403690.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.885122+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0403690",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

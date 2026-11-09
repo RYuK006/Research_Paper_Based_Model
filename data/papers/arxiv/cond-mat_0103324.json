@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0103324",
+  "title": "A novel method of self interaction corrections in density functional calculations",
+  "abstract": "It is demonstrated that the commonly applied self interaction correction (SIC) used in density functional theory does not remove all self interaction. We present as an alternative a novel method which, by construction, is totally free from self interaction. The method has the correct asymptotic 1/r dependence. We apply the new theory to localized $f$-electrons in praseodymium and compare with the old version of SIC, the local density approximation (LDA) and with an atomic Hartree-Fock calculation. The results show a lowering of the $f$ level, a contraction of the $f$ electron cloud and a lowering of the total energy by 13 eV per 4\\f electron compared to LDA. The equilibrium volume of the new SIC method is close to the ones given by LDA and the older SIC method, and is in good agreement with experiment. The experimental cohesive energy is in better agreement using the new SIC method, both compared to LDA and another SIC method.",
+  "authors": [
+    "Urban Lundin",
+    "Olle Eriksson"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0103324.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0103324.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.068459+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0103324",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

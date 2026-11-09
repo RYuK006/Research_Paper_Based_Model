@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0405380",
+  "title": "Phase Diagram of the Two-Leg Kondo Ladder",
+  "abstract": "The phase diagram of the two-leg Kondo ladder is investigated using computational techniques. Ferromagnetism is present, but only at small conduction electron densities and robust Kondo coupling $J$. For densities $n\\gtrsim0.4$ and any Kondo coupling, a paramagnetic phase is found. We also observed spin dimerization at densities $n$=1/4 and $n$=1/2. The spin structure factor at small $J$ peaks at $\\vec{q}$=$(2n,0)π$ for $n\\lesssim0.5$, and at $\\vec{q}$=$(n,1)π$ for $n\\gtrsim0.5$. The charge structure factor suggests that electrons behave as free particles with spin-1/2 (spin-0) for small (large) $J$.",
+  "authors": [
+    "J. C. Xavier",
+    "E. Miranda",
+    "E. Dagotto"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevB.70.172415",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0405380.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0405380.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.139843+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0405380",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

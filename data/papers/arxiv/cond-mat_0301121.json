@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0301121",
+  "title": "Boundary Lubrication: Squeeze-out Dynamics of a Compressible 2D Liquid",
+  "abstract": "The expulsion dynamics of the last liquid monolayer of molecules confined between two surfaces has been analyzed by solving the two-dimensional (2D) Navier-Stokes equation for a compressible liquid. We find that the squeeze-out is characterized by the parameter g0 ~ P0/(rho c^2), where P0 is the average perpendicular (squeezing) pressure, rho the liquid (3D) density and c the longitudinal sound velocity in the monolayer film. When g0 << 1 the result of the earlier incompressible treatment is recovered. Numerical results for the squeeze-out time, and for the time-dependence of the radius of the squeezed-out region, indicate that compressibility effects may be non-negligible both in time and in space. In space, they dominate at the edge of the squeeze-out region. In time, they are strongest right at the onset of the squeeze-out process, and just before its completion.",
+  "authors": [
+    "U. Tartaglino",
+    "B. N. J. Persson",
+    "A. I. Volokitin",
+    "E. Tosatti"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevB.66.214207",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0301121.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0301121.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.379963+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0301121",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

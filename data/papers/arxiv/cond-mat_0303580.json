@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0303580",
+  "title": "Spin and superconducting instabilities near a Van Hove singularity",
+  "abstract": "We apply a wilsonian renormalization group approach to the system of electrons in a two-dimensional square lattice interacting near the saddle-points of the band, when the correlations at momentum ${\\bf Q} = (π, π)$ prevail in the system. The detailed consideration of the spin degrees of freedom allows to discern the way in which the SU(2) spin invariance is preserved in the renormalization process. Regarding the spin correlations, we find two different universality classes which correspond, in the context of the extended Hubbard model, to having the bare on-site interaction $U$ repulsive or attractive. The first class is characterized by a spin instability which develops through the condensation of particle-hole pairs with momentum ${\\bf Q}$, with the disappearance of the Fermi line in the neighborhood of the saddle-points. Within that class, the attractive or repulsive character of the nearest-neighbor interaction $V$ dictates whether there is or not a d-wave superconducting instability in the system. For the Hubbard model with just on-site interaction, we show that some of the irrelevant operators are able to trigger the superconducting instability. The naturalness of the competing instabilities is guaranteed by the existence of a range of doping levels in which the chemical potential of the open system is renormalized to the level of the saddle-points. We incorporate this effect to obtain the phase diagram as a function of the bare chemical potential, which displays a point of optimal doping separating the regions of superconductivity and spin instability.",
+  "authors": [
+    "J. Gonzalez"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0303580.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0303580.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:43.893111+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0303580",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ]
+  }
+}

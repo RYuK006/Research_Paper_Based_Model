@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0305053",
+  "title": "Remarks on homo- and hetero-polymeric aspects of protein folding",
+  "abstract": "Different aspects of protein folding are illustrated by simplified polymer models. Stressing the diversity of side chains (residues) leads one to view folding as the freezing transition of an heteropolymer. Technically, the most common approach to diversity is randomness, which is usually implemented in two body interactions (charges, polar character,..). On the other hand, the (almost) universal character of the protein backbone suggests that folding may also be viewed as the crystallization transition of an homopolymeric chain, the main ingredients of which are the peptide bond and chirality (proline and glycine notwithstanding). The model of a chiral dipolar chain leads to a unified picture of secondary structures, and to a possible connection of protein structures with ferroelectric domain theory.",
+  "authors": [
+    "T. Garel"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.dis-nn",
+    "cond-mat.stat-mech",
+    "q-bio.BM"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0305053.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0305053.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.435896+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0305053",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.dis-nn",
+      "cond-mat.stat-mech",
+      "q-bio.BM"
+    ]
+  }
+}

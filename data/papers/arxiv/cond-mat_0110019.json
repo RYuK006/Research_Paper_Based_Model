@@ -1,0 +1,32 @@
+{
+  "id": "arxiv:cond-mat/0110019",
+  "title": "Anomalous doping dependence of the fluctuation-induced diamagnetism in superconductors of YBCO family",
+  "abstract": "SQUID magnetization measurements in oriented powders of Y$_{1-x}$Ca$_{x}$Ba$% _{2}$Cu$_{3}$O$_{y}$, with $x$ ranging from 0 to 0.2, for $y\\approx 6.1$ and $y\\approx 6.97$, have been performed in order to study the doping dependence of the fluctuating diamagnetism above the superconducting transition temperature $T_{c}$. While for optimally doped compounds the diamagnetic susceptibility and the magnetization curves $-M_{fl}(T=const$) vs. $H$ are rather well justified on the basis of an anisotropic Ginzburg-Landau (GL) functional, in underdoped and overdoped regimes an anomalous diamagnetism is observed, with a large enhancement with respect to the GL scenario. Furthermore the shape of magnetization curves differs strongly from the one derived in that scheme. The anomalies are discussed in terms of phase fluctuations of the order parameter in a layered system of vortices and in the assumption of charge inhomogeneities inducing local, non percolating, superconducting regions with $T_{c}^{(loc)}$ higher than the resistive transition temperature $T_{c}$. The susceptibility displays activated temperature behavior, a mark characteristic of the vortex-antivortex description, while history dependent magnetization, with relaxation after zero-field cooling, is consistent with the hypothesis of superconducting droplets in the normal state. Thus the theoretical picture consistently accounts for most experimental findings.",
+  "authors": [
+    "A. Lascialfari",
+    "A. Rigamonti",
+    "L. Romano'",
+    "P. Tedesco",
+    "A. Varlamov",
+    "D. Embriaco"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0110019.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0110019.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.539685+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0110019",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

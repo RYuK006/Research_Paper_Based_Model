@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0404271",
+  "title": "Quantum Transparency of Anderson Insulator Junctions: Statistics of Transmission Eigenvalues, Shot Noise, and Proximity Conductance",
+  "abstract": "We investigate quantum transport through strongly disordered barriers, made of a material with exceptionally high resistivity that behaves as an Anderson insulator or a ``bad metal'' in the bulk, by analyzing the distribution of Landauer transmission eigenvalues for a junction where such barrier is attached to two clean metallic leads. We find that scaling of the transmission eigenvalue distribution with the junction thickness (starting from the single interface limit) always predicts a non-zero probability to find high transmission channels even in relatively thick barriers. Using this distribution, we compute the zero frequency shot noise power (as well as its sample-to-sample fluctuations) and demonstrate how it provides a single number characterization of non-trivial transmission properties of different types of disordered barriers. The appearance of open conducting channels, whose transmission eigenvalue is close to one, and corresponding violent mesoscopic fluctuations of transport quantities explain at least some of the peculiar zero-bias anomalies in the Anderson-insulator/superconductor junctions observed in recent experiments [Phys. Rev. B {\\bf 61}, 13037 (2000)]. Our findings are also relevant for the understanding of the role of defects that can undermine quality of thin tunnel barriers made of conventional band-insulators.",
+  "authors": [
+    "Branislav K. Nikolic",
+    "Ralitsa L. Dragomirova"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevB.71.045308",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.dis-nn"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0404271.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0404271.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:46.730526+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0404271",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.dis-nn"
+    ]
+  }
+}

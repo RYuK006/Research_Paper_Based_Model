@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0104519",
+  "title": "Bond operator theory of doped antiferromagnets: from Mott insulators with bond-centered charge order, to superconductors with nodal fermions",
+  "abstract": "The ground states and excitations of two-dimensional insulating and doped Mott insulators are described by a bond operator formalism. While the method represents the degrees of freedom of an arbitrary antiferromagnet exactly, it is especially suited to systems in which there is a natural pairing of sites into bonds, as in states with spontaneous or explicit spin-Peierls order (or bond-centered charge order). In the undoped insulator, as discussed previously, we obtain both paramagnetic and magnetically-ordered states. We describe the evolution of superconducting order in the ground state with increasing doping--at low doping, the superconductivity is weak, can co-exist with magnetic order, and there are no gapless spin 1/2 fermionic excitations; at high doping, the magnetic order is absent and we obtain a BCS d-wave superconductor with gapless spin 1/2, nodal fermions. We present the critical theory describing the onset of these nodal fermionic excitations. We discuss the evolution of the spin spectrum, and obtain regimes where a spin 1 exciton contributes a sharp resonance in the dynamic spin susceptiblity. We also discuss the experimental consequences of low-energy, dynamically fluctuating, spin-Peierls order in an isotropic CuO_2 plane--we compute consequences for the damping and dispersion of an optical phonon involving primarily the O ions, and compare the results with recent neutron scattering measurements of phonon spectra.",
+  "authors": [
+    "Kwon Park",
+    "Subir Sachdev"
+  ],
+  "year": 2001,
+  "doi": "10.1103/PhysRevB.64.184510",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0104519.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0104519.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.432695+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0104519",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ]
+  }
+}

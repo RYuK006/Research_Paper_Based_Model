@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0309667",
+  "title": "Modeling electric field sensitive scanning probe measurements for a tip of arbitrary shape",
+  "abstract": "We present a numerical method to model electric field sensitive scanning probe microscopy measurements which allows for a tip of arbtrary shape and invokes image charges to exactly account for a sample dielectric overlayer. The method is applied to calculate the spatial resolution of a subsurface charge accumulation imaging system, achieving reasonable agreement with experiment.",
+  "authors": [
+    "I. Kuljanishvili",
+    "Subhasish Chakraborty",
+    "I . J. Maasilta",
+    "S. H. Tessmer",
+    "M. R. Melloch"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0309667.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0309667.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:46.246039+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0309667",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

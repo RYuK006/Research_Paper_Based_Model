@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0302388",
+  "title": "Simulations of cubic-tetragonal ferroelastics",
+  "abstract": "We study domain patterns in cubic-tetragonal ferroelastics by solving numerically equations of motion derived from a Landau model of the phase transition, including dissipative stresses. Our system sizes, of up to 256^3 points, are large enough to reveal many structures observed experimentally. Most patterns found at late stages in the relaxation are multiply banded; all three tetragonal variants appear, but inequivalently. Two of the variants form broad primary bands; the third intrudes into the others to form narrow secondary bands with the hosts. On colliding with walls between the primary variants, the third either terminates or forms a chevron. The multipy banded patterns, with the two domain sizes, the chevrons and the terminations, are seen in the microscopy of zirconia and other cubic-tetragonal ferroelastics. We examine also transient structures obtained much earlier in the relaxation; these show the above features and others also observed in experiment.",
+  "authors": [
+    "A. E. Jacobs",
+    "S. H. Curnoe",
+    "R. C. Desai"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevB.68.224104",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0302388.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0302388.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.879931+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0302388",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

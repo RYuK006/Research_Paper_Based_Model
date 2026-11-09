@@ -1,0 +1,35 @@
+{
+  "id": "arxiv:cond-mat/0107266",
+  "title": "Multiple phase transitions in Ce(Rh,Ir,Co)In5 heavy-fermion superconductors",
+  "abstract": "Magnetic susceptibility, electrical resistivity and heat capacity data for single crystals of Ce(Rh,Ir)1-x(Co,Ir)xIn5 (0 < x < 1) have allowed us to construct a detailed phase diagram for this new family of heavy-fermion superconductors(HFS). CeRh1-xIrxIn5 displays superconductivity(SC) (Tc < 1 K) over a wide range of composition, which develops out of and coexists (0.30 < x < 0.5) with a magnetically ordered state, with TN ~ 4 K. For CeCo1-xRhxIn5, the superconducting state (Tc ~ 2.3 K for x = 0) becomes a magnetic state (TN ~ 4 K, for x = 1) with two phase transitions observed for 0.40 < x < 0.25. CeCo1-xIrxIn5 also shows two transitions for 0.30 < x < 0.75. For those alloys in which SC is found, a roughly linear relationship between Tc and the lattice parameter ratio c/a, was found, with composition as the implicit parameter. The interplay between magnetism and SC for CeRh1-x(Ir,Co)xIn5 and the possibility of two distinct superconducting states in CeCo1-xIrxIn5 are discussed.",
+  "authors": [
+    "P. G. Pagliuso",
+    "R. Movshovich",
+    "A. D. Bianchi",
+    "M. Nicklas",
+    "N. O. Moreno",
+    "J. D. Thompson",
+    "M. F. Hundley",
+    "J. L. Sarrao",
+    "Z. Fisk"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0107266.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0107266.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.027109+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0107266",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ]
+  }
+}

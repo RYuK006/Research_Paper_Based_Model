@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0101361",
+  "title": "Effects of geometric anisotropy on local field distribution: Ewald-Kornfeld formulation",
+  "abstract": "We have applied the Ewald-Kornfeld formulation to a tetragonal lattice of point dipoles, in an attempt to examine the effects of geometric anisotropy on the local field distribution. The various problems encountered in the computation of the conditionally convergent summation of the near field are addressed and the methods of overcoming them are discussed. The results show that the geometric anisotropy has a significant impact on the local field distribution. The change in the local field can lead to a generalized Clausius-Mossotti equation for the anisotropic case.",
+  "authors": [
+    "C. K. Lo",
+    "Jones T. K. Wan",
+    "K. W. Yu"
+  ],
+  "year": 2001,
+  "doi": "10.1088/0953-8984/13/6/311",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci",
+    "physics.comp-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0101361.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0101361.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:04.597727+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0101361",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.mtrl-sci",
+      "physics.comp-ph"
+    ]
+  }
+}

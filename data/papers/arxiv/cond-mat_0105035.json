@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0105035",
+  "title": "Complexity in dislocation dynamics: model",
+  "abstract": "We propose a numerical model to study the viscoplastic deformation of ice single crystals. We consider long-range elastic interactions among dislocations, the possibility of mutual annihilation, and a multiplication mechanism representing the activation of Frank-Read sources due to dislocation pinning. The overdamped equations of motion for a collection of dislocations are integrated numerically using different externally applied stresses. Using this approach we analyze the avalanche-like rearrangements of dislocations during the dynamic evolution. We observe a power law distribution of avalanche sizes which we compare with acoustic emission experiments in ice single crystals under creep deformation. We emphasize the connections of our model with non-equilibrium phase transitions and critical phenomena.",
+  "authors": [
+    "M. -Carmen Miguel",
+    "Alessandro Vespignani",
+    "Stefano Zapperi",
+    "Jerome Weiss",
+    "Jean-Robert Grasso"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0105035.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0105035.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.474288+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0105035",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0212522",
+  "title": "Quantum Andreev map: A paradigm of quantum chaos in superconductivity",
+  "abstract": "We introduce quantum maps with particle-hole conversion (Andreev reflection) and particle-hole symmetry, which exhibit the same excitation gap as quantum dots in the proximity to a superconductor. Computationally, the Andreev maps are much more efficient than billiard models of quantum dots. This makes it possible to test analytical predictions of random-matrix theory and semiclassical chaos that were previously out of reach of computer simulations. We have observed the universal distribution of the excitation gap for large Lyapunov exponent and the logarithmic reduction of the gap when the Ehrenfest time becomes comparable to the quasiparticle dwell time.",
+  "authors": [
+    "Ph. Jacquod",
+    "H. Schomerus",
+    "C. W. J. Beenakker"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevLett.90.207004",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "nlin.CD"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0212522.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0212522.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.185441+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0212522",
+    "categories": [
+      "cond-mat.mes-hall",
+      "nlin.CD"
+    ]
+  }
+}

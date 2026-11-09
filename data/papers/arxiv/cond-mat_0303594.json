@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0303594",
+  "title": "The Lognormal Distribution and Quantum Monte Carlo Data",
+  "abstract": "Quantum Monte Carlo data are often afflicted with distributions that resemble lognormal probability distributions and consequently their statistical analysis can not be based on simple Gaussian assumptions. To this extent a method is introduced to estimate these distributions and thus give better estimates to errors associated with them. This method is applied to a simple quantum model utilizing the single-thread Monte Carlo algorithm to estimate ground state energies.",
+  "authors": [
+    "Mervlyn Moodley"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0303594.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0303594.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:43.904963+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0303594",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0105567",
+  "title": "Probing the ladder spectrum arising from motion in a 2-D lattice driven by the in-plane constant force",
+  "abstract": "The coherent interband dynamics of optically excited two-dimensional lateral surface superlattices driven by an in-plane static electric field has been investigated. The linear absorption, the spectrally-resolved pump-probe four-wave mixing signals and spatial coherent wavepacket evolution in the time-domain are obtained. When the rational condition $E_x/E_y=p/q$, with $p,q$ prime to each other, is fullfilled, it is found that $p$ peaks appear within the frequency interval $ω_{Bx}=eE_xa/\\hbar$ in both linear absorption and degenerate four-wave mixing signals. The coherent time evolution of the electron-hole pair wavepacket is that of a breathing mode, with the period $2πp/ω_{Bx}$, These findings are consistent with the recent spectral results (Phys. Rev. Lett. {\\bf 86}, 3116), hence providing a method for probing the coherent dynamics of quantum particles in 2D lattices.",
+  "authors": [
+    "W. Yan",
+    "F. Claro",
+    "Z. Y. Zeng",
+    "Y. L. Zhao",
+    "J. Q. Liang"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0105567.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0105567.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.650119+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0105567",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

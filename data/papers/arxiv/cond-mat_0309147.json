@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0309147",
+  "title": "Acceptor-based silicon quantum computing",
+  "abstract": "A solid-state quantum computer with dipolar coupling between qubits is proposed. The qubits are formed by the low-lying states of an isolated acceptor in silicon. The system has the scalability inherent to spin-based solid state systems, but the spatial separation between the qubits is an order of magnitude larger. Despite strong dipolar inter-qubit coupling, the decoherence rate, as measured by electric dipolar echoes at an energy splitting of 1.5 GHz, is less than 1 kHz at low temperatures. For inter-acceptor distances of 100 nm and for modest microwave field amplitudes (50 V/cm) the clock frequency of the quantum computer is 0.1 GHz, which yields a quality factor of 105. This paper describes ideas for detection and operation of the quantum computer, and examines limitations imposed by noise sources.",
+  "authors": [
+    "B. Golding",
+    "M. I. Dykman"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.mtrl-sci",
+    "quant-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0309147.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0309147.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.934444+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0309147",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci",
+      "quant-ph"
+    ]
+  }
+}

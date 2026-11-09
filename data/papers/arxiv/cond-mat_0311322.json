@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0311322",
+  "title": "Linear viscoelasticity of polyolefin melts: the effects of temperature and chain branching",
+  "abstract": "Observations are reported in isothermal torsional oscillation tests on melts of isotactic polypropylene (iPP) and low-density polyethylene (LDPE) in the intervals of temperature between 190 and 250C (iPP) and between 120 and 190C (LDPE). With reference to the concept of transient networks, constitutive equations are developed for the viscoelastic response of polymer melts at three-dimensional deformations with small strains. A melt is treated as an equivalent network of strands bridged by temporary junctions (entanglements and physical cross-links whose life-times exceed the characteristic time of deformation). The time-dependent behavior of the network is modelled as detachment of active strands from their junctions and merging of dangling strands with the network. The network is assumed to be strongly heterogeneous in the sense that different junctions have different activation energies for separation of strands. The stress-strain relations involve three adjustable parameters (the plateau modulus, the average activation energy for rearrangement of strands and the standard deviation of activation energies) that are determined by matching the dependencies of storage and loss moduli on frequency of oscillations. The difference in the effects of temperature on the material constants of iPP and LDPE is associated with the difference in their molecular architecture.",
+  "authors": [
+    "A. D. Drozdov",
+    "S. Agarwal",
+    "R. K. Gupta"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0311322.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0311322.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.236247+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0311322",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

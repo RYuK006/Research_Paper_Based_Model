@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0306195",
+  "title": "Chain Connectivity and Conformational Variability of Polymers: Clues to an Adequate Thermodynamic Description of their Solutions III: Modeling of Phase Diagrams",
+  "abstract": "A simple expression for the composition dependence of the Flory-Huggins interaction parameter of polymer/solvent systems reported earlier is used to model the demixing of polymer solutions into two liquid phases. To this end the system specific parameters zeta and ny of that approach are calculated as a function of temperature using the thermodynamic expressions resulting for the critical conditions on one side and from experimentally determined critical data for polymers of different molar mass on the other side. By means of data reported for the system cyclohexane/polystyrene it is demonstrated that binodal and spinodal lines are very accurately modeled at low temperatures (UCSTs) and at high temperatures (LCSTs). The parameters obtained from the demixing behavior match well with that calculated from the composition dependence of the vapor pressure at temperatures where the components are completely miscible. Information on the phase separation of the system trans-decalin/poly-styrene for different molecular weights and at different elevated pressures is used to show that the approach is also apt to model pressure influences. The thus obtained zeta (T;p) and ny (T;p) enable the prediction of the (endothermal) theta temperature of the system as a function of pressure in quantitative agreement with the data directly obtained from light scattering measurements with dilute solutions.",
+  "authors": [
+    "Sergej Stryuk",
+    "Bernhard A. Wolf"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0306195.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0306195.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.861705+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0306195",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

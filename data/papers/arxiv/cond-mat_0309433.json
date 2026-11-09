@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0309433",
+  "title": "Separated Spin and Charge Excitations and their Coupling in the Spin-Pseudospin Model for Quarter-Filled Ladders",
+  "abstract": "Quantum Monte Carlo (QMC) and density-matrix renormalization group (DMRG) methods are used to study the coupled spin-pseudospin Hamiltonian in one-dimension (1D) that models the charge-ordering instability of the anisotropic Hubbard ladder at quarter filling. We calculate the temperature dependence of the uniform spin susceptibility and specific heat as well as the spin and charge excitation spectra of the system. We show that there is a parameter and temperature region where the spin degrees of freedom are separated from the charge degrees of freedom and behave like a 1D antiferromagnetic Heisenberg model, and that, outside this parameter region and above a crossover temperature, the spin excitations are largely affected by the charge fluctuation. We argue that observed anomalous spin dynamics in the disorder phase of a typical charge-ordered material $α'$-NaV$_2$O$_5$ may possibly be a consequence of this type of spin-charge coupling.",
+  "authors": [
+    "Y. Ohta",
+    "T. Nakaegawa",
+    "S. Ejima"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0309433.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0309433.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:46.117234+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0309433",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

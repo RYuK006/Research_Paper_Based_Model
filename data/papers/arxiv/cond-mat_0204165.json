@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0204165",
+  "title": "Effective Heisenberg-Model Description of the Coupled Spin-Pseudospin Model for Quarter-Filled Ladders",
+  "abstract": "Quantum Monte Carlo method is used to study the coupled spin-pseudospin Hamiltonian in one-dimension (1D) that models the charge-ordering instability of the anisotropic Hubbard ladder at quarter filling. We calculate the temperature dependence of the uniform spin susceptibility and the spin and charge excitation spectra of the system to show that there is a parameter and temperature region where the spin degrees of freedom behave like a 1D antiferromagnetic Heisenberg model. Anomalous spin dynamics in the disorder phase of a typical charge-ordered material $α'$-NaV$_2$O$_5$ is thereby considered.",
+  "authors": [
+    "T. Nakaegawa",
+    "Y. Ohta"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0204165.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0204165.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.425322+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0204165",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

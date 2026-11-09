@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0107205",
+  "title": "High Pressure Studies of Tc and Lattice Parameters of MgB2",
+  "abstract": "We performed ac-susceptibility measurements of magnesium diboride powder samples under pure hydrostatic pressures up to 0.4 GPa and under quasi-hydrostatic pressure conditions up to 8 GPa in a helium gas pressure cell and a diamond-anvil cell (DAC), respectively. Furthermore, the DAC has been used to investigate the lattice compression by X-ray diffraction. Under helium gas pressure the superconducting transition temperature shows a linear decrease dTc/dp = -1.13 K/GPa. The pressure effect is fully reversible with a return to the initial Tc of 37.5 K after pressure release. In the diamond-anvil cell the application of pressure leads to a stronger Tc-decrease than in the helium gas pressure cell, and after the release of pressure a degradation effect with lower Tc and a broader transition compared to the first measurement at ambient pressure occurs. Such degradation may be explained by shear stresses and uniaxial pressure components, which cannot be avoided in a DAC at low temperatures. Considering the anisotropic AlB2-type structure with alternating honeycomb boron and magnesium layers, MgB2 seems to be very sensitive to such non-hydrostatic pressure components, which would explain the spread of dTc/dp values reported in the literature.",
+  "authors": [
+    "S. I. Schlachter",
+    "W. H. Fietz",
+    "K. Grube",
+    "W. Goldacker"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0107205.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0107205.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.001099+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0107205",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

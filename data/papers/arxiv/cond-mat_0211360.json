@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0211360",
+  "title": "Relativistic Band-Structure Calculations for CeTIn$_5$(T=Ir and Co)",
+  "abstract": "In order to investigate electronic properties of recently discovered heavy fermion superconductors CeTIn$_5$ (T=Ir and Co), we employ the relativistic linear augmented-plane-wave (RLAPW) method to clarify the energy band structures and Fermi surfaces of those materials. The obtained energy bands mainly due to the large hybridization between Ce $4f$ and In 5$p$ states well reproduce the Fermi surfaces consistent with the de Haas-van Alphen experimental results. However, when we attempt to understand magnetism and superconductivity in CeTIn$_5$ from the microscopic viewpoint, the energy bands obtained in the RLAPW method are too complicated to analyze the system by further including electron correlations. Thus, it is necessary to prepare a more simplified model, keeping correctly the essential characters of the energy bands obtained in the band-structure calculation. For the purpose, we construct a tight-binding model for CeTIn$_5$ by including $f$-$f$ and $p$-$p$ hoppings as well as $f$-$p$ hybridization, which are expressed by the Slater-Koster integrals, determined by the direct comparison with the band-calculation result. Similarity and difference between CeIrIn$_5$ and CeCoIn$_5$ are discussed based on the obtained tight-binding model, suggesting a significant importance of the effect of crystalline electric field to understand the difference in electronic properties among CeTIn$_5$.",
+  "authors": [
+    "T. Maehira",
+    "T. Hotta",
+    "K. Ueda",
+    "A. Hasegawa"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0211360.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0211360.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.720438+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0211360",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

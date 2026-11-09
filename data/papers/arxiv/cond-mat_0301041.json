@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0301041",
+  "title": "Evidence of Scale-Free Topology and Dynamics in Gene Regulatory Networks",
+  "abstract": "Temporal gene expression data (Wen, et. al.) was analyzed using the recently introduced inverse modeling technique of Embedded Complex Logistic Maps (ECLM). Preliminary results indicate scale-free structure in the gene regulatory network topology as well as in the network's energy dissipation characteristics. General agreement was found with other recent studies involving a dynamical model and analyses of other biochemical networks exhibiting scale-free topology. The highlights of our study are briefly outlined.",
+  "authors": [
+    "Sandy Shaw"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.dis-nn",
+    "physics.bio-ph",
+    "q-bio.MN"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0301041.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0301041.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.322195+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0301041",
+    "categories": [
+      "cond-mat.dis-nn",
+      "physics.bio-ph",
+      "q-bio.MN"
+    ]
+  }
+}

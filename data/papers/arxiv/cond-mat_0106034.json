@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0106034",
+  "title": "Transport processes in metal-insulator granular layers",
+  "abstract": "The non-equilibrium tunnel transport processes are considered in a square lattice of metallic nanogranules embedded into insulating host. Based on a simple model with three possible charging states (+,-, or 0) of a granule and three kinetic processes (creation or recombination of a +- pair, and charge transfer) between neighbor granules, the mean-field kinetic theory is developed, which takes into account the interplay between the charging energy and temperature and between the applied electric field and Coulomb fields by non-compensated charge density. The resulting charge and current distributions are found to depend essentially on the particular conditions in a granular layer, namely, in a free area (FA) or in contact areas (CA) under macroscopic metallic contacts. Thus, a steady state dc transport is only compatible with zero charge density and ohmic resistivity within FA, but charge accumulation and non-ohmic behavior are necessary for conduction over CA. The approximate analytic solutions are obtained for characteristic regimes (low or high charge density) of such conduction. Also non- stationary processes are considered, displaying a peculiar combination of two strongly different relaxation times. The comparison is done with the available transport data on similar experimental systems.",
+  "authors": [
+    "Yu. G. Pogorelov",
+    "J. F. Polido"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0106034.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0106034.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.684146+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0106034",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

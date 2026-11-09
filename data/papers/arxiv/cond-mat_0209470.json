@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0209470",
+  "title": "Critical phenomena and critical relations",
+  "abstract": "We consider systems which exhibit typical critical dependence of the specific heat: $Δc\\varpropto (T_C-T)^{-γ}$ ($T<T_C$); $Δc\\varpropto (T-T_C)^{-γ^{\\prime}}$ ($T>T_C$) where $γ$,$γ^{\\prime}$ are critical exponents ($γ=α$ for $Δc=Δc_{p,N},$ $γ=\\barα$ for $Δc=Δc_{V,N}$), as well as, the case when $Δc\\varpropto (\\ln \\mid T_C-T\\mid)^a$ ($% a=\\frac 13$, uniaxial ferroelectrics; $a=1$, liquid $He^4$). Starting from the critical behaviour of the specific heat we find the Gibbs (Helmholtz) potential in the vicinity of the critical point for each case separately. We derive in this way many exact critical relations in the limit $T\\to T_C$ which remain the same for each considered case. They define a new class of universal critical relations independent from the underlying microscopic mechanism and the symmetry of these systems. The derived relations are valid for a very broad class of magnetic, ferroelectric and superconducting materials, as well as, for liquid $He^4$.",
+  "authors": [
+    "M. Matlak",
+    "B. Grabiec"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0209470.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0209470.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.102820+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0209470",
+    "categories": [
+      "cond-mat.stat-mech"
+    ]
+  }
+}

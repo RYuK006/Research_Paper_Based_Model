@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0311154",
+  "title": "A fast method for the measurement of long spin-lattice relaxation times by Single Scan Inversion Recovery experiment",
+  "abstract": "A new method of measuring long spin-lattice relaxation times ($T_1$) is proposed. Being a single scan technique, the method is at least one order of magnitude faster than the conventional technique. This method (Single-Scan or Slice Selected Inversion Recovery or SSIR) relies on the slice selection technique. The method is experimentally verified and compared with the time taken by the conventional measurement. Furthermore, it is shown that the conventional Inversion Recovery (IR) method which suffers from effects of r.f. inhomogeneity can also be improved by measuring the magnetization of only a central slice.",
+  "authors": [
+    "Rangeet Bhattacharyya",
+    "Anil Kumar"
+  ],
+  "year": 2003,
+  "doi": "10.1016/j.cplett.2003.10.133",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0311154.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0311154.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.166147+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0311154",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0310519",
+  "title": "Unconventional superconductivity and normal state properties of epsilon-iron at high pressure",
+  "abstract": "Following the discovery of superconductivity in epsilon-iron, subsequent experiments hinted at non-Fermi liquid behaviour of the normal phase and sensitive dependence of the superconducting state on disorder, both signatures of unconventional pairing. We report further resistive measurements under pressure of samples of iron from multiple sources. The normal state resistivity of epsilon-iron varied as rho_0+AT^{5/3} at low temperature over the entire superconducting pressure domain. The superconductivity could be destroyed by mechanical work, and was restored by annealing, demonstrating sensitivity to the residual resistivity rho_0. There is a strong correlation between the rho_0 and A coefficients and the superconducting critical temperature T_c. Within the partial resistive transition there was a significant current dependence, with V(I)=a(I-I_0)+bI^2, with a >> b, possibly indicating flux-flow resistivity, even in the absence of an externally applied magnetic field.",
+  "authors": [
+    "A. T. Holmes",
+    "D. Jaccard",
+    "G. Behr",
+    "Y. Inada",
+    "Y. Onuki"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0310519.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0310519.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:14.942472+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0310519",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

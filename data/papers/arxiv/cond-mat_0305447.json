@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0305447",
+  "title": "Imaging with an Almost Perfect Lens",
+  "abstract": "The problem of imaging for a nearly-perfect lens, namely, a slab of a left-handed material with refractive index n = -(1-sigma)^1/2 is solved analytically for |sigma| << 1. The electromagnetic field behavior is determined largely by singularities arising from the excitation of surface polaritons with wavevector q -->oo. Depending on the sign of sigma, the near field is either odd or even with respect to the lens middle plane. Images exhibit an anomalous interference pattern with length scale determined by the width of the slab. Consistent with recent studies by Smith et al. [Appl. Phys. Lett. 82, 1506 (2003)] and G'omez-Santos [Phys. Rev. Lett. 90, 077401 (2003)], the resolution depends logarithmically on |sigma|.",
+  "authors": [
+    "R. Merlin"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0305447.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0305447.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.604734+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0305447",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

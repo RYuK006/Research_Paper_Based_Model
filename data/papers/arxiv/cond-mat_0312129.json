@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0312129",
+  "title": "Possibilities of a classical alternative to a quantum computer",
+  "abstract": "The dramatic increase in the efficiency of a quantum computer over a classical computer, raises a natural question asking, how much of this success could be attributed to its quantum nature and how much to its probabilistic content. To highlight this issue, we put forward the novel idea of a possible chemical computer driven by reaction-diffusion (RD) processes based on a probabilistic but classical approach. Such computers, obeying non-equilibrium statistical mechanics, can describe superpositions of empty and filled states with certain probabilities. With these {probit} states serving as computational basis states, such RD computers with operations satisfying a necessary semi-group property could mimic some well known quantum logic gates and carry out teleportation like procedure using entangled states, believed to be a prerogative of the quantum world. Moreover, assuming a nonlinear extension the RD computers could be used for cloning of arbitrary states, which is a famous forbidden operation in standard quantum computation.",
+  "authors": [
+    "Anjan Kundu"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0312129.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0312129.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.509127+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0312129",
+    "categories": [
+      "cond-mat.stat-mech"
+    ]
+  }
+}

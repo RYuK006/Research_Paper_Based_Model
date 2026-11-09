@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:astro-ph/0211151",
+  "title": "The superfluid two-stream instability and pulsar glitches",
+  "abstract": "This paper provides the first study of a new dynamical instability in superfluids. This instability is similar to the two-stream instability known to operate in plasmas. It is analogous to the Kelvin-Helmholtz instability, but has the distinguishing feature that the two fluids are interpenetrating. The instability sets in once the relative flow between the two components of the system reaches a critical level. Our analysis is based on the two-fluid equations that have been used to model the dynamics of the outer core of a neutron star, where superfluid neutrons are expected to coexist with superconducting protons and relativistic electrons. These equations are analogous to the standard Landau model for superfluid Helium. We study this instability for two different model problems. First we analyze a local dispersion relation for waves in a system where one fluid is at rest while the other flows at a constant rate. This provides a proof of principle of the existence of the two-stream instability for superfluids. Our second model problem concerns two rotating fluids confined within an infinitesimally thin spherical shell. The aim of this model is to assess whether the two-stream instability may be relevant (perhaps as a trigger mechanism) for pulsar glitches. Our results for this problem show that the entrainment effect could provide a sufficiently strong coupling for the instability to set in at a relative flow small enough to be astrophysically plausible.",
+  "authors": [
+    "N. Andersson",
+    "G. L. Comer",
+    "R. Prix"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "astro-ph",
+    "cond-mat.soft"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/astro-ph/0211151.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\astro-ph_0211151.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:03.700900+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "astro-ph/0211151",
+    "categories": [
+      "astro-ph",
+      "cond-mat.soft"
+    ]
+  }
+}

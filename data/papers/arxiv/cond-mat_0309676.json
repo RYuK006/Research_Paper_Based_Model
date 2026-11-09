@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0309676",
+  "title": "Simulation of Cu-Mg metallic glass: Thermodynamics and Structure",
+  "abstract": "We have obtained effective medium theory (EMT) interatomic potential parameters suitable for studying Cu-Mg metallic glasses. We present thermodynamic and structural results from simulations of such glasses over a range of compositions. We have produced low-temperature configurations by cooling from the melt at as slow a rate as practical, using constant temperature and pressure molecular dynamics. During the cooling process we have carried out thermodynamic analyses based on the temperature dependence of the enthalpy and its derivative, the specific heat, from which the glass transition temperature may be determined. We have also carried out structural analyses using the radial distribution function (RDF) and common neighbor analysis (CNA). Our analysis suggests that the splitting of the second peak, commonly associated with metallic glasses, in fact has little to do with the glass transition itself, but is simply a consequence of the narrowing of peaks associated with structural features present in the liquid state. In fact the splitting temperature for the Cu-Cu RDF is well above $T_g$. The CNA also highlights a strong similarity between the structure of the intermetallic alloys and the amorphous alloys of similar composition. We have also investigated the diffusivity in the supercooled regime. Its temperature dependence indicates fragile-liquid behavior, typical of binary metallic glasses. On the other hand, the relatively low specific heat jump of around $1.5 k_B/\\mathrm{at.}$ indicates apparent strong-liquid behavior, but this can be explained by the width of the transition due to the high cooling rates.",
+  "authors": [
+    "Nicholas P. Bailey",
+    "Jakob Schiøtz",
+    "Karsten W. Jacobsen"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevB.69.144205",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0309676.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0309676.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:46.256408+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0309676",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

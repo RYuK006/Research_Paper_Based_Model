@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0405228",
+  "title": "Interchain versus intrachain hole transmission through desoxyribonucleic acid molecular wires",
+  "abstract": "We present a methodology for computing the current-voltage response of a molecular wire within the Landauer-Buttiker formalism based upon transforming the cummulative transmission probability into an eigenvalue problem. The method is extremely simple to apply since does not involve construction of the molecular Greens function, and hence avoids the use of complex integration contours to avoid poles. We use this method to study the effect of base-pair sequence on the conductivity of holes in DNA chains containing A-T bridges between guanine chains. Our results indicate that sequence plays a substantial role in ballistic transport via tunneling resonances tuned by sequence and interchain interactions. We also find that ballistic transport is dominated by intrachain transport and that hole transmission is insensitive to interchain fluctuations.",
+  "authors": [
+    "Eric R. Bittner"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0405228.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0405228.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.074751+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0405228",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0308179",
+  "title": "Phase field modeling of electrochemistry II: Kinetics",
+  "abstract": "The kinetic behavior of a phase field model of electrochemistry is explored for advancing (electrodeposition) and receding (electrodissolution) conditions in one dimension. We described the equilibrium behavior of this model in [J. E. Guyer, W. J. Boettinger, J.A. Warren, and G. B. McFadden, ``Phase field modeling of electrochemistry I: Equilibrium'', cond-mat/0308173]. We examine the relationship between the parameters of the phase field method and the more typical parameters of electrochemistry. We demonstrate ohmic conduction in the electrode and ionic conduction in the electrolyte. We find that, despite making simple, linear dynamic postulates, we obtain the nonlinear relationship between current and overpotential predicted by the classical ``Butler-Volmer'' equation and observed in electrochemical experiments. The charge distribution in the interfacial double layer changes with the passage of current and, at sufficiently high currents, we find that the diffusion limited deposition of a more noble cation leads to alloy deposition with less noble species.",
+  "authors": [
+    "J. E. Guyer",
+    "W. J. Boettinger",
+    "J. A. Warren",
+    "G. B. McFadden"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevE.69.021604",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0308179.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0308179.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.608138+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0308179",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

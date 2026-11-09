@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0312014",
+  "title": "Surface Superconductivity of Dirty Two-Band Superconductors: Applications to ${\\rm MgB}_2$",
+  "abstract": "The minimal magnetic field $H_{c2}$ destroying superconductivity in the {\\it bulk} of a superconductor is smaller than the magnetic field $H_{c3}$ needed to destroy {\\it surface} superconductivity if the surface of the superconductor coincides with one of the crystallographic planes and is parallel to the external magnetic field. While for a dirty single-band superconductor the ratio of $H_{c3}$ to $H_{c2}$ is a universal temperature-independent constant 1.6946, for dirty two-band superconductors this is not the case. I show that in the latter case the interaction of the two bands leads to a novel scenario with the ratio $H_{c3}/H_{c2}$ varying with temperature and taking values larger and smaller than 1.6946. The results are applied to ${\\rm MgB}_2$ and are in agreement with recent experiments [A. Rydh {\\it et al.}, cond-mat/0307445].",
+  "authors": [
+    "Denis A. Gorokhov"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.dis-nn",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0312014.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0312014.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.432844+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0312014",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.dis-nn",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

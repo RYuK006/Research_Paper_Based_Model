@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0404406",
+  "title": "Doping dependent isotope effects of the quasi-1D electron-phonon system: comparison with the high-temperature superconductors",
+  "abstract": "The weak-coupling quantum phase diagrams of the one-dimensional (1D) Holstein-Hubbard and Peierls-Hubbard models are computed near half-filling, using a multi-step renormalization group technique. If strong enough, the electron-phonon interaction induces a spin gap. The spin gap, which determines the superconducting pairing energy, depends strongly on the band filling and decreases monotonically as the system is doped away from half-filling. However, the superconducting susceptibility exhibits a different doping dependence; it can vary non-monotonically with doping and exhibit a maximum at an \"optimal\" value of the doping. For a quasi-1D array of weakly coupled, fluctuating 1D chains, the superconducting transition temperature T_c exhibits a similar non-monotonic doping dependence. The effect of changing the ion mass (isotope effect) on T_c is found to be largest near half-filling and to decrease rapidly upon doping away from half-filling. The isotope effect on the spin gap is the opposite sign as the isotope effect on T_c. We discuss qualitative similarities between these results and properties of the high-temperature superconductors.",
+  "authors": [
+    "Ian P. Bindloss"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0404406.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0404406.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:46.804468+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0404406",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

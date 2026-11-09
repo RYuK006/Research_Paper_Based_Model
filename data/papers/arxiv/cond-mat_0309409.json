@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0309409",
+  "title": "Charge-carrier transport properties of ultrathin Pb films",
+  "abstract": "The charge-carrier transport properties of ultrathin metallic films are analysed with ab-initio methods using the density functional theory (DFT) on free-standing single crystalline slabs in the thickness range between 1 and 8 monolayers and compared with experiments for Pb films on Si(111). A strong interplay between bandstructure, quantised in the direction normal to the ultrathin film, charge-carrier scattering mechanisms and magnetoconduction was found. Based on the bandstructure obtained from the DFT, we used standard Boltzmann transport theory in two dimensions to obtain results for the electronic transport properties of 2 to 8 monolayers thick Pb(111) slabs with and without magnetic field. Comparison of calculations and experiment for the thickness dependence of the dc conductivity shows that the dominant scattering mechanism of electrons is diffuse elastic interface scattering for which the assumption of identical scattering times for all subbands and directions, used in this paper, is a good approximation. Within this model we can explain the thickness dependences of the electric conductivity and of the Hall coefficient as well as the anomalous behaviour of the first Pb layer.",
+  "authors": [
+    "I. Vilfan",
+    "H. Pfnuer"
+  ],
+  "year": 2003,
+  "doi": "10.1140/epjb/e2003-00345-6",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0309409.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0309409.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:46.091986+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0309409",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0306287",
+  "title": "Simulation of Interdiffusion in Between Compartments Having Heterogenously Distributed Donors and Acceptors",
+  "abstract": "The final stage of latex film formation was simulated by introducing donors and acceptors into the adjacent compartments of a cube. Homogenous and/or heterogeneous donor-acceptor distributions were chosen for different types of simulations. The interdiffusion of the donors and the acceptors within these cubes was generated using the Monte-Carlo technique. The decay of the donor intensity I(t) by direct energy transfer (DET) was simulated for several interdiffusion steps. Gaussian noise was added to the I(t) curves to obtain more realistic decay profiles. I(t) decay curves were fitted to the phenomenological equation to calculate the fractional mixing at each interdiffusion step. The reliability of the Fickian diffusion model in the case of heterogenous and homogeneous donor-acceptor distributions are discussed for latex film formation.",
+  "authors": [
+    "Erkan Tuzel",
+    "K. Batuhan Kisacikoglu",
+    "Onder Pekcan"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0306287.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0306287.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.895803+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0306287",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

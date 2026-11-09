@@ -1,0 +1,33 @@
+{
+  "id": "arxiv:cond-mat/0407141",
+  "title": "Structural phase transitions in epitaxial perovskite films",
+  "abstract": "Three different film systems have been systematically investigated to understand the effects of strain and substrate constraint on the phase transitions of perovskite films. In SrTiO$_3$ films, the phase transition temperature T$_C$ was determined by monitoring the superlattice peaks associated with rotations of TiO$_6$ octahedra. It is found that T$_C$ depends on both SrTiO$_3$ film thickness and SrRuO$_3$ buffer layer thickness. However, lattice parameter measurements showed no sign of the phase transitions, indicating that the tetragonality of the SrTiO$_3$ unit cells was no longer a good order parameter. This signals a change in the nature of this phase transition, the internal degree of freedom is decoupled from the external degree of freedom. The phase transitions occur even without lattice relaxation through domain formation. In NdNiO$_3$ thin films, it is found that the in-plane lattice parameters were clamped by the substrate, while out-of-plane lattice constant varied to accommodate the volume change across the phase transition. This shows that substrate constraint is an important parameter for epitaxial film systems, and is responsible for the suppression of external structural change in SrTiO$_3$ and NdNiO$_3$ films. However, in SrRuO$_3$ films we observed domain formation at elevated temperature through x-ray reciprocal space mapping. This indicated that internal strain energy within films also played an important role, and may dominate in some film systems. The final strain states within epitaxial films were the result of competition between multiple mechanisms and may not be described by a single parameter.",
+  "authors": [
+    "Feizhou He",
+    "B. O. Wells",
+    "Z. -G. Ban",
+    "S. P. Alpay",
+    "S. Grenier",
+    "S. M. Shapiro",
+    "Weidong Si",
+    "A. Clark",
+    "X. X. Xi"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevB.70.235405",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.other"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0407141.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0407141.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.778634+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0407141",
+    "categories": [
+      "cond-mat.other"
+    ]
+  }
+}

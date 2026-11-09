@@ -1,0 +1,33 @@
+{
+  "id": "arxiv:cond-mat/0307134",
+  "title": "Solid-solid volume collapse transitions are zeroth order",
+  "abstract": "We present an exactly solvable non-linear elastic model of a volume collapse transition in an isotropic solid. Integrity of the lattice through the transition leads to an infinite-range density-density interaction, which drives classical critical behavior. Nucleation is forbidden within a pressure window leading to intrinsic hysteresis and an unavoidable discontinuity of the thermodynamic potential (zeroth order transition). The window shrinks with increasing temperature ending at a critical point at a temperature related to the shear modulus. Mixed phases behave non-extensively and show negative compressibility. We discuss the implications for Ce, SmS, and related systems.",
+  "authors": [
+    "S. Bustingorry",
+    "E. A. Jagla",
+    "J. Lorenzana"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.mtrl-sci",
+    "cond-mat.soft",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0307134.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0307134.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.216511+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0307134",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mtrl-sci",
+      "cond-mat.soft",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

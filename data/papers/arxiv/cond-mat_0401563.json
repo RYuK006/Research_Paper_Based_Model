@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0401563",
+  "title": "Density Functional Calculations near Ferromagnetic Quantum Critical Points",
+  "abstract": "We discuss the application of the density functional theory in the local density approximation (LDA) near a ferromagnetic quantum critical point. The LDA fails to describe the critical fluctuations in this regime. This provides a fingerprint of a materials near ferromagnetic quantum critical points: overestimation of the tendency to magnetism in the local density approximation. This is in contrast to the typical, but not universal, tendency of the LDA to underestimate the tendency to magnetism in strongly Hubbard correlated materials. We propose a method for correcting the local density calculations by including critical spin fluctuations. This is based on (1) Landau expansion for the free energy, evaluated within the LDA, (2) lowest order expansion of the RPA susceptibility in LDA and (3) extraction of the amplitude of the relevant (critical) fluctuations by applying the fluctuation-dissipation theorem to the difference between a quantum-critical system and a reference system removed from the quantum critical point. We illustrate some of the aspects of this by the cases of Ni3Al and Ni3Ga, which are very similar metals on opposite sides of a ferromagnetic quantum critical point. LDA calculations predict that Ni3Ga is the more magnetic system, but we find that due to differences in the band structure, fluctuation effects are larger in Ni3Ga, explaining the fact that experimentally it is the less magnetic of the two materials.",
+  "authors": [
+    "I. I. Mazin",
+    "D. J. Singh",
+    "A. Aguayo"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0401563.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0401563.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.131275+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0401563",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

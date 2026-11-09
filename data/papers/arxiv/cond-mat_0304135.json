@@ -1,0 +1,35 @@
+{
+  "id": "arxiv:cond-mat/0304135",
+  "title": "Tuning Heavy Fermion Systems into Quantum Criticality by Magnetic Field",
+  "abstract": "We discuss a series of thermodynamic, magnetic and electrical transport experiments on the two heavy fermion compounds CeNi2Ge2 and YbRh2Si2 in which magnetic fields, B, are used to tune the systems from a Non-Fermi liquid (NFL) into a field-induced FL state. Upon approaching the quantum-critical points from the FL side by reducing B we analyze the heavy quasiparticle (QP) mass and QP-QP scattering cross sections. For CeNi2Ge2 the observed behavior agrees well with the predictions of the spin-density wave (SDW) scenario for three-dimensional (3D) critical spin-fluctuations. By contrast, the observed singularity in YbRh2Si2 cannot be explained by the itinerant SDW theory for neither 3D nor 2D critical spinfluctuations. Furthermore, we investigate the magnetization M(B) at high magnetic fields. For CeNi2Ge2 a metamagnetic transition is observed at 43 T, whereas for YbRh2Si2 a kink-like anomaly occurs at 10 T in M vs B (applied along the easy basal plane) above which the heavy fermion state is completely suppressed.",
+  "authors": [
+    "P. Gegenwart",
+    "J. Custers",
+    "T. Tayama",
+    "K. Tenya",
+    "C. Geibel",
+    "G. Sparn",
+    "N. Harrison",
+    "P. Kerschl",
+    "D. Eckert",
+    "K. -H. Müller",
+    "F. Steglich"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0304135.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0304135.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:43.999182+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0304135",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

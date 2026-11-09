@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0111223",
+  "title": "Time - dependent Ginzburg - Landau approach and application to superconductivity",
+  "abstract": "A time dependent generalization of the Ginzburg -Landau Lagrangian is proposed. It contains two terms determining the time dependence and the four arbitrary scalar functions. Relevant equations, which coincide with equations following from the suitable Hamiltonian, are derived by a standard variational technique. These equations determine the energy conservation law and admit twofold time dependence which leads either to first or to second order time derivatives in Ginzburg - Landau equations. By introducing the gauge invariant potentials and choosing the gauge which differs slightly from the classical Lorentz one, the theory simplifies significantly. The results gained are discussed and compared to some earlier propositions. The presented approach, when reduced to a static one, is found to be in perfect agreement with that reported recently by the Koláček group. This indicates indirectly, that the equation with the first order time derivative seems to be more justified.",
+  "authors": [
+    "J. A. Zagrodzinski",
+    "T. Nikiciuk"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0111223.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0111223.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.323287+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0111223",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

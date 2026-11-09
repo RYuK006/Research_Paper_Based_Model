@@ -1,0 +1,32 @@
+{
+  "id": "arxiv:cond-mat/0305545",
+  "title": "Influence of charge ordering on the magnetocaloric effect of (Pr,Ca)MnO$_3$ manganites",
+  "abstract": "In the present work we analyze the influence of the charge-ordering on the magnetocaloric effect of Pr$_{1-x}$Ca$_x$MnO$_3$ manganites. The results for the samples with $x<$0.30 present the usual ferromagnetic behavior, peaking at the Curie temperature T$_C$. In contrast, for the samples above the onset concentration for the charge-ordering ($x\\sim$0.30), an anomalous magnetic entropy change was observed below the charge-ordering temperature $T_{CO}$, persisting for lower temperatures. This effect is associated to a positive contribution to the magnetic entropy change due to charge-ordering, which is superimposed to the negative contribution from the spin ordering. We found that the charge-ordering component peaks at $T_N$ and is negligible above $T_{CO}$. Moreover, around T$^\\star$ (temperature below which the insulator-metal transition induced by magnetic field becomes completely irreversible, where the system remains in such state even after the external magnetic field has been removed), we found extremely large values for the magnetic entropy change, establishing a `colossal' magnetocaloric effect on CMR manganites.",
+  "authors": [
+    "M. S. Reis",
+    "V. S. Amaral",
+    "J. P. Araujo",
+    "P. B. Tavares",
+    "A. M. Gomes",
+    "I. S. Oliveira"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0305545.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0305545.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.653957+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0305545",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.str-el"
+    ]
+  }
+}

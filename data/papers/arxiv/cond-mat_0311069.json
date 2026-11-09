@@ -1,0 +1,35 @@
+{
+  "id": "arxiv:cond-mat/0311069",
+  "title": "STM observation of electronic wave interference effect in finite-sized graphite with dislocation-network structures",
+  "abstract": "Superperiodic patterns near a step edge were observed by STM on several-layer-thick graphite sheets on a highly oriented pyrolitic graphite substrate, where a dislocation network is generated at the interface between the graphite overlayer and the substrate. Triangular- and rhombic-shaped periodic patterns whose periodicities are around 100 nm were observed on the upper terrace near the step edge. In contrast, only outlines of the patterns similar to those on the upper terrace were observed on the lower terrace. On the upper terrace, their geometrical patterns gradually disappeared and became similar to those on the lower terrace without any changes of their periodicity in increasing a bias voltage. By assuming a periodic scattering potential at the interface due to dislocations, the varying corrugation amplitudes of the patterns can be understood as changes in LDOS as a result of the beat of perturbed and unperturbed waves, i.e. the interference in an overlayer. The observed changes in the image depending on an overlayer height and a bias voltage can be explained by the electronic wave interference in the ultra-thin overlayer distorted under the influence of dislocation-network structures.",
+  "authors": [
+    "Yousuke Kobayashi",
+    "Kazuyuki Takai",
+    "Ken-ichi Fukui",
+    "Toshiaki Enoki",
+    "Kikuo Harigaya",
+    "Yutaka Kaburagi",
+    "Yoshihiro Hishiyama"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevB.69.035418",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.mes-hall",
+    "physics.chem-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0311069.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0311069.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.121775+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0311069",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.mes-hall",
+      "physics.chem-ph"
+    ]
+  }
+}

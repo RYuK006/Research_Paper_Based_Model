@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0306278",
+  "title": "Self-energy-functional approach: Analytical results and the Mott-Hubbard transition",
+  "abstract": "The self-energy-functional approach proposed recently is applied to the single-band Hubbard model at half-filling to study the Mott-Hubbard metal-insulator transition within the most simple but non-trivial approximation. This leads to a mean-field approach which is interesting conceptually: Trial self-energies from a two-site single-impurity Anderson model are used to evaluate an exact and general variational principle. While this restriction of the domain of the functional represents a strong approximation, the approach is still thermodynamically consistent by construction and represents a conceptual improvement of the ``linearized DMFT'' which has been suggested previously as a handy approach to study the critical regime close to the transition. It turns out that the two-site approximation is able to reproduce the complete (zero and finite-temperature) phase diagram for the Mott transition. For the critical point at T=0, the entire calculation can be done analytically. This calculation elucidates different general aspects of the self-energy-functional theory. Furthermore, it is shown how to deal with a number of technical difficulties which appear when the self-energy functional is evaluated in practice.",
+  "authors": [
+    "M. Potthoff"
+  ],
+  "year": 2003,
+  "doi": "10.1140/epjb/e2003-00352-7",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0306278.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0306278.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.892366+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0306278",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0302407",
+  "title": "A Numerical Study of Evanescent Fields in Backward-Wave Slabs",
+  "abstract": "Numerical study of evanescent fields in an isotropic backward-wave (BW) (double negative or \"left-handed\") slab is performed with the FDTD method. This system is expected to be able to restore all spatial Fourier components of the spectrum of a planar source, including evanescent fields, realizing a \"superlens\". The excitation of surface modes on the interfaces of the slab, which is the key process responsible for the sub-wavelength focusing, is numerically confirmed and the time-domain field behavior is studied. In particular, a numerical verification of the amplification of evanescent modes by an isotropic BW slab with epsilon=mu=-1 is provided.",
+  "authors": [
+    "M. K. Karkkainen",
+    "S. A. Tretyakov",
+    "S. I. Maslovski",
+    "P. A. Belov"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0302407.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0302407.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.884946+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0302407",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0401089",
+  "title": "Renormalization of the electron-phonon coupling in the one-band Hubbard model",
+  "abstract": "We investigate the effect of electronic correlations on the coupling of electrons to Holstein phonons in the one-band Hubbard model. We calculate the static electron-phonon vertex within linear response of Kotliar-Ruckenstein slave-bosons in the paramagnetic saddle-point approximation. Within this approach the on-site Coulomb interaction U strongly suppresses the coupling to Holstein phonons at low temperatures. Moreover the vertex function does not show particularly strong forward scattering. Going to larger temperatures kT\\sim t we find that after an initial decrease with U, the electron-phonon coupling starts to increase with U, confirming a recent result of Cerruti, Cappelluti, and Pietronero. We show that this behavior is related to an unusual reentrant behavior from a phase separated to a paramagnetic state upon decreasing the temperature.",
+  "authors": [
+    "Erik Koch",
+    "Roland Zeyher"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevB.70.094510",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0401089.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0401089.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.909155+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0401089",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

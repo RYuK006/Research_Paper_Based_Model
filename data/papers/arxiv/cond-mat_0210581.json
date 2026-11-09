@@ -1,0 +1,34 @@
+{
+  "id": "arxiv:cond-mat/0210581",
+  "title": "Anisotropic and incommensurate spin fluctuations in hcp iron and some other nearly magnetic metals",
+  "abstract": "We present an ab initio theoretical formalism for the static paramagnetic spin susceptibility of metals at finite temperatures. Since relativistic effects, e.g. spin-orbit coupling, are included, we can identify the anisotropy or easy axes of the spin fluctuations. Our calculations find hcp-iron to be unstable to in ab-plane, incommensurate anti-ferromagnetic (AFM) modes (linked to nested Fermi surface) below T_N =69K for the lowest pressures under which it is stable. T_N swiftly drops to zero as the pressure is increased. The calculated susceptibility of yttrium is consistent with the helical, incommensurate AFM order found in many rare-earth-dilute yttrium alloys. Lastly, in line with experimental data, we find the easy axes of the incommensurate AFM and ferromagnetic spin fluctuations of the normal state of the triplet superconductor Sr2RuO4 to be perpendicular and parallel with the crystal c-axis resepctively.",
+  "authors": [
+    "V. Thakor",
+    "J. B. Staunton",
+    "J. Poulter",
+    "S. Ostanin",
+    "B. Ginatempo",
+    "Ezio Bruno"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.str-el",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0210581.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0210581.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.495684+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0210581",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ]
+  }
+}

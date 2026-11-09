@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0405618",
+  "title": "Magnetic droplets in a metal close to a ferromagnetic quantum critical point",
+  "abstract": "Using analytical and path integral Monte Carlo methods, we study the susceptibility $χ_{dc}(T)$ of a spin-S impurity with XY rotational symmetry embedded in a metal. Close to a ferromagnetic quantum critical point, the impurity polarizes conduction electrons in its vicinity and forms a large magnetic droplet with moment M>>S. At not too low temperatures, the strongly damping paramagnon modes of the conduction electrons suppress large quantum fluctuations (or spin flips) of this droplet. We show that the susceptibility follows the law $χ_{dc}(T)=(M^{2}/T)[1-(πg)^{-1}\\ln(gE_{0}/T)]$, where the parameter g>>1 describes the strong damping by conduction electrons, and E_0 is the bandwidth of paramagnon modes. At exponentially low temperatures T << T_{*} ~ E_{0}\\exp(-πg/2) we show that spin flips cannot be ignored. In this regime we find that $χ_{dc}(T) \\approx χ_{dc}(0) [1-(2/3)(T/T_{*})^2]$, where $χ_{dc}(0)\\sim M^{2}/T_{*}$ is finite and exponentially large in g. We also discuss these effects in the context of the multi-channel Kondo impurity model.",
+  "authors": [
+    "Y. L. Loh",
+    "V. Tripathi",
+    "M. Turlakov"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevB.71.024429",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0405618.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0405618.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.263514+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0405618",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0207004",
+  "title": "KMC-MD Investigations of Hyperthermal Copper Deposition on Cu(111)",
+  "abstract": "Detailed KMC-MD (kinetic Monte Carlo-molecular dynamics) simulations of hyperthermal energy (10-100 eV) copper homoepitaxy have revealed a re-entrant layer-by-layer growth mode at low temperatures (50K) and reasonable fluxes (1 ML/s). This growth mode is the result of atoms with hyperthermal kinetic energies becoming inserted into islands when the impact site is near a step edge. The yield for atomic insertion as calculated with molecular dynamics near (111) step edges reaches a maxima near 18 eV. KMC-MD simulations of growing films and a minima in the RMS roughness as a function of energy near 25 eV. We find that the RMS roughness saturates just beyond 0.5 ML of coverage in films grown with energies greater than 25 eV due to the onset of adatom-vacancy formation near 20 eV. Adatom-vacancy pairs increase the island nuclei density and the step edge density which increases the number of sites available to insert atoms. Smoothest growth in this regime is achieved by maximizing island and step edge densities, which consequently reverses the traditional roles of temperature and flux: low temperatures and high fluxes produce the smoothest surfaces in these films. Dramatic increases in island densities are found to persist at room temperature,where island densities increase an order of magnitude from 20 to 150 eV.",
+  "authors": [
+    "J. M. Pomeroy",
+    "J. Jacobsen",
+    "C. C. Hill",
+    "B. H. Cooper",
+    "J. P. Sethna"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0207004.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0207004.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.350053+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0207004",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0311550",
+  "title": "Structure and Phase Transitions of Alkyl Chains on Mica",
+  "abstract": "We use molecular dynamics as a tool to understand the structure and phase transitions [Osman et. al. J. Phys. Chem. B 2000, 104, 4433; 2002, 106, 653] in alkylammonium micas. The consistent force field 91 is extended for accurate simulation of mica and related minerals. We investigate mica sheets with 12 octadecyltrimethylammonium (C18) ions or 12 dioctadecyldimethylammonium (2C18) ions, respectively, as single and layered structures at different temperatures with periodicity in the xy plane by NVT dynamics. The alkylammonium ions reside preferably above the cavities in the mica surface with an aluminum-rich boundary. The nitrogen atoms are 380 to 390 pm distant to the superficial silicon-aluminum plane. With increasing temperature, rearrangements of C18 ions on the mica surface are found, while 2C18 ions remain tethered due to geometric restraints. We present basal-plane spacings in the duplicate structures, tilt angles of the alkyl chains, and gauche-trans ratios to analyze the chain conformation. Also, the individual phase transitions of the two systems on heating are explained. Where experimental data are available, the agreement is very good. We propose a geometric parameter lamba for the saturation of the surface with alkyl chains, which determines the preferred self-assembly pattern, i.e., islands, intermediate, or continuous. Lambda also determines the tilt angles in continuous layers on mica or other surfaces. The thermal decomposition appears to be a Hofmann elimination with mica as a base-template.",
+  "authors": [
+    "Hendrik Heinz",
+    "Hein J. Castelijns",
+    "Ulrich W. Suter"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0311550.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0311550.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.353053+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0311550",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

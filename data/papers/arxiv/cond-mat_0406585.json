@@ -1,0 +1,33 @@
+{
+  "id": "arxiv:cond-mat/0406585",
+  "title": "X-ray study of the liquid potassium surface: structure and capillary wave excitations",
+  "abstract": "We present x-ray reflectivity and diffuse scattering measurements from the liquid surface of pure potassium. They strongly suggest the existence of atomic layering at the free surface of a pure liquid metal with low surface tension. Prior to this study, layering was observed only for metals like Ga, In and Hg, the surface tensions of which are 5-7 fold higher than that of potassium, and hence closer to inducing an ideal \"hard wall\" boundary condition. The experimental result requires quantitative analysis of the contribution to the surface scattering from thermally excited capillary waves. Our measurements confirm the predicted form for the differential cross section for diffuse scattering, $dσ/dΩ\\sim 1/q_{xy}^{2-η}$ where $η= k_BT q_z^2/2πγ$, over a range of $η$ and $q_{xy}$ that is larger than any previous measurement. The partial measure of the surface structure factor that we obtained agrees with computer simulations and theoretical predictions.",
+  "authors": [
+    "Oleg Shpyrko",
+    "Patrick Huber",
+    "Peter S. Pershan",
+    "Holger Tostmann",
+    "Alexei Grigoriev",
+    "Ben Ocko",
+    "Moshe Deutsch"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevB.67.115405",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0406585.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0406585.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.613912+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0406585",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

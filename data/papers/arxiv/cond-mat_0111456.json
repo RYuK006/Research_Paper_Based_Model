@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0111456",
+  "title": "Vortex Motion Noise in Micrometre-Sized Thin Films of the Amorphous Nb0.7Ge0.3 Weak-Pinning Superconductor",
+  "abstract": "We report high-resolution measurements of voltage (V) noise in the mixed state of micrometre-sized thin films of amorphous Nb0.7Ge0.3, which is a good representative of weak-pinning superconductors. There is a remarkable difference between the noise below and above the irreversibility field Birr. Below Birr, in the presence of measurable pinning, the noise at small applied currents resembles shot noise, and in the regime of flux flow at larger currents decreases with increasing voltage due to a progressive ordering of the vortex motion. At magnetic fields B between Birr and the upper critical field Bc2 flux flow is present already at vanishingly small currents. In this regime the noise scales with (1-B/Bc2)^2 V^2 and has a frequency (f) spectrum of 1/f type. We interpret this noise in terms of the properties of strongly driven depinned vortex systems at high vortex density.",
+  "authors": [
+    "D. Babic",
+    "T. Nussbaumer",
+    "C. Strunk",
+    "C. Schoenenberger",
+    "C. Suergers"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0111456.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0111456.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.417057+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0111456",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

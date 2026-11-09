@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0210080",
+  "title": "Néel and Spin-Peierls ground states of two-dimensional SU(N) quantum antiferromagnets",
+  "abstract": "The two-dimensional SU(N) quantum antiferromagnet, a generalization of the quantum Heisenberg model, is investigated by quantum Monte Carlo simulations. The ground state for $N\\le 4$ is found to be of the Néel type with broken SU(N) symmetry, whereas it is of the Spin-Peierls type for $N\\ge 5$ with broken lattice translational invariance. No intermediate spin-liquid phase was observed in contrast to previous numerical simulations on smaller lattices [Santoro et al., Phys. Rev. Lett. {\\bf 83} 3065 (1999)].",
+  "authors": [
+    "Kenji Harada",
+    "Naoki Kawashima",
+    "Matthias Troyer"
+  ],
+  "year": 2002,
+  "doi": "10.1103/PhysRevLett.90.117203",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0210080.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0210080.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.260367+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0210080",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

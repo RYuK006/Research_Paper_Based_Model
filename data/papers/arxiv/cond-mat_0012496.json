@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0012496",
+  "title": "Solitary waves and supersonic reaction front in metastable solids",
+  "abstract": "Motivated by an increasing number of remarkable experimental observations on the role of pressure and shear stress in solid reactions,explosions and detonations,we present a simple toy model that embodies nonlinear elasticity and dispersion as well as chemical or phase transformation.This generalization of the Toda Lattice provides an effective model for the description of the organization during an abrupt transformation in a solid.One of the challenges is to capture both the equilibrium degrees of freedom as well as to quantify the possible role of out-of-equilibrium perturbations.In the Toda Lattice,we verify that the particle velocities converge in distribution towards the Maxwell-Boltzmann distribution,thus allowing us to define a bona-fide temperature.In addition,the balance between nonlinearity and wave dispersion may create solitary waves that act as energy traps.In the presence of reactive chemistry,we show that the trapping of the released chemical energy in solitary waves that are excited by an initial perturbation provides a positive feedback that enhances the reaction rate and leads to supersonic explosion front propagation.These modes of rupture observed in our model may provide a first-order description of ultrafast reactions of heterogeneous mixtures under mechanical loading.",
+  "authors": [
+    "Hendrik J. Viljoen",
+    "Lee L. Lauderback",
+    "D. Sornette"
+  ],
+  "year": 2000,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0012496.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0012496.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:04.420242+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0012496",
+    "categories": [
+      "cond-mat.stat-mech"
+    ]
+  }
+}

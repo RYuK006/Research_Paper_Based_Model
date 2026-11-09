@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0108161",
+  "title": "Extraordinary Hall effect in hybrid ferromagnetic/superconductor (F/S) bilayer",
+  "abstract": "Extraordinary Hall effect (EHE) in bilayer F/S(N) was investigated theoretically. The conductivity tensor $σ_{αβ}$ is calculated in the Kubo formalism with Green functions found as the solutions of the Gorkov equations. We considered diffuse transport in the ferromagnetic layer, taking into account as a main mechanism of electron resistivity s-d scattering. In this model Gorkov equations for s-electrons in the ferromagnetic layer remain linear and are solved easily. It is shown that Hall field $E^H$ for both F/S and F/N contacts are step-functions of the coordinate perpendicular to the planes of the layers and have zero value in S(N) layer. The Andreev reflection increases the value of Hall constant $R_s$ for F/S case. The value of the Hall constant is $R_H^{F/S} = R_H^{bulk} (σ^{\\uparrow} + σ^{\\downarrow})^2 / 4 σ^{\\uparrow}σ^{\\downarrow}$, where $σ^{\\uparrow}$ and $σ^{\\downarrow}$ are conductivities of electrons with up and down spins, and $R_H^{bulk}$ is the Hall constant in the bulk ferromagnetic metal. In fact, $R_H^{F/S}$ coincides with EHE constant of the bilayer of two ferromagnetic metals with equal thickness and opposite directions of their magnetizations. So we can make a conclusion, that the ideal interface between ferromagnetic metal and superconductor may be considered like a mirror with inversion in spin space.",
+  "authors": [
+    "N. Ryzhanova",
+    "B. Dieny",
+    "C. Lacroix",
+    "N. Strelkov",
+    "A. Vedyayev"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0108161.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0108161.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.194827+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0108161",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.supr-con"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0203260",
+  "title": "Exact enumeration of the Critical States in the Oslo Model",
+  "abstract": "We determine analytically the number $N_{\\mathcal{R}}(L)$ of recurrent states in the 1d Oslo model as a function of system size L. The solution $N_{\\mathcal{R}}(L) = \\frac{1+\\sqrt{5}}{2\\sqrt{5}}(\\frac{3+\\sqrt{5}}{2})^L + \\frac{\\sqrt{5}-1}{2\\sqrt{5}}(\\frac{3-\\sqrt{5}}{2})^L$ is in exact agreement with the number enumerated in computer simulations for $L = 1 - 10$. For $L \\gg 1$, the number of allowed metastable states in the attractor increases exponentially as $N_{\\mathcal{R}}(L) \\approx c_+ λ_+^L$, where $λ_+ = \\frac{3+\\sqrt{5}}{2}$ is the golden mean. The system is non-ergodic in the sense that the states in the attractor are not equally probable.",
+  "authors": [
+    "Alvin Chua",
+    "Kim Christensen"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0203260.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0203260.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.207133+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0203260",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

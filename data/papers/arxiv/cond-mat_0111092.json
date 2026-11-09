@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0111092",
+  "title": "Spin injection and spin accumulation in permalloy-copper mesoscopic spin valves",
+  "abstract": "We study the electrical injection and detection of spin currents in a lateral spin valve device, using permalloy (Py) as ferromagnetic injecting and detecting electrodes and copper (Cu) as non-magnetic metal. Our multi-terminal geometry allows us to experimentally distinguish different magneto resistance signals, being 1) the spin valve effect, 2) the anomalous magneto resistance (AMR) effect and 3) Hall effects. We find that the AMR contribution of the Py contacts can be much bigger than the amplitude of the spin valve effect, making it impossible to observe the spin valve effect in a 'conventional' measurement geometry. However, these 'contact' magneto resistance signals can be used to monitor the magnetization reversal process, making it possible to determine the magnetic switching fields of the Py contacts of the spin valve device. In a 'non local' spin valve measurement we are able to completely isolate the spin valve signal and observe clear spin accumulation signals at T=4.2 K as well as at room temperature. We obtain spin diffusion lengths in copper of 1 micrometer and 350 nm at T=4.2 K and room temperature respectively.",
+  "authors": [
+    "F. J. Jedema",
+    "M. S. Nijboer",
+    "A. T. Filip",
+    "B. J. van Wees"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0111092.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0111092.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.275599+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0111092",
+    "categories": [
+      "cond-mat.mes-hall"
+    ]
+  }
+}

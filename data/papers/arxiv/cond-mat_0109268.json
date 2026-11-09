@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0109268",
+  "title": "Bose-Einstein Condensation and The Lambda Transition in Liquid Helium",
+  "abstract": "Integrating seminal ideas of London, Feynman, and Feenberg, this paper continues the development of an ab initio theory of the lambda transition in liquid 4He. The theory is based on variational determination of a trial density matrix suitable for description of both normal and superfluid phases, which includes the effects both of temperature-dependent dynamical correlations and of statistical correlations corresponding to thermal phonon-roton and quasiparticle/quasihole excitations - all at the level of two-point descriptors. A full functional minimization of the associated free energy is performed through solution of a coupled set of Euler-Lagrange equations. Violation of particle-hole exchange symmetry emerges as a crucial aspect of the lambda transition, along with broken gauge symmetry. In conjunction with a semi-phenomenological study in which renormalized effective masses are introduced for quasiparticle/quasihole excitations, the results suggest that a quantitative description can be achieved once the trial density matrix is modified to include backflow effects and allow for ab initio treatment of important variations in effective masses.",
+  "authors": [
+    "T. Lindenau",
+    "M. L. Ristig",
+    "J. W. Clark",
+    "K. A. Gernoth"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0109268.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0109268.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.430717+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0109268",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

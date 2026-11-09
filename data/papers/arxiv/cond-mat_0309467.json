@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0309467",
+  "title": "Shot Noise in Mesoscopic Diffusive Andreev Wires",
+  "abstract": "We study shot noise in mesoscopic diffusive wires between a normal and a superconducting terminal. We particularly focus on the regime, in which the proximity-induced reentrance effect is important. We will examine the difference between a simple Boltzmann-Langevin description, which neglects induced correlations beyond the simple conductivity correction, and a full quantum calculation. In the latter approach, it turns out that two Andreev pairs propagating coherently into the normal metal are anti-correlated for E<E_c, where E_c=D/L^2 is the Thouless energy. In a fork geometry the flux-sensitive suppression of the effective charge was confirmed experimentally.",
+  "authors": [
+    "Wolfgang Belzig"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0309467.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0309467.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:46.132164+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0309467",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.supr-con"
+    ]
+  }
+}

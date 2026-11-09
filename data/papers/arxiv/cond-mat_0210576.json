@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0210576",
+  "title": "Statistics of lowest droplets in two-dimensional Gaussian Ising spin glasses",
+  "abstract": "A new approach to determine the value of the zero-temperature thermal exponent theta in spin glasses is presented. It consists in describing the energy level spectrum in spin glasses only in terms of the properties of the lowest energy droplets and the lowest droplet exponents (LDEs) lambda_l,theta_l that describe the statistics of their sizes and gaps. We show how these LDEs yield the standard thermal exponent of droplet theory theta through the relation, theta=theta_l+d*lambda_l. The present approach provides a new way to measure the thermal exponent theta without any assumption about the correct procedure to generate typical low-lying excitations as is commonly done in many perturbation methods including domain wall calculations. To illustrate the usefulness of the method we present a detailed investigation of the properties of the lowest energy droplets in two-dimensional Gaussian Ising spin glasses. By independent measurements of both LDEs and an aspect-ratio analysis, we find theta(2d) ~- 0.46(1)< theta_{DW}(2d) ~- 0.287 where theta_{DW} is the thermal exponent obtained in domain-wall theory. We also discuss the origin of finite-volume corrections in the behavior of the LDE theta_l and relate them to the finite-volume corrections in the statistics of extreme values. All in all, we show that typical large-scale droplets are not probed by most of the present perturbation methods as they probably do not have a compact structure as has been recently suggested.",
+  "authors": [
+    "Picco Marco",
+    "Ritort Felix",
+    "Sales Marta"
+  ],
+  "year": 2002,
+  "doi": "10.1103/PhysRevB.67.184421",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0210576.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0210576.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.493086+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0210576",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

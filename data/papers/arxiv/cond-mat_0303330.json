@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0303330",
+  "title": "Dynamics of magnetic moments of a nanoscopic array",
+  "abstract": "Dynamics of nanoscopic arrays of monodomain magnetic elements is simulated by means of the Pardavi-Horvath algorithm. Experimental hysteresis loop is reproduced for the arrays of Ni, with the period 100 nm and the mean coercive field 710 Oe.We investigate the box-counting fractal dimension of a cluster of elements with given orientation of magnetic moments. No fractal behavior is found. Also, the damage spreading technique is applied to check the criticality. We find that the consequences of a local flip of one magnetic element remainlimited to a finite area. We conclude that the system does not show a critical behavior.",
+  "authors": [
+    "A. Kaczanowski",
+    "K. Malarz",
+    "K. Kulakowski"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0303330.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0303330.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:11.100782+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0303330",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

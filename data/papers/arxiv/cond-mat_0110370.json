@@ -1,0 +1,34 @@
+{
+  "id": "arxiv:cond-mat/0110370",
+  "title": "Comparable system-level organization of Archaea and Eukaryotes",
+  "abstract": "A central and long-standing issue in evolutionary theory is the origin of the biological variation upon which natural selection acts1. Some hypotheses suggest that evolutionary change represents an adaptation to the surrounding environment within the constraints of an organism's innate characteristics. Elucidation of the origin and evolutionary relationship of species has been complemented by nucleotide sequence and gene content analyses, with profound implications for recognizing life's major domains. Understanding of evolutionary relationships may be further expanded by comparing systemic higher-level organization among species. Here we employ multivariate analyses to evaluate the biochemical reaction pathways characterizing 43 species. Comparison of the information transfer pathways of Archaea and Eukaryotes indicates a close relationship between these domains. In addition, whereas eukaryotic metabolic enzymes are primarily of bacterial origin, the pathway-level organization of archaeal and eukaryotic metabolic networks is more closely related. Our analyses therefore suggest that during the symbiotic evolution of eukaryotes, incorporation of bacterial metabolic enzymes into the proto-archaeal proteome was constrained by the host's pre-existing metabolic architecture.",
+  "authors": [
+    "J. Podani",
+    "Z. N. Oltvai",
+    "H. Jeong",
+    "B. Tombor",
+    "A. -L. Barabasi",
+    "E. Szathmary"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.dis-nn",
+    "q-bio"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0110370.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0110370.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.712058+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0110370",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.dis-nn",
+      "q-bio"
+    ]
+  }
+}

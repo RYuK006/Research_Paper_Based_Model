@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0111015",
+  "title": "To the problem of electron-phonon interaction and \"d-wave pairing\" in high-Tc oxides",
+  "abstract": "It is supported a recent proposal by Maksimov that electron-phonon interaction (EPI) (Gruneisen-Bloch formulae) determines the linearity of temperature dependence of resistivity for both HTSC-cuprates and most of metals at T near above 0.2 of their characteristic Debye temperature (normal state for HTSC). However, it is emphasized here that in this T-region the resistivity is not proportional to T but is only linear in T. This fact indicates to T-independent contribution to normal-state resistivity in HTSC-cuprates (magnetic contribution, in our treatment) which behavior, in its turn, indicates to possible magnetic (SDW-like) phase transition before SC transition in HTSC-system. SDW-gap (measured as pseudogap with d-wave symmetry, in our treatment) is formed at the symmetrical parts of the Fermi surface above Tc and persists in SC state. The magnitude of SDW-gap is essentially larger than that for SC-gap. So, SDW formed can mimic d-wave symmetry of the order parameter measured below Tc (which is now attributed to d-wave pairing). On the other hand, since the Gruneisen-Bloch curve appears to be (in approach used) a geometric locus for the Tc(onset)(H) (as in LTSC) this fact evidents about EPI-nature (BCS) of SC transition (s-wave) in high-Tc oxides. The proposal to increase Tc using above (SDW/CDW/SC) model (and possible realization) is presented.",
+  "authors": [
+    "L. S. Mazov"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0111015.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0111015.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.254973+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0111015",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

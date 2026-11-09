@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0110110",
+  "title": "Finite viscoelasticity of filled rubbers: experiments and numerical simulation",
+  "abstract": "Constitutive equations are derived for the viscoelastic behavior of particle-reinforced rubbers at isothermal loading with finite strains. A filled rubber is thought of as a composite medium where inclusions with high and low concentrations of junctions between chains are randomly distributed in a host matrix. The inclusions with high concentration of junctions are associated with regions of suppressed mobility of chains that surround isolated clusters of filler and its secondary network. The regions with low concentration of junctions arise during the mixing process due to the inhomogeneity in spatial distribution of a cross-linker. The viscoelastic response of elastomers is ascribed to the thermally activated processes of breakage and reformation of strands in the domains with low concentration of junctions. Stress-strain relations for particle-reinforced rubbers are developed by using the laws of thermodynamics. Adjustable parameters in the constitutive equations are found by fitting experimental data in tensile relaxation tests for several grades of unfilled and carbon black (CB) filled rubber. It is demonstrated that the relaxation rate is noticeably affected by strains. Unlike glassy polymers, where the growth of longitudinal strain results in an increase in the rate of relaxation, the growth of the elongation ratio for natural rubber (unfilled or CB reinforced) implies a decrease in the relaxation rate, which may be explained by partial crystallization of chains in the regions with low concentration of junctions.",
+  "authors": [
+    "Aleksey D. Drozdov",
+    "Al Dorfmann"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0110110.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0110110.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.566418+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0110110",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

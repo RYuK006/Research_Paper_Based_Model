@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0104098",
+  "title": "On the possibility of superconductivity at higher temperatures in sp-valent diborides",
+  "abstract": "Superconducting transition temperatures ($T_c$'s) of MgB$_2$, Mg$_{1-x}$Ca$_x$B$_2$, Mg$_{1-x}$Na$_x$B$_2$, and Mg$_{1-x}$Al$_x$B$_2$ are studied within the McMillan approximation using electronic and structural information obtained from density functional theory within the generalized gradient approximation. The density of states and $T_c$ of MgB$_2$ are both shown to be extremely sensitive to volume; in fact the density of states around the Fermi level is found to rise with increasing volume because of a prominent van Hove peak. Doping the Mg sublattice with small amounts of either Ca, which substantially increases the unit cell volume, or Na, which removes an electron from the unit cell while likewise increasing its volume, shifts the Fermi level toward the peak and thus both types of doping are predicted to enhance $T_c$; in Mg$_{1-x}$Al$_x$B$_2$, however, the combined effects of the additional electron and decreasing average unit cell volume are shown to decrease $T_c$ with increasing Al concentration, consistent with recent experiments.",
+  "authors": [
+    "J. B. Neaton",
+    "A. Perali"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0104098.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0104098.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.241674+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0104098",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

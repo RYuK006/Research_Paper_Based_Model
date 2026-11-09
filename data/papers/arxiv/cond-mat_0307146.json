@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0307146",
+  "title": "Analysis of weak elasticity of nematic solids using a continuum approach",
+  "abstract": "This paper formally analyses effects of nematic weak elasticity using the five parametric de Gennes (DG) potential. The analysis is trivialized in a specific (local) Cartesian coordinate system whose one axis is directed along the initial director. We demonstrate that depending on closeness of material parameters to the marginal stability conditions, DG potential describes the entire variety of soft, semi-soft and harder behaviours of weakly elastic nematic solids. We found that along with known shearing soft modes, additional soft stretching mode acting along the director may also exist. For stress tensor components, we proved a theorem of special rotational invariance that is closed to rotational invariance principle postulated by Olmsted. When the only shearing modes are soft, stress tensor is symmetric and DG potential scaled with isotropic shear modulus is reduced to a one-parametric, only strain dependent nematic potential. When additionally the stretching mode is also soft, this dimensionless, strain dependent nematic potential has no additional parameters and shows that the free energy is always less than that in isotropic phase.",
+  "authors": [
+    "A. I. Leonov",
+    "V. S. Volkov"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0307146.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0307146.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.224172+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0307146",
+    "categories": [
+      "cond-mat.soft"
+    ]
+  }
+}

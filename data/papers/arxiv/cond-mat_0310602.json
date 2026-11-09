@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0310602",
+  "title": "Characterization of the electronic properties of YB$_4$ and YB$_6$ using $^{11}$B NMR and first-principles calculations",
+  "abstract": "Two compounds, tetragonal YB$_4$ and cubic YB$_6$, have been investigated by electric-field gradient (EFG) and Knight shift measurements at the boron sites using the $^{11}$B nuclear magnetic resonance (NMR) technique and by performing first-principles calculations. In YB$_6$ $^{11}$B ($I=3/2$) NMR spectra reveal patterns typical for an axially symmetric field gradient with a quadrupole coupling frequency of $ν_Q=600\\pm15$ kHz. In the second boride (YB$_4$) three different EFGs were observed corresponding to the three inequivalent crystallographic sites for the boron atoms ($4h$, $4e$, and $8j$). They correspond to: $ν_Q(4h)=700\\pm30$ kHz with an asymmetry parameter $η=0.02\\pm0.02$, $ν_Q(4e)=515\\pm30$ kHz, $η=0.00+0.02/-0.00$, and $ν_Q(8j)=515\\pm40$ kHz, $η=0.46\\pm0.08$. The Knight shifts measured by Magic-Angle Spinning (MAS) NMR at room temperature are very small being $0.6\\pm8$ ppm and $-1\\pm8$ ppm for YB$_4$ and YB$_6$, respectively. For the theoretical calculations structure optimizations were performed as a first step. For the obtained structural parameters the EFGs were computed within the local-density approximation. Very satisfactory agreement between experimental and theoretical results is obtained both for the structural parameters and the B EFGs thus confirming the underlying structural models. In addition to the EFGs, band structures, densities of states, and valence-electron densities are presented and the bonding situation in the two yttrium borides is discussed. The band-structure results are compatible with the very low values for the Knight shifts mentioned above.",
+  "authors": [
+    "B. Jäger",
+    "S. Paluch",
+    "W. Wolf",
+    "P. Herzig",
+    "O. J. Żogał",
+    "N. Shitsevalova",
+    "Y. Paderno"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0310602.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0310602.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:14.982838+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0310602",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0209490",
+  "title": "Inelastic impact of a sphere on a massive plane: nonmonotonic velocity-dependence of the restitution coefficient",
+  "abstract": "We have studied the coefficient of restitution, $η$, in normal collisions of a non-rotating sphere on a massive plate for a range of material parameters, impact velocity and sphere size. The measured coefficient of restitution does not monotonically vary with velocity. This effect is due to dynamics that occur during the finite duration of impact: the contact time varies as a function of velocity is comparable to the time-scales of the vibrational modes of the plate. The measured effect is robust and is expected to be ubiquitous in fluidized granular media. We also find that $η$ is a decreasing function of particle size, a dependence that is not captured by existing models of impact.",
+  "authors": [
+    "Hunter King",
+    "Ryan White",
+    "Iva Maxwell",
+    "Narayanan Menon"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0209490.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0209490.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.115075+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0209490",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0111300",
+  "title": "Density functional calculations for III-V diluted ferromagnetic semiconductors: A Review",
+  "abstract": "In this paper we review the latest achievements of density functional theory in understanding the physics of diluted magnetic semiconductors. We focus on transition metal doped III-V semiconductors, which show spontaneous ferromagnetic order at relatively high temperature and good structural compatibility with existing III-V devices. We show that density functional theory is a very powerful tool for i) studying the effects of local doping defects and disorder on the magnetic properties of these materials, ii) predicting properties of new materials and iii) providing parameters, often not accessible from experiments, for use in model Hamiltonian calculations. Such studies are facilitated by recent advances in numerical implementations of density functional theory, which make the study of systems with a very large number of atoms possible.",
+  "authors": [
+    "S. Sanvito",
+    "G. Theurich",
+    "N. A. Hill"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0111300.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0111300.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.355476+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0111300",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.mes-hall"
+    ]
+  }
+}

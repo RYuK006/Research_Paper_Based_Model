@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0209437",
+  "title": "Stripe fractionalization I: the generation of Ising local symmetry",
+  "abstract": "This is part one in a series of two papers dedicated to the notion that the destruction of the topological order associated with stripe phases is about the simplest theory controlled by local symmetry: Ising gauge theory. This first part is intended to be a tutorial- we will exploit the simple physics of the stripes to vividly display the mathematical beauty of the gauge theory. Stripes, as they occur in the cuprates, are clearly `topological' in the sense that the lines of charges are at the same time domain walls in the antiferromagnet. Imagine that the stripes quantum melt so that all what seems to be around is a singlet superconductor. What if this domain wall-ness is still around in a delocalized form? This turns out to be exactly the kind of `matter' which is described by the Ising gauge theory. The highlight of the theory is the confinement phenomenon, meaning that when the domain wall-ness gives up it will do so in a meat-and-potato phase transition. We suggest that this transition might be the one responsible for the quantum criticality in the cuprates. In part two, we will become more practical, arguing that another phase is possible according to the theory. It might be that this quantum spin-nematic has already been observed in strongly underdoped LSCO.",
+  "authors": [
+    "Z. Nussinov",
+    "J. Zaanen"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0209437.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0209437.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.078568+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0209437",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

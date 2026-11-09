@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0404166",
+  "title": "Numerical calculations of effective elastic properties of two cellular structures",
+  "abstract": "Young's moduli of regular two-dimensional truss-like and eye-shape-like structures are simulated by using the finite element method. The structures are the idealizations of soft polymeric materials used in the electret applications. In the simulations size of the representative smallest units are varied, which changes the dimensions of the cell-walls in the structures. A power-law expression with a quadratic as the exponential term is proposed for the effective Young's moduli of the systems as a function of the solid volume fraction. The data is divided into three regions with respect to the volume fraction; low, intermediate and high concentrations. The parameters of the proposed power-law expression in each region are later represented as a function of the structural parameters, unit-cell dimensions. The presented expression can be used to predict structure/property relationship in materials with similar cellular structures. It is observed that the structures with volume fractions of solid higher than 0.15 exhibit the importance of the cell-wall thickness contribution in the elastic properties. The cell-wall thickness is the most significant factor to predict the effective Young's modulus of regular cellular structures at high volume fractions of solid. At lower concentrations of solid, eye-like structure yields lower Young's modulus than the truss-like structure with the similar anisotropy. Comparison of the numerical results with those of experimental data of poly(propylene) show good aggreement regarding the influence of cell-wall thickness on elastic properties of thin cellular films.",
+  "authors": [
+    "Enis Tuncer"
+  ],
+  "year": 2004,
+  "doi": "10.1088/0022-3727/38/3/023",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0404166.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0404166.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:46.683591+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0404166",
+    "categories": [
+      "cond-mat.soft"
+    ]
+  }
+}

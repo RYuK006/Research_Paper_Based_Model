@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0209336",
+  "title": "Calculations of Optical Properties in Strongly Correlated Materials",
+  "abstract": "We present a new method to calculate optical properties of strongly correlated systems. It is based on dynamical mean field theory and it uses as an input realistic electronic structure obtained by local density functional calculations. Numerically tractable equations for optical conductivity, which show a correct non-interacting limit, are derived. Illustration of the method is given by computing optical properties of the doped Mott insulator La_{1-x}Sr_xTiO_3.",
+  "authors": [
+    "V. S. Oudovenko",
+    "G. Palsson",
+    "K. Haule",
+    "S. Y. Savrasov",
+    "G. Kotliar"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0209336.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0209336.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.048266+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0209336",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

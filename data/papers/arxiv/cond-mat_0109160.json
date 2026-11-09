@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0109160",
+  "title": "Non-Relativistic Electron Transport in Metals: A Monte Carlo Approach",
+  "abstract": "A simple Monte Carlo procedure is described for simulating the multiple scattering and absorption of electrons with the incident energy in the range 1-50 keV moving through a slab of uniformly distributed material of given atomic number, density and thickness. The simulation is based on a screened Rutherford cross-section and Bethe continuous energy-loss equation. A FORTRAN program is written to determine backscattering, transmission and absorption coefficients, providing the user with a graphical output of the electron trajectories. The results of several simulations are presented by using various numbers of electrons, showing a good agreement with the experiment. The program is used to analyze the relation between the energy and the range of electron in the slab, the backscattering, absorption, transmission coefficients and the angular distribution.",
+  "authors": [
+    "Nima Ghal-eh",
+    "Mohammad Farhad Rahimi",
+    "Mehrnoush Manouchehri"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0109160.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0109160.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.387239+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0109160",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

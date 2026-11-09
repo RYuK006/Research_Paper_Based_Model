@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0402381",
+  "title": "Density of states in d-wave superconductors of finite size",
+  "abstract": "We consider the effect of the finite size in the ab-plane on the surface density of states (DoS) in clean d-wave superconductors. In the bulk, the DoS is gapless along the nodal directions, while the presence of a surface leads to formation of another type of the low-energy states, the midgap states with zero energy. We demonstrate that finiteness of the superconductor in one of dimensions provides the energy gap for all directions of quasiparticle motion except for θ=45 degrees (θis the angle between the trajectory and the surface normal); then the angle-averaged DoS behaves linearly at small energies. This result is valid unless the crystal is 0- or 45-oriented (α\\ne 0 or 45 degrees, where αis the angle between the a-axis and the surface normal). In the special case of α=0, the spectrum is gapped for all trajectories θ; the angle-averaged DoS is also gapped. In the special case of α=45, the spectrum is gapless for all trajectories θ; the angle-averaged DoS is then large at low energies. In all the cases, the angle-resolved DoS consists of energy bands that are formed similarly to the Kronig-Penney model. The analytical results are confirmed by a self-consistent numerical calculation.",
+  "authors": [
+    "Ya. V. Fominov",
+    "A. A. Golubov"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevB.70.212513",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0402381.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0402381.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.361787+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0402381",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.mes-hall"
+    ]
+  }
+}

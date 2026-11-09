@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0303323",
+  "title": "New algorithm for the computation of the partition function for the Ising model on a square lattice",
+  "abstract": "A new and efficient algorithm is presented for the calculation of the partition function in the $S=\\pm 1$ Ising model. As an example, we use the algorithm to obtain the thermal dependence of the magnetic spin susceptibility of an Ising antiferromagnet for a $8\\times 8$ square lattice with open boundary conditions. The results agree qualitatively with the prediction of the Monte Carlo simulations and with experimental data and they are better than the mean field approach results. For the $8\\times 8$ lattice, the algorithm reduces the computation time by nine orders of magnitude.",
+  "authors": [
+    "K. Malarz",
+    "M. S. Magdon-Maksymowicz",
+    "A. Z. Maksymowicz",
+    "B. Kawecka-Magiera",
+    "K. Kulakowski"
+  ],
+  "year": 2003,
+  "doi": "10.1142/S012918310300484X",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0303323.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0303323.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:11.097139+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0303323",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0209214",
+  "title": "Ground state and bias current induced rearrangement of semifluxons in 0-pi long Josephson junctions",
+  "abstract": "We investigate numerically a long Josephson junction with several phase pi-discontinuity points. Such junctions are usually fabricated as a ramp between an anisotropic cuprate superconductor like YBCO and an isotropic metal superconductor like Nb. From the top, they look like zigzags with pi-jumps of the Josephson phase at the corners. These pi-jumps, at certain conditions, lead to the formation of half-integer flux quanta, which we call semifluxons (SF), pinned at the corners. We show (a) that the spontaneous formation of SFs depends on the junction length, (b) that the ground state without SFs can be converted to a state with SFs by applying a bias current, (c) that the SF configuration can be rearranged by the bias current. All these effects can be observed using a SQUID microscope.",
+  "authors": [
+    "E. Goldobin",
+    "D. Koelle",
+    "R. Kleiner"
+  ],
+  "year": 2002,
+  "doi": "10.1103/PhysRevB.67.224515",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0209214.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0209214.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:08.999912+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0209214",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

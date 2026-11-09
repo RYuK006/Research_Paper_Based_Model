@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0209505",
+  "title": "Many-body dipole-induced dipole model for electrorheological fluids",
+  "abstract": "Theoretical investigations on electrorheological (ER) fluids usually rely on computer simulations. An initial approach for these studies would be the point-dipole (PD) approximation, which is known to err considerably when the particles approach and finally touch due to many-body and multipolar interactions. Thus various work attempted to go beyond the PD model. Being beyond the PD model, previous attempts have been restricted to either local-field effects only or multipolar effects only, but not both. For instance, we recently proposed a dipole-induced-dipole (DID) model which is shown to be both more accurate than the PD model and easy to use. This work is necessary because the many-body (local-field) effect is included to put forth the many-body DID model. The results show that the multipolar interactions can indeed be dominant over the dipole interaction, while the local-field effect may yield an important correction.",
+  "authors": [
+    "J. P. Huang",
+    "K. W. Yu"
+  ],
+  "year": 2002,
+  "doi": "10.1088/1009-1963/13/7/017",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0209505.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0209505.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.131725+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0209505",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0201591",
+  "title": "Abrikosov vortex lattice nonlinear dynamics and its stability in the presence of weak defects",
+  "abstract": "Abrikosov vortex lattice dynamics in a superconductor with weak defects is studied taking into account gyroscopic (Hall) properties. It is demonstrated that interaction of the moving lattice with weak defects results in appearance of the additional drag force, $F$, which is $F(V)\\propto \\sqrt V$ at small velocities, while at high velocities $F(V)\\propto 1/\\sqrt V$. Thus, the total drag force can be a nonmonotonic function of the lattice translational velocity. It leads to the velocity dependence of the Hall angle and a nonlinear current-voltage characteristic of the superconductor. Due to the Hall component in the lattice motion, the value $[dF(V)/dV]^{-1}$ does not coincide with the differential mobility $dV/dF_{e}$, where $F_{e}$ is the external force acting on the lattice. The estimates suggest that condition $dV/dF_{e} < 0$ can be met with difficulty in contrast to $dV/dF < 0$. The instability of the lattice motion regarding nonuniform perturbations has been found when the value of (-$dF/dV$) is greater than a certain combination of elastic modulii of the vortex lattice, while the more strict requirement $dV/dF_{e} < 0$ is still not fulfilled.",
+  "authors": [
+    "A. Yu. Galkin",
+    "B. A. Ivanov"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0201591.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0201591.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.923467+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0201591",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

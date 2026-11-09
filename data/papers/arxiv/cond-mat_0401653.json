@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0401653",
+  "title": "Electronic Structure of Strongly Correlated Materials: towards a First Principles Scheme",
+  "abstract": "We review a recent proposal of a first principles approach to the electronic structure of materials with strong electronic correlations. The scheme combines the GW method with dynamical mean field theory, which enables one to treat strong interaction effects. It allows for a parameter-free description of Coulomb interactions and screening, and thus avoids the conceptual problems inherent to conventional ``LDA+DMFT'', such as Hubbard interaction {\\it parameters} and double counting terms. We describe the application of a simplified version of the approach to the electronic structure of nickel yielding encouraging results. Finally, open questions and further perspectives for the development of the scheme are discussed.",
+  "authors": [
+    "Silke Biermann",
+    "Ferdi Aryasetiawan",
+    "Antoine Georges"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0401653.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0401653.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.192658+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0401653",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

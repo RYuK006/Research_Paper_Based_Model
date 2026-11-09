@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0302348",
+  "title": "Percolating through networks of random thresholds: Finite temperature electron tunneling in metal nanocrystal arrays",
+  "abstract": "We investigate how temperature affects transport through large networks of nonlinear conductances with distributed thresholds. In monolayers of weakly-coupled gold nanocrystals, quenched charge disorder produces a range of local thresholds for the onset of electron tunneling. Our measurements delineate two regimes separated by a cross-over temperature $T^*$. Up to $T^*$ the nonlinear zero-temperature shape of the current-voltage curves survives, but with a threshold voltage for conduction that decreases linearly with temperature. Above $T^*$ the threshold vanishes and the low-bias conductance increases rapidly with temperature. We develop a model that accounts for these findings and predicts $T^*$.",
+  "authors": [
+    "Raghuveer Parthasarathy",
+    "Xiao-Min Lin",
+    "Klara Elteto",
+    "T. F. Rosenbaum",
+    "Heinrich M. Jaeger"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevLett.92.076801",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0302348.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0302348.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.858231+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0302348",
+    "categories": [
+      "cond-mat.mes-hall"
+    ]
+  }
+}

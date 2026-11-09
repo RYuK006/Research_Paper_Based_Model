@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0212574",
+  "title": "MD simulations and continuum theory of partially fluidized shear granular flows",
+  "abstract": "We carry out a detailed comparison of soft particle molecular dynamics simulations with the theory of partially fluidized shear granular flows. We verify by direct simulations a constitutive relation based on the separation of the shear stress tensor into a fluid part proportional to the strain rate tensor, and a remaining solid part. The ratio of these two components is determined by the order parameter. Based on results of the simulations we construct the ``free energy'' function for the order parameter. We also present the simulations of the stationary deep 2D granular flows driven by an upper wall and compare it with the continuum theory.",
+  "authors": [
+    "Dmitri Volfson",
+    "Lev S. Tsimring",
+    "Igor S. Aranson"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0212574.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0212574.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.212977+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0212574",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

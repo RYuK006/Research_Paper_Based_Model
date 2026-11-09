@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0207019",
+  "title": "Traversal times for resonant tunneling",
+  "abstract": "The tunneling time of particle through given barrier is commonly defined in terms of \"internal clocks\" which effectively measure the interaction time with internal degrees of freedom of the barrier. It is known that this definition of the time scale for tunneling is not unique in the sense that it depends on the clock used to define it. For the case of resonance tunneling, a particular choice that in the limit of a high/broad square barrier yields the original result of Buttiker and Landauer (Phys. Rev. Lett. 1982, 49, 1739) is correlated to the lifetime of the resonance state. This is illustrated for analytically solvable one-dimensional double barrier models and for a realistic model of electron tunneling through a static water barrier. The latter calculation constitutes a novel application of this concept to a 3-dimensional model, and the observed structure in the energy dependence of the computed traversal time reflects the existence of transient tunneling resonances associated with instantaneous water structures. These models, characterized by the existence of shape resonances in the barrier, make it possible to examine different internal clocks that were proposed for measuring tunneling times in situations where a \"clock independent\" intrinsic time scale (the resonance life time) for the tunneling time exists. It is argued that this time may be used in order to estimate the relative importance of dynamical barrier processes that affect the tunneling probability.",
+  "authors": [
+    "Uri Peskin",
+    "Michael Galperin",
+    "Abraham Nitzan"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0207019.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0207019.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.357829+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0207019",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

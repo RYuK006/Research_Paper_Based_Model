@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0210498",
+  "title": "Shot noise for entangled and spin-polarized electrons",
+  "abstract": "We review our recent contributions on shot noise for entangled electrons and spin-polarized currents in novel mesoscopic geometries. We first discuss some of our recent proposals for electron entanglers involving a superconductor coupled to a double dot in the Coulomb blockade regime, a superconductor tunnel-coupled to Luttinger-liquid leads, and a triple-dot setup coupled to Fermi leads. We calculate current and shot noise for spin-polarized currents and entangled/unentangled electron pairs in a beam-splitter geometry with a \\textit{local} Rashba spin-orbit (s-o) interaction in the incoming leads. We find \\textit{continuous} bunching and antibunching behaviors for the \\textit{entangled} pairs -- triplet and singlet -- as a function of the Rashba rotation angle. In addition, we find that unentangled triplets and the entangled one exhibit distinct shot noise. Shot noise for spin-polarized currents shows sizable oscillations as a function of the Rashba phase. This happens only for electrons injected perpendicular to the Rashba rotation axis; spin-polarized carriers along the Rashba axis are noiseless. We find an additional spin rotation for electrons with energies near the crossing of the bands where s-o induced interband coupling is relevant. This gives rise to an additional modulation of the noise for both electron pairs and spin-polarized currents. Finally, we briefly discuss shot noise for a double dot near the Kondo regime.",
+  "authors": [
+    "J. C. Egues",
+    "P. Recher",
+    "D. S. Saraga",
+    "V. N. Golovach",
+    "G. Burkard",
+    "E. V. Sukhorukov",
+    "D. Loss"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0210498.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0210498.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.470440+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0210498",
+    "categories": [
+      "cond-mat.mes-hall"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0302078",
+  "title": "{63}Cu NQR Study of the Inhomogeneous Electronic State in La{2-x}Sr{x}CuO{4}",
+  "abstract": "We report detailed systematic measurements of the spatial variation in electronic states in the high T{c} superconductor La{2-x}Sr{x}CuO{4} (0.04<= x <= 0.16) using {63}Cu NQR for {63}Cu isotope enriched poly-crystalline samples. We demonstrate that the spatial variation in local hole concentration {63}x{local} given by {63}x{local} = x +/- {63}Dx{local}, where x is the nominal hole concentration and {63}Dx{local} is defined as the amplitude (or extent) of the spatial variation, is reflected in the frequency dependence of the spin-lattice relaxation rate {63}1/T{1} across the inhomogeneous linebroadening of the {63}Cu NQR spectrum. By using high precision measurements of the temperature dependence of {63}1/T_{1} at various positions across the {63}Cu NQR lineshape, we demonstrate that {63}Dx{local} increases below 500 - 600 K and reaches values as large as {63}Dx{local} / x ~ 0.5 in the temperature region > 150 K. By incorporating the random positioning of {+2}Sr donor ions in the lattice in a novel approach, a lower bound to the length scale of the spatial variation {63}R{patch} is deduced by fitting the entire {63}Cu NQR spectrum (including the ``B'' -line) using a patch-by-patch distribution of the spatial variation {63}x{local} with the patch radius {63}R_{patch} > 3.0 nm as the only free parameter. A corresponding upper bound to the amplitude of the spatial variation {63}Dx{patch} (~ 1/{63}R_{patch}) is deduced within the model, and consistent results are found with {63}Dx{local} . We also deduce the onset temperature T{Q} (> 400 K) for local orthorhombic lattice distortions which, in the region x > 0.04, is found to be larger than the onset temperature of long range structural order.",
+  "authors": [
+    "P. M. Singer",
+    "A. W. Hunt",
+    "T. Imai"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0302078.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0302078.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.731686+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0302078",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ]
+  }
+}

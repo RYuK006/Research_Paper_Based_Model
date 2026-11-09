@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0101048",
+  "title": "Introducing Protein Folding Using Simple Models",
+  "abstract": "We discuss recent theoretical developments in the study of simple lattice models of proteins. Such models are designed to understand general features of protein structures and mechanism of folding. Among the topics covered are (i) the use of lattice models to understand the selection of the limited set of viable protein folds; (ii) the relationship between structure and sequence spaces; (iii) the application of lattice models for studying folding mechanisms (topological frustration, kinetic partitioning mechanism). Classification of folding scenarios based on the intrinsic thermodynamic properties of a sequence (namely, the collapse and folding transition temperatures) is outlined. A brief discussion of random heteropolymer model is also presented.",
+  "authors": [
+    "D. Thirumalai",
+    "D. K. Klimov"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "q-bio"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0101048.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0101048.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:04.461850+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0101048",
+    "categories": [
+      "cond-mat.soft",
+      "q-bio"
+    ]
+  }
+}

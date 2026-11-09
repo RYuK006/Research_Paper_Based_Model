@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0301614",
+  "title": "Entanglement of Electron Spin and Orbital States in Spintronic Quantum Transport",
+  "abstract": "An electron within a mesoscopic (quantum-coherent) spintronic structure is described by a single wave function which, in the presence of both charge scattering and spin-orbit coupling, encodes an information about {\\em entanglement} of its spin and orbital degrees of freedom. The quantum state--an {\\em improper} mixture--of experimentally detectable spin subsystem is elucidated by evaluating quantum information theory measures of entanglement in the scattering states which determine {\\em quantum transport} properties of spin-polarized electrons injected into a two-dimensional disordered Rashba spin-split conductor that is attached to the ferromagnetic source and drain electrodes. Thus, the Landauer transmission matrix, traditionally evaluated to obtain the spin-resolved conductances, also yields the reduced spin density operator allowing us to extract quantum-mechanical measures of the detected electron spin-polarization and spin-coherence, thereby pointing out how to avoid detrimental {\\em decoherence} effects on spin-encoded information transport through semiconductor spintronic devices.",
+  "authors": [
+    "Branislav K. Nikolic"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "quant-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0301614.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0301614.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.656343+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0301614",
+    "categories": [
+      "cond-mat.mes-hall",
+      "quant-ph"
+    ]
+  }
+}

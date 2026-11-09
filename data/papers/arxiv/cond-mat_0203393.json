@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0203393",
+  "title": "Computer simulations of polydisperse ER fluids in DID model",
+  "abstract": "The theoretical investigations on electrorheological (ER) fluids are usually concentrated on monodisperse systems. Real ER fluids must be polydisperse in nature, i.e., the suspended particles can have various sizes and/or different dielectric constants. An initial approach for these studies would be the point-dipole (PD) approximation, which is known to err considerably when the particles approach and finally touch due to multipolar interactions. In a recent work, we proposed a dipole-induced-dipole (DID) model for computer simulation of ER fluids, which was shown to be both more accurate than the PD model and easy to use. The DID model was applied to simulate the athermal aggregation of particles in ER fluids and the aggregation time was found to be significantly reduced as compared to the PD model. In this work, we will report results for the case when the dielectric contrasts of some particles can be negative. In which case, the direction of the force is reversed. Moreover, the inclusion of DID force further complicates the results because the symmetry between positive and negative contrasts will be broken by the presence of dipole-induced interactions.",
+  "authors": [
+    "Andrew C. T. Wong",
+    "Hua Sun",
+    "K. W. Yu"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0203393.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0203393.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.256219+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0203393",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

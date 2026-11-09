@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0403403",
+  "title": "Absence of the d-Density Wave State in 2D Hubbard Model",
+  "abstract": "Using the Dynamical Cluster Approximation (DCA) we calculate the alternating circulating-current susceptibility and investigate the transition to the d-density wave (DDW) order in the two-dimensional Hubbard model. The 2 x 2 cluster used in the DCA calculation is the smallest that can capture d-wave order; therefore, due to the mean-field character of our calculation, we expect to overestimate d-wave transition temperatures. Despite this, we found no transition to the DDW state. In the pseudogap region the DDW susceptibility is enhanced, as predicted by the slave boson SU(2) theory, but it still is much smaller than the d-wave pairing susceptibility.",
+  "authors": [
+    "Alexandru Macridin",
+    "Mark Jarrell",
+    "Thomas Maier"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevB.70.113105",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0403403.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0403403.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.705995+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0403403",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ]
+  }
+}

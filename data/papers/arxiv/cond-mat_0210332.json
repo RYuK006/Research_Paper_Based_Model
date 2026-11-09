@@ -1,0 +1,35 @@
+{
+  "id": "arxiv:cond-mat/0210332",
+  "title": "Measurements of Gated Conjugated Polymer with Electrode Spacing Down to Several Nanometers",
+  "abstract": "In this letter we describe electronic measurements of a conjugated polymer of phenylenevinylene (PPV) with electrode spacings down to 20 nm; all measurements are made in a gated transistor geometry. With rectangular electrodes we find that the current is fit by an exponential in the applied electric field for spacings between 50 nm and 2um. Based on this finding we conclude that the current is not injection limited, and is concentrated in a very small region; we also discuss possible transport mechanisms. The calculated mobility appears exponential in the electric field rather than in the square root of field. We also show fabricated triangular electrodes with spacings down to 5 nm, and discuss measurements with spacings down to 20 nm in which a single chain of polymer may dominate the conductance.",
+  "authors": [
+    "David Abusch-Magder",
+    "Takao Someya",
+    "James Wang",
+    "Edward Laskowski",
+    "Ananth Dodabalapur",
+    "Zhenan Bao",
+    "D. M. Tennant"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.mtrl-sci",
+    "cond-mat.soft"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0210332.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0210332.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.369916+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0210332",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci",
+      "cond-mat.soft"
+    ]
+  }
+}

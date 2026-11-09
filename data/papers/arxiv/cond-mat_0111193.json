@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0111193",
+  "title": "3D Ising Model on Dual BCC Lattice: the Sign-Factor",
+  "abstract": "The 3d Ising model on a regular cubic lattice can be expressed in terms of an SU(2) 2d fermionic model with a $Z_2$-fluxes. We modify the model such that it is defined on the dual to a body centered cubic lattice. The advantage of this lattice is that 2d embedded surfaces have no selfintersections, thus partially avoiding the Sign-factor problem associated with the 2d fermionoc models related to the 3d Ising model. Rather than solving the full SU(2) fermionic theory on this lattice we study the simpler model of scalar fermions and find the spectrum of excitations. The model has no mass gap. We reformulate the model using the R-formalism and a new interesting structure appears due to the necessity of introducing a three-paticle matrix $R^{(3)}_{ijk}$. It encodes the essential character of the Sign-factor. We analyse the integrability properties of this class of models.",
+  "authors": [
+    "J. Ambjorn",
+    "Sh. Khachatryan",
+    "A. Sedrakyan"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0111193.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0111193.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.314278+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0111193",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

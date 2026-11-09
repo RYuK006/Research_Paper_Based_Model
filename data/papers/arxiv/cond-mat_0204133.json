@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0204133",
+  "title": "Diffusion in Granular Gases of Viscoelastic Particles",
+  "abstract": "In most of the literature on granular gases it is assumed that the restitution coefficient ε, which quantifies the loss of kinetic energy upon a collision is independent on the impact velocity. Experiments as well as theoretical investigations show, however, that for real materials the restitution coefficient depends significantly on the impact velocity. We consider the diffusion process in a homogeneous granular gas, i.e. in a system of dissipatively colliding particles. We show that the mean square displacement of the particles changes drastically if we take the impact velocity dependence of εinto account. Under the oversimplifying assumption of a constant coefficient one finds that the particles spread in space logarithmically slow with time, whereas realistic particles spread due to a power law.",
+  "authors": [
+    "Nikolai V. Brilliantov",
+    "Thorsten Poeschel"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0204133.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0204133.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.404884+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0204133",
+    "categories": [
+      "cond-mat.stat-mech"
+    ]
+  }
+}

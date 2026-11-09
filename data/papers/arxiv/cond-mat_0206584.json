@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0206584",
+  "title": "Free energy barrier for single-chain melting and crystallization",
+  "abstract": "In this paper, we report dynamic Monte Carlo simulations of melting and crystallization in a single-chain system. Their free energy barriers are calculated by the umbrella sampling method and can be described well by a simple expression DeltaF = n Deltaf+sigma (N-n)^(2/3), where n is the amount of molten bonds, Deltaf is the free energy change of each molten bond from a crystalline state, N is the chain length, and sigma is the surface free energy of crystallite. We found that, together with the expression Delta F = n Delta f+ sigma (N-n)^(1/2) for molecular nucleation, the molecular-weight dependent properties of the free-energy barriers for polymer primary and secondary nucleation, in particular, the molecular segregation during crystal growth, can be reproduced. Then for the mechanism of polymer crystallization, we suggested a quantitative model of intramolecular nucleation, as a direct development from the previous qualitative description of molecular nucleation model.",
+  "authors": [
+    "Wenbing Hu",
+    "Daan Frenkel",
+    "Vincent B. F. Mathot"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0206584.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0206584.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.346812+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0206584",
+    "categories": [
+      "cond-mat.soft"
+    ]
+  }
+}

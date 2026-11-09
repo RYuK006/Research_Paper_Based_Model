@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0202270",
+  "title": "Simple Simulational Model for Stocks Markets",
+  "abstract": "A new model for stocks markets using integer values for each stock price is presented. In contrast with previously reported models, the variables used in the model are not of binary type, but of more general integer type. It is shown how the behavior of the noisy and fundamentalists traders can be taken into account simultaneously in the time evolution of each stock price. The simulated time series is analysed in different ways order to compare parameters with those of real markets.",
+  "authors": [
+    "Juan R. Sanchez"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0202270.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0202270.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.011153+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0202270",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

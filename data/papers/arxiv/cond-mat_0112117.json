@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0112117",
+  "title": "Cellular Automaton Approach to Pedestrian Dynamics - Theory",
+  "abstract": "We present a 2-dimensional cellular automaton model for the simulation of pedestrian dynamics. The model is extremely efficient and allows simulations of large crowds faster than real time since it includes only nearest-neighbour interactions. Nevertheless it is able to reproduce collective effects and self-organization encountered in pedestrian dynamics. This is achieved by introducing a so-called floor field which mediates the long-range interactions between the pedestrians. This field modifies the transition rates to neighbouring cells. It has its own dynamics (diffusion and decay) and can be changed by the motion of the pedestrians. Therefore the model uses an idea similar to chemotaxis, but with pedestrians following a virtual rather than a chemical trace.",
+  "authors": [
+    "Andreas Schadschneider"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0112117.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0112117.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.490523+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0112117",
+    "categories": [
+      "cond-mat.stat-mech"
+    ]
+  }
+}

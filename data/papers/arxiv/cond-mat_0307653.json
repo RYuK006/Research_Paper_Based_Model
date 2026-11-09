@@ -1,0 +1,37 @@
+{
+  "id": "arxiv:cond-mat/0307653",
+  "title": "Determining carrier densities in InMnAs by cyclotron resonance",
+  "abstract": "Accurate determination of carrier densities in ferromagnetic semiconductors by Hall measurements is hindered by the anomalous Hall effect, and thus alternative methods are being sought. Here, we propose that cyclotron resonance (CR) is an excellent method for carrier density determination for InMnAs-based magnetic structures. We develop a theory for electronic and magneto-optical properties in narrow gap InMnAs films and superlattices in ultrahigh magnetic fields oriented along [001]. In n-type InMnAs films and superlattices, we find that the e-active CR peak field is pinned at low electron densities and then begins to shift rapidly to higher fields above a critical electron concentration allowing the electron density to be accurately calibrated. In p-type InMnAs, we observe two h-active CR peaks due to heavy and light holes. The lineshapes depend on temperature and line broadening. The light hole CR requires higher hole densities and fields. Analyzing CR lineshapes in p-films and superlattices can help determine hole densities.",
+  "authors": [
+    "G. D. Sanders",
+    "Y. Sun",
+    "C. J. Stanton",
+    "G. A. Khodaparast",
+    "J. Kono",
+    "D. S. King",
+    "Y. H. Matsuda",
+    "S. Ikeda",
+    "N. Miura",
+    "A. Oiwa",
+    "H. Munekata"
+  ],
+  "year": 2003,
+  "doi": "10.1016/j.physe.2003.08.038",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0307653.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0307653.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.470867+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0307653",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

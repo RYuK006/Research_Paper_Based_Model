@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0305512",
+  "title": "Theory of spin response in underdoped cuprates as strongly fluctuating d-wave superconductors",
+  "abstract": "We study the spin dynamics in underdoped cuprates at low temperatures by considering them as quasi two dimensional d-wave superconductors (dSC) with strong phase fluctuations. An effective theory of spin degrees of freedom of nodal quasiparticles coupled to vortex defects in the phase of the superconducting order parameter is formulated. It represents the minimal extension of the QED3 theory of the pseudogap phase into the superconducting region. The theory predicts a single dSC-SDW transition, which may be fluctuation induced first order, without the region of coexistence between the two ordered phases. We compute the spin-spin correlator in the dSC, and explain the evolution of the spin response with frequency as observed in neutron scattering experiments on YBCO. We predict that at the frequencies much below the resonance the (weak) spin response should become narrowly peaked at four `diagonally' incommensurate wave vectors that span between the nodes of the supercopnducting order parameter. These peaks represent an inherent collective mode of the phase fluctuating dSC, the condensation of which would bring about the SDW order in the pseudogap phase. Our interpretation of the resonance suggests it should become more elusive in the superconductors with lower Tc, in accord with its' conspicuous absence in LSCO.",
+  "authors": [
+    "Igor F. Herbut",
+    "Dominic J. Lee"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevB.68.104518",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0305512.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0305512.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.641889+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0305512",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

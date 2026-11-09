@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0212073",
+  "title": "Using isosbestic points to extract interactions from structure factors",
+  "abstract": "Inverting scattering experiments to obtain effective interparticle interactions for particles in solution is generally a poorly conditioned problem. More accurate potentials can be obtained through the use of isosbestic points, values of k where the scattering intensity I(k) or the structure factor S(k) is invariant to changes in potential well-depth. These points also suggest a new extended corresponding states principle for particles in solution based on the particle density or packing fraction, the second osmotic virial coefficient, and a new measure of potential range.",
+  "authors": [
+    "A. A. Louis"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0212073.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0212073.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.917280+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0212073",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

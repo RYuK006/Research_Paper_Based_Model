@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0202305",
+  "title": "Chemical order lifetimes in liquids in the energy landscape paradigm",
+  "abstract": "Recent efforts to deal with the complexities of the liquid state, particularly those of glassforming systems, have focused on the \"energy landscape\" as a means of dealing with the collective variables problem [1]. The \"basins of attraction\" that constitute the landscape features in configuration space represent a distinct class of microstates of the system. So far only the microstates that are related to structural relaxation and viscosity have been considered in this paradigm. But most of the complex systems of importance in nature and industry are solutions, particularly solutions that are highly non-ideal in character. In these, a distinct class of fluctuations exists, the fluctuations in concentration. The mean square amplitudes of these fluctuations relate to the chemical activity coefficients [2], and their rise and decay times may be much longer than those of the density fluctuations - from which they may be statistically independent. Here we provide data on the character of chemical order fluctuations in viscous liquids and on their relation to the enthalpy fluctuations that determine the structural relaxation time, and hence the glass temperature Tg. Using a spectroscopically active chemical order probe, we identify a \"chemical fictive temperature\", Tchm, by analogy with the familiar \"fictive temperature\" Tf (the cooling Tg). Like Tf, Tchm must be the same as the real temperature for the system to be in complete equilibrium. It is possible for mobile multicomponent liquids to be permanently nonergodic, insofar as Tchm > Tf = T, which must be accommodated within the landscape paradigm. We note that, in appropriate systems, an increase in concentration of slow chemically ordering units in liquids can produce a crossover to fast ion conducting glass phenomenology.",
+  "authors": [
+    "L. -M. Martinez",
+    "C. A. Angell"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.dis-nn"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0202305.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0202305.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.047477+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0202305",
+    "categories": [
+      "cond-mat.dis-nn"
+    ]
+  }
+}

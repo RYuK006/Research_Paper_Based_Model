@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0111144",
+  "title": "Mesoscopics in Spintronics: Quantum Interference Effects in Spin-Polarized Electron Transport",
+  "abstract": "We generalize a Landauer-type formula, using a real$\\otimes$spin-space Green function technique, to treat spin-dependent transport in quantum-coherent conductors attached to two ferromagnetic contacts. The formalism is employed to study the properties of components of an exact zero-temperature conductance matrix ${\\bf G}$, as well as their mesoscopic fluctuations, describing injection and detection of a spin-polarized current in a two-dimensional system where electrons exhibit an interplay between Rashba spin-orbit (SO) coupling and phase-coherent propagation through a disordered medium. Strong Rashba coupling leads to a dramatic reduction of localization effects on the conductances and their fluctuations, whose features depend on the spin-polarization of injected electrons. In the limit of weak Rashba interaction antilocalization vanishes (i.e., the sum of the matrix elements of ${\\bf G}$ is almost independent of the SO coupling), but the partial spin-resolved conductances can still be non-zero. Besides spin-resolved conductance fluctuations and antilocalization, unusual quantum interference effects are revealed in this system leading to a negative difference between the partial conductances for a parallel and an antiparallel orientation of the contact magnetization, in a range of disorder strengths and for a particular spin-polarization of incoming electron with respect to the direction of Rashba electric field.",
+  "authors": [
+    "Branislav K. Nikolic",
+    "J. K. Freericks"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0111144.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0111144.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.290434+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0111144",
+    "categories": [
+      "cond-mat.mes-hall"
+    ]
+  }
+}

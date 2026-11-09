@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0103459",
+  "title": "The one-electron Green's function of the half-filled Hubbard model on a triangular lattice",
+  "abstract": "The one-electron density of states for the half-filled Hubbard model on a triangular lattice is studied as a function of both temperature and Hubbard U using Quantum Monte Carlo. We find three regimes: (1) a strong-coupling Mott-Hubbard regime, characterized by a gap which persists even at high temperatures; (2) a weak-coupling paramagnetic regime, characterized by the absence of a pseudogap at any finite temperature; and (3) an intermediate-coupling (spiral) spin-density-wave regime, characterized by a pseudogap which appears when U is increased beyond a critical (temperature dependent) value. The behavior of the sqrt(3) times sqrt{3} adlayer structures on fourth-group semiconductor surfaces is briefly commented upon in the light of the above discussion.",
+  "authors": [
+    "M. C. Refolio",
+    "J. M. Lopez Sancho",
+    "J. Rubio"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0103459.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0103459.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.118217+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0103459",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

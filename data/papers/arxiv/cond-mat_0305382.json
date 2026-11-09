@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0305382",
+  "title": "Isotope effect in superconductors with coexisting interactions of phonon and nonphonon mechanisms",
+  "abstract": "We examine the isotope effect of superconductivity in systems with coexisting interactions of phonon and nonphonon mechanisms in addition to the direct Coulomb interaction. The interaction mediated by the spin fluctuations is discussed as an example of the nonphonon interaction. Extended formulas for the transition temperature Tc and the isotope-effect coefficient alpha are derived for cases (a) omega_np < omega_D and (b) omega_np > omega_D, where omega_np is an effective cutoff frequency of the nonphonon interaction that corresponds to the Debye frequency omega_D in the phonon interaction. In case (a), it is found that the nonphonon interaction does not change the condition for the inverse isotope effect, i.e., mu^* > lambda_ph/2, but it modifies the magnitude of alpha markedly. In particular, it is found that a giant isotope shift occurs when the phonon and nonphonon interactions cancel each other largely. For instance, strong critical spin fluctuations may give rise to the giant isotope effect. In case (b), it is found that the inverse isotope effect occurs only when the nonphonon interaction and the repulsive Coulomb interaction, in total effect, work as repulsive interactions against the superconductivity. We discuss the relevance of the present result to some organic superconductors, such as kappa-(ET)2Cu(NCS)2 and Sr2RuO4 superconductors, in which inverse isotope effects have been observed, and briefly to high-Tc cuprates, in which giant isotope effects have been observed.",
+  "authors": [
+    "Hiroshi Shimahara"
+  ],
+  "year": 2003,
+  "doi": "10.1143/JPSJ.72.1851",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0305382.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0305382.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.564854+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0305382",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

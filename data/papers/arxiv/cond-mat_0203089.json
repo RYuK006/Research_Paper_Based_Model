@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0203089",
+  "title": "Survival probability and order statistics of diffusion on disordered media",
+  "abstract": "We investigate the first passage time t_{j,N} to a given chemical or Euclidean distance of the first j of a set of N>>1 independent random walkers all initially placed on a site of a disordered medium. To solve this order-statistics problem we assume that, for short times, the survival probability (the probability that a single random walker is not absorbed by a hyperspherical surface during some time interval) decays for disordered media in the same way as for Euclidean and some class of deterministic fractal lattices. This conjecture is checked by simulation on the incipient percolation aggregate embedded in two dimensions. Arbitrary moments of t_{j,N} are expressed in terms of an asymptotic series in powers of 1/ln N which is formally identical to those found for Euclidean and (some class of) deterministic fractal lattices. The agreement of the asymptotic expressions with simulation results for the two-dimensional percolation aggregate is good when the boundary is defined in terms of the chemical distance. The agreement worsens slightly when the Euclidean distance is used.",
+  "authors": [
+    "L. Acedo",
+    "S. B. Yuste"
+  ],
+  "year": 2002,
+  "doi": "10.1103/PhysRevE.66.011110",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.dis-nn"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0203089.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0203089.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.152184+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0203089",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.dis-nn"
+    ]
+  }
+}

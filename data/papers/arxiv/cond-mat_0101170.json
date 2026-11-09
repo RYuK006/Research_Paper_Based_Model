@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0101170",
+  "title": "Why do Evolutionary Systems Stick to the Edge of Chaos",
+  "abstract": "The long-term behaviour of dynamic systems can be classified in two different regimes, regular or chaotic, depending on the values of the control parameters, which are kept constant during the time evolution. Starting from slightly different initial conditions, a regular system converges to the same final trajectory, whereas a chaotic system follows two distinct trajectories exponentially diverging from each other. In spite of these differences, regular and chaotic systems share a common property: both arrive exponentially fast to their final destiny, becoming trapped there. In both cases one has finite transient times. This is not a profitable property in what concerns evolutionary strategies, where the eternal search for new forms, better than the current one, is imperative. That is why evolutionary dynamic systems tend to tune themselves in very particular situations in between regular and chaotic regimes. These particular situations present eternal transients, and the system actually never reaches its final destiny, preserving diversity. This feature allows the system to visit other regions of the space of possibilities, not only the tiny region covered by its final attractor.",
+  "authors": [
+    "Paulo Murilo Castro de Oliveira"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat",
+    "q-bio.PE"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0101170.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0101170.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:04.521023+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0101170",
+    "categories": [
+      "cond-mat",
+      "q-bio.PE"
+    ]
+  }
+}

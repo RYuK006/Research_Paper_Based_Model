@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0207551",
+  "title": "Rearrangement collisions between gold clusters",
+  "abstract": "Collision processes between two gold clusters are investigated using classical molecular dynamics in combination with embedded atom (EA) potentials, after checking the reliability of EA results by contrasting them with first principles calculations. The Au projectiles considered are both single atoms (N=1) and clusters of N=2, 12, 13 and 14 atoms. The targets contain N= 12, 13 and 14 gold atoms. The initial projectile energy E is in the range 0 < E < 1.5 eV/atom. The results of the collision processes are described and analyzed in detail.",
+  "authors": [
+    "Jose Rogan",
+    "Ricardo Ramirez",
+    "Aldo H. Romero",
+    "Miguel Kiwi"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0207551.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0207551.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.676600+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0207551",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

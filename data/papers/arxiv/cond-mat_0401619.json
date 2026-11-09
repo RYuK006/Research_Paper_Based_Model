@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0401619",
+  "title": "Insulator to Metal Transition Induced by Disorder in a Model for Manganites",
+  "abstract": "The physics of manganites appears to be dominated by phase competition among ferromagnetic metallic and charge-ordered antiferromagnetic insulating states. Previous investigations (Burgy {\\it et al.}, Phys. Rev. Lett. {\\bf 87}, 277202 (2001)) have shown that quenched disorder is important to smear the first-order transition between those competing states, and induce nanoscale inhomogeneities that produce the colossal magnetoresistance effect. Recent studies (Motome {\\it et al.} Phys. Rev. Lett. {\\bf 91}, 167204 (2003)) have provided further evidence that disorder is important in the manganite context, unveiling an unexpected insulator-to-metal transition triggered by disorder in a one-orbital model with cooperative phonons. In this paper, a qualitative explanation for this effect is presented. It is argued that the transition occurs for disorder in the form of local random energies. Acting over an insulating states made out of a checkerboard arrangement of charge, with ``effective'' site energies positive and negative, this form of disorder can produce lattice sites with an effective energy near zero, favorable for the transport of charge. This explanation is based on Monte Carlo simulations and the study of simplified toy models, measuring the density-of-states, cluster conductances using the Landauer formalism, and other observables. The applicability of these ideas to real manganites is discussed.",
+  "authors": [
+    "C. Sen",
+    "G. Alvarez",
+    "E. Dagotto"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevB.70.064428",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0401619.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0401619.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.157632+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0401619",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

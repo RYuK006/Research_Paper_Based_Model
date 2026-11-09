@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0308167",
+  "title": "Dissipationless Quantum Spin Current at Room Temperature",
+  "abstract": "While microscopic laws of physics are invariant under the reversal of the arrow of time, the transport of energy and information in most devices is an irreversible process. It is this irreversibility that leads to intrinsic dissipations in electronic devices and limits the possibility of quantum computation. We theoreticallypredict that the electric field can induce a substantial amount of dissipationless quantum spin current at room temperature, in hole doped semiconductors such as Si, Ge and GaAs. Based on a generalization of the quantum Hall effect, the predicted effect leads to efficient spin injection without the need for metallic ferromagnets. Principles found in this work could enable quantum spintronic devices with integrated information processing and storage units, operating with low power consumption and performing reversible quantum computation.",
+  "authors": [
+    "Shuichi Murakami",
+    "Naoto Nagaosa",
+    "Shou-Cheng Zhang"
+  ],
+  "year": 2003,
+  "doi": "10.1126/science.1087128",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0308167.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0308167.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.600078+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0308167",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

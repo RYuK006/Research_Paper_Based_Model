@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0308598",
+  "title": "Effects of Particle sizes, Non-Isometry and Interactions in Compressible Polymer Mixtures",
+  "abstract": "We consider in this review the statistical mechanical description of a very general microscopic lattice model of a compressible and interacting multi-component mixture of linear polymers of fixed lengths. The model contains several microscopic, i.e. bare parameters determining the thermodynamic state of the system. General arguments are given to show that these parameters must be independent not only of the lattice properties but also of the thermodynamic state, and that the voids representing free volume must be carefully treated, if thermodynamics has to be properly obeyed. These facts have not always been appreciated in the literature. We focus on mixing functions, some of which have not been properly calculated in the literature. In general, mixing is non-isometric (non-zero volume of mixing) and the entropy of mixing is non-ideal. We have recently developed a lattice theory for the general model, which goes beyond the random mixing approximation (RMA) limit and is thermodynamically consistent in the entire parameter space. The theory contains terms that do not have a continuum analog except in the RMA limit or for point-like particles. Both the free volume and the total volume determine the thermodynamics of the system. The RMA limit of our theory gives rise to a new theory, which can be taken as the extension of the conventional incompressible Flory-Huggins theory and is similar in simplicity. Using our complete theory, we calculate the effects of size disparity and interactions on the thermodynamics of the model. Cohesive energies are not constant in general. Non-isometry can make the energy of mixing negative, even when all exchange interactions are repulsive. Consequently, Scatchard-Hildebrand theory cannot be substantiated in general. Various unusual features are noted and discussed.",
+  "authors": [
+    "P. D. Gujrati"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.soft"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0308598.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0308598.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.825943+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0308598",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.soft"
+    ]
+  }
+}

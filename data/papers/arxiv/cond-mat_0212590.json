@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0212590",
+  "title": "Transition Temperature of Dilute, Weakly Repulsive Bose Gas",
+  "abstract": "Within a quasiparticle framework, we reconsider the issue of computing the Bose-Einstein condensation temperature ($T_c$) in a weakly non-ideal Bose gas. The main result of this and previous investigations is that $T_c$ increases with the scattering length $a$, with the leading dependence being either linear or log-linear in $a$. The calculation of $T_c$ reduces to that of computing the excitation spectrum near the transition. We report two approaches to regularizing the infrared divergence at the transition point. One leads to a $a\\sqrt{|\\ln{a}|}$-like shift in $T_c$, and the other allows numerical calculations for the shift.",
+  "authors": [
+    "Masudul Haque",
+    "Andrei E. Ruckenstein"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0212590.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0212590.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.237144+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0212590",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

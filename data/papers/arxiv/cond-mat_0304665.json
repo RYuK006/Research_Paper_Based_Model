@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0304665",
+  "title": "Raman Scattering, Thermal studies and Reverse Monte Carlo Simulations of an Amorphous Ge$_{30}$Se$_{70}$ Alloy Produced by Mechanical Alloying",
+  "abstract": "The short and intermediate range order of an amorphous Ge$_{30}$Se$_{70}$ alloy produced by Mechanical Alloying were studied by Reverse Monte Carlo simulations of its x-ray total structure factor, Raman scattering and differential scanning calorimetry. The simulations were used to compute the $G^{\\text{RMC}}_{\\text{Ge-Ge}}(r)$, $G^{\\text{RMC}}_{\\text{Ge-Se}}(r)$ and $G^{\\text{RMC}}_{\\text{Se-Se}}(r)$ partial distribution functions and the ${\\cal S}^{\\text{RMC}}_{\\text{Ge-Ge}}(K)$, ${\\cal S}^{\\text{RMC}}_{\\text{Ge-Se}}(K)$ and ${\\cal S}^{\\text{RMC}}_{\\text{Se-Se}}(K)$ partial structure factors. We calculated the coordination numbers and interatomic distances for the first and second neighbors and the bond-angle distribution functions $Θ_{ijl}(\\cosθ)$. The data obtained indicate that the structure of the alloy has important differences when compared to alloys prepared by other techniques. There are a high number of Se-Se pairs in the first shell, and some of the tetrahedral units formed seemed to be connected by Se-Se bridges.",
+  "authors": [
+    "K. D. Machado",
+    "J. C. de Lima",
+    "C. E. M. Campos",
+    "P. S. Pizani",
+    "T. A. Grandi"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0304665.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0304665.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.362041+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0304665",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

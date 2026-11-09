@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0404610",
+  "title": "Specific heat and thermal conductivity in Sr_2RuO_4 for rotating in-plane magnetic field",
+  "abstract": "We calculate the density of states $N$ and the the thermal conductivity $κ$ in layered superconductors for rotating in-plane magnetic field by using approximate analytical expressions for Abrikosov's vortex lattice state. For a gap with d$_{xy} $- orbital symmetry we find that the differences $ΔN$ and $Δκ$ between field directions parallel to the antinodes and parallel to the nodes of the gap are positive for lower fields and change sign for higher fields near $H_{c2} $. For increasing impurity scattering, $ΔN$ and $Δκ$ decrease due to a broadening of certain peaks in the angle-resolved density of states. The frequency dependencies of the amplitudes $ΔN$ and $Δκ$ exhibit similar crossover behavior at low frequencies which give rise to a sign change of $Δκ$ at low $T/T_c $. We conclude that variations of the specific heat and thermal conductivity can be observed only in the clean and low temperature limits.",
+  "authors": [
+    "L. Tewordt",
+    "D. Fay"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0404610.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0404610.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:46.895545+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0404610",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

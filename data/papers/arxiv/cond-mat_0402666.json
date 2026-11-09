@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0402666",
+  "title": "Analytical Hartree-Fock gradients with respect to the cell parameter for systems periodic in three dimensions",
+  "abstract": "Analytical Hartree-Fock gradients with respect to the cell parameter have been implemented in the electronic structure code CRYSTAL, for the case of three-dimensional periodicity. The code is based on Gaussian type orbitals, and the summation of the Coulomb energy is performed with the Ewald method. It is shown that a high accuracy of the cell gradient can be achieved.",
+  "authors": [
+    "K. Doll",
+    "R. Dovesi",
+    "R. Orlando"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0402666.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0402666.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.498065+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0402666",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

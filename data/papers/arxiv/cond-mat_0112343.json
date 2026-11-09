@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0112343",
+  "title": "Competing orders in a magnetic field: spin and charge order in the cuprate superconductors",
+  "abstract": "We describe two-dimensional quantum spin fluctuations in a superconducting Abrikosov flux lattice induced by a magnetic field applied to a doped Mott insulator. Complete numerical solutions of a self-consistent large N theory provide detailed information on the phase diagram and on the spatial structure of the dynamic spin spectrum. Our results apply to phases with and without long-range spin density wave order and to the magnetic quantum critical point separating these phases. We discuss the relationship of our results to a number of recent neutron scattering measurements on the cuprate superconductors in the presence of an applied field. We compute the pinning of static charge order by the vortex cores in the `spin gap' phase where the spin order remains dynamically fluctuating, and argue that these results apply to recent scanning tunnelling microscopy (STM) measurements. We show that with a single typical set of values for the coupling constants, our model describes the field dependence of the elastic neutron scattering intensities, the absence of satellite Bragg peaks associated with the vortex lattice in existing neutron scattering observations, and the spatial extent of charge order in STM observations. We mention implications of our theory for NMR experiments. We also present a theoretical discussion of more exotic states that can be built out of the spin and charge order parameters, including spin nematics and phases with `exciton fractionalization'.",
+  "authors": [
+    "Ying Zhang",
+    "Eugene Demler",
+    "Subir Sachdev"
+  ],
+  "year": 2002,
+  "doi": "10.1103/PhysRevB.66.094501",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0112343.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0112343.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.581244+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0112343",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ]
+  }
+}

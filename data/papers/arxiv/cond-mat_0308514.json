@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0308514",
+  "title": "Non-Fermi liquid behavior near the ferromagnetic quantum critical point in the series Ca(x)Sr(1-x)RuO(3)",
+  "abstract": "A series of epitaxial films were grown across the solid solution Ca(x)Sr(1-x)RuO(3) in order to pinpoint the ferromagnetic to paramagnetic quantum phase transition in this system and to study the evolution of transport and magnetic properties in its vicinity. The ferromagnetic Tc of SrRuO(3) was found to decrease linearly with Ca doping levels up to 70%. Further doping resulted in the abrupt elimination of ferromagnetic order, and the onset of low temperature (< 10K) non-Fermi liquid (NFL) resistivity of the form rho ~ rho(0 + AT^(1.5) for samples with x <= 0.75 <= 1.0. The resistivity exponent of 1.5 matches that previously observed for MnSi, indicating possible universality of the NFL behavior of itinerant ferromagnets. Field-dependent specific heat measurements on bulk samples at compositions near the quantum phase transition provide additional evidence for NFL behavior (C/T ~ log T) and show the conditions nder which spin fluctuations contribute to the specific heat.",
+  "authors": [
+    "P. Khalifah",
+    "I. Ohkubo",
+    "H. Christen",
+    "D. Mandrus"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0308514.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0308514.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.747353+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0308514",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

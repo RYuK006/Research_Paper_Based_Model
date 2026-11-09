@@ -1,0 +1,35 @@
+{
+  "id": "arxiv:chao-dyn/9803002",
+  "title": "Lyapunov Exponents from Node-Counting Arguments",
+  "abstract": "A conjecture connecting Lyapunov exponents of coupled map lattices and the node theorem is presented. It is based on the analogy between the linear stability analysis of extended chaotic states and the Schrödinger problem for a particle in a disordered potential. As a consequence, we propose an alternative method to compute the Lyapunov spectrum. The implications on the foundation of the recently proposed ``chronotopic approach'' are also discussed.",
+  "authors": [
+    "Antonio Politi",
+    "Alessandro Torcini",
+    "Stefano Lepri"
+  ],
+  "year": 1998,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "chao-dyn",
+    "cond-mat",
+    "nlin.CD",
+    "nlin.PS",
+    "patt-sol"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/chao-dyn/9803002.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\chao-dyn_9803002.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:03.713628+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "chao-dyn/9803002",
+    "categories": [
+      "chao-dyn",
+      "cond-mat",
+      "nlin.CD",
+      "nlin.PS",
+      "patt-sol"
+    ]
+  }
+}

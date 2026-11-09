@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0207570",
+  "title": "Divergence of the Heavy Quasiparticle Mass at the Antiferromagnetic Quantum Critical Point in YbRh_2Si_2",
+  "abstract": "We report low temperature specific heat, C, magnetization, M, susceptibility, chi, and electrical resistivity, rho, measurements on high-quality single crystals of the heavy-fermion system YbRh_2(Si_{1-x} Ge_x)_2 (x=0 and 0.05). The undoped compound shows weak antiferromagnetic (AF) order at T_N=70 mK which is suppressed to below 10 mK by a tiny volume expansion in the x=0.05 system. In the latter pronounced deviations from Landau Fermi liquid (LFL) behavior occur, e.g. Delta rho ~ T over three decades in T. Both thermodynamic and magnetic properties show a crossover at about 0.3 K: At 0.3 K <= T <= 10 K we observe C/T ~ log(T_0/T) and a \"non-Curie\" behavior chi^{-1} ~ T^alpha with alpha<1 similar to what was found for the prototypical system CeCu_{5.9} Au_{0.1}. Below 0.3 K, chi turns into a Curie-Weiss dependence chi^{-1} ~ (T-Theta) indicating large unscreened Yb^{3+} moments whereas in C(T)/T a pronounced upturn occurs. In the undoped compound the AF order is suppressed continuously by critical fields B_{c0} ~= 0.06 T and 0.7 T applied perpendicular and parallel to the c-axis, respectively. For B>B_{c0} a LFL state with Delta rho = A(B)T^2 and C(T)/T = gamma_0(B) is induced, that fulfills the Kadowaki-Woods scaling A ~ gamma_0^2. Upon reducing the magnetic field to B_{c0} a 1/(B-B_{c0}) dependence of A(B) and gamma_0^2(B) indicates singular scattering at the whole Fermi surface and a divergence of the heavy quasiparticle mass.",
+  "authors": [
+    "P. Gegenwart",
+    "J. Custers",
+    "T. Tayama",
+    "K. Tenya",
+    "C. Geibel",
+    "O. Trovarelli",
+    "F. Steglich"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0207570.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0207570.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.700503+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0207570",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

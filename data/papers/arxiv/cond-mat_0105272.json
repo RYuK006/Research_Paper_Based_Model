@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0105272",
+  "title": "Partitioning 3D space for parallel many-particle simulations",
+  "abstract": "In a common approach for parallel processing applied to simulations of many-particle systems with short-ranged interactions and uniform density, the simulation cell is partitioned into domains of equal shape and size, each of which is assigned to one processor. We compare the commonly used simple-cubic (SC) domain shape to domain shapes ch osen as the Voronoi cells of BCC and FCC lattices. The latter two are found to result in superior partitionings with respect to c ommunication overhead. Other domain shapes, relevant for a small number of processors, are also discussed. The higher efficiency with BCC and FCC partitionings is demonstrated in simulations of the sillium model for amorphous silicon.",
+  "authors": [
+    "M. A. Stijnman",
+    "R. H. Bisseling",
+    "G. T. Barkema"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.soft",
+    "physics.comp-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0105272.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0105272.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.543369+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0105272",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.soft",
+      "physics.comp-ph"
+    ]
+  }
+}

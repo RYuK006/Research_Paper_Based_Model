@@ -1,0 +1,33 @@
+{
+  "id": "arxiv:cond-mat/0108364",
+  "title": "Distribution of parallel vortices studied by spin-polarized neutron reflectivity and magnetization",
+  "abstract": "We present the studies of non-uniformly distributed vortices in Nb/Al multilayers at applied field near parallel to film surface by using spin-polarized neutron reflectivity (SPNR) and DC magnetization measurements.   We have observed peaks above the lower critical field, Hc1, in the M-H curves from the multilayers.   Previous works with a model calculation of minimizing Gibbs free energy have suggested that the peaks could be ascribed to vortex line transitions for spatial commensuration in a thin film superconductor. In order to directly determine the distribution of vortices, we performed SPNR measurements on the multilayer and found that the distribution and density of vortices are different at ascending and descending fields. At ascending 2000 Oe which is just below the first peak in the M-H curve, SPNR shows that vortices are mostly localized near a middle line of the film meanwhile the vortices are distributed in broader region at the descending 2000 Oe. That is related to the observation of more vortices trapped at the descending field. As the applied field is sightly tilted (< 3.5degree), we observe another peak at a smaller field. The peak position is consistent with the parallel lower critical field (Hc1||). We discuss that the vortices run along the applied field below Hc1|| and rotate parallel to the surface at Hc1||.",
+  "authors": [
+    "S. -W. Han",
+    "P. F. Miceli",
+    "J. Farmer",
+    "G. Felcher",
+    "R. Goyette",
+    "G. T. Kiehne",
+    "J. B. Ketterson"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0108364.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0108364.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.283722+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0108364",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

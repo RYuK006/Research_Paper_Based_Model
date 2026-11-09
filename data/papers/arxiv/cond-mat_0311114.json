@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0311114",
+  "title": "Ferromagnetism from localized deep impurities in magnetic semiconductors",
+  "abstract": "We propose that localized defects in magnetic semiconductors act as deep impurities and can be described by the Anderson model. Within this model, hybridization of d-orbitals and p-orbitals gives rise to a non-RKKY indirect exchange mechanism, when the localized d-electrons are exchanged through both conduction and valence bands. For semiconductors with indirect band gap the non-RKKY part of exchange integral is antiferromagnetic, which suppresses ferromagnetism. In case of direct band gap, this exchange mechanism can, under certain conditions, lead to enhancement of ferromagnetism. The indirect exchange intergral is much stronger than RKKY, and can be sufficiently long range. Thus, a potentially new class of high-temperature magnetic semiconductors emerges, where doped carriers are not necessary to mediate ferromagnetism. Curie temperatures in such magnetic semiconductors are determined mostly by the interaction between localized impurities, not Zener mechanism. This effect could also be responsible for unusually high Curie temperatures in some magnetic semiconductors with direct band gap, such as GaMnAs.",
+  "authors": [
+    "Victor Barzykin"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0311114.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0311114.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.141877+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0311114",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

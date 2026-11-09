@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0211681",
+  "title": "Quantum noise, detailed balance and Kubo formula in nonequilibrium quantum systems",
+  "abstract": "Current quantum noise can be pictured as a sum over transitions through which the electronic system exchanges energy with its environment. We formulate this picture and use it to show which type of current correlators are measurable, and in what measurement the zero point fluctuations will play a role (the answer to the latter is as expected: only if the detector excites the system.) Using the above picture, we calculate and give physical interpretation of the finite-frequency finite-temperature current noise in a noninteracting Landauer-type system, where the chemical potentials of terminals 1 and 2 are $μ+eV/2$ and $μ-eV/2$ respectively, and derive a detailed-balance condition for this nonequilibrium system. Finally, we derive a generalized form of the Kubo formula for a wide class of interacting nonequilibrium systems, relating the differential conductivity to the current noise.",
+  "authors": [
+    "U. Gavish",
+    "Y. Imry",
+    "Y. Levinson"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0211681.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0211681.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.877762+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0211681",
+    "categories": [
+      "cond-mat.mes-hall"
+    ]
+  }
+}

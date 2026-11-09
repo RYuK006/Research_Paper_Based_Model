@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0201081",
+  "title": "Granular and Nano-Elasticity",
+  "abstract": "The modeling of the elastic properties of granular or nanoscale systems requires the foundations of the theory of elasticity to be revisited, as one explores scales at which this theory may no longer hold. The only cases for which a microscopic justification of elasticity exists are (nearly) uniformly strained lattices. A microscopic theory of elasticity, as well as simulations, reveal that standard continuum elasticity applies only at sufficiently large scales (typically 100 particle diameters). Interestingly, force chains, which have been observed in experiments on granular systems, and attributed to non-elastic effects, are shown to exist in systems composed of harmonically interacting constituents. The corresponding stress field, which is a continuum mechanical (averaged) entity, exhibits no chain structures even at near-microscopic resolutions, but it does reflect macroscopic anisotropy, when present.",
+  "authors": [
+    "I. Goldhirsch",
+    "C. Goldenberg"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0201081.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0201081.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.704109+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0201081",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

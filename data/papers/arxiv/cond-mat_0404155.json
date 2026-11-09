@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0404155",
+  "title": "Optical properties of silicon nanoparticles in the presence of water: A first principles theoretical analysis",
+  "abstract": "We investigate the impact of water, a polar solvent, on the optical absorption of prototypical silicon clusters with oxygen passivation. We approach this complex problem by assessing the contributions of three factors: chemical reactivity; thermal equilibration and dielectric screening. We find that the silanone (Si=O) functional group is not chemically stable in the presence of water and exclude this as a source of significant red shift in absorption in aqueous environments. We perform first principles molecular dynamics simulations of the solvation of an oxygenated silicon cluster with explicit water molecules at 300 K. We find a systematic 0.7 eV red shift in the absorption gap of this cluster, which we attribute to thermal strain of the molecular structure. Surprisingly, we find no observable screening impact of the solvent, in contrast with consistent blue shifts observed for similarly sized organic molecules in polar solvents. The predicted red shift is expected to be significantly smaller for larger Si quantum dots produced experimentally, guaranteeing that their vacuum optical properties are preserved even in aqueous environments.",
+  "authors": [
+    "David Prendergast",
+    "Jeffrey C. Grossman",
+    "Andrew J. Williamson",
+    "Jean-Luc Fattebert",
+    "Giulia Galli"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.soft"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0404155.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0404155.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:46.659396+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0404155",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.soft"
+    ]
+  }
+}

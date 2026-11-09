@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0210408",
+  "title": "Internet-Based Remote Collaboration at the Neutron Residual Stress Facility at HFIR",
+  "abstract": "The Neutron Residual Stress Facility (NRSF) at ORNL's High Flux Isotope Reactor (HFIR) is being significantly upgraded in conjunction with the upgrade of the HFIR and associated neutron scattering facilities. We have rewritten the LabVIEW-based data acquisition and control software for the NRSF to provide much greater flexibility in operation of the new equipment and to allow remote control over the Internet. The user interface is dynamically adapted to the specifics of each instrument based on instrument configuration information contained in external configuration files. Internet-based remote control is available via three methods. First, a server at the instrument provides local control and accepts connections via an IP socket. Second, instrument status is available on the Web using LabVIEW's built-in web server that will transmit JPEG images of instrument front panels. Third, complete remote control of the data acquisition system is also available to the instrument scientist via Timbuktu Pro, a commercial remote control program. We also support remote scientific collaboration, not just remote instrument control. We have participated in the development of multiple Electronic Notebooks, implemented as a collection of web pages that are created and viewed through a web browser. Access to the notebooks is controlled via X.509 certificates. We operate a Certificate Authority and issue our own certificates. All access control and session management is performed on the server via Java servlets.",
+  "authors": [
+    "M. C. Wright",
+    "C. R. Hubbard",
+    "R. Lenarduzzi",
+    "J. A. Rome"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0210408.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0210408.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.393964+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0210408",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

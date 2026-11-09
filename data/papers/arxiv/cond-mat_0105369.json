@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0105369",
+  "title": "Mesoscopic Superconducting Cylinders: Phase Transitions, Phase Diagrams and Magnetization",
+  "abstract": "Superconducting state in mesoscopic cylinder placed in the external magnetic field is analyzed at general de Gennes boundary condition for the order parameter. The lower and the surface critical fields of the cylinder are calculated at different values of de Gennes \"extrapolation length\" $b$. For the case of standard boundary condition (corresponding to $b\\to \\infty $) we use a variational method to calculate the phase transitions between different superconducting states. Based on the trial function for the order parameter, we find an approximate solutions to the Ginzburg-Landau equations for the Meissner, the single-vortex, and the giant-vortex states. The magnetization curves of thin cylinders are calculated.",
+  "authors": [
+    "W. V. Pogosov",
+    "A. L. Rakhmanov",
+    "E. A. Shapoval"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0105369.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0105369.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.578899+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0105369",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0109289",
+  "title": "Memory in 2D heap experiments",
+  "abstract": "The measurement of force distributions in sandpiles provides a useful way to test concepts and models of the way forces propagate within noncohesive granular materials. Recent theory by Bouchaud et al. implies that the internal structure of a heap (and therefore the force pathway) is a strong function of the construction history. In general, it is difficult to obtain information that could test this idea from 3D granular experiments except at boundaries. However, 2D systems, such as those used here, can yield information on forces and particle arrangements in the interior of a sample. We obtain position and force information through the use of photoelastic particles. These experiments show that the history of the heap formation has a dramatic effect on the arrangement of particles (texture) and a weaker but clear effect on the forces within the sample. Specifically, heaps prepared by pouring from a point source show strong anisotropy in the contact angle distribution. Depending on additional details, they show a stress dip near the center. Heaps formed from a broad source show relatively little contact angle anisotropy and no indication of a stress dip.",
+  "authors": [
+    "Junfei Geng",
+    "Emily Longhi",
+    "R. P. Behringer",
+    "D. W. Howell"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0109289.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0109289.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.438692+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0109289",
+    "categories": [
+      "cond-mat.soft"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0205199",
+  "title": "Many-body and correlation effects on parametric polariton amplificazion in semiconductor microcavities",
+  "abstract": "Very efficient amplification of light-matter waves (polaritons), that are a superposition of cavity photons and excitons [1] has recently been reported[2-11]. The optical gain curve versus the pump power shows a threshold and then saturates to a maximum value[7,11]. Very recently it has been shown that this limit-value of gain can be greatly enhanced by increasing the exciton-photon coupling rate, allowing to approach room temperature operation11. This anomalous enhancement is in contrast with results from present theories[12,13] describing the process. Here we clarify the mechanisms determining gain saturation and explain the observed giant amplification. We show that this enhancement origins from the non-instantaneous nature of exciton-exciton collisions in semiconductors[14] due to many-body correlations. We find that the exciton-photon coupling is able to alter the exciton dynamics during collisions and hence to modify the coupling mechanism at the basis of amplification. These results give precise indications to favour room temperature operation for the realization of all-optical microscopic switches and amplifiers and demonstrate that exciton-exciton collisions in semiconductors can be controlled and engineered.",
+  "authors": [
+    "S. Savasta",
+    "O. Di Stefano",
+    "R. Girlanda"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0205199.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0205199.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.836802+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0205199",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0211339",
+  "title": "Non-equilibrium gelation transition in a kinetic lattice gas model",
+  "abstract": "We consider a lattice gas model which in addition to the canonical nearest neighbor pair interatomic interaction accounts for a many-body interaction inside atomic trios. Interactions of this kind arise in the coherent strained epitaxy and were recently used by us to describe some surface phenomena. With the use of the Monte Carlo simulation we show that in two dimensions the model at low temperature exhibits glassy behaviour, in particular, undergoes a gelation transition. We argue that this model may belong to the universality class of non-equilibrium critical phenomena which may comprise also some off-lattice structural glass transitions, provided such a class exists.",
+  "authors": [
+    "V. I. Tokar",
+    "H. Dreyssé"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.soft",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0211339.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0211339.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.710478+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0211339",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.soft",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

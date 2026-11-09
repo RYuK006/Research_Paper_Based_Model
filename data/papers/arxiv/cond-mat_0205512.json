@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0205512",
+  "title": "Velocity distributions in dilute granular systems",
+  "abstract": "Motivated by recent experiments reporting non-Gaussian velocity distributions in driven dilute granular materials, we study by numerical simulation the properties of inelastic gases as functions of the coefficient of restitution $η$ and concentration $ϕ$ with various heating mechanisms. We show that there are marked, qualitative differences in the behavior for uniform heating (as is frequently assumed theoretically) and for particle systems driven at the boundaries of the container (as is frequently done in experiments). In general, we find Gaussian velocity distributions for uniform heating and non-Gaussian velocity distributions for boundary heating. Furthermore, we demonstrate that the form of the observed velocity distribution is governed primarily by the coefficient of restitution $η$ and $q=N_H/N_C$, the ratio between the average number of heatings and the average number of collisions in the gas. The differences in distributions we find between uniform and boundary heating can then be understood as different limits of $q$, for $q \\gg 1$ and $q \\lesssim 1$ respectively. Moreover, we demonstrate that very similar behavior is found for a simple model of a gas of inelastic particles with no spatial degrees of freedom.",
+  "authors": [
+    "J. S. van Zon",
+    "F. C. MacKintosh"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.soft"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0205512.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0205512.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.001892+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0205512",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.soft"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0101283",
+  "title": "Coherent multiple Andreev reflections and current resonances in SNS junctions",
+  "abstract": "We study coherent multiple Andreev reflections in quantum SNS junctions of finite length and arbitrary transparency. The presence of superconducting bound states in these junctions gives rise to great enhancement of the subgap current. The effect is most pronounced in low-transparency junctions, $D\\ll1$, and in the interval of applied voltage $Δ/2<eV<Δ$, where the amplitude of the current structures is proportional to the first power of the junction transparency $D$. The resonant current structures consist of steps and oscillations of the two-particle current and also of multiparticle resonance peaks. The positions of the two-particle current structures have pronounced temperature dependence which scales with $Δ(T)$, while the positions of the multiparticle resonances have weak temperature dependence, being mostly determined by the junction geometry. Despite the large resonant two-particle current, the excess current at large voltage is small and proportional to $D^2$. Pacs: 74.50.+r, 74.80.Fp, 74.20.Fg, 73.23.Ad",
+  "authors": [
+    "Å. Ingerman",
+    "G. Johansson",
+    "V. S. Shumeiko",
+    "G. Wendin"
+  ],
+  "year": 2001,
+  "doi": "10.1103/PhysRevB.64.144504",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0101283.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0101283.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:04.571929+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0101283",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.mes-hall"
+    ]
+  }
+}

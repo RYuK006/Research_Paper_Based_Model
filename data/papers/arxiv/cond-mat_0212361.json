@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0212361",
+  "title": "Self-energy analysis of frequency-dependent conductivity: Application to Pb, Nb, and MgB$_2$ in normal state",
+  "abstract": "We propose and demonstrate a microscopic way to analyze the frequency-dependent infrared conductivity: extraction of the electron self-energy from the inversion of experimentally measured infrared conductivity through the functional minimization and numerical iterations. The self-energy contains the full information on the coherent and incoherent parts of interacting electrons and, therefore, can describe their charge dynamics even when the quasi-particle concept is not valid. From the extracted self-energy, other physical properties such as the Raman intensity spectrum and the effective interaction between electrons can also be computed. We will first demonstrate that the self-energy analysis can be successfully implemented by fitting the frequency-dependent condcutivities of the simple metals such as Pb and Nb, and then calculating the effective interactions between electrons from the extracted self-energies and comparing them with those obtained from the tunneling experiments. We then present the self-energy analysis of the MgB$_2$ superconductors in normal state and clarify some of the controversies in their optical spectra. In particular, the small electron-phonon coupling constant obtained previously is attributed to an underestimate of the plasma frequency.",
+  "authors": [
+    "Tae-Hyoung Gimm",
+    "Han-Yong Choi"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0212361.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0212361.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.077500+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0212361",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

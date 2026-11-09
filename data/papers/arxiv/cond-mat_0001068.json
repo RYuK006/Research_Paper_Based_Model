@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0001068",
+  "title": "Holons on a meandering stripe: quantum numbers",
+  "abstract": "We attempt to access the regime of strong coupling between charge carriers and transverse dynamics of an isolated conducting ``stripe'', such as those found in cuprate superconductors. A stripe is modeled as a partially doped domain wall in an antiferromagnet (AF), introduced in the context of two different models: the t-J model with strong Ising anisotropy, and the Hubbard model in the Hartree-Fock approximation. The domain walls with a given linear charge density are supported artificially by boundary conditions. In both models we find a regime of parameters where doped holes lose their spin and become holons (charge Q=1, spin S_z=0), which can move along the stripe without frustrating AF environment. One aspect in which the holons on the AF domain wall differ from those in an ordinary one-dimensional electron gas is their transverse degree of freedom: a mobile holon always resides on a transverse kink (or antikink) of the domain wall. This gives rise to two holon flavors and to a strong coupling between doped charges and transverse fluctuations of a stripe.",
+  "authors": [
+    "Oleg Tchernyshyov",
+    "Leonid P. Pryadko"
+  ],
+  "year": 2000,
+  "doi": "10.1103/PhysRevB.61.12503",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0001068.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0001068.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:03.774148+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0001068",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

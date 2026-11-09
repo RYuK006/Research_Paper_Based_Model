@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0407150",
+  "title": "sd-type Exchange Interactions in Nonhomogeneous Ferromagnets",
+  "abstract": "Motivated by a need to understand spin-momentum transport in CPP (current perpendicular to the plane) structures, a quantum field theoretical treatment of spin-spin interactions in ferromagnets is presented. The sd interaction of the conduction electrons and the magnetic medium is treated non-perturbatively from first principles in real space. The localized magnetic moments also interact with each other through a Heisenberg exchange potential. To take into account correlation effects, a second quantized formulation is used. The semi-classical limit is taken by using a coherent-state path-integral technique which also allows us to go beyond a linear-response approach. We derive a set of coupled equations of motion for the nonuniform magnetization, the spin current and the two-point correlation functions of the magnetization. The rate of change of the magnetization is shown to obey a generalized Landau-Lifshitz equation that takes into account interaction with the conduction electrons. Within the relaxation time approximation it is shown that the polarization of the conduction electrons obeys a diffusion equation. The diffusion tensor, which has off-diagonal terms due to the sd exchange interaction, is now explicitly dependent on the magnetization of the medium. We also show that the magnetization fluctuations satisfy a diffusion-type equation. The derived equations are used in two illustrative examples.",
+  "authors": [
+    "W. N. G. Hitchon",
+    "G. J. Parker",
+    "A. Rebei"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0407150.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0407150.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.784453+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0407150",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

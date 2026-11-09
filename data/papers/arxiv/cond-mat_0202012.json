@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0202012",
+  "title": "A Theoretical Search for the Optimum Giant Magnetoresistance",
+  "abstract": "The maximum current-perpendicular-to-plane giant magnetoresistance is searched for in magnetic multilayers made of Co, Ni, and Cu with disorder levels similar to those found in room temperature experiments. The calculation is made possible by a highly optimized linear response code, which uses the impurity averaged Green's function technique and a 9-band per spin tight binding model. Using simulated annealing, hundreds of different configurations of the atomic layers are examined to find a maximum GMR of 450% in ultrathin Ni/Cu superlattices.",
+  "authors": [
+    "Tat-Sang Choy",
+    "Jian Chen",
+    "Selman Hershfield"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0202012.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0202012.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.929166+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0202012",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

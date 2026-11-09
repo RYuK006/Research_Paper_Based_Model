@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0404249",
+  "title": "Light Localization and Lasing in a 3D Random Array of Small Particles",
+  "abstract": "The results of computer simulations of light scattering by a random array of small particles is presented. Results are given for arrays of particles situated randomly in a cubic, 3D sample $1.6μ$ on a side with particle numbers ranging from 100 to 937. The material parameters used correspond to ZnO and Ag, over the wavelength range $300nm < λ< 400nm$. The particle diameter considered for ZnO is 50nm and for Ag 20nm. No evidence of light localization was found. Energy density calculations show that energy is mostly confined to the region near and in the scattering particles, and that little energy concentrates in the fields between particles. Gain was added to the ZnO system by adding a resonant term having Lorentzian line shape with a negative coefficient, which drives the imaginary part of the dielectric constant negative corresponding to gain. With gain in the system, the losses can be compensated; however, localization and loss compensation (which leads to a lasing threshold) are not connected. These results indicate that similar calculations with a larger number of scattering sites would still be of interest. This, however, will require very different numerical techniques than have hitherto been applied.",
+  "authors": [
+    "Paul R. Sievert"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0404249.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0404249.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:46.722277+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0404249",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

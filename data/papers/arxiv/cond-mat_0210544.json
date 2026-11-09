@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0210544",
+  "title": "Microscopic many-body theory of atomic Bose gases near a Feshbach resonance",
+  "abstract": "A Feshbach resonance in the s-wave scattering length occurs if the energy of the two atoms in the incoming open channel is close to the energy of a bound state in a coupled closed channel. Starting from the microscopic hamiltonian that describes this situation, we derive the effective atom-molecule theory for a Bose gas near a Feshbach resonance. In order to take into account all two-body processes, we have to dress the bare couplings of the atom-molecule model with ladder diagrams. This results in a quantum field theory that exactly reproduces the scattering amplitude of the atoms and the bound-state energy of the molecules. Since these properties are incorporated at the quantum level, the theory can be applied both above and below the critical temperature of the gas. Moreover, making use of the true interatomic potentials ensures that no divergences are encountered at any stage of the calculation. We also present the mean-field theory for the Bose-Einstein condensed phase of the gas.",
+  "authors": [
+    "R. A. Duine",
+    "H. T. C. Stoof"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0210544.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0210544.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.484565+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0210544",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

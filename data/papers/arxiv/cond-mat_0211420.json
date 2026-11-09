@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0211420",
+  "title": "Structural and electronic properties of pentacene molecule and molecular pentacene solid",
+  "abstract": "The structural and electronic properties of a single pentacene molecule and a pentacene molecular crystal, an organic semiconductor, are examined by a first-principles method based on the generalized gradient approximation of density functional theory. Calculations were carried out for a triclinic unit cell containing two pentacene molecules. The bandwidths of the valence and conduction bands which determine the charge migration mechanism are found to depend strongly on the crystallographic direction. Along the triclinic reciprocal lattice vectors A and B which are orientated approximately perpendicular to the molecular axes the maximal valence (conduction) band width amounts to only 75 (59) meV, even smaller values are obtained for the C direction parallel to molecular axes even less. Along the stacking directions A+B and A-B, however, the maximal valence (conduction) band width is found to reach 145 (260) meV. The value for the conduction band width is larger than estimates for the polaron binding energy but significantly smaller than recent results obtained by semiempirical methods. The single molecule has a HOMO-LUMO gap of about 1.1 eV as deduced from the Kohn-Sham eigenvalue differences. When using the self-consistent field method, which is expected to yield more reliable results, a value of 1.64 eV is obtained. The theoretical value for the band gap in the molecular solid amounts to 1.0 eV at the Gamma-point.",
+  "authors": [
+    "R. G. Endres",
+    "C. Y. Fong",
+    "L. H. Yang",
+    "G. Witte",
+    "Ch. Woll"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.soft"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0211420.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0211420.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.750131+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0211420",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.soft"
+    ]
+  }
+}

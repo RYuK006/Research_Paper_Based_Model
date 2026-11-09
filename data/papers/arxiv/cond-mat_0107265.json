@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0107265",
+  "title": "Spin torque in a magnetic trilayer coupled to a superconductor",
+  "abstract": "A ferromagnet-normal-metal-ferromagnet trilayer does not conserve spin current and as a result, the conduction electrons can create a torque on the magnetic moments. When the trilayer is connected to a superconducting electrode, the spin torque created by a current flowing perpendicularly to the trilayer can drive the system to a configuration where the two magnetic moments are perpendicular to each other. Here we argue that in contrast to the non-equilibrium torque, the equilibrium torque (or magnetic exchange interaction) does not single out the perpendicular configuration. We calculate the equilibrium torque for a one-dimensional lattice model and find that it is sensitive to the presence of the superconductivity.",
+  "authors": [
+    "Xavier Waintal",
+    "Piet W. Brouwer"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0107265.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0107265.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.024326+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0107265",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.mes-hall"
+    ]
+  }
+}

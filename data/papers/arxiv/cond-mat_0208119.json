@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0208119",
+  "title": "Spin order on pyrochlore lattices studied by the Self-Consistent Cluster Approach",
+  "abstract": "In this paper we present a study of magnetic order of quantum Heisenberg spins on pyrochlore type lattices: a lattice of corner sharing tetrahedra. We use the Cluster Variation Approximation with the tetrahedron as basic cluster. We find that in case of anti-ferromagnetic nearest--neighbour exchange there is no long--range spin order at any finite temperature for any spin s. For ferromagnetic exchange and s=1/2 the spin system remains in a non-magnetic phase for all temperatures, while for s > 1/2 there is a finite order temperature. We derive the ground state phase diagram as a function of exchange anisotropy and tetragonal anisotropy and find regions of re--entrant behaviour. Magnetic fields can induce one or more magnetic transitions. Schottky--like anomalies appear in the specific heat, with on top signs of re--entrant behaviour. The limits of this Cluster Variation Approximations are discussed.",
+  "authors": [
+    "Wiebe Geertsma"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0208119.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0208119.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.882109+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0208119",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

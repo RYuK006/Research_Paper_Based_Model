@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0104420",
+  "title": "Transmittance quantities probability distributions of waves through disordered systems",
+  "abstract": "Waves propagate through disordered systems in a variety of regimes. There is a threshold of disorder beyond which waves become localized and transport becomes restricted. The intensity I of the wave transmitted through a system has a dependence on the length L of the sample that is characteristic of the regime. For example, I decays as 1/L in the diffusive regime. It is of current interest to characterize the transport regime of a wave from statistical studies of the transmittance quantities through it. Studies suggest that the probability distribution of the intensity could be used to characterize the localized regime. There is an ongoing debate on what deviations from the classical Rayleigh distribution are to be expected. In this numerical work, we use scalar waves to obtain the intensity, transmission, and conductance of waves through a disordered system. We calculate the intensity, by setting an incoming plane wave towards the sample from a fixed direction. The outgoing intensity is then calculated at one point in space. This process is repeated for a collection of samples belonging to the same ensemble that characterizes the disorder, and we construct the probability distribution of the intensity. In the case of transmission, we evaluate the field arriving to a series of points distributed in the far field, and repeat the same statistical analysis. For the conductance, we calculate the field at the same series of points for incoming waves in different directions. We analyze the distribution of the transmittance quantities and their change with the degree of disorder.",
+  "authors": [
+    "Gabriel A. Cwilich",
+    "Fredy R. Zypman"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.dis-nn",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0104420.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0104420.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.363645+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0104420",
+    "categories": [
+      "cond-mat.dis-nn",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

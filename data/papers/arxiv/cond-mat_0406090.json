@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0406090",
+  "title": "Qubit coherence control in a nuclear spin bath",
+  "abstract": "Coherent dynamics of localized spins in semiconductors is limited by spectral diffusion arising from dipolar fluctuation of lattice nuclear spins. Here we extend the semiclassical theory of spectral diffusion for nuclear spins I=1/2 to the high nuclear spins relevant to the III-V materials and show that applying successive qubit pi-rotations at a rate approximately proportional to the nuclear spin quantum number squared (I^2) provides an efficient method for coherence enhancement. Hence robust coherent manipulation in the large spin environments characteristic of the III-V compounds is possible without resorting to nuclear spin polarization, provided that the pi-pulses can be generated at intervals scaling as I^{-2}.",
+  "authors": [
+    "Rogerio de Sousa",
+    "Neil Shenvi",
+    "K. Birgitta Whaley"
+  ],
+  "year": 2005,
+  "doi": "10.1103/PhysRevB.72.045330",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0406090.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0406090.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.357691+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0406090",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

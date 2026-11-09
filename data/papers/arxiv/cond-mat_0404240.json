@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0404240",
+  "title": "Free Energy Driven Transfer of Charge in Dense Electrochemically Active Monomolecular Films",
+  "abstract": "The interest in monomolecular films as electric conductors arises from the search for innovative materials. The utility of non-covalently bonded films is limited because they are mechanically unstable and consist of poorly connected domains. Consequently, charge transfers in these films are limited to the distances in the order of a micrometer. Here we show that a recently developed gas phase assembling method (Burtman, V., Zelichenok, A., Yitzchaik, S. (1999) Angewandte Chemie Inter. Ed. 38, 2041-2045.), which produces robust dense monolayers of NTCDI covalently attached to the surface of silicon, allows one to overcome this scale limitation. These virtually insulating monolayers can be photo-chemically populated with cation-radicals via ejection of electrons into the semi-conducting base. The positive charges of cation-radicals can migrate as far as several millimeters within microseconds in a random walk fashion thus demonstrating the macroscopic connectivity of the film. Since the charges exist as cation-radicals, which are potent oxidants, their migration is coupled to transfer of the free energy of their reduction and is driven by the redox potential gradient. Reduction of cation-radicals by an anode converts this free energy into electromotive force. We show how these films can be implemented in solar energy conversion and basic time-resolved distance-controlled studies of sequences of ultra-fast electron transfers.",
+  "authors": [
+    "Dmitry Zaslavsky",
+    "Andrei Pakoulev",
+    "Vladimir Burtman"
+  ],
+  "year": 2004,
+  "doi": "10.1021/jp047315b",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.other"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0404240.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0404240.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:46.718660+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0404240",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.other"
+    ]
+  }
+}

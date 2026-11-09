@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0310250",
+  "title": "Disordered Josephson Junctions of d-Wave Superconductors",
+  "abstract": "We study the Josephson effect between weakly coupled d-wave superconductors within the quasiclassical theory, in particular, the influence of interface roughness on the current-phase relation and the critical current of mirror junctions and $45^\\circ$ asymmetric junctions. For mirror junctions the temperature dependence of the critical current is non-monotonic in the limit of low roughness, but monotonic for very rough interfaces. For $45^\\circ$ asymmetric junctions with a linear dimension much larger than the superconducting coherence length we find a $\\sin(2ϕ)$-like current-phase relation, whereas for contacts on the scale of the coherence length or smaller the usual $\\sinϕ$-like behavior is observed. Our results compare well with recent experimental observations.",
+  "authors": [
+    "T. Lueck",
+    "P. Schwab",
+    "U. Eckern",
+    "A. Shelankov"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevB.68.174524",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0310250.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0310250.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:14.720143+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0310250",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0312627",
+  "title": "How systems of single-molecule magnets magnetize at low temperatures",
+  "abstract": "We model magnetization processes that take place through tunneling in crystals of single-molecule magnets, such as Mn_12 and Fe_8. These processes take place when a field H is applied after quenching to very low temperatures. Magnetic dipolar interactions and spin flipping rules are essential ingredients of the model. The results obtained follow from Monte Carlo simulations and from the stochastic model we propose for dipole field diffusion. Correlations established before quenching are shown to later drive the magnetization process. We also show that in simple cubic lattices, m \\propto sqrt(t) at time t after H is applied, as observed in Fe_8, but only for 1+2\\log_10(h_d/h_w) time decades, where h_d is some near-neighbor magnetic dipolar field and a spin reversal can occur only if the magnetic field acting on it is within some field window (-h_w,h_w). However, the sqrt(t) behavior is not universal. For BCC and FCC lattices, m \\propto t^p, but p \\simeq 0.7 . An expression for p in terms of lattice parameters is derived. At later times the magnetization levels off to a constant value. All these processes take place at approximately constant magnetic energy if the annealing energy epsilon_a is larger than the tunneling window's energy width (i.e., if epsilon_a \\gtrsim gμ_B h_w S). Thermal processes come in only later on to drive further magnetization growth.",
+  "authors": [
+    "J. F. Fernandez",
+    "J. J. Alonso"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevB.69.024411",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0312627.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0312627.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.743804+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0312627",
+    "categories": [
+      "cond-mat.stat-mech"
+    ]
+  }
+}

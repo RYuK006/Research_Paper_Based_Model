@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0111189",
+  "title": "Current transport in a superconducting superlattice system",
+  "abstract": "We investigate the effect of the superlattice structure on the single particle transport along the c-axis of high temperature superconductors. In particular, superlattice systems that consists of metals/insulators and d-wave superconductors (NS/IS superlattice) are considered. We find that for the NS superlattice in the large mass anisotropy limit of the metal, the density of state in the low energy section is bulk d-wave like except that the position of the quasi-particle peak can be considerably smaller than the gap value, while for the IS superlattice, the quasi-particle peak remains at the gap value. We also calculate the nonlinear differential conductance in the planar junction measurement. It is found that the width of the Andreev peak at zero-bias may be affected strongly by the superlattice structure, specifically, it can be considerably reduced due to the destructive interference of the Andreev reflections from all the superconductors. Such a reduction in the width makes the Andreev peak resonant-like and has been observed in a recent experiment.",
+  "authors": [
+    "Bor-Luen Huang",
+    "Chung-Yu Mou"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0111189.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0111189.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.311692+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0111189",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

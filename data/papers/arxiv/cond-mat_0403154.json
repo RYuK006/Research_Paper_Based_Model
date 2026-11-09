@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0403154",
+  "title": "Complex magnetic phase diagram of CePd_{2-x}Ni_xAl_3 around its critical concentration",
+  "abstract": "Thermal, magnetic and transport measurements are reported on CePd_{2-x}Ni_xAl_3 in the 0<= x <= 1 range, including the effect of pressure (p) and magnetic field on some selected samples. The low temperature results indicate that long range antiferromagnetic order is stable up to x=0.2, while between 0.25 and 0.5 magnetic disorder gives rise to non-Fermi-liquid (NFL) behavior. In this region, the low temperature specific heat can be described by the sum of two components, the major one showing a C_P/T=gamma_0 -gamma_1 T^(1/2) dependence, while the minor one includes a decreasing number of degrees of freedom related to a residue of short range order. The latter extrapolates to zero between 0.45<x_{cr}<0.5. Electrical resistivity (rho) studies performed under pressure for x=0.5 allow to investigate the evolution of the NFL state right above the critical point, where the exponent of rho ~ T^n is found to increase from n=1 (for p=0) up to n=2 (for p=12 kbar). The latter is observed for x=1.0 already at normal pressure, indicating the onset of the Fermi Liquid behavior. Doping and pressure effects are compared by fitting high temperature resistivity data employing a unique function which allows to describe the evolution of the characteristic energy of this series through a large range of concentration and pressure.",
+  "authors": [
+    "J. G. Sereni",
+    "P. Pedrazzini",
+    "E. Bauer",
+    "A. Galatanu",
+    "Y. Aoki",
+    "H. Sato"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0403154.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0403154.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.580669+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0403154",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

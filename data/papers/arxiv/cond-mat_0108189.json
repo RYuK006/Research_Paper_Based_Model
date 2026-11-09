@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0108189",
+  "title": "Landau-Khalatnikov Circuit model for Ferroelectric Hysteresis",
+  "abstract": "We present the circuit equivalent of the Landau-Khalatnikov dynamical ferroelectric model. The differential equation for hysteretic behavior is subject to numerical computer simulations. The size and shape of the simulated hysteretic loops depends strongly on the frequency and the amplitude of the driving electric field. This dependence makes the experimental extraction of the coercive electric field difficult. The bifurcation of the driven Landau-Khalatnikov model is explained in detail.",
+  "authors": [
+    "S. Sivasubramanian",
+    "A. Widom"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0108189.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0108189.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.200160+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0108189",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

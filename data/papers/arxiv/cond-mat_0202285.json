@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0202285",
+  "title": "Theoretical Study of Magnetism and Superconductivity in 3d Transition-Metal- MgB_2 Alloys",
+  "abstract": "We have studied the electronic structure of 3d transition-metal- MgB_{2} alloys, Mg_{0.97}TM_{0.03}B_{2}, (TM\\equiv Sc, Ti, V, Cr, Mn, Fe, Co, Ni, Cu, Zn) using KKR-CPA method in the atomic-sphere approximation. For unpolarized calculations, our results for Mg_{0.97}TM_{0.03}B_{2} alloys are similar to that of 3d impurities in other s and s-p metals. In particular, the local densities of states (DOS) associated with the 3d impurities are similar to our earlier work on 3d impurities in bulk Al. For spin-polarized calculations, we find only the alloys of V, Cr, Mn, Fe and Co with MgB_{2} to be magnetic of all the 3d elements. We also find that Cr and Mn in MgB_{2} have a relatively large local magnetic moment of 2.43 μ_{B} and 2.87 μ_{B}, respectively. We have used the unpolarized, self-consistent potentials of Mg_{0.97}TM_{0.03}B_{2} alloys, obtained within the coherent- potential approximation, to calculate the electron-phonon coupling constant λusing the Gaspari-Georffy formalism and the superconducting transition temperature T_{c} using the Allen-Dynes equation. We find that the calculated T_{c} is the lowest for Mg_{0.97}Cr_{0.03}B_{2} and the highest for Mg_{0.97}Zn_{0.03}B_{2}, in qualitative agreement with experiment. The calculated trend in variation of T_{c} from Mn to Zn is also similar to the available experimental data. Our analysis of the variation in T_{c}, in terms of the DOS and the spectral function along Γto A direction, shows the variation to be an interplay between the total DOS at the Fermi energy and the creation/removal of states along Γto A direction [P. P. Singh, cond-mat/0201093].",
+  "authors": [
+    "Prabhakar P. Singh",
+    "P. Jiji Thomas Joseph"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0202285.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0202285.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.032635+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0202285",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

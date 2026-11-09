@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0307292",
+  "title": "Ab initio Simulations of Fe-based Ferric Wheels",
+  "abstract": "Based on first-principles density-functional theory calculations we investigate the electronic structure of hexanuclear \"ferric wheels\" M Fe_6[N(CH_2 CH_2 O)_3]_6 Cl (M = Li, Na) in their antiferromagnetic ground state. The electronic structure is presented in form of spin- and site-resolved local densities of states. The latter clearly indicate that the magnetic moment is distributed over several sites. The local moment at the iron site is still the largest one with about 4 mu_B, thus indicating the valence state of iron to be closer to Fe(II) than to commonly accepted Fe(III). The local spin of S=5/2 per iron site, following from magnetization measurements, is perfectly reproduced if one takes the moments on the neighbor atoms into account. The largest magnetic polarization is found on the apical oxygen atom, followed by nitrogen bridging oxygens. These findings are confirmed by a map of spatial spin density. A further goal of the present study has been a comparative test of two different DFT implementations, Siesta and NRLMOL. They yield a very good agreement down to small details in the electronic structure.",
+  "authors": [
+    "A. V. Postnikov",
+    "Jens Kortus",
+    "Stefan Bluegel"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0307292.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0307292.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.273078+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0307292",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0301409",
+  "title": "Relaxation and Zeno effect in qubit measurements",
+  "abstract": "We consider a qubit interacting with its environment and continuously monitored by a detector represented by a point contact. Bloch-type equations describing the entire system of the qubit, the environment and the detector are derived. Using these equations we evaluate the detector current and its noise spectrum in terms of the decoherence and relaxation rates of the qubit. Simple expressions are obtained that show how these quantities can be accurately measured. We demonstrate that due to interaction with the environment, the measurement can never localize a qubit even for infinite decoherence rate.",
+  "authors": [
+    "S. A. Gurvitz",
+    "L. Fedichkin",
+    "D. Mozyrsky",
+    "G. P. Berman"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevLett.91.066801",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat",
+    "quant-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0301409.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0301409.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.534306+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0301409",
+    "categories": [
+      "cond-mat",
+      "quant-ph"
+    ]
+  }
+}

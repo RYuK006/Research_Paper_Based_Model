@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0306423",
+  "title": "Dynamics of disordered quantum Hall crystals",
+  "abstract": "Charge density waves are thought to be common in two-dimensional electron systems in quantizing magnetic fields. Such phases are formed by the quasiparticles of the topmost occupied Landau level when it is partially filled. One class of charge density wave phases can be described as electron solids. In weak magnetic fields (at high Landau levels) solids with many particles per unit cell - bubble phases - predominate. In strong magnetic fields (at the lowest Landau level) only crystals with one particle per unit cell - Wigner crystals - can form. Experimental identification of these phases is facilitated by the fact that even a weak disorder influences their dc and ac magnetotransport in a very specific way. In the ac domain, a range of frequencies appears where the electromagnetic response is dominated by magnetophonon collective modes. The effect of disorder is to localize the collective modes and to create an inhomogeneously broadened absorption line, the pinning mode. In recent microwave experiments pinning modes have been discovered both at the lowest and at high Landau levels. We present the theory of the pinning mode for a classical two-dimensional electron crystal collectively pinned by weak impurities. We show that long-range Coulomb interaction causes a dramatic line narrowing, in qualitative agreement with the experiments.",
+  "authors": [
+    "Michael M. Fogler"
+  ],
+  "year": 2003,
+  "doi": "10.1016/j.physe.2003.11.225",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0306423.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0306423.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.932205+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0306423",
+    "categories": [
+      "cond-mat.mes-hall"
+    ]
+  }
+}

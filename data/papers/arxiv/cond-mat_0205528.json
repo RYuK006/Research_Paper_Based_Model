@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0205528",
+  "title": "Probing Multi-Scale Energy Landscapes Using the String Method",
+  "abstract": "A novel and powerful method is presented for the study of rare switching events in complex systems with multiscale energy landscapes. The method performs an umbrella sampling of the equilibrium distribution of the system in hyperplanes normal to the effective transition pathway, i.e. the transition pathway of a coarse-grained potential which need not to be known beforehand. Rather the effective transition pathway is determined on the fly in an adaptive way by evolving a smooth curve, called a string, that connects the initial and final regions and feels thermally averaged potential forces. Appropriate averages around the string determine the transition rates. Application to an example of solid-solid transformation of a condensed system is presented.",
+  "authors": [
+    "Weinan E",
+    "Weiqing Ren",
+    "Eric Vanden-Eijnden"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0205528.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0205528.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.012200+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0205528",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

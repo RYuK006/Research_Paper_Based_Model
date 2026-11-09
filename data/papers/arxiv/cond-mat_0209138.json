@@ -1,0 +1,33 @@
+{
+  "id": "arxiv:cond-mat/0209138",
+  "title": "The role of contacts in molecular electronics",
+  "abstract": "Molecular electronic devices are the upmost destiny of the miniaturization trend of electronic components. Although not yet reproducible on large scale, molecular devices are since recently subject of intense studies both experimentally and theoretically, which agree in pointing out the extreme sensitivity of such devices on the nature and quality of the contacts. This chapter intends to provide a general theoretical framework for modelling electronic transport at the molecular scale by describing the implementation of a hybrid method based on Green function theory and density functional algorithms. In order to show the presence of contact-dependent features in the molecular conductance, we discuss three archetypal molecular devices, which are intended to focus on the importance of the different sub-parts of a molecular two-terminal setup.",
+  "authors": [
+    "G. Cuniberti",
+    "F. Grossmann",
+    "R. Gutierrez"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.dis-nn",
+    "cond-mat.mtrl-sci",
+    "cond-mat.soft"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0209138.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0209138.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:08.969235+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0209138",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.dis-nn",
+      "cond-mat.mtrl-sci",
+      "cond-mat.soft"
+    ]
+  }
+}

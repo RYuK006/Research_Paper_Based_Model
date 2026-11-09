@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0111396",
+  "title": "Relation between Magnitude Series Correlations and Multifractal Spectrum Width",
+  "abstract": "We study the correlation properties of long-range correlated time series, $x_i$, with tunable correlation exponent and built-in multifractal properties. For the cases we investigate we find that the correlation exponent of the magnitude series, $|x_{i+1}-x_i|$, is a monotonically increasing function of the multifractal spectrum width of the original series.",
+  "authors": [
+    "Yosef Ashkenazy",
+    "Shlomo Havlin",
+    "Plamen Ch. Ivanov",
+    "Chung-K. Peng",
+    "Verena Schulte-Frohlinde",
+    "H. Eugene Stanley"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0111396.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0111396.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.402721+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0111396",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0307450",
+  "title": "Probing quasiparticle dynamics in Bi2Sr2CaCu2O(8+delta) with a driven Josephson vortex lattice",
+  "abstract": "We show that the flux-flow transport of the Josephson vortex lattice (JVL) in layered high-temperature superconductors provides a convenient probe for both components of quasiparticle conductivity, $σ_{c}$ and $σ_{ab}$. We found that the JVL flux-flow resistivity, $ρ_{ff}$, in a wide range of magnetic fields is mainly determined by the in-plane dissipation. In the dense lattice regime ($B>1$ T) $ρ_{ff}(B)$ dependence is well fitted by the theoretical formula for that limit. That allows us to independently extract from the experimental data the values of $σ_{c}$ and of the ratio $σ_{ab}/(σ_{c}γ^{4})$. The extracted temperature dependence $σ_{ab}(T)$ is consistent with microwave data. The shape of the current-voltage characteristics is also sensitive to the frequency dependence of $σ_{ab}$ and that allows us to estimate the quasiparticle relaxation time and relate it to the impurity bandwidth using data obtained for the same crystal.",
+  "authors": [
+    "Yu. I. Latyshev",
+    "A. E. Koshelev",
+    "L. N. Bulaevskii"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevB.68.134504",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0307450.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0307450.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.357397+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0307450",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0312099",
+  "title": "Spin fluctuations and spin noise",
+  "abstract": "We have theoretically studied the temporal fluctuations and the resulting kinetic noise in the average spin polarization of an electron ensemble drifting in a quantum wire under a high electric field. Electrons are initially injected in the wire from a ferromagnetic contact with all their spins polarized along the wire axis. The average spin polarization of the ensemble decays during transport because of D'yakonov-Perel' relaxation caused by both Rashba and Dresselhaus interactions. Once steady state is reached, the average spin fluctuates randomly around zero. The time average of this fluctuation is zero. The autocorrelation function of this fluctuation approximates a Lorentzian and so does the spectral density. To our knowledge, this is the first study of spin fluctuations and \"spin noise\" in a nanostructure.",
+  "authors": [
+    "S. Pramanik",
+    "S. Bandyopadhyay"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0312099.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0312099.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.495487+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0312099",
+    "categories": [
+      "cond-mat.mes-hall"
+    ]
+  }
+}

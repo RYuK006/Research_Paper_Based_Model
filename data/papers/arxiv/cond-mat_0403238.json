@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0403238",
+  "title": "Room temperature study of a strain-induced electronic superstructure on a magnetite (111) surface",
+  "abstract": "A magnetite (Fe3O4) single crystal (111) surface has been studied at various oxygen-iron surface stoichiometries. The stoichiometry was modified by controlling the in-situ sample anneal conditions. We have found the conditions that lead to the formation of an oxygen-rich surface that forms a quasi-hexagonal superstructure with a 42A periodicity. The superstructure is highly regular and was observed by both LEED and STM. The superstructure consists of three regions, two of which have identical atomic scale structures with a periodicity of 2.8A, and a third having a periodicity that is about 10% larger (3.1A). The subtle difference in the atomic periodicities between the three areas results from the modulation of intrinsic strain developed along the surface. The superstructure results from electronic effects rather than being a mosaic of different iron oxide terminations. The onset of the superstructure is sensitive to the surface stoichiometry. From our results we could estimate the critical density of defects leading to the disappearance of the superstructure. We have modelled the experimental results and calculated the electron density using a DFT algorithm. The model clearly shows the development of strain along the surface.",
+  "authors": [
+    "N. Berdunov",
+    "S. Murphy",
+    "G. Mariotto",
+    "I. V. Shvets"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevB.70.085404",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0403238.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0403238.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.620697+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0403238",
+    "categories": [
+      "cond-mat.soft"
+    ]
+  }
+}

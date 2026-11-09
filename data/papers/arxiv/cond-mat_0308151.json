@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0308151",
+  "title": "Amorphous silica at surfaces and interfaces: simulation studies",
+  "abstract": "The structure of surfaces and interfaces of silica (SiO2) is investigated by large scale molecular dynamics computer simulations. In the case of a free silica surface, the results of a classical molecular dynamics simulation are compared to those of an ab initio method, the Car-Parrinello molecular dynamics. This comparative study allows to check the accuracy of the model potential that underlies the classical simulation. By means of a pure classical MD, the interface between amorphous and crystalline SiO2 is investigated, and as a third example the structure of a silica melt between walls is studied in equilibrium and under shear. We show that in the latter three examples important structural information such as ring size distributions can be gained from the computer simulation that is not accessible in experiments.",
+  "authors": [
+    "Juergen Horbach",
+    "Torsten Stuehn",
+    "Claus Mischler",
+    "Walter Kob",
+    "Kurt Binder"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.dis-nn"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0308151.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0308151.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.586260+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0308151",
+    "categories": [
+      "cond-mat.dis-nn"
+    ]
+  }
+}

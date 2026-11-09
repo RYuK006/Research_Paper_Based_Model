@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0303584",
+  "title": "Self-referential behaviour, overreaction and conventions in financial markets",
+  "abstract": "We study a generic model for self-referential behaviour in financial markets, where agents attempt to use some (possibly fictitious) causal correlations between a certain quantitative information and the price itself. This correlation is estimated using the past history itself, and is used by a fraction of agents to devise active trading strategies. The impact of these strategies on the price modify the observed correlations. A potentially unstable feedback loop appears and destabilizes the market from an efficient behaviour. For large enough feedbacks, we find a `phase transition' beyond which non trivial correlations spontaneously set in and where the market switches between two long lived states, that we call conventions. This mechanism leads to overreaction and excess volatility, which may be considerable in the convention phase. A particularly relevant case is when the source of information is the price itself. The two conventions then correspond then to either a trend following regime or to a contrarian (mean reverting) regime. We provide some empirical evidence for the existence of these conventions in real markets, that can last for several decades.",
+  "authors": [
+    "Matthieu Wyart",
+    "Jean-Philippe Bouchaud"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0303584.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0303584.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:43.896187+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0303584",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

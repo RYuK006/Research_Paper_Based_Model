@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:adap-org/9804003",
+  "title": "Collective Behaviour and Diversity in Economic Communities: Some Insights from an Evolutionary Game",
+  "abstract": "Many complex adaptive systems contain a large diversity of specialized components. The specialization at the level of the microscopic degrees of freedom, and diversity at the level of the system as a whole are phenomena that appear during the course of evolution of the system. We present a mathematical model to describe these evolutionary phenomena in economic communities. The model is a generalization of the replicator equation. The economic motivation for the model and its relationship with some other game theoretic models applied to ecology and sociobiology is discussed. Some results about the attractors of this dynamical system are described. We argue that while the microscopic variables -- the agents comprising the community -- act locally and independently, time evolution produces a collective behaviour in the system characterized by individual specialization of the agents as well as global diversity in the community. This occurs for generic values of the parameters and initial conditions provided the community is sufficiently large, and can be viewed as a kind of self-organization in the system. The context dependence of acceptable innovations in the community appears naturally in this framework.",
+  "authors": [
+    "Vivek S. Borkar",
+    "Sanjay Jain",
+    "Govindan Rangarajan"
+  ],
+  "year": 1998,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "adap-org",
+    "cond-mat",
+    "nlin.AO"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/adap-org/9804003.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\adap-org_9804003.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:03.679281+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "adap-org/9804003",
+    "categories": [
+      "adap-org",
+      "cond-mat",
+      "nlin.AO"
+    ]
+  }
+}

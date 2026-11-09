@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0012352",
+  "title": "Material-specific spin filtering in ferromagnet/superconductor ballistic nanojunctions",
+  "abstract": "We study spin-dependent electronic transport across ferromagnet/superconductor ballistic junctions modeled using tight-binding Hamiltonians with s, p and d orbitals and material-specific parameters. We show that by accurately modeling the band structure of the bulk materials, one can reproduce the measured differential conductance of Cu/Pb nanocontacts. In contrast the differential conductance of Co/Pb contacts can only be reproduced if an enhanced magnetic moment is present at the interface.",
+  "authors": [
+    "F. Taddei",
+    "S. Sanvito",
+    "C. J. Lambert"
+  ],
+  "year": 2000,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0012352.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0012352.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:04.364520+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0012352",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.supr-con"
+    ]
+  }
+}

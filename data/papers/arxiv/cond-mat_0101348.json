@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0101348",
+  "title": "Finite-Size and surface effects in maghemite nanoparticles: Monte Carlo simulations",
+  "abstract": "Finite-size and surface effects in fine particle systems are investigated by Monte Carlo simulation of a model of a $γ$-Fe$_2$O$_3$ (maghemite) single particle. Periodic boundary conditions have been used to simulate the bulk properties and the results compared with those for a spherical shaped particle with free boundaries to evidence the role played by the surface on the anomalous magnetic properties displayed by these systems at low temperatures. Several outcomes of the model are in qualitative agreement with the experimental findings. A reduction of the magnetic ordering temperature, spontaneous magnetization, and coercive field is observed as the particle size is decreased. Moreover, the hysteresis loops become elongated with high values of the differential susceptibility, resembling those from frustrated or disordered systems. These facts are consequence of the formation of a surface layer with higher degree of magnetic disorder than the core, which, for small sizes, dominates the magnetization processes of the particle. However, in contradiction with the assumptions of some authors, our model does not predict the freezing of the surface layer into a spin-glass-like state. The results indicate that magnetic disorder at the surface simply facilitates the thermal demagnetization of the particle at zero field, while the magnetization is increased at moderate fields, since surface disorder diminishes ferrimagnetic correlations within the particle. The change in shape of the hysteresis loops with the particle size demonstrates that the reversal mode is strongly influenced by the reduced atomic coordination and disorder at the surface.",
+  "authors": [
+    "Oscar Iglesias",
+    "Amilcar Labarta"
+  ],
+  "year": 2001,
+  "doi": "10.1103/PhysRevB.63.184416",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0101348.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0101348.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:04.595083+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0101348",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

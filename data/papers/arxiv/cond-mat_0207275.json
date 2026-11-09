@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0207275",
+  "title": "Absence of First-order Transition and Tri-critical Point in the Dynamic Phase Diagram of a Spatially Extended Bistable System in an Oscillating Field",
+  "abstract": "It has been well established that spatially extended, bistable systems that are driven by an oscillating field exhibit a nonequilibrium dynamic phase transition (DPT). The DPT occurs when the field frequency is on the order of the inverse of an intrinsic lifetime associated with the transitions between the two stable states in a static field of the same magnitude as the amplitude of the oscillating field. The DPT is continuous and belongs to the same universality class as the equilibrium phase transition of the Ising model in zero field [G. Korniss et al., Phys. Rev. E 63, 016120 (2001); H. Fujisaka et al., Phys. Rev. E 63, 036109 (2001)]. However, it has previously been claimed that the DPT becomes discontinuous at temperatures below a tricritical point [M. Acharyya, Phys. Rev. E 59, 218 (1999)]. This claim was based on observations in dynamic Monte Carlo simulations of a multipeaked probability density for the dynamic order parameter and negative values of the fourth-order cumulant ratio. Both phenomena can be characteristic of discontinuous phase transitions. Here we use classical nucleation theory for the decay of metastable phases, together with data from large-scale dynamic Monte Carlo simulations of a two-dimensional kinetic Ising ferromagnet, to show that these observations in this case are merely finite-size effects. For sufficiently small systems and low temperatures, the continuous DPT is replaced, not by a discontinuous phase transition, but by a crossover to stochastic resonance. In the infinite-system limit the stochastic-resonance regime vanishes, and the continuous DPT should persist for all nonzero temperatures.",
+  "authors": [
+    "G. Korniss",
+    "P. A. Rikvold",
+    "M. A. Novotny"
+  ],
+  "year": 2002,
+  "doi": "10.1103/PhysRevE.66.056127",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0207275.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0207275.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.478983+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0207275",
+    "categories": [
+      "cond-mat.stat-mech"
+    ]
+  }
+}

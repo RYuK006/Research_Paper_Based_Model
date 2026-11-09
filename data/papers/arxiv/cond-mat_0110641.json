@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0110641",
+  "title": "Flux flow noise and braided rivers of superconducting vortices",
+  "abstract": "Current-voltage measurements of type-II superconductors are described by a coarse-grained model of superconducting vortex dynamics. We find that the power spectra of the voltage fluctuations, and the noise power, are related to the large scale morphology of the plastic flux flow. At currents corresponding to the peak in differential resistance, the flux flow forms a braided river, the noise power is maximal, and the power spectra has a 1/f^α form with α\\approx 1.8 over a wide frequency range. This agrees with recent experiments on NbSe_2. The observed variation of αwith applied current is a crossover phenomenon.",
+  "authors": [
+    "Kevin E. Bassler",
+    "Joern Davidsen",
+    "Maya Paczuski"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.dis-nn",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0110641.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0110641.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.235884+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0110641",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.dis-nn",
+      "cond-mat.supr-con"
+    ]
+  }
+}

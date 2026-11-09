@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0306503",
+  "title": "Quantum model of phonon transport and heat conductivity in carbon nanoclusters and nanotubes",
+  "abstract": "A complex approach phonon quantum discrete model (PQDM) was developed to describe dynamics, kinetics and statistics of phonons in carbon nanostructures with zero-chirality of both zig-zag and armchair geometry. The model allows include into the pure phonon problem existing interaction with others subsystems: electrons, photons, impurities and defects. We predict that planar C- structures are geometrically stable and may bridge interelectrode space in strong external electric field. The exact solution of generalized thermal conductivity (TC) equation was obtained for nanotubes. Temperature distribution along the tube was derived analytically. The diagonalization procedure for the case ofstrong ph-ph interaction was proposed. It was shown the quadratic increasing of heat conductivity with the growth of the phonon mean free path (PMFP). Heat capacitance and the entropy of carbon linear tubes were calculated as the function of temperature. Our theoretical approach explains the nature of good TC in carbon and carbon-like materials by existing of the soft vibration branch (low frequency radial breathing mode phonons with high density of states at thermal energies) accompanied by structure hardness (high frequency $ϕ$- and z-branches) providing big PMFP. TC coefficient for high conducting channel in surrounding medium was calculated. The mechanism of heat conductivity temperature damping was analyzed. Two competitive tendencies produce TC maximum at intermediate temperatures (100-300)K. It was shown the strongly non-linear increasing of effective heat conductivity with the growth nanotubes concentration. It was shown that insertion of armchair nanotube inside a medium or its coating by polyacetilene molecule considerably changes the structure of radial breathing phonons.",
+  "authors": [
+    "E. Ya. Glushko",
+    "V. N. Evteev",
+    "M. V. Moiseenko",
+    "N. A. Slusarenko",
+    "A. A. Zakhidov"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0306503.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0306503.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.994729+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0306503",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

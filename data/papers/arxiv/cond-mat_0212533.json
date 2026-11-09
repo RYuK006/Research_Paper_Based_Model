@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0212533",
+  "title": "Inter- and intragrain currents in bulk melt-grown YBaCuO rings",
+  "abstract": "A simple contactless method suitable to discern between the intergrain (circular) current, which flows in the thin superconducting ring, and the intragrain current, which does not cross the weakest link, has been proposed. At first, we show that the intergrain current may directly be estimated from the magnetic flux density $B(\\pm z_0)$ measured by the Hall sensor positioned in the special points $\\pm z_0$ above/below the ring center. The experimental and the numerical techniques to determine the value $z_0$ are discussed. Being very promising for characterization of a current flowing across the joints in welded YBaCuO rings (its dependencies on the temperature and the external magnetic field as well as the time dissipation), the approach has been applied to study corresponding properties of the intra- and intergrain currents flowing across the $a$-twisted grain boundaries which are frequent in bulk melt-textured YBaCuO samples. We present experimental data related to the flux penetration inside a bore of MT YBaCuO rings both in the non-magnetized, virgin state and during the field reversal. The shielding properties and their dependence on external magnetic fields are also studied. Besides, we consider the flux creep effects and their influence on the current re-distribution during a dwell.",
+  "authors": [
+    "A. B. Surzhenko",
+    "M. Zeisberger",
+    "T. Habisreuther",
+    "W. Gawalek",
+    "L. S. Uspenskaya"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevB.68.064504",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0212533.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0212533.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.192692+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0212533",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

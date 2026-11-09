@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0204548",
+  "title": "Rigid body dynamics of railway ballast",
+  "abstract": "A method for the discrete particle simulation of of almost rigid, sharply edged frictional particles, such as railway ballast is proposed. In difference to Molecular Dynamics algorithms, the method does not require knowledge about the deformation-force law of the material. Moreover, the method does not suffer from numerical instability which is encountered in MD simulations of very stiff particles.",
+  "authors": [
+    "Thomas Schwager",
+    "Thorsten Poeschel"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0204548.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0204548.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.614497+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0204548",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0309188",
+  "title": "The quantum measurement process: an exactly solvable model",
+  "abstract": "An exactly solvable model for a quantum measurement is discussed, that integrates quantum measurements with classical measurements.   The z-component of a spin-1/2 test spin is measured with an apparatus, that itself consists of magnet of N spin-1/2 particles, coupled to a bath. The initial state of the magnet is a metastable paramagnet, while the bath starts in a thermal, gibbsian state. Conditions are such that the act of measurement drives the magnet in the up or down ferromagnetic state, according to the sign of s_z of the test spin.   The quantum measurement goes in two steps. On a timescale 1/\\sqrt{N} the collapse takes place due to a unitary evolution of test spin and apparatus spins; on a larger but still short timescale this collapse is made definite by the bath. Then the system is in a `classical' state, having a diagonal density matrix. The registration of that state is basically a classical process, that can already be understood from classical statistical mechanics.",
+  "authors": [
+    "A. E. Allahverdyan",
+    "R. Balian",
+    "Th. M. Nieuwenhuizen"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.stat-mech",
+    "quant-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0309188.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0309188.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.952240+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0309188",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.stat-mech",
+      "quant-ph"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0103149",
+  "title": "Critical Temperature Shift in Weakly Interacting Bose Gas",
+  "abstract": "With a high-performance Monte Carlo algorithm we study the interaction-induced shift of the critical point in weakly interacting three-dimensional $|ψ|^4$-theory (which includes quantum Bose gas). In terms of critical density, $n_c$, mass, $m$, interaction, $U$, and temperature, $T$, this shift is universal: $Δn_c(T) = - C m^3 T^2 U$, the constant $C$ found to be equal to $0.0140 \\pm 0.0005$. For quantum Bose gas with the scattering length $a$ this implies $ΔT_c/T_c = C_0 a n^{1/3}$, with $C_0=1.29 \\pm 0.05$.",
+  "authors": [
+    "Nikolay Prokof'ev",
+    "Boris Svistunov",
+    "V. A. Kashurnikov"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0103149.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0103149.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:04.993914+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0103149",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0405684",
+  "title": "Orbital order and ferrimagnetic properties of the new compound $Sr_8 Ca Re_3 Cu_4 O_{24}$",
+  "abstract": "By means of the LSDA+U method and the Green function method, we investigate the electronic and magnetic properties of the new material of Sr$_8$CaRe$_3$Cu$_4$O$_{24}$. Our LSDA+U calculation shows that this system is an insulator with a net magnetic moment of 1.01 $μ_{\\rm B}$/f.u., which is in good agreement with the experiment. Magnetic moments are mainly located at Cu atoms, and the magnetic moments of neighboring Cu sites align anti-parallel. It is the non-magnetic Re atoms that induce an orbital order of $d$ electrons of Cu atoms, which is responsible for the strong exchange interaction and the high magnetic transition temperature. Based on the LSDA+U results, we introduce an effective model for the spin degrees of freedom, and investigate the finite-temperature properties by the Green function method. The obtained results are consistent with the experimental results, indicating that the spin-alternating Heisenberg model is suitable for this compound.",
+  "authors": [
+    "Xiangang Wan",
+    "Masanori Kohno",
+    "Xiao Hu"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevLett.94.087205",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0405684.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0405684.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.301934+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0405684",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.str-el"
+    ]
+  }
+}

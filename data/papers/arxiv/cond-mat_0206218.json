@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0206218",
+  "title": "Comment on `Aharonov--Casher-Effect Suppression of Macroscopic Tunneling of Magnetic Flux'",
+  "abstract": "A recent Letter [1] has proposed a device, consisting of an rf SQUID with the junction replaced by a double one, i.e. a Bloch transistor. For symmetric Josephson couplings, and for specific flux bias and gate voltage applied to the transistor's island, the tunneling of encircled flux between its two local potential minima is claimed to be suppressed completely due to destructive interference. This comment purports to show that this claim in general is not valid. Namely, the very Hamiltonian (1) in [1], from which the effect is derived, describes the circuit only under an additional condition.   [1] J.R. Friedman and D.V. Averin, Phys. Rev. Lett._88_, 050403 (2002).",
+  "authors": [
+    "Alec Maassen van den Brink"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.supr-con",
+    "quant-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0206218.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0206218.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.180784+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0206218",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.supr-con",
+      "quant-ph"
+    ]
+  }
+}

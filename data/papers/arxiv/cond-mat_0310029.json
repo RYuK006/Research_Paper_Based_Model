@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0310029",
+  "title": "Elastic properties of cellular dissipative structure",
+  "abstract": "Transition towards spatio-temporal chaos in one-dimensional interfacial patterns often involves two degrees of freedom: drift and out-of-phase oscillations of cells, respectively associated to parity breaking and vacillating-breathing secondary bifurcations. In this paper, the interaction between these two modes is investigated in the case of a single domain propagating along a circular array of liquid jets. As observed by Michalland and Rabaud for the printer's instability \\cite{Rabaud92}, the velocity $V_g$ of a constant width domain is linked to the angular frequency $ω$ of oscillations and to the spacing between columns $λ_0$ by the relationship $ V_g = αλ_0 ω$. We show by a simple geometrical argument that $α$ should be close to $1/ π$ instead of the initial value $α= 1/2$ deduced from their analogy with phonons. This fact is in quantitative agreement with our data, with a slight deviation increasing with flow rate.",
+  "authors": [
+    "Philippe Brunet",
+    "Jean-Marc Flesselles",
+    "Laurent Limat"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0310029.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0310029.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:14.620059+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0310029",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

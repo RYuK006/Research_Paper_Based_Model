@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0108470",
+  "title": "Strange dynamics of domain walls and periodic stripes along classical antiferromagnetic chains",
+  "abstract": "This paper addressses the kinetics and dynamics of a family of domain wall solutions along classical antiferromagnetic Heisenberg spin chains at low energies. The equation of motion is derived and found to have long range position- and velocity-dependent two-body forces. A 'quiescent' regime is identified where the forces between walls are all repelling. Outside this regime some of the interactions are attractive, giving rise to wall collisions whereupon the colliding walls annihilate. The momentum of the system is found to be conserved in the quiescent regime and to suffer discontinuous jumps upon annihilation. The dynamics are illustrated by an exact solution for a double wall system and a numerical solution for a many-wall system.   On circular chains the equations support stable periodic stripes that can rotate as a rigid body. It is found that the stripes are more stable the faster they rotate. The periodic structure can be destabilised by perturbing the walls' angular velocity in which case there is a transition to another periodic structure, possibly via a cascade of annihilation events.",
+  "authors": [
+    "Raphael Blumenfeld"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.dis-nn",
+    "cond-mat.soft"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0108470.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0108470.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.319769+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0108470",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.dis-nn",
+      "cond-mat.soft"
+    ]
+  }
+}

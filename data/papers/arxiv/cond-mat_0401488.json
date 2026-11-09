@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0401488",
+  "title": "The c-axis transport in naturally-grown Bi$_2$Sr$_2$CaCu$_2$O$_{8+δ}$ cross-whisker junctions",
+  "abstract": "We studied the c-axis transport of Bi$_2$Sr$_2$CaCu$_2$O$_{8+δ}$ (Bi2212) cross-whisker junctions formed by annealing ``naturally'' formed whisker junctions. These frequently appear during growth when the $ab$-faces of neighboring whiskers come in contact. We obtained Fraunhofer patterns of the cross-junction critical currents in a parallel magnetic field, and found a sharp increase in the quasiparticle tunneling conductance at $eV=50-60$ mV, indicating high junction quality. For our weak junctions, the interface critical current density is about 0.03 of the critical current density across the stack of bulk intrinsic junctions, as is the room temperature conductivity, and is independent of the twist angle, in contrast to most of the data reported on ``artificial'' cross-whisker junctions [Y. Takano {\\it et al.}, Phys. Rev. B {\\bf 65}, 140513(R) (2002)]. Our results provide strong evidence of incoherent interface tunneling and for at least a small s-wave order parameter component in the bulk of Bi2212 for $T\\le T_c$. They are also consistent with the bicrystal twist experiments of Li {\\it et al.} [Phys. Rev. Lett. {\\bf 83}, 4160 (1999)].",
+  "authors": [
+    "Yu. I. Latyshev",
+    "A. P. Orlov",
+    "A. M. Nikitina",
+    "P. Monceau",
+    "R. A. Klemm"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevB.70.094517",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0401488.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0401488.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.101029+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0401488",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

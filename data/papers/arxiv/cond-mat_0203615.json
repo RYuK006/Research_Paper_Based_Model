@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0203615",
+  "title": "An Intuitive and Exact Steady-State Electrodynamic Formalism for Uniaxial Multilayered Structures: Normal Incidence",
+  "abstract": "Exact expressions for all the steady-state fields (E, H, D, B) in uniaxial linear media composed of an arbitrary number of layers having arbitrary thicknesses subjected to normal incidence are derived. Generic boundary condition relations in terms of the surface wave impedance are applied at each surface so that fields between any sequence of layers can be related by a cascaded multiplication of transfer functions. With the substitution of the appropriate surface wave impedance for the generic surface wave impedance, these generic transfer functions can be made to represent any reflection or transmission of a wave across any boundary. This formalism obviates the need to solve a large set of equations or an infinite series of reflections and transmissions, which has been the traditional approach in solving such problems. A numerically robust exact expression for the power dissipating in any uniaxial layer is also provided. Examples of the analysis of multilayered systems are given. Although the development is devoted to electromagnetic waves, the methodology and expressions are transferable to acoustical waves, and to some extent, the quantum mechanical wave function.",
+  "authors": [
+    "Pieder Beeli"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0203615.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0203615.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.354293+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0203615",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.supr-con"
+    ]
+  }
+}

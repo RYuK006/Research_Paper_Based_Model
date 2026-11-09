@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0406669",
+  "title": "Calculation of The Critical Temperature for Anisotropic Two-Layer Ising Model Using The Transfer Matrix Method",
+  "abstract": "A new finite-size scaling approach based on the transfer matrix method is developed to calculate the critical temperature of anisotropic two-layer Ising ferromagnet, on strips of r wide sites of square lattices. The reduced internal energy per site has been accurately calculated for the ferromagnetic case, with the nearest neighbor couplings Kx, Ky (where Kx and Ky are the nearest neighbor interactions within each layer in the x and y directions, respectively) and with inter-layer coupling Kz, using different size-limited lattices. The calculated energies for different lattice sizes intersect at various points when plotted versus the reduced temperature. It is found that the location of the intersection point versus the lattice size can be fitted on a power series in terms of the lattice sizes. The power series is used to obtain the critical temperature of the unlimited two-layer lattice. The results obtained, are in good agreement with the accurate values reported by others.",
+  "authors": [
+    "M. Ghaemi",
+    "M. Ghannadi",
+    "B. Mirza"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0406669.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0406669.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.666070+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0406669",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

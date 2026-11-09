@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0211569",
+  "title": "Calculation of thermal expansion coefficient of Fe/sub 3/Al with the addition of transition metal elements",
+  "abstract": "The addition of transition metal elements can significantly modify physical properties of intermetalic compounds. We studied the influence of Molybdenum and Vanadium additives on thermal expansion coefficient (CTE) of Fe/sub 3/Al and FeAl over the wide range of temperatures. The site preference of both transition metals was determined by full-potential LMTO method within the grandcanonical formalism. At low temperatures CTEs were found directly from the FP-LMTO calculations by incorporating them into the Debye model of a solid. The obtained thermal expansion for pure Fe/sub 3/Al and FeAl is within 10% of its experimentally measured values. At high temperatures we performed molecular dynamics simulations based on our many-body atomistic potentials. The parameters were fitted to reproduce the total energy of a crystal under various types of deformations obtained by FP-LMTO method and were tested with respect to different structures and vacancy formation energies. Our calculations show that addition of V decreases the CTEs of both iron-aluminides, while the addition of Mo makes Fe/sub 3/Al DO3 structure unstable.",
+  "authors": [
+    "Tatiana Seletskaia",
+    "Leonid Muratov",
+    "Bernard Cooper"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0211569.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0211569.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.821421+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0211569",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

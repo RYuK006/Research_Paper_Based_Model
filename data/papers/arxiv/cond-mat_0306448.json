@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0306448",
+  "title": "Interplay of disorder and magnetic field in the superconducting vortex state",
+  "abstract": "We calculate the density of states of an inhomogeneous superconductor in a magnetic field where the positions of vortices are distributed completely at random. We consider both the cases of s-wave and d-wave pairing. For both pairing symmetries either the presence of disorder or increasing the density of vortices enhances the low energy density of states. In the s-wave case the gap is filled and the density of states is a power law at low energies. In the d-wave case the density of states is finite at zero energy and it rises linearly at very low energies in the Dirac isotropic case (α_D=t/Δ_0=1, where t is the hopping integral and Δ_0 is the amplitude of the order parameter). For slightly higher energies the density of states crosses over to a quadratic behavior. As the Dirac anisotropy increases (as Δ_0 decreases with respect to the hopping term) the linear region decreases in width. Neglecting this small region the density of states interpolates between quadratic and back to linear as α_D increases. The low energy states are strongly peaked near the vortex cores.",
+  "authors": [
+    "J. Lages",
+    "P. D. Sacramento",
+    "Z. Tesanovic"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevB.69.094503",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0306448.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0306448.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.945944+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0306448",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

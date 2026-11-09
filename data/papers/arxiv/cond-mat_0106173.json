@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0106173",
+  "title": "Efficient Switching and Domain Interlocking Observed in Polyaxial Ferroelectrics",
+  "abstract": "We present in-situ transmission electron microscopy observations of domain wall motion in thin freestanding potassium niobate single-crystals. We observe that not all domains of a given polarization orientation are equally switchable in applied electric fields. Tilted and curved 90 degree domain walls are common and display field-induced mobility, whereas untilted domain boundaries resist such motion. The sensitivity of the domain wall response to field direction suggests that electrostatic energy contributions play a crucial role in the observed switching properties. We can explain our results in terms of the polarization charges and the resulting depolarization fields associated with angled domain walls. A phenomenological Landau-Ginzburg analysis of a tilted domain boundary indicates that such electrostatic effects reduce its local switching barrier, thereby enhancing its field-induced mobility compared to that of its untilted counterpart. Consequently not all domain walls are equally mobile. Furthermore the switching efficiency of a particular domain is determined by its allowed final states, as defined by its neighbors. Switching will be inhibited if the relative energetics are unfavorable, and we call this phenomenon domain interlocking. Any increase in density of such field-resistant wall configurations with cycle time represents an inherent contribution to ferroelectric fatigue. Uniaxial ferroelectrics, with polarizations parallel to the field, should not support such interlocked domains.",
+  "authors": [
+    "A. Krishnan",
+    "M. M. J. Treacy",
+    "M. E. Bisher",
+    "P. Chandra",
+    "P. B. Littlewood"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0106173.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0106173.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.741938+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0106173",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

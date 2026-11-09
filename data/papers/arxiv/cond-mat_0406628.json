@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0406628",
+  "title": "Excitations of incoherent spin-waves due to spin-transfer torque",
+  "abstract": "As predicted by Slonczewski and Berger, the possibility of exciting microwave oscillations in a nanomagnet by a spin-polarized current has been recently demonstrated. This observation opens very important perspectives of applications in RF components. However, some unresolved inconsistencies are found when interpreting the magnetization dynamics results within the coherent spin-torque model (CSM). In some cases, the telegraph noise caused by spin-currents could not be described quantitatively by the CSM. This led to controversies about the need of an effective magnetic temperature model (ETM). Here we interpret the experimental results of Kiselev et al. [Nature 425, 380 (2003)] using micromagnetic simulations. We point out the key role played by incoherent spin-waves excitation due to spin-transfer effects. The incoherence is caused by the spatial inhomogeneities of the local fields, generating a distribution of local precession frequencies. It results in telegraph noise at zero temperature associated with transitions between attraction wells in phase space.",
+  "authors": [
+    "K. J. Lee",
+    "A. Deac",
+    "O. Redon",
+    "J. P. Nozieres",
+    "B. Dieny"
+  ],
+  "year": 2004,
+  "doi": "10.1038/nmat1237",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0406628.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0406628.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.631685+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0406628",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

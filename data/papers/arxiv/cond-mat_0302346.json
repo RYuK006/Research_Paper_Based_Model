@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0302346",
+  "title": "Phase Modulated Thermal Conductance of Josephson Weak Links",
+  "abstract": "We present a theory for quasiparticle heat transport through superconducting weak links. The thermal conductance depends on the phase difference ($ϕ$) of the superconducting leads. Branch conversion processes, low-energy Andreev bound states near the contact and the suppression of the local density of states near the gap edge are related to phase-sensitive transport processes. Theoretical results for the influence of junction transparency, temperature and disorder, on the phase modulation of the conductance are reported. For high-transmission weak links, $D\\to 1$, the formation of an Andreev bound state at $ε_{\\text{\\tiny b}}=Δ\\cos(ϕ/2)$ leads to suppression of the density of states for the continuum excitations that transport heat, and thus, to a reduction in the conductance for $ϕ\\simeqπ$. For low-transmission ($D\\ll 1$) barriers resonant scattering at energies $ε\\simeq(1+D/2)Δ$ leads to an increase in the thermal conductance as $T$ drops below $T_c$ (for phase differences near $ϕ=π$).",
+  "authors": [
+    "Erhai Zhao",
+    "Tomas Lofwander",
+    "J. A. Sauls"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevLett.91.077003",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0302346.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0302346.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.854611+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0302346",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

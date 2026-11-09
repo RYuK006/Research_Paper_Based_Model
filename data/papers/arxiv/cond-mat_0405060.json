@@ -1,0 +1,35 @@
+{
+  "id": "arxiv:cond-mat/0405060",
+  "title": "Carbon substitution in MgB2 single crystals: structural and superconducting properties",
+  "abstract": "Growth of carbon substituted magnesium diboride Mg(B1-xCx)2 single crystals with 0<x<0.15 is reported and the structural, transport, and magnetization data are presented. The superconducting transition temperature decreases monotonically with increasing carbon content in the full investigated range of substitution. By adjusting the nominal composition, Tc of substituted crystals can be tuned in a wide temperature range between 10 and 39 K. Simultaneous introduction of disorder by carbon substitution and significant increase of the upper critical field Hc2 is observed. Comparing with the non-substituted compound, Hc2 at 15K for x=0.05 is enhanced by more then a factor of 2 for H oriented both perpendicular and parallel to the ab-plane. This enhancement is accompanied by a reduction of the Hc2-anisotropy coefficient gamma from 4.5 (for non-substituted compound) to 3.4 and 2.8 for the crystals with x = 0.05 and 0.095, respectively. At temperatures below 10 K, the single crystal with larger carbon content shows Hc2 (defined at zero resistance) higher than 7 and 24 T for H oriented perpendicular and parallel to the ab-plane, respectively. Observed increase of Hc2 cannot be explained by the change in the coherence length due to disorder-induced decrease of the mean free path only.",
+  "authors": [
+    "S. M. Kazakov",
+    "R. Puzniak",
+    "K. Rogacki",
+    "A. V. Mironov",
+    "N. D. Zhigadlo",
+    "J. Jun",
+    "Ch. Soltmann",
+    "B. Batlogg",
+    "J. Karpinski"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevB.71.024533",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0405060.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0405060.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.012320+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0405060",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

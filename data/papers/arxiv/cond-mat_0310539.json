@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0310539",
+  "title": "Soft Dissipative Modes in Nematodynamics",
+  "abstract": "The paper analyses a possible occurrence of soft and semi-soft dissipative modes in uniaxially anisotropic nematic liquids as described by the five parametric Leslie-Ericksen-Parodi (LEP) constitutive equations (CEs). As in the similar elastic case, the soft dissipative modes theoretically cause no resistance to flow, nullifying the corresponding components of viscous part of stress tensor, and do not contribute in the dissipation. Similarly to the theories of nematic elastic solids, this effect is caused by a marginal thermodynamic stability. The analysis is trivialized in a specific rotating orthogonal coordinate system whose one axis is directed along the director. We demonstrate that depending on closeness of material parameters to the marginal stability conditions, LEP CEs describe the entire variety of soft, semi-soft and harder behaviours of nematic viscous liquids. When the only shearing dissipative modes are soft, the viscous part of stress tensor is symmetric, and LEP CE for stress, scaled with isotropic viscosity is reduced to a one-parametric, stress - strain rate anisotropic relation. When additionally the elongation dissipative mode is also soft, this scaled relation has no additional parameters and shows that the dissipation is always less than that in isotropic phase. Simple shearing and simple elongation flows illustrate these effects.",
+  "authors": [
+    "Arkady I. Leonov",
+    "Valery S. Volkov"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0310539.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0310539.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:14.955037+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0310539",
+    "categories": [
+      "cond-mat.soft"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0405403",
+  "title": "Superconducting transition temperatures of the elements related to elastic constants",
+  "abstract": "For a given crystal structure, say body-centred-cubic, the many-body Hamiltonian in which nuclear and electron motions are to be treated from the outset on the same footing, has parameters, for the elements, which can be classified as (i) atomic mass M, (ii) atomic number Z, characterizing the external potential in which electrons move, and (iii) bcc lattice spacing, or equivalently one can utilize atomic volume, Omega. Since the thermodynamic quantities can be determined from H, we conclude that Tc, the superconducting transition temperature, when it is non-zero, may be formally expressed as Tc = Tc^(M) (Z, Omega). One piece of evidence in support is that, in an atomic number vs atomic volume graph, the superconducting elements lie in a well defined region. Two other relevant points are that (a) Tc is related by BCS theory, though not simply, to the Debye temperature, which in turn is calculable from the elastic constants C_{11}, C_{12}, and C_{44}, the atomic weight and the atomic volume, and (b) Tc for five bcc transition metals is linear in the Cauchy deviation C* = (C_{12} - C_{44})/(C_{12} + C_{44}). Finally, via elastic constants, mass density and atomic volume, a correlation between C* and the Debye temperature is established for the five bcc transition elements.",
+  "authors": [
+    "G. G. N. Angilella",
+    "N. H. March",
+    "R. Pucci"
+  ],
+  "year": 2004,
+  "doi": "10.1140/epjb/e2004-00213-y",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0405403.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0405403.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.150500+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0405403",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

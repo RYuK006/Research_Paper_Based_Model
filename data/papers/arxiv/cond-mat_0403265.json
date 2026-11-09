@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0403265",
+  "title": "Non-linear screening of spherical and cylindrical colloids: the case of 1:2 and 2:1 electrolytes",
+  "abstract": "From a multiple scale analysis, we find an analytic solution of spherical and cylindrical Poisson-Boltzmann theory for both a 1:2 (monovalent co-ions, divalent counter-ions) and a 2:1 (reversed situation) electrolyte. Our approach consists in an expansion in powers of rescaled curvature $1/(κa)$, where $a$ is the colloidal radius and $1/κ$ the Debye length of the electrolytic solution. A systematic comparison with the full numerical solution of the problem shows that for cylinders and spheres, our results are accurate as soon as $κa>1$. We also report an unusual overshooting effect where the colloidal effective charge is larger than the bare one.",
+  "authors": [
+    "Gabriel Tellez",
+    "Emmanuel Trizac"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevE.70.011404",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0403265.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0403265.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.646750+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0403265",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.mtrl-sci",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

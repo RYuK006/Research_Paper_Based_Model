@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0212267",
+  "title": "From boom to bust and back again: the complex dynamics of trends and fashions",
+  "abstract": "Social trends or fashions are spontaneous collective decisions made by large portions of a community, often without an apparent good reason. The spontaneous formation of trends provides a well documented mechanism for the spread of information across a population, the creation of culture and the self-regulation of social behavior. Here I introduce an agent based dynamical model that captures the essence of trend formation and collapse. The resulting population dynamics alternates states of great diversity (large configurational entropy) with the dominance by a few trends. This behavior displays a kind of self-organized criticality, measurable through cumulants analogous to those used to study percolation. I also analyze the robustness of trend dynamics subject to external influences, such as population growth or contraction and in the presence of explicit information biases. The resulting population response gives insights about the fragility of public opinion in specific circumstances and suggests how it may be driven to produce social consensus or dissonance.",
+  "authors": [
+    "Luis M. A. Bettencourt"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0212267.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0212267.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.019249+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0212267",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

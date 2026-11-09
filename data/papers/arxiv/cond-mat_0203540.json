@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0203540",
+  "title": "A novel Microwave Frequency Scanning Capacitance Microscope",
+  "abstract": "We report a new technique of scanning capacitance microscopy at microwave frequencies. A near field scanning microwave microscope probe is kept at a constant height of about 1nm above the samplewith the help of Scanning Tunneling Microscope (STM) feedback. The microwaves are incident onto the sample through a coaxial resonator that is terminated at one end with a sharp tip (the same tip is used to conduct STM), and capacitively coupled to a feedback circuit and microwave source at the other end. The feedback circuit keeps the source locked onto the resonance frequency of the resonator and outputs the frequency shift and quality factor change due to property variations of the sample. The spatial resolution due to capacitance variations is $\\leq $ 2.5 nm. The microscope is broadband and experiments were performed from 7 GHz to 11 GHz. We develop a quantitative transmission line model that treats the tip to sample interaction as a series combination of capacitance and effective sheet resistance in the sample.",
+  "authors": [
+    "Atif Imtiaz",
+    "Steven M. Anlage"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0203540.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0203540.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.324504+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0203540",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.supr-con"
+    ]
+  }
+}

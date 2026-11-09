@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0302233",
+  "title": "The pair approach applied to kinetics in restricted geometries: strengths and weaknesses of the method",
+  "abstract": "In the rapidly emerging field of nanotechnology, as well as in biology where chemical reaction phenomena take place in systems with characteristic length scales ranging from micrometer to the nanometer range, understanding of chemical kinetics in restricted geometries is of increasing interest. In particular, there is a need to develop more accurate theoretical methods. We used many-particle-density-function formalism (originally developed to study infinite systems) in its simplest form (pair approach) to study two-species A+B->0 reaction-diffusion model in a finite volume. For simplicity reasons, it is assumed that geometry of the system is one-dimensional (1d) and closed into the ring to avoid boundary effects. The two types of initial conditions are studied with (i) equal initial number of A and B particles N_{0,A}=N_{0,B} and (ii) initial number of particles is only equal in average <N_{0,A}>=<N_{0,B}>. In both cases it was assumed that in the initial state the particles are well mixed. It is found that particle concentration decays exponentially for both types of initial conditions. In the case of the type (ii) initial condition, the results of the pair-like analytical model agrees qualitatively with computer experiment (Monte Carlo simulation), while less agreement was obtained for the type (i) initial condition, and the reasons for such behavior are discussed.",
+  "authors": [
+    "Z. Konkoli",
+    "A. Karlsson",
+    "O. Orwar"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.soft"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0302233.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0302233.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.803120+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0302233",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.soft"
+    ]
+  }
+}

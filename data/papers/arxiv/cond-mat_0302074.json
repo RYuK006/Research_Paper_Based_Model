@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0302074",
+  "title": "Finite-Temperature Order-Disorder Phase Transition in a Cluster Model of Decagonal Tilings",
+  "abstract": "In a recent paper [\"Cluster Model of Decagonal Tilings\" (to be published in Phys. Rev. B)], we have introduced a cluster model for decagonal tilings in two dimensions. This model is now extended to three dimensions. Two-dimensional tilings are stacked on top of each other, with a suitable coupling between adjacent layers. An energy model with interactions leading to a perfect decagonal quasicrystal at low temperatures is studied by Monte Carlo simulations. An order parameter is defined, and its dependence on temperature and system size is investigated. Evidence for a finite-temperature order-disorder phase transition is presented. The critical exponents of this transition are determined by finite-size scaling.",
+  "authors": [
+    "Michael Reichert",
+    "Franz Gähler"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0302074.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0302074.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.725262+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0302074",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

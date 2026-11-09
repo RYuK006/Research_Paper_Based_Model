@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0403552",
+  "title": "Adhesion clusters under shared linear loading: a stochastic analysis",
+  "abstract": "We study the cooperative rupture of multiple adhesion bonds under shared linear loading. Simulations of the appropriate Master equation are compared with numerical integration of a rate equation for the mean number of bonds and its scaling analysis. In general, force-accelerated rupture is rather abrupt. For small clusters and slow loading, large fluctuations occur regarding the timepoint of final rupture, but not the typical shape of the rupture trajectory. For vanishing rebinding, our numerical results confirm three scaling regimes predicted before for cluster lifetime as a function of loading rate. For finite rebinding, the intermediate loading regime becomes irrelevant, and a sequence of two new scaling laws can be identified in the slow loading regime.",
+  "authors": [
+    "T. Erdmann",
+    "U. S. Schwarz"
+  ],
+  "year": 2004,
+  "doi": "10.1209/epl/i2003-10239-3",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci",
+    "q-bio.BM"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0403552.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0403552.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.781650+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0403552",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.mtrl-sci",
+      "q-bio.BM"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0108460",
+  "title": "The Ab Initio Melting Curve of Aluminium",
+  "abstract": "The melting curve of aluminium has been determined from 0 to ~150 GPa using first principles calculations of the free energies of both the solid and liquid. The calculations are based on density functional theory within the generalised gradient approximation using ultrasoft Vanderbilt pseudopotentials. The free energy of the harmonic solid has been calculated within the quasiharmonic approximation using the small-displacement method; the free energy of the liquid and the anharmonic correction to the free energy of the solid have been calculated via thermodynamic integration from suitable reference systems, with thermal averages calculated using ab-initio molecular dynamics. The resulting melting curve is in good agreement with both static compression measurements and shock data.",
+  "authors": [
+    "Lidunka Vocadlo",
+    "Dario Alfe`"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0108460.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0108460.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.316735+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0108460",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

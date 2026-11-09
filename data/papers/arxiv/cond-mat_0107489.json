@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0107489",
+  "title": "The three-dimensional random field Ising magnet: interfaces, scaling, and the nature of states",
+  "abstract": "The nature of the zero temperature ordering transition in the 3D Gaussian random field Ising magnet is studied numerically, aided by scaling analyses. In the ferromagnetic phase the scaling of the roughness of the domain walls, $w\\sim L^ζ$, is consistent with the theoretical prediction $ζ= 2/3$. As the randomness is increased through the transition, the probability distribution of the interfacial tension of domain walls scales as for a single second order transition. At the critical point, the fractal dimensions of domain walls and the fractal dimension of the outer surface of spin clusters are investigated: there are at least two distinct physically important fractal dimensions. These dimensions are argued to be related to combinations of the energy scaling exponent, $θ$, which determines the violation of hyperscaling, the correlation length exponent $ν$, and the magnetization exponent $β$. The value $β= 0.017\\pm 0.005$ is derived from the magnetization: this estimate is supported by the study of the spin cluster size distribution at criticality. The variation of configurations in the interior of a sample with boundary conditions is consistent with the hypothesis that there is a single transition separating the disordered phase with one ground state from the ordered phase with two ground states. The array of results are shown to be consistent with a scaling picture and a geometric description of the influence of boundary conditions on the spins. The details of the algorithm used and its implementation are also described.",
+  "authors": [
+    "A. Alan Middleton",
+    "Daniel S. Fisher"
+  ],
+  "year": 2001,
+  "doi": "10.1103/PhysRevB.65.134411",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.dis-nn",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0107489.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0107489.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.098747+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0107489",
+    "categories": [
+      "cond-mat.dis-nn",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

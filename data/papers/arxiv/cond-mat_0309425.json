@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0309425",
+  "title": "Magnetization plateaus in frustrated antiferromagnetic quantum spin models",
+  "abstract": "Plateaus can be observed in the zero-temperature magnetization curve of quantum spin systems at rational values of the magnetization. In one dimension, the appearance of a plateau is controlled by a quantization condition for the magnetization which involves the length of the local spin and the volume of a translational unit cell of the ground state. We discuss examples of geometrically frustrated quantum spin systems with large (in general unbounded) periodicities of spontaneous breaking of translational symmetry in the ground state.   In two dimensions, we discuss the square, triangular and Kagome lattices using exact diagonalization (ED) for up to N=40 sites. For the spin-1/2 XXZ model on the triangular lattice we study the nature and stability region of a plateau at one third of the saturation magnetization. The Kagome lattice gives rise to particularly rich behaviour with several plateaus in the magnetization curve and a jump due to local magnon excitations just below saturation.",
+  "authors": [
+    "A. Honecker",
+    "J. Schulenburg",
+    "J. Richter"
+  ],
+  "year": 2004,
+  "doi": "10.1088/0953-8984/16/11/025",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0309425.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0309425.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:46.108478+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0309425",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

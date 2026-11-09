@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0203094",
+  "title": "Roughness Scaling of Deconstruction Interfaces",
+  "abstract": "The scaling properties of one-dimensional deconstructed surfaces are studied by numerical simulations of a disaggregation model.   The model presented here for the disaggregation process takes into account the possibility of having quenched disorder in the bulk under deconstruction. The disorder can be considered to model several types of irregularities appearing in real materials (dislocations, impurities). The presence of irregularities makes the intensity of the attack to be not uniform. In order to include this effect, the computational bulk is considered to be composed by two types of particles. Those particles which can be easily detached and other particles that are not sensible to the etching attack. As the detachment of particles proceeds in time, the dynamical properties of the rough interface are studied. The resulting one-dimensional surface show self-affine properties and the values of the scaling exponents are reported when the interface is still moving near the depinning transition. According to the scaling exponents presented here, the model must be considered to belong to a new universality class.",
+  "authors": [
+    "Juan R. Sanchez"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0203094.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0203094.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.154968+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0203094",
+    "categories": [
+      "cond-mat.stat-mech"
+    ]
+  }
+}

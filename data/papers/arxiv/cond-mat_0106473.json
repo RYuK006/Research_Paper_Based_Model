@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0106473",
+  "title": "Phase diagram and dynamics of the projected SO(5)-symmetric model of high-$T_c$ superconductivity",
+  "abstract": "We present numerical studies of a quantum ``projected'' SO(5) model which aims at a unifying description of antiferromagnetism and superconductivity in the high-T$_c$ cuprates, while properly taking into account the Mott insulating gap. Our numerical results, obtained by the Quantum Monte Carlo technique of Stochastic Series Expansion, show that this model can give a realistic description of the global phase diagram of the high-$T_c$ superconductors and accounts for many of their physical properties. Moreover, we address the question of dynamic restoring of the SO(5) symmetry at the critical point.",
+  "authors": [
+    "A. Dorneich",
+    "W. Hanke",
+    "E. Arrigoni",
+    "M. Troyer",
+    "S. C. Zhang"
+  ],
+  "year": 2002,
+  "doi": "10.1103/PhysRevLett.88.057003",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0106473.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0106473.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.873154+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0106473",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

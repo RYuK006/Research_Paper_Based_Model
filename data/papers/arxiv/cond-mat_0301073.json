@@ -1,0 +1,33 @@
+{
+  "id": "arxiv:cond-mat/0301073",
+  "title": "Quantum ratchet effect for vortices",
+  "abstract": "We have measured a quantum ratchet effect for vortices moving in a quasi-one-dimensional Josephson junction array. In this solid-state device the shape of the vortex potential energy, and consequently the band structure, can be accurately designed. This band structure determines the presence or absence of the quantum ratchet effect, as observed in the presented experiments. In particular, asymmetric structures possessing only one band below the barrier do not exhibit current rectification at low temperatures and bias currents. The quantum nature of transport is also revealed in a universal/non-universal power-law dependence of the measured voltage-current characteristics for samples without/with rectification.",
+  "authors": [
+    "J. B. Majer",
+    "J. Peguiron",
+    "M. Grifoni",
+    "M. Tusveld",
+    "J. E. Mooij"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevLett.90.056802",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.stat-mech",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0301073.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0301073.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.348249+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0301073",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.stat-mech",
+      "cond-mat.supr-con"
+    ]
+  }
+}

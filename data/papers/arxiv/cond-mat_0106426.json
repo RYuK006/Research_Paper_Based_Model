@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0106426",
+  "title": "Quantum phase transition by cyclic four-spin exchange interaction for S=1/2 two-leg spin ladder",
+  "abstract": "We investigate an $S=1/2$ two-leg spin ladder with a cyclic four-spin exchange interaction whose interaction constant is denoted by $J_4$, by using the density matrix renormalization group method. The interchain and the intrachain interaction constant are denoted by $J_{rung}$ and $J_{\\rm leg}$, respectively and assumed to be antiferromagnetic. It turns out that a spin gap between the singlet ($S_{tot}^z=0$) and the triplet ($S_{tot}^z=1$) states vanishes at $J_4/J_{leg} \\simeq 0.3$ for $J_{rung}=J_{leg}$. This result is in contrast with the fact that the $S=1/2$ antiferromagnetic Heisenberg ladder, that is the case of $J_{rung} \\neq J_{leg}, J_4=0$, has a spin gap for all nonzero value of interchain interaction $J_{\\rm rung}>0$. We find a larger value of the correlation length for the spin-pair correlation function than a linear size $L$ of the system at $J_4/J_{\\rm leg}=0.3$ and $J_{rung}=J_{leg}$: the correlation length $ξ$ is about 204 times of the lattice constant for L=84 for these values of interactions. We also find that the string correlation function decays rather algebraically than exponentially at $J_4/J_{leg}=0.3$ and $J_{rung}=J_{leg}$. These results suggest that there is a quantum phase transition at $J_4/J_{leg} \\simeq 0.3$ for $J_{rung}=J_{leg}$. We estimate a phase boundary where the spin gap vanishes in a $J_4/J_{leg}-J_{rung}/J_{leg}$ plane and obtain a consistent result with that by a perturbation theory for $J_{\\rm rung}/J_{leg}>1$.",
+  "authors": [
+    "Yasushi Honda",
+    "Tsuyoshi Horiguchi"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0106426.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0106426.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.864971+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0106426",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

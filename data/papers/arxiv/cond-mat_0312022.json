@@ -1,0 +1,33 @@
+{
+  "id": "arxiv:cond-mat/0312022",
+  "title": "Optical pumping NMR in the compensated semiconductor InP:Fe",
+  "abstract": "The optical pumping NMR effect in the compensated semiconductor InP:Fe has been investigated in terms of the dependences of photon energy (E_p), helicity (sigma+-), and exposure time (tau_L) of infrared lights. The {31}P and {115}In signal enhancements show large sigma+- asymmetries and anomalous oscillations as a function of E_p. We find that (i) the oscillation period as a function of E_p is similar for {31}P and {115}In and almost field independent in spite of significant reduction of the enhancement in higher fields. (ii) A characteristic time for buildup of the {31}P polarization under the light exposure shows strong E_p-dependence, but is almost independent of sigma+-. (iii) The buildup times for {31}P and {115}In are of the same order (10^3 s), although the spin-lattice relaxation times (T_1) are different by more than three orders of magnitude between them. The results are discussed in terms of (1) discrete energy spectra due to donor-acceptor pairs (DAPs) in compensated semiconductors, and (2) interplay between {31}P and dipolar ordered indium nuclei, which are optically induced.",
+  "authors": [
+    "Atsushi Goto",
+    "Kenjiro Hashi",
+    "Tadashi Shimizu",
+    "Ryo Miyabe",
+    "Xiaogang Wen",
+    "Shinobu Ohki",
+    "Susumu Machida",
+    "Takahiro Iijima",
+    "Giyuu Kido"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevB.69.075215",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0312022.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0312022.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.441435+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0312022",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

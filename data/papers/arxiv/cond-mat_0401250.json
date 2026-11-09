@@ -1,0 +1,32 @@
+{
+  "id": "arxiv:cond-mat/0401250",
+  "title": "Three-dimensional phase-field simulations of directional solidification",
+  "abstract": "The phase-field method has become in recent years the method of choice for simulating microstructural pattern formation during solidification. One of its main advantages is that time-dependent three-dimensional simulations become feasible. This makes it possible to address long-standing questions of pattern stability. Here, we investigate the stability of hexagonal cells and eutectic lamellae. For cells, it is shown that the geometry of the relevant instability modes is determined by the symmetry of the steady-state pattern, and that the stability limits strongly depend on the strength of the crystalline anisotropy, as was previously found in two dimensions. For eutectics, preliminary investigations of lamella breakup instabilities are presented. The latter are carried out with a newly developed phase-field model of two-phase solidification which offers superior convergence properties.",
+  "authors": [
+    "M. Dejmek",
+    "R. Folch",
+    "A. Parisi",
+    "M. Plapp"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.soft",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0401250.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0401250.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.998301+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0401250",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.soft",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

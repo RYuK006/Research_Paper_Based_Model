@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0405151",
+  "title": "Real space finite difference method for conductance calculations",
+  "abstract": "We present a general method for calculating coherent electronic transport in quantum wires and tunnel junctions. It is based upon a real space high order finite difference representation of the single particle Hamiltonian and wave functions. Landauer's formula is used to express the conductance as a scattering problem. Dividing space into a scattering region and left and right ideal electrode regions, this problem is solved by wave function matching (WFM) in the boundary zones connecting these regions. The method is tested on a model tunnel junction and applied to sodium atomic wires. In particular, we show that using a high order finite difference approximation of the kinetic energy operator leads to a high accuracy at moderate computational costs.",
+  "authors": [
+    "Petr A. Khomyakov",
+    "Geert Brocks"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevB.70.195402",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0405151.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0405151.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.039020+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0405151",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0205201",
+  "title": "Optical Conductivity $σ(ω)$ and Resistivity $ρ_{dc}$ of a Hole Doped Spin-Fermion Model for Cuprates",
+  "abstract": "The optical conductivity and Drude weight of a Spin-Fermion model for cuprates are studied as a function of electronic density and temperature. This model develops stripes and robust D-wave pairing correlation upon hole doping, and it has the advantage that it can be numerically simulated without sign problems. Both static and dynamical information can be obtained. In this work it was possible to analyze up to 12x12 site clusters at low temperatures ranging between 0.01t and 0.1t (between 50K and 500K for a hopping amplitude $t \\sim 0.5 eV$). As the temperature is reduced, spectral weight is transferred from high to low frequencies in agreement with the behavior observed experimentally. Varying the hole density, the Drude weight has a maximum at the optimal doping for the model, i.e., at the density where the pairing correlations are stronger. It was also observed that the inverse of the Drude weight, roughly proportional to the resistivity, decreases linearly with the temperature at optimal doping, and it is abruptly reduced when robust pairing correlations develop upon further reducing the temperature. The behavior and general form of the optical conductivity are found to be in good agreement with experimental results for the cuprates. Our results also establish the Spin-Fermion model for cuprates as a reasonable alternative to the t-J model, which is much more difficult to study accurately.",
+  "authors": [
+    "M. Morgaghebi",
+    "S. Yunoki",
+    "A. Moreo"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0205201.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0205201.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.840192+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0205201",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

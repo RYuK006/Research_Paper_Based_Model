@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0212222",
+  "title": "Kondo effect in \"bad metals\"",
+  "abstract": "We study the low-temperature properties of a Kondo lattice using the large-N formalism. For a singular density of conduction states (DOS), we generalize the single-impurity result of Withoff and Fradkin: the strong-coupling fixed point becomes irrelevant if the DOS vanishes at the Fermi level E_F. However, for E_F close enough to the singularity, and close to half-filling, the Kondo temperature, $T_K$, can become much smaller than the characteristic Fermi liquid scale. At T=0, a meta-magnetic transition occurs at the critical magnetic field H_c ~ (k_B/mu_B) T_K. Our results provide a qualitative explanation for the behavior of the YbInCu_4 compound below the valence-change transition.",
+  "authors": [
+    "S. Burdin",
+    "V. Zlatic"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0212222.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0212222.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.995155+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0212222",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ]
+  }
+}

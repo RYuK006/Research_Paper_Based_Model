@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0312224",
+  "title": "Simulation of the physical properties of the chalcogenide glass As$_2$S$_3$ using a density-functional-based tight-binding method",
+  "abstract": "We have used a density-functional-based tight-binding method in order to create structural models of the canonical chalcogenide glass, amorphous (a-)As$_2$S$_3$. The models range from one containing defects that are both chemical (homopolar bonds) and topological (valence-alternation pairs) in nature to one that is defect-free (stoichiometric). The structural, vibrational and electronic properties of the simulated models are in good agreement with experimental data where available. The electronic densities of states obtained for all models show clean optical band gaps. A certain degree of electron-state localization at the band edges is observed for all models, which suggests that photoinduced phenomena in chalcogenide glasses may not necessarily be attributed to the excitation of defects of only one particular kind.",
+  "authors": [
+    "S. I. Simdyankin",
+    "S. R. Elliott",
+    "Z. Hajnal",
+    "T. A. Niehaus",
+    "Th. Frauenheim"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevB.69.144202",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0312224.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0312224.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.563210+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0312224",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

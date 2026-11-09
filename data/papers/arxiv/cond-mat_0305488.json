@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0305488",
+  "title": "Disorder Effect on Spin Excitation in Double Exchange Systems",
+  "abstract": "Spin excitation spectrum is studied in the double exchange model in the presence of disorder. Spin wave approximation is applied in the lowest order of 1/S expansion. The disorder causes anomalies in the spin excitation spectrum such as broadening, branching, anticrossing with gap opening. The origin of the anomalies is the Friedel oscillation, in which the perfectly polarized electrons form the charge density wave to screen the disorder effect. Near the zone center $q = 0$, the linewidth has a $q$ linear component while the excitation energy scales to $q^2$, which indicates that the magnon excitation is incoherent. As $q$ increases, there appears a crossover from this incoherent behavior to the marginally coherent one in which both the linewidth and the excitation energy are proportional to $q^2$. The results are compared with experimental results in colossal magnetoresistance manganese oxides. Quantitative comparison of the linewidth suggests that spatially-correlated or mesoscopic-scale disorder is more relevant in real compounds than local or atomic-scale disorder. Comparison with other theoretical proposals is also discussed. Experimental tests are proposed for the relevance of disorder.",
+  "authors": [
+    "Yukitoshi Motome",
+    "Nobuo Furukawa"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0305488.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0305488.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.626049+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0305488",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

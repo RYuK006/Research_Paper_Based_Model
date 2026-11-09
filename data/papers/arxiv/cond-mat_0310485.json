@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0310485",
+  "title": "Kibble-Zurek Mechanism in the Ginzburg Regime: Numerical Experiment in the Ising Model",
+  "abstract": "Kibble-Zurek mechanism is a theory of defect formation in a non-equilibrium continuous phase transition. So far the theory has been successfully tested by numerical simulations and condensed matter experiments in a number of systems with small thermal fluctuations. This paper reports first numerical test of the mechanism in a system with large thermal fluctuations and strongly non-mean-field behavior: the two dimensional Ising model. The theory predicts correctly the initial density of defects that survive a quench from the disordered phase. However, before the system leaves the Ginzburg regime of large fluctuations most of these defects are annihilated and the final density is determined by the dynamics of the annihilation process only.",
+  "authors": [
+    "Jacek Dziarmaga"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0310485.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0310485.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:14.927173+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0310485",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

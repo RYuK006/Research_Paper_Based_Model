@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0406379",
+  "title": "Synchronous sublattice algorithm for parallel kinetic Monte Carlo",
+  "abstract": "The standard kinetic Monte Carlo algorithm is an extremely efficient method to carry out serial simulations of dynamical processes such as thin-film growth. However, in some cases it is necessary to study systems over extended time and length scales, and therefore a parallel algorithm is desired. Here we describe an efficient, semi-rigorous synchronous sublattice algorithm for parallel kinetic Monte Carlo simulations. The accuracy and parallel efficiency are studied as a function of diffusion rate, processor size, and number of processors for a variety of simple models of epitaxial growth. The effects of fluctuations on the parallel efficiency are also studied. Since only local communications are required, linear scaling behavior is observed, e.g. the parallel efficiency is independent of the number of processors for fixed processor size.",
+  "authors": [
+    "Yunsic Shim",
+    "Jacques G. Amar"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0406379.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0406379.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.506921+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0406379",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0108371",
+  "title": "Template-Directed Self-Assembly of Buried Nanowires and the Pearling Instability",
+  "abstract": "The fabrication of more and more miniaturized electronic and photonic devices relies on new, ingenious methods for the fabrication of spatially controlled nanostructures. Examples are electronic devices based on semiconducting nanowires and photonic devices based on chains of metallic nanoclusters that guide light by coupled surface plasmons. In this contribution a template-directed ion beam synthesis of nanowires and regular nanocluster chains will be presented. As templates, V-grooves etched in (001)Si and subsequently oxidized are used. High fluence Ge+ implantation is carried out into the SiO2 layer at 70 keV. Thereby, the implanted Ge enriches themselves in the V-groove bottom to a critical amount, which may result in nanowire formation by nucleation, growth and coalescence during subsequent thermal treatment. TEM investigations indicate the formation of a nanowire buried in the SiO2 at the V-groove bottom.   Kinetic lattice Monte Carlo simulations of the nanowire formation process were performed in order to understand the phase separation mechanism and results are compared to TEM images. Furthermore, it is shown that even ideal nanowires show a instability and form during long-lasting annealing equal-spaced and equal-sized nanoclusters (\"nanocluster chains\") by self-organization.",
+  "authors": [
+    "T. Mueller",
+    "K. -H. Heinig",
+    "B. Schmidt"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0108371.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0108371.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.286323+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0108371",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

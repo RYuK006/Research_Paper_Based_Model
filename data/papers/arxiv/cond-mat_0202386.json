@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0202386",
+  "title": "Cost Projections for High Temperature Superconductors",
+  "abstract": "It is generally argued that for high-temperature superconductors (HTS) to be cost-competitive in power applications, the wire will have to sell for about $10 per kiloampere meter ($10/kAm) for operation at 77 K (e.g., NbTi costs around $1/kAm and Nb3Sn around $8, each at 4.2 K). Given what is already known about the critical current performance of Pb-stabilized Bi-2223 (BSCCO), this cost target may be extremely difficult to realistically achieve for silver-sheathed BSCCO produced by the oxide-powder-in-tube (OPIT) technique. In this paper, we examine the cost of component materials, add reasonable estimates for labor and related costs, and arrive at a likely cost/performance (C/P) figure. We also estimate the capital cost of a factory to produce HTS conductor by a particular coated conductor method, and calculate the necessary production-output and performance parameters necessary to manufacture 10 km/yr of wire and its associated C/P. Our results indicate that the real C/P seen by the customer will remain substantially above this $10/kAm target for some time to come.",
+  "authors": [
+    "Paul M. Grant",
+    "Thomas P. Sheahen"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0202386.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0202386.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.070585+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0202386",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

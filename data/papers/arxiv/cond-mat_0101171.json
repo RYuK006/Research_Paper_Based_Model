@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0101171",
+  "title": "Broad Histogram: Tests for a Simple and Efficient Microcanonical Simulator",
+  "abstract": "The Broad Histogram Method (BHM) allows one to determine the energy degeneracy g(E), i.e. the energy spectrum of a given system, from the knowledge of the microcanonical averages <Nup(E)> and <Ndn(E)> of two macroscopic quantities Nup and Ndn defined within the method. The fundamental BHM equation relating g(E) to the quoted averages is exact and completely general for any conceivable system. Thus, the only possible source of numerical inaccuracies resides on the measurement of the averages themselves. In this text, we introduce a Monte Carlo recipe to measure microcanonical averages. In order to test its performance, we applied it to the Ising ferromagnet on a 32x32 square lattice. The exact values of g(E) are known up to this lattice size, thus it is a good standard to compare our numerical results with. Measuring the deviations relative to the exactly known values, we verified a decay proportional to 1/sqrt(counts), by increasing the counter (counts) of averaged samples over at least 6 decades. That is why we believe this microcanonical simulator presents no bias besides the normal statistical fluctuations. For counts~10**10, we measured relative deviations near 10**(-5) for both g(E) and the specific heat peak, obtained through BHM relation.",
+  "authors": [
+    "Paulo Murilo Castro de Oliveira"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0101171.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0101171.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:04.523719+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0101171",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

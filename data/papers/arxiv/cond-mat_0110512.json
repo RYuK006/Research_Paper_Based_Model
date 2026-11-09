@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0110512",
+  "title": "Generalization of the effective mass method for semiconductor structures with atomically sharp heterojunctions",
+  "abstract": "The Kohn-Luttinger envelope-function method is generalized to the case of heterostructures with atomically sharp heterojunctions based on lattice-matched layers of related semiconductors with zinc-blende symmetry. For electron states near the Γpoint in (001) heterostructures the single-band effective-mass equation is derived, taking into account both the spatial dependence of the effective mass and effects associated with the atomically sharp heterojunctions. A small parameter is identified, in powers of which it is possible to classify the various contributions to this equation. For hole states only the main contributions to the effective Hamiltonian, due to the sharpness of the heterojunctions, are taken into account. An expression is derived for the parameter governing mixing of states of heavy and light holes at the center of the 2D Brillouin zone.",
+  "authors": [
+    "E. E. Takhtamirov",
+    "V. A. Volkov"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0110512.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0110512.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.799321+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0110512",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

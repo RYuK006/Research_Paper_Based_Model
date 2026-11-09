@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0312023",
+  "title": "A New Mean-Field Theory of the Kondo Resonance at Finite Bias",
+  "abstract": "We introduce a new slave-boson mean-field treatment of the Kondo effect in a quantum dot attached to the leads, when the bias voltage across the leads is finite. The model employs two slave boson and two pseudo-fermion operators to express the localized electron. The solution of the mean-field equations gives in general two resonance peaks pinned to the chemical potential of each lead. The Kondo temperature is shown to scale as $min(\\tstar, (\\tstar)^2/V)$, where $\\tstar$ is the Kondo temperature at equilibrium, and $V$ is the chemical potential difference of the leads.",
+  "authors": [
+    "Jung Hoon Han"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0312023.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0312023.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.444350+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0312023",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

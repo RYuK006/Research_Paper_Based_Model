@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0207308",
+  "title": "Bose-Einstein condensate collapse: a comparison between theory and experiment",
+  "abstract": "We solve the Gross-Pitaevskii equation numerically for the collapse induced by a switch from positive to negative scattering lengths. We compare our results with experiments performed at JILA with Bose-Einstein condensates of Rb-85, in which the scattering length was controlled using a Feshbach resonance. Building on previous theoretical work we identify quantitative differences between the predictions of mean-field theory and the results of the experiments. Besides the previously reported difference between the predicted and observed critical atom number for collapse, we also find that the predicted collapse times systematically exceed those observed experimentally. Quantum field effects, such as fragmentation, that might account for these discrepancies are discussed.",
+  "authors": [
+    "C. M. Savage",
+    "N. P. Robins",
+    "J. J. Hope"
+  ],
+  "year": 2002,
+  "doi": "10.1103/PhysRevA.67.014304",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0207308.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0207308.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.489404+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0207308",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

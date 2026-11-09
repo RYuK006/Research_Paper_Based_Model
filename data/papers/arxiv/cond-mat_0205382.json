@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0205382",
+  "title": "Superconducting single-electron transistor coupled to a two dimensional electron gas: Transmission lines, dissipation, and charge averaging",
+  "abstract": "We have developed a novel system consisting of a superconducting single-electron transistor (S-SET) coupled to a two-dimensional electron gas (2DEG), for which the dissipation can be tuned in the immediate vicinity of the S-SET. To analyze our results, we have developed a model of the environment for S-SET/2DEG systems that includes electromagnetic fluctuations coupled both through the S-SET leads and capacitively to the S-SET central island. We analyze this model, treating the leads as finite transmission lines, to find the probability function P(E) for exchanging energy E with the environment. We also allow for the possibility of low-frequency fluctuations of the S-SET offset charge. We compare our calculations with measurements of SET conductance versus 2DEG conductance and find good agreement for temperatures 100 mK, while unexplained discrepancies emerge for lower temperatures. By including the effects of charge averaging we are also able to predict the shape and evolution of IV curves as the 2DEG in the vicinity of the S-SET is changed.",
+  "authors": [
+    "A. J. Rimberg",
+    "W. Lu"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0205382.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0205382.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.917816+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0205382",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.supr-con"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "arxiv:cond-mat/0211606",
+  "title": "Self-Organization, Active Brownian Dynamics, and Biological Applications",
+  "abstract": "After summarizing basic features of self-organization such as entropy export, feedbacks and nonlinear dynamics, we discuss several examples in biology. The main part of the paper is devoted to a model of active Brownian motion that allows a stochastic description of the active motion of biological entities based on energy consumption and conversion. This model is applied to the dynamics of swarms with external and interaction potentials. By means of analytical results, we can distiguish between translational, rotational and amoebic modes of swarm motion. We further investigate swarms of active Brownian particles interacting via chemical fields and demonstrate the application of this model to phenomena such as biological aggregation and trail formation in insects.",
+  "authors": [
+    "Werner Ebeling",
+    "Frank Schweitzer"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "nlin.AO",
+    "physics.bio-ph",
+    "q-bio"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0211606.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0211606.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.838497+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0211606",
+    "categories": [
+      "cond-mat.stat-mech",
+      "nlin.AO",
+      "physics.bio-ph",
+      "q-bio"
+    ]
+  }
+}

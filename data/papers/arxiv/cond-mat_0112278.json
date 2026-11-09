@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0112278",
+  "title": "The pattern of the charge ordering in quasi-one- and two-dimensional organic charge transfer solids",
+  "abstract": "We examine critically two different recently proposed models of charge ordering in the nominally 1/4-filled organic charge transfer solids (CTS). In one dimension, the two models are characterized by site charge densities of the form ...1010... and ...1100..., respectively. We establish the following theoretical results: 1) there exists a critical nearest-neighbor Coulomb interaction (V_c > 2|t|) only above which does the ...1010... state become the ground state; 2) Hartree-Fock mean field theory predicts V_c incorrectly; 3) accurate quantum Monte Carlo calculations indicate that V_c increases with decreasing U; 4) for sufficiently strong e-ph interactions, the ...1010... state can undergo a spin-Peierls (SP) transition; 5) for V < V_c, in the presence of e-ph interactions, the ...1100... CO state is the ground state and also undergoes a SP transition. We show that experimental observations clearly indicate the ...1100... CO in the 1:2 anionic CTS and the (TMTSF)_2X class of materials, while the results for (TMTTF)_2X with narrower one-electron bandwidths are more ambiguous. In two dimensions, we focus on the theta-(BEDT-TTF)_2X materials, and establish that the CO pattern there corresponds to the so-called horizontal stripe structure, with ...1100... CO along the two directions with larger electron hopping. We give precise explanations of the observed spontaneous bond distortions in the c-direction of theta-(BEDT-TTF)_2X at the metal-insulator transition and also show that the appearance of the spin gap at lower temperatures is a true two-dimensional effect different from the usual SP transition. Superconductivity in the charge transfer solids appears to be limited to the class of materials which exhibits the ...1100... CO in the insulating phase.",
+  "authors": [
+    "R. T. Clay",
+    "S. Mazumdar",
+    "D. K. Campbell"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0112278.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0112278.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.559331+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0112278",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0403534",
+  "title": "Spin polarization of electrons with Rashba double-refraction",
+  "abstract": "We demonstrate how the Rashba spin-orbit coupling in semiconductor heterostructures can produce and control a spin-polarized current without ferromagnetic leads. Key idea is to use spin-double refraction of an electronic beam with a nonzero incidence angle. A region where the spin-orbit coupling is present separates the source and the drain without spin-orbit coupling. We show how the transmission and the beam spin-polarization critically depend on the incidence angle. The transmission halves when the incidence angle is greater than a limit angle and a significant spin-polarization appears. Increasing the spin-orbit coupling one can obtain the modulation of the intensity and of the spin-polarization of the output electronic current when the input current is unpolarized. Our analysis shows the possibility to realize a spin-field-effect transistor based on the propagation of only one mode with the region with spin-orbit coupling. Where the original Datta and Das device [Appl.Phys.Lett. {\\bf 56}, 665 (1990)] use the spin-precession that originates from the interference between two modes with orthogonal spin.",
+  "authors": [
+    "V. Marigliano Ramaglia",
+    "D. Bercioux",
+    "V. Cataudella",
+    "G. De Filippis",
+    "C. A. Perroni"
+  ],
+  "year": 2004,
+  "doi": "10.1088/0953-8984/16/50/005",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0403534.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0403534.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.774428+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0403534",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

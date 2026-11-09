@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0208511",
+  "title": "On the stability of vortex-plane solitons: The solution of the problem of Josephson-vortex structure in layered superconductors and stacked junctions",
+  "abstract": "By determining the type of all stationary points of the Gibbs free energy functional for layered superconductors in parallel magnetic fields, we establish the classification of all solutions to coupled static sine-Gordon equations for the phase differences with respect to their stability. We prove that the only minimizers of the free energy are the Meissner solution (the \"vacuum\" state) and soliton vortex-plane solutions [S. V. Kuplevakhsky, Phys. Rev. B vol. 60, 7496 (1999); ibid. vol. 63, 054508 (2001); cond-mat/0202293]. They are the actual equilibrium field configurations. We present a topological classification of these solutions. In contrast, previously proposed non-soliton configurations (\"isolated fluxons\", \"triangular Josephson-vortex lattices\", etc.) are absolutely unstable and unobservable: They are nothing but saddle points of the Gibbs free-energy functional and are not even stationary points of the Helmholtz free-energy functional (obtained from the former by a Legendre transformation). (Physically, non-soliton configurations violate conservation laws for the current and the flux.) The obtained results allow us to explain dynamic stability of vortex planes, noticed in numerical simulations, and to provide a unified interpretation of the available experimental data. We hope that the paper will stimulate interest in the subject of specialists in different fields of physics and in applied mathematics.",
+  "authors": [
+    "Sergey V. Kuplevakhsky"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "nlin.PS"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0208511.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0208511.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:08.858493+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0208511",
+    "categories": [
+      "cond-mat.supr-con",
+      "nlin.PS"
+    ]
+  }
+}

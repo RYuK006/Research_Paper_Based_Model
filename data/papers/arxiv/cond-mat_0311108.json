@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0311108",
+  "title": "Algorithms for faster and larger dynamic Metropolis simulations",
+  "abstract": "In dynamic Monte Carlo simulations, using for example the Metropolis dynamic, it is often required to simulate for long times and to simulate large systems. We present an overview of advanced algorithms to simulate for larger times and to simulate larger systems. The longer-time algorithm focused on is the Monte Carlo with Absorbing Markov Chains (MCAMC) algorithm. It is applied to metastability of an Ising model on a small-world network. Simulations of larger systems often require the use of non-trivial parallelization. Non-trivial parallelization of dynamic Monte Carlo is shown to allow perfectly scalable algorithms, and the theoretical efficiency of such algorithms is described.",
+  "authors": [
+    "M. A. Novotny",
+    "Alice K. Kolakowska",
+    "G. Korniss"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.mtrl-sci",
+    "physics.comp-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0311108.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0311108.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.135746+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0311108",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.mtrl-sci",
+      "physics.comp-ph"
+    ]
+  }
+}

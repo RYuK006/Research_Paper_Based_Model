@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0101227",
+  "title": "Quantum wires and dots driven by intense surface acoustic waves and the quantum attenuation of sound in an electron plasma",
+  "abstract": "We develop a quantum theory of the nonlinear interaction between intense surface acoustic waves and electrons of a quantum well in the regime of moving quantum wires and dots. The quantum nonlinear interaction qualitatively differs from the classical one. In a system of electron wires driven by an acoustic wave the sound attenuation strongly decreases with increasing the sound intensity. However, even in the quantum limit the sound attenuation in the electron system remains nonzero due to residual scattering by impurities in the lowest subband. In the case of electron dots formed by two waves moving in the perpendicular directions, the calculated dissipation vanishes at high sound intensity because of the fully quantized spectrum. Besides, moving quantum dots can be formed by a single acoustic wave propagating along a system of etched quantum wires. We show that the quantum regime of the attenuation can exist in high-mobility GaAs quantum wells where the heating can not destroy the quantum state.",
+  "authors": [
+    "A. O. Govorov",
+    "A. V. Kalameitsev",
+    "V. M. Kovalev"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0101227.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0101227.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:04.543676+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0101227",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

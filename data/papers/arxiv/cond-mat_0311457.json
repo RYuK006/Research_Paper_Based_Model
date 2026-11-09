@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0311457",
+  "title": "Order book approach to price impact",
+  "abstract": "Buying and selling stocks causes price changes, which are described by the price impact function. To explain the shape of this function, we study the Island ECN orderbook. In addition to transaction data, the orderbook contains information about potential supply and demand for a stock. The virtual price impact calculated from this information is four times stronger than the actual one and explains it only partially. However, we find a strong anticorrelation between price changes and order flow, which strongly reduces the virtual price impact and provides for a quantitative explanation of the empirical price impact function.",
+  "authors": [
+    "Philipp Weber",
+    "Bernd Rosenow"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0311457.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0311457.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.298659+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0311457",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

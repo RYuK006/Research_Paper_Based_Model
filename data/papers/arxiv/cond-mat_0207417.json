@@ -1,0 +1,33 @@
+{
+  "id": "arxiv:cond-mat/0207417",
+  "title": "Cole-Cole analysis of the superspin glass system Co80Fe20/Al2O3",
+  "abstract": "Ac susceptibility measurements were performed on discontinuous magnetic multilayers [Co80Fe20(t)/Al2O3(3nm)]x10, t = 0.9 and 1.0nm, by Superconducting Quantum Interference Device (SQUID) magnetometry. The CoFe forms nearly spherical ferromagnetic single-domain nanoparticles in the diamagnetic Al2O3 matrix. Due to dipolar interactions and random distribution of anisotropy axes the system exhibits a spin-glass phase. We measured the ac susceptibility as a function of temperature 20 < T < 100K at different dc fields and as a function of frequency 0.01 < f < 1000Hz. The spectral data were successfully analysed by use of the phenomenological Cole-Cole model, giving a power-law temperature dependence of the characteristic relaxation time tau_c and a high value for the polydispersivity exponent, alpha = 0.8, typical of spin glass systems.",
+  "authors": [
+    "O. Petracic",
+    "S. Sahoo",
+    "Ch. Binek",
+    "W. Kleemann",
+    "J. B. Sousa",
+    "S. Cardoso",
+    "P. P. Freitas"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.dis-nn",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0207417.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0207417.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.565930+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0207417",
+    "categories": [
+      "cond-mat.dis-nn",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "arxiv:cond-mat/0306475",
+  "title": "Characterising a solid state qubit via environmental noise",
+  "abstract": "We propose a method for characterising the energy level structure of a solid-state qubit by monitoring the noise level in its environment. We consider a model persistent-current qubit in a lossy resevoir and demonstrate that the noise in a classical bias field is a sensitive function of the applied field.",
+  "authors": [
+    "J. F. Ralph",
+    "T. D. Clark",
+    "M. J. Everitt",
+    "H. Prance",
+    "P. Stiffell",
+    "R. J. Prance"
+  ],
+  "year": 2003,
+  "doi": "10.1016/j.physleta.2003.08.061",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "quant-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0306475.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0306475.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.971951+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0306475",
+    "categories": [
+      "cond-mat.supr-con",
+      "quant-ph"
+    ]
+  }
+}

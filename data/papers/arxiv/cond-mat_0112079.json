@@ -1,0 +1,36 @@
+{
+  "id": "arxiv:cond-mat/0112079",
+  "title": "The LDA+DMFT Approach to Materials with Strong Electronic Correlations",
+  "abstract": "LDA+DMFT is a novel computational technique for ab initio investigations of real materials with strongly correlated electrons, such as transition metals and their oxides. It combines the strength of conventional band structure theory in the local density approximation (LDA) with a modern many-body approach, the dynamical mean-field theory (DMFT). In the last few years LDA+DMFT has proved to be a powerful tool for the realistic modeling of strongly correlated electronic systems. In this paper the basic ideas and the set-up of the LDA+DMFT(X) approach, where X is the method used to solve the DMFT equations, are discussed. Results obtained with X=QMC (quantum Monte Carlo) and X=NCA (non-crossing approximation) are presented and compared. By means of the model system La$_{1-x}$Sr$_{x}$TiO$_{3}$ we show that the method X matters qualitatively and quantitatively. Furthermore, we discuss recent results on the Mott-Hubbard metal-insulator transition in the transition metal oxide V$_2$O$_3$ and the $α$-$γ$ transition in the 4f-electron system Ce.",
+  "authors": [
+    "K. Held",
+    "I. A. Nekrasov",
+    "G. Keller",
+    "V. Eyert",
+    "N. Blümer",
+    "A. K. McMahan",
+    "R. T. Scalettar",
+    "T. Pruschke",
+    "V. I. Anisimov",
+    "D. Vollhardt"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0112079.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0112079.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.483832+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0112079",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0303028",
+  "title": "An Introduction To Monte Carlo Simulations Of Surface Reactions",
+  "abstract": "These are lecture notes of a course that I gave to people doing research for their Ph.D. thesis in theoretical chemistry or spectroscopy. The course was given on December 9-13, 2002, in Han-sur-Lesse, Belgium.   The lecture notes start with the lattice-gas model that is used to describe the reactions on a surface. I derive a Master Equation, which gives the evolution of this model. The Master Equation contains transition probabilities (or rate constants) for the reactions. I show how these transition probabilities can be obtained from quantum chemical calculations or from experiments. The Master Equation can be solved using several different Monte Carlo algorithms. I derive these algorithms, and show what their advantages and drawbacks are. I use a number of simple reaction systems to illustrate various possibilities that one has when modeling reactions on surfaces. Finally, I discuss more realistic systems to show what kind of kinetic phenomena can be studied with Monte Carlo simulations.",
+  "authors": [
+    "A. P. J. Jansen"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0303028.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0303028.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.978453+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0303028",
+    "categories": [
+      "cond-mat.stat-mech"
+    ]
+  }
+}

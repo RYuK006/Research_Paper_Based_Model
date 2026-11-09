@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0001056",
+  "title": "Computer Simulations of Friction, Lubrication and Wear",
+  "abstract": "An overview of computer simulations of tribology is presented. The chapter begins with a brief overview of simulation techniques and the special requirements for simulations of tribological processes. Then simple one-dimensional models of friction between crystalline surfaces are introduced to illustrate general features of friction, such as the importance of metastability and the effect of commensurability. Next two- and three-dimensional studies of dry sliding between crystalline surfaces are described, and compared to scanning probe experiments and measurements of the friction on adsorbed monolayers. Lubrication is then discussed, starting from thick films and describing the breakdown in bulk hydrodynamics as the thickness of the lubricant decreases to molecular scales. Deviations from the usual no-slip boundary condition are quantified and the onset of solid behavior in molecularly thick films is described. The possibility that solidification of thin layers of adventitious carbon is responsible for the prevalence of static friction is explored. The final sections describe stick-slip motion, tribochemical reactions, machining, and the evolution of microstructure in sliding contacts.",
+  "authors": [
+    "Mark O. Robbins",
+    "Martin H. Müser"
+  ],
+  "year": 2000,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.soft"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0001056.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0001056.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:03.768670+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0001056",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.soft"
+    ]
+  }
+}

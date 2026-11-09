@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0308174",
+  "title": "Fast and Accurate Coarsening Simulation with an Unconditionally Stable Time Step",
+  "abstract": "We present Cahn-Hilliard and Allen-Cahn numerical integration algorithms that are unconditionally stable and so provide significantly faster accuracy-controlled simulation. Our stability analysis is based on Eyre's theorem and unconditional von Neumann stability analysis, both of which we present. Numerical tests confirm the accuracy of the von Neumann approach, which is straightforward and should be widely applicable in phase-field modeling. We show that accuracy can be controlled with an unbounded time step Delta-t that grows with time t as Delta-t ~ t^alpha. We develop a classification scheme for the step exponent alpha and demonstrate that a class of simple linear algorithms gives alpha=1/3. For this class the speed up relative to a fixed time step grows with the linear size of the system as N/log N, and we estimate conservatively that an 8192^2 lattice can be integrated 300 times faster than with the Euler method.",
+  "authors": [
+    "Benjamin P. Vollmayr-Lee",
+    "Andrew D. Rutenberg"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevE.68.066703",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.mtrl-sci",
+    "cond-mat.soft"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0308174.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0308174.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.605785+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0308174",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.mtrl-sci",
+      "cond-mat.soft"
+    ]
+  }
+}

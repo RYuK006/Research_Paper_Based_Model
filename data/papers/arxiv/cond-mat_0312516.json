@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0312516",
+  "title": "Methods for electronic-structure calculations - an overview from a reduced-density-matrix point of view",
+  "abstract": "The methods of quantum chemistry and solid state theory to solve the many-body problem are reviewed. We start with the definitions of reduced density matrices, their properties (contraction sum rules, spectral resolutions, cumulant expansion, $N$-representability), and their determining equations (contracted Schrödinger equations) and we summarize recent extensions and generalizations of the traditional quantum chemical methods, of the density functional theory, and of the quasi-particle theory: from finite to extended systems (incremental method), from density to density matrix (density matrix functional theory), from weak to strong correlation (dynamical mean field theory), from homogeneous (Kimball-Overhauser approach) to inhomogeneous and finite systems. Measures of the correlation strength are discussed. The cumulant two-body reduced density matrix proves to be a key quantity. Its spectral resolution contains geminals, being possibly the solutions of an approximate effective two-body equation, and the idea is sketched of how its contraction sum rule can be used for a variational treatment.",
+  "authors": [
+    "P. Ziesche",
+    "F. Tasnadi"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0312516.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0312516.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.683985+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0312516",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0306208",
+  "title": "Quantum computing with many superconducting qubits",
+  "abstract": "Two of the major obstacles to achieve quantum computing (QC) are (i) scalability to many qubits and (ii) controlled connectivity between any selected qubits. Using Josephson charge qubits, here we propose an experimentally realizable method to efficiently solve these two central problems. Since any two charge qubits can be effectively coupled by an experimentally accessible inductance, the proposed QC architecture is scalable. In addition, we formulate an efficient and realizable QC scheme that requires only one (instead of two or more) two-bit operation to implement conditional gates.",
+  "authors": [
+    "J. Q. You",
+    "J. S. Tsai",
+    "Franco Nori"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.mes-hall",
+    "quant-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0306208.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0306208.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.870984+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0306208",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.mes-hall",
+      "quant-ph"
+    ]
+  }
+}

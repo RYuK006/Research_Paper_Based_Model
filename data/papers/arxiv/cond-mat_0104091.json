@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0104091",
+  "title": "Kondo effect in coupled quantum dots under magnetic fields",
+  "abstract": "The Kondo effect in coupled quantum dots is investigated theoretically under magnetic fields. We show that the magnetoconductance (MC) illustrates peak structures of the Kondo resonant spectra. When the dot-dot tunneling coupling $V_C$ is smaller than the dot-lead coupling $Δ$ (level broadening), the Kondo resonant levels appear at the Fermi level ($E_F$). The Zeeman splitting of the levels weakens the Kondo effect, which results in a negative MC. When $V_{C}$ is larger than $Δ$, the Kondo resonances form bonding and anti-bonding levels, located below and above $E_F$, respectively. We observe a positive MC since the Zeeman splitting increases the overlap between the levels at $E_F$. In the presence of the antiferromagnetic spin coupling between the dots, the sign of MC can change as a function of the gate voltage.",
+  "authors": [
+    "Tomosuke Aono",
+    "Mikio Eto"
+  ],
+  "year": 2001,
+  "doi": "10.1103/PhysRevB.64.073307",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0104091.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0104091.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.238529+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0104091",
+    "categories": [
+      "cond-mat.mes-hall"
+    ]
+  }
+}

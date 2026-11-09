@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0310419",
+  "title": "Competition between Diffusion and Fragmentation: An Important Evolutionary Process of Nature",
+  "abstract": "We investigate systems of nature where the common physical processes diffusion and fragmentation compete. We derive a rate equation for the size distribution of fragments. The equation leads to a third order differential equation which we solve exactly in terms of Bessel functions. The stationary state is a universal Bessel distribution described by one parameter, which fits perfectly experimental data from two very different system of nature, namely, the distribution of ice crystal sizes from the Greenland ice sheet and the length distribution of alpha-helices in proteins.",
+  "authors": [
+    "Jesper Ferkinghoff-Borg",
+    "Mogens H. Jensen",
+    "Joachim Mathiesen",
+    "Poul Olesen",
+    "Kim Sneppen"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevLett.91.266103",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "q-bio.QM"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0310419.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0310419.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:14.799011+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0310419",
+    "categories": [
+      "cond-mat.stat-mech",
+      "q-bio.QM"
+    ]
+  }
+}

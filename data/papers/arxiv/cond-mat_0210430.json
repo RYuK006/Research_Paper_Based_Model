@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0210430",
+  "title": "Autotools for writing portable software",
+  "abstract": "Most of the scientific software is developed in the same manner: It starts at a lab and the scientist says \"This part of software is only for my private use\". But the software grows and grows, and it comes the time, that other scientists want to use it, too. If they are not working in the same lab and on the same machine, it leads to the problem how to install this software on the new machine. Sometimes it is relatively easy to adopt the makefile to the new conditions (compiler, linker, libraries), if it is well written. But mostly it is not done by changing some pathes. One has to change the compiler, linker, additional or standard libraries, and so on. I want to show how you avoid a lot of trouble, if you write software, which may be used on different plattforms.",
+  "authors": [
+    "Jens Krueger"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0210430.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0210430.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.412246+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0210430",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

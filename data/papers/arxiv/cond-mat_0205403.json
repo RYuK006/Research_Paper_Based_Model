@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0205403",
+  "title": "On a Method for Multiscale Solid Mechanics",
+  "abstract": "Given a fine-scale physical theory characterized by an evolutionary system of equations and a set of quantities, defined from the variables of the fine theory, that serve as a coarse representation of the fine scale phenomena, a systematic method for developing an evolutionary set of equations for the coarse quantities is presented. This set may be considered as governing equations for a coarse theory corresponding to the fine one since the solutions of the coarse theory define a small class of solutions to the fine theory. The method for generating the coarse theory is technically straightforward. The conditions required for the procedure to succeed are understood qualitatively, but a rigorous result for the intended applications, is not known - hence the method is formal. The method is illustrated on a few model problems.",
+  "authors": [
+    "Amit Acharya"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0205403.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0205403.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.932227+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0205403",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

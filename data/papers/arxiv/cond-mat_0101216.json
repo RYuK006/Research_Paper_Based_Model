@@ -1,0 +1,32 @@
+{
+  "id": "arxiv:cond-mat/0101216",
+  "title": "Tuning of the magnetic properties of the high spin molecular cluster Fe8",
+  "abstract": "The synthesis, crystal structure and magnetic characterization of a high spin cluster comprising eight iron ions, are presented in this contribution. The cluster has formula [(tacn)6Fe8O2(OH)12Br4.3(ClO4)3.7]6H2O, (Fe8PCL) where tacn is the organic ligand 1,4,7-triazacyclononane. It can be considered a derivative of Fe8Br8, a cluster whose low temperature dynamics of the magnetization has been deeply investigated, where four of the bromide ions have been replaced by perchlorate anions. The structure of the central core of the two molecules, [Fe8O(OH)12(tacn)6]8+, is essentially the same, but Fe8PCL has a higher symmetry (Fe8Br8 crystallizes in the acentric P1 space group, while Fe8PCL crystallizes in the P21/c space group, monoclinic). The magnetic properties of Fe8PCL suggest it is very similar to Fe8Br having a S=10 ground state as well. The zero field splitting parameters were accurately determined by HF-EPR measurements. The two clusters have similar axial anisotropy but Fe8PCL has a larger transverse anisotropy. Ac susceptibility measurements revealed the cluster behaves like a superparamagnetic particle. However, due to the occurrence of large terms in the transverse anisotropy, the temperature dependence of the relaxation time can not be reproduced by a simple Arrhenius law. As observed in Fe8Br8, below 350 mK the relaxation time becomes temperature independent, indicating that a pure tunneling regime is attained. The comparison of the tunneling rate in the two clusters shows that in the perchlorate derivative the relaxation process is 35 times faster. The observed ratio of the tunneling rates is in reasonable agreement with that calculated from the tunneling splitting, i.e. the energy difference between the two almost degenerate lowest levels Ms = +/-10, in the two clusters.",
+  "authors": [
+    "A. L. Barra",
+    "F. Bencini",
+    "A. Caneschi",
+    "D. Gatteschi",
+    "C. Paulsen",
+    "C. Sangregorio",
+    "R. Sessoli",
+    "L. Sorace"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0101216.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0101216.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:04.537316+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0101216",
+    "categories": [
+      "cond-mat.mes-hall"
+    ]
+  }
+}

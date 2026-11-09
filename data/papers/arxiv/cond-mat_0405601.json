@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0405601",
+  "title": "Detection of quantum noise from mesoscopic devices with an SIS detector",
+  "abstract": "Quantum mechanics can strongly influence the noise properties of mesoscopic devices. To probe this effect we have measured the current fluctuations at high-frequency (5-90G Hz) using a superconductor-insulator-superconductor tunnel junction as an on-chip spectrum analyzer. By coupling this frequency-resolved noise detector to a quantum device we can measure the high-frequency, non-symmetrized noise as demonstrated for a Josephson junction. The same scheme has been used to detect the current fluctuations arising from coherent charge oscillations in a two-level system, a superconducting charge qubit. A narrow band peak was observed in the spectral noise density at the frequency of the coherent charge oscillations.",
+  "authors": [
+    "R. Deblock",
+    "E. Onac",
+    "L. Gurevich",
+    "L. P. Kouwenhoven"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.dis-nn",
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0405601.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0405601.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.259788+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0405601",
+    "categories": [
+      "cond-mat.dis-nn",
+      "cond-mat.mes-hall"
+    ]
+  }
+}

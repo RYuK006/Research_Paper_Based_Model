@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0111261",
+  "title": "Subdiffusion-limited single species reactions",
+  "abstract": "We consider the coagulation dynamics A+A -> A and the annihilation dynamics A+A -> 0 for particles moving subdiffusively in one dimension, both on a lattice and in a continuum. The analysis combines the \"anomalous kinetics\" and \"anomalous diffusion\" problems, each of which leads to interesting dynamics separately and to even more interesting dynamics in combination. We calculate both short-time and long-time concentrations, and compare and contrast the continuous and discrete cases. Our analysis is based on the fractional diffusion equation and its discrete analog.",
+  "authors": [
+    "S. B. Yuste",
+    "Katja Lindenberg"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.mtrl-sci",
+    "cond-mat.soft"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0111261.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0111261.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.338730+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0111261",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.mtrl-sci",
+      "cond-mat.soft"
+    ]
+  }
+}

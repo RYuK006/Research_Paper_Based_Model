@@ -1,0 +1,34 @@
+{
+  "id": "arxiv:cond-mat/0304434",
+  "title": "Electronic States and Cyclotron Resonance in n-type InMnAs",
+  "abstract": "We present a theory for electronic and magneto-optical properties of n-type In(1-x)Mn(x)As magnetic alloy semiconductors in a high magnetic field, B. We use an 8-band Pidgeon-Brown model generalized to include the wavevector (Kz) dependence of the electronic states as well as s-d and p-d exchange interactions with localized Mn d-electrons. Calculated conduction-band Landau levels exhibit effective masses and g factors that are strongly dependent on temperature, magnetic field, Mn concentration (x), and Kz. Cyclotron resonance (CR) spectra are computed using Fermi's golden rule and compared with ultrahigh-magnetic-field (> 50 T) CR experiments, which show that the electron CR peak position is sensitive to x. Detailed comparison between theory and experiment allowed us to extract s-d and p-d exchange parameters, alpha and beta. we find that not only alpha but also beta affects the electron mass because of the strong interband coupling in this narrow gap semiconductor. In addition, we derive analytical expressions for the effective masses and g facors within the 8-band model. Results indicate that (alpha - beta) is the crucial parameter that determines the exchange interaction correction to the cyclotron masses. These findings sould be useful for designing novel devices based on ferromagnetic semiconductors.",
+  "authors": [
+    "G. D. Sanders",
+    "Y. Sun",
+    "F. V. Kyrychenko",
+    "C. J. Stanton",
+    "G. A. Kodaparast",
+    "M. A. Zudov",
+    "J. Kono",
+    "Y. H. Matsuda",
+    "N. Miura",
+    "H. Munekata"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevB.68.165205",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0304434.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0304434.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.153817+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0304434",
+    "categories": [
+      "cond-mat.mes-hall"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0312573",
+  "title": "Nearly Insulating Strongly Correlated Systems: Gossamer Superconductors and Metals",
+  "abstract": "Recently a new phenomenological Hamiltonian was proposed to describe the superconducting cuprates in which correlations and on-site Coulomb repulsion are introduced by partial Gutzwiller projection. This Gossamer Hamiltonian has an exact ground state and differs from the t-J and Hubbard Hamiltonians in possessing a powerful attractive interaction among electrons responsible for Cooper pairing in the d-wave channel. It is a faithful description for a superconductor with strong on-site electronic repulsion. The superconducting tunneling gap remains intact and despite on-site repulsion. Near half-filling the Gossamer superconductor with strong repulsion has suppressed photoemission intensities and superfluid density, is unstable toward an antiferromagnetic insulator and possesses an incipient Mott-Hubbard gap. The Gossamer technique can be applied to metallic ground states thus possibly serving as an apt description of strongly correlated metals. Such a Gossamer metallic phase, just as the Gossamer superconducting one, becomes arbitrarily hard to differentiate from an insulator as one turns the Coulomb correlations up near half-filling. Both the metallic and superconducting states undergo a quantum phase transition to an antiferromagnetic insulator as one increases the on-site Coulomb repulsion. In the Gossamer model we reach the critical point at half-filling by fully projecting out the double occupancy. Such a critical point might be the Anderson Resonating Valence bond state.",
+  "authors": [
+    "Bogdan A. Bernevig",
+    "George Chapline",
+    "Robert B. Laughlin",
+    "Zaira Nazario",
+    "David I. Santiago"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0312573.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0312573.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.708734+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0312573",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ]
+  }
+}

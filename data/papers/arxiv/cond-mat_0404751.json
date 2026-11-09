@@ -1,0 +1,32 @@
+{
+  "id": "arxiv:cond-mat/0404751",
+  "title": "On the stability of U(1) spin liquids in two dimensions",
+  "abstract": "We establish that spin liquids described in terms of gapless fermionic (Dirac) spinons and gapless U(1) gauge fluctuations can be stable in two dimensions, at least when the physical SU(2) spin symmetry is generalized to SU(N). Equivalently, we show that compact QED3 has a deconfined phase for a large number of fermion fields, in the sense that monopole fluctuations can be irrelevant at low energies. A precise characterization is provided by an emergent global topological U(1) symmetry corresponding to the conservation of gauge flux. Beginning with an SU(N) generalization of the S=1/2 square lattice Heisenberg antiferromagnet, we consider the pi-flux spin liquid and, via a systematic analysis of all operators, show that there are NO relevant perturbations (in the renormalization group sense) about the large-N spin liquid fixed point, which is thus a stable phase. We provide a further illustration of this conclusion with an approximate renormalization group calculation that treats the gapless fermions and the monopoles on an equal footing. This approach directly points out some of the flaws in the erroneous \"screening\" argument for the relevance of monopoles in compact QED3.",
+  "authors": [
+    "Michael Hermele",
+    "T. Senthil",
+    "Matthew P. A. Fisher",
+    "Patrick A. Lee",
+    "Naoto Nagaosa",
+    "Xiao-Gang Wen"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevB.70.214437",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0404751.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0404751.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:46.988932+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0404751",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ]
+  }
+}

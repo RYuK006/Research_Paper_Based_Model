@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0309427",
+  "title": "Elastic interactions of active cells with soft materials",
+  "abstract": "Anchorage-dependent cells collect information on the mechanical properties of the environment through their contractile machineries and use this information to position and orient themselves. Since the probing process is anisotropic, cellular force patterns during active mechanosensing can be modelled as anisotropic force contraction dipoles. Their build-up depends on the mechanical properties of the environment, including elastic rigidity and prestrain. In a finite sized sample, it also depends on sample geometry and boundary conditions through image strain fields. We discuss the interactions of active cells with an elastic environment and compare it to the case of physical force dipoles. Despite marked differences, both cases can be described in the same theoretical framework. We exactly solve the elastic equations for anisotropic force contraction dipoles in different geometries (full space, halfspace and sphere) and with different boundary conditions. These results are then used to predict optimal position and orientation of mechanosensing cells in soft material.",
+  "authors": [
+    "I. B. Bischofs",
+    "S. A. Safran",
+    "U. S. Schwarz"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevE.69.021911",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci",
+    "q-bio.CB"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0309427.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0309427.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:46.111336+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0309427",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.mtrl-sci",
+      "q-bio.CB"
+    ]
+  }
+}

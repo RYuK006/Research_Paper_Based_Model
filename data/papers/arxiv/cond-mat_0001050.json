@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0001050",
+  "title": "Appearance of spontaneous macroscopic magnetization at the superconducting transition of YBCO",
+  "abstract": "We report the observation of a weak spontaneous magnetic field appearing at the transition temperature of $\\rm YBa_2Cu_3O_{7-δ}$ into the superconducting state. The effect is observed in 14 out of 15 epitaxial films grown on different substrates and by two distinct techniques. The average magnetic field sensed by the SQUID magnetometer is of the order of 10$^{-5}$ G. The effect indicates a breaking of both parity and time reversal symmetries in the superconductor. We consider two different interpretations: (i) The condensate carries an intrinsic magnetic moment. At T=0, this moment is between $\\rm 10^{-2} μ_B$ and $\\rm 10^{-4} μ_B$ per plaquette, depending whether the width of the unscreened region near the edge of the film is the coherence length or the penetration length. (ii) $π$ junctions which may exist near the edges produce circulating supercurrents and magnetic flux. Constraints imposed on these scenarios by temperature and geometry dependence of the data are discussed.",
+  "authors": [
+    "R. Carmi",
+    "E. Polturak",
+    "G. Koren",
+    "A. Auerbach"
+  ],
+  "year": 2000,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0001050.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0001050.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:03.765855+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0001050",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

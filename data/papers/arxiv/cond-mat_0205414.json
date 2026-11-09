@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0205414",
+  "title": "Boundary effects on flux penetration in disordered superconductors",
+  "abstract": "We investigate flux penetration in a disordered type II superconductor by molecular dynamics simulations of interacting vortices. We focus on the effect of different boundary conditions on the scaling laws for flux front propagation. The numerical results can be interpreted using a coarse grained description of the system in terms of a non-linear diffusion equation. We propose a phenomenological equation for the front position that captures the essential behavior of the system and recovers the scaling exponents.",
+  "authors": [
+    "Andre Auto Moreira",
+    "Jose S. Andrade",
+    "Josue Mendes Filho",
+    "Stefano Zapperi"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0205414.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0205414.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.945232+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0205414",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

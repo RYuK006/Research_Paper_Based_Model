@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0306222",
+  "title": "Update statistics in conservative parallel discrete event simulations of asynchronous systems",
+  "abstract": "We model the performance of an ideal closed chain of L processing elements that work in parallel in an asynchronous manner. Their state updates follow a generic conservative algorithm. The conservative update rule determines the growth of a virtual time surface. The physics of this growth is reflected in the utilization (the fraction of working processors) and in the interface width. We show that it is possible to nake an explicit connection between the utilization and the macroscopic structure of the virtual time interface. We exploit this connection to derive the theoretical probability distribution of updates in the system within an approximate model. It follows that the theoretical lower bound for the computational speed-up is s=(L+1)/4 for L>3. Our approach uses simple statistics to count distinct surface configuration classes consistent with the model growth rule. It enables one to compute analytically microscopic properties of an interface, which are unavailable by continuum methods.",
+  "authors": [
+    "A. Kolakowska",
+    "M. A. Novotny",
+    "Per Arne Rikvold"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevE.68.046705",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat",
+    "cs.DC"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0306222.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0306222.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.874569+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0306222",
+    "categories": [
+      "cond-mat",
+      "cs.DC"
+    ]
+  }
+}

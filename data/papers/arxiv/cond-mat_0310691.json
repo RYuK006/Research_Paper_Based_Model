@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0310691",
+  "title": "Triplon Localization Effect in Tl_{1-x}$K_xCuCl_3",
+  "abstract": "The effect of randomness on field-induced magnetic ordering was investigated through specific heat measurements in Tl$_{1-x}$K$_x$CuCl$_3$ with $x\\leq 0.22$. The isostructural parent compounds TlCuCl$_3$ and KCuCl$_3$ are coupled spin dimer systems with a gapped ground state and their field-induced antiferromagnetic ordering is described by the Bose condensation of spin triplets (triplons). Well-defined field-induced phase transitions were observed in Tl$_{1-x}$K$_x$CuCl$_3$. The critical exponent $ϕ$ of the phase boundary defined by $T(H) \\propto (H-H_{\\rm c})^{1/ϕ}$ is reevaluated in TlCuCl$_3$ as $ϕ=1.67 \\pm 0.07$, which is close to $ϕ_{\\rm BEC} =3/2$ derived from the triplon BEC theory. For $x \\neq 0$, the exponent $ϕ$ decreases systematically with $x$. The phase boundary observed at low temperatures for $x>0.1$ is almost a linear function of temperature $T$. In the low-field region for $H<H_{\\rm c}$, no magnetic ordering is observed in spite of finite susceptibility. These properties are discussed in connection with the Bose glass phase argued by Fisher {\\it et al.} [Phys. Rev. B {\\bf 40}, 546 (1989)].",
+  "authors": [
+    "Yosuke Shindo",
+    "Hidekazu Tanaka"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0310691.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0310691.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.033024+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0310691",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

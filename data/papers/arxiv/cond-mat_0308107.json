@@ -1,0 +1,32 @@
+{
+  "id": "arxiv:cond-mat/0308107",
+  "title": "Compensation of decoherence from telegraph noise by means of bang-bang control",
+  "abstract": "With the growing efforts in isolating solid-state qubits from external decoherence sources, the origins of noise inherent to the material start to play a relevant role. One representative example are charged impurities in the device material or substrate, which typically produce telegraph noise and can hence be modelled as bistable fluctuators. In order to demonstrate the possibility of the active suppression of the disturbance from a {\\em single} fluctuator, we theoretically implement an elementary bang-bang control protocol. We numerically simulate the random walk of the qubit state on the Bloch sphere with and without bang-bang compensation by means of the stochastic Schrödinger equation and compare it with an analytical saddle point solution of the corresponding Langevin equation in the long-time limit. We find that the deviation with respect to the noiseless case is significantly reduced when bang-bang pulses are applied, being scaled down approximately by the ratio of the bang-bang period and the typical flipping time of the bistable fluctuation. Our analysis gives not only the effect of bang-bang control on the variance of these deviations, but also their entire distribution. As a result, we expect that bang-bang control works as a high-pass filter on the spectrum of noise sources. This indicates how the influence of $1/f$-noise ubiquitous to the solid state world can be reduced.",
+  "authors": [
+    "H. Gutmann",
+    "F. K. Wilhelm",
+    "W. M. Kaminsky",
+    "S. Lloyd"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.supr-con",
+    "quant-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0308107.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0308107.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.565505+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0308107",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.supr-con",
+      "quant-ph"
+    ]
+  }
+}

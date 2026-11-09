@@ -1,0 +1,33 @@
+{
+  "id": "arxiv:cond-mat/0406031",
+  "title": "Unusual conductance collapse in one-dimensional quantum structures",
+  "abstract": "We report an unusual insulating state in one-dimensional quantum wires with a non-uniform confinement potential. The wires consist of a series of closely spaced split gates in high mobility GaAs/AlGaAs heterostructures. At certain combinations of wire widths, the conductance abruptly drops over three orders of magnitude, to zero on a linear scale. Two types of collapse are observed, one occurring in multi-subband wires in zero magnetic field and one in single subband wires in an in-plane field. The conductance of the wire in the collapse region is thermally activated with an energy of the order of 1 K. At low temperatures, the conductance shows a steep rise beyond a threshold DC source-drain voltage of order 1 mV, indicative of a gap in the density of states. Magnetic depopulation measurements show a decrease in the carrier density with lowering temperature. We discuss these results in the context of many-body effects such as charge density waves and Wigner crystallization in quantum wires.",
+  "authors": [
+    "KJ Thomas",
+    "DL Sawkey",
+    "M Pepper",
+    "WR Tribe",
+    "I Farrer",
+    "MY Simmons",
+    "DA Ritchie"
+  ],
+  "year": 2004,
+  "doi": "10.1088/0953-8984/16/23/L01",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0406031.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0406031.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.325615+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0406031",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.str-el"
+    ]
+  }
+}

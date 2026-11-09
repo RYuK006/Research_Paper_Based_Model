@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0309111",
+  "title": "Variational derivation of density functional theory",
+  "abstract": "It is shown here that Kohn-Sham equations cannot be derived from Hohenberg-Kohn theory without an additional postulate. Assuming that a functional derivative with respect to total electron density exists leads in general to a theory inconsistent with the exclusion principle. A mathematically and physically correct variational theory of the Kohn-Sham model can be developed using functional derivatives with respect to orbital densities. These partial (Gâteaux) derivatives can be constructed explicitly from general N-electron theory and are defined throughout the orbital Hilbert space. This theory is consistent with the local density approximation (LDA), but does not in general imply multiplicative local exchange-correlation potentials. Progress beyond the LDA in condensed-matter physics requires development of methodology for nonlocal exchange and correlation potentials.",
+  "authors": [
+    "R. K. Nesbet"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat",
+    "physics.atom-ph",
+    "physics.chem-ph",
+    "physics.comp-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0309111.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0309111.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.902140+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0309111",
+    "categories": [
+      "cond-mat",
+      "physics.atom-ph",
+      "physics.chem-ph",
+      "physics.comp-ph"
+    ]
+  }
+}

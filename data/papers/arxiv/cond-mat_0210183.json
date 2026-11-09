@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0210183",
+  "title": "Stochastic Simulation of Gene Expression in a Single Cell",
+  "abstract": "In this paper, we consider two stochastic models of gene expression in prokaryotic cells. In the first model, sixteen biochemical reactions involved in transcription, translation and transcriptional regulation in the presence of inducer molecules are considered. The time evolution of the number of biomolecules of a particular type is determined using the stochastic simulation method based on the Gillespie Algorithm. The results obtained show that if the number of inducer molecules, N(I), is greater than or equal to the number of regulatory molecules, N(R), the average protein level is high in the steady state (state 2). The magnitude of the level is the same as long as N{I) greater than or equal to N(R). When N(I) is very very less than N(R), the average protein level is low, practically zero (state 1). As N(I) increases, the protein level continues to remain low. When N(I)becomes close to N(R), protein levels in the steady state are intermediate between high and low.In the presence of autocatalysis, a cell mostly exists in either state 1 or state 2 giving rise to a bimodal distribution in the protein levels in an ensemble of cells. This corresponds to the \"all or none'' phenomenon observed in experiments. In the second model, the inducer molecules are not considered explicitly. An exhaustive simulation over the parameter space of the model shows that there are three major patterns of gene expression, Type A, Type B and Type C. The effect of varying the cellular parameters on the patterns, in particular, the transition from one type of pattern to another, is studied. Type A and Type B patterns have been observed in experiments. Simple mathematical models of transcriptional regulation predict Type C pattern of gene expression in certain parameter regimes.",
+  "authors": [
+    "Indrani Bose",
+    "Rajesh Karmakar",
+    "Siddhartha Roy"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat",
+    "q-bio"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0210183.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0210183.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.298593+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0210183",
+    "categories": [
+      "cond-mat",
+      "q-bio"
+    ]
+  }
+}

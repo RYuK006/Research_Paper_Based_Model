@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0312650",
+  "title": "Statistics of Spectra for One-dimensional Quasi-Periodic Systems at the Metal-Insulator Transition",
+  "abstract": "We study spectral statistics of one-dimensional quasi-periodic systems at the metal-insulator transition. Several types of spectral statistics are observed at the critical points, lines, and region. On the critical lines, we find the bandwidth distribution $P_B(w)$ around the origin (in the tail) to have the form of $P_B(w) \\sim w^α$ ($P_B(w) \\sim e^{-βw^γ}$) ($α, β, γ> 0 $), while in the critical region $P_B(w) \\sim w^{-α'}$ ($α' > 0$). We also find the level spacing distribution to follow an inverse power law $P_G(s) \\sim s^{- δ}$ ($δ> 0$)",
+  "authors": [
+    "Yoshihiro Takada",
+    "Kazusumi Ino",
+    "Masanori Yamanaka"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0312650.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0312650.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.786220+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0312650",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0206344",
+  "title": "Inhomogeneously doped two-leg ladder systems",
+  "abstract": "A chemical potential difference between the legs of a two-leg ladder is found to be harmful for Cooper pairing. The instability of superconductivity in such systems is analyzed by compairing results of various analytical and numerical methods. Within a strong coupling approach for the t-J model, supplemented by exact numerical diagonalization, hole binding is found unstable beyond a finite, critical chemical potential difference. The spinon-holon mean field theory for the t-J model shows a clear reduction of the the BCS gaps upon increasing the chemical potential difference leading to a breakdown of superconductivity. Based on a renormalization group approach and Abelian bosonization, the doping dependent phase diagram for the weakly interacting Hubbard model with different chemical potentials was determined.",
+  "authors": [
+    "Stefan Wessel",
+    "Martin Indergand",
+    "Andreas Laeuchli",
+    "Urs Ledermann",
+    "Manfred Sigrist"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevB.67.184517",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0206344.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0206344.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.218320+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0206344",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ]
+  }
+}

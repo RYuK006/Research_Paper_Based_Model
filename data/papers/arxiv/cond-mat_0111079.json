@@ -1,0 +1,32 @@
+{
+  "id": "arxiv:cond-mat/0111079",
+  "title": "Direct Measurement of the Spin Hamiltonian and Observation of Condensation of Magnons in the 2D Frustrated Quantum Magnet Cs2CuCl4",
+  "abstract": "We propose a method for measuring spin Hamiltonians and apply it to the spin-1/2 Heisenberg antiferromagnet Cs2CuCl4, which shows a 2D fractionalized RVB state at low fields. By applying strong fields we fully align the spin moment of Cs2CuCl4 transforming it into an effective ferromagnet. In this phase the excitations are conventional magnons and their dispersion relation measured using neutron scattering give the exchange couplings directly, which are found to form an anisotropic triangular lattice with small Dzyaloshinskii-Moriya terms. Using the field to control the excitations we observe Bose condensation of magnons into an ordered ground state.",
+  "authors": [
+    "R. Coldea",
+    "D. A. Tennant",
+    "K. Habicht",
+    "P. Smeibidl",
+    "C. Wolters",
+    "Z. Tylczynski"
+  ],
+  "year": 2001,
+  "doi": "10.1103/PhysRevLett.88.137203",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0111079.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0111079.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.272976+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0111079",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

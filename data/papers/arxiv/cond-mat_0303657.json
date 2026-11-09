@@ -1,0 +1,44 @@
+{
+  "id": "arxiv:cond-mat/0303657",
+  "title": "Low-frequency measurement of the tunneling amplitude in a flux qubit",
+  "abstract": "We have observed signatures of resonant tunneling in an Al three-junction qubit, inductively coupled to a Nb LC tank circuit. The resonant properties of the tank oscillator are sensitive to the effective susceptibility (or inductance) of the qubit, which changes drastically as its flux states pass through degeneracy. The tunneling amplitude is estimated from the data. We find good agreement with the theoretical predictions in the regime of their validity.",
+  "authors": [
+    "M. Grajcar",
+    "A. Izmalkov",
+    "E. Il'ichev",
+    "Th. Wagner",
+    "N. Oukhanski",
+    "U. Huebner",
+    "T. May",
+    "I. Zhilyaev",
+    "H. E. Hoenig",
+    "Ya. S. Greenberg",
+    "V. I. Shnyrkov",
+    "D. Born",
+    "W. Krech",
+    "H. -G. Meyer",
+    "Alec Maassen van den Brink",
+    "M. H. S. Amin"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevB.69.060501",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.mes-hall",
+    "quant-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0303657.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0303657.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:43.936906+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0303657",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.mes-hall",
+      "quant-ph"
+    ]
+  }
+}

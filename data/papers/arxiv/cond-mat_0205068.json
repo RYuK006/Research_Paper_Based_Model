@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0205068",
+  "title": "Evaluation of the low-lying energy spectrum of magnetic Keplerate molecules with DMRG",
+  "abstract": "We apply the density-matrix renormalization group technique to magnetic molecules in order to evaluate the low-lying energy spectrum. In particular, we investigate the giant Keplerate molecule Mo72Fe30 where 30 Fe3+ ions (spins 5/2) occupy the sites of an icosidodecahedron and interact via nearest-neighbor antiferromagnetic Heisenberg exchange.   The aim of our investigation is to verify the applicability and feasibility of DMRG calculations for complex magnetic molecules. To this end we first use a fictitious molecule with the same structure as Mo72Fe30 but with spins 1/2 as a test system. Here we investigate the accuracy of our DMRG implementation in comparison to numerically exact results. Then we apply the algorithm to Mo72Fe30 and calculate an approximation of the lowest energy levels in the subspaces of total magnetic quantum number. The results prove the existence of a lowest rotational band, which was predicted recently.",
+  "authors": [
+    "Matthias Exler",
+    "Juergen Schnack"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0205068.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0205068.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.738649+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0205068",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

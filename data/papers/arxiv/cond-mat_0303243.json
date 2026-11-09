@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0303243",
+  "title": "Effects of proximity to an electronic topological transition on normal state transport properties of the high-Tc superconductors",
+  "abstract": "Within the time dependent Ginzburg-Landau theory, the effects of the superconducting fluctuations on the transport properties above the critical temperature are characterized by a non-zero imaginary part of the relaxation rate gamma of the order parameter. Here, we evaluate Im gamma for an anisotropic dispersion relation typical of the high-Tc cuprate superconductors (HTS), characterized by a proximity to an electronic topological transition (ETT). We find that Im gamma abruptly changes sign at the ETT as a function of doping, in agreement with the universal behavior of the HTS. We also find that an increase of the in-plane anisotropy, as is given by a non-zero value of the next-nearest to nearest hopping ratio r=t'/t, increases the value of | Im gamma | close to the ETT, as well as its singular behavior at low temperature, therefore enhancing the effect of superconducting fluctuations. Such a result is in qualitative agreement with the available data for the excess Hall conductivity for several cuprates and cuprate superlattices.",
+  "authors": [
+    "G. G. N. Angilella",
+    "R. Pucci",
+    "A. A. Varlamov",
+    "F. Onufrieva"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevB.67.134525",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0303243.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0303243.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:11.073630+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0303243",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

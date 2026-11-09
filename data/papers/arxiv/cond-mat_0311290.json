@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0311290",
+  "title": "Influence of mass difference on dynamic properties of isotope mixtures",
+  "abstract": "We present the results of a Molecular Dynamics computer simulations of a two component isotope mixture of Lennard-Jones particles, monodisperse in size but different in masses, at a fixed average density and temperature. We study changes in properties that result from mass heterogeneity, by measuring the pair distribution function, diffusion coefficient, velocity autocorrelation function, non-Gaussian and isotope effect parameters, as functions of the degree of mass difference. Our results show that if static properties are not influenced by a variation of mass variation, the dynamic properties are significantly affected and even exhibit the presence of ``critical'' values in the mass difference. We also demonstrate that our model gives a simple contra example to a recently proposed a universal scaling law for atomic diffusion in condensed matter [M. Dzugudov, Nature, v.381, 137 (1996)].",
+  "authors": [
+    "N. Kiriushcheva",
+    "S. V. Kuzmin"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0311290.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0311290.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.210443+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0311290",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

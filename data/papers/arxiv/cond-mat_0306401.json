@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0306401",
+  "title": "All-Electrical Quantum Computation with Mobile Spin Qubits",
+  "abstract": "We describe and discuss a solid state proposal for quantum computation with mobile spin qubits in one-dimensional systems, based on recent advances in spintronics. Static electric fields are used to implement a universal set of quantum gates, via the spin-orbit and exchange couplings. Initialization and measurement can be performed either by spin injection from/to ferromagnets, or by using spin filters and mesoscopic spin polarizing beam-splitters. The vulnerability of this proposal to various sources of error is estimated by numerical simulations. We also assess the suitability of various materials currently used in nanotechnology for an actual implementation of our model.",
+  "authors": [
+    "A. E. Popescu",
+    "R. Ionicioiu"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevB.69.245422",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "quant-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0306401.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0306401.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.927881+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0306401",
+    "categories": [
+      "cond-mat.mes-hall",
+      "quant-ph"
+    ]
+  }
+}

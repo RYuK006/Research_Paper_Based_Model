@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0209049",
+  "title": "Statistical properties of neutral evolution",
+  "abstract": "Neutral evolution is the simplest model of molecular evolution and thus it is most amenable to a comprehensive theoretical investigation. In this paper, we characterize the statistical properties of neutral evolution of proteins under the requirement that the native state remains thermodynamically stable, and compare them to the ones of Kimura's model of neutral evolution. Our study is based on the Structurally Constrained Neutral (SCN) model which we recently proposed. We show that, in the SCN model, the substitution rate decreases as longer time intervals are considered, and fluctuates strongly from one branch of the evolutionary tree to another, leading to a non-Poissonian statistics for the substitution process. Such strong fluctuations are also due to the fact that neutral substitution rates for individual residues are strongly correlated for most residue pairs. Interestingly, structurally conserved residues, characterized by a much below average substitution rate, are also much less correlated to other residues and evolve in a much more regular way. Our results could improve methods aimed at distinguishing between neutral and adaptive substitutions as well as methods for computing the expected number of substitutions occurred since the divergence of two protein sequences.",
+  "authors": [
+    "Ugo Bastolla",
+    "Markus Porto",
+    "H. Eduardo Roman",
+    "Michele Vendruscolo"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat",
+    "q-bio.PE"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0209049.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0209049.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:08.923927+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0209049",
+    "categories": [
+      "cond-mat",
+      "q-bio.PE"
+    ]
+  }
+}

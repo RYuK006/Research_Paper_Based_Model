@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0108056",
+  "title": "Some Statistical Physics Approaches for Trends and Predictions in Meteorology",
+  "abstract": "Specific aspects of time series analysis are discussed. They are related to the analysis of atmospheric data that are pertinent to clouds. A brief introduction on some of the most interesting topics of current research on climate/weather predictions is given. Scaling properties of the liquid water path in stratus clouds are analyzed to demonstrate the application of several methods of statistical physics for analyzing data in atmospheric sciences, and more generally in geophysics. The breaking up of a stratus cloud is shown to be related to changes in the type of correlations in the fluctuations of the signal that represents the total vertical amount of liquid water in the stratus cloud. It is demonstrated that the correlations of the liquid water path fluctuations exist indeed in a more complex way than usually known through their multi-affine dependence.",
+  "authors": [
+    "K. Ivanova",
+    "M. Ausloos",
+    "T. Ackerman",
+    "H. N. Shirer",
+    "E. E. Clothiaux"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat",
+    "physics.ao-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0108056.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0108056.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.150908+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0108056",
+    "categories": [
+      "cond-mat",
+      "physics.ao-ph"
+    ]
+  }
+}

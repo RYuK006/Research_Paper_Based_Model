@@ -1,0 +1,35 @@
+{
+  "id": "arxiv:cond-mat/0109416",
+  "title": "Coil-Globule Transition for Regular, Random and Specially Designed Copolymers: Monte Carlo Simulation and Self-Consistent Field Theory",
+  "abstract": "The coil-globule transition has been studied for A-B copolymer chains both by means of lattice Monte Carlo simulations using bond fluctuation algorithm and by a numerical self-consistent field method. Copolymer chains of fixed length with A and B monomeric units with regular, random and specially designed (protein-like) primary sequences have been investigated. The dependence of the transition temperature on the AB sequence has been analyzed. A protein-like copolymer is more stable than a copolymer with statistically random sequence. The transition is more sharpe for random copolymers. It is found that there exist a temperature below which the chain appears to be in the lowest energy state (ground state). Both for random and protein-like sequences and for regular copolymers with a relatively long repeating block, a molten globule regime is found between the ground state temperature and the transition temperature. For regular block copolymers the transition temperature increases with block size. Qualitatively, the results from both methods are in agreement. Differences between the methods result from approximations in the SCF theory and equilibration problems in MC simulations. The two methods are thus complementary.",
+  "authors": [
+    "J. M. P. van den Oever",
+    "F. A. M. Leermakers",
+    "G. J. Fleer",
+    "V. A. Ivanov",
+    "N. P. Shusharina",
+    "A. R. Khokhlov",
+    "P. G. Khalatur"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.stat-mech",
+    "q-bio"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0109416.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0109416.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.474734+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0109416",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.stat-mech",
+      "q-bio"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0302385",
+  "title": "The optical conductivity of half-filled Hubbard ladders",
+  "abstract": "We investigate the optical conductivity of half-filled N-leg Hubbard ladders far into the ``deconfinement'' limit (i.e., weak Hubbard interaction and relatively strong interchain hopping). The N-leg Hubbard ladder is equivalent to an N-band model with velocities obeying $v_1=v_N<v_2=v_{N-1}<...$. When N is not too large $(N=3,4...)$, the band pairs $(i,N+1-i)$ successively flow to the D-Mott state leading to a cascade of charge and spin gaps [U. Ledermann, K. Le Hur, and T. M. Rice, Phys. Rev. B {\\bf{62}}, 16383 (2000)], and to the progressive closing of the two-dimensional (2D) Fermi surface (FS). The optical conductivity at finite temperatures can then exhibit coexistence between a prominent Drude peak and a high-frequency preformed pair continuum, split by sharp excitonic peaks arising due to an approximate SO(8) symmetry. For very large (but finite) N, all neighboring bands interact on the 2D FS, leading to a low-temperature 2D Mott crossover accompanied by a Spin Density Wave (SDW) instability (similar to the 2D case). In this limit the optical conductivity exhibits a unique charge gap -excitations above the gap being bound hole-pairs- and that the exciton features vanish. These results could help to explain the optical conductivity of 2D systems at and close to half-filling, an example of which is the pseudogap phase of high-$T_c$ cuprates.",
+  "authors": [
+    "J. Hopkinson",
+    "K. Le Hur"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0302385.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0302385.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.876838+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0302385",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ]
+  }
+}

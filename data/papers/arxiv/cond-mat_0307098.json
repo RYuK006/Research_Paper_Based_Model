@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0307098",
+  "title": "Tensorial Constitutive Models for Disordered Foams, Dense Emulsions, and other Soft Nonergodic Materials",
+  "abstract": "In recent years, the paradigm of `soft glassy matter' has been used to describe diverse nonergodic materials exhibiting strong local disorder and slow mesoscopic rearrangement. As so far formulated, however, the resulting `soft glassy rheology' (SGR) model treats the shear stress in isolation, effectively `scalarizing' the stress and strain rate tensors. Here we offer generalizations of the SGR model that combine its nontrivial aging and yield properties with a tensorial structure that can be specifically adapted, for example, to the description of fluid film assemblies or disordered foams.",
+  "authors": [
+    "M. E. Cates",
+    "P. Sollich"
+  ],
+  "year": 2003,
+  "doi": "10.1122/1.1634985",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0307098.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0307098.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.204353+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0307098",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.mtrl-sci",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

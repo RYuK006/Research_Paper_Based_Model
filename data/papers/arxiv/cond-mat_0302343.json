@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0302343",
+  "title": "Structural Aspects of Magnetic Coupling in CaCu3Mn4O12 and CaCu3Ti4O12",
+  "abstract": "Two perovskite-derived materials, CaCu3Mn4O12 and CaCu3Ti4O12, have drawn much recent interest due to their magnetoresistive, dielectric, and magnetoelectronic characteristics. Here we present initial theoretical insights into each of these points, based on first principles, density functional based calculations. Our results predict CCMO to have a spin-asymmetric energy gap, which leads to distinct temperature- and magnetic field-dependent changes in properties, and helps to account for its observed negative magnetoresistivity. We have studied CCTO primarily to gain insight into the exchange coupling in both these compounds, where the conventional superexchange coupling vanishes by symmetry for both nearest and next nearest Cu-Cu neighbors, a consequence of the structure. In CCTO, it is necessary to go to 5th Cu-Cu neighbors to obtain a (superexchange) coupling that can provide the coupling necessary to give three dimensional order. Non-superexchange mechanisms may be necessary to describe the magnetic coupling in this structural class.",
+  "authors": [
+    "M. D. Johannes",
+    "W. E. Pickett",
+    "R. Weht"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0302343.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0302343.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.851474+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0302343",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

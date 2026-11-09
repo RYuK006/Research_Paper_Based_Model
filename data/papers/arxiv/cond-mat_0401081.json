@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0401081",
+  "title": "Hybrid soft-mode and off-center Ti model of barium titanate",
+  "abstract": "It has been recently established by NMR techniques that in the high temperature cubic phase of BaTiO$_3$ the Ti ions are not confined to the high symmetry cubic sites, but rather occupy one of the eight off-center positions along the $[111]$ directions. The off-center Ti picture is in apparent contrast with most soft-mode type theoretical descriptions of this classical perovskite ferroelectric. Here we apply a mesoscopic model of BaTiO$_3$, assuming that the symmetrized occupation operators for the Ti off-center sites are linearly coupled to the normal coordinates for lattice vibrations. On the time scale of Ti intersite jumps, most phonon modes are fast and thus merely contribute to an effective static Ti-Ti interaction. Close to the stability limit for the soft TO optic modes, however, the phonon time scale becomes comparable to the relaxation time for the Ti occupational states of $T_{1u}$ symmetry, and a hybrid vibrational-orientational soft mode appears. The frequency of the hybrid soft mode is calculated as a function of temperature and coupling strength, and its its role in the ferroelectric phase transition is discussed.",
+  "authors": [
+    "R. Pirc",
+    "R. Blinc"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0401081.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0401081.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.906126+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0401081",
+    "categories": [
+      "cond-mat.stat-mech"
+    ]
+  }
+}

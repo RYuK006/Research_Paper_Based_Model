@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0406635",
+  "title": "Single particle spectrum of the flux phase in the FM Kondo Model",
+  "abstract": "We investigate the 2D ferromagnetic Kondo lattice model for manganites with classical corespins at Hund's rule coupling J_H=6, with antiferromagnetic superexchange 0.03 < J' < 0.05. We employ canonical and grand canonical unbiased Monte Carlo simulations and find paramagnetism, weak ferromagnetism and the Flux phase, depending on doping and on J'. The observed single particle spectrum in the flux phase differs from the idealized infinite lattice case, but agrees well with an idealized finite lattice case with thermal fluctuations.",
+  "authors": [
+    "M. Daghofer",
+    "W. Koller",
+    "W. von der Linden",
+    "H. G. Evertz"
+  ],
+  "year": 2004,
+  "doi": "10.1016/j.physb.2005.01.233",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0406635.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0406635.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.635367+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0406635",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

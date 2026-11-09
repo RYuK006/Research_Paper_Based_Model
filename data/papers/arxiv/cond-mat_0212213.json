@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0212213",
+  "title": "Nonlinear ac response of colloidal suspension with an intrinsic dispersion",
+  "abstract": "When a sinusoidal (ac) field is applied to a suspension containing nonlinear dielectric particles, the electrical response will generally consist of ac fields at frequencies of the higher-order harmonics. The situation is further complicated by an intrinsic dielectric dispersion which often occurs due to the surface conductivity or inhomogeneous structure of the particles. We perform a perturbation method to investigate the effect of intrinsic dielectric dispersion on the harmonics of local field as well as induced dipole moment. The results showed, for weak intrinsic dispersion strength, the ratio of the third to first harmonics of the induced dipole moment decreases as the frequency increases, which is qualitatively in agreement with experimental result. However, for a strong dispersion strength, the harmonics ratio increases as the frequency increases. Moreover, an increase in the intrinsic relaxation time may increase the strength of harmonics.",
+  "authors": [
+    "J. P. Huang",
+    "L. Gao",
+    "K. W. Yu"
+  ],
+  "year": 2002,
+  "doi": "10.1063/1.1543637",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0212213.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0212213.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.991307+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0212213",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

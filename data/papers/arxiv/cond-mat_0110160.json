@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0110160",
+  "title": "Absence of Ferromagnetic Instability at the Metal-Insulator Transition in Si-inversion Layers",
+  "abstract": "We have measured the Shubnikov-de Haas oscillations in high-mobility Si MOS structures over a wide range of the carrier densities n > 0.77x10^{11}/cm^2. This range includes the critical density n_c of the metal-insulator transition (2D MIT) for two samples studied. The periodicity of oscillations clearly demonstrates that the electron states remain fourfold degenerate down to and at the 2D MIT. Both the effective spin susceptibility χ* and mass m* remain finite and show no signatures of divergency at the critical density for both samples studied. To test possible divergency of χ*(n) and m*(n) at even lower densities, we have analyzed the data on χ*(n) and m*(n) in terms of a critical dependence χ*, m* ~ (n/n_0 -1)^{-α}. Our data suggest that χ* and m* may diverge at n_0 < 0.5x10^{11}/cm^2 (r_s > 12), which is significantly smaller than n_c.",
+  "authors": [
+    "V. M. Pudalov",
+    "M. E. Gershenson",
+    "H. Kojima"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0110160.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0110160.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.591230+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0110160",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mes-hall"
+    ]
+  }
+}

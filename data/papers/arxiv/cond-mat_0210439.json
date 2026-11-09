@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0210439",
+  "title": "The application of the NeXus data format to ISIS muon data",
+  "abstract": "Although originally designed by and for the use of the Neutron and X-ray communities, the flexibility of the NeXus data format makes it equally suitable for storing data gathered from MuSR experiments. Furthermore, its use should open up the possibility of sharing software beyond the immediate muon community; giving access to the many tools that are already in existence for manipulating NeXus and HDF based files. This paper explores the development of the NeXus format for storing ISIS muon data and the associated experimental conditions. The design of an Instrument Definition for the ISIS muon instruments is described and the implementation of an application to translate the present ISIS raw data format to the NeXus format presented. The development of a common muon data format is a topic of active discussion within the muon community; with this in mind, the suitability of NeXus and, in particular, the ISIS Instrument Definition for general application is considered. A number of applications that have been developed to exploit the flexibility of the ISIS muon NeXus file format are described and a scheme for enabling web based browsing and analysis of experiment data is introduced.",
+  "authors": [
+    "S. P. Cottrell",
+    "D. Flannery",
+    "G. Porter",
+    "A. D. Hillier",
+    "P. J. C. King"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0210439.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0210439.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.429468+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0210439",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0110326",
+  "title": "Quantum computing: a view from the enemy camp",
+  "abstract": "Quantum computing relies on processing information within a quantum system with many continuous degrees of freedom. The practical implementation of this idea requires complete control over all of the 2^n independent amplitudes of a many-particle wavefunction, where n>1000. The principles of quantum computing are discussed from the practical point of view with the conclusion that no working device will be built in the forseeable future.",
+  "authors": [
+    "M. I. Dyakonov"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat",
+    "physics.atom-ph",
+    "quant-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0110326.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0110326.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.690178+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0110326",
+    "categories": [
+      "cond-mat",
+      "physics.atom-ph",
+      "quant-ph"
+    ]
+  }
+}

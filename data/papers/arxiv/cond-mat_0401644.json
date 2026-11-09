@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0401644",
+  "title": "The superconducting phase diagram in a model for tetragonal and cubic systems with strong antiferromagnetic correlations",
+  "abstract": "We calculate the superconducting phase diagram as a function of temperature and z-axis anisotropy in a model for tetragonal and cubic systems having strong antiferromagnetic fluctuations. The formal basis for our calculations is the fluctuation exchange approximation (FLEX) applied to the single-band Hubbard model near half-filling. For nearly cubic lattices, two superconducting phase transitions are observed as a function of temperature with the low-temperature state having the time-reversal symmetry-breaking form, $d_{x^2 - y^2} \\pm id_{3z^2 -r^2}$. With increasing tetragonal distortion the time-reversal-symmetry-breaking phase is suppressed giving way to only $d_{x^2 - y^2}$ or $d_{3z^2 -r^2}$ single-component phases. Based on these results, we propose that CeIn$_3$ is a candidate for exhibiting a time-reversal symmetry-breaking superconducting state.",
+  "authors": [
+    "J. J. Deisz"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0401644.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0401644.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.177695+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0401644",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

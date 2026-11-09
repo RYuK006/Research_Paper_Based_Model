@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0110171",
+  "title": "Electron microscopy of the strain on the Si(111)$7\\times7$ surface induced by the STM tip",
+  "abstract": "The Si(111)7x7 surface was observed by reflection electron microscopy (REM) and scanning tunneling microscopy (STM) simultaneously in an ultra-high vacuum electron microscope. The distance between the STM tip and the Si surface was detected from the REM image, which showed the real and the mirror image of the tip. We approached the tip to the surface or retracted from the surface by a piezo drive to observe the strain induced on the Si(111)7x7 surface as a function of the tip-surface distance. This investigation was done with and without the bias voltage between the tip and the substrate. With bias voltage of 1.0 V on the sample, the tip was approached to 1.6 nm above the sample surface for the tunneling current of 0.8 nA, no detectable order of strain (10^{-4}) was induced on the sample surface. When the bias decreased within the range of -0.3 - +0.5 V, the surface was compressed over the Si surface area of 100 nm. Without the bias voltage, tensile and compressive strain was detected as the tip-surface distance changed from attractive to the repulsive interaction regime. The strain field extended over 50 - 140 nm, and the force became neutral at the tip-substrate distance of 0.45 nm.",
+  "authors": [
+    "Y. Naitoh",
+    "K. Takayanagi",
+    "Y. Ohshima",
+    "H. Hirayama"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0110171.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0110171.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.601506+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0110171",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0304004",
+  "title": "The effect of sample size on field dependence of Jc for MgB2 superconductor",
+  "abstract": "A strong effect of sample size on magnetic Jc(H) was observed for bulk MgB2 when Jc is obtained directly from the critical state model. Thus obtained zero-field Jc (Jc0) decreases strongly with the sample size, attaining a constant value for the samples larger than a few millimetres. On the other hand, the irreversibility field (Hirr) defined at Jc = 100 A/cm2 increases with the sample size. The decrease of Jc0 is described in terms of voids in the bulk MgB2 samples and superconducting screening around the cells of superconducting material between these voids (35 micro-m), because of concentration of the current in the narrow bridges connecting the cells. For samples larger than a few millimetres, the value of magnetic Jc is in agreement with the transport Jc and it is restricted by the voids. The critical state model is not suitable for obtaining Jc for small bulk MgB2. The increase of Hirr with the sample size is an artefact of defining Hirr by the value of Jc at which an additional superconducting screening on 1mm scale dominates Dm.",
+  "authors": [
+    "J. Horvat",
+    "S. Soltanian",
+    "X. L. Wang",
+    "S. X. Dou"
+  ],
+  "year": 2004,
+  "doi": "10.1063/1.1713031",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0304004.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0304004.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:43.939390+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0304004",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

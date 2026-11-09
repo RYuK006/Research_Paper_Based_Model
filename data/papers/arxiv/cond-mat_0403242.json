@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0403242",
+  "title": "Resolving distribution of relaxation times in Poly(propylene glycol) on the crossover region",
+  "abstract": "In this paper, a recently developed numerical technique [{\\em Tuncer E and Guba{ń}ski S M, IEEE Trans Diel El Insul {\\bf 8}(3)(2001) 310-320}] is applied to poly(propylene glycol) complex dielectric data to extract more information about the molecular relaxation processes. The method is based on a constrained-least-squares (\\clsq) data fitting procedure together with the Monte Carlo (\\mc) method. We preselect the number of relaxation times with no {\\em a-priori} physical assumption, and use the Debye single relaxation as ``kernel'', then the obtained weighting factors at each \\mc step from the \\clsq method builds up a relaxation time spectrum. When the analysis is repeated for data at different temperatures a {\\em relaxation-image} is created. The obtained relaxation are analyzed using the Lorentz (Cauchy) distribution, which is a special form of the L{é}vy statistics. In the present report the $β$ and $α$ relaxations are resolved for the \\ppg. A comparison of the relaxations to those earlier reported in the literature indicate that the presented method provides additional information compared to methods based on empirical formulas. The distribution of relaxation times analysis is especially useful to probe the crossover region where the $α$- and $β$- relaxations merge and the results show that the relaxation after the crossover region at higher temperatures is Arrhenius-type as the $β$-relaxation. Moreover, this relaxation is more likely to be the continuation of the $β$-relaxation, but with a different activation energy.",
+  "authors": [
+    "Enis Tuncer",
+    "Marizio Furlani",
+    "Bengt-Erik Mellander"
+  ],
+  "year": 2004,
+  "doi": "10.1063/1.1650888",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0403242.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0403242.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.624299+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0403242",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

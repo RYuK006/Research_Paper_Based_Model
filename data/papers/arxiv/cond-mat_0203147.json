@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0203147",
+  "title": "Surface Roughness and New Type of Size Effect in Quantized Films",
+  "abstract": "The effect of random surface roughness on quantum size effect in thin films is discussed. The conductivity of quantized metal films is analyzed for different types of experimentally identified correlation functions of surface inhomogeneities including the Gaussian, exponential, power-law correlators, and the correlators with a power law decay of the power density spectral function. The dependence of the conductivity $σ$ on the film thickness L, correlation radius of inhomogeneities R, and the fermion density is investigated. The goal is to help in extracting surface parameters from transport measurements and to determine the importance of the choice of the proper surface correlator for transport theory. A new type of size effect is predicted for quantized films with large correlation radius of random surface corrugation. The effect exists for inhomogeneities with Gaussian and exponential power spectrum; if the decay of power spectrum is slow, the films exhibit usual quantum size effect. The conductivity $% σ$ exhibits well-pronounced oscillations as a function of the channel width L or the density of fermions, and large steps as a function of the correlation radius R. These oscillations and steps are explained and their positions identified. This phenomenon, which is reminiscent of magnetic breakthrough, can allow direct observation of the quantum size effect in conductivity of nano-scale metal films. The only region with a nearly universal behavior of transport is the region in which particle wavelength is close to the correlation radius of surface inhomogeneities.",
+  "authors": [
+    "I. V. Ponomarev",
+    "A. E. Meyerovich"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0203147.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0203147.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.181232+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0203147",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

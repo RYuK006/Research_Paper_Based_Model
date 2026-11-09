@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0206292",
+  "title": "Subnetwork hierarchies of biochemical pathways",
+  "abstract": "We present a method to decompose biochemical networks into subnetworks based on the global geometry of the network. This method enables us to analyse the full hierarchical organisation of biochemical networks and is applied to 43 organisms from the WIT database. Two types of biochemical networks are considered: metabolic networks and whole-cellular networks (also including e.g. information processes). Conceptual and quantitative ways of describing the hierarchical ordering are discussed. The general picture of the metabolic networks arising from our study is that of a few core-clusters centred around the most highly connected substances enclosed by other substances in outer shells, and a few other well-defined subnetworks.",
+  "authors": [
+    "Petter Holme",
+    "Mikael Huss",
+    "Hawoong Jeong"
+  ],
+  "year": 2002,
+  "doi": "10.1093/bioinformatics/btg033",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.dis-nn",
+    "q-bio.MN"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0206292.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0206292.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.198896+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0206292",
+    "categories": [
+      "cond-mat.dis-nn",
+      "q-bio.MN"
+    ]
+  }
+}

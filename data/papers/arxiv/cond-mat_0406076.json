@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0406076",
+  "title": "A Circuit Model for Domain Walls in Ferromagnetic Nanowires: Application to Conductance and Spin Transfer Torques",
+  "abstract": "We present a circuit model to describe the electron transport through a domain wall in a ferromagnetic nanowire. The domain wall is treated as a coherent 4-terminal device with incoming and outgoing channels of spin up and down and the spin-dependent scattering in the vicinity of the wall is modelled using classical resistances. We derive the conductance of the circuit in terms of general conductance parameters for a domain wall. We then calculate these conductance parameters for the case of ballistic transport through the domain wall, and obtain a simple formula for the domain wall magnetoresistance which gives a result consistent with recent experiments. The spin transfer torque exerted on a domain wall by a spin-polarized current is calculated using the circuit model and an estimate of the speed of the resulting wall motion is made.",
+  "authors": [
+    "Peter E. Falloon",
+    "Rodolfo A. Jalabert",
+    "Dietmar Weinmann",
+    "Robert L. Stamps"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevB.70.174424",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0406076.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0406076.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.353108+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0406076",
+    "categories": [
+      "cond-mat.mes-hall"
+    ]
+  }
+}

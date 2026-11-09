@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0110015",
+  "title": "Quantum Groups, Strings and HTSC materials II",
+  "abstract": "Previously we have indicated the relationship between quantum groups [Phys. Lett A272, (2000)] and strings via WZWN models in the context of applications to cuprates and related materials.The connection between quantum groups and strings is one way of seeing the validity of our previous conjecture [i.e. that a theory for cuprates may be constructed on the basis of quantum groups]. The cuprates seems to exhibit statistics, dimensionality and phase transitions in novel ways. The nature of excitations [i.e. quasiparticle or collective] must be understood. The Hubbard model captures some of the behaviour of the phase transitions in these materials. On the other hand the phases such as stripes in these materials bear relationship to quantum group or string-like solutions. One thus expects that the relevant solutions of Hubbard model may thus be written in terms of stringy solutions. In short this approach may lead to the non-perturbative formualtion of Hubbard and other condensed matter Hamiltonians. The question arises that how a 1-d based symmetry such as quantum groups can be relevant in describing a 3-d [spatial dimensions] system such as cuprates. The answer lies in the key observation that strings which are 1-d objects can be used to describe physics in $d$ dimensions. For example gravity [which is a 3-d [spatial] plus time] phenomenon can be understood in terms of 1-d strings. Thus we expect that 1-d quantum group object induces physics in 2-d and 3-d which may be relevant to the cuprates. We present support for our contention using [numerical] variational Monte-Carlo [MC] applied to 2d d-p model. We also briefly discuss others ways to formulate a string picture for cuprates, namely by exploiting connection between gauge theories and strings and t'Hooft picture of quark confinement.",
+  "authors": [
+    "Sher Alam",
+    "M. O. Rahman",
+    "T. Yanagisawa",
+    "H. Oyanagi"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0110015.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0110015.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.535870+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0110015",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

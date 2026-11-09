@@ -1,0 +1,34 @@
+{
+  "id": "arxiv:cond-mat/0312019",
+  "title": "A theoretical investigation of ferromagnetic tunnel junctions with 4-valued conductances",
+  "abstract": "In considering a novel function in ferromagnetic tunnel junctions consisting of ferromagnet(FM)/barrier/FM junctions, we theoretically investigate multiple valued (or multi-level) cell property, which is in principle realized by sensing conductances of four states recorded with magnetization configurations of two FMs; that is, (up,up), (up,down), (down,up), (down,down). To obtain such 4-valued conductances, we propose FM1/spin-polarized barrier/FM2 junctions, where the FM1 and FM2 are different ferromagnets, and the barrier has spin dependence. The proposed idea is applied to the case of the barrier having localized spins. Assuming that all the localized spins are pinned parallel to magnetization axes of the FM1 and FM2, 4-valued conductances are explicitly obtained for the case of many localized spins. Furthermore, objectives for an ideal spin-polarized barrier are discussed.",
+  "authors": [
+    "Satoshi Kokado",
+    "Kikuo Harigaya"
+  ],
+  "year": 2003,
+  "doi": "10.1088/0953-8984/15/50/012",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.mtrl-sci",
+    "cs.CE",
+    "physics.ins-det",
+    "quant-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0312019.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0312019.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.438893+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0312019",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci",
+      "cs.CE",
+      "physics.ins-det",
+      "quant-ph"
+    ]
+  }
+}

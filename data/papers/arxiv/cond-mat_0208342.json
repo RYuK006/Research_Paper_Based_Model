@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0208342",
+  "title": "High-frequency fluctuational conductivity in YBa$_{2}$Cu$_{3}$O$_{7-δ}$",
+  "abstract": "We present measurements of the fluctuational excess conductivity at 48 GHz and 24 GHz in YBa$_{2}$Cu$_{3}$O$_{7-δ}$ films above the transition temperature. The measurements depart from the gaussian prediction for finite-frequency fluctuational conductivity. We focus on the region not too close to $T_{c}$, where the real part of the excess conductivity drops much faster than the prediction of the gaussian model. We calculate the dynamic excess conductivity within a Ginzburg-Landau approach. In the calculation we insert a short-wavelength cutoff of the order of the inverse coherence length, in order to suppress high-momentum modes. The excess conductivity of all samples measured can be described very well by the modified model.",
+  "authors": [
+    "E. Silva",
+    "R. Marcon",
+    "R. Fastampa",
+    "M. Giura",
+    "S. Sarti"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0208342.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0208342.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:08.782142+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0208342",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

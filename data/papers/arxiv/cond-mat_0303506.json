@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0303506",
+  "title": "Sum rules and energy scales in the high-temperature superconductor YBa2Cu3O6+x",
+  "abstract": "The Ferrell-Glover-Tinkham (FGT) sum rule has been applied to the temperature dependence of the in-plane optical conductivity of optimally-doped YBa_2Cu_3O_{6.95} and underdoped YBa_2Cu_3O_{6.60}. Within the accuracy of the experiment, the sum rule is obeyed in both materials. However, the energy scale ω_c required to recover the full strength of the superfluid ρ_s in the two materials is dramatically different; ω_c \\simeq 800 cm^{-1} in the optimally doped system (close to twice the maximum of the superconducting gap, 2Δ_0), but ω_c \\gtrsim 5000 cm^{-1} in the underdoped system. In both materials, the normal-state scattering rate close to the critical temperature is small, Γ< 2Δ_0, so that the materials are not in the dirty limit and the relevant energy scale for ρ_s in a BCS material should be twice the energy gap. The FGT sum rule in the optimally-doped material suggests that the majority of the spectral weight of the condensate comes from energies below 2Δ_0, which is consistent with a BCS material in which the condensate originates from a Fermi liquid normal state. In the underdoped material the larger energy scale may be a result of the non-Fermi liquid nature of the normal state. The dramatically different energy scales suggest that the nature of the normal state creates specific conditions for observing the different aspects of what is presumably a central mechanism for superconductivity in these materials.",
+  "authors": [
+    "C. C. Homes",
+    "S. V. Dordevic",
+    "D. A. Bonn",
+    "Ruixing Liang",
+    "W. N. Hardy"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevB.69.024514",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0303506.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0303506.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:43.863162+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0303506",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

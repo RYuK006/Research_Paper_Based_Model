@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0311126",
+  "title": "High-Order Coupled Cluster Method (CCM) Calculations Via Parallel Processing: An Application To The Kagome Antiferromagnet",
+  "abstract": "A simple ``brute-force'' parallelisation procedure for the computational implementation of high-order coupled cluster method (CCM) calculations is presented here. This approach is investigated and illustrated by an application of high-order CCM to the Heisenberg antiferromagnet on the Kagomé lattice with nearest- and next-nearest-neighbour bonds. Ferromagnetic next-nearest-neighbour bonds are used to stabilise a model state which contains three sublattices in which the spins make angles of 120$^{\\circ}$ to each other. Ground-state results for up to approximately 10000 fundamental clusters are presented, and our best estimate for the ground-state energy per spin of the spin-half Kagomé lattice antiferromagnet with only nearest-neighbour bonds is $E_g/N = -0.43104$. We believe that further increases (of at least another order of magnitude) in the number of fundamental clusters might be possible in future by using parallel processing techniques. The extension of high-order CCM calculations in order to consider non-Néel (e.g., dimer solid) model states, simulation of excitation spectra, lattice boson and fermion models, and finite-sized systems is very briefly considered.",
+  "authors": [
+    "D. J. J. Farnell",
+    "R. F. Bishop"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0311126.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0311126.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.147897+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0311126",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

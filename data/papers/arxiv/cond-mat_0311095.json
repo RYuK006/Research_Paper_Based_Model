@@ -1,0 +1,32 @@
+{
+  "id": "arxiv:cond-mat/0311095",
+  "title": "Energy spectrum, persistent current and electron localization in quantum rings",
+  "abstract": "Energy spectra of quasi-one-dimensional quantum rings with a few electrons are studied using several different theoretical methods. Discrete Hubbard models and continuum models are shown to give similar results governed by the special features of the one-dimensionality. The energy spectrum of the many-body system can be described with a rotation-vibration spectrum of a 'Wigner molecule' of 'localized' electrons, combined with the spin-state determined from an effective antiferromagnetic Heisenberg Hamiltonian. The persistent current as a function of magnetic flux through the ring shows periodic oscillations arising from the 'rigid rotation' of the electron ring. For polarized electrons the periodicity of the oscillations is always the flux quantum Phi_0. For nonpolarized electrons the periodicity depends on the strength of the effective Heisenberg coupling and changes from Φ_0 first to Phi_0/2 and eventually to Phi_0/N when the ring gets narrower.",
+  "authors": [
+    "M. Manninen",
+    "P. Koskinen",
+    "M. Koskinen",
+    "P. Singha Deo",
+    "S. M. Reimann",
+    "S. Viefers"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0311095.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0311095.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.129910+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0311095",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.str-el"
+    ]
+  }
+}

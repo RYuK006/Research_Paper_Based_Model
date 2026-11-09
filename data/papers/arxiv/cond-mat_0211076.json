@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0211076",
+  "title": "Spectral density functional approach to electronic correlations and magnetism in crystals",
+  "abstract": "A novel approach to electronic correlations and magnetism of crystals based on realistic electronic structure calculations is reviewed. In its simplest form it is a combination of the ``local density approximation'' (LDA) and the dynamical mean field theory (DMFT) approaches. Using numerically exact QMC solution to the effective DMFT multi-orbital quantum-impurity problem, a successful description of electronic structure and finite temperature magnetism of transition metals has been achieved. We discuss a simplified perturbation LDA+DMFT scheme which combines the T-matrix and fluctuation-exchange approximation (TM-FLEX). We end with a discussion of cluster generalization of the non-local DMFT scheme and its applications to the magnetism and superconductivity of high-Tc superconductors.",
+  "authors": [
+    "A. I. Lichtenstein",
+    "M. I. Katsnelson",
+    "G. Kotliar"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0211076.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0211076.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.604305+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0211076",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

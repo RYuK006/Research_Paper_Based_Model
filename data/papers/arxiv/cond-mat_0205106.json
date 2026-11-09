@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0205106",
+  "title": "Elusive gauge-invariant fermion propagator in QED-like effective theories: round II",
+  "abstract": "We comment on the recent attempt by M. Franz et al [1] to further justify their earlier calculation of the gauge-invariant electron propagator in the context of the QED_3 theory of the pseudogap phase in cuprates [2]. First, we use the method of \"reductio ad absurdum\" to demonstrate the inconsistency of the argument offered in [2] and then present a direct calculation of the disputed fermion amplitudes, thus unequivocally proving that the previously proposed form of the electron propagator: 1) does exhibit a negative anomalous dimension, as pointed out in [3]; 2) is different from the so-called Brown's function whose anomalous dimension turns out to be positive when computed in a covariant gauge. Lastly, we conjecture that the true physical electron propagator (whose exact form still remains to be found) may feature a \"super-Luttinger\" behavior characterized by a faster than a power-law decay G(x)~exp(-const\\ln^2|x|).",
+  "authors": [
+    "D. V. Khveshchenko"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0205106.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0205106.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.777563+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0205106",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "arxiv:cond-mat/0309638",
+  "title": "Uniqueness of thermodynamic projector and kinetic basis of molecular individualism",
+  "abstract": "Three results are presented: First, we solve the problem of persistence of dissipation for reduction of kinetic models. Kinetic equations with thermodynamic Lyapunov functions are studied. Uniqueness of the thermodynamic projector is proven: There exists only one projector which transforms the arbitrary vector field equipped with the given Lyapunov function into a vector field with the same Lyapunov function for a given anzatz manifold which is not tangent to the Lyapunov function levels. Moreover, from the requirement of persistence of the {\\it sign} of dissipation follows that the {\\it value} of dissipation (the entropy production) persists too. The explicit construction of this {\\it thermodynamic projector} is described. Second, we use this projector for developing the short memory approximation and coarse-graining for general nonlinear dynamic systems. We prove that in this approximation the entropy production grows. ({\\it The theorem about entropy overproduction.}) In example we apply the thermodynamic projector to derivation the equations of reduced kinetics for the Fokker-Planck equation. The new class of closures is developed: The kinetic multipeak polyhedrons. Distributions of this type are expected to appear in each kinetic model with multidimensional instability as universally, as Gaussian distribution appears for stable systems. The number of possible relatively stable states of nonequilibrium system grows as $2^m$, and the number of macroscopic parameters is in order $mn$, where $n$ is the dimension of configuration space, and $m$ is the number of independent unstable directions in this space. The elaborated class of closures and equations pretends to describe the effects of \"molecular individualism\". This is the third result.",
+  "authors": [
+    "A. N. Gorban",
+    "I. V. Karlin"
+  ],
+  "year": 2004,
+  "doi": "10.1016/j.physa.2004.01.039",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat",
+    "math-ph",
+    "math.MP",
+    "physics.comp-ph",
+    "q-bio.BM"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0309638.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0309638.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:46.233758+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0309638",
+    "categories": [
+      "cond-mat",
+      "math-ph",
+      "math.MP",
+      "physics.comp-ph",
+      "q-bio.BM"
+    ]
+  }
+}

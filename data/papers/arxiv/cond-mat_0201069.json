@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0201069",
+  "title": "Twist Free Energy",
+  "abstract": "One may impose to a system with spontaneous broken symmetry, boundary conditions which correspond to different pure states at two ends of a sample. For a discrete Ising-like broken symmetry, boundary conditions with opposite spins in two parallel limiting planes, generate an interface and a cost in free energy per unit area of the interface. For continuum symmetries the order parameter interpolates smoothly between the end planes carrying two different directions of the order parameter. The cost in free energy is then proportional to $L^{d-2}$ for a system of characteristic size L. The power of $L$ is related to the lower critical dimension, and the coefficient of this additional free energy vanishes at the critical temperature. In this note it is shown within a loop expansion that one does find the expected behavior of this twist free energy. This is a preamble to the study of situations where the broken continuum symmetry is believed to be more complex, as in Parisi's ansatz for the Edwards-Anderson spin glass.",
+  "authors": [
+    "E. Brézin",
+    "C. De Dominicis"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0201069.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0201069.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.700770+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0201069",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

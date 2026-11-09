@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0109306",
+  "title": "ab inito local vibrational modes of light impurities in silicon",
+  "abstract": "We have developed a formulation of density functional perturbation theory for the calculation of vibrational frequencies in molecules and solids, which uses numerical atomic orbitals as a basis set for the electronic states. The (harmonic) dynamical matrix is extracted directly from the first order change in the density matrix with respect to infinitesimal atomic displacements from the equilibrium configuration. We have applied this method to study the vibrational properties of a number of hydrogen-related complexes and light impurities in silicon. The diagonalization of the dynamical matrix provides the vibrational modes and frequencies, including the local vibrational modes (LVMs) associated with the defects. In addition to tests on simple molecules, results for interstitial hydrogen, hydrogen dimers, vacancy-hydrogen and self-interstitial-hydrogen complexes, the boron-hydrogen pair, substitutional C, and several O-related defects in c-Si are presented. The average error relative to experiment for the aprox.60 predicted LVMs is about 2% with most highly harmonic modes being extremely close and the more anharmonic ones within 5-6% of the measured values.",
+  "authors": [
+    "J. M. Pruneda",
+    "S. K. Estreicher",
+    "J. Junquera",
+    "J. Ferrer",
+    "P. Ordejon"
+  ],
+  "year": 2001,
+  "doi": "10.1103/PhysRevB.65.075210",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0109306.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0109306.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.447757+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0109306",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

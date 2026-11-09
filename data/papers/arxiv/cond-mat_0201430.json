@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0201430",
+  "title": "The network topology of a potential energy landscape: A static scale-free network",
+  "abstract": "Here we analyze the topology of the network formed by the minima and transition states on the potential energy landscape of small clusters. We find that this network has both a small-world and scale-free character. In contrast to other scale-free networks, where the topology results from the dynamics of the network growth, the potential energy landscape is a static entity. Therefore, a fundamentally different organizing principle underlies this behaviour: The potential energy landscape is highly heterogeneous with the low-energy minima having large basins of attraction and acting as the highly-connected hubs in the network.",
+  "authors": [
+    "Jonathan P. K. Doye"
+  ],
+  "year": 2002,
+  "doi": "10.1103/PhysRevLett.88.238701",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat",
+    "physics.atm-clus"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0201430.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0201430.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.865825+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0201430",
+    "categories": [
+      "cond-mat",
+      "physics.atm-clus"
+    ]
+  }
+}

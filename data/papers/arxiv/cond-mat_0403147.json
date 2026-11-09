@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0403147",
+  "title": "The anisotropic quantum antiferromagnet on the Sierpinski gasket: Ground state and thermodynamics",
+  "abstract": "We investigate an antiferromagnetic s=1/2 quantum spin system with anisotropic spin exchange on a fractal lattice, the Sierpinski gasket. We introduce a novel approximative numerical method, the configuration selective diagonalization (CSD) and apply this method to the Sierpinski gasket with N=42. Using this and other methods we calculate ground state energies, spin gap, spin-spin correlations and specific heat data and conclude that the s=1/2 quantum antiferromagnet on the Sierpinski gasket shows a disordered magnetic ground state with a very short correlation length of about 1 and an, albeit very small, spin gap. This conclusion holds for Heisenberg as well a for XY exchange.",
+  "authors": [
+    "Andreas Voigt",
+    "Wolfgang Wenzel",
+    "Johannes Richter",
+    "Piotr Tomczak"
+  ],
+  "year": 2004,
+  "doi": "10.1140/epjb/e2004-00098-8",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0403147.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0403147.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.576384+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0403147",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

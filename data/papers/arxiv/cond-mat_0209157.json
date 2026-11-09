@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0209157",
+  "title": "Classical ground states of symmetrical Heisenberg spin systems",
+  "abstract": "We investigate the ground states of classical Heisenberg spin systems which have point group symmetry. Examples are the regular polygons (spin rings) and the seven quasi-regular polyhedra including the five Platonic solids. For these examples, ground states with special properties, e.g. coplanarity or symmetry, can be completely enumerated using group-theoretical methods. For systems having coplanar (anti-) ground states with vanishing total spin we also calculate the smallest and largest energies of all states having a given total spin S. We find that these extremal energies depend quadratically on S and prove that, under certain assumptions, this happens only for systems with coplanar S=0 ground states. For general systems the corresponding parabolas represent lower and upper bounds for the energy values. This provides strong support and clarifies the conditions for the so-called rotational band structure hypothesis which has been numerically established for many quantum spin systems.",
+  "authors": [
+    "Heinz-Juergen Schmidt",
+    "Marshall Luban"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat",
+    "math-ph",
+    "math.MP"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0209157.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0209157.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:08.977544+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0209157",
+    "categories": [
+      "cond-mat",
+      "math-ph",
+      "math.MP"
+    ]
+  }
+}

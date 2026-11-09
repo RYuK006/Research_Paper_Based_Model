@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0401059",
+  "title": "Ultrafast real-time spectroscopy of low dimensional charge density wave compounds",
+  "abstract": "We present a femtosecond time-resolved optical spectroscopy (TRS) as an experimental tool to probe the changes in the low energy electronic density of states as a result of short and long range charge density wave order. In these experiments, a femtosecond laser pump pulse excites electron-hole pairs via an interband transition in the material. These hot carriers rapidly release their energy via electron-electron and electron-phonon collisions reaching states near the Fermi energy within 10-100 fs. The presence of an energy gap in the quasiparticle excitation spectrum inhibits the final relaxation step and photoexcited carriers accumulate above the gap. The relaxation and recombination processes of photoexcited quasiparticles are monitored by measuring the time evolution of the resulting photoinduced absorption. This way, the studies of carrier relaxation dynamics give direct information of the temperature-dependent changes in the low energy density of states. Here we present the application of the femtosecond time-resolved optical spectroscopy for studying changes in the low energy electronic density of states in low dimensional charge density wave systems associated with various charge density wave (CDW) transitions and review some recent experiments on quasi 1D and 2D CDW compounds.",
+  "authors": [
+    "J. Demsar",
+    "D. Mihailovic",
+    "V. V. Kabanov",
+    "K. Biljakovic"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0401059.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0401059.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.895558+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0401059",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

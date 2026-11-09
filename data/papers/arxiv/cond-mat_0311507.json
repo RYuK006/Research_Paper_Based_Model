@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0311507",
+  "title": "First-principle molecular dynamics with ultrasoft pseudopotentials: parallel implementation and application to extended bio-inorganic system",
+  "abstract": "We present a plane-wave ultrasoft pseudopotential implementation of first-principle molecular dynamics, which is well suited to model large molecular systems containing transition metal centers. We describe an efficient strategy for parallelization that includes special features to deal with the augmented charge in the contest of Vanderbilt's ultrasoft pseudopotentials. We also discuss a simple approach to model molecular systems with a net charge and/or large dipole/quadrupole moments. We present test applications to manganese and iron porphyrins representative of a large class of biologically relevant metallorganic systems. Our results show that accurate Density-Functional Theory calculations on systems with several hundred atoms are feasible with access to moderate computational resources.",
+  "authors": [
+    "P. Giannozzi",
+    "F. De Angelis",
+    "R. Car"
+  ],
+  "year": 2003,
+  "doi": "10.1063/1.1652017",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0311507.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0311507.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.327945+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0311507",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0105521",
+  "title": "A tube concept in rubber viscoelasticity",
+  "abstract": "A constitutive model is derived for the time-dependent response of particle-reinforced elastomers at finite strains. An amorphous rubbery polymer is treated as a network of long chains linked by permanent junctions (chemical crosslinks, entanglements and filler particles). A strand between two neighboring junctions is thought of as a sequence of mers whose motion is restricted to some tube by surrounding macromolecules. Unlike the conventional approach that presumes the cross-section of the tube to be constant, we postulate that its radius strongly depends on the longitudinal coordinate. This implies that a strand may be modeled as a sequence of segments whose thermal motion is totally frozen by the environment (bottle-neck points of the tube) bridged by threads of mers which go through all possible configurations during the characteristic time of a test. Thermal fluctuations affect the tube's radius, which results in freezing and activation of regions with high molecular mobility (RHMs). The viscoelastic response of an elastomer is associated with thermally activated changes in the number of RHMs in strands. Stress-strain relations for a rubbery polymer at finite strains and kinetic equations for the concentrations of RHMs are developed by using the laws of thermodynamics. At small strains these relations are reduced to the conventional integral constitutive equation in linear viscoelasticity with a novel scaling law for relaxation times. The governing equation is determined by 5 adjustable parameters which are found by fitting experimental data in tensile dynamic tests on a carbon black filled natural rubber vulcanizate.",
+  "authors": [
+    "Aleksey D. Drozdov"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0105521.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0105521.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.626787+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0105521",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

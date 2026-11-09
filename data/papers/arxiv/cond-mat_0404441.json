@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0404441",
+  "title": "Can the bosonic coupling constant be extracted from the ARPES scattering rate in cuprate superconductors?",
+  "abstract": "The recent ARPES results for the imaginary part of the self-energy obtained on a number of HTSC bismuthates \\cite{Kordyuk} are analyzed. By accepting the ''Fermi-Bose'' {\\it division-procedure} of the self-energy into the Fermi-liquid and bosonic parts - which is proposed in \\cite{Kordyuk}, one obtains very small bosonic coupling constant $λ_{B, Im} <0.2$. If this procedure would be correct then the standard Eliashberg theory makes any bosonic mechanism of pairing irrelevant. As a consequence we are confronted with a trilemma: (1) to abandon the ``Fermi-Bose'' division-procedure \\cite{Kordyuk}; (2) to abandon the Eliashberg theory; (3) to abandon the interpretation of ARPES data within the three-step model, where the ARPES intensity is proportional to the quasiparticle spectral function $A(\\mathbf{k},ω)$. However, since the bosonic coupling constant extracted from the ARPES nodal kink at 70 meV \\cite{Lanzara}, which measures the real part of the self-energy is much larger than the one extracted from the ARPES line-width this means that the ``Fermi-Bose'' division procedure done in \\cite{Kordyuk} is ambiguous.",
+  "authors": [
+    "Miodrag L. Kulic"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0404441.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0404441.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:46.829571+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0404441",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

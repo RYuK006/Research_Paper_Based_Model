@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0110298",
+  "title": "Spin-Phonon Chains with Bond Coupling",
+  "abstract": "We investigate the antiadiabatic limit of an antiferromagnetic S=1/2 Heisenberg chain coupled to Einstein phonons via a bond coupling. The flow equation method is used to decouple the spin and the phonon part of the Hamiltonian. In the effective spin model longer range spin-spin interactions are generated. The effective spin chain is frustrated. The resulting temperature dependent couplings are used to determine the magnetic susceptibility and to determine the phase transition from a gapless state to a dimerized gapped phase. The susceptibilities and the phase diagram obtained via the effective couplings are compared with independently calculated quantum Monte Carlo results.",
+  "authors": [
+    "Carsten Raas",
+    "Ute Löw",
+    "Götz S. Uhrig",
+    "Rainer W. Kühne"
+  ],
+  "year": 2002,
+  "doi": "10.1103/PhysRevB.65.144438",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0110298.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0110298.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.663592+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0110298",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

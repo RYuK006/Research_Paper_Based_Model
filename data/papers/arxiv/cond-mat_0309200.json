@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0309200",
+  "title": "Hidden glassy behaviors in an ideal Heisenberg Kagomé antiferromagnet",
+  "abstract": "Dynamics of classical Heisenberg spins, ${\\bf S}_i=({\\bf s}_i,S_{iz})$, on the Kagomé lattice has been studied. An ideal Heisenberg Kagomé antiferromagnet is known to remain disordered down to T=0 due to the macroscopic degeneracy of the ground state. Through the study, however, we find that ${\\bf S}_i$ and their planar components ${\\bf s}_i$ behave in a qualitatively different way and especially planar spins (${\\bf s}_i$) show the exotic glass-like transition in the very low temperature $T\\sim 0.003J$ ($J$: spin exchange). The glassy behaviors of ${\\bf s}_i$ would be found to be driven by the spin-nematic fluctuations, different from ordinary spin glasses by disorders or anisotropies.",
+  "authors": [
+    "J. D. Lee"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.dis-nn",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0309200.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0309200.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.959704+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0309200",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.dis-nn",
+      "cond-mat.str-el"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0402121",
+  "title": "Spectral properties of a two-orbital Anderson impurity model across a non-Fermi liquid fixed point",
+  "abstract": "We study by NRG the spectral properties of a two-orbital Anderson impurity model in the presence of an exchange splitting which follows either regular or inverted Hund's rules. The phase diagram contains a non-Fermi liquid fixed point separating a screened phase, where conventional Kondo effect occurs, from an unscreened one, where the exchange-splitting takes care of quenching the impurity degrees of freedom. On the Kondo screened side close to this fixed point the impurity density of states shows a narrow Kondo-peak on top of a broader resonance. This narrow peak transforms in the unscreened phase into a narrow pseudo-gap inside the broad resonance. Right at the fixed point only the latter survives. The fixed point is therefore identified by a jump of the density of states at the chemical potential. We also show that particle-hole perturbations which simply shift the orbital energies do not wash out the fixed point, unlike those perturbations which hybridize the two orbitals. Consequently the density-of-state jump at the chemical potential remains finite even away from particle-hole symmetry, and the pseudo-gap stays pinned at the chemical potential, although it is partially filled in. We also discuss the relevance of these results for lattice models which map onto this Anderson impurity model in the limit of large lattice-coordination. Upon approaching the Mott metal-insulator transition, these lattice models necessarily enter a region with a local criticality which reflects the impurity non-Fermi liquid fixed point. However, unlike the impurity, the lattice can get rid of the single-impurity fixed-point instability by spontaneously developing bulk-coherent symmetry-broken phases, which we identify for different lattice models.",
+  "authors": [
+    "Lorenzo De Leo",
+    "Michele Fabrizio"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0402121.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0402121.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.228285+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0402121",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

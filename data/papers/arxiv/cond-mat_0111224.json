@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0111224",
+  "title": "Topologically protected quantum bits from Josephson junction arrays",
+  "abstract": "All physical implementations of quantum bits (qubits), carrying the information and computation in a putative quantum computer, have to meet the conflicting requirements of environmental decoupling while remaining manipulable through designed external signals. Proposals based on quantum optics naturally emphasize the aspect of optimal isolation, while those following the solid state route exploit the variability and scalability of modern nanoscale fabrication techniques. Recently, various designs using superconducting structures have been successfully tested for quantum coherent operation, however, the ultimate goal of reaching coherent evolution over thousands of elementary operations remains a formidable task. Protecting qubits from decoherence by exploiting topological stability, a qualitatively new proposal due to Kitaev, holds the promise for long decoherence times, but its practical physical implementation has remained unclear so far. Here, we show how strongly correlated systems developing an isolated two-fold degenerate quantum dimer liquid groundstate can be used in the construction of topologically stable qubits and discuss their implementation using Josephson junction arrays.",
+  "authors": [
+    "L. B. Ioffe",
+    "M. V. Feigel'man",
+    "A. Ioselevich",
+    "D. Ivanov",
+    "M. Troyer",
+    "G. Blatter"
+  ],
+  "year": 2001,
+  "doi": "10.1038/415503a",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0111224.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0111224.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.326190+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0111224",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

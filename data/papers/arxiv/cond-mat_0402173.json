@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0402173",
+  "title": "The interface between silicon and a high-k oxide",
+  "abstract": "The ability to follow Moore's Law has been the basis of the tremendous success of the semiconductor industry in the past decades. To date, the greatest challenge for device scaling is the required replacement of silicon dioxide-based gate oxides by high-k oxides in transistors. Around 2010 high-k oxides are required to have an atomically defined interface with silicon without any interfacial SiO2 layer. The first clean interface between silicon and a high-K oxide has been demonstrated by McKee et al. Nevertheless, the interfacial structure is still under debate. Here we report on first-principles calculations of the formation of the interface between silicon and SrTiO3 and its atomic structure. Based on insights into how the chemical environment affects the interface, a way to engineer seemingly intangible electrical properties to meet technological requirements is outlined. The interface structure and its chemistry provide guidance for the selection process of other high-k gate oxides and for controlling their growth. Our study also shows that atomic control of the interfacial structure can dramatically improve the electronic properties of the interface. The interface presented here serves as a model for a variety of other interfaces between high-k oxides and silicon.",
+  "authors": [
+    "Clemens J. Foerst",
+    "Christopher R. Ashman",
+    "Karlheinz Schwarz",
+    "Peter E. Bloechl"
+  ],
+  "year": 2004,
+  "doi": "10.1038/nature02204",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0402173.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0402173.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.268766+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0402173",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

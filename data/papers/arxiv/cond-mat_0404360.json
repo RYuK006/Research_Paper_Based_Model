@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0404360",
+  "title": "Evidence for crossed Andreev reflection in superconductor-ferromagnet hybrid structures",
+  "abstract": "We have measured the non-local resistance of aluminum-iron spin-valve structures fabricated by e-beam lithography and shadow evaporation. The sample geometry consists of an aluminum bar with two or more ferromagnetic wires forming point contacts to the aluminum at varying distances from each other. In the normal state of aluminum, we observe a spin-valve signal which allows us to control the relative orientation of the magnetizations of the ferromagnetic contacts. In the superconducting state, at low temperatures and excitation voltages well below the gap, we observe a spin-dependent non-local resistance which decays on a smaller length scale than the normal-state spin-valve signal. The sign, magnitude and decay length of this signal is consistent with predictions made for crossed Andreev reflection (CAR).",
+  "authors": [
+    "D. Beckmann",
+    "H. B. Weber",
+    "H. v. Löhneysen"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevLett.93.197003",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0404360.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0404360.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:46.788955+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0404360",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.supr-con"
+    ]
+  }
+}

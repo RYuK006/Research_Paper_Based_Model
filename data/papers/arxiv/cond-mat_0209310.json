@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0209310",
+  "title": "Inelastic relaxation and noise temperature in S/N/S junctions",
+  "abstract": "We studied electronic relaxation in long diffusive superconductor / normal metal / superconductor (S/N/S) junctions by means of current noise and transport measurements down to very low temperature (100mK). Samples with normal metal lengths of 4, 10 and 60 micrometer have been investigated. In all samples the shot noise increases very rapidly with the voltage. This is interpreted in terms of enhanced heating of the electron gas confined between the two S/N interfaces. Experimental results are analyzed quantitatively taking into account electron-phonon interaction and heat transfer through the S/N interfaces. Transport measurements reveal that in all samples the two S/N interfaces are connected incoherently, as shown by the reentrance of the resistance at low temperature. The complementarity of noise and transport measurements allows us to show that the energy dependence of the reentrance at low voltage is essentially due to the increasing effective temperature of the quasiparticles in the normal metal.",
+  "authors": [
+    "C. Hoffmann",
+    "F. Lefloch",
+    "M. Sanquer"
+  ],
+  "year": 2002,
+  "doi": "10.1140/epjb/e2002-00346-y",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0209310.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0209310.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.035694+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0209310",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.supr-con"
+    ]
+  }
+}

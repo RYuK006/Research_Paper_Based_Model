@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0405239",
+  "title": "Linear response theory around a localized impurity in the pseudogap regime of an anisotropic superconductor: precursor pairing vs the d-density-wave scenario",
+  "abstract": "We derive the polarizability of an electron system in (i) the superconducting phase, with d-wave symmetry, (ii) the pseudogap regime, within the precursor pairing scenario, and (iii) the d-density-wave (dDW) state, characterized by a d-wave hidden order parameter, but no pairing. Such a calculation is motivated by the recent proposals that imaging the effects of an isolated impurity may distinguish between precursor pairing and dDW order in the pseudogap regime of the high-Tc superconductors. In all three cases, the wave-vector dependence of the polarizability is characterized by an azymuthal modulation, consistent with the d-wave symmetry of the underlying state. However, only the dDW result shows the fingerprints of nesting, with nesting wave-vector Q=(pi,pi), albeit imperfect, due to a nonzero value of the hopping ratio t'/t in the band dispersion relation. As a consequence of nesting, the presence of hole pockets is also exhibited by the (q,omega) dependence of the retarded polarizability.",
+  "authors": [
+    "N. Andrenacci",
+    "G. G. N. Angilella",
+    "H. Beck",
+    "R. Pucci"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevB.70.024507",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0405239.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0405239.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.082258+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0405239",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

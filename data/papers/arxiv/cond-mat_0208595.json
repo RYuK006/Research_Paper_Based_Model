@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0208595",
+  "title": "Spectral Functions and Pseudogap in Models of Strongly Correlated Electrons",
+  "abstract": "The theoretical investigation of spectral functions and pseudogap in systems with strongly correlated electrons is discussed, with the emphasis on the single-band t-J model as relevant for superconducting cuprates. The evidence for the pseudogap features from numerical studies of the model is presented. One of the promising methods to study spectral functions is the method of equations of motion. The latter can deal systematically with the local constraints and projected fermion operators inherent for strongly correlated electrons. In the evaluation of the self energy the decoupling of spin and single-particle fluctuations is performed. In an undoped antiferromagnet the method reproduces the selfconsistent Born approximation (SCBA). For finite doping the approximation evolves into a paramagnon contribution which retains large incoherent contribution in the hole part. On the other hand, the contribution of longer-range spin fluctuations is essential for the emergence of the pseudogap. The latter shows up at low doping in the effective truncation of the large Fermi surface, reduced electron density of states and at the same time reduced quasiparticle density of states at the Fermi level.",
+  "authors": [
+    "P. Prelovsek",
+    "A. Ramsak"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0208595.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0208595.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:08.879858+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0208595",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0401294",
+  "title": "Metamagnetism of itinerant electrons in multi-layer ruthenates",
+  "abstract": "The problem of quantum criticality in the context of itinerant ferro- or metamagnetism has received considerable attention [S. A. Grigera et. al., Science 294, 329 (2001); C. Pfleiderer et. al., Nature, 414, 427 (2001)]. It has been proposed that a new kind of quantum criticality is realised in materials such as MnSi or Sr_3Ru_2O_7. We show based on a mean-field theory that the low-temperature behaviour of the n-layer ruthenates Sr_{n+1}Ru_nO_{3n+1} can be understood as a result of a Van Hove singularity (VHS). We consider a single band whose Fermi energy, E_F, is close to the VHS and deduce a complex phase diagram for the magnetism as a function of temperature, magnetic field and E_F. The location of E_F with respect to the VHS depends on the number of layers or can be tuned by pressure. We find that the ferromagnetic quantum phase transition in this case is not of second but of first order, with a metamagnetic quantum critical endpoint at high magnetic field. Despite its simplicity this model describes well the properties of the uniform magnetism in the single, double and triple layer ruthenates. We would like to emphasise that the origin of this behaviour lies in the band structure.",
+  "authors": [
+    "B. Binz",
+    "M. Sigrist"
+  ],
+  "year": 2004,
+  "doi": "10.1209/epl/i2003-10127-x",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0401294.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0401294.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.020889+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0401294",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

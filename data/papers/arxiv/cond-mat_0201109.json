@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0201109",
+  "title": "Mechanical, adhesive and thermodynamic properties of hollow nanoparticles",
+  "abstract": "When sheets of layered material like C, WS$_2$ or BN are restricted to finite sizes, they generally form single- and multi-walled hollow nanoparticles in order to avoid dangling bonds. Using continuum approaches to model elastic deformation and van der Waals interactions of spherical nanoparticles, we predict the variation of mechanical stability, adhesive properties and phase behavior with radius $R$ and thickness $h$. We find that mechanical stability is limited by forces in the nN range and pressures in the GPa range. Adhesion energies scale linearly with $R$, but depend only weakly on $h$. Deformation due to van der Waals adhesion occurs for single-walled particles for radii of few nm, but is quickly suppressed for increasing thickness. As $R$ is increased, the gas-liquid coexistence disappears from the phase diagram for particle radii in the range of 1-3 nm (depending on wall thickness) since the interaction range decreases like 1/R.",
+  "authors": [
+    "U. S. Schwarz",
+    "S. A. Safran",
+    "S. Komura"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0201109.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0201109.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.711892+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0201109",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

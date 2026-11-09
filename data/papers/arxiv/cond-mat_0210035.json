@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0210035",
+  "title": "Zero Sound Attenuation near the Quantum Limit in Normal Liquid 3He close to the Superfluid Transition",
+  "abstract": "The zero sound attenuation of normal liquid 3He has been studied over a range of temperatures from slightly above the superfluid transition temperature, Tc, to approximately 10 mK at the constant pressures of 1 bar and 5 bar. Using longitudinal LiNbO3 transducers, operating both on and off resonance, the experiment was performed at 15 discrete frequencies located in several broadband frequency windows, including 16 - 25 MHz, 60 - 70 MHz, and 105 - 111 MHz. The results are compared to Landau's prediction for the attenuation of zero sound in the quantum limit, k_{B}T << \\hbar ω<< k_{B}T_{F}, where α_{0}(P,T,ω) = α^{\\prime}(P) T^{2} {1+(\\hbar ω/2 πk_{B}T)^{2}}. Calibration of the received zero sound signals was performed by measuring the temperature dependence of the first sound attenuation from 30 mK to 800 mK at those same frequencies and pressures. The data are compared to previous results.",
+  "authors": [
+    "Brian C. Watson",
+    "Naoto Masuhara",
+    "Mark W. Meisel"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0210035.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0210035.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.231368+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0210035",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

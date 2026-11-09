@@ -1,0 +1,34 @@
+{
+  "id": "arxiv:cond-mat/0108392",
+  "title": "XY model in small-world networks",
+  "abstract": "The phase transition in the XY model on one-dimensional small-world networks is investigated by means of Monte-Carlo simulations. It is found that long-range order is present at finite temperatures, even for very small values of the rewiring probability, suggesting a finite-temperature transition for any nonzero rewiring probability. Nature of the phase transition is discussed in comparison with the globally-coupled XY model.",
+  "authors": [
+    "Beom Jun Kim",
+    "H. Hong",
+    "Petter Holme",
+    "Gun Sang Jeon",
+    "Petter Minnhagen",
+    "M. Y. Choi"
+  ],
+  "year": 2001,
+  "doi": "10.1103/PhysRevE.64.056135",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.dis-nn",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0108392.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0108392.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.296035+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0108392",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.dis-nn",
+      "cond-mat.supr-con"
+    ]
+  }
+}

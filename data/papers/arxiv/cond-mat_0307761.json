@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0307761",
+  "title": "Thermodynamic properties of ferromagnetic mixed-spin chain systems",
+  "abstract": "Using a combination of high-temperature series expansion, exact diagonalization and quantum Monte Carlo, we perform a complementary analysis of the thermodynamic properties of quasi-one-dimensional mixed-spin systems with alternating magnetic moments. In addition to explicit series expansions for small spin quantum numbers, we present an expansion that allows a direct evaluation of the series coefficients as a function of spin quantum numbers. Due to the presence of excitations of both acoustic and optical nature, the specific heat of a mixed-spin chain displays a double-peak-like structure, which is more pronounced for ferromagnetic than for antiferromagnetic intra-chain exchange. We link these results to an analytically solvable half-classical limit. Finally, we extend our series expansion to incorporate the single-ion anisotropies relevant for the molecular mixed-spin ferromagnetic chain material MnNi(NO$_{2}$)$_{4}$(ethylenediamine)$_{2}$, with alternating spins of magnitude 5/2 and 1. Including a weak inter-chain coupling, we show that the observed susceptibility allows for an excellent fit, and the extraction of microscopic exchange parameters.",
+  "authors": [
+    "Noboru Fukushima",
+    "Andreas Honecker",
+    "Stefan Wessel",
+    "Wolfram Brenig"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevB.69.174430",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0307761.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0307761.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.510580+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0307761",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

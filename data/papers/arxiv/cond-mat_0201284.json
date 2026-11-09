@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0201284",
+  "title": "Cooper Pair Box Coupled to a Current-Biased Josephson Junction",
+  "abstract": "We study the dynamics of a quantum superconducting circuit which consists of a Josephson charge qubit, coupled capacitively to a current biased Josephson junction. Under certain conditions, the eigenstates of the qubit and the junction become entangled. We obtain the time evolution of these states in the limit of weak coupling. Rabi oscillations occur, as a result of the spontaneous emission and re-absorption of a single oscillation quantum in the junction. We discuss a possible way to experimentally determine the quantum state of the junction and hence observe the Rabi oscillations.",
+  "authors": [
+    "F. W. J. Hekking",
+    "O. Buisson",
+    "F. Balestro",
+    "M. G. Vergniory"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0201284.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0201284.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.789277+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0201284",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.mes-hall"
+    ]
+  }
+}

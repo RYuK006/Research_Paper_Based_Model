@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0306173",
+  "title": "Are there really phase transitions in 1-d heat conduction models?",
+  "abstract": "Recently, it has been claimed (O. V. Gendelman and A. V. Savin, Phys. Rev. Lett. {\\bf 84}, 2381 (2000); A.V.Savin and O.V.Gendelman, arXiv: cond-mat/0204631 (2002)) that two nonlinear classical 1-d lattice models show transitions, at finite temperatures, where the heat conduction changes from being finite to being infinite. These are the well known Frenkel-Kontorova (FK) model and a model for coupled rotators. For the FK model we give strong theoretical arguments why such a phase transition is not to be expected. For both models we show numerically that the effects observed by Gendelman {\\it et al.} are not true phase transitions but are rather the expected cross-overs associated to the conductivity divergence as $T\\to 0$ and (for the FK model) $T\\to\\infty$.",
+  "authors": [
+    "Lei Yang",
+    "Peter Grassberger"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.dis-nn",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0306173.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0306173.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.847267+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0306173",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.dis-nn",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

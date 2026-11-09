@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0312532",
+  "title": "Disorder induced rounding of the phase transition in the large q-state Potts model",
+  "abstract": "The phase transition in the q-state Potts model with homogeneous ferromagnetic couplings is strongly first order for large q, while is rounded in the presence of quenched disorder. Here we study this phenomenon on different two-dimensional lattices by using the fact that the partition function of the model is dominated by a single diagram of the high-temperature expansion, which is calculated by an efficient combinatorial optimization algorithm. For a given finite sample with discrete randomness the free energy is a pice-wise linear function of the temperature, which is rounded after averaging, however the discontinuity of the internal energy at the transition point (i.e. the latent heat) stays finite even in the thermodynamic limit. For a continuous disorder, instead, the latent heat vanishes. At the phase transition point the dominant diagram percolates and the total magnetic moment is related to the size of the percolating cluster. Its fractal dimension is found d_f=(5+\\sqrt{5})/4 and it is independent of the type of the lattice and the form of disorder. We argue that the critical behavior is exclusively determined by disorder and the corresponding fixed point is the isotropic version of the so called infinite randomness fixed point, which is realized in random quantum spin chains. From this mapping we conjecture the values of the critical exponents as β=2-d_f, β_s=1/2 and ν=1.",
+  "authors": [
+    "M. T. Mercaldo",
+    "J-Ch. Anglès d'Auriac",
+    "F. Iglói"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevE.69.056112",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.dis-nn",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0312532.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0312532.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.690030+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0312532",
+    "categories": [
+      "cond-mat.dis-nn",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

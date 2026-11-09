@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0311091",
+  "title": "Large-scale electronic structure calculation and its application",
+  "abstract": "Several methodologies are developed for large-scale atomistic simulations with fully quantum mechanical description of electron systems. The important methodological concepts are (i) generalized Wannier state, (ii) Krylov subspace and (iii) hybrid scheme within quantum mechanics. Test calculations are done with upto 10$^6$ atoms using a standard workstation. As a practical nanoscale calculation, the dynamical fracture of nanocrystalline silicon was simulated.",
+  "authors": [
+    "Takeo Hoshi"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0311091.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0311091.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.127264+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0311091",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

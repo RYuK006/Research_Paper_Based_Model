@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0106540",
+  "title": "Renormalization Group Approach To Error-Correcting Codes",
+  "abstract": "We explain an algorithm that approximately but efficiently assesses particular parity-check error-correcting codes of large, but finite, blocklength. This algorithm is based on the ``renormalization-group'' approach from physics: the idea is to continually replace an error-correcting code with a simpler error-correcting code that has nearly identical performance, until the code is reduced to a small enough size that its performance can be computed exactly. This assessment algorithm can be used as a subroutine in a more general algorithm to search for optimal error-correcting codes of specified blocklength and rate.",
+  "authors": [
+    "Jonathan Yedidia",
+    "Jean-Philippe Bouchaud"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0106540.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0106540.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.894422+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0106540",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0304098",
+  "title": "Quantum 2D Heisenberg antiferromagnet: bridging the gap between field-theoretical and semiclassical approaches",
+  "abstract": "The field-theoretical result for the low-$T$ behaviour of the correlation length of the quantum Heisenberg antiferromagnet on the square lattice was recently improved by Hasenfratz [Eur. Phys. J. B {\\bf 13}, 11 (2000)], who corrected for cutoff effects. We show that starting from his expression, and exploiting our knowledge of the classical thermodynamics of the model, it is possible to take into account non-linear effects which are responsible for the main features of the correlation length at intermediate temperature. Moreover, we find that cutoff effects lead to the appearance of an effective exchange integral depending on the very same renormalization coefficients derived in the framework of the semiclassical {\\em pure-quantum self-consistent harmonic approximation}: The gap between quantum field-theoretical and semiclassical results is here eventually bridged.",
+  "authors": [
+    "Bernard B. Beard",
+    "Alessandro Cuccoli",
+    "Ruggero Vaia",
+    "Paola Verrucchi"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevB.68.104406",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0304098.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0304098.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:43.971264+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0304098",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.str-el"
+    ]
+  }
+}

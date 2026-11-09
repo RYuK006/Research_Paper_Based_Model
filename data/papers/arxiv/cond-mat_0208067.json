@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0208067",
+  "title": "Entangled Vortices: Onsager's geometrical picture of superfluid phase transitions",
+  "abstract": "Superfluid phase transitions are discussed from a geometrical perspective as envisaged by Onsager. The approach focuses on vortex loops which close to the critical temperature form a fluctuating vortex tangle. As the transition is approached, vortex lines proliferate and thereby disorder the superfluid state, so that the system reverts to the normal state. It is shown in detail that loop proliferation can be described in exactly the same way as cluster percolation. Picturing vortex loops as worldlines of bosons, with one of the spatial coordinates interpreted as the time coordinate, a quantitative description of vortex loops can be given. Applying a rotation (to superfluids) or a magnetic field (to superconductors), which suppresses the formation of vortex loops and instead can lead to open vortex lines along the field direction, is shown to be equivalent to taking the nonrelativistic limit. The nonrelativistic theory is the one often used to study vortex lattice melting and to describe the resulting entangled vortex liquid.",
+  "authors": [
+    "Adriaan M. J. Schakel"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0208067.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0208067.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.857421+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0208067",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

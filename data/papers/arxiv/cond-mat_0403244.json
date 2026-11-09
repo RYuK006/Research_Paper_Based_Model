@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0403244",
+  "title": "Signs of low frequency dispersions in disordered binary dielectric mixtures (50-50)",
+  "abstract": "Dielectric relaxation in disordered dielectric mixtures are presented by emphasizing the interfacial polarization. The obtained results coincide with and cause confusion with those of the low frequency dispersion behavior. The considered systems are composed of two phases on two-dimensional square and triangular topological networks. We use the finite element method to calculate the effective dielectric permittivities of randomly generated structures. The dielectric relaxation phenomena together with the dielectric permittivity values at constant frequencies are investigated, and significant differences of the square and triangular topologies are observed. The frequency dependent properties of some of the generated structures are examined. We conclude that the topological disorder may lead to the normal or anomalous low frequency dispersion if the electrical properties of the phases are chosen properly, such that for ``slightly'' {\\em reciprocal mixture}--when $σ_1\\ggσ_2$, and $ε_1<ε_2$--normal, and while for ``extreme'' {\\em reciprocal mixture}--when $σ_1\\ggσ_2$, and $ε_1\\llε_2$--anomalous low frequency dispersions are obtained. Finally, comparison with experimental data indicates that one can obtain valuable information from simulations when the material properties of the constituents are not available and of importance.",
+  "authors": [
+    "Enis Tuncer"
+  ],
+  "year": 2004,
+  "doi": "10.1088/0022-3727/37/3/004",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.dis-nn"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0403244.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0403244.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.628371+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0403244",
+    "categories": [
+      "cond-mat.dis-nn"
+    ]
+  }
+}

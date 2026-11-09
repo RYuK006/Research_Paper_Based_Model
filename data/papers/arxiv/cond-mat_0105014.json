@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0105014",
+  "title": "Synchronization in Scale-free Dynamical Networks: Robustness and Fragility",
+  "abstract": "Recently, it has been demonstrated that many large complex networks display a scale-free feature, that is, their connectivity distributions have the power-law form. In this paper, we investigate the synchronization phenomena in a scale-free dynamical network. We show that its synchronizability is robust against random removal of nodes, but is fragile to specific removal of the most highly connected nodes.",
+  "authors": [
+    "Xiao Fan Wang",
+    "Guanrong Chen"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0105014.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0105014.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.464174+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0105014",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

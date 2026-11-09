@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0301017",
+  "title": "A texture tensor to quantify deformations: the example of two-dimensional flowing foams",
+  "abstract": "In a continuum description of materials, the stress tensor field $\\bar{% \\barσ}$ quantifies the internal forces the neighbouring regions exert on a region of the material. The classical theory of elastic solids assumes that $\\bar{\\barσ}$ determines the strain, while hydrodynamics assumes that $\\bar{\\barσ}$ determines the strain rate. To extend both successful theories to more general materials, which display both elastic and fluid properties, we recently introduced a descriptor generalizing the classical strain to include plastic deformations: the ``statistical strain'', based on averages on microscopic details (``A texture tensor to quantify deformations'' M.Au., Y.J., J.A.G., F.G, companion paper, {\\em Granular Matter}, same issue). Here, we apply such a statistical analysis to a two-dimensional foam steadily flowing through a constriction, a problem beyond reach of both theories, and prove that the foam has the elastic properties of a (linear and isotropic) continuous medium.",
+  "authors": [
+    "Marius Asipauskas",
+    "Miguel Aubouy",
+    "James A. Glazier",
+    "François Graner",
+    "Yi Jiang"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0301017.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0301017.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.303060+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0301017",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

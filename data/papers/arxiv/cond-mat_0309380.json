@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0309380",
+  "title": "Asymmetric electron-phonon interactions in the three-band Peierls-Hubbard model",
+  "abstract": "Using the Quantum Monte Carlo (QMC) technique within frozen-phonon, we studied the effects of the half-breathing O$(π,0)$ phonon mode on the ground-state properties of the three-band Peierls-Hubbard model. Our simulations are performed for both ionic and covalent electron-phonon couplings. The effects of lattice displacements on the ground-state energies and charge fluctuations are similar in magnitude for both hole- and electron-doped cases. However, the effects of lattice displacements on the magnetic properties are rather different. In the hole-doped case, the normalized next-nearest-neighbor Cu-Cu spin correlations are dramatically modified by both ionic and covalent electron-phonon couplings. On the other hand, in the electron-doped case, much smaller effects are observed. The distinct spin-phonon couplings, in conjunction with the spin-bag picture of the quasiparticle, could explain a strong mass renormalization effect in the p-type cuprates and a weaker effect in the n-type cuprates.",
+  "authors": [
+    "Z. B. Huang",
+    "W. Hanke",
+    "E. Arrigoni"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0309380.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0309380.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:46.054778+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0309380",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

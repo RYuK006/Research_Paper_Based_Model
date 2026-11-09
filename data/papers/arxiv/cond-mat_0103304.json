@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0103304",
+  "title": "An inhomogeneous and anisotropic Jastrow function for non-uniform many-electron systems",
+  "abstract": "Quantum Monte Carlo simulations of interacting electrons in solids often use Slater-Jastrow trial wave functions. The Jastrow function takes into account correlations between pairs of electrons. In simulations of solids, it is common to use a Jastrow function which is both homogeneous and isotropic. The use of a homogeneous and isotropic Jastrow factor is questionable in applications to systems with strong density inhomogeneities, such as surfaces and multilayers. By generalizing the original derivation of the RPA Jastrow factor for the homogeneous electron gas [Gaskell] to inhomogeneous systems we derive an scheme for generating inhomogeneous and anisotropic Jastrow factors for use in nonuniform systems, from the non-interacting static structure factor and density of the system. We discuss aspects of our scheme and illustrate it with a first application to an inhomogeneous electron gas.",
+  "authors": [
+    "A. Garcia-Lekue",
+    "M. Nekovee",
+    "J. M. Pitarke",
+    "R. Gaudoin"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0103304.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0103304.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.061721+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0103304",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

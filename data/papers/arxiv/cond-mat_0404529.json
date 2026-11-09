@@ -1,0 +1,34 @@
+{
+  "id": "arxiv:cond-mat/0404529",
+  "title": "Magnetocaloric effect in pyrochlore antiferromagnet Gd2Ti2O7",
+  "abstract": "An adiabatic demagnetization process is studied in Gd2Ti2O7, a geometrically frustrated antiferromagnet on a pyrochlore lattice. In contrast to conventional paramagnetic salts, this compound can exhibit a temperature decrease by a factor of ten in the temperature range below the Curie-Weiss constant. The most efficient cooling is observed in the field interval between 120 and 60 kOe corresponding to a crossover between saturated and spin-liquid phases. This phenomenon indicates that a considerable part of the magnetic entropy survives in the strongly correlated state. According to the theoretical model, this entropy is associated with a macroscopic number of local modes remaining gapless till the saturation field. Monte Carlo simulations on a classical spin model demonstrate good agreement with the experiment. The cooling power of the process is experimentally estimated with a view to possible technical applications. The results for Gd2Ti2O7 are compared to those for Gd3Ga5O12, a well-known material for low temperature magnetic refrigeration.",
+  "authors": [
+    "S. S. Sosin",
+    "L. A. Prozorova",
+    "A. I. Smirnov",
+    "A. I. Golov",
+    "I. B. Berkutov",
+    "O. A. Petrenko",
+    "G. Balakrishnan",
+    "M. E. Zhitomirsky"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevB.71.094413",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0404529.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0404529.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:46.874098+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0404529",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

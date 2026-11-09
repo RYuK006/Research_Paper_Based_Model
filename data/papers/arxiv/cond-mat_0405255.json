@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0405255",
+  "title": "Networks of self-avoiding chains and Ogden-type constitutive equations for elastomers",
+  "abstract": "An expression is derived for the strain energy of a polymer chain under an arbitrary three-dimensional deformation with finite strains. For a Gaussian chain, this expression is reduced to the conventional Moony--Rivlin constitutive law, while for non-Gaussian chains it implies novel constitutive relations. Based on the three-chain approximation, explicit formulas are developed for the strain energy of a chain modeled as a self-avoiding random walk. In the case of self-avoiding chains with stretched-exponential distribution function of end-to-end vectors, the strain energy density of a network is described by the Ogden law with only two material constants. For the des Cloizeaux distribution function, the constitutive equation involves three adjustable parameters. The governing equations are verified by fitting observations on uniaxial tension, uniaxial compression and biaxial tension of elastomers. Good agreement is demonstrated between the experimental data and the results of numerical analysis. An analytical formula is derived for the ratio of the Young's modulus of a self-avoiding chain to that of a Gaussian chain. It is found that the elastic modulus per chain in the Ogden network exceeds that in a Gaussian network by a factor of three, whereas the elastic modulus of a chain with the generalized stretched exponential distribution function equals about half of the modulus of a Gaussian chain.",
+  "authors": [
+    "A. D. Drozdov",
+    "M. Gottlieb"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0405255.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0405255.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.098604+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0405255",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

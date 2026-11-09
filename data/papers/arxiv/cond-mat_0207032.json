@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0207032",
+  "title": "Spin fluctuations in a metallic antiferromagnet",
+  "abstract": "The magnon energy and amplitude renormalization due to intraband particle-hole excitations are studied in a metallic antiferromagnet. The change in sign of the intraband contribution with $ω$ results in significant differences between static and dynamical behaviours. For electron doping, while the coherent magnon peak looses spectral weight and is shifted to higher energy with doping, the low-energy incoherent part becomes increasingly prominent as it narrows in width and shifts to lower energy. Implications for spin dynamics in the electron-doped cuprate $\\rm Nd_{2-x} Ce_x Cu O_4$ are discussed. Due to an exact cancellation of two logarithmically divergent spin-fluctuation processes, the AF order parameter is unaffected to leading order. For hole doping, short wavelength transverse perturbations ($q > q^* \\sim \\sqrt{x}$) are found to be stable, implying short-range AF order with a spin correlation length $ξ/a \\sim 1/\\sqrt{x}$.",
+  "authors": [
+    "Avinash Singh"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0207032.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0207032.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.364904+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0207032",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

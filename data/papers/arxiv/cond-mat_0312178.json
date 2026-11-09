@@ -1,0 +1,33 @@
+{
+  "id": "arxiv:cond-mat/0312178",
+  "title": "Adiabatic association of ultracold molecules via magnetic field tunable interactions",
+  "abstract": "We consider in detail the situation of applying a time dependent external magnetic field to a 87Rb atomic Bose-Einstein condensate held in a harmonic trap, in order to adiabatically sweep the interatomic interactions across a Feshbach resonance to produce diatomic molecules. To this end, we introduce a minimal two-body Hamiltonian depending on just five measurable parameters of a Feshbach resonance, which accurately determines all low energy binary scattering observables, in particular, the molecular conversion efficiency of just two atoms. Based on this description of the microscopic collision phenomena, we use the many-body theory of T. Koehler and K. Burnett [Phys. Rev. A 65, 033601 (2002)] to study the efficiency of the association of molecules in a 87Rb Bose-Einstein condensate during a linear passage of the magnetic field strength across the 100 mT Feshbach resonance. We explore different, experimentally accessible, parameter regimes, and compare the predictions of Landau-Zener, configuration interaction, and two level mean field calculations with those of the microscopic many-body approach. Our comparative studies reveal a remarkable insensitivity of the molecular conversion efficiency with respect to both the details of the microscopic binary collision physics and the coherent nature of the Bose-Einstein condensed gas, provided that the magnetic field strength is varied linearly. We provide the reasons for this universality of the molecular production achieved by linear ramps of the magnetic field strength, and identify the Landau-Zener coefficient determined by F.H. Mies et al. [Phys. Rev. A 61, 022721 (2000)] as the main parameter that controls the efficiency.",
+  "authors": [
+    "Krzysztof Goral",
+    "Thorsten Koehler",
+    "Simon A. Gardiner",
+    "Eite Tiesinga",
+    "Paul S. Julienne"
+  ],
+  "year": 2004,
+  "doi": "10.1088/0953-4075/37/17/006",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat",
+    "physics.atom-ph",
+    "quant-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0312178.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0312178.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.535703+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0312178",
+    "categories": [
+      "cond-mat",
+      "physics.atom-ph",
+      "quant-ph"
+    ]
+  }
+}

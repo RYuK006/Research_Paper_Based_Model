@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0310476",
+  "title": "Current producing states in molecular semiconductors: photo-current from a molecular wire",
+  "abstract": "We present a methodology for computing photocurrent production in molecular semiconducting molecules. Our model combines a single-configuration interaction picture with the Schwinger-Keldysh non-equilibrium Greens function approach to compute the current response of a molecular semi-conducting wire following excitation. We give detailed analysis of the essential excitonic, charge-transfer, and dipole states for poly-(phenylenevinylene) chains of length 32 and 48 repeat units under an electric field bias and use this to develop a reduced dimensional tunneling model which accounts for chain-length and field-dependent behavior.",
+  "authors": [
+    "Eric R. Bittner",
+    "Aijun Ye",
+    "Stoyan Karabunarliev"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0310476.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0310476.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:14.916900+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0310476",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.str-el"
+    ]
+  }
+}

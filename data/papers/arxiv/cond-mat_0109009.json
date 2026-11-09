@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0109009",
+  "title": "Power-Law Scaling for Communication Networks with Transmission Errors",
+  "abstract": "A generic communication model of a boolean network with transmission errors is proposed to explore the power-law scaling of states' evolution in small-world networks. In the model, the power spectrum of the population difference between agents with \"1\" and \"-1\" exhibits a power-law tail: $P(f)\\sim f^{-α}$. The exponent $α$ does not depend explicitly on the error rate but on the structure of the networks. Error rate enters only into the frequency scales and thus governs the frequency range over which these power laws can be observed. On the other hand, the exponent $α$ reveals the intricate internal structure of networks and can serve as a structure factor to classify complex networks. The finite transmission error is shown to provide a mechanism for the common occurrence of the power-law relation in complex systems, such as financial markets and opinion formation.",
+  "authors": [
+    "Jiann-Shing Lih",
+    "Jyh-Long Chern"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0109009.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0109009.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.361020+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0109009",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

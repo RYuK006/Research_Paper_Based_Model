@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0208015",
+  "title": "Evidence for Frustration Universality Classes in 3D Spin Glass Models",
+  "abstract": "A recently introduced Renormalization Group approach to frustrated spin models is applied in three dimensions through Monte Carlo computations. A class of spin glass models is analysed, with correlated disorder variables given by a Z_2 gauge field. Evidence is provided for the influence of deconfinement phase transition of gauge fields on the behaviour of the associated spin models, namely in the transition from glassy to ferromagnetic behaviour. Universality classes are determined on fundamental ground by characterizing the fixed point. Moreover, the RG analysis provides good estimates of the critical temperature and the thermal index nu, with moderate computer time.",
+  "authors": [
+    "Leonardo Gnesi",
+    "Roberto Petronzio",
+    "Francesco Rosati"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0208015.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0208015.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.822111+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0208015",
+    "categories": [
+      "cond-mat.stat-mech"
+    ]
+  }
+}

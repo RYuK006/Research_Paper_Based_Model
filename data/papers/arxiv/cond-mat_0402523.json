@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0402523",
+  "title": "Linear optical properties of solids within the full-potential linearized augmented planewave method",
+  "abstract": "We present a scheme for the calculation of linear optical properties by the all-electron full-potential linearized augmented planewave (LAPW) method. A summary of the theoretical background for the derivation of the dielectric tensor within the random-phase approximation is provided together with symmetry considerations and the relation between the optical constants. The momentum matrix elements are evaluated in detail for the LAPW basis, and the interband as well as the intraband contributions to the dielectric tensor are given. Results are presented for the metals aluminum and gold, where we crosscheck our results by sumrules. We find that the optical spectra can be extremely sensitive to the Brillouin zone sampling. For gold, the influence of relativistic effects on the dielectic function is investigated. It is shown that the scalar-relativistic effect is much more important than spin-orbit coupling. The interpretability of the Kohn-Sham eigenstates in terms of excited states is discussed.",
+  "authors": [
+    "C. Ambrosch-Draxl",
+    "J. O. Sofo"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.other",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0402523.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0402523.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.422334+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0402523",
+    "categories": [
+      "cond-mat.other",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0309209",
+  "title": "An explanation for a universality of transition temperatures in families of copper oxide superconductors",
+  "abstract": "A remarkable mystery of the copper oxide high-transition-temperature (Tc) superconductors is the dependence of Tc on the number of CuO2 layers, n, in the unit cell of a crystal. In a given family of these superconductors, Tc rises with the number of layers, reaching a peak at n=3, and then declines: the result is a bell-shaped curve. Despite the ubiquity of this phenomenon, it is still poorly understood and attention has instead been mainly focused on the properties of a single CuO2 plane. Here we show that the quantum tunnelling of Cooper pairs between the layers simply and naturally explains the experimental results, when combined with the recently quantified charge imbalance of the layers and the latest notion of a competing order nucleated by this charge imbalance that suppresses superconductivity. We calculate the bell-shaped curve and show that, if materials can be engineered so as to minimize the charge imbalance as n increases, Tc can be raised further.",
+  "authors": [
+    "Sudip Chakravarty",
+    "Hae-Young Kee",
+    "Klaus Voelker"
+  ],
+  "year": 2004,
+  "doi": "10.1038/nature02348",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0309209.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0309209.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.965549+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0309209",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

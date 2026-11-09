@@ -1,0 +1,33 @@
+{
+  "id": "arxiv:cond-mat/0404124",
+  "title": "Anomalous scaling behavior of the dynamical spin susceptibility of Ce$_{0.925}$La$_{0.075}$Ru$_{2}$Si$_{2}$",
+  "abstract": "Inelastic neutron scattering measurements have been performed on single crystals of the heavy fermion compound Ce$_{0.925}$La$_{0.075}$Ru$_{2}$Si$_{2}$ in broad energy [0.1, 9.5 meV] and temperature [40 mK, 294 K] ranges in order to address the question of scaling behavior of the dynamical spin susceptibility at the quantum critical point of an itinerant magnetic system. For two wavevectors $\\mathbf{Q}$ corresponding to uncorrelated and antiferromagnetically correlated spin fluctuations, it is found that the dynamical spin susceptibility $χ''(\\mathbf{Q},E,T)$ is independent of temperature below a cut-off temperature $T_{\\mathbf{Q}}$: the spin fluctuation amplitude saturates at low temperatures contrarily to its expected divergence at a quantum critical point. Above $T_{\\mathbf{Q}}$, a $\\mathbf{Q}$-dependent scaling behavior of the form $Tχ''(\\mathbf{Q},E,T) = C_{\\mathbf{Q}}f[E/(a_{\\mathbf{Q}}T^{β_{\\mathbf{Q}}})]$ with $β_{\\mathbf{Q}}<1$ is obtained. This scaling does not enter the general framework of quantum phase transition theories, since it is obtained in a high temperature range, where Kondo spin fluctuations depend strongly on temperature.",
+  "authors": [
+    "W. Knafo",
+    "S. Raymond",
+    "J. Flouquet",
+    "B. Fåk",
+    "M. A. Adams",
+    "P. Haen",
+    "F. Lapierre",
+    "S. Yates",
+    "P. Lejay"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevB.70.174401",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0404124.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0404124.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:46.622776+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0404124",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

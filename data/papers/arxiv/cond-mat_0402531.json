@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0402531",
+  "title": "Plasmon exchange model for superconductivity in Carbon nanotubes",
+  "abstract": "Recent investigations of superconductivity in carbon nanotubes have shown that a single-wall zigzag nanotube can become superconducting at around 15 K. Theoretical studies of superconductivity in nanotubes using the traditional phonon exchange model, however, give a superconducting transition temperature $T_c$ less than 1K. To explain the observed higher critical temperature we explo re the possibility of the plasmon exchange mechanism for superconductivity in nanotubes. We first calculate the effective interaction between electrons in a nanotube mediated by plasmon exchange and show that this interaction can become attractive. Using this attractive interaction in the modified Eliashberg theory for strong coupling superconductors, we then calculate the critical temperature $T_c$ in a nanotube. We find that $T_c$ is sensitively dependent on the dielectric constant of the medium, the effective mass of the electrons an d the radius of the nanotube. Our theoretical results can explain the observed $T_c$ in a nanotube.",
+  "authors": [
+    "S. M. Bose",
+    "S. Gayen"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0402531.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0402531.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.430314+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0402531",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

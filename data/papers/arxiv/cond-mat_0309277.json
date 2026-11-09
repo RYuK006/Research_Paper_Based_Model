@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0309277",
+  "title": "Dislocation avalanche correlations",
+  "abstract": "Recently, mechanical tests on ice as well as dislocation dynamics simulations have revealed that plastic flow displays a scale-free intermittent dynamics characterized by dislocation avalanches with a power law distribution of amplitudes. To further explore the complexity of dislocation dynamics during plastic flow, we present a statistical analysis of dislocation avalanche correlations and avalanche triggering. It is shown that the rate of avalanche triggering immediately after any avalanche is larger than the background activity due to uncorrelated events. This self-induced triggering increases in intensity, and remains over the background rate for longer times, as the amplitude of the mainshock increases. This analysis suggests that stress redistributions and the associated collective dislocation rearrangements may be responsible for aftershock triggering in the complex process of plastic deformation.",
+  "authors": [
+    "Jerome Weiss",
+    "M. -Carmen Miguel"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0309277.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0309277.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.998499+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0309277",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

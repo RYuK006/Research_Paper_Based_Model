@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0208568",
+  "title": "Appearance of Fermion Condensation Quantum Phase Transition in Different Fermi Liquids",
+  "abstract": "We show that the quasiparticle effective mass $M^*$ diverges as a function of the system's density $x$, $M^*\\propto 1/(x-x_{FC})$, when a system approaches the critical point $x_{FC}$ at which the fermion condensation quantum phase transition (FCQPT) occurs. Such behavior is of general form and takes place in both three dimensional systems and two dimensional ones. We demonstrate that a system which has undergone FCQPT and lies close to the critical point $x_{FC}$ can be driven back into the normal Fermi liquid by applying a small magnetic field $B$. As the field $B$ is reduced, the system is tuned back to the critical point and the effective mass diverges as $M^*\\propto 1/\\sqrt{B-B_{FC}}$ where $B_{FC}$ is the maximum field at which FCQPT takes place. We demonstrate the constancy of the Kadowaki-Woods ratio when approaching the critical point at the fields $B>B_{FC}$. Analyzing recent experimental data on the effective mass behavior in a strongly correlated two dimensional fluid $^3$He, in metallic two dimensional electron systems and in heavy-fermion systems, we show that the observed behavior is in agreement with our consideration. As a result, we may conclude that FCQPT can be conceived of as a universal cause of the strongly correlated regime in different Fermi liquids.",
+  "authors": [
+    "V. R. Shaginyan"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0208568.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0208568.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:08.873903+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0208568",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ]
+  }
+}

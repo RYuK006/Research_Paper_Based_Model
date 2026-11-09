@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0402415",
+  "title": "Superconducting Qubits and the Physics of Josephson Junctions",
+  "abstract": "We describe in this paper how the nonlinear Josephson inductance is the crucial circuit element for all Josephson qubits. We discuss the three types of qubit circuits, and show how these circuits use this nonlinearity in unique manners. We give a brief derivation of the BCS theory, highlighting the appearance of the macroscopic phase parameter. The Josephson equations are derived using standard first and second order perturbation theory that describe quasiparticle and Cooper-pair tunneling. An exact calculation of the Josephson effect then follows using the quasiparticle bound-state theory, and then expand upon this theory to describe quasiparticle excitations as transitions from the ground to excited bound states from nonadiabatic changes in the bias. Although quasiparticle current is typically calculated only for a constant DC voltage, the advantage to this approach is seen where we qualitatively describe quasiparticle tunneling with AC voltage excitations, as appropriate for the qubit state. This section describes how the Josephson qubit is typically insensitive to quasiparticle damping, even to the extent that a phase qubit can be constructed from microbridge junctions.",
+  "authors": [
+    "John M. Martinis",
+    "Kevin Osborne"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0402415.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0402415.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.375638+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0402415",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.mes-hall"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0101300",
+  "title": "Osmotic Stabilisation of Concentrated Emulsions and Foams",
+  "abstract": "In the absence of coalescence, coarsening of emulsions (and foams) is controlled by molecular diffusion of dispersed phase between droplets/bubbles. Studies of dilute emulsions have shown how the osmotic pressure of a trapped species within droplets can ``osmotically stabilise'' the emulsion. Webster and Cates (Langmuir, 1998, 14, 2068-2079) gave rigorous criteria for osmotic stabilisation of mono- and polydisperse emulsions, in the dilute regime. We consider here whether analogous criteria exist for the osmotic stabilisation of mono- and polydisperse concentrated emulsions and foams, and suggest that the pressure differences driving coarsening are small compared to the mean Laplace pressure. An exact calculation confirms this for a monodisperse 2D model, finding a bubble's pressure as P_i = P + Pi + P_i^G, with P, Pi the atmospheric and osmotic pressures, and P_i^G a ``geometric pressure'' that reduces to the Laplace pressure only for a spherical bubble. For Princen's 2D emulsion model, P_i^G is only 5% larger in the dry limit than the dilute limit. We conclude that osmotic stabilisation of dense systems typically requires a pressure of trapped molecules in each droplet that is comparable to the Laplace pressures the same droplets would have if spherical, as opposed to the much larger Laplace pressures present in the system. We study coarsening of foams and concentrated emulsions when there is insufficient of the trapped species present. Rate-limiting mechanisms are considered, their applicability and associated droplet growth rates discussed. In a concentrated foam or emulsion, a finite yield threshold for droplet rearrangement may be enough to prevent coarsening of the remainder.",
+  "authors": [
+    "A. J. Webster",
+    "M. E. Cates"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0101300.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0101300.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:04.580519+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0101300",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0403019",
+  "title": "Nonlinear alternating current responses of dipolar fluids",
+  "abstract": "The frequency-dependent nonlinear dielectric increment of dipolar fluids in nonpolar fluids is often measured by using a stationary relaxation method in which two electric fields are used: The static direct current (DC) field of high strength causing the dielectric nonlinearity, and the probing alternating current (AC) field of low strength and high frequency. When a nonlinear composite is subjected to a sinusoidal electric field, the electric response in the composite will, in general, consist of AC fields at frequencies of higher-order harmonics. Based on the Froehlich model, we present a theory to investigate nonlinear AC responses of dipolar fluids containing both polarizable monomers and dimers. In the case of monomers only, our theory reproduces the known results. We obtain the fundamental, second-, and third-order harmonics of the Froehlich field by performing a perturbation expansion. The even-order harmonics are induced by the coupling between the AC and DC fields although the system under consideration has a cubic nonlinearity only. The harmonics of the Froehlich field can be affected by the field frequency, temperature, dispersion strength and the characteristic frequency of the dipolar fluid, as well as the dielectric constant of the nonpolar fluid. The results are found to be in agreement with recent experimental observations.",
+  "authors": [
+    "J. P. Huang",
+    "K. W. Yu",
+    "Mikko Karttunen"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevE.70.011403",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0403019.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0403019.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.528311+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0403019",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.mtrl-sci",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

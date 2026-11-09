@@ -1,0 +1,32 @@
+{
+  "id": "arxiv:cond-mat/0405388",
+  "title": "Gapless Excitation above a Domain Wall Ground State in a Flat Band Hubbard Model",
+  "abstract": "We construct a set of exact ground states with a localized ferromagnetic domain wall and with an extended spiral structure in a deformed flat-band Hubbard model in arbitrary dimensions. We show the uniqueness of the ground state for the half-filled lowest band in a fixed magnetization subspace. The ground states with these structures are degenerate with all-spin-up or all-spin-down states under the open boundary condition. We represent a spin one-point function in terms of local electron number density, and find the domain wall structure in our model. We show the existence of gapless excitations above a domain wall ground state in dimensions higher than one. On the other hand, under the periodic boundary condition, the ground state is the all-spin-up or all-spin-down state. We show that the spin-wave excitation above the all-spin-up or -down state has an energy gap because of the anisotropy.",
+  "authors": [
+    "Makoto Homma",
+    "Chigak Itoi"
+  ],
+  "year": 2004,
+  "doi": "10.1007/s10955-004-2723-4",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.stat-mech",
+    "math-ph",
+    "math.MP"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0405388.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0405388.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.144938+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0405388",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.stat-mech",
+      "math-ph",
+      "math.MP"
+    ]
+  }
+}

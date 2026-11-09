@@ -1,0 +1,32 @@
+{
+  "id": "arxiv:cond-mat/0301561",
+  "title": "Defects, Tunneling, and EPR Spectra of Single-Molecule Magnets",
+  "abstract": "We examine theoretically electron paramagnetic resonance (EPR) lineshapes as functions of resonance frequency, energy level, and temperature for single crystals of three different kinds of single-molecule nanomagnets (SMMs): Mn$_{12}$ acetate, Fe$_8$Br, and the $S=9/2$ Mn$_4$ compound. We use a density-matrix equation and consider distributions in the uniaxial (second-order) anisotropy parameter $D$ and the $g$ factor, caused by possible defects in the samples. Additionally, weak intermolecular exchange and electronic dipole interactions are included in a mean-field approximation. Our calculated linewidths are in good agreement with experiments. We find that the distribution in $D$ is common to the three examined single-molecule magnets. This could provide a basis for a proposed tunneling mechanism due to lattice defects or imperfections. We also find that weak intermolecular exchange and dipolar interactions are mainly responsible for the temperature dependence of the lineshapes for all three SMMs, and that the intermolecular exchange interaction is more significant for Mn$_4$ than for the other two SMMs. This finding is consistent with earlier experiments and suggests the role of spin-spin relaxation processes in the mechanism of magnetization tunneling.",
+  "authors": [
+    "Kyungwha Park",
+    "M. A. Novotny",
+    "N. S. Dalal",
+    "S. Hill",
+    "P. A. Rikvold",
+    "S. Bhaduri",
+    "G. Christou",
+    "D. N. Hendrickson"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0301561.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0301561.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.632458+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0301561",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

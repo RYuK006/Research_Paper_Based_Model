@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0305653",
+  "title": "Giant frequency dependence of dynamic freezing in nanocrystalline ferromagnetic LaCo0.5Mn0.5O3",
+  "abstract": "We have investigated the magnetic properties of nanocrystalline LaCo0.5Mn0.5O3. The temperature dependence of the imaginary part of the a.c. susceptibility shows a strongly frequency dependent maximum at a temperature, Tf, which is well below the ferromagnetic transition temperature (TC ~ 230 K). The frequency dependence of Tf obeys the Arrhenius relation, f = foexp(-Ea/kBT), with physically reasonable values of fo = 109 Hz and Ea/kB = 1518 K. The frequency shift of Tf per decade of frequency is one of the highest values observed in any magnetic system, and a similarly large value is also found in LaCo0.4Mg0.1Mn0.5O3, suggesting that such behavior is intrinsic despite the apparent presence of long range ferromagnetic order.",
+  "authors": [
+    "R. Mahendiran",
+    "Y. Breard",
+    "M. Hervieu",
+    "B. Raveau",
+    "P. Schiffer"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0305653.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0305653.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.719813+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0305653",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

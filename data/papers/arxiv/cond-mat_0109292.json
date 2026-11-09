@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0109292",
+  "title": "Predicting phase equilibria in polydisperse systems",
+  "abstract": "Many materials containing colloids or polymers are polydisperse: They comprise particles with properties (such as particle diameter, charge, or polymer chain length) that depend continuously on one or several parameters. This review focusses on the theoretical prediction of phase equilibria in polydisperse systems; the presence of an effectively infinite number of distinguishable particle species makes this a highly nontrivial task. I first describe qualitatively some of the novel features of polydisperse phase behaviour, and outline a theoretical framework within which they can be explored. Current techniques for predicting polydisperse phase equilibria are then reviewed. I also discuss applications to some simple model systems including homopolymers and random copolymers, spherical colloids and colloid-polymer mixtures, and liquid crystals formed from rod- and plate-like colloidal particles; the results surveyed give an idea of the rich phenomenology of polydisperse phase behaviour. Extensions to the study of polydispersity effects on interfacial behaviour and phase separation kinetics are outlined briefly.",
+  "authors": [
+    "Peter Sollich"
+  ],
+  "year": 2001,
+  "doi": "10.1088/0953-8984/14/3/201",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.dis-nn",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0109292.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0109292.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.442211+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0109292",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.dis-nn",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

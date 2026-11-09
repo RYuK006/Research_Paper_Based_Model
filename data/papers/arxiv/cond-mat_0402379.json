@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0402379",
+  "title": "Evidence and Characterization of a SDW Transition in Na0.75CoO2 Single Crystals",
+  "abstract": "The magnetic, thermal and transport properties of Na0.75CoO2 single crystals grown by the floating zone (FZ) method are reported. Magnetic susceptibility, resistivity, magnetoresistance, and heat capacity data from these crystals indicate a bulk phase transition at T1 = 22 K. These data are most consistent with the formation of an antiferromagnet spin-density-wave (SDW) at 22 K with the easy axis for magnetization nearly along the c axis. Weak and soft ferromagnetism is observed for applied magnetic fields less than 0.5 T, which suggests a slight canting of the SDW magnetization with respect to the c axis. The jump in the heat capacity at the SDW transition is 0.45 J/K-mole-Co or about 50% of the value expected from mean-field weak-coupling theory. The reduced jump and the decrease in the resistivity below T1 are consistent with a gap for only part of the Fermi surface. The magnetoresistance is small at the SDW transition but increases in both directions reaching a value of 100% at 2 K for applied fields of 8 Tesla. The magnetoresistance data imply that the mobility of the remaining carriers is large and increases below T1. The observation of a SDW transition in this material is found to be sensitive to the preparation conditions and the degree of order in the Na layers. No SDW transition is observed in our polycrystalline powder with the same nominal composition (Na0.75CoO2) and lattice constants. Differential scanning calorimetry data, however, show distinct differences between the powder and crystal, suggesting a higher degree of order in the Na layers within the crystal. The crystal exhibits a sharp phase transition at T2 = 340 K while for the powder this transition is smeared over the temperature range from 250 to 310 K.",
+  "authors": [
+    "B. C. Sales",
+    "R. Jin",
+    "K. A. Affholter",
+    "P. Khalifah",
+    "G. M. Veith",
+    "D. Mandrus"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0402379.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0402379.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.358597+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0402379",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

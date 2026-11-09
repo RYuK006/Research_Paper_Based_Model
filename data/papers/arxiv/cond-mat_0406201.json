@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0406201",
+  "title": "Electronic structures and electron spin decoherence in (001)-grown layered zincblende semiconductors",
+  "abstract": "Electronic structure calculations for layered zincblende semiconductors are described within a restricted basis formalism which naturally and non-perturbatively accomodates both crystalline inversion asymmetry and cubic anisotropy. These calculations are applied to calculate the electron spin decoherence times $T_1$ and $T_2$ due to precessional decoherence in quantum wells. Distinctly different dependences of spin coherence times on mobility, quantization energy, and temperature are found from perturbative calculations. Quantitative agreement between these calculations and experiments is found for GaAs/AlGaAs, InGaAs/InP, and GaSb/AlSb $(001)$-grown quantum wells. The electron spin coherence times for CdZnSe/ZnSe II-VI quantum wells are calculated, and calculations of InGaAs/GaAs quantum wells appropiate for comparison with spin-LED structures are also presented.",
+  "authors": [
+    "Wayne H. Lau",
+    "J. T. Olesberg",
+    "Michael E. Flatte'"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0406201.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0406201.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.421039+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0406201",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

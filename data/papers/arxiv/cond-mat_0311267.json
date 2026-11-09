@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0311267",
+  "title": "AC-Hopping Conductance of Self-Organized Ge/Si Quantum Dot Arrays",
+  "abstract": "Dense ($n=4 \\times 10^{11}$ cm$^{-2}$) arrays of Ge quantum dots in Si host were studied using attenuation of surface acoustic waves (SAWs) propagating along the surface of a piezoelectric crystal located near the sample. The SAW magneto-attenuation coefficient, $ΔΓ=Γ(ω, H)-Γ(ω, 0)$, and change of velocity of SAW, $ΔV /V=(V(H)-V(0)) / V(0)$, were measured in the temperature interval $T$ = 1.5-4.2 K as a function of magnetic field $H$ up to 6 T for the waves in the frequency range $f$ = 30-300 MHz. Basing on the dependences of $ΔΓ$ on $H$, $T$ and $ω$, as well as on its sign, we believe that the AC conduction mechanism is a combination of diffusion at the mobility edge with hopping between localized states at the Fermi level. The measured magnetic field dependence of the SAW attenuation is discussed basing on existing theoretical concepts.",
+  "authors": [
+    "Irina L. Drichko",
+    "Andrey M. Diakonov",
+    "Veniamin I. Kozub",
+    "Ivan Yu. Smirnov",
+    "Yuri M. Galperin",
+    "Andrew I. Yakimov",
+    "Alexander I. Nikiforov"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0311267.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0311267.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.205499+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0311267",
+    "categories": [
+      "cond-mat.mes-hall"
+    ]
+  }
+}

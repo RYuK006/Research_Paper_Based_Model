@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0307016",
+  "title": "Spin Exciton in quantum dot with spin orbit coupling in high magnetic field",
+  "abstract": "Coulomb interactions of few ($ N $) electrons confined in a disk shaped quantum dot, with a large magnetic field $B=B^*$ applied in the z-direction (orthogonal to the dot), produce a fully spin polarized ground state. We numerically study the splitting of the levels corresponding to the multiplet of total spin $S=N/2$ (each labeled by a different total angular momentum $ J_z $) in presence of an electric field parallel to $ B $, coupled to $ S $ by a Rashba term. We find that the first excited state is a spin exciton with a reversed spin at the origin. This is reminiscent of the Quantum Hall Ferromagnet at filling one which has the skyrmion-like state as its first excited state. The spin exciton level can be tuned with the electric field and infrared radiation can provide energy and angular momentum to excite it.",
+  "authors": [
+    "P. Lucignano",
+    "B. Jouault",
+    "A. Tagliacozzo"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevB.69.045314",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0307016.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0307016.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.148618+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0307016",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.str-el"
+    ]
+  }
+}

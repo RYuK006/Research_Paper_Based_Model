@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0205217",
+  "title": "Dislocation jamming and Andrade creep",
+  "abstract": "We simulate the glide motion of an assembly of interacting dislocations under the action of an external shear stress and show that the associated plastic creep relaxation follows Andrade's law. Our results indicate that Andrade creep in plastically deforming crystals involves the correlated motion of dislocation structures near a dynamic transition separating a flowing from a jammed phase. Simulations in presence of dislocation multiplication and noise confirm the robustness of this finding and highlight the importance of metastable structure formation for the relaxation process.",
+  "authors": [
+    "M. -Carmen Miguel",
+    "Alessandro Vespignani",
+    "Michael Zaiser",
+    "Stefano Zapperi"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0205217.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0205217.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.857342+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0205217",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

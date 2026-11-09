@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0203327",
+  "title": "Distribution of carbon atoms in iron-carbon fcc phase: an experimental and theoretical study",
+  "abstract": "This paper presents an experimental and theoretical study of the distribution of carbon atoms in the octahedral interstitial sites of the face-centered cubic (fcc) phase of the iron-carbon system. The experimental part of the work consists of Mossbauer measurements in Fe-C alloys with up to about 12 atomic percent C, which are interpreted in terms of two alternative models for the distribution of C atoms in the interstitial sites. The theoretical part combines an analysis of the chemical potential of C based on the quasichemical approximation to the statistical mechanics of interstitial solutions, with three-dimensional Monte Carlo simulations. The latter were performed by assuming a gas like mixture of C atoms and vacancies (Va) in the octahedral interstitial sites. The number of C-C, C-Va and Va-Va pairs calculated using Monte Carlo simulations are compared with those given by the quasichemical model. Furthermore, the relative fraction of the various Fe environments were calculated and compared with those extracted from the Mossbauer spectra. The simulations reproduce remarkably well the relative fractions obtained assuming the Fe(8)C(1-y) model for Mossbauer spectra, which includes some blocking of the nearest neighbour interstitial sites by a C atom. With the new experimental and theoretical information obtained in the present study, a critical discussion is reported of the extent to which such blocking effect is accounted for in current thermodynamic models of the Fe-C fcc phase.   Abstract PACS Codes: 2.70.Uu, 76.",
+  "authors": [
+    "K. F. Laneri",
+    "J. Desimoni",
+    "G. J. Zarragoicoechea",
+    "A. Fernandez-Guillermet"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0203327.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0203327.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.228457+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0203327",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

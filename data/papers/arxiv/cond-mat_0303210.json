@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0303210",
+  "title": "Theory of the [111] magnetization plateau in spin ice",
+  "abstract": "The application of a magnetic field along the [111] direction in the spin ice compounds leads to two magnetization plateaux, in the first of which the ground state entropy is reduced but still remains extensive. We observe that under reasonable assumptions, the remaining degrees of freedom in the low field plateau live on decoupled kagome planes, and can be mapped to hard core dimers on a honeycomb lattice. The resulting two dimensional state is critical, and we have obtained its residual entropy -- in good agreement with a recent experiments -- the equal time spin correlations as well as a theory for the dynamical spin correlations. Small tilts of the field are predicted to lead a vanishing of the entropy and the termination of the critical phase by a Kasteleyn transition characterized by highly anisotropic scaling. We discuss the thermally excited defects that terminate the plateau either end, among them an exotic string defect which restores three dimensionality.",
+  "authors": [
+    "R. Moessner",
+    "S. L. Sondhi"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevB.68.064411",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.dis-nn",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0303210.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0303210.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:11.061911+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0303210",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.dis-nn",
+      "cond-mat.str-el"
+    ]
+  }
+}

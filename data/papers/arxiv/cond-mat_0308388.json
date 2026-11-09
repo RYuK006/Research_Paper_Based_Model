@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0308388",
+  "title": "Charge Disproportionation and Spin-Ordering Tendencies in Na(x)CoO2 at x=1/3",
+  "abstract": "The strength and effect of Coulomb correlations in the (superconducting when hydrated) x~1/3 regime of Na(x)CoO(2) have been evaluated using the correlated band theory LDA+U method. Our results, neglecting quantum fluctuations, are: (1) there is a critical $U_{c}$ = 3 eV, above which charge ordering occurs at x=1/3, (2) in this charge-ordered state, antiferromagnetic coupling is favored over ferromagnetic, while below $U_{c}$, ferromagnetism is favored; and (3) carrier conduction behavior should be very asymmetric for dopings away from x=1/3. For x < 1/3, correlated hopping of parallel spin pairs is favored, suggesting a triplet superconducting phase.",
+  "authors": [
+    "J. Kunes",
+    "K. -W. Lee",
+    "W. E. Pickett"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.dis-nn",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0308388.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0308388.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.689745+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0308388",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.dis-nn",
+      "cond-mat.supr-con"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "arxiv:cond-mat/0312151",
+  "title": "Measuring Dielectric Properties and Surface Resistance of Microwave PCBs in the K-band",
+  "abstract": "The theoretical model is fully developed and the test rig is designed for the measurements of microwave parameters of unclad and laminated dielectric substrates. The geometry of the electromagnetic field in the resonator allows dielectric measurements with electric field component orthogonal to the sample surface. The test rig was completely automatized for measurements of the following parameters: (i) dielectric constant of the dielectric substrate in the range from 2 to 10, (ii) loss tangent of the dielectric substrate in the range from 10^-4 to 10^-2, and (iii) microwave ohmic loss at the interface between the metal layer and the dielectric material in the range from 0.01 to 0.2 Ohm.Measurements for a number of commonly-used microwave PCB materials were performed in the frequency range from 30 to 40 GHz and over a temperature range from -50C to +70C.",
+  "authors": [
+    "Victor N. Egorov",
+    "Vladimir L. Masalov",
+    "Yuri A. Nefyodov",
+    "Artem F. Shevchun",
+    "Mikhail R. Trunin",
+    "Victor Zhitomirsky",
+    "Mick McLean"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "physics.ins-det"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0312151.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0312151.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.521276+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0312151",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "physics.ins-det"
+    ]
+  }
+}

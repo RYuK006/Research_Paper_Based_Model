@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0308597",
+  "title": "Why is the ARPES anti-nodal singularity at 40 meV shifted in superconducting state of HTSC, but the kink at 70 meV is not?",
+  "abstract": "The theoretical model for the quasiparticle self-energy in HTSC is proposed, which is based on the forward scattering peak in the electron-phonon (EPI) interaction. By assuming that EPI dominates, the model explains qualitatively and in a consistent way the recent ARPES results. The latter show a kink in the normal state quasiparticle energy at 70 meV in the nodal direction, which is (surprisingly) not shifted in the superconducting (SC) state, while the singularity at 40 meV in the anti-nodal direction is shifted by the SC gap. The model predicts a dip-hump structure in the spectral function, which is observed in ARPES.",
+  "authors": [
+    "M. L. Kulic",
+    "O. V. Dolgov"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0308597.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0308597.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.821351+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0308597",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

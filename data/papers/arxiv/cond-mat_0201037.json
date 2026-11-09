@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0201037",
+  "title": "Zinc Impurities in the 2D Hubbard model",
+  "abstract": "We study the two-dimensional Hubbard model with nonmagnetic Zn impurities modeled by binary diagonal disorder using Quantum Monte Carlo within the Dynamical Cluster Approximation. With increasing Zn content we find a strong suppression of d-wave superconductivity concomitant to a reduction of antiferromagnetic spin fluctuations. $T_c$ vanishes linearly with Zn impurity concentration. The spin susceptibility changes from pseudogap to Curie-Weiss like behavior indicating the existence of free magnetic moments in the Zn doped system. We interpret these results within the RVB picture.",
+  "authors": [
+    "Th. A. Maier",
+    "M. Jarrell"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0201037.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0201037.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.693085+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0201037",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

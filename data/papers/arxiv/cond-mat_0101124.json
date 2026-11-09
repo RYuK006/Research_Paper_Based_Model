@@ -1,0 +1,32 @@
+{
+  "id": "arxiv:cond-mat/0101124",
+  "title": "Critical current in charge-density wave transport",
+  "abstract": "We report transport measurements under very high current densities $j$, up to $\\sim10^8$~A/cm$^2$, of quasi-one-dimensional charge-density wave (CDW) conductors NbSe$_3$ and TaS$_3$. Joule heating has been minimized by using a point-contact configuration or by measuring samples with extremely small cross-sections. Above $j_c \\approx 10^7$~A/cm$^2$ we find evidence for suppression of the Peierls gap and development of the metallic state. The critical CDW velocity corresponding with $j_0$ is comparable with the sound velocity, and with $Δ/ \\hbar k_F$ ($k_F$ is the Fermi wave vector), which corresponds to the depairing current. Possible scenarios of the Peierls state destruction are discussed.",
+  "authors": [
+    "A. A. Sinchenko",
+    "V. Ya. Pokrovski",
+    "S. G. Zybtsev",
+    "I. G. Gorlova",
+    "Yu. I. Latyshev",
+    "P. Monceau"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0101124.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0101124.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:04.501429+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0101124",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ]
+  }
+}

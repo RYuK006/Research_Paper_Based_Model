@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0406039",
+  "title": "Orbital and magnetic transitions in geometrically-frustrated vanadium spinels -- Monte Carlo study of an effective spin-orbital-lattice coupled model --",
+  "abstract": "We present our theoretical and numerical results on thermodynamic properties and the microscopic mechanism of two successive transitions in vanadium spinel oxides $A$V$_2$O$_4$ ($A$=Zn, Mg, or Cd) obtained by Monte Carlo calculations of an effective spin-orbital-lattice model in the strong correlation limit. Geometrical frustration in the pyrochlore lattice structure of V cations suppresses development of spin and orbital correlations, however, we find that the model exhibits two transitions at low temperatures. First, a discontinuous transition occurs with an orbital ordering assisted by the tetragonal Jahn-Teller distortion. The orbital order reduces the frustration in spin exchange interactions, and induces antiferromagnetic correlations in one-dimensional chains lying in the perpendicular planes to the tetragonal distortion. Secondly, at a lower temperature, a three-dimensional antiferromagnetic order sets in continuously, which is stabilized by the third-neighbor interaction among the one-dimensional antiferromagnetic chains. Thermal fluctuations are crucial to stabilize the collinear magnetic state by the order-by-disorder mechanism. The results well reproduce the experimental data such as transition temperatures, temperature dependence of the magnetic susceptibility, changes of the entropy at the transitions, and the magnetic ordering structure at low temperatures. Quantum fluctuation effect is also examined by the linear spin wave theory at zero temperature. The staggered moment in the ground state is found to be considerably reduced from saturated value, and reasonably agrees with the experimental data.",
+  "authors": [
+    "Yukitoshi Motome",
+    "Hirokazu Tsunetsugu"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevB.70.184427",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0406039.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0406039.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.335604+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0406039",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

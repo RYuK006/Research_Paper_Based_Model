@@ -1,0 +1,40 @@
+{
+  "id": "arxiv:cond-mat/0306265",
+  "title": "Charge-based silicon quantum computer architectures using controlled single-ion implantation",
+  "abstract": "We report a nanofabrication, control and measurement scheme for charge-based silicon quantum computing which utilises a new technique of controlled single ion implantation. Each qubit consists of two phosphorus dopant atoms ~50 nm apart, one of which is singly ionized. The lowest two energy states of the remaining electron form the logical states. Surface electrodes control the qubit using voltage pulses and dual single electron transistors operating near the quantum limit provide fast readout with spurious signal rejection. A low energy (keV) ion beam is used to implant the phosphorus atoms in high-purity Si. Single atom control during the implantation is achieved by monitoring on-chip detector electrodes, integrated within the device structure, while positional accuracy is provided by a nanomachined resist mask. We describe a construction process for implanted single atom and atom cluster devices with all components registered to better than 20 nm, together with electrical characterisation of the readout circuitry. We also discuss universal one- and two-qubit gate operations for this architecture, providing a possible path towards quantum computing in silicon.",
+  "authors": [
+    "A. S. Dzurak",
+    "L. C. L. Hollenberg",
+    "D. N. Jamieson",
+    "F. E. Stanley",
+    "C. Yang",
+    "T. M. Buhler",
+    "V. Chan",
+    "D. J. Reilly",
+    "C. Wellard",
+    "A. R. Hamilton",
+    "C. I. Pakes",
+    "A. G. Ferguson",
+    "E. Gauja",
+    "S. Prawer",
+    "G. J. Milburn",
+    "R. G. Clark"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0306265.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0306265.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.885928+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0306265",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

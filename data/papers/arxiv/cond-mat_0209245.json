@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0209245",
+  "title": "Density-functional theory for the Hubbard model: numerical results for the Luttinger liquid and the Mott insulator",
+  "abstract": "We construct and apply an exchange-correlation functional for the one-dimensional Hubbard model. This functional has built into it the Luttinger-liquid and Mott-insulator correlations, present in the Hubbard model, in the same way in which the usual {\\it ab initio} local-density approximation (LDA) has built into it the Fermi-liquid correlations present in the electron gas. An accurate expression for the exchange-correlation energy of the homogeneous Hubbard model, based on the Bethe Ansatz (BA), is given and the resulting LDA functional is applied to a variety of inhomogeneous Hubbard models. These include finite-size Hubbard chains and rings, various types of impurities in the Hubbard model, spin-density waves, and Mott insulators. For small systems, for which numerically exact diagonalization is feasible, we compare the results obtained from our BA-LDA with the exact ones, finding very satisfactory agreement. In the opposite limit, large and complex systems, the BA-LDA allows to investigate systems and parameter regimes that are inaccessible by traditional methods.",
+  "authors": [
+    "K. Capelle",
+    "N. A. Lima",
+    "M. F. Silva",
+    "L. N. Oliveira"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0209245.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0209245.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.019531+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0209245",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

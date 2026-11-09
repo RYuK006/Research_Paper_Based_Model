@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0404226",
+  "title": "Network-Induced Oscillatory Behavior in Material Flow Networks",
+  "abstract": "Network theory is rapidly changing our understanding of complex systems, but the relevance of topological features for the dynamic behavior of metabolic networks, food webs, production systems, information networks, or cascade failures of power grids remains to be explored. Based on a simple model of supply networks, we offer an interpretation of instabilities and oscillations observed in biological, ecological, economic, and engineering systems. We find that most supply networks display damped oscillations, even when their units - and linear chains of these units - behave in a non-oscillatory way. Moreover, networks of damped oscillators tend to produce growing oscillations. This surprising behavior offers, for example, a new interpretation of business cycles and of oscillating or pulsating processes. The network structure of material flows itself turns out to be a source of instability, and cyclical variations are an inherent feature of decentralized adjustments.",
+  "authors": [
+    "Dirk Helbing",
+    "Ulrich Witt",
+    "Stefan Laemmer",
+    "Thomas Brenner"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevE.70.056118",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.dis-nn",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0404226.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0404226.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:46.707637+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0404226",
+    "categories": [
+      "cond-mat.dis-nn",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

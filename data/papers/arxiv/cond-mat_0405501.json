@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0405501",
+  "title": "Comment on 'Quantum Coherence between High Spin Superposition States of Single Molecule Magnet Ni4'",
+  "abstract": "In a recent paper, cond-mat/0405331 (Ref. 1), del Barco et al. reported experimental studies on a Ni4 molecular system. They used an experimental method (combining microwave spectroscopy with high sensitivity magnetic measurements) that we have introduced before, cond-mat/0404410 (see also Ref. 2 and 3). Among other things, our technique allows us to monitor spin-state populations in the presence of microwave magnetic fields. Absorption line-widths give rough 'upper bounds' on the decoherence rate similar to 'standard' high frequency electron paramagnetic resonance (HF-EPR) techniques. In the case of quasi continuous radiation our technique does NOT give directly the spin-lattice relaxation time T1. For measurements like those of del Barco et al., it simply gives access to the phonon-bottleneck time, a parameter that is many orders of magnitude longer than the spin-lattice relaxation time. Any conclusion concerning quantum coherence is preliminary.",
+  "authors": [
+    "W. Wernsdorfer"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0405501.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0405501.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.197203+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0405501",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

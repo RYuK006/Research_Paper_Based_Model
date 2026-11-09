@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0001092",
+  "title": "Josephson Effect in Magnetic Superconductors with Spiral Magnetic Order",
+  "abstract": "It is shown that in magnetic superconductors with spiral magnetic order the Josephson current has an additional contribution which depends: (i) on the relative orientation (magnetic phase) $θ=θ_{L}-θ_{R}$ of magnetizations on the left ($L$) and right ($R$) banks of the contact, (ii) on the junction helicity $χ=χ_{L}χ_{R}$, (with spiral helicity $χ_{L(R)}=\\pm 1$), i.e. $J=[J_{c}-J_χ\\cos θ]\\sin ϕ$ with $ϕ=ϕ_{L}-ϕ_{R}$. The ratio $R_χ\\equiv J_χ/J_{c}$ is calculated as a function of the superconducting order parameter $Δ$, the exchange field energy $h$ and the wave vector $Q$ of the spiral magnetic structure. The $π$-Josephson contact can be realized in such a system in some region of parameters. Some possible consequences of this new phase relation is also analyzed.",
+  "authors": [
+    "Miodrag L. Kulic",
+    "Igor M. Kulic"
+  ],
+  "year": 2000,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0001092.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0001092.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:43:03.781781+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0001092",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

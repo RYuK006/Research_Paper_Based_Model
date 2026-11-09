@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0312609",
+  "title": "1-D Simulation of the Electron Density Distribution in a Novel Nonvolatile Resistive Random Access Memory Device",
+  "abstract": "The operation of a novel nonvolatile memory device based on a conductive ferroelectric/non-ferroelectric thin film multilayer stack is simulated numerically. The simulation involves the self-consistent steady state solution of Poisson's equation and the transport equation for electrons assuming a Drift-Diffusion transport mechanism. Special emphasis is put on the screening of the spontaneous polarization by conduction electrons as a function of the applied voltage. Depending on the orientation of the polarization in the ferroelectric layer, a high and a low resistive state are found giving rise to a hysteretic I-V characteristic. The R_high to R_low ratio ranging from > 50% to several orders of magnitude is calculated as a function of the dopant content.",
+  "authors": [
+    "Rene Meyer",
+    "Hermann Kohlstedt"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0312609.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0312609.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.735890+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0312609",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

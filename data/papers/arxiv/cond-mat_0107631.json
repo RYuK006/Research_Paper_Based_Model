@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0107631",
+  "title": "Irreversible nucleation in multilayer growth",
+  "abstract": "The epitaxial growth process of a high symmetry surface occurs because adatoms meet and nucleate new islands, that eventually coalesce and complete atomic layers. During multilayer growth, nucleation usually takes place on top of terraces where the geometry of the diffusion process is well defined: We have studied in detail the spatiotemporal distribution of nucleation events and the resulting nucleation rate, a quantity of primary importance to model experimental results and evaluate diffusion barriers at step-edges. We provide rigorous results for irreversible nucleation and we assess the limits of mean-field theory (MFT): we show that MFT overestimates the correct result by a factor proportional to the number of times an adatom diffusing on the terrace visits an already visited lattice site. In this report we aim at giving a simple physical account of our results.",
+  "authors": [
+    "Paolo Politi",
+    "Claudio Castellano"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0107631.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0107631.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.141971+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0107631",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

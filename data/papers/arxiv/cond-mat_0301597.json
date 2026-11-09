@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0301597",
+  "title": "The order parameter-entropy relation in some universal classes: experimental evidence",
+  "abstract": "The asymptotic behaviour near phase transitions can be suitably characterized by the scaling of $Δs/Q^2$ with $ε=1-T/T_c$, where $Δs$ is the excess entropy and $Q$ is the order parameter. As $Δs$ is obtained by integration of the experimental excess specific heat of the transition $Δc$, it displays little experimental noise so that the curve $\\log(Δs/Q^2)$ versus $\\logε$ is better constrained than, say, $\\logΔc$ versus $\\logε$. The behaviour of $Δs/Q^2$ for different universality classes is presented and compared. In all cases, it clearly deviates from being a constant. The determination of this function can then be an effective method to distinguish asymptotic critical behaviour. For comparison, experimental data for three very different systems, Rb2CoF4, Rb2ZnCl4 and SrTiO3, are analysed under this approach. In SrTiO3, the function $Δs/Q^2$ does not deviate within experimental resolution from a straight line so that, although Q can be fitted with a non mean-field exponent, the data can be explained by a classical Landau mean-field behaviour. In contrast, the behaviour of $Δs/Q^2$ for the antiferromagnetic transition in Rb2CoF4 and the normal-incommensurate phase transition in Rb2ZCl4 is fully consistent with the asymptotic critical behaviour of the universality class corresponding to each case. This analysis supports, therefore, the claim that incommensurate phase transitions in general, and the A$_2$BX$_4$ compounds in particular, in contrast with most structural phase transitions, have critical regions large enough to be observable.",
+  "authors": [
+    "J. M. Martin-Olalla",
+    "F. J. Romero",
+    "S. Ramos",
+    "M. C. Gallardo",
+    "J. M. Perez-Mato",
+    "E. K. H. Salje"
+  ],
+  "year": 2003,
+  "doi": "10.1088/0953-8984/15/14/318",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0301597.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0301597.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.652002+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0301597",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

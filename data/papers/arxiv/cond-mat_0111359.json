@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0111359",
+  "title": "Realistic modellization for the growth of a yeast colony",
+  "abstract": "An evolving yeast colony is simulated by means of a cellular automaton that takes care of many important features of the system under study. A complete survey of the properties of the colony is done and a set of scaling relations is found, together with the analysis of the critical exponents. The Family-Vicsek relation between them is verified to a good accuracy. A mobility parameter is introduced in order to relate the behaviour of the growth exponent with the temperature and we propose that the brownian motion is a key feature to describe the bacterial and fungi growth process in diluted solutions. The chemical and geometrical correlations are found to play a relevant role in the modellization, so that the need of realism is emphasized. A new phase space built upon the relevant 'thermodinamical' variables is explored.",
+  "authors": [
+    "Lorenzo Fortunato"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.soft",
+    "physics.bio-ph",
+    "q-bio"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0111359.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0111359.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.393243+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0111359",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.soft",
+      "physics.bio-ph",
+      "q-bio"
+    ]
+  }
+}

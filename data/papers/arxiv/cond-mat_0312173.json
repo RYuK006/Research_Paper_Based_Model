@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0312173",
+  "title": "Polarization transitions in quantum ring arrays",
+  "abstract": "We calculate the zero temperature electrostatic properties of charged one and two dimensional arrays of rings, in the classical and quantum limits.   Each ring is assumed to be an ideal ring of negligible width, with exactly one electron on the ring that interacts only with nearest neighbor rings. In the classical limit we find that if the electron is treated as a point particle, the 1D array of rings can be mapped to an Ising antiferromagnet, while the 2D array groundstate is a four-fold degenerate \"stripe\" phase. In contrast, if we treat the electrical charge as a continuous fluid, the distribution will not spontaneously break symmetry, but will develop a charge distribution reflecting the symmetry of the array. In the quantum limit, the competition between the kinetic energy and Coulomb energy allows for a transition between unpolarized and polarized states as a function of the ring parameters. This allows for a new class of polarizable materials whose transitions are based on geometry, rather than a structural transition in a unit cell.",
+  "authors": [
+    "Bahman Roostaei",
+    "Kieran Mullen"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0312173.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0312173.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.532874+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0312173",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

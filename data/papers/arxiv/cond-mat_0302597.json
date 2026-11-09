@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0302597",
+  "title": "Crossover behaviors in liquid region of vortex states above a critical point caused by point defects",
+  "abstract": "Vortex states in high-$T_{\\rm c}$ superconductors with point defects are studied by large-scale Monte Carlo simulations of the three-dimensional frustrated XY model. A critical point is observed on the first-order phase boundary between the vortex slush and vortex liquid phases. A step-like anomaly of the specific heat is detected in simulations of finite systems, similar to an experimental observation [F.~Bouquet {\\it et al.}, Nature (London) {\\bf 411}, 448 (2001)]. However, it diminishes with increasing system size, and the number and size distribution of thermally-excited vortex loops show continuous behaviors around this anomaly. Therefore, the present study suggests a crossover rather than a thermodynamic phase transition above the critical point.",
+  "authors": [
+    "Yoshihiko Nonomura",
+    "Xiao Hu"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0302597.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0302597.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.950436+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0302597",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

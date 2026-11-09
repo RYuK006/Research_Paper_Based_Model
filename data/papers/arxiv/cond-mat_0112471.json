@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0112471",
+  "title": "High-Frequency Impedance of Driven Superlattices",
+  "abstract": "The complex impedance of a semiconductor superlattice biased into the regime of negative differential conductivity and driven by an additional GHz ac voltage is computed. From a simulation of the nonlinear spatio-temporal dynamics of traveling field domains we obtain strong variations of the amplitude and phase of the impedance with increasing driving frequency. These serve as fingerprints of the underlying quasiperiodic or frequency locking behavior. An anomalous phase shift appears as a result of phase synchronization of the traveling domains. If the imaginary part of the impedance is compensated by an external inductor, both the frequency and the intensity of the oscillations strongly increase.",
+  "authors": [
+    "A. -K. Jappsen",
+    "A. Amann",
+    "A. Wacker",
+    "E. Schomburg",
+    "E. Schöll"
+  ],
+  "year": 2001,
+  "doi": "10.1063/1.1501756",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0112471.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0112471.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.642515+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0112471",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

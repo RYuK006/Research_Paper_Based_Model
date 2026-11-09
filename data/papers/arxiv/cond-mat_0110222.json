@@ -1,0 +1,33 @@
+{
+  "id": "arxiv:cond-mat/0110222",
+  "title": "Shake-up and shake-off excitations with associated electron losses in X-ray studies of proteins",
+  "abstract": "Photoionisation of an atom by X-rays usually removes an inner-shell electron from the atom, leaving behind a perturbed \"hollow ion\" whose relaxation may take different routes. In light elements, emission of an Auger electron is common. However, the energy and the total number of electrons released from the atom may be modulated by shake-up and shake-off effects. When the inner-shell electron leaves, the outer-shell electrons may find themselves in a state that is not an eigen-state of the atom in its surroundings. The resulting collective excitation is called shake-up. If this process also involves the release of low energy electrons from the outer shell, then the process is called shake-off. It is not clear how significant shake-up and shake-off contributions are to the overall ionisation of biological materials like proteins. In particular, the interaction between the out-going electron and the remaining system depends on the chemical environment of the atom, which can be studied by quantum chemical methods. Here we present calculations on model compounds to represent the most common chemical environments in proteins. The results show that the shake-up and shake-off processes affect about 20% of all emissions from nitrogen, 30% from carbon, 40% from oxygen, and 23% from sulphur. Triple and higher ionisations are rare for carbon, nitrogen and oxygen, but are frequent for sulphur. The findings are relevant to the design of biological experiments at emerging X-ray free-electron lasers.",
+  "authors": [
+    "Petter Persson",
+    "Sten Lunell",
+    "Abraham Szoeke",
+    "Beata Ziaja",
+    "Janos Hajdu"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat",
+    "hep-ph",
+    "q-bio"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0110222.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0110222.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.624410+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0110222",
+    "categories": [
+      "cond-mat",
+      "hep-ph",
+      "q-bio"
+    ]
+  }
+}

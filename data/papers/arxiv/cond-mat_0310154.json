@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0310154",
+  "title": "Hidden orbital currents and spin gap in the heavy fermion superconductor URu$_2$Si$_2$",
+  "abstract": "We have performed neutron scattering experiments on the heavy fermion superconductor URu$_2$Si$_2$ to search for the orbital currents predicted to exist in the ordered phase below {\\Tn} = 17.5 K. Elastic scans in the (H, K, 0) and (H, 0, L) planes revealed no such order parameter at low temperatures. This does not completely rule out orbital current formation, because our detection limit for a ring of scattering is 0.06(1) {\\ub}, which is greater than the size of the predicted moment of ~0.02 {\\ub}. However, on heating, a ring of quasielastic scattering does exist in the (H, K, 0) plane centered at the (1, 0, 0) antiferromagnetic Bragg position and of incommensurate radius {$τ$} = 0.4 r.l.u.. The intensity of this ring is thermally activated below {\\Tn} with a characteristic energy scale of {$Δ$} = 110 K: the coherence temperature. We believe that these incommensurate spin fluctuations compete with the AF spin fluctuations, and drive the transition to a disordered magnetic state above {\\Tn}. The significance of this higher energy scale with respect to {\\Tn} suggests that these fluctuations also play a crucial role in the formation of the heavy fermion state.",
+  "authors": [
+    "C. R. Wiebe",
+    "G. M. Luke",
+    "Z. Yamani",
+    "A. A. Menovsky",
+    "W. J. L. Buyers"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0310154.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0310154.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:14.665382+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0310154",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

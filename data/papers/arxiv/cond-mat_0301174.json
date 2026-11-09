@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0301174",
+  "title": "Superconducting Density of States from the Magnetic Penetration Depth of Electron-Doped Cuprates La_{2-x}Ce_xCuO_{4-y} and Pr_{2-x}Ce_xCuO_{4-y}",
+  "abstract": "From measurements of the magnetic penetration depth, $λ(T)$, from 1.6 K to $T_c$ in films of electron-doped cuprates La$_{2-x}$Ce$_x$CuO$_{4-y}$ and Pr$_{2-x}$Ce$_x$CuO$_{4-y}$ we obtain the normalized density of states, $N_s(E)$ at T=0 by using a simple model. In this framework, the flat behavior of $λ^{-2}(T)$ at low $T$ implies $N_s(E)$ is small, possibly gapped, at low energies. The upward curvature in $λ^{-2}(T)$ near $T_c$ seen in overdoped films implies that superfluid comes from an anomalously small energy band within about $3k_BT_c$ of the Fermi surface.",
+  "authors": [
+    "John A. Skint",
+    "Mun-Seog Kim",
+    "Thomas R. Lemberger",
+    "T. Greibe",
+    "M. Naito"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0301174.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0301174.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.402941+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0301174",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

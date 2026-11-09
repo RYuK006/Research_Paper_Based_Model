@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0307083",
+  "title": "Generation of Explicit Knowledge from Empirical Data through Pruning of Trainable Neural Networks",
+  "abstract": "This paper presents a generalized technology of extraction of explicit knowledge from data. The main ideas are 1) maximal reduction of network complexity (not only removal of neurons or synapses, but removal all the unnecessary elements and signals and reduction of the complexity of elements), 2) using of adjustable and flexible pruning process (the pruning sequence shouldn't be predetermined - the user should have a possibility to prune network on his own way in order to achieve a desired network structure for the purpose of extraction of rules of desired type and form), and 3) extraction of rules not in predetermined but any desired form. Some considerations and notes about network architecture and training process and applicability of currently developed pruning techniques and rule extraction algorithms are discussed. This technology, being developed by us for more than 10 years, allowed us to create dozens of knowledge-based expert systems. In this paper we present a generalized three-step technology of extraction of explicit knowledge from empirical data.",
+  "authors": [
+    "A. N. Gorban",
+    "Eu. M. Mirkes",
+    "V. G. Tsaregorodtsev"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat",
+    "cs.NE",
+    "physics.data-an"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0307083.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0307083.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.192052+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0307083",
+    "categories": [
+      "cond-mat",
+      "cs.NE",
+      "physics.data-an"
+    ]
+  }
+}

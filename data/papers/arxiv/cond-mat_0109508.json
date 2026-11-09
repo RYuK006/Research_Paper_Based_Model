@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0109508",
+  "title": "Sliding Dynamics of the Wigner Crystal on Liquid He",
+  "abstract": "The Wigner crystal on liquid He accompanies with periodic corrugation of the He surface; dimples. The dynamics of the crystal is coupled with the motion and the deformation of the dimples. Nonlinear phenomena found in AC Corbino conductivity are attributed to the collective sliding of the electrons out of the dimples. In order to inspect the dynamical transition to the sliding state, we have developed a novel experimental method using a so-called \"t^2 pulse\", whose leading and trailing edges change in proportion to the square of time; V = at^2. Since the force exerting upon the crystal is proportional to the time derivative of the input voltage, dV/dt, the t^2-pulsed method is expected to realize a continuous sweep of the driving force, resulting in the real-time observation of the sliding transition. The observed response shows clearly the sliding, revealing that the external force to the crystal determines the sliding transition.",
+  "authors": [
+    "Yoshiyuki Shibayama",
+    "Masaya Yamazaki",
+    "Hanako Isshiki",
+    "Keiya Shirahama"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0109508.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0109508.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.514382+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0109508",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.str-el"
+    ]
+  }
+}

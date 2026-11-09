@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0212635",
+  "title": "The evolutionary minority game with local coordination",
+  "abstract": "We discuss a modification of the Evolutionary Minority Game (EMG) in which agents are placed in the nodes of a regular or a random graph. A neighborhood for each agent can thus be defined and a modification of the usual relaxation dynamics can be made in which each agent updates her decision scheme depending upon the options made in her neighborhood. We report numerical results for the topologies of a ring, a torus and a random graph changing the size of the neighborhood. We find the surprising result that in the EMG a better coordination (a lower frustration) can be achieved if all agents base their actions on local information disregarding the global trend in the self-segregation process.",
+  "authors": [
+    "E. Burgos",
+    "Horacio Ceva",
+    "R. P. J. Perazzo"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0212635.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0212635.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.259347+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0212635",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

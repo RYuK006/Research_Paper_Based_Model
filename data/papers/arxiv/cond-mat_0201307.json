@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0201307",
+  "title": "Determinations of upper critical field in continuous Ginzburg-Landau model",
+  "abstract": "Novel procedures to determine the upper critical field $B_{c2}$ have been proposed within a continuous Ginzburg-Landau model. Unlike conventional methods, where $B_{c2}$ is obtained through the determination of the smallest eigenvalue of an appropriate eigen equation, the square of the magnetic field is treated as eigenvalue problems so that the upper critical field can be directly deduced. The calculated $B_{c2}$ from the two procedures are consistent with each other and in reasonably good agreement with existing theories and experiments. The profile of the order parameter associated with $B_{c2}$ is found to be Gaussian-like, further validating the methodology proposed. The convergences of the two procedures are also studied.",
+  "authors": [
+    "L. Wang",
+    "H. S. Lim",
+    "C. K. Ong"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0201307.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0201307.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.810005+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0201307",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

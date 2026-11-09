@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0401626",
+  "title": "A First Principles Scheme for Calculating the Electronic Structure of Strongly Correlated Materials: GW+DMFT",
+  "abstract": "We give a detailed description of a recently proposed first principles approach to the electronic structure of strongly correlated materials. The method combines the GW approximation with dynamical mean field theory. It is designed to describe Coulomb interactions and screening effects without adjustable parameters, thus avoiding the conceptual problems inherent to LDA+DMFT techniques.",
+  "authors": [
+    "Ferdi Aryasetiawan",
+    "Silke Biermann",
+    "Antoine Georges"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0401626.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0401626.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.165329+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0401626",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

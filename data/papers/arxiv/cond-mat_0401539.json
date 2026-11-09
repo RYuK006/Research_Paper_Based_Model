@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0401539",
+  "title": "Interpolative Approach for Solving Quantum Impurity Model Based on the Slave--Boson Mean--Field Approximation",
+  "abstract": "A rational representation for the self-energy is explored to interpolate the solution of the Anderson impurity model in general orbitally degenerate case. Several constrains such as the Friedel's sum rule, high--frequency moments and the value of quasiparticle residue are used to establish the equations for the coefficients of the interpolation. We test two fast techniques, the slave--boson mean--field and the Hubbard I approximation to determine the coefficients. The obtained self--energies are compared with the results of numerically exact Quantum Monte Carlo method. We find that using the slave--boson mean--field approach we can construct an accurate self--energy for all frequencies via the proposed interpolation procedure.",
+  "authors": [
+    "V. Oudovenko",
+    "K. Haule",
+    "S. Y. Savrasov",
+    "D. Villani",
+    "G. Kotliar"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0401539.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0401539.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:16.116136+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0401539",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "arxiv:cond-mat/0107560",
+  "title": "Lattice coupled first order magnetoresistance transition in an A-type antiferromagnet: Pr$_{0.46}$Sr$_{0.54}$MnO$_3$",
+  "abstract": "We investigated magnetic, magnetotransport and magnetostriction properties of the A-type antiferromagnet Pr$_{0.46}$Sr$_{0.54}$MnO$_3$ which undergoes a first order paramagnetic-antiferromagnetic transition below T$_N$ = 210 K while cooling and T$_N$ = 215 K while warming. The zero field ($μ_0$H = 0 T) resistivity shows a sudden jump at T$_N$ and a small bump around T$_{max}$ = 220 K (\\TEXTsymbol{>} T$_N$). T$_N$ shifts down and T$_{max}$ shifts up with increasing $μ_0$H. Magnetoresistance as high as -45-57 % at 7 T is found in the temperature range 180 K-230 K. Isothermal measurements indicate that the field induced antiferromagnetic to ferromagnetic transition below T$_N$ is accompanied by a rapid decrease of the resistivity but increase of volume ($Δ$V/V = +0.25 % at 180 K and 13.7 T). This lattice coupled magnetoresistance transition is suggested due to the field induced structural transition from the low volume orthorhombic to the high volume tetragonal structure.",
+  "authors": [
+    "R. Mahendiran",
+    "C. Martin",
+    "A. Maignan",
+    "M. Hervieu",
+    "B. Raveau",
+    "L. Morellon",
+    "C. Marquina",
+    "B. Garcia-Landa",
+    "M. R. Ibarra"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0107560.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0107560.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.125079+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0107560",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "arxiv:cond-mat/0310127",
+  "title": "Picosecond energy transfer in quantum dot Langmuir-Blodgett nanoassemblies",
+  "abstract": "We study spectrally resolved dynamics of Forster energy transfer in single monolayers and bilayers of semiconductor nanocrystal quantum dots assembled using Langmuir-Blodgett (LB) techniques. For a single monolayer, we observe a distribution of transfer times from ~50 ps to ~10 ns, which can be quantitatively modeled assuming that the energy transfer is dominated by interactions of a donor nanocrystal with acceptor nanocrystals from the first three shells surrounding the donor. We also detect an effective enhancement of the absorption cross section (up to a factor of 4) for larger nanocrystals on the red side of the size distribution, which results from strong, inter-dot electrostatic coupling in the LB film (the light-harvesting antenna effect). By assembling bilayers of nanocrystals of two different sizes, we are able to improve the donor-acceptor spectral overlap for engineered transfer in a specific (vertical) direction. These bilayers show a fast, unidirectional energy flow with a time constant of ~120 ps.",
+  "authors": [
+    "Marc Achermann",
+    "Melissa A. Petruska",
+    "Scott A. Crooker",
+    "Victor I. Klimov"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.soft"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0310127.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0310127.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:14.658992+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0310127",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.soft"
+    ]
+  }
+}

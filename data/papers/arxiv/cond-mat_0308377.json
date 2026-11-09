@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0308377",
+  "title": "Saturation of dephasing time in mesoscopic devices produced by a ferromagnetic state",
+  "abstract": "We consider an exchange model of itinerant electrons in a Heisenberg ferromagnet and we assume that the ferromagnet is in a fully polarized state. Using the Holstein-Primakoff transformation we are able to obtain a boson-fermion Hamiltonian that is well-known in the interaction between light and matter. This model describes the spontaneous emission in two-level atoms that is the proper decoherence mechanism when the number of modes of the radiation field is taken increasingly large, the vacuum acting as a reservoir. In the same way one can see that the interaction between the bosonic modes of spin waves and an itinerant electron produces decoherence by spin flipping with a rate proportional to the size of the system. In this way we are able to show that the experiments on quantum dots, described in D. K. Ferry et al. [Phys. Rev. Lett. {\\bf 82}, 4687 (1999)], and nanowires, described in D. Natelson et al. [Phys. Rev. Lett. {\\bf 86}, 1821 (2001)], can be understood as the interaction of itinerant electrons and an electron gas in a fully polarized state.",
+  "authors": [
+    "Marco Frasca"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevB.68.193413",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.str-el",
+    "hep-th",
+    "quant-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0308377.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0308377.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.685494+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0308377",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.str-el",
+      "hep-th",
+      "quant-ph"
+    ]
+  }
+}

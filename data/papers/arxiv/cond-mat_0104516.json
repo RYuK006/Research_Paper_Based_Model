@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0104516",
+  "title": "Quasiparticle Hall Transport of d-wave Superconductors in Vortex State",
+  "abstract": "We present a theory of quasiparticle Hall transport in strongly type-II superconductors within their vortex state. We establish the existence of integer quantum spin Hall effect in clean unconventional $d_{x^2-y^2}$ superconductors in the vortex state from a general analysis of the Bogoliubov-de Gennes equation. The spin Hall conductivity $σ^s_{xy}$ is shown to be quantized in units of $\\frac{\\hbar}{8π}$. This result does not rest on linearization of the BdG equations around Dirac nodes and therefore includes inter-nodal physics in its entirety. In addition, this result holds for a generic inversion-symmetric lattice of vortices as long as the magnetic field $B$ satisfies $H_{c1} \\ll B \\ll H_{c2}$. We then derive the Wiedemann-Franz law for the spin and thermal Hall conductivity in the vortex state. In the limit of $T \\to 0$, the thermal Hall conductivity satisfies $κ_{x y}=\\frac{4π^2}{3}(\\frac{k_B}{\\hbar})^2 T σ^s_{xy}$. The transitions between different quantized values of $σ^s_{xy}$ as well as relation to conventional superconductors are discussed.",
+  "authors": [
+    "O. Vafek",
+    "A. Melikyan",
+    "Z. Tesanovic"
+  ],
+  "year": 2001,
+  "doi": "10.1103/PhysRevB.64.224508",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0104516.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0104516.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.429320+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0104516",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

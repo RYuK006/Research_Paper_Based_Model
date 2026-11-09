@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0405354",
+  "title": "Topological Vortex Formation in BEC under Gravitational Field",
+  "abstract": "Topological phase imprinting is a unique technique for vortex formation in a Bose-Einstein condensate (BEC) of alkali metal gas, in that it does not involve rotation: BEC is trapped in a quadrupole field with a uniform bias field which is reversed adiabatically leading to vortex formation at the center of the magnetic trap. The scenario has been experimentally verified by MIT group employing $^{23}$Na atoms. Recently similar experiments have been conducted at Kyoto University, in which BEC of $^{87}$Rb atoms has been used. In the latter experiments they found that the fine-tuning of the field reverse time $T_{\\rm rev}$ is required to achieve stable vortex formation. Otherwise, they often observed vortex fragmentations or a condensate without a vortex. It is shown in this paper that this behavior is attributed to the heavy mass of the Rb atom. The confining potential, which depends on the eigenvalue $m_B$ of the hyperfine spin $\\bv{F}$ along the magnetic field, is now shifted by the gravitational field perpendicular to the vortex line. Then the positions of two weak-field-seeking states with $m_B=1$ and 2 deviate from each other. This effect is more prominent for BEC with a heavy atomic mass, for which the deviation is greater and, moreover, the Thomas-Fermi radius is smaller. We found, by solving the Gross-Pitaevskii equation numerically, that two condensates interact in a very complicated way leading to fragmentation of vortices, unless $T_{\\rm rev}$ is properly tuned.",
+  "authors": [
+    "Yuki Kawaguchi",
+    "Mikio Nakahara",
+    "Tetsuo Ohmi"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevA.70.043605",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0405354.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0405354.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.125791+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0405354",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0210269",
+  "title": "Shot Noise of Mesoscopic NS Structures: The Role of Andreev Reflection",
+  "abstract": "Electronic properties of mesoscopic systems made of normal metal in contact with normal and superconducting reservoirs are determined by Andreev Reflection. We address both experimentally and theoretically how Andreev Reflection manifests itself in shot noise experiments and what physics can be deduced from such measurements. We report high frequency measurements in which Andreev Reflection affects the distribution statistics of the electronic excitations, resulting in a shift of the classical-to-quantum regime or equilibrium-to-shot noise crossovers. We also demonstrate that the effective charge carried by paired electrons contains more information: its deviation from 2e is related to correlations among pairs. This is exemplified by the measurement of phase dependent noise in an Andreev Interferometer. The use of full counting statistics allows us to understand how the correlations occur, and its application to the case of the Andreev Interferometer exhibits a very good agreement between theory and experiment.",
+  "authors": [
+    "B. Reulet",
+    "D. E. Prober",
+    "W. Belzig"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0210269.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0210269.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.334505+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0210269",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

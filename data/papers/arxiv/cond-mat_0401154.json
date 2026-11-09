@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0401154",
+  "title": "Thermal Spin Valves",
+  "abstract": "The ability of an insulating solid to conduct heat is rarely effected by the application of a magnetic field. We have found, however, that the low temperature heat conduction of some solids increases by more than a factor of two with the application of a modest magnetic field. The effect occurs in low-dimensional magnetically ordered materials when a small gap, δ, in the acoustic magnon (spin wave) spectra is closed using a magnetic field H > δ/gμ_B. Since all magnetically ordered materials must have a gap in the magnon spectra for magnons with k = 0, this may be a very general effect. Extra heat is carried through the solid only when the magentic field exceeds the critical value (H > δ/gμ_B). At this critical field the tiny atomic magnets in the solid abruptly change the direction they point which results in more heat flowing through the material. The magnetic field thus acts as a heat switch. We have observed this effect in three quite different magnetically ordered materials: K_2V_3O_8, Nd_2CuO_4 and Pr_2CuO_4. Several possible explanations for these effects will be discussed.",
+  "authors": [
+    "B. Sales",
+    "R. Jin",
+    "D. Mandrus"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0401154.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0401154.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.939299+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0401154",
+    "categories": [
+      "cond-mat.str-el"
+    ]
+  }
+}

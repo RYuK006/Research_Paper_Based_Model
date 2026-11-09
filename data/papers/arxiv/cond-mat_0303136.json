@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0303136",
+  "title": "Variational cluster approach to correlated electron systems in low dimensions",
+  "abstract": "A self-energy-functional approach is applied to construct cluster approximations for correlated lattice models. It turns out that the cluster-perturbation theory (Senechal et al, PRL 84, 522 (2000)) and the cellular dynamical mean-field theory (Kotliar et al, PRL 87, 186401 (2001)) are limiting cases of a more general cluster method. Results for the one-dimensional Hubbard model are discussed with regard to boundary conditions, bath degrees of freedom and cluster size.",
+  "authors": [
+    "M. Potthoff",
+    "M. Aichhorn",
+    "C. Dahnken"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevLett.91.206402",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0303136.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0303136.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:11.022333+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0303136",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ]
+  }
+}

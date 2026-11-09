@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0202518",
+  "title": "Noise and decoherence in quantum two-level systems",
+  "abstract": "Motivated by recent experiments with Josephson-junction circuits we reconsider decoherence effects in quantum two-level systems (TLS). On one hand, the experiments demonstrate the importance of 1/f noise, on the other hand, by operating at symmetry points one can suppress noise effects in linear order. We, therefore, analyze noise sources with a variety of power spectra, with linear or quadratic coupling, which are longitudinal or transverse relative to the eigenbasis of the unperturbed Hamiltonian. To evaluate the dephasing time for transverse 1/f noise second-order contributions have to be taken into account. Manipulations of the quantum state of the TLS define characteristic time scales. We discuss the consequences for relaxation and dephasing processes.",
+  "authors": [
+    "Alexander Shnirman",
+    "Yuriy Makhlin",
+    "Gerd Schön"
+  ],
+  "year": 2002,
+  "doi": "10.1238/Physica.Topical.102a00147",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.supr-con",
+    "quant-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0202518.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0202518.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.108612+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0202518",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.supr-con",
+      "quant-ph"
+    ]
+  }
+}

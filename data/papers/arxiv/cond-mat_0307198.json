@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0307198",
+  "title": "Dephasing of entangled electron-hole pairs in a degenerate electron gas",
+  "abstract": "A tunnel barrier in a degenerate electron gas was recently discovered as a source of entangled electron-hole pairs. Here, we investigate the loss of entanglement by dephasing. We calculate both the maximal violation E_max of the Bell inequality and the degree of entanglement (concurrence) C. If the initially maximally entangled electron-hole pair is in a Bell state, then the Bell inequality is violated for arbitrary strong dephasing. The same relation E_max=2\\sqrt{1+C^{2}} then holds as in the absence of dephasing. More generally, for a maximally entangled superposition of Bell states, the Bell inequality is satisfied for a finite dephasing strength and the entanglement vanishes for somewhat stronger (but still finite) dephasing strength. There is then no one-to-one relation between E_max and C.",
+  "authors": [
+    "J. L. van Velsen",
+    "M. Kindermann",
+    "C. W. J. Beenakker"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat",
+    "quant-ph"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0307198.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0307198.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:45.246277+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0307198",
+    "categories": [
+      "cond-mat",
+      "quant-ph"
+    ]
+  }
+}

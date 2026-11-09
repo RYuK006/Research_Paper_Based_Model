@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0303176",
+  "title": "Connecting Berry's phase and the pumped charge in a Cooper pair pump",
+  "abstract": "The properties of the tunnelling-charging Hamiltonian of a Cooper pair pump are well understood in the regime of weak and intermediate Josephson coupling, i.e. when $E_{\\mathrm{J}}\\lesssim E_{\\mathrm{C}}$. It is also known that Berry's phase is related to the pumped charge induced by the adiabatical variation of the eigenstates. We show explicitly that pumped charge in Cooper pair pump can be understood as a partial derivative of Berry's phase with respect to the phase difference $ϕ$ across the array. The phase fluctuations always present in real experiments can also be taken into account, although only approximately. Thus the measurement of the pumped current gives reliable, yet indirect, information on Berry's phase. As closing remarks, we give the differential relation between Berry's phase and the pumped charge, and state that the mathematical results are valid for any observable expressible as a partial derivative of the Hamiltonian.",
+  "authors": [
+    "M. Aunola",
+    "J. J. Toppari"
+  ],
+  "year": 2003,
+  "doi": "10.1103/PhysRevB.68.020502",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0303176.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0303176.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:11.047411+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0303176",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

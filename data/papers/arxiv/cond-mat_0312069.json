@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0312069",
+  "title": "Microwave Response of Ceramic MgB2 Samples",
+  "abstract": "The microwave response of ceramic MgB2 has been investigated as a function of temperature and external magnetic field by two different techniques: microwave surface impedance and second-harmonic emission measurements. The measurements of the surface resistance have shown that microwave losses in MgB2 are strongly affected by the magnetic field in the whole range of temperatures below Tc, even for relatively low field values. The results have been accounted for in the framework of the Coffey and Clem model hypothesizing that in different temperature ranges the microwave current induces fluxons to move in different regimes. In particular, the results at temperatures close to Tc have been quantitatively justified by assuming that fluxons move in the flux-flow regime and taking into account the anisotropy of the upper critical field. At low temperatures, the field dependence of the surface resistance follows the law expected in the pinning limit; however, an unusually enhanced field variation has been detected, which could be due to the peculiar fluxon structure of MgB2, related to the presence of the two gaps. The measurements of the second-harmonic signals have highlighted several mechanisms responsible for the nonlinear response. At low magnetic fields and low temperatures, the nonlinear response is due to processes involving weak links. At temperatures close to Tc, a further contribution to the harmonic emission is present; it arises from the modulation of the order parameter by the microwave field and gives rise to a peak in the temperature dependence of the harmonic-signal intensity.",
+  "authors": [
+    "A. Agliolo Gallitto",
+    "G. Bonsignore",
+    "S. Fricano",
+    "M. Guccione",
+    "M. Li Vigni"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0312069.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0312069.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.468292+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0312069",
+    "categories": [
+      "cond-mat.supr-con"
+    ]
+  }
+}

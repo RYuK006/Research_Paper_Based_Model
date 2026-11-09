@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0106304",
+  "title": "A critical evaluation of dynamic fracture simulations using cohesive surfaces",
+  "abstract": "Finite element calculations of dynamic fracture based on embedding cohesive surfaces in a continuum indicate that the predictions are sensitive to the cohesive law used. Simulations were performed on a square block in plane strain with an initial edge crack loaded at a constant rate of strain. Cohesive laws that have an initial elastic response were observed to produce spontaneous branching at high velocity, but to modify the linear elastic properties of the body. As a consequence the cohesive surface spacing cannot be refined arbitrarily and becomes an important length scale in the simulations. Cohesive laws that are initially rigid do not alter the linear elastic response of the body. However, crack branching behavior was not observed when such a cohesive relation was implemented using a regular finite element mesh.",
+  "authors": [
+    "Michael L. Falk",
+    "Alan Needleman",
+    "James R. Rice"
+  ],
+  "year": 2001,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0106304.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0106304.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:05.808932+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0106304",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

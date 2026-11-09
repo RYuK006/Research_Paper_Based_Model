@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0406373",
+  "title": "Noncollinear magnetic order in quasicrystals",
+  "abstract": "Based on Monte-Carlo simulations, the stable magnetization configurations of an antiferromagnet on a quasiperiodic tiling are derived theoretically. The exchange coupling is assumed to decrease exponentially with the distance between magnetic moments. It is demonstrated that the superposition of geometric frustration with the quasiperiodic ordering leads to a three-dimensional noncollinear antiferromagnetic spin structure. The structure can be divided into several ordered interpenetrating magnetic supertilings of different energy and characteristic wave vector. The number and the symmetry of subtilings depend on the quasiperiodic ordering of atoms.",
+  "authors": [
+    "E. Y. Vedmedenko",
+    "U. Grimm",
+    "R. Wiesendanger"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevLett.93.076407",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.dis-nn",
+    "cond-mat.stat-mech"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0406373.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0406373.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.501496+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0406373",
+    "categories": [
+      "cond-mat.dis-nn",
+      "cond-mat.stat-mech"
+    ]
+  }
+}

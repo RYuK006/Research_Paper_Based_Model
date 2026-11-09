@@ -1,0 +1,33 @@
+{
+  "id": "arxiv:cond-mat/0405324",
+  "title": "Field dependence of the microwave resistivity in SmBaCuO thin films",
+  "abstract": "We report measurements of the microwave complex resistivity at 48 GHz in SmBaCuO thin films. Measurements are performed with a moderate magnetic field, $μ_{0}H<$ 0.8T, applied along the c-axis. We find that the complex resistivity presents clear sublinear field dependences, and that the imaginary part is remarkably sensitive to the moderate magnetic field. Interpretation considering an unusually strong pinning leads to very anomalous field dependences of the single-vortex viscosity and of the pinning constant. By contrast, allowing for a significant effect of the magnetic field on the depletion of the condensate, the data are quantitatively described by simple free-flux flow model, supplemented with two-fluid conductivity. In this frame, we obtain the vortex viscosity from the data. We compare vortex viscosity in SmBaCuO and in YBaCuO.",
+  "authors": [
+    "E. Silva",
+    "N. Pompeo",
+    "L. Muzzi",
+    "R. Marcon",
+    "S. Sarti",
+    "M. Boffa",
+    "A. M. Cucolo"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0405324.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0405324.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.117732+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0405324",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

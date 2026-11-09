@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0212154",
+  "title": "New principles of radiation damage and recovery based on the radiation induced emission of Schottky defects",
+  "abstract": "New concept of radiation-induced emission of Schottky defects from extended defects is proposed, which acts in the opposite direction compared with Frenkel pair production, and it results in the radiation-induced recovery processes. The vacancy emission from a void surface results in a shrinkage of the void which is analogous to the thermal void shrinkage at high temperatures, but it is expected to operate at low and medium temperatures and high sink densities, when the radiation-induced vacancy emission from sinks becomes comparable with the absorption of Frenkel defects produced in the bulk. As a result, the void growth becomes negative below a threshold temperature (or above a threshold flux), and saturates after a threshold irradiation dose, at a level, which depends on the type of material. These effects have been observed experimentally for a long time but could not be explained by the conventional theory. One of the technologically important consequences of the new concept is a mechanism of irradiation creep, based on the radiation and stress induced preference emission, which is essentially temperature independent in contrast to the well-known SIPA or elastodiffusion mechanisms that can yield a significant irradiation creep only when recombination is negligible. The efficiency of the radiation-induced Schottky defect emission is different for different types of materials, which is shown to be one of the major causes of their different responses to irradiation.",
+  "authors": [
+    "Vladimir Dubinko"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0212154.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0212154.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:09.958828+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0212154",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

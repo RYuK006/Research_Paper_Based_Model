@@ -1,0 +1,27 @@
+{
+  "id": "arxiv:cond-mat/0207544",
+  "title": "Paramagnetic State of Degenerate Double Exchange Model: a Non-Local CPA Approach",
+  "abstract": "The off-diagonal disorder caused by random spin orientations in the paramagnetic (PM) state of the double exchange (DE) model is described by using the coherent-potential-approximation (CPA), which is combined with the variational mean-field approach for the Curie temperature (T_C). Our CPA approach is essentially non-local and based on the perturbation theory expansion for the T-matrix with respect to the fluctuations of hoppings from the ''mean values'' specified by matrix elements of the self energy, so that in the first order it becomes identical to the DE theory by de Gennes. The second-order effects, considered in the present work, can be viewed as an extension of this theory. They are not negligible, and lead to a substantial reduction of T_C in the one-orbital case. Even more dramatic changes are expected in the case of orbital degeneracy, when each site of the cubic lattice is represented by two e_g orbitals, which also specify the form of interatomic transfer integrals. Particularly, the existence of two Van Hove singularities in the spectrum of degenerate DE model may lead to the branching of CPA solutions, when the Green function and the self energy become double-valued functions in certain region of the complex plane. Such a behavior can be interpreted as an intrinsic inhomogeneity of the PM state, which consists of two phases characterized by different electronic densities. The phase separation occurs below certain transition temperature, T_P, and naturally explains the appearance of several magnetic transition points, which are frequently seen in manganites.",
+  "authors": [
+    "I. V. Solovyev"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0207544.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0207544.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:39.658727+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0207544",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

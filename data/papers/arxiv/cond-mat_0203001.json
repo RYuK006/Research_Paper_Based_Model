@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0203001",
+  "title": "Magnetization of a D.C. biased quantum dot",
+  "abstract": "Using a quantum generalization of the Onsager principle of microscopic reversibility, the magnetization of a system in a non-equilibrium steady state quantum dot is formulated as a response of the interaction energy to an external field. This formulation permits a direct and compact computation of the steady-state magnetization of a non-equilibrium quantum dot as a differential of the interaction energy. Unlike the direct computation of the magnetization using perturbative Keldysh methods, this approach does not require the use of a point splitting procedure. Our results nevertheless support earlier calculations made in the limit of zero field, and they support the survival of strong coupling to arbitrarily large voltages, both at zero field, and under the conditions where the chemical potential difference $eV$ becomes equal to the spin-flip energy in a field $eV = g μ_{B}B$.",
+  "authors": [
+    "P. Coleman",
+    "W. Mao"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0203001.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0203001.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:38.118079+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0203001",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.str-el"
+    ]
+  }
+}

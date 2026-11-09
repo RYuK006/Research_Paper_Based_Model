@@ -1,0 +1,25 @@
+{
+  "id": "arxiv:cond-mat/0311003",
+  "title": "Coherence of trapped one-dimensional (quasi-)condensates and acontinuous atom lasers in waveguides",
+  "abstract": "We present a model for a continuous atom laser in a one-dimensional waveguide. The beam is formed by continuous Raman outcoupling of a trapped one-dimensional (quasi-)condensate, which is created by imposing a tightly confining transverse optical potential on a three-dimensional magnetically trapped ultracold thermal gas. The trapped (quasi-)condensate is modelled by a stochastic Langevin equation, in which pumping arises naturally from the surrounding three-dimensional thermal cloud, which acts as its heat bath. When the outcoupling is turned on, such pumping leads to continuous replenishing of the (quasi-)condensate, and thus to a steady-state operation for the atom laser, which is described by a nonlinear Schroedinger equation, coupled to the Langevin equation for the (quasi-)condensate. This model is used to study the temporal and spatial evolution of the coherence length of the (quasi-)condensate and the atom laser over the entire system.",
+  "authors": [
+    "N. P. Proukakis"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0311003.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0311003.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:15.083510+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0311003",
+    "categories": [
+      "cond-mat"
+    ]
+  }
+}

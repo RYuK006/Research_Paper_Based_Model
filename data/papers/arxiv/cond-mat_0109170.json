@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0109170",
+  "title": "On complex permittivity of dilute random binary dielectric mixtures in two-dimensions",
+  "abstract": "Influence of number of particles considered in numerical simulations on complex dielectric permittivity of binary dilute dielectric mixtures in two-dimensions are reported. In the simulations, dodecagons (polygons with 12-sides) were used to mimic disk-shaped inclusions. Using such an approach we were able to consider $16^2$ particles in a unit-square. The effective dielectric permittivity of the mixtures were calculated using the finite element at two different frequecies which were much higher and lower than the characteristic relaxation rate of the Maxwell-Wagner-Sillars polarization. The results were compared to an analytical solution. It was found that the permittivity values at low frequencies were inside Wiener bounds however they violated the Hashin-Shtrikman bounds.",
+  "authors": [
+    "Enis Tuncer",
+    "Emre Tuncer"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.dis-nn"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0109170.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0109170.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.392193+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0109170",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.dis-nn"
+    ]
+  }
+}

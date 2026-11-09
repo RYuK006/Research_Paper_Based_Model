@@ -1,0 +1,32 @@
+{
+  "id": "arxiv:cond-mat/0107275",
+  "title": "Origin of the pseudogap phase: Precursor superconductivity versus a competing energy gap scenario",
+  "abstract": "In the last few years evidence has been accumulating that there are a multiplicity of energy scales which characterize superconductivity in the underdoped cuprates. In contrast to the situation in BCS superconductors, the phase coherence temperature Tc is different from the energy gap onset temperature T*. In addition, thermodynamic and tunneling spectroscopies have led to the inference that the order parameter $Δ_{sc}$ is to be distinguished from the excitation gap $Δ$; in this way, pseudogap effects persist below Tc. It has been argued by many in the community that the presence of these distinct energy scales demonstrates that the pseudogap is unrelated to superconductivity. In this paper we show that this inference is incorrect. We demonstrate that the difference between the order parameter and excitation gap and the contrasting dependences of T* and Tc on hole concentration $x$ and magnetic field $H$ follow from a natural generalization of BCS theory. This simple generalized form is based on a BCS-like ground state, but with self consistently determined chemical potential in the presence of arbitrary attractive coupling $g$. We have applied this mean field theory with some success to tunneling, transport, thermodynamics and magnetic field effects. We contrast the present approach with the phase fluctuation scenario and discuss key features which might distinguish our precursor superconductivity picture from that involving a competing order parameter.",
+  "authors": [
+    "K. Levin",
+    "Qijin Chen",
+    "Ioan Kosztin",
+    "Boldizsar Janko",
+    "Ying-Jer Kao",
+    "Andrew Iyengar"
+  ],
+  "year": 2001,
+  "doi": "10.1016/S0022-3697(02)00223-8",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0107275.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0107275.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:06.030711+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0107275",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ]
+  }
+}

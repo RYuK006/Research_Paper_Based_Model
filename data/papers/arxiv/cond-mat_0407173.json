@@ -1,0 +1,26 @@
+{
+  "id": "arxiv:cond-mat/0407173",
+  "title": "Magnetic relaxation in a model of interacting nanoparticles in terms of microscopic energy barriers",
+  "abstract": "Monte Carlo simulations are used to study the magnetic relaxation of a system of single domain particles with dipolar interactions modeled by a chain of Heisenberg classical spins. We show that the so-called $T\\ln(t/τ_0)$ method can be extended to interacting systems and how, from the computed master relaxation curves, the effective energy barrier distributions responsible for the relaxation can be obtained. A transition from a quasi-logarithmic to power-law behavior of the relaxation as the interaction strength is in-creased is found. By direct computation of the effective energy barriers of the system, we show that this is due to the appearance of an increasing number of small energy barriers caused by the reduction of the anisotropy energy barriers as the local dipolar fields increase.",
+  "authors": [
+    "Oscar Iglesias",
+    "Amilcar Labarta"
+  ],
+  "year": 2004,
+  "doi": "10.1002/pssa.200405486",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0407173.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0407173.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.789980+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0407173",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

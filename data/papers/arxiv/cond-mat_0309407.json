@@ -1,0 +1,31 @@
+{
+  "id": "arxiv:cond-mat/0309407",
+  "title": "Variational cluster approach to spontaneous symmetry breaking: The itinerant antiferromagnet in two dimensions",
+  "abstract": "Based on the self-energy-functional approach proposed recently [M. Potthoff, Eur. Phys. J. B 32, 429 (2003)], we present an extension of the cluster-perturbation theory to systems with spontaneously broken symmetry. Our method applies to models with local interactions and accounts for both short-range correlations and long-range order. Short-range correlations are accurately taken into account via exact diagonalization of finite clusters. Long-range order is described by variational optimization of a ficticious symmetry-breaking field. In comparison with related cluster methods, our approach is more flexible and, for a given cluster size, less demanding numerically, especially at zero temperature. An application of the method to the antiferromagnetic phase of the Hubbard model at half-filling shows good agreement with results from quantum Monte-Carlo calculations. We demonstrate that the variational extension of the cluster-perturbation theory is crucial to reproduce salient features of the single-particle spectrum.",
+  "authors": [
+    "C. Dahnken",
+    "M. Aichhorn",
+    "W. Hanke",
+    "E. Arrigoni",
+    "M. Potthoff"
+  ],
+  "year": 2004,
+  "doi": "10.1103/PhysRevB.70.245110",
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0309407.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0309407.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:46.088419+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0309407",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ]
+  }
+}

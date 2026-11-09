@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0112122",
+  "title": "Coupled mesoscopic superconductors",
+  "abstract": "The magnetic coupling between two concentric mesoscopic superconductors with non-zero thickness is studied using the nonlinear Ginzburg-Landau theory. We calculated the free energy, the expelled field, the total field profile, the Cooper-pair density and the current density distribution. By putting a smaller superconducting disk or ring in the center of a larger ring, the properties change drastically. Extra ground state transitions are found, where the total vorticity stays the same, but the vorticity of the inner superconductor changes by one. Due to the magnetic coupling, the current in the external ring exhibits extra jumps at the transition fields where the vorticity of the inner superconductor changes. In this case, for certain temperatures, re-entrant behaviour and switching on and off of the superconducting behavior of the rings are found as function of the magnetic field. A H-T phase diagram is obtained for the situation where the inner ring has a higher critical temperature than the outer ring. An analytic expression for the magnetic coupling is obtained for thin rings and extreme type-II superconductors.",
+  "authors": [
+    "B. J. Baelus",
+    "S. V. Yampolskii",
+    "F. M. Peeters"
+  ],
+  "year": 2002,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.mes-hall"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0112122.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0112122.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:49:37.493940+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0112122",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.mes-hall"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0301519",
+  "title": "D'yakonov-Perel' spin relaxation under electron-electron collisions in QWs",
+  "abstract": "The D'yakonov-Perel' mechanism of spin relaxation is connected with the spin splitting of the electron dispersion curve in crystals lacking a center of symmetry. In a two-dimensional noncentrosymmetric system, e.g. quantum well or heterojunction, the spin splitting is a linear function of ${\\bm k}$, at least for small values of ${\\bm k}$. We demonstrate that the spin relaxation time $τ_s$ due to the spin splitting is controlled not only by momentum relaxation processes as widely accepted but also by electron-electron collisions which make no effect on the electron mobility. In order to calculate the time $τ_s$ taking into account the electron-electron scattering we have solved the two-dimensional kinetic equation for the electron spin density matrix. We show how the theory can be extended to allow for degenerate distribution of the spin-polarized two-dimensional electron gas.",
+  "authors": [
+    "M. M. Glazov",
+    "E. L. Ivchenko"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.dis-nn"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0301519.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0301519.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:10.596880+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0301519",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.dis-nn"
+    ]
+  }
+}

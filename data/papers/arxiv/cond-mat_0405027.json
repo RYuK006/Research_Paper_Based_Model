@@ -1,0 +1,29 @@
+{
+  "id": "arxiv:cond-mat/0405027",
+  "title": "Kinetics of Diffusion-Limited Reactions with Biased Diffusion in Percolating to Compact Substrates",
+  "abstract": "We studied through Monte Carlo simulations, the kinetics of the two-species diffusion-limited reaction model with same species excluded volume interaction in substrates embedded on a square lattice ranging in occupancy from a fractal percolating structure to the compact limit. We study the time evolution of the concentration of single-particle species for various values of substrate occupancies, 0.5927460, 0.61, 0.63, 0.65, 0.7, 0.8, and 1, where the first value corresponds to the percolating probability of the square lattice. We show that in the diffusion-limited reaction regime, the kinetics strongly depends on the presence of a bias along a particular square lattice direction, representing the net effect of a driving field. We were able to explain the slow dynamics at high values of the driving field in terms of \\emph{traps} appearing in diluted substrates, particularly at the percolation threshold.",
+  "authors": [
+    "N. J. Goncalves",
+    "J. A. M. S. Duarte",
+    "A. Cadilhe"
+  ],
+  "year": 2004,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.mtrl-sci"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0405027.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0405027.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:51:47.003737+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0405027",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.mtrl-sci"
+    ]
+  }
+}

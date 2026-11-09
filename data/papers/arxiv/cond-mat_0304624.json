@@ -1,0 +1,28 @@
+{
+  "id": "arxiv:cond-mat/0304624",
+  "title": "Magnetism and Superconductivity in a Two-band Hubbard Model in Infinite Dimensions",
+  "abstract": "We study a two-band Hubbard model using the dynamical mean-field theory combined with the exact diagonalization method. At the electron density $n=2$, a transition from a band-insulator to a correlated semimetal occurs when the on-site Coulomb interaction $U$ is varied for a fixed value of the charge-transfer energy $Δ$. At low temperature, the correlated semimetal shows ferromagnetism or superconductivity. With increasing doping $|n-2|$, the ferromagnetic transition temperature rapidly decreases and finally becomes zero at a critical value of $n$. The second-order phase transition occurs at high temperature, while a phase separation of ferromagnetic and paramagnetic states takes place at low temperature. The superconducting transition temperature gradually decreases and finally becomes zero near $n=1$ ($n=3$) where the system is Mott insulator which shows antiferromagnetism at low temperature.",
+  "authors": [
+    "Y. Ono",
+    "K. Sano"
+  ],
+  "year": 2003,
+  "doi": null,
+  "source": "arxiv",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.supr-con"
+  ],
+  "citation_count": 0,
+  "open_access_pdf_url": "https://arxiv.org/pdf/cond-mat/0304624.pdf",
+  "local_file_path": "C:\\Users\\Aaron\\Desktop\\Model\\data\\papers\\arxiv\\cond-mat_0304624.json",
+  "download_status": "metadata_only",
+  "collected_at": "2026-11-09T03:50:44.291990+00:00",
+  "raw_metadata": {
+    "raw_arxiv_id": "cond-mat/0304624",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ]
+  }
+}
